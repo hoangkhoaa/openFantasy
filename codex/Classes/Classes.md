@@ -1,16 +1,32 @@
-# Classes in OpenFantasy
+# OpenFantasy Character Classes
 
-In the world of OpenFantasy, classes represent the various paths of power and specialization that individuals can pursue. Each class is a unique harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**, creating a symphony of abilities that defines their role in the world.
+> *"In the world of OpenFantasy, classes represent the various paths of power and specialization that individuals can pursue."*
+
+## Quick Reference
+
+- [Class Structure](#class-structure)
+- [Main Classes](#main-classes)
+- [Class Progression](#class-progression)
+- [Multiclassing](#multiclassing)
+- [Class-Species Interactions](#class-species-interactions)
+
+## Overview
+
+Each class in OpenFantasy represents a unique harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**, creating a symphony of abilities that defines their role in the world.
 
 ## Class Structure
 
-Classes in OpenFantasy are organized into main categories, each with numerous subclasses or career paths that branch out from the core class. These subclasses represent specialized applications of the class's fundamental abilities, like variations on a musical theme.
+Classes are organized into main categories, each with numerous subclasses or career paths that branch out from the core class. These subclasses represent specialized applications of the class's fundamental abilities, like variations on a musical theme.
 
 ## Main Classes
 
 ### [**Warrior**](/codex/Classes/Warrior/Warrior.md)
 
-The Warrior class focuses on physical combat and martial prowess, emphasizing the use of weapons and armor. Warriors channel their [**Exanthis**](/codex/Basic/Exanthis.md) to enhance their physical capabilities, like a powerful drum that drives the rhythm of battle.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Physical combat and martial prowess |
+| **Primary Element** | [**Exanthis**](/codex/Basic/Exanthis.md) |
+| **Metaphor** | A powerful drum that drives the rhythm of battle |
 
 **Subclasses:**
 - [**Guardian**](/codex/Classes/Warrior/Guardian.md) - Defensive specialists who excel at protecting others
@@ -21,7 +37,11 @@ The Warrior class focuses on physical combat and martial prowess, emphasizing th
 
 ### [**Mage**](/codex/Classes/Mage/Mage.md)
 
-The Mage class focuses on magical abilities, emphasizing the manipulation of [**Mana**](/codex/Basic/Mana.md) to cast spells and create magical effects. Mages channel their **Mana Capacity** to shape reality, like a conductor orchestrating the elements.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Magical abilities and spellcasting |
+| **Primary Element** | **Mana Capacity** |
+| **Metaphor** | A conductor orchestrating the elements |
 
 **Subclasses:**
 - [**Elementalist**](/codex/Classes/Mage/Elementalist.md) - Masters of elemental magic (fire, water, earth, air)
@@ -32,7 +52,11 @@ The Mage class focuses on magical abilities, emphasizing the manipulation of [**
 
 ### [**Rogue**](/codex/Classes/Rogue/Rogue.md)
 
-The Rogue class focuses on stealth, precision, and cunning, emphasizing the use of agility and wit. Rogues channel their [**Soul**](/codex/Basic/Soul.md) to enhance their perception and reflexes, like a subtle flute that moves unseen.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Stealth, precision, and cunning |
+| **Primary Element** | [**Soul**](/codex/Basic/Soul.md) |
+| **Metaphor** | A subtle flute that moves unseen |
 
 **Subclasses:**
 - [**Assassin**](/codex/Classes/Rogue/Assassin.md) - Silent killers who eliminate targets without detection
@@ -43,7 +67,11 @@ The Rogue class focuses on stealth, precision, and cunning, emphasizing the use 
 
 ### [**Cleric**](/codex/Classes/Cleric/Cleric.md)
 
-The Cleric class focuses on divine magic and healing, emphasizing the connection to higher powers. Clerics channel their [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** to commune with divine entities, like a choir that bridges the mortal and divine.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Divine magic and healing |
+| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
+| **Metaphor** | A choir that bridges the mortal and divine |
 
 **Subclasses:**
 - [**Healer**](/codex/Classes/Cleric/Healer.md) - Specialists in restorative magic and healing
@@ -54,7 +82,11 @@ The Cleric class focuses on divine magic and healing, emphasizing the connection
 
 ### [**Ranger**](/codex/Classes/Ranger/Ranger.md)
 
-The Ranger class focuses on wilderness survival and combat, emphasizing the connection to nature. Rangers channel their [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) to enhance their connection to the natural world, like a woodwind that echoes the sounds of the forest.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Wilderness survival and combat |
+| **Primary Elements** | [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) |
+| **Metaphor** | A woodwind that echoes the sounds of the forest |
 
 **Subclasses:**
 - [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md) - Companions of animals who fight alongside them
@@ -65,7 +97,11 @@ The Ranger class focuses on wilderness survival and combat, emphasizing the conn
 
 ### [**Artificer**](/codex/Classes/Artificer/Artificer.md)
 
-The Artificer class focuses on creating magical items and devices, emphasizing the fusion of magic and technology. Artificers channel their **Mana Capacity** to imbue objects with magical properties, like a craftsman who creates instruments of power.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Creating magical items and devices |
+| **Primary Element** | **Mana Capacity** |
+| **Metaphor** | A craftsman who creates instruments of power |
 
 **Subclasses:**
 - [**Enchanter**](/codex/Classes/Artificer/Enchanter.md) - Creators of magical enhancements for items
@@ -76,7 +112,11 @@ The Artificer class focuses on creating magical items and devices, emphasizing t
 
 ### [**Bard**](/codex/Classes/Bard/Bard.md)
 
-The Bard class focuses on performance and inspiration, emphasizing the power of music and storytelling. Bards channel their [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** to create magical effects through artistic expression, like musicians who weave magic through their performances.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Performance and inspiration |
+| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
+| **Metaphor** | Musicians who weave magic through their performances |
 
 **Subclasses:**
 - [**Musician**](/codex/Classes/Bard/Musician.md) - Performers who channel magic through music
@@ -87,7 +127,11 @@ The Bard class focuses on performance and inspiration, emphasizing the power of 
 
 ### [**Druid**](/codex/Classes/Druid/Druid.md)
 
-The Druid class focuses on nature magic and shapeshifting, emphasizing the connection to the natural world. Druids channel their [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** to commune with nature and transform their bodies, like a chameleon that adapts to its surroundings.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Nature magic and shapeshifting |
+| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
+| **Metaphor** | A chameleon that adapts to its surroundings |
 
 **Subclasses:**
 - [**Shapeshifter**](/codex/Classes/Druid/Shapeshifter.md) - Transformers who can take the form of animals
@@ -98,7 +142,11 @@ The Druid class focuses on nature magic and shapeshifting, emphasizing the conne
 
 ### [**Monk**](/codex/Classes/Monk/Monk.md)
 
-The Monk class focuses on inner strength and discipline, emphasizing the development of body and mind. Monks channel their [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) to achieve supernatural abilities through training and meditation, like a martial artist who has mastered the flow of energy.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Inner strength and discipline |
+| **Primary Elements** | [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) |
+| **Metaphor** | A martial artist who has mastered the flow of energy |
 
 **Subclasses:**
 - [**Martial Artist**](/codex/Classes/Monk/MartialArtist.md) - Combat specialists who use unarmed techniques
@@ -109,7 +157,11 @@ The Monk class focuses on inner strength and discipline, emphasizing the develop
 
 ### [**Warlock**](/codex/Classes/Warlock/Warlock.md)
 
-The Warlock class focuses on pacts with supernatural entities, emphasizing the acquisition of power through bargains. Warlocks channel their [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** to access the power of their patrons, like a musician who has sold their soul for talent.
+| Aspect | Details |
+|--------|---------|
+| **Focus** | Pacts with supernatural entities |
+| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
+| **Metaphor** | A musician who has sold their soul for talent |
 
 **Subclasses:**
 - [**Fiend Pact**](/codex/Classes/Warlock/FiendPact.md) - Dealers with demonic entities for destructive power
@@ -124,11 +176,13 @@ Classes in OpenFantasy follow a progression system that allows individuals to de
 
 ### Level Tiers
 
-1. **Novice** (Levels 1-5): Beginners who are learning the fundamentals of their class
-2. **Adept** (Levels 6-10): Those who have mastered the basics and are developing specialization
-3. **Expert** (Levels 11-15): Specialists who have honed their abilities to a high degree
-4. **Master** (Levels 16-20): Those who have achieved mastery in their chosen path
-5. **Legendary** (Levels 21+): Individuals whose abilities transcend normal limitations
+| Tier | Levels | Description |
+|------|--------|-------------|
+| **Novice** | 1-5 | Beginners learning fundamentals |
+| **Adept** | 6-10 | Masters of basics developing specialization |
+| **Expert** | 11-15 | Specialists with highly honed abilities |
+| **Master** | 16-20 | Those who have achieved true mastery |
+| **Legendary** | 21+ | Individuals transcending normal limitations |
 
 ## Multiclassing
 
@@ -152,4 +206,6 @@ Different species have natural affinities for certain classes based on their ele
 | **Shadowfolk** | Strong affinity for Rogue, Warlock, and Mage classes |
 | **Giants** | Strong affinity for Warrior and Druid classes |
 
-Understanding the nature of classes provides insight into the diverse paths of power in the world of **OpenFantasy**, like listening to the different melodies that make up the grand symphony of existence.
+---
+
+> Understanding the nature of classes provides insight into the diverse paths of power in the world of **OpenFantasy**, like listening to the different melodies that make up the grand symphony of existence.

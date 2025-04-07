@@ -1,133 +1,125 @@
-# **Mana Purity**: Understanding the Refinement of Magical Energy
+# Mana Purity
 
-In OpenFantasy, the concept of mana purity is central to effective spellcasting. While mana capacity determines how much magical energy a caster can hold, purity determines the quality and effectiveness of that energy when formed into spell patterns.
+> *"The difference between a novice and a master is not the spells they know, but the quality of energy they command."* — Archmage Elindra Winterhaven
 
-## The Nature of Raw Mana
+## Quick Reference
+- [Nature of Raw Mana](#nature-of-raw-mana)
+- [Purification Process](#purification-process)
+- [Purity Levels](#purity-levels)
+- [Practical Applications](#practical-applications)
+- [Training and Aptitude](#training-and-aptitude)
+- [Working with Spell Components](#working-with-spell-components)
 
-Raw, unrefined mana as it exists naturally in the world or within an untrained caster contains various "impurities" that limit its effectiveness:
+## Overview
+
+In OpenFantasy, mana purity determines spell effectiveness. While capacity indicates quantity, purity represents quality—the refinement of magical energy for precise spellcasting.
+
+## Nature of Raw Mana
+
+Raw mana contains impurities that limit spellcasting effectiveness:
 
 ### Sources of Impurity
 
-1. **Elemental Contaminants**: Just as water can dissolve minerals and salts, raw mana naturally contains trace elements from the environment that "cloud" its perfect resonance. These elemental traces create subtle interference patterns that disrupt complex spell formations.
+| Impurity Type | Description | Effect on Spellcasting |
+|---------------|-------------|------------------------|
+| **Elemental Contaminants** | Environmental elements that cloud resonance | Disrupts complex patterns |
+| **Emotional Imprints** | Caster's emotional state creates ripples | Competes with intentional patterns |
+| **Resonance Dissonance** | Competing frequency patterns | Creates "static" interference |
+| **Material Bonds** | Attachments to physical matter | Restricts flow and responsiveness |
+| **Chaotic Fluctuations** | Random energy spikes and drops | Makes consistent casting impossible |
 
-2. **Emotional Imprints**: A caster's emotional state creates ripples in their personal mana pool. These emotional imprints act as disruptive patterns that compete with intentional spell patterns. Strong emotions like fear, anger, or even excessive excitement can significantly reduce effective purity.
+## Purification Process
 
-3. **Resonance Dissonance**: Raw mana contains competing frequency patterns that create interference. This dissonance manifests as "static" in the magical energy that prevents precise pattern formation.
+Mages must master five key disciplines to achieve higher purity:
 
-4. **Material Bonds**: Raw mana forms attachments to physical matter that restrict its flow and responsiveness to the caster's will. These bonds must be broken to achieve higher purity levels.
+1. **Filtration** - Removing elemental contaminants
+2. **Stabilization** - Neutralizing emotional influences
+3. **Harmonic Alignment** - Eliminating frequency dissonance
+4. **Liberation** - Breaking bonds with physical matter
+5. **Equilibrium Maintenance** - Controlling energy fluctuations
 
-5. **Chaotic Fluctuations**: Unpurified mana exhibits random energy spikes and drops that make consistent spellcasting impossible. These fluctuations are particularly problematic for spells requiring stable energy flow.
+## Purity Levels
 
-## The Purification Process
+### Visual and Tactile Characteristics
 
-Purifying mana involves several distinct processes that spellcasters must master:
+| Level | Range | Visual Appearance | Physical Sensation |
+|-------|-------|-------------------|-------------------|
+| **Crude** | 0-10% | Cloudy, murky with visible contaminants | Sluggish, resistant, "thick" |
+| **Basic** | 10-35% | Slightly translucent with swirling impurities | Moderate resistance, "catches" |
+| **Refined** | 35-65% | Clear with minimal disturbances | Smooth flow with minor friction |
+| **Superior** | 65-85% | Crystal clear with harmonic patterns | Effortless flow, responsive |
+| **Perfect** | 85-100% | Pristine clarity with perfect structure | Instantaneous response |
 
-### Filtration
+### Observable Effects of Impurity
 
-The caster must learn to filter out elemental contaminants. This is typically the first skill taught to novice mages, often using visualization techniques such as imagining mana as water passing through progressively finer sieves.
+- **Excess Discharge**: Energy leakage (sparkles/mist during casting)
+- **Color Variations**: Fluctuations in magical effects
+- **Sound Distortion**: Unintended sounds (crackling, humming)
+- **Tactile Effects**: Tingling, heat, or pressure sensations
 
-### Stabilization
+## Practical Applications
 
-Controlling and neutralizing emotional influences is essential for higher purity levels. This requires techniques similar to meditation, where the caster develops emotional discipline to prevent their feelings from tainting their mana supply.
+### Spell Requirements
 
-### Harmonic Alignment
+- **Simple spells**: Function with 10-35% purity (less reliable)
+- **Complex spells**: Require 35-65% purity
+- **Master-level spells**: Demand 65%+ purity
 
-The caster learns to align the frequencies within their mana to eliminate dissonance. This is often taught using musical analogies, with students learning to "tune" their magical energies to achieve harmony.
+### Consequences of Insufficient Purity
 
-### Liberation
+| Shortfall | Outcome | Description |
+|-----------|---------|-------------|
+| Minor | **Diminished Effect** | Works with reduced effectiveness |
+| Moderate | **Pattern Failure** | Spell never forms, wastes energy |
+| Significant | **Unpredictable Result** | Forms incorrectly, unpredictable effects |
+| Critical | **Magical Backlash** | Catastrophic collapse, potentially harmful |
 
-Breaking the bonds between mana and physical matter requires concentrated will. Advanced practitioners can "free" their mana from material constraints, allowing it to respond more fluidly to their intentions.
+### Water Purification Analogy
 
-### Equilibrium Maintenance
+| Water Purity | Application | Mana Equivalent |
+|--------------|-------------|-----------------|
+| Muddy water | Basic irrigation | Crude (0-10%) |
+| Filtered, untreated | Non-potable uses | Basic (10-35%) |
+| Drinking water | Consumption | Refined (35-65%) |
+| Laboratory-grade | Sensitive experiments | Superior (65-85%) |
+| Ultra-pure | Semiconductor manufacturing | Perfect (85-100%) |
 
-Mastering the control of energy fluctuations creates a stable, reliable mana supply. This skill involves maintaining constant awareness of one's internal magical state and making micro-adjustments to preserve balance.
+## Training and Aptitude
 
-## Visualizing Purity Levels
+### Typical Progression
 
-| Purity Level | Visual Appearance to Magic Sense | Physical Sensation During Casting |
-|--------------|----------------------------------|----------------------------------|
-| **Crude** (0-10%) | Cloudy, murky energy with visible contaminants | Sluggish, resistant flow; feels "thick" |
-| **Basic** (10-35%) | Slightly translucent with swirling impurities | Moderate resistance; occasional "catches" |
-| **Refined** (35-65%) | Clear with minimal visible disturbances | Smooth flow with minor friction |
-| **Superior** (65-85%) | Crystal clear with faint harmonic patterns | Effortless flow; responsive to subtle direction |
-| **Perfect** (85-100%) | Pristine clarity with perfect harmonic structure | Instantaneous response; extension of thought |
+| Level | Training Period | Typical Purity |
+|-------|----------------|----------------|
+| **Novice** | 0-2 years | 10-25% |
+| **Journeyman** | 3-5 years | 25-45% |
+| **Adept** | 5-10 years | 45-65% |
+| **Master** | 10+ years | 65-85% |
+| **Archmage** | 20+ years | 85%+ |
 
-## Physical Manifestations of Impurity
+### Species Variations
 
-Impure mana produces observable effects during spellcasting:
+- **Elves**: Natural harmonic alignment (purification advantage)
+- **Dwarves**: Excel at stabilization but struggle with liberation
+- **Humans**: Widest variation in natural ability
+- **Fae**: Inherently pure mana but smaller capacities
 
-- **Excess Discharge**: Less pure mana "leaks" excess energy, often visible as stray sparkles or mist during casting
-- **Color Variations**: Impurities create color fluctuations in visible magical effects
-- **Sound Distortion**: Spells may produce unintended sounds like crackling, humming, or whistling
-- **Tactile Effects**: Casters may feel tingling, heat, or pressure from improperly purified mana
+## Enhancement Methods
 
-## Purity and Spell Requirements
+Various methods can temporarily boost purity:
 
-Each spell has a minimum purity threshold required for successful casting:
+- **Focal objects** (crystals, wands, staffs)
+- **Ritual preparations** (meditation, fasting)
+- **Alchemical elixirs**
+- **Environmental factors** (ley line convergences)
+- **Enhancement buffs**
 
-- **Spells with simple patterns** can function with lower purity (10-35%), though they may be less reliable or powerful
-- **Complex pattern spells** require higher purity (35-65%) to form and maintain their intricate structures
-- **Master-level spells** demand extremely high purity (65%+) due to their delicate and precise configurations
+## Working with Spell Components
 
-Attempting to cast a spell with insufficient mana purity produces four possible outcomes:
+When casting a spell with specific mana type requirements:
 
-1. **Diminished Effect**: The spell works but with reduced effectiveness (minor purity shortfall)
-2. **Pattern Failure**: The spell never properly forms, wasting the expended energy (moderate shortfall)
-3. **Unpredictable Result**: The spell forms incorrectly, producing unpredictable and potentially dangerous effects (significant shortfall)
-4. **Magical Backlash**: The spell collapses catastrophically, potentially harming the caster (critical shortfall)
+1. **Draw** upon mana reserves
+2. **Purify** to required threshold
+3. **Separate** into required elemental types
+4. **Weave** into spell pattern
 
-## Practical Example: Water Purification Analogy
-
-The relationship between mana purity and spellcasting can be understood through the analogy of water purity and its applications:
-
-| Water Purity | Suitable For | Mana Equivalent |
-|--------------|--------------|-----------------|
-| Muddy, turbid water | Basic irrigation | Crude mana (0-10%) |
-| Filtered but untreated | Washing, non-potable uses | Basic mana (10-35%) |
-| Clean drinking water | Consumption, cooking | Refined mana (35-65%) |
-| Laboratory-grade water | Sensitive experiments | Superior mana (65-85%) |
-| Ultra-pure water | Semiconductor manufacturing | Perfect mana (85-100%) |
-
-Just as more sophisticated applications require purer water, more complex spells require purer mana.
-
-## Training and Individual Variations
-
-Mana purification is a trainable skill with both theoretical knowledge and practical components:
-
-- **Novice practitioners** (0-2 years training) typically achieve 10-25% purity
-- **Journeyman mages** (3-5 years training) can reach 25-45% purity
-- **Adept spellcasters** (5-10 years training) consistently achieve 45-65% purity
-- **Master mages** (10+ years training) maintain 65-85% purity
-- **Archmages** (20+ years mastery) can exceed 85% purity
-
-Natural aptitude varies significantly between individuals and species:
-
-- **Elves** possess natural harmonic alignment, making purification easier
-- **Dwarves** excel at stabilization but struggle with liberation
-- **Humans** show the widest variation in natural ability
-- **Fae** have inherently pure mana but smaller capacities
-
-## Enhancing Purity Through External Means
-
-Various methods exist to temporarily boost mana purity beyond a caster's natural ability:
-
-- **Focal objects** (crystals, wands, staffs) can help filter and align mana
-- **Ritual preparations** including meditation, fasting, or specific environments
-- **Alchemical elixirs** temporarily enhance purification ability
-- **Environmental factors** such as ley line convergences naturally purify ambient mana
-- **Enhancement buffs** cast by specialists can elevate another caster's purity level
-
-## The Relationship Between Purity and Spell Mana Types
-
-When a spell requires specific mana types (e.g., "Base Mana 60%, Umbramana 30%, Luxmana 10%"), the caster must:
-
-1. Draw upon their inner mana reserves
-2. Purify this mana to the required threshold
-3. Separate and proportion the mana into the required elemental types
-4. Weave these proportioned energies into the spell pattern
-
-Each step requires skill and precision. The purity requirement applies to each mana type individually - if a spell needs 35% purity and uses multiple mana types, each type must be purified to at least 35%.
-
-## Conclusion
-
-Understanding mana purity provides insight into why magical training follows a progressive path from simple to complex spells, why certain species excel at particular magical disciplines, and why even the most gifted mages require years of practice to master their craft. The pursuit of higher purity is a lifelong journey for dedicated spellcasters, with each incremental improvement unlocking new possibilities in the magical arts. 
+> **Important**: The purity requirement applies to each mana type individually. If a spell requires 35% purity with multiple mana types, each type must be purified to at least 35%. 
