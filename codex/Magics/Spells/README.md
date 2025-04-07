@@ -1,79 +1,122 @@
-# **Spells** in OpenFantasy
+# **Spells Documentation Guide**
 
-Spells in OpenFantasy are structured manifestations of [**Mana**](/codex/Basic/Mana.md), channeled through a practitioner's will and shaped into specific patterns to create predictable, repeatable magical effects. Like musical compositions that can be performed again and again, spells represent codified magical knowledge that can be learned, taught, and refined across generations.
+This directory contains documentation for the various spells available in the OpenFantasy world. Each spell is documented in a standardized format to ensure clarity and consistency.
 
 ## Spell Classification
 
-Spells are classified into several major categories, each representing a different approach to magical manipulation:
+Spells are organized into the following primary categories:
 
-### [**Elemental**](/codex/Magics/Spells/Elemental)
-Spells that manipulate the eight primary elements (Fire, Water, Earth, Air, Light, Shadow, Life, Death). These range from direct manifestations like fireballs to subtle manipulations like warming the air.
+- **Elemental**: Spells that manipulate the primary elements (Fire, Water, Earth, Air, Light, Shadow, Life, Death)
+- **Utility**: Practical spells for everyday tasks and problem-solving
+- **Protection**: Defensive magic that shields, wards, or counters hostile forces
+- **Divination**: Spells that reveal information, enhance perception, or provide insight
+- **Illusion**: Magic that creates false sensory impressions or alters perception
+- **Enchantment**: Spells that imbue objects or beings with magical properties
+- **Transformation**: Magic that changes the physical form or properties of targets
+- **Summoning**: Spells that call creatures, entities, or objects from elsewhere
 
-### [**Utility**](/codex/Magics/Spells/Utility)
-Practical spells that solve everyday problems or enhance normal activities, such as cleaning, repairing, or enhancing objects.
+## Spell Documentation Components
 
-### [**Protection**](/codex/Magics/Spells/Protection)
-Defensive spells that create barriers, wards, shields, and other protective effects against various threats.
+Each spell document follows a standard structure with these components:
 
-### [**Divination**](/codex/Magics/Spells/Divination)
-Spells that reveal hidden information, from simple detection enchantments to complex future-scrying rituals.
+### Basic Information
+- **Title and Brief Description**: The spell's name and a concise overview
+- **Casting Information**: Difficulty level, casting time, duration, range, and components
+- **Technical Details**: Mana types used, purity requirements, pattern complexity, etc.
 
-### [**Illusion**](/codex/Magics/Spells/Illusion)
-Spells that manipulate perception, creating false sensory information ranging from simple visual tricks to immersive alternate realities.
+### Technical Details Explained
 
-## Spell Components
+The technical details section provides crucial information for spellcasters:
 
-Each spell description includes standard components that define how the spell functions:
+#### Mana Type Distribution
 
-### Casting Information
-- **Difficulty**: The level of magical training required (Novice, Adept, Expert, Master, Legendary)
-- **Casting Time**: How long the spell takes to cast (Instant, Rounds, Minutes, Hours, Days)
-- **Duration**: How long the effect lasts (Instantaneous, Concentration, Minutes, Hours, Permanent)
-- **Range**: How far the effect can reach (Touch, Close, Medium, Far, Unlimited)
-- **Components**: What's required to cast (Verbal, Somatic, Material, Focus)
+The proportions of different mana types required for the spell, such as:
+- **Base Mana**: The foundational energy used in most spells
+- **Elemental Mana Types**: Specialized energies (Pyromana, Hydromana, etc.)
 
-### Technical Details
-- **Mana Type**: What form of mana is primarily used (Base Mana, Pyromana, Hydromana, etc.)
-- **Purity Required**: How refined the mana must be (Standard, Refined, Perfect)
-- **Pattern Complexity**: How intricate the magical pattern is (Simple, Moderate, Complex, Intricate)
-- **Resonance Frequency**: What natural magical currents the spell harmonizes with
+For example: "Base Mana (60%), Umbramana (30%), Luxmana (10%)"
 
-### Practical Information
-- **Effect**: What the spell actually does when cast successfully
-- **Variations**: Common modifications or alternative versions of the spell
-- **Risks**: What can go wrong if the spell is miscast
-- **Musical Analogy**: How the spell relates to musical concepts
-- **Historical Note**: Interesting background on the spell's development or use
+This indicates that to cast the spell successfully, a mage must:
+1. Draw on their mana reserves
+2. Separate the mana into these specific proportions
+3. Maintain these proportions throughout the casting process
 
-## Spell Learning and Mastery
+Different mana types contribute different properties to the spell:
+- **Base Mana**: Provides structural stability and basic magical framework
+- **Pyromana**: Contributes heat, energy, and transformative properties
+- **Hydromana**: Adds fluidity, adaptability, and healing aspects
+- **Terramana**: Provides solidity, permanence, and physical manifestation
+- **Aeromana**: Contributes movement, freedom, and range
+- **Luxmana**: Adds illumination, revelation, and purification
+- **Umbramana**: Contributes concealment, subtlety, and psychological effects
+- **Vitaemana**: Adds growth, healing, and enhancement
+- **Mortismana**: Contributes decay, negation, and spiritual manipulation
 
-Learning a spell involves several stages, similar to a musician learning a new piece:
+#### Purity Requirements
 
-1. **Study**: Understanding the theoretical framework and pattern structure
-2. **Practice**: Repeatedly forming the pattern with increasing precision
-3. **Refinement**: Adjusting the casting to one's personal magical signature
-4. **Mastery**: Achieving reliable, efficient casting without reference materials
+The minimum level of mana purity required to successfully cast the spell:
 
-Most spellcasters begin with simple patterns requiring minimal mana purification and progress to more complex workings as their skills develop.
+| Purity Category | Percentage Range | Typical Spell Level |
+|-----------------|------------------|---------------------|
+| Crude | 0-10% | Desperate emergency workings only |
+| Basic | 10-35% | Novice spells |
+| Refined | 35-65% | Adept spells |
+| Superior | 65-85% | Expert spells |
+| Perfect | 85-100% | Master and legendary spells |
 
-## Spell Creation
+Purity affects spell performance in several ways:
+- **Below minimum**: Spell fails or produces unpredictable results
+- **At minimum**: Spell functions but may be less effective or stable
+- **Above minimum**: Spell gains enhanced effectiveness, precision, or duration
 
-New spells can be created through magical research, a process similar to composing new music:
+The purity requirement applies to each mana type involved in the spell. A caster must be able to purify each type of mana to at least the minimum percentage specified.
 
-1. **Conceptualization**: Defining the desired magical effect
-2. **Pattern Design**: Creating an efficient, stable pattern structure
-3. **Testing**: Refining through repeated trials
-4. **Documentation**: Recording the successful pattern for others to learn
+#### Purity Influence on Effect
 
-The creation of a new spell is considered a significant achievement in magical circles, with the most useful or innovative spells bringing considerable prestige to their creators.
+Many spell documents include a section detailing how different purity levels affect the spell's performance. For example:
 
-## Spell Interaction
+| Purity Level | Effect Enhancement |
+|--------------|---------------------|
+| 15-20% | Minimal effectiveness, barely functional |
+| 20-35% | Standard effect as described in the main documentation |
+| 35-50% | Enhanced effectiveness, duration, or precision |
+| 50%+ | Maximum potential of the spell is achieved |
 
-When multiple spells interact, their effects can harmonize or create dissonance:
+### Pattern Structure and Practical Effects
 
-- **Reinforcement**: Complementary patterns that strengthen each other
-- **Interference**: Conflicting patterns that weaken or disrupt each other
-- **Transformation**: Patterns that fundamentally change when they interact
-- **Fusion**: Patterns that merge to create new, emergent effects
+- **Pattern Structure**: The magical configuration that creates the spell effect
+- **Practical Effect**: What the spell actually does when successfully cast
+- **Limitations**: The boundaries and constraints of the spell's capabilities
+- **Applications**: Common ways the spell is used in practical situations
 
-Understanding these interactions is a crucial skill for any advanced spellcaster, like a conductor who must understand how different instrumental sections work together to create a cohesive symphony. 
+### Variations and Learning
+
+- **Variations**: Different versions or modifications of the basic spell
+- **Risks and Miscast Effects**: What happens when the spell goes wrong
+- **Learning Progression**: The typical path to mastering the spell
+- **Historical Note**: Background on the spell's origin and development
+
+## Relationship Between Spells and Character Development
+
+As characters develop their magical abilities, they typically progress through spells in this order:
+
+1. **Novice Spells**: Basic (10-35%) purity, simpler patterns, limited effects
+2. **Adept Spells**: Refined (35-65%) purity, moderate complexity, expanded capabilities
+3. **Expert Spells**: Superior (65-85%) purity, complex patterns, powerful effects
+4. **Master Spells**: Perfect (85%+) purity, intricate patterns, extraordinary capabilities
+
+Character advancement involves:
+- Increasing mana capacity (larger reserves)
+- Improving purification skills (higher quality)
+- Learning more complex spell patterns (greater versatility)
+- Specializing in particular mana types (enhanced effectiveness)
+
+## Magical Research and Spell Creation
+
+Experienced spellcasters can create new spells by:
+1. Researching existing pattern structures
+2. Experimenting with mana type proportions
+3. Testing variations in practical applications
+4. Refining and documenting successful configurations
+
+New spell development requires thorough understanding of mana mechanics, extensive testing, and careful documentation to ensure safety and reliability. 
