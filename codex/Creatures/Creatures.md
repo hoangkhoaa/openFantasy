@@ -5,13 +5,17 @@
 ## Quick Navigation
 
 - [Elemental Components](#elemental-components)
-- [Species Distribution](#species-distribution)
+- [Composition-Based Classification](#composition-based-classification)
 - [Individual Variations](#individual-variations)
-- [Species Classification](#species-classification)
+- [Creature Categories](#creature-categories)
+- [Magical Origins](#magical-origins)
+- [Enhancement Methods](#enhancement-methods)
 
 ## Overview
 
 All creatures in OpenFantasy are composed of three elemental components in varying ratios: [**Exanthis**](/codex/Basic/Exanthis.md) (physical form), [**Soul**](/codex/Basic/Soul.md) (consciousness and willpower), and **Mana Capacity** (ability to manipulate [**Mana**](/codex/Basic/Mana.md)). These ratios determine their abilities, strengths, and weaknesses.
+
+Different categories of beings—from sentient species to plants, from animals to monsters—each exhibit distinctive elemental compositions that influence their place in the world's ecology and society.
 
 ## Elemental Components
 
@@ -31,18 +35,16 @@ Each living being's composition can be understood through the proportion of thre
 | **Soul** | Enhanced consciousness, willpower, and identity | Accelerated soul decay resulting in shorter lifespans |
 | **Mana Capacity** | Higher purity and control of Mana | May result in physical frailty due to lower Exanthis |
 
-## Species Distribution
+## Composition-Based Classification
 
-Different species occupy unique positions on the elemental composition spectrum:
+Creatures in OpenFantasy are classified by their elemental composition and magical nature, rather than traditional biological taxonomies:
 
-| Species | Exanthis | Soul | Mana Capacity | Notable Traits |
-|---------|----------|------|---------------|----------------|
-| **Humans** | 20-55% | 15-45% | 15-60% | Adaptable and balanced |
-| **Elves** | 5-25% | 5-15% | 50-80% | Magically attuned with extended lifespans |
-| **Dwarves** | 50-70% | 20-35% | 5-25% | Physically resilient with strong cultural identity |
-| **Beastfolk** | 35-70% | 15-35% | 15-40% | Physically powerful with strong instincts |
-| **Fae** | 2-10% | 15-35% | 50-80% | Almost pure magical beings |
-| **Dragonkin** | 55-75% | 5-15% | 20-35% | Ancient and powerful |
+| Category | Exanthis | Soul | Mana | Examples |
+|----------|----------|------|------|----------|
+| **Physical Dominant** | 50%+ | Varied | <25% | Dwarves, Giants, Most Animals |
+| **Soul Dominant** | <40% | 40%+ | <40% | Some Humans, Sirens, Gnomes |
+| **Mana Dominant** | <30% | <40% | 50%+ | Elves, Fae, Elementals |
+| **Balanced** | 20-50% | 20-50% | 20-50% | Humans, Some Beastfolk, Hybrid Species |
 
 ## Individual Variations
 
@@ -53,7 +55,98 @@ Within each species, individuals exhibit unique variations in their elemental co
 - **Life Experiences**: Significant events that alter elemental balance
 - **Personal Development**: Intentional cultivation of specific elements
 
-### Common Enhancement Methods
+## Creature Categories
+
+The world of OpenFantasy features diverse beings organized into six primary categories:
+
+### Sentient Species
+
+Intelligent beings capable of forming civilizations, creating culture, and wielding magic through conscious effort:
+
+| Species | Elemental Composition | Notable Traits |
+|---------|----------------------|----------------|
+| [**Humans**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | Adaptability, innovation, balanced capabilities |
+| [**Elves**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | Longevity, magical aptitude, connection to nature |
+| [**Dwarves**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | Physical resilience, craftsmanship, underground mastery |
+| [**Beastfolk**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | Animal traits, heightened senses, natural instincts |
+
+→ See [Sentient Species](/codex/Creatures/Sentient/README.md) for more detailed information.
+
+### Magical Beings
+
+Creatures composed primarily of magical energy or created through magical processes:
+
+| Being | Elemental Composition | Notable Traits |
+|-------|----------------------|----------------|
+| [**Fae**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | Ethereal nature, reality manipulation, otherworldly |
+| [**Elementals**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | Embodiment of natural forces, pure magical essence |
+| [**Dragonkin**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | Ancient lineage, elemental affinity, natural power |
+| [**Golems**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | Constructed bodies, artificial souls, purpose-bound |
+
+→ See [Magical Beings](/codex/Creatures/Magical/README.md) for more detailed information.
+
+### Animals
+
+Non-sentient fauna with varying degrees of intelligence and magical affinity:
+
+| Category | Elemental Composition | Notable Traits |
+|----------|----------------------|----------------|
+| [**Domesticated**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | Human-influenced evolution, trainability |
+| [**Wild**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | Natural instincts, ecological adaptations |
+| [**Aquatic**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | Water adaptation, specialized physiologies |
+| [**Magical**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | Innate magical abilities, supernatural traits |
+
+→ See [Animals](/codex/Creatures/Animals/README.md) for more detailed information.
+
+### Monsters
+
+Dangerous or unnatural creatures that exist outside the normal ecological balance:
+
+| Category | Elemental Composition | Notable Traits |
+|----------|----------------------|----------------|
+| [**Aberrations**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | Unnatural anatomy, reality-warping properties |
+| [**Undead**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | Death-defying, necromantic energy, soul disruption |
+| [**Corrupted**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | Twisted forms, magical contamination, unstable |
+| [**Giants**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | Enormous size, primal strength, elemental connections |
+
+→ See [Monsters](/codex/Creatures/Monsters/README.md) for more detailed information.
+
+### Plants
+
+Flora with unique properties, both magical and mundane:
+
+| Category | Elemental Composition | Notable Traits |
+|----------|----------------------|----------------|
+| [**Mundane**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | Basic flora, ecological foundation |
+| [**Medicinal**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | Healing properties, biological potency |
+| [**Magical**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | Spell components, energy manipulation |
+| [**Sentient**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | Consciousness, mobility, communication |
+
+→ See [Plants](/codex/Creatures/Plants/README.md) for more detailed information.
+
+### Hybrid Beings
+
+Creatures that bridge multiple categories through unique physiologies:
+
+| Being | Elemental Composition | Notable Traits |
+|-------|----------------------|----------------|
+| [**Centaurs**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | Horse-human hybrid, nature wisdom, stamina |
+| [**Merfolk**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | Aquatic adaptation, water magic, dual environment |
+| [**Sirens**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | Sound manipulation, emotional influence, beauty |
+
+→ See [Hybrid Beings](/codex/Creatures/Hybrid/README.md) for more detailed information.
+
+## Magical Origins
+
+The diverse beings of OpenFantasy have various origins that influence their nature and abilities:
+
+- **Primal Species**: Evolved naturally (Humans, Mundane Animals, Wild Plants)
+- **Fae-Touched**: Influenced by fae realms (Elves, Dark Elves, Certain Plants)
+- **Elemental-Infused**: Imbued with elemental power (Giants, Dragonkin, Elemental Flora)
+- **Constructed**: Artificially created (Golems, Certain Undead, Magical Hybrids)
+- **Transformed**: Changed from one form to another (Shadowfolk, Corrupted Beings)
+
+## Enhancement Methods
 
 Various methods exist for beings to enhance specific aspects of their elemental composition:
 
@@ -62,61 +155,22 @@ Various methods exist for beings to enhance specific aspects of their elemental 
 | **Physical Training** | Exanthis | Increases effective Exanthis utilization through disciplined exercise |
 | **Meditation and Will Work** | Soul | Strengthens Soul connection through focused introspection |
 | **Mana Reservoir Expansion** | Mana Capacity | Enhances ability to store and purify Mana through magical exposure |
+| **Harmonization Techniques** | Balance | Improves the integration between elemental components |
+| **Environmental Attunement** | Varies | Adapts composition through prolonged exposure to specific environments |
 
-## Species Classification
+## Regional Ecosystems
 
-The world of OpenFantasy features diverse species, each with their own unique elemental compositions and cultural expressions:
+Creatures tend to form complex ecological relationships within distinct regions:
 
-### Primary Species
-
-| Species | Overview | Document |
-|---------|----------|----------|
-| **Humans** | Adaptable and innovative, with balanced elemental composition | [Humans](/codex/Creatures/Human.md) |
-| **Elves** | Long-lived magical adepts with high Mana Capacity | [Elves](/codex/Creatures/Elves.md) |
-| **Dwarves** | Sturdy craftspeople with high Exanthis content | [Dwarves](/codex/Creatures/Dwarves.md) |
-| **Beastfolk** | Diverse species with animal-like attributes | [Beastfolk](/codex/Creatures/Beastfolk.md) |
-| **Dragonkin** | Descendants of dragons with natural magical affinity | [Dragonkin](/codex/Creatures/Dragonkin.md) |
-
-### Magical Species
-
-| Species | Overview | Document |
-|---------|----------|----------|
-| **Fae** | Ethereal beings of nearly pure magic | [Fae](/codex/Creatures/Fae.md) |
-| **Golems** | Constructed beings with artificial souls | [Golems](/codex/Creatures/Golems.md) |
-| **Sirens** | Vocal enchantresses with sound-based magic | [Sirens](/codex/Creatures/Sirens.md) |
-| **Shadowfolk** | Creatures born of shadow with darkness manipulation | [Shadowfolk](/codex/Creatures/Shadowfolk.md) |
-| **Giants** | Massive beings with elemental affinities | [Giants](/codex/Creatures/Giants.md) |
-
-### Other Notable Species
-
-| Species | Overview | Document |
-|---------|----------|----------|
-| **Dark Elves** | Shadow-attuned elven variant | [Dark Elves](/codex/Creatures/DarkElves.md) |
-| **Centaurs** | Horse-humanoid hybrids | [Centaurs](/codex/Creatures/Centaurs.md) |
-| **Gnomes** | Small, inventive beings | [Gnomes](/codex/Creatures/Gnomes.md) |
-| **Merfolk** | Aquatic humanoids | [Merfolk](/codex/Creatures/Merfolk.md) |
-
-## Taxonomic Understanding
-
-Species in OpenFantasy are classified not by traditional biological taxonomies but by their elemental composition and magical nature:
-
-### Composition-Based Classification
-
-| Category | Exanthis | Soul | Mana | Examples |
-|----------|----------|------|------|----------|
-| **Physical Dominant** | 50%+ | Varied | <25% | Dwarves, Giants, Some Beastfolk |
-| **Soul Dominant** | <40% | 40%+ | <40% | Some Humans, Sirens |
-| **Mana Dominant** | <30% | <40% | 50%+ | Elves, Fae, Shadowfolk |
-| **Balanced** | 20-50% | 20-50% | 20-50% | Humans, Some Beastfolk |
-
-### Magical Origin Classification
-
-- **Primal Species**: Evolved naturally (Humans, Beastfolk)
-- **Fae-Touched**: Influenced by fae realms (Elves, Dark Elves)
-- **Elemental-Infused**: Imbued with elemental power (Giants, Dragonkin)
-- **Constructed**: Artificially created (Golems)
-- **Transformed**: Changed from one form to another (Some Shadowfolk)
+| Region | Dominant Creatures | Ecological Features |
+|--------|-------------------|---------------------|
+| **Ancient Forests** | Elves, Fae, Sentient Plants | Magical symbiosis, layered habitats |
+| **Mountain Realms** | Dwarves, Giants, Stone-based Elementals | Mineral integration, vertical ecosystems |
+| **Coastal Regions** | Merfolk, Aquatic Animals, Sirens | Land-water transition zones |
+| **Wild Plains** | Humans, Beastfolk, Centaurs | Migratory patterns, seasonal variations |
+| **Shadow Lands** | Dark Elves, Shadowfolk, Void Creatures | Light-deficient adaptations, shadow energy |
+| **Magical Nexuses** | Elementals, Aberrations, Magical Plants | Energy saturation, reality distortion |
 
 ---
 
-> Understanding these **Creatures** and their elemental compositions provides insight into the diverse tapestry of life in **OpenFantasy**, like appreciating the various instruments that make up a grand orchestra, each contributing its unique voice to the symphony of existence. 
+> Understanding these creatures and their elemental compositions provides insight into the diverse tapestry of life in OpenFantasy, like appreciating the various instruments that make up a grand orchestra, each contributing its unique voice to the symphony of existence. 
