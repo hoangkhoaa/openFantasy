@@ -1,6 +1,6 @@
 # **Elemental Magic**: The Fundamental Harmonies of Creation
 
-[**Elemental Magic**](/codex/Magics/ElementalMagic.md) represents the most primal and fundamental expression of magical energies in the world of OpenFantasy. Like the basic notes that form the foundation of all musical compositions, the elemental forces provide the building blocks from which all other magic derives its power and expression.
+[**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) represents the most primal and fundamental expression of magical energies in the world of OpenFantasy. Like the basic notes that form the foundation of all musical compositions, the elemental forces provide the building blocks from which all other magic derives its power and expression.
 
 ## The Elemental Octave
 
@@ -18,6 +18,40 @@ The magical world is structured around eight primary elements, each with its own
 | **Death** | Entropic, decay patterns | Deterioration, transformation | Life | Diminishing chords |
 
 These eight elements exist in four pairs of opposing forces, creating the fundamental tensions and harmonies that drive the magical ecosystem of the world.
+
+## Wild Mana and Elemental Forces
+
+At the foundation of all elemental magic lies [**Wild Mana**](/codex/Magics/Core/WildMana.md), the primordial chaos from which the ordered elements emerge. Wild Mana is the raw, unfiltered energy of creation itself, containing within it the potential for all elemental expressions.
+
+### The Shaping of Reality
+
+The unpredictable nature of Wild Mana plays a crucial role in the world's formation and ongoing evolution:
+
+- **Elemental Emergence**: Wild Mana naturally coalesces into elemental patterns based on environmental factors
+- **Spontaneous Manifestation**: Areas with high Wild Mana concentration often display random elemental phenomena
+- **Evolutionary Force**: Wild Mana's chaotic influence drives adaptation and change in magical ecosystems
+- **Creative Potential**: The inherent randomness of Wild Mana ensures infinite variety in elemental expressions
+
+### Dangers of Unfiltered Absorption
+
+Spellcasters who work with elemental forces must exercise extreme caution when drawing upon Wild Mana:
+
+| Risk Level | Consequence | Recovery |
+|------------|-------------|----------|
+| **Minor** | Elemental instability, spell unpredictability | Hours to days |
+| **Moderate** | Temporary elemental corruption, physical symptoms | Days to weeks |
+| **Severe** | Permanent elemental taint, altered magical signature | Months to years |
+| **Critical** | Elemental possession, complete loss of magical control | Potentially permanent |
+
+#### Warning Signs of Wild Mana Contamination:
+
+- Unintended elemental manifestations during spellcasting
+- Elemental effects continuing after spell completion
+- Changes in the caster's elemental affinity
+- Physical mutations reflecting elemental exposure
+- Dreams dominated by elemental chaos
+
+> *"The careless elementalist who skips purification is like a musician who never tunes their instrument—except the discordant notes may set the theater ablaze or flood the orchestra pit."* — Archmage Elindra Winterhaven
 
 ## Elemental Composition and Mana
 

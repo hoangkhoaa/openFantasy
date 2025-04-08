@@ -4,6 +4,7 @@
 
 ## Quick Reference
 - [Nature of Raw Mana](#nature-of-raw-mana)
+- [Wild Mana and Reality Shaping](#wild-mana-and-reality-shaping)
 - [Purification Process](#purification-process)
 - [Purity Levels](#purity-levels)
 - [Practical Applications](#practical-applications)
@@ -16,7 +17,7 @@ In OpenFantasy, mana purity determines spell effectiveness. While capacity indic
 
 ## Nature of Raw Mana
 
-Raw mana contains impurities that limit spellcasting effectiveness:
+Raw mana, also known as [**Wild Mana**](/codex/Magics/WildMana.md), contains impurities that limit spellcasting effectiveness:
 
 ### Sources of Impurity
 
@@ -27,6 +28,52 @@ Raw mana contains impurities that limit spellcasting effectiveness:
 | **Resonance Dissonance** | Competing frequency patterns | Creates "static" interference |
 | **Material Bonds** | Attachments to physical matter | Restricts flow and responsiveness |
 | **Chaotic Fluctuations** | Random energy spikes and drops | Makes consistent casting impossible |
+
+### Wild Mana Concentration Levels
+
+The ambient concentration of Wild Mana varies by location:
+
+| Environment | Concentration | Characteristics | Purification Difficulty |
+|-------------|---------------|-----------------|-------------------------|
+| **Urban Centers** | Low to Moderate | Permeated with emotional imprints | Moderate (emotional filtering) |
+| **Natural Wilderness** | Moderate | Balanced elemental presence | Standard |
+| **Ley Line Confluence** | High | Intense but stable energy | Difficult (volume handling) |
+| **Magical Anomalies** | Very High | Unpredictable, shifting energy | Extremely Difficult |
+| **Wild Magic Zones** | Critical | Dangerous, reality-warping energy | Nearly Impossible |
+
+## Wild Mana and Reality Shaping
+
+The unpredictable and chaotic nature of Wild Mana serves an essential purpose in the magical ecosystem:
+
+### Creative Force
+
+Wild Mana constantly reshapes reality in subtle and occasionally dramatic ways:
+
+- **Evolutionary Catalyst**: Drives magical adaptation in creatures and plants
+- **Environmental Transformation**: Gradually alters landscapes over centuries
+- **Spontaneous Generation**: Creates unique magical phenomena and creatures
+- **Reality Flux**: Maintains flexibility in the fundamental laws of nature
+
+> *"Without the chaos of Wild Mana, our world would be static, unchanging, and ultimately sterile. Its unpredictability is not a flaw—it is the heartbeat of creation itself."* — Archdruid Silvanus Wildroot
+
+### Dangers of Direct Absorption
+
+Attempting to absorb and use unfiltered Wild Mana carries significant risks:
+
+| Exposure Level | Immediate Effects | Long-term Consequences |
+|----------------|-------------------|------------------------|
+| **Minor** | Spell instability, minor side effects | Temporary magical signature disruption |
+| **Moderate** | Physical symptoms, erratic magical discharge | Lingering Wild Mana sensitivity |
+| **Major** | Painful transformation, loss of casting control | Permanent magical signature alteration |
+| **Critical** | Spontaneous wild magic effects, physical mutation | "Wild-touched" condition, uncontrollable magic |
+| **Fatal** | Complete magical meltdown, reality warping | Death or transformation into wild magic entity |
+
+**Warning Signs of Wild Mana Poisoning:**
+- Iridescent mana glow visible beneath the skin
+- Spontaneous minor magical effects when emotional
+- Dreams that manifest physically upon waking
+- Fluctuating magical resonance signature
+- Physical changes reflecting elemental affinities
 
 ## Purification Process
 

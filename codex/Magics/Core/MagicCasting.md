@@ -21,6 +21,18 @@ The collection of raw **Mana** from internal reserves or external sources.
 - **Volume Capacity**: Maximum amount that can be held at once
 - **Stability Maintenance**: Keeping gathered Mana stable until purification
 
+**Wild Mana Risks During Gathering:**
+Wild Mana contamination at this stage can dramatically affect all subsequent casting steps:
+
+| Contamination Level | Effects on Gathering | Possible Consequences |
+|---------------------|----------------------|------------------------|
+| **Minimal** (5-10%) | Slight instability, minor fluctuations | Manageable with standard purification |
+| **Moderate** (10-30%) | Energy surges, inconsistent volume | Requires additional purification cycles |
+| **Significant** (30-50%) | Chaotic flow, potential overflow | Purification may fail, spell instability likely |
+| **Critical** (50%+) | Gathering control lost, energy spikes | Dangerous feedback, spell collapse, physical harm |
+
+> *"The moment of gathering is where the fate of your spell is first decided. Draw carelessly from Wild Mana-saturated environments, and no amount of skill in later stages can fully correct the chaos you've invited."* — Archmage Thalen Windwhisper
+
 ### 2. Purification
 The refinement of raw Mana into a clarified, focused state suitable for patterning.
 
@@ -32,14 +44,25 @@ The refinement of raw Mana into a clarified, focused state suitable for patterni
 - **Runic Stabilization**: Using written symbols to trap and remove impurities
 
 **Purity Levels:**
-| Level | Description | Suitable For | Training Required |
-|------|-------------|--------------|-------------------|
-| **Standard** | Basic functional purity | Common spells, temporary effects | 1-2 years |
-| **Refined** | Enhanced clarity and focus | Complex manipulations, lasting enchantments | 3-5 years |
-| **Perfect** | Absolute purity with no distortion | Healing, soul work, permanent alterations | 10+ years |
+| Level | Description | Wild Mana Content | Suitable For | Training Required |
+|------|-------------|-------------------|--------------|-------------------|
+| **Crude** | Minimal refinement | 90-100% | Unpredictable wild magic only | Untrained |
+| **Basic** | Functional purity | 65-90% | Simple spells, temporary effects | 1-2 years |
+| **Refined** | Enhanced clarity | 35-65% | Complex manipulations, lasting effects | 3-5 years |
+| **Superior** | High precision | 15-35% | Delicate workings, healing magic | 6-10 years |
+| **Perfect** | Absolute purity | 0-15% | Soul work, permanent alterations | 10+ years |
+
+**Consequences of Inadequate Purification:**
+The dangers of proceeding with insufficiently purified mana increase with spell complexity:
+
+- **Pattern Distortion**: Unpredictable alterations to the intended spell effect
+- **Wild Surge**: Eruption of uncontrolled magical energy during casting
+- **Feedback Loop**: Amplification of Wild Mana contamination through resonance 
+- **Spellcaster's Taint**: Temporary or permanent alteration to the caster's magical signature
+- **Reality Warping**: Severe cases can create localized anomalies in the fabric of reality
 
 **Musical Analogy:**
-Purification is like tuning an instrument to perfect pitch or removing static from a recording. The cleaner the magical energy, the more precise and effective the resulting spell.
+Purification is like tuning an instrument to perfect pitch or removing static from a recording. The cleaner the magical energy, the more precise and effective the resulting spell. Wild Mana is the equivalent of environmental noise, feedback, and distortion—sometimes these can create interesting musical effects, but rarely what the composer intended.
 
 ### 3. Patterning
 Shaping purified Mana into specific magical structures that determine the spell's effect.
@@ -52,16 +75,22 @@ Shaping purified Mana into specific magical structures that determine the spell'
 - **Runic Frameworks**: Written symbols that hold parts of the pattern stable
 
 **Pattern Complexity Levels:**
-| Complexity | Components | Effect Range | Maintenance Difficulty |
-|------------|------------|--------------|------------------------|
-| **Simple** | 1-3 elements | Single target, single effect | Low (seconds of concentration) |
-| **Moderate** | 4-7 elements | Area effect, multiple targets | Medium (constant attention) |
-| **Complex** | 8-12 elements | Multiple effects, precise control | High (intense concentration) |
-| **Intricate** | 13-20 elements | System-wide, interlinked effects | Very High (mentally taxing) |
-| **Masterwork** | 21+ elements | Exceptional precision and control | Extreme (few can maintain) |
+| Complexity | Components | Effect Range | Maintenance Difficulty | Wild Mana Tolerance |
+|------------|------------|--------------|------------------------|---------------------|
+| **Simple** | 1-3 elements | Single target, single effect | Low (seconds of concentration) | Up to 35% |
+| **Moderate** | 4-7 elements | Area effect, multiple targets | Medium (constant attention) | Up to 25% |
+| **Complex** | 8-12 elements | Multiple effects, precise control | High (intense concentration) | Up to 15% |
+| **Intricate** | 13-20 elements | System-wide, interlinked effects | Very High (mentally taxing) | Up to 5% |
+| **Masterwork** | 21+ elements | Exceptional precision and control | Extreme (few can maintain) | Less than 2% |
+
+**Wild Mana Effects on Patterns:**
+Residual Wild Mana can cause pattern instability:
+- Simple patterns may develop unexpected additional effects
+- Complex patterns may develop structural weaknesses
+- Intricate patterns may collapse entirely or mutate into unrecognizable forms
 
 **Musical Analogy:**
-Patterning is like composing a musical piece, where each element must be in perfect relation to others. Simple spells are like basic melodies, while complex spells resemble symphonic arrangements.
+Patterning is like composing a musical piece, where each element must be in perfect relation to others. Simple spells are like basic melodies, while complex spells resemble symphonic arrangements. Wild Mana in this stage is like having musicians randomly change notes or tempos during a performance.
 
 ### 4. Resonance
 Aligning the patterned Mana with natural magical frequencies to amplify and stabilize the effect.

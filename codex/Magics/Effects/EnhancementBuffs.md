@@ -19,6 +19,45 @@ All enhancement buffs share common characteristics:
 - **Recovery Period**: A necessary rest period after buff expiration
 - **Balance Principle**: Enhancement of one aspect often reduces others
 
+## Wild Mana and Enhancement Buffs
+
+The relationship between [**Wild Mana**](/codex/Magics/WildMana.md) and enhancement buffs is complex and potentially volatile. While Wild Mana can provide unpredictable boosts to buff potency, it introduces significant risks:
+
+### Wild Mana Amplification
+
+Some practitioners deliberately introduce controlled amounts of Wild Mana into enhancement buffs:
+
+| Technique | Potential Benefit | Risk Factor | Risk Description |
+|-----------|-------------------|-------------|------------------|
+| **Chaos Infusion** | 25-50% increased buff potency | Very High | Unpredictable side effects, duration fluctuations |
+| **Edge Harmonics** | Extended buff duration | High | Potential buff collapse, rebound effects |
+| **Wild Resonance** | Enhanced magical sensitivity | Extreme | Sensory overload, magical signature disruption |
+| **Primal Drawing** | Access to raw magical potential | Critical | Wild Mana contamination, elemental corruption |
+
+> *"Wild Mana doesn't simply enhance your buffs—it transforms them into something neither you nor any text can predict. Those who embrace this path walk a line between unprecedented power and becoming the very chaos they sought to harness."* — Magister Thorne, Specialist in Experimental Enhancements
+
+### Instability Factors
+
+The stability of Wild Mana-enhanced buffs depends on several factors:
+
+- **Practitioner's Experience**: More experienced mages can contain greater Wild Mana ratios
+- **Environmental Conditions**: Magical stability of the casting location
+- **Buff Complexity**: Simpler buffs tolerate more Wild Mana
+- **Personal Resonance**: Individual magical signatures respond differently to Wild Mana
+- **Preparation Time**: Proper containment structures reduce instability
+
+### Wild Enhancement Protocols
+
+Academies that teach Wild Enhancement techniques enforce strict protocols:
+
+1. **Calibration Testing**: Determining a practitioner's personal Wild Mana tolerance
+2. **Containment Training**: Techniques to isolate Wild Mana effects
+3. **Emergency Dispersion**: Methods to safely discharge unstable enhancements
+4. **Incremental Exposure**: Gradually increasing Wild Mana ratios through controlled practice
+5. **Harmonic Stabilization**: Techniques to partially order Wild Mana through resonance
+
+Most reputable magical institutions consider Wild Enhancement techniques experimental and potentially dangerous, requiring special permits and supervision for their practice.
+
 ## Purification Enhancement Buffs
 
 These buffs specifically enhance a caster's ability to purify raw mana, enabling higher levels of magical precision and efficiency.

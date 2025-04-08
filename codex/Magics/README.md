@@ -1,6 +1,82 @@
-# OpenFantasy Magic System
+# **OpenFantasy Magic System**
 
-> *"Magic is not merely a power to be wielded, but a symphony to be conducted."*
+## Directory Structure
+
+```
+codex/Magics/
+├── Core/                            # Fundamental magic concepts
+│   ├── Magic.md                     # Overview of magic system
+│   ├── MagicCasting.md              # The practical art of magical manipulation
+│   ├── ManaMechanics.md             # Technical details of mana function
+│   ├── ManaPurity.md                # Mana quality and purification
+│   ├── ManaRegeneration.md          # Recovery of magical potential
+│   └── WildMana.md                  # Primordial magical energy
+│
+├── Effects/                         # Impact and consequences
+│   ├── WildManaEffects.md           # Dangers of Wild Mana exposure
+│   ├── EnhancementBuffs.md          # Amplifiers of magical potential
+│   └── ElementalEffects.md          # Elemental magic consequences
+│
+├── Schools/                         # Major magical disciplines
+│   ├── Evocation.md                 # Channeling energy for direct effects
+│   ├── Abjuration.md                # Protective and warding magic
+│   ├── Divination.md                # Information gathering and foresight
+│   ├── Enchantment.md               # Influencing minds and enhancing objects
+│   ├── Illusion.md                  # Manipulating perception
+│   └── Conjuration.md               # Creating and summoning
+│
+├── Elements/                        # Elemental forces
+│   ├── ElementalMagic.md            # Fundamental harmonies of creation
+│   ├── FireMagic.md                 # Flame and heat manipulation
+│   ├── WaterMagic.md                # Liquid, ice, and vapor control
+│   ├── EarthMagic.md                # Stone, crystal, and soil mastery
+│   ├── AirMagic.md                  # Wind and atmospheric command
+│   ├── LightMagic.md                # Illumination and radiance
+│   └── ShadowMagic.md               # Darkness and concealment
+│
+├── Spells/                          # Specific spell documentation
+│   ├── README.md                    # Spell classification system
+│   ├── Elemental/                   # Element-based spells
+│   ├── Divination/                  # Information-gathering spells
+│   ├── Protection/                  # Defensive spells
+│   ├── Utility/                     # Practical everyday spells
+│   └── Illusion/                    # Perception-altering spells
+│
+└── Advanced/                        # Higher-level magical concepts
+    ├── Rituals/                     # Complex multi-caster magic
+    ├── MagicalCreation/             # Creating magical objects
+    ├── SoulMagic/                   # Working with spiritual essence
+    └── Metaphysics/                 # Theoretical magical principles
+```
+
+## Quick Navigation
+
+### Fundamental Concepts
+- [Magic Overview](/codex/Magics/Core/Magic.md) - Basic principles and terminology
+- [Casting Process](/codex/Magics/Core/MagicCasting.md) - How magic is performed
+- [Mana Mechanics](/codex/Magics/Core/ManaMechanics.md) - Technical aspects of magical energy
+
+### Practical Applications
+- [Spell Directory](/codex/Magics/Spells/README.md) - Catalog of known spells
+- [Enhancement Techniques](/codex/Magics/Effects/EnhancementBuffs.md) - Improving magical ability
+- [Elemental Manipulation](/codex/Magics/Elements/ElementalMagic.md) - Working with fundamental forces
+
+### Magical Disciplines
+- [Schools of Magic](/codex/Magics/Schools/) - Major magical traditions
+- [Elemental Forces](/codex/Magics/Elements/) - Elemental magic systems
+- [Advanced Practices](/codex/Magics/Advanced/) - Master-level magical concepts
+
+## Magical Progression
+
+Practitioners typically follow this learning path:
+
+1. **Fundamentals**: Understanding mana, basic purification, and simple patterns
+2. **Elemental Affinity**: Developing connection with elemental forces
+3. **School Specialization**: Focusing on one or more magical schools
+4. **Advanced Applications**: Combining techniques for complex effects
+5. **Mastery**: Developing unique magical expressions and innovations
+
+> *"Magic is not merely a collection of spells, but a living system of knowledge built upon fundamental principles that flow together like a grand symphony."* — Archmage Thalen Moonshadow
 
 ## Overview
 
