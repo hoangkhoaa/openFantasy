@@ -106,16 +106,16 @@ The OpenFantasy magic system is built on these core principles:
 
 | Document | Content |
 |----------|---------|
-| [Magic.md](Magic.md) | Overview of magical theory and practice |
-| [MagicCasting.md](MagicCasting.md) | Detailed explanation of the spellcasting process |
-| [ManaPurity.md](ManaPurity.md) | The refinement of magical energy |
-| [ElementalMagic.md](ElementalMagic.md) | The eight primary elements and their properties |
-| [EnhancementBuffs.md](EnhancementBuffs.md) | Magical effects that enhance a caster's abilities |
-| [ManaMechanics.md](ManaMechanics.md) | Technical details connecting capacity, purity, and spell requirements |
+| [Magic.md](/codex/Magics/Core/Magic.md) | Overview of magical theory and practice |
+| [MagicCasting.md](/codex/Magics/Core/MagicCasting.md) | Detailed explanation of the spellcasting process |
+| [ManaPurity.md](/codex/Magics/Core/ManaPurity.md) | The refinement of magical energy |
+| [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) | The eight primary elements and their properties |
+| [EnhancementBuffs.md](/codex/Magics/Effects/EnhancementBuffs.md) | Magical effects that enhance a caster's abilities |
+| [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md) | Technical details connecting capacity, purity, and spell requirements |
 
 ## Spells
 
-The [Spells directory](Spells/) contains documentation for specific magical effects, organized by category:
+The [Spells directory](/codex/Magics/Spells/) contains documentation for specific magical effects, organized by category:
 
 - **Elemental**: Manipulation of the eight primary elements
 - **Utility**: Practical magic for everyday tasks
@@ -126,7 +126,7 @@ The [Spells directory](Spells/) contains documentation for specific magical effe
 - **Transformation**: Physical alterations
 - **Summoning**: Calling entities and objects
 
-→ See the [Spells README](Spells/README.md) for detailed information.
+→ See the [Spells README](/codex/Magics/Spells/README.md) for detailed information.
 
 ## Magical Elements
 

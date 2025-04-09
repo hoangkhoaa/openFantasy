@@ -119,11 +119,14 @@ Classes are organized into main categories, each with numerous subclasses or car
 | **Metaphor** | Musicians who weave magic through their performances |
 
 **Subclasses:**
-- [**Musician**](/codex/Classes/Bard/Musician.md) - Performers who channel magic through music
-- [**Storyteller**](/codex/Classes/Bard/Storyteller.md) - Narrators who weave magic through tales
-- [**Dancer**](/codex/Classes/Bard/Dancer.md) - Artists who express magic through movement
-- [**Poet**](/codex/Classes/Bard/Poet.md) - Wordsmiths who craft magic through verse
-- [**Actor**](/codex/Classes/Bard/Actor.md) - Performers who embody characters with magical presence
+- [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) - Masters of verbal persuasion and perfect oratory
+- [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) - Performers who channel fey enchantment magic
+- [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) - Collectors of knowledge and secrets
+- [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) - Storytellers who channel supernatural entities
+- [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) - Blade dancers who combine combat with performance
+- [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) - Battle performers who inspire courage and heroism
+- [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) - Manipulators of fear and secrets
+- [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) - Artists who create physical objects through performance
 
 ### [**Druid**](/codex/Classes/Druid/Druid.md)
 
@@ -134,11 +137,11 @@ Classes are organized into main categories, each with numerous subclasses or car
 | **Metaphor** | A chameleon that adapts to its surroundings |
 
 **Subclasses:**
-- [**Shapeshifter**](/codex/Classes/Druid/Shapeshifter.md) - Transformers who can take the form of animals
-- [**Elementalist**](/codex/Classes/Druid/Elementalist.md) - Masters of natural elements (earth, water, air, fire)
-- [**Beast Speaker**](/codex/Classes/Druid/BeastSpeaker.md) - Communicators with animals and nature spirits
-- [**Warden**](/codex/Classes/Druid/Warden.md) - Protectors of natural places and their inhabitants
-- [**Harvester**](/codex/Classes/Druid/Harvester.md) - Gatherers of natural resources with magical properties
+- [**Circle of the Land**](/codex/Classes/Druid/Land.md) - Guardians of natural territories
+- [**Circle of the Moon**](/codex/Classes/Druid/Moon.md) - Masters of wild shapeshifting
+- [**Circle of Dreams**](/codex/Classes/Druid/Dreams.md) - Connectors to the fey realms of nature
+- [**Circle of the Shepherd**](/codex/Classes/Druid/Shepherd.md) - Protectors of animals and summoners of nature spirits
+- [**Circle of Spores**](/codex/Classes/Druid/Spores.md) - Controllers of the cycle of life and death
 
 ### [**Monk**](/codex/Classes/Monk/Monk.md)
 
@@ -149,11 +152,11 @@ Classes are organized into main categories, each with numerous subclasses or car
 | **Metaphor** | A martial artist who has mastered the flow of energy |
 
 **Subclasses:**
-- [**Martial Artist**](/codex/Classes/Monk/MartialArtist.md) - Combat specialists who use unarmed techniques
-- [**Mystic**](/codex/Classes/Monk/Mystic.md) - Seekers of spiritual enlightenment and inner power
-- [**Healer**](/codex/Classes/Monk/Healer.md) - Practitioners of healing through energy manipulation
-- [**Ascetic**](/codex/Classes/Monk/Ascetic.md) - Those who gain power through self-denial and discipline
-- [**Elemental Bender**](/codex/Classes/Monk/ElementalBender.md) - Masters of elemental energy through physical discipline
+- [**Way of the Open Hand**](/codex/Classes/Monk/OpenHand.md) - Masters of unarmed combat techniques
+- [**Way of Shadow**](/codex/Classes/Monk/Shadow.md) - Stealthy warriors who manipulate darkness
+- [**Way of the Four Elements**](/codex/Classes/Monk/FourElements.md) - Controllers of elemental energy
+- [**Way of the Kensei**](/codex/Classes/Monk/Kensei.md) - Weapon masters who extend their spirit into their armaments
+- [**Way of Tranquility**](/codex/Classes/Monk/Tranquility.md) - Peaceful mediators who heal and protect
 
 ### [**Warlock**](/codex/Classes/Warlock/Warlock.md)
 
@@ -164,11 +167,11 @@ Classes are organized into main categories, each with numerous subclasses or car
 | **Metaphor** | A musician who has sold their soul for talent |
 
 **Subclasses:**
-- [**Fiend Pact**](/codex/Classes/Warlock/FiendPact.md) - Dealers with demonic entities for destructive power
-- [**Fey Pact**](/codex/Classes/Warlock/FeyPact.md) - Allies of fey creatures for trickster magic
-- [**Great Old One Pact**](/codex/Classes/Warlock/GreatOldOnePact.md) - Servants of ancient cosmic entities
-- [**Celestial Pact**](/codex/Classes/Warlock/CelestialPact.md) - Agents of divine beings for holy power
-- [**Undead Pact**](/codex/Classes/Warlock/UndeadPact.md) - Bound to death itself for necromantic abilities
+- [**The Fiend**](/codex/Classes/Warlock/Fiend.md) - Pact with demonic entities
+- [**The Archfey**](/codex/Classes/Warlock/Archfey.md) - Pact with powerful fey creatures
+- [**The Great Old One**](/codex/Classes/Warlock/GreatOldOne.md) - Pact with ancient cosmic entities
+- [**The Celestial**](/codex/Classes/Warlock/Celestial.md) - Pact with divine beings
+- [**The Hexblade**](/codex/Classes/Warlock/Hexblade.md) - Pact with a sentient weapon or entity of shadow
 
 ## Class Progression
 
