@@ -1,28 +1,43 @@
-# **Rogue**: The Shadows of Subtlety
+# **Rogue**: Masters of Finesse and Stealth
 
-[**Rogues**](/codex/Classes/Rogue/Rogue.md) are the shadows of subtlety, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a subtle flute that moves unseen, they navigate the world with stealth and precision, creating a unique melody of existence that emphasizes agility, wit, and cunning.
+[**Rogues**](/codex/Classes/Rogue/Rogue.md) embody the perfect balance between physical dexterity and cunning intellect. Their existence forms a subtle harmony that favors precision, adaptability, and opportunism rather than raw power or magical might.
 
 ## Elemental Composition
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rogues** forms a harmony that favors agility and perception:
+As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rogues** creates a distinctive harmony that emphasizes adaptability:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 30-50% | The crystalline heart that provides moderate physical strength and exceptional agility |
-| **Soul** | 30-50% | The ethereal essence that shapes a sharp and perceptive consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables limited magical potential |
+| **Exanthis** | 35-50% | Balanced physical foundation providing agility, precision, and reflexes over raw strength |
+| **Soul** | 30-45% | Enhanced consciousness supporting perception, improvisation, and strategic thinking |
+| **Mana Capacity** | 15-30% | Moderate magical potential typically channeled into enhancing stealth, perception, and deception |
 
-This composition grants **rogues** their characteristic agility and perception but limits their magical abilities compared to other classes, like a nimble instrument that produces subtle sounds but cannot play powerful chords.
+This composition grants **rogues** their characteristic versatility and adaptability. Their balanced elemental distribution allows them to excel in situations requiring both physical prowess and mental acuity, though they lack the specialized extremes of other classes.
 
-### Species-Specific Talents
+### Magical Affinity Profile
+
+Rogues typically develop specific affinities that complement their shadowy and adaptive nature:
+
+| Rogue Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+|-----------------|-------------------|---------------------|---------------------|
+| **Shadowblade** | Umbramana (Concealment, Deception) | Aeromana (Silence) | Invisibility, shadow stepping, misdirection |
+| **Infiltrator** | Aeromana (Silence, Lightness) | Umbramana (Concealment) | Soundless movement, feather fall, enhanced agility |
+| **Trickster** | Luxmana (Illusion) | Umbramana (Deception) | Minor illusions, distractions, sensory manipulation |
+| **Poisoner** | Hydromana (Fluid, Mixing) | Terramana (Substance) | Toxin enhancement, alchemical acceleration, substance manipulation |
+| **Acrobat** | Aeromana (Balance, Movement) | Base Mana (Reflex) | Supernatural balance, wall-running, impossible leaps |
+| **Saboteur** | Base Mana (Disruption) | Pyromana (Ignition) | Trap enhancement, mechanical manipulation, controlled detonations |
+
+Rogues typically achieve 50-70% specialization efficiency with their primary affinities, striking a balance between the focused specialization of mages and the practical application of warriors. This middle ground reflects their adaptable nature and diverse skill set.
+
+### Species-Specific Variations
 
 Different species show varying natural inclinations toward the rogue class:
 
-- **Elves** (25% Exanthis, 45% Soul, 30% Mana Capacity): Their grace and perception make them exceptional rogues, particularly as Scouts and Shadowblades.
-- **Humans** (35% Exanthis, 40% Soul, 25% Mana Capacity): Their adaptability allows them to excel in any rogue specialization, though they rarely reach the heights of species with more specialized compositions.
-- **Dark Elves** (20% Exanthis, 40% Soul, 40% Mana Capacity): Their natural stealth and magical affinity make them powerful Assassins and Shadowblades.
-- **Beastfolk** (45% Exanthis, 35% Soul, 20% Mana Capacity): Their physical prowess and enhanced senses make them natural Scouts and Hunters.
-- **Dragonkin** (55% Exanthis, 25% Soul, 20% Mana Capacity): Their physical might makes them formidable Shadowblades, though their size can limit their stealth capabilities.
+- **Humans** (30-45% Exanthis, 35-45% Soul, 15-30% Mana Capacity): Their adaptability makes them versatile rogues capable of mastering various specializations.
+- **Elves** (25-40% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their natural grace and enhanced senses make them exceptional infiltrators and scouts.
+- **Halflings** (30-45% Exanthis, 40-55% Soul, 10-25% Mana Capacity): Their small size and heightened luck make them natural burglars and opportunists.
+- **Kitsune** (25-40% Exanthis, 35-50% Soul, 20-35% Mana Capacity): Their innate affinity for trickery and illusion makes them masterful deceivers.
+- **Changelings** (30-45% Exanthis, 25-40% Soul, 25-40% Mana Capacity): Their natural shapeshifting abilities make them unparalleled infiltrators and spies.
 
 ## Physical Characteristics
 

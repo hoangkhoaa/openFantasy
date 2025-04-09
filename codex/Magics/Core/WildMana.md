@@ -16,7 +16,7 @@ Wild Mana is the primordial, untamed form of magical energy that permeates the n
 - **Instability**: Difficult to control directly due to chaotic nature
 - **Resonance**: Naturally responds to and amplifies emotional states
 
-## The Mana Cycle
+## The Mana Conversion Process
 
 ### Environmental Presence
 Wild Mana forms the foundation of the magical ecosystem, functioning similarly to how air, water, and nutrients sustain physical life:
@@ -24,96 +24,129 @@ Wild Mana forms the foundation of the magical ecosystem, functioning similarly t
 1. **Generation**: Continuously produced by the world itself, particularly at ley line nodes
 2. **Flow**: Moves through natural channels (ley lines) and disperses through the atmosphere
 3. **Concentration**: Gathers around living beings, magical creatures, and places of power
-4. **Absorption**: Drawn in by living creatures through natural processes
+4. **Presence**: Exists in varying concentrations throughout the environment
 
-### Conversion Process
-All magical beings process Wild Mana through a natural biological function:
+### Fundamental Two-Phase Conversion
 
-1. **Absorption**: Beings unconsciously draw in Wild Mana from their surroundings
-2. **Filtration**: Internal processes separate useful energy from chaotic elements
-3. **Refinement**: Conversion into Base Mana that can be stored within the being
-4. **Specialization**: Further processing into elemental mana types based on individual affinity
+The transformation of magical energy follows a strictly defined two-phase process that is essential to understanding all magical practice:
 
-## Purification Mechanics
+#### Phase 1: Wild Mana to Base Mana Conversion
+This is primarily a biological process that occurs in all magical beings:
 
-### Mathematical Expression
-Purity calculations follow the formula:
+1. **Absorption**: Beings draw in Wild Mana from their surroundings
+2. **Filtration**: Internal biological processes separate usable energy from chaotic elements
+3. **Stabilization**: Chaotic patterns are ordered into coherent Base Mana energy
+4. **Storage**: The energy is stored within the being's internal reserves as Base Mana
+
+> **CRITICAL**: Effectiveness is calculated at this phase, measuring how efficiently a being converts Wild Mana to Base Mana. This determines the quantity of magical energy available to a caster.
+
+#### Phase 2: Base Mana to Elemental Mana Conversion
+This is a conscious process that occurs during spellcasting:
+
+1. **Drawing**: Base Mana is pulled from internal reserves into active consciousness
+2. **Specialization**: Base Mana is attuned to specific elemental resonances
+3. **Transformation**: The energy shifts into specialized forms (Elemental Mana)
+4. **Result**: The final mixture contains both specialized Elemental Mana and residual Wild Mana
+
+> **CRITICAL**: Purity is calculated at this phase, measuring the ratio of refined Elemental Mana to residual Wild Mana. This determines the quality and control of the resulting magical effect.
+
+### Base Mana: The Internal Energy Form
+
+**All mana stored within living creatures exists as Base Mana**, not Wild Mana or Elemental Mana. This is a crucial distinction that explains several fundamental aspects of magic:
+
+- Base Mana is stable, neutralized, and can be safely contained within biological systems
+- Direct storage of Wild Mana within a being would cause severe magical trauma
+- Long-term storage of Elemental Mana within a being would cause elemental imbalances
+- All spellcasting begins by drawing from this internal Base Mana reservoir
+
+This Base Mana serves as both:
+- The magical "battery" that determines a being's overall magical capacity
+- The foundation material that will be refined into specialized forms during spellcasting
+
+## Conversion Effectiveness and Purity
+
+### Phase 1: Effectiveness (Wild → Base)
+The effectiveness of Phase 1 conversion determines:
+
+- How much of the absorbed Wild Mana becomes usable Base Mana
+- How quickly a being can replenish their internal mana reserves
+- The efficiency of mana extraction from the environment
+
+Factors affecting effectiveness include:
+- Species and inherent biological processes
+- Training and practiced techniques
+- Current health and energy levels
+- Environmental Wild Mana concentration
+
+### Phase 2: Purity (Base → Elemental)
+The purity achieved during Phase 2 conversion determines:
+
+- How much precision and control a spell exhibits
+- The stability and predictability of magical effects
+- The efficiency of mana usage during spellcasting
+
+Factors affecting purity include:
+- Training and magical education
+- Concentration and mental clarity
+- Compatible elemental affinities
+- Quality of focusing tools or components
+
+### Mathematical Expressions
+
+**Phase 1 (Effectiveness):**
 ```
-Purity Percentage = (Refined Mana) / (Refined Mana + Wild Mana) × 100%
+Effectiveness Percentage = (Base Mana Produced) / (Wild Mana Consumed) × 100%
 ```
 
-When Wild Mana contaminates a spell's pattern, it counts as loss in the efficiency calculation.
+**Phase 2 (Purity):**
+```
+Purity Percentage = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+```
 
-### Visualization of Purification
+### Visualization of Purification Levels
 
-| Purity Level | Wild Mana Content | Description |
-|--------------|-------------------|-------------|
-| 0-10% | 90-100% | Almost entirely Wild Mana with minimal refinement |
-| 10-35% | 65-90% | Significant Wild Mana with basic refinement |
-| 35-65% | 35-65% | Balanced mixture of Wild and refined mana |
-| 65-85% | 15-35% | Mostly refined with minimal Wild Mana content |
-| 85-100% | 0-15% | Almost completely purified with trace Wild Mana |
+| Purity Level | Wild Mana Content | Description | Typical Application |
+|--------------|-------------------|-------------|---------------------|
+| 0-10% | 90-100% | Almost entirely Wild Mana | Unusable for most controlled magic |
+| 10-35% | 65-90% | Basic refinement | Suitable for simple, forgiving spells |
+| 35-65% | 35-65% | Standard refinement | Everyday professional magic use |
+| 65-85% | 15-35% | Advanced refinement | Complex or precision spellcasting |
+| 85-100% | 0-15% | Master-level refinement | Highest tier magical works |
 
-## Wild Mana in Practice
+## Different Approaches to Wild Mana
 
-### Natural Interactions
-- **Seasonal Fluctuations**: Wild Mana concentrations vary with seasons and lunar cycles
-- **Weather Effects**: Storms, particularly lightning, can agitate and concentrate Wild Mana
-- **Geographic Variations**: Some regions have naturally higher or lower Wild Mana content
+Various magical traditions have developed different relationships with Wild Mana:
 
-### Magic Users and Wild Mana
-Different traditions have varying approaches to Wild Mana:
+### Academic Traditions
+- **Philosophy**: Wild Mana is an impurity to be eliminated
+- **Practice**: Focus on maximizing purity during Phase 2
+- **Strength**: Precise, predictable magical effects
+- **Weakness**: May be less adaptable to changing conditions
 
-- **Academic Mages**: View Wild Mana as an impurity to be removed
-- **Druids and Shamans**: Work with Wild Mana's natural properties rather than purifying it completely
-- **Sorcerers**: Often have unusual biological processes that interact differently with Wild Mana
+### Natural Traditions
+- **Philosophy**: Wild Mana is a vital connection to natural forces
+- **Practice**: Intentionally maintain some Wild Mana content in spells
+- **Strength**: More dynamic and adaptable magic
+- **Weakness**: Less precise control over effects
 
-### Practical Applications
-Despite its chaotic nature, Wild Mana has uses:
+### Innate Casters
+- **Philosophy**: Magic is an inherent gift rather than learned technique
+- **Practice**: Often have unique biological Phase 1 processes
+- **Strength**: May achieve unusual effectiveness or specialized effects
+- **Weakness**: Often less consistent than trained practitioners
 
-- **Regenerative Magic**: Healing spells often channel controlled amounts of Wild Mana
-- **Growth Enchantments**: Agricultural enhancements use Wild Mana to promote vitality
-- **Divination**: Wild Mana's connection to natural forces makes it useful for certain types of divination
-- **Chaos Magic**: Advanced practitioners can leverage Wild Mana's unpredictability for unique effects
+## Wild Mana Training Techniques
 
-## Dangers and Anomalies
+### Phase 1 (Effectiveness) Training
+1. **Absorption Meditation**: Improving the intake of Wild Mana
+2. **Channel Clearing**: Removing blockages in internal mana pathways
+3. **Conversion Rituals**: Practicing efficient transformation techniques
+4. **Reserve Expansion**: Gradually increasing Base Mana storage capacity
 
-### Wild Surges
-Exceptionally high concentrations of Wild Mana can cause "wild surges"—spontaneous magical phenomena that occur without a caster. Symptoms include:
-
-- Random elemental manifestations
-- Temporary enhancement of magical beings' abilities
-- Spontaneous activation of dormant magical items
-- Distortion of space and time in extreme cases
-
-### Wild Mana Contamination
-Prolonged exposure to high concentrations can lead to various conditions:
-
-- **Wild-Touched**: Beings exhibiting unpredictable minor magical effects
-- **Mana Fever**: Illness characterized by magical discharges and hallucinations
-- **Wild Corruption**: Physical transformations in extreme cases
-
-## Measuring Wild Mana
-
-### Detection Methods
-- **Enchanted Crystals**: Change color in response to Wild Mana concentration
-- **Trained Familiars**: Sensitive to fluctuations in Wild Mana levels
-- **Specialized Spells**: Such as "Detect Wild Mana" reveal concentrations
-
-### Units of Measurement
-Practitioners use various systems to quantify Wild Mana:
-
-- **Chaotic Index (CI)**: Scientific measure of Wild Mana concentration
-- **Resonance Rating (RR)**: Measure of Wild Mana's interaction with other mana types
-- **Instability Factor (IF)**: Prediction of potential for spontaneous effects
-
-## Training to Handle Wild Mana
-
-Most formal magical education includes techniques for:
-
-1. **Recognition**: Identifying Wild Mana presence and concentration
-2. **Avoidance**: Maintaining casting purity by minimizing Wild Mana influence
-3. **Containment**: Safely handling Wild Mana when encountered
-4. **Utilization**: Advanced techniques for incorporating Wild Mana in specific applications
+### Phase 2 (Purity) Training
+1. **Filtration Exercises**: Mental disciplines for removing Wild Mana contamination
+2. **Pattern Stabilization**: Maintaining clear magical intentions
+3. **Elemental Alignment**: Strengthening affinity with specific elements
+4. **Precision Casting**: Practicing fine control of mana manipulation
 
 > *"Wild Mana is neither good nor evil, neither completely hostile nor completely benign. It simply is—the raw stuff of possibility from which all other magic derives. Learn to respect it, not fear it."* — Elowen Wildroot, Archdruid of the Emerald Circle 

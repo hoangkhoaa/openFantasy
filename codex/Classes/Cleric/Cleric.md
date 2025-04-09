@@ -1,28 +1,43 @@
-# **Cleric**: The Bridges to the Divine
+# **Cleric**: Divine Conduits and Healers
 
-[**Clerics**](/codex/Classes/Cleric/Cleric.md) are the bridges to the divine, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a choir that bridges the mortal and divine, they commune with higher powers, creating a unique melody of existence that emphasizes faith, healing, and divine magic.
+[**Clerics**](/codex/Classes/Cleric/Cleric.md) represent a unique harmony between the material and divine realms. They serve as vessels for divine power while maintaining their mortal perspective, creating a resonant bridge between worldly needs and celestial aid.
 
 ## Elemental Composition
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **clerics** forms a harmony that favors divine connection:
+As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **clerics** creates a distinctive harmony that emphasizes divine channeling:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 15-35% | The crystalline heart that provides moderate physical strength and durability |
-| **Soul** | 30-50% | The ethereal essence that shapes a faithful and devoted consciousness |
-| **Mana Capacity** | 25-45% | The bridge between worlds that enables significant divine magic |
+| **Exanthis** | 25-40% | Solid physical foundation providing endurance and resilience for prolonged divine service |
+| **Soul** | 35-50% | Enhanced spiritual consciousness enabling divine connection, faith, and intuitive understanding |
+| **Mana Capacity** | 25-40% | Significant magical potential optimized for channeling, purifying, and manifesting divine energies |
 
-This composition grants **clerics** their characteristic divine connection but limits their physical capabilities compared to other classes, like a delicate instrument that produces beautiful harmonies but cannot withstand rough handling.
+This composition grants **clerics** their characteristic ability to bridge mortal and divine realms. Their elevated Soul component creates a natural resonance with divine forces, while their balanced Mana Capacity allows them to effectively manifest those forces in the physical world.
 
-### Species-Specific Talents
+### Magical Affinity Profile
+
+Clerics typically develop specific affinities that complement their divine calling and theological orientation:
+
+| Clerical Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+|-----------------|-------------------|---------------------|---------------------|
+| **Healer** | Luxmana (Restoration) | Hydromana (Purification) | Wound mending, disease curing, spiritual cleansing |
+| **Protector** | Base Mana (Barriers) | Terramana (Reinforcement) | Divine shields, wards against evil, sanctuary creation |
+| **Smiter** | Luxmana (Radiance) | Pyromana (Judgment) | Divine strikes, banishment of unholy entities, purifying flames |
+| **Oracle** | Base Mana (Divination) | Luxmana (Clarity) | Prophecy, divine guidance, truth revelation |
+| **Exorcist** | Luxmana (Banishment) | Umbramana (Shadow Binding) | Spirit cleansing, demon banishing, undead turning |
+| **Ritualist** | Base Mana (Sanctification) | Aeromana (Connection) | Blessing ceremonies, consecration, divine summoning |
+
+Clerics typically achieve 60-80% specialization efficiency with their primary affinities, reflecting their focused channeling of divine power. Their ability to purify mana to higher degrees makes them particularly effective at complex divine manifestations that require refined magical energy.
+
+### Species-Specific Variations
 
 Different species show varying natural inclinations toward the cleric class:
 
-- **Elves** (20% Exanthis, 40% Soul, 40% Mana Capacity): Their spiritual nature and magical affinity make them exceptional clerics, particularly as Healers and Oracles.
-- **Humans** (25% Exanthis, 40% Soul, 35% Mana Capacity): Their balanced composition and strong faith make them versatile clerics, capable of excelling in any divine discipline.
-- **Dark Elves** (15% Exanthis, 35% Soul, 50% Mana Capacity): Their exceptional Mana Capacity makes them powerful Inquisitors and Oracles, though their connection to darker forces influences their divine magic.
-- **Dwarves** (35% Exanthis, 35% Soul, 30% Mana Capacity): Their resilience and strong community bonds make them excellent Paladins and Healers.
-- **Beastfolk** (40% Exanthis, 30% Soul, 30% Mana Capacity): Their connection to nature and primal forces makes them natural Shamans, though their limited Mana Capacity restricts their divine magic.
+- **Humans** (25-40% Exanthis, 35-50% Soul, 25-40% Mana Capacity): Their adaptability and spiritual flexibility makes them versatile clerics capable of serving diverse divinities.
+- **Dwarves** (30-45% Exanthis, 40-55% Soul, 15-30% Mana Capacity): Their strong ancestral connections and unwavering resolve make them powerful protectors and ritualists.
+- **Aasimar** (20-35% Exanthis, 40-55% Soul, 30-45% Mana Capacity): Their celestial heritage creates natural affinity for divine channeling, especially with light and healing.
+- **Elves** (20-35% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their longevity and connection to natural cycles make them exceptional oracles and ritualists.
+- **Dragonborn** (30-45% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their inherent connection to primal forces makes them powerful smiters and protectors.
 
 ## Physical Characteristics
 

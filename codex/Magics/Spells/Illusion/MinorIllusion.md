@@ -16,6 +16,38 @@
 - **Minimum Mana Capacity**: 15% (Higher capacity extends possible duration and area)
 - **Pattern Complexity**: Simple (3-tier matrix)
 - **Resonance Frequency**: Mid-range sensory spectrum
+- **Specialization Efficiency Required**: 40%+ (Novice level)
+- **Wild Mana Tolerance**: Up to 15% residual content
+
+## Mana Mechanics
+
+### Base Mana Function
+The Base Mana component (60%) provides:
+- Structural framework for the illusion pattern
+- Stability and duration maintenance
+- Connection to the caster's concentration
+- Boundary definition and spatial anchoring
+
+### Umbramana Function
+The Shadow mana component (30%) contributes:
+- Visual/sensory obscuration capabilities
+- Reality distortion properties
+- Light/perception manipulation
+- Concealment of the magical nature of the effect
+
+### Luxmana Function
+The Light mana component (10%) provides:
+- Visual clarity and detail enhancement
+- Sensory precision and definition
+- Reality mimicry qualities
+- Observer connection hooks
+
+### Specialization Process
+The caster must successfully:
+1. Draw Base Mana from internal reserves
+2. Transform approximately 40% of this Base Mana into specialized forms
+3. Maintain the correct proportional balance (60:30:10)
+4. Establish the harmonics between opposing elements (Umbramana and Luxmana)
 
 ## Pattern Structure
 
@@ -51,6 +83,17 @@ The caster's mana purity directly affects the illusion's quality, believability,
 
 Higher purity also extends potential duration, reduces concentration strain, and minimizes the risk of Wild Mana contamination which can cause unintended sensory effects to bleed into the illusion.
 
+## Mana Capacity Effects
+
+The caster's Mana Capacity influences the spell in several ways:
+
+| Capacity Level | Duration Effect | Size/Range Effect | Quality Effect |
+|----------------|-----------------|-------------------|----------------|
+| 15-25% | Basic duration (up to 5 minutes) | Standard range (15 feet) | Standard quality |
+| 25-40% | Extended duration (up to 10 minutes) | Increased range (20 feet) | Minor detail enhancement |
+| 40-60% | Long duration (up to 20 minutes) | Extended range (25 feet) | Significant detail enhancement |
+| 60%+ | Sustained duration (up to 30 minutes) | Maximum range (30 feet) | Maximum detail potential |
+
 ## Common Applications
 
 - **Distraction**: Creating sounds or visual distractions to divert attention
@@ -62,41 +105,51 @@ Higher purity also extends potential duration, reduces concentration strain, and
 
 ## Variations
 
-| Variation | Effect | Requirements |
-|-----------|--------|--------------|
-| **Silent Image** | Visual illusion only, but with enhanced detail | Standard casting, focus on visual component |
-| **Whisper** | Sound-only version with greater range (30 feet) | Standard casting, focus on auditory component |
-| **Phantom Scent** | Olfactory illusion with increased intensity and complexity | Standard casting, focus on olfactory component |
-| **Ghost Touch** | Tactile illusion with more complex sensation patterns | Standard casting, focus on tactile component |
-| **Persistent Image** | Lasts without concentration for 1 minute | 25%+ purity and increased mana expenditure |
-| **Dual Sense** | Combines two sensory effects simultaneously | 35%+ purity and 20%+ mana capacity |
+| Variation | Effect | Mana Requirements |
+|-----------|--------|-------------------|
+| **Silent Image** | Visual illusion only, but with enhanced detail | 65% Base Mana, 25% Umbramana, 10% Luxmana |
+| **Whisper** | Sound-only version with greater range (30 feet) | 70% Base Mana, 20% Umbramana, 10% Aeromana |
+| **Phantom Scent** | Olfactory illusion with increased intensity | 60% Base Mana, 25% Umbramana, 15% Vitamana |
+| **Ghost Touch** | Tactile illusion with more complex sensation | 55% Base Mana, 35% Umbramana, 10% Terramana |
+| **Persistent Image** | Lasts without concentration for 1 minute | 50% Base Mana, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ purity required |
+| **Dual Sense** | Combines two sensory effects simultaneously | 45% Base Mana, 35% Umbramana, 20% Luxmana; 35%+ purity and 20%+ capacity required |
 
 ## Risks and Miscast Effects
 
 | Risk | Effect | Cause |
 |------|--------|-------|
-| **Sensory Bleed** | Unintended secondary sensory effects | Imprecise pattern formation |
-| **Pattern Collapse** | Illusion dissipates prematurely | Insufficient concentration |
-| **Perception Lock** | Caster temporarily experiences the illusion as real | Wild Mana contamination above 15% |
-| **Sensory Echo** | Illusion repeats at random intervals after dismissal | Improper spell termination |
-| **Detail Drift** | Illusion details gradually change without caster input | Purity below 15% or Wild Mana interference |
-| **Reality Distortion** | Caster's perception of real sensory input becomes temporarily distorted | Critical purity shortage (below 10%) |
+| **Sensory Bleed** | Unintended secondary sensory effects | Imprecise specialization, Base Mana deficiency |
+| **Pattern Collapse** | Illusion dissipates prematurely | Insufficient concentration, unstable Base Mana framework |
+| **Perception Lock** | Caster temporarily experiences the illusion as real | Wild Mana contamination above 15%, improper Umbramana balance |
+| **Sensory Echo** | Illusion repeats at random intervals after dismissal | Improper spell termination, excess Chronomana resonance |
+| **Detail Drift** | Illusion details gradually change without caster input | Purity below 15% or Wild Mana interference with Luxmana component |
+| **Reality Distortion** | Caster's perception of real sensory input becomes temporarily distorted | Critical purity shortage (below 10%), excessive Umbramana specialization |
+
+## Elemental Interactions
+
+Minor Illusion demonstrates several important elemental principles:
+
+1. **Balanced Opposition**: The controlled tension between Umbramana (shadow) and Luxmana (light) creates the realistic visual quality
+2. **Base Mana Framework**: The high proportion of Base Mana (60%) provides stability for the inherently unstable combination of opposed elements
+3. **Harmonic Resonance**: The specific 60:30:10 ratio creates a resonance pattern that mimics natural sensory frequencies
+4. **Specialization Gradient**: The spell uses partially specialized Umbramana and Luxmana rather than pure forms, allowing more subtle effects
 
 ## Musical Analogy
 
-Casting Minor Illusion is like playing a simple melody that listeners can perceive but not interact with. The caster must maintain the rhythm (concentration) to keep the melody playing, while carefully balancing the various sensory "notes" to create a convincing performance. Wild Mana contamination introduces random discordant notes that diminish the performance quality.
+Casting Minor Illusion is like playing a simple melody that listeners can perceive but not interact with. The Base Mana forms the fundamental tone or "carrier note," while the Umbramana and Luxmana create the harmonics that give the illusion its character. The caster must maintain the rhythm (concentration) to keep the melody playing, while carefully balancing the various sensory "notes" to create a convincing performance. Wild Mana contamination introduces random discordant notes that diminish the performance quality.
 
 ## Learning Progression
 
-1. **Pattern Formation**: Learning to create and maintain the basic illusion pattern
-2. **Sensory Clarity**: Refining the illusion to appear more realistic and detailed
-3. **Sustaining Focus**: Extending the duration through improved concentration
-4. **Complexity Development**: Adding subtle details and natural movements
-5. **Adaptation**: Learning to modify the illusion in response to environment
-6. **Purification Techniques**: Methods to reduce Wild Mana contamination for clearer illusions
+1. **Base Mana Structure**: Learning to create and maintain the basic illusion framework
+2. **Umbramana Specialization**: Developing skill in shadow mana conversion for reality distortion
+3. **Luxmana Integration**: Adding light mana elements for detail and clarity
+4. **Harmonic Balancing**: Achieving the precise ratio of elements for stable illusions
+5. **Sensory Precision**: Refining the illusion to appear more realistic and detailed
+6. **Sustaining Focus**: Extending the duration through improved concentration
+7. **Purification Techniques**: Methods to reduce Wild Mana contamination for clearer illusions
 
 ## Historical Note
 
 Minor Illusion was developed by Mirala Shadowweaver during the Second Age as a teaching tool for apprentice illusionists. The spell's simple structure makes it an ideal introduction to perception manipulation, while its limited scope prevents dangerous applications. It remains one of the most commonly taught spells in magical academies across the realm.
 
-*See also: [Illusion Mastery](/codex/Magics/Schools/Illusion.md), [Perception Magic](/codex/Magics/Domains/Perception.md)* 
+*See also: [Illusion School](/codex/Magics/Schools/Illusion.md), [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md)* 

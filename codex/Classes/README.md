@@ -96,18 +96,25 @@ Different species have natural affinities for certain classes based on their ele
 
 Each class features a characteristic elemental composition that shapes their abilities:
 
-| Class | Exanthis | Soul | Mana Capacity |
-|-------|----------|------|---------------|
-| **Warrior** | 50-70% | 20-40% | 5-15% |
-| **Mage** | 10-30% | 20-40% | 40-70% |
-| **Rogue** | 30-50% | 40-60% | 5-15% |
-| **Cleric** | 20-40% | 30-50% | 20-40% |
-| **Ranger** | 40-60% | 30-50% | 5-15% |
-| **Artificer** | 20-40% | 20-40% | 30-50% |
-| **Bard** | 15-35% | 35-55% | 20-40% |
-| **Druid** | 20-40% | 35-55% | 15-35% |
-| **Monk** | 40-60% | 30-50% | 5-15% |
-| **Warlock** | 15-35% | 25-45% | 30-50% |
+| Class | Exanthis | Soul | Mana Capacity | Primary Magical Affinity |
+|-------|----------|------|---------------|--------------------------|
+| **Warrior** | 50-70% | 20-35% | 10-20% | Terramana (Stability), Base Mana (Force) |
+| **Mage** | 10-25% | 15-35% | 50-70% | Varies by specialization |
+| **Rogue** | 30-45% | 40-60% | 10-25% | Umbramana (Concealment), Aeromana (Mobility) |
+| **Cleric** | 20-35% | 30-50% | 25-45% | Luxmana (Light), Vitamana (Healing) |
+| **Ranger** | 35-55% | 30-45% | 15-30% | Vitamana (Nature), Aeromana (Movement) |
+| **Artificer** | 25-40% | 20-35% | 35-55% | Crystallmana (Structure), Terramana (Solidity) |
+| **Bard** | 15-30% | 35-55% | 25-45% | Fulgumana (Sound), Aeromana (Communication) |
+| **Druid** | 20-35% | 30-45% | 30-50% | Vitamana (Growth), Terramana (Earth) |
+| **Monk** | 40-55% | 30-50% | 10-25% | Base Mana (Internal Energy), Aeromana (Movement) |
+| **Warlock** | 15-30% | 25-40% | 40-60% | Aetheramana (Void), Varies by pact |
+
+This elemental balance directly influences a class's natural affinity for certain specialized forms of magic and their overall magical capabilities:
+
+- **Specialization Efficiency**: Classes with higher Mana Capacity typically achieve better elemental specialization rates
+- **Mana Purification**: The ratio of Soul to Mana Capacity affects a class's ability to purify Wild Mana into Base Mana
+- **Magical Stamina**: Higher Exanthis provides better physical endurance but typically reduces magical efficiency
+- **Hybrid Potential**: Classes with more balanced compositions often excel at combining different elemental types
 
 ## Documentation Structure
 

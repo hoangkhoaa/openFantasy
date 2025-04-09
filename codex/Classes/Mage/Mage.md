@@ -1,28 +1,43 @@
-# **Mage**: The Weavers of Arcane Power
+# **Mage**: The Masters of Magical Arts
 
-[**Mages**](/codex/Classes/Mage/Mage.md) are the weavers of arcane power, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a conductor orchestrating the elements, they shape reality through their command of [**Mana**](/codex/Basic/Mana.md), creating a unique melody of existence that emphasizes knowledge, power, and wisdom.
+[**Mages**](/codex/Classes/Mage/Mage.md) are the conductors of arcane energies, their being a finely tuned instrument for channeling and shaping the magical forces that permeate the world. Their existence resonates with the fundamental harmonies of magic, creating a symphony of spellcraft and mystical understanding.
 
 ## Elemental Composition
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **mages** forms a harmony that favors magical prowess:
+As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **mages** creates a distinctive harmony that favors magical prowess:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 10-30% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 20-40% | The ethereal essence that shapes a focused and analytical consciousness |
-| **Mana Capacity** | 40-70% | The bridge between worlds that enables exceptional magical potential |
+| **Exanthis** | 15-30% | Minimal physical foundation supporting a vessel capable of containing vast magical energies |
+| **Soul** | 25-40% | Enhanced consciousness supporting complex spell formulation and magical theory |
+| **Mana Capacity** | 40-60% | Exceptional magical potential allowing for powerful and diverse spell casting |
 
-This composition grants **mages** their characteristic magical prowess but limits their physical capabilities compared to other classes, like a delicate instrument that produces complex melodies but cannot withstand rough handling.
+This composition grants **mages** their characteristic magical potency at the cost of physical resilience. Their bodies are like finely crafted instruments, designed primarily to channel and manipulate magical energies rather than endure physical hardship.
 
-### Species-Specific Talents
+### Magical Affinity Profile
+
+The substantial Mana Capacity of **mages** typically develops along specialized pathways, creating distinct magical traditions:
+
+| Mage Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+|-----------------|-------------------|---------------------|---------------------|
+| **Pyromancer** | Pyromana (Creation, Control) | Aeromana (Expansion) | Fire evocation, heat manipulation, combustion control |
+| **Hydromancer** | Aquamana (Adaptation, Fluidity) | Base Mana (Purification) | Water manipulation, healing, transmutation |
+| **Geomancer** | Terramana (Stability, Structure) | Base Mana (Foundation) | Earth shaping, fortification, crystallization |
+| **Aeromancer** | Aeromana (Freedom, Movement) | Base Mana (Distance) | Wind control, sound manipulation, levitation |
+| **Umbramancer** | Umbramana (Concealment, Density) | Pyromana (Consumption) | Shadow manipulation, void creation, energy absorption |
+| **Luxomancer** | Luxmana (Illumination, Clarity) | Base Mana (Precision) | Light creation, illusion, truth-seeing |
+
+Mages typically achieve 70-90% specialization efficiency with their primary affinities, allowing for much deeper and more nuanced manipulation than other classes. This specialization reflects their dedicated study and natural affinity for magical arts.
+
+### Species-Specific Variations
 
 Different species show varying natural inclinations toward the mage class:
 
-- **Elves** (20% Exanthis, 30% Soul, 50% Mana Capacity): Their natural affinity for magic makes them exceptional mages, particularly as Elementalists and Illusionists.
-- **Humans** (30% Exanthis, 35% Soul, 35% Mana Capacity): Their balanced composition allows them to excel in any magical discipline, though they rarely reach the heights of species with more specialized compositions.
-- **Dark Elves** (15% Exanthis, 25% Soul, 60% Mana Capacity): Their exceptional Mana Capacity makes them powerful Necromancers and Warlocks.
-- **Dragonkin** (40% Exanthis, 20% Soul, 40% Mana Capacity): Their physical might combined with magical potential makes them formidable Elementalists, particularly in fire and lightning magic.
-- **Dwarves** (50% Exanthis, 30% Soul, 20% Mana Capacity): Their limited Mana Capacity restricts their magical abilities, though their resilience allows them to excel as Battle Mages.
+- **Humans** (15-30% Exanthis, 25-40% Soul, 40-55% Mana Capacity): Their adaptability allows them to excel in all magical traditions, though they require more dedicated study.
+- **Elves** (15-25% Exanthis, 30-45% Soul, 45-60% Mana Capacity): Their innate connection to magic makes them natural spellcasters, particularly in nature-related magic.
+- **Gnomes** (20-30% Exanthis, 35-45% Soul, 40-55% Mana Capacity): Their intellectual curiosity makes them exceptional theoretical magicians and innovators.
+- **Sylph** (10-20% Exanthis, 25-40% Soul, 50-65% Mana Capacity): Their elemental nature gives them unparalleled affinity for aeromancy.
+- **Dragonkin** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): Their ancestral connection to dragons grants them natural talent with pyromancy.
 
 ## Physical Characteristics
 

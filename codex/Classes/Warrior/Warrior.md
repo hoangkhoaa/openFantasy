@@ -1,18 +1,43 @@
 # **Warrior**: The Masters of Physical Combat
 
-[**Warriors**](/codex/Classes/Warrior/Warrior.md) are the masters of physical combat, their bodies a powerful harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a powerful drum, they resonate with the rhythm of battle, creating a unique melody of existence that emphasizes strength, skill, and courage.
+[**Warriors**](/codex/Classes/Warrior/Warrior.md) are the embodiments of physical power and martial prowess, their bodies honed through rigorous training and battle experience. Their existence resonates with the material world, creating a symphony of strength, skill, and tactical expertise.
 
 ## Elemental Composition
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **warriors** forms a harmony that favors physical prowess:
+As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **warriors** creates a distinctive harmony that favors physical might:
 
-| Element | Percentage | Function |
+| Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 60% | The crystalline heart that provides exceptional physical strength and durability |
-| **Soul** | 25% | The ethereal essence that shapes a focused and determined consciousness |
-| **Mana Capacity** | 15% | The bridge between worlds that enables limited magical potential |
+| **Exanthis** | 50-70% | Exceptional physical foundation providing superior strength, endurance, and resilience |
+| **Soul** | 20-35% | Balanced consciousness supporting tactical awareness and combat intuition |
+| **Mana Capacity** | 10-25% | Limited magical potential typically channeled into enhancing physical capabilities |
 
-This composition grants **warriors** their characteristic physical prowess but limits their magical abilities compared to other classes, like a powerful instrument that produces strong, clear notes but cannot play complex melodies.
+This composition grants **warriors** their characteristic physical prowess at the cost of magical versatility. Their bodies are like well-forged weapons, designed primarily for physical combat rather than arcane manipulation.
+
+### Magical Affinity Profile
+
+Despite their limited Mana Capacity, **warriors** typically develop specific affinities that complement their martial abilities:
+
+| Warrior Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+|-----------------|-------------------|---------------------|---------------------|
+| **Berserker** | Pyromana (Intensity, Consumption) | Base Mana (Endurance) | Battle fury, enhanced strength, pain suppression |
+| **Guardian** | Terramana (Stability, Protection) | Base Mana (Resilience) | Damage mitigation, defensive stances, immovability |
+| **Duelist** | Aeromana (Speed, Precision) | Luxmana (Awareness) | Enhanced reflexes, precision strikes, battlefield assessment |
+| **Warlord** | Base Mana (Command) | Varies by specialty | Battlefield control, intimidation, tactical coordination |
+| **Weaponmaster** | Base Mana (Extension) | Varies by weapon | Weapon enhancement, specialized techniques, supernatural precision |
+| **Juggernaut** | Terramana (Weight, Momentum) | Pyromana (Force) | Overwhelming attacks, unstoppable charges, ground-breaking strikes |
+
+Warriors typically achieve 40-60% specialization efficiency with their primary affinities, focusing on practical application rather than theoretical mastery. This specialization reflects their combat-oriented training and pragmatic approach to magical energy.
+
+### Species-Specific Variations
+
+Different species show varying natural inclinations toward the warrior class:
+
+- **Humans** (45-65% Exanthis, 20-35% Soul, 10-25% Mana Capacity): Their adaptability allows them to develop diverse fighting styles balanced between strength and technique.
+- **Dwarves** (60-75% Exanthis, 15-25% Soul, 5-15% Mana Capacity): Their natural physical resilience makes them exceptional tanks and heavy weapon specialists.
+- **Orcs** (65-80% Exanthis, 10-20% Soul, 5-15% Mana Capacity): Their raw physical power makes them devastating front-line fighters with exceptional offensive capabilities.
+- **Minotaurs** (70-85% Exanthis, 10-20% Soul, 5-10% Mana Capacity): Their massive frames and natural strength make them unparalleled in terms of raw power and intimidation.
+- **Leonin** (55-70% Exanthis, 20-30% Soul, 10-15% Mana Capacity): Their predatory instincts grant them superior combat reflexes and tactical awareness.
 
 ## Physical Characteristics
 
