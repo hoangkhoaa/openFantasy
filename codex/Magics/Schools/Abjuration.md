@@ -1,212 +1,215 @@
-# **The School of Abjuration**
+# **結界術学派**
 
-> *"To abjure is not merely to say 'no' to harmful forces, but to compose a silence into which discord cannot enter."*  
-> — Grandmaster Isolde Shieldweaver, Warden of the Seven Sanctums
+> *"禁厭（きんえん）とは、有害な力に対して単に「ノー」と言うことではなく、不和が入り込むことのできない静寂を構成することである。"*
+> — グランドマスター イゾルデ・シールドウィーバー、七聖域の守護者
 
-## Overview
+## 概要
 
-Abjuration is the school of protective magic, focused on the creation of defensive barriers, the neutralization of harmful effects, and the banishment of unwanted entities. Unlike other schools that seek to create or transform, abjuration primarily prevents, protects, and preserves. It is considered one of the most technically demanding magical disciplines due to its emphasis on perfect structural integrity and flawless execution.
+結界術は、防御障壁の創造、有害な影響の中和、そして望ましくない存在の追放に焦点を当てた、保護魔法の学派です。創造や変容を求める他の学派とは異なり、結界術は主に予防、保護、そして保存を行います。完璧な構造的完全性と非の打ちどころのない実行を重視するため、最も技術的に要求の厳しい魔法分野の1つと考えられています。
 
-## Fundamental Principles
+## 基本原理
 
-### The Barrier Theorem
+### 障壁定理
 
-At the core of abjuration theory lies the Barrier Theorem, which states that properly structured magical energy can create boundaries that selectively filter or completely block other energies, entities, or effects. These barriers operate on the principle of harmonic opposition—creating frequencies that destructively interfere with incoming magical forces.
+結界術理論の中核にあるのは障壁定理であり、適切に構造化された魔法エネルギーは、他のエネルギー、存在、または効果を選択的にフィルタリングまたは完全に遮断する境界を作成できると述べています。これらの障壁は、調和的対立の原理に基づいて機能し、侵入してくる魔法力と破壊的に干渉する周波数を生成します。
 
-### Primary Components
+### 主要な構成要素
 
-All abjuration spells incorporate three fundamental components:
+すべての結界術呪文は、3つの基本的な構成要素を組み込んでいます。
 
-1. **Boundary Definition**: Establishing the protected space or subject
-2. **Resonant Opposition**: Creating the specific counter-frequencies to the targeted threat
-3. **Structural Integrity**: Maintaining the defensive pattern against pressure or attack
+1. **境界定義**: 保護された空間または対象を確立すること
+2. **共鳴的対立**: 対象となる脅威に対する特定の対抗周波数を生成すること
+3. **構造的完全性**: 圧力または攻撃に対して防御パターンを維持すること
 
-More complex abjurations add additional components:
+より複雑な結界術は、追加の構成要素を追加します。
 
-4. **Selective Permeability**: Allowing specific entities or energies to pass
-5. **Response Protocols**: Automated reactions to specific types of breach attempts
-6. **Regenerative Matrix**: Self-repair capabilities for damaged sections
+4. **選択的透過性**: 特定の存在またはエネルギーの通過を許可すること
+5. **応答プロトコル**: 特定のタイプの違反試行に対する自動化された反応
+6. **再生マトリックス**: 損傷したセクションの自己修復機能
 
-### Mana Requirements
+### マナ要件
 
-Abjuration requires specific combinations of mana types, with purity levels that increase with the potency of the threats being defended against:
+結界術は、マナの特定の組み合わせを必要とし、その純度レベルは、防御する脅威の効力が高まるにつれて増加します。
 
-| Abjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| 結界術の種類 | プライマリーマナ | セカンダリーマナ | ターシャリーマナ | 目的 |
 |-----------------|-------------|----------------|---------------|---------|
-| Personal Shield | Base Mana (50-60%) | Varies by threat | N/A | Individual protection |
-| Area Warding | Base Mana (40-50%) | Terramana (20-30%) | Varies by threat | Location protection |
-| Anti-Magic Field | Base Mana (60-70%) | N/A | N/A | Magic neutralization |
-| Entity Banishment | Base Mana (50-60%) | Varies by entity | Chronosmana (10-20%) | Force removal |
-| Curse Breaking | Base Mana (60-70%) | Matching curse mana | Luxmana (10-20%) | Malefic effect removal |
-| Sanctuary | Base Mana (40-50%) | Luxmana (30-40%) | Aeromana (10-20%) | Complete safe zone |
+| 個人的な盾 | ベースマナ (50-60%) | 脅威によって異なる | N/A | 個人的な保護 |
+| エリア結界 | ベースマナ (40-50%) | テラマナ (20-30%) | 脅威によって異なる | 場所の保護 |
+| アンチ魔法フィールド | ベースマナ (60-70%) | N/A | N/A | 魔法の中和 |
+| 存在追放 | ベースマナ (50-60%) | 存在によって異なる | クロノスマナ (10-20%) | 強制的な除去 |
+| 呪い破り | ベースマナ (60-70%) | 呪いのマナに一致 | ルクスマナ (10-20%) | 悪意のある効果の除去 |
+| 聖域 | ベースマナ (40-50%) | ルクスマナ (30-40%) | エアロマナ (10-20%) | 完全な安全地帯 |
 
-### Wild Mana Response
+### 荒ぶるマナ反応
 
-Abjuration magic has a unique relationship with Wild Mana. While most schools suffer unpredictable effects when exposed to Wild Mana, properly constructed abjurations can actually incorporate Wild Mana into their structure through a process called "harmonic redirection." This technique captures and channels the chaotic energy into reinforcing the barrier itself.
+結界術魔法は、荒ぶるマナとの独特な関係を持っています。ほとんどの学派が荒ぶるマナにさらされると予測不可能な影響を受ける一方で、適切に構築された結界術は、実際には「調和的リダイレクト」と呼ばれるプロセスを通じて荒ぶるマナをその構造に組み込むことができます。この技術は、混沌としたエネルギーを捉え、障壁自体を強化するためにチャネル化します。
 
-However, this is a delicate process that requires exceptional skill; poorly executed attempts can result in:
+ただし、これは卓越したスキルを必要とするデリケートなプロセスです。不十分に実行された試みは、次の結果になる可能性があります。
 
-- **Polarity Inversion**: The barrier repels what it should admit and admits what it should repel
-- **Fractured Containment**: Wild Mana becomes trapped within the barrier, creating unstable pockets
-- **Resonance Backlash**: The barrier amplifies rather than neutralizes incoming threats
+- **極性反転**: 障壁が許可すべきものを拒否し、拒否すべきものを許可する
+- **封じ込め破砕**: 荒ぶるマナが障壁内に閉じ込められ、不安定なポケットを作り出す
+- **共鳴反発**: 障壁が侵入してくる脅威を中和するのではなく、増幅する
 
-## Mana Purification for Abjuration
+## 結界術のためのマナ浄化
 
-Abjuration demands exceptional mana purity due to its defensive nature—any flaw in the magical structure creates a potential vulnerability:
+結界術は、その防御的な性質のために、卓越したマナ純度を必要とします。魔法構造の欠陥は、潜在的な脆弱性を生み出す可能性があります。
 
-| Purification Level | Abjuration Capability |
+| 浄化レベル | 結界術能力 |
 |--------------------|------------------------|
-| Basic (15-25%) | Simple personal shields against minor physical threats |
-| Intermediate (30-45%) | Multi-layered protections against moderate magical and physical dangers |
-| Advanced (50-65%) | Complex selective barriers and wards against major threats |
-| Master (70-80%) | Impenetrable sanctuaries and banishment fields effective against legendary threats |
-| Grandmaster (85%+) | Reality-anchoring barriers that can withstand cosmic-level forces |
+| 基本 (15-25%) | 軽微な物理的脅威に対する単純な個人的な盾 |
+| 中級 (30-45%) | 中程度の魔法的および物理的な危険に対する多層的な保護 |
+| 上級 (50-65%) | 主要な脅威に対する複雑な選択的障壁と結界 |
+| マスター (70-80%) | 伝説的な脅威に対して有効な侵入不可能な聖域と追放フィールド |
+| グランドマスター (85%+) | 宇宙レベルの力に耐えることができる現実固定障壁 |
 
-In abjuration, purity correlates directly with both barrier strength and specificity—higher purity allows for more precisely targeted defenses against specific threats.
+結界術において、純度は障壁の強度と特異性の両方に直接相関しています。純度が高いほど、特定の脅威に対するより正確な標的防御が可能になります。
 
-## The Defensive Scales
+## 防御スケール
 
-Abjuration magic is often conceptualized through musical structure, with protective spells described as "scales"—progressive sequences of notes that create complete defensive patterns:
+結界術魔法は、多くの場合、音楽構造を通じて概念化され、保護呪文は「スケール」として記述されます。これは、完全な防御パターンを作成する音符の漸進的なシーケンスです。
 
-- **Major Scales**: Outward-facing protections against external threats
-- **Minor Scales**: Inward-facing protections to contain or suppress
-- **Chromatic Scales**: Complex, adaptable barriers that shift in response to threats
-- **Pentatonic Scales**: Simplified, robust protections effective against a limited range of threats
-- **Counterpoint Defense**: Multiple overlapping barriers that reinforce each other
+- **長音階**: 外部の脅威に対する外向きの保護
+- **短音階**: 封じ込めまたは抑制するための内向きの保護
+- **半音階**: 脅威に応じて変化する、複雑で適応可能な障壁
+- **ペンタトニックスケール**: 限られた範囲の脅威に対して効果的な、簡略化された堅牢な保護
+- **対位法防御**: 互いに補強し合う複数の重複する障壁
 
-Master abjurers speak of "conducting" their defenses, actively maintaining and adjusting multiple protective layers simultaneously.
+マスター結界術師は、防御を「指揮」し、複数の保護層を同時に積極的に維持および調整することについて語ります。
 
-## Specialized Disciplines
+## 特殊な分野
 
-### Wardcraft
+### 結界術
 
-The art of creating long-term protective fields for locations. Practitioners are known as Warders.
+場所のための長期的な保護フィールドを作成する芸術。施術者は結界師として知られています。
 
-### Shielding
+### 盾術
 
-Focused on immediate, tactical barriers for combat situations. Masters are called Shieldmages.
+戦闘状況のための即時的な戦術的障壁に焦点を当てています。マスターは盾術師と呼ばれます。
 
-### Banishment
+### 追放術
 
-Specialized in the removal of unwanted entities or energies. Practitioners are called Banishers.
+望ましくない存在またはエネルギーの除去を専門としています。施術者は追放者と呼ばれます。
 
-### Nullification
+### 無効化術
 
-The neutralization of existing magical effects. Masters are known as Nullifiers.
+既存の魔法効果の中和。マスターは無効化者として知られています。
 
-### Anchoring
+### 固定術
 
-Securing entities, objects, or locations against magical displacement. Practitioners are called Anchors.
+魔法的な変位に対して、存在、物体、または場所を固定すること。施術者は固定者と呼ばれます。
 
-### Purification
+### 浄化術
 
-Removal of magical contamination or corruption. Masters are known as Purifiers.
+魔法的な汚染または腐敗の除去。マスターは浄化者として知られています。
 
-### Sanctuary Creation
+### 聖域創造術
 
-The establishment of spaces where specific magical laws apply. Practitioners are called Sanctifiers.
+特定の魔法の法則が適用される空間の確立。施術者は聖域創設者と呼ばれます。
 
-### Curse Breaking
+### 呪い破り術
 
-Specialized in dismantling malicious persistent effects. Masters are known as Breakers.
+悪意のある持続的な効果の解体に特化。マスターは破壊者として知られています。
 
-## Training Methodology
+## 訓練方法論
 
-Abjuration training follows a rigorous progression:
+結界術の訓練は、厳格な進歩に従います。
 
-1. **Foundational Theory**: Understanding the principles of magical opposition and containment
-2. **Personal Shielding**: Mastering protection of the self as the fundamental skill
-3. **Threat Analysis**: Learning to identify and categorize magical and physical dangers
-4. **Barrier Construction**: Techniques for creating structurally sound protective fields
-5. **Selective Filtering**: Advanced methods for discriminating between entities and energies
-6. **Breach Response**: Protocols for handling failures and penetrations of defenses
-7. **Multiple Barrier Orchestration**: Maintaining several protective spells simultaneously
-8. **Permanent Warding**: Creation of long-term or permanent protective measures
+1. **基礎理論**: 魔法的対立と封じ込めの原理の理解
+2. **個人的な盾術**: 基本的なスキルとしての自己保護の習得
+3. **脅威分析**: 魔法的および物理的な危険を識別および分類することを学ぶ
+4. **障壁構築**: 構造的に健全な保護フィールドを作成するための技術
+5. **選択的フィルタリング**: 存在とエネルギーを区別するための高度な方法
+6. **違反対応**: 防御の失敗と貫通を処理するためのプロトコル
+7. **複数障壁オーケストレーション**: 複数の保護呪文を同時に維持すること
+8. **永続的な結界術**: 長期的または永続的な保護手段の作成
 
-Training emphasizes precision over speed, with students typically spending years mastering basic shields before progressing to more complex protections.
+訓練は速度よりも精度を重視しており、学生はより複雑な保護に進む前に、基本的な盾の習得に数年を費やすのが一般的です。
 
-## Abjuration in Practice
+## 実践における結界術
 
-The process of casting abjuration magic follows distinct phases:
+結界術魔法の詠唱プロセスは、明確な段階に従います。
 
-1. **Threat Assessment**: Identifying the specific dangers to be defended against
-2. **Boundary Establishment**: Defining the protected space or subject
-3. **Mana Purification**: Achieving the necessary purity for stable protection
-4. **Pattern Formation**: Creating the specific defensive structure needed
-5. **Opposition Tuning**: Calibrating the defense to counter specific threats
-6. **Reinforcement**: Strengthening potential weak points in the structure
-7. **Activation**: Empowering the completed pattern to begin functioning
-8. **Maintenance**: Sustaining the defense through concentration or anchoring
+1. **脅威評価**: 防御する特定の危険を特定すること
+2. **境界確立**: 保護された空間または対象を定義すること
+3. **マナ浄化**: 安定した保護に必要な純度を達成すること
+4. **パターン形成**: 必要な特定の防御構造を作成すること
+5. **対立チューニング**: 特定の脅威に対抗するために防御を調整すること
+6. **強化**: 構造内の潜在的な弱点を強化すること
+7. **活性化**: 完成したパターンに機能を開始させるために力を与えること
+8. **維持**: 集中または固定を通じて防御を維持すること
 
-For combat abjuration, these steps must often be compressed into split-second casting, while permanent wards may involve ritual processes extending over days.
+戦闘結界術の場合、これらのステップは多くの場合、一瞬の詠唱に圧縮する必要がありますが、永続的な結界は、数日間にわたる儀式的プロセスを伴う場合があります。
 
-## Practical Applications
+## 実用的な応用
 
-Abjuration serves vital protective functions across society:
+結界術は、社会全体で重要な保護機能を提供します。
 
-- **Personal Safety**: Combat shields, environmental protection, privacy barriers
-- **Domestic Security**: Home wards, fire suppression fields, theft prevention
-- **Infrastructure**: Public building protections, bridge reinforcement, disaster containment
-- **Medicine**: Quarantine fields, stabilization chambers, surgical protection
-- **Transportation**: Vehicle safety systems, cargo protection, pathfinding security
-- **Research**: Containment for dangerous materials or entities, experiment isolation
-- **Cultural Preservation**: Protection of historical sites, artifact conservation, legacy maintenance
+- **個人の安全**: 戦闘盾、環境保護、プライバシー障壁
+- **家庭の安全**: 家の結界、消火フィールド、盗難防止
+- **インフラストラクチャ**: 公共の建物保護、橋の強化、災害封じ込め
+- **医療**: 検疫フィールド、安定化チャンバー、外科的保護
+- **輸送**: 車両安全システム、貨物保護、経路探索セキュリティ
+- **研究**: 危険な物質または存在の封じ込め、実験隔離
+- **文化遺産の保護**: 歴史的遺跡の保護、アーティファクトの保存、遺産の維持
 
-## Ethical Considerations
+## 倫理的考察
 
-Abjuration raises several distinct ethical questions:
+結界術は、いくつかの明確な倫理的疑問を提起します。
 
-- **Isolation Ethics**: The moral implications of creating completely isolated spaces
-- **Discriminatory Protection**: Selective barriers that admit some but not others
-- **Defensive Aggression**: Wards designed to harm those who breach them
-- **Autonomy Concerns**: Protections that restrict the protected individual's freedom
-- **Resource Allocation**: Prioritizing who or what receives limited protective resources
-- **False Security**: The ethics of providing protections known to be inadequate
+- **隔離倫理**: 完全に隔離された空間を作成することの道徳的含意
+- **差別的保護**: 一部を許可するが、他の人を許可しない選択的障壁
+- **防御的攻撃**: 違反者を傷つけるように設計された結界
+- **自律性の懸念**: 保護されている個人の自由を制限する保護
+- **資源配分**: 誰または何が限られた保護資源を受け取るかを優先すること
+- **偽りの安全**: 不適切であることがわかっている保護を提供することの倫理
 
-Most abjuration academies teach a code of protective ethics based on proportionality and informed consent.
+ほとんどの結界術アカデミーは、比例性とインフォームドコンセントに基づく保護倫理のコードを教えています。
 
-## Limitations and Weaknesses
+## 制限と弱点
 
-Despite its strength, abjuration has inherent limitations:
+その強さにもかかわらず、結界術には固有の制限があります。
 
-- **Energy Cost**: Stronger threats require exponentially more energy to repel
-- **Specificity Trade-Off**: Broad-spectrum defenses are weaker than specifically targeted ones
-- **Concentration Dependency**: Many barriers require ongoing attention to maintain
-- **Adaptation Lag**: Defenses may fail against novel or rapidly changing threats
-- **Indirect Vulnerability**: Physical anchors or focus points can be targeted
-- **Resonance Counters**: Every defense has a specific resonance that can be exploited
+- **エネルギーコスト**: より強力な脅威を撃退するには、指数関数的により多くのエネルギーが必要です
+- **特異性のトレードオフ**: 広範囲の防御は、特に標的を絞った防御よりも弱いです
+- **集中依存**: 多くの障壁は、維持するために継続的な注意が必要です
+- **適応の遅れ**: 防御は、新しいまたは急速に変化する脅威に対して失敗する可能性があります
+- **間接的な脆弱性**: 物理的なアンカーまたはフォーカスポイントが標的にされる可能性があります
+- **共鳴カウンター**: すべての防御には、悪用可能な特定の共鳴があります
 
-Common methods for overcoming abjuration include:
+結界術を克服するための一般的な方法は次のとおりです。
 
-- **Frequency Matching**: Tuning offensive magic to the exact counter-frequency of a barrier
-- **Threshold Flooding**: Overwhelming defenses with massive energy surges
-- **Sequential Probing**: Finding and exploiting weak points in the barrier structure
-- **Anchor Targeting**: Destroying the physical components supporting a ward
-- **Patient Erosion**: Sustained low-level pressure that gradually weakens defenses
-- **Harmonic Infiltration**: Using complementary rather than opposing frequencies to pass through
+- **周波数マッチング**: 防御壁の正確な対抗周波数に攻撃魔法を調整すること
+- **閾値フラッディング**: 大量のエネルギーサージで防御を圧倒すること
+- **シーケンシャルプロービング**: 障壁構造内の弱点を見つけて悪用すること
+- **アンカーターゲティング**: 結界をサポートする物理的なコンポーネントを破壊すること
+- **忍耐強い浸食**: 防御を徐々に弱める持続的な低レベルの圧力
+- **調和浸透**: 反対の周波数ではなく、相補的な周波数を使用して通過すること
 
-## Musical Analogy
+## 音楽的アナロジー
 
-In the musical framework of magic, abjuration represents percussion instruments—creating rhythm and structure that frames and constrains other magical elements. The abjurer is like a drummer, maintaining the boundaries within which other musicians can safely operate.
+魔法の音楽的枠組みでは、結界術は打楽器を表し、他の魔法要素を囲み、制約するリズムと構造を作成します。 結界術師はドラマーのようなもので、他のミュージシャンが安全に操作できる境界を維持します。
 
-Defensive spells are described in terms of "tempos" and "measures," with each protective layer adding a beat to the complex rhythm of a complete defense. Master abjurers can maintain multiple independent "time signatures" simultaneously, creating complex polyrhythmic defenses that are extraordinarily difficult to breach.
+防御呪文は「テンポ」と「小節」の観点から記述され、各保護層が完全な防御の複雑なリズムにビートを追加します。 マスター結界術師は、複数の独立した「拍子記号」を同時に維持することができ、非常に突破するのが難しい複雑なポリリズム防御を作成します。
 
-## Notable Practitioners
+## 著名な実践者
 
-- **Isolde Shieldweaver**: Creator of the Seven-Fold Sanctuary technique used in highest-security magical facilities
-- **Dorian Wardwright**: Legendary warder who established the continent-spanning Great Boundary after the Rift War
-- **Castiel Banebane**: Pioneer of curse-breaking methodologies now standard in medical abjuration
-- **Amalthea Stillhaven**: Developer of the Silent Sanctuary, a completely magic-null environment
-- **Thaddeus Ironward**: Master of combat abjuration and creator of the Reactive Shield System
+- **イゾルデ・シールドウィーバー**: 最高セキュリティの魔法施設で使用されている七重聖域技術の創始者
+- **ドリアン・ワードライト**: リフト戦争後に大陸全体に広がるグレートバウンダリーを確立した伝説的な結界師
+- **カスティエル・ベインベーン**: 現在医療結界術で標準となっている呪い破りの方法論のパイオニア
+- **アマルテア・スティルヘブン**: 完全に魔法を無効にする環境であるサイレントサンクチュアリの開発者
+- **サディアス・アイアンワード**: 戦闘結界術のマスターであり、反応シールドシステムの作成者
 
-## Historical Development
+## 歴史的発展
 
-Abjuration emerged early in magical history, with simple wards and protections among the first spells developed by early civilizations. The formal study of abjuration as a distinct school coalesced during the Age of Strife, when defensive magic became critically important.
+結界術は魔法の歴史の初期に登場し、単純な結界と保護は初期の文明によって開発された最初の呪文の1つでした。 防御魔法が非常に重要になった争いの時代に、明確な学派としての結界術の正式な研究が合体しました。
 
-The publication of "Principles of Magical Boundary" by Magister Elara Stoneheart in the early Second Age established the theoretical foundation for modern abjuration. The Third Age saw significant advancement with the development of selective filtering techniques by the Brotherhood of the Veil.
+第2紀初期のマグイスターエララ・ストーンハートによる「魔法境界の原理」の出版は、現代の結界術の理論的基礎を確立しました。 第3紀には、ベールの兄弟団による選択的フィルタリング技術の開発により、大幅な進歩が見られました。
 
-Contemporary abjuration research focuses on adaptive defense systems, energy-efficient sustainable barriers, and counter-measures for emerging magical threats. The cutting edge of the field explores dimensional anchoring—protections that remain stable across multiple planes of existence.
+現代の結界術研究は、適応型防御システム、エネルギー効率の高い持続可能な障壁、そして新たな魔法の脅威に対する対抗策に焦点を当てています。 この分野の最先端は、多次元固定を調査しています—複数の存在面にわたって安定したままである保護。
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Evocation](/codex/Magics/Schools/Evocation.md)* 
+*参照：[マナ浄化](/codex/Magics/ManaMechanics.md)、[荒ぶるマナ](/codex/Magics/WildMana.md)、[喚起術](/codex/Magics/Schools/Evocation.md)*
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

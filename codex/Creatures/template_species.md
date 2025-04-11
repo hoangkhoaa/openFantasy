@@ -154,3 +154,6 @@ Popular professions among **[SPECIES_NAME]** include:
 ---
 
 > Understanding the **[SPECIES_NAME]** provides insight into [SPECIES_SIGNIFICANCE] in the world of **OpenFantasy**. 
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

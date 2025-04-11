@@ -1,135 +1,138 @@
-# **Rogue**: Masters of Finesse and Stealth
+# **Rogue**: フィネスとステルスの達人
 
-[**Rogues**](/codex/Classes/Rogue/Rogue.md) embody the perfect balance between physical dexterity and cunning intellect. Their existence forms a subtle harmony that favors precision, adaptability, and opportunism rather than raw power or magical might.
+[**ローグ**](/codex/Classes/Rogue/Rogue.md)は、肉体的な器用さと狡猾な知性の完璧なバランスを体現しています。彼らの存在は、生の力や魔法の力ではなく、正確さ、適応性、そして機会主義を重視する微妙な調和を形成します。
 
-## Elemental Composition
+## 元素構成
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rogues** creates a distinctive harmony that emphasizes adaptability:
+[クラス](/codex/Classes/Classes.md)で詳述されているように、**ローグ**の典型的な比率は、適応性を重視する独特の調和を生み出します。
 
-| Element | Range | Function |
+| 元素 | 範囲 | 機能 |
 |---------|------------|----------|
-| **Exanthis** | 35-50% | Balanced physical foundation providing agility, precision, and reflexes over raw strength |
-| **Soul** | 30-45% | Enhanced consciousness supporting perception, improvisation, and strategic thinking |
-| **Mana Capacity** | 15-30% | Moderate magical potential typically channeled into enhancing stealth, perception, and deception |
+| **エクサンシス** | 35-50% | 生の力よりも敏捷性、正確性、反射神経を提供するバランスの取れた肉体的基盤 |
+| **ソウル** | 30-45% | 知覚、即興、戦略的思考をサポートする強化された意識 |
+| **マナ容量** | 15-30% | ステルス、知覚、欺瞞を強化するために一般的に利用される適度な魔法の可能性 |
 
-This composition grants **rogues** their characteristic versatility and adaptability. Their balanced elemental distribution allows them to excel in situations requiring both physical prowess and mental acuity, though they lack the specialized extremes of other classes.
+この構成は、**ローグ**に彼らの特徴的な多様性と適応性を与えます。彼らのバランスの取れた元素分布は、肉体的な腕力と精神的な明晰さの両方を必要とする状況で優れることを可能にしますが、他のクラスのような特殊化された極端さはありません。
 
-### Magical Affinity Profile
+### 魔法親和性プロファイル
 
-Rogues typically develop specific affinities that complement their shadowy and adaptive nature:
+ローグは通常、彼らの影のような適応性のある性質を補完する特定の親和性を発達させます。
 
-| Rogue Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| ローグの伝統 | 主要な親和性 | 副次的な親和性 | 典型的な応用 |
 |-----------------|-------------------|---------------------|---------------------|
-| **Shadowblade** | Umbramana (Concealment, Deception) | Aeromana (Silence) | Invisibility, shadow stepping, misdirection |
-| **Infiltrator** | Aeromana (Silence, Lightness) | Umbramana (Concealment) | Soundless movement, feather fall, enhanced agility |
-| **Trickster** | Luxmana (Illusion) | Umbramana (Deception) | Minor illusions, distractions, sensory manipulation |
-| **Poisoner** | Hydromana (Fluid, Mixing) | Terramana (Substance) | Toxin enhancement, alchemical acceleration, substance manipulation |
-| **Acrobat** | Aeromana (Balance, Movement) | Base Mana (Reflex) | Supernatural balance, wall-running, impossible leaps |
-| **Saboteur** | Base Mana (Disruption) | Pyromana (Ignition) | Trap enhancement, mechanical manipulation, controlled detonations |
+| **シャドウブレード** | ウンブラマナ（隠蔽、欺瞞） | アエロマナ（沈黙） | 透明化、シャドウステップ、ミスディレクション |
+| **インフィルトレーター** | アエロマナ（沈黙、軽さ） | ウンブラマナ（隠蔽） | 音のしない動き、フェザーフォール、強化された敏捷性 |
+| **トリックスター** | ルクスマナ（イリュージョン） | ウンブラマナ（欺瞞） | 軽いイリュージョン、気晴らし、感覚操作 |
+| **ポイズナー** | ヒドロマナ（液体、混合） | テラマナ（物質） | 毒素強化、錬金術的加速、物質操作 |
+| **アクロバット** | アエロマナ（バランス、動き） | ベースマナ（反射神経） | 超自然的なバランス、壁走り、不可能な跳躍 |
+| **サボター** | ベースマナ（破壊） | パイロマナ（点火） | トラップ強化、機械操作、制御された爆発 |
 
-Rogues typically achieve 50-70% specialization efficiency with their primary affinities, striking a balance between the focused specialization of mages and the practical application of warriors. This middle ground reflects their adaptable nature and diverse skill set.
+ローグは通常、彼らの主要な親和性で50〜70％の専門効率を達成し、魔術師の焦点を絞った専門性と戦士の実用的な応用との間のバランスを取ります。この中間の立場は、彼らの適応性のある性質と多様なスキルセットを反映しています。
 
-### Species-Specific Variations
+### 種族固有のバリエーション
 
-Different species show varying natural inclinations toward the rogue class:
+種族によって、ローグクラスに対する自然な傾向が異なります。
 
-- **Humans** (30-45% Exanthis, 35-45% Soul, 15-30% Mana Capacity): Their adaptability makes them versatile rogues capable of mastering various specializations.
-- **Elves** (25-40% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their natural grace and enhanced senses make them exceptional infiltrators and scouts.
-- **Halflings** (30-45% Exanthis, 40-55% Soul, 10-25% Mana Capacity): Their small size and heightened luck make them natural burglars and opportunists.
-- **Kitsune** (25-40% Exanthis, 35-50% Soul, 20-35% Mana Capacity): Their innate affinity for trickery and illusion makes them masterful deceivers.
-- **Changelings** (30-45% Exanthis, 25-40% Soul, 25-40% Mana Capacity): Their natural shapeshifting abilities make them unparalleled infiltrators and spies.
+- **ヒューマン**（30-45％エクサンシス、35-45％ソウル、15-30％マナ容量）：彼らの適応性により、さまざまな専門分野を習得できる多様なローグになります。
+- **エルフ**（25-40％エクサンシス、30-45％ソウル、25-40％マナ容量）：彼らの自然な優雅さと強化された感覚により、彼らは例外的な潜入者と偵察者になります。
+- **ハーフリング**（30-45％エクサンシス、40-55％ソウル、10-25％マナ容量）：彼らの小さなサイズと高められた幸運により、彼らは自然な強盗犯と機会主義者になります。
+- **キツネ**（25-40％エクサンシス、35-50％ソウル、20-35％マナ容量）：彼らの欺瞞とイリュージョンに対する生来の親和性により、彼らは巧妙な詐欺師になります。
+- **チェンジリング**（30-45％エクサンシス、25-40％ソウル、25-40％マナ容量）：彼らの自然な変身能力により、彼らは比類のない潜入者とスパイになります。
 
-## Physical Characteristics
+## 身体的特徴
 
-**Rogues** are known for their agility and stealth:
-- Lean build with quick reflexes, like a dancer's graceful movements
-- Eyes that dart with alertness, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the art of precision, like a musician who has perfected the art of the flute
-- Presence that can be both commanding and nearly invisible, like a melody that can be bold or whisper-soft
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+**ローグ**は、その敏捷性とステルスで知られています。
+- ダンサーの優雅な動きのように、素早い反射神経を備えた痩せた体格
+- [**ソウル**](/codex/Basic/Soul.md)とのつながりを示す、警戒心にあふれた目が素早く動く
+- フルートの芸術を完璧にした音楽家のように、正確さの芸術を習得した手
+- 大胆にもささやくようにもなれるメロディーのように、威圧的でありながらほとんど見えない存在感
+- あらゆる方向に動く準備ができているパフォーマーのように、バランスと準備を強調する姿勢
 
-## Stealth Affinity
+## ステルス親和性
 
-**Rogues** demonstrate exceptional proficiency in stealth and precision, like virtuoso musicians who have mastered the art of subtlety. Their composition allows them to:
-- Move silently and unseen, like shadows that slip through the night
-- Strike with precision and timing, like a musician hitting the perfect note
-- Navigate complex environments with grace, like dancers performing an intricate routine
+**ローグ**は、微妙さの芸術を習得した熟練した音楽家のように、ステルスと正確さにおいて卓越した熟練度を発揮します。彼らの構成により、彼らは次のことが可能です。
+- 夜に忍び寄る影のように、静かにそして目に見えずに動く
+- 完璧な音を出す音楽家のように、正確かつタイミング良く攻撃する
+- 複雑なルーチンを実行するダンサーのように、優雅に複雑な環境をナビゲートする
 
-This specialization makes **rogues** capable of achieving the highest levels of proficiency in their chosen stealth techniques, though they may struggle with tasks requiring brute strength or powerful magic, like a delicate instrument that produces beautiful sounds but cannot match the power of a drum.
+この専門知識により、**ローグ**は選択したステルス技術で最高レベルの熟練度を達成できますが、美しい音を出すがドラムの力には匹敵できない繊細な楽器のように、腕力や強力な魔法を必要とするタスクには苦労する可能性があります。
 
-## Training and Development
+## トレーニングと開発
 
-The path of a **rogue** involves rigorous stealth training and mental discipline:
-- Daily practice in moving silently and unseen, like musicians practicing the art of pianissimo
-- Study of anatomy and weak points, like learning the theory behind a perfect strike
-- Meditation to develop focus and awareness, like finding the quiet center before a performance
-- Practice in deception and misdirection, like artists mastering the art of illusion
+**ローグ**の道は、厳格なステルストレーニングと精神的な鍛錬を含みます。
+- ピアニッシモの芸術を練習する音楽家のように、静かにそして目に見えずに動くための毎日の練習
+- 完璧な攻撃の背後にある理論を学ぶように、解剖学と弱点の研究
+- パフォーマンス前の静かな中心を見つけるように、集中力と意識を高めるための瞑想
+- イリュージョンの芸術を習得するアーティストのように、欺瞞とミスディレクションの練習
 
-## Equipment and Gear
+## 装備とギア
 
-**Rogues** rely on various equipment to enhance their stealth and precision:
-- Light weapons designed for quick strikes, like different instruments for different performances
-- Stealth gear such as cloaks, boots, and tools, like accessories that enhance an instrument's capabilities
-- Precision tools such as lockpicks, traps, and poisons, like specialized instruments for specific tasks
+**ローグ**は、ステルスと正確さを高めるためにさまざまな装備に依存しています。
+- さまざまなパフォーマンスのためのさまざまな楽器のように、素早い攻撃のために設計された軽い武器
+- 楽器の能力を高めるアクセサリーのように、クローク、ブーツ、ツールなどのステルスギア
+- 特定のタスクのための専門楽器のように、ロックピック、トラップ、毒などの精密ツール
 
-## Subclasses
+## サブクラス
 
-**Rogues** can specialize in various stealth and precision techniques:
+**ローグ**は、さまざまなステルスと正確さのテクニックを専門とすることができます。
 
-### [**Assassin**](/codex/Classes/Rogue/Assassin.md)
+### [**アサシン**](/codex/Classes/Rogue/Assassin.md)
 
-Assassins focus on eliminating targets without detection, emphasizing the art of the silent kill. They excel at:
-- Tracking and stalking targets
-- Delivering致命一击 with precision
-- Remaining undetected before and after the kill
+アサシンは、静かな殺しの芸術を強調し、検出されずにターゲットを排除することに焦点を当てています。彼らは以下に優れています。
+- ターゲットの追跡とストーキング
+- 正確な致命的な一撃を届ける
+- 殺害前後の検出を回避する
 
-### [**Scout**](/codex/Classes/Rogue/Scout.md)
+### [**スカウト**](/codex/Classes/Rogue/Scout.md)
 
-Scouts focus on gathering information and navigating unknown territories, emphasizing observation and exploration. They excel at:
-- Moving unseen through dangerous areas
-- Gathering intelligence without detection
-- Finding safe paths through hazardous environments
+スカウトは、観察と探求を強調し、情報を収集し、未知の領域をナビゲートすることに焦点を当てています。彼らは以下に優れています。
+- 危険な地域を目に見えずに移動する
+- 検出されずに情報を収集する
+- 危険な環境を安全に通過する道を見つける
 
-### [**Trickster**](/codex/Classes/Rogue/Trickster.md)
+### [**トリックスター**](/codex/Classes/Rogue/Trickster.md)
 
-Tricksters focus on deception and misdirection, emphasizing the art of the con. They excel at:
-- Creating and maintaining false identities
-- Manipulating others through charm and wit
-- Executing elaborate schemes and cons
+トリックスターは、詐欺の芸術を強調し、欺瞞とミスディレクションに焦点を当てています。彼らは以下に優れています。
+- 偽のアイデンティティを作成および維持する
+- 魅力と知恵を通じて他人を操作する
+- 精巧なスキームと詐欺を実行する
 
-### [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md)
+### [**シャドウブレード**](/codex/Classes/Rogue/Shadowblade.md)
 
-Shadowblades focus on blending stealth with combat, emphasizing the art of the surprise attack. They excel at:
-- Initiating combat from stealth
-- Using shadows and darkness to their advantage
-- Striking quickly and disappearing
+シャドウブレードは、ステルスと戦闘を融合させることに焦点を当て、奇襲攻撃の芸術を強調しています。彼らは以下に優れています。
+- ステルスからの戦闘を開始する
+- 影と闇を有利に利用する
+- 素早く攻撃して姿を消す
 
-### [**Spy**](/codex/Classes/Rogue/Spy.md)
+### [**スパイ**](/codex/Classes/Rogue/Spy.md)
 
-Spies focus on infiltration and intelligence gathering, emphasizing the art of the deep cover. They excel at:
-- Infiltrating enemy organizations
-- Gathering sensitive information
-- Maintaining cover identities for extended periods
+スパイは、潜入と情報収集に焦点を当て、ディープカバーの芸術を強調しています。彼らは以下に優れています。
+- 敵組織に潜入する
+- 機密情報を収集する
+- 長期間にわたってカバーアイデンティティを維持する
 
-## Notable Rogue Traits
+## 注目すべきローグの特性
 
-- **Stealth Mastery**: Rogues excel in moving unseen and unheard, often specializing in specific stealth techniques
-- **Precision Strikes**: Rogues can deliver精确打击 with exceptional accuracy
-- **Perception**: Rogues develop keen senses and awareness through stealth training
-- **Adaptability**: Rogues can quickly adapt to changing situations and environments
-- **Discipline**: Rogues maintain rigorous training regimens to maintain their stealth abilities
+- **ステルスの習得**: ローグは目に見えずに聞こえないように移動することに優れており、特定のステルス技術を専門とすることがよくあります。
+- **精密な攻撃**: ローグは卓越した精度で正確な攻撃を仕掛けることができます。
+- **知覚**: ローグはステルストレーニングを通じて鋭い感覚と意識を発達させます。
+- **適応性**: ローグは変化する状況や環境に迅速に適応できます。
+- **鍛錬**: ローグはステルス能力を維持するために厳格なトレーニングレジメンを維持します。
 
-## Rogue Guilds
+## ローグギルド
 
-Rogue society is organized into numerous guilds, each with its own specialties and techniques:
+ローグ社会は、それぞれ独自の専門性と技術を持つ多数のギルドに組織されています。
 
-| Guild | Specialty | Territory | Notable Traits |
+| ギルド | 専門 | 領土 | 注目すべき特性 |
 |---------|---------------|---------|-------------------|
-| **Shadow Network** | Information gathering, espionage | Urban centers | Information brokering, espionage |
-| **Silent Blades** | Assassination, elimination | Various locations | Silent kills, target elimination |
-| **Trickster's Guild** | Deception, confidence games | Urban centers | Confidence schemes, deception |
-| **Night Walkers** | Stealth, infiltration | Various locations | Stealth techniques, infiltration |
-| **Shadow Scouts** | Exploration, reconnaissance | Wilderness regions | Exploration, reconnaissance |
-| **Veiled Daggers** | Combat from stealth, shadow fighting | Various locations | Stealth combat, shadow techniques |
+| **シャドウネットワーク** | 情報収集、諜報活動 | 都市の中心部 | 情報仲介、諜報活動 |
+| **サイレントブレード** | 暗殺、排除 | さまざまな場所 | 静かな殺害、ターゲットの排除 |
+| **トリックスターギルド** | 欺瞞、信用詐欺 | 都市の中心部 | 信用詐欺、欺瞞 |
+| **ナイトウォーカー** | ステルス、潜入 | さまざまな場所 | ステルス技術、潜入 |
+| **シャドウスカウト** | 探検、偵察 | 荒野地域 | 探検、偵察 |
+| **ベイルドダガー** | ステルスからの戦闘、シャドウファイティング | さまざまな場所 | ステルス戦闘、シャドウ技術 |
 
-Understanding the nature of **rogues** provides insight into the subtle aspects of the world of **OpenFantasy**, like listening to the quiet melodies that move unseen through the symphony of existence. 
+**ローグ**の本質を理解することは、存在の交響曲の中で目に見えない静かなメロディーに耳を傾けるように、**OpenFantasy**の世界の微妙な側面への洞察を提供します。
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

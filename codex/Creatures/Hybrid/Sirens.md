@@ -1,105 +1,109 @@
-# **Sirens**: The Enchanting Voices of the Seas
+# **Sirens**: 海の魅惑的な声
 
-[**Sirens**](/codex/Creatures/Sirens.md) are the enchanting voices of the seas, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a hauntingly beautiful flute, they resonate most strongly with the currents of water and sound, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+[**Sirens**](/codex/Creatures/Sirens.md) は海の魅惑的な声であり、その体は [**Exanthis**](/codex/Basic/Exanthis.md)、[**Souls**](/codex/Basic/Soul.md)、そして **Mana Capacity** の流動的な調和です。まるで忘れがたいほど美しいフルートのように、彼らは水と音の流れと最も強く共鳴し、水界と陸界をつなぐ独自の存在の旋律を奏でます。
 
-## Elemental Composition
+## 元素構成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **sirens** forms a harmony that favors magical potential:
+[Creatures](/codex/Creatures/Creatures.md) で詳述されているように、**sirens** の典型的な比率は、魔法の可能性を重視した調和を形成します。
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 20-35% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-45% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 30-50% | The bridge between worlds that enables significant magical potential |
+| **Exanthis** | 20-35% | 適度な身体的強さと優雅さを提供する結晶質の心臓 |
+| **Soul** | 25-45% | 流動的で適応可能な意識を形作る、エーテル的な本質 |
+| **Mana Capacity** | 30-50% | 大きな魔法の可能性を可能にする、世界と世界を結ぶ架け橋 |
 
-This composition grants **sirens** their characteristic enchanting abilities but limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+この構成により、**sirens** はその特徴的な魅惑的な能力を得ますが、美しい音を奏でるものの、注意して扱わなければならない繊細な楽器のように、他の種と比較して物理的な回復力を制限します。
 
-### Individual Variations
+### 個体差
 
-While the model composition represents the typical siren, individual variations exist:
+モデル構成は典型的な siren を表していますが、個体差が存在します。
 
-- **Song Weavers**: Some sirens possess Soul percentages as high as 50% and Mana Capacity of 40%, allowing them to create enchantments of extraordinary power and subtlety through their voices.
-- **Ocean Warriors**: A specialized variant with enhanced Exanthis levels approaching 40% serves as defenders of siren territories, with reduced magical ability (30% Mana Capacity) but greater physical resilience.
-- **Tide Speakers**: Those with balanced compositions (30% Exanthis, 35% Soul, 35% Mana Capacity) excel at diplomatic relations, using their voices to bridge cultural divides.
-- **Storm Callers**: Specialized sirens with composition of (25% Exanthis, 25% Soul, 50% Mana Capacity) can manipulate weather patterns over water, summoning or dispersing storms.
-- **Deep Dreamers**: Rare sirens with unique composition (20% Exanthis, 45% Soul, 35% Mana Capacity) can send their consciousness into the dreams of others, becoming powerful diviners and spiritual guides.
+- **Song Weavers**: 一部の siren は Soul の割合が 50% に達し、Mana Capacity が 40% に達し、その声を通して並外れた力と繊細さの魔法を作り出すことができます。
+- **Ocean Warriors**: Exanthis レベルが 40% に近づくように強化された特殊な亜種は、siren の領土の防衛者として機能し、魔法能力は低下 (Mana Capacity 30%) していますが、物理的な回復力は向上しています。
+- **Tide Speakers**: バランスの取れた構成 (Exanthis 30%、Soul 35%、Mana Capacity 35%) を持つ者は、外交関係に優れており、その声を使って文化的な溝を埋めます。
+- **Storm Callers**: 特殊な siren で、構成 (Exanthis 25%、Soul 25%、Mana Capacity 50%) は、水上の気象パターンを操作し、嵐を召喚または分散させることができます。
+- **Deep Dreamers**: 珍しい siren で、独自の構成 (Exanthis 20%、Soul 45%、Mana Capacity 35%) は、他者の夢に意識を送り込み、強力な占者および精神的な指導者になることができます。
 
-## Physical Characteristics
+## 身体的特徴
 
-**Sirens** are known for their ethereal beauty and aquatic adaptations:
-- Humanoid upper bodies with fish-like lower bodies, allowing for both land and sea movement
-- Eyes that shimmer with inner light, reflecting their connection to water magic
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep purple
-- Voices that carry an otherworldly quality, capable of producing sounds that no other species can replicate
-- Fins and webbed appendages that aid in swimming and balance
+**Sirens** は、そのエーテル的な美しさと水生への適応で知られています。
+- 人間のような上半身と魚のような下半身を持ち、陸と海の両方での移動が可能
+- 内なる光を放つ目がきらめき、水魔法とのつながりを反映
+- 海に調律された繊細な楽器のように、水中で呼吸を可能にする鰓
+- 自然な保護と美しさを提供する鱗。その色は玉虫色の青から濃い紫まで様々
+- 他の世界のような質を持ち、他の種では再現できない音を出すことができる声
+- 水泳とバランスを助けるひれと水かきのある付属肢
 
-## Magical Affinity
+## 魔法的親和性
 
-**Sirens** demonstrate exceptional proficiency in water magic and sound manipulation, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel water magic with extraordinary precision, like conductors of the ocean's symphony
-- Manipulate sound waves to create enchanting melodies that affect the emotions and thoughts of others
-- Create illusions through the combination of water and sound, like artists painting with liquid light
+**Sirens** は、まるで楽器を習得した名手のように、水魔法と音の操作において並外れた熟練度を示します。その構成により、彼らは次のことが可能になります。
+- まるで海の交響曲の指揮者のように、並外れた精度で水魔法を伝達
+- 他者の感情や思考に影響を与える魅惑的なメロディーを作り出すために、音波を操作
+- まるで液体の光で絵を描くアーティストのように、水と音の組み合わせを通じて幻想を作り出す
 
-This specialization makes **sirens** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+この専門性により、**sirens** は選択した魔法の伝統において最高レベルの熟練度を達成することができますが、物理的な強さや回復力を必要とするタスクには苦労する可能性があります。美しい音を奏でるものの、荒っぽい扱いに耐えられない繊細な楽器のように。
 
-## Lifespan and Soul Decay
+## 寿命と魂の崩壊
 
-The **soul decay** timeline for **sirens**, from birth to complete decay, is approximately 500 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+**sirens** の **soul decay** のタイムラインは、誕生から完全な崩壊まで、約 500 年です。まるで時代を照らすゆっくりと燃える炎のように。この長い寿命により、彼らは次のことが可能になります。
+- 何世紀にもわたって広大な知識と知恵を蓄積
+- 特定の場所や魔法の伝統との深い繋がりを育む
+- 複雑な習慣や儀式を持つ複雑な社会を形成
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+ただし、soul decay が遅いということは、他の種よりも変化や適応が遅いことも意味します。時代を超えて美しくあり続けるものの、変化しないメロディーのように。
 
-## Habitat and Distribution
+## 生息地と分布
 
-**Sirens** primarily inhabit:
-- Coastal regions and underwater cities, where they can be closest to the ocean's currents
-- Islands and archipelagos, where they can maintain connections to both land and sea
-- Magical grottos and coral reefs, where the boundaries between worlds grow thin
-- Strategic locations that provide access to both aquatic and terrestrial resources
+**Sirens** は主に以下に生息します。
+- 海の流れに最も近づける海岸地域と水中の都市
+- 陸と海の両方とのつながりを維持できる島々や群島
+- 世界の境界が薄くなる魔法の洞窟やサンゴ礁
+- 水生資源と陸生資源の両方へのアクセスを提供する戦略的な場所
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+これらの場所は、交響曲に最適な音響のように、魔法の研究と精神的な熟考に理想的な環境を提供します。
 
-## Cultural Impact
+## 文化的な影響
 
-In the world of **OpenFantasy**, **sirens** play a crucial role in preserving ancient magical traditions and enchanting the world with beauty, like weavers of ethereal melodies. Their societies are centers of:
-- Musical innovation and artistic expression
-- Water magic and sound manipulation
-- Diplomatic relations and cultural exchange
+**OpenFantasy** の世界では、**sirens** は古代の魔法の伝統を保存し、世界を美しさで魅了する上で重要な役割を果たします。まるでエーテル的なメロディーの織り手のように。彼らの社会は次の中心地です。
+- 音楽の革新と芸術的表現
+- 水魔法と音の操作
+- 外交関係と文化交流
 
-The connection to water and sound has shaped siren culture around the study and mastery of these elements, creating a society where artistic ability and magical prowess are highly valued.
+水と音とのつながりは、これらの要素の研究と習得を中心に siren 文化を形作り、芸術的な能力と魔法の腕前が高く評価される社会を作り出しました。
 
-## Relationship with Other Species
+## 他の種との関係
 
-**Sirens** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and caution, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for beauty and magic
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Fae**: A wary relationship, as sirens are less susceptible to fae enchantments
+**Sirens** は他の種と複雑な関係を維持しています。
+- [**Humans**](/codex/Creatures/Human.md) と: 魅了と警戒の混合であり、複雑な相互作用につながることが多い
+- **Elves** と: 美しさや魔法に対する共通の感謝に基づく深い繋がり
+- **Dwarves** と: 彼らの職人技を認めながらも、そのやり方に奇妙さを感じ、敬意を払った距離を置く
+- **Fae** と: siren は fae の魔法にかかりにくいので、警戒的な関係
 
-These relationships are often characterized by a sense of cultural superiority, as **sirens** view themselves as the true children of the sea and sound.
+これらの関係は、**sirens** が自分たちを海と音の真の子と見なしているため、文化的な優越感によって特徴付けられることがよくあります。
 
-## Notable Siren Traits
+## 注目すべき Siren の特徴
 
-- **Enchanting Voice**: Sirens possess voices capable of producing sounds that affect the emotions and thoughts of others
-- **Water Affinity**: Sirens have a natural connection to water magic, allowing them to manipulate this element with ease
-- **Amphibious Nature**: Sirens can thrive in both aquatic and terrestrial environments
-- **Artistic Expression**: Sirens have developed highly refined musical and artistic traditions
-- **Diplomatic Skills**: Sirens excel in negotiation and cultural exchange, using their enchanting abilities to facilitate communication
+- **Enchanting Voice**: Sirens は、他者の感情や思考に影響を与える音を出すことができる声を持っています
+- **Water Affinity**: Sirens は水魔法との自然なつながりがあり、この要素を容易に操作することができます
+- **Amphibious Nature**: Sirens は水生環境と陸生環境の両方で繁栄することができます
+- **Artistic Expression**: Sirens は高度に洗練された音楽的および芸術的な伝統を開発しました
+- **Diplomatic Skills**: Sirens は交渉と文化交流に優れており、その魅惑的な能力を使用してコミュニケーションを促進します
 
-## Siren Clans
+## Siren のクラン
 
-Siren society is organized into numerous clans, each with its own specialties and traditions:
+Siren の社会は多数のクランに組織されており、それぞれに独自の専門性と伝統があります。
 
 | Clan | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
-| **Waveweavers** | Water magic, healing | Coastal regions | Healing abilities, water manipulation |
-| **Tidecallers** | Sound magic, communication | Island archipelagos | Communication abilities, sound manipulation |
-| **Coralcrafters** | Art, architecture | Coral reefs | Artistic abilities, architectural innovation |
-| **Stormsingers** | Weather magic, protection | Stormy seas | Weather control, protective magic |
-| **Deepdwellers** | Knowledge, wisdom | Deep ocean trenches | Ancient knowledge, wisdom traditions |
-| **Shorewalkers** | Diplomacy, trade | Coastal cities | Diplomatic skills, trading expertise |
+| **Waveweavers** | 水魔法、癒し | 海岸地域 | 癒しの能力、水の操作 |
+| **Tidecallers** | 音魔法、コミュニケーション | 島嶼群 | コミュニケーション能力、音の操作 |
+| **Coralcrafters** | 芸術、建築 | サンゴ礁 | 芸術的な能力、建築の革新 |
+| **Stormsingers** | 天候魔法、保護 | 荒れた海 | 天候の制御、保護魔法 |
+| **Deepdwellers** | 知識、知恵 | 深海海溝 | 古代の知識、知恵の伝統 |
+| **Shorewalkers** | 外交、貿易 | 海岸都市 | 外交スキル、貿易の専門知識 |
 
-Understanding the nature of **sirens** provides insight into the aquatic and musical aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the waves and shores. 
+**sirens** の性質を理解することは、まるで波と海岸に響き渡る忘れがたいメロディーを聴くように、**OpenFantasy** の世界の水生および音楽的な側面への洞察を提供します。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

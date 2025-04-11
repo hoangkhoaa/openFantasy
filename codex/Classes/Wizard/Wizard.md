@@ -1,22 +1,22 @@
-# **Wizard**: Masters of Studied Arcana
+# **Wizard**: 研究された神秘の達人
 
-[**Wizards**](/codex/Classes/Wizard/Wizard.md) are intellectual spellcasters who approach magic as a science to be understood, documented, and mastered through rigorous study and experimentation. Their power comes from comprehensive knowledge of arcane formulas and meticulous practice of magical techniques.
+[**Wizard**](/codex/Classes/Wizard/Wizard.md) は、魔法を理解、文書化、厳格な研究と実験を通して習得されるべき科学として捉える知的な呪文の使い手です。彼らの力は、難解な公式の包括的な知識と、魔法技術の綿密な実践から得られます。
 
 ## Elemental Composition
 
-The typical elemental ratio for **wizards** emphasizes their scholarly approach to magic:
+**wizard** の典型的な元素比は、魔法に対する彼らの学術的なアプローチを強調しています。
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Physical vessel trained to execute precise somatic components |
-| **Soul** | 35-50% | Mental framework developed to comprehend and manipulate arcane patterns |
-| **Mana Capacity** | 25-45% | Deliberately cultivated mana reserves with exceptional control systems |
+| **Exanthis** | 15-30% | 正確な身体的構成要素を実行するために訓練された物理的な器 |
+| **Soul** | 35-50% | 難解なパターンを理解し操作するために開発された精神的な枠組み |
+| **Mana Capacity** | 25-45% | 例外的な制御システムを備えた、意図的に育成されたマナの蓄え |
 
-This composition distinguishes **wizards** from other spellcasters through their emphasis on understanding over raw power. Wizards develop specialized neural and spiritual pathways through years of study, creating a refined system for interpreting and manipulating magical energy. Their physical forms adapt to support the cognitive demands of spellcasting rather than serving as primary channels.
+この構成は、**wizard** を、生得的な力よりも理解を重視することで他の呪文の使い手と区別します。 ウィザードは何年もの研究を通して特殊な神経経路と精神経路を開発し、魔法のエネルギーを解釈および操作するための洗練されたシステムを作成します。 彼らの肉体は、主要なチャネルとして機能するのではなく、呪文の詠唱の認知的要求をサポートするように適応します。
 
 ### Magical Affinity Profile
 
-Wizards develop specific affinities based on their school of specialization:
+ウィザードは、専門の学派に基づいて特定の親和性を開発します。
 
 | School | Primary Affinities | Secondary Affinities | Typical Application |
 |--------------|-------------------|---------------------|---------------------|
@@ -29,16 +29,20 @@ Wizards develop specific affinities based on their school of specialization:
 | **Necromancy** | Thanatomana | Base Mana (Vitality) | Animation, life force manipulation |
 | **Transmutation** | Base Mana (Transformation) | Element matching target | Matter alteration, physical law manipulation |
 
-Wizards typically achieve 40-60% resonance with their specialized school's elements, with decades of study potentially raising this to 70-85% in their areas of expertise. Their scholarly approach enables them to achieve high mana purity (45-65%) through disciplined purification techniques, with archmages reaching 75-90% purity in their specialized fields.
+ウィザードは通常、専門の学派の要素との共鳴を 40 ～ 60% 達成し、数十年にわたる研究により、専門分野では 70 ～ 85% に上昇する可能性があります。 彼らの学術的なアプローチにより、彼らは規律正しい浄化技術を通して高いマナ純度 (45 ～ 65%) を達成することができ、大魔術師は専門分野で 75 ～ 90% の純度に達します。
 
 ### Species-Specific Variations
 
-Different species show varying natural inclinations toward the wizard class:
+種族によって、ウィザードクラスに対する自然な傾向が異なります。
 
-- **Humans** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Their adaptability allows for comprehensive magical study across multiple disciplines, with moderate specialization potential.
-- **High Elves** (10-25% Exanthis, 40-55% Soul, 30-50% Mana Capacity): Their longevity and natural magical attunement creates exceptional retention of complex arcane formulas.
-- **Gnomes** (15-25% Exanthis, 45-60% Soul, 20-40% Mana Capacity): Their innovative thinking creates natural affinity for illusion and transmutation magic.
-- **Tieflings** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Their infernal heritage provides intuitive understanding of certain arcane concepts, particularly conjuration and evocation.
-- **Dragonborn** (20-35% Exanthis, 30-45% Soul, 25-45% Mana Capacity): Their draconic connection provides natural aptitude for evocation magic related to their ancestry.
+- **Humans** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): 彼らの適応性により、複数の分野にわたる包括的な魔法の研究が可能になり、中程度の専門化の可能性があります。
+- **High Elves** (10-25% Exanthis, 40-55% Soul, 30-50% Mana Capacity): 彼らの長寿と自然な魔法の調律により、複雑な難解な公式の並外れた保持が可能です。
+- **Gnomes** (15-25% Exanthis, 45-60% Soul, 20-40% Mana Capacity): 彼らの革新的な思考は、幻想と変成魔法に対する自然な親和性を生み出します。
+- **Tieflings** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): 彼らの地獄の遺産は、特定の難解な概念、特に招喚と喚起に対する直感的な理解を提供します。
+- **Dragonborn** (20-35% Exanthis, 30-45% Soul, 25-45% Mana Capacity): 彼らの竜とのつながりは、彼らの祖先に関連する喚起魔法に対する自然な適性を提供します。
 
-// ... rest of the file remains unchanged ... 
+// ... ファイルの残りの部分は変更されていません ...
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

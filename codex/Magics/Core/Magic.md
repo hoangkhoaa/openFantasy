@@ -1,225 +1,228 @@
-# **Magic**: The Harmonic Art of Reality Manipulation
+# **Magic**: 現実操作の調和芸術
 
-[**Magic**](/codex/Magics/Core/Magic.md) in the world of OpenFantasy is not merely a mystical force but a fundamental aspect of reality—as natural and essential as physics or mathematics. Just as music transforms vibrations into harmony through structured patterns, magic transforms mana into effects through disciplined manipulation of universal energies.
+OpenFantasyの世界における[**Magic**](/codex/Magics/Core/Magic.md)は、単なる神秘的な力ではなく、現実の根本的な側面であり、物理学や数学と同じくらい自然で不可欠なものです。音楽が振動を構造化されたパターンを通して調和に変えるように、魔法はマナを普遍的なエネルギーの鍛錬された操作を通して効果に変えます。
 
-## Fundamental Principles
+## 基本原則
 
-Magic in OpenFantasy operates on three fundamental principles that form the basis of all magical theory and practice:
+OpenFantasyにおける魔法は、すべての魔法理論と実践の基礎となる3つの基本原則に基づいて動作します。
 
-| Principle | Description | Musical Analogy |
-|---------|------------|----------|
-| **Purity** | The clarity and focus of magical energy | The cleanness of a musical note |
-| **Intensity** | The raw power and force of magical energy | The volume of a musical performance |
-| **Complexity** | The intricacy and sophistication of magical patterns | The complexity of a musical composition |
+| 原則        | 説明                                                   | 音楽のアナロジー                             |
+|------------|--------------------------------------------------------|------------------------------------------|
+| **純度**      | 魔法エネルギーの明瞭さと焦点                                 | 音楽ノートの明瞭さ                                |
+| **強度**      | 魔法エネルギーの生の力とパワー                               | 音楽演奏の音量                                 |
+| **複雑性**    | 魔法パターンの複雑さと洗練さ                                 | 音楽作品の複雑さ                                 |
 
-These principles interact with a practitioner's elemental composition to determine their magical capabilities and limitations.
+これらの原則は、魔法使いの元素構成と相互作用し、その魔法能力と限界を決定します。
 
-## Elemental Composition and Magic
+## 元素構成と魔法
 
-A being's elemental composition directly influences their magical abilities:
+生物の元素構成は、その魔法能力に直接影響します。
 
-- **Exanthis**: Provides the physical substrate that anchors magic in reality. Higher Exanthis grants greater resistance to magical effects but can limit magical output. Like the physical construction of an instrument that determines its durability.
+- **Exanthis**: 現実における魔法を固定する物理的な基盤を提供します。 Exanthisが高いほど魔法効果に対する抵抗力が高まりますが、魔法の出力を制限する可能性があります。耐久性を決定する楽器の物理的な構造のように。
 
-- **Soul**: Shapes the character and creativity of magical expression. Higher Soul percentages allow for more intuitive and adaptable spellcasting. Like a musician's interpretation that brings unique character to a performance.
+- **Soul**: 魔法表現の個性と創造性を形作ります。 Soulの割合が高いほど、より直感的で適応性のある呪文詠唱が可能になります。演奏に独自の個性を加えるミュージシャンの解釈のように。
 
-- **Mana Capacity**: Determines the amount of magical energy a being can channel and store. Higher Mana Capacity allows for more powerful and sustained spellcasting. Like the lung capacity of a wind instrumentalist or the arm strength of a percussionist.
+- **Mana Capacity**: 生物がチャネリングおよび蓄積できる魔法エネルギーの量を決定します。 Mana Capacityが高いほど、より強力で持続的な呪文詠唱が可能になります。管楽器奏者の肺活量や打楽器奏者の腕力のように。
 
-## Key Magical Concepts
+## 主要な魔法の概念
 
 ### Mana
-The fundamental energy of magic, comparable to notes in music:
-- **Nature**: Universal life force present in all things
-- **Accessibility**: Can be drawn from the caster or environment
-- **Limitation**: Finite resource that must be replenished
-- **Manipulation**: Requires training to gather and control
+音楽の音符に匹敵する魔法の基本的なエネルギー:
+- **性質**: すべてのものに存在する普遍的な生命力
+- **アクセス可能性**: 詠唱者または環境から引き出すことができます
+- **制限**: 補充する必要のある有限のリソース
+- **操作**: 収集および制御するにはトレーニングが必要です
 
-*See [**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md) for detailed information*
+*詳細については、[**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md)を参照してください*
 
 ### Mana Capacity
-The amount of magical energy a practitioner can hold and channel:
-- **Range**: Typically 5-85% of theoretical maximum
-- **Development**: Increases through practice and study
-- **Limitation**: Genetically influenced upper limit
-- **Expression**: Higher capacity enables larger and more complex spells
+魔法使いが保持およびチャネリングできる魔法エネルギーの量:
+- **範囲**: 通常、理論上の最大値の5〜85％
+- **発達**: 練習と学習を通して増加します
+- **制限**: 遺伝的に影響を受ける上限
+- **表現**: 容量が大きいほど、より大きく複雑な呪文が可能になります
 
-*See [**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md) for detailed information*
+*詳細については、[**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md)を参照してください*
 
 ### Wild Mana
-Raw, unpurified magical energy permeating the environment:
-- **Nature**: Chaotic, unpredictable energy
-- **Danger**: Can contaminate spells and cause instability
-- **Utility**: Source of ambient magical power
-- **Manifestation**: Can create spontaneous magical phenomena
+環境に浸透する生の未精製の魔法エネルギー:
+- **性質**: カオス的で予測不可能なエネルギー
+- **危険**: 呪文を汚染し、不安定を引き起こす可能性があります
+- **有用性**: 周囲の魔法力の源
+- **顕現**: 自然発生的な魔法現象を引き起こす可能性があります
 
-*See [**Wild Mana**](/codex/Magics/Core/WildMana.md) and [**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md) for detailed information*
+*詳細については、[**Wild Mana**](/codex/Magics/Core/WildMana.md)および[**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md)を参照してください*
 
 ### Purification
-The process of refining raw mana for spellcasting:
-- **Purpose**: Removes chaotic elements for precise control
-- **Methods**: Mental discipline, tool assistance, alchemical aids
-- **Levels**: Crude to Perfect based on remaining Wild Mana content
-- **Significance**: Determines spell precision and reliability
+呪文詠唱のために生の魔力を精製するプロセス:
+- **目的**: 正確な制御のためにカオス的な要素を取り除きます
+- **方法**: 精神的な鍛錬、道具の支援、錬金術の補助
+- **レベル**: 残りのWild Manaの含有量に基づいて粗悪から完璧まで
+- **重要性**: 呪文の精度と信頼性を決定します
 
-*See [**Mana Purity**](/codex/Magics/Core/ManaPurity.md) for detailed information*
+*詳細については、[**Mana Purity**](/codex/Magics/Core/ManaPurity.md)を参照してください*
 
 ### Spellcasting
-The practical application of magical theory:
-- **Process**: Five-stage sequence (Gathering, Purification, Patterning, Resonance, Release)
-- **Variation**: Different traditions employ unique methods
-- **Requirement**: Mental discipline, physical components, and/or tools
-- **Expression**: Ranges from simple cantrips to complex ritual magic
+魔法理論の実用的な応用:
+- **プロセス**: 5段階のシーケンス（収集、浄化、パターン化、共鳴、解放）
+- **バリエーション**: さまざまな伝統が独自の方法を採用しています
+- **要件**: 精神的な鍛錬、物理的なコンポーネント、および/またはツール
+- **表現**: 単純な呪文から複雑な儀式魔法まで多岐にわたります
 
-*See [**Magic Casting**](/codex/Magics/Core/MagicCasting.md) for detailed information*
+*詳細については、[**Magic Casting**](/codex/Magics/Core/MagicCasting.md)を参照してください*
 
 ### Elemental Magic
-Manipulation of fundamental forces and elements:
-- **Primary Elements**: Fire, Water, Earth, Air, Light, Shadow, Life, Death
-- **Structure**: Complementary and opposing pairings
-- **Application**: Most accessible and widely practiced form of magic
-- **Expression**: Direct manipulation or elemental byproducts
+基本的な力と要素の操作:
+- **主要な要素**: 火、水、土、空気、光、影、生命、死
+- **構造**: 相補的および対立的なペアリング
+- **応用**: 最もアクセスしやすく、広く実践されている魔法の形態
+- **表現**: 直接操作または元素の副産物
 
-*See [**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) for detailed information*
+*詳細については、[**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md)を参照してください*
 
 ### Magical Schools
-Specialized disciplines focusing on particular applications:
-- **Major Schools**: Evocation, Conjuration, Divination, Enchantment, Illusion, Abjuration
-- **Organization**: Systematic approaches to magical education and research
-- **Philosophy**: Unique perspectives on the nature and application of magic
-- **Methodology**: Specialized techniques for particular magical effects
+特定の応用分野に焦点を当てた専門分野:
+- **主要な学派**: 召喚、招喚、占い、魅了、幻影、退散
+- **組織**: 魔法教育と研究への体系的なアプローチ
+- **哲学**: 魔法の性質と応用に関する独自の視点
+- **方法論**: 特定の魔法効果のための専門的な技術
 
-*See the [**Schools**](/codex/Magics/Schools/) directory for detailed information*
+*詳細については、[**Schools**](/codex/Magics/Schools/)ディレクトリを参照してください*
 
-## Intensity and Magic
+## 強度と魔法
 
-Magical intensity refers to the raw power and force of magical energy. Like the volume of a musical performance, intense magic commands attention and overwhelms opposition.
+魔法の強度は、魔法エネルギーの生の力とパワーを指します。音楽演奏の音量のように、強い魔法は注意を引き、反対を圧倒します。
 
-### Intensity Factors
+### 強度ファクター
 
-1. **Mana Volume**: The amount of magical energy a caster can channel at once. Higher Mana Capacity allows for greater intensity.
+1. **Mana Volume**: 詠唱者が一度にチャネリングできる魔法エネルギーの量。 Mana Capacityが大きいほど、強度が高くなります。
 
-2. **Exanthis Conductivity**: The physical body must be able to withstand the channeling of intense magic. Higher Exanthis provides resistance but can also limit conductivity.
+2. **Exanthis Conductivity**: 物理的な体は、強い魔法のチャネリングに耐えることができなければなりません。 Exanthisが高いほど抵抗力が得られますが、伝導率を制限する可能性もあります。
 
-3. **Emotional State**: Strong emotions can temporarily increase magical intensity at the cost of control and purity.
+3. **Emotional State**: 強い感情は、制御と純度を犠牲にして、魔法の強度を一時的に高めることができます。
 
-### Species and Intensity
+### 種族と強度
 
-Different species have natural affinities for magical intensity:
+種族によって、魔法の強度に対する自然な親和性が異なります。
 
-- **Dragonkin** (55-75% Exanthis, 20-35% Mana Capacity): Channel intense elemental magic with devastating effect but limited finesse.
+- **Dragonkin** (55-75% Exanthis, 20-35% Mana Capacity): 壊滅的な効果をもたらす強い元素魔法をチャネリングしますが、繊細さに欠けます。
 
-- **Dark Elves** (15-35% Exanthis, 45-75% Mana Capacity): Achieve high intensity in shadow and void magic through specialized training.
+- **Dark Elves** (15-35% Exanthis, 45-75% Mana Capacity): 特殊なトレーニングを通して影と虚無の魔法で高い強度を達成します。
 
-- **Giants** (65-85% Exanthis, 5-20% Mana Capacity): Limited magical potential but what little magic they produce tends to be intense and primal.
+- **Giants** (65-85% Exanthis, 5-20% Mana Capacity): 魔法の可能性は限られていますが、生成する魔法は強烈で原始的になる傾向があります。
 
-- **Humans** (20-55% Exanthis, 15-60% Mana Capacity): Capable of surprising bursts of intensity, especially when emotionally charged.
+- **Humans** (20-55% Exanthis, 15-60% Mana Capacity): 特に感情が高ぶっている場合、驚くほどの強さを発揮することができます。
 
-### Intensity Applications
+### 強度応用
 
-- **Combat Magic**: Higher intensity overwhelms magical defenses and produces more devastating effects.
+- **Combat Magic**: 強度が高いほど魔法防御を圧倒し、より壊滅的な効果を生み出します。
 
-- **Elemental Manipulation**: Intensity determines the scale and force of elemental effects, from gentle breezes to devastating storms.
+- **Elemental Manipulation**: 強度は、穏やかなそよ風から壊滅的な嵐まで、元素効果の規模と力を決定します。
 
-- **Warding**: Intensity determines the strength of magical barriers and their resistance to breaching attempts.
+- **Warding**: 強度は、魔法のバリアの強度と、侵入の試みに対する抵抗力を決定します。
 
-## Complexity and Magic
+## 複雑性と魔法
 
-Magical complexity refers to the intricacy and sophistication of magical patterns. Like a complex musical composition, complex magic can achieve effects that simpler magic cannot.
+魔法の複雑さは、魔法パターンの複雑さと洗練さを指します。複雑な音楽作品のように、複雑な魔法は、より単純な魔法では達成できない効果を達成できます。
 
-### Complexity Factors
+### 複雑性ファクター
 
-1. **Mental Capacity**: The caster's ability to conceptualize and maintain complex magical patterns.
+1. **Mental Capacity**: 詠唱者が複雑な魔法パターンを概念化し、維持する能力。
 
-2. **Soul Flexibility**: Higher Soul percentages allow for more adaptable and creative manipulation of magical energies.
+2. **Soul Flexibility**: Soulの割合が高いほど、魔法エネルギーのより適応性があり創造的な操作が可能になります。
 
-3. **Training and Knowledge**: Academic understanding of magical theory enables greater complexity.
+3. **Training and Knowledge**: 魔法理論の学術的な理解は、より高い複雑さを可能にします。
 
-### Species and Complexity
+### 種族と複雑性
 
-Different species have natural affinities for magical complexity:
+種族によって、魔法の複雑さに対する自然な親和性が異なります。
 
-- **Gnomes** (30-50% Soul, 25-40% Mana Capacity): Excel at creating complex magical devices and combining magic with technology.
+- **Gnomes** (30-50% Soul, 25-40% Mana Capacity): 複雑な魔法装置の作成や魔法とテクノロジーの組み合わせに優れています。
 
-- **Shadowfolk** (30-50% Soul, 30-50% Mana Capacity): Master intricate shadow patterns and complex illusions.
+- **Shadowfolk** (30-50% Soul, 30-50% Mana Capacity): 複雑な影のパターンと複雑な幻影を習得します。
 
-- **Humans** (15-45% Soul, 15-60% Mana Capacity): Adapt quickly to new magical paradigms and innovations.
+- **Humans** (15-45% Soul, 15-60% Mana Capacity): 新しい魔法のパラダイムと革新にすばやく適応します。
 
-- **Merfolk** (25-40% Soul, 20-40% Mana Capacity): Create complex harmonies in water magic that affect entire ecosystems.
+- **Merfolk** (25-40% Soul, 20-40% Mana Capacity): 生態系全体に影響を与える水魔法で複雑なハーモニーを作成します。
 
-### Complexity Applications
+### 複雑性応用
 
-- **Ritual Magic**: Complex rituals can achieve effects impossible through direct spellcasting.
+- **Ritual Magic**: 複雑な儀式は、直接的な呪文詠唱では不可能な効果を達成できます。
 
-- **Transformation Magic**: Altering physical forms requires intricate understanding of both target and desired form.
+- **Transformation Magic**: 物理的な形態を変更するには、ターゲットと目的の形態の両方についての複雑な理解が必要です。
 
-- **Teleportation**: Spatial manipulation demands exceptional complexity to ensure accurate and safe transit.
+- **Teleportation**: 空間操作は、正確で安全な輸送を保証するために並外れた複雑さを必要とします。
 
-## The Mana Spectrum
+## マナスペクトル
 
-When Wild Mana is purified and refined, it becomes **Base Mana** - the stable form of magical energy from which all magical effects derive. When this base mana is aligned and attuned to specific elemental resonances, it transforms into specialized elemental forms:
+Wild Manaが浄化および精製されると、それは**Base Mana**になります。これは、すべての魔法効果の派生元である魔法エネルギーの安定した形態です。このベースマナが特定の元素共鳴に合わせられ、同調されると、特殊な元素形態に変換されます。
 
-| Mana Type | Properties | Natural Affinity | Musical Analogy |
-|---------|------------|---------|----------|
-| **Wild Mana** | Chaotic, primordial, untamed | Creatures of chaos, natural world | Unstructured sound |
-| **Base Mana** | Neutral, adaptable, receptive | Humans, balanced beings | Unpitched percussion |
-| **Pyromana** | Intense, passionate, destructive | Dragonkin, Giants | Trumpet, high brass |
-| **Hydromana** | Flowing, healing, transformative | Merfolk, Sirens | Cello, flowing strings |
-| **Terramana** | Stable, enduring, protective | Dwarves, Centaurs | Bass, foundation notes |
-| **Aeromana** | Swift, changeable, far-reaching | Elves, Birdfolk | Flute, woodwinds |
-| **Luxmana** | Revealing, purifying, energizing | Fae, High Elves | Major key melodies |
-| **Umbramana** | Subtle, deceptive, penetrating | Shadowfolk, Dark Elves | Minor key melodies |
-| **Vitaemana** | Life-giving, growing, renewing | Beastfolk, Humans | Folk harmonies |
-| **Mortismana** | Decaying, transforming, conserving | Dark Elves, Shadowfolk | Dissonant harmonies |
+| マナタイプ       | プロパティ                       | 自然な親和性             | 音楽のアナロジー               |
+|----------------|---------------------------------|--------------------|----------------------------|
+| **Wild Mana**  | カオス的、原始的、未開拓              | カオスの生き物、自然界        | 構造化されていないサウンド             |
+| **Base Mana**  | ニュートラル、適応可能、受容的          | 人間、バランスの取れた存在     | 音程のないパーカッション              |
+| **Pyromana**   | 強烈、情熱的、破壊的                 | Dragonkin、Giants    | トランペット、高音ブラス                |
+| **Hydromana**  | 流れる、癒し、変革的                | Merfolk、Sirens     | チェロ、流れるような弦楽器           |
+| **Terramana**  | 安定、永続的、保護的               | ドワーフ、セントールズ       | ベース、基礎音                      |
+| **Aeromana**   | 素早い、変わりやすい、広範囲に及ぶ        | エルフ、バードフォーク         | フルート、木管楽器                   |
+| **Luxmana**    | 明らかにする、浄化する、活性化する       | Fae、ハイエルフ          | 長調のメロディー                    |
+| **Umbramana**  | 繊細、欺瞞的、浸透する                | Shadowfolk、ダークエルフ   | 短調のメロディー                    |
+| **Vitaemana**  | 生命を与える、成長する、再生する          | ビーストフォーク、人間          | フォークハーモニー                  |
+| **Mortismana** | 腐敗させる、変革する、保存する         | ダークエルフ、Shadowfolk   | 不協和音ハーモニー                  |
 
-For detailed information on elemental mana types, see [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md).
+元素マナタイプの詳細については、[ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md)を参照してください。
 
-## Magical Resonance and Dissonance
+## 魔法の共鳴と不協和音
 
-When multiple casters work together, their magic can either resonate (amplify) or create dissonance (interfere):
+複数の詠唱者が協力する場合、彼らの魔法は共鳴（増幅）するか、不協和音（干渉）を生み出す可能性があります。
 
-### Harmonic Casting
+### 調和キャスティング
 
-When casters with compatible elemental compositions work together, they can achieve magical resonance:
-- Combined magical power exceeds the sum of individual contributions
-- Enhanced purity, intensity, or complexity depending on the casters' strengths
-- Extended duration and range of magical effects
+互換性のある元素構成を持つ詠唱者が協力する場合、魔法の共鳴を達成できます。
+- 組み合わされた魔法力は、個々の貢献の合計を超えます
+- 詠唱者の強みに応じて、純度、強度、または複雑さが向上します
+- 魔法効果の持続時間と範囲が延長されます
 
-### Dissonant Casting
+### 不協和音キャスティング
 
-When casters with incompatible compositions attempt to combine magic:
-- Unpredictable effects and magical instability
-- Increased mana consumption with diminished results
-- Potential for magical feedback causing harm to casters
+非互換性のある構成を持つ詠唱者が魔法を組み合わせようとすると:
+- 予測不可能な効果と魔法の不安定性
+- 結果が減少した状態でマナ消費が増加
+- 詠唱者に害を及ぼす可能性のある魔法のフィードバック
 
-## Regeneration of Magical Energy
+## 魔法エネルギーの再生
 
-After spellcasting depletes a practitioner's mana reserves, they must recover through rest and regeneration. The rate of regeneration depends on their Mana Capacity, training, and various environmental factors. For detailed information on regeneration techniques and methods, see [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md).
+呪文詠唱によって詠唱者のマナが枯渇した後、休息と再生を通して回復する必要があります。再生速度は、Mana Capacity、トレーニング、およびさまざまな環境要因によって異なります。再生技術と方法の詳細については、[ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md)を参照してください。
 
-## The Price of Magic
+## 魔法の代償
 
-All magic exacts a price from its practitioners:
+すべての魔法は、その実践者から代償を徴収します。
 
-1. **Mana Depletion**: Casting depletes Mana Capacity, requiring rest to replenish. Severe depletion can cause exhaustion, unconsciousness, or even death.
+1. **Mana Depletion**: キャスティングはMana Capacityを枯渇させ、補充するには休息が必要です。深刻な枯渇は、疲労、意識不明、または死亡を引き起こす可能性があります。
 
-2. **Physical Strain**: The body's Exanthis content limits how much magic can be channeled safely. Exceeding these limits causes physical damage.
+2. **Physical Strain**: 体のExanthis含有量は、安全にチャネリングできる魔法の量を制限します。これらの制限を超えると、物理的な損傷が発生します。
 
-3. **Mental Fatigue**: Complex or prolonged spellcasting taxes the mind, causing difficulty maintaining concentration and eventually mental exhaustion.
+3. **Mental Fatigue**: 複雑または長期にわたる呪文詠唱は精神に負担をかけ、集中力の維持が困難になり、最終的には精神的な疲労を引き起こします。
 
-4. **Soul Wear**: Frequent use of powerful magic gradually accelerates soul decay, potentially shortening lifespan.
+4. **Soul Wear**: 強力な魔法の頻繁な使用は、徐々に魂の崩壊を加速させ、寿命を短くする可能性があります。
 
-5. **Wild Mana Contamination**: Insufficient purification can lead to Wild Mana contamination, causing unpredictable magical effects and potentially harming the caster over time.
+5. **Wild Mana Contamination**: 不十分な浄化は、Wild Mana汚染につながる可能性があり、予測不可能な魔法効果を引き起こし、時間の経過とともに詠唱者に害を及ぼす可能性があります。
 
-## Forbidden Magics
+## 禁じられた魔法
 
-Some magical practices are considered forbidden due to their dangerous nature:
+一部の魔法の慣行は、その危険な性質のために禁じられていると考えられています。
 
-1. **Soul Manipulation**: Directly altering or extracting Soul essence causes permanent damage to both subject and practitioner.
+1. **Soul Manipulation**: 魂の本質を直接変更または抽出すると、対象と実践者の両方に永続的な損傷が生じます。
 
-2. **Exanthis Conversion**: Transforming Exanthis into pure magical energy yields immense power but causes irreversible physical degradation.
+2. **Exanthis Conversion**: Exanthisを純粋な魔法エネルギーに変換すると、莫大な力が得られますが、不可逆的な物理的劣化を引き起こします。
 
-3. **Void Channeling**: Drawing power from the spaces between reality creates unpredictable rifts and attracts dangerous entities.
+3. **Void Channeling**: 現実の間の空間から力を引き出すと、予測不可能な亀裂が生じ、危険なエンティティを引き付けます。
 
-4. **Temporal Distortion**: Manipulating the flow of time creates paradoxes and weakens the fabric of reality.
+4. **Temporal Distortion**: 時間の流れを操作すると、パラドックスが作成され、現実の構造が弱まります。
 
-5. **Wild Mana Amplification**: Deliberately increasing Wild Mana content in spells to boost power at the cost of control. Can lead to catastrophic magical surges and permanent corruption.
+5. **Wild Mana Amplification**: 制御を犠牲にして力を高めるために、呪文のWild Mana含有量を意図的に増やすこと。悲惨な魔法の急増と永続的な堕落につながる可能性があります。
 
-Understanding the nature of **Magic** provides insight into the foundational forces of the world of **OpenFantasy**, like listening to the grand symphony that underlies all of creation, where each being contributes their unique part to the endless melody.
+**Magic**の性質を理解することは、**OpenFantasy**の世界の基本的な力への洞察を提供します。それはまるで創造の根底にある壮大なシンフォニーを聴くように、すべての存在が終わりのないメロディーに独自のパートを貢献しているのです。
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

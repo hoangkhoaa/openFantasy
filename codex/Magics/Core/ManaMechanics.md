@@ -1,162 +1,166 @@
-# **Mana Mechanics**: The Technical Foundations of Spellcasting
+# **Mana Mechanics**: 魔法行使の技術的な基礎
 
-In the world of OpenFantasy, successful spellcasting depends on the delicate interplay between a caster's Mana Capacity, their ability to achieve sufficient Mana Purity, and the specific Mana Type requirements of a spell. This technical foundation determines which spells a practitioner can reliably cast and explains why magical training progresses through increasingly complex and demanding workings.
+OpenFantasyの世界では、魔法行使の成功は、術者のマナ容量、十分なマナ純度を達成する能力、および呪文の特定のマナタイプの要件との間の繊細な相互作用に依存しています。この技術的な基盤によって、魔法の修行者が確実に唱えることができる呪文が決まり、魔法の訓練がますます複雑で要求の厳しい作業を通じて進歩する理由が説明されます。
 
-## Mana Capacity and Spell Casting
+## マナ容量と呪文の詠唱
 
-A being's Mana Capacity represents their innate ability to hold and channel magical energy. This elemental component has several critical influences on spellcasting ability:
+存在のマナ容量は、魔法エネルギーを保持し、伝達する彼らの生来の能力を表しています。この要素的な構成要素は、呪文の詠唱能力にいくつかの重要な影響を与えます。
 
-### Storage Capacity
+### ストレージ容量
 
-| Mana Capacity | Maximum Mana Volume | Practical Effect |
+| マナ容量 | 最大マナ量 | 実用的な効果 |
 |---------------|---------------------|------------------|
-| 5-15% | Very Low | Can cast only the simplest spells, quickly depleted |
-| 15-30% | Low | Can handle basic spells and limited casting sessions |
-| 30-50% | Moderate | Can manage intermediate spells and moderate duration |
-| 50-70% | High | Can cast advanced spells and maintain multiple effects |
-| 70-85% | Very High | Can handle complex magical workings and extended sessions |
-| 85%+ | Exceptional | Can cast legendary spells and maintain persistent effects |
+| 5-15% | 非常に低い | 最も単純な呪文しか唱えられず、すぐに枯渇する |
+| 15-30% | 低い | 基本的な呪文と限られた詠唱セッションを処理できる |
+| 30-50% | 中程度 | 中級の呪文と中程度の持続時間を管理できる |
+| 50-70% | 高い | 高度な呪文を唱え、複数の効果を維持できる |
+| 70-85% | 非常に高い | 複雑な魔法作業と長時間のセッションを処理できる |
+| 85%+ | 例外的 | 伝説的な呪文を唱え、永続的な効果を維持できる |
 
-### Regeneration Rate
+### 再生率
 
-Mana Capacity also determines how quickly a caster recovers their magical energy:
+マナ容量は、術者が魔法エネルギーを回復する速度も決定します。
 
-| Mana Capacity | Regeneration Rate | Recovery Time |
+| マナ容量 | 再生率 | 回復時間 |
 |---------------|-------------------|---------------|
-| 5-15% | Very Slow | 24+ hours for full recovery |
-| 15-30% | Slow | 12-24 hours for full recovery |
-| 30-50% | Moderate | 6-12 hours for full recovery |
-| 50-70% | Fast | 3-6 hours for full recovery |
-| 70-85% | Very Fast | 1-3 hours for full recovery |
-| 85%+ | Exceptional | Under 1 hour for full recovery |
+| 5-15% | 非常に遅い | 完全回復まで24時間以上 |
+| 15-30% | 遅い | 完全回復まで12〜24時間 |
+| 30-50% | 中程度 | 完全回復まで6〜12時間 |
+| 50-70% | 速い | 完全回復まで3〜6時間 |
+| 70-85% | 非常に速い | 完全回復まで1〜3時間 |
+| 85%+ | 例外的 | 完全回復まで1時間未満 |
 
-For more detailed information on regeneration techniques and factors, see [ManaRegeneration.md](/codex/Magics/ManaRegeneration.md).
+再生技術と要因の詳細については、[ManaRegeneration.md](/codex/Magics/ManaRegeneration.md)をご覧ください。
 
-## Mana Purity and Spell Effectiveness
+## マナ純度と呪文の効果
 
-Raw [Wild Mana](/codex/Magics/WildMana.md) must be purified to be effectively used in spellcasting. Like refining ore into metal, this process transforms chaotic Wild Mana into controlled, refined mana types suitable for pattern formation.
+生の[野生のマナ](/codex/Magics/WildMana.md)は、呪文の詠唱で効果的に使用するために精製する必要があります。鉱石を金属に精製するのと同じように、このプロセスは混沌とした野生のマナを、パターン形成に適した制御された精製されたマナタイプに変換します。
 
-### Purity Calculation
+### 純度の計算
 
-Purity is calculated using the formula:
+純度は、次の式を使用して計算されます。
 
 ```
-Purity Percentage = (Refined Mana) / (Refined Mana + Wild Mana) × 100%
+純度（パーセンテージ） = (精製されたマナ) / (精製されたマナ + 野生のマナ) × 100%
 ```
 
-This mathematical relationship explains why Wild Mana content inversely affects spell effectiveness.
+この数式的関係は、野生のマナ含有量が呪文の効果に反比例する理由を説明しています。
 
-### Purity Levels
+### 純度レベル
 
-| Purity Level | Percentage | Wild Mana Content | Difficulty to Achieve |
+| 純度レベル | パーセンテージ | 野生のマナ含有量 | 達成の難易度 |
 |--------------|------------|-------------------|----------------------|
-| **Crude** | 0-10% | 90-100% | Minimal training required |
-| **Basic** | 10-35% | 65-90% | Basic training (1-2 years) |
-| **Refined** | 35-65% | 35-65% | Intermediate training (3-5 years) |
-| **Superior** | 65-85% | 15-35% | Advanced training (6-10 years) |
-| **Perfect** | 85-100% | 0-15% | Master training (10+ years) |
+| **粗製** | 0-10% | 90-100% | 最小限のトレーニングが必要 |
+| **基本** | 10-35% | 65-90% | 基本的なトレーニング (1-2 年) |
+| **精製** | 35-65% | 35-65% | 中級のトレーニング (3-5 年) |
+| **優良** | 65-85% | 15-35% | 高度なトレーニング (6-10 年) |
+| **完璧** | 85-100% | 0-15% | マスター トレーニング (10 年以上) |
 
-### Mana Capacity and Maximum Achievable Purity
+### マナ容量と達成可能な最大純度
 
-A caster's Mana Capacity influences the maximum purity level they can potentially achieve:
+術者のマナ容量は、彼らが潜在的に達成できる最大純度レベルに影響を与えます。
 
-| Mana Capacity | Maximum Achievable Purity | Wild Mana Minimum |
+| マナ容量 | 達成可能な最大純度 | 野生のマナの最低量 |
 |---------------|-----------------------------|-------------------|
-| 5-15% | Basic (up to 25%) | 75%+ |
-| 15-30% | Basic to Refined (up to 40%) | 60%+ |
-| 30-50% | Refined (up to 60%) | 40%+ |
-| 50-70% | Superior (up to 80%) | 20%+ |
-| 70-85% | Perfect (up to 95%) | 5%+ |
-| 85%+ | Perfect (up to 100%) | Trace amounts |
+| 5-15% | 基本 (最大 25%) | 75%+ |
+| 15-30% | 基本から精製 (最大 40%) | 60%+ |
+| 30-50% | 精製 (最大 60%) | 40%+ |
+| 50-70% | 優良 (最大 80%) | 20%+ |
+| 70-85% | 完璧 (最大 95%) | 5%+ |
+| 85%+ | 完璧 (最大 100%) | ごくわずか |
 
-This limitation explains why species with naturally high Mana Capacity (such as Elves and Fae) excel at complex magic requiring high purity, while those with lower capacity (like Dwarves) typically focus on magic that requires lower purity but values stability.
+この制限は、自然に高いマナ容量を持つ種族（エルフやフェイなど）が高純度を必要とする複雑な魔法に優れ、容量の低い種族（ドワーフなど）が通常、低純度を必要とするが安定性を重視する魔法に焦点を当てる理由を説明しています。
 
-## Wild Mana to Refined Mana Conversion
+## 野生のマナから精製されたマナへの変換
 
-The biological process of converting Wild Mana to usable forms involves:
+野生のマナを使用可能な形に変換する生物学的プロセスには、次のものが含まれます。
 
-1. **Absorption**: Drawing Wild Mana from the environment into the body
-2. **Filtration**: Separating useful energy from chaotic elements
-3. **Refinement**: Stabilizing the energy into Base Mana
-4. **Specialization**: Further converting Base Mana into elemental types
+1. **吸収**: 環境から野生のマナを体内に引き込む
+2. **濾過**: 有用なエネルギーを混沌とした要素から分離する
+3. **精製**: エネルギーを安定させてベースマナにする
+4. **特殊化**: ベースマナをさらに元素タイプに変換する
 
-Different species and individuals vary in their efficiency at each stage, explaining variations in magical aptitude even among those with similar Mana Capacity.
+種や個人によって各段階での効率が異なり、マナ容量が同様であっても魔法の才能にばらつきが生じる理由を説明しています。
 
-## Spell Technical Requirements
+## 呪文の技術要件
 
-Each spell has specific technical requirements that determine which casters can successfully perform it:
+各呪文には、どの術者がそれを正常に実行できるかを決定する特定の技術要件があります。
 
-### Mana Type Distribution
+### マナタイプ分布
 
-Spells require specific proportions of different mana types:
+呪文には、異なるマナタイプの特定の割合が必要です。
 
-- **Base Mana**: The foundational energy that forms the structural framework of most spells
-- **Elemental Mana**: Specialized energies (Pyromana, Hydromana, etc.) that provide specific magical effects
-- **Combined Forms**: Complex ratios of multiple mana types for sophisticated magical effects
+- **ベースマナ**: ほとんどの呪文の構造的フレームワークを形成する基本的なエネルギー
+- **元素マナ**: 特定の魔法効果を提供する特殊なエネルギー (パイロマナ、ハイドロマナなど)
+- **複合形式**: 高度な魔法効果のための複数のマナタイプの複雑な比率
 
-The average proportion of Base Mana to specialized mana types correlates with spell difficulty:
+ベースマナから特殊なマナタイプへの平均的な割合は、呪文の難易度と相関関係があります。
 
-| Spell Level | Typical Base Mana % | Specialized Mana % | Example |
+| 呪文レベル | 典型的なベースマナ % | 特殊なマナ % | 例 |
 |-------------|---------------------|---------------------|---------|
-| Novice | 60-80% | 20-40% | Dancing Ember, Mending Touch |
-| Adept | 40-60% | 40-60% | Frost Armor, Wind Message |
-| Expert | 30-50% | 50-70% | Lightning Storm, Greater Healing |
-| Master | 20-40% | 60-80% | Earthquake, Teleportation |
-| Legendary | 10-30% | 70-90% | Weather Control, Resurrection |
+| 見習い | 60-80% | 20-40% | ダンシングエンバー、メンディングタッチ |
+| 熟練者 | 40-60% | 40-60% | フロストアーマー、ウィンドメッセージ |
+| 専門家 | 30-50% | 50-70% | ライトニングストーム、グレーターヒーリング |
+| 達人 | 20-40% | 60-80% | アースクエイク、テレポーテーション |
+| 伝説的 | 10-30% | 70-90% | ウェザーコントロール、リザレクション |
 
-### Purity Requirements
+### 純度要件
 
-Each spell has minimum purity requirements for successful casting:
+各呪文には、正常な詠唱のための最小純度要件があります。
 
-| Spell Level | Minimum Purity Required | Maximum Wild Mana Content |
+| 呪文レベル | 必要な最小純度 | 最大野生のマナ含有量 |
 |-------------|--------------------------|---------------------------|
-| Novice | Basic (10-35%) | 65-90% |
-| Adept | Refined (35-65%) | 35-65% |
-| Expert | Superior (65-85%) | 15-35% |
-| Master | Perfect (85-95%) | 5-15% |
-| Legendary | Perfect (95%+) | <5% |
+| 見習い | 基本 (10-35%) | 65-90% |
+| 熟練者 | 精製 (35-65%) | 35-65% |
+| 専門家 | 優良 (65-85%) | 15-35% |
+| 達人 | 完璧 (85-95%) | 5-15% |
+| 伝説的 | 完璧 (95%+) | <5% |
 
-Attempting to cast a spell with insufficient mana purity (excessive Wild Mana content) results in various failure modes:
+マナ純度が不十分な（過剰な野生のマナ含有量）呪文を唱えようとすると、さまざまな失敗モードが発生します。
 
-- **Minor Shortfall**: Spell works but with reduced effectiveness or duration
-- **Moderate Shortfall**: Spell fails to form completely, wasting magical energy
-- **Significant Shortfall**: Spell pattern destabilizes, potentially causing harmful side effects
-- **Critical Shortfall**: Pattern collapses catastrophically, potentially harming the caster
+- **軽微な不足**: 呪文は機能するが、効果または持続時間が低下する
+- **中程度の不足**: 呪文が完全に形成されず、魔法エネルギーが無駄になる
+- **重大な不足**: 呪文のパターンが不安定になり、有害な副作用を引き起こす可能性がある
+- **致命的な不足**: パターンが壊滅的に崩壊し、術者を傷つける可能性がある
 
-## The Harmony of Elements
+## エレメントの調和
 
-The relationship between a caster's Mana Capacity, their achieved purity level, and a spell's requirements can be understood through musical analogy:
+術者のマナ容量、達成された純度レベル、および呪文の要件の関係は、音楽のアナロジーを通じて理解できます。
 
-- **Mana Capacity** is like the range of notes a musician can play
-- **Purity Level** is like the precision with which they can hit each note
-- **Wild Mana Content** is like background noise interfering with the music
-- **Spell Requirements** are like the demands of a particular musical piece
+- **マナ容量**は、ミュージシャンが演奏できる音域のようなものです。
+- **純度レベル**は、各音をどれだけ正確に出せるかのようなものです。
+- **野生のマナ含有量**は、音楽を妨害するバックグラウンドノイズのようなものです。
+- **呪文の要件**は、特定の楽曲の要求のようなものです。
 
-Just as a musician with limited range cannot play pieces requiring notes beyond their reach, a spellcaster with insufficient Mana Capacity cannot achieve the purity levels demanded by advanced spells. Similarly, even a caster with great capacity must develop the skill (purification control) to effectively minimize Wild Mana interference.
+音域が限られているミュージシャンが自分の音域を超えた音を必要とする曲を演奏できないのと同じように、マナ容量が不十分な呪文詠唱者は、高度な呪文が要求する純度レベルを達成できません。同様に、優れた容量を持つ術者でさえ、野生のマナの干渉を効果的に最小限に抑えるスキル（精製制御）を開発する必要があります。
 
-## Training Progression
+## 訓練の進歩
 
-Magical training systematically develops both capacity and purification skill:
+魔法の訓練は、容量と精製の両方のスキルを体系的に開発します。
 
-1. **Fundamental Exercises**: Developing basic purification techniques and expanding capacity
-2. **Simple Spells**: Mastering basic patterns with low purity requirements
-3. **Capacity Building**: Exercises to gradually expand mana reserves
-4. **Purification Refinement**: Techniques to reduce Wild Mana content
-5. **Advanced Pattern Work**: Progressively more complex spells requiring greater purity
-6. **Specialization**: Focus on particular mana types and associated spell categories
+1. **基本的なエクササイズ**: 基本的な精製技術の開発と容量の拡大
+2. **単純な呪文**: 純度要件の低い基本的なパターンの習得
+3. **容量構築**: マナの蓄えを徐々に拡大するためのエクササイズ
+4. **精製の洗練**: 野生のマナ含有量を減らすための技術
+5. **高度なパターンワーク**: より高度な純度を必要とするますます複雑な呪文
+6. **特殊化**: 特定のマナタイプと関連する呪文カテゴリーに焦点を当てる
 
-Proper training recognizes the natural limitations imposed by a practitioner's Mana Capacity while maximizing their potential within those constraints. This explains the structured curriculum found in magical academies, where students progress through increasingly demanding spells as their capacity and purification skills develop.
+適切な訓練は、修行者のマナ容量によって課せられる自然な制限を認識しながら、それらの制約の中で彼らの可能性を最大限に引き出します。これは、魔法アカデミーで見られる構造化されたカリキュラムを説明しており、生徒は容量と精製スキルが向上するにつれて、ますます要求の厳しい呪文を通じて進歩します。
 
-## Individual Variations
+## 個々のバリエーション
 
-Natural aptitude for purification exists independently of Mana Capacity:
+精製に対する自然な適性は、マナ容量とは無関係に存在します。
 
-- **Natural Purifiers**: Some individuals with moderate Mana Capacity achieve exceptional purity by efficiently filtering Wild Mana
-- **High-Volume Casters**: Others with great Mana Capacity but less refinement excel at power-intensive but lower-precision magic
-- **Specialists**: Those with affinity for specific elemental mana types achieve higher purity with those types
-- **Balanced Practitioners**: Those who develop equally in capacity and purification skill
-- **Wild Harmonizers**: Rare practitioners who work with rather than against Wild Mana, incorporating its chaotic nature
+- **自然な精製者**: 中程度のマナ容量を持つ一部の個人は、野生のマナを効率的にフィルタリングすることにより、例外的な純度を達成します
+- **大容量の術者**: 優れたマナ容量を持つが、洗練されていない他の術者は、電力集約的だが精度が低い魔法に優れています
+- **スペシャリスト**: 特定の元素マナタイプに対する親和性を持つ者は、それらのタイプでより高い純度を達成します
+- **バランスの取れた修行者**: 容量と精製スキルが均等に発達している者
+- **野生の調和者**: 野生のマナに対抗するのではなく、その混沌とした性質を取り入れ、野生のマナを利用する稀な修行者
 
-These variations explain the diverse approaches to magic found among practitioners, from the precise, efficient spellwork of some to the raw, powerful castings of others.
+これらのバリエーションは、一部の正確で効率的な呪文作業から、他の者の生の強力な詠唱まで、修行者に見られる魔法への多様なアプローチを説明しています。
 
-Understanding these mechanical foundations provides insight into why magical training follows specific progressions, why certain species tend toward particular magical traditions, and how individual practitioners develop their unique approaches to the magical arts. 
+これらのメカニズムの基礎を理解することで、なぜ魔法の訓練が特定の進歩をたどるのか、なぜ特定の種族が特定の魔法の伝統に向かう傾向があるのか、そして個々の修行者が魔法の芸術に対する独自の アプローチをどのように開発するのかについての洞察が得られます。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

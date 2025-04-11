@@ -1,121 +1,125 @@
-# Animals of OpenFantasy
+# OpenFantasy の動物
 
-> *"From the smallest songbird to the mightiest leviathan, the animal kingdom provides the vibrant backdrop against which all stories unfold."*
+> *"最小の鳴き鳥から最強の巨獣まで、動物界はあらゆる物語が展開される活気に満ちた背景を提供します。"*
 
-## Overview
+## 概要
 
-Animals in OpenFantasy represent the diverse non-sentient fauna that inhabit the world's ecosystems. While they lack the advanced reasoning and civilization-building capabilities of sentient species, animals possess varying degrees of intelligence, instinct, and in some cases, innate magical properties.
+OpenFantasy の動物は、世界の生態系に生息する多様な非知性的な動物相を代表します。彼らは知性のある種族のような高度な推論能力や文明構築能力を持っていませんが、動物はさまざまな程度の知性、本能、そして場合によっては、生来の魔法の特性を持っています。
 
-Unlike the purely magical beings or constructed creatures, animals evolved naturally within the world's ecosystems, though some have been influenced by magical environments or selective breeding by sentient species.
+純粋な魔法の存在や創造された生き物とは異なり、動物は世界の生態系の中で自然に進化しましたが、一部は魔法環境の影響を受けたり、知性のある種族による選択的繁殖を受けたりしています。
 
-## Elemental Composition
+## 元素構成
 
-Animals typically have a higher proportion of Exanthis (physical form) compared to Soul and Mana Capacity, with some notable exceptions:
+動物は通常、魂とマナ容量に比べて Exanthis (物理的な形) の割合が高くなっていますが、いくつかの注目すべき例外があります。
 
-| Animal Category | Typical Elemental Ratio | Notes |
+| 動物カテゴリ | 典型的な元素比率 | 注釈 |
 |-----------------|-------------------------|-------|
-| Common Mundane | E: 75-90%, S: 8-20%, M: 2-5% | Most standard wildlife |
-| Companion Animals | E: 65-85%, S: 12-25%, M: 3-10% | Domesticated species with higher intelligence |
-| Apex Predators | E: 70-85%, S: 10-20%, M: 5-15% | Evolved for hunting efficiency |
-| Magical Animals | E: 50-75%, S: 5-15%, M: 15-45% | Species with innate magical properties |
+| 一般的な平凡な動物 | E: 75-90%, S: 8-20%, M: 2-5% | ほとんどの標準的な野生生物 |
+| コンパニオンアニマル | E: 65-85%, S: 12-25%, M: 3-10% | より高い知能を持つ家畜化された種 |
+| 頂点捕食者 | E: 70-85%, S: 10-20%, M: 5-15% | 狩猟効率のために進化した |
+| 魔法動物 | E: 50-75%, S: 5-15%, M: 15-45% | 生来の魔法の特性を持つ種 |
 
-## Animal Classifications
+## 動物分類
 
-### Domesticated Animals
+### 家畜
 
-Species that have been selectively bred by sentient races for specific purposes:
+特定の目的のために知性のある種族によって選択的に繁殖された種：
 
-| Category | Examples | Primary Uses |
+| カテゴリ | 例 | 主な用途 |
 |----------|----------|--------------|
-| **Working Animals** | Horses, oxen, pack mules | Transportation, agriculture, labor |
-| **Companion Animals** | Dogs, cats, small birds | Emotional bonding, protection, pest control |
-| **Livestock** | Cattle, sheep, poultry | Food production, materials (wool, leather) |
-| **Guardian Beasts** | Wardogs, sentinel falcons | Security, perimeter control |
+| **役畜** | 馬、牛、駄ロバ | 輸送、農業、労働 |
+| **コンパニオンアニマル** | 犬、猫、小鳥 | 感情的な絆、保護、害虫駆除 |
+| **家畜** | 牛、羊、家禽 | 食料生産、材料 (羊毛、皮革) |
+| **守護獣** | 番犬、見張り鷹 | セキュリティ、周辺警備 |
 
-→ See [Domesticated Animals](Domesticated.md) for detailed information.
+→ 詳細については [Domesticated Animals](Domesticated.md) を参照してください。
 
-### Wild Animals
+### 野生動物
 
-Creatures that exist independently in natural ecosystems:
+自然生態系に独立して存在する生き物：
 
-| Category | Examples | Ecological Role |
+| カテゴリ | 例 | 生態学的役割 |
 |----------|----------|----------------|
-| **Herbivores** | Deer, rabbits, grazing beasts | Primary consumers, seed dispersal |
-| **Predators** | Wolves, large cats, birds of prey | Population control, ecosystem balance |
-| **Scavengers** | Vultures, carrion beetles | Decomposition, disease prevention |
-| **Pollinators** | Bees, butterflies, hummingbirds | Plant reproduction, ecosystem sustainability |
+| **草食動物** | 鹿、ウサギ、草を食む獣 | 一次消費者、種子散布 |
+| **捕食者** | オオカミ、大型ネコ、猛禽類 | 個体数管理、生態系のバランス |
+| **スカベンジャー** | ハゲワシ、死肉を食べる甲虫 | 分解、病気予防 |
+| **送粉者** | ハチ、チョウ、ハチドリ | 植物の繁殖、生態系の持続可能性 |
 
-→ See [Wild Animals](Wild.md) for detailed information.
+→ 詳細については [Wild Animals](Wild.md) を参照してください。
 
-### Aquatic Creatures
+### 水生生物
 
-Beings adapted to life in water environments:
+水生環境での生活に適応した生物：
 
-| Category | Examples | Habitat |
+| カテゴリ | 例 | 生息地 |
 |----------|----------|---------|
-| **Marine Mammals** | Whales, dolphins, seals | Oceans, coastal waters |
-| **Fish Species** | Trout, sharks, deep-sea species | Rivers, lakes, oceans |
-| **Crustaceans & Mollusks** | Crabs, octopi, giant squid | Ocean floors, tidal zones |
-| **Amphibious** | Frogs, newts, transitional species | Wetlands, shorelines |
+| **海洋哺乳類** | クジラ、イルカ、アザラシ | 海、沿岸水域 |
+| **魚類** | マス、サメ、深海魚 | 川、湖、海 |
+| **甲殻類 & 軟体動物** | カニ、タコ、ダイオウイカ | 海底、潮間帯 |
+| **両生類** | カエル、イモリ、移行種 | 湿地、海岸線 |
 
-→ See [Aquatic Animals](Aquatic.md) for detailed information.
+→ 詳細については [Aquatic Animals](Aquatic.md) を参照してください。
 
-### Magical Animals
+### 魔法動物
 
-Creatures with innate magical properties, evolved in areas with high mana concentration:
+高いマナ濃度のある地域で進化した、生来の魔法の特性を持つ生き物：
 
-| Category | Examples | Magical Properties |
+| カテゴリ | 例 | 魔法の特性 |
 |----------|----------|-------------------|
-| **Elemental Aligned** | Phoenixes, frost wolves | Manifestation of elemental energies |
-| **Mythical Beasts** | Griffins, unicorns, manticores | Complex magical anatomies |
-| **Mana Sensitives** | Arcane ravens, spell hounds | Detection and interaction with magical energies |
-| **Transmuted Species** | Crystal butterflies, glowfish | Permanently altered by magical environments |
+| **元素整列** | フェニックス、フロストウルフ | 元素エネルギーの具現化 |
+| **神話の獣** | グリフォン、ユニコーン、マンティコア | 複雑な魔法の解剖学 |
+| **マナ感受性** | アルケインレイブン、スペルハウンド | 魔法エネルギーの検出と相互作用 |
+| **変成種** | クリスタルバタフライ、グローフィッシュ | 魔法環境によって永久に変化した |
 
-→ See [Magical Animals](Magical.md) for detailed information.
+→ 詳細については [Magical Animals](Magical.md) を参照してください。
 
-## Ecological Significance
+## 生態学的な重要性
 
-Animals play crucial roles in maintaining the ecological balance of OpenFantasy:
+動物は、OpenFantasy の生態系のバランスを維持する上で重要な役割を果たしています。
 
-### Natural Cycles
+### 自然の循環
 
-- **Food Webs**: Complex interdependent relationships between species
-- **Material Cycles**: Contribution to nutrient cycling through consumption and decomposition
-- **Environmental Shaping**: Landscape modification through grazing, burrowing, and other behaviors
-- **Magical Energy Distribution**: Some species serve as natural conduits or regulators of magical energy
+- **食物網**: 種間の複雑な相互依存関係
+- **物質循環**: 消費と分解による栄養循環への貢献
+- **環境形成**: 放牧、穴掘り、その他の行動による景観の改変
+- **魔法エネルギーの分布**: 一部の種は、魔法エネルギーの自然な導管または調整者として機能します
 
-### Interactions with Sentient Species
+### 知性のある種族との相互作用
 
-- **Resource Provision**: Food, materials, labor, and transportation
-- **Companionship**: Emotional bonds between animals and sentient beings
-- **Magical Assistance**: Familiars, magical detection, spell components
-- **Cultural Significance**: Symbolism, spiritual importance, artistic inspiration
+- **資源提供**: 食料、材料、労働力、輸送
+- **コンパニオンシップ**: 動物と知性のある存在の間の感情的な絆
+- **魔法支援**: 使い魔、魔法の検出、呪文成分
+- **文化的重要性**: 象徴性、精神的な重要性、芸術的なインスピレーション
 
-## Mana Interaction
+## マナ相互作用
 
-While most animals cannot consciously manipulate mana as sentient species do, their relationship with magical energy takes various forms:
+ほとんどの動物は、知性のある種族のように意識的にマナを操作することはできませんが、魔法エネルギーとの関係はさまざまな形をとります。
 
-| Interaction Type | Manifestation | Examples |
+| 相互作用タイプ | 発現 | 例 |
 |------------------|---------------|----------|
-| **Passive Absorption** | Accumulation of ambient magical energy | Animals in mana-rich environments gradually developing magical traits |
-| **Instinctive Channeling** | Natural, non-conscious use of magical abilities | A phoenix's rebirth cycle, a unicorn's purification abilities |
-| **Environmental Adaptation** | Physical changes in response to magical surroundings | Creatures in wild magic zones developing protective adaptations |
-| **Familiar Bonds** | Enhanced magical capabilities through connection with mages | Wizard's familiar gaining intelligence and magical resistance |
+| **受動的吸収** | 周囲の魔法エネルギーの蓄積 | マナが豊富な環境にいる動物が徐々に魔法の特性を発達させる |
+| **本能的なチャネリング** | 魔法能力の自然な、無意識の使用 | フェニックスの再生サイクル、ユニコーンの浄化能力 |
+| **環境適応** | 魔法の環境への反応における物理的な変化 | ワイルドマジックゾーンにいる生き物が保護的な適応を発達させる |
+| **使い魔の絆** | 魔術師とのつながりによる魔法能力の強化 | 魔法使いの使い魔が知性と魔法抵抗を獲得する |
 
-## Ecological Zones and Endemic Species
+## 生態学的ゾーンと固有種
 
-OpenFantasy features diverse biomes, each with specialized animal adaptations:
+OpenFantasy には多様なバイオームがあり、それぞれが特殊な動物の適応を持っています。
 
-| Biome | Notable Species | Special Adaptations |
+| バイオーム | 注目すべき種 | 特別な適応 |
 |-------|-----------------|---------------------|
-| **Frostwilds** | Snow lions, glacier bears, frost eagles | Cold resistance, seasonal camouflage |
-| **Verdant Plains** | Thunderhooves (bison), prairie wolves, hawk swarms | Herd behaviors, endurance migration |
-| **Ancient Forests** | Shadowbears, treestriders, whispermoths | Magical camouflage, connection to forest spirits |
-| **Desert Expanse** | Sand wyrms, heat scorpions, mirage gazelles | Water conservation, heat regulation |
-| **Enchanted Marshes** | Glowtoads, spell leeches, mist cranes | Mana filtration, magical detoxification |
-| **Crystal Mountains** | Stone eagles, echo goats, geomite swarms | Mineral metabolism, navigation in magnetic fields |
-| **Abyssal Depths** | Pressure sharks, luminfin anglers, void eels | Extreme pressure adaptation, bioluminescence |
+| **フロストワイルズ** | スノーライオン、グレイシャーベア、フロストイーグル | 耐寒性、季節的なカモフラージュ |
+| **緑豊かな平原** | サンダーフーフ (バイソン)、プレーリーウルフ、ホークスワーム | 群れの行動、耐久移動 |
+| **古代の森** | シャドウベア、ツリーストライダー、ウィスパーモス | 魔法のカモフラージュ、森の精霊とのつながり |
+| **砂漠の広がり** | サンドワーム、ヒートスコーピオン、ミラージュガゼル | 水の節約、体温調節 |
+| **魅惑の湿地** | グロートード、スペルリーチ、ミストクレーン | マナろ過、魔法の解毒 |
+| **クリスタルマウンテン** | ストーンイーグル、エコーゴート、ジオマイトスワーム | ミネラル代謝、磁場におけるナビゲーション |
+| **深淵の深さ** | プレッシャーシャーク、ルミノフィンアングラー、ボイドイール | 極圧適応、生物発光 |
 
 ---
 
-> *"To understand a land, one must first understand its creatures—for they are the living expression of the environment itself."* — Naturalist Elara Greenmantle 
+> *"土地を理解するには、まずその生き物を理解しなければならない。なぜなら、彼らは環境そのものの生きた表現だからだ。"* — ナチュラリスト エララ・グリーンマントル
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,91 +1,95 @@
-# **Guardian**: The Shield of the Innocent
+# **Guardian**: 無垢なる者の盾
 
-[**Guardians**](/codex/Classes/Warrior/Guardian.md) are the defensive specialists of the [**Warrior**](/codex/Classes/Warrior/Warrior.md) class, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a protective barrier, they stand between danger and those they protect, creating a unique melody of existence that emphasizes defense, resilience, and sacrifice.
+[**ガーディアン**](/codex/Classes/Warrior/Guardian.md)は、[**ウォーリアー**](/codex/Classes/Warrior/Warrior/Warrior.md)クラスの防御スペシャリストであり、彼らの身体は[**Exanthis**](/codex/Basic/Exanthis.md)、[**魂**](/codex/Basic/Soul.md)、そして**マナ容量**の調和の取れた融合です。まるで保護バリアのように、彼らは危険と守るべき人々の間に立ちふさがり、防御、回復力、そして犠牲を強調する、唯一無二の存在の旋律を奏でます。
 
-## Elemental Composition
+## 元素構成
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **guardians** forms a harmony that favors defensive capabilities:
+[Classes](/codex/Classes/Classes.md)で詳述されているように、**ガーディアン**の典型的な比率は、防御能力を重視した調和を形成します。
 
-| Element | Percentage | Function |
+| 元素 | パーセンテージ | 機能 |
 |---------|------------|----------|
-| **Exanthis** | 65% | The crystalline heart that provides exceptional physical durability and resilience |
-| **Soul** | 20% | The ethereal essence that shapes a protective and selfless consciousness |
-| **Mana Capacity** | 15% | The bridge between worlds that enables limited protective magic |
+| **Exanthis** | 65% | 卓越した物理的な耐久性と回復力をもたらす結晶質の心臓 |
+| **魂** | 20% | 保護的で無私無欲な意識を形作るエーテル的な本質 |
+| **マナ容量** | 15% | 限定的な保護魔法を可能にする世界間の架け橋 |
 
-This composition grants **guardians** their characteristic defensive prowess but limits their offensive capabilities compared to other warrior subclasses, like a shield that excels at blocking but cannot strike.
+この構成は、**ガーディアン**に特徴的な防御力をもたらしますが、防御に優れていても攻撃できない盾のように、他のウォーリアーサブクラス（訳注：例：剣闘士など）と比較して攻撃能力を制限します。
 
-## Physical Characteristics
+## 身体的特徴
 
-**Guardians** are known for their defensive focus and protective nature:
-- Sturdy build with broad shoulders and strong legs, like a fortress built to withstand siege
-- Eyes that reflect vigilance and concern for others, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of shields and defensive weapons, like a musician who has perfected the art of the drum
-- Presence that reassures allies and intimidates enemies, like a protective wall that stands firm
-- Stance that emphasizes defense and readiness to intercept attacks, like a guardian poised to protect
+**ガーディアン**は、防御への焦点と保護的な性質で知られています。
+- 包囲戦に耐えるために築かれた要塞のように、頑丈な体格、広い肩幅、そして強い脚
+- [**魂**](/codex/Basic/Soul.md)とのつながりを示す、警戒心と他人への気遣いを反映した目
+- ドラムの芸術を完璧にした音楽家のように、盾と防御武器の使用を習得した手
+- 保護壁のように揺るがない、味方を安心させ、敵を威圧する存在感
+- 防御と攻撃の迎撃の準備を強調する姿勢。まるで守護者が保護のために身構えているかのよう
 
-## Defensive Affinity
+## 防御適性
 
-**Guardians** demonstrate exceptional proficiency in defensive combat, like virtuoso musicians who have mastered the art of protection. Their composition allows them to:
-- Block and intercept attacks directed at allies, like a shield that stands between danger and safety
-- Create defensive formations that protect groups, like a conductor orchestrating a protective symphony
-- Endure punishment that would incapacitate others, like a fortress that weathers the storm
+**ガーディアン**は、まるで保護の芸術を習得した名手のような、卓越した防御戦闘能力を発揮します。彼らの構成により、彼らは次のことが可能になります。
+- 危険と安全の間に立つ盾のように、味方への攻撃をブロックし、迎撃する
+- 指揮者が保護のシンフォニーを編成するように、集団を保護する防御陣形を作成する
+- 嵐を乗り切る要塞のように、他の者を無力化するような懲罰に耐える
 
-This specialization makes **guardians** capable of achieving the highest levels of proficiency in defensive techniques, though they may struggle with tasks requiring offensive power or mobility, like a shield that excels at protection but cannot strike with the same force as a sword.
+この専門性により、**ガーディアン**は防御技術において最高レベルの熟練度を達成できます。しかし、剣が持つ力と同じ力で攻撃することができない盾のように、攻撃力や機動性を必要とするタスクには苦労する可能性があります。
 
-## Training and Development
+## トレーニングと育成
 
-The path of a **guardian** involves rigorous defensive training and mental discipline:
-- Daily shield practice and defensive drills, like musicians practicing protective techniques
-- Physical conditioning to build endurance and resilience, like strengthening a fortress's walls
-- Study of defensive tactics and protective strategies, like learning the theory behind protective magic
-- Meditation to develop focus and awareness of threats, like a sentinel who never sleeps
+**ガーディアン**の道は、厳格な防御訓練と精神的な鍛錬を伴います。
+- 音楽家が保護技術を練習するように、毎日の盾の練習と防御ドリル
+- 要塞の壁を強化するように、持久力と回復力を構築するための身体調整
+- 保護魔法の理論を学ぶように、防御戦術と保護戦略の研究
+- 決して眠らない歩哨のように、集中力と脅威への意識を高めるための瞑想
 
-## Equipment and Gear
+## 装備とギア
 
-**Guardians** rely on various defensive equipment to enhance their protective abilities:
-- Shields ranging from small bucklers to massive tower shields, like different instruments for different protective needs
-- Defensive armor that provides maximum protection, like a well-fitted case for a precious instrument
-- Defensive accessories such as bracers, greaves, and protective talismans, like accessories that enhance an instrument's protective capabilities
+**ガーディアン**は、保護能力を高めるためにさまざまな防御装備に依存しています。
+- さまざまな保護ニーズに対応するさまざまな楽器のように、小さなバックラーから巨大なタワーシールドまで、さまざまな盾
+- 大切な楽器のためのよく合うケースのように、最大限の保護を提供する防御鎧
+- 楽器の保護機能を強化するアクセサリーのように、ブレイサー、グリーブ、保護のお守りなどの防御アクセサリー
 
-## Guardian Techniques
+## ガーディアンスキル
 
-**Guardians** employ various techniques to protect themselves and others:
+**ガーディアン**は、自身と他の者を保護するためにさまざまなスキルを使用します。
 
-### Shield Wall
+### シールドウォール
 
-The **Shield Wall** technique allows guardians to form an impenetrable defensive line, like a wall of shields that blocks all attacks. This technique is particularly effective when multiple guardians work together, creating a defensive formation that can protect entire groups.
+**シールドウォール**スキルにより、ガーディアンはすべての攻撃をブロックする盾の壁のように、突破不可能な防御線を形成できます。このスキルは、複数のガーディアンが連携して、集団全体を保護できる防御陣形を作成するときに特に効果的です。
 
-### Intercept
+### インターセプト
 
-The **Intercept** technique allows guardians to move between an ally and an incoming attack, like a shield that leaps to protect. This technique requires exceptional timing and awareness, allowing guardians to protect allies even when they are not directly in front of them.
+**インターセプト**スキルにより、ガーディアンは味方と迫りくる攻撃の間を移動できます。まるで保護のために飛び出す盾のようです。このスキルには、優れたタイミングと意識が必要であり、ガーディアンは目の前にいない味方でも保護できます。
 
-### Defensive Stance
+### ディフェンシブスタンス
 
-The **Defensive Stance** technique allows guardians to adopt a posture that maximizes their defensive capabilities, like a fortress that stands ready to weather any storm. This technique reduces the guardian's mobility but significantly increases their ability to block and absorb attacks.
+**ディフェンシブスタンス**スキルにより、ガーディアンはあらゆる嵐に耐える準備ができている要塞のように、防御能力を最大化する姿勢をとることができます。このスキルは、ガーディアンの機動性を低下させますが、攻撃をブロックおよび吸収する能力を大幅に向上させます。
 
-### Protective Aura
+### プロテクティブオーラ
 
-The **Protective Aura** technique allows guardians to extend their protective abilities to nearby allies, like a shield that grows to protect an entire group. This technique requires significant concentration and energy but can provide protection to multiple allies simultaneously.
+**プロテクティブオーラ**スキルにより、ガーディアンは保護能力を近くの味方に拡大できます。まるで集団全体を保護するために成長する盾のようです。このスキルには、かなりの集中力とエネルギーが必要ですが、複数の味方を同時に保護できます。
 
-## Notable Guardian Traits
+## 注目すべきガーディアンの特性
 
-- **Defensive Mastery**: Guardians excel in defensive combat, often specializing in specific protective techniques
-- **Physical Resilience**: Guardians can endure punishment that would incapacitate others
-- **Protective Instinct**: Guardians develop a keen sense for detecting and responding to threats
-- **Selflessness**: Many guardians develop a strong sense of duty to protect others
-- **Discipline**: Guardians maintain rigorous training regimens to maintain their defensive abilities
+- **防御マスタリー**: ガーディアンは防御戦闘に優れており、特定の保護技術を専門とする場合が多い
+- **物理的な回復力**: ガーディアンは他の者を無力化するような懲罰に耐えることができる
+- **保護本能**: ガーディアンは脅威を検出し、対応するための鋭い感覚を発達させる
+- **無私無欲**: 多くのガーディアンは、他の者を保護する強い義務感を抱く
+- **鍛錬**: ガーディアンは防御能力を維持するために、厳格なトレーニングレジメンを維持する
 
-## Guardian Orders
+## ガーディアンの秩序
 
-Guardian society is organized into numerous orders, each with its own specialties and techniques:
+ガーディアン社会は多数の秩序に編成されており、それぞれに独自の専門性と技術があります。
 
-| Order | Specialty | Territory | Notable Traits |
+| 秩序 | 専門 | 領域 | 注目すべき特性 |
 |---------|---------------|---------|-------------------|
-| **Shield Bearers** | Personal protection, bodyguards | Urban centers | Personal defense, close protection |
-| **Wall Wardens** | Group protection, formation defense | Military fortresses | Defensive formations, shield walls |
-| **Sanctuary Keepers** | Place protection, territory defense | Settlements | Territory defense, settlement protection |
-| **Light Wardens** | Magical protection, ward creation | Magical realms | Magical wards, protective enchantments |
-| **Vanguard** | Front-line defense, battle protection | Battlefields | Battle defense, front-line protection |
-| **Sentinel** | Watch protection, threat detection | Border regions | Threat detection, watch protection |
+| **シールドベアラー** | 個人的な保護、ボディガード | 都市部 | 個人的な防御、近接保護 |
+| **ウォールウォーデン** | グループ保護、陣形防御 | 軍事要塞 | 防御陣形、シールドウォール |
+| **サンクチュアリキーパー** | 場所の保護、領域防御 | 居留地 | 領域防御、居留地保護 |
+| **ライトウォーデン** | 魔法の保護、結界の作成 | 魔法の領域 | 魔法の結界、保護のエンチャント |
+| **ヴァンガード** | 前線防御、戦闘保護 | 戦場 | 戦闘防御、前線保護 |
+| **センチネル** | 見張り保護、脅威検出 | 国境地域 | 脅威検出、見張り保護 |
 
-Understanding the nature of **guardians** provides insight into the protective aspects of the world of **OpenFantasy**, like listening to the steady rhythms that form the foundation of the symphony of defense. 
+**ガーディアン**の本質を理解することは、防御のシンフォニーの基盤を形成する着実なリズムを聞くように、**OpenFantasy**の世界の保護的側面への洞察を提供します。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

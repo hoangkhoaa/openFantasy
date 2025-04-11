@@ -1,222 +1,226 @@
-# **Gravity Field**
+# **重力場 (Gravity Field)**
 
-> *"Gravity is not a mere force but a relationship between mass and space—understanding this principle allows us not to defy it, but to reinterpret it."*  
-> — Magister Theia Voidwalker, Gravity Arts Pioneer
+> *"重力は単なる力ではなく、質量と空間の関係である。この原理を理解することで、重力に逆らうのではなく、それを再解釈することができるのです。"*
+> — 魔道士テイア・ヴォイドウォーカー、重力術の先駆者
 
-## Casting Information
-- **Difficulty**: Intermediate to Expert
-- **Casting Time**: 3-8 seconds
-- **Duration**: Concentration, up to 3 minutes
-- **Range**: Self-centered sphere, 5-20 foot radius
-- **Components**: Somatic, Verbal, Focus (for advanced applications)
+## 詠唱情報
+- **難易度**: 中級～上級
+- **詠唱時間**: 3～8秒
+- **持続時間**: 集中、最大3分
+- **範囲**: 自己中心球、半径5～20フィート
+- **構成要素**: 身体、言語、焦点（高度な応用の場合）
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 65%, Terramana 20%, Aeromana 15%
-- **Primary Factor**: Training and Technical Execution (more significant than purity)
-- **Minimum Mana Capacity**: 25% (Higher capacity extends radius and duration)
-- **Pattern Complexity**: Moderate to Complex (5-tier nested gravity matrix)
-- **Resonance Frequency**: Ultra-low frequency physical spectrum
-- **Roaming Mana Utilization**: Very High (Optimized to operate at regeneration threshold)
+## 技術詳細
+- **マナタイプ分布**: ベースマナ65%、テラマナ20%、エアロマナ15%
+- **主要因子**: 訓練と技術的実行（純度よりも重要）
+- **最低マナ容量**: 25% (容量が高いほど半径と持続時間が長くなる)
+- **パターン複雑性**: 中程度～複雑 (5段階の入れ子になった重力マトリックス)
+- **共鳴周波数**: 超低周波物理スペクトル
+- **ローミングマナ利用**: 非常に高い (再生閾値で動作するように最適化)
 
-## Core Principles
+## 中核原則
 
-Gravity Field manipulates the fundamental force of gravity within a defined area. Unlike simpler directional force spells, Gravity Field creates a persistent area where gravity's strength and direction can be altered. This makes it particularly useful for area control, mobility enhancement, and environmental manipulation.
+重力場は、定義された領域内の重力の基本力を操作します。より単純な方向性力魔法とは異なり、重力場は、重力の強さと方向を変更できる永続的な領域を作成します。このため、エリアコントロール、機動性向上、環境操作に特に役立ちます。
 
-The spell functions through a complex pattern that establishes:
+この呪文は、次の確立された複雑なパターンを通じて機能します。
 
-1. **Field Boundary**: The defined sphere of influence
-2. **Gravitational Constant Modifier**: The amplification or reduction factor applied to normal gravity
-3. **Directional Matrix**: The optional reorientation of gravitational pull
-4. **Stability Framework**: The pattern elements maintaining field coherence
-5. **Selectivity Filter**: The optional component allowing selective application to specific targets
+1. **フィールド境界**: 定義された影響範囲
+2. **重力定数修飾子**: 通常の重力に適用される増幅または減少係数
+3. **方向マトリックス**: 重力引力のオプションの方向転換
+4. **安定性フレームワーク**: フィールドのコヒーレンスを維持するパターン要素
+5. **選択性フィルター**: 特定のターゲットへの選択的適用を可能にするオプションのコンポーネント
 
-What distinguishes Gravity Field from many other combat spells is its reliance on technical execution rather than mana purity. While quality mana certainly helps, masters of this discipline focus primarily on precise pattern manipulation and field stability techniques. This allows practitioners with only moderate purity levels to achieve remarkable effects through dedicated training and applied understanding of gravitational principles.
+重力場が他の多くの戦闘呪文と異なる点は、マナの純度よりも技術的な実行に依存していることです。質の高いマナはもちろん役立ちますが、この分野の達人は主に、正確なパターン操作とフィールド安定化技術に焦点を当てています。これにより、純度が中程度のレベルの施術者でも、重力の原理に関する献身的な訓練と応用的な理解を通じて、目覚ましい効果を達成できます。
 
-## Standard Variants
+## 標準バリエーション
 
-### Gravity Reduction Field
-Creates an area of reduced gravity, ideal for group mobility:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Reduces gravity by 30-70% for all objects and beings in the area
-- **Typical Users**: Battle Mages, Scouts, Infiltration Teams
-- **Applications**: Group enhanced jumping, fall damage reduction, weight reduction for crossing unstable terrain
+### 重力軽減フィールド
+重力を軽減したエリアを作成します。グループの移動に最適です。
+- **難易度**: 中級
+- **純度要件**: 精製済み (30～40%)
+- **効果**: エリア内のすべてのオブジェクトと存在の重力を30～70%軽減します。
+- **典型的なユーザー**: バトルメイジ、スカウト、潜入チーム
+- **応用**: グループのジャンプ力強化、落下ダメージ軽減、不安定な地形を横断するための軽量化
 
-### Gravity Enhancement Field
-Increases gravitational pull in the target area:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%) 
-- **Effect**: Increases effective gravity by 50-200% within area
-- **Typical Users**: Battle Mages, Tactical Casters, Defenders
-- **Applications**: Slowing enemy movement, preventing jumps/flight, securing loose objects
+### 重力増強フィールド
+ターゲットエリアの重力を増加させます。
+- **難易度**: 中級
+- **純度要件**: 精製済み (35～45%)
+- **効果**: エリア内の有効重力を50～200%増加させます。
+- **典型的なユーザー**: バトルメイジ、戦術キャスター、ディフェンダー
+- **応用**: 敵の移動速度の低下、ジャンプ/飛行の防止、緩いオブジェクトの固定
 
-### Gravity Direction Shift
-Alters the direction of gravitational pull:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Changes which direction is "down" within the field
-- **Typical Users**: Elite Mages, Special Forces
-- **Applications**: Creating walking surfaces on walls/ceilings, redirecting projectiles, disorienting enemies
+### 重力方向シフト
+重力引力の方向を変更します。
+- **難易度**: 上級
+- **純度要件**: 精製～完璧 (45～65%)
+- **効果**: フィールド内で「下」の方向を変更します。
+- **典型的なユーザー**: エリートメイジ、特殊部隊
+- **応用**: 壁/天井に歩行面を作成する、発射物をリダイレクトする、敵を混乱させる
 
-## Advanced Variants
+## 高度なバリエーション
 
-### Selective Gravity Field
-Affects only specified targets within the area:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Applies gravity effects only to selected targets
-- **Typical Users**: Master Battle Mages, Elite Controllers
-- **Applications**: Immobilizing specific enemies while allies move freely, targeted equipment disruption
+### 選択的重力場
+エリア内の指定されたターゲットのみに影響します。
+- **難易度**: 専門家
+- **純度要件**: 完璧 (65～75%)
+- **効果**: 選択したターゲットにのみ重力効果を適用します。
+- **典型的なユーザー**: マスターバトルメイジ、エリートコントローラー
+- **応用**: 味方が自由に移動している間、特定の敵を固定する、ターゲットを絞った機器の破壊
 
-### Gravity Singularity
-Creates a central point of intense gravitational attraction:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-85%)
-- **Effect**: Generates powerful inward pull toward field center
-- **Typical Users**: Master Mages, Elite Specialists
-- **Applications**: Pulling enemies together, collecting scattered objects, creating defensive perimeter
+### 重力特異点
+激しい重力引力の中心点を作成します。
+- **難易度**: マスター
+- **純度要件**: 完璧 (70～85%)
+- **効果**: フィールドの中心に向かって強力な内向きの引力を生成します。
+- **典型的なユーザー**: マスターメイジ、エリートスペシャリスト
+- **応用**: 敵をまとめる、散らばったオブジェクトを収集する、防御境界を作成する
 
-### Zero Gravity Bubble
-Creates a perfect gravity-null environment:
-- **Difficulty**: Grandmaster
-- **Purity Requirement**: Perfect (80-90%)
-- **Effect**: Completely negates gravitational forces within field
-- **Typical Users**: Archmages, Theoretical Specialists
-- **Applications**: True flight, perfect weightlessness, delicate operation environments for crafting
+### ゼロ重力バブル
+完璧な重力ゼロ環境を作成します。
+- **難易度**: グランドマスター
+- **純度要件**: 完璧 (80～90%)
+- **効果**: フィールド内の重力を完全に打ち消します。
+- **典型的なユーザー**: アークメイジ、理論スペシャリスト
+- **応用**: 真の飛行、完全な無重力、クラフトのための繊細な操作環境
 
-## Purity Influence on Effect
+## 効果に対する純度の影響
 
-Mana purity significantly impacts field stability, control, and scale:
+マナの純度は、フィールドの安定性、制御、スケールに大きな影響を与えます。
 
-| Purity Level | Field Stability | Control Level | Maximum Field Radius | Duration |
+| 純度レベル | フィールドの安定性 | 制御レベル | 最大フィールド半径 | 持続時間 |
 |--------------|----------------|---------------|----------------------|----------|
-| 30-40% | Fluctuating, minor inconsistencies | Basic alteration | 5-10 feet | Up to 1 minute |
-| 40-60% | Stable with defined boundary | Precise adjustment, directional control | 10-15 feet | Up to 2 minutes |
-| 60-80% | Highly stable with crisp boundary | Fine-tuned control, selective application | 15-20 feet | Up to 3 minutes |
-| 80%+ | Perfect stability with manipulable boundary | Complete mastery, dynamic adjustments | 20-30 feet | Up to 5 minutes |
+| 30-40% | 不安定、わずかな矛盾 | 基本的な変更 | 5-10 フィート | 最大 1 分 |
+| 40-60% | 定義された境界を持つ安定 | 正確な調整、方向制御 | 10-15 フィート | 最大 2 分 |
+| 60-80% | 明確な境界を持つ非常に安定 | 微調整された制御、選択的な適用 | 15-20 フィート | 最大 3 分 |
+| 80%+ | 操作可能な境界を持つ完璧な安定性 | 完全な習熟、動的な調整 | 20-30 フィート | 最大 5 分 |
 
-## Class-Specific Applications
+## クラス固有の応用
 
-### Warrior Class
-- **Gravity Armor**: Localized field reducing weight of heavy armor
-- **Ground Slam**: Enhanced downward force during leaping attacks
-- **Gravity Anchor**: Increased stability during defensive maneuvers
-- **Pursuit Enhancement**: Reduced gravity for closing distance to fleeing targets
+### 戦士クラス
+- **重力アーマー**: 重い鎧の重量を軽減する局所的なフィールド
+- **グラウンドスラム**: 跳躍攻撃中の下方への力強化
+- **重力アンカー**: 防御操作中の安定性向上
+- **追跡強化**: 逃げるターゲットへの距離を縮めるための重力軽減
 
-### Rogue/Assassin Class
-- **Wall Runner**: Shifting gravity to enable movement along vertical surfaces
-- **Featherfall**: Emergency gravity reduction to avoid fall damage
-- **Silent Approach**: Weight reduction for stealth movement
-- **Gravity Pocket**: Local field for increasing thrown weapon impact
+### ローグ/アサシンクラス
+- **ウォールランナー**: 垂直面での移動を可能にする重力シフト
+- **フェザーフォール**: 落下ダメージを回避するための緊急重力軽減
+- **サイレントアプローチ**: ステルス移動のための軽量化
+- **重力ポケット**: 投げ武器の衝撃を増加させる局所的なフィールド
 
-### Ranger Class
-- **Tactical Reposition**: Enhanced mobility in natural environments
-- **Canopy Traversal**: Gravity manipulation for tree-to-tree movement
-- **Arrow Storm Control**: Selective gravity to guide multiple projectiles
-- **Beast Master Aid**: Assisting animal companions with difficult terrain
+### レンジャークラス
+- **戦術的再配置**: 自然環境における機動性向上
+- **キャノピー横断**: 木から木への移動のための重力操作
+- **アローストーム制御**: 複数の発射物を誘導するための選択的重力
+- **ビーストマスター補助**: 動物の仲間が困難な地形を移動するのを支援する
 
-### Mage Class
-- **Levitation Field**: Group floating for crossing hazardous ground
-- **Laboratory Environment**: Controlled gravity for delicate arcane experiments
-- **Defensive Orbit**: Floating protective objects around caster
-- **Ritual Enhancement**: Manipulating components in three dimensions
+### メイジクラス
+- **レビテーションフィールド**: 危険な地面を横断するためのグループ浮遊
+- **実験室環境**: 繊細な秘術実験のための制御された重力
+- **防御軌道**: キャスターの周囲に浮遊する保護オブジェクト
+- **儀式の強化**: 3次元でのコンポーネントの操作
 
-## Technical Mastery and Effect
+## 技術習熟と効果
 
-Unlike many complex spells, Gravity Field depends more on technique and training than on mana purity:
+他の多くの複雑な呪文とは異なり、重力場はマナの純度よりも技術と訓練に依存しています。
 
-| Training Level | Field Control | Area Coverage | Effect Intensity | Sustainability |
+| 訓練レベル | フィールド制御 | エリアカバレッジ | 効果強度 | 持続可能性 |
 |----------------|---------------|---------------|------------------|----------------|
-| Novice | Basic uniform gravity change | 5-foot radius | 30-50% gravity modification | High energy cost, brief duration |
-| Intermediate | Stable field with consistent boundary | 5-10 foot radius | 50-100% gravity modification | Moderate efficiency, short durations |
-| Advanced | Field shaping and directional control | 10-15 foot radius | 50-200% gravity modification | Efficient use, combat-viable duration |
-| Master | Selective targeting and gradient effects | 15-25 foot radius | 25-300% gravity modification | Optimized for regeneration equilibrium |
+| 初心者 | 基本的な均一重力変化 | 半径5フィート | 30-50%の重力変更 | 高いエネルギーコスト、短い持続時間 |
+| 中級 | 一貫した境界を持つ安定したフィールド | 半径5-10フィート | 50-100%の重力変更 | 適度な効率、短い持続時間 |
+| 上級 | フィールド成形と方向制御 | 半径10-15フィート | 50-200%の重力変更 | 効率的な使用、戦闘に実行可能な持続時間 |
+| マスター | 選択的なターゲティングと勾配効果 | 半径15-25フィート | 25-300%の重力変更 | 再生平衡に最適化 |
 
-Gravity Field practitioners develop specialized techniques to utilize ambient roaming mana, allowing them to maintain effects at the threshold of their natural mana regeneration. By establishing an energy equilibrium, expert users can sustain fields for extended periods, limited primarily by concentration rather than mana depletion.
+重力場の実践者は、周囲のローミングマナを利用するための特殊な技術を開発し、自然なマナ再生の閾値で効果を維持できるようにします。エネルギー平衡を確立することで、熟練したユーザーは、マナの枯渇ではなく、主に集中力によって制限され、フィールドを長期間維持できます。
 
-## Mana Capacity and Field Relationship
+## マナ容量とフィールドの関係
 
-The primary limiting factor in Gravity Field manipulation is the relationship between mana capacity and field size/strength:
+重力場操作の主な制限要因は、マナ容量とフィールドサイズ/強度の関係です。
 
-| Mana Capacity | Maximum Sustainable Radius | Maximum Intensity | Duration at Maximum Exertion |
+| マナ容量 | 最大持続可能半径 | 最大強度 | 最大運動時の持続時間 |
 |---------------|----------------------------|-------------------|------------------------------|
-| 25-35% | 5-10 foot radius | ±100% gravity | 1-2 minutes (sustainable) |
-| 36-50% | 10-15 foot radius | ±150% gravity | 1-2 minutes (sustainable) |
-| 51-65% | 15-20 foot radius | ±200% gravity | 30-60 seconds (approaching regeneration limit) |
-| 66-80% | 20-25 foot radius | ±250% gravity | 15-30 seconds (exceeds regeneration) |
-| 81%+ | 25-30 foot radius | ±300% gravity | Brief tactical use only (rapidly depletes reserves) |
+| 25-35% | 半径5-10フィート | ±100%重力 | 1-2 分 (持続可能) |
+| 36-50% | 半径10-15フィート | ±150%重力 | 1-2 分 (持続可能) |
+| 51-65% | 半径15-20フィート | ±200%重力 | 30-60 秒 (再生限界に近づく) |
+| 66-80% | 半径20-25フィート | ±250%重力 | 15-30 秒 (再生を超える) |
+| 81%+ | 半径25-30フィート | ±300%重力 | 短時間の戦術的使用のみ (貯蔵を急速に枯渇させる) |
 
-Experienced practitioners typically operate at 75-85% of their maximum capacity, creating a balance between tactical effectiveness and sustainable duration. Some develop specialized techniques to periodically pulse stronger effects then return to sustainable levels, creating rhythm-based combat styles.
+経験豊富な実践者は通常、最大容量の75〜85％で動作し、戦術的な有効性と持続可能な持続時間の間でバランスをとります。一部のユーザーは、より強力な効果を定期的にパルスし、持続可能なレベルに戻る特殊な技術を開発し、リズムベースの戦闘スタイルを作成します。
 
-## Training Progression
+## 訓練の進捗
 
-### Basic Understanding
-- Mastering the foundational gravity reduction technique
-- Learning to maintain field boundaries
-- Practicing personal weight adjustment
-- Simple area effect generation
-- Roaming mana sensitivity development
+### 基本的な理解
+- 基礎となる重力軽減技術の習得
+- フィールド境界を維持することの学習
+- 個人的な体重調整の練習
+- 単純なエリア効果の生成
+- ローミングマナ感度の開発
 
-### Intermediate Control
-- Developing field stability under stressful conditions
-- Learning to modulate gravity strength dynamically
-- Beginning direction control exercises
-- Expanding field radius while maintaining stability
-- Regeneration synchronization techniques
+### 中級制御
+- ストレスの多い状況下でのフィールドの安定性の開発
+- 重力の強度を動的に変調することを学ぶ
+- 方向制御演習の開始
+- 安定性を維持しながらフィールド半径の拡大
+- 再生同期技術
 
-### Advanced Manipulation
-- Mastering directional control
-- Developing selective targeting within field
-- Practicing field shape alteration
-- Combining with other spell systems
-- Ambient mana harvesting optimization
+### 高度な操作
+- 方向制御の習得
+- フィールド内での選択的なターゲティングの開発
+- フィールド形状の変更の練習
+- 他の呪文システムとの組み合わせ
+- 周囲のマナ収穫の最適化
 
-### Master Techniques
-- Gravity gradient creation
-- Multi-zone field establishment
-- Pulsed effect timing systems
-- Sustainable field rotation
-- Combat movement integration
+### マスターテクニック
+- 重力勾配の作成
+- 複数ゾーンのフィールドの確立
+- パルス効果タイミングシステム
+- 持続可能なフィールド回転
+- 戦闘移動の統合
 
-## Technical Considerations
+## 技術的な考慮事項
 
-- **Regeneration Equilibrium**: Finding the balance point between field strength and natural mana recovery
-- **Ambient Energy Integration**: Methods to supplement personal reserves with environmental mana
-- **Field Boundary Efficiency**: Minimizing energy loss at the edges of the gravity field
-- **Pattern Compression**: Techniques to reduce unnecessary complexity in field matrices
-- **Momentum Conservation**: Understanding how changes in gravitational force affect energy requirements
-- **Cyclic Reinforcement**: Creating field patterns that partially self-sustain through gravitational feedback
+- **再生平衡**: フィールド強度と自然なマナ回復の間のバランスポイントを見つける
+- **周囲のエネルギー統合**: 環境マナで個人的な貯蔵を補完する方法
+- **フィールド境界効率**: 重力場の端でのエネルギー損失を最小限に抑える
+- **パターン圧縮**: フィールドマトリックス内の不要な複雑さを軽減する技術
+- **運動量保存**: 重力の変化がエネルギー要件にどのように影響するかを理解する
+- **循環的強化**: 重力フィードバックを通じて部分的に自己持続するフィールドパターンの作成
 
-## Risk Factors
+## リスク要因
 
-### Common Mishaps
-- **Field Collapse**: Sudden return to normal gravity causing falls or crashes
-- **Inversion Feedback**: Unintended reversal of gravitational direction
-- **Boundary Instability**: Erratic field edge causing unpredictable effects
-- **Casting Disorientation**: Spatial confusion affecting the caster's balance
-- **Singularity Formation**: Unintended central gravity well forming within field
+### よくある事故
+- **フィールド崩壊**: 通常の重力への突然の復帰により、落下または衝突が発生する
+- **反転フィードバック**: 重力方向の意図しない逆転
+- **境界不安定性**: 予測不可能な効果を引き起こす不安定なフィールドエッジ
+- **詠唱方向感覚喪失**: キャスターのバランスに影響を与える空間的混乱
+- **特異点形成**: フィールド内に意図しない中心重力井戸が形成される
 
-### Safety Practices
-- Training in controlled environments with safety equipment
-- Practicing with lightweight objects before self-application
-- Gradual field expansion technique to maintain control
-- Emergency field dissolution technique
-- Maintaining grounding anchor point awareness
+### 安全対策
+- 安全装置を備えた制御された環境でのトレーニング
+- 自己適用前に軽量オブジェクトで練習する
+- 制御を維持するための段階的なフィールド拡張技術
+- 緊急フィールド溶解技術
+- 接地アンカーポイントの認識を維持する
 
-## Historical Development
+## 歴史的発展
 
-Gravity Field manipulation emerged during the late Second Age when theoretical mages began exploring the fundamental forces beyond elemental magic. The pioneering work of the Orbital Circle, a secretive mage society, established the core principles still used today.
+重力場操作は、理論的な魔術師が元素魔法を超えた基本力の探求を始めた第二次年代後期に登場しました。秘密の魔術師協会であるオービタルサークルの先駆的な研究は、今日でも使用されている中核原則を確立しました。
 
-Early application of the art was limited by the prevailing belief that only those with exceptional mana purity could achieve meaningful gravitational effects. This changed dramatically when Theia Voidwalker, a battle mage with only moderate purity levels, demonstrated the superiority of technical execution over raw magical quality. Her revolutionary "Technique Over Purity" doctrine transformed gravitational magic from an esoteric scholarly pursuit into a practical combat discipline accessible to warriors with basic magical training.
+この芸術の初期の応用は、並外れたマナの純度を持つ者だけが意味のある重力効果を達成できるという一般的な信念によって制限されていました。これは、純度が中程度のレベルのバトルメイジであるテイア・ヴォイドウォーカーが、生の魔法の質よりも技術的な実行の優位性を示したときに劇的に変化しました。彼女の革新的な「純度よりも技術」の教義は、重力魔法を難解な学術的追求から、基本的な魔法の訓練を受けた戦士がアクセスできる実用的な戦闘規律に変えました。
 
-> *"The key insight that revolutionized gravity manipulation was not a breakthrough in purification, but in technique. When we stopped trying to overwhelm gravity with pure power and instead learned to dance with it through precise application, we achieved what generations of high-purity theorists could not."* — From the combat journals of Theia Voidwalker
+> *"重力操作に革命をもたらした重要な洞察は、浄化のブレークスルーではなく、技術のブレークスルーでした。純粋な力で重力を圧倒しようとするのをやめ、代わりに正確な応用を通じて重力と踊ることを学んだとき、高純度理論家の世代が達成できなかったことを達成しました。"* — テイア・ヴォイドウォーカーの戦闘日誌より
 
-## Practical Notes
+## 実践的なメモ
 
-Gravity Field is particularly mana-intensive to maintain over longer periods. Efficient casters often establish anchor points to reduce the ongoing concentration requirement. The spell interacts complexly with other force-based magic, sometimes creating unexpected resonance effects that skilled casters can exploit.
+重力場は、長期間維持するには特にマナ集約的です。効率的なキャスターは、継続的な集中要件を減らすためにアンカーポイントを確立することがよくあります。この呪文は他の力ベースの魔法と複雑に相互作用し、熟練したキャスターが利用できる予期しない共鳴効果を生み出すことがあります。
 
-For novice practitioners, the greatest challenge is often not the initial field generation but maintaining consistent effect throughout the field area while working within their regeneration limits—a skill that comes only with dedicated practice and spatial awareness training.
+初心者の場合、最大の課題は、多くの場合、最初のフィールド生成ではなく、フィールド領域全体で一貫した効果を維持しながら、再生制限内で作業することです。これは、献身的な練習と空間認識トレーニングでのみ得られるスキルです。
 
 ---
 
-*See also: [Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Movement Enhancement](/codex/Magics/Spells/Utility/MovementEnhancement.md), [Advanced Battle Magic](/codex/Magics/Spells/Combat/BattleMagicPrinciples.md)* 
+*参照: [フォースベクター (Force Vector)](/codex/Magics/Spells/Utility/ForceVector.md), [移動強化 (Movement Enhancement)](/codex/Magics/Spells/Utility/MovementEnhancement.md), [高度なバトル魔法 (Advanced Battle Magic)](/codex/Magics/Spells/Combat/BattleMagicPrinciples.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

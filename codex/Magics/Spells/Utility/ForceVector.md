@@ -1,190 +1,194 @@
-# **Force Vector**
+# **フォース・ベクトル (Force Vector)**
 
-> *"The secret to wielding pure force is understanding that all motion is but energy in translation—a simple truth with endless applications."*  
-> — Archmage Verik Stormhand, Battle Academy Founder
+> *"純粋な力を振るう秘訣は、すべての運動は単なるエネルギーの変換に過ぎないことを理解することだ。これは単純な真実だが、無限の応用がある。"*
+> — 大魔道士ヴェリック・ストームハンド、バトルアカデミー創設者
 
-## Casting Information
-- **Difficulty**: Novice to Advanced (varies by application)
-- **Casting Time**: 1-5 seconds
-- **Duration**: Instantaneous to 1 minute (varies by application)
-- **Range**: Touch to 30 feet
-- **Components**: Somatic (all variants), Verbal (advanced variants)
+## キャスティング情報 (Casting Information)
+- **難易度 (Difficulty)**: 初心者から上級者 (応用によって異なる)
+- **詠唱時間 (Casting Time)**: 1-5秒
+- **持続時間 (Duration)**: 瞬間的から1分 (応用によって異なる)
+- **射程距離 (Range)**: 接触から30フィート
+- **構成要素 (Components)**: 体勢 (すべてのバリアント)、言語 (高度なバリアント)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 70-90%, Aeromana 10-20%, Terramana 0-10%
-- **Primary Factor**: Technique and Training (more significant than purity)
-- **Minimum Mana Capacity**: 15% (Higher capacity allows manipulation of heavier objects)
-- **Pattern Complexity**: Simple to Moderate (3-tier interlocking force matrix)
-- **Resonance Frequency**: Low to mid-range physical spectrum
-- **Roaming Mana Utilization**: High (Often used at the limit of natural mana recovery)
+## 技術詳細 (Technical Details)
+- **マナタイプ分布 (Mana Type Distribution)**: ベースマナ 70-90%, エアロマナ 10-20%, テラマナ 0-10%
+- **主要因 (Primary Factor)**: 技術と訓練 (純度よりも重要)
+- **最低マナ容量 (Minimum Mana Capacity)**: 15% (容量が大きいほど重いオブジェクトを操作できる)
+- **パターン複雑度 (Pattern Complexity)**: 簡単から中程度 (3層のインターロック式フォースマトリックス)
+- **共鳴周波数 (Resonance Frequency)**: 低〜中域の物理スペクトル
+- **ローミングマナ利用 (Roaming Mana Utilization)**: 高 (自然なマナ回復の限界でよく使用される)
 
-## Core Principles
+## コア原理 (Core Principles)
 
-Force Vector is a fundamental utility spell that converts pure mana into directional kinetic energy. Unlike elemental spells that manifest visible effects, Force Vector creates invisible lines of force that can push, pull, lift, or manipulate objects based on the caster's intent and the specific pattern variation employed.
+フォース・ベクトル (Force Vector) は、純粋なマナを方向性のある運動エネルギーに変換する基本的なユーティリティ呪文です。可視効果を発揮する元素呪文とは異なり、フォース・ベクトル (Force Vector) は、キャスターの意図と使用する特定のパターンバリエーションに基づいて、オブジェクトを押し、引き、持ち上げ、または操作できる目に見えない力のラインを作成します。
 
-The spell works by creating a resonant connection between the caster's mana and physical matter, allowing for the transfer of kinetic energy without direct physical contact. The core pattern establishes:
+この呪文は、キャスターのマナと物理的な物体との間に共鳴接続を確立することによって機能し、直接的な物理的接触なしに運動エネルギーの伝達を可能にします。コアパターンは以下を確立します。
 
-1. **Force Origin Point**: The anchor from which force emanates
-2. **Vector Direction**: The precise angle and orientation of the force
-3. **Intensity Matrix**: The strength and distribution of force along the vector
-4. **Decay Function**: How quickly the force dissipates with distance
+1. **力の発生源 (Force Origin Point)**: 力が発せられるアンカー
+2. **ベクトル方向 (Vector Direction)**: 力の正確な角度と方向
+3. **強度マトリックス (Intensity Matrix)**: ベクトルに沿った力の強さと分布
+4. **減衰関数 (Decay Function)**: 距離とともに力がどれだけ速く消散するか
 
-What distinguishes Force Vector from many other spells is its reliance on proper technique rather than high mana purity. Even practitioners with moderate purity levels can achieve remarkable results through disciplined training and precise execution. This makes it particularly popular among warriors and practical mages who may not have specialized in mana purification.
+フォース・ベクトル (Force Vector) が他の多くの呪文と異なるのは、高いマナ純度ではなく、適切な技術に依存していることです。中程度の純度レベルの施術者でも、訓練と正確な実行を通じて目覚ましい結果を達成できます。このため、マナ浄化を専門としていない戦士や実用的な魔術師の間で特に人気があります。
 
-## Standard Variants
+## 標準バリアント (Standard Variants)
 
-### Force Push
-The most basic application, creating a directed push away from the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-20%)
-- **Effect**: Generates a short burst of force in a specified direction
-- **Typical Users**: Warriors, Guards, Duelists
-- **Applications**: Repelling attackers, creating distance, knocking back objects
+### フォース・プッシュ (Force Push)
+最も基本的なアプリケーションで、キャスターから離れる方向へのプッシュを作成します。
+- **難易度 (Difficulty)**: 初心者
+- **純度要件 (Purity Requirement)**: 基本 (15-20%)
+- **効果 (Effect)**: 指定された方向に力の短いバーストを生成します
+- **典型的なユーザー (Typical Users)**: 戦士、警備兵、決闘者
+- **応用 (Applications)**: 攻撃者の撃退、距離の作成、オブジェクトのノックバック
 
-### Force Pull
-Reverses the vector to draw objects toward the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-20%)
-- **Effect**: Creates attractive force to draw small objects to hand
-- **Typical Users**: Rangers, Duelists, Scholars
-- **Applications**: Retrieving weapons, gathering items, disarming opponents
+### フォース・プル (Force Pull)
+ベクトルを反転して、オブジェクトをキャスターに向かって引き寄せます。
+- **難易度 (Difficulty)**: 初心者
+- **純度要件 (Purity Requirement)**: 基本 (15-20%)
+- **効果 (Effect)**: 小さなオブジェクトを手元に引き寄せる引力を生成します
+- **典型的なユーザー (Typical Users)**: レンジャー、決闘者、学者
+- **応用 (Applications)**: 武器の回収、アイテムの収集、対戦相手の武装解除
 
-### Gravity Reduction
-Manipulates the force vector counter to natural gravity:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Basic to Refined (20-35%)
-- **Effect**: Reduces effective weight of target by 30-70%
-- **Typical Users**: All classes (specialized applications)
-- **Applications**: Lightening carried equipment, enhancing jumps, enabling stealth movement
+### 重力軽減 (Gravity Reduction)
+自然な重力に反してフォース・ベクトルを操作します。
+- **難易度 (Difficulty)**: 中級者
+- **純度要件 (Purity Requirement)**: 基本〜洗練 (20-35%)
+- **効果 (Effect)**: ターゲットの有効重量を30〜70%削減します
+- **典型的なユーザー (Typical Users)**: すべてのクラス (特殊な応用)
+- **応用 (Applications)**: 携帯装備の軽量化、ジャンプの強化、ステルス移動の実現
 
-## Advanced Variants
+## 高度なバリアント (Advanced Variants)
 
-### Weapon Guidance
-Creates subtle force vectors to influence projectile trajectory:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Allows minor correction of projectile path after release
-- **Typical Users**: Rangers, Scouts, Specialist Archers
-- **Applications**: Guiding arrows around obstacles, compensating for wind, striking moving targets
+### 武器誘導 (Weapon Guidance)
+投射物の軌道に影響を与える微妙なフォース・ベクトルを作成します。
+- **難易度 (Difficulty)**: 上級者
+- **純度要件 (Purity Requirement)**: 洗練 (35-45%)
+- **効果 (Effect)**: リリース後、投射物の経路のわずかな修正を可能にします
+- **典型的なユーザー (Typical Users)**: レンジャー、スカウト、専門アーチャー
+- **応用 (Applications)**: 障害物の周りの矢の誘導、風の補正、移動するターゲットの攻撃
 
-### Multiple Vector Control
-Establishes several force vectors simultaneously:
-- **Difficulty**: Expert
-- **Purity Requirement**: Refined to Perfect (45-60%)
-- **Effect**: Controls 2-5 separate objects with independent force vectors
-- **Typical Users**: Blade Dancers, Battle Mages, Duelists
-- **Applications**: Floating weapon techniques, manipulating multiple objects, complex maneuvers
+### 多重ベクトル制御 (Multiple Vector Control)
+複数のフォース・ベクトルを同時に確立します。
+- **難易度 (Difficulty)**: エキスパート
+- **純度要件 (Purity Requirement)**: 洗練〜完璧 (45-60%)
+- **効果 (Effect)**: 独立したフォース・ベクトルで2〜5個の別々のオブジェクトを制御します
+- **典型的なユーザー (Typical Users)**: ブレードダンサー、バトルメイジ、決闘者
+- **応用 (Applications)**: 浮遊武器テクニック、複数のオブジェクトの操作、複雑な操作
 
-### Force Plane
-Creates a sustained horizontal force vector field:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (60-75%)
-- **Effect**: Generates a planar force that can support weight
-- **Typical Users**: High-level Mages, Advanced Practitioners
-- **Applications**: Creating temporary bridges, floating platforms, emergency barriers
+### フォースプレーン (Force Plane)
+持続的な水平フォース・ベクトルフィールドを作成します。
+- **難易度 (Difficulty)**: マスター
+- **純度要件 (Purity Requirement)**: 完璧 (60-75%)
+- **効果 (Effect)**: 重量を支えることができる平面的な力を生成します
+- **典型的なユーザー (Typical Users)**: 高レベルの魔術師、上級施術者
+- **応用 (Applications)**: 一時的な橋の作成、浮遊プラットフォーム、緊急バリア
 
-## Purity Influence on Effect
+## 効果に対する純度の影響 (Purity Influence on Effect)
 
-Unlike many spells, Force Vector depends more on technique and training than on mana purity. The relationship between capacity, technique, and object weight is more significant:
+多くの呪文とは異なり、フォース・ベクトル (Force Vector) はマナ純度よりも技術と訓練に大きく依存します。容量、技術、およびオブジェクトの重量の関係がより重要です。
 
-| Technique Level | Force Control | Maximum Weight | Efficiency |
+| 技術レベル (Technique Level) | 力の制御 (Force Control) | 最大重量 (Maximum Weight) | 効率 (Efficiency) |
 |-----------------|---------------|----------------|------------|
-| Novice | Basic directional pushing/pulling | 5-10 pounds | Low (significant mana waste) |
-| Practiced | Precise angles and consistent force | 10-50 pounds | Moderate (sustainable use) |
-| Expert | Fine control with minimal effort | 50-200 pounds | High (approaches natural regeneration limit) |
-| Master | Complex multi-vector manipulation | 200-500+ pounds | Excellent (maximizes natural regeneration) |
+| 初心者 (Novice) | 基本的な方向への押し/引き | 5-10ポンド | 低 (マナの浪費が大きい) |
+| 熟練者 (Practiced) | 正確な角度と一貫した力 | 10-50ポンド | 中程度 (持続可能な使用) |
+| エキスパート (Expert) | 最小限の労力で微調整 | 50-200ポンド | 高 (自然な再生限界に近づく) |
+| マスター (Master) | 複雑なマルチベクトル操作 | 200-500+ポンド | 非常に優れている (自然な再生を最大化) |
 
-Most practitioners learn to work within their natural mana regeneration limits, utilizing roaming mana in the environment to supplement their own energy. This creates a sustainable equilibrium where they can maintain force effects for extended periods without exhaustion, provided they don't exceed their capacity threshold.
+ほとんどの施術者は、自然なマナ再生の限界内で作業することを学び、周囲のローミングマナを利用して自身のエネルギーを補完します。これにより、容量のしきい値を超えない限り、疲労することなく長期間にわたって力の効果を維持できる持続可能な均衡が生まれます。
 
-## Mana Capacity and Weight Relationship
+## マナ容量と重量の関係 (Mana Capacity and Weight Relationship)
 
-The primary limiting factor in Force Vector manipulation is the relationship between mana capacity and object weight:
+フォース・ベクトル (Force Vector) 操作の主な制限要因は、マナ容量とオブジェクトの重量の関係です。
 
-| Mana Capacity | Maximum Sustainable Weight | Duration at Maximum Weight |
+| マナ容量 (Mana Capacity) | 最大持続可能な重量 (Maximum Sustainable Weight) | 最大重量での持続時間 (Duration at Maximum Weight) |
 |---------------|----------------------------|----------------------------|
-| 15-20% | Up to 50 pounds | Minutes (sustainable) |
-| 21-30% | Up to 100 pounds | Minutes (sustainable) |
-| 31-45% | Up to 250 pounds | Brief periods (limited sustainability) |
-| 46-60% | Up to 500 pounds | Very brief (exceeds regeneration) |
-| 61%+ | 500+ pounds | Momentary (quickly depletes reserves) |
+| 15-20% | 最大50ポンド | 数分 (持続可能) |
+| 21-30% | 最大100ポンド | 数分 (持続可能) |
+| 31-45% | 最大250ポンド | 短期間 (持続可能性が限られている) |
+| 46-60% | 最大500ポンド | 非常に短い (再生を超える) |
+| 61%+ | 500+ポンド | 瞬間的 (急速にリソースを消費) |
 
-Experienced users learn to operate at approximately 80-90% of their maximum capacity to maintain a balance between effectiveness and sustainability.
+経験豊富なユーザーは、効果と持続可能性のバランスを維持するために、最大容量の約80〜90%で操作することを学びます。
 
-## Class-Specific Applications
+## クラス固有の応用 (Class-Specific Applications)
 
-### Warrior Class
-- **Forceful Strike**: Enhances weapon impacts with additional force
-- **Repelling Guard**: Creates defensive force barrier on shield
-- **Ground Stomp**: Channels force into ground to unbalance opponents
-- **Weapon Recall**: Pulls disarmed weapon back to hand
+### 戦士クラス (Warrior Class)
+- **フォースフル・ストライク (Forceful Strike)**: 武器の衝撃を追加の力で強化します
+- **リペリング・ガード (Repelling Guard)**: シールドに防御フォースバリアを作成します
+- **グラウンド・ストンプ (Ground Stomp)**: 地面に力を伝えて相手のバランスを崩します
+- **武器リコール (Weapon Recall)**: 武装解除された武器を手元に戻します
 
-### Rogue/Assassin Class
-- **Silent Step**: Reduces footfall weight for silent movement
-- **Pocket Pull**: Subtly extracts items from containers or pockets
-- **Needle Storm**: Controls multiple poisoned needles in combat
-- **Wall Run**: Partially negates gravity to run along vertical surfaces briefly
+### ローグ/アサシンクラス (Rogue/Assassin Class)
+- **サイレント・ステップ (Silent Step)**: 足音の重さを軽減して静かに移動します
+- **ポケット・プル (Pocket Pull)**: 容器またはポケットからアイテムを微妙に取り出します
+- **ニードル・ストーム (Needle Storm)**: 戦闘中に複数の毒針を制御します
+- **ウォール・ラン (Wall Run)**: 部分的に重力を打ち消して、垂直面を短時間走ります
 
-### Ranger Class
-- **Arrow Guidance**: Minor course correction for arrows after firing
-- **Force Trap**: Embeds force vector in ground to trip or delay pursuers
-- **Canopy Walk**: Reduces weight to traverse tree branches safely
-- **Hunting Pull**: Retrieves small game from difficult locations
+### レンジャークラス (Ranger Class)
+- **アローガイダンス (Arrow Guidance)**: 発射後の矢のわずかなコース修正
+- **フォーストラップ (Force Trap)**: 地面にフォース・ベクトルを埋め込んで、追跡者をトリップまたは遅延させます
+- **キャノピー・ウォーク (Canopy Walk)**: 重量を軽減して、木の枝を安全に横断します
+- **ハンティング・プル (Hunting Pull)**: 小さな獲物を困難な場所から回収します
 
-### Mage Class
-- **Mana-Efficient Levitation**: Reduces body weight to float with minimal mana expenditure
-- **Object Arrangement**: Precise positioning of ritual components
-- **Tome Management**: Turns pages and manages multiple books simultaneously
-- **Arcane Assembly**: Manipulates delicate magical components during crafting
+### メイジクラス (Mage Class)
+- **マナ効率の高い浮遊 (Mana-Efficient Levitation)**: 体重を軽減して、最小限のマナ消費で浮遊します
+- **オブジェクト配置 (Object Arrangement)**: 儀式コンポーネントの正確な配置
+- **トームマネジメント (Tome Management)**: ページをめくり、複数の本を同時に管理します
+- **アルケインアセンブリ (Arcane Assembly)**: クラフト中に繊細な魔法のコンポーネントを操作します
 
-## Training Progression
+## トレーニングの進捗 (Training Progression)
 
-### Novice
-- Learning to generate consistent force direction
-- Single-vector control exercises
-- Weight estimation and force calibration
-- Simple push/pull applications
+### 初心者 (Novice)
+- 一貫した力の方向を生成することを学ぶ
+- シングルベクトル制御演習
+- 重量の推定と力の校正
+- 簡単なプッシュ/プルアプリケーション
 
-### Intermediate
-- Multi-angle vector manipulation
-- Duration extension through pattern stability
-- Fine control exercises for precision targeting
-- Combining movement with vector casting
+### 中級者 (Intermediate)
+- 多角的なベクトル操作
+- パターンの安定性による持続時間の延長
+- 正確なターゲティングのための微調整演習
+- ベクトルキャスティングと動きの組み合わせ
 
-### Advanced
-- Multiple simultaneous vector control
-- Vector field generation and maintenance
-- Rapid vector switching techniques
-- Integration with other spell systems
+### 上級者 (Advanced)
+- 複数の同時ベクトル制御
+- ベクトル場の生成と維持
+- 高速ベクトル切り替え技術
+- 他の呪文システムとの統合
 
-## Risk Factors
+## リスク要因 (Risk Factors)
 
-### Common Mishaps
-- **Vector Reversal**: Force manifests in opposite intended direction
-- **Intensity Fluctuation**: Uneven force application causing object damage
-- **Pattern Collapse**: Premature dissipation of force field
-- **Feedback Loop**: Force redirects toward caster
+### 一般的な失敗 (Common Mishaps)
+- **ベクトル反転 (Vector Reversal)**: 力が意図した方向とは反対の方向に現れます
+- **強度変動 (Intensity Fluctuation)**: 力の不均一な適用によりオブジェクトが損傷します
+- **パターン崩壊 (Pattern Collapse)**: 力場の早期消散
+- **フィードバックループ (Feedback Loop)**: 力がキャスターに向かってリダイレクトされます
 
-### Technical Considerations
-- **Regeneration Balance**: Finding the equilibrium between force exertion and natural mana recovery
-- **Roaming Mana Utilization**: Techniques to draw upon ambient mana to supplement personal reserves
-- **Weight Estimation**: Accurately gauging an object's mass to apply appropriate force
-- **Vector Precision**: Maintaining exact angles and directions for optimal effect
-- **Efficiency Training**: Minimizing wasted energy through refined technique
+### 技術的な考慮事項 (Technical Considerations)
+- **再生バランス (Regeneration Balance)**: 力の行使と自然なマナ回復の間の均衡を見つける
+- **ローミングマナ利用 (Roaming Mana Utilization)**: 周囲のマナを利用して個人のリソースを補うための技術
+- **重量の推定 (Weight Estimation)**: 適切な力を適用するためのオブジェクトの質量を正確に測定する
+- **ベクトル精度 (Vector Precision)**: 最適な効果を得るために正確な角度と方向を維持する
+- **効率トレーニング (Efficiency Training)**: 洗練された技術によるエネルギーの無駄を最小限に抑える
 
-### Safety Practices
-- Practicing with lightweight, non-fragile objects
-- Beginning with horizontal vectors before vertical (gravity-affecting) applications
-- Using clear visualization techniques for precise vector definition
-- Maintaining consistent somatic components for pattern stability
+### 安全対策 (Safety Practices)
+- 軽量で壊れにくいオブジェクトで練習する
+- 水平ベクトルから開始し、垂直 (重力の影響) アプリケーションに進む
+- 正確なベクトル定義のための明確な視覚化技術を使用する
+- パターンの安定性のために一貫した体勢コンポーネントを維持する
 
-## Historical Development
+## 歴史的発展 (Historical Development)
 
-Force Vector magic evolved from early battlefield techniques developed during the Second Age, when warriors sought advantages without relying on destructive elemental magic. The first systematic approach was documented by Battle-Mage Korvin, who developed the foundational "Three-Node Force Triangle" that remains the basis of modern vector casting.
+フォース・ベクトル (Force Vector) の魔法は、戦士が破壊的な元素魔法に頼らずに優位性を求めた第二次世界大戦中に開発された初期の戦場技術から進化しました。最初の体系的なアプローチは、バトルメイジ・コルビンによって記録され、彼は現代のベクトルキャスティングの基礎となっている基本的な「3ノードフォーストライアングル」を開発しました。
 
-What made this spell system revolutionary was its accessibility—unlike many magical disciplines that required high purity levels and extensive theoretical study, Force Vector could be effectively taught to soldiers and practical mages through focused physical training and repetitive practice exercises. This democratization of force manipulation magic changed the landscape of battlefield tactics and eventually spread to civilian applications.
+この呪文システムを革新的にしたのは、そのアクセシビリティでした。高い純度レベルと広範な理論的研究を必要とする多くの魔法分野とは異なり、フォース・ベクトル (Force Vector) は、集中的な物理トレーニングと反復練習を通じて、兵士や実用的な魔術師に効果的に教えることができました。この力の操作魔法の民主化は、戦場の戦術の状況を変え、最終的には民間の応用にも広がりました。
 
-> *"The brilliance of Force Vector is not in the power it demands, but in the precision it rewards. A scholar with perfect purity but poor technique will be outperformed by a practiced warrior who has mastered the form."* — Battlemaster Rynn's instruction to first-year cadets
+> *"フォース・ベクトル (Force Vector) の素晴らしさは、それが要求する力ではなく、それが報いる精度にある。完璧な純度を持っているが、技術が貧弱な学者は、フォームを習得した熟練した戦士よりも劣るだろう。"* — バトルマスター・リンの1年生士官候補生への指示
 
 ---
 
-*See also: [Basic Movement Spells](/codex/Magics/Spells/Utility/MovementSpells.md), [Combat Applications](/codex/Magics/Spells/Combat/ForceManipulation.md), [Mana Mechanics](/codex/Magics/Core/ManaMechanics.md)* 
+*参照: [基本的な移動呪文](/codex/Magics/Spells/Utility/MovementSpells.md), [戦闘アプリケーション](/codex/Magics/Spells/Combat/ForceManipulation.md), [マナの仕組み](/codex/Magics/Core/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

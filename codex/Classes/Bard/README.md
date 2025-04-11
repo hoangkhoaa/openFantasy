@@ -1,89 +1,93 @@
-# Bard Class
+# バードクラス
 
-> *"When words fail, music speaks. When magic falters, a song can reshape reality."*
+> *"言葉が通じない時、音楽が語りかける。魔法が途絶える時、歌は現実を再構築できる。"*
 
-## Quick Navigation
+## クイックナビゲーション
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Bard](#playing-a-bard)
-- [Notable Traits](#notable-traits)
+- [概要](#overview)
+- [クラス構成](#class-composition)
+- [サブクラス](#subclasses)
+- [バードをプレイする](#playing-a-bard)
+- [注目すべき特徴](#notable-traits)
 
-## Overview
+## 概要
 
-Bards weave magic through artistic expression, primarily music, creating harmonies that resonate with the fabric of reality itself. They are versatile spellcasters who blend performance, social finesse, and magical knowledge into a unique style of casting that can inspire allies, manipulate emotions, and harm enemies.
+バードは芸術的な表現、主に音楽を通じて魔法を紡ぎ、現実そのものの構造に共鳴するハーモニーを生み出します。彼らは多才な呪文の使い手であり、パフォーマンス、社交的な手腕、魔法の知識を独自のキャスティングスタイルに融合させ、味方を鼓舞し、感情を操り、敵に危害を加えることができます。
 
-## Class Composition
+## クラス構成
 
-| Element | Typical Range | Function |
+| 要素 | 典型的な範囲 | 機能 |
 |---------|---------------|----------|
-| **Exanthis** | 20-35% | Physical vessel trained in artistic techniques and precise performance |
-| **Soul** | 35-55% | Emotional framework capable of authentic expression and magical resonance |
-| **Mana Capacity** | 20-40% | Naturally flowing mana reserves with intuitive harmonic control |
+| **Exanthis** | 20-35% | 芸術的なテクニックと正確なパフォーマンスで鍛えられた肉体的な器 |
+| **Soul** | 35-55% | 真正な表現と魔法的な共鳴が可能な感情的なフレームワーク |
+| **Mana Capacity** | 20-40% | 直感的なハーモニックコントロールを備えた自然な流れのマナの貯蔵量 |
 
-Bards develop specialized neural pathways that connect artistic expression directly to magical manipulation, creating a unique system that translates performance into magical effects. Their approach emphasizes emotional resonance over academic understanding, allowing them to achieve magical effects through authentic artistic expression.
+バードは、芸術的な表現を魔法の操作に直接接続する特殊な神経経路を開発し、パフォーマンスを魔法効果に変換する独自のシステムを作成します。彼らのアプローチは、学術的な理解よりも感情的な共鳴を重視しており、真正な芸術的な表現を通じて魔法効果を達成することができます。
 
-## Subclasses
+## サブクラス
 
-Bards can specialize in several distinct colleges:
+バードは、いくつかの明確なカレッジを専門とすることができます。
 
-| College | Focus | Specialty |
+| カレッジ | 焦点 | 専門 |
 |----------|-------|-----------|
-| [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) | Verbal Persuasion | Oratory, debate, and perfect verbal expression |
-| [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) | Fey Enchantment | Captivation, fascination, and otherworldly beauty |
-| [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) | Knowledge Collection | Secrets, versatile magic, and comprehensive knowledge |
-| [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) | Spirit Communication | Storytelling, communing with spirits, and supernatural insight |
-| [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) | Martial Performance | Blade dancing, combat magic, and physical prowess |
-| [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) | Battlefield Inspiration | Combat support, heroic tales, and martial motivation |
-| [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) | Psychological Manipulation | Secrets, fear, and subtle psychological control |
-| [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) | Manifestation | Creating physical objects from performance energy |
+| [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) | 言葉による説得 | 弁論術、討論、完璧な言葉による表現 |
+| [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) | フェイの魅了 | 魅惑、魅了、そして異世界の美しさ |
+| [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) | 知識の収集 | 秘密、多才な魔法、そして包括的な知識 |
+| [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) | 精霊との交信 | ストーリーテリング、精霊との交信、そして超自然的な洞察 |
+| [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) | 武術的なパフォーマンス | 剣の舞、戦闘魔法、そして肉体的な腕前 |
+| [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) | 戦場でのインスピレーション | 戦闘支援、英雄的な物語、そして武術的なモチベーション |
+| [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) | 心理的な操作 | 秘密、恐怖、そして微妙な心理的なコントロール |
+| [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) | 具現化 | パフォーマンスのエネルギーから物理的なオブジェクトを作成する |
 
-## Playing a Bard
+## バードをプレイする
 
-### Core Abilities
+### コアアビリティ
 
-- **Bardic Inspiration**: Channel magical energy to inspire and enhance allies' abilities
-- **Spellcasting**: Cast spells through artistic performance, drawing from a diverse spell list
-- **Jack of All Trades**: Apply partial proficiency to all skills, reflecting versatile knowledge
-- **Song of Rest**: Accelerate healing during rests through soothing performance
-- **Countercharm**: Disrupt hostile effects through pure musical expression
+- **Bardic Inspiration**: 魔法のエネルギーをチャネルして、味方のアビリティを鼓舞し、強化します
+- **Spellcasting**: 多様なスペルリストから、芸術的なパフォーマンスを通じてスペルをキャストします
+- **Jack of All Trades**: すべてのスキルに部分的な習熟を適用し、多才な知識を反映します
+- **Song of Rest**: 心地よいパフォーマンスを通じて、休息中の回復を加速させます
+- **Countercharm**: 純粋な音楽的表現を通じて、敵対的な効果を中断させます
 
-### Common Equipment
+### 一般的な装備
 
-- **Musical Instruments**: Lutes, flutes, drums or other tools of artistic expression
-- **Light Armor**: Protective gear that doesn't impede movement or performance
-- **Performance Attire**: Clothing designed to enhance stage presence
-- **Component Pouch**: Specialized materials that complement artistic spellcasting
+- **Musical Instruments**: リュート、フルート、ドラム、またはその他の芸術的な表現の道具
+- **Light Armor**: 動きやパフォーマンスを妨げない保護具
+- **Performance Attire**: ステージでの存在感を高めるように設計された衣服
+- **Component Pouch**: 芸術的なスペルキャスティングを補完する特殊な素材
 
-### Species Affinities
+### 種族の親和性
 
-| Species | Affinity | Notable Traits |
+| 種族 | 親和性 | 注目すべき特徴 |
 |---------|----------|----------------|
-| **Human** | High | Adaptable performance styles, cultural versatility |
-| **Half-Elf** | Very High | Natural charisma, mixed cultural influences |
-| **Gnome** | High | Creative expression, joyful performance |
-| **Tabaxi** | High | Natural curiosity, storytelling traditions |
-| **Tiefling** | Very High | Exotic presence, innate charisma |
+| **Human** | High | 適応可能なパフォーマンススタイル、文化的な多様性 |
+| **Half-Elf** | Very High | 生まれつきのカリスマ性、混ざり合った文化の影響 |
+| **Gnome** | High | 創造的な表現、喜びにあふれたパフォーマンス |
+| **Tabaxi** | High | 生まれつきの好奇心、ストーリーテリングの伝統 |
+| **Tiefling** | Very High | エキゾチックな存在感、生来のカリスマ性 |
 
-## Notable Traits
+## 注目すべき特徴
 
-### Strengths
+### 強み
 
-- Exceptional versatility across multiple schools of magic
-- Superior effectiveness with social and emotional magic
-- Ability to perform magic while engaged in other activities
-- Natural talent for group harmonization and collaborative casting
-- Intuitive adaptation to unexpected magical situations
+- 複数の魔法の学派にわたる卓越した汎用性
+- 社会的および感情的な魔法における優れた有効性
+- 他のアクティビティに従事しながら魔法を実行する能力
+- グループハーモニーと共同キャスティングのための自然な才能
+- 予期しない魔法の状況への直感的な適応
 
-### Challenges
+### 課題
 
-- Reduced effectiveness when unable to perform artistically
-- Vulnerability to effects that impact emotional state
-- Less precision compared to academic casters like wizards
-- Performance requirements can make stealth casting difficult
-- Less effective with highly technical magical disciplines
+- 芸術的に演奏できない場合の有効性の低下
+- 感情状態に影響を与える効果に対する脆弱性
+- ウィザードのような学術的なキャスターと比較して精度が低い
+- パフォーマンス要件により、ステルスキャスティングが困難になる可能性がある
+- 高度な技術的な魔法の分野では効果が低い
 
 ---
 
-> See [Bard.md](/codex/Classes/Bard/Bard.md) for detailed information about the Bard class in OpenFantasy. 
+> OpenFantasyにおけるバードクラスの詳細については、[Bard.md](/codex/Classes/Bard/Bard.md)を参照してください。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

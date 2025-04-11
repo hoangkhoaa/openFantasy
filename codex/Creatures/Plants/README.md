@@ -1,158 +1,162 @@
-# Plants of OpenFantasy
+# OpenFantasyの植物
 
-> *"In the quiet language of root and leaf is written the oldest magic of our world."*
+> *"根と葉の静かな言葉には、私たちの世界の最も古い魔法が書かれている。"*
 
-## Overview
+## 概要
 
-The plant life of OpenFantasy represents a diverse and vital aspect of the world's ecosystem. From common crops that sustain civilizations to mystical flora with extraordinary properties, plants embody the subtle magic that permeates all living things.
+OpenFantasyの植物界は、世界の生態系の多様で重要な側面を表しています。文明を支える一般的な作物から、並外れた特性を持つ神秘的な植物まで、植物はあらゆる生物に浸透する微妙な魔法を具現化しています。
 
-Unlike the animal kingdom, plants typically possess minimal Soul component and vary widely in their Mana Capacity, with some species evolving to channel and store magical energy in unique ways. The elemental composition of plants—particularly their Mana component—directly influences their properties, growth patterns, and magical potential.
+動物界とは異なり、植物は通常、魂の成分をほとんど持たず、マナ容量は大きく異なり、一部の種は魔法のエネルギーを独自の形で伝達し、貯蔵するように進化しています。植物の元素組成、特にマナ成分は、その特性、成長パターン、および魔法の可能性に直接影響を与えます。
 
-## Elemental Composition
+## 元素組成
 
-Plants generally exhibit the following elemental composition ranges:
+植物は一般的に、以下の元素組成範囲を示します。
 
-| Plant Category | Exanthis | Soul | Mana Capacity | Notes |
+| 植物カテゴリー | エグザンティス | 魂 | マナ容量 | ノート |
 |----------------|----------|------|---------------|-------|
-| Common Plants | 85-95% | 0-2% | 5-15% | Most standard flora |
-| Medicinal Plants | 75-85% | 1-3% | 15-25% | Natural healing properties |
-| Magical Plants | 60-80% | 1-5% | 20-40% | Innate magical attributes |
-| Sentient Plants | 70-85% | 5-15% | 10-25% | Conscious plant entities |
+| 一般的な植物 | 85-95% | 0-2% | 5-15% | ほとんどの標準的な植物 |
+| 薬用植物 | 75-85% | 1-3% | 15-25% | 自然な治癒特性 |
+| 魔法植物 | 60-80% | 1-5% | 20-40% | 生まれつきの魔法属性 |
+| 知覚植物 | 70-85% | 5-15% | 10-25% | 意識的な植物エンティティ |
 
-## Plant Classifications
+## 植物の分類
 
-### Mundane Flora
+### 世俗的な植物相
 
-Common plants with limited or no magical properties that form the foundation of ecosystems:
+生態系の基礎を形成する、魔法の特性がほとんどないか、またはまったくない一般的な植物:
 
-| Category | Examples | Primary Uses |
+| カテゴリー | 例 | 主な用途 |
 |----------|----------|--------------|
-| **Agricultural** | Wheat, corn, fruit trees | Food production, materials |
-| **Forest Flora** | Oaks, pines, ferns | Ecosystems, building materials |
-| **Prairie Plants** | Grasses, wildflowers | Ground cover, animal fodder |
-| **Aquatic Plants** | Seaweed, lily pads, reeds | Water filtration, aquatic habitats |
+| **農業** | 小麦、トウモロコシ、果樹 | 食料生産、材料 |
+| **森林植物相** | オーク、松、シダ | 生態系、建築材料 |
+| **草原植物** | 草、野花 | 地面被覆、動物の飼料 |
+| **水生植物** | 海藻、スイレン、葦 | 水ろ過、水生生息地 |
 
-→ See [Mundane Plants](Mundane.md) for detailed information.
+→ 詳細については、[世俗的な植物](Mundane.md)を参照してください。
 
-### Medicinal Plants
+### 薬用植物
 
-Species with natural healing or beneficial properties:
+自然な治癒特性または有益な特性を持つ種:
 
-| Category | Examples | Primary Effects |
+| カテゴリー | 例 | 主な効果 |
 |----------|----------|----------------|
-| **Healing Herbs** | Healer's root, bloodstop moss | Wound treatment, infection prevention |
-| **Restorative Plants** | Vitality flowers, stamina caps | Energy restoration, fatigue relief |
-| **Antidote Sources** | Venom cleansers, toxin lilies | Poison neutralization, toxin absorption |
-| **Mental Remedies** | Clarity mint, dream shade | Focus enhancement, sleep aids |
+| **癒しのハーブ** | ヒーラーの根、止血コケ | 創傷治療、感染予防 |
+| **回復植物** | 活力の花、スタミナキャップ | エネルギー回復、疲労緩和 |
+| **解毒剤源** | ベノムクレンザー、毒リリー | 毒中和、毒素吸収 |
+| **精神的な治療法** | 明確さミント、夢の陰 | 集中力向上、睡眠補助 |
 
-→ See [Medicinal Plants](Medicinal.md) for detailed information.
+→ 詳細については、[薬用植物](Medicinal.md)を参照してください。
 
-### Magical Plants
+### 魔法植物
 
-Flora with innate magical properties or the ability to interact with magical forces:
+生まれつきの魔法の特性、または魔法の力と相互作用する能力を持つ植物:
 
-| Category | Examples | Magical Properties |
+| カテゴリー | 例 | 魔法の特性 |
 |----------|----------|-------------------|
-| **Elemental Flora** | Emberblooms, frost lichen | Manifestation of elemental energies |
-| **Mana Conductors** | Spellvines, arcane mushrooms | Capture and channel magical energy |
-| **Transmutative Species** | Shapeleaf, form tubers | Physical transformation properties |
-| **Enchantment Enhancers** | Binding moss, runic ferns | Amplify or stabilize enchantments |
+| **元素植物** | エンバーブルーム、霜地衣 | 元素エネルギーの顕現 |
+| **マナ伝導体** | スペルバイン、アルケインマッシュルーム | 魔法のエネルギーを捕捉して伝達 |
+| **変形種** | シェイプリーフ、フォームチューバー | 物理的な変形特性 |
+| **エンチャントメントエンハンサー** | バインディングモス、ルーンシダ | エンチャントメントを増幅または安定化 |
 
-→ See [Magical Plants](Magical.md) for detailed information.
+→ 詳細については、[魔法植物](Magical.md)を参照してください。
 
-### Poisonous and Dangerous Flora
+### 有毒で危険な植物
 
-Plants with toxic or harmful properties:
+有毒または有害な特性を持つ植物:
 
-| Category | Examples | Dangerous Effects |
+| カテゴリー | 例 | 危険な効果 |
 |----------|----------|------------------|
-| **Toxic Plants** | Deathcap, voidroot | Severe poisoning, organ failure |
-| **Carnivorous Flora** | Snaptrap, digestive vines | Animal/humanoid consumption |
-| **Mind-Affecting** | Delusion caps, madness pollen | Hallucinations, confusion, insanity |
-| **Parasitic Species** | Life-drainers, energy siphons | Extract nutrients or energy from hosts |
+| **有毒植物** | デスキャップ、ボイドルート | 重度の毒殺、臓器不全 |
+| **肉食植物** | スナップトラップ、消化性バイン | 動物/人型生物の消費 |
+| **精神に影響を与える** | 妄想キャップ、狂気の花粉 | 幻覚、混乱、狂気 |
+| **寄生種** | ライフドレイナー、エネルギーサイフォン | 宿主から栄養またはエネルギーを抽出 |
 
-→ See [Poisonous Plants](Poisonous.md) for detailed information.
+→ 詳細については、[有毒植物](Poisonous.md)を参照してください。
 
-### Sentient Plant Species
+### 知覚植物種
 
-Plants with consciousness and often mobility:
+意識を持ち、多くの場合移動性を持つ植物:
 
-| Category | Examples | Key Characteristics |
+| カテゴリー | 例 | 主な特徴 |
 |----------|----------|---------------------|
-| **Treants** | Ancient oaks, guardian pines | Tree-like humanoids, forest protectors |
-| **Fungal Consciousness** | Myconids, thought fungi | Collective awareness, spore communication |
-| **Ambulatory Flora** | Tumbleweed sentinels, walking vines | Independent movement, reactive behavior |
-| **Hive Mind Plants** | Colony ferns, neural root networks | Shared consciousness across multiple plants |
+| **トレント** | 古代のオーク、守護者の松 | 木のような人型生物、森の保護者 |
+| **菌類の意識** | マイコニッド、思考菌 | 集合意識、胞子通信 |
+| **歩行植物** | タンブルウィードセンチネル、歩くバイン | 独立した動き、反応的な行動 |
+| **ハブマインド植物** | コロニーシダ、ニューラルルートネットワーク | 複数の植物間での意識の共有 |
 
-→ See [Sentient Plants](Sentient.md) for detailed information.
+→ 詳細については、[知覚植物](Sentient.md)を参照してください。
 
-## Magical Interactions
+## 魔法の相互作用
 
-Plants interact with mana in various significant ways:
+植物は、さまざまな重要な方法でマナと相互作用します。
 
-### Mana Cycling
+### マナ循環
 
-Many plants participate in the natural circulation of magical energy:
+多くの植物は、魔法のエネルギーの自然な循環に参加しています。
 
-- **Absorption**: Drawing mana from soil and atmosphere
-- **Transformation**: Converting raw mana into specialized magical compounds
-- **Release**: Returning processed mana to the environment through various mechanisms
-- **Storage**: Accumulating magical energy in specialized tissues
+- **吸収**: 土壌と大気からマナを引き出す
+- **変換**: 未加工のマナを特殊な魔法化合物に変換する
+- **放出**: さまざまなメカニズムを通じて、処理されたマナを環境に戻す
+- **貯蔵**: 特殊な組織に魔法のエネルギーを蓄積する
 
-### Cultivation and Harvesting
+### 栽培と収穫
 
-Proper techniques are essential for preserving magical properties:
+魔法の特性を維持するには、適切な技術が不可欠です。
 
-| Plant Type | Harvesting Method | Timing Considerations |
+| 植物の種類 | 収穫方法 | タイミングに関する考慮事項 |
 |------------|------------------|------------------------|
-| **Healing Herbs** | Clean cuts with silver tools | Dawn or dusk, avoiding full moon |
-| **Magical Fungi** | Gentle separation from substrate | During appropriate lunar phase |
-| **Elemental Flora** | Element-attuned implements | During element's ascendant period |
-| **Enchanted Trees** | Ritualistic branch collection | Seasonal equinox or solstice |
+| **癒しのハーブ** | 銀の道具できれいなカット | 夜明けまたは夕暮れ、満月を避ける |
+| **魔法の菌類** | 基質からの穏やかな分離 | 適切な月の満ち欠けの間 |
+| **元素植物** | 元素に合わせた道具 | 元素の上昇期の間 |
+| **魔法の木** | 儀式的な枝の収集 | 季節の分点または至点 |
 
-## Ecological Significance
+## 生態学的な意義
 
-Plants serve vital functions in OpenFantasy's ecosystems:
+植物は、OpenFantasyの生態系において重要な機能を果たしています。
 
-### Magical Stabilization
+### 魔法の安定化
 
-- **Ley Line Anchoring**: Certain species grow along and stabilize magical energy currents
-- **Wild Magic Mitigation**: Some plants absorb and neutralize chaotic magical discharges
-- **Elemental Balancing**: Flora that maintains equilibrium between elemental forces
-- **Planar Boundary Reinforcement**: Plants that strengthen the barriers between realms
+- **レイラインアンカー**: 特定の種は、魔法のエネルギーの流れに沿って成長し、安定させます
+- **ワイルドマジック緩和**: 一部の植物は、混沌とした魔法の放電を吸収して中和します
+- **元素のバランス**: 元素力間の均衡を維持する植物
+- **次元境界の強化**: 領域間の障壁を強化する植物
 
-### Habitat Creation
+### 生息地の創造
 
-- **Magical Microclimates**: Plants creating zones of specialized magical conditions
-- **Extradimensional Spaces**: Flora that generates pockets of expanded or altered space
-- **Protective Enclaves**: Plant communities that shield areas from magical contamination
-- **Sentient Sanctuaries**: Conscious plant networks that selectively welcome or exclude visitors
+- **魔法の微気候**: 特殊な魔法条件のゾーンを作り出す植物
+- **異次元空間**: 拡張または変更された空間のポケットを生成する植物
+- **保護された飛び地**: 魔法の汚染から地域を保護する植物コミュニティ
+- **知覚的な聖域**: 訪問者を選択的に歓迎または排除する意識的な植物ネットワーク
 
-## Cultural Significance
+## 文化的な意義
 
-Plants hold important places in the cultures and practices of sentient species:
+植物は、知覚種族の文化と慣習において重要な位置を占めています。
 
-| Culture | Plant Relationship | Notable Traditions |
+| 文化 | 植物の関係 | 注目すべき伝統 |
 |---------|-------------------|-------------------|
-| **Elven** | Symbiotic gardening, tree dwelling | Living architecture, growth singing |
-| **Human** | Agricultural development, herbal medicine | Harvest festivals, medicinal traditions |
-| **Druidic** | Plant communication, forest guardianship | Grove sanctification, plant bond rituals |
-| **Fae** | Magical enhancement, plant transformation | Bloom dances, growth manipulation |
-| **Dwarven** | Subterranean cultivation, fungal specialization | Mushroom brewing, cave gardens |
+| **エルフ** | 共生ガーデニング、樹上の住居 | 生きた建築、成長の歌 |
+| **人間** | 農業開発、薬草医学 | 収穫祭、薬用伝統 |
+| **ドルイド** | 植物とのコミュニケーション、森の守護 | グローブの聖化、植物結合の儀式 |
+| **妖精** | 魔法の強化、植物の変形 | ブルームダンス、成長操作 |
+| **ドワーフ** | 地下の栽培、菌類の専門化 | キノコ醸造、洞窟庭園 |
 
-## Regions and Endemic Flora
+## 地域と固有の植物相
 
-Different regions feature specialized plant adaptations:
+地域が異なれば、特殊な植物の適応があります。
 
-| Biome | Notable Flora | Special Adaptations |
+| バイオーム | 注目すべき植物相 | 特殊な適応 |
 |-------|--------------|---------------------|
-| **Arcane Forests** | Spellwood trees, mana flowers | Direct mana incorporation, magical fruit production |
-| **Elemental Plains** | Essence grasses, primordial shrubs | Element absorption, rapid adaptation |
-| **Shadow Realms** | Voidferns, umbral roses | Light absorption, shadow manifestation |
-| **Fae Wilds** | Whimsy blooms, changeberry bushes | Reality alteration, temporal manipulation |
-| **Ancient Mountains** | Stone flowers, crystal lichens | Mineral integration, extreme longevity |
-| **Enchanted Marshes** | Spellbog reeds, illusion lilies | Magic filtration, sensory effects |
+| **秘術の森** | スペルウッドツリー、マナフラワー | 直接的なマナの組み込み、魔法の果実の生産 |
+| **元素の平原** | エッセンスグラス、原始的な低木 | 元素吸収、急速な適応 |
+| **シャドウレルム** | ボイドファーン、影のバラ | 光の吸収、影の具現化 |
+| **妖精の荒野** | 気まぐれな花、チェンジベリーの茂み | 現実の改変、時間的操作 |
+| **古代の山々** | 石の花、結晶地衣 | ミネラルの統合、極端な長寿 |
+| **魔法の沼地** | スペルボグの葦、イリュージョンリリー | 魔法のろ過、感覚効果 |
 
 ---
 
-> *"A garden is more than beauty; it is power, knowledge, and life itself. Cultivate accordingly."* — Lady Thorne, Master Botanist and Royal Gardener 
+> *"庭は美しさ以上のものである。それは力であり、知識であり、そして生命そのものである。それに応じて耕すように。"* — レディ・ソーン、マスター植物学者兼王室庭師
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

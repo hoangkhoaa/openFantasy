@@ -1,176 +1,180 @@
-# OpenFantasy Creatures
+# OpenFantasyの生物
 
-> *"The living symphony of creation is composed of countless beings, each playing their unique melody in the grand orchestra of existence."*
+> *"創造という生きた交響曲は、無数の存在によって構成されており、それぞれの存在が、存在という壮大なオーケストラの中で独自のメロディーを奏でています。"*
 
-## Quick Navigation
+## クイックナビゲーション
 
-- [Elemental Components](#elemental-components)
-- [Composition-Based Classification](#composition-based-classification)
-- [Individual Variations](#individual-variations)
-- [Creature Categories](#creature-categories)
-- [Magical Origins](#magical-origins)
-- [Enhancement Methods](#enhancement-methods)
+- [元素の構成要素](#元素の構成要素)
+- [構成要素に基づく分類](#構成要素に基づく分類)
+- [個体差](#個体差)
+- [生物のカテゴリー](#生物のカテゴリー)
+- [魔法的な起源](#魔法的な起源)
+- [強化方法](#強化方法)
 
-## Overview
+## 概要
 
-All creatures in OpenFantasy are composed of three elemental components in varying ratios: [**Exanthis**](/codex/Basic/Exanthis.md) (physical form), [**Soul**](/codex/Basic/Soul.md) (consciousness and willpower), and **Mana Capacity** (ability to manipulate [**Mana**](/codex/Basic/Mana.md)). These ratios determine their abilities, strengths, and weaknesses.
+OpenFantasyのすべての生物は、[**エクサンティス**](/codex/Basic/Exanthis.md) (物理的な形)、[**魂**](/codex/Basic/Soul.md) (意識と意志力)、そして**マナ容量** ([**マナ**](/codex/Basic/Mana.md)を操作する能力) という3つの元素の構成要素が、さまざまな割合で構成されています。これらの割合によって、彼らの能力、強み、弱みが決まります。
 
-Different categories of beings—from sentient species to plants, from animals to monsters—each exhibit distinctive elemental compositions that influence their place in the world's ecology and society.
+知覚力のある種から植物、動物からモンスターまで、さまざまなカテゴリーの生物はそれぞれ、世界の生態系と社会における彼らの位置に影響を与える独特の元素構成を示します。
 
-## Elemental Components
+## 元素の構成要素
 
-Each living being's composition can be understood through the proportion of three fundamental components:
+各生物の構成は、3つの基本的な構成要素の割合を通じて理解できます。
 
-| Component | Description | Metaphor |
+| 構成要素 | 説明 | 例え |
 |-----------|-------------|----------|
-| **Exanthis (E)** | Physical foundation providing structure and form | The body of an instrument |
-| **Soul (S)** | Spark of consciousness providing will and identity | The musician who plays the instrument |
-| **Mana Capacity (M)** | Bridge between worlds determining magical ability | The harmonies that weave everything together |
+| **エクサンティス (E)** | 構造と形を提供する物理的な基盤 | 楽器の本体 |
+| **魂 (S)** | 意志とアイデンティティを提供する意識の火花 | 楽器を演奏する音楽家 |
+| **マナ容量 (M)** | 魔法能力を決定する世界間の橋 | すべてを結びつけるハーモニー |
 
-### Component Effects
+### 構成要素の効果
 
-| Component | Advantages | Limitations |
+| 構成要素 | 利点 | 制限 |
 |-----------|------------|-------------|
-| **Exanthis** | Greater physical strength, endurance, and durability | Reduced magical potential due to magnetic interference with Mana |
-| **Soul** | Enhanced consciousness, willpower, and identity | Accelerated soul decay resulting in shorter lifespans |
-| **Mana Capacity** | Higher purity and control of Mana | May result in physical frailty due to lower Exanthis |
+| **エクサンティス** | より大きな物理的な強さ、持久力、耐久性 | マナとの磁気干渉により魔法の潜在能力が低下 |
+| **魂** | 意識、意志力、アイデンティティの強化 | 魂の崩壊が加速し、寿命が短くなる |
+| **マナ容量** | マナのより高い純度と制御 | エクサンティスの低下により、身体的な虚弱につながる可能性 |
 
-## Composition-Based Classification
+## 構成要素に基づく分類
 
-Creatures in OpenFantasy are classified by their elemental composition and magical nature, rather than traditional biological taxonomies:
+OpenFantasyの生物は、従来の生物学的分類ではなく、元素構成と魔法的性質によって分類されます。
 
-| Category | Exanthis | Soul | Mana | Examples |
+| カテゴリー | エクサンティス | 魂 | マナ | 例 |
 |----------|----------|------|------|----------|
-| **Physical Dominant** | 50%+ | Varied | <25% | Dwarves, Giants, Most Animals |
-| **Soul Dominant** | <40% | 40%+ | <40% | Some Humans, Sirens, Gnomes |
-| **Mana Dominant** | <30% | <40% | 50%+ | Elves, Fae, Elementals |
-| **Balanced** | 20-50% | 20-50% | 20-50% | Humans, Some Beastfolk, Hybrid Species |
+| **物理優勢** | 50%以上 | 様々 | 25%未満 | ドワーフ、巨人、ほとんどの動物 |
+| **魂優勢** | 40%未満 | 40%以上 | 40%未満 | 一部の人間、セイレーン、ノーム |
+| **マナ優勢** | 30%未満 | 40%未満 | 50%以上 | エルフ、妖精、エレメンタル |
+| **バランス** | 20-50% | 20-50% | 20-50% | 人間、一部の獣人、ハイブリッド種 |
 
-## Individual Variations
+## 個体差
 
-Within each species, individuals exhibit unique variations in their elemental composition, resulting in diverse abilities, temperaments, and aptitudes. These variations are influenced by:
+それぞれの種の中で、個体は元素構成に独自の変動を示し、多様な能力、気質、適性が生まれます。これらの変動は、以下によって影響を受けます。
 
-- **Heredity**: Traits passed down through ancestral lines
-- **Environment**: Environmental conditions during formative years
-- **Life Experiences**: Significant events that alter elemental balance
-- **Personal Development**: Intentional cultivation of specific elements
+- **遺伝**: 祖先を通じて受け継がれる特性
+- **環境**: 形成期における環境条件
+- **人生経験**: 元素バランスを変える重要な出来事
+- **自己啓発**: 特定の元素の意図的な育成
 
-## Creature Categories
+## 生物のカテゴリー
 
-The world of OpenFantasy features diverse beings organized into six primary categories:
+OpenFantasyの世界には、6つの主要なカテゴリーに分類された多様な生物が登場します。
 
-### Sentient Species
+### 知覚力のある種
 
-Intelligent beings capable of forming civilizations, creating culture, and wielding magic through conscious effort:
+文明を築き、文化を創造し、意識的な努力を通じて魔法を操ることができる知的な存在：
 
-| Species | Elemental Composition | Notable Traits |
+| 種族 | 元素構成 | 注目すべき特徴 |
 |---------|----------------------|----------------|
-| [**Humans**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | Adaptability, innovation, balanced capabilities |
-| [**Elves**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | Longevity, magical aptitude, connection to nature |
-| [**Dwarves**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | Physical resilience, craftsmanship, underground mastery |
-| [**Beastfolk**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | Animal traits, heightened senses, natural instincts |
+| [**人間**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | 適応力、革新性、バランスのとれた能力 |
+| [**エルフ**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | 長寿、魔法の才能、自然とのつながり |
+| [**ドワーフ**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | 物理的な回復力、職人技、地下の習熟 |
+| [**獣人**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | 動物の特性、高度な感覚、自然な本能 |
 
-→ See [Sentient Species](/codex/Creatures/Sentient/README.md) for more detailed information.
+→ 詳細は[知覚力のある種](/codex/Creatures/Sentient/README.md)を参照してください。
 
-### Magical Beings
+### 魔法的な存在
 
-Creatures composed primarily of magical energy or created through magical processes:
+主に魔法エネルギーで構成されているか、魔法的なプロセスを通じて作成された生物：
 
-| Being | Elemental Composition | Notable Traits |
+| 存在 | 元素構成 | 注目すべき特徴 |
 |-------|----------------------|----------------|
-| [**Fae**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | Ethereal nature, reality manipulation, otherworldly |
-| [**Elementals**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | Embodiment of natural forces, pure magical essence |
-| [**Dragonkin**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | Ancient lineage, elemental affinity, natural power |
-| [**Golems**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | Constructed bodies, artificial souls, purpose-bound |
+| [**妖精**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | 幽玄な性質、現実操作、異世界 |
+| [**エレメンタル**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | 自然の力の具現化、純粋な魔法の本質 |
+| [**竜人**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | 古代の血統、元素の親和性、自然の力 |
+| [**ゴーレム**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | 構築された体、人工的な魂、目的拘束 |
 
-→ See [Magical Beings](/codex/Creatures/Magical/README.md) for more detailed information.
+→ 詳細は[魔法的な存在](/codex/Creatures/Magical/README.md)を参照してください。
 
-### Animals
+### 動物
 
-Non-sentient fauna with varying degrees of intelligence and magical affinity:
+知性と魔法の親和性の程度が異なる非知覚的な動物相：
 
-| Category | Elemental Composition | Notable Traits |
+| カテゴリー | 元素構成 | 注目すべき特徴 |
 |----------|----------------------|----------------|
-| [**Domesticated**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | Human-influenced evolution, trainability |
-| [**Wild**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | Natural instincts, ecological adaptations |
-| [**Aquatic**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | Water adaptation, specialized physiologies |
-| [**Magical**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | Innate magical abilities, supernatural traits |
+| [**家畜**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | 人間の影響を受けた進化、訓練可能性 |
+| [**野生**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | 自然な本能、生態学的適応 |
+| [**水生**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | 水への適応、特殊な生理機能 |
+| [**魔法**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | 生まれつきの魔法能力、超自然的な特性 |
 
-→ See [Animals](/codex/Creatures/Animals/README.md) for more detailed information.
+→ 詳細は[動物](/codex/Creatures/Animals/README.md)を参照してください。
 
-### Monsters
+### モンスター
 
-Dangerous or unnatural creatures that exist outside the normal ecological balance:
+通常の生態学的バランスの外に存在する危険または不自然な生物：
 
-| Category | Elemental Composition | Notable Traits |
+| カテゴリー | 元素構成 | 注目すべき特徴 |
 |----------|----------------------|----------------|
-| [**Aberrations**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | Unnatural anatomy, reality-warping properties |
-| [**Undead**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | Death-defying, necromantic energy, soul disruption |
-| [**Corrupted**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | Twisted forms, magical contamination, unstable |
-| [**Giants**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | Enormous size, primal strength, elemental connections |
+| [**異形**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | 不自然な解剖学、現実歪曲特性 |
+| [**アンデッド**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | 死に逆らう、ネクロマンシーのエネルギー、魂の崩壊 |
+| [**堕落**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | ねじれた形、魔法の汚染、不安定 |
+| [**巨人**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | 巨大なサイズ、原始的な強さ、元素とのつながり |
 
-→ See [Monsters](/codex/Creatures/Monsters/README.md) for more detailed information.
+→ 詳細は[モンスター](/codex/Creatures/Monsters/README.md)を参照してください。
 
-### Plants
+### 植物
 
-Flora with unique properties, both magical and mundane:
+魔法と平凡さの両方のユニークな特性を備えた植物相：
 
-| Category | Elemental Composition | Notable Traits |
+| カテゴリー | 元素構成 | 注目すべき特徴 |
 |----------|----------------------|----------------|
-| [**Mundane**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | Basic flora, ecological foundation |
-| [**Medicinal**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | Healing properties, biological potency |
-| [**Magical**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | Spell components, energy manipulation |
-| [**Sentient**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | Consciousness, mobility, communication |
+| [**平凡**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | 基本的な植物相、生態学的基盤 |
+| [**薬用**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | 治癒特性、生物学的効力 |
+| [**魔法**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | 呪文の構成要素、エネルギー操作 |
+| [**知覚力がある**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | 意識、移動性、コミュニケーション |
 
-→ See [Plants](/codex/Creatures/Plants/README.md) for more detailed information.
+→ 詳細は[植物](/codex/Creatures/Plants/README.md)を参照してください。
 
-### Hybrid Beings
+### ハイブリッド生物
 
-Creatures that bridge multiple categories through unique physiologies:
+ユニークな生理機能を通じて複数のカテゴリーを橋渡しする生物：
 
-| Being | Elemental Composition | Notable Traits |
+| 存在 | 元素構成 | 注目すべき特徴 |
 |-------|----------------------|----------------|
-| [**Centaurs**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | Horse-human hybrid, nature wisdom, stamina |
-| [**Merfolk**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | Aquatic adaptation, water magic, dual environment |
-| [**Sirens**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | Sound manipulation, emotional influence, beauty |
+| [**ケンタウロス**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | 馬人間のハイブリッド、自然の知恵、スタミナ |
+| [**人魚**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | 水生適応、水の魔法、二重環境 |
+| [**セイレーン**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | 音の操作、感情的な影響、美しさ |
 
-→ See [Hybrid Beings](/codex/Creatures/Hybrid/README.md) for more detailed information.
+→ 詳細は[ハイブリッド生物](/codex/Creatures/Hybrid/README.md)を参照してください。
 
-## Magical Origins
+## 魔法的な起源
 
-The diverse beings of OpenFantasy have various origins that influence their nature and abilities:
+OpenFantasyの多様な生物は、彼らの性質と能力に影響を与えるさまざまな起源を持っています：
 
-- **Primal Species**: Evolved naturally (Humans, Mundane Animals, Wild Plants)
-- **Fae-Touched**: Influenced by fae realms (Elves, Dark Elves, Certain Plants)
-- **Elemental-Infused**: Imbued with elemental power (Giants, Dragonkin, Elemental Flora)
-- **Constructed**: Artificially created (Golems, Certain Undead, Magical Hybrids)
-- **Transformed**: Changed from one form to another (Shadowfolk, Corrupted Beings)
+- **原始的な種**: 自然に進化 (人間、平凡な動物、野生の植物)
+- **妖精の影響を受けた**: 妖精の領域の影響を受けた (エルフ、ダークエルフ、特定の植物)
+- **元素が注入された**: 元素の力で満たされた (巨人、竜人、元素の植物相)
+- **構築された**: 人工的に作成された (ゴーレム、特定のアンデッド、魔法のハイブリッド)
+- **変身した**: ある形から別の形に変えられた (シャドウフォーク、堕落した生物)
 
-## Enhancement Methods
+## 強化方法
 
-Various methods exist for beings to enhance specific aspects of their elemental composition:
+生物が元素構成の特定の側面を強化するためのさまざまな方法が存在します：
 
-| Method | Enhances | Description |
+| 方法 | 強化する | 説明 |
 |--------|----------|-------------|
-| **Physical Training** | Exanthis | Increases effective Exanthis utilization through disciplined exercise |
-| **Meditation and Will Work** | Soul | Strengthens Soul connection through focused introspection |
-| **Mana Reservoir Expansion** | Mana Capacity | Enhances ability to store and purify Mana through magical exposure |
-| **Harmonization Techniques** | Balance | Improves the integration between elemental components |
-| **Environmental Attunement** | Varies | Adapts composition through prolonged exposure to specific environments |
+| **物理的な訓練** | エクサンティス | 規律ある運動を通じて、効果的なエクサンティスの利用を増加 |
+| **瞑想と意志の作業** | 魂 | 集中した内省を通じて魂のつながりを強化 |
+| **マナ貯蔵庫の拡張** | マナ容量 | 魔法への曝露を通じて、マナを蓄積し、浄化する能力を強化 |
+| **調和技術** | バランス | 元素の構成要素間の統合を改善 |
+| **環境への同調** | 様々 | 特定の環境への長期的な曝露を通じて構成を適応 |
 
-## Regional Ecosystems
+## 地域のエコシステム
 
-Creatures tend to form complex ecological relationships within distinct regions:
+生物は、明確な地域内で複雑な生態学的関係を形成する傾向があります：
 
-| Region | Dominant Creatures | Ecological Features |
+| 地域 | 優勢な生物 | 生態学的特徴 |
 |--------|-------------------|---------------------|
-| **Ancient Forests** | Elves, Fae, Sentient Plants | Magical symbiosis, layered habitats |
-| **Mountain Realms** | Dwarves, Giants, Stone-based Elementals | Mineral integration, vertical ecosystems |
-| **Coastal Regions** | Merfolk, Aquatic Animals, Sirens | Land-water transition zones |
-| **Wild Plains** | Humans, Beastfolk, Centaurs | Migratory patterns, seasonal variations |
-| **Shadow Lands** | Dark Elves, Shadowfolk, Void Creatures | Light-deficient adaptations, shadow energy |
-| **Magical Nexuses** | Elementals, Aberrations, Magical Plants | Energy saturation, reality distortion |
+| **古代の森** | エルフ、妖精、知覚力のある植物 | 魔法的な共生、階層化された生息地 |
+| **山の領域** | ドワーフ、巨人、石ベースのエレメンタル | 鉱物の統合、垂直エコシステム |
+| **沿岸地域** | 人魚、水生動物、セイレーン | 陸水移行帯 |
+| **野生の平原** | 人間、獣人、ケンタウロス | 回遊パターン、季節変動 |
+| **影の土地** | ダークエルフ、シャドウフォーク、虚無の生物 | 光欠乏適応、影のエネルギー |
+| **魔法のネクサス** | エレメンタル、異形、魔法の植物 | エネルギー飽和、現実歪曲 |
 
 ---
 
-> Understanding these creatures and their elemental compositions provides insight into the diverse tapestry of life in OpenFantasy, like appreciating the various instruments that make up a grand orchestra, each contributing its unique voice to the symphony of existence. 
+> これらの生物とその元素構成を理解することは、OpenFantasyにおける生命の多様なタペストリーへの洞察を提供します。それは、壮大なオーケストラを構成するさまざまな楽器を理解し、それぞれがそのユニークな声を存在の交響曲に貢献しているようなものです。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

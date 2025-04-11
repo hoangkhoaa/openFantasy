@@ -1,202 +1,206 @@
-# **Water Magic**: The Flow of Liquid and Vapor
+# **水の魔法**: 液体と蒸気の流れ
 
-> *"Water does not resist; it flows. When it is blocked, it finds a new path. There is wisdom in water that even the most learned mage would do well to embrace."* — Archhydromancer Nerissa Tidesong
+> *"水は抵抗しない、流れるのだ。遮られると、新たな道を見つける。最も学識のある魔術師でさえ受け入れるべき知恵が水には宿っている。"* ――大水術師ネリッサ・タイドソング
 
-## Quick Reference
-- [Properties of Hydromana](#properties-of-hydromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## クイックリファレンス
+- [水マナの特性](#水マナの特性)
+- [操作テクニック](#操作テクニック)
+- [一般的な呪文](#一般的な呪文)
+- [親和性の開発](#親和性の開発)
+- [リスクと安全対策](#リスクと安全対策)
+- [文化的意義](#文化的意義)
 
-## Properties of Hydromana
+## 水マナの特性
 
-Hydromana, the elemental mana of water, is characterized by:
+水のマナ、水のエレメンタルマナは、以下の特徴を持ちます。
 
-- **Appearance**: Flowing blues and cyans with silver highlights; translucent and reflective
-- **Sensation**: Feels cool, soothing, and fluid when channeled; creates a gentle pressure
-- **Resonance**: Medium-frequency, flowing vibration patterns with gentle oscillations
-- **Purification Challenge**: Absorbs impurities easily, requiring multiple filtration cycles; tends to carry and hold contamination
-- **Opposite Element**: Fire (creates steam when forced together, ultimately extinguishes fire)
-- **Complementary Elements**: Air (creates mist/fog), Death (creates ice)
-- **Musical Analogy**: Cello and flowing string instruments; sustained notes that rise and fall like waves
+- **外観**: 流れるような青とシアンに銀色のハイライト。半透明で反射性がある
+- **感覚**: チャンネルすると、冷たく、心地よく、流動的に感じる。穏やかな圧力を生み出す
+- **共鳴**: 中程度の周波数、穏やかな振動を伴う流れるような振動パターン
+- **浄化の課題**: 不純物を吸収しやすく、複数回のろ過サイクルが必要。汚染を運び、保持する傾向がある
+- **対立する元素**: 火（無理に組み合わせると蒸気が発生し、最終的には火を消す）
+- **相補的な元素**: 空気（霧/靄を生成）、死（氷を生成）
+- **音楽的アナロジー**: チェロと流れるような弦楽器。波のように昇降する持続音
 
-## Manipulation Techniques
+## 操作テクニック
 
-### Basic Techniques
+### 基本テクニック
 
-#### Aqueous Projection
-The foundational technique of directing and projecting water:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Manipulates existing water sources or draws moisture from the air
-- **Training Focus**: Flow control and directional precision
-- **Applications**: Moving water between containers, creating small currents, gathering scattered droplets
+#### 水性投影
+水の方向を定め、投影するための基礎的なテクニック：
+- **難易度**: 初心者
+- **純度要件**: 基本（15-25%）
+- **効果**: 既存の水源を操作するか、空気中の水分を引き出す
+- **トレーニングの焦点**: 流量制御と方向の精度
+- **応用**: 容器間の水の移動、小さな流れの作成、散らばった水滴の収集
 
-#### State Transition
-Changing water between its three primary states:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (15-40%)
-- **Effect**: Transforms water between liquid, solid (ice), and gaseous (vapor) states
-- **Training Focus**: Temperature control and molecular arrangement
-- **Applications**: Creating ice shapes, generating mist, condensing water from humid air
+#### 状態遷移
+水の3つの主要な状態間での変化：
+- **難易度**: 初心者から中級者
+- **純度要件**: 基本から精製（15-40%）
+- **効果**: 水を液体、固体（氷）、気体（蒸気）の間で変換する
+- **トレーニングの焦点**: 温度制御と分子配列
+- **応用**: 氷の形状の作成、霧の生成、湿った空気からの水の凝縮
 
-#### Pressure Manipulation
-Controlling the pressure and force of water:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Increases or decreases water pressure and directional force
-- **Training Focus**: Force vectors and pressure gradients
-- **Applications**: Water jets, underwater breathing spheres, pressure reduction for deep diving
+#### 圧力操作
+水の圧力と力を制御する：
+- **難易度**: 中級者
+- **純度要件**: 精製（30-45%）
+- **効果**: 水圧と方向力を増減させる
+- **トレーニングの焦点**: 力ベクトルと圧力勾配
+- **応用**: ウォータージェット、水中呼吸球、深海潜水のための減圧
 
-### Advanced Techniques
+### 高度なテクニック
 
-#### Hydromantic Shaping
-Creating and maintaining complex water structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (40-75%)
-- **Effect**: Forms water into complex, self-sustaining shapes that maintain their form
-- **Training Focus**: Surface tension control and internal circulation
-- **Applications**: Water constructs, liquid barriers, floating water platforms
+#### 水術的造形
+複雑な水の構造を作成し、維持する：
+- **難易度**: 上級者
+- **純度要件**: 精製から完璧（40-75%）
+- **効果**: 水を複雑で自立した形状に形成し、その形状を維持する
+- **トレーニングの焦点**: 表面張力制御と内部循環
+- **応用**: 水の構造物、液体の障壁、浮遊する水のプラットフォーム
 
-#### Phased Hydromancy
-Simultaneous control of multiple water states:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Manipulates liquid, solid, and vapor forms of water simultaneously
-- **Training Focus**: Multiple-state awareness and transition boundaries
-- **Applications**: Mixed-state attacks, environmental control, complex illusions
+#### 段階的水術
+複数の水の状態の同時制御：
+- **難易度**: エキスパート
+- **純度要件**: 完璧（65-85%）
+- **効果**: 液、固、気体の水の形態を同時に操作する
+- **トレーニングの焦点**: 複数状態の認識と遷移境界
+- **応用**: 混合状態の攻撃、環境制御、複雑なイリュージョン
 
-#### Essence Extraction
-Drawing water from unlikely sources:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-90%)
-- **Effect**: Extracts water molecules from organic matter, minerals, or elemental compounds
-- **Training Focus**: Molecular separation and attraction
-- **Applications**: Survival in arid environments, purification, weakening waterlogged structures
+#### エッセンス抽出
+ありそうもない水源から水を引き出す：
+- **難易度**: マスター
+- **純度要件**: 完璧（70-90%）
+- **効果**: 有機物、鉱物、または元素化合物から水分子を抽出する
+- **トレーニングの焦点**: 分子分離と引き付け
+- **応用**: 乾燥環境での生存、浄化、浸水した構造物の弱体化
 
-## Common Spells
+## 一般的な呪文
 
-### Novice Spells
+### 初心者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | コンポーネント | キャスティング時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Water Stream** | Projects a continuous stream of water | Somatic, Source | 1 second | Concentration |
-| **Moisture Gathering** | Collects ambient humidity into usable water | Somatic, Verbal | 10 seconds | Instantaneous |
-| **Freeze Surface** | Creates a thin layer of ice on a water surface | Somatic, Water source | 3 seconds | 10 minutes |
-| **Fog Cloud** | Creates light mist in a small area | Somatic, Water source | 5 seconds | 5 minutes |
+| **流水** | 水の連続的な流れを投影する | 身体、水源 | 1秒 | 集中 |
+| **湿気収集** | 周囲の湿度を収集して使用可能な水にする | 身体、言語 | 10秒 | 瞬間 |
+| **表面凍結** | 水面に薄い氷の層を作る | 身体、水源 | 3秒 | 10分 |
+| **霧雲** | 小さな領域に軽い霧を作る | 身体、水源 | 5秒 | 5分 |
 
-### Intermediate Spells
+### 中級者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | コンポーネント | キャスティング時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Waterbreathing** | Creates breathable water for underwater activity | Somatic, Verbal, Water | 30 seconds | 1 hour |
-| **Ice Barrier** | Forms a protective wall of ice | Somatic, Water source | 5 seconds | 30 minutes |
-| **Undercurrent** | Creates controlled movement in larger bodies of water | Somatic, Focus | 10 seconds | 15 minutes |
-| **Water Walking** | Allows walking on water surfaces | Somatic, Verbal | 5 seconds | 30 minutes |
+| **水呼吸** | 水中活動のために呼吸可能な水を作る | 身体、言語、水 | 30秒 | 1時間 |
+| **氷の障壁** | 氷の保護壁を形成する | 身体、水源 | 5秒 | 30分 |
+| **水面下潮流** | より大きな水域で制御された動きを作成する | 身体、焦点 | 10秒 | 15分 |
+| **水上歩行** | 水面を歩くことを可能にする | 身体、言語 | 5秒 | 30分 |
 
-### Advanced Spells
+### 上級者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | コンポーネント | キャスティング時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Tidal Surge** | Creates a powerful wave of concentrated force | Somatic, Verbal, Water | 10 seconds | Instantaneous |
-| **Hydromantic Construct** | Forms a semi-autonomous water creature | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Maelstrom** | Creates a vortex that pulls objects toward its center | Somatic, Verbal, Water | 30 seconds | 5 minutes |
-| **Winter's Grasp** | Flash-freezes a large volume of water or a target | Somatic, Verbal, Focus | 10 seconds | Varies |
+| **津波** | 集中した力の強力な波を作り出す | 身体、言語、水 | 10秒 | 瞬間 |
+| **水術的構造物** | 半自律的な水の生き物を形成する | 身体、言語、焦点 | 1分 | 1時間 |
+| **渦巻き** | 物体をその中心に引き寄せる渦を作り出す | 身体、言語、水 | 30秒 | 5分 |
+| **冬の掌握** | 大量の水またはターゲットを一瞬で凍らせる | 身体、言語、焦点 | 10秒 | 可変 |
 
-## Affinity Development
+## 親和性の開発
 
-Water affinity progresses through several distinctive stages:
+水の親和性は、いくつかの特徴的な段階を経て進行します。
 
-### Innate Connection
-The foundational relationship with water that most beginners possess:
-- **Manifestation**: Intuitive sense of water's presence, minor influence over small amounts
-- **Physical Signs**: Slightly dampened skin, attraction to water sources
-- **Enhancement Method**: Regular meditation near water sources, especially flowing water
+### 生得的なつながり
+ほとんどの初心者が持っている水との基本的な関係：
+- **兆候**: 水の存在に対する直感的な感覚、少量に対するわずかな影響
+- **身体的な兆候**: わずかに湿った肌、水源への魅力
+- **強化方法**: 特に流水である水源の近くで定期的に瞑想する
 
-### Fluent Channeling
-The intermediate stage where water responds more readily to the mage's will:
-- **Manifestation**: Water moves with minimal effort, state changes occur easily
-- **Physical Signs**: Higher body fluid retention, bluish tint to fingernails when casting
-- **Enhancement Method**: Practicing in various water conditions (rain, rivers, oceans)
+### 流暢なチャネリング
+水が魔術師の意志により容易に応答する中間の段階：
+- **兆候**: 水は最小限の労力で動き、状態変化が容易に起こる
+- **身体的な兆候**: 体液貯留量の増加、キャスティング時に爪が青みがかる
+- **強化方法**: さまざまな水の状態（雨、川、海）で練習する
 
-### Tidal Harmony
-Advanced practitioners achieve a deep resonance with water's natural cycles:
-- **Manifestation**: Water seems to anticipate the mage's intentions, responds to emotional states
-- **Physical Signs**: Body temperature regulation mimics water, tears and sweat contain trace hydromana
-- **Enhancement Method**: Synchronizing magical practice with lunar cycles and tides
+### 潮汐の調和
+上級者は、水の自然なサイクルとの深い共鳴を達成します：
+- **兆候**: 水は魔術師の意図を予期しているように見え、感情的な状態に応答する
+- **身体的な兆候**: 体温調節は水を模倣し、涙と汗には微量の水マナが含まれている
+- **強化方法**: 魔法の実践を月の周期と潮と同期させる
 
-### Oceanic Unity
-Master hydromancers who have achieved profound connection with water:
-- **Manifestation**: Partial transformation abilities, influence over bodies of water without direct contact
-- **Physical Signs**: Eyes reflect water's surface in strong light, blood has unusual flow patterns
-- **Enhancement Method**: Deep communion rituals at ley line intersections with water bodies
+### 海洋の一体性
+水との深いつながりを達成したマスターハイドロマンサー：
+- **兆候**: 部分的な変身能力、直接接触なしに水域に影響を与える
+- **身体的な兆候**: 強い光の中で目が水面を反射し、血液には異常な流れパターンがある
+- **強化方法**: 水域とのレイラインの交差点での深い交感儀式
 
-## Risks and Safeguards
+## リスクと安全対策
 
-### Common Risks
+### 一般的なリスク
 
-- **Hydration Imbalance**: Drawing too much moisture from one's own body during casting
-- **Thermal Shock**: Rapid transitions between water states causing system strain
-- **Pressure Trauma**: Improper pressure manipulation damaging ears, sinuses, or lungs
-- **Drowning Resonance**: Creating breathable water with imperfect patterns, causing respiratory issues
-- **Ice Crystallization**: Improper freezing techniques causing tissue damage
+- **水分不均衡**: キャスティング中に自分の体から水分を抽出しすぎる
+- **熱ショック**: 水の状態間の急速な移行によるシステムのひずみ
+- **圧力外傷**: 不適切な圧力操作による耳、副鼻腔、または肺の損傷
+- **溺水共鳴**: 不完全なパターンで呼吸可能な水を作り出し、呼吸器系の問題を引き起こす
+- **氷結晶化**: 不適切な凍結技術による組織損傷
 
-### Miscast Effects
+### キャストミス効果
 
-| Severity | Effect | Recovery |
+| 重症度 | 効果 | 回復 |
 |----------|--------|----------|
-| **Minor** | Temporary waterlogging of tissues, chills, excessive thirst | Hours |
-| **Moderate** | Impaired temperature regulation, mild hypothermia, internal moisture condensation | Days |
-| **Severe** | Fluid accumulation in lungs, dangerous body temperature drop, osmotic imbalance | Weeks |
-| **Critical** | Cellular crystallization, major osmotic shock, total hydration system failure | Months |
+| **軽度** | 組織の一時的な水浸し、悪寒、過度の渇き | 数時間 |
+| **中程度** | 体温調節の障害、軽度の低体温症、内部水分凝縮 | 数日 |
+| **重度** | 肺への液体蓄積、危険な体温低下、浸透圧不均衡 | 数週間 |
+| **危機的** | 細胞結晶化、重大な浸透圧ショック、総水分系不全 | 数ヶ月 |
 
-### Safety Practices
+### 安全な慣行
 
-- **Hydration Discipline**: Maintaining proper personal hydration before and after spellcasting
-- **Thermal Gradient Training**: Practicing gradual temperature transitions
-- **Pressure Equalization**: Regular breaks during underwater or pressure manipulation work
-- **Material Isolation**: Using external water sources rather than bodily fluids
-- **Seasonal Awareness**: Adjusting techniques based on environmental conditions
+- **水分補給の規律**: 呪文詠唱の前後に適切な水分補給を維持する
+- **温度勾配トレーニング**: 段階的な温度遷移を練習する
+- **圧力平衡**: 水中または圧力操作作業中の定期的な休憩
+- **材料分離**: 体液ではなく外部水源を使用する
+- **季節の認識**: 環境条件に基づいてテクニックを調整する
 
-## Cultural Significance
+## 文化的意義
 
-### Historical Development
+### 歴史的発展
 
-Water magic is among the oldest practiced forms of elemental manipulation, with evidence of organized techniques dating back to the earliest coastal civilizations. The development of water magic followed three distinct historical phases:
+水の魔法は、最も古くから実践されている元素操作の形態の1つであり、組織化された技術の証拠は、最も初期の沿岸文明にまでさかのぼります。 水の魔法の開発は、3つの異なる歴史的段階をたどりました。
 
-1. **Survival Application**: Early tribal shamans using water-finding and purification techniques
-2. **Maritime Expansion**: Seafaring cultures developing navigation and weather prediction magic
-3. **Philosophical Refinement**: Formal academies exploring water's connections to life and transformation
+1. **サバイバルアプリケーション**: 水を見つける技術と浄化技術を使用する初期の部族シャーマン
+2. **海上拡張**: ナビゲーションと天気予報の魔法を開発する海洋文化
+3. **哲学的洗練**: 生命と変容への水のつながりを模索する正式なアカデミー
 
-### Regional Variations
+### 地域的バリエーション
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 焦点 | 署名技術 | 哲学 |
 |---------|-------|---------------------|------------|
-| **Tidefolk** | Ocean manipulation, weather | Wave calling, storm sensing | Water as the eternal mother |
-| **Riverlands** | Flow and transport | Current shaping, river speaking | Water as the connector of realms |
-| **Northern Realms** | Ice and preservation | Crystalline structures, hibernation | Water as the keeper of memory |
-| **Desert Tribes** | Conservation and finding | Moisture extraction, dew gathering | Water as precious life essence |
+| **潮汐民** | 海の操作、天気 | 波の呼び出し、嵐の感知 | 永遠の母としての水 |
+| **川岸の国** | 流れと輸送 | 現在の整形、川の話 | 領域のコネクターとしての水 |
+| **北方の王国** | 氷と保存 | 結晶構造、冬眠 | 記憶のキーパーとしての水 |
+| **砂漠の部族** | 保全と発見 | 水分抽出、露収集 | 貴重な生命の本質としての水 |
 
-### Ceremonial Uses
+### 儀式的用途
 
-Water magic features prominently in many cultural ceremonies:
-- **Purification Rituals**: Cleansing of spaces, objects, and people
-- **Coming-of-Age Ceremonies**: Young hydromancers demonstrating their first control
-- **Harvest Blessings**: Ensuring proper rainfall and crop irrigation
-- **Funerary Practices**: "Returning to the source" ceremonies for the deceased
+水の魔法は、多くの文化的な儀式で顕著に特徴づけられています。
+- **浄化の儀式**: スペース、オブジェクト、および人々の浄化
+- **成人式の儀式**: 若い水術師が最初の制御を実証する
+- **収穫の祝福**: 適切な降雨と作物の灌漑を保証する
+- **葬儀の慣行**: 故人のための「源への帰還」の儀式
 
-### Contemporary Applications
+### 現代のアプリケーション
 
-Beyond combat and utility applications, water magic serves crucial societal functions:
-- **Agricultural Management**: Irrigation systems and crop hydration
-- **Urban Infrastructure**: Water purification and waste management
-- **Medical Practice**: Healing baths and hydration therapy
-- **Environmental Protection**: Watershed management and aquatic ecosystem balance
+戦闘とユーティリティのアプリケーションを超えて、水の魔法は重要な社会的機能を果たしています。
+- **農業管理**: 灌漑システムと作物の水分補給
+- **都市インフラストラクチャ**: 水の浄化と廃棄物管理
+- **医療行為**: 癒しのバスと水分補給療法
+- **環境保護**: 分水界管理と水生生態系のバランス
 
-> *"The student of water learns not to overcome their obstacles, but to flow around them—a lesson that extends far beyond the casting circle."* — The Aquatic Meditations
+> *"水の生徒は障害を克服することを学ばず、障害を乗り越えて流れることを学びます—キャスティングサークルをはるかに超えた教訓です。"* ――水生瞑想
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Weather Magic](/codex/Magics/Advanced/Combinations/WeatherMagic.md)*
+*参照：[元素魔法](/codex/Magics/Elements/ElementalMagic.md)、[火の魔法](/codex/Magics/Elements/FireMagic.md)、[天候魔法](/codex/Magics/Advanced/Combinations/WeatherMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

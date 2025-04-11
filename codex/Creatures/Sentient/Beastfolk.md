@@ -1,105 +1,109 @@
-# **Beastfolk**: The Wild Spirits of Nature
+# **Beastfolk**: 自然の野生の精霊
 
-[**Beastfolk**](/codex/Creatures/Beastfolk.md) are the wild spirits of nature, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a drum that echoes the heartbeat of the earth, they embody physical prowess and natural instincts, creating a unique melody of existence that emphasizes strength, agility, and connection to the natural world.
+[**Beastfolk**](/codex/Creatures/Beastfolk.md) は自然の野生の精霊であり、彼らの肉体は [**Exanthis**](/codex/Basic/Exanthis.md)、[**Souls**](/codex/Basic/Soul.md)、そして **Mana Capacity** が調和して混ざり合ったものです。 大地の鼓動を響かせる太鼓のように、彼らは身体的な腕力と自然な本能を体現し、力強さ、敏捷性、そして自然界とのつながりを強調する、唯一無二の存在の旋律を創り出しています。
 
-## Elemental Composition
+## 元素構成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **beastfolk** forms a harmony that favors physical prowess:
+[Creatures](/codex/Creatures/Creatures.md) で詳述されているように、**beastfolk** の典型的な比率は、肉体的な腕力を重視した調和を形成します。
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 45-70% | The crystalline heart that provides exceptional physical strength and agility |
-| **Soul** | 10-25% | The ethereal essence that shapes an instinct-driven consciousness |
-| **Mana Capacity** | 15-40% | The bridge between worlds that enables primal magical adaptability |
+| **Exanthis** | 45-70% | 卓越した体力と敏捷性をもたらす結晶の心臓 |
+| **Soul** | 10-25% | 本能に突き動かされた意識を形作るエーテル的な本質 |
+| **Mana Capacity** | 15-40% | 原始的な魔法の適応力を可能にする世界間の架け橋 |
 
-This composition grants **beastfolk** their characteristic physical abilities but typically limits their magical adaptability compared to other species, like a powerful drum that produces strong rhythms but cannot play complex melodies.
+この構成により、**beastfolk** は特徴的な身体能力を獲得しますが、強力なリズムを生み出すものの複雑なメロディーを奏でることができない強力な太鼓のように、他の種族（例：[**人間**](/codex/Creatures/Human.md)）と比較して魔法の適応力は一般的に制限されます。
 
-### Individual Variations
+### 個体差
 
-While the model composition represents the typical beastfolk, individual variations exist:
+モデル構成は典型的なビーストフォークを表していますが、個体差は存在します。
 
-- **Alpha Specimens**: Some beastfolk possess Exanthis levels as high as 75%, making them among the physically strongest beings in existence, though often with minimal magical ability (10% Mana Capacity).
-- **Spirit Walkers**: Those with higher Soul percentages (up to 30%) develop exceptional connection to the spiritual realm and animal spirits, often becoming powerful shamans or spirit guides.
-- **Wild Mages**: Rare individuals have Mana Capacity approaching 45%, allowing them to channel primal magic with surprising effectiveness, though they may be less physically imposing (40% Exanthis).
-- **Balanced Beastfolk**: Some maintain a more balanced composition (45% Exanthis, 20% Soul, 35% Mana Capacity), allowing them to adapt to various roles within beastfolk society.
-- **Beast Champions**: A specialized composition of (60% Exanthis, 15% Soul, 25% Mana Capacity) creates beastfolk who can channel limited magic to enhance their already formidable physical abilities.
+- **Alpha Specimens**: 一部のビーストフォークは、Exanthis のレベルが75％にも達し、存在するものの中で最も肉体的に強い存在となっていますが、魔法能力は最小限 (10% Mana Capacity) であることが多いです。
+- **Spirit Walkers**: Soul の割合が高い者 (最大30%) は、精神世界や動物の精霊との特別なつながりを持ち、強力なシャーマンやスピリットガイドになることがよくあります。
+- **Wild Mages**: まれに Mana Capacity が45%に近づく個体もおり、驚くほど効果的に原始魔法を操ることができますが、肉体的な存在感は薄れる可能性があります (40% Exanthis)。
+- **Balanced Beastfolk**: よりバランスの取れた構成 (45% Exanthis、20% Soul、35% Mana Capacity) を維持する者もおり、ビーストフォーク社会のさまざまな役割に適応できます。
+- **Beast Champions**: 特殊な構成 (60% Exanthis、15% Soul、25% Mana Capacity) は、限定的な魔法を操って、すでに手強い肉体能力を強化できるビーストフォークを生み出します。
 
-## Physical Characteristics
+## 身体的特徴
 
-**Beastfolk** are known for their diverse forms and animalistic features:
-- Humanoid bodies with animal characteristics specific to their lineage
-- Enhanced senses that far surpass those of [**humans**](/codex/Creatures/Human.md)
-- Natural weapons such as claws, fangs, or horns
-- Fur, scales, or feathers that provide natural protection
-- Tails that express emotion and aid in balance
+**Beastfolk** は、多様な形態と動物のような特徴で知られています。
+- 自分の血統に特有の動物の特徴を備えた人型体
+- [**人間**](/codex/Creatures/Human.md) をはるかに凌駕する強化された感覚
+- 爪、牙、角などの自然の武器
+- 自然な保護を提供する毛皮、鱗、羽
+- 感情を表現し、バランスを助ける尾
 
-The specific animal traits vary widely among different beastfolk lineages, creating a rich tapestry of forms that reflect the diversity of the natural world.
+特定の動物の特徴は、異なるビーストフォークの血統間で大きく異なり、自然界の多様性を反映した豊かな形態のタペストリーを作り出しています。
 
-## Physical Affinity
+## 身体的親和性
 
-**Beastfolk** demonstrate exceptional proficiency in physical abilities, like virtuoso athletes who have mastered their bodies. Their composition allows them to:
-- Develop extraordinary strength, speed, and agility, like the finest specimens of their animal kin
-- Enhance their natural senses to superhuman levels, like predators honed by evolution
-- Adapt to various environments with remarkable efficiency, like creatures perfectly suited to their habitats
+**Beastfolk** は、まるで自分の体をマスターした名手アスリートのように、身体能力において卓越した熟練度を示します。 彼らの構成により、彼らは次のことが可能になります。
+- 動物の同族の最も優れた個体のように、並外れた力、スピード、敏捷性を発達させる
+- 進化によって鍛えられた捕食者のように、自然な感覚を人間離れしたレベルにまで高める
+- 生息地に完璧に適応した生物のように、驚くほど効率的にさまざまな環境に適応する
 
-This physical prowess makes **beastfolk** capable of achieving feats that other species can only dream of, though they may struggle with tasks requiring fine manipulation or complex thought, like a powerful singer who cannot read music.
+この身体的な腕前により、**beastfolk** は他の種族が夢見ることしかできない偉業を達成することができますが、音楽を読めない強力な歌手のように、細かい操作や複雑な思考を必要とする作業には苦労するかもしれません。
 
-## Lifespan and Soul Decay
+## 寿命と魂の腐敗
 
-The **soul decay** timeline for **beastfolk**, from birth to complete decay, is approximately 200 years, like a torch burning steadily through the night. This moderate lifespan allows them to:
-- Develop deep connections to their territories and animal kin
-- Form stable societies with strong traditions
-- Pass down knowledge through generations
+**beastfolk** の **魂の腐敗** のタイムラインは、誕生から完全な腐敗まで、約200年です。 夜通し燃え続ける松明のようです。 この適度な寿命により、彼らは次のことが可能になります。
+- 自分たちの領土や動物の同族との深い絆を育む
+- 強固な伝統を持つ安定した社会を形成する
+- 知識を世代から世代へと伝える
 
-However, their moderate soul decay also means they must balance the need for immediate action with long-term planning, like a musician who must both feel the rhythm and plan the performance.
+ただし、彼らの適度な魂の腐敗は、目の前の行動の必要性と長期的な計画とのバランスを取らなければならないことも意味します。まるで、リズムを感じ、パフォーマンスを計画しなければならない音楽家のように。
 
-## Habitat and Distribution
+## 生息地と分布
 
-**Beastfolk** primarily inhabit:
-- Wild territories and untamed lands, where their natural abilities are most advantageous
-- Diverse environments ranging from forests to deserts, each lineage adapted to its specific habitat
-- Border regions between civilization and wilderness, where they can maintain their independence
+**Beastfolk** は主に次の場所に生息しています。
+- 自然の能力が最も有利な、野生の領土と手付かずの土地
+- 森から砂漠まで多様な環境。それぞれの血統が特定の生息地に適応
+- 文明と荒野の境界地域。そこで彼らは独立性を維持できます
 
-These locations provide ideal environments for physical development and connection to nature, like a stage perfectly suited to their performance.
+これらの場所は、身体の発達と自然とのつながりに理想的な環境を提供します。まるで、彼らのパフォーマンスに最適なステージのように。
 
-## Cultural Impact
+## 文化的な影響
 
-In the world of **OpenFantasy**, **beastfolk** play a crucial role in maintaining the balance between civilization and nature, like guardians of the wild melodies. Their societies are centers of:
-- Physical prowess and martial skill
-- Environmental harmony and natural wisdom
-- Tribal traditions and communal bonds
+**OpenFantasy** の世界では、**beastfolk** は文明と自然のバランスを維持する上で重要な役割を果たしています。 まるで野生のメロディーの守護者のようです。 彼らの社会は、次の中心地です。
+- 身体的な腕前と武術のスキル
+- 環境の調和と自然の知恵
+- 部族の伝統と共同体の絆
 
-The connection to their animal kin has shaped beastfolk culture around respect for strength, courage, and loyalty, creating a society where physical ability and honor are highly valued.
+動物の同族とのつながりは、力、勇気、忠誠心に対する敬意を中心にビーストフォーク文化を形成し、身体能力と名誉が非常に重視される社会を築き上げています。
 
-## Relationship with Other Species
+## 他の種族との関係
 
-**Beastfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their disconnect from nature
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and honor
-- With **Fae**: A wary relationship, as beastfolk are less susceptible to fae enchantments
+**Beastfolk** は他の種族と複雑な関係を維持しています。
+- [**人間**](/codex/Creatures/Human.md) との間：彼らの適応力に対する尊敬と、自然からの乖離に対する不満が入り混じっている
+- **エルフ** との間：彼らの魔法の腕前を認めつつも、その方法を奇妙だと感じ、敬意を払い距離を置く
+- **ドワーフ** との間：力と名誉に対する相互の尊敬に基づく、実用的な同盟
+- **妖精** との間：用心深い関係。ビーストフォークは妖精の魔法にかかりにくいため
 
-These relationships are often characterized by a sense of pride in their physical abilities and connection to nature, as **beastfolk** view themselves as the true children of the wild.
+これらの関係は、多くの場合、自分たちの身体能力と自然とのつながりに対する誇りを特徴としており、**beastfolk** は自分たちを野生の真の子供たちと見なしています。
 
-## Notable Beastfolk Traits
+## 注目すべきビーストフォークの特徴
 
-- **Physical Mastery**: Beastfolk excel in physical abilities, often surpassing other species in strength, speed, and agility
-- **Environmental Adaptation**: Each lineage is perfectly adapted to its specific habitat
-- **Enhanced Senses**: Beastfolk possess senses that far exceed those of other humanoid species
-- **Natural Weapons**: Many beastfolk possess natural weapons that make them formidable even without tools
-- **Animal Kinship**: Beastfolk share a deep connection with their animal kin, often able to communicate with them
+- **Physical Mastery**: ビーストフォークは身体能力に優れており、力、スピード、敏捷性において他の種族を凌駕することがよくあります。
+- **Environmental Adaptation**: 各血統は、特定の生息地に完全に適応しています。
+- **Enhanced Senses**: ビーストフォークは、他の人型種族をはるかに超える感覚を持っています。
+- **Natural Weapons**: 多くのビーストフォークは、道具がなくても手強い存在となる自然の武器を持っています。
+- **Animal Kinship**: ビーストフォークは動物の同族との深い繋がりを共有しており、しばしば彼らとコミュニケーションをとることができます。
 
-## Beastfolk Lineages
+## ビーストフォークの血統
 
-The term "beastfolk" encompasses numerous lineages, each with its own unique characteristics:
+「ビーストフォーク」という用語は、それぞれ独自の特性を持つ多数の血統を網羅しています。
 
 | Lineage | Animal Traits | Habitat | Notable Abilities |
 |---------|---------------|---------|-------------------|
-| **Wolfkin** | Wolf features, enhanced smell | Forests, tundras | Pack tactics, tracking |
-| **Catfolk** | Cat features, enhanced night vision | Jungles, urban areas | Stealth, agility |
-| **Bearfolk** | Bear features, immense strength | Mountains, forests | Raw power, intimidation |
-| **Birdfolk** | Bird features, hollow bones | Mountains, coastal cliffs | Flight, keen eyesight |
-| **Lizardfolk** | Reptile features, scales | Deserts, swamps | Heat resistance, regeneration |
-| **Fishfolk** | Fish features, gills | Oceans, lakes | Underwater breathing, swimming |
+| **Wolfkin** | オオカミの特徴、嗅覚の強化 | 森林、ツンドラ | パック戦術、追跡 |
+| **Catfolk** | 猫の特徴、夜間視力の強化 | ジャングル、都市部 | ステルス、敏捷性 |
+| **Bearfolk** | クマの特徴、並外れた力 | 山、森林 | 生の力、威圧 |
+| **Birdfolk** | 鳥の特徴、中空の骨 | 山、海岸の崖 | 飛行、鋭い視力 |
+| **Lizardfolk** | 爬虫類の特徴、鱗 | 砂漠、沼地 | 耐熱性、再生 |
+| **Fishfolk** | 魚の特徴、えら | 海、湖 | 水中呼吸、水泳 |
 
-Understanding the nature of **beastfolk** provides insight into the physical aspects of the world of **OpenFantasy**, like feeling the primal rhythms that pulse through the wild places of the world. 
+**beastfolk** の本質を理解することは、世界の野生の場所を脈打つ原始的なリズムを感じるように、**OpenFantasy** の世界の物理的な側面への洞察を提供します。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

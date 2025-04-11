@@ -1,203 +1,206 @@
-# **Shadow Magic**: The Art of Darkness and Concealment
+# **Shadow Magic**: 闇の技と隠蔽
 
-> *"Shadow is not the absence of light, but a subtle presence of its own—a realm of possibilities that exists between what is seen and unseen. Those who fear the dark understand neither its nature nor its gifts."* — Archumbramancer Soren Nightveil
+> *"影は光の欠如ではなく、それ自体の微妙な存在—見えるものと見えないものの間に存在する可能性の領域です。暗闇を恐れる者は、その性質もその贈り物も理解していません。"* — 大魔道師ソレン・ナイトヴェイル
 
-## Quick Reference
-- [Properties of Umbramana](#properties-of-umbramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 簡単な参考
+- [アンブラマナの特性](#アンブラマナの特性)
+- [操作技術](#操作技術)
+- [一般的な呪文](#一般的な呪文)
+- [親和性の発達](#親和性の発達)
+- [リスクと安全対策](#リスクと安全対策)
+- [文化的な意義](#文化的な意義)
 
-## Properties of Umbramana
+## アンブラマナの特性
 
-Umbramana, the elemental mana of shadow, is characterized by:
+影の元素マナであるアンブラマナは、以下の特徴があります。
 
-- **Appearance**: Deep purples, blues, and blacks; absorptive, flowing patterns that seem to draw in light
-- **Sensation**: Feels cool, calming, and subtly invigorating when channeled; creates a sense of depth and concealment
-- **Resonance**: Low to medium-frequency, complex vibration patterns with harmonic depth
-- **Purification Challenge**: Tends to absorb and hide impurities rather than release them; requires persistent refinement
-- **Opposite Element**: Light (creates twilight when forced together, ultimately consumed by light)
-- **Complementary Elements**: Death (creates void), Fire (creates smoke)
-- **Musical Analogy**: Minor key melodies, particularly string instruments; complex, layered harmonies
+- **外観**: 深い紫、青、黒。光を引き込むように見える吸収性のある流れるようなパターン
+- **感覚**: チャネリングすると涼しく、穏やかで、微妙に活力を与えるように感じられます。奥行きと隠蔽の感覚を生み出します。
+- **共鳴**: 低から中周波数の、調和の深みを持つ複雑な振動パターン
+- **浄化の難しさ**: 不純物を放出するのではなく、吸収して隠す傾向があります。持続的な精錬が必要です。
+- **反対の元素**: 光 (強制的に合わせると黄昏を作り出しますが、最終的には光に消費されます)
+- **相補的な元素**: 死 (虚無を作り出す)、火 (煙を作り出す)
+- **音楽的な類似性**: 短調のメロディー、特に弦楽器。複雑で、重層的なハーモニー
 
-## Manipulation Techniques
+## 操作技術
 
-### Basic Techniques
+### 基本的な技術
 
-#### Shadow Summoning
-The foundational technique of drawing forth and concentrating shadow:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Gathers ambient darkness or creates shadow where minimal light exists
-- **Training Focus**: Darkness concentration and boundary definition
-- **Applications**: Creating areas of concealment, darkening rooms, enhancing existing shadows
+#### 影の召喚
+影を引き出し、集中させるための基本的な技術：
+- **難易度**: 初心者
+- **純度要件**: 基本 (15-25%)
+- **効果**: 周囲の暗闇を集めるか、光が最小限しかない場所に影を作り出す
+- **トレーニングの焦点**: 暗闇の集中と境界の定義
+- **応用**: 隠蔽領域の作成、部屋の暗闇化、既存の影の強化
 
-#### Umbral Shaping
-Molding and manipulating existing shadow:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Forms shadow into specific shapes and patterns
-- **Training Focus**: Shadow density and form maintenance
-- **Applications**: Simple disguises, intimidation effects, symbolic communication
+#### アンブラル・シェイピング
+既存の影を形作り、操作する：
+- **難易度**: 初心者から中級者
+- **純度要件**: 基本から精製 (20-40%)
+- **効果**: 影を特定の形やパターンに形成する
+- **トレーニングの焦点**: 影の密度と形状の維持
+- **応用**: 簡単な変装、威嚇効果、象徴的なコミュニケーション
 
-#### Perception Dimming
-Subtly affecting how others perceive the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-50%)
-- **Effect**: Reduces observers' awareness of the caster's presence
-- **Training Focus**: Attention deflection and sensory dampening
-- **Applications**: Stealth enhancement, social camouflage, avoiding unwanted attention
+#### 知覚減衰
+他の人がキャスターをどのように認識するかに微妙な影響を与える：
+- **難易度**: 中級者
+- **純度要件**: 精製 (30-50%)
+- **効果**: 観察者のキャスターの存在に対する意識を低下させる
+- **トレーニングの焦点**: 注意そらしと感覚減衰
+- **応用**: ステルス強化、社会的カムフラージュ、不要な注目を避ける
 
-### Advanced Techniques
+### 高度な技術
 
-#### Shadow Animation
-Creating semi-autonomous shadow constructs:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Infuses shadow with temporary purpose and limited intelligence
-- **Training Focus**: Intent projection and umbral persistence
-- **Applications**: Scouting, distraction, message carrying, performance art
+#### 影のアニメーション
+半自律的な影の構造物を作成する：
+- **難易度**: 上級者
+- **純度要件**: 精製から完璧 (45-70%)
+- **効果**: 影に一時的な目的と限定された知能を吹き込む
+- **トレーニングの焦点**: 意図の投影とアンブラルの持続性
+- **応用**: スカウティング、気晴らし、メッセージの伝達、パフォーマンスアート
 
-#### Void Pocketing
-Creating spaces between shadows:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Forms stable extra-dimensional spaces within shadow
-- **Training Focus**: Spatial folding and boundary maintenance
-- **Applications**: Concealment of objects, temporary storage, escape routes
+#### 虚無のポケット化
+影と影の間に空間を作る：
+- **難易度**: 専門家
+- **純度要件**: 完璧 (65-85%)
+- **効果**: 影の中に安定した異次元空間を形成する
+- **トレーニングの焦点**: 空間折り畳みと境界維持
+- **応用**: 物体の隠蔽、一時的な保管、脱出経路
 
-#### Umbral Traversal
-Using shadow as a medium for transportation:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Allows physical translation through connected shadows
-- **Training Focus**: Dimensional mapping and personal integrity maintenance
-- **Applications**: Rapid travel, infiltration, escape from physical restraints
+#### アンブラル・トラバーサル
+影を輸送の媒体として使用する：
+- **難易度**: マスター
+- **純度要件**: 完璧 (75-95%)
+- **効果**: 接続された影を通る物理的な移動を可能にする
+- **トレーニングの焦点**: 次元マッピングと個人の完全性の維持
+- **応用**: 迅速な移動、潜入、物理的な拘束からの脱出
 
-## Common Spells
+## 一般的な呪文
 
-### Novice Spells
+### 初心者向けの呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | キャスト時間 | 期間 |
 |-------|--------|------------|--------------|----------|
-| **Shadow Hand** | Creates a manipulable shadow appendage | Somatic | 2 seconds | Concentration |
-| **Dim** | Reduces light level in a small area | Somatic, Verbal | 3 seconds | 10 minutes |
-| **Night Eyes** | Enhances vision in darkness | Somatic, Verbal | 5 seconds | 1 hour |
-| **Shadow Mark** | Places an invisible mark visible only in darkness | Somatic, Focus | 10 seconds | 1 week |
+| **影の手** | 操作可能な影の付属物を作成する | 身体 | 2 秒 | 集中 |
+| **薄暗い** | 小さな領域の光レベルを低下させる | 身体、言語 | 3 秒 | 10 分 |
+| **夜の目** | 暗闇での視力を高める | 身体、言語 | 5 秒 | 1 時間 |
+| **影の刻印** | 暗闇でのみ見える目に見えないマークを配置する | 身体、焦点 | 10 秒 | 1 週間 |
 
-### Intermediate Spells
+### 中級者向けの呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | キャスト時間 | 期間 |
 |-------|--------|------------|--------------|----------|
-| **Cloak of Shadows** | Wraps the caster in concealing darkness | Somatic, Verbal | 5 seconds | 30 minutes |
-| **Shadow Puppet** | Creates a simple animated shadow figure | Somatic, Focus | 10 seconds | 10 minutes |
-| **Umbral Message** | Sends a message through connecting shadows | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
-| **Dark Mirror** | Creates a reflection of reality in shadow | Somatic, Verbal, Focus | 30 seconds | 10 minutes |
+| **影の外套** | キャスターを隠蔽の暗闇で包む | 身体、言語 | 5 秒 | 30 分 |
+| **影の人形** | 単純なアニメーションの影のフィギュアを作成する | 身体、焦点 | 10 秒 | 10 分 |
+| **アンブラルのメッセージ** | 接続された影を通してメッセージを送信する | 身体、言語、焦点 | 30 秒 | 瞬間 |
+| **暗い鏡** | 影の中に現実の反射を作り出す | 身体、言語、焦点 | 30 秒 | 10 分 |
 
-### Advanced Spells
+### 上級者向けの呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | キャスト時間 | 期間 |
 |-------|--------|------------|--------------|----------|
-| **Shadow Step** | Allows short-range teleportation between shadows | Somatic, Verbal, Focus | 3 seconds | Instantaneous |
-| **Umbral Entity** | Forms a semi-autonomous shadow being | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Consuming Darkness** | Creates a field of devouring shadow energy | Somatic, Verbal, Focus | 15 seconds | Concentration |
-| **Realm of Shadow** | Transforms an area into a shadow-dominant environment | Somatic, Verbal, Focus, Ritual | 10 minutes | 1 hour |
+| **影のステップ** | 影の間で短距離テレポートを可能にする | 身体、言語、焦点 | 3 秒 | 瞬間 |
+| **アンブラル・エンティティ** | 半自律的な影の存在を形成する | 身体、言語、焦点 | 1 分 | 1 時間 |
+| **消費する暗闇** | 貪り食う影のエネルギーのフィールドを作成する | 身体、言語、焦点 | 15 秒 | 集中 |
+| **影の領域** | ある領域を影が支配的な環境に変える | 身体、言語、焦点、儀式 | 10 分 | 1 時間 |
 
-## Affinity Development
+## 親和性の発達
 
-Shadow affinity progresses through several distinctive stages:
+影の親和性は、いくつかの特徴的な段階を経て進行します。
 
-### Twilight Touch
-The foundational relationship with shadow that most beginners possess:
-- **Manifestation**: Enhanced perception in darkness, intuitive sense of concealed spaces
-- **Physical Signs**: Slightly darker pupils, subtle darkening around fingertips when casting
-- **Enhancement Method**: Regular meditation at twilight or in dimly lit spaces
+### 黄昏のタッチ
+ほとんどの初心者が持っている影との基本的な関係：
+- **兆候**: 暗闇での知覚の向上、隠された空間の直感的な感覚
+- **身体的な兆候**: わずかに暗い瞳孔、キャスティング時に指先周辺が微妙に暗くなる
+- **強化方法**: 黄昏時または薄暗い場所での定期的な瞑想
 
-### Umbral Echo
-The intermediate stage where shadow responds more readily to the mage's will:
-- **Manifestation**: Shadows deepen around the caster, ambient light seems to dim slightly
-- **Physical Signs**: Eyes appear darker, shadow cast is slightly more pronounced than normal
-- **Enhancement Method**: Shadow immersion exercises, prolonged exposure to natural darkness
+### アンブラルの反響
+影が魔法使いの意志により迅速に反応する中間段階：
+- **兆候**: キャスターの周りの影が深くなり、周囲の光がわずかに暗くなるように見える
+- **身体的な兆候**: 目が暗く見え、キャストされた影が通常よりもわずかに顕著になる
+- **強化方法**: 影の没入エクササイズ、自然な暗闇への長期的な曝露
 
-### Void Harmony
-Advanced practitioners achieve a deep resonance with shadow's properties:
-- **Manifestation**: Natural shadows seem drawn to the caster, ability to sense movement through darkness
-- **Physical Signs**: Skin develops subtle shifting patterns in dim light, voice gains resonant qualities
-- **Enhancement Method**: Deep communion at sites of natural darkness or during lunar eclipses
+### 虚無の調和
+上級者は影の特性との深い共鳴を達成します：
+- **兆候**: 自然の影がキャスターに引き寄せられるように見える、暗闇を通して動きを感知する能力
+- **身体的な兆候**: 薄暗い光の中で皮膚に微妙な変化パターンが現れ、声が共鳴品質を獲得する
+- **強化方法**: 自然の暗闇の場所または月食時の深い交わり
 
-### Shadow Integration
-Master umbramancers who have achieved profound connection with shadow:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of darkness
-- **Physical Signs**: Body temperature drops slightly, blood appears unusually dark, starlight reflection in eyes
-- **Enhancement Method**: Deep communion at ley line intersections with strong shadow resonance
+### 影の統合
+影との深いつながりを達成したマスター・アンブラマンサー：
+- **兆候**: 部分的な変身能力、暗闇の直感的な操作
+- **身体的な兆候**: 体温がわずかに低下し、血液が異常に暗く見え、目に星明かりが反射する
+- **強化方法**: 強い影の共鳴を持つレイラインの交差点での深い交わり
 
-## Risks and Safeguards
+## リスクと安全対策
 
-### Common Risks
+### 一般的なリスク
 
-- **Sensory Degradation**: Diminished visual perception in normal light
-- **Emotional Dampening**: Gradual suppression of emotional responses
-- **Umbral Dependency**: Developing discomfort in bright light or open spaces
-- **Identity Diffusion**: Loss of self-definition through excessive shadow immersion
-- **Void Contamination**: Shadow techniques accidentally accessing dangerous extraplanar spaces
+- **感覚の劣化**: 通常の光での視覚認識の低下
+- **感情の抑制**: 感情的な反応の徐々の抑制
+- **アンブラル依存**: 明るい光または開放された空間での不快感の発達
+- **アイデンティティの拡散**: 過度の影への没入による自己定義の喪失
+- **虚無汚染**: 危険な異次元空間に誤ってアクセスする影の技術
 
-### Miscast Effects
+### キャストミス効果
 
-| Severity | Effect | Recovery |
+| 重症度 | 効果 | 回復 |
 |----------|--------|----------|
-| **Minor** | Temporary night vision, heightened light sensitivity, minor shadow persistence | Hours |
-| **Moderate** | Partial transparency in bright light, shadow pooling, emotional flattening | Days |
-| **Severe** | Uncontrolled phasing into shadow, sensory darkness, loss of physical boundaries | Weeks |
-| **Critical** | Involuntary shadow transformation, void displacement, essence fragmentation | Months to permanent |
+| **軽微** | 一時的な夜間視力、光線過敏症の亢進、軽微な影の持続性 | 時間 |
+| **中程度** | 明るい光の中での部分的な透明性、影のプーリング、感情の平板化 | 日 |
+| **重度** | 影への制御不能なフェーズ化、感覚的な暗闇、物理的な境界の喪失 | 週間 |
+| **重大** | 不随意の影の変身、虚無の変位、本質の断片化 | 数ヶ月から永久 |
 
-### Safety Practices
+### 安全対策
 
-- **Light Balancing**: Regular exposure to natural sunlight between practice sessions
-- **Identity Anchoring**: Personal focus objects and regular social interaction
-- **Boundary Rituals**: Clearly defined casting spaces with protective markings
-- **Emotional Maintenance**: Creative expression and emotional stimulation exercises
-- **Physical Grounding**: Regular physical exercise and tactile experiences
+- **光のバランス**: 練習セッションの合間に自然な日光への定期的な曝露
+- **アイデンティティの固定**: 個人的な焦点オブジェクトと定期的な社会的交流
+- **境界儀式**: 保護的なマーキングが施された明確に定義されたキャスティングスペース
+- **感情の維持**: 創造的な表現と感情刺激のエクササイズ
+- **物理的な接地**: 定期的な身体運動と触覚的な体験
 
-## Cultural Significance
+## 文化的な意義
 
-### Historical Development
+### 歴史的発展
 
-Shadow magic represents one of the most misunderstood and often maligned magical disciplines. Its development followed three distinct historical phases:
+影の魔法は、最も誤解され、しばしば中傷される魔法の分野の1つを表しています。その発展は、3つの明確な歴史的段階を経ました。
 
-1. **Primal Darkness**: Early cultures developing rituals around night, caves, and the unknown
-2. **Concealment Necessity**: Development of stealth techniques during periods of magical persecution
-3. **Dimensional Exploration**: Advanced practitioners discovering shadow's connection to other planes
+1. **原始の暗闇**: 夜、洞窟、未知のものに関する儀式を開発する初期の文化
+2. **隠蔽の必要性**: 魔法の迫害期間中のステルス技術の開発
+3. **次元探査**: 他の平面への影のつながりを発見した上級者
 
-### Regional Variations
+### 地域バリエーション
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 焦点 | 署名の技術 | 哲学 |
 |---------|-------|---------------------|------------|
-| **Forest Dwellers** | Concealment, camouflage | Shadow blending, dappled darkness | Shadow as the silent protector |
-| **Underground Societies** | Navigation, perception | Cave sight, echo shadowing | Shadow as the true foundation |
-| **Urban Practitioners** | Stealth, communication | Alleyway walking, urban concealment | Shadow as the unseen network |
-| **Desert Night Tribes** | Star connection, cooling | Night shrouding, heat absorption | Shadow as the night's blessing |
+| **森の住人** | 隠蔽、カムフラージュ | 影のブレンド、斑点状の暗闇 | 沈黙の保護者としての影 |
+| **地下社会** | ナビゲーション、知覚 | 洞窟の視覚、エコーシャドウイング | 真の基盤としての影 |
+| **都市の実践者** | ステルス、コミュニケーション | 路地歩行、都市の隠蔽 | 目に見えないネットワークとしての影 |
+| **砂漠の夜の部族** | 星のつながり、冷却 | 夜の覆い、熱吸収 | 夜の祝福としての影 |
 
-### Ceremonial Uses
+### 儀式での使用
 
-Shadow magic features prominently in some cultural ceremonies:
-- **Transition Rituals**: Marking major life changes through symbolic shadow immersion
-- **Protection Ceremonies**: Creating shadow guardians for important locations
-- **Coming of Age**: Young umbramancers demonstrating their first shadow manipulation
-- **New Moon Gatherings**: Communal shadow workings during the darkest nights
+影の魔法は、いくつかの文化的儀式で顕著に特徴付けられます：
+- **移行儀式**: 象徴的な影の没入を通して主要な人生の変化をマークする
+- **保護儀式**: 重要な場所のための影のガーディアンを作成する
+- **成人式**: 若いアンブラマンサーが最初の影の操作を実演する
+- **新月の集まり**: 最も暗い夜の間の共同の影の働き
 
-### Contemporary Applications
+### 現代のアプリケーション
 
-Beyond stealth and intimidation, shadow magic serves important societal functions:
-- **Privacy Protection**: Creating secure spaces free from surveillance
-- **Information Security**: Shadow-marked documents that reveal content only under specific conditions
-- **Environmental Management**: Temperature control through strategic shadow creation
-- **Therapeutic Applications**: Sensory reduction environments for psychological treatment
-- **Engineering**: Testing structures for stability and integrity through shadow analysis
+ステルスと脅迫を超えて、影の魔法は重要な社会機能を提供します：
+- **プライバシー保護**: 監視のない安全なスペースを作成する
+- **情報セキュリティ**: 特定の条件下でのみコンテンツを明らかにする影でマークされたドキュメント
+- **環境管理**: 戦略的な影の作成による温度制御
+- **治療的応用**: 心理的治療のための感覚低減環境
+- **エンジニアリング**: 影の分析による構造の安定性と完全性のテスト
 
-> *"The student of shadow must understand that darkness does not seek to consume light, but to provide balance—like silence that gives meaning to sound, or rest that gives purpose to activity."* — The Umbral Tenets
+> *"影の生徒は、暗闇が光を消費しようとするのではなく、バランスを提供しようとすることを理解しなければなりません—音に意味を与える沈黙、または活動に目的を与える休息のように。"* — アンブラルの信条
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Light Magic](/codex/Magics/Elements/LightMagic.md), [Void Magic](/codex/Magics/Advanced/Specializations/VoidMagic.md)* 
+*こちらも参照してください: [元素魔法](/codex/Magics/Elements/ElementalMagic.md), [光魔法](/codex/Magics/Elements/LightMagic.md), [虚無魔法](/codex/Magics/Advanced/Specializations/VoidMagic.md)*
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,174 +1,178 @@
-# **OpenFantasy Magic System**
+# **OpenFantasy 魔法システム**
 
-## Directory Structure
+## ディレクトリ構成
 
 ```
 codex/Magics/
-├── Core/                            # Fundamental magic concepts
-│   ├── Magic.md                     # Overview of magic system
-│   ├── MagicCasting.md              # The practical art of magical manipulation
-│   ├── ManaMechanics.md             # Technical details of mana function
-│   ├── ManaPurity.md                # Mana quality and purification
-│   ├── ManaRegeneration.md          # Recovery of magical potential
-│   └── WildMana.md                  # Primordial magical energy
+├── Core/                            # 基本的な魔法の概念
+│   ├── Magic.md                     # 魔法システムの概要
+│   ├── MagicCasting.md              # 魔法操作の実践的な技術
+│   ├── ManaMechanics.md             # マナ機能の技術的な詳細
+│   ├── ManaPurity.md                 # マナの質と浄化
+│   ├── ManaRegeneration.md          # 魔法力の回復
+│   └── WildMana.md                  # 原始的な魔法エネルギー
 │
-├── Effects/                         # Impact and consequences
-│   ├── WildManaEffects.md           # Dangers of Wild Mana exposure
-│   ├── EnhancementBuffs.md          # Amplifiers of magical potential
-│   └── ElementalEffects.md          # Elemental magic consequences
+├── Effects/                         # 影響と結果
+│   ├── WildManaEffects.md          # Wild Mana曝露の危険性
+│   ├── EnhancementBuffs.md          # 魔法力の増幅器
+│   └── ElementalEffects.md          # 元素魔法の結果
 │
-├── Schools/                         # Major magical disciplines
-│   ├── Evocation.md                 # Channeling energy for direct effects
-│   ├── Abjuration.md                # Protective and warding magic
-│   ├── Divination.md                # Information gathering and foresight
-│   ├── Enchantment.md               # Influencing minds and enhancing objects
-│   ├── Illusion.md                  # Manipulating perception
-│   └── Conjuration.md               # Creating and summoning
+├── Schools/                         # 主要な魔法の学派
+│   ├── Evocation.md                 # 直接的な効果のためのエネルギー伝達
+│   ├── Abjuration.md                 # 防御と結界の魔法
+│   ├── Divination.md                 # 情報収集と予知
+│   ├── Enchantment.md               # 精神への影響とオブジェクトの強化
+│   ├── Illusion.md                  # 知覚の操作
+│   └── Conjuration.md               # 創造と召喚
 │
-├── Elements/                        # Elemental forces
-│   ├── ElementalMagic.md            # Fundamental harmonies of creation
-│   ├── FireMagic.md                 # Flame and heat manipulation
-│   ├── WaterMagic.md                # Liquid, ice, and vapor control
-│   ├── EarthMagic.md                # Stone, crystal, and soil mastery
-│   ├── AirMagic.md                  # Wind and atmospheric command
-│   ├── LightMagic.md                # Illumination and radiance
-│   └── ShadowMagic.md               # Darkness and concealment
+├── Elements/                        # 元素の力
+│   ├── ElementalMagic.md            # 創造の基本的な調和
+│   ├── FireMagic.md                 # 炎と熱の操作
+│   ├── WaterMagic.md                 # 液体、氷、蒸気の制御
+│   ├── EarthMagic.md                 # 石、結晶、土壌の習得
+│   ├── AirMagic.md                   # 風と大気のコマンド
+│   ├── LightMagic.md                # 照明と輝き
+│   └── ShadowMagic.md               # 闇と隠蔽
 │
-├── Spells/                          # Specific spell documentation
-│   ├── README.md                    # Spell classification system
-│   ├── Elemental/                   # Element-based spells
-│   ├── Divination/                  # Information-gathering spells
-│   ├── Protection/                  # Defensive spells
-│   ├── Utility/                     # Practical everyday spells
-│   └── Illusion/                    # Perception-altering spells
+├── Spells/                          # 特定の呪文のドキュメント
+│   ├── README.md                    # 呪文の分類システム
+│   ├── Elemental/                   # 元素ベースの呪文
+│   ├── Divination/                  # 情報収集の呪文
+│   ├── Protection/                  # 防御呪文
+│   ├── Utility/                     # 実用的な日常呪文
+│   └── Illusion/                    # 知覚を変える呪文
 │
-└── Advanced/                        # Higher-level magical concepts
-    ├── Rituals/                     # Complex multi-caster magic
-    ├── MagicalCreation/             # Creating magical objects
-    ├── SoulMagic/                   # Working with spiritual essence
-    └── Metaphysics/                 # Theoretical magical principles
+└── Advanced/                        # より高度な魔法の概念
+    ├── Rituals/                     # 複雑なマルチキャスター魔法
+    ├── MagicalCreation/             # 魔法オブジェクトの作成
+    ├── SoulMagic/                   # 精神的な本質を扱う
+    └── Metaphysics/                 # 理論的な魔法の原則
 ```
 
-## Quick Navigation
+## クイックナビゲーション
 
-### Fundamental Concepts
-- [Magic Overview](/codex/Magics/Core/Magic.md) - Basic principles and terminology
-- [Casting Process](/codex/Magics/Core/MagicCasting.md) - How magic is performed
-- [Mana Mechanics](/codex/Magics/Core/ManaMechanics.md) - Technical aspects of magical energy
+### 基本的な概念
+- [魔法の概要](/codex/Magics/Core/Magic.md) - 基本原則と用語
+- [キャスティングプロセス](/codex/Magics/Core/MagicCasting.md) - 魔法の実行方法
+- [マナの仕組み](/codex/Magics/Core/ManaMechanics.md) - 魔法エネルギーの技術的な側面
 
-### Practical Applications
-- [Spell Directory](/codex/Magics/Spells/README.md) - Catalog of known spells
-- [Enhancement Techniques](/codex/Magics/Effects/EnhancementBuffs.md) - Improving magical ability
-- [Elemental Manipulation](/codex/Magics/Elements/ElementalMagic.md) - Working with fundamental forces
+### 実用的な応用
+- [呪文ディレクトリ](/codex/Magics/Spells/README.md) - 既知の呪文のカタログ
+- [強化テクニック](/codex/Magics/Effects/EnhancementBuffs.md) - 魔法能力の向上
+- [元素操作](/codex/Magics/Elements/ElementalMagic.md) - 基本的な力を扱う
 
-### Magical Disciplines
-- [Schools of Magic](/codex/Magics/Schools/) - Major magical traditions
-- [Elemental Forces](/codex/Magics/Elements/) - Elemental magic systems
-- [Advanced Practices](/codex/Magics/Advanced/) - Master-level magical concepts
+### 魔法の学問
+- [魔法の学派](/codex/Magics/Schools/) - 主要な魔法の伝統
+- [元素の力](/codex/Magics/Elements/) - 元素魔法システム
+- [高度な実践](/codex/Magics/Advanced/) - マスターレベルの魔法の概念
 
-## Magical Progression
+## 魔法の進歩
 
-Practitioners typically follow this learning path:
+実践者は通常、次の学習パスに従います。
 
-1. **Fundamentals**: Understanding mana, basic purification, and simple patterns
-2. **Elemental Affinity**: Developing connection with elemental forces
-3. **School Specialization**: Focusing on one or more magical schools
-4. **Advanced Applications**: Combining techniques for complex effects
-5. **Mastery**: Developing unique magical expressions and innovations
+1. **基礎**: マナ、基本的な浄化、および単純なパターンを理解する
+2. **元素親和性**: 元素の力とのつながりを深める
+3. **学派の専門化**: 1つ以上の魔法の学派に焦点を当てる
+4. **高度な応用**: 複雑な効果のためにテクニックを組み合わせる
+5. **習得**: ユニークな魔法の表現と革新を開発する
 
-> *"Magic is not merely a collection of spells, but a living system of knowledge built upon fundamental principles that flow together like a grand symphony."* — Archmage Thalen Moonshadow
+> *"魔法は単なる呪文のコレクションではなく、壮大な交響曲のように流れる基本的な原則に基づいて構築された、知識の生きたシステムです。"* — 大魔術師 Thalen Moonshadow
 
-## Overview
+## 概要
 
-Welcome to the OpenFantasy Magic System documentation. This repository contains a comprehensive framework for magic in the OpenFantasy world, blending systematic rules with thematic elements.
+OpenFantasy 魔法システムのドキュメントへようこそ。このリポジトリには、体系的なルールとテーマ要素をブレンドした、OpenFantasy 世界の魔法のための包括的なフレームワークが含まれています。
 
-## Quick Navigation
+## クイックナビゲーション
 
-- [Fundamental Concepts](#fundamental-concepts)
-- [Key Documents](#key-documents)
-- [Spells](#spells)
-- [Magical Elements](#magical-elements)
-- [Enhancement and Progression](#enhancement-and-progression)
+- [基本的な概念](#fundamental-concepts)
+- [主要なドキュメント](#key-documents)
+- [呪文](#spells)
+- [魔法の元素](#magical-elements)
+- [強化と進歩](#enhancement-and-progression)
 
-## Fundamental Concepts
+## 基本的な概念
 
-The OpenFantasy magic system is built on these core principles:
+OpenFantasy 魔法システムは、次のコア原則に基づいて構築されています。
 
-| Concept | Description |
+| 概念 | 説明 |
 |---------|-------------|
-| **Mana** | The fundamental magical energy that powers all spells |
-| **Purity** | The refinement of mana, determining spell effectiveness |
-| **Capacity** | The amount of mana a caster can hold and channel |
-| **Resonance** | The harmonic properties of magical energies |
-| **Pattern** | The structured form that shapes mana into specific effects |
+| **マナ** | すべての呪文に力を与える基本的な魔法エネルギー |
+| **純度** | 呪文の有効性を決定するマナの精製 |
+| **容量** | キャスターが保持およびチャネルできるマナの量 |
+| **共鳴** | 魔法エネルギーの調和特性 |
+| **パターン** | マナを特定のエフェクトに形作る構造化された形式 |
 
-## Key Documents
+## 主要なドキュメント
 
-| Document | Content |
+| ドキュメント | 内容 |
 |----------|---------|
-| [Magic.md](/codex/Magics/Core/Magic.md) | Overview of magical theory and practice |
-| [MagicCasting.md](/codex/Magics/Core/MagicCasting.md) | Detailed explanation of the spellcasting process |
-| [ManaPurity.md](/codex/Magics/Core/ManaPurity.md) | The refinement of magical energy |
-| [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) | The eight primary elements and their properties |
-| [EnhancementBuffs.md](/codex/Magics/Effects/EnhancementBuffs.md) | Magical effects that enhance a caster's abilities |
-| [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md) | Technical details connecting capacity, purity, and spell requirements |
+| [Magic.md](/codex/Magics/Core/Magic.md) | 魔法の理論と実践の概要 |
+| [MagicCasting.md](/codex/Magics/Core/MagicCasting.md) | 呪文詠唱プロセスの詳細な説明 |
+| [ManaPurity.md](/codex/Magics/Core/ManaPurity.md) | 魔法エネルギーの精製 |
+| [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) | 8つの主要な元素とその特性 |
+| [EnhancementBuffs.md](/codex/Magics/Effects/EnhancementBuffs.md) | キャスターの能力を向上させる魔法効果 |
+| [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md) | 容量、純度、および呪文の要件を接続する技術的な詳細 |
 
-## Spells
+## 呪文
 
-The [Spells directory](/codex/Magics/Spells/) contains documentation for specific magical effects, organized by category:
+[Spells ディレクトリ](/codex/Magics/Spells/)には、カテゴリ別に整理された、特定の魔法効果のドキュメントが含まれています。
 
-- **Elemental**: Manipulation of the eight primary elements
-- **Utility**: Practical magic for everyday tasks
-- **Protection**: Defensive and warding magic
-- **Divination**: Information-gathering and perception-enhancing magic
-- **Illusion**: Perception-altering magic
-- **Enchantment**: Object and being enhancement
-- **Transformation**: Physical alterations
-- **Summoning**: Calling entities and objects
+- **元素**: 8つの主要な元素の操作
+- **ユーティリティ**: 日常業務のための実用的な魔法
+- **保護**: 防御と結界の魔法
+- **占術**: 情報収集と知覚を強化する魔法
+- **イリュージョン**: 知覚を変える魔法
+- **エンチャント**: オブジェクトと存在の強化
+- **変容**: 身体の変更
+- **召喚**: エンティティとオブジェクトの呼び出し
 
-→ See the [Spells README](/codex/Magics/Spells/README.md) for detailed information.
+→ 詳細については、[Spells README](/codex/Magics/Spells/README.md)を参照してください。
 
-## Magical Elements
+## 魔法の元素
 
-The OpenFantasy world recognizes eight primary elements arranged in complementary pairs:
+OpenFantasy 世界は、相補的なペアで配置された 8 つの主要な元素を認識しています。
 
-| Element | Opposed Element | Associated Mana |
+| 元素 | 対立する元素 | 関連するマナ |
 |---------|-----------------|-----------------|
-| Fire | Water | Pyromana |
-| Water | Fire | Hydromana |
-| Earth | Air | Terramana |
-| Air | Earth | Aeromana |
-| Light | Shadow | Luxmana |
-| Shadow | Light | Umbramana |
-| Life | Death | Vitaemana |
-| Death | Life | Mortismana |
+| 火 | 水 | Pyromana |
+| 水 | 火 | Hydromana |
+| 土 | 空気 | Terramana |
+| 空気 | 土 | Aeromana |
+| 光 | 影 | Luxmana |
+| 影 | 光 | Umbramana |
+| 生命 | 死 | Vitaemana |
+| 死 | 生命 | Mortismana |
 
-Base Mana serves as the foundation for all magical workings, with elemental mana types adding specific properties.
+ベースマナはすべての魔法の働きのための基礎として機能し、元素マナタイプは特定のプロパティを追加します。
 
-## Enhancement and Progression
+## 強化と進歩
 
-Character advancement in magical ability follows several paths:
+魔法能力のキャラクターの進歩は、いくつかの道筋をたどります。
 
-1. **Capacity Development**: Increasing the amount of mana a character can hold
-2. **Purification Skill**: Improving the quality of mana a character can produce
-3. **Pattern Complexity**: Learning more intricate spell structures
-4. **Elemental Attunement**: Developing affinity with specific elements
-5. **Specialization**: Focusing on particular magical disciplines
+1. **容量開発**: キャラクターが保持できるマナの量を増やす
+2. **浄化スキル**: キャラクターが生成できるマナの質を向上させる
+3. **パターン複雑性**: より複雑な呪文構造を学習する
+4. **元素の調和**: 特定の元素との親和性を深める
+5. **専門化**: 特定の魔法の学問に焦点を当てる
 
-Enhancement buffs can temporarily boost these abilities beyond natural limits.
+エンハンスメントバフは、これらの能力を一時的に自然の限界を超えて向上させることができます。
 
-## Musical Framework
+## 音楽のフレームワーク
 
-Magic in OpenFantasy is conceptualized through musical analogies:
+OpenFantasy の魔法は、音楽の比喩を通して概念化されています。
 
-- **Spellcasting** resembles playing a musical composition
-- **Mana Purification** is like tuning an instrument
-- **Multi-element magic** functions like chord progressions
-- **Ritual magic** operates as a magical orchestra
-- **Magical resonance** behaves according to harmonic principles
+- **呪文の詠唱**は、音楽の構成を演奏することに似ています
+- **マナの浄化**は、楽器を調整することに似ています
+- **多元素魔法**は、コード進行のように機能します
+- **儀式魔法**は、魔法のオーケストラとして機能します
+- **魔法の共鳴**は、ハーモニックの原理に従って動作します
 
-This thematic element reinforces the systematic nature of magic while providing intuitive understanding.
+このテーマ要素は、魔法の体系的な性質を強化し、直感的な理解を提供します。
 
 ---
 
-> **Repository Structure**: This documentation uses Markdown formatting optimized for viewing on Git platforms. 
+> **リポジトリ構造**: このドキュメントは、Git プラットフォームでの表示に最適化された Markdown 形式を使用しています。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

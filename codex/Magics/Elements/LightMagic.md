@@ -1,203 +1,207 @@
-# **Light Magic**: The Art of Illumination and Radiance
+# **光の魔法**: 照らし出す技と輝き
 
-> *"Light reveals truth, banishes darkness, and guides the way. It is not merely brightness, but clarity—the manifestation of understanding itself."* — Archluminomancer Elinor Dawnseeker
+> *"光は真実を明らかにし、闇を払い、道を導く。それは単なる明るさではなく、明晰さ、すなわち理解そのものの顕現である。"* — 大輝術師 エリノア・ドーンシーカー
 
-## Quick Reference
-- [Properties of Luxmana](#properties-of-luxmana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## クイックリファレンス
+- [ルクスマーナの特性](#ルクスマーナの特性)
+- [操作技術](#操作技術)
+- [一般的な呪文](#一般的な呪文)
+- [親和性開発](#親和性開発)
+- [リスクと安全対策](#リスクと安全対策)
+- [文化的意義](#文化的意義)
 
-## Properties of Luxmana
+## ルクスマーナの特性
 
-Luxmana, the elemental mana of light, is characterized by:
+光の元素マナであるルクスマーナは、以下の特徴を持つ：
 
-- **Appearance**: Golden, white, and prismatic hues; brilliant, radiant patterns that emanate outward
-- **Sensation**: Feels warm, clarifying, and energizing when channeled; creates a sense of weightlessness and focus
-- **Resonance**: High-frequency, pure vibration patterns with harmonic clarity
-- **Purification Challenge**: Already naturally pure but sensitive to emotional impurities; can become blinding if overpurified
-- **Opposite Element**: Shadow (creates twilight when forced together, ultimately dispels shadow)
-- **Complementary Elements**: Air (creates radiance), Fire (creates radiant flame)
-- **Musical Analogy**: Major key melodies, particularly stringed instruments; clear, resonant tones
+- **外観**: 金色、白色、そして虹色の色合い。外に向かって発散する、輝かしく、放射状のパターン
+- **感覚**: 導かれると暖かく、明晰で、活力を与えるように感じる。無重力感と集中力をもたらす
+- **共鳴**: 高周波で純粋な振動パターン、調和のとれた明瞭さを持つ
+- **浄化の課題**: 元々自然に純粋だが、感情的な不純物に敏感。浄化しすぎると目をくらませる可能性がある
+- **対になる元素**: 影（強制的に合わせると薄明を生み出し、最終的には影を消散させる）
+- **補完的な元素**: 空気（輝きを生み出す）、火（放射性の炎を生み出す）
+- **音楽的なアナロジー**: 長調のメロディー、特に弦楽器。明瞭で共鳴する音色
 
-## Manipulation Techniques
+## 操作技術
 
-### Basic Techniques
+### 基本的な技術
 
-#### Illumination
-The foundational technique of creating and directing light:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Generates controlled light from magical energy
-- **Training Focus**: Brightness control and directional casting
-- **Applications**: Creating light sources, signal flares, revealing hidden writing
+#### 照らし出す
+光を作り出し、方向付けるための基礎となる技術：
+- **難易度**: 初心者
+- **純度要件**: 基本 (15-25%)
+- **効果**: 魔法エネルギーから制御された光を生成する
+- **訓練の焦点**: 明るさの制御と方向性のキャスティング
+- **応用**: 光源の作成、信号フレア、隠された文字の表示
 
-#### Chromatic Manipulation
-Altering the color and quality of light:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Changes the wavelength and properties of light
-- **Training Focus**: Spectral selection and color purity
-- **Applications**: Color changing, mood enhancement, plant growth stimulation
+#### 色彩操作
+光の色と質を変化させる：
+- **難易度**: 初心者から中級者
+- **純度要件**: 基本から洗練 (20-40%)
+- **効果**: 光の波長と特性を変化させる
+- **訓練の焦点**: スペクトル選択と色の純度
+- **応用**: 色の変化、ムードの向上、植物の成長促進
 
-#### Revelation
-Using light to reveal hidden information:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Illuminates magical effects, spiritual entities, or concealed objects
-- **Training Focus**: Light penetration and interaction with different energies
-- **Applications**: Detecting illusions, revealing enchantments, finding hidden objects
+#### 啓示
+光を使って隠された情報を明らかにする：
+- **難易度**: 中級者
+- **純度要件**: 洗練 (35-50%)
+- **効果**: 魔法の効果、霊的な存在、または隠された物体を照らす
+- **訓練の焦点**: さまざまなエネルギーとの光の浸透と相互作用
+- **応用**: 幻影の検出、魅了の解明、隠された物体の発見
 
-### Advanced Techniques
+### 高度な技術
 
-#### Photomantic Sculpting
-Creating and maintaining complex light structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms persistent light constructs with physical properties
-- **Training Focus**: Light solidification and structural integrity
-- **Applications**: Light bridges, defensive barriers, illuminated architecture
+#### 光造形
+複雑な光の構造を作成し、維持する：
+- **難易度**: 上級者
+- **純度要件**: 洗練から完璧 (45-70%)
+- **効果**: 物理的な特性を持つ持続的な光の構造を形成する
+- **訓練の焦点**: 光の固体化と構造的な完全性
+- **応用**: 光の橋、防御壁、照らされた建築
 
-#### Purification Radiance
-Using light to cleanse and purify:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Dispels negative energies, corruptions, and certain enchantments
-- **Training Focus**: Resonant harmony and dissonance cancellation
-- **Applications**: Consecration, curse removal, purifying corrupted areas
+#### 浄化の輝き
+光を使って浄化する：
+- **難易度**: エキスパート
+- **純度要件**: 完璧 (65-85%)
+- **効果**: 否定的なエネルギー、堕落、および特定の魅了を払拭する
+- **訓練の焦点**: 共鳴の調和と不協和音の打ち消し
+- **応用**: 聖別、呪いの除去、汚染された地域の浄化
 
-#### Light Embodiment
-Transforming physical matter into light:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (80-95%)
-- **Effect**: Converts matter (including the caster) partially into light energy
-- **Training Focus**: Matter-energy transition states
-- **Applications**: Rapid travel, passing through barriers, defensive phasing
+#### 光の具現化
+物理的な物質を光に変換する：
+- **難易度**: マスター
+- **純度要件**: 完璧 (80-95%)
+- **効果**: 物質（術者を含む）を部分的に光エネルギーに変換する
+- **訓練の焦点**: 物質とエネルギーの遷移状態
+- **応用**: 高速移動、障壁の通過、防御的なフェーズ
 
-## Common Spells
+## 一般的な呪文
 
-### Novice Spells
+### 初心者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 成分 | キャスティング時間 | 期間 |
 |-------|--------|------------|--------------|----------|
-| **Light Orb** | Creates a floating sphere of illumination | Somatic | 1 second | 1 hour |
-| **Color Shift** | Changes the color of an existing light source | Somatic | 2 seconds | 10 minutes |
-| **Flash** | Creates a sudden burst of bright light | Somatic, Verbal | 1 second | Instantaneous |
-| **Light Script** | Creates glowing text in the air | Somatic, Verbal | 5 seconds | 30 minutes |
+| **光のオーブ** | 浮遊する照明の球体を作成する | 体勢 | 1秒 | 1時間 |
+| **色のシフト** | 既存の光源の色を変更する | 体勢 | 2秒 | 10分 |
+| **フラッシュ** | 突然の明るい光のバーストを作成する | 体勢、言語 | 1秒 | 瞬間 |
+| **光のスクリプト** | 空中に光るテキストを作成する | 体勢、言語 | 5秒 | 30分 |
 
-### Intermediate Spells
+### 中級者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 成分 | キャスティング時間 | 期間 |
 |-------|--------|------------|--------------|----------|
-| **Revealing Light** | Illuminates invisible objects or beings | Somatic, Verbal, Focus | 5 seconds | 10 minutes |
-| **Light Shield** | Creates a protective barrier of solid light | Somatic, Verbal | 3 seconds | Concentration |
-| **Prismatic Ray** | Projects a beam of light that can be adjusted to different colors | Somatic, Focus | 2 seconds | Concentration |
-| **Purifying Glow** | Cleanses a small area or object of minor corruption | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
+| **明らかにする光** | 目に見えない物体や存在を照らす | 体勢、言語、焦点 | 5秒 | 10分 |
+| **光の盾** | 固体光の保護バリアを作成する | 体勢、言語 | 3秒 | 集中 |
+| **プリズム光線** | さまざまな色に調整できる光線を投影する | 体勢、焦点 | 2秒 | 集中 |
+| **浄化の輝き** | 軽微な汚染のある小さな領域または物体を浄化する | 体勢、言語、焦点 | 30秒 | 瞬間 |
 
-### Advanced Spells
+### 上級者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 成分 | キャスティング時間 | 期間 |
 |-------|--------|------------|--------------|----------|
-| **Daylight** | Creates intense natural-seeming light over a large area | Somatic, Verbal, Focus | 10 seconds | 1 hour |
-| **Light Construct** | Forms a semi-autonomous light entity | Somatic, Verbal, Focus | 1 minute | 30 minutes |
-| **Radiant Burst** | Releases a powerful flash of purifying energy | Somatic, Verbal, Focus | 5 seconds | Instantaneous |
-| **Photokinetic Leap** | Transforms caster briefly into light for rapid movement | Somatic, Verbal, Focus | 5 seconds | 3 seconds |
+| **日光** | 広大な領域に強烈な自然な光を作り出す | 体勢、言語、焦点 | 10秒 | 1時間 |
+| **光のコンストラクト** | 半自律的な光のエンティティを形成する | 体勢、言語、焦点 | 1分 | 30分 |
+| **輝くバースト** | 浄化エネルギーの強力なフラッシュを放出する | 体勢、言語、焦点 | 5秒 | 瞬間 |
+| **光運動の飛躍** | 術者を一時的に光に変え、迅速な移動を可能にする | 体勢、言語、焦点 | 5秒 | 3秒 |
 
-## Affinity Development
+## 親和性開発
 
-Light affinity progresses through several distinctive stages:
+光の親和性は、いくつかの特徴的な段階を経て進行する：
 
-### Inner Spark
-The foundational relationship with light that most beginners possess:
-- **Manifestation**: Enhanced visual acuity, intuitive understanding of light conditions
-- **Physical Signs**: Slightly luminous eyes in darkness, minor light refraction around fingers
-- **Enhancement Method**: Regular meditation during dawn or dusk, particularly at solstices
+### 内なる火花
+ほとんどの初心者が持つ光との基本的な関係：
+- **兆候**: 視力の向上、光の状態に対する直感的な理解
+- **物理的な兆候**: 暗闇でわずかに発光する目、指の周りのわずかな光の屈折
+- **強化方法**: 特に至点に、夜明けまたは夕暮れ時の定期的な瞑想
 
-### Illuminated Mind
-The intermediate stage where light responds more readily to the mage's will:
-- **Manifestation**: Light bends subtly around the caster, enhanced color perception
-- **Physical Signs**: Skin develops a subtle glow during casting, hair captures and reflects light unusually well
-- **Enhancement Method**: Prism meditation, light sourcing exercises in varied conditions
+### 照らされた精神
+光が魔法使いの意志により容易に応答する中間の段階：
+- **兆候**: 光が術者の周りで微妙に曲がる、色の知覚の向上
+- **物理的な兆候**: キャスティング中に皮膚が微妙な輝きを発し、髪が異常に光を捉えて反射する
+- **強化方法**: プリズム瞑想、さまざまな条件下での光源探索
 
-### Radiant Harmony
-Advanced practitioners achieve a deep resonance with light's properties:
-- **Manifestation**: Emotions influence ambient light, ability to see magical auras naturally
-- **Physical Signs**: Eyes shift color based on magical activity, shadow cast may contain light patterns
-- **Enhancement Method**: Extended communion at sites of natural light phenomena or celestial importance
+### 輝く調和
+高度な実践者は光の特性との深い共鳴を達成する：
+- **兆候**: 感情が周囲の光に影響を与え、魔法のオーラを自然に見ることができる
+- **物理的な兆候**: 目が魔法の活動に基づいて色を変化させ、キャストされる影に光のパターンが含まれる場合がある
+- **強化方法**: 自然光現象または天体的重要性のある場所での長時間の交感
 
-### Luminous Unity
-Master photomancers who have achieved profound connection with light:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of light without formal casting
-- **Physical Signs**: Body naturally emits soft light in darkness, blood appears to contain tiny luminous particles
-- **Enhancement Method**: Deep communion at ley line intersections with strong light resonance
+### 光の統一
+光との深いつながりを達成した熟練した光操術師：
+- **兆候**: 部分的な変身能力、正式なキャスティングなしでの光の直感的な操作
+- **物理的な兆候**: 体が暗闇の中で自然に柔らかい光を発し、血液に微細な発光粒子が含まれているように見える
+- **強化方法**: 強い光の共鳴を持つレイライン交差点での深い交感
 
-## Risks and Safeguards
+## リスクと安全対策
 
-### Common Risks
+### 一般的なリスク
 
-- **Visual Overstimulation**: Damage to vision from excessive or improper light creation
-- **Perception Distortion**: Altered color perception or visual processing
-- **Energy Depletion**: Rapid exhaustion due to light's high energy requirements
-- **Photosensitivity**: Developing hypersensitivity to natural light
-- **Phase Instability**: Partial physical conversion to light during advanced techniques
+- **視覚過剰刺激**: 過度または不適切な光の生成による視力への損傷
+- **知覚の歪み**: 色の知覚または視覚処理の変化
+- **エネルギー枯渇**: 光の高いエネルギー要件による急速な消耗
+- **光線過敏症**: 自然光に対する過敏症の発症
+- **位相不安定性**: 高度な技術中の光への部分的な物理変換
 
-### Miscast Effects
+### キャストミスの影響
 
-| Severity | Effect | Recovery |
+| 重症度 | 影響 | 回復 |
 |----------|--------|----------|
-| **Minor** | Temporary afterimages, color blindness, excessive pupil dilation | Hours |
-| **Moderate** | Persistent light emission from skin, solar sensitivity, vision shifts | Days |
-| **Severe** | Sporadic transparency, intense light emissions, retinal damage | Weeks |
-| **Critical** | Uncontrolled phasing between material and light states, cellular instability | Months |
+| **軽度** | 一時的な残像、色盲、過度の瞳孔拡張 | 数時間 |
+| **中程度** | 皮膚からの持続的な光の放出、太陽過敏症、視力の変化 | 数日 |
+| **重度** | 散発的な透明性、強烈な光の放出、網膜損傷 | 数週間 |
+| **クリティカル** | 物質状態と光状態の間の制御不能な位相変化、細胞不安定性 | 数ヶ月 |
 
-### Safety Practices
+### 安全対策
 
-- **Visual Protection**: Specialized eyewear during practice and high-intensity casting
-- **Perception Grounding**: Regular exercises to maintain normal visual processing
-- **Energy Conservation**: Measured casting and appropriate rest between major workings
-- **Darkness Balance**: Regular exposure to darkness to offset light immersion
-- **Phase Anchoring**: Physical grounding techniques to maintain material form
+- **視覚保護**: 練習および高強度キャスティング中の特殊なアイウェア
+- **知覚グラウンディング**: 通常の視覚処理を維持するための定期的なエクササイズ
+- **エネルギー節約**: 測定されたキャスティングと主要な作業の間の適切な休息
+- **闇のバランス**: 光への没頭を相殺するための闇への定期的な露出
+- **位相固定**: 物質的な形態を維持するための物理的なグラウンディング技術
 
-## Cultural Significance
+## 文化的意義
 
-### Historical Development
+### 歴史的発展
 
-Light magic emerged early in human development, initially tied to solar worship and celestial observation. The development of photomancy followed three primary historical phases:
+光の魔法は人類の発展の初期に現れ、最初は太陽崇拝と天体観測に関連付けられていた。光操術の発展は、主に3つの歴史的段階を経た：
 
-1. **Celestial Connection**: Cultures developing light magic through observation of sun, moon, and stars
-2. **Symbolic Illumination**: Religious and philosophical traditions connecting light to knowledge and revelation
-3. **Technical Manipulation**: Scientific advancement leading to understanding of light's properties and potential
+1. **天体とのつながり**: 太陽、月、星の観察を通じて光の魔法を発展させた文化
+2. **象徴的な照明**: 知識と啓示に光を結びつける宗教的および哲学的伝統
+3. **技術的な操作**: 光の特性と可能性の理解につながる科学的進歩
 
-### Regional Variations
+### 地域差
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 焦点 | シグネチャーテクニック | 哲学 |
 |---------|-------|---------------------|------------|
-| **Sun Kingdoms** | Solar magic, healing | Sun channeling, blessing rays | Light as the universal life-giver |
-| **Mountainfolk** | Clarity, revelation | Crystal focusing, snow illumination | Light as the revealer of truth |
-| **Forest Cultures** | Dappled light, growth | Leaf filtering, photosynthesis enhancement | Light as the nurturer of life |
-| **Desert Societies** | Heat management, water finding | Mirage creation, light filtration | Light as the balancer of extremes |
+| **太陽王国** | 太陽の魔法、癒し | 太陽のチャネリング、祝福の光線 | 光は普遍的な生命の源である |
+| **山の民** | 明確さ、啓示 | クリスタルのフォーカス、雪の照明 | 光は真実を明らかにする |
+| **森の文化** | まだら光、成長 | 葉のフィルタリング、光合成の強化 | 光は生命を育む |
+| **砂漠社会** | 熱管理、水探し | 蜃気楼の作成、光のフィルタリング | 光は極端のバランスをとる |
 
-### Ceremonial Uses
+### 儀式での使用
 
-Light magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young photomancers creating their first independent light source
-- **Solstice Celebrations**: Major light workings during solar astronomical events
-- **Blessing Ceremonies**: Light purification for new homes, children, or ventures
-- **Funeral Rites**: "Path illumination" rituals to guide departing souls
+光の魔法は多くの文化的儀式で顕著に特徴付けられている：
+- **成人式**: 若い光操術師が最初の独立した光源を作成する
+- **至点の祝典**: 太陽の天文現象中の主要な光の働き
+- **祝福の儀式**: 新しい家、子供、またはベンチャーのための光の浄化
+- **葬儀**: 去りゆく魂を導くための「道照らし」の儀式
 
-### Contemporary Applications
+### 現代的な応用
 
-Beyond combat and utility applications, light magic serves important societal functions:
-- **Medical Practice**: Healing applications, particularly for mental and emotional disorders
-- **Agriculture**: Crop growth enhancement and seasonal extension
-- **Architecture**: Permanent illumination of public spaces and buildings
-- **Communications**: Signal systems and information transmission
-- **Art and Entertainment**: Spectacular visual displays and performances
+戦闘および実用的な用途に加えて、光の魔法は重要な社会的機能を果たす：
+- **医療行為**: 特に精神的および感情的な障害に対する癒しの応用
+- **農業**: 作物の成長促進と季節の延長
+- **建築**: 公共スペースや建物の永続的な照明
+- **コミュニケーション**: 信号システムと情報伝送
+- **芸術とエンターテイメント**: 壮大な視覚的なディスプレイとパフォーマンス
 
-> *"The student of light must remember that true illumination comes not from merely banishing darkness, but from revealing what was always there—merely waiting to be seen."* — The Photomancer's Codex
+> *"光の生徒は、真の照らしは単に闇を払うことではなく、そこにあるものを明らかにすることから来ることを覚えていなければならない。ただ見られるのを待っているだけなのだ。"* — 光操術師のコーデックス
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Shadow Magic](/codex/Magics/Elements/ShadowMagic.md)* 
+*参照：[元素魔法](/codex/Magics/Elements/ElementalMagic.md), [火の魔法](/codex/Magics/Elements/FireMagic.md), [影の魔法](/codex/Magics/Elements/ShadowMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

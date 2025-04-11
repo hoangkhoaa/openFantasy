@@ -1,0 +1,522 @@
+[
+  {
+    "file_path": "codex/Magics/README.md",
+    "last_modified": "2025-04-11T00:31:07.066387448Z",
+    "last_translated": "2025-04-11T00:31:07.068818709Z"
+  },
+  {
+    "file_path": "codex/Creatures/README.md",
+    "last_modified": "2025-04-11T00:23:06.454415643Z",
+    "last_translated": "2025-04-11T00:23:06.457014301Z"
+  },
+  {
+    "file_path": "README.md",
+    "last_modified": "2025-04-11T00:15:25.286442697Z",
+    "last_translated": "2025-04-11T00:15:25.292602849Z"
+  },
+  {
+    "file_path": "codex/Classes/Warrior/README.md",
+    "last_modified": "2025-04-11T00:18:30.758431816Z",
+    "last_translated": "2025-04-11T00:18:30.763164771Z"
+  },
+  {
+    "file_path": "codex/Creatures/Magical/README.md",
+    "last_modified": "2025-04-11T00:21:33.514421095Z",
+    "last_translated": "2025-04-11T00:21:33.518413212Z"
+  },
+  {
+    "file_path": "codex/Creatures/Plants/Sentient.md",
+    "last_modified": "2025-04-11T00:22:53.474416404Z",
+    "last_translated": "2025-04-11T00:22:53.478707296Z"
+  },
+  {
+    "file_path": "codex/Magics/Effects/EnhancementBuffs.md",
+    "last_modified": "2025-04-11T00:28:19.970397251Z",
+    "last_translated": "2025-04-11T00:28:19.97375526Z"
+  },
+  {
+    "file_path": "codex/Magics/Elements/ElementalMagic.md",
+    "last_modified": "2025-04-11T00:29:29.402393177Z",
+    "last_translated": "2025-04-11T00:29:29.404214138Z"
+  },
+  {
+    "file_path": "codex/Magics/Elements/FireMagic.md",
+    "last_modified": "2025-04-11T00:29:47.114392138Z",
+    "last_translated": "2025-04-11T00:29:47.119852552Z"
+  },
+  {
+    "file_path": "codex/Classes/Bard/Colleges/Lore.md",
+    "last_modified": "2025-04-11T00:16:18.678439565Z",
+    "last_translated": "2025-04-11T00:16:18.686224184Z"
+  },
+  {
+    "file_path": "codex/Classes/Mage/Mage.md",
+    "last_modified": "2025-04-11T00:17:17.042436141Z",
+    "last_translated": "2025-04-11T00:17:17.049564658Z"
+  },
+  {
+    "file_path": "codex/Classes/Rogue/Rogue.md",
+    "last_modified": "2025-04-11T00:18:02.794433457Z",
+    "last_translated": "2025-04-11T00:18:02.795590501Z"
+  },
+  {
+    "file_path": "codex/Creatures/Hybrid/Sirens.md",
+    "last_modified": "2025-04-11T00:20:22.286425273Z",
+    "last_translated": "2025-04-11T00:20:22.290685595Z"
+  },
+  {
+    "file_path": "codex/Creatures/Sentient/Elves.md",
+    "last_modified": "2025-04-11T00:23:58.782412573Z",
+    "last_translated": "2025-04-11T00:23:58.784918037Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/Magic.md",
+    "last_modified": "2025-04-11T00:25:49.62640607Z",
+    "last_translated": "2025-04-11T00:25:49.627918042Z"
+  },
+  {
+    "file_path": "codex/Magics/Schools/Illusion.md",
+    "last_modified": "2025-04-11T00:32:53.650381195Z",
+    "last_translated": "2025-04-11T00:32:53.657338265Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Divination/MagicSense.md",
+    "last_modified": "2025-04-11T00:34:05.446376984Z",
+    "last_translated": "2025-04-11T00:34:05.45128387Z"
+  },
+  {
+    "file_path": "codex/Creatures/Plants/Medicinal.md",
+    "last_modified": "2025-04-11T00:22:31.678417683Z",
+    "last_translated": "2025-04-11T00:22:31.682156214Z"
+  },
+  {
+    "file_path": "codex/Creatures/Plants/Mundane.md",
+    "last_modified": "2025-04-11T00:22:37.466417343Z",
+    "last_translated": "2025-04-11T00:22:37.471050951Z"
+  },
+  {
+    "file_path": "codex/Basic/Mana.md",
+    "last_modified": "2025-04-11T00:15:39.902441839Z",
+    "last_translated": "2025-04-11T00:15:39.906487992Z"
+  },
+  {
+    "file_path": "codex/Classes/Ranger/Ranger.md",
+    "last_modified": "2025-04-11T00:17:48.274434308Z",
+    "last_translated": "2025-04-11T00:17:48.279197255Z"
+  },
+  {
+    "file_path": "codex/Classes/Wizard/Wizard.md",
+    "last_modified": "2025-04-11T00:18:50.606430652Z",
+    "last_translated": "2025-04-11T00:18:50.609615849Z"
+  },
+  {
+    "file_path": "codex/Creatures/Animals/Domesticated.md",
+    "last_modified": "2025-04-11T00:18:59.398430136Z",
+    "last_translated": "2025-04-11T00:18:59.402435804Z"
+  },
+  {
+    "file_path": "codex/Creatures/Hybrid/README.md",
+    "last_modified": "2025-04-11T00:20:10.458425967Z",
+    "last_translated": "2025-04-11T00:20:10.460880967Z"
+  },
+  {
+    "file_path": "codex/Creatures/Monsters/README.md",
+    "last_modified": "2025-04-11T00:22:29.098417834Z",
+    "last_translated": "2025-04-11T00:22:29.102965882Z"
+  },
+  {
+    "file_path": "codex/Creatures/Hybrid/Merfolk.md",
+    "last_modified": "2025-04-11T00:19:56.44242679Z",
+    "last_translated": "2025-04-11T00:19:56.446735239Z"
+  },
+  {
+    "file_path": "codex/Creatures/Magical/Golems.md",
+    "last_modified": "2025-04-11T00:21:03.870422834Z",
+    "last_translated": "2025-04-11T00:21:03.873357385Z"
+  },
+  {
+    "file_path": "codex/Creatures/Sentient/Dwarves.md",
+    "last_modified": "2025-04-11T00:23:47.92641321Z",
+    "last_translated": "2025-04-11T00:23:47.930414386Z"
+  },
+  {
+    "file_path": "codex/Magics/Schools/Abjuration.md",
+    "last_modified": "2025-04-11T00:31:26.590386303Z",
+    "last_translated": "2025-04-11T00:31:26.596882352Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Elemental/DancingEmber.md",
+    "last_modified": "2025-04-11T00:34:15.702376382Z",
+    "last_translated": "2025-04-11T00:34:15.705952108Z"
+  },
+  {
+    "file_path": "codex/Basic/Soul.md",
+    "last_modified": "2025-04-11T00:15:57.246440822Z",
+    "last_translated": "2025-04-11T00:15:57.250671698Z"
+  },
+  {
+    "file_path": "codex/Classes/Classes.md",
+    "last_modified": "2025-04-11T00:16:44.926438025Z",
+    "last_translated": "2025-04-11T00:16:44.930380347Z"
+  },
+  {
+    "file_path": "codex/Classes/Mage/README.md",
+    "last_modified": "2025-04-11T00:17:24.5504357Z",
+    "last_translated": "2025-04-11T00:17:24.551224281Z"
+  },
+  {
+    "file_path": "codex/Creatures/Plants/README.md",
+    "last_modified": "2025-04-11T00:22:52.486416462Z",
+    "last_translated": "2025-04-11T00:22:52.487783837Z"
+  },
+  {
+    "file_path": "codex/Magics/Elements/EarthMagic.md",
+    "last_modified": "2025-04-11T00:29:10.386394293Z",
+    "last_translated": "2025-04-11T00:29:10.393802938Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Protection/ArcaneShield.md",
+    "last_modified": "2025-04-11T00:34:53.782374148Z",
+    "last_translated": "2025-04-11T00:34:53.787993133Z"
+  },
+  {
+    "file_path": "codex/README.md",
+    "last_modified": "2025-04-11T00:35:50.842370801Z",
+    "last_translated": "2025-04-11T00:35:50.849455476Z"
+  },
+  {
+    "file_path": "codex/Basic/Exanthis.md",
+    "last_modified": "2025-04-11T00:15:33.062442241Z",
+    "last_translated": "2025-04-11T00:15:33.065542683Z"
+  },
+  {
+    "file_path": "codex/Magics/Elements/WaterMagic.md",
+    "last_modified": "2025-04-11T00:30:37.998389153Z",
+    "last_translated": "2025-04-11T00:30:38.005428813Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Enchantment/InspireCourage.md",
+    "last_modified": "2025-04-11T00:34:27.690375679Z",
+    "last_translated": "2025-04-11T00:34:27.696482949Z"
+  },
+  {
+    "file_path": "codex/Creatures/Animals/Wild.md",
+    "last_modified": "2025-04-11T00:19:14.030429278Z",
+    "last_translated": "2025-04-11T00:19:14.036878092Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/WildMana.md",
+    "last_modified": "2025-04-11T00:28:00.858398372Z",
+    "last_translated": "2025-04-11T00:28:00.860482335Z"
+  },
+  {
+    "file_path": "codex/Magics/Effects/WildManaEffects.md",
+    "last_modified": "2025-04-11T00:28:34.970396371Z",
+    "last_translated": "2025-04-11T00:28:34.974460832Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Utility/Shielding.md",
+    "last_modified": "2025-04-11T00:35:42.434371294Z",
+    "last_translated": "2025-04-11T00:35:42.44025599Z"
+  },
+  {
+    "file_path": "codex/Creatures/Sentient/Beastfolk.md",
+    "last_modified": "2025-04-11T00:23:19.082414902Z",
+    "last_translated": "2025-04-11T00:23:19.08451614Z"
+  },
+  {
+    "file_path": "CONTRIBUTING.md",
+    "last_modified": "2025-04-11T00:15:16.962443185Z",
+    "last_translated": "2025-04-11T00:15:16.965208748Z"
+  },
+  {
+    "file_path": "codex/Classes/Bard/README.md",
+    "last_modified": "2025-04-11T00:16:26.374439113Z",
+    "last_translated": "2025-04-11T00:16:26.380700684Z"
+  },
+  {
+    "file_path": "codex/Classes/Warlock/Warlock.md",
+    "last_modified": "2025-04-11T00:18:15.314432722Z",
+    "last_translated": "2025-04-11T00:18:15.319688699Z"
+  },
+  {
+    "file_path": "codex/Creatures/Animals/Aquatic.md",
+    "last_modified": "2025-04-11T00:18:55.862430343Z",
+    "last_translated": "2025-04-11T00:18:55.864063196Z"
+  },
+  {
+    "file_path": "codex/Creatures/Magical/ManaWisps.md",
+    "last_modified": "2025-04-11T00:21:18.630421968Z",
+    "last_translated": "2025-04-11T00:21:18.633265373Z"
+  },
+  {
+    "file_path": "codex/Magics/Advanced/README.md",
+    "last_modified": "2025-04-11T00:25:00.858408931Z",
+    "last_translated": "2025-04-11T00:25:00.862345988Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/ManaPurity.md",
+    "last_modified": "2025-04-11T00:26:49.754402543Z",
+    "last_translated": "2025-04-11T00:26:49.761693944Z"
+  },
+  {
+    "file_path": "codex/Creatures/Animals/README.md",
+    "last_modified": "2025-04-11T00:19:13.182429327Z",
+    "last_translated": "2025-04-11T00:19:13.18445704Z"
+  },
+  {
+    "file_path": "codex/Creatures/Creatures.md",
+    "last_modified": "2025-04-11T00:19:31.502428253Z",
+    "last_translated": "2025-04-11T00:19:31.509068178Z"
+  },
+  {
+    "file_path": "codex/Creatures/Monsters/Giants.md",
+    "last_modified": "2025-04-11T00:21:57.602419682Z",
+    "last_translated": "2025-04-11T00:21:57.606575546Z"
+  },
+  {
+    "file_path": "codex/Creatures/Monsters/Undead.md",
+    "last_modified": "2025-04-11T00:22:29.814417792Z",
+    "last_translated": "2025-04-11T00:22:29.820673463Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/ManaSpecialization.md",
+    "last_modified": "2025-04-11T00:27:29.586400206Z",
+    "last_translated": "2025-04-11T00:27:29.593711824Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/SpellConstruction.md",
+    "last_modified": "2025-04-11T00:27:49.64239903Z",
+    "last_translated": "2025-04-11T00:27:49.647901775Z"
+  },
+  {
+    "file_path": "codex/Magics/Elements/AirMagic.md",
+    "last_modified": "2025-04-11T00:28:52.682395332Z",
+    "last_translated": "2025-04-11T00:28:52.688028517Z"
+  },
+  {
+    "file_path": "codex/Magics/Elements/ShadowMagic.md",
+    "last_modified": "2025-04-11T00:30:20.462390182Z",
+    "last_translated": "2025-04-11T00:30:20.467312723Z"
+  },
+  {
+    "file_path": "codex/Classes/Bard/Bard.md",
+    "last_modified": "2025-04-11T00:16:10.366440052Z",
+    "last_translated": "2025-04-11T00:16:10.374125779Z"
+  },
+  {
+    "file_path": "codex/Creatures/Animals/Magical.md",
+    "last_modified": "2025-04-11T00:19:02.174429973Z",
+    "last_translated": "2025-04-11T00:19:02.181091191Z"
+  },
+  {
+    "file_path": "codex/Creatures/Sentient/Gnomes.md",
+    "last_modified": "2025-04-11T00:24:10.058411911Z",
+    "last_translated": "2025-04-11T00:24:10.060570209Z"
+  },
+  {
+    "file_path": "codex/Creatures/Sentient/Resonants.md",
+    "last_modified": "2025-04-11T00:24:50.31040955Z",
+    "last_translated": "2025-04-11T00:24:50.314870472Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/MagicCasting.md",
+    "last_modified": "2025-04-11T00:26:18.298404388Z",
+    "last_translated": "2025-04-11T00:26:18.303367578Z"
+  },
+  {
+    "file_path": "codex/Magics/Effects/ElementalEffects.md",
+    "last_modified": "2025-04-11T00:28:02.634398268Z",
+    "last_translated": "2025-04-11T00:28:02.640700855Z"
+  },
+  {
+    "file_path": "codex/Magics/Schools/Divination.md",
+    "last_modified": "2025-04-11T00:31:59.306384383Z",
+    "last_translated": "2025-04-11T00:31:59.309069471Z"
+  },
+  {
+    "file_path": "codex/Classes/Cleric/Cleric.md",
+    "last_modified": "2025-04-11T00:17:00.990437082Z",
+    "last_translated": "2025-04-11T00:17:00.99330537Z"
+  },
+  {
+    "file_path": "codex/Creatures/Magical/Fae.md",
+    "last_modified": "2025-04-11T00:20:50.254423633Z",
+    "last_translated": "2025-04-11T00:20:50.260348068Z"
+  },
+  {
+    "file_path": "codex/Magics/Schools/Evocation.md",
+    "last_modified": "2025-04-11T00:32:37.262382157Z",
+    "last_translated": "2025-04-11T00:32:37.267175858Z"
+  },
+  {
+    "file_path": "codex/Magics/Schools/Transmutation.md",
+    "last_modified": "2025-04-11T00:33:12.482380091Z",
+    "last_translated": "2025-04-11T00:33:12.487400245Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/README.md",
+    "last_modified": "2025-04-11T00:35:00.702373742Z",
+    "last_translated": "2025-04-11T00:35:00.708191752Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Utility/MendingTouch.md",
+    "last_modified": "2025-04-11T00:35:25.522372286Z",
+    "last_translated": "2025-04-11T00:35:25.527942395Z"
+  },
+  {
+    "file_path": "codex/Creatures/Monsters/Corrupted.md",
+    "last_modified": "2025-04-11T00:21:46.354420342Z",
+    "last_translated": "2025-04-11T00:21:46.359311782Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/ManaRegeneration.md",
+    "last_modified": "2025-04-11T00:27:10.418401331Z",
+    "last_translated": "2025-04-11T00:27:10.425364411Z"
+  },
+  {
+    "file_path": "codex/Magics/Schools/Enchantment.md",
+    "last_modified": "2025-04-11T00:32:21.722383068Z",
+    "last_translated": "2025-04-11T00:32:21.728603276Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Combat/GravityField.md",
+    "last_modified": "2025-04-11T00:33:32.574378912Z",
+    "last_translated": "2025-04-11T00:33:32.579345666Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Utility/ForceVector.md",
+    "last_modified": "2025-04-11T00:35:17.970372729Z",
+    "last_translated": "2025-04-11T00:35:17.97589586Z"
+  },
+  {
+    "file_path": "codex/Classes/Sorcerer/Sorcerer.md",
+    "last_modified": "2025-04-11T00:18:09.454433066Z",
+    "last_translated": "2025-04-11T00:18:09.461674787Z"
+  },
+  {
+    "file_path": "codex/Creatures/Plants/Magical.md",
+    "last_modified": "2025-04-11T00:22:30.786417735Z",
+    "last_translated": "2025-04-11T00:22:30.790489427Z"
+  },
+  {
+    "file_path": "codex/Creatures/Plants/Poisonous.md",
+    "last_modified": "2025-04-11T00:22:39.690417213Z",
+    "last_translated": "2025-04-11T00:22:39.696781067Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/BaseMana.md",
+    "last_modified": "2025-04-11T00:25:14.554408128Z",
+    "last_translated": "2025-04-11T00:25:14.55671317Z"
+  },
+  {
+    "file_path": "codex/Magics/ManaMechanics.md",
+    "last_modified": "2025-04-11T00:30:55.538388124Z",
+    "last_translated": "2025-04-11T00:30:55.541619661Z"
+  },
+  {
+    "file_path": "codex/Magics/Schools/Conjuration.md",
+    "last_modified": "2025-04-11T00:31:44.578385247Z",
+    "last_translated": "2025-04-11T00:31:44.584613281Z"
+  },
+  {
+    "file_path": "codex/Classes/README.md",
+    "last_modified": "2025-04-11T00:17:34.578435112Z",
+    "last_translated": "2025-04-11T00:17:34.584279903Z"
+  },
+  {
+    "file_path": "codex/Classes/Warrior/Warrior.md",
+    "last_modified": "2025-04-11T00:18:44.522431009Z",
+    "last_translated": "2025-04-11T00:18:44.525631865Z"
+  },
+  {
+    "file_path": "codex/Creatures/Hybrid/Centaurs.md",
+    "last_modified": "2025-04-11T00:19:42.722427594Z",
+    "last_translated": "2025-04-11T00:19:42.726803832Z"
+  },
+  {
+    "file_path": "codex/Creatures/Sentient/DarkElves.md",
+    "last_modified": "2025-04-11T00:23:35.446413942Z",
+    "last_translated": "2025-04-11T00:23:35.451680838Z"
+  },
+  {
+    "file_path": "codex/Creatures/template_species.md",
+    "last_modified": "2025-04-11T00:24:56.898409164Z",
+    "last_translated": "2025-04-11T00:24:56.902504025Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/ElementalSpectrum.md",
+    "last_modified": "2025-04-11T00:25:31.670407124Z",
+    "last_translated": "2025-04-11T00:25:31.677557967Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Combat/WeaponControl.md",
+    "last_modified": "2025-04-11T00:33:52.38237775Z",
+    "last_translated": "2025-04-11T00:33:52.38771397Z"
+  },
+  {
+    "file_path": "codex/Magics/Spells/Illusion/MinorIllusion.md",
+    "last_modified": "2025-04-11T00:34:45.246374649Z",
+    "last_translated": "2025-04-11T00:34:45.252913389Z"
+  },
+  {
+    "file_path": "codex/Basic/README.md",
+    "last_modified": "2025-04-11T00:15:46.88644143Z",
+    "last_translated": "2025-04-11T00:15:46.89241239Z"
+  },
+  {
+    "file_path": "codex/Classes/Warrior/Guardian.md",
+    "last_modified": "2025-04-11T00:18:24.822432164Z",
+    "last_translated": "2025-04-11T00:18:24.830070816Z"
+  },
+  {
+    "file_path": "codex/Classes/template_README.md",
+    "last_modified": "2025-04-11T00:18:55.178430384Z",
+    "last_translated": "2025-04-11T00:18:55.185892176Z"
+  },
+  {
+    "file_path": "codex/Creatures/Sentient/Human.md",
+    "last_modified": "2025-04-11T00:24:22.642411173Z",
+    "last_translated": "2025-04-11T00:24:22.645114215Z"
+  },
+  {
+    "file_path": "codex/Creatures/Sentient/README.md",
+    "last_modified": "2025-04-11T00:24:31.89441063Z",
+    "last_translated": "2025-04-11T00:24:31.896380589Z"
+  },
+  {
+    "file_path": "codex/Creatures/Magical/Dragonkin.md",
+    "last_modified": "2025-04-11T00:20:32.814424656Z",
+    "last_translated": "2025-04-11T00:20:32.815261788Z"
+  },
+  {
+    "file_path": "codex/Creatures/Magical/Elementals.md",
+    "last_modified": "2025-04-11T00:20:36.370424447Z",
+    "last_translated": "2025-04-11T00:20:36.377569826Z"
+  },
+  {
+    "file_path": "codex/Creatures/Magical/Shadowfolk.md",
+    "last_modified": "2025-04-11T00:21:44.838420431Z",
+    "last_translated": "2025-04-11T00:21:44.842759951Z"
+  },
+  {
+    "file_path": "codex/Creatures/Monsters/Aberrations.md",
+    "last_modified": "2025-04-11T00:21:45.634420384Z",
+    "last_translated": "2025-04-11T00:21:45.638371024Z"
+  },
+  {
+    "file_path": "codex/Creatures/Monsters/ManaBlight.md",
+    "last_modified": "2025-04-11T00:22:15.418418637Z",
+    "last_translated": "2025-04-11T00:22:15.424745362Z"
+  },
+  {
+    "file_path": "codex/Magics/Core/ManaMechanics.md",
+    "last_modified": "2025-04-11T00:26:33.518403495Z",
+    "last_translated": "2025-04-11T00:26:33.521967208Z"
+  },
+  {
+    "file_path": "codex/Magics/Elements/LightMagic.md",
+    "last_modified": "2025-04-11T00:30:03.166391197Z",
+    "last_translated": "2025-04-11T00:30:03.171734508Z"
+  }
+]

@@ -1,159 +1,150 @@
-# **Dark Elves**: The Shadowed Kin of the Elves
+# **Dark Elves**: エルフの影の眷属
 
-[**Dark Elves**](/codex/Creatures/DarkElves.md) are the shadowed kin of the Elves, their bodies a dark harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a haunting cello, they resonate with the darker aspects of magic, creating a unique melody of existence that bridges the light and shadow realms.
+[**Dark Elves**](/codex/Creatures/DarkElves.md) はエルフの影の眷属であり、彼らの肉体は [**Exanthis**](/codex/Basic/Exanthis.md)、[**Souls**](/codex/Basic/Soul.md)、そして **Mana Capacity** の暗い調和です。まるで幽玄なチェロのように、彼らは魔法の暗い側面と共鳴し、光と影の領域を結びつける存在のユニークな旋律を奏でます。
 
-## Elemental Composition
+## 元素構成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dark elves** forms a harmony that favors magical potential:
+[Creatures](/codex/Creatures/Creatures.md) で詳述されているように、**ダークエルフ** の典型的な比率は、魔法の可能性を重視した調和を形成します。
 
-| Element | Range | Function |
+| 元素 | 範囲 | 機能 |
 |---------|------------|----------|
-| **Exanthis** | 10-35% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 5-25% | The ethereal essence that shapes a focused and intense consciousness |
-| **Mana Capacity** | 50-85% | The bridge between worlds that enables extraordinary magical potential |
+| **Exanthis** | 10-35% | 適度な肉体的強度と優雅さを提供する結晶質の心臓 |
+| **Soul** | 5-25% | 集中した強烈な意識を形作るエーテル的な本質 |
+| **Mana Capacity** | 50-85% | 並外れた魔法の可能性を可能にする世界間の架け橋 |
 
-This composition grants **dark elves** their characteristic magical prowess but limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+この構成は **ダークエルフ** に特徴的な魔法の腕前を与えますが、美しき音色を奏でるも丁寧に扱わなければならない繊細な楽器のように、他の種族と比較して肉体的な回復力を制限します。
 
-### Individual Variations
+### 個体差
 
-While the model composition represents the typical dark elf, individual variations exist:
+このモデル構成は典型的なダークエルフを表していますが、個体差は存在します。
 
-- **Void Mages**: Some dark elves possess Mana Capacity as high as 90%, making them among the most powerful spellcasters in existence but physically vulnerable with as little as 5% Exanthis.
-- **Shadow Warriors**: A specialized variant has Exanthis levels approaching 40%, allowing them to excel in physical combat while still maintaining significant magical abilities (45% Mana Capacity).
-- **Soul Binders**: Those with higher Soul percentages (up to 30%) develop exceptional abilities in necromancy and soul manipulation, often becoming powerful death mages or spiritual enslavers.
-- **Balanced Dark Elves**: Some individuals maintain a more balanced composition (25% Exanthis, 15% Soul, 60% Mana Capacity), allowing them to adapt to various roles within dark elf society.
-- **Shadowblades**: A specialized composition of (20% Exanthis, 10% Soul, 70% Mana Capacity) creates dark elves who can weave shadow magic into deadly combat techniques.
+- **Void Mages**: 一部のダークエルフは、Mana Capacity が 90% に達するほど高く、存在しうる最強の呪文詠唱者の 1 人ですが、Exanthis はわずか 5% であり、肉体的に脆弱です。
+- **Shadow Warriors**: 特殊な亜種は、Exanthis レベルが 40% に近づき、かなりの魔法能力 (Mana Capacity 45%) を維持しながら、肉体的な戦闘に優れることができます。
+- **Soul Binders**: Soul の割合が高い者 (最大 30%) は、ネクロマンシーと魂の操作において並外れた能力を開発し、強力な死霊魔術師または精神的な奴隷となることがよくあります。
+- **Balanced Dark Elves**: 一部の個体は、よりバランスの取れた構成 (Exanthis 25%、Soul 15%、Mana Capacity 60%) を維持し、ダークエルフ社会内のさまざまな役割に適応できます。
+- **Shadowblades**: (Exanthis 20%、Soul 10%、Mana Capacity 70%) の特殊な構成は、影魔法を致命的な戦闘技術に織り込むことができるダークエルフを生み出します。
 
-## Physical Characteristics
+## 身体的特徴
 
-**Dark Elves** are known for their ethereal beauty and shadowy nature:
-- Tall and slender, with proportions that seem to defy reality
-- Eyes that glow with inner darkness, reflecting their connection to shadow magic
-- Skin that ranges from deep purple to obsidian black, often with subtle patterns that seem to shift
-- Hair that flows with an otherworldly grace, often in shades of silver, white, or deep purple
-- Ears that extend into elegant points, attuned to the subtle harmonies of shadow magic
-- Presence that seems to dim the light around them, like a shadow passing over the sun
+**ダークエルフ** は、そのエーテル的な美しさと影のような性質で知られています。
+- 現実を無視しているように見えるほど、背が高く細身で、均整が取れている
+- 内なる暗闇で輝く目、影魔法とのつながりを反映している
+- 深い紫色から黒曜石の黒まで、しばしばシフトするように見える微妙なパターンを持つ肌
+- この世のものとは思えない優雅さで流れる髪、多くの場合、銀色、白色、または深い紫色の色合い
+- 影魔法の微妙なハーモニーに同調した、エレガントな尖端に伸びる耳
+- まるで太陽に影が差し込むかのように、周囲の光を弱めるように見える存在感
 
-## Magical Affinity
+## 魔法的親和性
 
-**Dark Elves** demonstrate exceptional proficiency in shadow magic and necromancy, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel shadow magic with extraordinary precision, like conductors of the night's symphony
-- Manipulate the forces of death and decay with unparalleled mastery, like composers who have perfected the art of the macabre
-- Create illusions through the manipulation of light and shadow, like artists painting with darkness
+**ダークエルフ** は、まるで楽器を習得した名演奏家のように、影魔法とネクロマンシーにおいて並外れた熟練度を示します。彼らの構成により、彼らは次のことが可能になります。
+- 夜の交響曲の指揮者のように、並外れた精度で影魔法を操る
+- まるでマカブルの芸術を完成させた作曲家のように、死と腐敗の力を比類のない熟練度で操作する
+- まるで暗闇で絵を描くアーティストのように、光と影の操作を通じてイリュージョンを作成する
 
-This specialization makes **dark elves** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+この専門性により、**ダークエルフ** は、選択した魔法の伝統において最高レベルの熟練度を達成できますが、美しき音色を奏でるも乱暴な扱いには耐えられない繊細な楽器のように、肉体的な強さや回復力を必要とするタスクには苦労するかもしれません。
 
-## Lifespan and Soul Decay
+## 寿命と魂の崩壊
 
-The **soul decay** timeline for **dark elves**, from birth to complete decay, is approximately 1200 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+**ダークエルフ** の **魂の崩壊** タイムラインは、誕生から完全な崩壊まで約 1200 年であり、時代を照らすゆっくりと燃える炎のようです。この延長された寿命により、彼らは次のことが可能になります。
+- 数世紀にわたって膨大な知識と知恵を蓄積する
+- 特定の場所や魔法の伝統との深い結びつきを築く
+- 複雑な慣習や儀式を持つ複雑な社会を形成する
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+ただし、彼らの魂の崩壊は他の種族よりも遅いため、時代の流れの中でも美しくも不変の旋律のように、変化や適応も遅くなります。
 
-## Habitat and Distribution
+## 生息地と分布
 
-**Dark Elves** primarily inhabit:
-- Underground cities and caverns, where they can control the light
-- Dark forests and shadowy groves, where they can be closest to the shadows
-- Magical realms where the boundaries between light and dark grow thin
-- Strategic locations that provide access to both light and shadow
+**ダークエルフ** は主に次の場所に生息しています。
+- 光を制御できる地下都市や洞窟
+- 影に最も近づくことができる暗い森や影の多い森
+- 光と闇の境界線が薄れる魔法の領域
+- 光と影の両方にアクセスできる戦略的な場所
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+これらの場所は、交響曲に最適な音響のように、魔法の研究と精神的な瞑想に理想的な環境を提供します。
 
-## Cultural Impact
+## 文化への影響
 
-In the world of **OpenFantasy**, **dark elves** play a crucial role in preserving ancient magical traditions and maintaining the balance between light and dark, like weavers of shadowy melodies. Their societies are centers of:
-- Shadow magic and necromancy
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+**OpenFantasy** の世界では、**ダークエルフ** は古代の魔法の伝統を守り、光と闇のバランスを維持する上で重要な役割を果たしており、影の旋律の織り手のようです。彼らの社会は次の中心地です。
+- 影魔法とネクロマンシー
+- 芸術表現と美的洗練
+- 外交関係と文化交流
 
-The connection to shadows has shaped dark elf culture around the study and mastery of darkness, creating a society where magical ability and beauty are highly valued.
+影とのつながりは、暗闇の研究と習得を中心にダークエルフの文化を形作り、魔法能力と美しさが非常に重視される社会を作り出しています。
 
-## Relationship with Other Species
+## 他の種族との関係
 
-**Dark Elves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and disdain, often leading to complex interactions
-- With **Elves**: A deep rivalry based on shared heritage but opposing philosophies
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and power
-- With **Shadowfolk**: A deep connection based on shared appreciation for darkness and shadow magic
+**ダークエルフ** は他の種族と複雑な関係を維持しています。
+- [**Humans**](/codex/Creatures/Human.md) と: 魅了と軽蔑の混合、しばしば複雑な相互作用につながる
+- **Elves** と: 受け継がれた遺産に基づいていますが、対立する哲学に基づく深い対立
+- **Dwarves** と: 職人技と力に対する相互尊重に基づく現実的な同盟
+- **Shadowfolk** と: 暗闇と影魔法に対する共通の感謝に基づく深い結びつき
 
-These relationships are often characterized by a sense of cultural superiority, as **dark elves** view themselves as the true heirs to elven magic and beauty.
+これらの関係は、**ダークエルフ** が自身をエルフの魔法と美しさの真の相続人と見なしているため、文化的優越感によって特徴付けられることがよくあります。
 
-## Notable Dark Elf Traits
+## 注目すべきダークエルフの特性
 
-- **Shadow Magic**: Dark elves excel in shadow magic and necromancy, often specializing in one area to the exclusion of others
-- **Ethereal Beauty**: Dark elves possess an otherworldly beauty that can be both enchanting and unsettling
-- **Environmental Sensitivity**: Dark elves are deeply attuned to their surroundings, particularly in shadowy environments
-- **Cultural Preservation**: Dark elf societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Dark elves have developed highly refined artistic and cultural traditions
+- **影魔法**: ダークエルフは影魔法とネクロマンシーに優れており、多くの場合、他の領域を排除して 1 つの領域に特化しています
+- **エーテル的な美しさ**: ダークエルフは、魅惑的でありながら不安にさせることもある異世界の美しさを持っています
+- **環境への感受性**: ダークエルフは、特に影の多い環境において、周囲の環境に深く同調しています
+- **文化の保存**: ダークエルフの社会は、伝統と知識の保存に重点を置いています
+- **美的洗練**: ダークエルフは、高度に洗練された芸術的および文化的伝統を開発しました
 
-## Dark Elf Houses
+**ダークエルフ** の本質を理解することで、まるで暗闇の中に響き渡る幽玄な旋律を聴くように、**OpenFantasy** の世界の影のある側面への洞察が得られます。
 
-Dark elf society is organized into numerous houses, each with its own specialties and traditions:
+## 肉体強化バリアント
 
-| House | Specialty | Territory | Notable Traits |
-|---------|---------------|---------|-------------------|
-| **Shadowweavers** | Shadow magic, illusion | Dark forests | Illusion abilities, shadow manipulation |
-| **Nightblades** | Combat, assassination | Underground cities | Combat abilities, assassination techniques |
-| **Voidcallers** | Void magic, teleportation | Magical realms | Teleportation abilities, void manipulation |
-| **Twilightseekers** | Balance, harmony | Border regions | Balance magic, harmony techniques |
-| **Shadowartists** | Art, beauty | Artistic districts | Artistic abilities, aesthetic refinement |
-| **Darkphilosophers** | Knowledge, wisdom | Ancient libraries | Philosophical wisdom, ancient knowledge |
-
-Understanding the nature of **dark elves** provides insight into the shadowy aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the darkness.
-
-## Physical Enhancement Variants
-
-While most **dark elves** favor magical prowess, some lineages have developed physical enhancements through selective breeding and magical experimentation. These variants maintain the dark elf's connection to shadow magic while developing superior physical capabilities, like a cello that has been modified to produce both haunting melodies and powerful bass notes.
+ほとんどの **ダークエルフ** は魔法の腕前を好みますが、一部の血統は選択的繁殖と魔法実験を通じて肉体的な強化を開発しました。これらのバリアントは、幽玄な旋律と力強い低音の両方を奏でるように改造されたチェロのように、優れた肉体能力を開発しながら、ダークエルフと影魔法のつながりを維持しています。
 
 ### Shadow Warriors
 
-The most common physical enhancement variant, **Shadow Warriors** have increased **Exanthis** ratios (35-40%) at the expense of **Mana Capacity** (45-50%). This composition grants them:
-- Enhanced strength and durability, like shadows given physical form
-- Superior combat abilities, particularly in close quarters
-- Limited but focused magical abilities, specializing in combat-enhancing shadow magic
-- Natural resistance to physical damage, like armor woven from darkness itself
+最も一般的な肉体強化バリアントである **Shadow Warriors** は、**Mana Capacity** (45-50%) と引き換えに、**Exanthis** 比率 (35-40%) が増加しています。この構成は彼らに次のことを与えます。
+- まるで物理的な形を与えられた影のように、強化された強度と耐久性
+- 特に近接戦において、優れた戦闘能力
+- 戦闘を強化する影魔法に特化した、限られたものの焦点を絞った魔法能力
+- まるで暗闇から織られた鎧のように、物理的なダメージに対する自然な耐性
 
-Shadow Warriors often serve as elite guards and shock troops in dark elf society, their presence striking fear into the hearts of their enemies like a sudden eclipse.
+シャドウウォーリアーは、ダークエルフ社会のエリート護衛および衝撃部隊として機能することが多く、彼らの存在は突然の日食のように敵の心に恐怖を与えます。
 
 ### Night Stalkers
 
-**Night Stalkers** represent a more extreme physical enhancement, with **Exanthis** ratios reaching 45-50% and **Mana Capacity** reduced to 35-40%. These dark elves are:
-- Exceptionally fast and agile, moving like shadows in the night
-- Possess enhanced senses, particularly in low-light conditions
-- Develop natural camouflage abilities, blending seamlessly with darkness
-- Specialize in stealth and assassination techniques
+**Night Stalkers** は、より極端な肉体強化を表しており、**Exanthis** 比率が 45-50% に達し、**Mana Capacity** が 35-40% に低下しています。これらのダークエルフは：
+- 夜の影のように動き、非常に速く機敏です
+- 特に低照度条件において、強化された感覚を持っています
+- 暗闇とシームレスに調和し、自然なカモフラージュ能力を発揮します
+- ステルスと暗殺技術に特化しています
 
-Night Stalkers are rare and often operate independently or in small, elite units, their presence known only by the sudden absence of their targets.
+ナイトストーカーはまれであり、しばしば単独で、または少数のエリート部隊で活動し、彼らの存在は標的の突然の不在によってのみ知られます。
 
 ### Void Touched
 
-The most controversial of physical enhancement variants, **Void Touched** dark elves have undergone extensive magical modification to increase both physical and magical capabilities. Their composition typically shows:
+最も物議を醸す肉体強化バリアントである **Void Touched** ダークエルフは、肉体的および魔法的能力の両方を高めるために広範な魔法的改造を受けています。彼らの構成は通常、次のことを示しています。
 - **Exanthis**: 40-45%
 - **Soul**: 20-25%
 - **Mana Capacity**: 35-40%
 
-This unique balance grants them:
-- Enhanced physical capabilities while maintaining significant magical power
-- The ability to channel void magic directly through their bodies
-- Increased resistance to both physical and magical damage
-- A connection to the void that manifests in their appearance, with skin that seems to absorb light
+このユニークなバランスは彼らに次のことを与えます。
+- かなりの魔法力を維持しながら、強化された肉体能力
+- 虚空魔法を体を通して直接チャネルする能力
+- 物理的および魔法的なダメージに対する耐性の向上
+- 外観に現れる虚空とのつながり、光を吸収しているように見える肌
 
-Void Touched dark elves are often viewed with suspicion by traditional dark elf society, their existence walking the line between power and corruption, like a melody that teeters between beauty and discord.
+Void Touched ダークエルフは、伝統的なダークエルフ社会からしばしば疑いの目で見られており、彼らの存在は力と堕落の境界線を歩んでおり、美しさと不協和音の間で揺れ動くメロディーのようです。
 
-### Physical Enhancement Techniques
+### 肉体強化技術
 
-Dark elves employ various techniques to achieve physical enhancement:
+ダークエルフは、肉体強化を達成するためにさまざまな技術を採用しています。
 
-| Technique | Description | Effects | Risks |
+| テクニック | 説明 | 効果 | リスク |
 |-----------|-------------|---------|-------|
-| **Shadow Infusion** | The controlled introduction of shadow essence into the body | Increased strength and durability | Potential shadow corruption |
-| **Void Binding** | The binding of void energy to physical form | Enhanced physical and magical capabilities | Risk of void corruption |
-| **Selective Breeding** | The careful pairing of physically gifted dark elves | Gradual increase in physical capabilities | Loss of magical potential |
-| **Ritual Transformation** | Magical rituals that alter the body's composition | Immediate physical enhancement | High risk of physical or mental corruption |
+| **Shadow Infusion** | 影の本質を体内に制御して導入すること | 強度と耐久性の向上 | 影の堕落の可能性 |
+| **Void Binding** | 虚空エネルギーを物理的な形にバインドすること | 物理的および魔法的能力の向上 | 虚空の堕落のリスク |
+| **Selective Breeding** | 身体的に恵まれたダークエルフの慎重なペアリング | 物理的能力の段階的な向上 | 魔法の可能性の喪失 |
+| **Ritual Transformation** | 体の構成を変える魔法の儀式 | 即時の肉体強化 | 肉体的または精神的な堕落の高いリスク |
 
-These techniques are closely guarded secrets, known only to the most trusted members of dark elf society, like rare musical compositions that are performed only for select audiences.
+これらの技術は厳重に守られた秘密であり、選ばれた聴衆のためだけに演奏される珍しい音楽作品のように、ダークエルフ社会の最も信頼できるメンバーだけが知っています。
 
-Understanding these physical enhancement variants provides insight into the diverse capabilities of dark elf society, like listening to the different voices that make up their dark symphony. 
+これらの肉体強化バリアントを理解することで、まるで彼らの暗い交響曲を構成するさまざまな声を聴くように、ダークエルフ社会の多様な能力への洞察が得られます。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

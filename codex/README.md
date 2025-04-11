@@ -1,157 +1,161 @@
 # OpenFantasy World Codex
 
-> *"A world of magic and wonder awaits, where every soul contributes to the grand symphony of existence."*
+> *"魔法と驚異の世界が待っている。すべての魂が、存在の壮大な交響曲に貢献する場所"*
 
-## Overview
+## 概要
 
-Welcome to the OpenFantasy World Codex, a comprehensive repository of knowledge about the OpenFantasy universe. This codex contains detailed information about the world's fundamental principles, inhabitants, magic systems, locations, items, and more.
+OpenFantasy World Codexへようこそ。これはOpenFantasyユニバースに関する知識の包括的なリポジトリです。このコーデックスには、世界の基本原則、住人、魔法システム、場所、アイテムなどに関する詳細な情報が含まれています。
 
-## Quick Navigation
+## クイックナビゲーション
 
-- [World Fundamentals](#world-fundamentals)
-- [Creatures and Species](#creatures-and-species)
-- [Magic System](#magic-system)
-- [Character Classes](#character-classes)
-- [World Geography](#world-geography)
-- [Items and Artifacts](#items-and-artifacts)
-- [Repository Structure](#repository-structure)
+- [世界の基礎](#world-fundamentals)
+- [クリーチャーと種族](#creatures-and-species)
+- [魔法システム](#magic-system)
+- [キャラクタークラス](#character-classes)
+- [世界の地理](#world-geography)
+- [アイテムとアーティファクト](#items-and-artifacts)
+- [リポジトリ構造](#repository-structure)
 
-## World Fundamentals
+## 世界の基礎
 
-OpenFantasy is built on core principles that govern how the world functions:
+OpenFantasyは、世界がどのように機能するかを支配するコア原則に基づいて構築されています。
 
-| Directory | Contents | Description |
-|-----------|----------|-------------|
-| [Basic/](Basic/) | Fundamental concepts | The building blocks of reality in OpenFantasy |
+| ディレクトリ | コンテンツ | 説明 |
+|---|---|---|
+| [Basic/](Basic/) | 基本的な概念 | OpenFantasyにおける現実の構成要素 |
 
-Key concepts include:
+主な概念は次のとおりです。
 
-- **Exanthis**: The physical foundation that provides structure and form
-- **Soul**: The spark of consciousness that provides will and identity
-- **Mana**: The magical energy that flows through all things
-- **Elemental Balance**: The interplay between fundamental forces
+- **Exanthis**: 構造と形態を提供する物理的な基盤
+- **Soul**: 意志とアイデンティティを提供する意識の火花
+- **Mana**: すべてのものを通して流れる魔法のエネルギー
+- **Elemental Balance**: 基本的な力同士の相互作用
 
-## Creatures and Species
+## クリーチャーと種族
 
-The world is inhabited by diverse species with unique characteristics:
+世界には、ユニークな特性を持つ多様な種族が生息しています。
 
-| Directory | Contents | Description |
-|-----------|----------|-------------|
-| [Creatures/](Creatures/) | Species documentation | Information about the various beings that inhabit the world |
+| ディレクトリ | コンテンツ | 説明 |
+|---|---|---|
+| [Creatures/](Creatures/) | 種族のドキュメント | 世界に生息するさまざまな存在に関する情報 |
 
-Major species categories include:
+主な種族カテゴリは次のとおりです。
 
-- **Primary Species**: Humans, Elves, Dwarves, Beastfolk, etc.
-- **Magical Species**: Fae, Golems, Sirens, Shadowfolk, etc.
-- **Other Notable Species**: Dark Elves, Centaurs, Gnomes, Merfolk, etc.
+- **Primary Species**: ヒューマン、エルフ、ドワーフ、ビーストフォークなど
+- **Magical Species**: フェイ、ゴーレム、セイレーン、シャドウフォークなど
+- **Other Notable Species**: ダークエルフ、ケンタウロス、ノーム、マーフォークなど
 
-→ See the [Creatures README](Creatures/README.md) for detailed information.
+→ 詳細については、[Creatures README](Creatures/README.md)を参照してください。
 
-## Magic System
+## 魔法システム
 
-Magic in OpenFantasy follows systematic rules and principles:
+OpenFantasyの魔法は、体系的なルールと原則に従います。
 
-| Directory | Contents | Description |
-|-----------|----------|-------------|
-| [Magics/](Magics/) | Magic systems, spells | The rules and manifestations of magical energy |
+| ディレクトリ | コンテンツ | 説明 |
+|---|---|---|
+| [Magics/](Magics/) | 魔法システム、呪文 | 魔法エネルギーのルールと具現化 |
 
-Key magical concepts include:
+主な魔法の概念は次のとおりです。
 
-- **Elemental Magic**: Manipulation of the eight primary elements
-- **Mana Purity**: The refinement of magical energy
-- **Spell Structure**: The patterns that shape magical effects
-- **Enhancement Buffs**: Magical effects that enhance abilities
+- **Elemental Magic**: 8つの主要な要素の操作
+- **Mana Purity**: 魔法のエネルギーの洗練
+- **Spell Structure**: 魔法の効果を形作るパターン
+- **Enhancement Buffs**: 能力を強化する魔法の効果
 
-→ See the [Magics README](Magics/README.md) for detailed information.
+→ 詳細については、[Magics README](Magics/README.md)を参照してください。
 
-## Character Classes
+## キャラクタークラス
 
-Characters in OpenFantasy follow specialized paths of development:
+OpenFantasyのキャラクターは、特別な開発の道に従います。
 
-| Directory | Contents | Description |
-|-----------|----------|-------------|
-| [Classes/](Classes/) | Class information, specializations | The various paths of power and specialization |
+| ディレクトリ | コンテンツ | 説明 |
+|---|---|---|
+| [Classes/](Classes/) | クラス情報、専門分野 | 力と専門分野のさまざまな道 |
 
-Major class categories include:
+主なクラスカテゴリは次のとおりです。
 
-- **Martial Classes**: Warrior, Monk, Ranger
-- **Magical Classes**: Mage, Warlock, Druid
-- **Hybrid Classes**: Cleric, Bard, Artificer
-- **Specialized Classes**: Rogue and subclasses
+- **Martial Classes**: ウォーリアー、モンク、レンジャー
+- **Magical Classes**: メイジ、ウォーロック、ドルイド
+- **Hybrid Classes**: クレリック、バード、アーティフィサー
+- **Specialized Classes**: ローグとサブクラス
 
-→ See the [Classes README](Classes/README.md) for detailed information.
+→ 詳細については、[Classes README](Classes/README.md)を参照してください。
 
-## World Geography
+## 世界の地理
 
-The world of OpenFantasy contains diverse regions and locations:
+OpenFantasyの世界には、多様な地域と場所が含まれています。
 
-| Directory | Contents | Description |
-|-----------|----------|-------------|
-| [World/](World/) | Locations, geography, history | The physical and cultural landscape of the world |
+| ディレクトリ | コンテンツ | 説明 |
+|---|---|---|
+| [World/](World/) | 場所、地理、歴史 | 世界の物理的および文化的景観 |
 
-Notable regions include:
+注目すべき地域は次のとおりです。
 
-- **Eastern Veldrassil**: Magical forests and academic centers
-- **Western Veldrassil**: Mountain ranges and mining operations
-- **Central Plains**: Agricultural heartlands and major cities
-- **Northern Reaches**: Frozen wastes and ancient ruins
-- **Southern Isles**: Tropical archipelagos and maritime cultures
+- **Eastern Veldrassil**: 魔法の森と学術センター
+- **Western Veldrassil**: 山脈と採掘作業
+- **Central Plains**: 農業の中心地と主要都市
+- **Northern Reaches**: 凍てつく荒地と古代遺跡
+- **Southern Isles**: 熱帯の群島と海洋文化
 
-## Items and Artifacts
+## アイテムとアーティファクト
 
-The world contains numerous objects of power and significance:
+世界には、力と重要性を持つ多数のオブジェクトが含まれています。
 
-| Directory | Contents | Description |
-|-----------|----------|-------------|
-| [Items/](Items/) | Equipment, artifacts, materials | Objects of power and utility |
+| ディレクトリ | コンテンツ | 説明 |
+|---|---|---|
+| [Items/](Items/) | 装備、アーティファクト、材料 | 力と有用性を持つオブジェクト |
 
-Item categories include:
+アイテムカテゴリは次のとおりです。
 
-- **Magical Equipment**: Weapons, armor, and accessories with magical properties
-- **Alchemical Substances**: Potions, elixirs, and magical reagents
-- **Artifacts**: Ancient objects of significant power
-- **Everyday Items**: Mundane objects with cultural significance
+- **Magical Equipment**: 魔法の特性を持つ武器、鎧、アクセサリー
+- **Alchemical Substances**: ポーション、エリクサー、魔法の試薬
+- **Artifacts**: 重要な力を持つ古代のオブジェクト
+- **Everyday Items**: 文化的な重要性を持つ平凡なオブジェクト
 
-## Repository Structure
+## リポジトリ構造
 
-The OpenFantasy Codex is organized with a consistent structure:
+OpenFantasy Codexは、一貫した構造で編成されています。
 
 ```
 codex/
-├── README.md                # This overview document
-├── Basic/                   # Fundamental concepts
-├── Creatures/               # Species documentation
-│   ├── README.md            # Creatures overview
-│   ├── Creatures.md         # General species information
-│   ├── Human.md             # Individual species document
-│   └── ...                  # Other species documents
-├── Magics/                  # Magic systems
-│   ├── README.md            # Magic overview
-│   ├── Spells/              # Spell documentation
-│   └── ...                  # Magic system documents
-├── Classes/                 # Character classes
-│   ├── README.md            # Classes overview
-│   ├── Warrior/             # Class-specific directory
-│   └── ...                  # Other class directories
-├── World/                   # Geography and locations
-│   ├── README.md            # World overview
-│   └── ...                  # Region and location documents
-└── Items/                   # Equipment and artifacts
-    ├── README.md            # Items overview
-    └── ...                  # Item category documents
+├── README.md                # この概要ドキュメント
+├── Basic/                   # 基本的な概念
+├── Creatures/               # 種族のドキュメント
+│   ├── README.md            # クリーチャーの概要
+│   ├── Creatures.md         # 一般的な種族情報
+│   ├── Human.md             # 個々の種族ドキュメント
+│   └── ...                  # その他の種族ドキュメント
+├── Magics/                  # 魔法システム
+│   ├── README.md            # 魔法の概要
+│   ├── Spells/              # 呪文のドキュメント
+│   └── ...                  # 魔法システムのドキュメント
+├── Classes/                 # キャラクタークラス
+│   ├── README.md            # クラスの概要
+│   ├── Warrior/             # クラス固有のディレクトリ
+│   └── ...                  # その他のクラスディレクトリ
+├── World/                   # 地理と場所
+│   ├── README.md            # 世界の概要
+│   └── ...                  # 地域と場所のドキュメント
+└── Items/                   # 装備とアーティファクト
+    ├── README.md            # アイテムの概要
+    └── ...                  # アイテムカテゴリのドキュメント
 ```
 
-### Documentation Standards
+### ドキュメントの標準
 
-All documents in this repository follow consistent formatting:
+このリポジトリのすべてのドキュメントは、一貫した形式に従います。
 
-- **README.md files** provide overviews and navigation
-- **Quick Reference sections** at the top of documents
-- **Tables** for comparative information
-- **Consistent headers** for similar information across documents
-- **Cross-references** to related content
-- **Git-optimized markdown** for better viewing experience
+- **README.md ファイル**は、概要とナビゲーションを提供します
+- ドキュメントの上部にある**クイックリファレンスセクション**
+- 比較情報のための**テーブル**
+- ドキュメント全体で同様の情報に対する**一貫したヘッダー**
+- 関連コンテンツへの**相互参照**
+- より良い表示体験のための**Git最適化されたマークダウン**
 
 ---
 
-> **Note**: This codex is a living document that may be expanded and refined over time. All content follows the musical metaphor that defines the OpenFantasy world. 
+> **注**: このコーデックスは、時間の経過とともに拡張および改良される可能性のある生きたドキュメントです。すべてのコンテンツは、OpenFantasyの世界を定義する音楽のメタファーに従います。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

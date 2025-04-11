@@ -1,120 +1,123 @@
-# **Ranger**: The Voices of the Wild
+# **Ranger**: 野生の囁き
 
-[**Rangers**](/codex/Classes/Ranger/Ranger.md) are the voices of the wild, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a woodwind that echoes the sounds of the forest, they commune with nature, creating a unique melody of existence that emphasizes survival, tracking, and the connection to the natural world.
+[**Ranger（レンジャー）**](/codex/Classes/Ranger/Ranger.md)は野生の囁きであり、その肉体は[**Exanthis（エクザンティス）**](/codex/Basic/Exanthis.md)、[**Souls（ソウル）**](/codex/Basic/Soul.md)、そして**Mana Capacity（マナ容量）**の調和のとれた融合体です。森の音を反響させる木管楽器のように、彼らは自然と交信し、生存、追跡、そして自然界とのつながりを重視する、独自の存在の旋律を生み出します。
 
-## Elemental Composition
+## Elemental Composition（元素構成）
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rangers** forms a harmony that favors connection to nature:
+[Classes（クラス）](/codex/Classes/Classes.md)で詳述されているように、**rangers（レンジャー）**の典型的な比率は、自然とのつながりを重視する調和を形成します。
 
-| Element | Range | Function |
+| Element（元素） | Range（範囲） | Function（機能） |
 |---------|------------|----------|
-| **Exanthis** | 35-55% | The crystalline heart that provides physical strength and agility |
-| **Soul** | 25-45% | The ethereal essence that shapes a nature-connected consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables nature magic |
+| **Exanthis（エクザンティス）** | 35-55% | 物理的な強さと敏捷性を提供する結晶の心 |
+| **Soul（ソウル）** | 25-45% | 自然とつながる意識を形作る幽玄な本質 |
+| **Mana Capacity（マナ容量）** | 10-30% | 自然魔法を可能にする世界間の架け橋 |
 
-This composition grants **rangers** their characteristic connection to nature but limits their magical abilities compared to other classes, like a versatile instrument that can play many melodies but cannot match the complexity of a full orchestra.
+この構成は**rangers（レンジャー）**に自然との特徴的なつながりを与えますが、他のクラス、たとえば多くの旋律を演奏できる多用途の楽器が、フルオーケストラの複雑さに匹敵できないのと同じように、魔法の能力を制限します。
 
-### Species-Specific Talents
+### Species-Specific Talents（種族固有の才能）
 
-Different species show varying natural inclinations toward the ranger class:
+異なる種族は、レンジャークラスに対するさまざまな自然な傾向を示します。
 
-- **Elves** (35% Exanthis, 25% Soul, 40% Mana Capacity): Their natural grace and connection to nature make them exceptional rangers, particularly as Wardens and Forest Singers.
-- **Beastfolk** (50% Exanthis, 30% Soul, 20% Mana Capacity): Their physical prowess and animal kinship make them natural Beastmasters and Hunters.
-- **Humans** (40% Exanthis, 35% Soul, 25% Mana Capacity): Their adaptability allows them to excel in any ranger specialization, though they rarely reach the heights of species with more specialized compositions.
-- **Dragonkin** (60% Exanthis, 20% Soul, 20% Mana Capacity): Their physical might makes them formidable Hunters, though their limited adaptability restricts their versatility.
-- **Dwarves** (55% Exanthis, 30% Soul, 15% Mana Capacity): Their endurance and resilience make them excellent Survivalists, particularly in harsh mountain environments.
+- **Elves（エルフ）** (35% Exanthis, 25% Soul, 40% Mana Capacity): 彼らの自然な優雅さと自然とのつながりは、特にWardens（ウォーデン）やForest Singers（フォレストシンガー）として、彼らを卓越したレンジャーにします。
+- **Beastfolk（ビーストフォーク）** (50% Exanthis, 30% Soul, 20% Mana Capacity): 彼らの身体能力と動物との親和性は、彼らを自然なBeastmasters（ビーストマスター）やHunters（ハンター）にします。
+- **Humans（人間）** (40% Exanthis, 35% Soul, 25% Mana Capacity): 彼らの適応力は、彼らがどのレンジャーの専門分野でも優れることを可能にしますが、より特殊な構成を持つ種族の頂点に達することはめったにありません。
+- **Dragonkin（ドラゴンキン）** (60% Exanthis, 20% Soul, 20% Mana Capacity): 彼らの肉体的な力は、彼らを手ごわいHunters（ハンター）にします。ただし、彼らの適応性の低さは、彼らの多様性を制限します。
+- **Dwarves（ドワーフ）** (55% Exanthis, 30% Soul, 15% Mana Capacity): 彼らの耐久力と回復力は、特に過酷な山岳環境において、彼らを優れたSurvivalists（サバイバリスト）にします。
 
-## Physical Characteristics
+## Physical Characteristics（身体的特徴）
 
-**Rangers** are known for their connection to nature and survival skills:
-- Athletic build with graceful movements, like a dancer's natural grace
-- Eyes that reflect awareness of surroundings, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of bows and survival tools, like a musician who has perfected the art of the woodwind
-- Presence that blends with natural surroundings, like a melody that harmonizes with the sounds of the forest
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+**Rangers（レンジャー）**は、自然とのつながりと生存スキルで知られています。
+- ダンサーの自然な優雅さのような、優雅な動きの運動能力に優れた体格
+- 周囲の認識を反映する目、[**Soul（ソウル）**](/codex/Basic/Soul.md)とのつながりを示す
+- 木管楽器の技術を完成させた音楽家のように、弓と生存ツールの使用を習得した手
+- 森の音と調和する旋律のように、自然環境に溶け込む存在感
+- あらゆる方向に動く構えを見せる演奏者のように、バランスと準備を強調する姿勢
 
-## Nature Affinity
+## Nature Affinity（自然親和性）
 
-**Rangers** demonstrate exceptional proficiency in wilderness survival and combat, like virtuoso musicians who have mastered the art of the natural world. Their composition allows them to:
-- Track and hunt with extraordinary precision, like conductors leading an orchestra through the wilderness
-- Survive in harsh environments, like artists adapting to changing conditions
-- Communicate with animals and understand natural signs, like performers harmonizing with the sounds of nature
+**Rangers（レンジャー）**は、荒野の生存と戦闘において卓越した熟練度を示します。それは、自然界の芸術を習得した名演奏家のようです。彼らの構成により、彼らは次のことが可能になります。
+- オーケストラを荒野で指揮する指揮者のように、並外れた精度で追跡と狩猟を行う
+- 変化する状況に適応するアーティストのように、過酷な環境で生き残る
+- 自然の音と調和する演奏者のように、動物とコミュニケーションを取り、自然の兆候を理解する
 
-This specialization makes **rangers** capable of achieving the highest levels of proficiency in their chosen wilderness techniques, though they may struggle with tasks requiring complex magic or urban skills, like a versatile instrument that excels in natural settings but may be out of place in a formal concert hall.
+この専門性により、**rangers（レンジャー）**は、選択した荒野の技術で最高のレベルの熟練度を達成することができます。ただし、複雑な魔法や都市のスキルを必要とするタスクでは苦労する可能性があります。それは、自然環境では優れているものの、正式なコンサートホールでは場違いになる可能性のある多用途の楽器のようです。
 
-## Training and Development
+## Training and Development（訓練と育成）
 
-The path of a **ranger** involves rigorous wilderness training and mental discipline:
-- Daily practice in tracking and survival skills, like musicians practicing their natural melodies
-- Study of natural environments and animal behavior, like learning the theory behind natural harmony
-- Meditation to develop connection to nature, like finding the quiet center of the wilderness
-- Practice in combat and stealth techniques, like artists mastering the art of natural movement
+**ranger（レンジャー）**の道は、厳格な荒野訓練と精神的な鍛錬を伴います。
+- 音楽家が自然の旋律を練習するように、追跡と生存スキルの毎日の練習
+- 自然の調和の背後にある理論を学ぶように、自然環境と動物の行動の研究
+- 荒野の静かな中心を見つけるように、自然とのつながりを深めるための瞑想
+- アーティストが自然な動きの芸術を習得するように、戦闘とステルス技術の練習
 
-## Equipment and Gear
+## Equipment and Gear（装備とギア）
 
-**Rangers** rely on various equipment to enhance their wilderness abilities:
-- Bows and light weapons designed for precision, like different instruments for different performances
-- Survival gear such as ropes, traps, and navigation tools, like accessories that enhance an instrument's capabilities
-- Natural accessories such as animal companions, tracking dogs, and natural remedies, like specialized instruments for specific tasks
+**Rangers（レンジャー）**は、荒野での能力を高めるために、さまざまな装備に依存しています。
+- さまざまな演奏のためのさまざまな楽器のように、精度を高めるように設計された弓と軽武器
+- 楽器の機能を強化するアクセサリのように、ロープ、罠、ナビゲーションツールなどのサバイバルギア
+- 特定のタスク用の特殊な楽器のように、動物の仲間、追跡犬、自然療法などの自然のアクセサリ
 
-## Subclasses
+## Subclasses（サブクラス）
 
-**Rangers** can specialize in various wilderness disciplines and roles:
+**Rangers（レンジャー）**は、さまざまな荒野の分野と役割に特化できます。
 
-### [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md)
+### [**Beastmaster（ビーストマスター）**](/codex/Classes/Ranger/Beastmaster.md)
 
-Beastmasters focus on forming bonds with animals, emphasizing the role of the animal companion. They excel at:
-- Training and commanding animal companions
-- Understanding animal behavior and communication
-- Fighting alongside their animal allies
+Beastmasters（ビーストマスター）は、動物との絆を形成することに焦点を当て、動物の仲間との役割を強調します。彼らは以下に優れています。
+- 動物の仲間の訓練と指揮
+- 動物の行動とコミュニケーションの理解
+- 動物の仲間との協力的な戦闘
 
-### [**Hunter**](/codex/Classes/Ranger/Hunter.md)
+### [**Hunter（ハンター）**](/codex/Classes/Ranger/Hunter.md)
 
-Hunters focus on tracking and eliminating targets, emphasizing the role of the predator. They excel at:
-- Tracking and stalking prey
-- Setting traps and ambushes
-- Delivering precise strikes from a distance
+Hunters（ハンター）は、ターゲットの追跡と排除に焦点を当て、捕食者の役割を強調します。彼らは以下に優れています。
+- 獲物の追跡とストーキング
+- 罠と待ち伏せの設定
+- 遠距離からの正確な攻撃
 
-### [**Warden**](/codex/Classes/Ranger/Warden.md)
+### [**Warden（ウォーデン）**](/codex/Classes/Ranger/Warden.md)
 
-Wardens focus on protecting natural places, emphasizing the role of the guardian. They excel at:
-- Defending natural territories
-- Maintaining the balance of ecosystems
-- Communicating with nature spirits
+Wardens（ウォーデン）は、自然の場所を保護することに焦点を当て、守護者の役割を強調します。彼らは以下に優れています。
+- 自然の領土の防衛
+- 生態系のバランスの維持
+- 自然の精霊とのコミュニケーション
 
-### [**Scout**](/codex/Classes/Ranger/Scout.md)
+### [**Scout（スカウト）**](/codex/Classes/Ranger/Scout.md)
 
-Scouts focus on exploring and navigating unknown territories, emphasizing the role of the explorer. They excel at:
-- Finding safe paths through dangerous areas
-- Gathering information about new territories
-- Adapting to unfamiliar environments
+Scouts（スカウト）は、未知の領土の探検とナビゲートに焦点を当て、探検家の役割を強調します。彼らは以下に優れています。
+- 危険な地域を通る安全な道の発見
+- 新しい領土に関する情報の収集
+- 不慣れな環境への適応
 
-### [**Survivalist**](/codex/Classes/Ranger/Survivalist.md)
+### [**Survivalist（サバイバリスト）**](/codex/Classes/Ranger/Survivalist.md)
 
-Survivalists focus on thriving in harsh environments, emphasizing the role of the survivor. They excel at:
-- Finding food and water in barren places
-- Creating shelter in extreme conditions
-- Adapting to changing environmental conditions
+Survivalists（サバイバリスト）は、過酷な環境で生き残ることに焦点を当て、生存者の役割を強調します。彼らは以下に優れています。
+- 荒涼とした場所での食料と水の発見
+- 極端な状況下での避難所の作成
+- 変化する環境条件への適応
 
-## Notable Ranger Traits
+## Notable Ranger Traits（注目すべきレンジャーの特性）
 
-- **Wilderness Mastery**: Rangers excel in survival and tracking, often specializing in specific environments
-- **Animal Connection**: Rangers develop strong bonds with animals and nature
-- **Environmental Adaptation**: Rangers can thrive in various natural environments
-- **Precision Combat**: Rangers excel in combat that requires precision and timing
-- **Discipline**: Rangers maintain rigorous training regimens to maintain their wilderness abilities
+- **Wilderness Mastery（荒野の熟練）**: Rangers（レンジャー）は、生存と追跡に優れており、多くの場合、特定の環境に特化しています。
+- **Animal Connection（動物とのつながり）**: Rangers（レンジャー）は、動物や自然との強い絆を築きます。
+- **Environmental Adaptation（環境適応）**: Rangers（レンジャー）は、さまざまな自然環境で生き残ることができます。
+- **Precision Combat（精密な戦闘）**: Rangers（レンジャー）は、精度とタイミングを必要とする戦闘に優れています。
+- **Discipline（鍛錬）**: Rangers（レンジャー）は、荒野での能力を維持するために、厳格なトレーニングを維持します。
 
-## Ranger Orders
+## Ranger Orders（レンジャーの秩序）
 
-Ranger society is organized into numerous orders, each with its own specialties and techniques:
+レンジャーの社会は、独自の専門分野と技術を持つ多数の秩序に組織されています。
 
-| Order | Specialty | Territory | Notable Traits |
+| Order（秩序） | Specialty（専門） | Territory（領土） | Notable Traits（注目すべき特性） |
 |---------|---------------|---------|-------------------|
-| **Beast Companions** | Animal bonding, companion training | Various locations | Animal companions, beast communication |
-| **Track Masters** | Tracking, hunting | Various locations | Tracking abilities, hunting techniques |
-| **Territory Wardens** | Territory protection, ecosystem balance | Natural territories | Territory defense, ecosystem maintenance |
-| **Path Finders** | Exploration, navigation | Unknown territories | Exploration, navigation |
-| **Wild Survivors** | Survival, adaptation | Harsh environments | Survival skills, environmental adaptation |
-| **Forest Singers** | Nature communication, harmony | Forest regions | Nature communication, forest harmony |
+| **Beast Companions（獣の仲間）** | 動物との絆、仲間の訓練 | さまざまな場所 | 動物の仲間、獣とのコミュニケーション |
+| **Track Masters（追跡の達人）** | 追跡、狩猟 | さまざまな場所 | 追跡能力、狩猟技術 |
+| **Territory Wardens（領土の守護者）** | 領土の保護、生態系のバランス | 自然の領土 | 領土の防衛、生態系の維持 |
+| **Path Finders（道を見つける者）** | 探検、ナビゲーション | 未知の領土 | 探検、ナビゲーション |
+| **Wild Survivors（野生の生存者）** | 生存、適応 | 過酷な環境 | 生存スキル、環境適応 |
+| **Forest Singers（森の歌い手）** | 自然とのコミュニケーション、調和 | 森の地域 | 自然とのコミュニケーション、森の調和 |
 
-Understanding the nature of **rangers** provides insight into the natural aspects of the world of **OpenFantasy**, like listening to the wild melodies that echo through the symphony of nature. 
+**rangers（レンジャー）**の性質を理解することは、自然のシンフォニーに響き渡る野生の旋律を聴くように、**OpenFantasy**の世界の自然な側面への洞察を提供します。
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,250 +1,254 @@
-# **Enhancement Buffs**: The Amplifiers of Magical Potential
+# **エンハンスメントバフ**: 魔法的可能性の増幅器
 
-[**Enhancement Buffs**](/codex/Magics/EnhancementBuffs.md) are specialized spells designed to temporarily augment a practitioner's natural magical capabilities. Like amplifiers and resonance chambers that enhance a musical instrument's sound, these buffs strengthen specific aspects of a caster's magical ability, allowing them to perform beyond their natural limitations.
+[**エンハンスメントバフ**](/codex/Magics/EnhancementBuffs.md) は、術者の自然な魔法能力を一時的に増強するように設計された特殊な呪文です。楽器の音を増幅するアンプや共鳴室のように、これらのバフは術者の魔法能力の特定の側面を強化し、自然な限界を超えてパフォーマンスできるようにします。
 
-## Fundamentals of Enhancement Buffs
+## エンハンスメントバフの基礎
 
-Enhancement buffs operate by temporarily altering the caster's elemental composition or magical resonance:
+エンハンスメントバフは、術者の元素構成または魔法的共鳴を一時的に変更することで機能します。
 
-| Buff Type | Effect | Duration | Limitations |
+| バフの種類 | 効果 | 期間 | 制限 |
 |---------|------------|---------|----------|
-| **Mana Amplification** | Increases total mana capacity | Short to medium | Strain on physical body |
-| **Purification Enhancement** | Improves mana purification ability | Medium | Mental fatigue |
-| **Pattern Stability** | Enhances ability to maintain complex patterns | Short | Soul wear |
-| **Resonance Attunement** | Strengthens connection to specific frequencies | Medium to long | Reduced flexibility |
+| **マナ増幅** | マナの総容量を増加させる | 短い～中程度 | 肉体への負担 |
+| **浄化エンハンスメント** | マナの浄化能力を向上させる | 中程度 | 精神的な疲労 |
+| **パターン安定性** | 複雑なパターンを維持する能力を高める | 短い | 魂の消耗 |
+| **共鳴同調** | 特定の周波数への接続を強化する | 中程度～長い | 柔軟性の低下 |
 
-All enhancement buffs share common characteristics:
-- **Temporary Nature**: Effects fade after a specific duration
-- **Diminishing Returns**: Multiple applications become less effective
-- **Recovery Period**: A necessary rest period after buff expiration
-- **Balance Principle**: Enhancement of one aspect often reduces others
+すべてのエンハンスメントバフは共通の特徴を共有しています。
+- **一時的な性質**: 効果は特定の期間後に消えます
+- **収穫逓減**: 複数回の適用は効果が低下します
+- **回復期間**: バフの有効期限が切れた後には必要な休息期間があります
+- **バランスの原理**: ある側面の強化は、しばしば他の側面を減少させます
 
-## Wild Mana and Enhancement Buffs
+## ワイルドマナとエンハンスメントバフ
 
-The relationship between [**Wild Mana**](/codex/Magics/WildMana.md) and enhancement buffs is complex and potentially volatile. While Wild Mana can provide unpredictable boosts to buff potency, it introduces significant risks:
+[**ワイルドマナ**](/codex/Magics/WildMana.md) とエンハンスメントバフの関係は複雑であり、潜在的に不安定です。ワイルドマナはバフの効力を予測できない形で高める可能性がありますが、重大なリスクも伴います。
 
-### Wild Mana Amplification
+### ワイルドマナ増幅
 
-Some practitioners deliberately introduce controlled amounts of Wild Mana into enhancement buffs:
+一部の術者は、制御された量のワイルドマナをエンハンスメントバフに意図的に導入します。
 
-| Technique | Potential Benefit | Risk Factor | Risk Description |
+| テクニック | 潜在的な利点 | リスクファクター | リスクの説明 |
 |-----------|-------------------|-------------|------------------|
-| **Chaos Infusion** | 25-50% increased buff potency | Very High | Unpredictable side effects, duration fluctuations |
-| **Edge Harmonics** | Extended buff duration | High | Potential buff collapse, rebound effects |
-| **Wild Resonance** | Enhanced magical sensitivity | Extreme | Sensory overload, magical signature disruption |
-| **Primal Drawing** | Access to raw magical potential | Critical | Wild Mana contamination, elemental corruption |
+| **カオス注入** | バフの効力を 25～50% 増加させる | 非常に高い | 予測できない副作用、期間の変動 |
+| **エッジハーモニクス** | バフの期間を延長する | 高い | バフの崩壊、リバウンド効果の可能性 |
+| **ワイルド共鳴** | 魔法的感度を高める | 極端 | 感覚過負荷、魔法的署名の混乱 |
+| **原始的な引き出し** | 未加工の魔法的可能性へのアクセス | クリティカル | ワイルドマナの汚染、元素の腐敗 |
 
-> *"Wild Mana doesn't simply enhance your buffs—it transforms them into something neither you nor any text can predict. Those who embrace this path walk a line between unprecedented power and becoming the very chaos they sought to harness."* — Magister Thorne, Specialist in Experimental Enhancements
+> *"ワイルドマナは単にあなたのバフを強化するのではなく、あなたもどのテキストも予測できないものに変えてしまいます。この道を受け入れる者は、前例のない力と、彼らが利用しようとしたまさにその混沌との間の境界線を歩むことになります。"* — マギスター・ソーン、実験的エンハンスメントのスペシャリスト
 
-### Instability Factors
+### 不安定要因
 
-The stability of Wild Mana-enhanced buffs depends on several factors:
+ワイルドマナで強化されたバフの安定性は、いくつかの要因に左右されます。
 
-- **Practitioner's Experience**: More experienced mages can contain greater Wild Mana ratios
-- **Environmental Conditions**: Magical stability of the casting location
-- **Buff Complexity**: Simpler buffs tolerate more Wild Mana
-- **Personal Resonance**: Individual magical signatures respond differently to Wild Mana
-- **Preparation Time**: Proper containment structures reduce instability
+- **術者の経験**: より経験豊富なメイジは、より高いワイルドマナ比率を封じ込めることができます
+- **環境条件**: キャスティング場所の魔法的安定性
+- **バフの複雑さ**: より単純なバフは、より多くのワイルドマナに耐えられます
+- **個人的な共鳴**: 個々の魔法的署名は、ワイルドマナに異なる反応をします
+- **準備時間**: 適切な封じ込め構造は、不安定性を軽減します
 
-### Wild Enhancement Protocols
+### ワイルドエンハンスメントプロトコル
 
-Academies that teach Wild Enhancement techniques enforce strict protocols:
+ワイルドエンハンスメント技術を教えるアカデミーは、厳格なプロトコルを施行しています。
 
-1. **Calibration Testing**: Determining a practitioner's personal Wild Mana tolerance
-2. **Containment Training**: Techniques to isolate Wild Mana effects
-3. **Emergency Dispersion**: Methods to safely discharge unstable enhancements
-4. **Incremental Exposure**: Gradually increasing Wild Mana ratios through controlled practice
-5. **Harmonic Stabilization**: Techniques to partially order Wild Mana through resonance
+1. **キャリブレーションテスト**: 術者の個人的なワイルドマナ耐性を決定する
+2. **封じ込めトレーニング**: ワイルドマナ効果を隔離するテクニック
+3. **緊急分散**: 不安定なエンハンスメントを安全に放出する方法
+4. **段階的な暴露**: 制御された練習を通じて、ワイルドマナ比率を徐々に増加させる
+5. **ハーモニック安定化**: 共鳴を通じてワイルドマナを部分的に秩序化するテクニック
 
-Most reputable magical institutions consider Wild Enhancement techniques experimental and potentially dangerous, requiring special permits and supervision for their practice.
+ほとんどの評判の良い魔法機関は、ワイルドエンハンスメント技術を実験的であり、潜在的に危険であると考え、その実践には特別な許可と監督を必要とします。
 
-## Purification Enhancement Buffs
+## 浄化エンハンスメントバフ
 
-These buffs specifically enhance a caster's ability to purify raw mana, enabling higher levels of magical precision and efficiency.
+これらのバフは、生の魔法を浄化する術者の能力を特別に強化し、より高いレベルの魔法的精度と効率を可能にします。
 
-### Crystal Clarity
+### クリスタルクリア
 
-A fundamental purification enhancement that sharpens mental focus:
+精神的な集中力を高める基本的な浄化エンハンスメント。
 
-- **Effect**: Increases purification efficiency by 30-50%
-- **Duration**: 1-2 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Clear quartz, pure water
-- **Musical Analogy**: Tuning a string to perfect pitch
-- **Side Effects**: Slight sensory hypersensitivity
+- **効果**: 浄化効率を 30～50% 向上させる
+- **期間**: 1～2 時間
+- **キャスティングの複雑さ**: 中程度 (複合パターン)
+- **必要なコンポーネント**: 透明なクォーツ、純粋な水
+- **音楽的アナロジー**: 弦を完璧なピッチにチューニングする
+- **副作用**: わずかな感覚過敏
 
-### Harmonic Filter
+### ハーモニックフィルター
 
-Creates a secondary resonance field that automatically filters mana:
+マナを自動的にフィルタリングする二次共鳴フィールドを作成します。
 
-- **Effect**: Allows automatic purification to Standard level without mental focus
-- **Duration**: 3-4 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Resonating crystal tuned to the caster's frequency
-- **Musical Analogy**: Acoustic filter that removes unwanted frequencies
-- **Side Effects**: Reduced sensitivity to ambient mana
+- **効果**: 精神的な集中なしで標準レベルまで自動浄化を可能にする
+- **期間**: 3～4 時間
+- **キャスティングの複雑さ**: 高い (複雑なパターン)
+- **必要なコンポーネント**: 術者の周波数に調整された共鳴クリスタル
+- **音楽的アナロジー**: 不要な周波数を除去する音響フィルター
+- **副作用**: 周囲のマナに対する感度の低下
 
-### Purification Cascade
+### 浄化カスケード
 
-Advanced buff that creates a self-sustaining purification cycle:
+自己維持的な浄化サイクルを作成する高度なバフ。
 
-- **Effect**: Purification becomes 75% more efficient and continues without constant attention
-- **Duration**: 30-45 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Purified mana crystal, silver dust
-- **Musical Analogy**: Perfect acoustics that enhance every note
-- **Side Effects**: Mental exhaustion after expiration
+- **効果**: 浄化が 75% 効率的になり、絶え間ない注意を払わなくても継続される
+- **期間**: 30～45 分
+- **キャスティングの複雑さ**: 非常に高い (複雑なパターン)
+- **必要なコンポーネント**: 浄化されたマナクリスタル、銀粉
+- **音楽的アナロジー**: すべての音を強化する完璧な音響
+- **副作用**: 有効期限後の精神的な疲労
 
-### Crystalline Mind
+### クリスタリンマインド
 
-Elite buff that transforms mental processes to achieve perfect mana filtering:
+完璧なマナフィルタリングを達成するために精神的なプロセスを変換するエリートバフ。
 
-- **Effect**: Allows achievement of Perfect purity level with minimal effort
-- **Duration**: 10-15 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Diamond dust, essence of clarity
-- **Musical Analogy**: Crystal glass resonating at perfect frequency
-- **Side Effects**: Temporary loss of emotional access, risk of mental strain
+- **効果**: 最小限の労力で完璧な純度レベルの達成を可能にする
+- **期間**: 10～15 分
+- **キャスティングの複雑さ**: 極端 (グランドパターン)
+- **必要なコンポーネント**: ダイヤモンドの粉、明晰さのエッセンス
+- **音楽的アナロジー**: 完璧な周波数で共鳴するクリスタルガラス
+- **副作用**: 一時的な感情へのアクセスの喪失、精神的疲労のリスク
 
-## Mana Capacity Enhancement Buffs
+## マナ容量エンハンスメントバフ
 
-These buffs focus on increasing the total amount of mana a caster can hold and channel, functioning like expanded reservoirs.
+これらのバフは、術者が保持およびチャネルできるマナの総量を増やすことに焦点を当てており、拡張されたリザーバーのように機能します。
 
-### Mana Well
+### マナウェル
 
-Basic enhancement that expands internal mana reservoirs:
+内部マナリザーバーを拡張する基本的なエンハンスメント。
 
-- **Effect**: Increases mana capacity by 25-40%
-- **Duration**: 2-3 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Blue sapphire, night dew
-- **Musical Analogy**: Expanding a drum's resonance chamber
-- **Side Effects**: Slight physical weariness
+- **効果**: マナ容量を 25～40% 増加させる
+- **期間**: 2～3 時間
+- **キャスティングの複雑さ**: 中程度 (複合パターン)
+- **必要なコンポーネント**: 青いサファイア、夜露
+- **音楽的アナロジー**: ドラムの共鳴室を拡張する
+- **副作用**: わずかな肉体的疲労
 
-### Ethereal Vessel
+### エーテル容器
 
-Creates a secondary mana pool connected to the caster's natural reserves:
+術者の自然なリザーブに接続された二次マナプールを作成します。
 
-- **Effect**: Adds a separate mana reserve equal to 50% of natural capacity
-- **Duration**: 1-2 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Enchanted vessel, liquid starlight
-- **Musical Analogy**: Adding an echo chamber to an instrument
-- **Side Effects**: Feeling of weightlessness, minor dissociation
+- **効果**: 自然な容量の 50% に相当する別のマナリザーブを追加する
+- **期間**: 1～2 時間
+- **キャスティングの複雑さ**: 高い (複雑なパターン)
+- **必要なコンポーネント**: 魔法がかけられた容器、液体の星明かり
+- **音楽的アナロジー**: 楽器にエコーチェンバーを追加する
+- **副作用**: 無重力感、軽度の解離
 
-### Mana Cascade
+### マナカスケード
 
-Establishes a constant flow between the caster and ambient mana:
+術者と周囲のマナの間に一定の流れを確立します。
 
-- **Effect**: Continuous mana regeneration at 3x normal rate
-- **Duration**: 30-60 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Conductor metal, essence of flow
-- **Musical Analogy**: Continuous bellows providing air to a wind instrument
-- **Side Effects**: Heightened body temperature, magical aura
+- **効果**: 通常の速度の 3 倍の継続的なマナ再生
+- **期間**: 30～60 分
+- **キャスティングの複雑さ**: 非常に高い (複雑なパターン)
+- **必要なコンポーネント**: 導体金属、流れのエッセンス
+- **音楽的アナロジー**: 管楽器に空気を提供する連続的なふいご
+- **副作用**: 体温の上昇、魔法のオーラ
 
-### Soul Resonance
+### ソウル共鳴
 
-Elite buff that temporarily reconfigures elemental composition:
+元素構成を一時的に再構成するエリートバフ。
 
-- **Effect**: Doubles mana capacity by converting a portion of Exanthis to Mana Capacity
-- **Duration**: 5-10 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Soul resonator, essence of potential
-- **Musical Analogy**: Completely reconfiguring an instrument for maximum volume
-- **Side Effects**: Physical weakness, accelerated soul decay
+- **効果**: Exanthis の一部をマナ容量に変換することで、マナ容量を 2 倍にする
+- **期間**: 5～10 分
+- **キャスティングの複雑さ**: 極端 (グランドパターン)
+- **必要なコンポーネント**: ソウルレゾネーター、可能性のエッセンス
+- **音楽的アナロジー**: 最大音量のために楽器を完全に再構成する
+- **副作用**: 肉体的衰弱、魂の加速的な腐敗
 
-## Combined Enhancement Buffs
+## 複合エンハンスメントバフ
 
-Advanced practitioners can implement buffs that enhance both purification and capacity simultaneously.
+高度な術者は、浄化と容量の両方を同時に高めるバフを実装できます。
 
-### Mage's Ascension
+### メイジのアセンション
 
-A balanced enhancement of core magical abilities:
+コアの魔法能力のバランスの取れたエンハンスメント。
 
-- **Effect**: 30% increase to both purification efficiency and mana capacity
-- **Duration**: 1 hour
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Mage's crystal, essence of harmony
-- **Musical Analogy**: Perfect instrument played in perfect acoustics
-- **Side Effects**: Moderate fatigue after expiration
+- **効果**: 浄化効率とマナ容量の両方を 30% 増加させる
+- **期間**: 1 時間
+- **キャスティングの複雑さ**: 非常に高い (複雑なパターン)
+- **必要なコンポーネント**: メイジのクリスタル、調和のエッセンス
+- **音楽的アナロジー**: 完璧な音響で演奏される完璧な楽器
+- **副作用**: 有効期限後の適度な疲労
 
-### Archmage's Mantle
+### アークメイジのマントル
 
-Elite buff used by master mages for critical magical working:
+重要な魔法作業のためにマスターメイジが使用するエリートバフ。
 
-- **Effect**: 60% increase to purification efficiency, 75% increase to mana capacity
-- **Duration**: 15-20 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Perfect focus crystal, essence of mastery
-- **Musical Analogy**: Master instrument with amplification in a perfect concert hall
-- **Side Effects**: Significant physical and mental fatigue, temporary elemental imbalance
+- **効果**: 浄化効率を 60% 増加、マナ容量を 75% 増加させる
+- **期間**: 15～20 分
+- **キャスティングの複雑さ**: 極端 (グランドパターン)
+- **必要なコンポーネント**: 完璧なフォーカスクリスタル、習熟のエッセンス
+- **音楽的アナロジー**: 完璧なコンサートホールでの増幅を備えたマスター楽器
+- **副作用**: 重大な肉体的および精神的疲労、一時的な元素の不均衡
 
-### Ethereal Resonance
+### エーテル共鳴
 
-Legendary buff that creates perfect harmony between all aspects of spellcasting:
+スペルキャスティングのすべての側面間の完璧な調和を生み出す伝説的なバフ。
 
-- **Effect**: Doubles purification efficiency, increases mana capacity by 100%, enhances resonance by 50%
-- **Duration**: 5 minutes
-- **Casting Complexity**: Legendary (Grand Pattern with multiple anchors)
-- **Components Required**: Philosopher's crystal, essence of perfection, harmonic metal
-- **Musical Analogy**: Perfect symphony with ideal instruments, acoustics, and performers
-- **Side Effects**: Complete exhaustion, temporary inability to cast after expiration, soul wear
+- **効果**: 浄化効率を 2 倍にし、マナ容量を 100% 増加させ、共鳴を 50% 向上させる
+- **期間**: 5 分
+- **キャスティングの複雑さ**: 伝説的 (複数のアンカーを備えたグランドパターン)
+- **必要なコンポーネント**: 賢者のクリスタル、完璧のエッセンス、ハーモニックメタル
+- **音楽的アナロジー**: 理想的な楽器、音響、パフォーマーを備えた完璧なシンフォニー
+- **副作用**: 完全な疲労、有効期限後のキャスティングの一時的な不能、魂の消耗
 
-## Buff Application Techniques
+## バフ適用テクニック
 
-The method of applying enhancement buffs affects their potency and duration:
+エンハンスメントバフの適用方法は、その効力と期間に影響します。
 
-### Self-Buffing
+### 自己バフ
 
-Applying enhancements to oneself:
-- **Advantage**: Perfect attunement to personal magical signature
-- **Disadvantage**: Divides concentration between buff maintenance and spellcasting
-- **Best For**: Mages working alone on complex but non-urgent tasks
+エンハンスメントを自分自身に適用すること。
+- **利点**: 個人的な魔法的署名への完璧な同調
+- **欠点**: バフの維持とスペルキャスティングの間で集中力が分散される
+- **最適**: 複雑だが緊急性のないタスクに単独で取り組むメイジ
 
-### Partner Buffing
+### パートナーバフ
 
-Having another caster apply the buff:
-- **Advantage**: Allows full concentration on primary spellcasting
-- **Disadvantage**: Requires compatible magical signatures
-- **Best For**: Paired mages performing complex ritual magic
+別の術者にバフを適用してもらうこと。
+- **利点**: 主要なスペルキャスティングに完全に集中できる
+- **欠点**: 互換性のある魔法的署名が必要
+- **最適**: 複雑な儀式魔法を実行するペアのメイジ
 
-### Ritual Circle Buffing
+### 儀式サークルバフ
 
-Using a prepared ritual circle to apply and maintain buffs:
-- **Advantage**: Extended duration, more stable effects
-- **Disadvantage**: Limited to specific locations
-- **Best For**: Planned magical operations with preparation time
+準備された儀式サークルを使用して、バフを適用および維持すること。
+- **利点**: 期間の延長、より安定した効果
+- **欠点**: 特定の場所に限定される
+- **最適**: 準備時間のある計画的な魔法作業
 
-### Artifact Buffing
+### アーティファクトバフ
 
-Using magical artifacts to apply enhancement buffs:
-- **Advantage**: Consistent effects, no casting required
-- **Disadvantage**: Limited customization, dependency on artifacts
-- **Best For**: Emergencies or situations requiring reliability
+魔法のアーティファクトを使用してエンハンスメントバフを適用すること。
+- **利点**: 一貫した効果、キャスティングは不要
+- **欠点**: カスタマイズの制限、アーティファクトへの依存
+- **最適**: 緊急時または信頼性が必要な状況
 
-## Risks and Limitations
+## リスクと制限
 
-Enhancement buffs carry significant risks when misused:
+エンハンスメントバフは、誤って使用すると重大なリスクを伴います。
 
-### Elemental Imbalance
-- **Cause**: Excessive alteration of elemental composition
-- **Symptoms**: Unpredictable magic, physical symptoms matching the imbalanced element
-- **Treatment**: Elemental rebalancing rituals, rest in harmonically neutral environments
+### 元素の不均衡
+- **原因**: 元素構成の過度の変更
+- **症状**: 予測不可能な魔法、不均衡な要素に一致する身体的症状
+- **治療**: 元素の再均衡化の儀式、調和的に中立な環境での休息
 
-### Arcane Addiction
-- **Cause**: Overreliance on enhancement buffs
-- **Symptoms**: Diminished natural capabilities, dependency on buffs for normal casting
-- **Treatment**: Magical detoxification, gradual reduction in buff potency
+### アルカナ中毒
+- **原因**: エンハンスメントバフへの過度の依存
+- **症状**: 自然な能力の低下、通常のキャスティングのためのバフへの依存
+- **治療**: 魔法の解毒、バフの効力の段階的な削減
 
-### Resonance Scarring
-- **Cause**: Repeated use of resonance-altering buffs
-- **Symptoms**: Difficulty achieving natural resonance, dissonant casting
-- **Treatment**: Harmonic therapy, extended abstention from magical practice
+### 共鳴スカー
+- **原因**: 共鳴を変化させるバフの繰り返し使用
+- **症状**: 自然な共鳴を達成することの難しさ、不協和音のキャスティング
+- **治療**: ハーモニックセラピー、魔法の練習からの長期的な禁欲
 
-### Soul Fracturing
-- **Cause**: Extreme buffs that strain the soul's connection to mana
-- **Symptoms**: Personality changes, erratic magic, accelerated soul decay
-- **Treatment**: Soul mending rituals, specialized healing
+### 魂の骨折
+- **原因**: 魂とマナのつながりを緊張させる極端なバフ
+- **症状**: 性格の変化、不安定な魔法、魂の加速的な腐敗
+- **治療**: 魂の修復の儀式、専門的な癒し
 
-Understanding the proper use of **Enhancement Buffs** provides practitioners with powerful tools to temporarily exceed their natural limitations, like musicians using acoustic enhancements to achieve sounds beyond their instruments' natural capabilities. When used wisely, these buffs can transform a competent mage into an extraordinary force of magical potential - but always at a cost that must be carefully weighed. 
+**エンハンスメントバフ** の適切な使用法を理解することは、音楽家が楽器の自然な能力を超えるサウンドを達成するために音響的強化を使用するように、術者に自然な限界を一時的に超える強力なツールを提供します。賢明に使用すると、これらのバフは有能なメイジを魔法的可能性の並外れた力に変えることができます。ただし、常に注意深く検討する必要があるコストがかかります。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

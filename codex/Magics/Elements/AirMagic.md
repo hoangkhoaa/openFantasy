@@ -1,202 +1,206 @@
-# **Air Magic**: The Art of Wind and Breath
+# **エア・マジック**: 風と息吹の芸術
 
-> *"Air is the subtlest and most elusive of elements—invisible yet ever-present, gentle yet capable of devastating force. The wise aeromancer understands that true power comes not from domination, but from harmony with the endless sky."* — Archaeromancer Sylphia Windwhisper
+> *"空気は最も繊細で捉えどころのない元素である――目に見えないが存在し続け、穏やかでありながら壊滅的な力を持つ。賢明なエアロマンサーは、真の力が支配からではなく、無限の空との調和から生まれることを理解している。"* ―― 古代エアロマンサー、シルフィア・ウィンドウィスパー
 
-## Quick Reference
-- [Properties of Aeromana](#properties-of-aeromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## クイック・リファレンス
+- [エアロマナの特性](#エアロマナの特性)
+- [操作テクニック](#操作テクニック)
+- [一般的な呪文](#一般的な呪文)
+- [親和性の発達](#親和性の発達)
+- [リスクと安全対策](#リスクと安全対策)
+- [文化的意義](#文化的意義)
 
-## Properties of Aeromana
+## エアロマナの特性
 
-Aeromana, the elemental mana of air, is characterized by:
+エアロマナ、空気の元素マナは、以下の特徴を持つ：
 
-- **Appearance**: Transparent whites and pale blues; swirling, ethereal patterns that constantly shift
-- **Sensation**: Feels light, refreshing, and dynamic when channeled; creates a sense of weightlessness
-- **Resonance**: High to medium-frequency, constantly changing vibration patterns with harmonic overtones
-- **Purification Challenge**: Difficult to contain during purification, but accepts purification easily; tends to disperse rapidly
-- **Opposite Element**: Earth (creates dust when forced together, ultimately erodes earth)
-- **Complementary Elements**: Water (creates mist/fog), Light (creates radiance)
-- **Musical Analogy**: Flute and wind instruments; notes that rise and fall, creating airy melodies
+- **外観**: 透明な白と淡い青色；常に変化する渦巻き状の幽玄な模様
+- **感覚**: チャネリングすると、軽く、爽やかで、ダイナミックに感じる；無重力感を生み出す
+- **共鳴**: 高～中周波数、常に変化する振動パターンとハーモニック・オーバートーン
+- **浄化の難しさ**: 浄化中に閉じ込めるのが難しいが、浄化自体は容易に受け入れる；急速に分散する傾向がある
+- **反対元素**: 土 (強制的に混ぜ合わせると塵を生み出し、最終的に土を浸食する)
+- **補完元素**: 水 (霧/靄を生み出す)、光 (輝きを生み出す)
+- **音楽的アナロジー**: フルートや管楽器；上昇と下降を繰り返し、軽快なメロディーを奏でる音
 
-## Manipulation Techniques
+## 操作テクニック
 
-### Basic Techniques
+### 基本テクニック
 
-#### Air Current Control
-The foundational technique of directing air movement:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Creates, redirects, or calms air flow
-- **Training Focus**: Pressure differential creation and flow dynamics
-- **Applications**: Creating breezes, deflecting objects, cooling areas, enhancing combustion
+#### 気流制御
+空気の動きを制御するための基礎的なテクニック：
+- **難易度**: 初心者
+- **純度要件**: 基本 (15-25%)
+- **効果**: 気流を生成、方向転換、または鎮静化する
+- **トレーニングの焦点**: 圧力差の生成と流体力学
+- **応用**: そよ風の生成、物体の偏向、地域の冷却、燃焼の促進
 
-#### Pressure Manipulation
-Altering air pressure in localized areas:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Creates pockets of high or low pressure
-- **Training Focus**: Compression dynamics and boundary maintenance
-- **Applications**: Sound amplification or dampening, creating cushioning effects, weather influence
+#### 圧力操作
+局所的な領域の気圧を変化させる：
+- **難易度**: 初心者～中級者
+- **純度要件**: 基本～洗練 (20-40%)
+- **効果**: 高気圧または低気圧のポケットを作る
+- **トレーニングの焦点**: 圧縮力学と境界維持
+- **応用**: 音の増幅または減衰、緩衝効果の作成、天候への影響
 
-#### Breath Enhancement
-Controlling breath and respiratory efficiency:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Improves respiratory function and vocal projection
-- **Training Focus**: Fine control of air in biological systems
-- **Applications**: Extended breath holding, voice projection, filtering harmful substances
+#### 呼吸強化
+呼吸と呼吸効率を制御する：
+- **難易度**: 中級者
+- **純度要件**: 洗練 (30-45%)
+- **効果**: 呼吸機能と音声の投射を改善する
+- **トレーニングの焦点**: 生物系における空気の微細な制御
+- **応用**: 息止めの延長、音声の投射、有害物質のフィルタリング
 
-### Advanced Techniques
+### 高度なテクニック
 
-#### Aerial Shaping
-Creating and maintaining complex air structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Forms persistent air structures that maintain their shape despite natural dispersion
-- **Training Focus**: Dynamic equilibrium and constant energy input
-- **Applications**: Air barriers, floating platforms, sound-channeling tubes, stable vortices
+#### 空中整形
+複雑な空気構造を作成および維持する：
+- **難易度**: 上級者
+- **純度要件**: 洗練～完璧 (45-65%)
+- **効果**: 自然分散にもかかわらず形状を維持する永続的な空気構造を形成する
+- **トレーニングの焦点**: 動的平衡と絶え間ないエネルギー入力
+- **応用**: エアバリア、浮遊プラットフォーム、音を誘導するチューブ、安定した渦
 
-#### Wind Communion
-Interpreting and influencing natural air currents:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-80%)
-- **Effect**: Taps into and redirects existing weather patterns and atmospheric conditions
-- **Training Focus**: Large-scale system integration
-- **Applications**: Weather prediction, storm calming, wind direction change, cloud formation
+#### 風との交信
+自然の気流を解釈し、影響を与える：
+- **難易度**: エキスパート
+- **純度要件**: 完璧 (60-80%)
+- **効果**: 既存の気象パターンや大気条件を利用し、方向転換する
+- **トレーニングの焦点**: 大規模システム統合
+- **応用**: 天気予報、嵐の鎮静化、風向きの変更、雲の形成
 
-#### Vacuum Creation
-Removing air from a defined space:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Creates areas devoid of air
-- **Training Focus**: Negative pressure maintenance and boundary sealing
-- **Applications**: Sound elimination, fire suppression, pressure differential weapons, preservative environments
+#### 真空生成
+定義された空間から空気を取り除く：
+- **難易度**: マスター
+- **純度要件**: 完璧 (75-95%)
+- **効果**: 空気が存在しない領域を作成する
+- **トレーニングの焦点**: 負圧維持と境界シーリング
+- **応用**: 消音、消火、圧力差兵器、保存環境
 
-## Common Spells
+## 一般的な呪文
 
-### Novice Spells
+### 初心者呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | キャスティング時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Gentle Breeze** | Creates a light, directed wind | Somatic | 1 second | Concentration |
-| **Sound Carry** | Amplifies and directs sounds to specific location | Somatic, Verbal | 3 seconds | 5 minutes |
-| **Dust Devil** | Creates a small whirling vortex of air | Somatic, Focus | 5 seconds | 1 minute |
-| **Fresh Air** | Purifies air in a small area | Somatic, Verbal | 5 seconds | 10 minutes |
+| **優しいそよ風 (Gentle Breeze)** | 軽い指向性の風を作り出す | 身体動作 | 1秒 | 集中 |
+| **音の伝達 (Sound Carry)** | 特定の場所に音を増幅して伝達する | 身体動作、言語 | 3秒 | 5分 |
+| **砂塵旋風 (Dust Devil)** | 小さな旋回する空気の渦を作り出す | 身体動作、焦点 | 5秒 | 1分 |
+| **新鮮な空気 (Fresh Air)** | 小さな領域の空気を浄化する | 身体動作、言語 | 5秒 | 10分 |
 
-### Intermediate Spells
+### 中級者呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | キャスティング時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Wind Wall** | Creates a vertical barrier of rushing air | Somatic, Verbal | 5 seconds | Concentration |
-| **Whisper Wind** | Sends a short message carried by the breeze | Somatic, Verbal, Focus | 10 seconds | Special |
-| **Cushioned Fall** | Slows descent by creating supportive air currents | Somatic | 1 second | 10 seconds |
-| **Fog Creation** | Forms a cloud of obscuring mist | Somatic, Verbal, Water | 10 seconds | 30 minutes |
+| **風の壁 (Wind Wall)** | 突進する空気の垂直な壁を作り出す | 身体動作、言語 | 5秒 | 集中 |
+| **囁く風 (Whisper Wind)** | そよ風に乗せて短いメッセージを送る | 身体動作、言語、焦点 | 10秒 | 特別 |
+| **落下緩衝 (Cushioned Fall)** | 支持的な気流を作り出して落下速度を遅くする | 身体動作 | 1秒 | 10秒 |
+| **霧の生成 (Fog Creation)** | 視界を遮る霧の雲を形成する | 身体動作、言語、水 | 10秒 | 30分 |
 
-### Advanced Spells
+### 上級者呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | キャスティング時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Cyclone** | Creates a powerful rotating column of air | Somatic, Verbal, Focus | 15 seconds | Concentration |
-| **Air Elemental** | Forms a semi-autonomous air entity | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Wind Walk** | Partially transforms body into air for rapid travel | Somatic, Verbal, Focus | 30 seconds | 10 minutes |
-| **Vacuum Sphere** | Creates a sphere of airlessness | Somatic, Verbal, Focus | 10 seconds | Concentration |
+| **サイクロン (Cyclone)** | 強力な回転する空気の柱を作り出す | 身体動作、言語、焦点 | 15秒 | 集中 |
+| **エア・エレメンタル (Air Elemental)** | 半自律的な空気のエンティティを形成する | 身体動作、言語、焦点 | 1分 | 1時間 |
+| **風歩き (Wind Walk)** | 素早い移動のために身体を部分的に空気に変換する | 身体動作、言語、焦点 | 30秒 | 10分 |
+| **真空球 (Vacuum Sphere)** | 空気のない球体を作り出す | 身体動作、言語、焦点 | 10秒 | 集中 |
 
-## Affinity Development
+## 親和性の発達
 
-Air affinity progresses through several distinctive stages:
+空気親和性は、いくつかの特徴的な段階を経て進行する：
 
-### Breath Connection
-The foundational relationship with air that most beginners possess:
-- **Manifestation**: Enhanced breath control, intuitive sense of air currents
-- **Physical Signs**: Slightly lighter footsteps, ability to hold breath longer
-- **Enhancement Method**: Breathing exercises, particularly at high elevations or in windy areas
+### 呼吸の繋がり (Breath Connection)
+ほとんどの初心者が持つ空気との基本的な関係：
+- **兆候**: 呼吸制御の強化、気流の直感的な感覚
+- **身体的兆候**: わずかに軽い足取り、息を長く止めることができる
+- **強化方法**: 呼吸運動、特に高地や風の強い場所での呼吸運動
 
-### Breeze Harmony
-The intermediate stage where air responds more readily to the mage's will:
-- **Manifestation**: Air moves with minimal effort, atmospheric awareness expands
-- **Physical Signs**: Hair and clothing move with subtle air currents, voice carries unusually well
-- **Enhancement Method**: Meditation during storms, practice in varied atmospheric conditions
+### そよ風の調和 (Breeze Harmony)
+空気の魔術師の意志により容易に応答する中間の段階：
+- **兆候**: 空気が最小限の努力で動き、大気への認識が拡大する
+- **身体的兆候**: 髪や衣服が微妙な気流で動き、声が異常によく通る
+- **強化方法**: 嵐の中での瞑想、さまざまな大気条件下での練習
 
-### Wind Symphony
-Advanced practitioners achieve a deep resonance with air's movements:
-- **Manifestation**: Weather subtly shifts in response to emotions, air seems to part naturally
-- **Physical Signs**: Body temperature regulation mirrors air, subtle glow during deep breathing
-- **Enhancement Method**: Extended communion with high-altitude winds and atmospheric patterns
+### 風のシンフォニー (Wind Symphony)
+上級者は空気の動きと深い共鳴を達成する：
+- **兆候**: 天候が感情に応じて微妙に変化し、空気が自然に分かれるように見える
+- **身体的兆候**: 体温調節が空気を反映し、深い呼吸中に微妙な輝きが見られる
+- **強化方法**: 高度な風や大気パターンとの長時間の交信
 
-### Sky Unity
-Master aeromancers who have achieved profound connection with air:
-- **Manifestation**: Partial transformation abilities, influence over weather without direct casting
-- **Physical Signs**: Eyes reflect sky conditions, breath becomes visible as colored mist
-- **Enhancement Method**: Deep communion at ley line intersections with strong air resonance
+### 天空の統一 (Sky Unity)
+空気との深い繋がりを達成したマスター・エアロマンサー：
+- **兆候**: 部分的な変身能力、直接的な詠唱なしに天候に影響を与える
+- **身体的兆候**: 目が空の状態を反映し、呼吸が色のついた霧として見える
+- **強化方法**: 強力な空気共鳴を持つレイライン交差点での深い交信
 
-## Risks and Safeguards
+## リスクと安全対策
 
-### Common Risks
+### 一般的なリスク
 
-- **Breath Disruption**: Loss of control over personal breathing patterns
-- **Pressure Damage**: Creating unsafe pressure differentials affecting ears, sinuses, or lungs
-- **Oxygen Deprivation**: Accidentally removing breathable air from the caster's vicinity
-- **Weather Instability**: Unintended atmospheric effects spreading beyond the intended area
-- **Dispersal Effect**: Caster's consciousness becoming too diffuse during advanced techniques
+- **呼吸の混乱**: 個人的な呼吸パターンの制御喪失
+- **圧力による損傷**: 耳、副鼻腔、または肺に影響を与える危険な圧力差の作成
+- **酸素欠乏**: 詠唱者の近くから呼吸可能な空気を誤って除去する
+- **天候の不安定**: 意図した領域を超えて広がる意図しない大気効果
+- **分散効果**: 高度なテクニック中に詠唱者の意識が拡散しすぎる
 
-### Miscast Effects
+### 誤った詠唱の効果
 
-| Severity | Effect | Recovery |
+| 重症度 | 効果 | 回復 |
 |----------|--------|----------|
-| **Minor** | Temporary breathing irregularities, light-headedness, voice changes | Hours |
-| **Moderate** | Inner ear disturbances, respiratory irritation, uncontrolled floating | Days |
-| **Severe** | Partial corporeal dispersion, lung damage, severe disorientation | Weeks |
-| **Critical** | Physical form instability, consciousness diffusion, organ disruption | Months |
+| **軽微** | 一時的な呼吸の不規則性、立ちくらみ、声の変化 | 時間単位 |
+| **中程度** | 内耳の障害、呼吸器系の炎症、制御不能な浮遊 | 日単位 |
+| **重度** | 部分的な肉体分散、肺の損傷、重度の見当識障害 | 週単位 |
+| **重大** | 肉体形態の不安定性、意識の拡散、臓器の破壊 | 月単位 |
 
-### Safety Practices
+### 安全対策
 
-- **Grounding Techniques**: Regular physical contact with earth to maintain corporeal stability
-- **Pressure Equalization**: Gradual pressure changes when working with air compression
-- **Breathing Discipline**: Maintaining conscious breath control during casting
-- **Environmental Awareness**: Monitoring weather conditions before large-scale workings
-- **Pattern Anchoring**: Using physical gestures to maintain focus during complex manipulations
+- **グラウンディング・テクニック**: 肉体の安定性を維持するための地球との定期的な物理的接触
+- **圧力平衡**: 空気を圧縮する作業を行う場合は、徐々に圧力を変化させる
+- **呼吸訓練**: 詠唱中の意識的な呼吸制御の維持
+- **環境への意識**: 大規模な作業を行う前に、気象条件を監視する
+- **パターン固定**: 複雑な操作中に焦点を維持するために、身体的なジェスチャーを使用する
 
-## Cultural Significance
+## 文化的意義
 
-### Historical Development
+### 歴史的発展
 
-Air magic emerged as a formalized practice later than earth or fire magic, but evidence suggests intuitive use dates back to early tribal shamans. The development of aeromancy followed three distinct paths:
+空気魔法は土や火の魔法よりも遅れて形式化された実践として登場したが、直感的な使用は初期の部族シャーマンにまで遡ることが示唆されている。エアロマンシーの開発は、3つの異なる道筋をたどった：
 
-1. **Breath Mysticism**: Meditative traditions focusing on the connection between breath and spirit
-2. **Weather Working**: Agrarian and seafaring cultures developing techniques to predict and influence weather
-3. **Voice Enhancement**: Bardic traditions using air magic to enhance communication and performance
+1. **呼吸神秘主義**: 呼吸と精神のつながりに焦点を当てた瞑想的な伝統
+2. **天候操作**: 天候を予測し、影響を与えるための技術を開発した農業および海上文化
+3. **音声強化**: コミュニケーションとパフォーマンスを向上させるために空気魔法を使用した吟遊詩人の伝統
 
-### Regional Variations
+### 地域的バリエーション
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 焦点 | シグネチャー・テクニック | 哲学 |
 |---------|-------|---------------------|------------|
-| **Mountain Peoples** | High-altitude adaptation, weather reading | Cloud divination, breath extension | Air as the cosmic breath |
-| **Nomadic Tribes** | Weather prediction, travel enhancement | Wind listening, dust scrying | Air as the eternal wanderer |
-| **Island Nations** | Storm control, long-distance communication | Storm calming, message winds | Air as the world connector |
-| **Sky Temples** | Spiritual communion, levitation | Meditation flights, voice projection | Air as the path to enlightenment |
+| **山岳民族** | 高地適応、天気予報 | 雲占い、呼吸延長 | 空気は宇宙の呼吸 |
+| **遊牧民族** | 天気予報、旅行支援 | 風の聞き取り、砂占い | 空気は永遠の放浪者 |
+| **島国** | 嵐の制御、長距離通信 | 嵐の鎮静化、メッセージ・ウィンド | 空気は世界のコネクター |
+| **天空寺院** | 精神的な交信、浮遊 | 瞑想飛行、音声投射 | 空気は悟りへの道 |
 
-### Ceremonial Uses
+### 儀式での使用
 
-Air magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young aeromancers demonstrating their first controlled breeze
-- **Funeral Rites**: "Sky burial" practices and soul-releasing ceremonies
-- **Harvest Festivals**: Weather blessing for the coming seasons
-- **Voice Competitions**: Demonstrations of air-enhanced vocal abilities
+空気魔法は、多くの文化的な儀式で重要な役割を果たしている：
+- **成人式**: 若いエアロマンサーが最初の制御されたそよ風を実演する
+- **葬儀**: 「鳥葬」の実践と魂の解放の儀式
+- **収穫祭**: 来る季節のための天候の祝福
+- **声のコンテスト**: 空気によって強化された声の能力の実演
 
-### Contemporary Applications
+### 現代的な応用
 
-Beyond combat and utility applications, air magic serves important societal functions:
-- **Communication**: Message carrying, sound enhancement, signal transmission
-- **Transportation**: Wind-powered vehicles, resistance reduction for conventional transport
-- **Environmental Management**: Air purification, ventilation systems, weather moderation
-- **Artistry**: Musical enhancement, aerial dance, visual displays
+戦闘や実用的な応用を超えて、空気魔法は重要な社会的機能を果たす：
+- **コミュニケーション**: メッセージの伝達、音の増幅、信号の送信
+- **輸送**: 風力車両、従来の輸送のための抵抗軽減
+- **環境管理**: 空気浄化、換気システム、天候の緩和
+- **芸術性**: 音楽の強化、空中ダンス、視覚的な表示
 
-> *"The student of air must learn that control comes not from force but from subtle influence—like the breeze that does not break the branch but convinces it to bend."* — The Aeromancer's Path
+> *"空気を学ぶ者は、制御が力ではなく、微妙な影響から生まれることを学ばなければならない――枝を折るのではなく、曲がるように説得するそよ風のように。"* ―― エアロマンサーの道
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Water Magic](/codex/Magics/Elements/WaterMagic.md), [Weather Magic](/codex/Magics/Advanced/Combinations/WeatherMagic.md)* 
+*参照: [元素魔法](/codex/Magics/Elements/ElementalMagic.md), [水魔法](/codex/Magics/Elements/WaterMagic.md), [天候魔法](/codex/Magics/Advanced/Combinations/WeatherMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

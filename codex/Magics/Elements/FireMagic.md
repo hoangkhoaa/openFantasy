@@ -1,203 +1,207 @@
-# **Fire Magic**: The Art of Flame and Heat
+# **Fire Magic**: 炎の術：炎と熱の技
 
-> *"Fire does not merely destroy—it transforms, purifies, and illuminates. The wise pyromancer is not a destroyer, but an agent of change."* — Archmage Ignis Flameheart
+> *"炎は単に破壊するのではなく、変容させ、浄化し、照らし出す。賢明な炎術師は破壊者ではなく、変化の代理人である。"* — 大魔道士イグニス・フレイムハート
 
-## Quick Reference
-- [Properties of Pyromana](#properties-of-pyromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## クイックリファレンス
+- [パイロマナの特性](#properties-of-pyromana)
+- [操作テクニック](#manipulation-techniques)
+- [一般的な呪文](#common-spells)
+- [親和性の発達](#affinity-development)
+- [リスクと安全対策](#risks-and-safeguards)
+- [文化的意義](#cultural-significance)
 
-## Properties of Pyromana
+## パイロマナの特性
 
-Pyromana, the elemental mana of fire, is characterized by:
+炎の元素マナであるパイロマナは、以下の特徴を持ちます。
 
-- **Appearance**: Vibrant reds, oranges, and yellows; fluid and flickering
-- **Sensation**: Feels warm, energetic, and stimulating when channeled
-- **Resonance**: High-frequency, rapid vibration patterns
-- **Purification Challenge**: Highly volatile, tends to "burn off" impurities but can become wild if overpurified
-- **Opposite Element**: Water (creates steam when forced together)
-- **Complementary Elements**: Earth (creates magma), Light (creates radiant flame)
-- **Musical Analogy**: Brass instruments, particularly trumpets
+- **外観**: 鮮やかな赤、オレンジ、黄色; 流動的でちらちらと揺らめく
+- **感覚**: チャネリングすると、暖かく、エネルギッシュで、刺激的に感じる
+- **共鳴**: 高周波、高速振動パターン
+- **浄化の課題**: 非常に揮発性が高く、不純物を「焼き払う」傾向があるが、過剰に浄化すると制御不能になる可能性がある
+- **対になる元素**: 水 (無理に混ぜると蒸気を作り出す)
+- **相補的な元素**: 土 (マグマを作り出す), 光 (輝く炎を作り出す)
+- **音楽的アナロジー**: 金管楽器、特にトランペット
 
-## Manipulation Techniques
+## 操作テクニック
 
-### Basic Techniques
+### 基本的なテクニック
 
-#### Flame Ignition
-The foundational technique of creating fire from magical energy:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Creates controlled flames from ambient materials or pure mana
-- **Training Focus**: Heat concentration and fuel conservation
-- **Applications**: Lighting fires, creating light sources, emergency warmth
+#### 炎の点火
+魔法のエネルギーから炎を作り出す基本的なテクニック:
+- **難易度**: 初心者
+- **純度要件**: 基本 (15-25%)
+- **効果**: 周囲の物質または純粋なマナから制御された炎を作り出す
+- **トレーニングの焦点**: 熱の集中と燃料の節約
+- **応用**: 火を灯す、光源を作り出す、緊急時の暖房
 
-#### Heat Control
-Manipulating ambient temperature and thermal energy:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Increases or decreases temperature in a localized area
-- **Training Focus**: Energy distribution and temperature gradient
-- **Applications**: Warming spaces, cooking, metal softening, preventing hypothermia
+#### 熱制御
+周囲の温度と熱エネルギーを操作する:
+- **難易度**: 初心者から中級者
+- **純度要件**: 基本から精製 (20-40%)
+- **効果**: 局所的なエリアの温度を上昇または下降させる
+- **トレーニングの焦点**: エネルギー分布と温度勾配
+- **応用**: 空間の暖房、調理、金属の軟化、低体温症の防止
 
-#### Flame Shaping
-Directing and molding existing flames:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Changes the size, shape, and movement of fire
-- **Training Focus**: Combustion control and pattern imposition
-- **Applications**: Signal creation, artistic displays, controlled burns, flame barrier formation
+#### 炎の整形
+既存の炎を誘導し、形作る:
+- **難易度**: 中級者
+- **純度要件**: 精製 (30-45%)
+- **効果**: 炎のサイズ、形、動きを変化させる
+- **トレーニングの焦点**: 燃焼制御とパターン付与
+- **応用**: 信号の作成、芸術的な展示、制御された燃焼、炎のバリア形成
 
-### Advanced Techniques
+### 高度なテクニック
 
-#### Pyrokinetic Projection
-Creating and propelling concentrated fire:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Forms directed, high-energy flame that can travel significant distances
-- **Training Focus**: Energy compression and trajectory control
-- **Applications**: Combat techniques, forge work, long-distance signaling
+#### 発火投影
+濃縮された炎を作り出し、推進させる:
+- **難易度**: 上級者
+- **純度要件**: 精製から完璧 (45-65%)
+- **効果**: 指向性のある高エネルギーの炎を形成し、かなりの距離を移動できる
+- **トレーニングの焦点**: エネルギー圧縮と軌道制御
+- **応用**: 戦闘技術、鍛冶仕事、長距離信号
 
-#### Combustion Manipulation
-Controlling the specific properties of burning:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-80%)
-- **Effect**: Alters how materials burn, including heat intensity, light emission, and smoke production
-- **Training Focus**: Molecular excitation and reaction modulation
-- **Applications**: Smokeless fires, colored flames, extreme heat sources, cold-burning flames
+#### 燃焼操作
+燃焼の特定の特性を制御する:
+- **難易度**: 熟練者
+- **純度要件**: 完璧 (65-80%)
+- **効果**: 熱強度、光の放出、煙の生成など、物質の燃焼方法を変更する
+- **トレーニングの焦点**: 分子励起と反応変調
+- **応用**: 無煙火災、着色された炎、極端な熱源、冷たい炎
 
-#### Fire Embodiment
-Physically incorporating flame into one's being:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Temporarily transforms portions of the caster's body into living flame
-- **Training Focus**: Self-transmutation and identity preservation
-- **Applications**: Immunity to fire, direct energy attacks, rapid movement, illumination
+#### 炎の具現化
+炎を自分の存在に物理的に組み込む:
+- **難易度**: マスター
+- **純度要件**: 完璧 (75-95%)
+- **効果**: キャスターの体の一部を一時的に生きた炎に変える
+- **トレーニングの焦点**: 自己変容とアイデンティティの維持
+- **応用**: 火への耐性、直接的なエネルギー攻撃、高速移動、照明
 
-## Common Spells
+## 一般的な呪文
 
-### Novice Spells
+### 初心者向けの呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | 詠唱時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Ignite** | Creates a small flame on flammable material | Somatic | 1 second | Instantaneous |
-| **Warmth** | Raises temperature in a small area | Somatic, Verbal | 3 seconds | 10 minutes |
-| **Fire Dart** | Projects a small bolt of flame | Somatic, Verbal | 1 second | Instantaneous |
-| **Dancing Light** | Creates a small controllable flame | Somatic | 2 seconds | Concentration |
+| **点火** | 可燃性物質に小さな炎を作り出す | 身体動作 | 1秒 | 瞬間 |
+| **暖め** | 小さなエリアの温度を上げる | 身体動作、言葉 | 3秒 | 10分 |
+| **ファイア・ダート** | 小さな炎のボルトを射出する | 身体動作、言葉 | 1秒 | 瞬間 |
+| **ダンシング・ライト** | 小さな制御可能な炎を作り出す | 身体動作 | 2秒 | 集中 |
 
-### Intermediate Spells
+### 中級者向けの呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | 詠唱時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Flame Shield** | Surrounds caster with protective fire | Somatic, Verbal | 3 seconds | 5 minutes |
-| **Heat Metal** | Rapidly raises temperature of metal objects | Somatic, Verbal, Focus | 5 seconds | Concentration |
-| **Fire Resistance** | Grants protection against heat and flame | Somatic, Verbal | 10 seconds | 30 minutes |
-| **Smoke Shape** | Creates and controls smoke formations | Somatic, Fire source | 5 seconds | Concentration |
+| **炎の盾** | 保護用の炎でキャスターを囲む | 身体動作、言葉 | 3秒 | 5分 |
+| **ヒート・メタル** | 金属オブジェクトの温度を急速に上げる | 身体動作、言葉、焦点 | 5秒 | 集中 |
+| **火炎耐性** | 熱と炎に対する保護を付与する | 身体動作、言葉 | 10秒 | 30分 |
+| **煙の整形** | 煙の形成を作り出し、制御する | 身体動作、火源 | 5秒 | 集中 |
 
-### Advanced Spells
+### 上級者向けの呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | 詠唱時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Fireball** | Creates a explosive sphere of flame | Somatic, Verbal, Focus | 3 seconds | Instantaneous |
-| **Fire Elemental** | Summons a semi-autonomous fire entity | Somatic, Verbal, Focus, Fire | 1 minute | 30 minutes |
-| **Immolation** | Surrounds target in clinging flames | Somatic, Verbal, Focus | 5 seconds | Concentration |
-| **Pyroclastic Flow** | Creates a devastating wave of superheated particles | Somatic, Verbal, Focus, Earth | 10 seconds | Instantaneous |
+| **火炎球** | 爆発的な炎の球を作り出す | 身体動作、言葉、焦点 | 3秒 | 瞬間 |
+| **火のエレメンタル** | 半自律的な火のエンティティを召喚する | 身体動作、言葉、焦点、火 | 1分 | 30分 |
+| **焼尽** | しがみつく炎で対象を囲む | 身体動作、言葉、焦点 | 5秒 | 集中 |
+| **火砕流** | 超高温粒子の壊滅的な波を作り出す | 身体動作、言葉、焦点、土 | 10秒 | 瞬間 |
 
-## Affinity Development
+## 親和性の発達
 
-Fire affinity progresses through several distinctive stages:
+火の親和性は、いくつかの特徴的な段階を経て進行します。
 
-### Inner Spark
-The foundational relationship with fire that most beginners possess:
-- **Manifestation**: Slightly elevated body temperature, ability to light small fires with minimal effort
-- **Physical Signs**: Warm hands, occasionally steaming breath in cold weather
-- **Enhancement Method**: Regular meditation near open flames, particularly at dawn or sunset
+### 内なる火花
+ほとんどの初心者が持つ、火との基礎的な関係:
+- **兆候**: わずかに上昇した体温、最小限の労力で小さな火を灯す能力
+- **身体的兆候**: 温かい手、寒い天候では時々蒸気を出す息
+- **強化方法**: 開放的な炎の近くでの定期的な瞑想、特に夜明けまたは日没時
 
-### Flame Resonance
-The intermediate stage where fire responds more readily to the mage's will:
-- **Manifestation**: Fire grows or diminishes in response to emotions, personal resistance to cold
-- **Physical Signs**: Eyes reflect firelight unusually well, fingertips glow slightly during casting
-- **Enhancement Method**: Fire walking rituals, forge work, exposure to varied flame types
+### 炎の共鳴
+火が魔術師の意志に、より容易に応答する中間段階:
+- **兆候**: 感情に応じて炎が成長または減少する、寒さに対する個人的な抵抗
+- **身体的兆候**: 目が異常なほどよく火の光を反射する、詠唱中に指先がわずかに光る
+- **強化方法**: 火渡りの儀式、鍛冶仕事、さまざまな種類の炎への暴露
 
-### Combustion Harmony
-Advanced practitioners achieve a deep resonance with fire's transformative properties:
-- **Manifestation**: Can perceive heat signatures, flames bend toward the caster naturally
-- **Physical Signs**: Blood runs noticeably warm, hair develops reddish highlights
-- **Enhancement Method**: Extended communion at volcanic sites or natural hot springs
+### 燃焼の調和
+上級の実践者は、火の変容特性との深い共鳴を達成します。
+- **兆候**: 熱のシグネチャを知覚できる、炎がキャスターに向かって自然に曲がる
+- **身体的兆候**: 血が著しく暖かく流れる、髪に赤みがかったハイライトが現れる
+- **強化方法**: 火山地帯または天然温泉での長期的な交わり
 
-### Inferno Unity
-Master pyromancers who have achieved profound connection with fire:
-- **Manifestation**: Partial transformation abilities, influence over flame without formal casting
-- **Physical Signs**: Body emits heat visibly in cold environments, eyes develop flickering qualities
-- **Enhancement Method**: Deep communion at ley line intersections with strong fire resonance
+### 業火の統一
+火との深いつながりを達成したマスター炎術師:
+- **兆候**: 部分的な変身能力、正式な詠唱なしで炎に影響を与える
+- **身体的兆候**: 寒い環境で体が目に見える熱を放出する、目にちらつきの性質が発達する
+- **強化方法**: 強力な火の共鳴を持つレイライン交差点での深い交わり
 
-## Risks and Safeguards
+## リスクと安全対策
 
-### Common Risks
+### 一般的なリスク
 
-- **Thermal Damage**: Burns to self or unintended targets
-- **Oxygen Depletion**: Creating flames that consume available air
-- **Combustion Cascade**: Unintended spread of fire beyond controlled area
-- **Thermal Dependency**: Developing discomfort in cold environments
-- **Inner Burning**: Metabolic acceleration causing rapid calorie consumption
+- **熱による損傷**: 自分自身または意図しないターゲットへの火傷
+- **酸素欠乏**: 利用可能な空気を消費する炎を作り出す
+- **燃焼カスケード**: 制御された領域を超えた火の意図しない広がり
+- **熱依存**: 寒い環境での不快感の発達
+- **内なる燃焼**: 代謝の加速による急速なカロリー消費
 
-### Miscast Effects
+### 詠唱ミスの影響
 
-| Severity | Effect | Recovery |
+| 重症度 | 影響 | 回復 |
 |----------|--------|----------|
-| **Minor** | Temporary burns, singed hair, excessive sweating | Hours |
-| **Moderate** | Internal heating, mild fever, spontaneous small flames on contact | Days |
-| **Severe** | Blood heating, uncontrolled fire emissions, thermal regulation failure | Weeks |
-| **Critical** | Spontaneous combustion risk, organ damage from internal heating, pyrokinetic fugue | Months |
+| **軽度** | 一時的な火傷、髪の毛が焦げる、過度の発汗 | 数時間 |
+| **中程度** | 内部の加熱、軽度の発熱、接触時に自発的な小さな炎 | 数日 |
+| **重度** | 血液の加熱、制御不能な火の放出、体温調節の失敗 | 数週間 |
+| **重大** | 自発的な燃焼のリスク、内部加熱による臓器損傷、発火錯乱 | 数か月 |
 
-### Safety Practices
+### 安全慣行
 
-- **Thermal Grounding**: Regular cooling exercises and hydration
-- **Flame Containment**: Practicing with clearly defined boundaries and fireproofing
-- **Emotional Regulation**: Meditation techniques to prevent passion-triggered flare-ups
-- **Environmental Awareness**: Assessing surroundings for fire hazards before casting
-- **Material Selection**: Using appropriate fire-resistant clothing and equipment
+- **熱接地**: 定期的な冷却運動と水分補給
+- **炎の封じ込め**: 明確に定義された境界と耐火性のある状態での練習
+- **感情の調節**: 情熱によって引き起こされるフレアアップを防ぐための瞑想テクニック
+- **環境への意識**: 詠唱前に火災の危険性について周囲を評価する
+- **材料の選択**: 適切な耐火服および機器の使用
 
-## Cultural Significance
+## 文化的意義
 
-### Historical Development
+### 歴史的発展
 
-Fire magic represents humanity's first and most primal magical tradition, with evidence of organized fire rituals dating back to prehistoric times. The development of pyromancy followed three distinct phases:
+炎の魔法は、人類の最初で最も原始的な魔法の伝統を表しており、組織化された火の儀式の証拠は先史時代にまで遡ります。 火術の開発は、次の3つの明確な段階をたどりました。
 
-1. **Survival Application**: Prehistoric peoples developing basic fire creation and control
-2. **Symbolic Purification**: Early civilizations using fire for cleansing rituals and divine communion
-3. **Martial Development**: Formation of organized fire magic traditions for warfare and protection
+1. **生存の応用**: 基本的な火の創造と制御を開発する先史時代の人々
+2. **象徴的な浄化**: 清めの儀式や神との交わりのために火を使用する初期の文明
+3. **武道の発展**: 戦争と保護のための組織化された炎の魔法の伝統の形成
 
-### Regional Variations
+### 地域的なバリエーション
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 焦点 | 署名テクニック | 哲学 |
 |---------|-------|---------------------|------------|
-| **Volcanic Islanders** | Lava manipulation, heat resistance | Magma shaping, obsidian forming | Fire as the world's creator |
-| **Desert Tribes** | Heat management, minimal fuel casting | Sand fire, heat mirage | Fire as the precious lifegiver |
-| **Northern Clans** | Warming techniques, enduring flames | Cold fire, eternal torches | Fire as the defender against darkness |
-| **Forge Cultures** | Metallurgical applications, precision heat | Crucible flames, metal singing | Fire as the great transformer |
+| **火山列島の人々** | 溶岩の操作、耐熱性 | マグマの成形、黒曜石の形成 | 火は世界の創造者 |
+| **砂漠の部族** | 熱管理、最小限の燃料詠唱 | 砂の火、熱の蜃気楼 | 火は貴重な生命の与え手 |
+| **北部の氏族** | 加温技術、永続的な炎 | 冷たい火、永遠のトーチ | 火は暗闇に対する防衛者 |
+| **鍛冶文化** | 冶金学的応用、精密熱 | るつぼの炎、金属の歌 | 火は偉大な変容者 |
 
-### Ceremonial Uses
+### 儀式での使用
 
-Fire magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young pyromancers lighting their first magical flame
-- **Purification Ceremonies**: Cleansing spaces or people through controlled fire
-- **Remembrance Vigils**: Eternal flames to honor ancestors or heroes
-- **Seasonal Festivals**: Major fire workings during solstices and harvest celebrations
+炎の魔法は多くの文化的儀式で顕著に特徴付けられます。
+- **成人儀式**: 若い炎術師が最初の魔法の炎を灯す
+- **浄化の儀式**: 制御された火を通して空間や人々を清める
+- **追悼式典**: 先祖や英雄を称えるための永遠の炎
+- **季節の祭り**: 至点と収穫祭中の主要な火の働き
 
-### Contemporary Applications
+### 現代的な応用
 
-Beyond combat and utility applications, fire magic serves important societal functions:
-- **Manufacturing**: Controlled heat for metallurgy, glassblowing, and crafting
-- **Agriculture**: Controlled burns for field clearing and pest management
-- **Energy Production**: Sustainable heat sources for power generation
-- **Medicine**: Cauterization, sterilization, and thermal therapy
-- **Culinary Arts**: Specialized cooking techniques using magical flames
+戦闘およびユーティリティアプリケーション以外に、炎の魔法は重要な社会的機能を果たします。
+- **製造業**: 冶金、ガラス吹き、および工芸品のための制御された熱
+- **農業**: 畑の開墾と害虫駆除のための制御された焼却
+- **エネルギー生産**: 発電のための持続可能な熱源
+- **医学**: 焼灼、滅菌、および温熱療法
+- **料理芸術**: 魔法の炎を使用した特殊な調理技術
 
-> *"The student of fire must remember that the same flame that destroys a forest nurtures new growth. Master not just the power of the flame, but the wisdom to know when to kindle and when to extinguish."* — The Pyromancer's Credo
+> *"火の学徒は、森林を破壊するのと同じ炎が、新たな成長を育むことを覚えておく必要があります。炎の力だけでなく、いつ火を灯し、いつ消すべきかを知る知恵を習得しなさい。"* — 炎術師の信条
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Water Magic](/codex/Magics/Elements/WaterMagic.md), [Light Magic](/codex/Magics/Elements/LightMagic.md)* 
+*参照: [元素魔法](/codex/Magics/Elements/ElementalMagic.md), [水の魔法](/codex/Magics/Elements/WaterMagic.md), [光の魔法](/codex/Magics/Elements/LightMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,135 +1,139 @@
-# **Warrior**: The Masters of Physical Combat
+# **Warrior**: 肉体戦闘の達人
 
-[**Warriors**](/codex/Classes/Warrior/Warrior.md) are the embodiments of physical power and martial prowess, their bodies honed through rigorous training and battle experience. Their existence resonates with the material world, creating a symphony of strength, skill, and tactical expertise.
+[**Warrior**](/codex/Classes/Warrior/Warrior.md)（戦士）は、肉体的な力と武術の腕前の具現化であり、厳しい訓練と戦闘経験を通して体を鍛え上げています。彼らの存在は物質世界と共鳴し、強さ、技術、戦術的専門知識の交響曲を生み出します。
 
-## Elemental Composition
+## 元素組成
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **warriors** creates a distinctive harmony that favors physical might:
+[Classes](/codex/Classes/Classes.md)（クラス）で詳述されているように、**warriors**（戦士）の典型的な比率は、肉体的な力を重視する独特の調和を生み出します。
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | Exceptional physical foundation providing superior strength, endurance, and resilience |
-| **Soul** | 20-35% | Balanced consciousness supporting tactical awareness and combat intuition |
-| **Mana Capacity** | 10-25% | Limited magical potential typically channeled into enhancing physical capabilities |
+| **Exanthis** | 50-70% | 優れた体力、持久力、回復力をもたらす、比類なき肉体的基盤 |
+| **Soul** | 20-35% | 戦術的認識と戦闘の直感に貢献する、バランスの取れた意識 |
+| **Mana Capacity** | 10-25% | 通常は身体能力の向上に注がれる、限られた魔法の可能性 |
 
-This composition grants **warriors** their characteristic physical prowess at the cost of magical versatility. Their bodies are like well-forged weapons, designed primarily for physical combat rather than arcane manipulation.
+この組成により、**warriors**（戦士）は魔法の多様性を犠牲にして、特徴的な身体能力を得ています。彼らの体は、奥義の操作というよりは、主に肉弾戦のために設計された、よく鍛えられた武器のようです。
 
-### Magical Affinity Profile
+### 魔法適性プロファイル
 
-Despite their limited Mana Capacity, **warriors** typically develop specific affinities that complement their martial abilities:
+Mana Capacity（マナ容量）は限られていますが、**warriors**（戦士）は通常、彼らの武術能力を補完する特定の適性を発達させます。
 
 | Warrior Tradition | Primary Affinities | Secondary Affinities | Typical Application |
 |-----------------|-------------------|---------------------|---------------------|
-| **Berserker** | Pyromana (Intensity, Consumption) | Base Mana (Endurance) | Battle fury, enhanced strength, pain suppression |
-| **Guardian** | Terramana (Stability, Protection) | Base Mana (Resilience) | Damage mitigation, defensive stances, immovability |
-| **Duelist** | Aeromana (Speed, Precision) | Luxmana (Awareness) | Enhanced reflexes, precision strikes, battlefield assessment |
-| **Warlord** | Base Mana (Command) | Varies by specialty | Battlefield control, intimidation, tactical coordination |
-| **Weaponmaster** | Base Mana (Extension) | Varies by weapon | Weapon enhancement, specialized techniques, supernatural precision |
-| **Juggernaut** | Terramana (Weight, Momentum) | Pyromana (Force) | Overwhelming attacks, unstoppable charges, ground-breaking strikes |
+| **Berserker** | Pyromana (Intensity, Consumption) | Base Mana (Endurance) | 戦闘狂乱、強化された力、痛みの抑制 |
+| **Guardian** | Terramana (Stability, Protection) | Base Mana (Resilience) | ダメージ軽減、防御姿勢、不動 |
+| **Duelist** | Aeromana (Speed, Precision) | Luxmana (Awareness) | 反射神経の向上、精密な攻撃、戦場評価 |
+| **Warlord** | Base Mana (Command) | Varies by specialty | 戦場支配、威嚇、戦術的連携 |
+| **Weaponmaster** | Base Mana (Extension) | Varies by weapon | 武器の強化、特殊な技術、超自然的な精度 |
+| **Juggernaut** | Terramana (Weight, Momentum) | Pyromana (Force) | 圧倒的な攻撃、止められない突撃、地を砕く一撃 |
 
-Warriors typically achieve 40-60% specialization efficiency with their primary affinities, focusing on practical application rather than theoretical mastery. This specialization reflects their combat-oriented training and pragmatic approach to magical energy.
+Warriors（戦士）は通常、一次親和性で40〜60％の専門効率を達成し、理論的な習得よりも実用的な応用を重視します。この専門性は、彼らの戦闘志向の訓練と魔法エネルギーに対する実用的なアプローチを反映しています。
 
-### Species-Specific Variations
+### 種族固有のバリエーション
 
-Different species show varying natural inclinations toward the warrior class:
+種族によって、戦士クラスへの自然な傾向が異なります。
 
-- **Humans** (45-65% Exanthis, 20-35% Soul, 10-25% Mana Capacity): Their adaptability allows them to develop diverse fighting styles balanced between strength and technique.
-- **Dwarves** (60-75% Exanthis, 15-25% Soul, 5-15% Mana Capacity): Their natural physical resilience makes them exceptional tanks and heavy weapon specialists.
-- **Orcs** (65-80% Exanthis, 10-20% Soul, 5-15% Mana Capacity): Their raw physical power makes them devastating front-line fighters with exceptional offensive capabilities.
-- **Minotaurs** (70-85% Exanthis, 10-20% Soul, 5-10% Mana Capacity): Their massive frames and natural strength make them unparalleled in terms of raw power and intimidation.
-- **Leonin** (55-70% Exanthis, 20-30% Soul, 10-15% Mana Capacity): Their predatory instincts grant them superior combat reflexes and tactical awareness.
+- **Humans** (45-65% Exanthis, 20-35% Soul, 10-25% Mana Capacity): 彼らの適応力により、強さと技術のバランスが取れた多様な戦闘スタイルを開発することができます。
+- **Dwarves** (60-75% Exanthis, 15-25% Soul, 5-15% Mana Capacity): 彼らの生来の身体的回復力は、彼らを卓越したタンクと重火器のスペシャリストにします。
+- **Orcs** (65-80% Exanthis, 10-20% Soul, 5-15% Mana Capacity): 彼らの生来の肉体的な力は、彼らを卓越した攻撃能力を備えた破壊的な最前線の戦闘員にします。
+- **Minotaurs** (70-85% Exanthis, 10-20% Soul, 5-10% Mana Capacity): 彼らの巨大な体格と生来の力は、生身の力と威嚇の点で比類のないものにしています。
+- **Leonin** (55-70% Exanthis, 20-30% Soul, 10-15% Mana Capacity): 彼らの捕食本能は、彼らに優れた戦闘反射神経と戦術的認識を与えます。
 
-## Physical Characteristics
+## 身体的特徴
 
-**Warriors** are known for their strength and martial prowess:
-- Muscular build with well-defined physique, like a finely crafted weapon
-- Eyes that reflect determination and focus, showing their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hands calloused from years of weapon training, like a musician's fingers adapted to their instrument
-- Presence that commands attention, like a powerful chord that resonates through a room
-- Stance that exudes confidence and readiness, like a performer poised to begin
+**Warriors**（戦士）は、その強さと武術の腕前で知られています。
+- 武器として見事に作られたかのように、筋肉質の体格とよく発達した肉体
+- [**Exanthis**](/codex/Basic/Exanthis.md)（エクサンティス）とのつながりを示す、決意と集中力を反映した目
+- 長年の武器の訓練でタコのできた手は、楽器に適応した音楽家の指のよう
+- 部屋に響き渡る力強い和音のように、注目を集める存在感
+- パフォーマーが始める姿勢のように、自信と準備ができている構え
 
-## Combat Affinity
+## 戦闘適性
 
-**Warriors** demonstrate exceptional proficiency in physical combat, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Wield weapons with extraordinary precision, like conductors leading an orchestra
-- Endure physical punishment that would incapacitate others, like a drum that can withstand powerful strikes
-- Execute complex combat maneuvers with grace and power, like dancers performing a martial ballet
+**Warriors**（戦士）は、楽器をマスターした名音楽家のように、肉体戦闘において卓越した能力を発揮します。彼らの組成は、彼らが以下を可能にします。
+- オーケストラを率いる指揮者のように、並外れた精度で武器を振るう
+- 強力な打撃に耐えることができるドラムのように、他の者を無力化するような肉体的な罰に耐える
+- マーシャルバレエを踊るダンサーのように、優雅さと力で複雑な戦闘機動を実行する
 
-This specialization makes **warriors** capable of achieving the highest levels of proficiency in their chosen combat styles, though they may struggle with tasks requiring subtlety or magical finesse, like a powerful instrument that produces beautiful sounds but cannot play delicate passages.
+この専門性により、**warriors**（戦士）は選択した戦闘スタイルで最高レベルの熟練度を達成することができますが、美しい音を出すことはできるが繊細なパッセージを演奏することはできない強力な楽器のように、微妙さや魔法の腕前を必要とするタスクには苦労する可能性があります。
 
-## Training and Development
+## 訓練と育成
 
-The path of a **warrior** involves rigorous physical training and mental discipline:
-- Daily weapon practice and combat drills, like musicians practicing scales
-- Physical conditioning to build strength and endurance, like tuning an instrument for optimal performance
-- Study of combat tactics and strategies, like learning the theory behind musical composition
-- Meditation to develop focus and mental clarity, like finding the quiet center before a performance
+**warrior**（戦士）の道は、厳格な身体訓練と精神修養を伴います。
+- 音楽家が音階を練習するように、毎日の武器の練習と戦闘訓練
+- 楽器を最適なパフォーマンスのために調整するように、筋力と持久力を構築するための体力調整
+- 楽譜の背後にある理論を学ぶように、戦闘戦術と戦略の研究
+- パフォーマンスの前に静かな中心を見つけるように、集中力と精神的な明晰さを養うための瞑想
 
-## Equipment and Gear
+## 装備とギア
 
-**Warriors** rely on various equipment to enhance their combat abilities:
-- Weapons ranging from swords and axes to spears and bows, like different instruments for different performances
-- Armor that provides protection while allowing mobility, like a well-fitted case for a precious instrument
-- Combat accessories such as shields, throwing weapons, and grappling tools, like accessories that enhance an instrument's capabilities
+**Warriors**（戦士）は、戦闘能力を向上させるために、さまざまな装備に依存しています。
+- さまざまなパフォーマンスのためのさまざまな楽器のように、剣や斧から槍や弓まで、さまざまな武器
+- 貴重な楽器のケースのように、機動性を可能にしながら保護を提供する鎧
+- 楽器の機能を強化するアクセサリーのように、盾、投擲武器、グラップリングツールなどの戦闘アクセサリー
 
-## Subclasses
+## サブクラス
 
-**Warriors** can specialize in various combat styles and roles:
+**Warriors**（戦士）は、さまざまな戦闘スタイルと役割に特化することができます。
 
-### [**Guardian**](/codex/Classes/Warrior/Guardian.md)
+### [**Guardian**](/codex/Classes/Warrior/Guardian.md)（ガーディアン）
 
-Guardians focus on defensive combat, emphasizing the protection of others. They excel at:
-- Blocking and intercepting attacks directed at allies
-- Creating defensive formations that protect groups
-- Using shields and defensive stances to maximize protection
+ガーディアンは防御戦闘に焦点を当て、他の者の保護を重視します。彼らは以下に優れています。
+- 同盟国に向けられた攻撃を阻止して迎撃する
+- グループを保護する防御陣形を作成する
+- 盾と防御姿勢を使用して保護を最大化する
 
-### [**Berserker**](/codex/Classes/Warrior/Berserker.md)
+### [**Berserker**](/codex/Classes/Warrior/Berserker.md)（バーサーカー）
 
-Berserkers enter a battle rage that enhances their combat abilities. They excel at:
-- Dealing massive damage in close combat
-- Entering a trance-like state that enhances strength and reduces pain
-- Intimidating enemies with their ferocious presence
+バーサーカーは戦闘能力を高める戦闘狂乱状態に入ります。彼らは以下に優れています。
+- 近接戦闘で大量のダメージを与える
+- 力が強まり痛みが軽減されるトランスのような状態に入る
+- 彼らの猛烈な存在で敵を威嚇する
 
-### [**Duelist**](/codex/Classes/Warrior/Duelist.md)
+### [**Duelist**](/codex/Classes/Warrior/Duelist.md)（デュエリスト）
 
-Duelists specialize in one-on-one combat, emphasizing precision and technique. They excel at:
-- Fencing and swordplay with light weapons
-- Reading opponents and exploiting weaknesses
-- Performing complex combat maneuvers with grace
+デュエリストは一対一の戦闘を専門とし、精度と技術を重視します。彼らは以下に優れています。
+- 軽い武器を使ったフェンシングと剣術
+- 対戦相手を読み、弱点を突く
+- 優雅さで複雑な戦闘機動を実行する
 
-### [**Commander**](/codex/Classes/Warrior/Commander.md)
+### [**Commander**](/codex/Classes/Warrior/Commander.md)（コマンダー）
 
-Commanders lead groups in combat, coordinating their efforts for maximum effectiveness. They excel at:
-- Tactical planning and battlefield awareness
-- Inspiring and directing allies in combat
-- Adapting strategies to changing battlefield conditions
+コマンダーは戦闘でグループを率い、最大の効果を発揮するために彼らの努力を調整します。彼らは以下に優れています。
+- 戦術計画と戦場認識
+- 戦闘で同盟国を鼓舞し、指揮する
+- 変化する戦場の状況に適応する戦略
 
-### [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md)
+### [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md)（ウェポンマスター）
 
-Weaponmasters master multiple weapons and combat styles, adapting to any situation. They excel at:
-- Proficiency with a wide variety of weapons
-- Switching between combat styles as needed
-- Combining different weapons and techniques
+ウェポンマスターは複数の武器と戦闘スタイルを習得し、あらゆる状況に適応します。彼らは以下に優れています。
+- 幅広い種類の武器の習熟
+- 必要に応じて戦闘スタイルを切り替える
+- さまざまな武器と技術を組み合わせる
 
-## Notable Warrior Traits
+## 注目すべき戦士の特性
 
-- **Combat Mastery**: Warriors excel in physical combat, often specializing in specific weapons or styles
-- **Physical Resilience**: Warriors can endure physical punishment that would incapacitate others
-- **Tactical Awareness**: Warriors develop keen awareness of battlefield conditions and combat dynamics
-- **Leadership**: Many warriors develop natural leadership abilities through combat experience
-- **Discipline**: Warriors maintain rigorous training regimens to maintain their combat abilities
+- **Combat Mastery**: 戦士は肉体戦闘に優れており、特定の武器やスタイルに特化することがよくあります
+- **Physical Resilience**: 戦士は他の者を無力化するような肉体的な罰に耐えることができます
+- **Tactical Awareness**: 戦士は戦場の状況と戦闘のダイナミクスの鋭い認識を発達させます
+- **Leadership**: 多くの戦士は戦闘経験を通して生来のリーダーシップ能力を発達させます
+- **Discipline**: 戦士は戦闘能力を維持するために厳格なトレーニングプログラムを維持します
 
-## Warrior Traditions
+## 戦士の伝統
 
-Warrior society is organized into numerous traditions, each with its own specialties and techniques:
+戦士社会は多数の伝統に組織されており、それぞれが独自の専門性と技術を持っています。
 
 | Tradition | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
-| **Blade Dancers** | Swordplay, grace | Urban centers | Elegant combat style, precision strikes |
-| **Iron Legion** | Heavy armor, formation fighting | Military fortresses | Defensive formations, shield walls |
-| **Wild Hunters** | Tracking, survival | Wilderness regions | Tracking abilities, survival skills |
-| **Storm Riders** | Cavalry, mounted combat | Plains and grasslands | Mounted combat, mobility |
-| **Shadow Blades** | Stealth, assassination | Urban shadows | Stealth techniques, surprise attacks |
-| **Dragon Slayers** | Monster hunting, specialized weapons | Monster territories | Monster knowledge, specialized techniques |
+| **Blade Dancers** | 剣術、優雅さ | 都市の中心部 | エレガントな戦闘スタイル、精密な攻撃 |
+| **Iron Legion** | 重い鎧、陣形戦闘 | 軍事要塞 | 防御陣形、盾の壁 |
+| **Wild Hunters** | 追跡、サバイバル | 未開拓の地域 | 追跡能力、サバイバルスキル |
+| **Storm Riders** | 騎兵、騎馬戦闘 | 平原と草原 | 騎馬戦闘、機動性 |
+| **Shadow Blades** | ステルス、暗殺 | 都市の影 | ステルス技術、奇襲攻撃 |
+| **Dragon Slayers** | モンスター狩り、特殊武器 | モンスターのテリトリー | モンスターの知識、特殊技術 |
 
-Understanding the nature of **warriors** provides insight into the martial aspects of the world of **OpenFantasy**, like listening to the powerful rhythms that drive the symphony of battle. 
+**warriors**（戦士）の本質を理解することは、戦いの交響曲を駆り立てる力強いリズムを聴くように、**OpenFantasy**の世界の武術的側面への洞察を提供します。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

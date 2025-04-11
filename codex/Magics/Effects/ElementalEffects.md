@@ -40,4 +40,8 @@ The manipulation of elemental forces produces both intended and unintended conse
 
 ---
 
-*This document is under development. See [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) for more information on the fundamentals of elemental forces.* 
+*This document is under development. See [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) for more information on the fundamentals of elemental forces.*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

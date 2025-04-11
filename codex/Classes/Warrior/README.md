@@ -1,83 +1,87 @@
-# Warrior Class
+# ウォーリアー（戦士）クラス
 
-> *"A warrior's strength lies not only in their arm, but in their resolve to stand when others fall."*
+> *"戦士の強さは腕力だけにあらず。仲間の倒れる中、立ち続ける覚悟にある。"*
 
-## Quick Navigation
+## クイックナビゲーション
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Warrior](#playing-a-warrior)
-- [Notable Traits](#notable-traits)
+- [概要](#overview)
+- [クラス構成](#class-composition)
+- [サブクラス](#subclasses)
+- [ウォーリアーのプレイ](#playing-a-warrior)
+- [注目すべき特徴](#notable-traits)
 
-## Overview
+## 概要
 
-Warriors are masters of physical combat, channeling their exceptional **Exanthis** to perform feats of strength and martial prowess. Like a powerful drum driving the rhythm of battle, they provide the foundation upon which armies are built and legends are forged.
+ウォーリアーは、卓越した **Exanthis** を駆使し、並外れた力と武術の腕前を発揮する、物理戦闘の達人です。戦いのリズムを刻む力強い太鼓のように、彼らは軍隊が築かれ、伝説が生まれる基盤となります。
 
-## Class Composition
+## クラス構成
 
-| Element | Typical Range | Function |
+| エレメント | 標準範囲 | 機能 |
 |---------|---------------|----------|
-| **Exanthis** | 50-70% | Physical prowess with exceptional strength and durability |
-| **Soul** | 20-40% | Consciousness that enables tactical thinking and willpower |
-| **Mana Capacity** | 5-15% | Limited magical potential but sufficient for combat enhancements |
+| **Exanthis** | 50-70% | 並外れた力と耐久性を備えた、肉体的能力 |
+| **Soul** | 20-40% | 戦術的な思考と意志力を可能にする意識 |
+| **Mana Capacity** | 5-15% | 限定的な魔法の可能性を持つが、戦闘の強化には十分 |
 
-This elemental balance grants warriors their characteristic physical might while limiting their magical capabilities.
+このエレメンタルのバランスが、戦士に特徴的な肉体的な力をもたらすと同時に、魔法の能力を制限します。
 
-## Subclasses
+## サブクラス
 
-Warriors can specialize in several distinct combat disciplines:
+ウォーリアーは、いくつかの異なる戦闘分野を専門とすることができます。
 
-| Subclass | Focus | Specialty |
+| サブクラス | 焦点 | 専門 |
 |----------|-------|-----------|
-| [**Guardian**](Guardian.md) | Defense | Protecting allies and controlling battlefield space |
-| [**Berserker**](Berserker.md) | Offensive fury | Channeling rage into devastating attacks |
-| [**Duelist**](Duelist.md) | Precision combat | Excelling in one-on-one engagements |
-| [**Commander**](Commander.md) | Leadership | Coordinating allies for maximum effectiveness |
-| [**Weaponmaster**](Weaponmaster.md) | Versatility | Mastering multiple weapons and combat styles |
+| [**Guardian**](Guardian.md) | 防御 | 味方を守り、戦場のスペースをコントロールする |
+| [**Berserker**](Berserker.md) | 攻撃的な狂気 | 怒りを壊滅的な攻撃に転換する |
+| [**Duelist**](Duelist.md) | 精密戦闘 | 一対一の戦いに秀でている |
+| [**Commander**](Commander.md) | リーダーシップ | 味方を調整して最大の効果を発揮する |
+| [**Weaponmaster**](Weaponmaster.md) | 多様性 | 複数の武器と戦闘スタイルを習得する |
 
-## Playing a Warrior
+## ウォーリアーのプレイ
 
-### Core Abilities
+### コアアビリティ
 
-- **Weapon Proficiency**: Expertise with a wide range of armaments
-- **Combat Endurance**: Exceptional stamina in prolonged battles
-- **Tactical Awareness**: Understanding battlefield positioning and advantage
-- **Physical Resilience**: Resistance to injury and fatigue
+- **Weapon Proficiency**: 広範囲な武器の専門知識
+- **Combat Endurance**: 長期戦における並外れたスタミナ
+- **Tactical Awareness**: 戦場の位置取りと優位性を理解する
+- **Physical Resilience**: 怪我や疲労に対する耐性
 
-### Common Equipment
+### 一般的な装備
 
-- **Weapons**: Diverse armaments from swords and axes to bows and spears
-- **Armor**: Protective gear ranging from light to heavy plating
-- **Shields**: Defensive implements for blocking and controlling space
-- **Battle Accessories**: Bracers, greaves, and other protective items
+- **Weapons**: 剣や斧から弓や槍まで、多様な武器
+- **Armor**: 軽装から重装まで、保護具
+- **Shields**: ブロックとスペースコントロールのための防御用具
+- **Battle Accessories**: 腕甲、脛当て、その他の保護アイテム
 
-### Species Affinities
+### 種族の親和性
 
-| Species | Affinity | Notable Traits |
+| 種族 | 親和性 | 注目すべき特徴 |
 |---------|----------|----------------|
-| **Humans** | High | Adaptable combat styles, balanced capabilities |
-| **Dwarves** | Very High | Natural durability, exceptional strength |
-| **Dragonkin** | High | Natural armor, heightened battle instincts |
-| **Beastfolk** | Moderate-High | Enhanced reflexes, natural weapon affinity |
-| **Elves** | Moderate | Precision and grace rather than raw power |
+| **Humans** | 高 | 適応可能な戦闘スタイル、バランスの取れた能力 |
+| **Dwarves** | 非常に高い | 生まれつきの耐久性、並外れた力 |
+| **Dragonkin** | 高 | 生まれつきの鎧、高められた戦闘本能 |
+| **Beastfolk** | 中〜高 | 強化された反射神経、生まれつきの武器への親和性 |
+| **Elves** | 中 | 生の力よりも正確さと優雅さ |
 
-## Notable Traits
+## 注目すべき特徴
 
-### Strengths
+### 強み
 
-- Unmatched physical combat capabilities
-- High endurance and survivability in difficult conditions
-- Ability to protect allies from physical threats
-- Effectiveness against a wide range of opponents
+- 比類のない物理戦闘能力
+- 困難な状況下での高い耐久性と生存力
+- 物理的な脅威から味方を守る能力
+- 広範囲の敵に対する有効性
 
-### Challenges
+### 課題
 
-- Limited magical capabilities and countermeasures
-- Vulnerability to enchantments and illusions
-- Reliance on physical resources and equipment
-- Difficulty facing enemies that cannot be harmed by conventional weapons
+- 限定的な魔法の能力と対抗手段
+- 魔法や幻覚に対する脆弱性
+- 物理的なリソースと装備への依存
+- 従来の武器では傷つけることができない敵に直面することの難しさ
 
 ---
 
-> See [Warrior.md](Warrior.md) for detailed information about the warrior class in OpenFantasy. 
+> OpenFantasy のウォーリアー クラスに関する詳細については、[Warrior.md](Warrior.md) を参照してください。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,151 +1,155 @@
-# **The School of Divination**
+# **占いの学校**
 
-> *"To see beyond sight is to understand that time and space are but suggestions to those who know how to listen."*  
-> — Archmage Thalindra Starwhisper, Oracle of the Seventh Veil
+> *"視覚を超えて見ることは、時間と空間が、聞き方を知る者に対する提案に過ぎないことを理解することである。"*
+> — 大魔術師タリンドラ・スターウィスパー、第七のベールの神託
 
-## Overview
+## 概要
 
-Divination magic focuses on gaining insight, knowledge, and understanding beyond ordinary perception. Unlike illusion magic which creates false perceptions, divination enhances and extends perception to reveal hidden truths about the past, present, and possible futures. Divination is considered one of the most subtle and complex magical arts, requiring exceptional mana control and mental discipline.
+占い魔法は、通常の知覚を超えた洞察、知識、理解を得ることに焦点を当てています。虚偽の知覚を作り出す幻影魔法とは異なり、占いは知覚を強化および拡張して、過去、現在、および起こりうる未来についての隠された真実を明らかにします。占いは、最も微妙で複雑な魔法の芸術の1つと見なされており、並外れたマナ制御と精神的な鍛錬を必要とします。
 
-## Fundamental Principles
+## 基本原則
 
-### The Threads of Fate
+### 運命の糸
 
-Divination operates on the principle that all events, objects, and beings are connected by invisible threads of causality and resonance. These "Threads of Fate" contain information about their connections, origins, and potential futures. Divination magic allows practitioners to perceive and interpret these threads.
+占いは、すべての出来事、物体、存在は見えない因果関係と共鳴の糸で結ばれているという原則に基づいて機能します。これらの「運命の糸」には、それらのつながり、起源、および潜在的な未来に関する情報が含まれています。占い魔法により、実践者はこれらの糸を知覚し、解釈することができます。
 
-The four fundamental aspects of divinatory perception are:
+占いの知覚の4つの基本的な側面は次のとおりです。
 
-1. **Temporal Echoes**: Residual information from past events
-2. **Spatial Connections**: Links between related objects, places, and beings
-3. **Causal Patterns**: The web of cause and effect that shapes events
-4. **Potential Futures**: Probability streams of what may come to pass
+1.  **時間的エコー**: 過去の出来事からの残存情報
+2.  **空間的つながり**: 関連する物体、場所、および存在間のリンク
+3.  **因果パターン**: 出来事を形作る原因と結果の網
+4.  **潜在的な未来**: 起こりうることの確率ストリーム
 
-### Mana Requirements
+### マナ要件
 
-Divination magic requires precise mana composition:
+占い魔法には、正確なマナ構成が必要です。
 
-| Divinatory Focus | Primary Mana | Secondary Mana | Purpose |
+| 占いフォーカス | 主要マナ | 副次マナ | 目的 |
 |------------------|-------------|----------------|---------|
-| Present Sensing | Base Mana (50-70%) | Varies by target | Foundation for perception extension |
-| Past Viewing | Chronomana (40-60%) | Base Mana (30-40%) | Accessing temporal echoes |
-| Future Glimpsing | Chronomana (60-80%) | Umbramana (10-20%) | Probability stream navigation |
-| Object Reading | Base Mana (40-60%) | Terramana (30-40%) | Material memory extraction |
-| Life Reading | Base Mana (30-50%) | Floramana/Faunamana (40-50%) | Biological connection tracing |
-| Distant Viewing | Aeromana (50-70%) | Base Mana (20-30%) | Spatial perception extension |
+| 現在感知 | ベースマナ (50-70%) | ターゲットによって異なる | 知覚拡張の基礎 |
+| 過去視 | クロノマナ (40-60%) | ベースマナ (30-40%) | 時間的エコーへのアクセス |
+| 未来垣間見 | クロノマナ (60-80%) | ウンブラマナ (10-20%) | 確率ストリームナビゲーション |
+| 物体リーディング | ベースマナ (40-60%) | テラマナ (30-40%) | 物質的な記憶抽出 |
+| 生命リーディング | ベースマナ (30-50%) | フロラマナ/ファウナマナ (40-50%) | 生物学的接続の追跡 |
+| 遠隔視 | エアロマナ (50-70%) | ベースマナ (20-30%) | 空間的知覚拡張 |
 
-More powerful divination spells often require complex harmonization of multiple mana types, with precise ratios that must be maintained throughout the casting process.
+より強力な占い呪文では、多くの場合、複数のマナタイプの複雑な調和が必要であり、詠唱プロセス全体で正確な比率を維持する必要があります。
 
-### Wild Mana Interference
+### ワイルドマナ干渉
 
-Divination is extraordinarily vulnerable to Wild Mana contamination. The unpatterned nature of Wild Mana creates "false threads" that can lead to inaccurate readings or dangerous misinterpretations. Effects include:
+占いは、ワイルドマナの汚染に対して非常に脆弱です。ワイルドマナのパターン化されていない性質は、「偽の糸」を作成し、不正確なリーディングや危険な誤解につながる可能性があります。効果は次のとおりです。
 
-- **Temporal Distortion**: Viewing events from incorrect time periods
-- **False Positives**: Seeing connections that don't actually exist
-- **Probability Cascade**: Overwhelming the caster with multiple conflicting futures
-- **Perceptual Anchoring**: The caster becoming trapped in a divinatory vision
+-   **時間的歪み**: 正しくない時間帯からの出来事の表示
+-   **偽陽性**: 実際には存在しないつながりを見ること
+-   **確率カスケード**: 複数の矛盾する未来で術者を圧倒する
+-   **知覚固定**: 術者が占いのビジョンに閉じ込められる
 
-Advanced practitioners develop specialized Wild Mana filtering techniques to minimize these risks.
+高度な実践者は、これらのリスクを最小限に抑えるために、特殊なワイルドマナフィルタリング技術を開発します。
 
-## Mana Purification for Divination
+## 占いのためのマナ浄化
 
-Divination requires exceptionally high mana purity due to the subtle nature of the information being accessed. The purification process focuses on achieving "Perceptual Clarity" - a state where the mana is refined to eliminate any elements that would create false perceptions.
+占いは、アクセスされる情報の微妙な性質のために、非常に高いマナ純度を必要とします。浄化プロセスは、「知覚的明晰さ」の達成に焦点を当てています。これは、虚偽の知覚を生み出す可能性のある要素を排除するようにマナが洗練された状態です。
 
-| Purification Level | Divination Capability |
+| 浄化レベル | 占い能力 |
 |--------------------|----------------------|
-| Basic (20-30%) | Simple object reading and magical detection |
-| Intermediate (35-50%) | Short-range scrying and basic past viewing |
-| Advanced (55-70%) | Reliable future glimpsing and detailed past viewing |
-| Master (75-85%) | Long-range viewing with high accuracy and clarity |
-| Grandmaster (90%+) | Multi-temporal perception and probability manipulation |
+| 基本 (20-30%) | 簡単なオブジェクトリーディングと魔法の検出 |
+| 中級 (35-50%) | 短距離透視と基本的な過去視 |
+| 上級 (55-70%) | 信頼できる未来垣間見と詳細な過去視 |
+| マスター (75-85%) | 高い精度と明瞭さを備えた長距離視 |
+| グランドマスター (90%+) | 複数時相の知覚と確率操作 |
 
-## Magical Resonance in Divination
+## 占いにおける魔法共鳴
 
-Divination exhibits unique resonance patterns described as "harmonic perception" - where the mana pattern synchronizes with the information being sought, allowing it to be perceived and interpreted by the caster.
+占いは、「調和的知覚」と記述される独特の共鳴パターンを示します。ここで、マナパターンは、求められている情報と同期し、術者が知覚および解釈できるようになります。
 
-This resonance is highly personal, which is why divination results can vary between practitioners even when viewing the same target. Each diviner develops a unique "perceptual signature" that colors their interpretation of divinatory information.
+この共鳴は非常に個人的であるため、同じターゲットを表示する場合でも、占い結果は実践者によって異なる場合があります。各占い師は、占いの情報の解釈に色を付ける独自の「知覚署名」を開発します。
 
-## Specialized Disciplines
+## 特殊な分野
 
-### Chronomancy
+### クロノマンシー
 
-Focused on viewing events across time, particularly the past and possible futures. Practitioners are known as Chronoseers.
+時間、特に過去と起こりうる未来にわたる出来事の表示に焦点を当てています。実践者はクロノシーアと呼ばれます。
 
-### Psychometry
+### サイコメトリー
 
-The art of reading objects to perceive information about their history, owners, and significance. Masters are called Memoryreaders.
+オブジェクトを読んで、その歴史、所有者、および重要性に関する情報を知覚する技術。マスターはメモリーリーダーと呼ばれます。
 
-### Spatial Scrying
+### 空間透視
 
-Specializes in viewing distant locations in the present moment. Practitioners are known as Farseers.
+現在の瞬間に遠隔地を表示することを専門としています。実践者はファシーアと呼ばれます。
 
-### Auramancy
+### オーラマンシー
 
-The discipline of perceiving and interpreting the magical and life energies that surround beings. Practitioners are called Aurasights.
+存在を取り巻く魔法と生命エネルギーを知覚および解釈する分野。実践者はオーラサイトと呼ばれます。
 
-### Probability Mapping
+### 確率マッピング
 
-Advanced discipline focused on identifying and navigating potential futures. Masters are known as Fateweavers.
+潜在的な未来を特定およびナビゲートすることに焦点を当てた高度な分野。マスターはフェイトウィーバーと呼ばれます。
 
-## Training Methodology
+## 訓練方法論
 
-Divination training follows a methodical progression:
+占い訓練は、体系的な進行に従います。
 
-1. **Perceptual Expansion**: Learning to extend awareness beyond physical senses
-2. **Signal Isolation**: Developing the ability to focus on specific information threads
-3. **Wild Mana Filtering**: Techniques for eliminating perceptual contamination
-4. **Temporal Navigation**: Methods for shifting perceptual focus through time
-5. **Interpretation Rigor**: Developing systematic approaches to analyzing divinatory information
-6. **Multi-Threading**: Advanced techniques for following multiple information streams
-7. **Anchoring Practices**: Methods to maintain connection to present reality during deep divination
+1.  **知覚拡張**: 物理的な感覚を超えて意識を拡張することを学ぶ
+2.  **信号分離**: 特定の情報スレッドに焦点を当てる能力の開発
+3.  **ワイルドマナフィルタリング**: 知覚汚染を排除するための技術
+4.  **時間ナビゲーション**: 時間を通して知覚焦点をシフトする方法
+5.  **解釈厳格**: 占い情報を分析するための体系的なアプローチの開発
+6.  **マルチスレッディング**: 複数の情報ストリームを追跡するための高度な技術
+7.  **固定プラクティス**: 深い占い中に現在の現実への接続を維持する方法
 
-## Ethical Considerations
+## 倫理的考察
 
-Divination raises significant ethical concerns regarding privacy, free will, and responsibility:
+占いは、プライバシー、自由意志、および責任に関して重大な倫理的懸念を引き起こします。
 
-- **Perceptual Consent**: The question of whether viewing others without permission violates their autonomy
-- **Future Knowledge**: The ethical implications of acting on knowledge of potential futures
-- **Intervention Responsibility**: Whether diviners have an obligation to prevent foreseen harms
-- **Truth Disclosure**: Guidelines about sharing potentially harmful divinatory information
+-   **知覚的同意**: 許可なく他人を見ることは、彼らの自律性を侵害するかどうかという問題
+-   **未来知識**: 潜在的な未来の知識に基づいて行動することの倫理的意味合い
+-   **介入責任**: 占い師は、予見された危害を防ぐ義務があるかどうか
+-   **真実開示**: 潜在的に有害な占い情報を共有することに関するガイドライン
 
-Most reputable magical institutions enforce strict codes of conduct for diviners, including restrictions on divining private moments and requirements to report certain categories of foreseen threats.
+ほとんどの評判の良い魔法機関は、私的な瞬間を占うことの制限や、予見された脅威の特定のカテゴリを報告する要件など、占い師のための厳格な行動規範を施行しています。
 
-## Limitations and Countermeasures
+## 制限と対策
 
-Despite its power, divination has inherent limitations:
+その力にもかかわらず、占いには固有の制限があります。
 
-- **Probability Flux**: Future events exist as probability streams that can shift based on choices
-- **Perceptual Filters**: The diviner's own biases can affect interpretation
-- **Energy Requirements**: Powerful divination requires significant mana and mental focus
-- **Temporal Distance**: Greater temporal or spatial distance increases difficulty and reduces accuracy
+-   **確率フラックス**: 未来の出来事は、選択に基づいてシフトする可能性のある確率ストリームとして存在する
+-   **知覚フィルター**: 占い師自身の偏見が解釈に影響を与える可能性がある
+-   **エネルギー要件**: 強力な占いには、かなりのマナと精神集中が必要
+-   **時間的距離**: 時間的または空間的距離が大きいほど、難易度が上がり、精度が低下する
 
-Common countermeasures against unwanted divination include:
+望ましくない占いに対する一般的な対策は次のとおりです。
 
-- **Veiling**: Spells that obscure objects or beings from divinatory perception
-- **Thread Severing**: Techniques that break connections that diviners might follow
-- **Pattern Disruption**: Methods that create confusing or misleading information patterns
-- **Wild Mana Saturation**: Creating local concentrations of Wild Mana to introduce false signals
+-   **ベール**: 占い知覚からオブジェクトまたは存在を覆い隠す呪文
+-   **スレッド切断**: 占い師が追跡する可能性のある接続を断つ技術
+-   **パターン破壊**: 混乱を招く、または誤解を招く情報パターンを作成する方法
+-   **ワイルドマナ飽和**: 偽の信号を導入するために、ワイルドマナの局所的な集中を作成する
 
-## Musical Analogy
+## 音楽的アナロジー
 
-In the musical framework of magic, divination is akin to active listening - the art of discerning specific instruments, harmonies, and melodies within a complex orchestration. The diviner must tune their perception to the specific "frequency" of the information they seek, filtering out background noise.
+魔法の音楽的フレームワークでは、占いはアクティブリスニング、つまり複雑なオーケストレーションの中で特定の楽器、ハーモニー、およびメロディーを識別する技術に似ています。占い師は、求めている情報の特定の「周波数」に知覚を調整し、バックグラウンドノイズを除外する必要があります。
 
-Master diviners describe their craft as finding the silent spaces between notes, where the future and past whisper their secrets. Like a conductor who can hear a single out-of-tune instrument in a full orchestra, the skilled diviner can identify the specific thread of information they seek amidst the countless connections that bind reality together.
+マスター占い師は、彼らの技術を、未来と過去が彼らの秘密をささやく、音符の間の静かな空間を見つけることとして説明しています。フルオーケストラで1つの調子が外れた楽器を聞くことができる指揮者のように、熟練した占い師は、現実を結び付ける無数のつながりの中で、求めている特定の情報スレッドを特定できます。
 
-## Notable Practitioners
+## 著名な実践者
 
-- **Thalindra Starwhisper**: Developer of the Stellar Divination system and author of "Voices Beyond Time"
-- **Eldrin Truthseeker**: Creator of the Magic Sense spell and pioneer of magical energy detection
-- **Sylarion Fatecaller**: Master of Probability Mapping who accurately predicted the Fall of Caelum
-- **Moira Veilwalker**: Renowned for developing Wild Mana filtering techniques for divination
+-   **タリンドラ・スターウィスパー**: ステラ占いシステムの開発者であり、「時間を超えた声」の著者
+-   **エルドリン・トゥルースシーカー**: 魔法感知呪文の作成者であり、魔法エネルギー検出のパイオニア
+-   **サイラリオン・フェイトコーラー**: カエルムの崩壊を正確に予測した確率マッピングのマスター
+-   **モイラ・ヴェールウォーカー**: 占いのためのワイルドマナフィルタリング技術の開発で有名
 
-## Historical Development
+## 歴史的発展
 
-Divination is one of the oldest magical disciplines, with evidence of formalized practice dating to the First Age. Early divination focused primarily on weather prediction, hunting success, and tribal fate, developing from shamanic traditions.
+占いは最も古い魔法分野の1つであり、形式化された実践の証拠は第一紀にまでさかのぼります。初期の占いは、主に天気予報、狩猟の成功、および部族の運命に焦点を当て、シャーマンの伝統から発展しました。
 
-The Second Age saw the emergence of systematic divination theory with the writing of "The Threads That Bind" by Archseer Elindor. This established the fundamental conceptual framework still used in modern practice.
+第二紀には、アーチシーア・エリンドールによる「結び付ける糸」の執筆により、体系的な占い理論が出現しました。これにより、現代の実践で現在も使用されている基本的な概念的枠組みが確立されました。
 
-The Third Age brought technological and theoretical advances, particularly in the area of Wild Mana filtering and probability navigation. Modern divination continues to evolve, with increasing integration with other magical disciplines such as enchantment and warding.
+第三紀は、特にワイルドマナフィルタリングと確率ナビゲーションの分野で、技術的および理論的な進歩をもたらしました。現代の占いは進化し続けており、エンチャントやワーディングなどの他の魔法分野との統合が進んでいます。
 
 ---
 
-*See also: [Magic Sense](/codex/Magics/Spells/Divination/MagicSense.md), [Temporal Magic](/codex/Magics/Domains/Temporal.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*こちらも参照: [魔法感知](/codex/Magics/Spells/Divination/MagicSense.md), [時間魔法](/codex/Magics/Domains/Temporal.md), [マナ浄化](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

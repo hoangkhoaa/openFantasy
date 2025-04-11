@@ -1,104 +1,108 @@
-# **Dwarves**: The Steadfast Guardians of Tradition
+# **Dwarves**: 揺るぎなき伝統の守護者
 
-[**Dwarves**](/codex/Creatures/Dwarves.md) are the steadfast guardians of tradition, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a bass drum that provides the foundation for an orchestra, they embody resilience and craftsmanship, creating a unique melody of existence that emphasizes durability, skill, and cultural continuity.
+[**Dwarves**](/codex/Creatures/Dwarves.md) は揺るぎなき伝統の守護者であり、その身体は [**Exanthis**](/codex/Basic/Exanthis.md)、[**Souls**](/codex/Basic/Soul.md)、そして **Mana Capacity** の調和のとれた融合体です。オーケストラの基礎となるバスドラムのように、彼らは回復力と職人技を体現し、耐久性、技術、文化的継続性を強調するユニークな存在の旋律を創造します。
 
-## Elemental Composition
+## 元素組成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dwarves** forms a harmony that favors physical resilience:
+[Creatures](/codex/Creatures/Creatures.md) に詳述されているように、**dwarves** の典型的な比率は、物理的な回復力を重視した調和を形成します。
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that provides exceptional physical strength and durability |
-| **Soul** | 20-35% | The ethereal essence that shapes a focused and determined consciousness |
-| **Mana Capacity** | 5-25% | The bridge between worlds that enables runic magical potential |
+| **Exanthis** | 50-70% | 優れた物理的な力と耐久性を提供する結晶質の心臓 |
+| **Soul** | 20-35% | 集中した断固たる意識を形作る、エーテル的な本質 |
+| **Mana Capacity** | 5-25% | ルーン魔術の可能性を可能にする、世界間の橋 |
 
-This composition grants **dwarves** their characteristic physical resilience but typically limits their magical abilities compared to other species, like a sturdy instrument that can withstand rough handling but produces a limited range of sounds.
+この組成により、**dwarves** は特徴的な物理的な回復力を得ますが、頑丈な楽器が乱暴な扱いにも耐えられるものの、限られた範囲の音しか出せないように、通常、他の種族と比較して魔法的な能力は制限されます。
 
-### Individual Variations
+### 個体差
 
-While the model composition represents the typical dwarf, individual variations exist:
+モデル構成は典型的なドワーフを表していますが、個体差は存在します。
 
-- **Mountain Kings**: Some dwarves possess Exanthis levels as high as 75%, making them among the most physically resilient beings in existence, though often with minimal magical ability (5% Mana Capacity).
-- **Soul Smiths**: Those with higher Soul percentages (up to 40%) develop exceptional craftsmanship and artistic abilities, often becoming legendary artisans or cultural leaders whose works contain a fragment of their very essence.
-- **Rune Masters**: Rare individuals have Mana Capacity approaching 30%, allowing them to create powerful runic enchantments and artifacts, though they typically maintain significant physical resilience (45% Exanthis).
-- **Balanced Dwarves**: Some maintain a more balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity), allowing them to adapt to various roles within dwarven society.
-- **Forge Guardians**: A specialized composition of (65% Exanthis, 30% Soul, 5% Mana Capacity) creates dwarves who are exceptionally resistant to heat, fire, and physical damage, perfect for the most dangerous forging work.
+- **Mountain Kings**: 一部のドワーフはExanthisレベルが75%にも達し、存在する生物の中で最も物理的に回復力のある存在となりますが、魔法的な能力は最小限（Mana Capacity 5%）であることが多いです。
+- **Soul Smiths**: Soulの割合が高い者（最大40%）は、卓越した職人技と芸術的能力を発達させ、しばしば伝説的な職人や、その作品に自身の本質の一部を含む文化的リーダーとなります。
+- **Rune Masters**: まれな存在として、Mana Capacityが30%に迫る者がおり、強力なルーンエンチャントやアーティファクトを作成できますが、通常、重要な物理的回復力（Exanthis 45%）を維持しています。
+- **Balanced Dwarves**: よりバランスの取れた構成（Exanthis 50%、Soul 25%、Mana Capacity 25%）を維持する者もおり、ドワーフ社会内のさまざまな役割に適応できます。
+- **Forge Guardians**: (Exanthis 65%, Soul 30%, Mana Capacity 5%) という特殊な組成により、熱、火、物理的なダメージに対して非常に耐性のあるドワーフが生まれ、最も危険な鍛造作業に最適です。
 
-## Physical Characteristics
+## 身体的特徴
 
-**Dwarves** are known for their sturdy build and connection to the earth:
-- Short and stocky, with dense muscle and bone structure
-- Broad shoulders and strong limbs, built for physical labor
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+**Dwarves** は、頑丈な体格と大地とのつながりで知られています。
+- 短くずんぐりした体型で、筋肉と骨格が密集している
+- 広い肩幅と強い手足、肉体労働のために作られている
+- 自然な保護を提供する厚い皮膚、まるで生きた石のよう
+- 内なる光で輝く目、[**Exanthis**](/codex/Basic/Exanthis.md) とのつながりを反映している
+- しばしば氏族と地位の象徴が複雑に編み込まれたヒゲ
+- 嵐に耐える山々のように、毒や病気に対する自然な抵抗力
 
-## Physical and Magical Affinity
+## 物理的および魔法的親和性
 
-**Dwarves** demonstrate exceptional proficiency in physical resilience and craftsmanship, like master artisans who have perfected their craft. Their composition allows them to:
-- Develop extraordinary durability and strength, like living mountains
-- Create and work with materials that other species find impossible to shape
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+**Dwarves** は、熟練した職人がその技術を完成させたように、物理的な回復力と職人技において卓越した能力を発揮します。彼らの組成により、彼らは以下を可能にします。
+- 生きた山々のように、並外れた耐久性と強さを発達させる
+- 他の種族が形作ることが不可能であると考える素材を作成し、扱う
+- 魔法の池の表面を砕く石のように、高い **Exanthis** の含有量によって魔法効果に抵抗する
 
-This resilience makes **dwarves** capable of achieving feats of endurance that other species can only dream of, though they may struggle with tasks requiring flexibility or magical finesse, like a solid foundation that provides stability but resists change.
+この回復力により、**dwarves** は他の種族が夢見ることしかできない耐久力の偉業を達成できますが、安定性を提供するが変化に抵抗する強固な基礎のように、柔軟性や魔法的な巧妙さを必要とするタスクには苦労する可能性があります。
 
-## Lifespan and Soul Decay
+## 寿命と魂の崩壊
 
-The **soul decay** timeline for **dwarves**, from birth to complete decay, is approximately 300 years, like a slow-burning forge that illuminates the ages. This extended lifespan allows them to:
-- Master complex crafts and techniques over generations
-- Develop deep connections to their ancestral lands and traditions
-- Form stable societies with strong cultural continuity
+**dwarves** の **soul decay** のタイムラインは、誕生から完全な崩壊まで、約300年です。まるで時代を照らすゆっくりと燃え盛る炉のようです。この長い寿命により、彼らは以下を可能にします。
+- 世代を超えて複雑な工芸品や技術を習得する
+- 彼らの祖先の土地や伝統との深い結びつきを発達させる
+- 強固な文化的継続性を持つ安定した社会を形成する
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains constant through the ages.
+ただし、彼らの魂の崩壊が遅いことは、他の種族よりも変化や適応が遅いことも意味します。まるで時代を超えて一定のままの旋律のようです。
 
-## Habitat and Distribution
+## 生息地と分布
 
-**Dwarves** primarily inhabit:
-- Mountain ranges and underground cities, where they can be closest to the earth
-- Regions rich in [**Exanthis**](/codex/Basic/Exanthis.md), where their natural resistance to magic is strongest
-- Strategic locations that provide natural defenses and valuable resources
+**Dwarves** は主に以下に生息しています。
+- 地球に最も近い山脈と地下都市
+- 彼らの自然な魔法に対する抵抗力が最も強い [**Exanthis**](/codex/Basic/Exanthis.md) が豊富な地域
+- 自然の防御と貴重な資源を提供する戦略的な場所
 
-These locations provide ideal environments for craftsmanship and defense, like a well-fortified stage for their performance.
+これらの場所は、職人技と防御に理想的な環境を提供します。まるで彼らのパフォーマンスのための堅固な舞台です。
 
-## Cultural Impact
+## 文化的影響
 
-In the world of **OpenFantasy**, **dwarves** play a crucial role in preserving traditional crafts and techniques, like archivists of ancient melodies. Their societies are centers of:
-- Master craftsmanship and engineering
-- Traditional wisdom and cultural continuity
-- Military strength and defensive strategy
+**OpenFantasy** の世界では、**dwarves** は古代の旋律の記録係のように、伝統的な工芸品や技術を保存する上で重要な役割を果たします。彼らの社会は以下の中心地です。
+- 熟練した職人技とエンジニアリング
+- 伝統的な知恵と文化的継続性
+- 軍事力と防衛戦略
 
-The connection to the earth and [**Exanthis**](/codex/Basic/Exanthis.md) has shaped dwarven culture around respect for tradition, craftsmanship, and resilience, creating a society where skill and honor are highly valued.
+地球と [**Exanthis**](/codex/Basic/Exanthis.md) とのつながりは、伝統、職人技、回復力への尊敬を中心にドワーフ文化を形成し、スキルと名誉が非常に重視される社会を創造しました。
 
-## Relationship with Other Species
+## 他の種族との関係
 
-**Dwarves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A pragmatic alliance based on mutual trade and defense
-- With **Elves**: A historical rivalry born from their different approaches to the world
-- With **Beastfolk**: A respectful alliance based on mutual respect for strength and honor
-- With **Giants**: A cautious relationship, as dwarves are among the few who can match giant strength with technology
+**Dwarves** は他の種族と複雑な関係を維持しています。
+- [**Humans**](/codex/Creatures/Human.md) との間：相互の貿易と防衛に基づく現実的な同盟
+- **Elves** との間：世界への異なるアプローチから生まれた歴史的なライバル関係
+- **Beastfolk** との間：強さと名誉に対する相互の尊敬に基づく敬意を払った同盟
+- **Giants** との間：慎重な関係。ドワーフは技術で巨人の力に対抗できる数少ない種族の1つであるため
 
-These relationships are often characterized by a sense of pride in their craftsmanship and resilience, as **dwarves** view themselves as the true children of the earth.
+これらの関係は、**dwarves** が自分たちを真の地球の子であると見なしているため、しばしば職人技と回復力に対する誇りによって特徴付けられます。
 
-## Notable Dwarven Traits
+## 注目すべきドワーフの特性
 
-- **Physical Resilience**: Dwarves excel in durability and strength, often surpassing other species in their ability to endure
-- **Master Craftsmanship**: Dwarves are renowned for their skill in crafting weapons, armor, and other items
-- **Magical Resistance**: Their high **Exanthis** content makes them naturally resistant to many magical effects
-- **Traditional Wisdom**: Dwarves place great emphasis on preserving traditional knowledge and techniques
-- **Clan Structure**: Dwarven society is organized around powerful clans, each with its own traditions and specialties
+- **Physical Resilience**: ドワーフは耐久性と強さに優れており、耐久力において他の種族をしばしば凌駕します。
+- **Master Craftsmanship**: ドワーフは武器、鎧、その他のアイテムの製作スキルで有名です。
+- **Magical Resistance**: 高い **Exanthis** 含有量により、多くの魔法効果に対して自然な抵抗力があります。
+- **Traditional Wisdom**: ドワーフは伝統的な知識と技術の保存を非常に重視しています。
+- **Clan Structure**: ドワーフ社会は強力な氏族を中心に組織されており、各氏族には独自の伝統と専門分野があります。
 
-## Dwarven Clans
+## ドワーフの氏族
 
-Dwarven society is organized into numerous clans, each with its own specialties and traditions:
+ドワーフ社会は多数の氏族に組織されており、各氏族には独自の専門分野と伝統があります。
 
 | Clan | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
-| **Ironheart** | Metalworking, weapons | Northern Mountains | Fierce warriors, master smiths |
-| **Stonefist** | Architecture, engineering | Central Range | Master builders, tunnel experts |
-| **Goldweaver** | Jewelry, fine crafts | Eastern Peaks | Wealthy traders, artistic masters |
-| **Fireforge** | Magical items, runes | Volcanic Region | Rune masters, fire magic specialists |
-| **Deepdelver** | Mining, gemcutting | Deep Caves | Expert miners, gem specialists |
-| **Stormhammer** | Naval engineering, shipbuilding | Coastal Cliffs | Master shipwrights, naval experts |
+| **Ironheart** | 金属加工、武器 | 北部山脈 | 獰猛な戦士、熟練した鍛冶屋 |
+| **Stonefist** | 建築、エンジニアリング | 中央山脈 | 熟練した建築家、トンネル専門家 |
+| **Goldweaver** | 宝石、高級工芸品 | 東部山頂 | 裕福なトレーダー、芸術の達人 |
+| **Fireforge** | 魔法のアイテム、ルーン | 火山地域 | ルーンマスター、炎の魔法のスペシャリスト |
+| **Deepdelver** | 採掘、宝石のカット | 深い洞窟 | 熟練した鉱夫、宝石のスペシャリスト |
+| **Stormhammer** | 海軍工学、造船 | 海岸の崖 | 熟練した船大工、海軍専門家 |
 
-Understanding the nature of **dwarves** provides insight into the traditional aspects of the world of **OpenFantasy**, like listening to the deep, steady rhythms that pulse through the mountains and earth. 
+**dwarves** の本質を理解することは、山や地球を通して脈打つ深く着実なリズムに耳を傾けるように、**OpenFantasy** の世界の伝統的な側面への洞察を提供します。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,183 +1,187 @@
-# **Mana Mechanics**: Core Systems of Magical Energy
+# **Mana Mechanics**: 魔法エネルギーの中核システム
 
-## Quick Reference Links
-- [Mana Capacity and Storage](#mana-capacity-and-spell-casting)
-- [Mana Purity and Spell Effectiveness](#mana-purity-and-spell-effectiveness)
-- [Two-Phase Mana Conversion](#two-phase-mana-conversion-process)
-- [Spell Technical Requirements](#spell-technical-requirements)
-- [Training Progression](#training-progression)
+## クイックリファレンスリンク
+- [マナ容量と呪文詠唱](#mana-capacity-and-spell-casting)
+- [マナ純度と呪文効果](#mana-purity-and-spell-effectiveness)
+- [二相マナ変換](#two-phase-mana-conversion-process)
+- [呪文の技術的要件](#spell-technical-requirements)
+- [訓練の進捗](#training-progression)
 
-## Overview
+## 概要
 
-Mana mechanics govern how magical energy is gathered, stored, refined, and utilized within OpenFantasy. This document outlines the fundamental relationships between different aspects of mana manipulation.
+魔法のメカニズムは、OpenFantasy 内で魔法エネルギーがどのように収集、保存、精製、利用されるかを管理します。このドキュメントでは、マナ操作のさまざまな側面間の基本的な関係について概説します。
 
-## Two-Phase Mana Conversion Process
+## 二相マナ変換プロセス
 
-The foundation of all spellcasting lies in a two-phase conversion process that transforms environmental Wild Mana into usable magical energy:
+すべての呪文詠唱の基礎は、環境中の Wild Mana を使用可能な魔法エネルギーに変換する二相変換プロセスにあります。
 
-### Phase 1: Wild Mana to Base Mana (Effectiveness-Focused)
-- **Definition**: The biological process of absorbing Wild Mana from the environment and converting it to stable Base Mana within the caster's body
-- **Key Metric**: Conversion Effectiveness (how efficiently Wild Mana becomes Base Mana)
-- **Primary Bottleneck**: Mana Capacity (internal storage limitation)
-- **Primary Function**: Creates the caster's internal magical reserves
+### フェーズ 1: Wild Mana から Base Mana へ (有効性に焦点を当てる)
+- **定義**: 環境中の Wild Mana を吸収し、それを詠唱者の体内で安定した Base Mana に変換する生物学的プロセス
+- **主要な指標**: 変換効率 (Wild Mana が Base Mana にどれだけ効率的に変換されるか)
+- **主なボトルネック**: Mana Capacity (内部ストレージの制限)
+- **主な機能**: 詠唱者の内部魔法貯蔵を作成します
 
-> **Important Note**: All mana stored within living creatures is Base Mana. Wild Mana cannot be stored directly in biological systems without causing harm.
+> **重要な注意**: 生き物の中に蓄えられているすべてのマナは Base Mana です。Wild Mana は、害を及ぼすことなく生物学的システムに直接蓄えることはできません。
 
-### Phase 2: Base Mana to Elemental Mana (Purity-Focused)
-- **Definition**: The conscious, technical process of refining Base Mana into specialized Elemental Mana for spellcasting
-- **Key Metric**: Purity Percentage (ratio of refined Elemental Mana to total energies used)
-- **Primary Bottleneck**: Skill and technique (training-dependent)
-- **Primary Function**: Creates specialized magical energy suitable for spellcasting
+### フェーズ 2: Base Mana から Elemental Mana へ (純度に焦点を当てる)
+- **定義**: 呪文詠唱のために Base Mana を特殊な Elemental Mana に精製する意識的で技術的なプロセス
+- **主要な指標**: 純度 (精製された Elemental Mana の、使用されたエネルギー全体の比率)
+- **主なボトルネック**: スキルとテクニック (訓練に依存)
+- **主な機能**: 呪文詠唱に適した特殊な魔法エネルギーを作成します
 
-These two phases operate in sequence but require different skills and aptitudes, explaining why some casters may have large reserves but poor control, or vice versa.
+これら 2 つのフェーズは順番に動作しますが、異なるスキルと適性が必要です。そのため、一部の詠唱者は大量の貯蔵量を持つにもかかわらず制御が不十分であったり、その逆であったりする場合があります。
 
-## Mana Capacity and Spell Casting
+## マナ容量と呪文詠唱
 
-Mana Capacity refers to the maximum amount of Base Mana a caster can store within their body after completing Phase 1 conversion. This capacity directly affects:
+Mana Capacity とは、詠唱者がフェーズ 1 の変換を完了した後、体内に蓄えることができる Base Mana の最大量を指します。この容量は以下に直接影響します。
 
-1. **Storage Capacity**: Total magical reserves available for Phase 2 conversion and spellcasting
-2. **Regeneration Rate**: Speed at which depleted Base Mana is replenished through Phase 1 processes
-3. **Casting Endurance**: Ability to sustain multiple spells or prolonged magical effects
+1. **ストレージ容量**: フェーズ 2 の変換と呪文詠唱に使用できる魔法の総貯蔵量
+2. **回復率**: フェーズ 1 のプロセスを通じて枯渇した Base Mana が補充される速度
+3. **詠唱耐久力**: 複数の呪文または長期的な魔法効果を維持する能力
 
-### Capacity Levels and Effects
+### 容量レベルと効果
 
-| Capacity Level | Base Mana Storage | Typical Regeneration | Maximum Spell Level | Representative Example |
+| 容量レベル | Base Mana ストレージ | 一般的な回復 | 最大呪文レベル | 代表的な例 |
 |----------------|-------------------|----------------------|---------------------|------------------------|
-| Minimal (5-10%) | 5-10 units | 1 unit/hour | 1 | Average non-practitioner |
-| Low (10-25%) | 10-25 units | 2 units/hour | 2 | Apprentice mage |
-| Moderate (25-40%) | 25-40 units | 3-4 units/hour | 3 | Journeyman mage |
-| High (40-60%) | 40-60 units | 5-6 units/hour | 4 | Master mage |
-| Exceptional (60-80%) | 60-80 units | 7-9 units/hour | 5 | Archmage |
-| Legendary (80-100%) | 80-100+ units | 10+ units/hour | 6+ | Once-in-a-generation talent |
+| 最小 (5-10%) | 5-10 ユニット | 1 ユニット/時間 | 1 | 一般的な非実践者 |
+| 低 (10-25%) | 10-25 ユニット | 2 ユニット/時間 | 2 | 見習い魔術師 |
+| 中程度 (25-40%) | 25-40 ユニット | 3-4 ユニット/時間 | 3 | 熟練魔術師 |
+| 高 (40-60%) | 40-60 ユニット | 5-6 ユニット/時間 | 4 | マスター魔術師 |
+| 例外的 (60-80%) | 60-80 ユニット | 7-9 ユニット/時間 | 5 | 大魔術師 |
+| 伝説的 (80-100%) | 80-100+ ユニット | 10+ ユニット/時間 | 6+ | 一世代に一度の才能 |
 
-> **Note on Measurement**: While "units" are used here for conceptual clarity, magical practitioners typically use more specialized terminology based on their tradition.
+> **測定に関する注意**: ここでは概念を明確にするために「ユニット」が使用されていますが、魔法の実践者は通常、それぞれの伝統に基づいた、より特殊な用語を使用します。
 
-### Capacity's Impact on Maximum Achievable Purity
+### 最大達成可能な純度に対する容量の影響
 
-Mana Capacity indirectly affects Phase 2 conversion by providing more "working space" for refinement:
+Mana Capacity は、より多くの精製の「作業スペース」を提供することにより、フェーズ 2 の変換に間接的に影響します。
 
-| Capacity Level | Maximum Achievable Purity | Reasoning |
+| 容量レベル | 最大達成可能な純度 | 理由 |
 |----------------|---------------------------|-----------|
-| Minimal (5-10%) | ~40% | Limited internal space creates pressure during refinement |
-| Low (10-25%) | ~55% | Some pressure still affects fine control |
-| Moderate (25-40%) | ~70% | Sufficient space for standard refinement techniques |
-| High (40-60%) | ~85% | Ample space allows for intensive refinement |
-| Exceptional (60-80%) | ~95% | Near-optimal conditions for purity |
-| Legendary (80-100%) | 95%+ | Potential for theoretical "perfect" purity |
+| 最小 (5-10%) | ~40% | 内部スペースが限られているため、精製中に圧力がかかる |
+| 低 (10-25%) | ~55% | 圧力がまだ微調整に影響を与える |
+| 中程度 (25-40%) | ~70% | 標準的な精製技術に十分なスペースがある |
+| 高 (40-60%) | ~85% | 十分なスペースにより、集中的な精製が可能になる |
+| 例外的 (60-80%) | ~95% | 純度にとってほぼ最適な条件 |
+| 伝説的 (80-100%) | 95%+ | 理論的な「完璧な」純度の可能性 |
 
-## Mana Purity and Spell Effectiveness
+## マナ純度と呪文効果
 
-Mana Purity represents the quality of magical energy after Phase 2 conversion. It indicates how much of the energy has been successfully refined from Base Mana into the specific Elemental Mana required for a spell.
+Mana Purity は、フェーズ 2 の変換後の魔法エネルギーの品質を表します。これは、エネルギーが Base Mana から呪文に必要な特定の Elemental Mana にどれだけ正常に精製されたかを示します。
 
-### Purity as a Percentage
+### 純度をパーセンテージとして
 
-Purity is calculated using the formula:
+純度は、次の式を使用して計算されます。
 ```
-Purity % = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+純度 % = (精製された Elemental Mana) / (精製された Elemental Mana + 残りの Wild Mana) × 100%
 ```
 
-### Purity Levels and Difficulty
+### 純度レベルと難易度
 
-| Purity Level | Percentage | Difficulty to Achieve | Typical Application |
+| 純度レベル | パーセンテージ | 達成の難易度 | 一般的な応用 |
 |--------------|------------|------------------------|---------------------|
-| Critical | 0-10% | Occurs with severe mistakes | Dangerous miscasts |
-| Basic | 10-35% | Achievable by beginners | Simple utility spells |
-| Standard | 35-65% | Requires formal training | Professional magic |
-| Refined | 65-85% | Demands years of practice | Specialist applications |
-| Perfect | 85-100% | Mastery level achievement | Highest magical arts |
+| クリティカル | 0-10% | 重大なミスの発生 | 危険なミスキャスト |
+| 基本 | 10-35% | 初心者が達成可能 | シンプルなユーティリティ呪文 |
+| 標準 | 35-65% | 正式な訓練が必要 | プロの魔法 |
+| 洗練 | 65-85% | 長年の練習が必要 | スペシャリストの応用 |
+| 完璧 | 85-100% | マスターレベルの達成 | 最高の魔法芸術 |
 
-Increasing purity beyond 90% requires exponentially more skill and effort, with diminishing practical returns in most applications.
+純度を 90% 以上に高めるには、指数関数的により多くのスキルと努力が必要となり、ほとんどの応用において実質的な見返りが減少します。
 
-## Spell Technical Requirements
+## 呪文の技術的要件
 
-All spells have technical requirements that determine their viability based on the caster's capabilities in both Phase 1 (Capacity) and Phase 2 (Purity) conversion.
+すべての呪文には技術的な要件があり、フェーズ 1 (容量) とフェーズ 2 (純度) の変換における詠唱者の能力に基づいて、その実行可能性が決定されます。
 
-### Mana Type Distribution
+### マナタイプの分布
 
-Spells require specific distributions of elemental energies:
+呪文には、エレメンタルエネルギーの特定の分布が必要です。
 
-| Spell Level | Fire | Water | Air | Earth | Arcane | Life | Void | Total |
+| 呪文レベル | 火 | 水 | 空気 | 地 | 秘術 | 生命 | 虚無 | 合計 |
 |-------------|------|-------|-----|-------|--------|------|------|-------|
-| Novice | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 100% |
-| Basic Dual | 60% | 40% | 0% | 0% | 0% | 0% | 0% | 100% |
-| Complex | 40% | 30% | 20% | 10% | 0% | 0% | 0% | 100% |
-| Advanced | 35% | 25% | 15% | 10% | 15% | 0% | 0% | 100% |
-| Master | 25% | 20% | 15% | 10% | 20% | 5% | 5% | 100% |
+| 初心者 | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 100% |
+| 基本デュアル | 60% | 40% | 0% | 0% | 0% | 0% | 0% | 100% |
+| 複雑 | 40% | 30% | 20% | 10% | 0% | 0% | 0% | 100% |
+| 高度 | 35% | 25% | 15% | 10% | 15% | 0% | 0% | 100% |
+| マスター | 25% | 20% | 15% | 10% | 20% | 5% | 5% | 100% |
 
-This table represents a hypothetical fire-primary spell at different complexity levels.
+この表は、さまざまな複雑さレベルでの、火属性を主体とする架空の呪文を表しています。
 
-### Minimum Purity Requirements
+### 最小純度要件
 
-Each spell level has minimum purity requirements for stable casting:
+各呪文レベルには、安定した詠唱のための最小純度要件があります。
 
-| Spell Level | Minimum Purity | Optimal Purity | Effect of Low Purity |
+| 呪文レベル | 最小純度 | 最適な純度 | 低純度の影響 |
 |-------------|----------------|----------------|----------------------|
-| Novice | 15% | 35%+ | Minor unpredictability |
-| Apprentice | 25% | 45%+ | Reduced effectiveness |
-| Journeyman | 35% | 55%+ | Significant instability |
-| Adept | 45% | 65%+ | Potential backfire |
-| Master | 55% | 75%+ | Dangerous failure |
-| Archmage | 65% | 85%+ | Catastrophic consequences |
+| 初心者 | 15% | 35%+ | わずかな予測不能性 |
+| 見習い | 25% | 45%+ | 効果の低下 |
+| 熟練 | 35% | 55%+ | 著しい不安定性 |
+| 熟達者 | 45% | 65%+ | 潜在的なバックファイア |
+| マスター | 55% | 75%+ | 危険な失敗 |
+| 大魔術師 | 65% | 85%+ | 破滅的な結果 |
 
-Casting below minimum purity is possible but increasingly hazardous with spell complexity.
+最小純度を下回る詠唱は可能ですが、呪文の複雑さが増すにつれて危険性が増します。
 
-### Minimum Capacity Requirements
+### 最小容量要件
 
-Similarly, spells have minimum capacity thresholds:
+同様に、呪文には最小容量しきい値があります。
 
-| Spell Level | Min. Capacity | Optimal Capacity | Effect of Low Capacity |
+| 呪文レベル | 最小容量 | 最適な容量 | 低容量の影響 |
 |-------------|---------------|------------------|------------------------|
-| Novice | 5% | 15%+ | Short duration |
-| Apprentice | 15% | 25%+ | Quick exhaustion |
-| Journeyman | 25% | 35%+ | Limited power |
-| Adept | 35% | 45%+ | Single casting only |
-| Master | 45% | 60%+ | Severe strain |
-| Archmage | 60% | 75%+ | Potential burnout |
+| 初心者 | 5% | 15%+ | 短い持続時間 |
+| 見習い | 15% | 25%+ | すぐに消耗する |
+| 熟練 | 25% | 35%+ | 限られたパワー |
+| 熟達者 | 35% | 45%+ | 一度だけの詠唱 |
+| マスター | 45% | 60%+ | 重度の負担 |
+| 大魔術師 | 60% | 75%+ | 潜在的な燃え尽き症候群 |
 
-## The Harmony of Elements: A Musical Analogy
+## エレメントの調和: 音楽の類推
 
-The relationship between Mana Capacity, Purity Level, and Spell Requirements can be understood through a musical analogy:
+Mana Capacity、純度、呪文の要件の関係は、音楽の類推を通じて理解できます。
 
-- **Phase 1 (Wild → Base) is like having an instrument**: A larger instrument (higher capacity) can produce more music for longer periods.
-- **Phase 2 (Base → Elemental) is like playing technique**: Better technique (higher purity) produces clearer, more precise notes.
-- **Spellcasting is like performing a composition**: Different pieces (spells) require both an adequate instrument and sufficient playing skill.
+- **フェーズ 1 (Wild → Base) は楽器を持っているようなもの**: より大きな楽器 (より高い容量) は、より多くの音楽をより長く演奏できます。
+- **フェーズ 2 (Base → Elemental) は演奏テクニックのようなもの**: より良いテクニック (より高い純度) は、よりクリアで正確な音符を生み出します。
+- **呪文詠唱は作曲を演奏するようなもの**: さまざまな楽曲 (呪文) には、適切な楽器と十分な演奏スキルの両方が必要です。
 
-A virtuoso violinist (high purity, low capacity) might perfectly play short, complex pieces but lack endurance for longer performances. Conversely, a novice with a grand piano (high capacity, low purity) has potential for volume and duration but lacks the refinement for complex compositions.
+名人バイオリニスト (高純度、低容量) は短くて複雑な楽曲を完璧に演奏できるかもしれませんが、より長い演奏のための持久力がありません。逆に、グランドピアノを持つ初心者 (高容量、低純度) は音量と持続時間の可能性がありますが、複雑な作曲のための洗練さがありません。
 
-## Training Progression
+## 訓練の進捗
 
-Magical development typically follows this progression:
+魔法の開発は、通常、次の進捗に従います。
 
-### 1. Capacity Building (Phase 1 Focus)
-- **Early Exercises**: Meditation, energy awareness, basic absorption techniques
-- **Progression Markers**: Increased reserves, faster recovery after casting
-- **Biological Changes**: Expansion of internal channels, increased metabolic efficiency
-- **Typical Timeline**: Steady improvements over years of consistent practice
+### 1. 容量構築 (フェーズ 1 に焦点を当てる)
+- **初期の練習**: 瞑想、エネルギー認識、基本的な吸収テクニック
+- **進捗の指標**: 蓄えの増加、詠唱後のより早い回復
+- **生物学的変化**: 内部チャネルの拡張、代謝効率の向上
+- **一般的なタイムライン**: 一貫した練習を何年も続けることで着実に改善
 
-### 2. Purity Control Development (Phase 2 Focus)
-- **Core Techniques**: Filtration exercises, elemental affinity development, pattern stability
-- **Progression Markers**: Increased spell stability, reduced wild effects, finer control
-- **Mental Development**: Enhanced visualization, improved concentration, pattern recognition
-- **Typical Timeline**: Steep initial learning curve followed by plateau and breakthrough cycles
+### 2. 純度制御の開発 (フェーズ 2 に焦点を当てる)
+- **コアテクニック**: ろ過運動、元素親和性の開発、パターン安定性
+- **進捗の指標**: 呪文の安定性の向上、ワイルド効果の軽減、より細かい制御
+- **精神的な発達**: 視覚化の強化、集中力の向上、パターン認識
+- **一般的なタイムライン**: 急激な初期学習曲線に続いて、プラトーとブレイクスルーのサイクル
 
-### 3. Balanced Mastery (Integrated Phase 1 and 2)
-- **Advanced Methods**: Cyclical reinforcement, resonance harmonization, efficiency optimization
-- **Progression Markers**: Ability to cast complex spells with minimal effort, adaptive casting
-- **Holistic Changes**: Intuitive understanding of personal mana flow, environmental awareness
-- **Typical Timeline**: Decades of dedicated practice with increasing returns on investment
+### 3. バランスの取れた習熟 (フェーズ 1 と 2 の統合)
+- **高度な方法**: 周期的強化、共鳴調和、効率最適化
+- **進捗の指標**: 最小限の労力で複雑な呪文を詠唱する能力、適応詠唱
+- **全体的な変化**: 個人的なマナの流れの直感的な理解、環境認識
+- **一般的なタイムライン**: 何十年にもわたる献身的な練習により、投資収益率が向上
 
-## Individual Variations
+## 個人的なバリエーション
 
-Practitioners exhibit natural variations in their aptitude for the two conversion phases:
+実践者は、2 つの変換フェーズに対する適性に自然なばらつきを示します。
 
-- **Capacity-Gifted**: Naturally high mana reserves but may struggle with refinement
-- **Purity-Gifted**: Exceptional control and refinement but limited reserves
-- **Balanced Aptitude**: Moderate natural talent in both aspects
-- **Specialized Affinity**: Natural talent for specific elemental conversions
-- **Adaptive Caster**: Ability to modify approach based on magical conditions
+- **容量に恵まれた**: 自然に高いマナ貯蔵量を持っているが、精製に苦労する可能性がある
+- **純度に恵まれた**: 優れた制御と精製能力を持つが、貯蔵量が限られている
+- **バランスの取れた適性**: 両方の側面で中程度の自然な才能
+- **特殊な親和性**: 特定の元素変換に対する自然な才能
+- **適応型詠唱者**: 魔法の条件に基づいてアプローチを変更する能力
 
-These natural tendencies are typically apparent by adolescence and influence recommended specialization paths.
+これらの自然な傾向は通常、青年期までに明らかになり、推奨される専門分野に影響を与えます。
 
 ---
 
-*"Understanding the two phases of mana conversion is like understanding breathing and singing as separate skills. You may have massive lung capacity but poor vocal control, or perfect pitch but limited breath support. The master vocalist develops both in harmony, just as the master mage balances capacity and purity."* — Archmage Elendra Vos, Principal of the Royal Academy 
+*"マナ変換の 2 つのフェーズを理解することは、呼吸と歌を別々のスキルとして理解することに似ています。あなたは巨大な肺活量を持っていても声の制御が不十分であったり、完璧な音感を持っていても息継ぎが不十分であったりするかもしれません。熟練した声楽家は両方を調和させて開発するように、熟練した魔術師は容量と純度のバランスを取ります."* — 大魔術師エレンドラ・ヴォス、王立アカデミー校長
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

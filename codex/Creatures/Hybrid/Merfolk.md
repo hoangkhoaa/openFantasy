@@ -1,105 +1,111 @@
-# **Merfolk**: The Guardians of the Deep
+# **Merfolk**: 深海の守護者
 
-[**Merfolk**](/codex/Creatures/Merfolk.md) are the guardians of the deep, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a deep bassoon, they resonate with the currents of the ocean, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+[**Merfolk**](/codex/Creatures/Merfolk.md)（マーフォーク）は深海の守護者であり、彼らの体は[**Exanthis**](/codex/Basic/Exanthis.md)（エグザンシス）、[**Souls**](/codex/Basic/Soul.md)（ソウル）、そして**Mana Capacity**（マナ容量）の流動的な調和で構成されています。まるで深みのあるバスーンのように、彼らは海の潮流と共鳴し、水界と陸界を結ぶ独特の存在の旋律を奏でます。
 
-## Elemental Composition
+## 元素構成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **merfolk** forms a harmony that favors physical grace:
+[Creatures](/codex/Creatures/Creatures.md)（クリーチャー）で詳述されているように、**マーフォーク**の典型的な比率は、肉体的な優雅さを重視した調和を形成しています。
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 30-50% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-40% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 20-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** | 30-50% | 適度な肉体的強度と優雅さをもたらす結晶の心臓 |
+| **Soul** | 25-40% | 流動的で適応力のある意識を形成するエーテルの本質 |
+| **Mana Capacity** | 20-40% | 適度な魔法の潜在能力を可能にする世界間の架け橋 |
 
-This composition grants **merfolk** their characteristic grace and adaptability but typically moderates their magical potential compared to other species, like a versatile instrument that can play many notes but lacks the power of a full orchestra.
+この構成により、**マーフォーク**は特徴的な優雅さと適応力を得ますが、他の種族と比較して魔法の潜在能力は通常控えめです。まるで多くの音を奏でることができる多才な楽器のようですが、フルオーケストラのような力強さはありません。
 
-### Individual Variations
+### 個体差
 
-While the model composition represents the typical merfolk, individual variations exist based on their tribal lineage:
+モデル構成は典型的なマーフォークを表していますが、個体差は部族の血統に基づいています。
 
-- **Depth Divers**: Some merfolk, particularly from the Deepswimmer tribe, possess enhanced Exanthis levels (up to 55%) that allow them to withstand the crushing pressures of the deepest ocean trenches.
-- **Tide Mages**: Specialized variants with higher Mana Capacity (up to 45%) excel at water magic, becoming powerful spellcasters who can control currents, weather, and even blood in living creatures.
-- **Ocean Sages**: Those with higher Soul percentages (up to 45%) develop extraordinary empathy and wisdom, often becoming tribal leaders, healers, or diplomats who bridge the gap between merfolk and other species.
-- **Reef Guardians**: A balanced variant (40% Exanthis, 30% Soul, 30% Mana Capacity) specializes in protecting coral reef ecosystems, developing unique magical abilities that nurture and restore damaged aquatic environments.
-- **Storm Callers**: Some merfolk develop a unique composition (35% Exanthis, 25% Soul, 40% Mana Capacity) that allows them to sense and manipulate weather patterns above the ocean, creating or dispersing storms that might threaten their territories.
+- **Depth Divers** (深海潜水者): 一部のマーフォーク、特にディープスイマー部族の者は、強化されたエグザンシスレベル（最大55％）を持ち、深海の圧倒的な圧力に耐えることができます。
+- **Tide Mages** (潮流魔術師): より高いマナ容量（最大45％）を持つ特殊な変種は、水魔法に優れており、潮流、天候、さらには生き物の血液さえも制御できる強力な呪文詠唱者になります。
+- **Ocean Sages** (海洋賢者): より高いソウルパーセンテージ（最大45％）を持つ者は、並外れた共感と知恵を発達させ、多くの場合、部族のリーダー、ヒーラー、またはマーフォークと他の種族の間のギャップを埋める外交官になります。
+- **Reef Guardians** (珊瑚礁守護者): バランスの取れた変種（40％エグザンシス、30％ソウル、30％マナ容量）は、サンゴ礁の生態系を保護することを専門とし、損傷した水生環境を育成および回復する独自の魔法能力を発達させます。
+- **Storm Callers** (嵐呼び): 一部のマーフォークは、独自の構成（35％エグザンシス、25％ソウル、40％マナ容量）を発達させ、海の上の天候パターンを感知および操作し、彼らの領土を脅かす可能性のある嵐を作り出すか、または分散させることができます。
 
-## Physical Characteristics
+## 身体的特徴
 
-**Merfolk** are known for their aquatic adaptations and graceful nature:
-- Humanoid upper bodies with fish-like lower bodies, allowing for efficient swimming
-- Eyes that are adapted to see clearly in the depths, often with a slight luminescence
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep green
-- Fins and webbed appendages that aid in swimming and balance
-- Ability to change the color of their scales for camouflage or communication
+**マーフォーク**は、その水生適応と優雅な性質で知られています。
+- 効率的な水泳を可能にする魚のような下半身を持つ人型の上半身
+- 深い場所で明確に見るように適応された目、多くの場合、わずかな発光を伴う
+- 海に合わせて調整された繊細な楽器のように、水中で呼吸することを可能にするエラ
+- 自然な保護と美しさを提供する鱗、虹色の青から深い緑まで色範囲がある
+- 水泳とバランスを助けるヒレと水かきのある付属肢
+- カモフラージュやコミュニケーションのために鱗の色を変える能力
 
-## Physical and Magical Affinity
+## 肉体的および魔法的な親和性
 
-**Merfolk** demonstrate exceptional proficiency in swimming and aquatic combat, like virtuoso performers who have mastered their environment. Their composition allows them to:
-- Move through water with extraordinary grace and speed, like dancers in a liquid ballet
-- Channel water magic with moderate proficiency, like conductors of the ocean's symphony
-- Adapt to various aquatic environments, from shallow reefs to the deepest trenches
+**マーフォーク**は、水泳と水生戦闘において卓越した熟練度を発揮します。まるで環境をマスターした名手パフォーマーのようです。彼らの構成により、彼らは次のことが可能になります。
+- 液体バレーのダンサーのように、並外れた優雅さとスピードで水中を移動する
+- 海の交響曲の指揮者のように、適度な熟練度で水魔法をチャネリングする
+- 浅い珊瑚礁から最も深い海溝まで、さまざまな水生環境に適応する
 
-This specialization makes **merfolk** capable of achieving feats of aquatic prowess that few other species can match, though they may struggle with tasks requiring complex magical abilities, like an instrument that can play many notes but lacks the complexity of a full orchestra.
+この専門性により、**マーフォーク**は、他の種族ではほとんど匹敵できない水生能力の偉業を達成することができますが、フルオーケストラの複雑さを欠く楽器のように、複雑な魔法能力を必要とするタスクには苦労する可能性があります。
 
-## Lifespan and Soul Decay
+## 寿命と魂の崩壊
 
-The **soul decay** timeline for **merfolk**, from birth to complete decay, is approximately 300 years, like a steady flame that illuminates the depths. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to specific places and traditions
-- Form stable societies with strong communal bonds
+誕生から完全な崩壊までの**マーフォーク**の**魂の崩壊**タイムラインは、深海を照らす安定した炎のように、約300年です。この適度な寿命により、彼らは次のことが可能になります。
+- 世代を超えて知識と知恵を蓄積する
+- 特定の場所や伝統との深い繋がりを育む
+- 強固な共同体の絆を持つ安定した社会を形成する
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the tides.
+ただし、彼らの適度なソウル比率は、潮流とともに進化するメロディーのように、変化と適応が適度なペースで行われることも意味します。
 
-## Habitat and Distribution
+## 生息地と分布
 
-**Merfolk** primarily inhabit:
-- Ocean depths and underwater cities, where they can be closest to the currents
-- Coral reefs and kelp forests, where they can find shelter and resources
-- Coastal regions and estuaries, where they can interact with terrestrial species
-- Strategic locations that provide access to both aquatic and terrestrial resources
+**マーフォーク**は主に以下に生息しています。
+- 海流に最も近い場所にある海洋の深さと水中の都市
+- 避難所と資源を見つけることができるサンゴ礁と海藻の森
+- 陸生種と交流できる沿岸地域と河口
+- 水生および陸生資源の両方へのアクセスを提供する戦略的な場所
 
-These locations provide ideal environments for the development of aquatic societies and the practice of water magic, like stages perfectly suited to their performance.
+これらの場所は、水生社会の発展と水魔法の実践に理想的な環境を提供します。まるで彼らのパフォーマンスに最適なステージのようです。
 
-## Cultural Impact
+## 文化的な影響
 
-In the world of **OpenFantasy**, **merfolk** play a crucial role in maintaining the balance of aquatic ecosystems and preserving ancient traditions, like the steady bass notes that provide foundation to a symphony. Their societies are centers of:
-- Aquatic craftsmanship and architecture
-- Water magic and environmental preservation
-- Communal living and shared resources
+**OpenFantasy**の世界では、**マーフォーク**は水生生態系のバランスを維持し、古代の伝統を保存する上で重要な役割を果たしています。まるで交響曲の基礎を提供する安定したベース音のようです。彼らの社会は以下の中心地です。
+- 水生工芸と建築
+- 水魔法と環境保全
+- 共同生活と共有資源
 
-The connection to the ocean has shaped merfolk culture around respect for the sea, community, and tradition, creating a society where harmony with nature is highly valued.
+海との繋がりは、海への敬意、コミュニティ、伝統を中心にマーフォーク文化を形成し、自然との調和が非常に重視される社会を作り出しました。
 
-## Relationship with Other Species
+## 他の種族との関係
 
-**Merfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of curiosity and caution, often leading to limited interactions
-- With **Sirens**: A deep connection based on shared aquatic heritage but different magical affinities
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and resources
+**マーフォーク**は、他の種族と複雑な関係を維持しています。
+- [**Humans**](/codex/Creatures/Human.md)（人間）との関係：好奇心と警戒心の入り混じった感情があり、しばしば限られた交流につながる
+- **Sirens**（セイレーン）との関係：水生の遺産を共有することに基づく深い繋がりですが、魔法的な親和性は異なります。
+- **Elves**（エルフ）との関係：魔法の腕前を認めながらも、そのやり方を奇妙だと感じ、敬意を払った距離を置いている
+- **Dwarves**（ドワーフ）との関係：職人技と資源に対する相互尊重に基づいた実用的な同盟
 
-These relationships are often characterized by a sense of environmental stewardship, as **merfolk** view themselves as the true guardians of the oceans.
+これらの関係はしばしば環境保護の意識を特徴としており、**マーフォーク**は自分たちを海洋の真の守護者と見なしています。
 
-## Notable Merfolk Traits
+## 注目すべきマーフォークの特性
 
-- **Aquatic Grace**: Merfolk excel in swimming and aquatic movement, often surpassing other species in their ability to navigate water
-- **Environmental Sensitivity**: Merfolk are deeply attuned to their aquatic surroundings, able to sense changes in currents and water quality
-- **Communal Living**: Merfolk place great emphasis on community and shared resources, creating strong social bonds
-- **Water Magic**: Merfolk have a natural connection to water magic, allowing them to manipulate this element with moderate proficiency
-- **Adaptability**: Merfolk can thrive in various aquatic environments, from shallow reefs to the deepest trenches
+- **Aquatic Grace** (水生の優雅さ): マーフォークは水泳と水生移動に優れており、他の種族よりも水をナビゲートする能力が優れていることが多い
+- **Environmental Sensitivity** (環境への感受性): マーフォークは水生環境に深く同調しており、海流や水質の変化を感知できる
+- **Communal Living** (共同生活): マーフォークはコミュニティと共有資源を重視し、強固な社会的絆を築いている
+- **Water Magic** (水魔法): マーフォークは水魔法との自然な繋がりがあり、適度な熟練度でこの要素を操作できる
+- **Adaptability** (適応性): マーフォークは、浅い珊瑚礁から最も深い海溝まで、さまざまな水生環境で繁栄できる
 
-## Merfolk Tribes
+**マーフォーク**の本質を理解することで、**OpenFantasy**の世界の水生側面への洞察が得られます。まるで海に響き渡る深く共鳴するメロディーに耳を傾けるようです。
 
-Merfolk society is organized into numerous tribes, each with its own specialties and traditions:
+## マーフォーク部族
+
+マーフォーク社会は、それぞれの専門と伝統を持つ多数の部族に組織されています。
 
 | Tribe | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
-| **Reefdwellers** | Craftsmanship, community | Coral reefs | Crafting abilities, communal living |
-| **Deepswimmers** | Exploration, knowledge | Ocean depths | Exploration abilities, ancient knowledge |
-| **Tidecallers** | Water magic, communication | Coastal regions | Communication abilities, water manipulation |
-| **Stormriders** | Combat, protection | Open ocean | Combat abilities, protective magic |
-| **Coralcrafters** | Art, architecture | Kelp forests | Artistic abilities, architectural innovation |
-| **Estuaryguardians** | Diplomacy, trade | Estuaries | Diplomatic skills, trading expertise |
+| **Reefdwellers** (珊瑚礁居住者) | Craftsmanship, community (職人技、コミュニティ) | Coral reefs (珊瑚礁) | Crafting abilities, communal living (職人能力、共同生活) |
+| **Deepswimmers** (深海遊泳者) | Exploration, knowledge (探検、知識) | Ocean depths (海洋深部) | Exploration abilities, ancient knowledge (探検能力、古代の知識) |
+| **Tidecallers** (潮流呼び) | Water magic, communication (水魔法、コミュニケーション) | Coastal regions (沿岸地域) | Communication abilities, water manipulation (コミュニケーション能力、水の操作) |
+| **Stormriders** (嵐乗り) | Combat, protection (戦闘、保護) | Open ocean (外洋) | Combat abilities, protective magic (戦闘能力、保護魔法) |
+| **Coralcrafters** (珊瑚細工師) | Art, architecture (芸術、建築) | Kelp forests (海藻の森) | Artistic abilities, architectural innovation (芸術能力、建築革新) |
+| **Estuaryguardians** (河口守護者) | Diplomacy, trade (外交、貿易) | Estuaries (河口) | Diplomatic skills, trading expertise (外交スキル、貿易専門知識) |
 
-Understanding the nature of **merfolk** provides insight into the aquatic aspects of the world of **OpenFantasy**, like listening to the deep, resonant melodies that echo through the oceans. 
+**マーフォーク**の性質を理解することは、まるで海に響き渡る深く共鳴するメロディーに耳を傾けるように、**OpenFantasy**の世界の海生側面への洞察を提供します。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,213 +1,216 @@
-# **The School of Conjuration**
+# **召喚術学院**
 
-> *"To conjure is to reach across the veil of possibility and draw forth that which exists elsewhere. It is not creation, but connection—a bridge between realms."*  
-> — Archconjurer Thaddeus Voidcaller, Master of the Summoning Circle
+> *"召喚とは、可能性のヴェールを越えて、別の場所に存在するものを引き寄せることである。それは創造ではなく、接続である。領域間の橋なのだ。"*
+> — 大召喚術師サディアス・ヴォイドコーラー、召喚円の達人
 
-## Overview
+## 概要
 
-Conjuration is the school of magic focused on calling forth matter, energy, or entities from elsewhere—whether from another location in the material world, elemental planes, or even other dimensions. Unlike illusion that creates sensory deception or evocation that generates effects from raw magical energy, conjuration involves the transportation, manifestation, or binding of pre-existing elements. It is considered one of the most potentially dangerous magical disciplines due to its interaction with forces and entities beyond the caster's native realm.
+召喚術は、物質世界内の別の場所、元素界、あるいは異次元から、物質、エネルギー、または実体を呼び出すことに焦点を当てた魔法の学派です。感覚的な欺瞞を生み出す幻術や、生の魔力から効果を生み出す喚起術とは異なり、召喚術は既存の要素の輸送、顕現、または束縛を伴います。それは、術者の出身領域を超えた力や実体との相互作用のため、潜在的に最も危険な魔法の分野の一つと考えられています。
 
-## Fundamental Principles
+## 基本原則
 
-### The Correspondence Axiom
+### 対応原理
 
-The foundation of conjuration theory is the Correspondence Axiom, which states that all things that exist share fundamental resonant patterns that can be leveraged to create connections across space, time, and dimensional boundaries. By replicating these patterns, conjurers can establish temporary or permanent links between distant points.
+召喚術理論の基礎は対応原理であり、存在するすべてのものは、空間、時間、次元の境界を越えて接続を作成するために活用できる基本的な共鳴パターンを共有すると述べています。これらのパターンを再現することで、召喚術師は遠隔地点間に一時的または永続的なリンクを確立できます。
 
-### Primary Components
+### 主要な構成要素
 
-All conjuration spells incorporate three fundamental components:
+すべての召喚呪文は、3つの基本的な構成要素を組み込んでいます。
 
-1. **Pattern Recognition**: Identifying the specific resonant signature of the target
-2. **Spatial Bridging**: Creating a connection between the caster's location and the target's location
-3. **Manifestation Control**: Guiding and containing the conjured element upon arrival
+1. **パターン認識**: ターゲットの特定の共鳴シグネチャを識別する
+2. **空間ブリッジ**: 術者の位置とターゲットの位置の間に接続を作成する
+3. **顕現制御**: 到着時に召喚された要素を誘導および包含する
 
-More complex conjurations add additional components:
+より複雑な召喚には、追加のコンポーネントが追加されます。
 
-4. **Binding Frameworks**: Establishing control over conjured entities
-5. **Duration Anchoring**: Extending the manifestation period beyond immediate casting
-6. **Return Protocols**: Methods for dismissing or returning conjured elements
+4. **束縛フレームワーク**: 召喚された実体に対する制御を確立する
+5. **持続時間アンカー**: 顕現期間を即時詠唱を超えて延長する
+6. **帰還プロトコル**: 召喚された要素を解除または返却する方法
 
-### Mana Requirements
+### マナ要件
 
-Conjuration requires specific combinations of mana types, with purity levels that increase with the complexity and distance of the conjuration:
+召喚術には、特定のマナタイプの組み合わせが必要です。純度レベルは、召喚の複雑さと距離とともに増加します。
 
-| Conjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| 召喚タイプ | 主要マナ | 二次マナ | 三次マナ | 目的 |
 |------------------|-------------|----------------|---------------|---------|
-| Object Summoning | Base Mana (40-50%) | Terramana (20-30%) | N/A | Material objects |
-| Elemental Calling | Base Mana (50-60%) | Elemental type (30-40%) | N/A | Elemental forces |
-| Entity Summoning | Base Mana (60-70%) | Varies by entity | Aetheramana (10-20%) | Living beings |
-| Teleportation | Base Mana (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Self/object movement |
-| Extradimensional Space | Base Mana (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Pocket dimensions |
-| Planar Gateway | Base Mana (70-80%) | Aetheramana (40-50%) | Varies by plane | Interplanar travel |
+| オブジェクト召喚 | ベースマナ (40-50%) | テラマナ (20-30%) | N/A | 物質オブジェクト |
+| 元素呼び出し | ベースマナ (50-60%) | 元素タイプ (30-40%) | N/A | 元素力 |
+| 実体召喚 | ベースマナ (60-70%) | 実体によって異なる | エーテルマナ (10-20%) | 生き物 |
+| テレポート | ベースマナ (50-60%) | クロノスマナ (20-30%) | エーテルマナ (10-20%) | 自己/オブジェクトの移動 |
+| 次元空間 | ベースマナ (60-70%) | エーテルマナ (20-30%) | クロノスマナ (10-20%) | ポケット次元 |
+| 次元ゲート | ベースマナ (70-80%) | エーテルマナ (40-50%) | 次元によって異なる | 次元間旅行 |
 
-### Wild Mana Response
+### ワイルドマナ反応
 
-Conjuration magic has a complex relationship with Wild Mana. While controlled conjuration requires precise patterns, Wild Mana can actually enhance certain types of summoning by:
+召喚術は、ワイルドマナとの複雑な関係を持っています。制御された召喚には正確なパターンが必要ですが、ワイルドマナは実際に特定のタイプの召喚を強化することができます。
 
-- **Boundary Weakening**: Making it easier to reach across planar boundaries
-- **Manifestation Boosting**: Providing additional energy for materialization
-- **Pattern Expansion**: Allowing for less exact correspondent patterns to succeed
+- **境界弱体化**: 平面境界を越えて到達しやすくする
+- **顕現ブースト**: 物質化のための追加エネルギーを提供する
+- **パターン拡張**: あまり正確ではない対応パターンでも成功を可能にする
 
-However, these benefits come with significant risks:
+ただし、これらの利点には重大なリスクが伴います。
 
-- **Location Drift**: Conjured elements may arrive from unexpected sources
-- **Partial Manifestation**: Incomplete or distorted summoning results
-- **Binding Failure**: Loss of control over conjured entities or elements
-- **Reverse Flow**: The caster being pulled toward the target rather than vice versa
+- **位置ずれ**: 召喚された要素が予期しないソースから到着する可能性がある
+- **部分的な顕現**: 不完全または歪んだ召喚結果
+- **束縛失敗**: 召喚された実体または要素に対する制御の喪失
+- **逆流**: 術者がターゲットに引き寄せられる
 
-## Mana Purification for Conjuration
+## 召喚のためのマナ精製
 
-Conjuration requires high mana purity for precise targeting and control:
+召喚術では、正確なターゲティングと制御のために高いマナ純度が必要です。
 
-| Purification Level | Conjuration Capability |
+| 精製レベル | 召喚能力 |
 |--------------------|------------------------|
-| Basic (15-25%) | Simple object summoning from visible locations |
-| Intermediate (30-45%) | Elemental calling and teleportation of small objects over moderate distances |
-| Advanced (50-65%) | Entity summoning, personal teleportation, and minor extradimensional spaces |
-| Master (70-80%) | Complex entity binding, group teleportation, and stable pocket dimensions |
-| Grandmaster (85%+) | Planar gateways and permanent extradimensional constructs |
+| 基本 (15-25%) | 目に見える場所からの単純なオブジェクト召喚 |
+| 中級 (30-45%) | 元素呼び出しと適度な距離にわたる小さなオブジェクトのテレポート |
+| 上級 (50-65%) | 実体召喚、個人テレポート、および小さな次元空間 |
+| 達人 (70-80%) | 複雑な実体束縛、グループテレポート、および安定したポケット次元 |
+| グランドマスター (85%+) | 次元ゲートと永続的な次元構造 |
 
-Insufficient purity in conjuration often results in material or spatial distortion—objects arriving damaged, locations being slightly misaligned, or entities appearing with altered properties.
+召喚における純度が不十分な場合、物質的または空間的な歪みが生じることがよくあります。オブジェクトが損傷して到着したり、場所がわずかにずれていたり、実体のプロパティが変更されたりします。
 
-## The Conjurer's Harmony
+## 召喚術師の調和
 
-Conjuration magic is conceptualized through musical counterpoint, with each spell creating harmonic relationships between source and destination:
+召喚術は、音楽の対位法を通して概念化され、各呪文はソースと宛先の間に調和関係を作成します。
 
-- **Unison**: Direct transportation with minimal change
-- **Octave Shift**: Scaling effects (enlarging or diminishing the conjured element)
-- **Harmonization**: Adapting the conjured element to its new environment
-- **Dissonant Conjuring**: Forcing incompatible elements into manifestation
-- **Resonant Summoning**: Enhanced manifestation through matching harmonics
+- **ユニゾン**: 最小限の変更での直接輸送
+- **オクターブシフト**: スケーリング効果 (召喚された要素の拡大または縮小)
+- **ハーモナイゼーション**: 召喚された要素を新しい環境に適応させる
+- **不協和音召喚**: 互換性のない要素を強制的に顕現させる
+- **共鳴召喚**: 一致する高調波による顕現の強化
 
-Master conjurers speak of "conducting" multiple simultaneous manifestations, maintaining distinct harmonic relationships with each conjured element.
+マスター召喚術師は、複数の同時顕現を「指揮」し、召喚された各要素との明確な調和関係を維持することについて語ります。
 
-## Specialized Disciplines
+## 特殊分野
 
-### Summoning
+### 召喚
 
-The calling of entities, whether elemental, spiritual, or organic. Practitioners are known as Summoners.
+元素、霊的、または有機的実体の呼び出し。実践者は召喚師として知られています。
 
-### Material Conjuration
+### 物質召喚
 
-Focused on manifesting non-living objects and substances. Masters are called Materializers.
+非生物の物体と物質の顕現に焦点を当てています。マスターは物質化者と呼ばれます。
 
-### Spatial Manipulation
+### 空間操作
 
-Specialized in teleportation and dimensional pockets. Practitioners are called Spatials.
+テレポートと次元ポケットに特化しています。実践者は空間師と呼ばれます。
 
-### Binding
+### 束縛
 
-The control and constraint of conjured entities. Masters are known as Binders.
+召喚された実体の制御と制約。マスターは束縛者として知られています。
 
-### Gateway Creation
+### ゲートウェイ作成
 
-Establishing permanent or semi-permanent connections between locations. Practitioners are called Gateweavers.
+場所間の永続的または半永続的な接続の確立。実践者はゲートウィーバーと呼ばれます。
 
-### Dismissal
+### 解除
 
-Specialized in returning conjured elements to their origin. Masters are known as Banishers.
+召喚された要素を元の場所に戻すことに特化しています。マスターは追放者として知られています。
 
-### Planar Exploration
+### 次元探査
 
-The study and access of other planes of existence. Practitioners are called Planeswalkers.
+他の存在次元の研究とアクセス。実践者はプレーンウォーカーと呼ばれます。
 
-## Training Methodology
+## 訓練方法
 
-Conjuration training follows a structured progression:
+召喚術の訓練は、構造化された進行に従います。
 
-1. **Theoretical Foundations**: Understanding cross-spatial relationships and correspondence
-2. **Local Manifestation**: Practicing with objects in visual range
-3. **Distance Expansion**: Gradually increasing the range of conjuration
-4. **Elemental Work**: Summoning the more predictable elemental forces
-5. **Dimensional Theory**: Study of other planes and dimensions
-6. **Entity Protocols**: Safe summoning and binding of sentient beings
-7. **Self-Translation**: Personal teleportation techniques
-8. **Combined Operations**: Managing multiple conjurations simultaneously
+1. **理論的基礎**: 空間間の関係と対応の理解
+2. **ローカル顕現**: 目視範囲内のオブジェクトでの練習
+3. **距離拡張**: 召喚の範囲を徐々に拡大する
+4. **元素作業**: より予測可能な元素力の召喚
+5. **次元理論**: 他の次元の研究
+6. **実体プロトコル**: 知覚のある存在の安全な召喚と束縛
+7. **自己翻訳**: 個人的なテレポート技術
+8. **複合運用**: 複数の召喚を同時に管理する
 
-Training emphasizes control and containment above all else, with rigorous safety protocols developed from centuries of sometimes catastrophic failures.
+訓練は、何よりも制御と封じ込めに重点を置いており、数世紀にわたる時には壊滅的な失敗から開発された厳格な安全プロトコルがあります。
 
-## Conjuration in Practice
+## 召喚術の実践
 
-The process of casting conjuration magic follows distinct phases:
+召喚術の詠唱プロセスは、明確な段階に従います。
 
-1. **Target Identification**: Determining the specific element to be conjured
-2. **Pattern Matching**: Establishing the resonant link to the target
-3. **Mana Purification**: Achieving the necessary purity for stable connections
-4. **Boundary Thinning**: Creating the spatial or dimensional pathway
-5. **Draw or Push**: Pulling the target to the caster or moving the caster to the target
-6. **Manifestation Stabilization**: Anchoring the conjured element in its new location
-7. **Binding (if needed)**: Establishing control over conjured entities
-8. **Dismissal Preparation**: Setting conditions for ending the conjuration
+1. **ターゲット識別**: 召喚する特定の要素を決定する
+2. **パターンマッチング**: ターゲットへの共鳴リンクを確立する
+3. **マナ精製**: 安定した接続に必要な純度を達成する
+4. **境界薄化**: 空間的または次元的な経路を作成する
+5. **引き込みまたは押し込み**: ターゲットを術者に引き寄せるか、術者をターゲットに移動させる
+6. **顕現安定化**: 召喚された要素を新しい場所に固定する
+7. **束縛 (必要に応じて)**: 召喚された実体に対する制御を確立する
+8. **解除準備**: 召喚を終了するための条件を設定する
 
-For emergency conjuration, these steps may be compressed into rapid casting, while complex summonings often involve elaborate ritual circles and extended preparation.
+緊急召喚の場合、これらの手順は迅速な詠唱に圧縮される可能性があり、複雑な召喚には、精巧な儀式円と拡張された準備がしばしば伴います。
 
-## Practical Applications
+## 実用的な応用
 
-Conjuration serves numerous practical functions in magical society:
+召喚術は、魔法社会において多くの実用的な機能を提供します。
 
-- **Transportation**: Personal and group teleportation networks, item delivery systems
-- **Resource Acquisition**: Summoning rare materials from distant locations
-- **Space Optimization**: Extradimensional storage for homes, businesses, and archives
-- **Emergency Services**: Rapid response through teleportation, summoning water for firefighting
-- **Construction**: Conjuring building materials directly at construction sites
-- **Military**: Strategic troop deployment, supply line maintenance, battlefield control
-- **Entertainment**: Conjuration performances featuring exotic entities or spectacular manifestations
+- **輸送**: 個人およびグループのテレポートネットワーク、アイテム配達システム
+- **資源獲得**: 遠隔地からの希少な物質の召喚
+- **空間最適化**: 家庭、ビジネス、およびアーカイブのための次元ストレージ
+- **緊急サービス**: テレポートによる迅速な対応、消火のための水の召喚
+- **建設**: 建設現場での建設資材の直接召喚
+- **軍事**: 戦略的な部隊展開、サプライラインの維持、戦場の制御
+- **エンターテイメント**: エキゾチックな実体または壮大な顕現をフィーチャーした召喚パフォーマンス
 
-## Ethical Considerations
+## 倫理的考察
 
-Conjuration raises significant ethical questions:
+召喚術は、重大な倫理的問題を提起します。
 
-- **Entity Rights**: The moral implications of summoning and binding sentient beings
-- **Ecosystem Impact**: Consequences of removing elements from their native environments
-- **Dimensional Stability**: Potential harm from weakening planar boundaries
-- **Informed Consent**: Whether entities understand or agree to being summoned
-- **Environmental Exploitation**: Using conjuration to extract resources from vulnerable regions
-- **Secure Transport**: Privacy and security concerns with teleportation networks
+- **実体権利**: 知覚のある存在を召喚して束縛することの道徳的意味合い
+- **生態系への影響**: 要素を元の環境から削除することの結果
+- **次元安定性**: 平面境界を弱めることによる潜在的な害
+- **インフォームドコンセント**: 実体が召喚されていることを理解または同意しているかどうか
+- **環境搾取**: 召喚を使用して脆弱な地域から資源を抽出する
+- **安全な輸送**: テレポートネットワークに関するプライバシーとセキュリティの問題
 
-Most conjuration academies enforce strict ethical codes governing entity summoning and extradimensional access.
+ほとんどの召喚術学院は、実体召喚と次元アクセスを管理する厳格な倫理規定を施行しています。
 
-## Limitations and Weaknesses
+## 制限と弱点
 
-Despite its power, conjuration has inherent limitations:
+その力にもかかわらず、召喚術には固有の制限があります。
 
-- **Conservation Principles**: Matter and energy can be moved but not created from nothing
-- **Correspondence Requirements**: Conjurers must have some connection to or knowledge of their target
-- **Distance Factors**: Energy requirements increase exponentially with distance or dimensional separation
-- **Unwilling Resistance**: Sentient targets can resist summoning or teleportation
-- **Planar Compatibility**: Some elements cannot exist in environments too different from their origin
-- **Dimensional Rejection**: Repeated conjuration to the same location can create instability
+- **保存の原則**: 物質とエネルギーは移動できますが、無から創造することはできません
+- **対応要件**: 召喚術師は、ターゲットへの何らかの接続または知識を持っている必要があります
+- **距離要因**: エネルギー要件は、距離または次元分離とともに指数関数的に増加します
+- **抵抗**: 知覚のあるターゲットは、召喚またはテレポートに抵抗することができます
+- **平面互換性**: 一部の要素は、元の要素とは大きく異なる環境に存在できません
+- **次元拒否**: 同じ場所への繰り返しの召喚は、不安定性を生み出す可能性があります
 
-Common countermeasures against conjuration include:
+召喚に対する一般的な対策は次のとおりです。
 
-- **Anchor Wards**: Magical protections that prevent teleportation or summoning
-- **Pattern Obscuring**: Techniques to hide one's resonant signature from would-be summoners
-- **Dimensional Shielding**: Barriers that block access from other planes
-- **Binding Severing**: Methods to break control over summoned entities
-- **Return Forcing**: Compelling conjured elements to return to their origin prematurely
+- **アンカー結界**: テレポートまたは召喚を防止する魔法の保護
+- **パターン曖昧化**: 召喚者から自分の共鳴シグネチャを隠す技術
+- **次元シールド**: 他の平面からのアクセスをブロックするバリア
+- **束縛切断**: 召喚された実体に対する制御を破る方法
+- **強制帰還**: 召喚された要素を強制的に早期に元の場所に戻す
 
-## Musical Analogy
+## 音楽的アナロジー
 
-In the musical framework of magic, conjuration represents string instruments—creating connections that vibrate across distances, pulling disparate elements into harmony. The conjurer is like a harpist, plucking the strings that connect different points in the multiverse.
+魔法の音楽的フレームワークでは、召喚術は弦楽器を表しています。距離を超えて振動する接続を作成し、異質な要素を調和させます。召喚術師は、多次元宇宙の異なる点を結び付ける弦を弾くハープ奏者のようです。
 
-Conjuration spells are described in terms of "resonance" and "harmonics," with each successful manifestation requiring perfect tuning between the caster and target. Master conjurers can maintain complex "chords" of multiple connections simultaneously, drawing elements from various sources into carefully orchestrated combinations.
+召喚呪文は「共鳴」と「高調波」という用語で説明され、各成功した顕現には、術者とターゲット間の完全な調整が必要です。マスター召喚術師は、複数の接続の複雑な「コード」を同時に維持し、さまざまなソースから要素を慎重に調整された組み合わせに引き込むことができます。
 
-## Notable Practitioners
+## 著名な実践者
 
-- **Thaddeus Voidcaller**: Pioneer of safe entity summoning protocols and creator of the Sevenfold Binding Circle
-- **Lydia Gateheart**: Established the first permanent teleportation network spanning the continent
-- **Corvus Dimensionum**: Legendary explorer of pocket dimensions and creator of the Pocket Academy
-- **Elara Quicksilver**: Master of combat teleportation and developer of the Spatial Combat System
-- **Malachi Netherbridge**: Controversial researcher who established first contact with the Far Realms
+- **サディアス・ヴォイドコーラー**: 安全な実体召喚プロトコルの先駆者であり、七重束縛円の作成者
+- **リディア・ゲートハート**: 大陸をまたがる最初の永続的なテレポートネットワークを確立
+- **コーバス・ディメンショナム**: ポケット次元の伝説的な探検家であり、ポケット学院の創設者
+- **エララ・クイックシルバー**: 戦闘テレポートの達人であり、空間戦闘システムの開発者
+- **マラキ・ネザーブリッジ**: 物議を醸す研究者であり、極遠界との最初の接触を確立
 
-## Safety Protocols
+## 安全プロトコル
 
-Due to the inherent dangers of conjuration, standardized safety measures include:
+召喚術の固有の危険性のため、標準化された安全対策は次のとおりです。
 
-- **Containment Circles**: Mandatory for all entity summoning
-- **Pattern Verification**: Double-checking correspondences before casting
-- **Emergency Dismissal Words**: Universal phrases taught to instantly end conjurations
-- **Planar Anchoring**: Methods to prevent unwanted dimensional drift
-- **Entity Contracts**: Formal agreements with regularly summoned beings
-- **Observation Partners**: Required second casters for monitoring complex conjurations
+- **封じ込め円**: すべての実体召喚に必須
+- **パターン検証**: 詠唱前に対応を再確認する
+- **緊急解除ワード**: 召喚を即座に終了するために教えられた普遍的なフレーズ
+- **平面アンカー**: 不要な次元ドリフトを防ぐ方法
+- **実体契約**: 定期的に召喚される存在との正式な合意
+- **観察パートナー**: 複雑な召喚を監視するための2番目の詠唱者が必要
 
-The Conjurer's Oath, taken by all certified practitioners, includes the promise to "never call what cannot be dismissed, never bind what cannot be controlled, and never open doors that cannot be closed." 
+すべての認定された実践者が受ける召喚術師の誓いには、「解除できないものを決して呼び出さず、制御できないものを決して束縛せず、閉じることができない扉を決して開かない」という約束が含まれています。
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

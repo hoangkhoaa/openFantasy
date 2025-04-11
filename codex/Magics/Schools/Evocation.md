@@ -1,188 +1,192 @@
-# **The School of Evocation**
+# **召喚術学院**
 
-> *"To evoke is to call power from within and without, to shape raw force through will and voice. Not a request, but a demand that the elements answer."*  
-> — Arch-Evoker Ragnarr Stormcaller, Grand Master of the Crimson Tower
+> *"召喚とは、内なる力、そして外なる力を呼び起こし、生の力を意志と声を通して形作ることだ。それは願いではなく、元素に応答を要求する命令なのだ。"*
+> — 大召喚術師ラグナール・ストームコーラー、深紅の塔のグランドマスター
 
-## Overview
+## 概要
 
-Evocation is the direct manipulation of magical energy to create powerful, often spectacular effects. It is the most visibly impressive school of magic, channeling raw elemental forces into existence through sheer will and precise mana manipulation. Evocation spells typically produce immediate, dramatic results - from conjuring destructive elemental forces to creating shields of pure magical energy.
+召喚術とは、魔法エネルギーを直接操作し、強力でしばしば壮大な効果を生み出すことである。それは最も視覚的に印象的な魔法の学派であり、生の元素の力を純粋な意志と正確なマナ操作を通して現実に導く。召喚術の呪文は、通常、破壊的な元素の力を呼び出すことから、純粋な魔法エネルギーの盾を作り出すことまで、即座に劇的な結果をもたらす。
 
-## Fundamental Principles
+## 基本原則
 
-### The Voice of Command
+### 命令の声
 
-Evocation operates on the principle that elemental forces can be commanded through proper mana resonance and authoritative will. Unlike enchantment which persuades or illusion which deceives, evocation directly calls forth power, demanding that it manifest in specific ways. This school requires strong mental discipline and exceptional mana projection capabilities.
+召喚術は、元素の力が適切なマナ共鳴と権威ある意志を通して命令できるという原則に基づいて機能する。説得するエンチャントや欺瞞するイリュージョンとは異なり、召喚術は直接力を呼び出し、特定の方法で現れることを要求する。この学派は、強い精神的規律と卓越したマナ投影能力を必要とする。
 
-### Primary Components
+### 主要な構成要素
 
-All evocation spells incorporate three fundamental components:
+すべての召喚術の呪文は、3つの基本的な構成要素を組み込んでいる。
 
-1. **Mana Condensation**: Gathering and concentrating magical energy
-2. **Elemental Affinity**: Aligning the mana with specific elemental properties
-3. **Force Projection**: Directing the manifested energy with precision and control
+1. **マナ凝縮**: 魔法エネルギーの収集と濃縮
+2. **元素親和性**: 特定の元素特性とマナを同調させる
+3. **力投影**: 発現したエネルギーを正確かつ制御して指向する
 
-### Mana Requirements
+### マナ要件
 
-Evocation typically requires large quantities of mana with compositions heavily weighted toward the relevant elemental types:
+召喚術は、通常、関連する元素タイプに大きく偏った組成を持つ大量のマナを必要とする。
 
-| Evocation Focus | Primary Mana | Secondary Mana | Purpose |
+| 召喚焦点 | 主なマナ | 副次的なマナ | 目的 |
 |-----------------|-------------|----------------|---------|
-| Fire Evocation | Ignamana (60-80%) | Base Mana (10-30%) | Heat and combustion manifestation |
-| Water Evocation | Aquamana (60-80%) | Base Mana (10-30%) | Liquid manipulation and pressure control |
-| Earth Evocation | Terramana (60-80%) | Base Mana (10-30%) | Density manipulation and stability |
-| Air Evocation | Aeromana (60-80%) | Base Mana (10-30%) | Movement and pressure differential |
-| Lightning Evocation | Aeromana (40-60%) | Ignamana (30-50%) | Electrical charge generation |
-| Force Evocation | Base Mana (70-90%) | Varies by effect | Pure kinetic energy manipulation |
-| Light Evocation | Luxmana (60-80%) | Base Mana (10-30%) | Visible spectrum manifestation |
-| Shadow Evocation | Umbramana (60-80%) | Base Mana (10-30%) | Absence of light manipulation |
+| 火炎召喚 | イグナマナ (60-80%) | ベースマナ (10-30%) | 熱と燃焼の発現 |
+| 水流召喚 | アクアマナ (60-80%) | ベースマナ (10-30%) | 液体操作と圧力制御 |
+| 大地召喚 | テラマナ (60-80%) | ベースマナ (10-30%) | 密度操作と安定性 |
+| 大気召喚 | エアロマナ (60-80%) | ベースマナ (10-30%) | 動きと圧力差 |
+| 雷電召喚 | エアロマナ (40-60%) | イグナマナ (30-50%) | 電荷生成 |
+| 力場召喚 | ベースマナ (70-90%) | 効果により異なる | 純粋な運動エネルギー操作 |
+| 光輝召喚 | ルクスマナ (60-80%) | ベースマナ (10-30%) | 可視スペクトルの発現 |
+| 暗影召喚 | ウンブラマナ (60-80%) | ベースマナ (10-30%) | 光の不在の操作 |
 
-### Wild Mana Interference
+### 野生マナ干渉
 
-Evocation has a complex relationship with Wild Mana. While wild energy can amplify the raw power of evocation spells, it introduces significant control problems:
+召喚術は、野生マナと複雑な関係を持っている。野生エネルギーは召喚術の生の力を増幅する可能性があるが、重大な制御の問題を引き起こす。
 
-- **Power Surge**: Uncontrolled amplification of spell effects
-- **Elemental Contamination**: Introduction of unintended elemental properties
-- **Directional Instability**: Loss of precision in targeting
-- **Feedback Loops**: Dangerous energy cycling back to the caster
+- **パワーサージ**: 呪文効果の制御不能な増幅
+- **元素汚染**: 意図しない元素特性の導入
+- **方向不安定性**: ターゲティングにおける精度の喪失
+- **フィードバックループ**: キャスターに危険なエネルギーサイクルバック
 
-Paradoxically, some battle evokers deliberately introduce controlled amounts of Wild Mana to create more unpredictable and therefore harder-to-counter effects, though this practice is considered extremely dangerous.
+逆説的に、一部の戦闘召喚術師は、より予測不可能で、したがって対抗が難しい効果を生み出すために、意図的に制御された量の野生マナを導入するが、この行為は極めて危険であると考えられている。
 
-## Mana Purification for Evocation
+## 召喚術のためのマナ精製
 
-Evocation requires a balance between quantity and quality of mana. While the raw power of evocation benefits from large mana reserves, insufficient purity results in unstable and potentially dangerous effects.
+召喚術は、マナの量と質のバランスを必要とする。召喚術の生の力は大量のマナの蓄えから恩恵を受けるが、不十分な純度は不安定で潜在的に危険な効果をもたらす。
 
-| Purification Level | Evocation Capability |
+| 精製レベル | 召喚能力 |
 |--------------------|----------------------|
-| Basic (15-25%) | Simple elemental manifestations with limited control |
-| Intermediate (30-45%) | Reliable elemental effects with moderate power and accuracy |
-| Advanced (50-65%) | Complex evocations with precise control and significant force |
-| Master (70-80%) | Multi-elemental combinations and exceptional power-to-control ratio |
-| Grandmaster (85%+) | Perfect elemental harmony with maximum efficiency and minimal waste |
+| 基本 (15-25%) | 限られた制御による単純な元素発現 |
+| 中間 (30-45%) | 適度な力と精度を備えた信頼性の高い元素効果 |
+| 上級 (50-65%) | 正確な制御と大きな力を備えた複雑な召喚 |
+| マスター (70-80%) | 複数の元素の組み合わせと卓越した力対制御の比率 |
+| グランドマスター (85%+) | 最大の効率と最小の浪費を備えた完璧な元素ハーモニー |
 
-## The Elemental Octave in Evocation
+## 召喚術における元素のオクターブ
 
-Evocation particularly relies on understanding the Elemental Octave, as combining complementary elements creates harmonious and efficient spells, while opposing elements can create destructive interference or even spell failure.
+召喚術は、特に元素のオクターブの理解に依存している。相補的な元素を組み合わせると調和のとれた効率的な呪文が作成される一方、対立する元素は破壊的な干渉、あるいは呪文の失敗を引き起こす可能性があるためである。
 
-The elemental relationships in evocation follow the standard Elemental Wheel, but with particular attention to:
+召喚術における元素の関係は、標準的な元素の輪に従うが、特に以下の点に注意する。
 
-- **Harmonic Pairs**: Fire-Air, Water-Earth, Light-Life, Shadow-Death
-- **Dissonant Pairs**: Fire-Water, Air-Earth, Light-Shadow, Life-Death
-- **Constructive Triads**: Fire-Earth-Light, Water-Air-Shadow, etc.
+- **調和対**: 火-風、水-土、光-生、影-死
+- **不協和対**: 火-水、風-土、光-影、生-死
+- **構築的三位一体**: 火-土-光、水-風-影など
 
-Master evokers learn to "play" the elemental harmonies like musical instruments, creating complex "chords" of elemental forces that produce effects greater than the sum of their parts.
+マスター召喚術師は、元素のハーモニーを楽器のように「演奏」することを学び、その部分の合計よりも大きな効果を生み出す元素の力の複雑な「コード」を作成する。
 
-## Specialized Disciplines
+## 専門分野
 
-### Pyromancy
+### 火炎術
 
-Focused on fire manipulation, from controlled flames to explosive conflagrations. Practitioners are known as Pyromancers.
+制御された炎から爆発的な大火まで、火の操作に焦点を当てている。実践者は火炎術師として知られている。
 
-### Hydromancy
+### 水流術
 
-The art of water control, including mist, ice, and steam manipulation. Masters are called Tidesingers.
+霧、氷、蒸気操作を含む、水の制御の技術。マスターはタイドシンガーと呼ばれる。
 
-### Geomancy
+### 大地術
 
-Specializes in earth and stone manipulation. Practitioners are known as Stoneshapers.
+土と石の操作を専門としている。実践者はストーンシェイパーとして知られている。
 
-### Aeromancy
+### 大気術
 
-The discipline of air and wind control. Practitioners are called Windweavers.
+空気と風の制御の学問。実践者はウィンドウィーバーと呼ばれる。
 
-### Electromancy
+### 雷電術
 
-Advanced discipline focused on lightning and electrical energy. Masters are known as Stormcallers.
+雷と電気エネルギーに焦点を当てた高度な学問。マスターはストームコーラーとして知られている。
 
-### Umbramancy
+### 暗影術
 
-The manipulation of shadow and darkness. Practitioners are called Shadowcasters.
+影と闇の操作。実践者はシャドウキャスターと呼ばれる。
 
-### Luxomancy
+### 光輝術
 
-Specializes in light manipulation beyond simple illumination. Masters are known as Lightbringers.
+単純な照明を超えた光の操作を専門としている。マスターはライトブリンガーとして知られている。
 
-### Force Manipulation
+### 力場操作
 
-The advanced discipline of pure kinetic energy control. Practitioners are called Forceshapers.
+純粋な運動エネルギー制御の高度な学問。実践者はフォースシェイパーと呼ばれる。
 
-## Training Methodology
+## 訓練方法
 
-Evocation training follows a distinct progression:
+召喚術の訓練は、明確な進歩をたどる。
 
-1. **Elemental Affinity Discovery**: Identifying a student's natural elemental connections
-2. **Power Control Exercises**: Learning to regulate mana output and projection
-3. **Single-Element Mastery**: Developing expertise with one primary element
-4. **Precision Training**: Exercises focused on accuracy and fine control
-5. **Secondary Element Introduction**: Expanding capabilities to complementary elements
-6. **Combat Applications**: Tactical uses of evocation in controlled scenarios
-7. **Elemental Harmonization**: Advanced techniques for combining multiple elements
-8. **Efficiency Refinement**: Reducing mana costs while maintaining effect potency
+1. **元素親和性の発見**: 学生の自然な元素のつながりを特定する
+2. **パワーコントロール演習**: マナ出力と投影の調整を学ぶ
+3. **単一元素の習得**: 1つの主要な元素に関する専門知識を開発する
+4. **精度訓練**: 精度と微細な制御に焦点を当てた演習
+5. **副次元素の導入**: 相補的な元素への能力拡張
+6. **戦闘応用**: 制御されたシナリオでの召喚術の戦術的な使用
+7. **元素調和**: 複数の元素を組み合わせるための高度な技術
+8. **効率改善**: 効果効力を維持しながらマナコストを削減する
 
-Evocation training often involves more physical components than other magical disciplines, as projecting force frequently requires corresponding physical movements and gestures.
+召喚術の訓練は、他の魔法の学問よりも物理的な構成要素を含むことが多い。力を投影するには、対応する物理的な動きとジェスチャーが必要になることが多いためである。
 
-## Practical Applications
+## 実用的な応用
 
-Beyond its obvious combat applications, evocation serves many practical purposes:
+明らかな戦闘アプリケーションに加えて、召喚術は多くの実用的な目的を果たす。
 
-- **Construction**: Moving heavy materials and shaping elements for building
-- **Agriculture**: Controlling rainfall, temperature, and soil conditions
-- **Transportation**: Propelling vessels or creating pathways
-- **Industry**: Providing heat, pressure, and other forces for manufacturing
-- **Environmental Management**: Controlling natural disasters or extreme weather
-- **Entertainment**: Creating spectacular displays and sensory experiences
+- **建設**: 重い資材の移動と建物のための元素の成形
+- **農業**: 降雨、温度、土壌条件の制御
+- **輸送**: 船舶の推進または経路の作成
+- **産業**: 製造のための熱、圧力、その他の力の提供
+- **環境管理**: 自然災害または異常気象の制御
+- **エンターテイメント**: 壮大なディスプレイと感覚体験の作成
 
-## Safety Protocols
+## 安全プロトコル
 
-Due to its potentially destructive nature, evocation is typically subject to strict safety regulations:
+潜在的に破壊的な性質のため、召喚術は通常、厳格な安全規制の対象となる。
 
-- **Licensing Requirements**: Legal certification based on demonstrated control
-- **Containment Spaces**: Designated areas with protective wards for training
-- **Energy Dispersal Systems**: Emergency measures to safely dissipate magical energy
-- **Practice Limitations**: Restrictions on specific high-risk evocations
-- **Mandatory Supervision**: Requirements for oversight during advanced training
+- **免許要件**: 実証された制御に基づく法的認証
+- **封じ込めスペース**: 訓練用の保護結界を備えた指定エリア
+- **エネルギー分散システム**: 魔法エネルギーを安全に放散するための緊急措置
+- **練習制限**: 特定の危険性の高い召喚に対する制限
+- **義務的な監督**: 高度な訓練中の監督の要件
 
-## Limitations and Countermeasures
+## 制限と対策
 
-Evocation has several inherent limitations:
+召喚術には、いくつかの固有の制限がある。
 
-- **Energy Cost**: High mana consumption limiting sustained use
-- **Control Difficulty**: Increasing complexity with scale and power
-- **Elemental Resistance**: Limited effectiveness against targets with matching elemental properties
-- **Environmental Dependence**: Some evocations require existing elements to amplify
-- **Predictability**: Visible energy signatures that can be anticipated
+- **エネルギーコスト**: 持続的な使用を制限する高いマナ消費
+- **制御の難しさ**: スケールとパワーに伴う複雑さの増加
+- **元素耐性**: 一致する元素特性を持つターゲットに対する限定的な有効性
+- **環境依存**: 既存の元素を増幅する必要があるいくつかの召喚
+- **予測可能性**: 予期できる可視エネルギー署名
 
-Common countermeasures against evocation include:
+召喚術に対する一般的な対策には、以下が含まれる。
 
-- **Elemental Absorption**: Wards that consume or redirect elemental energy
-- **Force Dispersion**: Spreading impact across larger areas to reduce effectiveness
-- **Reflection Barriers**: Surfaces that bounce evocation energy back toward casters
-- **Elemental Opposition**: Using contrary elements to neutralize effects
-- **Disruption Fields**: Areas of Wild Mana that interfere with evocation control
+- **元素吸収**: 元素エネルギーを消費またはリダイレクトする結界
+- **力分散**: 効果を軽減するために広い領域に衝撃を広げる
+- **反射バリア**: 召喚エネルギーをキャスターに向かって跳ね返す表面
+- **元素対立**: 効果を中和するために反対の元素を使用する
+- **破壊フィールド**: 召喚制御を妨げる野生マナの領域
 
-## Musical Analogy
+## 音楽的アナロジー
 
-In the musical framework of magic, evocation represents percussion and brass - bold, direct, and attention-commanding. The evoker is like a drummer establishing rhythm through decisive, powerful movements, or a trumpet player projecting clear notes through space.
+魔法の音楽的フレームワークでは、召喚術は打楽器と金管楽器を表しており、大胆で直接的、そして注目を集める。召喚術師は、決定的で強力な動きを通してリズムを確立するドラマー、または空間を通して明確な音符を投影するトランペット奏者のようだ。
 
-Master evokers describe their work as "conducting the elemental orchestra," bringing forth each element with precise timing and intensity. The most impressive evocations are like symphonic climaxes - multiple elements working in harmony to create overwhelming sensory experiences.
+マスター召喚術師は、自分の仕事を「元素オーケストラの指揮」と表現し、正確なタイミングと強度で各元素を引き出す。最も印象的な召喚は、交響曲のクライマックスのようだ。複数の元素が調和して作用し、圧倒的な感覚体験を生み出す。
 
-## Notable Practitioners
+## 著名な実践者
 
-- **Ragnarr Stormcaller**: Legendary battle-mage famous for calling lightning storms in cloudless skies
-- **Lysandra Flameheart**: Creator of the Dancing Ember spell and pioneer of controlled fire evocation
-- **Terran Stonevoice**: Master geomancer who developed battlefield terrain manipulation techniques
-- **Aria Galewind**: Renowned aeromancer known for developing sustainable wind energy systems
-- **Umbra Nightshade**: Controversial shadowcaster who expanded the understanding of darkness as substance
+- **ラグナール・ストームコーラー**: 雲のない空に雷雨を呼び出すことで有名な伝説的な戦闘魔術師
+- **リサンドラ・フレイムハート**: ダンシングエンバーの呪文の作成者であり、制御された火炎召喚のパイオニア
+- **テラン・ストーンボイス**: 戦場の地形操作技術を開発したマスター大地術師
+- **アリア・ゲイルウィンド**: 持続可能な風力エネルギーシステムを開発したことで知られる著名な大気術師
+- **ウンブラ・ナイトシェード**: 実体としての闇の理解を広げた物議を醸す暗影術師
 
-## Historical Development
+## 歴史的発展
 
-Evocation is among the earliest documented forms of magic, with primitive versions appearing in the earliest tribal cultures as weather control and fire manipulation. The primal appeal and immediate utility of evocation made it widespread.
+召喚術は、最も初期に文書化された魔法の形態の1つであり、初期の部族文化では気象制御や火炎操作として原始的なバージョンが登場した。召喚術の原始的な魅力と即時の有用性がそれを広めた。
 
-The Second Age saw the systematization of evocation theory with the writing of "The Elemental Voice" by Arch-Evoker Ignis. This established the fundamental classifications and safety protocols still used today.
+第2紀には、大召喚術師イグニスによる「元素の声」の執筆により、召喚術理論の体系化が行われた。これにより、今日でも使用されている基本的な分類と安全プロトコルが確立された。
 
-The Third Age brought significant advances in precision and efficiency, moving evocation beyond merely destructive applications toward more nuanced uses. The founding of the Elemental Harmony Academy marked a turning point, where evocation began to be studied as an art form rather than simply a weapon.
+第3紀は、精度と効率の大幅な進歩をもたらし、召喚術を単なる破壊的な応用から、よりニュアンスのある用途へと移行させた。エレメンタルハーモニーアカデミーの設立は転換点となり、召喚術は単なる武器としてではなく、芸術形式として研究され始めた。
 
-Modern evocation continues to evolve, with current research focused on micro-evocation (extremely precise small-scale effects) and harmonic evocation (complex multiple-element combinations).
+現代の召喚術は進化を続けており、現在の研究は、マイクロ召喚（非常に正確な小規模効果）と調和召喚（複雑な複数元素の組み合わせ）に焦点を当てている。
 
 ---
 
-*See also: [Dancing Ember](/codex/Magics/Spells/Elemental/DancingEmber.md), [Elemental Magic](/codex/Magics/ElementalMagic.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*こちらも参照: [ダンシングエンバー](/codex/Magics/Spells/Elemental/DancingEmber.md), [元素魔法](/codex/Magics/ElementalMagic.md), [マナ精製](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

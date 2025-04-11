@@ -1,104 +1,108 @@
-# **Giants**: The Colossal Forces of Nature
+# **Giants**: 自然の巨大な力
 
-[**Giants**](/codex/Creatures/Giants.md) are the colossal forces of nature, their bodies a massive harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a thunderous tuba, they resonate with raw power, creating a unique melody of existence that bridges the mortal and divine realms.
+[**Giants**](/codex/Creatures/Giants.md)は自然の巨大な力であり、その体は[**Exanthis**](/codex/Basic/Exanthis.md)、[**Souls**](/codex/Basic/Soul.md)、そして**Mana Capacity**の巨大な調和です。雷鳴のようなチューバのように、彼らは生の力と共鳴し、死すべき領域と神の領域を結びつけるユニークな存在の旋律を生み出します。
 
-## Elemental Composition
+## 元素組成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **giants** forms a harmony that favors physical might:
+[Creatures](/codex/Creatures/Creatures.md)で詳述されているように、**giants**の典型的な比率は、物理的な力を重視する調和を形成します。
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 65-85% | The crystalline heart that grants extraordinary strength and resilience |
-| **Soul** | 10-20% | The ethereal essence that shapes a focused but limited consciousness |
-| **Mana Capacity** | 5-20% | The bridge between worlds that enables minimal magical potential |
+| **Exanthis** | 65-85% | 並外れた力と回復力を与える結晶質の心臓 |
+| **Soul** | 10-20% | 集中しているが限られた意識を形作るエーテル的な本質 |
+| **Mana Capacity** | 5-20% | 最小限の魔法の可能性を可能にする世界間の架け橋 |
 
-This composition grants **giants** their characteristic power but typically limits their adaptability compared to other species, like a powerful instrument that can only play a limited range of notes.
+この組成は、**giants**に彼らの特徴的な力を与えますが、強力な楽器が限られた音域しか演奏できないように、他の種と比較して適応性を制限することがよくあります。
 
-### Individual Variations
+### 個々のバリエーション
 
-While the model composition represents the typical giant, individual variations exist based on their lineage:
+モデル組成は典型的な巨人を表していますが、個々のバリエーションは彼らの血統に基づいて存在します。
 
-- **Primal Giants**: Ancient giant bloodlines possess Exanthis levels approaching 90%, making them nearly invulnerable with immense strength, though with greatly reduced consciousness (5% Soul) and magical ability (5% Mana Capacity).
-- **Storm Lords**: Giants from the Stormgiant lineage often have enhanced Mana Capacity (up to 25%), allowing them to channel lightning with devastating effect, though with slightly reduced physical mass (60% Exanthis).
-- **Ancient Sages**: Rare giants with higher Soul percentages (up to 25%) and moderate Mana Capacity (15%) become wisdom-keepers and leaders, preserving the ancient knowledge of giantkind.
-- **Elemental Monarchs**: Specialized giants with composition of (70% Exanthis, 10% Soul, 20% Mana Capacity) can embody and command entire elemental forces, becoming living manifestations of mountains, volcanoes, or glaciers.
-- **Hybrid Giants**: Giants with mixed ancestry may have more balanced compositions (60% Exanthis, 20% Soul, 20% Mana Capacity), combining substantial physical might with greater adaptability and magical potential.
+- **Primal Giants**: 古代の巨人の血統は、90%に近いExanthisレベルを持ち、意識（5% Soul）と魔法能力（5% Mana Capacity）が大幅に低下しているものの、ほぼ無敵の巨大な力を持っています。
+- **Storm Lords**: ストームジャイアントの血統の巨人は、強化されたMana Capacity（最大25%）を持っていることが多く、破壊的な効果で雷をチャネルすることができますが、物理的な質量はわずかに減少しています（60% Exanthis）。
+- **Ancient Sages**: より高いSoulパーセンテージ（最大25%）と適度なMana Capacity（15%）を持つまれな巨人は、知恵の守り手と指導者になり、巨人族の古代の知識を保存します。
+- **Elemental Monarchs**: （70% Exanthis、10% Soul、20% Mana Capacity）の組成を持つ特殊な巨人は、全体の元素の力を具現化し、指揮することができ、山、火山、または氷河の生きた化身になります。
+- **Hybrid Giants**: 混合した祖先を持つ巨人は、よりバランスの取れた組成（60% Exanthis、20% Soul、20% Mana Capacity）を持ち、実質的な物理的な力と、より大きな適応性と魔法の可能性を組み合わせることができます。
 
-## Physical Characteristics
+## 物理的特徴
 
-**Giants** are known for their immense size and strength:
-- Towering height, ranging from 15 to 30 feet tall, depending on their lineage
-- Massive build with dense muscle and bone structure, like living mountains
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair and beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+**Giants**はその巨大なサイズと力で知られています。
+- 血統に応じて、高さ15〜30フィートに及ぶそびえ立つ高さ
+- 生きた山々のような、緻密な筋肉と骨格構造を持つ巨大な体格
+- 生きた石のような、自然な保護を提供する厚い皮膚
+- [**Exanthis**](/codex/Basic/Exanthis.md)へのつながりを反映して、内なる光で輝く目
+- しばしば氏族と地位のシンボルで複雑に編み込まれた髪とひげ
+- 嵐に耐える山々のように、毒や病気に対する自然な抵抗力
 
-## Physical and Magical Affinity
+## 物理的および魔法的親和性
 
-**Giants** demonstrate exceptional proficiency in physical might and resilience, like virtuoso performers who excel in power and intensity. Their composition allows them to:
-- Develop extraordinary strength and resilience, like living embodiments of power
-- Channel elemental energies with minimal proficiency, particularly earth and fire
-- Resist magical effects through their high **Exanthis** content, like a mountain standing against a storm
+**Giants**は、力と強さで優れたヴィルトゥオーソパフォーマーのように、物理的な力と回復力において卓越した熟練度を示します。彼らの組成は彼らに以下を可能にします。
+- 力の生きた化身のように、並外れた力と回復力を開発する
+- 特に地球と火の元素エネルギーを最小限の熟練度でチャネルする
+- 嵐に立ち向かう山のように、高い**Exanthis**含有量を通じて魔法の効果に抵抗する
 
-This power makes **giants** capable of achieving feats of strength that few other species can match, though they may struggle with tasks requiring subtlety or adaptability, like a powerful instrument that can only play at full volume.
+この力により、**giants**は他の種が匹敵できる人はほとんどいない力の偉業を達成することができますが、強力な楽器がフルボリュームでしか演奏できないように、繊細さや適応性を必要とするタスクに苦労する可能性があります。
 
-## Lifespan and Soul Decay
+## 寿命と魂の崩壊
 
-The **soul decay** timeline for **giants**, from birth to complete decay, is approximately 800 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate power and knowledge over centuries
-- Develop deep connections to their territories and lineages
-- Form powerful societies with strong hierarchical structures
+誕生から完全な崩壊までの**giants**の**soul decay**タイムラインは、時代を照らすゆっくりと燃える炎のように、約800年です。この延長された寿命は彼らに以下を可能にします。
+- 数世紀にわたって力と知識を蓄積する
+- 彼らの領土と血統への深い繋がりを築く
+- 強力な階層構造を持つ強力な社会を形成する
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains powerful but unchanging through the ages.
+しかし、彼らの最小限の魂の比率は、彼らが非常にゆっくりと変化し、適応することも意味します。それは、時代を超えて強力であり続けるが、変化しない旋律のようです。
 
-## Habitat and Distribution
+## 生息地と分布
 
-**Giants** primarily inhabit:
-- Remote mountain ranges and volcanic regions, where they can be closest to elemental power
-- Territories that provide natural defenses and resources
-- Strategic locations that allow them to maintain their independence
+**Giants**は主に以下に生息します。
+- 元素の力に最も近いことができる、遠隔地の山脈と火山地帯
+- 自然の防御と資源を提供する領土
+- 彼らが独立を維持できる戦略的な場所
 
-These locations provide ideal environments for the development of power and the practice of elemental magic, like a stage perfectly suited to their performance.
+これらの場所は、彼らのパフォーマンスに完全に適したステージのように、力の開発と元素魔法の実践に理想的な環境を提供します。
 
-## Cultural Impact
+## 文化的影響
 
-In the world of **OpenFantasy**, **giants** play a crucial role in maintaining the balance of power, like conductors of the grand symphony of strength. Their societies are centers of:
-- Martial prowess and military might
-- Elemental magic and power
-- Hierarchical structures and lineage pride
+**OpenFantasy**の世界では、**giants**は力のバランスを維持する上で重要な役割を果たします。それは壮大な力のシンフォニーの指揮者のようです。彼らの社会は以下の中心地です。
+- 武道の腕前と軍事力
+- 元素魔法と力
+- 階層構造と血統の誇り
 
-The connection to power has shaped giant culture around respect for strength, lineage, and dominance, creating a society where might makes right.
+力とのつながりは、強さ、血統、および支配の尊重を中心に巨人の文化を形作り、力が正義を作る社会を作り出しました。
 
-## Relationship with Other Species
+## 他の種との関係
 
-**Giants** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **Dragonkin**: A complex relationship of reverence and rivalry
+**Giants**は他の種との複雑な関係を維持しています。
+- [**Humans**](/codex/Creatures/Human.md)との関係：彼らの適応性への敬意と彼らの弱さへの不満の混合
+- **Elves**との関係：警戒的な敬意。彼らの魔法の腕前を認めますが、彼らのやり方を奇妙だと感じています
+- **Dwarves**との関係：強さと職人技への相互尊重に基づいた実用的な同盟
+- **Dragonkin**との関係：崇拝とライバルの複雑な関係
 
-These relationships are often characterized by a sense of superiority, as **giants** view themselves as the true heirs to divine power.
+これらの関係はしばしば優越感によって特徴付けられます。**giants**は自分自身を神の力の真の後継者と見なしているからです。
 
-## Notable Giant Traits
+## 注目すべき巨人の特徴
 
-- **Physical Might**: Giants excel in strength and resilience, often surpassing other species in raw power
-- **Elemental Affinity**: Giants have a natural connection to elemental magic, particularly earth and fire
-- **Limited Adaptability**: Their minimal soul ratio makes it difficult for giants to change or adapt
-- **Lineage Pride**: Giants place great emphasis on their divine heritage and lineage
-- **Territorial Nature**: Giants are fiercely protective of their territories and resources
+- **Physical Might**: Giantsは強さと回復力に優れており、生の力で他の種を上回ることがよくあります
+- **Elemental Affinity**: Giantsは元素魔法、特に地球と火への自然なつながりを持っています
+- **Limited Adaptability**: 彼らの最小限の魂の比率は、巨人が変化または適応することを困難にします
+- **Lineage Pride**: Giantsは彼らの神聖な遺産と血統を重視します
+- **Territorial Nature**: Giantsは彼らの領土と資源を激しく守ります
 
-## Giant Lineages
+## 巨人の血統
 
-Giant society is organized around powerful lineages, each tracing its heritage to a specific divine ancestor:
+巨人の社会は強力な血統を中心に組織されており、それぞれの血統は特定の神聖な祖先にルーツを辿ります。
 
 | Lineage | Elemental Affinity | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
-| **Stormgiants** | Lightning | Mountain peaks | Swift action, electrical mastery |
-| **Firegiants** | Fire | Volcanic regions | Intense passion, destructive power |
-| **Frostgiants** | Ice | Arctic regions | Patient strategy, cold precision |
-| **Stonegiants** | Earth | Mountain ranges | Steadfast defense, geological control |
-| **Cloudgiants** | Air | Cloud islands | Swift movement, aerial dominance |
-| **Hillgiants** | Nature | Rolling hills | Connection to nature, agricultural mastery |
+| **Stormgiants** | Lightning | Mountain peaks | 素早い行動、電気の熟達 |
+| **Firegiants** | Fire | Volcanic regions | 強烈な情熱、破壊力 |
+| **Frostgiants** | Ice | Arctic regions | 忍耐強い戦略、冷たい精密さ |
+| **Stonegiants** | Earth | Mountain ranges | 着実な防御、地質制御 |
+| **Cloudgiants** | Air | Cloud islands | 素早い動き、空中支配 |
+| **Hillgiants** | Nature | Rolling hills | 自然とのつながり、農業の熟達 |
 
-Understanding the nature of **giants** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the mountains and skies. 
+**giants**の性質を理解することは、山や空を駆け巡る雷鳴のリズムを感じるように、**OpenFantasy**の世界の力の力学への洞察を提供します。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

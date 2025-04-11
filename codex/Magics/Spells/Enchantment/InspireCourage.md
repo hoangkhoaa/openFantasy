@@ -1,123 +1,127 @@
-# Inspire Courage
+# 勇気を鼓舞する
 
-> *"When fear grips the heart, a single melody can rekindle the flame of bravery."*  
-> — Jalavar Swiftstrings, Battle-Bard of the Western Front
+> *"恐怖が心を掴むとき、一曲の旋律が勇気の炎を再び灯すことができる。"*
+> — ジャラヴァー・スウィフトストリングス、西部戦線のバトルバード
 
-## Quick Reference
+## クイックリファレンス
 
-- **Casting Time:** 6 seconds (performance action)
-- **Duration:** 30 seconds to 2 minutes
-- **Range:** 9 meters radius (centered on bard)
-- **Components:** Verbal, Somatic, Instrumental (optional but enhances effect)
-- **School:** Enchantment (Courage-Weaving)
-- **Classification:** Support/Enhancement
-- **Difficulty:** Intermediate
-- **Purity Required:** Basic (20-30%)
-- **Minimum Mana Capacity:** 20% (Higher capacity extends duration and radius)
+- **詠唱時間:** 6秒（パフォーマンスアクション）
+- **持続時間:** 30秒～2分
+- **射程距離:** 半径9メートル（バードを中心）
+- **構成要素:** 言語、身体、楽器（任意だが効果を高める）
+- **系統:** 魅了術（勇気編み）
+- **分類:** サポート/強化
+- **難易度:** 中級
+- **純度要件:** 基本（20-30%）
+- **最小マナ容量:** 20%（容量が高いほど持続時間と半径が延長される）
 
-## Technical Details
+## 技術詳細
 
-Inspire Courage creates a mana-harmonic field that resonates with allies' courage centers in both mind and spirit. The spell weaves a pattern of enchantment energy that directly counters fear responses while enhancing confidence and resolute action.
+Inspire Courage は、味方の心と精神にある勇気の中心と共鳴するマナ調和フィールドを生成します。この呪文は、恐怖反応に直接対抗し、自信と断固たる行動を高める魅了エネルギーのパターンを編み上げます。
 
-### Mana Composition
-- **Primary:** Base Mana (Inspiration) 50-65%
-- **Secondary:** Mentimana 25-35%
-- **Tertiary:** Vitomana 10-15%
+### マナ組成
+- **プライマリ:** ベースマナ（インスピレーション） 50-65%
+- **セカンダリ:** メンティマナ 25-35%
+- **ターシャリ:** ヴィトマナ 10-15%
 
-### Purity Influence on Effect
-- **15-20% Purity:** Minimal effect, provides resistance to fear effects but little combat enhancement
-- **20-30% Purity:** Standard effect, grants both fear resistance and moderate combat enhancement
-- **30-45% Purity:** Enhanced effect, stronger combat bonuses and complete immunity to minor fear effects
-- **45%+ Purity:** Master effect, extends duration significantly and provides partial resistance even to magical dread effects
+### 効果に対する純度の影響
+- **15-20% 純度:** 最小限の効果、恐怖効果への抵抗を提供するが、戦闘強化はほとんどない
+- **20-30% 純度:** 標準的な効果、恐怖抵抗と適度な戦闘強化の両方を付与する
+- **30-45% 純度:** 強化された効果、より強力な戦闘ボーナスと、軽微な恐怖効果に対する完全な免疫
+- **45%+ 純度:** マスター効果、持続時間を大幅に延長し、魔法的な恐怖効果にも部分的な抵抗を提供する
 
-### Harmonic Pattern
-The spell follows a rising melodic pattern that creates resonance points within allies' mana networks. These resonance points generate counter-frequencies to fear-inducing stimuli while amplifying natural courage responses.
+### 調和パターン
+この呪文は、味方のマナネットワーク内に共鳴点を生成する上昇旋律パターンに従います。これらの共鳴点は、自然な勇気の反応を増幅しながら、恐怖を誘発する刺激に対するカウンター周波数を生成します。
 
-## Practical Effects
+## 実用的な効果
 
-When successfully cast, Inspire Courage produces the following effects on allies within range:
+Inspire Courage を正常に詠唱すると、射程距離内の味方に次の効果が発生します。
 
-1. **Courage Enhancement:** Recipients experience a noticeable reduction in fear response, both natural and magical. Their threshold for fear-inducing stimuli increases by 30-60% depending on casting purity.
+1. **勇気強化:** 対象者は、自然な恐怖反応と魔法的な恐怖反応の両方において、著しい減少を経験します。恐怖を誘発する刺激に対する彼らの閾値は、詠唱純度に応じて 30 ～ 60% 増加します。
 
-2. **Combat Prowess:** The harmonic resonance enhances physical performance by 10-25% through the reduction of hesitation and doubt. This manifests as improved reaction time, strike precision, and force application.
+2. **戦闘能力:** 調和共鳴は、躊躇と疑念の軽減を通じて、身体能力を 10 ～ 25% 向上させます。これは、反応時間、ストライクの精度、および力の適用が改善されることとして現れます。
 
-3. **Pain Resilience:** Recipients can withstand 15-30% more pain before performance degradation, allowing them to fight effectively despite injuries that would normally impair function.
+3. **痛みの回復力:** 対象者は、パフォーマンスの低下前に通常より 15 ～ 30% 多くの痛みに耐えることができ、通常は機能を損なうであろう怪我にもかかわらず効果的に戦うことができます。
 
-4. **Morale Stability:** The group experiences a collective resilience against demoralization, creating a feedback loop where individual courage reinforces group courage.
+4. **士気の安定性:** グループは士気の低下に対する集合的な回復力を経験し、個々の勇気がグループの勇気を強化するフィードバックループを作成します。
 
-## Casting Process
+## 詠唱プロセス
 
-The bard channels mana through emotional expression focused on themes of courage, victory, or heroism. The casting follows a specific progression:
+バードは、勇気、勝利、または英雄主義のテーマに焦点を当てた感情表現を通じてマナをチャネリングします。詠唱は、特定の手順に従います。
 
-1. **Initiation:** The bard begins a performance (instrumental, vocal, or both) with an uplifting motif that serves as the spell's foundation.
+1. **開始:** バードは、呪文の基礎となる高揚するモチーフでパフォーマンス（楽器、ボーカル、またはその両方）を開始します。
 
-2. **Mana Infusion:** As the performance continues, the bard infuses the sound waves with mana, creating a resonant enchantment field.
+2. **マナ注入:** パフォーマンスが続くにつれて、バードは音波にマナを注入し、共鳴魅了フィールドを作成します。
 
-3. **Harmonic Expansion:** The mana-infused performance expands outward, seeking compatible mana signatures of allies.
+3. **調和拡張:** マナが注入されたパフォーマンスは外側に拡大し、味方の互換性のあるマナシグネチャを探します。
 
-4. **Connection Establishment:** When the spell connects with an ally, a momentary flash of golden light may appear at the point of connection (visible only to those with magical sight).
+4. **接続確立:** 呪文が味方と接続すると、接続ポイントに一瞬の金色の光が現れる場合があります（魔法の視覚を持つ人にのみ表示されます）。
 
-5. **Maintenance:** The bard must maintain at least a subtle performance to sustain the effect for its duration.
+5. **維持:** バードは、効果を持続させるために、少なくとも微妙なパフォーマンスを維持する必要があります。
 
-## Common Applications
+## 一般的な応用
 
-- **Pre-Battle Inspiration:** Most commonly used before engaging in combat to prepare allies mentally and emotionally
-- **Fear Resistance:** Particularly effective against creatures that use fear as a weapon
-- **Morale Recovery:** Can reverse a deteriorating battlefield situation by restoring group confidence
-- **Performance Enhancement:** Used in non-combat situations to help allies perform under pressure
-- **Training Aid:** Helps novices overcome fear during intense training scenarios
+- **戦闘前のインスピレーション:** 味方の精神的および感情的な準備のために、戦闘に参加する前に最も一般的に使用されます
+- **恐怖抵抗:** 特に、恐怖を武器として使用するクリーチャーに対して効果的です
+- **士気回復:** グループの自信を回復することにより、悪化する戦場の状況を逆転させることができます
+- **パフォーマンスの向上:** プレッシャー下で味方がパフォーマンスを行うのを支援するために、非戦闘状況で使用されます
+- **トレーニング支援:** 初心者が激しいトレーニングシナリオ中に恐怖を克服するのを支援します
 
-## Variations
+## バリエーション
 
-### Battle Anthem
-A more martially-focused version that enhances physical prowess at the expense of fear resistance.
-- **Mana Composition:** Shifts to 60% Base Mana, 15% Mentimana, 25% Vitomana
-- **Purity Required:** 25-35%
-- **Effect:** Combat enhancement increases to 20-35%, fear resistance reduced to 15-25%
+### バトルアンセム
+恐怖抵抗を犠牲にして、身体能力を向上させる、より戦闘に焦点を当てたバージョン。
+- **マナ組成:** 60% ベースマナ、15% メンティマナ、25% ヴィトマナにシフト
+- **純度要件:** 25-35%
+- **効果:** 戦闘強化が 20 ～ 35% に増加し、恐怖抵抗が 15 ～ 25% に減少
 
-### Heroic Resonance
-A sustained version that creates a longer-lasting but more subtle effect.
-- **Casting Time:** 30 seconds
-- **Duration:** Up to 1 hour
-- **Purity Required:** 35-45%
-- **Effect:** Provides 50% of standard combat enhancement but maintains fear resistance at full strength
+### 英雄共鳴
+より長く持続するが、より微妙な効果を生み出す持続バージョン。
+- **詠唱時間:** 30秒
+- **持続時間:** 最大1時間
+- **純度要件:** 35-45%
+- **効果:** 標準的な戦闘強化の50%を提供しますが、恐怖抵抗は最大限に維持します
 
-### Silent Valor
-A version that can be cast without audible components, relying on subtle body language and direct mana projection.
-- **Components:** Somatic only
-- **Range:** Reduced to 5 meters
-- **Purity Required:** 40-50%
-- **Effect:** Standard effects but more difficult to maintain and detect
+### サイレントヴァラー
+微妙なボディランゲージと直接的なマナ投影に依存して、可聴コンポーネントなしで詠唱できるバージョン。
+- **構成要素:** 身体のみ
+- **射程距離:** 5メートルに縮小
+- **純度要件:** 40-50%
+- **効果:** 標準的な効果ですが、維持および検出がより困難です
 
-## Risks and Miscast Effects
+## リスクとミスキャスト効果
 
-### Overconfidence
-Insufficient control (purity below 20%) can cause recipients to become recklessly overconfident, leading them to underestimate dangers.
+### 過信
+不十分な制御（純度が20%未満）により、対象者が無謀に過信し、危険を過小評価する可能性があります。
 
-### Emotional Dependency
-If the spell is maintained too long (beyond 10 minutes) or cast repeatedly within a short timeframe, recipients may develop temporary dependency, experiencing heightened fear when the effect ends.
+### 感情的依存
+呪文が長すぎる（10分を超える）または短い時間枠内で繰り返し詠唱された場合、対象者は一時的な依存症を発症し、効果が終了すると恐怖が増大する可能性があります。
 
-### Resonance Backlash
-Critical failure (purity below 15%) can create a reverse effect, momentarily amplifying fear responses instead of suppressing them.
+### 共鳴反発
+重大な失敗（純度が15%未満）は、恐怖反応を抑制する代わりに、一時的に増幅させる逆効果を生み出す可能性があります。
 
-### Performance Pressure
-If the bard becomes the target of significant attacks while maintaining the spell, concentration checks are required to prevent premature termination of the effect.
+### パフォーマンスプレッシャー
+バードが呪文を維持している間、重大な攻撃の標的になった場合、効果の早期終了を防ぐために集中力チェックが必要です。
 
-## Musical Analogy
+## 音楽的アナロジー
 
-Casting Inspire Courage is like performing a military march that gradually shifts to a heroic anthem. The percussive elements establish rhythm (the spell's structure), while brass elements provide power (the courage enhancement) and melodic components create emotional resonance (the fear resistance). The performer must maintain the driving tempo while ensuring harmonies remain uplifting rather than aggressive.
+Inspire Courage を詠唱することは、徐々に英雄的なアンセムに移行する軍事行進曲を演奏するようなものです。打楽器要素はリズム（呪文の構造）を確立し、真鍮要素はパワー（勇気の強化）を提供し、旋律コンポーネントは感情的な共鳴（恐怖の抵抗）を生み出します。演奏者は、ハーモニーが攻撃的ではなく、高揚するように保ちながら、推進的なテンポを維持する必要があります。
 
-## Learning Progression
+## 学習の進捗
 
-| Stage | Description | Typical Timeline |
+| 段階 | 説明 | 標準的なタイムライン |
 |-------|-------------|------------------|
-| **Novice** | Basic single-target version with minimal combat enhancement | 6-8 weeks of practice |
-| **Apprentice** | Small group effect (3-4 targets) with moderate enhancement | 4-6 months of practice |
-| **Adept** | Standard version affecting up to 10 allies with full effects | 1-2 years of practice |
-| **Master** | Extended range and duration with enhanced effects | 3-5 years of refinement |
+| **初心者** | 戦闘強化が最小限の基本的なシングルターゲットバージョン | 6-8週間の練習 |
+| **見習い** | 適度な強化を備えた小グループ効果（3〜4ターゲット） | 4-6か月の練習 |
+| **熟練者** | 最大10人の味方に完全な効果を与える標準バージョン | 1〜2年の練習 |
+| **マスター** | 範囲と期間が拡張され、効果が向上 | 3〜5年の洗練 |
 
-## Historical Note
+## 歴史的注記
 
-Inspire Courage was first formalized by the Battle-Bards of the Crimson Legion during the Moonfall War. These specialized bards developed techniques to maintain morale against the unnatural fear induced by shadow-tainted creatures. The spell has been refined over generations, with each major bardic college adding its own variations and enhancements to the core technique.
+Inspire Courage は、ムーンフォール戦争中にクリムゾンレギオンのバトルバードによって最初に形式化されました。これらの特殊なバードは、影で汚染されたクリーチャーによって誘発される不自然な恐怖に対して士気を維持するテクニックを開発しました。この呪文は世代を超えて洗練されており、主要なバードカレッジはそれぞれ独自のバリエーションと強化をコアテクニックに追加しています。
 
-The most famous recorded use was by Malian Silvervoice at the Battle of Thornvale Pass, where her performance allowed a force of 300 defenders to stand against over 2,000 attackers for three days until reinforcements arrived. 
+最も有名な記録された使用例は、ソーンベールパスの戦いでのマリアン・シルバーボイスによるもので、彼女のパフォーマンスにより、300人の防御部隊が援軍が到着するまで2,000人以上の攻撃者に対して3日間持ちこたえることができました。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

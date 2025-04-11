@@ -1,196 +1,200 @@
-# **Shielding**
+# **遮蔽 (Shielding)**
 
-> *"The first lesson of magical defense is not to strengthen your walls, but to understand that protection flows from within—like music, a shield is not merely a barrier, but a resonance that redirects the hostile symphony around you."*  
-> — Sentinel Ilyra Swiftshield, Arcane Defense Master
+> *"魔法防御の第一の教訓は、壁を強化することではなく、保護は内側から流れ出ることを理解することだ。音楽のように、盾は単なる障壁ではなく、敵対的な交響曲をあなたの周りにリダイレクトする共鳴なのだ。"*
+> — センチネル イリラ・スウィフトシールド、秘術防御マスター
 
-## Casting Information
-- **Difficulty**: Novice to Expert (depending on variant)
-- **Casting Time**: 1 second (basic shield), 2-3 seconds (advanced variants)
-- **Duration**: Concentration, up to 10 minutes (or until broken)
-- **Range**: Self or up to 30 feet (dependent on variant)
-- **Components**: Somatic, Verbal (optional enhancement)
+## キャスティング情報
+- **難易度**: 初心者から熟練者 (バリアントによる)
+- **キャスティング時間**: 1秒 (基本シールド), 2-3秒 (高度なバリアント)
+- **持続時間**: 集中、最大10分 (または破壊されるまで)
+- **射程**: 自分自身または最大30フィート (バリアントによる)
+- **構成要素**: 身体、言語 (オプションのエンハンスメント)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 70%, Terramana 20% (stability), Aeromana 10% (flexibility)
-- **Purity Required**: Basic (20-35%) for personal shield, Refined (35-55%) for advanced variants
-- **Minimum Mana Capacity**: 15% (larger/stronger shields require greater capacity)
-- **Pattern Complexity**: Low to High (2-tier for basic shield, up to 5-tier for specialized variants)
-- **Resonance Frequency**: Defensive harmonic in the mid-protective spectrum
+## 技術的詳細
+- **マナタイプ分布**: ベースマナ 70%, テラマナ 20% (安定性), エロマナ 10% (柔軟性)
+- **純度要件**: 基本 (20-35%) 個人シールド, 洗練 (35-55%) 高度なバリアント
+- **最小マナ容量**: 15% (より大きく/強いシールドはより大きな容量が必要)
+- **パターン複雑度**: 低から高 (基本シールドは2層, 特殊なバリアントは最大5層)
+- **共鳴周波数**: 中保護スペクトルの防御ハーモニック
 
-## Core Principles
+## コア原則
 
-Shielding converts mana into a semi-tangible protective field that deflects, absorbs, or nullifies incoming threats. Unlike purely physical barriers, magical shields operate through a resonance principle, creating a counter-frequency to disrupt hostile energies while allowing benign forces to pass through.
+遮蔽は、マナを半実体的な保護フィールドに変換し、接近する脅威をそらし、吸収し、または無効化する。純粋な物理的障壁とは異なり、魔法のシールドは共鳴原理を通じて動作し、敵対的なエネルギーを妨害するカウンター周波数を生成し、良性の力が通過できるようにする。
 
-The foundational pattern establishes:
+基盤となるパターンは以下を確立する:
 
-1. **Barrier Matrix**: The core protective field structure
-2. **Resonance Layer**: The component that identifies and counters threats
-3. **Stability Framework**: The support structure maintaining shield integrity
-4. **Energy Distribution Network**: The system dispersing impact forces
-5. **Permeability Control**: The optional component allowing selective filtering
+1. **バリアマトリックス**: コアとなる保護フィールド構造
+2. **共鳴レイヤー**: 脅威を識別し、対抗するコンポーネント
+3. **安定性フレームワーク**: シールドの完全性を維持するサポート構造
+4. **エネルギー分散ネットワーク**: 衝撃力を分散させるシステム
+5. **透過性制御**: 選択的なフィルタリングを可能にするオプションのコンポーネント
 
-## Standard Variants
+## 標準バリアント
 
-### Personal Shield
-The fundamental protective barrier around the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (20-30%)
-- **Effect**: Creates a barrier absorbing physical and magical damage
-- **Typical Users**: All magic practitioners
-- **Applications**: Personal defense, training safety, emergency protection
+### パーソナルシールド
+キャスターの周りの基本的な保護バリア:
+- **難易度**: 初心者
+- **純度要件**: 基本 (20-30%)
+- **効果**: 物理的および魔法的なダメージを吸収するバリアを作成する
+- **典型的なユーザー**: すべての魔法の実践者
+- **アプリケーション**: 個人的な防御、トレーニングの安全性、緊急時の保護
 
-### Directed Shield
-A flat shield projected away from the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Creates a movable plane of protection to block specific threats
-- **Typical Users**: Battle Mages, Tactical Casters, Support Specialists
-- **Applications**: Protecting allies, blocking passages, deflecting projectiles
+### ダイレクテッドシールド
+キャスターから離れて投影されるフラットなシールド:
+- **難易度**: 中級
+- **純度要件**: 洗練 (35-45%)
+- **効果**: 特定の脅威をブロックするための可動な保護面を作成する
+- **典型的なユーザー**: バトルメイジ、タクティカルキャスター、サポートスペシャリスト
+- **アプリケーション**: 同盟国の保護、通路の遮断、発射物の偏向
 
-### Bubble Shield
-Expands protection to cover multiple individuals:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (40-50%)
-- **Effect**: Creates dome or sphere protecting several targets
-- **Typical Users**: Group Leaders, Defensive Specialists, Protectors
-- **Applications**: Group protection, safe zones, mobile coverage during retreats
+### バブルシールド
+複数の個人をカバーするように保護を拡大する:
+- **難易度**: 中級
+- **純度要件**: 洗練 (40-50%)
+- **効果**: 複数のターゲットを保護するドームまたは球体を作成する
+- **典型的なユーザー**: グループリーダー、防御スペシャリスト、プロテクター
+- **アプリケーション**: グループ保護、安全地帯、後退中のモバイルカバレッジ
 
-## Advanced Variants
+## 高度なバリアント
 
-### Selective Filter Shield
-Allows specific elements or energies to pass through:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (55-65%)
-- **Effect**: Creates barriers permeable to chosen forces
-- **Typical Users**: Elemental Specialists, Advanced Practitioners
-- **Applications**: Allowing allies to attack through shields, environmental protection, selective filtering
+### セレクティブフィルターシールド
+特定の要素またはエネルギーが通過できるようにする:
+- **難易度**: 熟練者
+- **純度要件**: 完璧 (55-65%)
+- **効果**: 選択された力に対して透過性のあるバリアを作成する
+- **典型的なユーザー**: エレメンタルスペシャリスト、高度な実践者
+- **アプリケーション**: 同盟国がシールドを介して攻撃できるようにする、環境保護、選択的なフィルタリング
 
-### Reactive Shield
-Adapts to incoming threats automatically:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Shield analyzes and adapts to counter specific attacks
-- **Typical Users**: Duelists, Master Defenders, Elite Guards
-- **Applications**: Unknown threat protection, adaptive defense, magical counteraction
+### リアクティブシールド
+自動的に接近する脅威に適応する:
+- **難易度**: 熟練者
+- **純度要件**: 完璧 (60-70%)
+- **効果**: シールドは特定の攻撃に対抗するために分析および適応する
+- **典型的なユーザー**: デュエリスト、マスターディフェンダー、エリートガード
+- **アプリケーション**: 未知の脅威からの保護、適応防御、魔法の対抗
 
-### Reflective Shield
-Returns energy to its source:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Redirects a portion of incoming energy back at attacker
-- **Typical Users**: Advanced Battle Mages, Specialist Defenders
-- **Applications**: Counterattack, energy conservation, deterrence
+### リフレクティブシールド
+エネルギーをそのソースに戻す:
+- **難易度**: マスター
+- **純度要件**: 完璧 (65-75%)
+- **効果**: 接近するエネルギーの一部を攻撃者に戻す
+- **典型的なユーザー**: 高度なバトルメイジ、スペシャリストディフェンダー
+- **アプリケーション**: カウンターアタック、エネルギー節約、抑止
 
-## Purity Influence on Effect
+## 効果に対する純度の影響
 
-Mana purity directly affects shield strength, duration, and special properties:
+マナの純度は、シールドの強度、持続時間、および特別な特性に直接影響します:
 
-| Purity Level | Shield Strength | Absorption Capacity | Special Properties | Duration |
+| 純度レベル | シールド強度 | 吸収能力 | 特殊な特性 | 持続時間 |
 |--------------|----------------|---------------------|-------------------|----------|
-| 20-35% | Basic protection, visible shield | 25-40% damage reduction | None | 1-3 minutes |
-| 35-55% | Enhanced durability, less visible | 40-60% damage reduction | Basic filtering, limited mobility | 3-5 minutes |
-| 55-70% | High resilience, nearly invisible | 60-80% damage reduction | Advanced filtering, reactive properties | 5-8 minutes |
-| 70%+ | Superior protection, completely invisible | 80-95% damage reduction | Full reflection capabilities, adaptation | 8-10+ minutes |
+| 20-35% | 基本的な保護、目に見えるシールド | 25-40% ダメージ軽減 | なし | 1-3 分 |
+| 35-55% | 耐久性の向上、目立たない | 40-60% ダメージ軽減 | 基本的なフィルタリング、限られた機動性 | 3-5 分 |
+| 55-70% | 高い回復力、ほとんど見えない | 60-80% ダメージ軽減 | 高度なフィルタリング、反応性の特性 | 5-8 分 |
+| 70%+ | 優れた保護、完全に見えない | 80-95% ダメージ軽減 | 完全な反射能力、適応 | 8-10+ 分 |
 
-## Class-Specific Applications
+## クラス固有のアプリケーション
 
-### Warrior Class
-- **Combat Shell**: Tight-fitting shield enhancing armor protection
-- **Breach Shield**: Forward-focused protection for charges
-- **Weapon Guard**: Selective shield protecting weapons from damage or tampering
-- **Footing Anchor**: Lower-body shield stabilizing position during combat
+### ウォリアークラス
+- **コンバットシェル**: アーマーの保護を強化するタイトフィットシールド
+- **ブリーチシールド**: チャージのための前方集中保護
+- **ウェポンガード**: 武器を損傷や改ざんから保護する選択的シールド
+- **フッティングアンカー**: 戦闘中に位置を安定させる下半身シールド
 
-### Rogue/Assassin Class
-- **Shadow Cloak**: Barely visible shield masking magical signature
-- **Impact Dampener**: Shield reducing sound and physical impacts
-- **Trace Obscurer**: Shield dispersing magical residue from activities
-- **Selective Barrier**: Allows weapons out but blocks incoming attacks
+### ローグ/アサシンクラス
+- **シャドウクローク**: 魔法の署名を覆い隠す、ほとんど見えないシールド
+- **インパクトダンパー**: 音と物理的な衝撃を軽減するシールド
+- **トレースオブスキュラー**: 活動からの魔法の残留物を分散させるシールド
+- **セレクティブバリア**: 武器を外に出せるが、接近する攻撃をブロックする
 
-### Ranger Class
-- **Environmental Buffer**: Shield protecting from terrain hazards
-- **Arrow Screen**: Specialized shield allowing outgoing projectiles while blocking incoming ones
-- **Companion Guard**: Projectable shield to protect animal companions
-- **Sensory Shield**: Protection against sensory overload or manipulation
+### レンジャークラス
+- **エンバイロメンタルバッファー**: 地形の危険から保護するシールド
+- **アロースクリーン**: 発射体を外に出せる一方で、接近するものをブロックする特殊なシールド
+- **コンパニオンガード**: 動物の仲間を保護するために投影可能なシールド
+- **センサリーシールド**: 感覚過負荷または操作に対する保護
 
-### Mage Class
-- **Concentration Sphere**: Shield blocking distractions during complex casting
-- **Spell Containment**: Barrier keeping volatile magic effects controlled
-- **Mana Conservation Bubble**: Shield recycling leaked mana back to caster
-- **Layered Defense**: Multiple specialized shields for comprehensive protection
+### メイジクラス
+- **コンセントレーションスフィア**: 複雑なキャスティング中に気を散らすものをブロックするシールド
+- **スペルコンテインメント**: 揮発性の魔法効果を制御下に保つバリア
+- **マナコンサベーションバブル**: リークしたマナをキャスターにリサイクルするシールド
+- **レイヤードディフェンス**: 包括的な保護のための複数の特殊なシールド
 
-## Training Progression
+## トレーニングの進行
 
-### Fundamental Shielding
-- Energy projection and containment exercises
-- Barrier visualization and manifestation
-- Basic impact absorption techniques
-- Shield maintenance under minor stress
+### 基礎的な遮蔽
+- エネルギー投影と封じ込めのエクササイズ
+- バリアの視覚化と具現化
+- 基本的な衝撃吸収テクニック
+- 軽度のストレス下でのシールドメンテナンス
 
-### Intermediate Applications
-- Moving and repositioning shields while maintaining integrity
-- Extending protection to others
-- Shaping shields for specific tactical situations
-- Efficiency training for reduced mana consumption
+### 中級アプリケーション
+- 完全性を維持しながらシールドを移動および再配置する
+- 他者への保護の拡大
+- 特定の戦術的状況のためのシールドの整形
+- マナ消費を削減するための効率トレーニング
 
-### Advanced Mastery
-- Reactive shield programming
-- Multi-layer shield construction
-- Energy reflection and redirection
-- Integrating shields with other magical effects
+### 高度な習熟
+- リアクティブシールドプログラミング
+- 多層シールド構造
+- エネルギーの反射とリダイレクト
+- シールドを他の魔法効果と統合する
 
-## Risk Factors
+## リスクファクター
 
-### Common Mishaps
-- **Shield Inversion**: Protection directed inward, trapping the caster
-- **Resonance Cascade**: Shield amplifying rather than blocking energy
-- **Pattern Collapse**: Sudden shield failure under stress
-- **Mana Drain Spiral**: Excessive energy consumption depleting caster
-- **Brittleness**: Shield shattering rather than absorbing impact
+### よくある失敗
+- **シールド反転**: 保護が内側に向き、キャスターを閉じ込める
+- **共鳴カスケード**: シールドがエネルギーをブロックするのではなく、増幅する
+- **パターン崩壊**: ストレス下での突然のシールド故障
+- **マナドレインスパイラル**: キャスターを消耗させる過度のエネルギー消費
+- **脆弱性**: 衝撃を吸収するのではなく、シールドが粉々になる
 
-### Safety Practices
-- Regular shield strength testing under controlled conditions
-- Practicing emergency shield dissolution techniques
-- Developing shield layers with independent failure points
-- Training with gradually increasing threat levels
-- Establishing personal shield limitations
+### 安全対策
+- 制御された条件下での定期的なシールド強度テスト
+- 緊急時のシールド溶解テクニックの練習
+- 独立した故障点を持つシールドレイヤーの開発
+- 徐々に脅威レベルを上げてトレーニングする
+- 個人的なシールド制限の確立
 
-## Shield Variations by Threat Type
+## 脅威の種類別のシールドバリエーション
 
-### Physical Protection
-Shields specialized against material threats:
-- **Impact Shields**: Absorb kinetic energy from blunt force
-- **Penetration Barriers**: Resist piercing from arrows, blades
-- **Friction Dampeners**: Reduce damage from abrasive forces
-- **Pressure Equalizers**: Protect against crushing or explosive forces
+### 物理的保護
+物理的な脅威に特化したシールド:
+- **インパクトシールド**: 鈍器による衝撃エネルギーを吸収する
+- **ペネトレーションバリア**: 矢、刃からの貫通に抵抗する
+- **フリクションダンパー**: 研磨力によるダメージを軽減する
+- **プレッシャーイコライザー**: 押しつぶし力または爆発力から保護する
 
-### Energy Defense
-Shields tailored to magical and elemental threats:
-- **Thermal Barriers**: Insulate against heat and cold
-- **Arcane Dispersal Fields**: Diffuse magical energy attacks
-- **Elemental Filters**: Specialized protection against specific elements
-- **Harmonic Dampeners**: Neutralize sound-based or vibrational attacks
+### エネルギー防御
+魔法および元素の脅威に合わせたシールド:
+- **サーマルバリア**: 熱および寒さに対して絶縁する
+- **アルケインディスパースフィールド**: 魔法のエネルギー攻撃を拡散する
+- **エレメンタルフィルター**: 特定の元素に対する特殊な保護
+- **ハーモニックダンパー**: 音ベースまたは振動ベースの攻撃を中和する
 
-### Status Protection
-Shields against non-damaging magical effects:
-- **Mind Wards**: Protect against mental intrusion or influence
-- **Curse Barriers**: Repel malicious enchantments
-- **Transmutation Inhibitors**: Prevent unwanted transformative effects
-- **Temporal Stabilizers**: Shield against time manipulation
+### ステータス保護
+ダメージを与えない魔法効果に対するシールド:
+- **マインドワード**: 精神的な侵入または影響から保護する
+- **カースバリア**: 悪意のある魅力を撃退する
+- **トランスミューテーションインヒビター**: 不要な変換効果を防ぐ
+- **テンポラルスタビライザー**: 時間操作から保護する
 
-## Historical Development
+## 歴史的発展
 
-Shielding magic represents one of the oldest and most fundamental protective arts, dating back to the Dawn Era when early mages sought defense against both natural and supernatural threats. The Arcane Sentinels of the Second Age formalized the art into distinct disciplines, establishing the foundational patterns still used today.
+遮蔽魔法は、初期の魔法使いが自然と超自然の両方の脅威から防御を求めた暁の時代にまで遡る、最も古く、最も基本的な保護術の1つを表しています。第二紀の秘術センチネルは、その芸術を明確な分野に形式化し、今日でも使用されている基礎となるパターンを確立しました。
 
-The Mage Wars saw explosive development in shielding techniques as practitioners sought ever more effective defenses against increasingly powerful offensive magic. Modern shielding draws heavily from the innovations of Ilyra Swiftshield, whose revolutionary understanding of resonance patterns transformed shields from mere barriers into dynamic, responsive defenses.
+メイジ戦争は、実践者がますます強力な攻撃魔法に対してこれまで以上に効果的な防御を求めたため、遮蔽技術の爆発的な発展を見ました。現代の遮蔽は、イリラ・スウィフトシールドの革新から大きく引き出されています。イリラの共鳴パターンに関する革新的な理解は、シールドを単なる障壁からダイナミックで応答性の高い防御に変えました。
 
-> *"A novice creates a wall. An adept creates a filter. A master creates a conversation between energies—the shield does not fight the incoming force, but rather invites it to flow elsewhere."* — From "Dialogues on Defense," Ilyra Swiftshield's premier text
+> *"初心者は壁を作成する。熟達者はフィルターを作成する。巨匠はエネルギー間の会話を作成する—シールドは接近する力と戦うのではなく、むしろ他の場所に流れるように誘う。"* — イリラ・スウィフトシールドの最高のテキスト「防御に関する対話」より
 
-## Practical Notes
+## 実用的なメモ
 
-Shield spells are often among the first defensive magic taught to novices, as even imperfect shields provide valuable protection during training. Many practitioners develop highly personalized shielding techniques, adapting the basic patterns to their specific needs and mana characteristics.
+シールド呪文は、不完全なシールドでさえトレーニング中に貴重な保護を提供するので、初心者によく教えられる最初の防御魔法の1つです。多くの実践者は、特定のニーズとマナ特性に合わせて基本的なパターンを適応させ、高度にパーソナライズされた遮蔽技術を開発します。
 
-The most advanced shield masters can maintain multiple layered defenses simultaneously, each calibrated to different threat types, creating a comprehensive protective system that approaches true invulnerability—though at significant mana cost.
+最先端のシールドマスターは、複数の異なる脅威タイプに調整された多層防御を同時に維持することができ、真の不滅に近づく包括的な保護システムを作成します—ただし、マナコストは大幅に高くなります。
 
 ---
 
-*See also: [Barrier Magic](/codex/Magics/Schools/Abjuration.md), [Defensive Fundamentals](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Combat Countermeasures](/codex/Magics/Spells/Combat/CombatCountermeasures.md)* 
+*参照: [バリア魔法](/codex/Magics/Schools/Abjuration.md), [防御の基礎](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [戦闘対策](/codex/Magics/Spells/Combat/CombatCountermeasures.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

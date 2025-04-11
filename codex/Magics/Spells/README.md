@@ -1,126 +1,130 @@
-# OpenFantasy Magic System
+# OpenFantasy 魔法システム
 
-## Spells Documentation Guide
+## 呪文ドキュメントガイド
 
-This repository contains documentation for spells in the OpenFantasy world, following a standardized format for consistency.
+このリポジトリには、OpenFantasy 世界における呪文のドキュメントが含まれており、一貫性を保つために標準化された形式に従っています。
 
-## Quick Reference
+## クイックリファレンス
 
-- [Spell Categories](#spell-categories)
-- [Documentation Format](#documentation-format)
-- [Mana Types](#mana-types)
-- [Purity Requirements](#purity-requirements)
-- [Character Progression](#character-progression)
+- [呪文のカテゴリ](#spell-categories)
+- [ドキュメント形式](#documentation-format)
+- [マナの種類](#mana-types)
+- [純度要件](#purity-requirements)
+- [キャラクターの成長](#character-progression)
 
-## Spell Categories
+## 呪文のカテゴリ
 
-| Category | Description |
+| カテゴリ | 説明 |
 |----------|-------------|
-| **Elemental** | Manipulate primary elements (Fire, Water, Earth, Air, Light, Shadow, Life, Death) |
-| **Utility** | Practical spells for everyday tasks and problem-solving |
-| **Protection** | Defensive magic that shields or counters hostile forces |
-| **Divination** | Reveal information, enhance perception, provide insight |
-| **Illusion** | Create false sensory impressions or alter perception |
-| **Enchantment** | Imbue objects or beings with magical properties |
-| **Transformation** | Change physical form or properties of targets |
-| **Summoning** | Call creatures, entities, or objects from elsewhere |
+| **元素** | 主要な元素（火、水、土、空気、光、影、生、死）を操作する |
+| **ユーティリティ** | 日常的なタスクや問題解決のための実用的な呪文 |
+| **防御** | 敵対的な力から保護または対抗する防御魔法 |
+| **占い** | 情報を明らかにし、知覚を高め、洞察を提供する |
+| **幻影** | 偽の感覚印象を作成したり、知覚を変化させたりする |
+| **付与** | 物体や存在に魔法の特性を付与する |
+| **変容** | 対象の物理的な形状または特性を変更する |
+| **召喚** | 他の場所からクリーチャー、エンティティ、またはオブジェクトを呼び出す |
 
-## Documentation Format
+## ドキュメント形式
 
-Each spell document follows this structure:
+各呪文ドキュメントは、次の構造に従います。
 
-### 1. Basic Information
-- Spell name and overview
-- Casting information (difficulty, time, duration, range, components)
-- Technical details (mana types, purity requirements, complexity)
+### 1. 基本情報
+- 呪文の名前と概要
+- キャスト情報（難易度、時間、持続時間、範囲、コンポーネント）
+- 技術的な詳細（マナの種類、純度要件、複雑さ）
 
-### 2. Technical Details
+### 2. 技術的な詳細
 
-#### A. Mana Type Distribution
-Proportions of mana types (e.g., "Base Mana 60%, Umbramana 30%, Luxmana 10%")
+#### A. マナの種類分布
+マナの種類の割合（例：「ベースマナ 60%、影マナ 30%、光マナ 10%」）
 
-#### B. Purity Requirements
-Minimum purity level needed to cast successfully
+#### B. 純度要件
+正常にキャストするために必要な最低限の純度レベル
 
-#### C. Pattern Structure
-Magical configuration that creates the spell effect
+#### C. パターン構造
+呪文効果を生み出す魔法構成
 
-### 3. Practical Information
-- Effects and limitations
-- Common applications
-- Variations and adaptations
+### 3. 実用的な情報
+- 効果と制限
+- 一般的なアプリケーション
+- バリエーションと適応
 
-### 4. Learning and Risks
-- Risks and miscast effects
-- Learning progression
-- Historical context
+### 4. 学習とリスク
+- リスクと詠唱ミス効果
+- 学習の進捗
+- 歴史的背景
 
-## Mana Types
+## マナの種類
 
-| Mana Type | Primary Contribution |
+| マナの種類 | 主な貢献 |
 |-----------|----------------------|
-| **Base Mana** | Structural stability and basic magical framework |
-| **Pyromana** | Heat, energy, transformation |
-| **Hydromana** | Fluidity, adaptability, healing |
-| **Terramana** | Solidity, permanence, physical manifestation |
-| **Aeromana** | Movement, freedom, range |
-| **Luxmana** | Illumination, revelation, purification |
-| **Umbramana** | Concealment, subtlety, psychological effects |
-| **Vitaemana** | Growth, healing, enhancement |
-| **Mortismana** | Decay, negation, spiritual manipulation |
+| **ベースマナ** | 構造的な安定性と基本的な魔法の枠組み |
+| **炎マナ** | 熱、エネルギー、変容 |
+| **水マナ** | 流動性、適応性、治癒 |
+| **土マナ** | 堅固さ、永続性、物理的な顕現 |
+| **風マナ** | 動き、自由、範囲 |
+| **光マナ** | 照明、啓示、浄化 |
+| **影マナ** | 隠蔽、繊細さ、心理的影響 |
+| **生マナ** | 成長、治癒、強化 |
+| **死マナ** | 崩壊、否定、精神的な操作 |
 
-## Purity Requirements
+## 純度要件
 
-### Purity Levels
+### 純度レベル
 
-| Category | Range | Typical Use |
+| カテゴリ | 範囲 | 一般的な使用 |
 |----------|-------|-------------|
-| **Crude** | 0-10% | Emergency only |
-| **Basic** | 10-35% | Novice spells |
-| **Refined** | 35-65% | Adept spells |
-| **Superior** | 65-85% | Expert spells |
-| **Perfect** | 85-100% | Master spells |
+| **粗製** | 0-10% | 緊急時のみ |
+| **基本** | 10-35% | 初心者向けの呪文 |
+| **精製** | 35-65% | 中級者向けの呪文 |
+| **上級** | 65-85% | 熟練者向けの呪文 |
+| **完璧** | 85-100% | マスター向けの呪文 |
 
-### Effects on Spellcasting
+### 詠唱への影響
 
-- **Below minimum**: Spell fails or produces unpredictable results
-- **At minimum**: Functions but may be less effective or stable
-- **Above minimum**: Gains enhanced effectiveness, precision, or duration
+- **最低値を下回る**: 呪文が失敗するか、予測不可能な結果が生じる
+- **最低値**: 機能するが、効果や安定性が低下する可能性がある
+- **最低値を上回る**: 効果、精度、または持続時間が向上する
 
-### Example: Purity Influence Table
+### 例：純度の影響テーブル
 
-| Purity | Effect |
+| 純度 | 効果 |
 |--------|--------|
-| 15-20% | Minimal effectiveness, barely functional |
-| 20-35% | Standard effect as described |
-| 35-50% | Enhanced effectiveness or precision |
-| 50%+ | Maximum potential achieved |
+| 15-20% | 効果は最小限で、かろうじて機能する |
+| 20-35% | 説明どおりの標準的な効果 |
+| 35-50% | 効果または精度が向上する |
+| 50%+ | 最大の可能性が達成される |
 
-## Character Progression
+## キャラクターの成長
 
-### Spell Mastery Path
+### 呪文の熟練度パス
 
-1. **Novice**: Basic purity (10-35%), simple patterns
-2. **Adept**: Refined purity (35-65%), moderate complexity
-3. **Expert**: Superior purity (65-85%), complex patterns
-4. **Master**: Perfect purity (85%+), intricate patterns
+1. **初心者**: 基本的な純度 (10-35%)、単純なパターン
+2. **中級者**: 精製された純度 (35-65%)、適度な複雑さ
+3. **熟練者**: 上級の純度 (65-85%)、複雑なパターン
+4. **マスター**: 完璧な純度 (85%+)、複雑なパターン
 
-### Key Development Areas
+### 主要な開発分野
 
-- **Capacity**: Increasing mana reserves
-- **Purification**: Improving mana quality
-- **Pattern Knowledge**: Learning more complex spells
-- **Specialization**: Focusing on particular mana types
+- **容量**: マナの蓄えを増やす
+- **浄化**: マナの質を改善する
+- **パターン知識**: より複雑な呪文を学ぶ
+- **専門化**: 特定のマナの種類に焦点を当てる
 
-## Spell Creation
+## 呪文の作成
 
-Experienced casters can develop new spells through:
+経験豊富なキャスターは、次の方法で新しい呪文を開発できます。
 
-1. Researching existing patterns
-2. Experimenting with mana proportions
-3. Testing practical applications
-4. Documenting successful configurations
+1. 既存のパターンを調査する
+2. マナの割合を実験する
+3. 実用的なアプリケーションをテストする
+4. 成功した構成を文書化する
 
 ---
 
-> **Note**: For detailed information on mana purification, see [`ManaPurity.md`](/codex/Magics/ManaPurity.md) 
+> **注**: マナの浄化に関する詳細については、[`ManaPurity.md`](/codex/Magics/ManaPurity.md)を参照してください。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

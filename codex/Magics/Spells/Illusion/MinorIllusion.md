@@ -1,155 +1,159 @@
-# **Minor Illusion**
+# **マイナーイリュージョン (Minor Illusion)**
 
-> *"Reality is but a canvas awaiting the illusion artist's touch."*  
-> — Mirala Shadowweaver, Illusion Grandmaster
+> *"現実は、イリュージョンアーティストのタッチを待つだけのキャンバスに過ぎない。"*  
+> — ミララ・シャドウウィーバー、イリュージョン大師
 
-## Casting Information
-- **Difficulty**: Novice
-- **Casting Time**: 2 seconds
-- **Duration**: Concentration, up to 5 minutes
-- **Range**: Within 15 feet
-- **Components**: Somatic, Verbal
+## キャスティング情報 (Casting Information)
+- **難易度 (Difficulty)**: 初級 (Novice)
+- **詠唱時間 (Casting Time)**: 2秒
+- **持続時間 (Duration)**: 集中、最大5分
+- **射程距離 (Range)**: 15フィート以内
+- **構成要素 (Components)**: 身体 (Somatic)、言語 (Verbal)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 60%, Umbramana 30%, Luxmana 10%
-- **Purity Required**: Basic (15-25%)
-- **Minimum Mana Capacity**: 15% (Higher capacity extends possible duration and area)
-- **Pattern Complexity**: Simple (3-tier matrix)
-- **Resonance Frequency**: Mid-range sensory spectrum
-- **Specialization Efficiency Required**: 40%+ (Novice level)
-- **Wild Mana Tolerance**: Up to 15% residual content
+## 技術詳細 (Technical Details)
+- **マナタイプ分布 (Mana Type Distribution)**: ベースマナ (Base Mana) 60%、ウンブラマナ (Umbramana) 30%、ルクスマナ (Luxmana) 10%
+- **純度要件 (Purity Required)**: 基本 (Basic) (15-25%)
+- **最小マナ容量 (Minimum Mana Capacity)**: 15% (容量が大きいほど持続時間と範囲が拡大)
+- **パターン複雑性 (Pattern Complexity)**: シンプル (Simple) (3層マトリックス)
+- **共鳴周波数 (Resonance Frequency)**: 中域感覚スペクトル
+- **特殊化効率要件 (Specialization Efficiency Required)**: 40%以上 (初級レベル)
+- **ワイルドマナ許容度 (Wild Mana Tolerance)**: 最大15%の残留コンテンツ
 
-## Mana Mechanics
+## マナメカニクス (Mana Mechanics)
 
-### Base Mana Function
-The Base Mana component (60%) provides:
-- Structural framework for the illusion pattern
-- Stability and duration maintenance
-- Connection to the caster's concentration
-- Boundary definition and spatial anchoring
+### ベースマナ機能 (Base Mana Function)
+ベースマナ成分 (60%) は以下を提供します:
+- イリュージョンパターンの構造フレームワーク
+- 安定性と持続時間の維持
+- キャスターの集中力との接続
+- 境界定義と空間アンカリング
 
-### Umbramana Function
-The Shadow mana component (30%) contributes:
-- Visual/sensory obscuration capabilities
-- Reality distortion properties
-- Light/perception manipulation
-- Concealment of the magical nature of the effect
+### ウンブラマナ機能 (Umbramana Function)
+影のマナ成分 (30%) は以下に貢献します:
+- 視覚/感覚の不明瞭化機能
+- 現実歪曲特性
+- 光/知覚操作
+- 効果の魔法的性質の隠蔽
 
-### Luxmana Function
-The Light mana component (10%) provides:
-- Visual clarity and detail enhancement
-- Sensory precision and definition
-- Reality mimicry qualities
-- Observer connection hooks
+### ルクスマナ機能 (Luxmana Function)
+光のマナ成分 (10%) は以下を提供します:
+- 視覚的な明瞭さとディテールの強化
+- 感覚的な精度と定義
+- 現実模倣品質
+- オブザーバー接続フック
 
-### Specialization Process
-The caster must successfully:
-1. Draw Base Mana from internal reserves
-2. Transform approximately 40% of this Base Mana into specialized forms
-3. Maintain the correct proportional balance (60:30:10)
-4. Establish the harmonics between opposing elements (Umbramana and Luxmana)
+### 特殊化プロセス (Specialization Process)
+キャスターは以下のことを正常に実行する必要があります:
+1. 内部蓄えからベースマナを引き出す
+2. このベースマナの約40%を特殊な形態に変換する
+3. 正しい比例バランス (60:30:10) を維持する
+4. 対立する要素 (ウンブラマナとルクスマナ) 間のハーモニクスを確立する
 
-## Pattern Structure
+## パターン構造 (Pattern Structure)
 
-The spell consists of four primary pattern elements forming a sensory projection matrix:
+呪文は、感覚投影マトリックスを形成する4つの主要なパターン要素で構成されています:
 
-1. **Image Seed**: The core visualization pattern that establishes the illusion's foundation
-2. **Sensory Projection**: The pattern component that projects the illusion into physical space
-3. **Boundary Frame**: Defines the spatial limitations and edges of the illusion
-4. **Perception Hook**: The subtle pattern that connects the illusion to observers' senses
+1. **イメージシード (Image Seed)**: イリュージョンの基盤を確立するコア視覚化パターン
+2. **感覚投影 (Sensory Projection)**: イリュージョンを物理空間に投影するパターンコンポーネント
+3. **境界フレーム (Boundary Frame)**: イリュージョンの空間的制限とエッジを定義します
+4. **知覚フック (Perception Hook)**: イリュージョンを観察者の感覚に接続する微妙なパターン
 
-## Practical Effect
+## 実用的な効果 (Practical Effect)
 
-Minor Illusion creates a single sensory illusion within range:
-- A visual illusion no larger than a 5-foot cube
-- A sound emanating from a point in range (whisper to conversation volume)
-- A simple scent detectable within 10 feet
-- A minor tactile sensation (temperature change, light breeze, gentle touch)
+マイナーイリュージョンは、射程距離内で単一の感覚イリュージョンを作成します:
+- 5フィート立方体以下の視覚イリュージョン
+- 射程距離内のポイントから発せられる音 (ささやきから会話の音量まで)
+- 10フィート以内で検知可能な単純な香り
+- わずかな触覚 (温度変化、軽いそよ風、優しいタッチ)
 
-The spell can create only one type of sensory effect at a time. The illusion has no physical substance and cannot cause damage, create light that illuminates areas, or produce sound loud enough to cause damage or be heard more than 100 feet away.
+呪文は、一度に1種類の感覚効果のみを作成できます。イリュージョンには物理的な実体がなく、ダメージを与えたり、エリアを照らす光を作り出したり、ダメージを与えたり100フィート以上離れた場所で聞こえるほど大きな音を出すことはできません。
 
-## Purity Influence on Effect
+## 純度が効果に与える影響 (Purity Influence on Effect)
 
-The caster's mana purity directly affects the illusion's quality, believability, and stability:
+キャスターのマナ純度は、イリュージョンの品質、信憑性、および安定性に直接影響します:
 
-| Purity Level | Effect |
+| 純度レベル (Purity Level) | 効果 (Effect) |
 |--------------|--------|
-| Below 10% | Casting typically fails; any resulting illusion appears as obvious magical energy with no coherent form |
-| 10-15% | Highly unstable illusion with visible fluctuations and mana "glitches"; immediately recognizable as magical |
-| 15-25% | Standard illusion that appears realistic from a distance but lacks fine details and natural movement |
-| 25-35% | Enhanced illusion with improved details, more natural movement, and better sensory integration |
-| 35-45% | Refined illusion with convincing details that can withstand moderate scrutiny; subtle environmental interaction |
-| 50%+ | Nearly flawless illusion that can fool most observers without careful inspection; seamlessly adapts to environmental changes |
+| 10%未満 (Below 10%) | キャスティングは通常失敗します。結果として生じるイリュージョンは、一貫性のある形のない明らかな魔法エネルギーとして表示されます |
+| 10-15% | 可視的な変動とマナの「グリッチ」を備えた非常に不安定なイリュージョン。魔法としてすぐに認識できます |
+| 15-25% | 遠くから見ると現実的に見えるが、細かいディテールと自然な動きが欠けている標準的なイリュージョン |
+| 25-35% | 細部が改善され、より自然な動き、およびより優れた感覚統合を備えた強化されたイリュージョン |
+| 35-45% | 中程度の精査に耐えることができる説得力のあるディテールを備えた洗練されたイリュージョン。微妙な環境相互作用 |
+| 50%+ | 注意深く検査しなくてもほとんどの観察者をだますことができる、ほぼ完璧なイリュージョン。環境の変化にシームレスに適応します |
 
-Higher purity also extends potential duration, reduces concentration strain, and minimizes the risk of Wild Mana contamination which can cause unintended sensory effects to bleed into the illusion.
+純度が高いほど、潜在的な持続時間が長くなり、集中の負担が軽減され、意図しない感覚効果がイリュージョンににじみ出る可能性のあるワイルドマナ汚染のリスクが最小限に抑えられます。
 
-## Mana Capacity Effects
+## マナ容量効果 (Mana Capacity Effects)
 
-The caster's Mana Capacity influences the spell in several ways:
+キャスターのマナ容量は、呪文にいくつかの影響を与えます:
 
-| Capacity Level | Duration Effect | Size/Range Effect | Quality Effect |
+| 容量レベル (Capacity Level) | 持続時間効果 (Duration Effect) | サイズ/範囲効果 (Size/Range Effect) | 品質効果 (Quality Effect) |
 |----------------|-----------------|-------------------|----------------|
-| 15-25% | Basic duration (up to 5 minutes) | Standard range (15 feet) | Standard quality |
-| 25-40% | Extended duration (up to 10 minutes) | Increased range (20 feet) | Minor detail enhancement |
-| 40-60% | Long duration (up to 20 minutes) | Extended range (25 feet) | Significant detail enhancement |
-| 60%+ | Sustained duration (up to 30 minutes) | Maximum range (30 feet) | Maximum detail potential |
+| 15-25% | 基本的な持続時間 (最大5分) | 標準範囲 (15フィート) | 標準的な品質 |
+| 25-40% | 延長された持続時間 (最大10分) | 増加した範囲 (20フィート) | わずかなディテールの向上 |
+| 40-60% | 長い持続時間 (最大20分) | 拡張された範囲 (25フィート) | 大幅なディテールの向上 |
+| 60%+ | 継続的な持続時間 (最大30分) | 最大範囲 (30フィート) | 最大ディテールポテンシャル |
 
-## Common Applications
+## 一般的な用途 (Common Applications)
 
-- **Distraction**: Creating sounds or visual distractions to divert attention
-- **Concealment**: Masking small objects or features with illusory coverings
-- **Communication**: Displaying simple messages or warnings
-- **Entertainment**: Creating pleasant visuals or sounds for amusement
-- **Ambiance**: Enhancing environments with appropriate sensory elements
-- **Pranks**: Harmless tricks and surprises (heavily discouraged in academic settings)
+- **気をそらす (Distraction)**: 注意をそらすために音や視覚的な気をそらすものを作成する
+- **隠蔽 (Concealment)**: 幻覚的な覆いで小さなオブジェクトまたは機能を隠す
+- **コミュニケーション (Communication)**: 単純なメッセージまたは警告を表示する
+- **エンターテイメント (Entertainment)**: 楽しませるために快適なビジュアルやサウンドを作成する
+- **雰囲気 (Ambiance)**: 適切な感覚要素で環境を強化する
+- **いたずら (Pranks)**: 無害ないたずらと驚き (学術環境では強くお勧めしません)
 
-## Variations
+## バリエーション (Variations)
 
-| Variation | Effect | Mana Requirements |
+| バリエーション (Variation) | 効果 (Effect) | マナ要件 (Mana Requirements) |
 |-----------|--------|-------------------|
-| **Silent Image** | Visual illusion only, but with enhanced detail | 65% Base Mana, 25% Umbramana, 10% Luxmana |
-| **Whisper** | Sound-only version with greater range (30 feet) | 70% Base Mana, 20% Umbramana, 10% Aeromana |
-| **Phantom Scent** | Olfactory illusion with increased intensity | 60% Base Mana, 25% Umbramana, 15% Vitamana |
-| **Ghost Touch** | Tactile illusion with more complex sensation | 55% Base Mana, 35% Umbramana, 10% Terramana |
-| **Persistent Image** | Lasts without concentration for 1 minute | 50% Base Mana, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ purity required |
-| **Dual Sense** | Combines two sensory effects simultaneously | 45% Base Mana, 35% Umbramana, 20% Luxmana; 35%+ purity and 20%+ capacity required |
+| **サイレントイメージ (Silent Image)** | 視覚イリュージョンのみ、ただし詳細が強化されている | 65% ベースマナ (Base Mana), 25% ウンブラマナ (Umbramana), 10% ルクスマナ (Luxmana) |
+| **ウィスパー (Whisper)** | より広い範囲のサウンド専用バージョン (30フィート) | 70% ベースマナ (Base Mana), 20% ウンブラマナ (Umbramana), 10% エロママナ (Aeromana) |
+| **ファントムセント (Phantom Scent)** | 強度が増した嗅覚イリュージョン | 60% ベースマナ (Base Mana), 25% ウンブラマナ (Umbramana), 15% ビタマナ (Vitamana) |
+| **ゴーストタッチ (Ghost Touch)** | より複雑な感覚を伴う触覚イリュージョン | 55% ベースマナ (Base Mana), 35% ウンブラマナ (Umbramana), 10% テラマナ (Terramana) |
+| **パーシステントイメージ (Persistent Image)** | 1分間集中力なしで持続します | 50% ベースマナ (Base Mana), 25% ウンブラマナ (Umbramana), 15% ルクスマナ (Luxmana), 10% クロノマナ (Chronomana); 25%+ の純度が必要 |
+| **デュアルセンス (Dual Sense)** | 2つの感覚効果を同時に組み合わせます | 45% ベースマナ (Base Mana), 35% ウンブラマナ (Umbramana), 20% ルクスマナ (Luxmana); 35%+ の純度と 20%+ の容量が必要 |
 
-## Risks and Miscast Effects
+## リスクと失敗の効果 (Risks and Miscast Effects)
 
-| Risk | Effect | Cause |
+| リスク (Risk) | 効果 (Effect) | 原因 (Cause) |
 |------|--------|-------|
-| **Sensory Bleed** | Unintended secondary sensory effects | Imprecise specialization, Base Mana deficiency |
-| **Pattern Collapse** | Illusion dissipates prematurely | Insufficient concentration, unstable Base Mana framework |
-| **Perception Lock** | Caster temporarily experiences the illusion as real | Wild Mana contamination above 15%, improper Umbramana balance |
-| **Sensory Echo** | Illusion repeats at random intervals after dismissal | Improper spell termination, excess Chronomana resonance |
-| **Detail Drift** | Illusion details gradually change without caster input | Purity below 15% or Wild Mana interference with Luxmana component |
-| **Reality Distortion** | Caster's perception of real sensory input becomes temporarily distorted | Critical purity shortage (below 10%), excessive Umbramana specialization |
+| **感覚の出血 (Sensory Bleed)** | 意図しない二次的な感覚効果 | 不正確な特殊化, ベースマナ欠乏 |
+| **パターン崩壊 (Pattern Collapse)** | イリュージョンが早期に消散する | 不十分な集中力, 不安定なベースマナフレームワーク |
+| **知覚ロック (Perception Lock)** | キャスターが一時的にイリュージョンを現実として体験する | 15%を超えるワイルドマナ汚染, 不適切なウンブラマナバランス |
+| **感覚エコー (Sensory Echo)** | イリュージョンが消滅後、ランダムな間隔で繰り返される | 不適切な呪文終了, 過剰なクロノマナ共鳴 |
+| **詳細ドリフト (Detail Drift)** | キャスターの入力を必要とせずにイリュージョンの詳細が徐々に変化する | 純度が15%未満, またはルクスマナコンポーネントへのワイルドマナ干渉 |
+| **現実歪曲 (Reality Distortion)** | 実際の感覚入力に対するキャスターの知覚が一時的に歪められる | 重大な純度不足 (10%未満), 過度のウンブラマナ特殊化 |
 
-## Elemental Interactions
+## 元素相互作用 (Elemental Interactions)
 
-Minor Illusion demonstrates several important elemental principles:
+マイナーイリュージョンは、いくつかの重要な元素の原則を示しています:
 
-1. **Balanced Opposition**: The controlled tension between Umbramana (shadow) and Luxmana (light) creates the realistic visual quality
-2. **Base Mana Framework**: The high proportion of Base Mana (60%) provides stability for the inherently unstable combination of opposed elements
-3. **Harmonic Resonance**: The specific 60:30:10 ratio creates a resonance pattern that mimics natural sensory frequencies
-4. **Specialization Gradient**: The spell uses partially specialized Umbramana and Luxmana rather than pure forms, allowing more subtle effects
+1. **バランスの取れた対立 (Balanced Opposition)**: ウンブラマナ (影) とルクスマナ (光) の間の制御された緊張は、現実的な視覚的品質を生み出します
+2. **ベースマナフレームワーク (Base Mana Framework)**: 高い割合のベースマナ (60%) は、本質的に不安定な対立する要素の組み合わせに安定性を提供します
+3. **ハーモニック共鳴 (Harmonic Resonance)**: 特定の60:30:10の比率は、自然な感覚周波数を模倣する共鳴パターンを作成します
+4. **特殊化勾配 (Specialization Gradient)**: 呪文は、純粋な形態ではなく、部分的に特殊化されたウンブラマナとルクスマナを使用するため、より微妙な効果が得られます
 
-## Musical Analogy
+## 音楽的アナロジー (Musical Analogy)
 
-Casting Minor Illusion is like playing a simple melody that listeners can perceive but not interact with. The Base Mana forms the fundamental tone or "carrier note," while the Umbramana and Luxmana create the harmonics that give the illusion its character. The caster must maintain the rhythm (concentration) to keep the melody playing, while carefully balancing the various sensory "notes" to create a convincing performance. Wild Mana contamination introduces random discordant notes that diminish the performance quality.
+マイナーイリュージョンを唱えることは、リスナーが知覚できるが相互作用できない単純なメロディーを演奏するようなものです。 ベースマナは基本的なトーンまたは「キャリアノート」を形成し、ウンブラマナとルクスマナはイリュージョンにその特徴を与えるハーモニクスを作成します。 キャスターは、メロディーを再生し続けるためにリズム (集中力) を維持しながら、さまざまな感覚の「ノート」を注意深くバランスさせ、説得力のあるパフォーマンスを作成する必要があります。 ワイルドマナ汚染は、パフォーマンスの品質を低下させるランダムな不協和音を追加します。
 
-## Learning Progression
+## 学習進捗 (Learning Progression)
 
-1. **Base Mana Structure**: Learning to create and maintain the basic illusion framework
-2. **Umbramana Specialization**: Developing skill in shadow mana conversion for reality distortion
-3. **Luxmana Integration**: Adding light mana elements for detail and clarity
-4. **Harmonic Balancing**: Achieving the precise ratio of elements for stable illusions
-5. **Sensory Precision**: Refining the illusion to appear more realistic and detailed
-6. **Sustaining Focus**: Extending the duration through improved concentration
-7. **Purification Techniques**: Methods to reduce Wild Mana contamination for clearer illusions
+1. **ベースマナ構造 (Base Mana Structure)**: 基本的なイリュージョンフレームワークを作成および維持する方法を学ぶ
+2. **ウンブラマナ特殊化 (Umbramana Specialization)**: 現実歪曲のためのシャドウマナ変換のスキルを開発する
+3. **ルクスマナ統合 (Luxmana Integration)**: 詳細と明瞭さのためにライトマナ要素を追加する
+4. **ハーモニックバランシング (Harmonic Balancing)**: 安定したイリュージョンを実現するための要素の正確な比率を達成する
+5. **感覚的精度 (Sensory Precision)**: より現実的で詳細に見えるようにイリュージョンを改良する
+6. **フォーカスの維持 (Sustaining Focus)**: 集中力を向上させて持続時間を延長する
+7. **浄化技術 (Purification Techniques)**: より明確なイリュージョンのためにワイルドマナ汚染を減らす方法
 
-## Historical Note
+## 歴史的な注記 (Historical Note)
 
-Minor Illusion was developed by Mirala Shadowweaver during the Second Age as a teaching tool for apprentice illusionists. The spell's simple structure makes it an ideal introduction to perception manipulation, while its limited scope prevents dangerous applications. It remains one of the most commonly taught spells in magical academies across the realm.
+マイナーイリュージョンは、第二紀にミララ・シャドウウィーバーによって、見習いイリュージョニストの教育ツールとして開発されました。 呪文の単純な構造により、知覚操作に理想的な導入となり、その範囲が限られているため、危険なアプリケーションを防ぎます。 それは、王国全体の魔法アカデミーで最も一般的に教えられている呪文の1つであり続けています。
 
-*See also: [Illusion School](/codex/Magics/Schools/Illusion.md), [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md)* 
+*参照: [イリュージョンスクール](/codex/Magics/Schools/Illusion.md), [ベースマナ](/codex/Magics/Core/BaseMana.md), [マナの特殊化](/codex/Magics/Core/ManaSpecialization.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

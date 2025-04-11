@@ -1,202 +1,206 @@
-# **Earth Magic**: The Art of Stone, Crystal, and Soil
+# **アースマジック**: 石、クリスタル、土の芸術
 
-> *"The wisdom of earth lies in its patience. Mountains are not raised in a day, nor valleys carved in a moment. True strength comes from endurance, not force."* — Archgeomancer Doran Stoneheart
+> *"大地の知恵は、その忍耐強さにある。山は一日でそびえ立たず、谷は一瞬で刻まれない。真の強さは、力ではなく、忍耐から生まれる。"* — 大地術師ドラン・ストーンハート
 
-## Quick Reference
-- [Properties of Terramana](#properties-of-terramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## クイックリファレンス
+- [テラマナの特性](#テラマナの特性)
+- [操作技術](#操作技術)
+- [一般的な呪文](#一般的な呪文)
+- [親和性の開発](#親和性の開発)
+- [リスクと安全対策](#リスクと安全対策)
+- [文化的意義](#文化的意義)
 
-## Properties of Terramana
+## テラマナの特性
 
-Terramana, the elemental mana of earth, is characterized by:
+テラマナ、大地の元素マナは、以下のような特徴を持ちます：
 
-- **Appearance**: Deep browns, greens, and amber; crystalline structure with geometric patterns
-- **Sensation**: Feels heavy, grounding, and solid when channeled; creates a sense of weight and stability
-- **Resonance**: Low-frequency, stable vibration patterns with strong harmonic undertones
-- **Purification Challenge**: Slow to purify but maintains purity once achieved; tends to accumulate sedimentary impurities
-- **Opposite Element**: Air (creates dust when forced together, ultimately eroded by air)
-- **Complementary Elements**: Fire (creates magma/lava), Life (creates growth and fertility)
-- **Musical Analogy**: Bass instruments, particularly double bass; foundation notes that provide structure
+- **外観**: 深い茶色、緑色、琥珀色。幾何学的なパターンを持つ結晶構造
+- **感覚**: チャネリングすると、重く、地に足が着くような、そして堅固な感じがする。重さと安定感を生み出す
+- **共鳴**: 低周波で安定した振動パターン、強い倍音
+- **浄化の難易度**: 浄化に時間がかかるが、一度浄化されると純度を維持する。堆積性の不純物を蓄積しやすい
+- **反対の元素**: 空気（無理に合わせると塵が発生し、最終的には空気によって浸食される）
+- **相補的な元素**: 火（マグマ/溶岩を生成）、生命（成長と豊穣を創造）
+- **音楽的なアナロジー**: ベース楽器、特にコントラバス。構造を提供する基礎音
 
-## Manipulation Techniques
+## 操作技術
 
-### Basic Techniques
+### 基本的な技術
 
-#### Terrakinesis
-The foundational technique of moving and directing earth and stone:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-30%)
-- **Effect**: Shifts, lifts, or compresses earth, sand, or loose stone
-- **Training Focus**: Force direction and mass distribution
-- **Applications**: Creating mounds, digging trenches, stabilizing unstable ground
+#### テラキネシス
+大地と石を動かし、指示する基礎的な技術：
+- **難易度**: 初心者
+- **純度要件**: 基本（15-30%）
+- **効果**: 土、砂、または緩い石を移動、持ち上げ、または圧縮する
+- **訓練の焦点**: 力の方向と質量分布
+- **応用**: 塚の作成、溝の掘削、不安定な地盤の安定化
 
-#### Material Densification
-Increasing or decreasing the density and hardness of earth materials:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-45%)
-- **Effect**: Changes the physical properties of earth without changing its form
-- **Training Focus**: Molecular compression and structural integrity
-- **Applications**: Hardening mud into clay or stone, softening rock, creating paths through difficult terrain
+#### 物質密度化
+地球物質の密度と硬度を増減させること：
+- **難易度**: 初心者から中級者
+- **純度要件**: 基本から洗練（20-45%）
+- **効果**: 形を変えずに地球の物理的特性を変える
+- **訓練の焦点**: 分子圧縮と構造的完全性
+- **応用**: 泥を粘土や石に硬化させる、岩を柔らかくする、困難な地形に道を作る
 
-#### Seismic Sensing
-Detecting vibrations and structures through earth:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Extends awareness through connected earth materials
-- **Training Focus**: Vibrational interpretation and filtering
-- **Applications**: Finding caverns, detecting movement, locating water or mineral deposits
+#### 地震感知
+地球を通して振動や構造を検出すること：
+- **難易度**: 中級者
+- **純度要件**: 洗練（35-50%）
+- **効果**: 接続された地球物質を通して意識を拡張する
+- **訓練の焦点**: 振動の解釈とフィルタリング
+- **応用**: 洞窟の発見、動きの検出、水や鉱物堆積物の位置特定
 
-### Advanced Techniques
+### 高度な技術
 
-#### Crystalline Formation
-Creating and manipulating mineral structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms crystalline structures with specific properties and geometric patterns
-- **Training Focus**: Molecular arrangement and growth control
-- **Applications**: Creating gemstones, reinforcing structures, developing crystalline tools
+#### 結晶形成
+鉱物構造を作り、操作すること：
+- **難易度**: 上級者
+- **純度要件**: 洗練から完璧（45-70%）
+- **効果**: 特定の特性と幾何学的なパターンを持つ結晶構造を形成する
+- **訓練の焦点**: 分子配置と成長制御
+- **応用**: 宝石の作成、構造の強化、結晶ツールの開発
 
-#### Terra Transmutation
-Changing one earth material into another:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Transforms the elemental composition of earth materials
-- **Training Focus**: Molecular deconstruction and reassembly
-- **Applications**: Creating precious metals, purifying ores, transforming sand to glass
+#### 土地変成
+ある地球物質を別のものに変えること：
+- **難易度**: エキスパート
+- **純度要件**: 完璧（65-85%）
+- **効果**: 地球物質の元素組成を変換する
+- **訓練の焦点**: 分子解体と再構築
+- **応用**: 貴金属の作成、鉱石の精製、砂からガラスへの変換
 
-#### Tectonic Manipulation
-Influencing the movement of large earth masses:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Creates controlled movement in bedrock and underground structures
-- **Training Focus**: Force multiplication and geological understanding
-- **Applications**: Creating passages through mountains, stabilizing earthquake-prone regions, raising small landforms
+#### 地殻操作
+大規模な地球の動きに影響を与えること：
+- **難易度**: マスター
+- **純度要件**: 完璧（75-95%）
+- **効果**: 岩盤と地下構造における制御された動きを作り出す
+- **訓練の焦点**: 力の増幅と地質学的理解
+- **応用**: 山を通る通路の作成、地震が発生しやすい地域の安定化、小さな地形の隆起
 
-## Common Spells
+## 一般的な呪文
 
-### Novice Spells
+### 初心者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | 詠唱時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Stone Lift** | Raises a small mass of earth or stone | Somatic, Earth contact | 3 seconds | Instantaneous |
-| **Soil Shift** | Moves loose earth from one location to another | Somatic, Earth contact | 5 seconds | Instantaneous |
-| **Terra Firma** | Stabilizes unstable ground | Somatic, Verbal | 10 seconds | 1 hour |
-| **Dust Cloud** | Creates a cloud of fine particles for concealment | Somatic, Earth material | 2 seconds | 5 minutes |
+| **ストーンリフト** | 小さな土や石の塊を持ち上げる | 体勢、地球との接触 | 3秒 | 瞬間的 |
+| **ソイルシフト** | 緩い土をある場所から別の場所へ移動させる | 体勢、地球との接触 | 5秒 | 瞬間的 |
+| **テラファーマ** | 不安定な地盤を安定させる | 体勢、言語 | 10秒 | 1時間 |
+| **ダストクラウド** | 隠蔽のための細かい粒子の雲を作る | 体勢、地球物質 | 2秒 | 5分 |
 
-### Intermediate Spells
+### 中級者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | 詠唱時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Stone Shield** | Creates a protective barrier of hardened earth | Somatic, Verbal, Earth | 5 seconds | 30 minutes |
-| **Crystal Lens** | Forms a crystal that enhances vision or focuses light | Somatic, Mineral focus | 30 seconds | 1 day |
-| **Earth Merge** | Allows partial merging with stone or earth | Somatic, Verbal, Earth | 10 seconds | 10 minutes |
-| **Metal Finding** | Reveals nearby metal deposits | Somatic, Mineral focus | 30 seconds | Instantaneous |
+| **ストーンシールド** | 硬化した土の保護バリアを作る | 体勢、言語、地球 | 5秒 | 30分 |
+| **クリスタルレンズ** | 視力を強化したり、光を集束させるクリスタルを形成する | 体勢、鉱物フォーカス | 30秒 | 1日 |
+| **アースマージ** | 石や土との部分的な融合を可能にする | 体勢、言語、地球 | 10秒 | 10分 |
+| **メタルファインディング** | 近くの金属堆積物を明らかにする | 体勢、鉱物フォーカス | 30秒 | 瞬間的 |
 
-### Advanced Spells
+### 上級者向け呪文
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 呪文 | 効果 | 構成要素 | 詠唱時間 | 継続時間 |
 |-------|--------|------------|--------------|----------|
-| **Earthquake** | Creates localized seismic activity | Somatic, Verbal, Focus | 15 seconds | Instantaneous |
-| **Terra Construct** | Forms a semi-autonomous earth elemental | Somatic, Verbal, Focus, Earth | 1 minute | 1 hour |
-| **Crystalline Prison** | Encases target in crystal growth | Somatic, Verbal, Minerals | 10 seconds | 1 hour |
-| **Mountain's Strength** | Grants incredible durability to target | Somatic, Verbal, Stone dust | 30 seconds | 10 minutes |
+| **アースクエイク** | 局所的な地震活動を作り出す | 体勢、言語、フォーカス | 15秒 | 瞬間的 |
+| **テラコンストラクト** | 半自律的な土のエレメンタルを形成する | 体勢、言語、フォーカス、地球 | 1分 | 1時間 |
+| **クリスタラインプリズン** | ターゲットをクリスタルの成長で覆う | 体勢、言語、ミネラル | 10秒 | 1時間 |
+| **マウンテンズストレングス** | ターゲットに信じられないほどの耐久性を与える | 体勢、言語、石の粉 | 30秒 | 10分 |
 
-## Affinity Development
+## 親和性の開発
 
-Earth affinity progresses through several distinctive stages:
+地球の親和性は、いくつかの独特の段階を経て進行します：
 
-### Grounded Connection
-The foundational relationship with earth that most beginners possess:
-- **Manifestation**: Intuitive sense of stability, minor influence over soil and sand
-- **Physical Signs**: Slightly roughened skin, strong sense of direction underground
-- **Enhancement Method**: Regular meditation while in direct contact with bare earth
+### 地に足の着いた繋がり
+ほとんどの初心者が持っている地球との基礎的な関係：
+- **顕在化**: 安定感の直感的な感覚、土や砂へのわずかな影響
+- **身体的兆候**: わずかにざらついた肌、地下での強い方向感覚
+- **強化方法**: 裸の地球と直接接触しながら定期的に瞑想する
 
-### Material Mastery
-The intermediate stage where earth responds more readily to the mage's will:
-- **Manifestation**: Stone and earth move with less effort, sensing abilities expand
-- **Physical Signs**: Nails and hair take on mineral-like properties, skin develops subtle crystal patterns
-- **Enhancement Method**: Handling and studying different types of stone, soil, and crystal
+### 物質の習得
+地球が魔術師の意志にもっと容易に応答する中間の段階：
+- **顕在化**: 石と土の動きが容易になり、感知能力が拡大する
+- **身体的兆候**: 爪と髪が鉱物のような性質を帯び、肌に微妙な結晶パターンが現れる
+- **強化方法**: さまざまな種類の石、土、結晶を取り扱い、研究する
 
-### Bedrock Harmony
-Advanced practitioners achieve a deep resonance with earth's structural properties:
-- **Manifestation**: Earth seems to respond intuitively, minerals form naturally around the caster
-- **Physical Signs**: Increased body density, earth-toned skin patterns appear during casting
-- **Enhancement Method**: Extended communion at sites of geological interest or power
+### 岩盤調和
+上級の実践者は、地球の構造的特性との深い共鳴を達成します：
+- **顕在化**: 地球は直感的に応答するように見え、鉱物が詠唱者の周りに自然に形成される
+- **身体的兆候**: 体密度が増加し、詠唱中に地球を帯びた肌のパターンが現れる
+- **強化方法**: 地質学的に興味深い場所や力の場所で長時間の交わりを持つ
 
-### Tectonic Unity
-Master geomancers who have achieved profound connection with earth:
-- **Manifestation**: Partial transformation abilities, influence over terrain without direct contact
-- **Physical Signs**: Eyes develop crystalline patterns, blood contains mineral compounds
-- **Enhancement Method**: Deep communion at ley line intersections with strong earth resonance
+### 地殻統一
+地球との深いつながりを達成したマスター大地術師：
+- **顕在化**: 部分的な変身能力、直接接触せずに地形に影響を与える
+- **身体的兆候**: 目に結晶パターンが発達し、血液にミネラル化合物が含まれる
+- **強化方法**: 強い地球の共鳴を持つレイライン交差点での深い交わり
 
-## Risks and Safeguards
+## リスクと安全対策
 
-### Common Risks
+### 一般的なリスク
 
-- **Immobility**: Becoming too attuned to earth's stillness, resulting in slowed movement
-- **Crystal Growth**: Unintended crystallization in the caster's body tissues
-- **Mass Overload**: Attempting to manipulate earth masses beyond one's strength
-- **Burial Potential**: Loss of control leading to self-burial or cave-ins
-- **Molecular Disruption**: Improper transmutation affecting the caster's own body composition
+- **不動性**: 地球の静けさに慣れすぎると、動きが遅くなる
+- **結晶成長**: 詠唱者の身体組織内で意図しない結晶化が起こる
+- **質量過負荷**: 自分の強さを超えた土塊を操作しようとする
+- **埋没の可能性**: コントロールを失うと、自己埋没や洞窟崩壊につながる
+- **分子破壊**: 不適切な変成は詠唱者自身の身体組成に影響を与える
 
-### Miscast Effects
+### 詠唱ミス効果
 
-| Severity | Effect | Recovery |
+| 重症度 | 効果 | 回復 |
 |----------|--------|----------|
-| **Minor** | Temporary stiffening of joints, skin abrasions, sensory dulling | Hours |
-| **Moderate** | Partial petrification of extremities, internal mineral deposits, weight increase | Days |
-| **Severe** | Major joint crystallization, organ calcification, structural integrity damage | Weeks |
-| **Critical** | Progressive petrification, catastrophic molecular restructuring, skeletal reinforcement | Months to permanent |
+| **軽度** | 関節の一時的な硬直、皮膚の擦り傷、感覚の鈍化 | 数時間 |
+| **中度** | 四肢の部分的な石化、体内のミネラル堆積物、体重増加 | 数日 |
+| **重度** | 主要な関節の結晶化、臓器の石灰化、構造的完全性の損傷 | 数週間 |
+| **重大** | 進行性の石化、壊滅的な分子再構築、骨格強化 | 数ヶ月から永続的 |
 
-### Safety Practices
+### 安全対策
 
-- **Grounding Rituals**: Regular release of accumulated earth energies
-- **Flexibility Maintenance**: Counterbalancing exercises to prevent stiffening
-- **Mass Calculation**: Careful assessment of earth volume before manipulation
-- **Material Isolation**: Using external earth sources rather than biological minerals
-- **Environmental Awareness**: Assessing geological stability before major workings
+- **接地の儀式**: 蓄積された地球エネルギーの定期的な放出
+- **柔軟性の維持**: 硬直を防ぐためのバランス運動
+- **質量計算**: 操作前に地球の体積を注意深く評価する
+- **物質隔離**: 生物学的ミネラルではなく、外部の地球源を使用する
+- **環境認識**: 主要な作業を行う前に地質学的安定性を評価する
 
-## Cultural Significance
+## 文化的意義
 
-### Historical Development
+### 歴史的発展
 
-Earth magic represents one of the oldest and most universally practiced forms of elemental manipulation. The development of geomancy followed three primary historical paths:
+アースマジックは、最も古く、最も普遍的に実践されている元素操作の形態の1つを表しています。大地術の開発は、主に3つの歴史的な道筋をたどりました：
 
-1. **Agricultural Foundation**: Early tribal practitioners using earth magic for cultivation and shelter
-2. **Structural Engineering**: Ancient civilizations developing earth manipulation for architecture and infrastructure
-3. **Mineral Crafting**: Advanced societies discovering crystal and metal manipulation
+1. **農業基盤**: 耕作と避難のためにアースマジックを使用する初期の部族実践者
+2. **構造工学**: 建築とインフラストラクチャのために地球操作を開発する古代文明
+3. **鉱物工芸**: クリスタルと金属の操作を発見する先進社会
 
-### Regional Variations
+### 地域的バリエーション
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 焦点 | 特徴的な技術 | 哲学 |
 |---------|-------|---------------------|------------|
-| **Mountain Clans** | Stone manipulation, tunneling | Living stone, cave singing | Earth as the eternal foundation |
-| **Plains Peoples** | Soil fertility, agricultural enhancement | Growth blessing, soil enrichment | Earth as the nurturing provider |
-| **Desert Dwellers** | Crystal formation, finding water | Crystal dowsing, sand walking | Earth as the hidden treasure keeper |
-| **Forest Tribes** | Root systems, natural structures | Living architecture, wood strengthening | Earth as the connected network |
+| **山の氏族** | 石の操作、トンネル掘削 | 生ける石、洞窟歌 | 地球は永遠の基礎 |
+| **平原の人々** | 土壌の肥沃度、農業の強化 | 成長の祝福、土壌の濃縮 | 地球は育成するプロバイダー |
+| **砂漠の住人** | クリスタル形成、水探し | クリスタルダウジング、砂歩き | 地球は隠された宝物の守り手 |
+| **森の部族** | 根系、自然構造 | 生きた建築、木の強化 | 地球はつながったネットワーク |
 
-### Ceremonial Uses
+### 儀式での使用
 
-Earth magic features prominently in many cultural ceremonies:
-- **Foundation Rituals**: Blessing new structures and settlements
-- **Harvest Ceremonies**: Thanksgiving and renewal of soil fertility
-- **Rite of Passage**: Young geomancers demonstrating their ability to shape stone
-- **Burial Customs**: Earth magic often used in funeral practices and memorials
+アースマジックは、多くの文化的な儀式で顕著に特徴づけられます：
+- **基礎の儀式**: 新しい構造と集落を祝福する
+- **収穫の儀式**: 土壌の肥沃度に対する感謝と更新
+- **通過儀礼**: 若い大地術師が石を形作る能力を示す
+- **埋葬の習慣**: アースマジックは、葬儀や記念式典でよく使用される
 
-### Contemporary Applications
+### 現代的な応用
 
-Beyond combat and utility applications, earth magic serves essential societal functions:
-- **Construction**: Reinforcing buildings, creating roads, excavating foundations
-- **Mining**: Locating and extracting valuable minerals safely
-- **Agriculture**: Soil enhancement and management
-- **Environmental Protection**: Containing erosion, stabilizing landscapes, managing sinkholes
+戦闘やユーティリティの応用を超えて、アースマジックは不可欠な社会機能を果たします：
+- **建設**: 建物の強化、道路の建設、基礎の掘削
+- **鉱業**: 価値ある鉱物を安全に位置特定し、抽出する
+- **農業**: 土壌の強化と管理
+- **環境保護**: 浸食の抑制、景観の安定化、陥没穴の管理
 
-> *"The student of earth must understand that true strength lies not in hardness alone, but in the balance between rigidity and flexibility—like the mountain that stands for eons yet slowly changes its shape."* — The Geomantic Principles
+> *"地球の学生は、真の強さが硬さだけにあるのではなく、剛性と柔軟性のバランスにあることを理解しなければなりません。それは、何世紀も立っている山でありながら、ゆっくりと形を変える山のようなものです。"* — 大地術の原則
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Metal Magic](/codex/Magics/Advanced/Combinations/MetalMagic.md)* 
+*参照：[エレメンタルマジック](/codex/Magics/Elements/ElementalMagic.md), [ファイアマジック](/codex/Magics/Elements/FireMagic.md), [メタルマジック](/codex/Magics/Advanced/Combinations/MetalMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
