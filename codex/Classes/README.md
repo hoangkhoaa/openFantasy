@@ -1,149 +1,153 @@
-# OpenFantasy Character Classes
+# OpenFantasy キャラクタークラス
 
-> *"Every soul finds its own melody in the symphony of power."*
+> *"力（ちから）の交響曲（こうきょうきょく）の中（なか）で、すべての魂（たましい）は自（みずか）らの旋律（せんりつ）を見（み）つける。"*
 
-## Overview
+## 概要（がいよう）
 
-Welcome to the OpenFantasy Character Classes documentation. This repository contains comprehensive information about the various paths of power and specialization available to characters in the OpenFantasy world.
+OpenFantasy キャラクタークラスのドキュメントへようこそ。このリポジトリには、OpenFantasy の世界（せかい）でキャラクターが利用（りよう）できる、力（ちから）と専門性（せんもんせい）の様々（さまざま）な道（みち）についての包括的（ほうかつてき）な情報（じょうほう）が含（ふく）まれています。
 
-## Quick Navigation
+## クイックナビゲーション
 
-- [Class Fundamentals](#class-fundamentals)
-- [Primary Classes](#primary-classes)
-- [Character Progression](#character-progression)
-- [Multiclassing](#multiclassing)
-- [Species Affinities](#species-affinities)
-- [Documentation Structure](#documentation-structure)
+- [クラスの基礎（きそ）](#class-fundamentals)
+- [プライマリークラス](#primary-classes)
+- [キャラクターの成長（せいちょう）](#character-progression)
+- [マルチクラス](#multiclassing)
+- [種族（しゅぞく）のアフィニティ](#species-affinities)
+- [ドキュメントの構造（こうぞう）](#documentation-structure)
 
-## Class Fundamentals
+## クラスの基礎（きそ）
 
-Classes in OpenFantasy represent specialized paths that harness and develop a character's innate abilities:
+OpenFantasy のクラスは、キャラクターの生来（せいらい）の能力（のうりょく）を活用（かつよう）し、開発（かいはつ）する専門的（せんもんてき）な道（みち）を表（あらわ）します。
 
-| Concept | Description |
+| 概念（がいねん） | 説明（せつめい） |
 |---------|-------------|
-| **Class Structure** | The organization of abilities and specializations |
-| **Elemental Composition** | The balance of Exanthis, Soul, and Mana Capacity |
-| **Subclasses** | Specialized branches of each core class |
-| **Class Progression** | The development path for class abilities |
-| **Equipment** | Tools and items that enhance class capabilities |
+| **Class Structure (クラス構造)** | 能力（のうりょく）と専門性（せんもんせい）の構成（こうせい） |
+| **Elemental Composition (元素組成)** | Exanthis、Soul、Mana Capacity のバランス |
+| **Subclasses (サブクラス)** | 各（かく）コアクラスの専門的分岐（せんもんてきぶんき） |
+| **Class Progression (クラスの進行)** | クラス能力（のうりょく）の開発経路（かいはつけいろ） |
+| **Equipment (装備)** | クラスの能力（のうりょく）を高（たか）めるツールとアイテム |
 
-## Primary Classes
+## プライマリークラス
 
-OpenFantasy features ten primary classes, each with their own specializations:
+OpenFantasy には、それぞれ独自（どくじ）の専門性（せんもんせい）を持（も）つ10個（こ）のプライマリークラスがあります。
 
-| Class | Core Focus | Primary Attribute | Class Directory |
+| Class (クラス) | Core Focus (コアフォーカス) | Primary Attribute (主な属性) | Class Directory (クラスディレクトリ) |
 |-------|------------|-------------------|----------------|
-| **Warrior** | Physical combat | Exanthis | [Warrior/](Warrior/) |
-| **Mage** | Arcane spellcasting | Mana Capacity | [Mage/](Mage/) |
-| **Rogue** | Stealth and precision | Soul | [Rogue/](Rogue/) |
-| **Cleric** | Divine magic | Soul/Mana | [Cleric/](Cleric/) |
-| **Ranger** | Wilderness and tracking | Exanthis/Soul | [Ranger/](Ranger/) |
-| **Artificer** | Magical creation | Mana Capacity | [Artificer/](Artificer/) |
-| **Bard** | Performance magic | Soul/Mana | [Bard/](Bard/) |
-| **Druid** | Nature magic | Soul/Mana | [Druid/](Druid/) |
-| **Monk** | Internal energy | Exanthis/Soul | [Monk/](Monk/) |
-| **Warlock** | Pact magic | Soul/Mana | [Warlock/](Warlock/) |
+| **Warrior (戦士)** | 物理戦闘（ぶつりせんとう） | Exanthis | [Warrior/](Warrior/) |
+| **Mage (メイジ)** | 秘術呪文（ひじゅつじゅもん） | Mana Capacity | [Mage/](Mage/) |
+| **Rogue (ローグ)** | 隠密（いんみつ）と精密（せいみつ） | Soul | [Rogue/](Rogue/) |
+| **Cleric (クレリック)** | 神聖魔法（しんせいまほう） | Soul/Mana | [Cleric/](Cleric/) |
+| **Ranger (レンジャー)** | 荒野（こうや）と追跡（ついせき） | Exanthis/Soul | [Ranger/](Ranger/) |
+| **Artificer (アーティフィサー)** | 魔法創造（まほうそうぞう） | Mana Capacity | [Artificer/](Artificer/) |
+| **Bard (バード)** | 演劇魔法（えんげきまほう） | Soul/Mana | [Bard/](Bard/) |
+| **Druid (ドルイド)** | 自然魔法（しぜんまほう） | Soul/Mana | [Druid/](Druid/) |
+| **Monk (モンク)** | 内なるエネルギー | Exanthis/Soul | [Monk/](Monk/) |
+| **Warlock (ウォーロック)** | 契約魔法（けいやくまほう） | Soul/Mana | [Warlock/](Warlock/) |
 
-→ See the [Classes overview](Classes.md) for detailed information about each class.
+→ 各（かく）クラスの詳細（しょうさい）については、[クラスの概要（がいよう）](Classes.md) を参照（さんしょう）してください。
 
-## Character Progression
+## キャラクターの成長（せいちょう）
 
-Character advancement follows a tiered progression system:
+キャラクターの成長（せいちょう）は、段階的（だんかいてき）な進行（しんこう）システムに従（したが）います。
 
-### Level Tiers
+### レベル層（そう）
 
-| Tier | Levels | Description |
+| Tier (層) | Levels (レベル) | Description (説明) |
 |------|--------|-------------|
-| **Novice** | 1-5 | Learning fundamentals of the class |
-| **Adept** | 6-10 | Mastering basics and developing specialization |
-| **Expert** | 11-15 | Honing abilities to a high degree |
-| **Master** | 16-20 | Achieving mastery of chosen path |
-| **Legendary** | 21+ | Transcending normal limitations |
+| **Novice (初心者)** | 1-5 | クラスの基礎（きそ）を学（まな）ぶ |
+| **Adept (熟練者)** | 6-10 | 基本（きほん）を習得（しゅうとく）し、専門性（せんもんせい）を開発（かいはつ）する |
+| **Expert (専門家)** | 11-15 | 高度（こうど）な能力（のうりょく）を磨（みが）く |
+| **Master (達人)** | 16-20 | 選択（せんたく）した道（みち）の熟達（じゅくたつ）を達成（たっせい）する |
+| **Legendary (伝説)** | 21+ | 通常（つうじょう）の制限（せいげん）を超越（ちょうえつ）する |
 
-## Multiclassing
+## マルチクラス
 
-Characters may pursue multiple class paths simultaneously, creating unique combinations of abilities. This versatility comes at the cost of specialized mastery in any single discipline.
+キャラクターは、複数（ふくすう）のクラスパスを同時（どうじ）に追求（ついきゅう）し、能力（のうりょく）のユニークな組（く）み合（あ）わせを作成（さくせい）できます。この多様性（たようせい）は、単一（たんいつ）の分野（ぶんや）における専門的（せんもんてき）な熟達（じゅくたつ）を犠牲（ぎせい）にします。
 
-### Common Multiclass Combinations
+### 一般的（いっぱんてき）なマルチクラスの組（く）み合（あ）わせ
 
-| Combination | Synergy |
+| Combination (組（く）み合（あ）わせ) | Synergy (相乗効果) |
 |-------------|---------|
-| Warrior/Mage | Physical combat enhanced with magical abilities |
-| Cleric/Warrior | Divine magic with martial prowess |
-| Rogue/Ranger | Stealth combined with wilderness expertise |
-| Bard/Warlock | Performance magic enhanced with pact abilities |
-| Druid/Monk | Nature magic combined with physical discipline |
+| Warrior/Mage (戦士/メイジ) | 魔法能力（まほうのうりょく）で強化（きょうか）された物理戦闘（ぶつりせんとう） |
+| Cleric/Warrior (クレリック/戦士) | 武術（ぶじゅつ）の腕前（うでまえ）を備（そな）えた神聖魔法（しんせいまほう） |
+| Rogue/Ranger (ローグ/レンジャー) | 荒野（こうや）の専門知識（せんもんちしき）と組（く）み合（あ）わされた隠密（いんみつ） |
+| Bard/Warlock (バード/ウォーロック) | 契約能力（けいやくのうりょく）で強化（きょうか）された演劇魔法（えんげきまほう） |
+| Druid/Monk (ドルイド/モンク) | 身体的（しんたいてき）な訓練（くんれん）と組（く）み合（あ）わされた自然魔法（しぜんまほう） |
 
-## Species Affinities
+## 種族（しゅぞく）のアフィニティ
 
-Different species have natural affinities for certain classes based on their elemental composition:
+種族（しゅぞく）が異（こと）なると、その元素組成（げんそそせい）に基（もと）づいて、特定（とくてい）のクラスに対（たい）する自然（しぜん）な親和性（しんわせい）を持（も）っています。
 
-| Species | Natural Class Affinities |
+| Species (種族) | Natural Class Affinities (自然（しぜん）なクラスの親和性（しんわせい）) |
 |---------|--------------------------|
-| **Humans** | Balanced affinity for all classes |
-| **Elves** | Mage, Ranger, Bard |
-| **Dark Elves** | Mage, Rogue, Warlock |
-| **Dwarves** | Warrior, Artificer, Cleric |
-| **Beastfolk** | Ranger, Druid, Warrior |
-| **Dragonkin** | Warrior, Mage, Warlock |
-| **Fae** | Bard, Druid, Mage |
-| **Golems** | Artificer, Warrior |
-| **Sirens** | Bard, Mage |
-| **Shadowfolk** | Rogue, Warlock, Mage |
-| **Giants** | Warrior, Druid |
+| **Humans (人間)** | すべてのクラスに対（たい）してバランスの取（と）れた親和性（しんわせい） |
+| **Elves (エルフ)** | Mage (メイジ)、Ranger (レンジャー)、Bard (バード) |
+| **Dark Elves (ダークエルフ)** | Mage (メイジ)、Rogue (ローグ)、Warlock (ウォーロック) |
+| **Dwarves (ドワーフ)** | Warrior (戦士)、Artificer (アーティフィサー)、Cleric (クレリック) |
+| **Beastfolk (獣人)** | Ranger (レンジャー)、Druid (ドルイド)、Warrior (戦士) |
+| **Dragonkin (竜人)** | Warrior (戦士)、Mage (メイジ)、Warlock (ウォーロック) |
+| **Fae (フェイ)** | Bard (バード)、Druid (ドルイド)、Mage (メイジ) |
+| **Golems (ゴーレム)** | Artificer (アーティフィサー)、Warrior (戦士) |
+| **Sirens (セイレーン)** | Bard (バード)、Mage (メイジ) |
+| **Shadowfolk (影人)** | Rogue (ローグ)、Warlock (ウォーロック)、Mage (メイジ) |
+| **Giants (巨人)** | Warrior (戦士)、Druid (ドルイド) |
 
-## Elemental Composition
+## 元素組成（げんそそせい）
 
-Each class features a characteristic elemental composition that shapes their abilities:
+各（かく）クラスは、その能力（のうりょく）を形作（かたちづく）る特徴的（とくちょうてき）な元素組成（げんそそせい）を持（も）っています。
 
-| Class | Exanthis | Soul | Mana Capacity | Primary Magical Affinity |
+| Class (クラス) | Exanthis | Soul | Mana Capacity (マナ容量) | Primary Magical Affinity (主（おも）な魔法親和性（まほうしんわせい）) |
 |-------|----------|------|---------------|--------------------------|
-| **Warrior** | 50-70% | 20-35% | 10-20% | Terramana (Stability), Base Mana (Force) |
-| **Mage** | 10-25% | 15-35% | 50-70% | Varies by specialization |
-| **Rogue** | 30-45% | 40-60% | 10-25% | Umbramana (Concealment), Aeromana (Mobility) |
-| **Cleric** | 20-35% | 30-50% | 25-45% | Luxmana (Light), Vitamana (Healing) |
-| **Ranger** | 35-55% | 30-45% | 15-30% | Vitamana (Nature), Aeromana (Movement) |
-| **Artificer** | 25-40% | 20-35% | 35-55% | Crystallmana (Structure), Terramana (Solidity) |
-| **Bard** | 15-30% | 35-55% | 25-45% | Fulgumana (Sound), Aeromana (Communication) |
-| **Druid** | 20-35% | 30-45% | 30-50% | Vitamana (Growth), Terramana (Earth) |
-| **Monk** | 40-55% | 30-50% | 10-25% | Base Mana (Internal Energy), Aeromana (Movement) |
-| **Warlock** | 15-30% | 25-40% | 40-60% | Aetheramana (Void), Varies by pact |
+| **Warrior (戦士)** | 50-70% | 20-35% | 10-20% | Terramana (テラマナ) (安定（あんてい）)、Base Mana (ベースマナ) (力（ちから）) |
+| **Mage (メイジ)** | 10-25% | 15-35% | 50-70% | 専門（せんもん）によって異（こと）なる |
+| **Rogue (ローグ)** | 30-45% | 40-60% | 10-25% | Umbramana (アンブラマナ) (隠蔽（いんぺい）)、Aeromana (エアロマナ) (機動性（きどうせい）) |
+| **Cleric (クレリック)** | 20-35% | 30-50% | 25-45% | Luxmana (ルクスマナ) (光（ひかり）)、Vitamana (ヴィタマナ) (癒（いや）し) |
+| **Ranger (レンジャー)** | 35-55% | 30-45% | 15-30% | Vitamana (ヴィタマナ) (自然（しぜん）)、Aeromana (エアロマナ) (移動（いどう）) |
+| **Artificer (アーティフィサー)** | 25-40% | 20-35% | 35-55% | Crystallmana (クリスタルマナ) (構造（こうぞう）)、Terramana (テラマナ) (堅牢性（けんろうせい）) |
+| **Bard (バード)** | 15-30% | 35-55% | 25-45% | Fulgumana (フルグマナ) (音（おと）)、Aeromana (エアロマナ) (コミュニケーション) |
+| **Druid (ドルイド)** | 20-35% | 30-45% | 30-50% | Vitamana (ヴィタマナ) (成長（せいちょう）)、Terramana (テラマナ) (土（つち）) |
+| **Monk (モンク)** | 40-55% | 30-50% | 10-25% | Base Mana (ベースマナ) (内部（ないぶ）エネルギー)、Aeromana (エアロマナ) (移動（いどう）) |
+| **Warlock (ウォーロック)** | 15-30% | 25-40% | 40-60% | Aetheramana (エーテラマナ) (虚無（きょむ）)、契約（けいやく）によって異（こと）なる |
 
-This elemental balance directly influences a class's natural affinity for certain specialized forms of magic and their overall magical capabilities:
+この元素（げんそ）のバランスは、クラスの特定（とくてい）の専門化（せんもんか）された魔法（まほう）の形（かたち）に対（たい）する自然（しぜん）な親和性（しんわせい）と、全体的（ぜんたいてき）な魔法能力（まほうのうりょく）に直接的（ちょくせつてき）な影響（えいきょう）を与（あた）えます。
 
-- **Specialization Efficiency**: Classes with higher Mana Capacity typically achieve better elemental specialization rates
-- **Mana Purification**: The ratio of Soul to Mana Capacity affects a class's ability to purify Wild Mana into Base Mana
-- **Magical Stamina**: Higher Exanthis provides better physical endurance but typically reduces magical efficiency
-- **Hybrid Potential**: Classes with more balanced compositions often excel at combining different elemental types
+- **Specialization Efficiency (専門化効率)**: Mana Capacity (マナ容量) が高（たか）いクラスは、通常（つうじょう）、より良（よ）い元素専門化率（げんそせんもんかりつ）を達成（たっせい）します。
+- **Mana Purification (マナの浄化)**: Soul (ソウル) と Mana Capacity (マナ容量) の比率（ひりつ）は、Wild Mana (ワイルドマナ) を Base Mana (ベースマナ) に浄化（じょうか）するクラスの能力（のうりょく）に影響（えいきょう）を与（あた）えます。
+- **Magical Stamina (魔法のスタミナ)**: Exanthis が高（たか）いほど、物理的（ぶつりてき）な持久力（じきゅうりょく）が向上（こうじょう）しますが、通常（つうじょう）、魔法効率（まほうこうりつ）は低下（ていか）します。
+- **Hybrid Potential (ハイブリッドの可能性)**: よりバランスの取（と）れた構成（こうせい）を持（も）つクラスは、異（こと）なる元素型（げんそがた）の組（く）み合（あ）わせに優（すぐ）れていることがよくあります。
 
-## Documentation Structure
+## ドキュメントの構造（こうぞう）
 
-The Classes directory is organized as follows:
+Classes ディレクトリは次（つぎ）のように構成（こうせい）されています。
 
 ```
 codex/Classes/
-├── README.md                # This overview document
-├── Classes.md               # Main classes document with detailed descriptions
-├── template_README.md       # Template for creating class directory README files
-├── Warrior/                 # Example class directory
-│   ├── README.md            # Class-specific overview
-│   ├── Warrior.md           # Detailed class information
-│   ├── Guardian.md          # Subclass documentation
-│   ├── Berserker.md         # Subclass documentation
-│   └── ...                  # Other subclass documents
-└── ...                      # Other class directories
+├── README.md                # この概要書（がいようしょ）
+├── Classes.md               # 詳細（しょうさい）な説明（せつめい）が記載（きさい）されたメインクラスのドキュメント
+├── template_README.md       # クラスディレクトリの README ファイルを作成（さくせい）するためのテンプレート
+├── Warrior/                 # クラスディレクトリの例（れい）
+│   ├── README.md            # クラス固有（こゆう）の概要（がいよう）
+│   ├── Warrior.md           # 詳細（しょうさい）なクラス情報（じょうほう）
+│   ├── Guardian.md          # サブクラスのドキュメント
+│   ├── Berserker.md         # サブクラスのドキュメント
+│   └── ...                  # その他（ほか）のサブクラスドキュメント
+└── ...                      # その他（ほか）のクラスディレクトリ
 ```
 
-### Using the Template
+### テンプレートの使用（しよう）
 
-To create a new class README, copy the [template_README.md](template_README.md) file and replace the placeholder values with class-specific information:
+新（あたら）しいクラスの README を作成（さくせい）するには、[template_README.md](template_README.md) ファイルをコピーし、プレースホルダーの値（あたい）をクラス固有（こゆう）の情報（じょうほう）に置（お）き換（か）えます。
 
-1. Replace `[CLASS_NAME]` with the name of the class
-2. Fill in composition ranges and descriptions
-3. List subclasses with their focus areas and specialties
-4. Document core abilities, equipment, and species affinities
-5. Describe class strengths and challenges
+1. `[CLASS_NAME]` をクラスの名前（なまえ）に置（お）き換（か）えます。
+2. 組成範囲（そせいはんい）と説明（せつめい）を記入（きにゅう）します。
+3. 焦点領域（しょうてんりょういき）と専門（せんもん）を持（も）つサブクラスをリストします。
+4. コア能力（コアのうりょく）、装備（そうび）、種族（しゅぞく）のアフィニティを文書化（ぶんしょか）します。
+5. クラスの強み（つよみ）と課題（かだい）について説明（せつめい）します。
 
 ---
 
-> **Repository Structure**: This documentation uses Markdown formatting optimized for viewing on Git platforms. 
+> **Repository Structure (リポジトリ構造)**: このドキュメントは、Git プラットフォームでの表示（ひょうじ）に最適化（さいてきか）された Markdown 形式（けいしき）を使用（しよう）しています。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

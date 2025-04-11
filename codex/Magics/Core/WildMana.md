@@ -1,152 +1,156 @@
-# **Wild Mana**: The Primordial Energy
+# **Wild Mana**: 根源のエネルギー
 
-## Overview
+## 概要
 
-Wild Mana is the primordial, untamed form of magical energy that permeates the natural environment of OpenFantasy. Unlike the refined mana types used in spellcasting, Wild Mana exists in its raw, unprocessed state—chaotic, unpredictable, and fundamentally connected to the world's life force.
+Wild Mana（ワイルドマナ）は、OpenFantasy（オープンファンタジー）の自然環境に遍在する、魔法のエネルギーの根源的で未開拓な形態です。呪文詠唱で使用される洗練されたマナの種類とは異なり、Wild Mana（ワイルドマナ）は、その生の、未処理の状態—混沌としていて、予測不可能で、世界の生命力と根本的に繋がっています。
 
-## Properties of Wild Mana
+## Wild Mana（ワイルドマナ）の特性
 
-### Physical Characteristics
-- **Appearance**: Shimmering, erratic energy with constantly shifting colors
-- **Behavior**: Flows along natural currents, concentrates around living things and magical locations
-- **Sensation**: Produces tingling, vibrant sensations when encountered in high concentrations
+### 物理的特徴
+- **Appearance（外観）**: 常に変化する色を持つ、きらめく、不安定なエネルギー
+- **Behavior（挙動）**: 自然の流れに沿って流れ、生物や魔法的な場所の周りに集中する
+- **Sensation（感覚）**: 高濃度で遭遇すると、チクチクする、活気に満ちた感覚を生み出す
 
-### Magical Attributes
-- **Versatility**: Contains the potential for all specialized mana types
-- **Instability**: Difficult to control directly due to chaotic nature
-- **Resonance**: Naturally responds to and amplifies emotional states
+### 魔法的属性
+- **Versatility（多様性）**: すべての特殊なマナタイプの可能性を含む
+- **Instability（不安定性）**: 混沌とした性質のため、直接制御することが困難
+- **Resonance（共鳴）**: 自然に感情の状態に反応し、増幅する
 
-## The Mana Conversion Process
+## マナ変換プロセス
 
-### Environmental Presence
-Wild Mana forms the foundation of the magical ecosystem, functioning similarly to how air, water, and nutrients sustain physical life:
+### 環境的プレゼンス
+Wild Mana（ワイルドマナ）は、魔法のエコシステムの基盤を形成し、空気、水、栄養素が物理的な生命を維持するのと同様に機能します。
 
-1. **Generation**: Continuously produced by the world itself, particularly at ley line nodes
-2. **Flow**: Moves through natural channels (ley lines) and disperses through the atmosphere
-3. **Concentration**: Gathers around living beings, magical creatures, and places of power
-4. **Presence**: Exists in varying concentrations throughout the environment
+1. **Generation（生成）**: 世界自体によって継続的に生成され、特にレイラインノードで生成される
+2. **Flow（流れ）**: 自然のチャネル（レイライン）を通り、大気中に分散する
+3. **Concentration（集中）**: 生物、魔法生物、および力の場所に集まる
+4. **Presence（存在）**: 環境全体にさまざまな濃度で存在する
 
-### Fundamental Two-Phase Conversion
+### 基本的な二段階変換
 
-The transformation of magical energy follows a strictly defined two-phase process that is essential to understanding all magical practice:
+魔法エネルギーの変換は、すべての魔法の実践を理解するために不可欠な、厳密に定義された二段階プロセスに従います。
 
-#### Phase 1: Wild Mana to Base Mana Conversion
-This is primarily a biological process that occurs in all magical beings:
+#### フェーズ1：Wild Mana（ワイルドマナ）からBase Mana（ベースマナ）への変換
+これは主に、すべての魔法生物で発生する生物学的プロセスです。
 
-1. **Absorption**: Beings draw in Wild Mana from their surroundings
-2. **Filtration**: Internal biological processes separate usable energy from chaotic elements
-3. **Stabilization**: Chaotic patterns are ordered into coherent Base Mana energy
-4. **Storage**: The energy is stored within the being's internal reserves as Base Mana
+1. **Absorption（吸収）**: 生物は周囲からWild Mana（ワイルドマナ）を取り込む
+2. **Filtration（濾過）**: 内部の生物学的プロセスが、使用可能なエネルギーを混沌とした要素から分離する
+3. **Stabilization（安定化）**: 混沌としたパターンが、一貫性のあるBase Mana（ベースマナ）エネルギーに整理される
+4. **Storage（貯蔵）**: エネルギーは、Base Mana（ベースマナ）として生物の内部貯蔵に蓄積される
 
-> **CRITICAL**: Effectiveness is calculated at this phase, measuring how efficiently a being converts Wild Mana to Base Mana. This determines the quantity of magical energy available to a caster.
+> **CRITICAL（重要）**: 有効性は、このフェーズで計算され、生物がWild Mana（ワイルドマナ）をBase Mana（ベースマナ）にどれだけ効率的に変換するかを測定します。これにより、キャスターが利用できる魔法エネルギーの量が決まります。
 
-#### Phase 2: Base Mana to Elemental Mana Conversion
-This is a conscious process that occurs during spellcasting:
+#### フェーズ2：Base Mana（ベースマナ）からElemental Mana（エレメンタルマナ）への変換
+これは、呪文詠唱中に発生する意識的なプロセスです。
 
-1. **Drawing**: Base Mana is pulled from internal reserves into active consciousness
-2. **Specialization**: Base Mana is attuned to specific elemental resonances
-3. **Transformation**: The energy shifts into specialized forms (Elemental Mana)
-4. **Result**: The final mixture contains both specialized Elemental Mana and residual Wild Mana
+1. **Drawing（引き出し）**: Base Mana（ベースマナ）が内部貯蔵から活動的な意識に引き出される
+2. **Specialization（特化）**: Base Mana（ベースマナ）は、特定の元素共鳴に同調される
+3. **Transformation（変換）**: エネルギーが特殊な形態（Elemental Mana（エレメンタルマナ））に変化する
+4. **Result（結果）**: 最終的な混合物には、特殊なElemental Mana（エレメンタルマナ）と残留Wild Mana（ワイルドマナ）の両方が含まれている
 
-> **CRITICAL**: Purity is calculated at this phase, measuring the ratio of refined Elemental Mana to residual Wild Mana. This determines the quality and control of the resulting magical effect.
+> **CRITICAL（重要）**: 純度は、このフェーズで計算され、洗練されたElemental Mana（エレメンタルマナ）と残留Wild Mana（ワイルドマナ）の比率を測定します。これにより、結果として得られる魔法効果の品質と制御が決まります。
 
-### Base Mana: The Internal Energy Form
+### Base Mana（ベースマナ）：内部エネルギー形態
 
-**All mana stored within living creatures exists as Base Mana**, not Wild Mana or Elemental Mana. This is a crucial distinction that explains several fundamental aspects of magic:
+**生物内に貯蔵されているすべてのマナは、Wild Mana（ワイルドマナ）またはElemental Mana（エレメンタルマナ）ではなく、Base Mana（ベースマナ）として存在します**。これは、魔法のいくつかの基本的な側面を説明する重要な区別です。
 
-- Base Mana is stable, neutralized, and can be safely contained within biological systems
-- Direct storage of Wild Mana within a being would cause severe magical trauma
-- Long-term storage of Elemental Mana within a being would cause elemental imbalances
-- All spellcasting begins by drawing from this internal Base Mana reservoir
+- Base Mana（ベースマナ）は安定しており、中和されており、生物学的システム内に安全に保管できます
+- 生物内でのWild Mana（ワイルドマナ）の直接貯蔵は、深刻な魔法的トラウマを引き起こします
+- 生物内でのElemental Mana（エレメンタルマナ）の長期貯蔵は、元素の不均衡を引き起こします
+- すべての呪文詠唱は、この内部Base Mana（ベースマナ）リザーバーから引き出すことから始まります
 
-This Base Mana serves as both:
-- The magical "battery" that determines a being's overall magical capacity
-- The foundation material that will be refined into specialized forms during spellcasting
+このBase Mana（ベースマナ）は、次の両方として機能します。
+- 生物の全体的な魔法能力を決定する魔法の「バッテリー」
+- 呪文詠唱中に特殊な形態に洗練される基礎材料
 
-## Conversion Effectiveness and Purity
+## 変換効率と純度
 
-### Phase 1: Effectiveness (Wild → Base)
-The effectiveness of Phase 1 conversion determines:
+### フェーズ1：有効性（Wild（ワイルド）→ Base（ベース））
+フェーズ1変換の有効性は、以下を決定します。
 
-- How much of the absorbed Wild Mana becomes usable Base Mana
-- How quickly a being can replenish their internal mana reserves
-- The efficiency of mana extraction from the environment
+- 吸収されたWild Mana（ワイルドマナ）のうち、どれだけが使用可能なBase Mana（ベースマナ）になるか
+- 生物が内部マナ貯蔵をどれだけ早く補充できるか
+- 環境からのマナ抽出の効率
 
-Factors affecting effectiveness include:
-- Species and inherent biological processes
-- Training and practiced techniques
-- Current health and energy levels
-- Environmental Wild Mana concentration
+有効性に影響を与える要因は次のとおりです。
+- 種と固有の生物学的プロセス
+- 訓練と実践されたテクニック
+- 現在の健康状態とエネルギーレベル
+- 環境Wild Mana（ワイルドマナ）濃度
 
-### Phase 2: Purity (Base → Elemental)
-The purity achieved during Phase 2 conversion determines:
+### フェーズ2：純度（Base（ベース）→ Elemental（エレメンタル））
+フェーズ2変換中に達成される純度は、以下を決定します。
 
-- How much precision and control a spell exhibits
-- The stability and predictability of magical effects
-- The efficiency of mana usage during spellcasting
+- 呪文がどれだけの精度と制御を示すか
+- 魔法効果の安定性と予測可能性
+- 呪文詠唱中のマナ使用効率
 
-Factors affecting purity include:
-- Training and magical education
-- Concentration and mental clarity
-- Compatible elemental affinities
-- Quality of focusing tools or components
+純度に影響を与える要因は次のとおりです。
+- 訓練と魔法教育
+- 集中力と精神的な明晰さ
+- 互換性のある元素親和性
+- 焦点ツールまたはコンポーネントの品質
 
-### Mathematical Expressions
+### 数学的表現
 
-**Phase 1 (Effectiveness):**
+**フェーズ1（有効性）：**
 ```
-Effectiveness Percentage = (Base Mana Produced) / (Wild Mana Consumed) × 100%
-```
-
-**Phase 2 (Purity):**
-```
-Purity Percentage = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+有効性パーセンテージ = (生成されたBase Mana（ベースマナ）) / (消費されたWild Mana（ワイルドマナ）) × 100%
 ```
 
-### Visualization of Purification Levels
+**フェーズ2（純度）：**
+```
+純度パーセンテージ = (洗練されたElemental Mana（エレメンタルマナ）) / (洗練されたElemental Mana（エレメンタルマナ） + 残留Wild Mana（ワイルドマナ）) × 100%
+```
 
-| Purity Level | Wild Mana Content | Description | Typical Application |
+### 精製レベルの視覚化
+
+| Purity Level（純度レベル） | Wild Mana Content（Wild Mana（ワイルドマナ）含有量） | Description（説明） | Typical Application（一般的な用途） |
 |--------------|-------------------|-------------|---------------------|
-| 0-10% | 90-100% | Almost entirely Wild Mana | Unusable for most controlled magic |
-| 10-35% | 65-90% | Basic refinement | Suitable for simple, forgiving spells |
-| 35-65% | 35-65% | Standard refinement | Everyday professional magic use |
-| 65-85% | 15-35% | Advanced refinement | Complex or precision spellcasting |
-| 85-100% | 0-15% | Master-level refinement | Highest tier magical works |
+| 0-10% | 90-100% | Almost entirely Wild Mana（ほぼ完全にWild Mana（ワイルドマナ）） | Unusable for most controlled magic（ほとんどの制御された魔法には使用できません） |
+| 10-35% | 65-90% | Basic refinement（基本的な精製） | Suitable for simple, forgiving spells（シンプルで寛容な呪文に適しています） |
+| 35-65% | 35-65% | Standard refinement（標準的な精製） | Everyday professional magic use（日常的なプロの魔法の使用） |
+| 65-85% | 15-35% | Advanced refinement（高度な精製） | Complex or precision spellcasting（複雑または精密な呪文詠唱） |
+| 85-100% | 0-15% | Master-level refinement（マスターレベルの精製） | Highest tier magical works（最高層の魔法作品） |
 
-## Different Approaches to Wild Mana
+## Wild Mana（ワイルドマナ）へのさまざまなアプローチ
 
-Various magical traditions have developed different relationships with Wild Mana:
+さまざまな魔法の伝統が、Wild Mana（ワイルドマナ）との異なる関係を築いてきました。
 
-### Academic Traditions
-- **Philosophy**: Wild Mana is an impurity to be eliminated
-- **Practice**: Focus on maximizing purity during Phase 2
-- **Strength**: Precise, predictable magical effects
-- **Weakness**: May be less adaptable to changing conditions
+### 学術的伝統
+- **Philosophy（哲学）**: Wild Mana（ワイルドマナ）は排除すべき不純物である
+- **Practice（実践）**: フェーズ2中の純度を最大化することに焦点を当てる
+- **Strength（強み）**: 正確で予測可能な魔法効果
+- **Weakness（弱み）**: 変化する条件への適応性が低い可能性がある
 
-### Natural Traditions
-- **Philosophy**: Wild Mana is a vital connection to natural forces
-- **Practice**: Intentionally maintain some Wild Mana content in spells
-- **Strength**: More dynamic and adaptable magic
-- **Weakness**: Less precise control over effects
+### 自然の伝統
+- **Philosophy（哲学）**: Wild Mana（ワイルドマナ）は自然の力との重要なつながりである
+- **Practice（実践）**: 意図的に呪文にWild Mana（ワイルドマナ）含有量を維持する
+- **Strength（強み）**: よりダイナミックで適応性のある魔法
+- **Weakness（弱み）**: 効果の制御が不正確
 
-### Innate Casters
-- **Philosophy**: Magic is an inherent gift rather than learned technique
-- **Practice**: Often have unique biological Phase 1 processes
-- **Strength**: May achieve unusual effectiveness or specialized effects
-- **Weakness**: Often less consistent than trained practitioners
+### 生まれつきのキャスター
+- **Philosophy（哲学）**: 魔法は学習された技術ではなく、生来の贈り物である
+- **Practice（実践）**: 多くの場合、独自の生物学的フェーズ1プロセスを持っている
+- **Strength（強み）**: 異常な有効性または特殊な効果を達成する可能性がある
+- **Weakness（弱み）**: 訓練された実践者よりも一貫性がないことが多い
 
-## Wild Mana Training Techniques
+## Wild Mana（ワイルドマナ）トレーニングテクニック
 
-### Phase 1 (Effectiveness) Training
-1. **Absorption Meditation**: Improving the intake of Wild Mana
-2. **Channel Clearing**: Removing blockages in internal mana pathways
-3. **Conversion Rituals**: Practicing efficient transformation techniques
-4. **Reserve Expansion**: Gradually increasing Base Mana storage capacity
+### フェーズ1（有効性）トレーニング
+1. **Absorption Meditation（吸収瞑想）**: Wild Mana（ワイルドマナ）の摂取を改善する
+2. **Channel Clearing（チャネルクリアリング）**: 内部マナ経路の閉塞を取り除く
+3. **Conversion Rituals（変換儀式）**: 効率的な変換技術を実践する
+4. **Reserve Expansion（貯蔵量拡大）**: Base Mana（ベースマナ）貯蔵容量を徐々に増やす
 
-### Phase 2 (Purity) Training
-1. **Filtration Exercises**: Mental disciplines for removing Wild Mana contamination
-2. **Pattern Stabilization**: Maintaining clear magical intentions
-3. **Elemental Alignment**: Strengthening affinity with specific elements
-4. **Precision Casting**: Practicing fine control of mana manipulation
+### フェーズ2（純度）トレーニング
+1. **Filtration Exercises（濾過演習）**: Wild Mana（ワイルドマナ）汚染を除去するための精神的な訓練
+2. **Pattern Stabilization（パターン安定化）**: 明確な魔法の意図を維持する
+3. **Elemental Alignment（元素整列）**: 特定の元素との親和性を強化する
+4. **Precision Casting（精密詠唱）**: マナ操作の微細な制御を実践する
 
-> *"Wild Mana is neither good nor evil, neither completely hostile nor completely benign. It simply is—the raw stuff of possibility from which all other magic derives. Learn to respect it, not fear it."* — Elowen Wildroot, Archdruid of the Emerald Circle 
+> *"Wild Mana（ワイルドマナ）は善でも悪でもなく、完全に敵対的でも完全に良性的でもありません。それは単に—他のすべての魔法が由来する可能性の生の素材です。それを恐れるのではなく、敬意を払うことを学びましょう。"* — Elowen Wildroot（エロウェン・ワイルドルート）, Emerald Circle（エメラルドサークル）のArchdruid（大ドルイド）
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

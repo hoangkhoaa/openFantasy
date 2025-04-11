@@ -1,93 +1,97 @@
-# College of Lore
+# College of Lore (知識の学派)
 
-> *"Knowledge is power, but stories are magic."*
+> *"知識は力なり、しかし物語は魔法なり。"*
 
-## Overview
+## Overview (概要)
 
-The [College of Lore](/codex/Classes/Bard/Colleges/Lore.md) represents bards who focus on accumulating and leveraging knowledge from across disciplines, cultures, and magical traditions. These scholar-performers excel at collecting and utilizing information to enhance their magical versatility and problem-solving capabilities.
+[College of Lore](/codex/Classes/Bard/Colleges/Lore.md) (知識の学派) は、様々な分野、文化、魔法の伝統からの知識を蓄積し、活用することに焦点を当てているバードを表しています。これらの学者のような演奏家は、情報を収集し、活用して、魔法の多様性と問題解決能力を高めることに優れています。
 
-## Magical Affinity Profile
+## Magical Affinity Profile (魔法親和性プロファイル)
 
-Lore bards develop a unique affinity profile that reflects their knowledge-focused approach:
+知識の学派のバードは、その知識重視のアプローチを反映した独自の親和性プロファイルを開発します。
 
-| Element | Primary Range | Function |
+| Element (元素) | Primary Range (主な範囲) | Function (機能) |
 |---------|--------------|----------|
-| Base Mana (Knowledge) | 40-60% | Foundation for information-gathering and magical adaptation |
-| Chronimana | 25-40% | Connection to historical patterns and temporal understanding |
-| Mentimana | 20-35% | Mental processing and memory enhancement |
+| Base Mana (Knowledge) (基本マナ (知識)) | 40-60% | 情報収集と魔法適応の基礎 |
+| Chronimana (時間マナ) | 25-40% | 歴史的パターンと時間的理解へのつながり |
+| Mentimana (精神マナ) | 20-35% | 精神処理と記憶力増強 |
 
-This combination allows Lore bards to access a broader range of magical traditions than other bard colleges, borrowing techniques from wizards, clerics, and other spellcasting classes.
+この組み合わせにより、知識の学派のバードは、ウィザード、クレリック、その他の呪文詠唱クラスからテクニックを借用して、他のバードの学派よりも幅広い魔法の伝統にアクセスできます。
 
-## Core Abilities
+## Core Abilities (コア能力)
 
-### Expanded Knowledge
-Lore bards can learn and integrate spells from any spellcasting tradition, requiring:
-- 5-10% higher mana purity than the spell's original class requirement
-- Adaptation period of 1-3 weeks per borrowed spell
-- Thorough understanding of the spell's theoretical framework
+### Expanded Knowledge (拡張された知識)
+知識の学派のバードは、あらゆる呪文詠唱の伝統から呪文を学び、統合することができます。必要な条件:
+- 呪文の元のクラス要件よりも 5〜10％高いマナ純度
+- 借りた呪文ごとに 1〜3 週間の適応期間
+- 呪文の理論的枠組みの完全な理解
 
-Advanced practitioners can maintain 3-7 borrowed spells simultaneously, depending on their mana capacity and purification abilities.
+上級者は、マナ容量と浄化能力に応じて、3〜7 つの借りた呪文を同時に維持できます。
 
-### Cutting Words
-By weaving critiques into their performances, Lore bards can:
-- Create counterharmonic vibrations that interfere with an opponent's actions
-- Require 30-45% mana purity for effective application
-- Maintain effect for 2-5 seconds per application
-- Produce penalties proportional to the bard's performance skill
+### Cutting Words (痛烈な言葉)
+知識の学派のバードは、パフォーマンスに批判を織り込むことで、次のことができます。
+- 対抗する高調波振動を作り出し、相手の行動を妨害する
+- 効果的な適用には 30〜45％のマナ純度が必要
+- 適用ごとに 2〜5 秒間効果を維持する
+- バードのパフォーマンススキルに比例したペナルティを生成する
 
-This ability operates by creating magical dissonance that temporarily disrupts an opponent's natural magical field.
+この能力は、一時的に相手の自然な魔法フィールドを混乱させる魔法の不協和音を作り出すことによって機能します。
 
-### Peerless Skill
-Through perfect execution of learned techniques, Lore bards can:
-- Magnify their proficiency in specific areas through harmonic resonance
-- Require 35-50% mana purity for optimal results
-- Apply enhancement to any trained skill or ability
-- Draw on collective knowledge stored in their expanded repertoire
+### Peerless Skill (比類なき技能)
+学習したテクニックを完璧に実行することで、知識の学派のバードは次のことができます。
+- 高調波共鳴によって、特定の分野での熟練度を高める
+- 最適な結果を得るには 35〜50％のマナ純度が必要
+- 訓練されたスキルまたは能力に強化を適用する
+- 拡大されたレパートリーに保存されている集合的な知識を利用する
 
-This represents the culmination of collected techniques applied with masterful precision.
+これは、習得された精度で適用された収集されたテクニックの集大成を表しています。
 
-## Training and Development
+## Training and Development (訓練と成長)
 
-Lore bards progress through a unique educational pathway:
+知識の学派のバードは、独自の教育経路を進みます。
 
-| Stage | Focus | Typical Duration | Achievements |
+| Stage (段階) | Focus (焦点) | Typical Duration (典型的な期間) | Achievements (成果) |
 |-------|-------|------------------|--------------|
-| **Collector** | Gathering diverse knowledge | 1-3 years | Basic repertoire expansion, 20-30% mana purity |
-| **Chronicler** | Organizing and applying knowledge | 3-7 years | Cutting Words technique, 30-45% mana purity |
-| **Sage** | Synthesizing knowledge across traditions | 7-15 years | Advanced borrowing, 45-60% mana purity |
-| **Lorekeeper** | Creating new connections between traditions | 15+ years | Peerless Skill mastery, 60-75% mana purity |
+| **Collector (収集家)** | Gathering diverse knowledge (多様な知識の収集) | 1-3 years (1〜3 年) | Basic repertoire expansion, 20-30% mana purity (基本的なレパートリーの拡大、20〜30％のマナ純度) |
+| **Chronicler (年代記者)** | Organizing and applying knowledge (知識の整理と応用) | 3-7 years (3〜7 年) | Cutting Words technique, 30-45% mana purity (痛烈な言葉のテクニック、30〜45％のマナ純度) |
+| **Sage (賢者)** | Synthesizing knowledge across traditions (伝統を超えた知識の統合) | 7-15 years (7〜15 年) | Advanced borrowing, 45-60% mana purity (高度な借用、45〜60％のマナ純度) |
+| **Lorekeeper (伝承守り)** | Creating new connections between traditions (伝統間の新しいつながりの創造) | 15+ years (15 年以上) | Peerless Skill mastery, 60-75% mana purity (比類なき技能の習得、60〜75％のマナ純度) |
 
-Advanced training often involves extensive travel, collection of rare texts, and apprenticeship under masters from various magical disciplines.
+高度なトレーニングには、多くの場合、広範囲にわたる旅行、珍しいテキストの収集、およびさまざまな魔法分野の達人による見習いが含まれます。
 
-## Musical Expression
+## Musical Expression (音楽表現)
 
-Lore bards typically favor complex, layered compositions that incorporate elements from multiple cultural traditions:
+知識の学派のバードは通常、複数の文化的伝統の要素を取り入れた複雑で多層的な作品を好みます。
 
-- **Preferred Instruments**: String instruments with extensive range (harps, lutes with additional strings), instruments that can produce multiple tones simultaneously
-- **Performance Style**: Often includes spoken narration interwoven with musical passages, creating a tapestry of sound and story
-- **Magical Resonance**: Performances create mathematical harmonics that mimic the structural patterns of different magical traditions
+- **Preferred Instruments (好ましい楽器)**：広範囲の弦楽器（ハープ、追加の弦を備えたリュート）、複数の音を同時に生成できる楽器
+- **Performance Style (演奏スタイル)**：多くの場合、音楽的なパッセージと織り交ぜられた話し言葉のナレーションが含まれ、音と物語のタペストリーを作成します
+- **Magical Resonance (魔法の共鳴)**：パフォーマンスは、さまざまな魔法の伝統の構造パターンを模倣する数学的なハーモニクスを作成します
 
-Their performances often incorporate subtle variations that only other scholars would recognize as references to obscure magical theories or historical events.
+彼らのパフォーマンスには、他の学者だけが難解な魔法理論や歴史的出来事への言及として認識する微妙なバリエーションが含まれていることがよくあります。
 
-## Notable Practitioners
+## Notable Practitioners (著名な実践者)
 
-- **Eldrin Whisperbrook** - Compiled the "Compendium of Forgotten Cantrips," preserving over 300 minor spells from extinct traditions
-- **Lyra Goldenharp** - First developed the harmonic theory that allows Lore bards to borrow spells across traditions
-- **The Seven Sages** - A collective of Lore bards who maintain the largest oral archive of pre-Cataclysm magical knowledge
-- **Master Thalion** - Created the "Symphony of the Spheres," a performance technique that allows simultaneous casting of complementary spells
-- **Aria Truthsong** - Pioneered techniques for using bardic performance to detect magical falsehoods and illusions
+- **Eldrin Whisperbrook (エルドリン・ウィスパーブルック)** - 消滅した伝統から 300 以上のマイナーな呪文を保存した「Compendium of Forgotten Cantrips (忘れられた呪文の集成)」を編集しました
+- **Lyra Goldenharp (ライラ・ゴールデンハープ)** - 知識の学派のバードが伝統を超えて呪文を借りることを可能にする調和理論を最初に開発しました
+- **The Seven Sages (七賢人)** - 大変動前の魔法の知識の最大の口頭アーカイブを維持する知識の学派のバードの集団
+- **Master Thalion (タリオン師)** - 補完的な呪文の同時詠唱を可能にする演奏テクニック「Symphony of the Spheres (球体の交響曲)」を作成しました
+- **Aria Truthsong (アリア・トゥルースソング)** - 魔法の虚偽と幻想を検出するためにバードのパフォーマンスを使用するテクニックを開拓しました
 
-## Cultural Significance
+## Cultural Significance (文化的意義)
 
-Lore bards serve vital roles in many societies:
-- **Historians** preserving knowledge that might otherwise be lost
-- **Teachers** transmitting complex magical theories in accessible forms
-- **Cultural ambassadors** who can bridge different magical traditions
-- **Problem-solvers** with unique perspectives drawn from diverse knowledge
-- **Archivists** who maintain records of magical breakthroughs and historical events
+知識の学派のバードは、多くの社会で重要な役割を果たしています。
+- 失われる可能性のある知識を保存する**Historians (歴史家)**
+- 複雑な魔法理論をアクセス可能な形式で伝達する**Teachers (教師)**
+- さまざまな魔法の伝統を結びつけることができる**Cultural ambassadors (文化大使)**
+- 多様な知識から得られた独自の視点を持つ**Problem-solvers (問題解決者)**
+- 魔法のブレークスルーと歴史的出来事の記録を維持する**Archivists (記録保管者)**
 
-Their multidisciplinary approach makes them valuable advisors to rulers, magical institutions, and adventuring parties alike.
+彼らの学際的なアプローチは、支配者、魔法機関、冒険パーティーにとって貴重なアドバイザーとなっています。
 
 ---
 
-*"Truth becomes most powerful when woven into song. Facts inform, but stories transform."* - Lyra Goldenharp, Archlorekeeper of the Celestial College 
+*"真実は歌に織り込まれたときに最も強力になる。事実は知らせるが、物語は変える。"* - Lyra Goldenharp (ライラ・ゴールデンハープ)、Celestial College (天上の学派) の Archlorekeeper (大伝承守り)
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

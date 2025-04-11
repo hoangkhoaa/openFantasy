@@ -1,233 +1,237 @@
-# **Weapon Control**
+# **Weapon Control (武器制御)**
 
-> *"The unbound blade dances at your command, not bound by the limitations of flesh, but guided by the precision of will."*  
-> — Swordmaster Arlan Vostel, Founder of the Orbiting Blade Technique
+> *"束縛されざる刃は、肉体の限界に縛られることなく、意志の正確さによって導かれ、あなたの命令に応じて舞う。"*
+> — 剣聖 Arlan Vostel (アーラン・ヴォステル)、軌道剣術の創始者
 
-## Casting Information
-- **Difficulty**: Intermediate to Expert
-- **Casting Time**: 1-3 seconds (initial control), instantaneous (subsequent directions)
-- **Duration**: Concentration, up to 1 minute
-- **Range**: 30 feet (standard), up to 60 feet (mastery)
-- **Components**: Somatic, Focus (weapon or projectile)
+## Casting Information (詠唱情報)
+- **Difficulty (難易度)**: 中級～上級
+- **Casting Time (詠唱時間)**: 1～3秒 (初期制御)、瞬間的 (その後の指示)
+- **Duration (持続時間)**: 集中、最大1分
+- **Range (射程)**: 30フィート (標準)、最大60フィート (熟練)
+- **Components (構成要素)**: 身体、焦点 (武器または投射物)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 75%, Aeromana 15%, Terramana 10%
-- **Primary Factor**: Technical Mastery and Training (more significant than purity)
-- **Minimum Mana Capacity**: 20% (Higher capacity allows controlling heavier/more objects)
-- **Pattern Complexity**: Moderate (4-tier control matrix with targeting subpattern)
-- **Resonance Frequency**: Mid-range physical spectrum with harmonic oscillation
-- **Roaming Mana Utilization**: High (Typically operates at sustainable regeneration limits)
+## Technical Details (技術的詳細)
+- **Mana Type Distribution (マナタイプ分布)**: ベースマナ 75%、エアロマナ 15%、テラマナ 10%
+- **Primary Factor (主要な要素)**: 技術的な熟練度と訓練 (純粋さよりも重要)
+- **Minimum Mana Capacity (最小マナ容量)**: 20% (容量が大きいほど、より重い/より多くのオブジェクトを制御できる)
+- **Pattern Complexity (パターン複雑度)**: 中程度 (ターゲティングサブパターンを備えた4層制御マトリックス)
+- **Resonance Frequency (共鳴周波数)**: 調和振動を伴う中域物理スペクトル
+- **Roaming Mana Utilization (ローミングマナ利用率)**: 高 (通常、持続可能な再生制限で動作)
 
-## Core Principles
+## Core Principles (中核となる原則)
 
-Weapon Control enables the magical manipulation of weapons, projectiles, or other combat implements without physical contact. The spell creates a resonant connection between the caster's mana and the target objects, allowing for precise control of movement, trajectory, and impact force.
+Weapon Control (武器制御)は、物理的な接触なしに、武器、投射物、またはその他の戦闘用具を魔法的に操作することを可能にします。この呪文は、詠唱者のマナと対象物との間に共鳴接続を生成し、動き、軌道、および衝撃力を正確に制御できるようにします。
 
-Unlike simpler force vector spells, Weapon Control maintains a persistent connection that permits ongoing manipulation and direction changes. The core pattern establishes:
+より単純なフォースベクトル呪文とは異なり、Weapon Control (武器制御)は、継続的な操作と方向転換を可能にする永続的な接続を維持します。コアパターンは以下を確立します。
 
-1. **Connection Tether**: The resonant link between caster and weapon
-2. **Momentum Matrix**: The control system for speed and directional change
-3. **Balance Stabilizer**: The component maintaining weapon orientation
-4. **Target Acquisition**: The optional component enabling guided strikes
-5. **Force Amplifier**: The energy transfer mechanism for impact
+1. **Connection Tether (接続テザー)**: 詠唱者と武器間の共鳴リンク
+2. **Momentum Matrix (運動量マトリックス)**: 速度と方向の変化のための制御システム
+3. **Balance Stabilizer (バランススタビライザー)**: 武器の向きを維持するコンポーネント
+4. **Target Acquisition (ターゲット捕捉)**: ガイドストライクを可能にするオプションのコンポーネント
+5. **Force Amplifier (フォースアンプリファイア)**: 衝撃のためのエネルギー伝達メカニズム
 
-While many combat spells require high purity levels, Weapon Control is distinct in its emphasis on technical proficiency over raw mana quality. Masters of this art often possess only moderate purity levels but have developed exceptional precision in their technique through thousands of hours of disciplined practice.
+多くの戦闘呪文は高い純度レベルを必要としますが、Weapon Control (武器制御)は、生のマナ品質よりも技術的な熟練度を重視するという点で独特です。この技術の達人は、多くの場合、中程度の純度レベルしか持っていませんが、何千時間もの規律ある練習を通して、その技術において並外れた精度を開発しました。
 
-## Standard Variants
+## Standard Variants (標準バリエーション)
 
-### Single Weapon Control
-The foundational application for manipulating one weapon:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Complete control over one weapon's movement
-- **Typical Users**: Duelists, Battle Mages, Elite Warriors
-- **Applications**: Extended attack range, surprise angles, reaching inaccessible targets
+### Single Weapon Control (単一武器制御)
+1つの武器を操作するための基本的な応用：
+- **Difficulty (難易度)**: 中級
+- **Purity Requirement (純度要件)**: 洗練 (30～40%)
+- **Effect (効果)**: 1つの武器の動きを完全に制御
+- **Typical Users (一般的な使用者)**: 決闘者、バトルメイジ、エリート戦士
+- **Applications (応用)**: 攻撃範囲の延長、奇襲角度、アクセスできないターゲットへの到達
 
-### Projectile Guidance
-Influences the flight path of thrown weapons or arrows:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Adjusts trajectory of projectiles after release
-- **Typical Users**: Rangers, Scouts, Specialist Archers
-- **Applications**: Curving shots around obstacles, extending effective range, compensating for wind
+### Projectile Guidance (投射物誘導)
+投げられた武器や矢の飛行経路に影響を与えます：
+- **Difficulty (難易度)**: 中級
+- **Purity Requirement (純度要件)**: 洗練 (35～45%)
+- **Effect (効果)**: 放出後の投射物の軌道を調整
+- **Typical Users (一般的な使用者)**: レンジャー、スカウト、スペシャリストアーチャー
+- **Applications (応用)**: 障害物の周りのカーブショット、有効射程の延長、風の補正
 
-### Weapon Retrieval
-Specialized variant focused on returning weapons to the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Pulls a weapon back to the caster's hand
-- **Typical Users**: Weapon Specialists, Close Combat Fighters
-- **Applications**: Recovering thrown weapons, disarm countering, tactical repositioning
+### Weapon Retrieval (武器回収)
+武器を詠唱者に戻すことに焦点を当てた特殊なバリアント：
+- **Difficulty (難易度)**: 中級
+- **Purity Requirement (純度要件)**: 洗練 (30～40%)
+- **Effect (効果)**: 武器を詠唱者の手に引き戻す
+- **Typical Users (一般的な使用者)**: 武器スペシャリスト、近接戦闘ファイター
+- **Applications (応用)**: 投げられた武器の回収、武装解除への対抗、戦術的な位置変更
 
-## Advanced Variants
+## Advanced Variants (高度なバリエーション)
 
-### Multiple Weapon Orchestra
-Controls several weapons simultaneously:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Manipulates 2-5 weapons independently
-- **Typical Users**: Blade Dancers, Master Battle Mages
-- **Applications**: Multi-directional attacks, defensive screens, coordinated patterns
+### Multiple Weapon Orchestra (多重武器オーケストラ)
+複数の武器を同時に制御します：
+- **Difficulty (難易度)**: 上級
+- **Purity Requirement (純度要件)**: 完璧 (60～70%)
+- **Effect (効果)**: 2～5個の武器を独立して操作
+- **Typical Users (一般的な使用者)**: ブレードダンサー、マスターバトルメイジ
+- **Applications (応用)**: 多方向攻撃、防御スクリーン、協調パターン
 
-### Precision Strike
-Enhances accuracy and penetrating power:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Guides weapons with surgical precision to vulnerable points
-- **Typical Users**: Assassins, Elite Rangers, Precision Specialists
-- **Applications**: Targeting weak points in armor, striking vital areas, threading narrow gaps
+### Precision Strike (精密打撃)
+精度と貫通力を高めます：
+- **Difficulty (難易度)**: 上級
+- **Purity Requirement (純度要件)**: 完璧 (65～75%)
+- **Effect (効果)**: 外科的な精度で武器を脆弱なポイントに誘導
+- **Typical Users (一般的な使用者)**: アサシン、エリートレンジャー、精密スペシャリスト
+- **Applications (応用)**: 防具の弱点をターゲットにする、重要なエリアを攻撃する、狭いギャップを通り抜ける
 
-### Combat Swarm
-Controls numerous small projectiles as a coordinated group:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-80%)
-- **Effect**: Manipulates 10-30 small objects (darts, needles, shards)
-- **Typical Users**: Specialized Mages, Elite Assassins
-- **Applications**: Area denial, multiple target engagement, distraction tactics
+### Combat Swarm (戦闘スウォーム)
+多数の小さな投射物を連携して制御します：
+- **Difficulty (難易度)**: 達人
+- **Purity Requirement (純度要件)**: 完璧 (70～80%)
+- **Effect (効果)**: 10～30個の小さなオブジェクト (ダーツ、針、破片) を操作
+- **Typical Users (一般的な使用者)**: 特殊なメイジ、エリートアサシン
+- **Applications (応用)**: エリア拒否、複数のターゲットへのエンゲージメント、気晴らし戦術
 
-## Technique Influence on Effect
+## Technique Influence on Effect (技術が効果に与える影響)
 
-Unlike many complex spells, Weapon Control effectiveness is determined more by training and technique than by mana purity:
+多くの複雑な呪文とは異なり、Weapon Control (武器制御)の効果は、マナの純度よりも訓練と技術によって大きく決定されます：
 
-| Training Level | Control Precision | Maximum Weight | Sustainability |
+| Training Level (訓練レベル) | Control Precision (制御精度) | Maximum Weight (最大重量) | Sustainability (持続可能性) |
 |----------------|-------------------|----------------|----------------|
-| Novice | Basic directional control, simple movements | Single light weapon (up to 3 lbs) | High energy cost, brief duration |
-| Intermediate | Smooth trajectories, controlled speed | Medium weapons (up to 8 lbs) | Moderate efficiency, operates within regeneration |
-| Advanced | Complex maneuvers, accurate targeting | Heavy weapons (up to 15 lbs) | Efficient use, sustainable for combat duration |
-| Master | Intricate patterns, perfect balance, combat integration | Multiple weapons or very heavy implements (20+ lbs) | Optimized for regeneration equilibrium |
+| Novice (初心者) | 基本的な方向制御、単純な動き | 単一の軽い武器 (最大3ポンド) | エネルギーコストが高い、持続時間が短い |
+| Intermediate (中級者) | スムーズな軌道、制御された速度 | 中型の武器 (最大8ポンド) | 適度な効率、再生範囲内で動作 |
+| Advanced (上級者) | 複雑な操縦、正確なターゲティング | 重い武器 (最大15ポンド) | 効率的な使用、戦闘時間の間持続可能 |
+| Master (達人) | 複雑なパターン、完璧なバランス、戦闘統合 | 複数の武器または非常に重い道具 (20ポンド以上) | 再生平衡に最適化 |
 
-Practitioners train to utilize ambient roaming mana to supplement their personal reserves, allowing them to maintain control for extended periods. The most skilled users establish an energy equilibrium where they expend only as much mana as they naturally regenerate, creating theoretically indefinite control periods.
+実践者は、周囲のローミングマナを利用して個人的な予備を補給するように訓練し、長期間にわたって制御を維持できるようにします。最も熟練したユーザーは、自然に再生するマナと同量のマナしか消費しないエネルギー平衡を確立し、理論的には無期限の制御期間を作り出します。
 
-## Mana Capacity and Object Relationship
+## Mana Capacity and Object Relationship (マナ容量とオブジェクトの関係)
 
-The primary limiting factor in Weapon Control is the relationship between mana capacity and controlled object mass:
+Weapon Control (武器制御)の主な制限要因は、マナ容量と制御されたオブジェクトの質量との関係です：
 
-| Mana Capacity | Maximum Sustainable Weight | Number of Objects | Duration at Maximum Load |
+| Mana Capacity (マナ容量) | Maximum Sustainable Weight (最大持続可能重量) | Number of Objects (オブジェクト数) | Duration at Maximum Load (最大負荷での持続時間) |
 |---------------|----------------------------|-------------------|--------------------------|
-| 20-30% | Up to 10 pounds total | 1-2 objects | Combat duration (sustainable) |
-| 31-45% | Up to 25 pounds total | 2-3 objects | Combat duration (sustainable) |
-| 46-60% | Up to 50 pounds total | 3-5 objects | Limited combat (approaching regeneration limit) |
-| 61-75% | Up to 100 pounds total | 5-8 objects | Brief periods (exceeds regeneration) |
-| 76%+ | 100+ pounds total | 8+ objects | Tactical moments only (rapidly depletes reserves) |
+| 20-30% | 合計最大10ポンド | 1～2個 | 戦闘時間 (持続可能) |
+| 31-45% | 合計最大25ポンド | 2～3個 | 戦闘時間 (持続可能) |
+| 46-60% | 合計最大50ポンド | 3～5個 | 限定的な戦闘 (再生制限に近づく) |
+| 61-75% | 合計最大100ポンド | 5～8個 | 短期間 (再生を超える) |
+| 76%+ | 合計100ポンド以上 | 8個以上 | 戦術的な瞬間のみ (急速に予備を消耗) |
 
-Experienced practitioners typically operate at 70-85% of their maximum capacity to maintain combat effectiveness while ensuring sustainable mana expenditure.
+経験豊富な実践者は、戦闘効果を維持しながら持続可能なマナ消費を保証するために、通常、最大容量の70～85%で動作します。
 
-## Class-Specific Applications
+## Class-Specific Applications (クラス固有の応用)
 
-### Warrior Class
-- **Orbital Shield**: Circling weapon providing mobile defense
-- **Extended Reach**: Attacking beyond normal melee range
-- **Flanking Strike**: Attacking from unexpected angles
-- **Weapon Swap**: Quickly exchanging wielded and controlled weapons
+### Warrior Class (戦士クラス)
+- **Orbital Shield (軌道シールド)**: 周囲を旋回する武器がモバイル防御を提供
+- **Extended Reach (リーチの延長)**: 通常の近接範囲を超えて攻撃
+- **Flanking Strike (側面攻撃)**: 予期しない角度から攻撃
+- **Weapon Swap (武器交換)**: 装備している武器と制御している武器をすばやく交換
 
-### Rogue/Assassin Class
-- **Silent Strike**: Weapon attacks without revealing caster position
-- **Needle Storm**: Controlling multiple poisoned projectiles
-- **Distraction Array**: Creating diversions with controlled objects
-- **Lock Manipulation**: Controlling lockpicks or small tools remotely
+### Rogue/Assassin Class (ローグ/アサシンクラス)
+- **Silent Strike (サイレントストライク)**: 詠唱者の位置を明かさずに武器攻撃
+- **Needle Storm (ニードルストーム)**: 複数の毒を盛られた投射物を制御
+- **Distraction Array (気晴らしアレイ)**: 制御されたオブジェクトで気を散らす
+- **Lock Manipulation (ロック操作)**: ロックピックまたは小さなツールをリモートで制御
 
-### Ranger Class
-- **Arrow Guidance**: Steering arrows around obstacles after firing
-- **Multi-Shot Control**: Guiding several arrows to different targets
-- **Retrieval Hunt**: Recovering valuable or special arrows
-- **Signal Arrows**: Complex flight paths for communication signals
+### Ranger Class (レンジャークラス)
+- **Arrow Guidance (アローガイダンス)**: 発射後、障害物の周りの矢を操縦
+- **Multi-Shot Control (マルチショット制御)**: 複数の矢を異なるターゲットに誘導
+- **Retrieval Hunt (回収ハント)**: 貴重なまたは特別な矢を回収
+- **Signal Arrows (シグナルアロー)**: 通信信号用の複雑な飛行経路
 
-### Mage Class
-- **Arcane Defender**: Orbiting weapon while casting other spells
-- **Focus Control**: Manipulating magical implements without physical touch
-- **Material Manipulation**: Precise control of ritual components
-- **Spell Conduit**: Using controlled weapons as delivery systems for touch spells
+### Mage Class (メイジクラス)
+- **Arcane Defender (秘術防衛者)**: 他の呪文を詠唱中に武器を周回させる
+- **Focus Control (フォーカスコントロール)**: 物理的な接触なしに魔法の道具を操作
+- **Material Manipulation (マテリアル操作)**: 儀式の構成要素を正確に制御
+- **Spell Conduit (呪文導管)**: 制御された武器を接触呪文の伝達システムとして使用
 
-## Training Progression
+## Training Progression (訓練の進捗)
 
-### Fundamental Control
-- Connection establishment exercises
-- Basic directional control drills
-- Weight and balance adaptation
-- Simple patterns and movements
+### Fundamental Control (基本的な制御)
+- 接続確立の演習
+- 基本的な方向制御ドリル
+- 重量とバランスの適応
+- 単純なパターンと動き
 
-### Intermediate Mastery
-- Sustained control during caster movement
-- Precise targeting and impact control
-- Transitioning between different movement patterns
-- Multi-object awareness development
-- Roaming mana harvesting techniques
+### Intermediate Mastery (中級の習熟)
+- 詠唱者の動き中の持続的な制御
+- 正確なターゲティングと衝撃制御
+- さまざまな移動パターン間の移行
+- 複数オブジェクトの認識の開発
+- ローミングマナハーベスティングテクニック
 
-### Advanced Techniques
-- Independent object movement coordination
-- Combat integration with physical attacks
-- Environmental interaction and obstacle navigation
-- Specialized applications for different weapon types
-- Regeneration-synchronized control rhythms
+### Advanced Techniques (高度な技術)
+- 独立したオブジェクトの動きの調整
+- 物理攻撃との戦闘統合
+- 環境との相互作用と障害物ナビゲーション
+- さまざまな武器タイプに特化した応用
+- 再生と同期した制御リズム
 
-### Master Level Training
-- Combat flow state achievement
-- Mana efficiency optimization
-- Weight-to-distance ratio mastery
-- Simultaneous ranged and melee control
-- Defensive and offensive pattern integration
+### Master Level Training (マスターレベルのトレーニング)
+- 戦闘フロー状態の達成
+- マナ効率の最適化
+- 重量対距離比の習得
+- 同時レンジおよびメレー制御
+- 防御および攻撃パターンの統合
 
-## Technical Considerations
+## Technical Considerations (技術的考慮事項)
 
-- **Regeneration Synchronization**: Techniques to match mana expenditure with natural recovery rate
-- **Ambient Mana Harvesting**: Methods to supplement personal reserves with environmental energy
-- **Connection Efficiency**: Minimizing energy loss in the control tether
-- **Weight Distribution Analysis**: Understanding how a weapon's balance affects control requirements
-- **Pattern Streamlining**: Eliminating unnecessary complexity in control matrices
-- **Energy Circuit Optimization**: Creating closed loops that recycle portions of expended mana
+- **Regeneration Synchronization (再生同期)**: マナの消費を自然回復率に合わせるテクニック
+- **Ambient Mana Harvesting (アンビエントマナハーベスティング)**: 環境エネルギーで個人的な予備を補給する方法
+- **Connection Efficiency (接続効率)**: 制御テザーでのエネルギー損失を最小限に抑える
+- **Weight Distribution Analysis (重量配分分析)**: 武器のバランスが制御要件にどのように影響するかを理解する
+- **Pattern Streamlining (パターンの合理化)**: 制御マトリックスの不要な複雑さを排除する
+- **Energy Circuit Optimization (エネルギー回路の最適化)**: 消費されたマナの一部をリサイクルする閉ループを作成する
 
-## Risk Factors
+## Risk Factors (リスク要因)
 
-### Common Mishaps
-- **Control Inversion**: Weapon movement opposite to intended direction
-- **Oscillation Cascade**: Uncontrollable wobbling or vibration
-- **Tether Snap**: Sudden loss of connection during crucial moments
-- **Rebound Effect**: Weapon unexpectedly returning toward caster
-- **Pattern Interference**: Multiple controlled objects colliding
+### Common Mishaps (一般的な事故)
+- **Control Inversion (制御反転)**: 意図した方向とは反対の武器の動き
+- **Oscillation Cascade (発振カスケード)**: 制御不能なぐらつきまたは振動
+- **Tether Snap (テザースナップ)**: 重要な瞬間に突然接続が失われる
+- **Rebound Effect (リバウンド効果)**: 武器が予期せず詠唱者に向かって戻ってくる
+- **Pattern Interference (パターン干渉)**: 複数の制御されたオブジェクトが衝突する
 
-### Safety Practices
-- Training with blunted or weighted practice weapons
-- Establishing emergency release protocol
-- Practicing in spaces with adequate clearance
-- Developing muscle memory for standard movement patterns
-- Regular connection refresh during extended control periods
+### Safety Practices (安全対策)
+- 先端が鈍いまたは重み付けされた練習用武器でのトレーニング
+- 緊急リリースプロトコルの確立
+- 適切なクリアランスのあるスペースでの練習
+- 標準的な移動パターンの筋肉記憶の発達
+- 長時間の制御期間中の定期的な接続リフレッシュ
 
-## Specific Weapon Considerations
+## Specific Weapon Considerations (特定の武器に関する考慮事項)
 
-### Bladed Weapons
-Offer excellent control characteristics due to balance and aerodynamics:
-- **Daggers**: Highest precision, ideal for beginners
-- **Swords**: Good balance of reach and maneuverability
-- **Axes**: Require special attention to rotational momentum
-- **Polearms**: Excellent reach but challenging rotational control
+### Bladed Weapons (刃物)
+バランスと空力特性により、優れた制御特性を提供します：
+- **Daggers (ダガー)**: 最高の精度、初心者に最適
+- **Swords (剣)**: リーチと機動性のバランスが良い
+- **Axes (斧)**: 回転運動量に特別な注意が必要
+- **Polearms (ポールアーム)**: リーチは優れているが、回転制御が難しい
 
-### Projectile Weapons
-Particularly suited for guidance rather than full control:
-- **Arrows**: Respond well to minor course corrections
-- **Throwing Knives**: Balance makes them ideal for controlled returns
-- **Darts/Needles**: Perfect for swarm techniques but limited individual impact
-- **Javelins**: Excellent distance but require higher purity for effective guidance
+### Projectile Weapons (投射武器)
+完全な制御よりもガイダンスに特に適しています：
+- **Arrows (矢)**: わずかなコース修正によく反応する
+- **Throwing Knives (投げナイフ)**: バランスが取れているため、制御されたリターンに最適
+- **Darts/Needles (ダーツ/針)**: スウォームテクニックに最適ですが、個々の衝撃は限定的
+- **Javelins (ジャベリン)**: 距離は優れていますが、効果的なガイダンスにはより高い純度が必要です
 
-### Specialty Applications
-Unusual but effective implementations:
-- **Chain Weapons**: Complex but devastating when mastered
-- **Shrapnel Control**: Directing fragments after explosive impacts
-- **Dust/Powder**: Fine control creates blinding or poisonous clouds
-- **Liquid Projectiles**: Advanced technique for controlling thrown potions or alchemical substances
+### Specialty Applications (特殊な応用)
+珍しいが効果的な実装：
+- **Chain Weapons (鎖武器)**: 複雑だが、習得すると壊滅的
+- **Shrapnel Control (榴散弾制御)**: 爆発的な衝撃後の破片を誘導
+- **Dust/Powder (ほこり/粉)**: 細かい制御により、目をくらませたり毒性のある雲が発生
+- **Liquid Projectiles (液体の投射物)**: 投げられたポーションまたは錬金術物質を制御するための高度なテクニック
 
-## Historical Development
+## Historical Development (歴史的発展)
 
-Weapon Control magic emerged during the early Third Age from martial traditions seeking to extend combat capabilities. The Vostel Academy of Kinetic Arts formalized the first comprehensive curriculum, but the spell's true potential was realized during the Mage Wars when resource limitations forced innovative applications of simple spells.
+Weapon Control (武器制御)魔法は、戦闘能力の拡張を求める武道の伝統から、第三紀の初期に登場しました。Vostel Academy of Kinetic Arts (ヴォステル運動芸術アカデミー)が最初の包括的なカリキュラムを正式化しましたが、この呪文の真の可能性は、資源の制約により単純な呪文の革新的な応用が強制されたメイジ戦争中に実現しました。
 
-What differentiated Weapon Control from other combat magics was its focus on applied technique rather than theoretical mastery. Warriors with only basic magical talent could achieve remarkable results through disciplined practice, establishing it as the premier combat system for those who lacked the capacity or inclination for high-purity spellcasting. This accessibility revolutionized battlefield tactics by providing enhanced capabilities to fighters rather than limiting advanced magical combat to dedicated mages.
+Weapon Control (武器制御)を他の戦闘魔法と区別したのは、理論的な習得よりも応用されたテクニックに焦点を当てたことです。基本的な魔法の才能しかない戦士でも、規律ある練習を通して目覚ましい結果を達成でき、高純度の呪文詠唱の能力や傾向がない人にとって最高の戦闘システムとしての地位を確立しました。このアクセス性により、高度な魔法戦闘を専任のメイジに限定するのではなく、戦闘機に強化された機能を提供することで、戦場の戦術に革命をもたらしました。
 
-> *"Purity is a scholar's concern. In the crucible of battle, it is technique that divides the living from the dead. I have seen novices with perfect mana fail where veterans with practiced hands prevail."* — From "The Floating Edge," Arlan Vostel's training manual
+> *"純度は学者の関心事だ。戦いのるつぼでは、生きている者と死んでいる者を分けるのは技術だ。私は完璧なマナを持つ初心者が、熟練した手を持つベテランに打ち負かされるのを見てきた。"* — Arlan Vostel (アーラン・ヴォステル)のトレーニングマニュアル「浮かぶ刃」より
 
-## Practical Notes
+## Practical Notes (実践的な注意)
 
-Weapon Control is particularly synergistic with weapons specially designed or enchanted for magical manipulation. Such weapons often feature balanced construction, resonant materials, or specific enchantments that reduce the mana cost of control.
+Weapon Control (武器制御)は、魔法操作のために特別に設計またはエンチャントされた武器と特に相乗効果があります。そのような武器は、バランスの取れた構造、共鳴材料、または制御のマナコストを削減する特定のエンチャントを備えていることがよくあります。
 
-Many practitioners develop personalized movement patterns or "forms" that their controlled weapons follow, allowing for rapid deployment of complex maneuvers with minimal additional concentration once the base pattern is established.
+多くの実践者は、制御された武器が従うパーソナライズされた移動パターンまたは「フォーム」を開発し、ベースパターンが確立されると、最小限の追加の集中力で複雑な操縦を迅速に展開できるようにします。
 
 ---
 
-*See also: [Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Combat Magic Fundamentals](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [Telekinetic Applications](/codex/Magics/Spells/Utility/TelekineticApplications.md)* 
+*参照：[Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Combat Magic Fundamentals](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [Telekinetic Applications](/codex/Magics/Spells/Utility/TelekineticApplications.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

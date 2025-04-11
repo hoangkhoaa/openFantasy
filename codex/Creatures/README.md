@@ -1,155 +1,159 @@
-# OpenFantasy Creatures Codex
+# OpenFantasy 生物図鑑
 
-> *"The world sings with the voices of countless beings, each playing their part in the grand symphony of existence."*
+> *"世界は無数の存在の声で歌い、それぞれが壮大な存在の交響曲の中で自分の役割を果たしている。"*
 
-## Overview
+## 概要
 
-Welcome to the OpenFantasy Creatures documentation. This repository contains comprehensive information about the various beings that inhabit the OpenFantasy world, including sentient species, animals, monsters, plants, and other entities.
+OpenFantasy 生物ドキュメントへようこそ。このリポジトリには、OpenFantasy (OpenFantasy) の世界に生息するさまざまな存在（知的種族、動物、モンスター、植物、その他の存在）に関する包括的な情報が含まれています。
 
-## Directory Structure
+## ディレクトリ構造
 
 ```
 /Creatures
-├── README.md                # This overview document
-├── Creatures.md             # Core principles and elemental composition
-├── template_species.md      # Template for creating new species entries
-├── /Sentient                # Intelligent, civilization-forming species
-│   ├── README.md            # Overview of sentient species
-│   ├── Humans.md
-│   ├── Elves.md
-│   ├── DarkElves.md
-│   ├── Dwarves.md
+├── README.md                # この概要ドキュメント
+├── Creatures.md             # コアとなる原則と要素構成
+├── template_species.md      # 新しい種族エントリを作成するためのテンプレート
+├── /Sentient                # 知的で文明を形成する種族
+│   ├── README.md            # 知的種族の概要
+│   ├── Humans.md            # ヒューマン
+│   ├── Elves.md             # エルフ
+│   ├── DarkElves.md         # ダークエルフ
+│   ├── Dwarves.md           # ドワーフ
 │   └── ...
-├── /Magical                 # Primarily magical or fae beings
-│   ├── README.md            # Overview of magical beings
-│   ├── Fae.md
-│   ├── Golems.md
-│   ├── Elementals.md
+├── /Magical                 # 主に魔法または妖精の存在
+│   ├── README.md            # 魔法の存在の概要
+│   ├── Fae.md               # フェイ
+│   ├── Golems.md            # ゴーレム
+│   ├── Elementals.md        # エレメンタル
 │   └── ...
-├── /Animals                 # Non-sentient natural fauna
-│   ├── README.md            # Overview of animals
-│   ├── Domesticated.md
-│   ├── Wild.md
-│   ├── Aquatic.md
+├── /Animals                 # 知性を持たない自然の動物相
+│   ├── README.md            # 動物の概要
+│   ├── Domesticated.md      # 家畜化
+│   ├── Wild.md              # 野生
+│   ├── Aquatic.md           # 水生
 │   └── ...
-├── /Monsters                # Dangerous or unnatural creatures
-│   ├── README.md            # Overview of monsters
-│   ├── Aberrations.md
-│   ├── Undead.md
-│   ├── Corrupted.md
+├── /Monsters                # 危険または不自然な生き物
+│   ├── README.md            # モンスターの概要
+│   ├── Aberrations.md      # アベレーション
+│   ├── Undead.md            # アンデッド
+│   ├── Corrupted.md         # 堕落
 │   └── ...
-├── /Plants                  # Flora with unique properties
-│   ├── README.md            # Overview of magical and mundane plants
-│   ├── Magical.md
-│   ├── Medicinal.md
-│   ├── Poisonous.md
+├── /Plants                  # ユニークな特性を持つ植物相
+│   ├── README.md            # 魔法と普通の植物の概要
+│   ├── Magical.md           # 魔法
+│   ├── Medicinal.md         # 薬用
+│   ├── Poisonous.md         # 有毒
 │   └── ...
-└── /Hybrid                  # Cross-category beings
-    ├── README.md            # Overview of hybrid creatures
-    ├── Centaurs.md
-    ├── Merfolk.md
+└── /Hybrid                  # クロスカテゴリの存在
+    ├── README.md            # ハイブリッド生物の概要
+    ├── Centaurs.md          # ケンタウロス
+    ├── Merfolk.md           # マーフォーク
     └── ...
 ```
 
-## Quick Navigation
+## クイックナビゲーション
 
-- [Core Concepts](#core-concepts)
-- [Sentient Species](#sentient-species)
-- [Magical Beings](#magical-beings) 
-- [Animals](#animals)
-- [Monsters](#monsters)
-- [Plants](#plants)
-- [Hybrid Beings](#hybrid-beings)
+- [コアコンセプト](#core-concepts)
+- [知的種族](#sentient-species)
+- [魔法の存在](#magical-beings)
+- [動物](#animals)
+- [モンスター](#monsters)
+- [植物](#plants)
+- [ハイブリッド生物](#hybrid-beings)
 
-## Core Concepts
+## コアコンセプト
 
-All creatures in OpenFantasy are composed of three fundamental elements that determine their nature and abilities:
+OpenFantasy (OpenFantasy) のすべての生物は、その性質と能力を決定する3つの基本的な要素で構成されています。
 
-| Component | Function | Influence |
+| Component (構成要素) | Function (機能) | Influence (影響) |
 |-----------|----------|-----------|
-| **Exanthis** | Physical foundation | Strength, endurance, durability |
-| **Soul** | Consciousness and identity | Willpower, creativity, perception |
-| **Mana Capacity** | Magical potential | Spell capability, magical resistance, mana purification |
+| **Exanthis** | 物理的な基盤 | 強さ、耐久力、持続力 |
+| **Soul** (魂) | 意識とアイデンティティ | 意志力、創造性、知覚 |
+| **Mana Capacity** (マナ容量) | 魔法の可能性 | 呪文能力、魔法耐性、マナ浄化 |
 
-For detailed information on these principles, see the [Creatures overview](/codex/Creatures/Creatures.md).
+これらの原則の詳細については、[生物の概要](/codex/Creatures/Creatures.md)を参照してください。
 
-## Sentient Species
+## 知的種族
 
-Intelligent beings capable of forming civilizations, creating culture, and wielding magic through conscious effort:
+文明を形成し、文化を創造し、意識的な努力によって魔法を操ることができる知的な存在：
 
-| Species | Overview | Elemental Balance |
+| Species (種族) | Overview (概要) | Elemental Balance (要素バランス) |
 |---------|----------|-------------------|
-| [Humans](/codex/Creatures/Sentient/Humans.md) | Adaptable and innovative with balanced composition | E: 20-55%, S: 15-45%, M: 15-60% |
-| [Elves](/codex/Creatures/Sentient/Elves.md) | Long-lived magical adepts with high mana attunement | E: 5-25%, S: 5-15%, M: 50-80% |
-| [Dark Elves](/codex/Creatures/Sentient/DarkElves.md) | Shadow-attuned elven variant with unique abilities | E: 5-25%, S: 10-20%, M: 50-80% |
-| [Dwarves](/codex/Creatures/Sentient/Dwarves.md) | Sturdy crafters with high Exanthis concentration | E: 50-70%, S: 20-35%, M: 5-25% |
-| [Beastfolk](/codex/Creatures/Sentient/Beastfolk.md) | Diverse beings with animal-like attributes | E: 35-70%, S: 15-35%, M: 15-40% |
-| [Gnomes](/codex/Creatures/Sentient/Gnomes.md) | Small, inventive beings with technical aptitude | E: 30-50%, S: 30-50%, M: 15-30% |
+| [Humans](/codex/Creatures/Sentient/Humans.md) (人間) | バランスの取れた構成で適応力と革新性がある | E: 20-55%, S: 15-45%, M: 15-60% |
+| [Elves](/codex/Creatures/Sentient/Elves.md) (エルフ) | 高いマナ適性を持つ長命の魔法熟練者 | E: 5-25%, S: 5-15%, M: 50-80% |
+| [Dark Elves](/codex/Creatures/Sentient/DarkElves.md) (ダークエルフ) | ユニークな能力を持つ影に調和したエルフの変種 | E: 5-25%, S: 10-20%, M: 50-80% |
+| [Dwarves](/codex/Creatures/Sentient/Dwarves.md) (ドワーフ) | Exanthis (エクザンティス) 濃度が高い頑丈な職人 | E: 50-70%, S: 20-35%, M: 5-25% |
+| [Beastfolk](/codex/Creatures/Sentient/Beastfolk.md) (獣人) | 動物のような属性を持つ多様な存在 | E: 35-70%, S: 15-35%, M: 15-40% |
+| [Gnomes](/codex/Creatures/Sentient/Gnomes.md) (ノーム) | 技術的な適性を持つ小さく、発明好きな存在 | E: 30-50%, S: 30-50%, M: 15-30% |
 
-## Magical Beings
+## 魔法の存在
 
-Creatures composed primarily of magical energy or created through magical processes:
+主に魔法のエネルギーで構成されているか、魔法のプロセスを通じて作成された生物：
 
-| Being | Overview | Elemental Balance |
+| Being (存在) | Overview (概要) | Elemental Balance (要素バランス) |
 |-------|----------|-------------------|
-| [Fae](/codex/Creatures/Magical/Fae.md) | Ethereal beings of nearly pure magic | E: 2-10%, S: 15-35%, M: 50-80% |
-| [Golems](/codex/Creatures/Magical/Golems.md) | Constructed beings with artificial souls | E: 70-90%, S: 5-15%, M: 5-15% |
-| [Shadowfolk](/codex/Creatures/Magical/Shadowfolk.md) | Beings born of shadow with darkness manipulation | E: 10-30%, S: 20-40%, M: 40-70% |
-| [Elementals](/codex/Creatures/Magical/Elementals.md) | Pure embodiments of elemental forces | E: 15-30%, S: 5-15%, M: 60-85% |
-| [Dragonkin](/codex/Creatures/Magical/Dragonkin.md) | Descendants of dragons with natural magical affinity | E: 55-75%, S: 5-15%, M: 20-35% |
+| [Fae](/codex/Creatures/Magical/Fae.md) (妖精) | ほぼ純粋な魔法の幽玄な存在 | E: 2-10%, S: 15-35%, M: 50-80% |
+| [Golems](/codex/Creatures/Magical/Golems.md) (ゴーレム) | 人工の魂を持つ構築された存在 | E: 70-90%, S: 5-15%, M: 5-15% |
+| [Shadowfolk](/codex/Creatures/Magical/Shadowfolk.md) (影人) | 闇を操る影から生まれた存在 | E: 10-30%, S: 20-40%, M: 40-70% |
+| [Elementals](/codex/Creatures/Magical/Elementals.md) (精霊) | 元素の力の純粋な具現化 | E: 15-30%, S: 5-15%, M: 60-85% |
+| [Dragonkin](/codex/Creatures/Magical/Dragonkin.md) (竜人) | 生まれつき魔法の親和性を持つドラゴンの子孫 | E: 55-75%, S: 5-15%, M: 20-35% |
 
-## Animals
+## 動物
 
-Non-sentient fauna with varying degrees of intelligence and magical affinity:
+さまざまな程度の知性と魔法の親和性を持つ、知性を持たない動物相：
 
-| Category | Description | Examples |
+| Category (カテゴリー) | Description (説明) | Examples (例) |
 |----------|-------------|----------|
-| [Domesticated](/codex/Creatures/Animals/Domesticated.md) | Animals bred for human use | Horses, cattle, dogs, cats, poultry |
-| [Wild](/codex/Creatures/Animals/Wild.md) | Natural fauna of various biomes | Wolves, bears, eagles, deer |
-| [Aquatic](/codex/Creatures/Animals/Aquatic.md) | Ocean and freshwater creatures | Fish, whales, octopi, river creatures |
-| [Magical](/codex/Creatures/Animals/Magical.md) | Animals with innate magical properties | Phoenixes, griffins, unicorns |
+| [Domesticated](/codex/Creatures/Animals/Domesticated.md) (家畜化) | 人間の使用のために飼育された動物 | 馬、牛、犬、猫、家禽 |
+| [Wild](/codex/Creatures/Animals/Wild.md) (野生) | さまざまなバイオームの自然動物相 | オオカミ、クマ、ワシ、鹿 |
+| [Aquatic](/codex/Creatures/Animals/Aquatic.md) (水生) | 海と淡水の生き物 | 魚、鯨、タコ、川の生き物 |
+| [Magical](/codex/Creatures/Animals/Magical.md) (魔法) | 生まれつき魔法の特性を持つ動物 | 不死鳥、グリフォン、ユニコーン |
 
-## Monsters
+## モンスター
 
-Dangerous or unnatural creatures that pose threats to civilized areas:
+文明化された地域に脅威を与える危険または不自然な生き物：
 
-| Category | Description | Examples |
+| Category (カテゴリー) | Description (説明) | Examples (例) |
 |----------|-------------|----------|
-| [Aberrations](/codex/Creatures/Monsters/Aberrations.md) | Unnatural creatures with bizarre anatomies | Mimics, beholders, mind flayers |
-| [Undead](/codex/Creatures/Monsters/Undead.md) | Formerly living beings animated by dark forces | Zombies, skeletons, spectres |
-| [Corrupted](/codex/Creatures/Monsters/Corrupted.md) | Beings twisted by magical corruption | Blighted animals, tainted elementals |
-| [Giants](/codex/Creatures/Monsters/Giants.md) | Massive beings with extraordinary strength | Stone giants, frost giants, ogres |
+| [Aberrations](/codex/Creatures/Monsters/Aberrations.md) (アベレーション) | 奇妙な解剖学を持つ不自然な生き物 | ミミック、ビホルダー、マインドフレイヤー |
+| [Undead](/codex/Creatures/Monsters/Undead.md) (アンデッド) | 闇の力によってアニメートされた、かつて生きていた存在 | ゾンビ、スケルトン、スペクター |
+| [Corrupted](/codex/Creatures/Monsters/Corrupted.md) (堕落) | 魔法の堕落によってねじれた存在 | 荒廃した動物、汚染された精霊 |
+| [Giants](/codex/Creatures/Monsters/Giants.md) (巨人) | 並外れた力を持つ巨大な存在 | 石の巨人、霜の巨人、オーガ |
 
-## Plants
+## 植物
 
-Flora with unique properties, both magical and mundane:
+魔法と普通のユニークな特性を持つ植物相：
 
-| Category | Description | Examples |
+| Category (カテゴリー) | Description (説明) | Examples (例) |
 |----------|-------------|----------|
-| [Magical](/codex/Creatures/Plants/Magical.md) | Plants with inherent magical properties | Glowroot, dreamleaf, arcane fungi |
-| [Medicinal](/codex/Creatures/Plants/Medicinal.md) | Plants with healing properties | Healer's herb, bloodstop moss, vitality flowers |
-| [Poisonous](/codex/Creatures/Plants/Poisonous.md) | Plants with toxic properties | Nightshade, death cap, venom vine |
-| [Sentient](/codex/Creatures/Plants/Sentient.md) | Plants with consciousness | Treants, whispering willows, mindmoss |
+| [Magical](/codex/Creatures/Plants/Magical.md) (魔法) | 固有の魔法の特性を持つ植物 | グロールート、ドリームリーフ、秘術の菌類 |
+| [Medicinal](/codex/Creatures/Plants/Medicinal.md) (薬用) | 治癒特性を持つ植物 | ヒーラーのハーブ、血液停止苔、活力の花 |
+| [Poisonous](/codex/Creatures/Plants/Poisonous.md) (有毒) | 有毒な特性を持つ植物 | ベラドンナ、ドクツルタケ、毒のつる |
+| [Sentient](/codex/Creatures/Plants/Sentient.md) (知性) | 意識のある植物 | トレント、ささやくヤナギ、マインドモス |
 
-## Hybrid Beings
+## ハイブリッド生物
 
-Creatures that bridge multiple categories through unique physiologies:
+ユニークな生理学を通じて複数のカテゴリーを結び付ける生物：
 
-| Being | Overview | Elemental Balance |
+| Being (存在) | Overview (概要) | Elemental Balance (要素バランス) |
 |-------|----------|-------------------|
-| [Centaurs](/codex/Creatures/Hybrid/Centaurs.md) | Horse-humanoid hybrids with natural wisdom | E: 50-70%, S: 20-40%, M: 10-25% |
-| [Merfolk](/codex/Creatures/Hybrid/Merfolk.md) | Aquatic humanoids with water affinity | E: 30-50%, S: 15-35%, M: 25-45% |
-| [Sirens](/codex/Creatures/Hybrid/Sirens.md) | Vocal enchantresses with sound-based magic | E: 15-30%, S: 30-45%, M: 40-60% |
+| [Centaurs](/codex/Creatures/Hybrid/Centaurs.md) (ケンタウロス) | 自然な知恵を持つ馬と人間のハイブリッド | E: 50-70%, S: 20-40%, M: 10-25% |
+| [Merfolk](/codex/Creatures/Hybrid/Merfolk.md) (マーフォーク) | 水の親和性を持つ水生の人型 | E: 30-50%, S: 15-35%, M: 25-45% |
+| [Sirens](/codex/Creatures/Hybrid/Sirens.md) (セイレーン) | 音ベースの魔法を持つボーカルエンチャントレス | E: 15-30%, S: 30-45%, M: 40-60% |
 
-## Contributing
+## 貢献
 
-To add new creatures to the codex:
+新しい生物を図鑑に追加するには：
 
-1. Identify the appropriate category for the creature
-2. Use the relevant template for that category
-3. Maintain consistency with existing elemental composition principles
-4. Include cultural, historical, and ecological context where applicable
+1. 生物の適切なカテゴリを特定する
+2. そのカテゴリの関連するテンプレートを使用する
+3. 既存の要素構成の原則との一貫性を維持する
+4. 該当する場合は、文化的、歴史的、生態学的コンテキストを含める
 
 ---
 
-> *"To understand the creatures of our world is to understand the world itself, for they are the living embodiment of its diverse energies."* — Archsage Lyria Thornheart 
+> *"私たちの世界の生き物を理解することは、世界そのものを理解することです。なぜなら、彼らはその多様なエネルギーの生きた具現化だからです。"* — 大賢者ライリア・ソーンハート
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,89 +1,93 @@
 # **Dancing Ember**
 
-A fundamental fire manipulation spell that creates a small, controlled flame that dances and moves according to the caster's will. This spell serves as both a practical light source and a foundational training exercise for aspiring pyromancers.
+基本的な炎操作の呪文で、小さく制御された炎を作り出し、詠唱者の意思に従って踊り、動きます。この呪文は、実用的な光源であると同時に、熱魔法使い志望者のための基礎的な訓練演習としても役立ちます。
 
-## Casting Information
+## Casting Information（詠唱情報）
 
-| Aspect | Details |
+| Aspect（側面） | Details（詳細） |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | Instant (1-2 seconds) |
-| **Duration** | Concentration (up to 1 hour) |
-| **Range** | Close (within 10 feet of caster) |
-| **Components** | Somatic (simple finger gesture), Verbal (soft whisper) |
+| **Difficulty（難易度）** | 初心者 |
+| **Casting Time（詠唱時間）** | 瞬間（1〜2秒） |
+| **Duration（持続時間）** | 集中（最大1時間） |
+| **Range（射程）** | 近距離（詠唱者から10フィート以内） |
+| **Components（構成要素）** | Somatic（身体的：簡単な指のジェスチャー）、Verbal（言語的：静かな囁き） |
 
-## Technical Details
+## Technical Details（技術的詳細）
 
-| Aspect | Details |
+| Aspect（側面） | Details（詳細） |
 |--------|---------|
-| **Mana Type** | Pyromana (75%), Base Mana (25%) |
-| **Purity Required** | Basic (15-25%) |
-| **Pattern Complexity** | Simple (3 elements) |
-| **Resonance Frequency** | Warm/Bright spectrum |
-| **Minimum Mana Capacity** | 15% (Higher capacity extends possible duration) |
+| **Mana Type（マナの種類）** | Pyromana（パイロマナ）（75％）、Base Mana（基本マナ）（25％） |
+| **Purity Required（必要な純度）** | Basic（基本）（15〜25％） |
+| **Pattern Complexity（パターンの複雑さ）** | Simple（シンプル）（3つの要素） |
+| **Resonance Frequency（共鳴周波数）** | Warm/Bright spectrum（暖色/明色スペクトル） |
+| **Minimum Mana Capacity（最小マナ容量）** | 15％（容量が大きいほど、可能な持続時間が長くなります） |
 
-## Pattern Structure
+## Pattern Structure（パターン構造）
 
-The Dancing Ember pattern consists of three primary elements:
-1. **Ignition Node**: The central formation that generates heat and initiates combustion
-2. **Sustenance Loop**: A circular flow that maintains the flame without fuel
-3. **Direction Thread**: A fine connection to the caster's will that allows control of movement
+Dancing Ember（ダンシングエンバー）のパターンは、3つの主要な要素で構成されています。
+1. **Ignition Node（点火ノード）**: 熱を生成し、燃焼を開始する中心となる構造
+2. **Sustenance Loop（維持ループ）**: 燃料なしで炎を維持する円形の流れ
+3. **Direction Thread（方向スレッド）**: 詠唱者の意思への微細な接続で、動きを制御できるようにします
 
-These elements are arranged in a simple triangular formation that novice mages can easily visualize and maintain.
+これらの要素は、初心者の魔法使いが容易に視覚化し、維持できる単純な三角形のフォーメーションで配置されています。
 
-## Practical Effect
+## Practical Effect（実用的な効果）
 
-When successfully cast, a flame approximately the size of a candle flame manifests in the air at the designated location. Unlike a natural flame, it:
-- Requires no fuel
-- Emits minimal heat (enough to feel warm, not enough to burn unless deliberately directed)
-- Moves according to the caster's mental direction within the spell's range
-- Can change color slightly based on the caster's concentration (yellows, oranges, and reds)
-- Illuminates an area approximately 15 feet in diameter with soft light
+正常に詠唱されると、ろうそくの炎ほどの大きさの炎が、指定された場所に空中に現れます。自然な炎とは異なり、それは：
+- 燃料を必要としません
+- ごくわずかな熱を発します（暖かく感じる程度で、意図的に向けない限り火傷するほどではありません）
+- 呪文の範囲内で、詠唱者の精神的な指示に従って動きます
+- 詠唱者の集中力に基づいて、わずかに色を変えることができます（黄色、オレンジ、赤）
+- 直径約15フィートの範囲を柔らかな光で照らします
 
-## Common Applications
+## Common Applications（一般的な応用）
 
-- Providing light in dark environments
-- Serving as a focusing tool for meditation
-- Creating simple displays for entertainment
-- Igniting prepared materials (kindling, candles, etc.)
-- Basic training for temperature and flame control
+- 暗い環境での照明の提供
+- 瞑想のための集中の道具としての役割
+- エンターテイメントのためのシンプルなディスプレイの作成
+- 準備された素材（焚き付け、ろうそくなど）の点火
+- 温度と炎の制御のための基本的な訓練
 
-## Variations
+## Variations（バリエーション）
 
-- **Steady Flame**: A modification that reduces mobility but increases stability and duration
-- **Ember Cluster**: Creates multiple smaller flames instead of one larger one
-- **Colored Ember**: Incorporates trace elements to produce specific flame colors
-- **Silent Cast**: Removes the verbal component at the cost of increased concentration and purity (25-30%)
+- **Steady Flame（定常炎）**: 可動性を低下させますが、安定性と持続時間を向上させる変更
+- **Ember Cluster（残り火の塊）**: 1つの大きな炎の代わりに、複数の小さな炎を作成します
+- **Colored Ember（着色された残り火）**: 特定の炎の色を生成するために、微量元素を組み込みます
+- **Silent Cast（沈黙の詠唱）**: 集中力と純度（25〜30％）を高める代わりに、言語的構成要素を削除します
 
-## Risks and Miscast Effects
+## Risks and Miscast Effects（リスクと詠唱ミスの影響）
 
-- **Flame Dispersal**: Loss of concentration causes the flame to harmlessly dissipate
-- **Uncontrolled Growth**: Poor pattern formation may cause the flame to briefly flare before extinguishing
-- **Color Instability**: Impure mana (below 15%) can cause the flame to fluctuate in color and intensity
-- **Premature Extinguishing**: Insufficient mana input causes the spell to fail within seconds
-- **Pattern Collapse**: Critical purity shortage (below 10%) may cause minor burns to the caster's fingertips
+- **Flame Dispersal（炎の拡散）**: 集中力の喪失により、炎は無害に消散します
+- **Uncontrolled Growth（制御不能な成長）**: パターンの形成が不十分だと、炎が消える前に短時間フレアする可能性があります
+- **Color Instability（色の不安定性）**: 不純なマナ（15％未満）は、炎の色と強度を変動させる可能性があります
+- **Premature Extinguishing（早期消火）**: マナ入力が不十分な場合、呪文は数秒以内に失敗します
+- **Pattern Collapse（パターン崩壊）**: 深刻な純度不足（10％未満）は、詠唱者の指先に軽度の火傷を引き起こす可能性があります
 
-## Purity Influence on Effect
+## Purity Influence on Effect（純度が効果に与える影響）
 
-| Purity Level | Effect Enhancement |
+| Purity Level（純度レベル） | Effect Enhancement（効果の強化） |
 |--------------|---------------------|
-| 10-15% | Flame is dim and unstable, requiring constant attention |
-| 15-25% | Standard effect as described above |
-| 25-35% | Brighter flame with more precise movement control |
-| 35%+ | Multiple color options, finer control over heat output, and extended duration |
+| 10-15% | 炎は暗くて不安定で、常に注意が必要です |
+| 15-25% | 上記のような標準的な効果 |
+| 25-35% | より明るい炎で、より正確な動きの制御 |
+| 35%+ | 複数の色のオプション、熱出力のより細かい制御、および持続時間の延長 |
 
-## Musical Analogy
+## Musical Analogy（音楽的なアナロジー）
 
-Dancing Ember is like learning to play a single pure note and sustain it. The caster must maintain proper "pitch" (heat intensity) and "volume" (size) while learning to "bend" the note (controlling movement). Just as a beginning musician might practice a single note until it becomes second nature, novice pyromancers often practice this spell until they can cast it without conscious thought.
+Dancing Ember（ダンシングエンバー）は、単一の純粋な音を演奏し、それを維持することを学ぶようなものです。詠唱者は、適切な「ピッチ」（熱強度）と「ボリューム」（サイズ）を維持しながら、音を「曲げる」（動きを制御する）ことを学ぶ必要があります。初心者のミュージシャンが単一の音が第二の天性になるまで練習するように、初心者の熱魔法使いは、意識せずに詠唱できるようになるまで、この呪文を練習することがよくあります。
 
-## Learning Progression
+## Learning Progression（学習の進捗）
 
-Most students master this spell in the following stages:
-1. **Creation**: Simply manifesting the flame briefly
-2. **Sustenance**: Maintaining the flame for progressively longer periods
-3. **Movement**: Learning to direct the flame's position
-4. **Refinement**: Controlling color, size, and heat with precision
+ほとんどの学生は、次の段階でこの呪文を習得します。
+1. **Creation（創造）**: 炎を短時間現出させるだけ
+2. **Sustenance（維持）**: 炎を徐々に長く維持する
+3. **Movement（動き）**: 炎の位置を指示することを学ぶ
+4. **Refinement（洗練）**: 色、サイズ、熱を正確に制御する
 
-## Historical Note
+## Historical Note（歴史的な注記）
 
-Dancing Ember was formalized as a teaching spell by the renowned pyromancer Ignis Lumina, who recognized that many apprentices were injuring themselves attempting more complex fire magic without proper foundation. She designed this spell specifically to teach control before power, a philosophy summarized in her famous quote: "Learn to dance with a single ember before you attempt to conduct a symphony of flames." 
+Dancing Ember（ダンシングエンバー）は、有名な熱魔法使い Ignis Lumina（イグニス・ルミナ）によって教育呪文として形式化されました。彼女は、多くの見習いが適切な基礎なしにもっと複雑な火の魔法を試みて自分自身を傷つけていることに気づきました。彼女は、力を得る前に制御を教えるために、この呪文を特別に設計しました。それは彼女の有名な引用「炎のシンフォニーを指揮しようとする前に、単一の残り火と踊ることを学びなさい」に要約されています。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

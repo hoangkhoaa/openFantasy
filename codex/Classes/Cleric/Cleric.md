@@ -1,135 +1,139 @@
-# **Cleric**: Divine Conduits and Healers
+# **Cleric**（聖職者）: Divine Conduits and Healers（神の導管と癒し手）
 
-[**Clerics**](/codex/Classes/Cleric/Cleric.md) represent a unique harmony between the material and divine realms. They serve as vessels for divine power while maintaining their mortal perspective, creating a resonant bridge between worldly needs and celestial aid.
+[**Clerics**（聖職者）](/codex/Classes/Cleric/Cleric.md)は、物質界と神界の間の独特な調和を表しています。彼らは神の力の器として働きながら、自身の人間的な視点を維持し、世俗的なニーズと天上の援助の間に共鳴する橋を架けます。
 
-## Elemental Composition
+## Elemental Composition（元素構成）
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **clerics** creates a distinctive harmony that emphasizes divine channeling:
+[Classes（クラス）](/codex/Classes/Classes.md)で詳しく説明されているように、**clerics（聖職者）**の典型的な比率は、神のチャネリングを重視する独特の調和を生み出します。
 
-| Element | Range | Function |
+| Element（元素） | Range（範囲） | Function（機能） |
 |---------|------------|----------|
-| **Exanthis** | 25-40% | Solid physical foundation providing endurance and resilience for prolonged divine service |
-| **Soul** | 35-50% | Enhanced spiritual consciousness enabling divine connection, faith, and intuitive understanding |
-| **Mana Capacity** | 25-40% | Significant magical potential optimized for channeling, purifying, and manifesting divine energies |
+| **Exanthis** | 25-40% | Solid physical foundation providing endurance and resilience for prolonged divine service（長時間の神聖な奉仕のための持久力と回復力をもたらす強固な肉体的基盤） |
+| **Soul**（魂） | 35-50% | Enhanced spiritual consciousness enabling divine connection, faith, and intuitive understanding（神とのつながり、信仰、直感的な理解を可能にする強化された精神的な意識） |
+| **Mana Capacity**（マナ容量） | 25-40% | Significant magical potential optimized for channeling, purifying, and manifesting divine energies（神のエネルギーをチャネリング、浄化、発現させるために最適化された重要な魔法の可能性） |
 
-This composition grants **clerics** their characteristic ability to bridge mortal and divine realms. Their elevated Soul component creates a natural resonance with divine forces, while their balanced Mana Capacity allows them to effectively manifest those forces in the physical world.
+この構成により、**clerics（聖職者）**は、人間界と神界を結びつける特有の能力を得ます。彼らの高いSoul（魂）の構成要素は、神の力との自然な共鳴を生み出し、バランスの取れたMana Capacity（マナ容量）により、それらの力を物理世界で効果的に発現させることができます。
 
-### Magical Affinity Profile
+### Magical Affinity Profile（魔法親和性プロファイル）
 
-Clerics typically develop specific affinities that complement their divine calling and theological orientation:
+Clerics（聖職者）は通常、彼らの神聖な使命と神学的な方向性を補完する特定の親和性を発展させます。
 
-| Clerical Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Clerical Tradition（聖職の伝統） | Primary Affinities（主要な親和性） | Secondary Affinities（二次的な親和性） | Typical Application（典型的な応用） |
 |-----------------|-------------------|---------------------|---------------------|
-| **Healer** | Luxmana (Restoration) | Hydromana (Purification) | Wound mending, disease curing, spiritual cleansing |
-| **Protector** | Base Mana (Barriers) | Terramana (Reinforcement) | Divine shields, wards against evil, sanctuary creation |
-| **Smiter** | Luxmana (Radiance) | Pyromana (Judgment) | Divine strikes, banishment of unholy entities, purifying flames |
-| **Oracle** | Base Mana (Divination) | Luxmana (Clarity) | Prophecy, divine guidance, truth revelation |
-| **Exorcist** | Luxmana (Banishment) | Umbramana (Shadow Binding) | Spirit cleansing, demon banishing, undead turning |
-| **Ritualist** | Base Mana (Sanctification) | Aeromana (Connection) | Blessing ceremonies, consecration, divine summoning |
+| **Healer**（ヒーラー） | Luxmana (Restoration)（ルクスマナ（回復）） | Hydromana (Purification)（ハイドロマナ（浄化）） | Wound mending, disease curing, spiritual cleansing（傷の治療、病気の治癒、精神的な浄化） |
+| **Protector**（守護者） | Base Mana (Barriers)（ベースマナ（障壁）） | Terramana (Reinforcement)（テラマナ（強化）） | Divine shields, wards against evil, sanctuary creation（神聖な盾、悪に対する防御、聖域の創造） |
+| **Smiter**（懲罰者） | Luxmana (Radiance)（ルクスマナ（輝き）） | Pyromana (Judgment)（パイロマナ（裁き）） | Divine strikes, banishment of unholy entities, purifying flames（神聖な一撃、不浄な存在の追放、浄化の炎） |
+| **Oracle**（神託者） | Base Mana (Divination)（ベースマナ（予言）） | Luxmana (Clarity)（ルクスマナ（明晰さ）） | Prophecy, divine guidance, truth revelation（予言、神の導き、真実の啓示） |
+| **Exorcist**（祓魔師） | Luxmana (Banishment)（ルクスマナ（追放）） | Umbramana (Shadow Binding)（ウンブラマナ（影の束縛）） | Spirit cleansing, demon banishing, undead turning（霊の浄化、悪魔の追放、アンデッドの転向） |
+| **Ritualist**（儀式主義者） | Base Mana (Sanctification)（ベースマナ（聖化）） | Aeromana (Connection)（エアロマナ（繋がり）） | Blessing ceremonies, consecration, divine summoning（祝福の儀式、聖別、神の召喚） |
 
-Clerics typically achieve 60-80% specialization efficiency with their primary affinities, reflecting their focused channeling of divine power. Their ability to purify mana to higher degrees makes them particularly effective at complex divine manifestations that require refined magical energy.
+Clerics（聖職者）は通常、主要な親和性において60〜80％の専門化効率を達成し、神の力の集中的なチャネリングを反映しています。マナをより高度な程度に浄化する能力により、洗練された魔法エネルギーを必要とする複雑な神の顕現に特に効果的です。
 
-### Species-Specific Variations
+### Species-Specific Variations（種族特有のバリエーション）
 
-Different species show varying natural inclinations toward the cleric class:
+種族によって、聖職者クラスに対する自然な傾向が異なります。
 
-- **Humans** (25-40% Exanthis, 35-50% Soul, 25-40% Mana Capacity): Their adaptability and spiritual flexibility makes them versatile clerics capable of serving diverse divinities.
-- **Dwarves** (30-45% Exanthis, 40-55% Soul, 15-30% Mana Capacity): Their strong ancestral connections and unwavering resolve make them powerful protectors and ritualists.
-- **Aasimar** (20-35% Exanthis, 40-55% Soul, 30-45% Mana Capacity): Their celestial heritage creates natural affinity for divine channeling, especially with light and healing.
-- **Elves** (20-35% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their longevity and connection to natural cycles make them exceptional oracles and ritualists.
-- **Dragonborn** (30-45% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their inherent connection to primal forces makes them powerful smiters and protectors.
+- **Humans**（人間）（25-40% Exanthis、35-50% Soul、25-40% Mana Capacity）：彼らの適応性と精神的な柔軟性により、多様な神々に仕えることができる多才な聖職者になります。
+- **Dwarves**（ドワーフ）（30-45% Exanthis、40-55% Soul、15-30% Mana Capacity）：彼らの強い祖先とのつながりと揺るぎない決意は、彼らを強力な守護者および儀式主義者にします。
+- **Aasimar**（アシマール）（20-35% Exanthis、40-55% Soul、30-45% Mana Capacity）：彼らの天上の遺産は、特に光と癒しにおいて、神のチャネリングに対する自然な親和性を生み出します。
+- **Elves**（エルフ）（20-35% Exanthis、35-50% Soul、30-45% Mana Capacity）：彼らの長寿と自然のサイクルとのつながりは、彼らを卓越した神託者および儀式主義者にします。
+- **Dragonborn**（ドラゴンボーン）（30-45% Exanthis、30-45% Soul、25-40% Mana Capacity）：彼らの原始的な力との固有のつながりは、彼らを強力な懲罰者および守護者にします。
 
-## Physical Characteristics
+## Physical Characteristics（身体的特徴）
 
-**Clerics** are known for their divine focus and faithful nature:
-- Balanced build with graceful movements, like a conductor's precise gestures
-- Eyes that reflect inner faith, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the gestures of divine magic, like a musician who has perfected the art of the harp
-- Presence that exudes divine authority, like a powerful chord that resonates through a room
-- Stance that emphasizes dignity and reverence, like a performer poised to begin a sacred piece
+**Clerics（聖職者）**は、彼らの神への集中と信仰心で知られています。
+- バランスの取れた体格と優雅な動き、まるで指揮者の正確なジェスチャーのよう
+- 内なる信仰を反映する目、[**Soul**（魂）](/codex/Basic/Soul.md)とのつながりを示す
+- 神聖な魔法のジェスチャーを習得した手、まるでハープの芸術を完成させた音楽家のよう
+- 神聖な権威を醸し出す存在感、まるで部屋中に響き渡る力強い和音のよう
+- 尊厳と敬意を強調する立ち姿、まるで神聖な曲を始める準備ができている演奏者のよう
 
-## Divine Affinity
+## Divine Affinity（神の親和性）
 
-**Clerics** demonstrate exceptional proficiency in divine magic, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel divine power with extraordinary precision, like conductors leading a sacred choir
-- Heal wounds and cure ailments, like artists restoring damaged masterpieces
-- Protect themselves and others with divine blessings, like guardians shielding their charges
+**Clerics（聖職者）**は、まるで楽器を習得した巨匠の音楽家のように、神聖な魔法において卓越した熟練度を示します。彼らの構成により、彼らは以下を行うことができます。
+- まるで聖歌隊を率いる指揮者のように、並外れた精度で神の力をチャネリングする
+- まるで破損した傑作を修復するアーティストのように、傷を癒し、病気を治す
+- まるで保護者が担当者を守るように、神の祝福で自身と他の人を守る
 
-This specialization makes **clerics** capable of achieving the highest levels of proficiency in their chosen divine disciplines, though they may struggle with tasks requiring physical strength or combat prowess, like a delicate instrument that produces beautiful sounds but cannot match the power of a drum.
+この専門性により、**clerics（聖職者）**は、選択した神聖な分野で最高のレベルの熟練度を達成することができますが、繊細な楽器が美しい音を出すことはできても、太鼓の力には及ばないように、体力や戦闘能力を必要とするタスクには苦労する可能性があります。
 
-## Training and Development
+## Training and Development（訓練と成長）
 
-The path of a **cleric** involves rigorous divine study and spiritual discipline:
-- Daily prayer and meditation, like musicians practicing their sacred pieces
-- Study of divine texts and religious teachings, like learning the theory behind sacred music
-- Service to their divine patrons and communities, like performers sharing their gifts with others
-- Practice in healing and protective magic, like artists mastering the art of restoration
+**cleric（聖職者）**の道は、厳格な神聖な研究と精神的な訓練を伴います。
+- 毎日の祈りと瞑想、まるで音楽家が神聖な曲を練習するよう
+- 神聖なテキストと宗教的教えの研究、まるで神聖な音楽の背後にある理論を学ぶよう
+- 神の守護者とコミュニティへの奉仕、まるで演奏者が自分の才能を他の人と共有するよう
+- 癒しと保護の魔法の練習、まるでアーティストが修復の芸術を習得するよう
 
-## Equipment and Gear
+## Equipment and Gear（装備とギア）
 
-**Clerics** rely on various divine equipment to enhance their magical abilities:
-- Holy symbols and relics that focus divine power, like different instruments for different performances
-- Vestments and ceremonial garb that enhance divine connection, like a well-fitted case for a precious instrument
-- Divine accessories such as prayer beads, censers, and holy water, like accessories that enhance an instrument's capabilities
+**Clerics（聖職者）**は、魔法の能力を高めるために、さまざまな神聖な装備に頼っています。
+- 神の力を集中させる聖なるシンボルと遺物、まるで異なるパフォーマンスのための異なる楽器のよう
+- 神とのつながりを高める祭服と儀式用の衣装、まるで貴重な楽器のための適切なケースのよう
+- 祈りのビーズ、香炉、聖水などの神聖なアクセサリー、まるで楽器の機能を高めるアクセサリーのよう
 
-## Subclasses
+## Subclasses（サブクラス）
 
-**Clerics** can specialize in various divine disciplines and roles:
+**Clerics（聖職者）**は、さまざまな神聖な分野と役割を専門とすることができます。
 
-### [**Healer**](/codex/Classes/Cleric/Healer.md)
+### [**Healer**（ヒーラー）](/codex/Classes/Cleric/Healer.md)
 
-Healers focus on restorative magic and healing, emphasizing the restoration of health and vitality. They excel at:
-- Curing wounds and diseases
-- Restoring vitality and energy
-- Protecting against harmful effects
+Healers（ヒーラー）は、回復魔法と癒しに焦点を当て、健康と活力を回復することを強調します。彼らは以下に優れています。
+- 傷や病気の治療
+- 活力とエネルギーの回復
+- 有害な影響からの保護
 
-### [**Paladin**](/codex/Classes/Cleric/Paladin.md)
+### [**Paladin**（パラディン）](/codex/Classes/Cleric/Paladin.md)
 
-Paladins focus on combining divine magic with combat, emphasizing the role of the holy warrior. They excel at:
-- Wielding divine power in combat
-- Protecting others with divine blessings
-- Leading others with divine authority
+Paladins（パラディン）は、神聖な魔法と戦闘を組み合わせることに焦点を当て、聖なる戦士の役割を強調します。彼らは以下に優れています。
+- 戦闘で神の力を振るう
+- 神の祝福で他の人を守る
+- 神の権威で他の人を導く
 
-### [**Oracle**](/codex/Classes/Cleric/Oracle.md)
+### [**Oracle**（神託者）](/codex/Classes/Cleric/Oracle.md)
 
-Oracles focus on receiving divine visions and prophecies, emphasizing the role of the divine messenger. They excel at:
-- Receiving divine guidance and visions
-- Interpreting divine signs and omens
-- Sharing divine wisdom with others
+Oracles（神託者）は、神のビジョンと予言を受け取ることに焦点を当て、神の使者の役割を強調します。彼らは以下に優れています。
+- 神の導きとビジョンを受け取る
+- 神の兆候と前兆を解釈する
+- 神の知恵を他の人と共有する
 
-### [**Inquisitor**](/codex/Classes/Cleric/Inquisitor.md)
+### [**Inquisitor**（異端審問官）](/codex/Classes/Cleric/Inquisitor.md)
 
-Inquisitors focus on hunting heretics and supernatural threats, emphasizing the role of the divine enforcer. They excel at:
-- Detecting and combating supernatural threats
-- Interrogating and judging heretics
-- Protecting the faithful from corruption
+Inquisitors（異端審問官）は、異端者と超自然的な脅威を狩ることに焦点を当て、神の執行者の役割を強調します。彼らは以下に優れています。
+- 超自然的な脅威を検出し、戦う
+- 異端者を尋問し、裁く
+- 信仰者を堕落から守る
 
-### [**Shaman**](/codex/Classes/Cleric/Shaman.md)
+### [**Shaman**（シャーマン）](/codex/Classes/Cleric/Shaman.md)
 
-Shamans focus on communicating with nature spirits and ancestors, emphasizing the role of the divine intermediary. They excel at:
-- Communicating with nature spirits and ancestors
-- Performing rituals involving natural forces
-- Healing through natural and spiritual means
+Shamans（シャーマン）は、自然の精霊と祖先とコミュニケーションをとることに焦点を当て、神の仲介者の役割を強調します。彼らは以下に優れています。
+- 自然の精霊と祖先とコミュニケーションをとる
+- 自然の力に関わる儀式を行う
+- 自然と精神的な手段を通じて癒す
 
-## Notable Cleric Traits
+## Notable Cleric Traits（注目すべき聖職者の特徴）
 
-- **Divine Mastery**: Clerics excel in divine magic, often specializing in specific divine disciplines
-- **Faith**: Clerics have a deep connection to their divine patrons
-- **Healing**: Clerics develop exceptional healing abilities through divine study
-- **Protection**: Clerics can protect themselves and others with divine blessings
-- **Discipline**: Clerics maintain rigorous spiritual regimens to maintain their divine connection
+- **Divine Mastery**（神の熟練）：Clerics（聖職者）は神聖な魔法に優れており、特定の神聖な分野を専門とすることがよくあります。
+- **Faith**（信仰）：Clerics（聖職者）は、神の守護者と深い関わりを持っています。
+- **Healing**（癒し）：Clerics（聖職者）は、神聖な研究を通じて卓越した癒しの能力を開発します。
+- **Protection**（保護）：Clerics（聖職者）は、神の祝福で自身と他の人を守ることができます。
+- **Discipline**（規律）：Clerics（聖職者）は、神とのつながりを維持するために厳格な精神的な訓練を維持します。
 
-## Cleric Orders
+## Cleric Orders（聖職者団）
 
-Cleric society is organized into numerous orders, each with its own specialties and techniques:
+聖職者社会は多数の教団に組織されており、それぞれが独自の専門性と技術を持っています。
 
-| Order | Specialty | Territory | Notable Traits |
+| Order（教団） | Specialty（専門） | Territory（縄張り） | Notable Traits（注目すべき特徴） |
 |---------|---------------|---------|-------------------|
-| **Healing Hands** | Healing, restoration | Hospitals and temples | Healing magic, restoration |
-| **Divine Warriors** | Combat, protection | Military units | Combat magic, divine protection |
-| **Vision Seekers** | Divination, prophecy | Temples and shrines | Divination, prophecy |
-| **Truth Seekers** | Investigation, judgment | Courts and tribunals | Investigation, judgment |
-| **Spirit Walkers** | Spirit communication, rituals | Natural places | Spirit communication, rituals |
-| **Light Bearers** | Illumination, guidance | Various locations | Illumination, guidance |
+| **Healing Hands**（癒しの手） | Healing, restoration（癒し、回復） | Hospitals and temples（病院と寺院） | Healing magic, restoration（癒しの魔法、回復） |
+| **Divine Warriors**（神聖な戦士） | Combat, protection（戦闘、保護） | Military units（軍事部隊） | Combat magic, divine protection（戦闘魔法、神の保護） |
+| **Vision Seekers**（ビジョンを求める者） | Divination, prophecy（占い、予言） | Temples and shrines（寺院と神社） | Divination, prophecy（占い、予言） |
+| **Truth Seekers**（真実を求める者） | Investigation, judgment（調査、裁き） | Courts and tribunals（裁判所と法廷） | Investigation, judgment（調査、裁き） |
+| **Spirit Walkers**（精霊の歩行者） | Spirit communication, rituals（精霊とのコミュニケーション、儀式） | Natural places（自然の場所） | Spirit communication, rituals（精霊とのコミュニケーション、儀式） |
+| **Light Bearers**（光を運ぶ者） | Illumination, guidance（照明、導き） | Various locations（さまざまな場所） | Illumination, guidance（照明、導き） |
 
-Understanding the nature of **clerics** provides insight into the divine aspects of the world of **OpenFantasy**, like listening to the sacred harmonies that bridge the mortal and divine realms. 
+**clerics（聖職者）**の性質を理解することは、まるで人間界と神界を結びつける神聖なハーモニーを聴くように、**OpenFantasy**の世界の神聖な側面への洞察を提供します。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

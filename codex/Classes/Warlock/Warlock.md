@@ -1,42 +1,46 @@
-# **Warlock**: Wielders of Pact-Bound Magic
+# **Warlock (ウォーロック)**: Pact-Bound Magic (誓約による魔法) の使い手
 
-[**Warlocks**](/codex/Classes/Warlock/Warlock.md) are spellcasters who derive their magical abilities from pacts with powerful otherworldly entities. Unlike wizards who study or sorcerers with innate power, warlocks receive magic through direct patronage, shaping their abilities based on their patron's nature and domain.
+[**Warlocks (ウォーロック)**](/codex/Classes/Warlock/Warlock.md) は、強力な異世界の存在との誓約から魔法能力を引き出す呪文の使い手です。研究するウィザードや生来の力を持つソーサラーとは異なり、ウォーロックは直接の後援を通じて魔法を受け取り、後援者の性質と領域に基づいて能力を形成します。
 
-## Elemental Composition
+## Elemental Composition (元素構成)
 
-The typical elemental ratio for **warlocks** reflects their unique connection to patron entities:
+**warlocks (ウォーロック)** の典型的な元素比率は、後援者との独特なつながりを反映しています。
 
-| Element | Range | Function |
+| Element (元素) | Range (範囲) | Function (機能) |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Physical vessel modified by patron influence |
-| **Soul** | 30-45% | Spiritual anchor for the pact, reinforced to withstand external power |
-| **Mana Capacity** | 30-50% | Channel structure for patron-sourced power rather than personal reserves |
+| **Exanthis** | 15-30% | 後援者の影響で修正された物理的な器 |
+| **Soul (魂)** | 30-45% | 誓約のための精神的な錨。外部からの力に耐えるように強化されています |
+| **Mana Capacity (マナ容量)** | 30-50% | 個人的な蓄えではなく、後援者から供給される力のチャネル構造 |
 
-This composition makes **warlocks** fundamentally different from other spellcasters. Their magic doesn't stem primarily from personal reserves but flows through specially adapted channels from their patron. This external sourcing creates distinctive magical signatures and often manifests physical or spiritual modifications reflecting their patron's nature.
+この構成により、**warlocks (ウォーロック)** は他の呪文の使い手とは根本的に異なります。彼らの魔法は主に個人的な蓄えから生じるのではなく、後援者からの特別に適応されたチャネルを通って流れます。この外部からの供給は、独特の魔法の署名を作成し、多くの場合、後援者の性質を反映した身体的または精神的な修正をmanifests (マニフェスト) します。
 
-### Magical Affinity Profile
+### Magical Affinity Profile (魔法親和性プロファイル)
 
-Warlocks develop specific affinities based on their patron's nature:
+ウォーロックは、後援者の性質に基づいて特定の親和性を発達させます。
 
-| Patron Type | Primary Affinities | Secondary Affinities | Typical Application |
+| Patron Type (後援者の種類) | Primary Affinities (主な親和性) | Secondary Affinities (二次的な親和性) | Typical Application (典型的な応用) |
 |--------------|-------------------|---------------------|---------------------|
-| **Archfey** | Naturemana | Mentimana | Enchantment, emotional manipulation, nature influence |
-| **Fiend** | Pyromana | Umbramana | Destructive magic, soul manipulation, corruption |
-| **Great Old One** | Mentimana | Umbramana | Mind-affecting spells, forbidden knowledge, reality distortion |
-| **Celestial** | Luxmana | Base Mana (Healing) | Radiant damage, healing, purification |
-| **Hexblade** | Umbramana | Base Mana (Binding) | Weapon enhancement, curses, soul binding |
-| **Genie** | Elemental (varies by genie type) | Base Mana (Spatial) | Elemental control, wishes, dimensional magic |
+| **Archfey (アーチフェイ)** | Naturemana | Mentimana | エンチャント、感情操作、自然への影響 |
+| **Fiend (フィーンド)** | Pyromana | Umbramana | 破壊的な魔法、魂の操作、堕落 |
+| **Great Old One (グレート・オールド・ワン)** | Mentimana | Umbramana | 精神に影響を与える呪文、禁断の知識、現実の歪曲 |
+| **Celestial (セレスチャル)** | Luxmana | Base Mana (Healing) | 輝くダメージ、治癒、浄化 |
+| **Hexblade (ヘックスブレード)** | Umbramana | Base Mana (Binding) | 武器の強化、呪い、魂の束縛 |
+| **Genie (ジン)** | Elemental (varies by genie type) | Base Mana (Spatial) | 元素の制御、願い、次元魔法 |
 
-Warlocks typically achieve 70-90% resonance with their patron's primary affinity elements, as these energies are directly channeled rather than personally generated. Their connection to patron sources allows for high purity magical energy (40-70%) without the extensive training required by wizards, though this power comes with external dependency and potential influence.
+ウォーロックは通常、後援者の主な親和性元素との共鳴を70〜90％達成します。これらのエネルギーは個人的に生成されるのではなく、直接チャネリングされるためです。彼らの後援者源とのつながりは、ウィザードに必要な広範なトレーニングなしに、高い純度の魔法エネルギー（40〜70％）を可能にします。ただし、この力には外部への依存と潜在的な影響が伴います。
 
-### Species-Specific Variations
+### Species-Specific Variations (種族特有のバリエーション)
 
-Different species show varying natural inclinations toward the warlock class:
+種族が異なると、ウォーロッククラスに対する自然な傾向が異なります。
 
-- **Humans** (15-30% Exanthis, 30-45% Soul, 30-50% Mana Capacity): Their adaptability allows for diverse pact connections and easier accommodation of patron influence.
-- **Tieflings** (15-30% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their infernal heritage creates natural resonance with fiendish patrons and resistance to corrupting influences.
-- **Half-Elves** (15-25% Exanthis, 30-45% Soul, 35-55% Mana Capacity): Their mixed heritage offers flexible spiritual anchoring for diverse pact types.
-- **Aasimar** (15-25% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their celestial connection creates natural affinity for divine patrons with enhanced luxmana channeling.
-- **Genasi** (20-35% Exanthis, 25-40% Soul, 30-50% Mana Capacity): Their elemental heritage forms natural channels for corresponding elemental patrons.
+- **Humans (人間)** (15-30% Exanthis, 30-45% Soul (魂), 30-50% Mana Capacity (マナ容量)): 彼らの適応力により、多様な誓約のつながりと後援者の影響の容易な収容が可能になります。
+- **Tieflings (ティーフリング)** (15-30% Exanthis, 35-50% Soul (魂), 30-45% Mana Capacity (マナ容量)): 彼らの地獄の遺産は、悪魔のような後援者との自然な共鳴と、堕落の影響に対する抵抗力を生み出します。
+- **Half-Elves (ハーフエルフ)** (15-25% Exanthis, 30-45% Soul (魂), 35-55% Mana Capacity (マナ容量)): 彼らの混血の遺産は、多様な誓約タイプのための柔軟な精神的な錨を提供します。
+- **Aasimar (アシマール)** (15-25% Exanthis, 35-50% Soul (魂), 30-45% Mana Capacity (マナ容量)): 彼らの天上のつながりは、強化されたluxmanaチャネリングを備えた神の後援者への自然な親和性を作り出します。
+- **Genasi (ジニー)** (20-35% Exanthis, 25-40% Soul (魂), 30-50% Mana Capacity (マナ容量)): 彼らの元素の遺産は、対応する元素の後援者のための自然なチャネルを形成します。
 
-// ... rest of the file remains unchanged ... 
+// ... ファイルの残りの部分は変更されません ...
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

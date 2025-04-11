@@ -1,214 +1,218 @@
-# OpenFantasy Character Classes
+# OpenFantasy キャラクタークラス
 
-> *"In the world of OpenFantasy, classes represent the various paths of power and specialization that individuals can pursue."*
+> *"OpenFantasy (オープンファンタジー)の世界において、クラスとは、個人が追求できる様々な力と専門性の道筋を表すものです。"*
 
-## Quick Reference
+## クイックリファレンス
 
-- [Class Structure](#class-structure)
-- [Main Classes](#main-classes)
-- [Class Progression](#class-progression)
-- [Multiclassing](#multiclassing)
-- [Class-Species Interactions](#class-species-interactions)
+- [クラス構成](#クラス構成)
+- [メインクラス](#メインクラス)
+- [クラスの成長](#クラスの成長)
+- [マルチクラス](#マルチクラス)
+- [クラスと種族の相互作用](#クラスと種族の相互作用)
 
-## Overview
+## 概要
 
-Each class in OpenFantasy represents a unique harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**, creating a symphony of abilities that defines their role in the world.
+OpenFantasy (オープンファンタジー)の各クラスは、[**Exanthis** (エクザンティス)](/codex/Basic/Exanthis.md)、[**Souls** (ソウル)](/codex/Basic/Soul.md)、そして **Mana Capacity (マナ容量)** のユニークな調和を表しており、世界の役割を定義する能力のシンフォニーを生み出しています。
 
-## Class Structure
+## クラス構成
 
-Classes are organized into main categories, each with numerous subclasses or career paths that branch out from the core class. These subclasses represent specialized applications of the class's fundamental abilities, like variations on a musical theme.
+クラスはメインカテゴリーに分類されており、各カテゴリーには、コアクラスから分岐する多数のサブクラスまたはキャリアパスがあります。これらのサブクラスは、音楽のテーマのバリエーションのように、クラスの基本的な能力の特殊な応用を表しています。
 
-## Main Classes
+## メインクラス
 
-### [**Warrior**](/codex/Classes/Warrior/Warrior.md)
+### [**Warrior** (戦士)](/codex/Classes/Warrior/Warrior.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Physical combat and martial prowess |
-| **Primary Element** | [**Exanthis**](/codex/Basic/Exanthis.md) |
-| **Metaphor** | A powerful drum that drives the rhythm of battle |
+| **Focus** (焦点) | 肉体的な戦闘と武術の腕前 |
+| **Primary Element** (主要元素) | [**Exanthis** (エクザンティス)](/codex/Basic/Exanthis.md) |
+| **Metaphor** (比喩) | 戦いのリズムを刻む強力な太鼓 |
 
-**Subclasses:**
-- [**Guardian**](/codex/Classes/Warrior/Guardian.md) - Defensive specialists who excel at protecting others
-- [**Berserker**](/codex/Classes/Warrior/Berserker.md) - Offensive specialists who enter a battle rage
-- [**Duelist**](/codex/Classes/Warrior/Duelist.md) - Precision fighters who excel in one-on-one combat
-- [**Commander**](/codex/Classes/Warrior/Commander.md) - Tactical leaders who coordinate group efforts
-- [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md) - Masters of multiple weapons and combat styles
+**Subclasses (サブクラス):**
+- [**Guardian** (守護者)](/codex/Classes/Warrior/Guardian.md) - 他者を守ることに長けた防御のスペシャリスト
+- [**Berserker** (狂戦士)](/codex/Classes/Warrior/Berserker.md) - 戦闘で怒りを爆発させる攻撃のスペシャリスト
+- [**Duelist** (決闘者)](/codex/Classes/Warrior/Duelist.md) - 一対一の戦闘に長けた精密な戦士
+- [**Commander** (指揮官)](/codex/Classes/Warrior/Commander.md) - グループの努力を調整する戦術的なリーダー
+- [**Weaponmaster** (武器の達人)](/codex/Classes/Warrior/Weaponmaster.md) - 複数の武器と戦闘スタイルを極めた達人
 
-### [**Mage**](/codex/Classes/Mage/Mage.md)
+### [**Mage** (魔術師)](/codex/Classes/Mage/Mage.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Magical abilities and spellcasting |
-| **Primary Element** | **Mana Capacity** |
-| **Metaphor** | A conductor orchestrating the elements |
+| **Focus** (焦点) | 魔法能力と呪文の詠唱 |
+| **Primary Element** (主要元素) | **Mana Capacity (マナ容量)** |
+| **Metaphor** (比喩) | 元素を指揮する指揮者 |
 
-**Subclasses:**
-- [**Elementalist**](/codex/Classes/Mage/Elementalist.md) - Masters of elemental magic (fire, water, earth, air)
-- [**Necromancer**](/codex/Classes/Mage/Necromancer.md) - Practitioners of death and soul magic
-- [**Illusionist**](/codex/Classes/Mage/Illusionist.md) - Creators of deceptive magical effects
-- [**Diviner**](/codex/Classes/Mage/Diviner.md) - Seekers of knowledge through magical means
-- [**Warlock**](/codex/Classes/Mage/Warlock.md) - Dealers with otherworldly entities for power
+**Subclasses (サブクラス):**
+- [**Elementalist** (元素使い)](/codex/Classes/Mage/Elementalist.md) - 元素魔法（火、水、土、空気）の達人
+- [**Necromancer** (死霊術師)](/codex/Classes/Mage/Necromancer.md) - 死と魂の魔法の使い手
+- [**Illusionist** (幻術師)](/codex/Classes/Mage/Illusionist.md) - 欺瞞的な魔法効果の創造者
+- [**Diviner** (占い師)](/codex/Classes/Mage/Diviner.md) - 魔法的な手段で知識を求める者
+- [**Warlock** (ウォーロック)](/codex/Classes/Mage/Warlock.md) - 力のために異世界の存在と取引する者
 
-### [**Rogue**](/codex/Classes/Rogue/Rogue.md)
+### [**Rogue** (盗賊)](/codex/Classes/Rogue/Rogue.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Stealth, precision, and cunning |
-| **Primary Element** | [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A subtle flute that moves unseen |
+| **Focus** (焦点) | 隠密、正確さ、そして狡猾さ |
+| **Primary Element** (主要元素) | [**Soul** (ソウル)](/codex/Basic/Soul.md) |
+| **Metaphor** (比喩) | 目に見えずに動く繊細なフルート |
 
-**Subclasses:**
-- [**Assassin**](/codex/Classes/Rogue/Assassin.md) - Silent killers who eliminate targets without detection
-- [**Scout**](/codex/Classes/Rogue/Scout.md) - Explorers who excel at gathering information
-- [**Trickster**](/codex/Classes/Rogue/Trickster.md) - Deceivers who use misdirection and illusion
-- [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md) - Stealth fighters who blend combat with subterfuge
-- [**Spy**](/codex/Classes/Rogue/Spy.md) - Infiltrators who gather intelligence from within enemy ranks
+**Subclasses (サブクラス):**
+- [**Assassin** (暗殺者)](/codex/Classes/Rogue/Assassin.md) - 標的を検知されずに排除する静かな殺し屋
+- [**Scout** (偵察兵)](/codex/Classes/Rogue/Scout.md) - 情報収集に長けた探検家
+- [**Trickster** (トリックスター)](/codex/Classes/Rogue/Trickster.md) - 誤った指示と幻想を使う欺瞞者
+- [**Shadowblade** (影の刃)](/codex/Classes/Rogue/Shadowblade.md) - 戦闘と策略を組み合わせた隠密戦士
+- [**Spy** (スパイ)](/codex/Classes/Rogue/Spy.md) - 敵の陣営内で情報を収集する潜入者
 
-### [**Cleric**](/codex/Classes/Cleric/Cleric.md)
+### [**Cleric** (聖職者)](/codex/Classes/Cleric/Cleric.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Divine magic and healing |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A choir that bridges the mortal and divine |
+| **Focus** (焦点) | 神聖魔法と癒し |
+| **Primary Elements** (主要元素) | [**Soul** (ソウル)](/codex/Basic/Soul.md) と **Mana Capacity (マナ容量)** |
+| **Metaphor** (比喩) | 現世と神聖を結ぶ合唱団 |
 
-**Subclasses:**
-- [**Healer**](/codex/Classes/Cleric/Healer.md) - Specialists in restorative magic and healing
-- [**Paladin**](/codex/Classes/Cleric/Paladin.md) - Holy warriors who combine divine magic with combat
-- [**Oracle**](/codex/Classes/Cleric/Oracle.md) - Receivers of divine visions and prophecies
-- [**Inquisitor**](/codex/Classes/Cleric/Inquisitor.md) - Hunters of heretics and supernatural threats
-- [**Shaman**](/codex/Classes/Cleric/Shaman.md) - Communicators with nature spirits and ancestors
+**Subclasses (サブクラス):**
+- [**Healer** (癒し手)](/codex/Classes/Cleric/Healer.md) - 回復魔法と癒しのスペシャリスト
+- [**Paladin** (パラディン)](/codex/Classes/Cleric/Paladin.md) - 神聖魔法と戦闘を組み合わせた聖なる戦士
+- [**Oracle** (神託者)](/codex/Classes/Cleric/Oracle.md) - 神の啓示と予言の受信者
+- [**Inquisitor** (異端審問官)](/codex/Classes/Cleric/Inquisitor.md) - 異端者と超自然的な脅威の狩人
+- [**Shaman** (シャーマン)](/codex/Classes/Cleric/Shaman.md) - 自然霊と祖先とのコミュニケーター
 
-### [**Ranger**](/codex/Classes/Ranger/Ranger.md)
+### [**Ranger** (レンジャー)](/codex/Classes/Ranger/Ranger.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Wilderness survival and combat |
-| **Primary Elements** | [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A woodwind that echoes the sounds of the forest |
+| **Focus** (焦点) | 荒野でのサバイバルと戦闘 |
+| **Primary Elements** (主要元素) | [**Exanthis** (エクザンティス)](/codex/Basic/Exanthis.md) と [**Soul** (ソウル)](/codex/Basic/Soul.md) |
+| **Metaphor** (比喩) | 森の音を反響させる木管楽器 |
 
-**Subclasses:**
-- [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md) - Companions of animals who fight alongside them
-- [**Hunter**](/codex/Classes/Ranger/Hunter.md) - Trackers who excel at finding and eliminating targets
-- [**Warden**](/codex/Classes/Ranger/Warden.md) - Protectors of natural places and their inhabitants
-- [**Scout**](/codex/Classes/Ranger/Scout.md) - Explorers who excel at navigating unknown territories
-- [**Survivalist**](/codex/Classes/Ranger/Survivalist.md) - Masters of wilderness survival and resourcefulness
+**Subclasses (サブクラス):**
+- [**Beastmaster** (ビーストマスター)](/codex/Classes/Ranger/Beastmaster.md) - 動物の仲間であり、彼らと共に戦う者
+- [**Hunter** (狩人)](/codex/Classes/Ranger/Hunter.md) - 標的を見つけて排除することに長けた追跡者
+- [**Warden** (守護者)](/codex/Classes/Ranger/Warden.md) - 自然の場所とその住人の保護者
+- [**Scout** (偵察兵)](/codex/Classes/Ranger/Scout.md) - 未知の領域をナビゲートすることに長けた探検家
+- [**Survivalist** (サバイバリスト)](/codex/Classes/Ranger/Survivalist.md) - 荒野でのサバイバルと機知の達人
 
-### [**Artificer**](/codex/Classes/Artificer/Artificer.md)
+### [**Artificer** (アーティフィサー)](/codex/Classes/Artificer/Artificer.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Creating magical items and devices |
-| **Primary Element** | **Mana Capacity** |
-| **Metaphor** | A craftsman who creates instruments of power |
+| **Focus** (焦点) | 魔法のアイテムとデバイスの作成 |
+| **Primary Element** (主要元素) | **Mana Capacity (マナ容量)** |
+| **Metaphor** (比喩) | 力の楽器を作り出す職人 |
 
-**Subclasses:**
-- [**Enchanter**](/codex/Classes/Artificer/Enchanter.md) - Creators of magical enhancements for items
-- [**Alchemist**](/codex/Classes/Artificer/Alchemist.md) - Brewers of potions and magical substances
-- [**Engineer**](/codex/Classes/Artificer/Engineer.md) - Builders of mechanical devices with magical components
-- [**Runemaster**](/codex/Classes/Artificer/Runemaster.md) - Crafters of magical symbols and inscriptions
-- [**Tinkerer**](/codex/Classes/Artificer/Tinkerer.md) - Inventors of small magical gadgets and tools
+**Subclasses (サブクラス):**
+- [**Enchanter** (付与術師)](/codex/Classes/Artificer/Enchanter.md) - アイテムに魔法的な強化を作成する者
+- [**Alchemist** (錬金術師)](/codex/Classes/Artificer/Alchemist.md) - ポーションと魔法物質の醸造者
+- [**Engineer** (技師)](/codex/Classes/Artificer/Engineer.md) - 魔法の部品を備えた機械装置の建設者
+- [**Runemaster** (ルーンマスター)](/codex/Classes/Artificer/Runemaster.md) - 魔法のシンボルと碑文の作成者
+- [**Tinkerer** (ティンカー)](/codex/Classes/Artificer/Tinkerer.md) - 小さな魔法のガジェットと道具の発明者
 
-### [**Bard**](/codex/Classes/Bard/Bard.md)
+### [**Bard** (吟遊詩人)](/codex/Classes/Bard/Bard.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Performance and inspiration |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | Musicians who weave magic through their performances |
+| **Focus** (焦点) | 演奏とインスピレーション |
+| **Primary Elements** (主要元素) | [**Soul** (ソウル)](/codex/Basic/Soul.md) と **Mana Capacity (マナ容量)** |
+| **Metaphor** (比喩) | 演奏を通して魔法を織りなす音楽家 |
 
-**Subclasses:**
-- [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) - Masters of verbal persuasion and perfect oratory
-- [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) - Performers who channel fey enchantment magic
-- [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) - Collectors of knowledge and secrets
-- [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) - Storytellers who channel supernatural entities
-- [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) - Blade dancers who combine combat with performance
-- [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) - Battle performers who inspire courage and heroism
-- [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) - Manipulators of fear and secrets
-- [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) - Artists who create physical objects through performance
+**Subclasses (サブクラス):**
+- [**College of Eloquence** (雄弁の楽派)](/codex/Classes/Bard/Colleges/Eloquence.md) - 言葉による説得と完璧な弁論の達人
+- [**College of Glamour** (魅力の楽派)](/codex/Classes/Bard/Colleges/Glamour.md) - フェイの魅了魔法を操るパフォーマー
+- [**College of Lore** (伝承の楽派)](/codex/Classes/Bard/Colleges/Lore.md) - 知識と秘密の収集家
+- [**College of Spirits** (精霊の楽派)](/codex/Classes/Bard/Colleges/Spirits.md) - 超自然的な存在を操る語り部
+- [**College of Swords** (剣の楽派)](/codex/Classes/Bard/Colleges/Swords.md) - 戦闘とパフォーマンスを組み合わせた刃の舞踊家
+- [**College of Valor** (武勇の楽派)](/codex/Classes/Bard/Colleges/Valor.md) - 勇気と英雄主義を鼓舞する戦闘パフォーマー
+- [**College of Whispers** (囁きの楽派)](/codex/Classes/Bard/Colleges/Whispers.md) - 恐怖と秘密の操り手
+- [**College of Creation** (創造の楽派)](/codex/Classes/Bard/Colleges/Creation.md) - 演奏を通して物理的な物体を作成するアーティスト
 
-### [**Druid**](/codex/Classes/Druid/Druid.md)
+### [**Druid** (ドルイド)](/codex/Classes/Druid/Druid.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Nature magic and shapeshifting |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A chameleon that adapts to its surroundings |
+| **Focus** (焦点) | 自然魔法と変身 |
+| **Primary Elements** (主要元素) | [**Soul** (ソウル)](/codex/Basic/Soul.md) と **Mana Capacity (マナ容量)** |
+| **Metaphor** (比喩) | 周囲の環境に適応するカメレオン |
 
-**Subclasses:**
-- [**Circle of the Land**](/codex/Classes/Druid/Land.md) - Guardians of natural territories
-- [**Circle of the Moon**](/codex/Classes/Druid/Moon.md) - Masters of wild shapeshifting
-- [**Circle of Dreams**](/codex/Classes/Druid/Dreams.md) - Connectors to the fey realms of nature
-- [**Circle of the Shepherd**](/codex/Classes/Druid/Shepherd.md) - Protectors of animals and summoners of nature spirits
-- [**Circle of Spores**](/codex/Classes/Druid/Spores.md) - Controllers of the cycle of life and death
+**Subclasses (サブクラス):**
+- [**Circle of the Land** (大地の円環)](/codex/Classes/Druid/Land.md) - 自然の領域の守護者
+- [**Circle of the Moon** (月の円環)](/codex/Classes/Druid/Moon.md) - 野生の変身の達人
+- [**Circle of Dreams** (夢の円環)](/codex/Classes/Druid/Dreams.md) - 自然のフェイレルムへのコネクター
+- [**Circle of the Shepherd** (羊飼いの円環)](/codex/Classes/Druid/Shepherd.md) - 動物の保護者と自然霊の召喚者
+- [**Circle of Spores** (胞子の円環)](/codex/Classes/Druid/Spores.md) - 生命と死のサイクルの制御者
 
-### [**Monk**](/codex/Classes/Monk/Monk.md)
+### [**Monk** (モンク)](/codex/Classes/Monk/Monk.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Inner strength and discipline |
-| **Primary Elements** | [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A martial artist who has mastered the flow of energy |
+| **Focus** (焦点) | 内なる強さと鍛錬 |
+| **Primary Elements** (主要元素) | [**Exanthis** (エクザンティス)](/codex/Basic/Exanthis.md) と [**Soul** (ソウル)](/codex/Basic/Soul.md) |
+| **Metaphor** (比喩) | エネルギーの流れをマスターした武道家 |
 
-**Subclasses:**
-- [**Way of the Open Hand**](/codex/Classes/Monk/OpenHand.md) - Masters of unarmed combat techniques
-- [**Way of Shadow**](/codex/Classes/Monk/Shadow.md) - Stealthy warriors who manipulate darkness
-- [**Way of the Four Elements**](/codex/Classes/Monk/FourElements.md) - Controllers of elemental energy
-- [**Way of the Kensei**](/codex/Classes/Monk/Kensei.md) - Weapon masters who extend their spirit into their armaments
-- [**Way of Tranquility**](/codex/Classes/Monk/Tranquility.md) - Peaceful mediators who heal and protect
+**Subclasses (サブクラス):**
+- [**Way of the Open Hand** (開手の道)](/codex/Classes/Monk/OpenHand.md) - 徒手空拳の戦闘技術の達人
+- [**Way of Shadow** (影の道)](/codex/Classes/Monk/Shadow.md) - 暗闇を操る隠密戦士
+- [**Way of the Four Elements** (四大元素の道)](/codex/Classes/Monk/FourElements.md) - 元素エネルギーの制御者
+- [**Way of the Kensei** (剣聖の道)](/codex/Classes/Monk/Kensei.md) - 武器に精神を込める武器の達人
+- [**Way of Tranquility** (静穏の道)](/codex/Classes/Monk/Tranquility.md) - 癒しと保護を行う平和的な調停者
 
-### [**Warlock**](/codex/Classes/Warlock/Warlock.md)
+### [**Warlock** (ウォーロック)](/codex/Classes/Warlock/Warlock.md)
 
-| Aspect | Details |
+| Aspect (側面) | Details (詳細) |
 |--------|---------|
-| **Focus** | Pacts with supernatural entities |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A musician who has sold their soul for talent |
+| **Focus** (焦点) | 超自然的な存在との契約 |
+| **Primary Elements** (主要元素) | [**Soul** (ソウル)](/codex/Basic/Soul.md) と **Mana Capacity (マナ容量)** |
+| **Metaphor** (比喩) | 才能のために魂を売った音楽家 |
 
-**Subclasses:**
-- [**The Fiend**](/codex/Classes/Warlock/Fiend.md) - Pact with demonic entities
-- [**The Archfey**](/codex/Classes/Warlock/Archfey.md) - Pact with powerful fey creatures
-- [**The Great Old One**](/codex/Classes/Warlock/GreatOldOne.md) - Pact with ancient cosmic entities
-- [**The Celestial**](/codex/Classes/Warlock/Celestial.md) - Pact with divine beings
-- [**The Hexblade**](/codex/Classes/Warlock/Hexblade.md) - Pact with a sentient weapon or entity of shadow
+**Subclasses (サブクラス):**
+- [**The Fiend** (魔神)](/codex/Classes/Warlock/Fiend.md) - 悪魔の存在との契約
+- [**The Archfey** (妖精君主)](/codex/Classes/Warlock/Archfey.md) - 強力なフェイの生き物との契約
+- [**The Great Old One** (古きもの)](/codex/Classes/Warlock/GreatOldOne.md) - 古代の宇宙の存在との契約
+- [**The Celestial** (天界)](/codex/Classes/Warlock/Celestial.md) - 神聖な存在との契約
+- [**The Hexblade** (ヘックスブレード)](/codex/Classes/Warlock/Hexblade.md) - 知性のある武器または影の存在との契約
 
-## Class Progression
+## クラスの成長
 
-Classes in OpenFantasy follow a progression system that allows individuals to develop their abilities over time. This progression is represented by levels, each granting access to new abilities and powers, like a musician who learns increasingly complex pieces.
+OpenFantasy (オープンファンタジー)のクラスは、個人が時間をかけて能力を開発できる成長システムに従っています。この成長はレベルで表され、各レベルは新しい能力と力へのアクセスを許可します。まるで、音楽家がますます複雑な曲を学ぶように。
 
-### Level Tiers
+### レベル帯
 
-| Tier | Levels | Description |
+| Tier (段階) | Levels (レベル) | Description (説明) |
 |------|--------|-------------|
-| **Novice** | 1-5 | Beginners learning fundamentals |
-| **Adept** | 6-10 | Masters of basics developing specialization |
-| **Expert** | 11-15 | Specialists with highly honed abilities |
-| **Master** | 16-20 | Those who have achieved true mastery |
-| **Legendary** | 21+ | Individuals transcending normal limitations |
+| **Novice** (見習い) | 1-5 | 基礎を学ぶ初心者 |
+| **Adept** (熟練者) | 6-10 | 専門性を開発する基本の達人 |
+| **Expert** (専門家) | 11-15 | 高度に洗練された能力を持つスペシャリスト |
+| **Master** (達人) | 16-20 | 真の熟練を達成した者 |
+| **Legendary** (伝説級) | 21+ | 通常の限界を超越する個人 |
 
-## Multiclassing
+## マルチクラス
 
-Some individuals choose to pursue multiple classes, combining abilities from different paths to create unique combinations. This practice, known as multiclassing, allows for greater versatility but may limit the depth of specialization in any single class, like a musician who plays multiple instruments but may not master any single one.
+一部の個人は、複数のクラスを追求し、異なる道の能力を組み合わせてユニークな組み合わせを作成することを選択します。マルチクラスとして知られるこの実践は、より大きな多様性を可能にしますが、単一のクラスの専門性の深さを制限する可能性があります。まるで、複数の楽器を演奏する音楽家が、単一の楽器をマスターできない可能性があるように。
 
-## Class-Species Interactions
+## クラスと種族の相互作用
 
-Different species have natural affinities for certain classes based on their elemental composition:
+種族が異なると、その元素組成に基づいて、特定のクラスに対する自然な親和性があります。
 
-| Species | Natural Class Affinities |
+| Species (種族) | Natural Class Affinities (自然なクラスの親和性) |
 |---------|--------------------------|
-| **Humans** | Balanced affinity for all classes |
-| **Elves** | Strong affinity for Mage, Ranger, and Bard classes |
-| **Dark Elves** | Strong affinity for Mage, Rogue, and Warlock classes |
-| **Dwarves** | Strong affinity for Warrior, Artificer, and Cleric classes |
-| **Beastfolk** | Strong affinity for Ranger, Druid, and Warrior classes |
-| **Dragonkin** | Strong affinity for Warrior, Mage, and Warlock classes |
-| **Fae** | Strong affinity for Bard, Druid, and Mage classes |
-| **Golems** | Strong affinity for Artificer and Warrior classes |
-| **Sirens** | Strong affinity for Bard and Mage classes |
-| **Shadowfolk** | Strong affinity for Rogue, Warlock, and Mage classes |
-| **Giants** | Strong affinity for Warrior and Druid classes |
+| **Humans** (人間) | すべてのクラスに対してバランスの取れた親和性 |
+| **Elves** (エルフ) | 魔術師、レンジャー、吟遊詩人のクラスに対する強い親和性 |
+| **Dark Elves** (ダークエルフ) | 魔術師、盗賊、ウォーロックのクラスに対する強い親和性 |
+| **Dwarves** (ドワーフ) | 戦士、アーティフィサー、聖職者のクラスに対する強い親和性 |
+| **Beastfolk** (獣人) | レンジャー、ドルイド、戦士のクラスに対する強い親和性 |
+| **Dragonkin** (竜人) | 戦士、魔術師、ウォーロックのクラスに対する強い親和性 |
+| **Fae** (妖精) | 吟遊詩人、ドルイド、魔術師のクラスに対する強い親和性 |
+| **Golems** (ゴーレム) | アーティフィサーと戦士のクラスに対する強い親和性 |
+| **Sirens** (セイレーン) | 吟遊詩人と魔術師のクラスに対する強い親和性 |
+| **Shadowfolk** (影の民) | 盗賊、ウォーロック、魔術師のクラスに対する強い親和性 |
+| **Giants** (巨人) | 戦士とドルイドのクラスに対する強い親和性 |
 
 ---
 
-> Understanding the nature of classes provides insight into the diverse paths of power in the world of **OpenFantasy**, like listening to the different melodies that make up the grand symphony of existence.
+> クラスの性質を理解することは、**OpenFantasy (オープンファンタジー)**の世界における力の多様な道筋への洞察を提供します。まるで、存在の壮大な交響曲を構成するさまざまなメロディーを聴くように。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
