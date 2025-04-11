@@ -1,225 +1,229 @@
-# **Magic**: The Harmonic Art of Reality Manipulation
+# **Magic** (Magia): The Harmonic Art of Reality Manipulation (El Arte Armónico de la Manipulación de la Realidad)
 
-[**Magic**](/codex/Magics/Core/Magic.md) in the world of OpenFantasy is not merely a mystical force but a fundamental aspect of reality—as natural and essential as physics or mathematics. Just as music transforms vibrations into harmony through structured patterns, magic transforms mana into effects through disciplined manipulation of universal energies.
+[**Magic**](/codex/Magics/Core/Magic.md) (Magia) en el mundo de OpenFantasy no es simplemente una fuerza mística, sino un aspecto fundamental de la realidad, tan natural y esencial como la física o las matemáticas. Así como la música transforma las vibraciones en armonía a través de patrones estructurados, la magia transforma el mana en efectos mediante la manipulación disciplinada de las energías universales.
 
-## Fundamental Principles
+## Fundamental Principles (Principios Fundamentales)
 
-Magic in OpenFantasy operates on three fundamental principles that form the basis of all magical theory and practice:
+La magia en OpenFantasy opera sobre tres principios fundamentales que forman la base de toda teoría y práctica mágica:
 
-| Principle | Description | Musical Analogy |
+| Principle (Principio) | Description (Descripción) | Musical Analogy (Analogía Musical) |
 |---------|------------|----------|
-| **Purity** | The clarity and focus of magical energy | The cleanness of a musical note |
-| **Intensity** | The raw power and force of magical energy | The volume of a musical performance |
-| **Complexity** | The intricacy and sophistication of magical patterns | The complexity of a musical composition |
+| **Purity** (Pureza) | La claridad y el enfoque de la energía mágica | La limpieza de una nota musical |
+| **Intensity** (Intensidad) | El poder bruto y la fuerza de la energía mágica | El volumen de una interpretación musical |
+| **Complexity** (Complejidad) | La complejidad y sofisticación de los patrones mágicos | La complejidad de una composición musical |
 
-These principles interact with a practitioner's elemental composition to determine their magical capabilities and limitations.
+Estos principios interactúan con la composición elemental de un practicante para determinar sus capacidades y limitaciones mágicas.
 
-## Elemental Composition and Magic
+## Elemental Composition and Magic (Composición Elemental y Magia)
 
-A being's elemental composition directly influences their magical abilities:
+La composición elemental de un ser influye directamente en sus habilidades mágicas:
 
-- **Exanthis**: Provides the physical substrate that anchors magic in reality. Higher Exanthis grants greater resistance to magical effects but can limit magical output. Like the physical construction of an instrument that determines its durability.
+- **Exanthis**: Proporciona el sustrato físico que ancla la magia en la realidad. Un Exanthis más alto otorga mayor resistencia a los efectos mágicos, pero puede limitar la producción mágica. Como la construcción física de un instrumento que determina su durabilidad.
 
-- **Soul**: Shapes the character and creativity of magical expression. Higher Soul percentages allow for more intuitive and adaptable spellcasting. Like a musician's interpretation that brings unique character to a performance.
+- **Soul** (Alma): Da forma al carácter y la creatividad de la expresión mágica. Los porcentajes más altos de Soul (Alma) permiten un lanzamiento de hechizos más intuitivo y adaptable. Como la interpretación de un músico que aporta un carácter único a una actuación.
 
-- **Mana Capacity**: Determines the amount of magical energy a being can channel and store. Higher Mana Capacity allows for more powerful and sustained spellcasting. Like the lung capacity of a wind instrumentalist or the arm strength of a percussionist.
+- **Mana Capacity** (Capacidad de Maná): Determina la cantidad de energía mágica que un ser puede canalizar y almacenar. Una mayor Mana Capacity (Capacidad de Maná) permite un lanzamiento de hechizos más poderoso y sostenido. Como la capacidad pulmonar de un instrumentista de viento o la fuerza del brazo de un percusionista.
 
-## Key Magical Concepts
+## Key Magical Concepts (Conceptos Mágicos Clave)
 
 ### Mana
-The fundamental energy of magic, comparable to notes in music:
-- **Nature**: Universal life force present in all things
-- **Accessibility**: Can be drawn from the caster or environment
-- **Limitation**: Finite resource that must be replenished
-- **Manipulation**: Requires training to gather and control
+La energía fundamental de la magia, comparable a las notas en la música:
+- **Nature** (Naturaleza): Fuerza vital universal presente en todas las cosas
+- **Accessibility** (Accesibilidad): Se puede extraer del lanzador o del entorno
+- **Limitation** (Limitación): Recurso finito que debe ser repuesto
+- **Manipulation** (Manipulación): Requiere entrenamiento para recolectar y controlar
 
-*See [**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md) for detailed information*
+*Vea [**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md) (Mecánica del Maná) para obtener información detallada*
 
-### Mana Capacity
-The amount of magical energy a practitioner can hold and channel:
-- **Range**: Typically 5-85% of theoretical maximum
-- **Development**: Increases through practice and study
-- **Limitation**: Genetically influenced upper limit
-- **Expression**: Higher capacity enables larger and more complex spells
+### Mana Capacity (Capacidad de Maná)
+La cantidad de energía mágica que un practicante puede sostener y canalizar:
+- **Range** (Rango): Normalmente del 5 al 85% del máximo teórico
+- **Development** (Desarrollo): Aumenta a través de la práctica y el estudio
+- **Limitation** (Limitación): Límite superior influenciado genéticamente
+- **Expression** (Expresión): Una mayor capacidad permite hechizos más grandes y complejos
 
-*See [**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md) for detailed information*
+*Vea [**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md) (Regeneración del Maná) para obtener información detallada*
 
-### Wild Mana
-Raw, unpurified magical energy permeating the environment:
-- **Nature**: Chaotic, unpredictable energy
-- **Danger**: Can contaminate spells and cause instability
-- **Utility**: Source of ambient magical power
-- **Manifestation**: Can create spontaneous magical phenomena
+### Wild Mana (Maná Salvaje)
+Energía mágica bruta, no purificada, que impregna el entorno:
+- **Nature** (Naturaleza): Energía caótica e impredecible
+- **Danger** (Peligro): Puede contaminar los hechizos y causar inestabilidad
+- **Utility** (Utilidad): Fuente de poder mágico ambiental
+- **Manifestation** (Manifestación): Puede crear fenómenos mágicos espontáneos
 
-*See [**Wild Mana**](/codex/Magics/Core/WildMana.md) and [**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md) for detailed information*
+*Vea [**Wild Mana**](/codex/Magics/Core/WildMana.md) (Maná Salvaje) y [**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md) (Efectos del Maná Salvaje) para obtener información detallada*
 
-### Purification
-The process of refining raw mana for spellcasting:
-- **Purpose**: Removes chaotic elements for precise control
-- **Methods**: Mental discipline, tool assistance, alchemical aids
-- **Levels**: Crude to Perfect based on remaining Wild Mana content
-- **Significance**: Determines spell precision and reliability
+### Purification (Purificación)
+El proceso de refinado del maná bruto para el lanzamiento de hechizos:
+- **Purpose** (Propósito): Elimina los elementos caóticos para un control preciso
+- **Methods** (Métodos): Disciplina mental, asistencia de herramientas, ayudas alquímicas
+- **Levels** (Niveles): Crudo a Perfecto según el contenido restante de Wild Mana (Maná Salvaje)
+- **Significance** (Significado): Determina la precisión y confiabilidad del hechizo
 
-*See [**Mana Purity**](/codex/Magics/Core/ManaPurity.md) for detailed information*
+*Vea [**Mana Purity**](/codex/Magics/Core/ManaPurity.md) (Pureza del Maná) para obtener información detallada*
 
-### Spellcasting
-The practical application of magical theory:
-- **Process**: Five-stage sequence (Gathering, Purification, Patterning, Resonance, Release)
-- **Variation**: Different traditions employ unique methods
-- **Requirement**: Mental discipline, physical components, and/or tools
-- **Expression**: Ranges from simple cantrips to complex ritual magic
+### Spellcasting (Lanzamiento de Hechizos)
+La aplicación práctica de la teoría mágica:
+- **Process** (Proceso): Secuencia de cinco etapas (Recolección, Purificación, Patrones, Resonancia, Liberación)
+- **Variation** (Variación): Diferentes tradiciones emplean métodos únicos
+- **Requirement** (Requisito): Disciplina mental, componentes físicos y/o herramientas
+- **Expression** (Expresión): Abarca desde simples conjuros hasta complejas magias rituales
 
-*See [**Magic Casting**](/codex/Magics/Core/MagicCasting.md) for detailed information*
+*Vea [**Magic Casting**](/codex/Magics/Core/MagicCasting.md) (Lanzamiento de Magia) para obtener información detallada*
 
-### Elemental Magic
-Manipulation of fundamental forces and elements:
-- **Primary Elements**: Fire, Water, Earth, Air, Light, Shadow, Life, Death
-- **Structure**: Complementary and opposing pairings
-- **Application**: Most accessible and widely practiced form of magic
-- **Expression**: Direct manipulation or elemental byproducts
+### Elemental Magic (Magia Elemental)
+Manipulación de fuerzas y elementos fundamentales:
+- **Primary Elements** (Elementos Primarios): Fuego, Agua, Tierra, Aire, Luz, Sombra, Vida, Muerte
+- **Structure** (Estructura): Emparejamientos complementarios y opuestos
+- **Application** (Aplicación): La forma de magia más accesible y ampliamente practicada
+- **Expression** (Expresión): Manipulación directa o subproductos elementales
 
-*See [**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) for detailed information*
+*Vea [**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) (Magia Elemental) para obtener información detallada*
 
-### Magical Schools
-Specialized disciplines focusing on particular applications:
-- **Major Schools**: Evocation, Conjuration, Divination, Enchantment, Illusion, Abjuration
-- **Organization**: Systematic approaches to magical education and research
-- **Philosophy**: Unique perspectives on the nature and application of magic
-- **Methodology**: Specialized techniques for particular magical effects
+### Magical Schools (Escuelas Mágicas)
+Disciplinas especializadas que se centran en aplicaciones particulares:
+- **Major Schools** (Escuelas Mayores): Evocación, Conjuración, Adivinación, Encantamiento, Ilusión, Abjuración
+- **Organization** (Organización): Enfoques sistemáticos para la educación e investigación mágica
+- **Philosophy** (Filosofía): Perspectivas únicas sobre la naturaleza y aplicación de la magia
+- **Methodology** (Metodología): Técnicas especializadas para efectos mágicos particulares
 
-*See the [**Schools**](/codex/Magics/Schools/) directory for detailed information*
+*Vea el directorio [**Schools**](/codex/Magics/Schools/) (Escuelas) para obtener información detallada*
 
-## Intensity and Magic
+## Intensity and Magic (Intensidad y Magia)
 
-Magical intensity refers to the raw power and force of magical energy. Like the volume of a musical performance, intense magic commands attention and overwhelms opposition.
+La intensidad mágica se refiere al poder bruto y la fuerza de la energía mágica. Al igual que el volumen de una actuación musical, la magia intensa exige atención y abruma la oposición.
 
-### Intensity Factors
+### Intensity Factors (Factores de Intensidad)
 
-1. **Mana Volume**: The amount of magical energy a caster can channel at once. Higher Mana Capacity allows for greater intensity.
+1. **Mana Volume** (Volumen de Maná): La cantidad de energía mágica que un lanzador puede canalizar a la vez. Una mayor Mana Capacity (Capacidad de Maná) permite una mayor intensidad.
 
-2. **Exanthis Conductivity**: The physical body must be able to withstand the channeling of intense magic. Higher Exanthis provides resistance but can also limit conductivity.
+2. **Exanthis Conductivity** (Conductividad del Exanthis): El cuerpo físico debe ser capaz de soportar la canalización de magia intensa. Un Exanthis más alto proporciona resistencia, pero también puede limitar la conductividad.
 
-3. **Emotional State**: Strong emotions can temporarily increase magical intensity at the cost of control and purity.
+3. **Emotional State** (Estado Emocional): Las emociones fuertes pueden aumentar temporalmente la intensidad mágica a costa del control y la pureza.
 
-### Species and Intensity
+### Species and Intensity (Especies e Intensidad)
 
-Different species have natural affinities for magical intensity:
+Diferentes especies tienen afinidades naturales por la intensidad mágica:
 
-- **Dragonkin** (55-75% Exanthis, 20-35% Mana Capacity): Channel intense elemental magic with devastating effect but limited finesse.
+- **Dragonkin** (Engendros de Dragón) (55-75% Exanthis, 20-35% Mana Capacity (Capacidad de Maná)): Canalizan magia elemental intensa con un efecto devastador, pero con una delicadeza limitada.
 
-- **Dark Elves** (15-35% Exanthis, 45-75% Mana Capacity): Achieve high intensity in shadow and void magic through specialized training.
+- **Dark Elves** (Elfos Oscuros) (15-35% Exanthis, 45-75% Mana Capacity (Capacidad de Maná)): Alcanzan una alta intensidad en la magia de las sombras y el vacío a través de un entrenamiento especializado.
 
-- **Giants** (65-85% Exanthis, 5-20% Mana Capacity): Limited magical potential but what little magic they produce tends to be intense and primal.
+- **Giants** (Gigantes) (65-85% Exanthis, 5-20% Mana Capacity (Capacidad de Maná)): Potencial mágico limitado, pero la poca magia que producen tiende a ser intensa y primigenia.
 
-- **Humans** (20-55% Exanthis, 15-60% Mana Capacity): Capable of surprising bursts of intensity, especially when emotionally charged.
+- **Humans** (Humanos) (20-55% Exanthis, 15-60% Mana Capacity (Capacidad de Maná)): Capaces de sorprendentes ráfagas de intensidad, especialmente cuando están cargados emocionalmente.
 
-### Intensity Applications
+### Intensity Applications (Aplicaciones de la Intensidad)
 
-- **Combat Magic**: Higher intensity overwhelms magical defenses and produces more devastating effects.
+- **Combat Magic** (Magia de Combate): Una mayor intensidad abruma las defensas mágicas y produce efectos más devastadores.
 
-- **Elemental Manipulation**: Intensity determines the scale and force of elemental effects, from gentle breezes to devastating storms.
+- **Elemental Manipulation** (Manipulación Elemental): La intensidad determina la escala y la fuerza de los efectos elementales, desde brisas suaves hasta tormentas devastadoras.
 
-- **Warding**: Intensity determines the strength of magical barriers and their resistance to breaching attempts.
+- **Warding** (Protección): La intensidad determina la fuerza de las barreras mágicas y su resistencia a los intentos de brecha.
 
-## Complexity and Magic
+## Complexity and Magic (Complejidad y Magia)
 
-Magical complexity refers to the intricacy and sophistication of magical patterns. Like a complex musical composition, complex magic can achieve effects that simpler magic cannot.
+La complejidad mágica se refiere a la complejidad y sofisticación de los patrones mágicos. Al igual que una composición musical compleja, la magia compleja puede lograr efectos que la magia más simple no puede.
 
-### Complexity Factors
+### Complexity Factors (Factores de Complejidad)
 
-1. **Mental Capacity**: The caster's ability to conceptualize and maintain complex magical patterns.
+1. **Mental Capacity** (Capacidad Mental): La capacidad del lanzador para conceptualizar y mantener patrones mágicos complejos.
 
-2. **Soul Flexibility**: Higher Soul percentages allow for more adaptable and creative manipulation of magical energies.
+2. **Soul Flexibility** (Flexibilidad del Alma): Los porcentajes más altos de Soul (Alma) permiten una manipulación más adaptable y creativa de las energías mágicas.
 
-3. **Training and Knowledge**: Academic understanding of magical theory enables greater complexity.
+3. **Training and Knowledge** (Entrenamiento y Conocimiento): La comprensión académica de la teoría mágica permite una mayor complejidad.
 
-### Species and Complexity
+### Species and Complexity (Especies y Complejidad)
 
-Different species have natural affinities for magical complexity:
+Diferentes especies tienen afinidades naturales por la complejidad mágica:
 
-- **Gnomes** (30-50% Soul, 25-40% Mana Capacity): Excel at creating complex magical devices and combining magic with technology.
+- **Gnomes** (Gnomos) (30-50% Soul (Alma), 25-40% Mana Capacity (Capacidad de Maná)): Sobresalen en la creación de dispositivos mágicos complejos y la combinación de magia con tecnología.
 
-- **Shadowfolk** (30-50% Soul, 30-50% Mana Capacity): Master intricate shadow patterns and complex illusions.
+- **Shadowfolk** (Gente de las Sombras) (30-50% Soul (Alma), 30-50% Mana Capacity (Capacidad de Maná)): Dominan intrincados patrones de sombras e ilusiones complejas.
 
-- **Humans** (15-45% Soul, 15-60% Mana Capacity): Adapt quickly to new magical paradigms and innovations.
+- **Humans** (Humanos) (15-45% Soul (Alma), 15-60% Mana Capacity (Capacidad de Maná)): Se adaptan rápidamente a los nuevos paradigmas e innovaciones mágicas.
 
-- **Merfolk** (25-40% Soul, 20-40% Mana Capacity): Create complex harmonies in water magic that affect entire ecosystems.
+- **Merfolk** (Gente del Mar) (25-40% Soul (Alma), 20-40% Mana Capacity (Capacidad de Maná)): Crean complejas armonías en la magia del agua que afectan a ecosistemas enteros.
 
-### Complexity Applications
+### Complexity Applications (Aplicaciones de la Complejidad)
 
-- **Ritual Magic**: Complex rituals can achieve effects impossible through direct spellcasting.
+- **Ritual Magic** (Magia Ritual): Los rituales complejos pueden lograr efectos imposibles mediante el lanzamiento directo de hechizos.
 
-- **Transformation Magic**: Altering physical forms requires intricate understanding of both target and desired form.
+- **Transformation Magic** (Magia de Transformación): Alterar las formas físicas requiere una comprensión intrincada tanto del objetivo como de la forma deseada.
 
-- **Teleportation**: Spatial manipulation demands exceptional complexity to ensure accurate and safe transit.
+- **Teleportation** (Teletransportación): La manipulación espacial exige una complejidad excepcional para garantizar un tránsito preciso y seguro.
 
-## The Mana Spectrum
+## The Mana Spectrum (El Espectro del Maná)
 
-When Wild Mana is purified and refined, it becomes **Base Mana** - the stable form of magical energy from which all magical effects derive. When this base mana is aligned and attuned to specific elemental resonances, it transforms into specialized elemental forms:
+Cuando el Wild Mana (Maná Salvaje) se purifica y refina, se convierte en **Base Mana** (Maná Base): la forma estable de energía mágica de la que se derivan todos los efectos mágicos. Cuando este maná base se alinea y sintoniza con resonancias elementales específicas, se transforma en formas elementales especializadas:
 
-| Mana Type | Properties | Natural Affinity | Musical Analogy |
+| Mana Type (Tipo de Maná) | Properties (Propiedades) | Natural Affinity (Afinidad Natural) | Musical Analogy (Analogía Musical) |
 |---------|------------|---------|----------|
-| **Wild Mana** | Chaotic, primordial, untamed | Creatures of chaos, natural world | Unstructured sound |
-| **Base Mana** | Neutral, adaptable, receptive | Humans, balanced beings | Unpitched percussion |
-| **Pyromana** | Intense, passionate, destructive | Dragonkin, Giants | Trumpet, high brass |
-| **Hydromana** | Flowing, healing, transformative | Merfolk, Sirens | Cello, flowing strings |
-| **Terramana** | Stable, enduring, protective | Dwarves, Centaurs | Bass, foundation notes |
-| **Aeromana** | Swift, changeable, far-reaching | Elves, Birdfolk | Flute, woodwinds |
-| **Luxmana** | Revealing, purifying, energizing | Fae, High Elves | Major key melodies |
-| **Umbramana** | Subtle, deceptive, penetrating | Shadowfolk, Dark Elves | Minor key melodies |
-| **Vitaemana** | Life-giving, growing, renewing | Beastfolk, Humans | Folk harmonies |
-| **Mortismana** | Decaying, transforming, conserving | Dark Elves, Shadowfolk | Dissonant harmonies |
+| **Wild Mana** (Maná Salvaje) | Caótico, primordial, indomable | Criaturas del caos, mundo natural | Sonido no estructurado |
+| **Base Mana** (Maná Base) | Neutral, adaptable, receptivo | Humanos, seres equilibrados | Percusión no afinada |
+| **Pyromana** (Piromaná) | Intenso, apasionado, destructivo | Dragonkin (Engendros de Dragón), Giants (Gigantes) | Trompeta, metales altos |
+| **Hydromana** (Hidromaná) | Fluido, curativo, transformador | Merfolk (Gente del Mar), Sirens (Sirenas) | Violonchelo, cuerdas fluidas |
+| **Terramana** (Terramaná) | Estable, perdurable, protector | Dwarves (Enanos), Centaurs (Centauros) | Bajo, notas fundamentales |
+| **Aeromana** (Aeromaná) | Rápido, cambiante, de largo alcance | Elves (Elfos), Birdfolk (Gente Pájaro) | Flauta, instrumentos de viento madera |
+| **Luxmana** (Luxmaná) | Revelador, purificador, energizante | Fae (Hadas), High Elves (Altos Elfos) | Melodías en clave mayor |
+| **Umbramana** (Umbramaná) | Sutil, engañoso, penetrante | Shadowfolk (Gente de las Sombras), Dark Elves (Elfos Oscuros) | Melodías en clave menor |
+| **Vitaemana** (Vitaemaná) | Dador de vida, creciente, renovador | Beastfolk (Gente Bestia), Humans (Humanos) | Armonías populares |
+| **Mortismana** (Mortismana) | En descomposición, transformando, conservando | Dark Elves (Elfos Oscuros), Shadowfolk (Gente de las Sombras) | Armonías disonantes |
 
-For detailed information on elemental mana types, see [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md).
+Para obtener información detallada sobre los tipos de maná elemental, consulte [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md).
 
-## Magical Resonance and Dissonance
+## Magical Resonance and Dissonance (Resonancia y Disonancia Mágica)
 
-When multiple casters work together, their magic can either resonate (amplify) or create dissonance (interfere):
+Cuando varios lanzadores trabajan juntos, su magia puede resonar (amplificar) o crear disonancia (interferir):
 
-### Harmonic Casting
+### Harmonic Casting (Lanzamiento Armónico)
 
-When casters with compatible elemental compositions work together, they can achieve magical resonance:
-- Combined magical power exceeds the sum of individual contributions
-- Enhanced purity, intensity, or complexity depending on the casters' strengths
-- Extended duration and range of magical effects
+Cuando los lanzadores con composiciones elementales compatibles trabajan juntos, pueden lograr una resonancia mágica:
+- El poder mágico combinado excede la suma de las contribuciones individuales
+- Pureza, intensidad o complejidad mejoradas dependiendo de las fortalezas de los lanzadores
+- Duración y alcance extendidos de los efectos mágicos
 
-### Dissonant Casting
+### Dissonant Casting (Lanzamiento Disonante)
 
-When casters with incompatible compositions attempt to combine magic:
-- Unpredictable effects and magical instability
-- Increased mana consumption with diminished results
-- Potential for magical feedback causing harm to casters
+Cuando los lanzadores con composiciones incompatibles intentan combinar magia:
+- Efectos impredecibles e inestabilidad mágica
+- Mayor consumo de maná con resultados disminuidos
+- Potencial de retroalimentación mágica que causa daño a los lanzadores
 
-## Regeneration of Magical Energy
+## Regeneration of Magical Energy (Regeneración de la Energía Mágica)
 
-After spellcasting depletes a practitioner's mana reserves, they must recover through rest and regeneration. The rate of regeneration depends on their Mana Capacity, training, and various environmental factors. For detailed information on regeneration techniques and methods, see [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md).
+Después de que el lanzamiento de hechizos agota las reservas de maná de un practicante, debe recuperarse mediante el descanso y la regeneración. La tasa de regeneración depende de su Mana Capacity (Capacidad de Maná), entrenamiento y varios factores ambientales. Para obtener información detallada sobre las técnicas y métodos de regeneración, consulte [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md).
 
-## The Price of Magic
+## The Price of Magic (El Precio de la Magia)
 
-All magic exacts a price from its practitioners:
+Toda magia exige un precio a sus practicantes:
 
-1. **Mana Depletion**: Casting depletes Mana Capacity, requiring rest to replenish. Severe depletion can cause exhaustion, unconsciousness, or even death.
+1. **Mana Depletion** (Agotamiento de Maná): El lanzamiento agota la Mana Capacity (Capacidad de Maná), requiriendo descanso para reponerla. El agotamiento severo puede causar agotamiento, inconsciencia o incluso la muerte.
 
-2. **Physical Strain**: The body's Exanthis content limits how much magic can be channeled safely. Exceeding these limits causes physical damage.
+2. **Physical Strain** (Tensión Física): El contenido de Exanthis del cuerpo limita la cantidad de magia que se puede canalizar de forma segura. Exceder estos límites causa daño físico.
 
-3. **Mental Fatigue**: Complex or prolonged spellcasting taxes the mind, causing difficulty maintaining concentration and eventually mental exhaustion.
+3. **Mental Fatigue** (Fatiga Mental): El lanzamiento de hechizos complejo o prolongado grava la mente, causando dificultad para mantener la concentración y, finalmente, agotamiento mental.
 
-4. **Soul Wear**: Frequent use of powerful magic gradually accelerates soul decay, potentially shortening lifespan.
+4. **Soul Wear** (Desgaste del Alma): El uso frecuente de magia poderosa acelera gradualmente la descomposición del alma, lo que puede acortar la vida útil.
 
-5. **Wild Mana Contamination**: Insufficient purification can lead to Wild Mana contamination, causing unpredictable magical effects and potentially harming the caster over time.
+5. **Wild Mana Contamination** (Contaminación por Maná Salvaje): La purificación insuficiente puede conducir a la contaminación por Wild Mana (Maná Salvaje), causando efectos mágicos impredecibles y potencialmente dañando al lanzador con el tiempo.
 
-## Forbidden Magics
+## Forbidden Magics (Magias Prohibidas)
 
-Some magical practices are considered forbidden due to their dangerous nature:
+Algunas prácticas mágicas se consideran prohibidas debido a su naturaleza peligrosa:
 
-1. **Soul Manipulation**: Directly altering or extracting Soul essence causes permanent damage to both subject and practitioner.
+1. **Soul Manipulation** (Manipulación del Alma): Alterar o extraer directamente la esencia del Alma causa daños permanentes tanto al sujeto como al practicante.
 
-2. **Exanthis Conversion**: Transforming Exanthis into pure magical energy yields immense power but causes irreversible physical degradation.
+2. **Exanthis Conversion** (Conversión del Exanthis): Transformar el Exanthis en energía mágica pura produce un inmenso poder, pero causa una degradación física irreversible.
 
-3. **Void Channeling**: Drawing power from the spaces between reality creates unpredictable rifts and attracts dangerous entities.
+3. **Void Channeling** (Canalización del Vacío): Extraer poder de los espacios entre la realidad crea fisuras impredecibles y atrae entidades peligrosas.
 
-4. **Temporal Distortion**: Manipulating the flow of time creates paradoxes and weakens the fabric of reality.
+4. **Temporal Distortion** (Distorsión Temporal): Manipular el flujo del tiempo crea paradojas y debilita el tejido de la realidad.
 
-5. **Wild Mana Amplification**: Deliberately increasing Wild Mana content in spells to boost power at the cost of control. Can lead to catastrophic magical surges and permanent corruption.
+5. **Wild Mana Amplification** (Amplificación de Maná Salvaje): Aumentar deliberadamente el contenido de Wild Mana (Maná Salvaje) en los hechizos para aumentar el poder a costa del control. Puede conducir a catastróficas oleadas mágicas y corrupción permanente.
 
-Understanding the nature of **Magic** provides insight into the foundational forces of the world of **OpenFantasy**, like listening to the grand symphony that underlies all of creation, where each being contributes their unique part to the endless melody.
+Comprender la naturaleza de la **Magic** (Magia) proporciona una visión de las fuerzas fundamentales del mundo de OpenFantasy, como escuchar la gran sinfonía que subyace a toda la creación, donde cada ser contribuye con su parte única a la melodía interminable.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

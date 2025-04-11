@@ -1,42 +1,44 @@
-# **Sorcerer**: Masters of Innate Magic
+# **Sorcerer** (Hechicero/a): Maestros de la Magia Innata
 
-[**Sorcerers**](/codex/Classes/Sorcerer/Sorcerer.md) are individuals born with inherent magical abilities. Unlike wizards who study arcane formulas or warlocks who form pacts, sorcerers possess magic that manifests naturally from within, often connected to their bloodline or a significant mystical event.
+Los [**Sorcerers** (Hechiceros/as)](/codex/Classes/Sorcerer/Sorcerer.md) son individuos que nacen con habilidades mágicas inherentes. A diferencia de los wizards (magos) que estudian fórmulas arcanas o los warlocks (brujos) que forman pactos, los sorcerers (hechiceros/as) poseen magia que se manifiesta naturalmente desde dentro, a menudo conectada a su línea de sangre o a un evento místico significativo.
 
-## Elemental Composition
+## Elemental Composition (Composición Elemental)
 
-The typical elemental ratio for **sorcerers** represents their innate magical nature:
+La proporción elemental típica para los **sorcerers** (hechiceros/as) representa su naturaleza mágica innata:
 
-| Element | Range | Function |
+| Element (Elemento) | Range (Rango) | Function (Función) |
 |---------|------------|----------|
-| **Exanthis** | 25-40% | Physical vessel naturally attuned to channeling innate magic |
-| **Soul** | 15-30% | Source of inherent magical potential, often linked to ancestry |
-| **Mana Capacity** | 40-60% | Naturally occurring personal mana reserves that expand with experience |
+| **Exanthis** | 25-40% | Recipiente físico naturalmente sintonizado para canalizar la magia innata |
+| **Soul** (Alma) | 15-30% | Fuente de potencial mágico inherente, a menudo vinculado a la ascendencia |
+| **Mana Capacity** (Capacidad de Maná) | 40-60% | Reservas de maná personales que ocurren naturalmente y se expanden con la experiencia |
 
-This composition distinguishes **sorcerers** from other spellcasters. Their magic emerges instinctively rather than being learned or granted, with mana pathways that form naturally within their physical and spiritual being. The sorcerer's Exanthis component exhibits adaptations from birth that allow for safer channeling of their innate power.
+Esta composition (composición) distingue a los **sorcerers** (hechiceros/as) de otros spellcasters (lanzadores de conjuros). Su magia surge instintivamente en lugar de ser aprendida o concedida, con vías de maná que se forman naturalmente dentro de su ser físico y espiritual. El Exanthis component (componente Exanthis) del sorcerer (hechicero/a) exhibe adaptaciones desde el nacimiento que permiten una canalización más segura de su poder innato.
 
-### Magical Affinity Profile
+### Magical Affinity Profile (Perfil de Afinidad Mágica)
 
-Sorcerers develop specific affinities based on their magical origin:
+Los sorcerers (hechiceros/as) desarrollan afinidades específicas basadas en su origen mágico:
 
-| Origin Type | Primary Affinities | Secondary Affinities | Typical Application |
+| Origin Type (Tipo de Origen) | Primary Affinities (Afinidades Primarias) | Secondary Affinities (Afinidades Secundarias) | Typical Application (Aplicación Típica) |
 |--------------|-------------------|---------------------|---------------------|
-| **Draconic Bloodline** | Element matching ancestry | Base Mana (Protection) | Elemental damage, draconic resilience, intimidation |
-| **Wild Magic** | Chaos Mana | Multiple Elements | Unpredictable effects, reality manipulation, spontaneous casting |
-| **Divine Soul** | Luxmana | Base Mana (Healing) | Divine magic, healing, spiritual communion |
-| **Shadow Magic** | Umbramana | Base Mana (Illusion) | Darkness manipulation, shadow conjuration, stealth |
-| **Storm Sorcery** | Aeromana/Aquamana | Electromana | Weather control, lightning manipulation, flying |
-| **Aberrant Mind** | Mentimana | Base Mana (Psychic) | Telepathy, mind control, psychic damage |
+| **Draconic Bloodline** (Linaje Dracónico) | Element matching ancestry (Elemento que coincide con la ascendencia) | Base Mana (Protection) (Maná Base (Protección)) | Daño elemental, resistencia dracónica, intimidación |
+| **Wild Magic** (Magia Salvaje) | Chaos Mana (Maná del Caos) | Multiple Elements (Múltiples Elementos) | Efectos impredecibles, manipulación de la realidad, lanzamiento espontáneo |
+| **Divine Soul** (Alma Divina) | Luxmana | Base Mana (Healing) (Maná Base (Curación)) | Magia divina, curación, comunión espiritual |
+| **Shadow Magic** (Magia de las Sombras) | Umbramana | Base Mana (Illusion) (Maná Base (Ilusión)) | Manipulación de la oscuridad, conjuración de sombras, sigilo |
+| **Storm Sorcery** (Hechicería de la Tormenta) | Aeromana/Aquamana | Electromana | Control del clima, manipulación de rayos, vuelo |
+| **Aberrant Mind** (Mente Aberrante) | Mentimana | Base Mana (Psychic) (Maná Base (Psíquico)) | Telepatía, control mental, daño psíquico |
 
-Sorcerers typically achieve 55-75% natural resonance with their primary affinity elements without formal training. Their innate connection allows for relatively high mana purity (30-50%) even without structured purification techniques, though this varies significantly between individuals based on natural talent and origin.
+Los sorcerers (hechiceros/as) típicamente alcanzan un 55-75% de resonancia natural con sus primary affinity elements (elementos de afinidad primaria) sin entrenamiento formal. Su conexión innata permite una mana purity (pureza de maná) relativamente alta (30-50%) incluso sin structured purification techniques (técnicas de purificación estructuradas), aunque esto varía significativamente entre individuos según el talento natural y el origen.
 
-### Species-Specific Variations
+### Species-Specific Variations (Variaciones Específicas de la Especie)
 
-Different species show varying natural inclinations toward the sorcerer class:
+Different species (Diferentes especies) muestran varying natural inclinations (inclinaciones naturales variables) hacia la clase sorcerer (hechicero/a):
 
-- **Humans** (25-40% Exanthis, 15-30% Soul, 40-60% Mana Capacity): Their adaptable nature allows for diverse sorcerous origins, though typically requiring a magical trigger or ancestral connection.
-- **Dragonborn** (30-45% Exanthis, 15-25% Soul, 40-55% Mana Capacity): Their draconic heritage creates natural affinity for elemental magic matching their ancestry.
-- **Gnomes** (20-35% Exanthis, 20-35% Soul, 40-60% Mana Capacity): Their innate connection to illusion magic often manifests as natural sorcerous ability.
-- **Half-Elves** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): Their mixed heritage can create unusual magical resonances and spontaneous sorcerous potential.
-- **Tieflings** (25-40% Exanthis, 15-30% Soul, 45-65% Mana Capacity): Their infernal heritage often manifests as natural sorcerous ability, particularly with fire and darkness affinities.
+- **Humans** (Humanos) (25-40% Exanthis, 15-30% Soul (Alma), 40-60% Mana Capacity (Capacidad de Maná)): Their adaptable nature (Su naturaleza adaptable) permite diverse sorcerous origins (diversos orígenes de hechicería), aunque típicamente requiring a magical trigger or ancestral connection (requieren un desencadenante mágico o una conexión ancestral).
+- **Dragonborn** (Nacidos de Dragón) (30-45% Exanthis, 15-25% Soul (Alma), 40-55% Mana Capacity (Capacidad de Maná)): Their draconic heritage (Su herencia dracónica) creates natural affinity (crea afinidad natural) para elemental magic matching their ancestry (magia elemental que coincide con su ascendencia).
+- **Gnomes** (Gnomos) (20-35% Exanthis, 20-35% Soul (Alma), 40-60% Mana Capacity (Capacidad de Maná)): Their innate connection (Su conexión innata) to illusion magic (a la magia de la ilusión) often manifests (a menudo se manifiesta) as natural sorcerous ability (como habilidad natural de hechicería).
+- **Half-Elves** (Semielfos) (25-35% Exanthis, 20-35% Soul (Alma), 40-55% Mana Capacity (Capacidad de Maná)): Their mixed heritage (Su herencia mixta) can create unusual magical resonances (puede crear resonancias mágicas inusuales) and spontaneous sorcerous potential (y potencial de hechicería espontáneo).
+- **Tieflings** (Tieflings) (25-40% Exanthis, 15-30% Soul (Alma), 45-65% Mana Capacity (Capacidad de Maná)): Their infernal heritage (Su herencia infernal) often manifests (a menudo se manifiesta) as natural sorcerous ability (como habilidad natural de hechicería), particularly with fire and darkness affinities (particularmente con afinidades de fuego y oscuridad).
 
-// ... rest of the file remains unchanged ... 
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

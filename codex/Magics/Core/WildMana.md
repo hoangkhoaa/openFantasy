@@ -1,152 +1,156 @@
-# **Wild Mana**: The Primordial Energy
+# **Wild Mana**: La Energía Primordial
 
-## Overview
+## Resumen
 
-Wild Mana is the primordial, untamed form of magical energy that permeates the natural environment of OpenFantasy. Unlike the refined mana types used in spellcasting, Wild Mana exists in its raw, unprocessed state—chaotic, unpredictable, and fundamentally connected to the world's life force.
+Wild Mana es la forma primordial y salvaje de energía mágica que impregna el entorno natural de OpenFantasy. A diferencia de los tipos de mana refinados utilizados en el lanzamiento de hechizos, Wild Mana existe en su estado bruto y sin procesar: caótico, impredecible y fundamentalmente conectado a la fuerza vital del mundo.
 
-## Properties of Wild Mana
+## Propiedades de Wild Mana
 
-### Physical Characteristics
-- **Appearance**: Shimmering, erratic energy with constantly shifting colors
-- **Behavior**: Flows along natural currents, concentrates around living things and magical locations
-- **Sensation**: Produces tingling, vibrant sensations when encountered in high concentrations
+### Características Físicas
+- **Appearance** (Apariencia): Energía brillante y errática con colores que cambian constantemente
+- **Behavior** (Comportamiento): Fluye a lo largo de las corrientes naturales, se concentra alrededor de los seres vivos y lugares mágicos
+- **Sensation** (Sensación): Produce sensaciones vibrantes y de hormigueo cuando se encuentra en altas concentraciones
 
-### Magical Attributes
-- **Versatility**: Contains the potential for all specialized mana types
-- **Instability**: Difficult to control directly due to chaotic nature
-- **Resonance**: Naturally responds to and amplifies emotional states
+### Atributos Mágicos
+- **Versatility** (Versatilidad): Contiene el potencial para todos los tipos de mana especializados
+- **Instability** (Inestabilidad): Difícil de controlar directamente debido a su naturaleza caótica
+- **Resonance** (Resonancia): Responde naturalmente y amplifica los estados emocionales
 
-## The Mana Conversion Process
+## El Proceso de Conversión de Mana
 
-### Environmental Presence
-Wild Mana forms the foundation of the magical ecosystem, functioning similarly to how air, water, and nutrients sustain physical life:
+### Presencia Ambiental
+Wild Mana forma la base del ecosistema mágico, funcionando de manera similar a cómo el aire, el agua y los nutrientes sustentan la vida física:
 
-1. **Generation**: Continuously produced by the world itself, particularly at ley line nodes
-2. **Flow**: Moves through natural channels (ley lines) and disperses through the atmosphere
-3. **Concentration**: Gathers around living beings, magical creatures, and places of power
-4. **Presence**: Exists in varying concentrations throughout the environment
+1. **Generation** (Generación): Producido continuamente por el mundo mismo, particularmente en los nodos de líneas ley
+2. **Flow** (Flujo): Se mueve a través de canales naturales (ley lines) y se dispersa a través de la atmósfera
+3. **Concentration** (Concentración): Se reúne alrededor de seres vivos, criaturas mágicas y lugares de poder
+4. **Presence** (Presencia): Existe en diferentes concentraciones en todo el entorno
 
-### Fundamental Two-Phase Conversion
+### Conversión Fundamental de Dos Fases
 
-The transformation of magical energy follows a strictly defined two-phase process that is essential to understanding all magical practice:
+La transformación de la energía mágica sigue un proceso de dos fases estrictamente definido que es esencial para comprender toda la práctica mágica:
 
-#### Phase 1: Wild Mana to Base Mana Conversion
-This is primarily a biological process that occurs in all magical beings:
+#### Fase 1: Conversión de Wild Mana a Base Mana
+Este es principalmente un proceso biológico que ocurre en todos los seres mágicos:
 
-1. **Absorption**: Beings draw in Wild Mana from their surroundings
-2. **Filtration**: Internal biological processes separate usable energy from chaotic elements
-3. **Stabilization**: Chaotic patterns are ordered into coherent Base Mana energy
-4. **Storage**: The energy is stored within the being's internal reserves as Base Mana
+1. **Absorption** (Absorción): Los seres atraen Wild Mana de su entorno
+2. **Filtration** (Filtración): Los procesos biológicos internos separan la energía utilizable de los elementos caóticos
+3. **Stabilization** (Estabilización): Los patrones caóticos se ordenan en energía coherente de Base Mana
+4. **Storage** (Almacenamiento): La energía se almacena dentro de las reservas internas del ser como Base Mana
 
-> **CRITICAL**: Effectiveness is calculated at this phase, measuring how efficiently a being converts Wild Mana to Base Mana. This determines the quantity of magical energy available to a caster.
+> **CRITICAL** (CRÍTICO): La efectividad se calcula en esta fase, midiendo la eficiencia con la que un ser convierte Wild Mana a Base Mana. Esto determina la cantidad de energía mágica disponible para un lanzador.
 
-#### Phase 2: Base Mana to Elemental Mana Conversion
-This is a conscious process that occurs during spellcasting:
+#### Fase 2: Conversión de Base Mana a Elemental Mana
+Este es un proceso consciente que ocurre durante el lanzamiento de hechizos:
 
-1. **Drawing**: Base Mana is pulled from internal reserves into active consciousness
-2. **Specialization**: Base Mana is attuned to specific elemental resonances
-3. **Transformation**: The energy shifts into specialized forms (Elemental Mana)
-4. **Result**: The final mixture contains both specialized Elemental Mana and residual Wild Mana
+1. **Drawing** (Extracción): Base Mana se extrae de las reservas internas hacia la conciencia activa
+2. **Specialization** (Especialización): Base Mana se sintoniza con resonancias elementales específicas
+3. **Transformation** (Transformación): La energía se transforma en formas especializadas (Elemental Mana)
+4. **Result** (Resultado): La mezcla final contiene tanto Elemental Mana especializado como Wild Mana residual
 
-> **CRITICAL**: Purity is calculated at this phase, measuring the ratio of refined Elemental Mana to residual Wild Mana. This determines the quality and control of the resulting magical effect.
+> **CRITICAL** (CRÍTICO): La pureza se calcula en esta fase, midiendo la proporción de Elemental Mana refinado a Wild Mana residual. Esto determina la calidad y el control del efecto mágico resultante.
 
-### Base Mana: The Internal Energy Form
+### Base Mana: La Forma de Energía Interna
 
-**All mana stored within living creatures exists as Base Mana**, not Wild Mana or Elemental Mana. This is a crucial distinction that explains several fundamental aspects of magic:
+**Todo el mana almacenado dentro de las criaturas vivientes existe como Base Mana**, no Wild Mana o Elemental Mana. Esta es una distinción crucial que explica varios aspectos fundamentales de la magia:
 
-- Base Mana is stable, neutralized, and can be safely contained within biological systems
-- Direct storage of Wild Mana within a being would cause severe magical trauma
-- Long-term storage of Elemental Mana within a being would cause elemental imbalances
-- All spellcasting begins by drawing from this internal Base Mana reservoir
+- Base Mana es estable, neutralizado y puede ser contenido de forma segura dentro de los sistemas biológicos
+- El almacenamiento directo de Wild Mana dentro de un ser causaría un trauma mágico severo
+- El almacenamiento a largo plazo de Elemental Mana dentro de un ser causaría desequilibrios elementales
+- Todo lanzamiento de hechizos comienza extrayendo de este reservorio interno de Base Mana
 
-This Base Mana serves as both:
-- The magical "battery" that determines a being's overall magical capacity
-- The foundation material that will be refined into specialized forms during spellcasting
+Este Base Mana sirve como:
+- La "batería" mágica que determina la capacidad mágica general de un ser
+- El material base que se refinará en formas especializadas durante el lanzamiento de hechizos
 
-## Conversion Effectiveness and Purity
+## Efectividad y Pureza de la Conversión
 
-### Phase 1: Effectiveness (Wild → Base)
-The effectiveness of Phase 1 conversion determines:
+### Fase 1: Effectiveness (Efectividad) (Wild → Base)
+La efectividad de la conversión de la Fase 1 determina:
 
-- How much of the absorbed Wild Mana becomes usable Base Mana
-- How quickly a being can replenish their internal mana reserves
-- The efficiency of mana extraction from the environment
+- Cuánto del Wild Mana absorbido se convierte en Base Mana utilizable
+- Qué tan rápido un ser puede reponer sus reservas internas de mana
+- La eficiencia de la extracción de mana del entorno
 
-Factors affecting effectiveness include:
-- Species and inherent biological processes
-- Training and practiced techniques
-- Current health and energy levels
-- Environmental Wild Mana concentration
+Los factores que afectan la efectividad incluyen:
+- Especies y procesos biológicos inherentes
+- Entrenamiento y técnicas practicadas
+- Salud actual y niveles de energía
+- Concentración ambiental de Wild Mana
 
-### Phase 2: Purity (Base → Elemental)
-The purity achieved during Phase 2 conversion determines:
+### Fase 2: Purity (Pureza) (Base → Elemental)
+La pureza lograda durante la conversión de la Fase 2 determina:
 
-- How much precision and control a spell exhibits
-- The stability and predictability of magical effects
-- The efficiency of mana usage during spellcasting
+- Cuánta precisión y control exhibe un hechizo
+- La estabilidad y previsibilidad de los efectos mágicos
+- La eficiencia del uso de mana durante el lanzamiento de hechizos
 
-Factors affecting purity include:
-- Training and magical education
-- Concentration and mental clarity
-- Compatible elemental affinities
-- Quality of focusing tools or components
+Los factores que afectan la pureza incluyen:
+- Entrenamiento y educación mágica
+- Concentración y claridad mental
+- Afinidades elementales compatibles
+- Calidad de las herramientas o componentes de enfoque
 
-### Mathematical Expressions
+### Expresiones Matemáticas
 
-**Phase 1 (Effectiveness):**
+**Fase 1 (Effectiveness (Efectividad)):**
 ```
-Effectiveness Percentage = (Base Mana Produced) / (Wild Mana Consumed) × 100%
-```
-
-**Phase 2 (Purity):**
-```
-Purity Percentage = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+Porcentaje de Efectividad = (Base Mana Producido) / (Wild Mana Consumido) × 100%
 ```
 
-### Visualization of Purification Levels
+**Fase 2 (Purity (Pureza)):**
+```
+Porcentaje de Pureza = (Elemental Mana Refinado) / (Elemental Mana Refinado + Wild Mana Residual) × 100%
+```
 
-| Purity Level | Wild Mana Content | Description | Typical Application |
+### Visualización de los Niveles de Purificación
+
+| Purity Level (Nivel de Pureza) | Wild Mana Content (Contenido de Wild Mana) | Description (Descripción) | Typical Application (Aplicación Típica) |
 |--------------|-------------------|-------------|---------------------|
-| 0-10% | 90-100% | Almost entirely Wild Mana | Unusable for most controlled magic |
-| 10-35% | 65-90% | Basic refinement | Suitable for simple, forgiving spells |
-| 35-65% | 35-65% | Standard refinement | Everyday professional magic use |
-| 65-85% | 15-35% | Advanced refinement | Complex or precision spellcasting |
-| 85-100% | 0-15% | Master-level refinement | Highest tier magical works |
+| 0-10% | 90-100% | Casi en su totalidad Wild Mana | Inutilizable para la mayoría de la magia controlada |
+| 10-35% | 65-90% | Refinamiento básico | Adecuado para hechizos simples y permisivos |
+| 35-65% | 35-65% | Refinamiento estándar | Uso mágico profesional cotidiano |
+| 65-85% | 15-35% | Refinamiento avanzado | Lanzamiento de hechizos complejos o de precisión |
+| 85-100% | 0-15% | Refinamiento de nivel maestro | Obras mágicas de nivel superior |
 
-## Different Approaches to Wild Mana
+## Diferentes Enfoques para Wild Mana
 
-Various magical traditions have developed different relationships with Wild Mana:
+Varias tradiciones mágicas han desarrollado diferentes relaciones con Wild Mana:
 
-### Academic Traditions
-- **Philosophy**: Wild Mana is an impurity to be eliminated
-- **Practice**: Focus on maximizing purity during Phase 2
-- **Strength**: Precise, predictable magical effects
-- **Weakness**: May be less adaptable to changing conditions
+### Academic Traditions (Tradiciones Académicas)
+- **Philosophy** (Filosofía): Wild Mana es una impureza que debe eliminarse
+- **Practice** (Práctica): Se centra en maximizar la pureza durante la Fase 2
+- **Strength** (Fortaleza): Efectos mágicos precisos y predecibles
+- **Weakness** (Debilidad): Puede ser menos adaptable a las condiciones cambiantes
 
-### Natural Traditions
-- **Philosophy**: Wild Mana is a vital connection to natural forces
-- **Practice**: Intentionally maintain some Wild Mana content in spells
-- **Strength**: More dynamic and adaptable magic
-- **Weakness**: Less precise control over effects
+### Natural Traditions (Tradiciones Naturales)
+- **Philosophy** (Filosofía): Wild Mana es una conexión vital con las fuerzas naturales
+- **Practice** (Práctica): Mantener intencionalmente cierto contenido de Wild Mana en los hechizos
+- **Strength** (Fortaleza): Magia más dinámica y adaptable
+- **Weakness** (Debilidad): Menos control preciso sobre los efectos
 
-### Innate Casters
-- **Philosophy**: Magic is an inherent gift rather than learned technique
-- **Practice**: Often have unique biological Phase 1 processes
-- **Strength**: May achieve unusual effectiveness or specialized effects
-- **Weakness**: Often less consistent than trained practitioners
+### Innate Casters (Lanzadores Innatos)
+- **Philosophy** (Filosofía): La magia es un don inherente más que una técnica aprendida
+- **Practice** (Práctica): A menudo tienen procesos biológicos únicos de la Fase 1
+- **Strength** (Fortaleza): Puede lograr una efectividad inusual o efectos especializados
+- **Weakness** (Debilidad): A menudo menos consistentes que los practicantes entrenados
 
-## Wild Mana Training Techniques
+## Técnicas de Entrenamiento de Wild Mana
 
-### Phase 1 (Effectiveness) Training
-1. **Absorption Meditation**: Improving the intake of Wild Mana
-2. **Channel Clearing**: Removing blockages in internal mana pathways
-3. **Conversion Rituals**: Practicing efficient transformation techniques
-4. **Reserve Expansion**: Gradually increasing Base Mana storage capacity
+### Fase 1 (Effectiveness (Efectividad)) Entrenamiento
+1. **Absorption Meditation** (Meditación de Absorción): Mejorar la ingesta de Wild Mana
+2. **Channel Clearing** (Limpieza de Canales): Eliminar bloqueos en las vías internas de mana
+3. **Conversion Rituals** (Rituales de Conversión): Practicar técnicas de transformación eficientes
+4. **Reserve Expansion** (Expansión de la Reserva): Aumentar gradualmente la capacidad de almacenamiento de Base Mana
 
-### Phase 2 (Purity) Training
-1. **Filtration Exercises**: Mental disciplines for removing Wild Mana contamination
-2. **Pattern Stabilization**: Maintaining clear magical intentions
-3. **Elemental Alignment**: Strengthening affinity with specific elements
-4. **Precision Casting**: Practicing fine control of mana manipulation
+### Fase 2 (Purity (Pureza)) Entrenamiento
+1. **Filtration Exercises** (Ejercicios de Filtración): Disciplinas mentales para eliminar la contaminación de Wild Mana
+2. **Pattern Stabilization** (Estabilización de Patrones): Mantener intenciones mágicas claras
+3. **Elemental Alignment** (Alineación Elemental): Fortalecer la afinidad con elementos específicos
+4. **Precision Casting** (Lanzamiento de Precisión): Practicar el control fino de la manipulación de mana
 
-> *"Wild Mana is neither good nor evil, neither completely hostile nor completely benign. It simply is—the raw stuff of possibility from which all other magic derives. Learn to respect it, not fear it."* — Elowen Wildroot, Archdruid of the Emerald Circle 
+> *"Wild Mana no es ni bueno ni malo, ni completamente hostil ni completamente benigno. Simplemente es: la materia prima de la posibilidad de la que deriva toda la demás magia. Aprende a respetarla, no a temerla".* — Elowen Wildroot (Elowen Wildroot), Archdruid of the Emerald Circle (Archidruida del Círculo Esmeralda)
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

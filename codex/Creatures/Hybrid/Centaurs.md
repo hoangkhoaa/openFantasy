@@ -1,105 +1,109 @@
-# **Centaurs**: The Swift Riders of the Plains
+# **Centaurs** (Centauros): Los Rápidos Jinetes de las Llanuras
 
-[**Centaurs**](/codex/Creatures/Centaurs.md) are the swift riders of the plains, their bodies a powerful harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a galloping percussion section, they resonate with the rhythm of the land, creating a unique melody of existence that bridges the human and equine realms.
+Los [**Centaurs**](/codex/Creatures/Centaurs.md) (Centauros) son los rápidos jinetes de las llanuras, sus cuerpos una poderosa armonía de [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md) (Almas) y **Mana Capacity** (Capacidad de Maná). Como una sección de percusión galopante, resuenan con el ritmo de la tierra, creando una melodía única de existencia que une los reinos humano y equino.
 
-## Elemental Composition
+## Elemental Composition (Composición Elemental)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **centaurs** forms a harmony that favors physical prowess:
+Como se detalla en [Creatures](/codex/Creatures/Creatures.md) (Criaturas), la proporción típica para los **centaurs** (centauros) forma una armonía que favorece la destreza física:
 
-| Element | Range | Function |
+| Element (Elemento) | Range (Rango) | Function (Función) |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that grants exceptional strength and speed |
-| **Soul** | 20-30% | The ethereal essence that shapes a balanced and adaptable consciousness |
-| **Mana Capacity** | 10-25% | The bridge between worlds that enables limited magical potential |
+| **Exanthis** | 50-70% | El corazón cristalino que otorga una fuerza y velocidad excepcionales |
+| **Soul** (Alma) | 20-30% | La esencia etérea que da forma a una conciencia equilibrada y adaptable |
+| **Mana Capacity** (Capacidad de Maná) | 10-25% | El puente entre mundos que permite un potencial mágico limitado |
 
-This composition grants **centaurs** their characteristic speed and strength but typically limits their magical potential compared to other species, like a powerful instrument that can play with great intensity but lacks the subtlety of a full orchestra.
+Esta composición otorga a los **centaurs** (centauros) su velocidad y fuerza características, pero generalmente limita su potencial mágico en comparación con otras especies, como un instrumento poderoso que puede tocar con gran intensidad, pero carece de la sutileza de una orquesta completa.
 
-### Individual Variations
+### Individual Variations (Variaciones Individuales)
 
-While the model composition represents the typical centaur, individual variations exist based on their clan lineage:
+Si bien la composición del modelo representa al centauro típico, existen variaciones individuales basadas en su linaje de clan:
 
-- **Wind Champions**: Some centaurs, particularly from the Windrider clan, possess Exanthis levels as high as 75%, giving them extraordinary speed and endurance that allows them to run for days without rest, though with reduced magical abilities (10% Mana Capacity).
-- **Earth Seers**: Rarer centaurs with enhanced Mana Capacity (up to 30%) can manipulate earth magic with impressive skill, particularly for tracking, healing, and strengthening clan territories.
-- **Star Prophets**: Those with higher Soul percentages (up to 35%) become wise leaders and prophets, often developing divination abilities based on celestial observations.
-- **Forest Shadows**: A specialized variant with balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity) develops extraordinary stealth abilities despite their size, becoming master hunters and scouts.
-- **Thunder Hooves**: Some centaurs develop a unique composition (65% Exanthis, 20% Soul, 15% Mana Capacity) that allows them to channel their physical energy into combat techniques that generate thunderous impacts with each strike.
+- **Wind Champions** (Campeones del Viento): Algunos centauros, particularmente del clan Windrider, poseen niveles de Exanthis tan altos como 75%, lo que les otorga una velocidad y resistencia extraordinarias que les permite correr durante días sin descanso, aunque con habilidades mágicas reducidas (10% de Mana Capacity (Capacidad de Maná)).
+- **Earth Seers** (Videntes de la Tierra): Los centauros más raros con Mana Capacity (Capacidad de Maná) mejorada (hasta 30%) pueden manipular la magia de la tierra con una habilidad impresionante, particularmente para rastrear, curar y fortalecer los territorios del clan.
+- **Star Prophets** (Profetas Estelares): Aquellos con porcentajes más altos de Soul (Alma) (hasta 35%) se convierten en líderes y profetas sabios, a menudo desarrollando habilidades de adivinación basadas en observaciones celestiales.
+- **Forest Shadows** (Sombras del Bosque): Una variante especializada con una composición equilibrada (50% Exanthis, 25% Soul (Alma), 25% Mana Capacity (Capacidad de Maná)) desarrolla extraordinarias habilidades de sigilo a pesar de su tamaño, convirtiéndose en maestros cazadores y exploradores.
+- **Thunder Hooves** (Cascos de Trueno): Algunos centauros desarrollan una composición única (65% Exanthis, 20% Soul (Alma), 15% Mana Capacity (Capacidad de Maná)) que les permite canalizar su energía física en técnicas de combate que generan impactos estruendosos con cada golpe.
 
-## Physical Characteristics
+## Physical Characteristics (Características Físicas)
 
-**Centaurs** are known for their powerful build and equine grace:
-- Humanoid upper bodies seamlessly joined to horse-like lower bodies
-- Height ranging from 7 to 9 feet at the shoulder, depending on their lineage
-- Muscular build with dense muscle and bone structure, like living embodiments of power
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair and manes that are often intricately braided with symbols of clan and status
-- Natural resistance to fatigue and endurance, like the endless plains they call home
+Los **centaurs** (centauros) son conocidos por su poderosa constitución y gracia equina:
+- Parte superior del cuerpo humanoide unida perfectamente a la parte inferior del cuerpo de un caballo
+- Altura que oscila entre 7 y 9 pies al hombro, según su linaje
+- Constitución muscular con estructura ósea y muscular densa, como encarnaciones vivientes del poder
+- Ojos que brillan con luz interior, reflejando su conexión con [**Exanthis**](/codex/Basic/Exanthis.md)
+- Cabello y crines que a menudo están intrincadamente trenzados con símbolos de clan y estatus
+- Resistencia natural a la fatiga y resistencia, como las llanuras interminables que llaman hogar
 
-## Physical and Magical Affinity
+## Physical and Magical Affinity (Afinidad Física y Mágica)
 
-**Centaurs** demonstrate exceptional proficiency in speed and endurance, like virtuoso performers who excel in power and rhythm. Their composition allows them to:
-- Develop extraordinary speed and stamina, like living embodiments of the wind
-- Channel earth magic with minimal proficiency, particularly for navigation and tracking
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+Los **centaurs** (centauros) demuestran una competencia excepcional en velocidad y resistencia, como intérpretes virtuosos que sobresalen en poder y ritmo. Su composición les permite:
+- Desarrollar una velocidad y resistencia extraordinarias, como encarnaciones vivientes del viento
+- Canalizar la magia de la tierra con una competencia mínima, particularmente para la navegación y el seguimiento
+- Resistir los efectos mágicos a través de su alto contenido de **Exanthis**, como una piedra que rompe la superficie de un estanque mágico
 
-This power makes **centaurs** capable of achieving feats of speed and endurance that few other species can match, though they may struggle with tasks requiring complex magical abilities, like a powerful instrument that can play with great intensity but lacks the complexity of a full orchestra.
+Este poder hace que los **centaurs** (centauros) sean capaces de lograr hazañas de velocidad y resistencia que pocas otras especies pueden igualar, aunque pueden tener dificultades con las tareas que requieren habilidades mágicas complejas, como un instrumento poderoso que puede tocar con gran intensidad, pero carece de la complejidad de una orquesta completa.
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (Vida Útil y Descomposición del Alma)
 
-The **soul decay** timeline for **centaurs**, from birth to complete decay, is approximately 200 years, like a steady flame that illuminates the plains. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to their territories and traditions
-- Form stable societies with strong hierarchical structures
+La línea de tiempo de **soul decay** (descomposición del alma) para los **centaurs** (centauros), desde el nacimiento hasta la descomposición completa, es de aproximadamente 200 años, como una llama constante que ilumina las llanuras. Esta vida útil moderada les permite:
+- Acumular conocimiento y sabiduría a lo largo de generaciones
+- Desarrollar conexiones profundas con sus territorios y tradiciones
+- Formar sociedades estables con estructuras jerárquicas sólidas
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the seasons.
+Sin embargo, su proporción moderada de Soul (Alma) también significa que cambian y se adaptan a un ritmo moderado, como una melodía que evoluciona con las estaciones.
 
-## Habitat and Distribution
+## Habitat and Distribution (Hábitat y Distribución)
 
-**Centaurs** primarily inhabit:
-- Vast grasslands and plains, where they can run freely and hunt
-- Rolling hills and savannas, where they can maintain their herds
-- Strategic locations that provide access to water and resources
-- Nomadic territories that allow them to follow the migrations of game
+Los **centaurs** (centauros) habitan principalmente:
+- Vastas praderas y llanuras, donde pueden correr libremente y cazar
+- Colinas onduladas y sabanas, donde pueden mantener sus rebaños
+- Ubicaciones estratégicas que brindan acceso a agua y recursos
+- Territorios nómadas que les permiten seguir las migraciones de la caza
 
-These locations provide ideal environments for the development of speed and the practice of earth magic, like stages perfectly suited to their performance.
+Estos lugares proporcionan entornos ideales para el desarrollo de la velocidad y la práctica de la magia de la tierra, como escenarios perfectamente adecuados para su actuación.
 
-## Cultural Impact
+## Cultural Impact (Impacto Cultural)
 
-In the world of **OpenFantasy**, **centaurs** play a crucial role in maintaining the balance of the plains, like conductors of the grand symphony of speed. Their societies are centers of:
-- Martial prowess and hunting skills
-- Earth magic and navigation
-- Hierarchical structures and clan pride
+En el mundo de **OpenFantasy**, los **centaurs** (centauros) juegan un papel crucial en el mantenimiento del equilibrio de las llanuras, como directores de la gran sinfonía de la velocidad. Sus sociedades son centros de:
+- Destreza marcial y habilidades de caza
+- Magia de la tierra y navegación
+- Estructuras jerárquicas y orgullo de clan
 
-The connection to the land has shaped centaur culture around respect for speed, strength, and tradition, creating a society where might and skill are highly valued.
+La conexión con la tierra ha moldeado la cultura centauro en torno al respeto por la velocidad, la fuerza y la tradición, creando una sociedad donde el poder y la habilidad son muy valorados.
 
-## Relationship with Other Species
+## Relationship with Other Species (Relación con Otras Especies)
 
-**Centaurs** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **Beastfolk**: A deep connection based on shared appreciation for physical prowess and connection to nature
+Los **centaurs** (centauros) mantienen complejas relaciones con otras especies:
+- Con [**Humans**](/codex/Creatures/Human.md) (Humanos): Una mezcla de respeto por su adaptabilidad y frustración con su debilidad
+- Con **Elves** (Elfos): Un respeto cauteloso, reconociendo su destreza mágica, pero encontrando extrañas sus costumbres
+- Con **Dwarves** (Enanos): Una alianza pragmática basada en el respeto mutuo por la fuerza y la artesanía
+- Con **Beastfolk** (Bestias): Una conexión profunda basada en la apreciación compartida por la destreza física y la conexión con la naturaleza
 
-These relationships are often characterized by a sense of superiority, as **centaurs** view themselves as the true children of the plains.
+Estas relaciones a menudo se caracterizan por una sensación de superioridad, ya que los **centaurs** (centauros) se ven a sí mismos como los verdaderos hijos de las llanuras.
 
-## Notable Centaur Traits
+## Notable Centaur Traits (Rasgos Notables de los Centauros)
 
-- **Physical Might**: Centaurs excel in speed and endurance, often surpassing other species in their ability to travel long distances
-- **Earth Affinity**: Centaurs have a natural connection to earth magic, allowing them to navigate and track with ease
-- **Limited Adaptability**: Their minimal mana capacity makes it difficult for centaurs to master complex magical abilities
-- **Clan Pride**: Centaurs place great emphasis on their clan heritage and traditions
-- **Territorial Nature**: Centaurs are fiercely protective of their territories and resources
+- **Physical Might** (Poder Físico): Los centauros sobresalen en velocidad y resistencia, a menudo superando a otras especies en su capacidad para viajar largas distancias
+- **Earth Affinity** (Afinidad con la Tierra): Los centauros tienen una conexión natural con la magia de la tierra, lo que les permite navegar y rastrear con facilidad
+- **Limited Adaptability** (Adaptabilidad Limitada): Su mínima Mana Capacity (Capacidad de Maná) dificulta que los centauros dominen habilidades mágicas complejas
+- **Clan Pride** (Orgullo de Clan): Los centauros ponen gran énfasis en su herencia y tradiciones de clan
+- **Territorial Nature** (Naturaleza Territorial): Los centauros son ferozmente protectores de sus territorios y recursos
 
-## Centaur Clans
+## Centaur Clans (Clanes de Centauros)
 
-Centaur society is organized into numerous clans, each with its own specialties and traditions:
+La sociedad centauro está organizada en numerosos clanes, cada uno con sus propias especialidades y tradiciones:
 
-| Clan | Specialty | Territory | Notable Traits |
+| Clan | Specialty (Especialidad) | Territory (Territorio) | Notable Traits (Rasgos Notables) |
 |---------|---------------|---------|-------------------|
-| **Windriders** | Speed, hunting | Open plains | Swift action, hunting mastery |
-| **Earthshakers** | Strength, combat | Rocky hills | Combat abilities, earth manipulation |
-| **Starseekers** | Navigation, wisdom | Star-lit plains | Navigation abilities, astronomical knowledge |
-| **Riverwatchers** | Water magic, fishing | River valleys | Water magic, fishing expertise |
-| **Firebrands** | Passion, leadership | Volcanic regions | Leadership abilities, fire resistance |
-| **Forestwardens** | Stealth, tracking | Forest edges | Stealth abilities, tracking expertise |
+| **Windriders** | Speed, hunting (Velocidad, caza) | Open plains (Llanuras abiertas) | Swift action, hunting mastery (Acción rápida, dominio de la caza) |
+| **Earthshakers** | Strength, combat (Fuerza, combate) | Rocky hills (Colinas rocosas) | Combat abilities, earth manipulation (Habilidades de combate, manipulación de la tierra) |
+| **Starseekers** | Navigation, wisdom (Navegación, sabiduría) | Star-lit plains (Llanuras iluminadas por las estrellas) | Navigation abilities, astronomical knowledge (Habilidades de navegación, conocimiento astronómico) |
+| **Riverwatchers** | Water magic, fishing (Magia del agua, pesca) | River valleys (Valles fluviales) | Water magic, fishing expertise (Magia del agua, experiencia en pesca) |
+| **Firebrands** | Passion, leadership (Pasión, liderazgo) | Volcanic regions (Regiones volcánicas) | Leadership abilities, fire resistance (Habilidades de liderazgo, resistencia al fuego) |
+| **Forestwardens** | Stealth, tracking (Sigilo, rastreo) | Forest edges (Bordes del bosque) | Stealth abilities, tracking expertise (Habilidades de sigilo, experiencia en rastreo) |
 
-Understanding the nature of **centaurs** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the plains and skies. 
+Comprender la naturaleza de los **centaurs** (centauros) proporciona información sobre la dinámica de poder del mundo de **OpenFantasy**, como sentir los ritmos estruendosos que palpitan a través de las llanuras y los cielos.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

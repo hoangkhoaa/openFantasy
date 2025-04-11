@@ -1,106 +1,110 @@
-# **Mana**: The Ethereal Essence of Magic
+# **Mana**: La Esencia Etérea de la Magia
 
-> *"Mana flows like liquid starlight through the fabric of reality, waiting for a soul's touch to ignite its potential."*
+> *"El Mana fluye como luz estelar líquida a través del tejido de la realidad, esperando el toque de un alma para encender su potencial."*
 
-## Quick Navigation
+## Navegación Rápida
 
-- [Nature and Properties](#nature-and-properties)
-- [Mana and Soul](#mana-and-soul)
-- [Geographic Distribution](#geographic-distribution)
-- [Applications](#applications)
-- [Interaction with Exanthis](#interaction-with-exanthis)
+- [Naturaleza y Propiedades](#nature-and-properties)
+- [Mana y Alma](#mana-and-soul)
+- [Distribución Geográfica](#geographic-distribution)
+- [Aplicaciones](#applications)
+- [Interacción con Exanthis](#interaction-with-exanthis)
 
-## Nature and Properties
+## Naturaleza y Propiedades
 
-**Mana** is the breath of creation itself, atomic particles smaller than ordinary atoms that dance between the realms of possibility and reality. These particles possess several unique characteristics:
+El **Mana** es el aliento de la creación misma, partículas atómicas más pequeñas que los átomos ordinarios que danzan entre los reinos de la posibilidad y la realidad. Estas partículas poseen varias características únicas:
 
-| Property | Description |
+| Property (Propiedad) | Description (Descripción) |
 |----------|-------------|
-| **Form** | Ethereal, particle-like energy |
-| **State** | Semi-gaseous, flowing like currents |
-| **Visibility** | Invisible to normal sight, visible to magical perception |
-| **Regeneration** | Self-replenishing within living beings at varied rates |
-| **Composition** | Pure magical energy that can be refined into elemental forms |
+| **Form (Forma)** | Etérea, energía similar a partículas |
+| **State (Estado)** | Semi-gaseoso, fluyendo como corrientes |
+| **Visibility (Visibilidad)** | Invisible a la vista normal, visible a la percepción mágica |
+| **Regeneration (Regeneración)** | Auto-reabastecimiento dentro de los seres vivos a diferentes velocidades |
+| **Composition (Composición)** | Energía mágica pura que se puede refinar en formas elementales |
 
-## Mana and Soul
+## Mana y Alma
 
-**Mana** resonates with the will of the [**Soul**](/codex/Basic/Soul.md), allowing beings to shape reality through conscious intent:
+El **Mana** resuena con la voluntad del [**Soul (Alma)**](/codex/Basic/Soul.md), permitiendo a los seres dar forma a la realidad a través de la intención consciente:
 
-- When a living being possesses a **Soul**, **Mana** particles attach to its **Soul framework**
-- This creates a bridge between consciousness and creation
-- The being can then wield **Mana**, shaping it through sheer will
-- **Mana** regenerates naturally within a being's body at a rate determined by the **Soul's** innate capacity
-- Beings can project their own **Mana** into the environment to harmonize with external energy
+- Cuando un ser vivo posee una **Soul (Alma)**, las partículas de **Mana** se adhieren a su **Soul framework (estructura del Alma)**
+- Esto crea un puente entre la conciencia y la creación
+- El ser puede entonces empuñar el **Mana**, dándole forma a través de la pura voluntad
+- El **Mana** se regenera naturalmente dentro del cuerpo de un ser a una velocidad determinada por la capacidad innata del **Soul (Alma)**
+- Los seres pueden proyectar su propio **Mana** en el entorno para armonizar con la energía externa
 
-### Magical Potency
+### Potencia Mágica
 
-The effectiveness of magical workings depends on several factors:
+La efectividad de los trabajos mágicos depende de varios factores:
 
-- The density of **Mana** in the surroundings
-- The purity of **Mana** being channeled
-- The clarity of intent from the **Soul** directing it
-- The absence of **Exanthis** interference
+- La densidad de **Mana** en el entorno
+- La pureza del **Mana** que se está canalizando
+- La claridad de la intención del **Soul (Alma)** que lo dirige
+- La ausencia de interferencia de **Exanthis**
 
-## Geographic Distribution
+## Distribución Geográfica
 
-**Mana** is not evenly distributed throughout the world:
+El **Mana** no se distribuye uniformemente por todo el mundo:
 
-| Region | Mana Concentration | Notable Features |
+| Region (Región) | Mana Concentration (Concentración de Mana) | Notable Features (Características Notables) |
 |--------|-------------------|------------------|
-| **Eastern Veldrassil** | Very High | Centers of magical study, intense magical phenomena |
-| **Central Plains** | Moderate | Balanced magical environments, stable casting conditions |
-| **Ley Lines** | Extremely High | Rivers of concentrated magical energy crossing the world |
-| **Nexus Points** | Overwhelming | Intersections of multiple ley lines, often unstable |
-| **Western Veldrassil** | Low to Very Low | Due to high **Exanthis** concentration |
+| **Eastern Veldrassil (Veldrassil Oriental)** | Very High (Muy Alta) | Centers of magical study, intense magical phenomena (Centros de estudio mágico, fenómenos mágicos intensos) |
+| **Central Plains (Llanuras Centrales)** | Moderate (Moderada) | Balanced magical environments, stable casting conditions (Entornos mágicos equilibrados, condiciones de lanzamiento estables) |
+| **Ley Lines (Líneas Ley)** | Extremely High (Extremadamente Alta) | Rivers of concentrated magical energy crossing the world (Ríos de energía mágica concentrada que cruzan el mundo) |
+| **Nexus Points (Puntos Nexus)** | Overwhelming (Abrumadora) | Intersections of multiple ley lines, often unstable (Intersecciones de múltiples líneas ley, a menudo inestables) |
+| **Western Veldrassil (Veldrassil Occidental)** | Low to Very Low (Baja a Muy Baja) | Due to high **Exanthis** concentration (Debido a la alta concentración de **Exanthis**) |
 
-### Movement Patterns
+### Patrones de Movimiento
 
-**Mana** flows through the world in currents similar to atmospheric winds:
+El **Mana** fluye a través del mundo en corrientes similares a los vientos atmosféricos:
 
-- Creates regions of varying magical potency
-- Shifts seasonally according to cosmic cycles
-- Can be temporarily depleted by massive magical workings
-- Naturally replenishes over time from cosmic sources
+- Crea regiones de diferente potencia mágica
+- Cambia estacionalmente según los ciclos cósmicos
+- Puede agotarse temporalmente por trabajos mágicos masivos
+- Se repone naturalmente con el tiempo a partir de fuentes cósmicas
 
-## Applications
+## Aplicaciones
 
-The manipulation of **Mana** forms the basis for all magical practices:
+La manipulación del **Mana** forma la base de todas las prácticas mágicas:
 
-### Magical Functions
+### Funciones Mágicas
 
-- **Spellcasting**: Directed manipulation of reality through structured patterns
-- **Enchantment**: Infusing objects with persistent magical properties
-- **Divination**: Perceiving information beyond normal senses
-- **Transmutation**: Altering the properties of physical matter
-- **Conjuration**: Creating temporary manifestations of matter or energy
+- **Spellcasting (Lanzamiento de Hechizos)**: Manipulación dirigida de la realidad a través de patrones estructurados
+- **Enchantment (Encantamiento)**: Infusión de objetos con propiedades mágicas persistentes
+- **Divination (Adivinación)**: Percibir información más allá de los sentidos normales
+- **Transmutation (Transmutación)**: Alterar las propiedades de la materia física
+- **Conjuration (Conjuración)**: Crear manifestaciones temporales de materia o energía
 
-### Beyond Magic
+### Más Allá de la Magia
 
-**Mana** influences more than just magical effects:
+El **Mana** influye en más que solo efectos mágicos:
 
-- Enhances creativity and intuition in high-concentration regions
-- Accelerates natural processes like growth and healing
-- Creates natural phenomena like glowing flora or weather anomalies
-- Attracts extradimensional entities drawn to its energy
+- Mejora la creatividad y la intuición en regiones de alta concentración
+- Acelera los procesos naturales como el crecimiento y la curación
+- Crea fenómenos naturales como flora brillante o anomalías climáticas
+- Atrae entidades extradimensionales atraídas por su energía
 
-## Interaction with Exanthis
+## Interacción con Exanthis
 
-**Mana** is repelled by the magnetic field of [**Exanthis**](/codex/Basic/Exanthis.md):
+El **Mana** es repelido por el campo magnético de [**Exanthis**](/codex/Basic/Exanthis.md):
 
-- Creates zones where magic is weakened or nullified
-- Forms natural boundaries between high and low magical regions
-- Produces unique phenomena at the interface between high **Mana** and high **Exanthis** areas
-- Can be temporarily forced through **Exanthis** barriers with sufficient power
+- Crea zonas donde la magia se debilita o se anula
+- Forma límites naturales entre regiones mágicas altas y bajas
+- Produce fenómenos únicos en la interfaz entre áreas de alto **Mana** y alto **Exanthis**
+- Se puede forzar temporalmente a través de las barreras de **Exanthis** con suficiente poder
 
-### Balance of Forces
+### Equilibrio de Fuerzas
 
-The opposition between **Mana** and **Exanthis** creates a natural system of checks and balances:
+La oposición entre el **Mana** y el **Exanthis** crea un sistema natural de controles y equilibrios:
 
-- Prevents any single power from dominating the world
-- Creates diverse environmental niches for different species
-- Establishes natural boundaries between civilizations
-- Forms the foundation for the world's magical ecology
+- Evita que un solo poder domine el mundo
+- Crea diversos nichos ambientales para diferentes especies
+- Establece límites naturales entre civilizaciones
+- Forma la base de la ecología mágica del mundo
 
 ---
 
-> Understanding **Mana** provides insight into the magical essence that flows through all things in the world of **OpenFantasy**, like appreciating the music that fills a concert hall. It is the medium through which imagination becomes reality, the canvas upon which the **Soul** paints its intentions. 
+> Comprender el **Mana** proporciona una idea de la esencia mágica que fluye a través de todas las cosas en el mundo de OpenFantasy, como apreciar la música que llena una sala de conciertos. Es el medio a través del cual la imaginación se convierte en realidad, el lienzo sobre el cual el **Soul (Alma)** pinta sus intenciones.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

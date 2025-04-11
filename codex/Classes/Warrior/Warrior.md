@@ -1,135 +1,139 @@
-# **Warrior**: The Masters of Physical Combat
+# **Warrior** (Guerrero): Los Maestros del Combate Físico
 
-[**Warriors**](/codex/Classes/Warrior/Warrior.md) are the embodiments of physical power and martial prowess, their bodies honed through rigorous training and battle experience. Their existence resonates with the material world, creating a symphony of strength, skill, and tactical expertise.
+Los [**Warriors**](/codex/Classes/Warrior/Warrior.md) (Guerreros) son la personificación del poder físico y la destreza marcial, sus cuerpos perfeccionados a través de un riguroso entrenamiento y experiencia en batalla. Su existencia resuena con el mundo material, creando una sinfonía de fuerza, habilidad y experiencia táctica.
 
-## Elemental Composition
+## Elemental Composition (Composición Elemental)
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **warriors** creates a distinctive harmony that favors physical might:
+Como se detalla en [Classes](/codex/Classes/Classes.md) (Clases), la proporción típica para los **warriors** (guerreros) crea una armonía distintiva que favorece el poder físico:
 
-| Element | Range | Function |
+| Element (Elemento) | Range (Rango) | Function (Función) |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | Exceptional physical foundation providing superior strength, endurance, and resilience |
-| **Soul** | 20-35% | Balanced consciousness supporting tactical awareness and combat intuition |
-| **Mana Capacity** | 10-25% | Limited magical potential typically channeled into enhancing physical capabilities |
+| **Exanthis** | 50-70% | Base física excepcional que proporciona fuerza, resistencia y robustez superiores |
+| **Soul** (Alma) | 20-35% | Conciencia equilibrada que apoya la conciencia táctica y la intuición de combate |
+| **Mana Capacity** (Capacidad de Maná) | 10-25% | Potencial mágico limitado, típicamente canalizado para mejorar las capacidades físicas |
 
-This composition grants **warriors** their characteristic physical prowess at the cost of magical versatility. Their bodies are like well-forged weapons, designed primarily for physical combat rather than arcane manipulation.
+Esta composición otorga a los **warriors** (guerreros) su característica destreza física a costa de la versatilidad mágica. Sus cuerpos son como armas bien forjadas, diseñadas principalmente para el combate físico en lugar de la manipulación arcana.
 
-### Magical Affinity Profile
+### Magical Affinity Profile (Perfil de Afinidad Mágica)
 
-Despite their limited Mana Capacity, **warriors** typically develop specific affinities that complement their martial abilities:
+A pesar de su limitada Mana Capacity (Capacidad de Maná), los **warriors** (guerreros) típicamente desarrollan afinidades específicas que complementan sus habilidades marciales:
 
-| Warrior Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Warrior Tradition (Tradición de Guerrero) | Primary Affinities (Afinidades Primarias) | Secondary Affinities (Afinidades Secundarias) | Typical Application (Aplicación Típica) |
 |-----------------|-------------------|---------------------|---------------------|
-| **Berserker** | Pyromana (Intensity, Consumption) | Base Mana (Endurance) | Battle fury, enhanced strength, pain suppression |
-| **Guardian** | Terramana (Stability, Protection) | Base Mana (Resilience) | Damage mitigation, defensive stances, immovability |
-| **Duelist** | Aeromana (Speed, Precision) | Luxmana (Awareness) | Enhanced reflexes, precision strikes, battlefield assessment |
-| **Warlord** | Base Mana (Command) | Varies by specialty | Battlefield control, intimidation, tactical coordination |
-| **Weaponmaster** | Base Mana (Extension) | Varies by weapon | Weapon enhancement, specialized techniques, supernatural precision |
-| **Juggernaut** | Terramana (Weight, Momentum) | Pyromana (Force) | Overwhelming attacks, unstoppable charges, ground-breaking strikes |
+| **Berserker** | Pyromana (Intensidad, Consumo) | Base Mana (Resistencia) | Furia de batalla, fuerza mejorada, supresión del dolor |
+| **Guardian** (Guardián) | Terramana (Estabilidad, Protección) | Base Mana (Resistencia) | Mitigación de daño, posturas defensivas, inmovilidad |
+| **Duelist** (Duelista) | Aeromana (Velocidad, Precisión) | Luxmana (Conciencia) | Reflejos mejorados, golpes de precisión, evaluación del campo de batalla |
+| **Warlord** (Caudillo) | Base Mana (Mando) | Varies by specialty (Varía según la especialidad) | Control del campo de batalla, intimidación, coordinación táctica |
+| **Weaponmaster** (Maestro de Armas) | Base Mana (Extensión) | Varies by weapon (Varía según el arma) | Mejora de armas, técnicas especializadas, precisión sobrenatural |
+| **Juggernaut** | Terramana (Peso, Impulso) | Pyromana (Fuerza) | Ataques abrumadores, cargas imparables, golpes que rompen el suelo |
 
-Warriors typically achieve 40-60% specialization efficiency with their primary affinities, focusing on practical application rather than theoretical mastery. This specialization reflects their combat-oriented training and pragmatic approach to magical energy.
+Los Warriors (Guerreros) típicamente alcanzan una eficiencia de especialización del 40-60% con sus afinidades primarias, enfocándose en la aplicación práctica en lugar del dominio teórico. Esta especialización refleja su entrenamiento orientado al combate y su enfoque pragmático de la energía mágica.
 
-### Species-Specific Variations
+### Species-Specific Variations (Variaciones Específicas de la Especie)
 
-Different species show varying natural inclinations toward the warrior class:
+Diferentes especies muestran diferentes inclinaciones naturales hacia la clase de guerrero:
 
-- **Humans** (45-65% Exanthis, 20-35% Soul, 10-25% Mana Capacity): Their adaptability allows them to develop diverse fighting styles balanced between strength and technique.
-- **Dwarves** (60-75% Exanthis, 15-25% Soul, 5-15% Mana Capacity): Their natural physical resilience makes them exceptional tanks and heavy weapon specialists.
-- **Orcs** (65-80% Exanthis, 10-20% Soul, 5-15% Mana Capacity): Their raw physical power makes them devastating front-line fighters with exceptional offensive capabilities.
-- **Minotaurs** (70-85% Exanthis, 10-20% Soul, 5-10% Mana Capacity): Their massive frames and natural strength make them unparalleled in terms of raw power and intimidation.
-- **Leonin** (55-70% Exanthis, 20-30% Soul, 10-15% Mana Capacity): Their predatory instincts grant them superior combat reflexes and tactical awareness.
+- **Humans** (Humanos) (45-65% Exanthis, 20-35% Soul (Alma), 10-25% Mana Capacity (Capacidad de Maná)): Su adaptabilidad les permite desarrollar diversos estilos de lucha equilibrados entre fuerza y técnica.
+- **Dwarves** (Enanos) (60-75% Exanthis, 15-25% Soul (Alma), 5-15% Mana Capacity (Capacidad de Maná)): Su resistencia física natural los convierte en tanques excepcionales y especialistas en armas pesadas.
+- **Orcs** (Orcos) (65-80% Exanthis, 10-20% Soul (Alma), 5-15% Mana Capacity (Capacidad de Maná)): Su poder físico bruto los convierte en devastadores luchadores de primera línea con excepcionales capacidades ofensivas.
+- **Minotaurs** (Minotauros) (70-85% Exanthis, 10-20% Soul (Alma), 5-10% Mana Capacity (Capacidad de Maná)): Sus enormes cuerpos y fuerza natural los hacen incomparables en términos de poder bruto e intimidación.
+- **Leonin** (Leoninos) (55-70% Exanthis, 20-30% Soul (Alma), 10-15% Mana Capacity (Capacidad de Maná)): Sus instintos depredadores les otorgan reflejos de combate y conciencia táctica superiores.
 
-## Physical Characteristics
+## Physical Characteristics (Características Físicas)
 
-**Warriors** are known for their strength and martial prowess:
-- Muscular build with well-defined physique, like a finely crafted weapon
-- Eyes that reflect determination and focus, showing their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hands calloused from years of weapon training, like a musician's fingers adapted to their instrument
-- Presence that commands attention, like a powerful chord that resonates through a room
-- Stance that exudes confidence and readiness, like a performer poised to begin
+Los **Warriors** (Guerreros) son conocidos por su fuerza y destreza marcial:
+- Muscular build (Complexión musculosa) con físico bien definido, como un arma finamente elaborada
+- Eyes that reflect determination and focus (Ojos que reflejan determinación y concentración), mostrando su conexión con [**Exanthis**](/codex/Basic/Exanthis.md)
+- Hands calloused from years of weapon training (Manos encallecidas por años de entrenamiento con armas), como los dedos de un músico adaptados a su instrumento
+- Presence that commands attention (Presencia que llama la atención), como un acorde poderoso que resuena en una habitación
+- Stance that exudes confidence and readiness (Postura que exuda confianza y preparación), como un intérprete listo para comenzar
 
-## Combat Affinity
+## Combat Affinity (Afinidad de Combate)
 
-**Warriors** demonstrate exceptional proficiency in physical combat, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Wield weapons with extraordinary precision, like conductors leading an orchestra
-- Endure physical punishment that would incapacitate others, like a drum that can withstand powerful strikes
-- Execute complex combat maneuvers with grace and power, like dancers performing a martial ballet
+Los **Warriors** (Guerreros) demuestran una excepcional competencia en el combate físico, como músicos virtuosos que han dominado sus instrumentos. Su composición les permite:
+- Wield weapons with extraordinary precision (Empuñar armas con extraordinaria precisión), como directores que dirigen una orquesta
+- Endure physical punishment that would incapacitate others (Soportar castigos físicos que incapacitarían a otros), como un tambor que puede soportar golpes poderosos
+- Execute complex combat maneuvers with grace and power (Ejecutar maniobras de combate complejas con gracia y poder), como bailarines que realizan un ballet marcial
 
-This specialization makes **warriors** capable of achieving the highest levels of proficiency in their chosen combat styles, though they may struggle with tasks requiring subtlety or magical finesse, like a powerful instrument that produces beautiful sounds but cannot play delicate passages.
+Esta especialización hace que los **Warriors** (Guerreros) sean capaces de alcanzar los niveles más altos de competencia en sus estilos de combate elegidos, aunque pueden tener dificultades con tareas que requieren sutileza o delicadeza mágica, como un instrumento poderoso que produce hermosos sonidos pero no puede tocar pasajes delicados.
 
-## Training and Development
+## Training and Development (Entrenamiento y Desarrollo)
 
-The path of a **warrior** involves rigorous physical training and mental discipline:
-- Daily weapon practice and combat drills, like musicians practicing scales
-- Physical conditioning to build strength and endurance, like tuning an instrument for optimal performance
-- Study of combat tactics and strategies, like learning the theory behind musical composition
-- Meditation to develop focus and mental clarity, like finding the quiet center before a performance
+El camino de un **warrior** (guerrero) implica un riguroso entrenamiento físico y disciplina mental:
+- Daily weapon practice and combat drills (Práctica diaria de armas y ejercicios de combate), como músicos que practican escalas
+- Physical conditioning to build strength and endurance (Acondicionamiento físico para desarrollar fuerza y resistencia), como afinar un instrumento para un rendimiento óptimo
+- Study of combat tactics and strategies (Estudio de tácticas y estrategias de combate), como aprender la teoría detrás de la composición musical
+- Meditation to develop focus and mental clarity (Meditación para desarrollar concentración y claridad mental), como encontrar el centro tranquilo antes de una actuación
 
-## Equipment and Gear
+## Equipment and Gear (Equipo y Accesorios)
 
-**Warriors** rely on various equipment to enhance their combat abilities:
-- Weapons ranging from swords and axes to spears and bows, like different instruments for different performances
-- Armor that provides protection while allowing mobility, like a well-fitted case for a precious instrument
-- Combat accessories such as shields, throwing weapons, and grappling tools, like accessories that enhance an instrument's capabilities
+Los **Warriors** (Guerreros) confían en varios equipos para mejorar sus habilidades de combate:
+- Weapons ranging from swords and axes to spears and bows (Armas que van desde espadas y hachas hasta lanzas y arcos), como diferentes instrumentos para diferentes actuaciones
+- Armor that provides protection while allowing mobility (Armadura que brinda protección al tiempo que permite la movilidad), como un estuche bien ajustado para un instrumento precioso
+- Combat accessories such as shields, throwing weapons, and grappling tools (Accesorios de combate como escudos, armas arrojadizas y herramientas de agarre), como accesorios que mejoran las capacidades de un instrumento
 
-## Subclasses
+## Subclasses (Subclases)
 
-**Warriors** can specialize in various combat styles and roles:
+Los **Warriors** (Guerreros) pueden especializarse en varios estilos y roles de combate:
 
-### [**Guardian**](/codex/Classes/Warrior/Guardian.md)
+### [**Guardian**](/codex/Classes/Warrior/Guardian.md) (Guardián)
 
-Guardians focus on defensive combat, emphasizing the protection of others. They excel at:
-- Blocking and intercepting attacks directed at allies
-- Creating defensive formations that protect groups
-- Using shields and defensive stances to maximize protection
+Los Guardians (Guardianes) se centran en el combate defensivo, enfatizando la protección de los demás. Sobresalen en:
+- Blocking and intercepting attacks directed at allies (Bloquear e interceptar ataques dirigidos a aliados)
+- Creating defensive formations that protect groups (Crear formaciones defensivas que protegen a los grupos)
+- Using shields and defensive stances to maximize protection (Usar escudos y posturas defensivas para maximizar la protección)
 
 ### [**Berserker**](/codex/Classes/Warrior/Berserker.md)
 
-Berserkers enter a battle rage that enhances their combat abilities. They excel at:
-- Dealing massive damage in close combat
-- Entering a trance-like state that enhances strength and reduces pain
-- Intimidating enemies with their ferocious presence
+Los Berserkers (Berserkers) entran en una furia de batalla que mejora sus habilidades de combate. Sobresalen en:
+- Dealing massive damage in close combat (Infligir daño masivo en combate cuerpo a cuerpo)
+- Entering a trance-like state that enhances strength and reduces pain (Entrar en un estado de trance que mejora la fuerza y reduce el dolor)
+- Intimidating enemies with their ferocious presence (Intimidar a los enemigos con su feroz presencia)
 
-### [**Duelist**](/codex/Classes/Warrior/Duelist.md)
+### [**Duelist**](/codex/Classes/Warrior/Duelist.md) (Duelista)
 
-Duelists specialize in one-on-one combat, emphasizing precision and technique. They excel at:
-- Fencing and swordplay with light weapons
-- Reading opponents and exploiting weaknesses
-- Performing complex combat maneuvers with grace
+Los Duelists (Duelistas) se especializan en el combate uno contra uno, enfatizando la precisión y la técnica. Sobresalen en:
+- Fencing and swordplay with light weapons (Esgrima y manejo de la espada con armas ligeras)
+- Reading opponents and exploiting weaknesses (Leer a los oponentes y explotar las debilidades)
+- Performing complex combat maneuvers with grace (Realizar maniobras de combate complejas con gracia)
 
-### [**Commander**](/codex/Classes/Warrior/Commander.md)
+### [**Commander**](/codex/Classes/Warrior/Commander.md) (Comandante)
 
-Commanders lead groups in combat, coordinating their efforts for maximum effectiveness. They excel at:
-- Tactical planning and battlefield awareness
-- Inspiring and directing allies in combat
-- Adapting strategies to changing battlefield conditions
+Los Commanders (Comandantes) lideran grupos en combate, coordinando sus esfuerzos para obtener la máxima eficacia. Sobresalen en:
+- Tactical planning and battlefield awareness (Planificación táctica y conciencia del campo de batalla)
+- Inspiring and directing allies in combat (Inspirar y dirigir a los aliados en combate)
+- Adapting strategies to changing battlefield conditions (Adaptar las estrategias a las cambiantes condiciones del campo de batalla)
 
-### [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md)
+### [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md) (Maestro de Armas)
 
-Weaponmasters master multiple weapons and combat styles, adapting to any situation. They excel at:
-- Proficiency with a wide variety of weapons
-- Switching between combat styles as needed
-- Combining different weapons and techniques
+Los Weaponmasters (Maestros de Armas) dominan múltiples armas y estilos de combate, adaptándose a cualquier situación. Sobresalen en:
+- Proficiency with a wide variety of weapons (Dominio de una amplia variedad de armas)
+- Switching between combat styles as needed (Cambiar entre estilos de combate según sea necesario)
+- Combining different weapons and techniques (Combinar diferentes armas y técnicas)
 
-## Notable Warrior Traits
+## Notable Warrior Traits (Rasgos Notables del Guerrero)
 
-- **Combat Mastery**: Warriors excel in physical combat, often specializing in specific weapons or styles
-- **Physical Resilience**: Warriors can endure physical punishment that would incapacitate others
-- **Tactical Awareness**: Warriors develop keen awareness of battlefield conditions and combat dynamics
-- **Leadership**: Many warriors develop natural leadership abilities through combat experience
-- **Discipline**: Warriors maintain rigorous training regimens to maintain their combat abilities
+- **Combat Mastery** (Maestría en el Combate): Los Warriors (Guerreros) sobresalen en el combate físico, a menudo especializándose en armas o estilos específicos
+- **Physical Resilience** (Resistencia Física): Los Warriors (Guerreros) pueden soportar castigos físicos que incapacitarían a otros
+- **Tactical Awareness** (Conciencia Táctica): Los Warriors (Guerreros) desarrollan una gran conciencia de las condiciones del campo de batalla y la dinámica del combate
+- **Leadership** (Liderazgo): Muchos Warriors (Guerreros) desarrollan habilidades de liderazgo naturales a través de la experiencia en combate
+- **Discipline** (Disciplina): Los Warriors (Guerreros) mantienen regímenes de entrenamiento rigurosos para mantener sus habilidades de combate
 
-## Warrior Traditions
+## Warrior Traditions (Tradiciones de Guerreros)
 
-Warrior society is organized into numerous traditions, each with its own specialties and techniques:
+La sociedad de guerreros está organizada en numerosas tradiciones, cada una con sus propias especialidades y técnicas:
 
-| Tradition | Specialty | Territory | Notable Traits |
+| Tradition (Tradición) | Specialty (Especialidad) | Territory (Territorio) | Notable Traits (Rasgos Notables) |
 |---------|---------------|---------|-------------------|
-| **Blade Dancers** | Swordplay, grace | Urban centers | Elegant combat style, precision strikes |
-| **Iron Legion** | Heavy armor, formation fighting | Military fortresses | Defensive formations, shield walls |
-| **Wild Hunters** | Tracking, survival | Wilderness regions | Tracking abilities, survival skills |
-| **Storm Riders** | Cavalry, mounted combat | Plains and grasslands | Mounted combat, mobility |
-| **Shadow Blades** | Stealth, assassination | Urban shadows | Stealth techniques, surprise attacks |
-| **Dragon Slayers** | Monster hunting, specialized weapons | Monster territories | Monster knowledge, specialized techniques |
+| **Blade Dancers** (Danzarines de la Espada) | Swordplay, grace (Esgrima, gracia) | Urban centers (Centros urbanos) | Elegant combat style, precision strikes (Estilo de combate elegante, golpes de precisión) |
+| **Iron Legion** (Legión de Hierro) | Heavy armor, formation fighting (Armadura pesada, lucha en formación) | Military fortresses (Fortalezas militares) | Defensive formations, shield walls (Formaciones defensivas, muros de escudos) |
+| **Wild Hunters** (Cazadores Salvajes) | Tracking, survival (Rastreo, supervivencia) | Wilderness regions (Regiones salvajes) | Tracking abilities, survival skills (Habilidades de rastreo, habilidades de supervivencia) |
+| **Storm Riders** (Jinetes de la Tormenta) | Cavalry, mounted combat (Caballería, combate montado) | Plains and grasslands (Llanuras y praderas) | Mounted combat, mobility (Combate montado, movilidad) |
+| **Shadow Blades** (Hojas de la Sombra) | Stealth, assassination (Sigilo, asesinato) | Urban shadows (Sombras urbanas) | Stealth techniques, surprise attacks (Técnicas de sigilo, ataques sorpresa) |
+| **Dragon Slayers** (Matadragones) | Monster hunting, specialized weapons (Caza de monstruos, armas especializadas) | Monster territories (Territorios de monstruos) | Monster knowledge, specialized techniques (Conocimiento de monstruos, técnicas especializadas) |
 
-Understanding the nature of **warriors** provides insight into the martial aspects of the world of **OpenFantasy**, like listening to the powerful rhythms that drive the symphony of battle. 
+Comprender la naturaleza de los **warriors** (guerreros) proporciona una visión de los aspectos marciales del mundo de **OpenFantasy**, como escuchar los poderosos ritmos que impulsan la sinfonía de la batalla.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

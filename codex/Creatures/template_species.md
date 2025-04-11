@@ -1,8 +1,8 @@
-# **[SPECIES_NAME]**: [BRIEF_DESCRIPTION]
+# **[SPECIES_NAME]** ([SPECIES_NAME]): [BRIEF_DESCRIPTION]
 
 > *"[QUOTE_ABOUT_SPECIES]"*
 
-## Quick Navigation
+## Quick Navigation (Navegación rápida)
 
 - [Elemental Composition](#elemental-composition)
 - [Physical Characteristics](#physical-characteristics)
@@ -11,141 +11,141 @@
 - [Cultural Aspects](#cultural-aspects)
 - [Species Relationships](#species-relationships)
 
-## Overview
+## Overview (Visión general)
 
 [OVERVIEW_PARAGRAPH]
 
-## Elemental Composition
+## Elemental Composition (Composición elemental)
 
-**[SPECIES_NAME]** possess a distinctive elemental composition:
+**[SPECIES_NAME]** ([SPECIES_NAME]) poseen una composición elemental distintiva:
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Soul (Alma) | Mana Capacity (Capacidad de maná) | Representative Type (Tipo representativo) |
 |----------|------|---------------|---------------------|
-| [E_RANGE]% | [S_RANGE]% | [M_RANGE]% | Standard range for the species |
-| [E_SUBTYPE1]% | [S_SUBTYPE1]% | [M_SUBTYPE1]% | **[SUBTYPE1]** with [SUBTYPE1_TRAITS] |
-| [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** with [SUBTYPE2_TRAITS] |
-| [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** with [SUBTYPE3_TRAITS] |
+| [E_RANGE]% | [S_RANGE]% | [M_RANGE]% | Rango estándar para la especie |
+| [E_SUBTYPE1]% | [S_SUBTYPE1]% | [M_SUBTYPE1]% | **[SUBTYPE1]** con [SUBTYPE1_TRAITS] |
+| [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** con [SUBTYPE2_TRAITS] |
+| [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** con [SUBTYPE3_TRAITS] |
 
-### Individual Variations
+### Individual Variations (Variaciones individuales)
 
 [VARIATION_PARAGRAPH]
 
-## Physical Characteristics
+## Physical Characteristics (Características físicas)
 
-**[SPECIES_NAME]** exhibit distinctive physical traits:
+**[SPECIES_NAME]** ([SPECIES_NAME]) exhiben rasgos físicos distintivos:
 
-| Characteristic | Description |
+| Characteristic (Característica) | Description (Descripción) |
 |----------------|-------------|
-| **Height** | [HEIGHT_RANGE] |
-| **Weight** | [WEIGHT_RANGE] |
-| **Lifespan** | [LIFESPAN] |
-| **Physical Maturity** | [MATURITY_AGE] |
-| **Notable Features** | [DISTINCTIVE_FEATURES] |
+| **Height (Altura)** | [HEIGHT_RANGE] |
+| **Weight (Peso)** | [WEIGHT_RANGE] |
+| **Lifespan (Esperanza de vida)** | [LIFESPAN] |
+| **Physical Maturity (Madurez física)** | [MATURITY_AGE] |
+| **Notable Features (Características notables)** | [DISTINCTIVE_FEATURES] |
 
-### Appearance
+### Appearance (Apariencia)
 
 - [APPEARANCE_TRAIT1]
 - [APPEARANCE_TRAIT2]
 - [APPEARANCE_TRAIT3]
 - [APPEARANCE_TRAIT4]
 
-## Magical Affinity
+## Magical Affinity (Afinidad mágica)
 
-**[SPECIES_NAME]** demonstrate [MAGICAL_PROFICIENCY_LEVEL] proficiency in manipulating **Mana**:
+**[SPECIES_NAME]** ([SPECIES_NAME]) demuestran [MAGICAL_PROFICIENCY_LEVEL] proficiencia en la manipulación de **Mana**:
 
-| Aspect | Capability |
+| Aspect | Capability (Capacidad) |
 |--------|------------|
-| **Mana Storage** | [STORAGE_CAPACITY] |
-| **Purification** | [PURIFICATION_ABILITY] |
-| **Casting Speed** | [CASTING_SPEED] |
-| **Natural Affinity** | [NATURAL_MAGIC_TYPE] |
+| **Mana Storage (Almacenamiento de maná)** | [STORAGE_CAPACITY] |
+| **Purification (Purificación)** | [PURIFICATION_ABILITY] |
+| **Casting Speed (Velocidad de lanzamiento)** | [CASTING_SPEED] |
+| **Natural Affinity (Afinidad natural)** | [NATURAL_MAGIC_TYPE] |
 
-### Magical Specializations
+### Magical Specializations (Especializaciones mágicas)
 
-While **[SPECIES_NAME]** can practice various forms of magic, they often excel in:
+While **[SPECIES_NAME]** ([SPECIES_NAME]) can practice various forms of magic, they often excel in:
 
 - **[SPECIALIZATION1]**: [SPECIALIZATION1_DESCRIPTION]
 - **[SPECIALIZATION2]**: [SPECIALIZATION2_DESCRIPTION]
 - **[SPECIALIZATION3]**: [SPECIALIZATION3_DESCRIPTION]
 
-## Habitat and Distribution
+## Habitat and Distribution (Hábitat y distribución)
 
-**[SPECIES_NAME]** typically inhabit [HABITAT_DESCRIPTION]:
+**[SPECIES_NAME]** ([SPECIES_NAME]) typically inhabit [HABITAT_DESCRIPTION]:
 
-| Region | Settlement Type | Notable Features |
+| Region (Región) | Settlement Type (Tipo de asentamiento) | Notable Features (Características notables) |
 |--------|----------------|------------------|
 | **[REGION1]** | [SETTLEMENT_TYPE1] | [REGION1_FEATURES] |
 | **[REGION2]** | [SETTLEMENT_TYPE2] | [REGION2_FEATURES] |
 | **[REGION3]** | [SETTLEMENT_TYPE3] | [REGION3_FEATURES] |
 
-### Climate Adaptation
+### Climate Adaptation (Adaptación climática)
 
 [CLIMATE_ADAPTATION_DESCRIPTION]
 
-## Cultural Aspects
+## Cultural Aspects (Aspectos culturales)
 
-The culture of **[SPECIES_NAME]** is characterized by [CULTURE_OVERVIEW]:
+The culture of **[SPECIES_NAME]** ([SPECIES_NAME]) is characterized by [CULTURE_OVERVIEW]:
 
-### Social Structure
+### Social Structure (Estructura social)
 
 [SOCIAL_STRUCTURE_DESCRIPTION]
 
-| Aspect | Details |
+| Aspect | Details (Detalles) |
 |--------|---------|
-| **Government** | [GOVERNMENT_TYPE] |
-| **Family Units** | [FAMILY_STRUCTURE] |
-| **Leadership** | [LEADERSHIP_MODEL] |
-| **Social Mobility** | [SOCIAL_MOBILITY] |
+| **Government (Gobierno)** | [GOVERNMENT_TYPE] |
+| **Family Units (Unidades familiares)** | [FAMILY_STRUCTURE] |
+| **Leadership (Liderazgo)** | [LEADERSHIP_MODEL] |
+| **Social Mobility (Movilidad social)** | [SOCIAL_MOBILITY] |
 
-### Core Values
+### Core Values (Valores fundamentales)
 
-Most **[SPECIES_NAME]** cultures share certain common values:
+Most **[SPECIES_NAME]** ([SPECIES_NAME]) cultures share certain common values:
 
 - **[VALUE1]**: [VALUE1_DESCRIPTION]
 - **[VALUE2]**: [VALUE2_DESCRIPTION]
 - **[VALUE3]**: [VALUE3_DESCRIPTION]
 - **[VALUE4]**: [VALUE4_DESCRIPTION]
 
-### Common Occupations
+### Common Occupations (Ocupaciones comunes)
 
-Popular professions among **[SPECIES_NAME]** include:
+Popular professions among **[SPECIES_NAME]** ([SPECIES_NAME]) include:
 
 - **[OCCUPATION1]**: [OCCUPATION1_DESCRIPTION]
 - **[OCCUPATION2]**: [OCCUPATION2_DESCRIPTION]
 - **[OCCUPATION3]**: [OCCUPATION3_DESCRIPTION]
 - **[OCCUPATION4]**: [OCCUPATION4_DESCRIPTION]
 
-## Species Relationships
+## Species Relationships (Relaciones entre especies)
 
-**[SPECIES_NAME]** interact with other species in distinctive ways:
+**[SPECIES_NAME]** ([SPECIES_NAME]) interact with other species in distinctive ways:
 
-| Species | Relationship | Notable Interactions |
+| Species (Especie) | Relationship (Relación) | Notable Interactions (Interacciones notables) |
 |---------|--------------|----------------------|
 | **[RELATION_SPECIES1]** | [RELATIONSHIP_TYPE1] | [INTERACTION_DETAILS1] |
 | **[RELATION_SPECIES2]** | [RELATIONSHIP_TYPE2] | [INTERACTION_DETAILS2] |
 | **[RELATION_SPECIES3]** | [RELATIONSHIP_TYPE3] | [INTERACTION_DETAILS3] |
 | **[RELATION_SPECIES4]** | [RELATIONSHIP_TYPE4] | [INTERACTION_DETAILS4] |
 
-### Diplomatic Approach
+### Diplomatic Approach (Enfoque diplomático)
 
-[SPECIES_NAME] diplomatic approaches typically emphasize:
+[SPECIES_NAME] ([SPECIES_NAME]) diplomatic approaches typically emphasize:
 
 - [DIPLOMATIC_TRAIT1]
 - [DIPLOMATIC_TRAIT2]
 - [DIPLOMATIC_TRAIT3]
 
-## Notable Traits
+## Notable Traits (Rasgos notables)
 
-**[SPECIES_NAME]** are characterized by several distinctive traits:
+**[SPECIES_NAME]** ([SPECIES_NAME]) are characterized by several distinctive traits:
 
-### Strengths
+### Strengths (Fortalezas)
 
 - **[STRENGTH1]**: [STRENGTH1_DESCRIPTION]
 - **[STRENGTH2]**: [STRENGTH2_DESCRIPTION]
 - **[STRENGTH3]**: [STRENGTH3_DESCRIPTION]
 - **[STRENGTH4]**: [STRENGTH4_DESCRIPTION]
 
-### Challenges
+### Challenges (Desafíos)
 
 - **[CHALLENGE1]**: [CHALLENGE1_DESCRIPTION]
 - **[CHALLENGE2]**: [CHALLENGE2_DESCRIPTION]
@@ -153,4 +153,8 @@ Popular professions among **[SPECIES_NAME]** include:
 
 ---
 
-> Understanding the **[SPECIES_NAME]** provides insight into [SPECIES_SIGNIFICANCE] in the world of **OpenFantasy**. 
+> Understanding the **[SPECIES_NAME]** ([SPECIES_NAME]) provides insight into [SPECIES_SIGNIFICANCE] in the world of **OpenFantasy**.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

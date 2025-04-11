@@ -1,213 +1,217 @@
-# **The School of Conjuration**
+# **La Escuela de Conjuración** (**The School of Conjuration**)
 
-> *"To conjure is to reach across the veil of possibility and draw forth that which exists elsewhere. It is not creation, but connection—a bridge between realms."*  
-> — Archconjurer Thaddeus Voidcaller, Master of the Summoning Circle
+> *"Conjurar es alcanzar a través del velo de la posibilidad y extraer aquello que existe en otro lugar. No es creación, sino conexión—un puente entre reinos."*
+> — Archiconjurador Thaddeus Voidcaller (Thaddeus Voidcaller), Maestro del Círculo de Invocación
 
-## Overview
+## Descripción General (**Overview**)
 
-Conjuration is the school of magic focused on calling forth matter, energy, or entities from elsewhere—whether from another location in the material world, elemental planes, or even other dimensions. Unlike illusion that creates sensory deception or evocation that generates effects from raw magical energy, conjuration involves the transportation, manifestation, or binding of pre-existing elements. It is considered one of the most potentially dangerous magical disciplines due to its interaction with forces and entities beyond the caster's native realm.
+La conjuración es la escuela de magia enfocada en invocar materia, energía o entidades de otro lugar, ya sea de otra ubicación en el mundo material, planos elementales o incluso otras dimensiones. A diferencia de la ilusión que crea engaños sensoriales o la evocación que genera efectos a partir de energía mágica pura, la conjuración implica el transporte, la manifestación o la ligadura de elementos preexistentes. Se considera una de las disciplinas mágicas potencialmente más peligrosas debido a su interacción con fuerzas y entidades más allá del reino nativo del lanzador.
 
-## Fundamental Principles
+## Principios Fundamentales (**Fundamental Principles**)
 
-### The Correspondence Axiom
+### El Axioma de Correspondencia (**The Correspondence Axiom**)
 
-The foundation of conjuration theory is the Correspondence Axiom, which states that all things that exist share fundamental resonant patterns that can be leveraged to create connections across space, time, and dimensional boundaries. By replicating these patterns, conjurers can establish temporary or permanent links between distant points.
+La base de la teoría de la conjuración es el Axioma de Correspondencia (**Correspondence Axiom**), que establece que todas las cosas que existen comparten patrones resonantes fundamentales que pueden aprovecharse para crear conexiones a través del espacio, el tiempo y los límites dimensionales. Al replicar estos patrones, los conjuradores pueden establecer vínculos temporales o permanentes entre puntos distantes.
 
-### Primary Components
+### Componentes Primarios (**Primary Components**)
 
-All conjuration spells incorporate three fundamental components:
+Todos los hechizos de conjuración incorporan tres componentes fundamentales:
 
-1. **Pattern Recognition**: Identifying the specific resonant signature of the target
-2. **Spatial Bridging**: Creating a connection between the caster's location and the target's location
-3. **Manifestation Control**: Guiding and containing the conjured element upon arrival
+1. **Reconocimiento de Patrones** (**Pattern Recognition**): Identificar la firma resonante específica del objetivo
+2. **Puente Espacial** (**Spatial Bridging**): Crear una conexión entre la ubicación del lanzador y la ubicación del objetivo
+3. **Control de Manifestación** (**Manifestation Control**): Guiar y contener el elemento conjurado al llegar
 
-More complex conjurations add additional components:
+Las conjuraciones más complejas añaden componentes adicionales:
 
-4. **Binding Frameworks**: Establishing control over conjured entities
-5. **Duration Anchoring**: Extending the manifestation period beyond immediate casting
-6. **Return Protocols**: Methods for dismissing or returning conjured elements
+4. **Marcos de Ligadura** (**Binding Frameworks**): Establecer el control sobre las entidades conjuradas
+5. **Anclaje de Duración** (**Duration Anchoring**): Extender el período de manifestación más allá del lanzamiento inmediato
+6. **Protocolos de Retorno** (**Return Protocols**): Métodos para descartar o devolver los elementos conjurados
 
-### Mana Requirements
+### Requisitos de Maná (**Mana Requirements**)
 
-Conjuration requires specific combinations of mana types, with purity levels that increase with the complexity and distance of the conjuration:
+La conjuración requiere combinaciones específicas de tipos de maná, con niveles de pureza que aumentan con la complejidad y la distancia de la conjuración:
 
-| Conjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| Conjuration Type (Tipo de Conjuración) | Primary Mana (Maná Primario) | Secondary Mana (Maná Secundario) | Tertiary Mana (Maná Terciario) | Purpose (Propósito) |
 |------------------|-------------|----------------|---------------|---------|
-| Object Summoning | Base Mana (40-50%) | Terramana (20-30%) | N/A | Material objects |
-| Elemental Calling | Base Mana (50-60%) | Elemental type (30-40%) | N/A | Elemental forces |
-| Entity Summoning | Base Mana (60-70%) | Varies by entity | Aetheramana (10-20%) | Living beings |
-| Teleportation | Base Mana (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Self/object movement |
-| Extradimensional Space | Base Mana (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Pocket dimensions |
-| Planar Gateway | Base Mana (70-80%) | Aetheramana (40-50%) | Varies by plane | Interplanar travel |
+| Object Summoning (Invocación de Objetos) | Base Mana (Maná Base) (40-50%) | Terramana (20-30%) | N/A | Objetos materiales |
+| Elemental Calling (Llamada Elemental) | Base Mana (Maná Base) (50-60%) | Tipo elemental (30-40%) | N/A | Fuerzas elementales |
+| Entity Summoning (Invocación de Entidades) | Base Mana (Maná Base) (60-70%) | Varía según la entidad | Aetheramana (10-20%) | Seres vivos |
+| Teleportation (Teletransportación) | Base Mana (Maná Base) (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Movimiento propio/de objetos |
+| Extradimensional Space (Espacio Extradimensional) | Base Mana (Maná Base) (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Dimensiones de bolsillo |
+| Planar Gateway (Portal Planario) | Base Mana (Maná Base) (70-80%) | Aetheramana (40-50%) | Varía según el plano | Viaje interplanar |
 
-### Wild Mana Response
+### Respuesta del Maná Salvaje (**Wild Mana Response**)
 
-Conjuration magic has a complex relationship with Wild Mana. While controlled conjuration requires precise patterns, Wild Mana can actually enhance certain types of summoning by:
+La magia de conjuración tiene una relación compleja con el Maná Salvaje (**Wild Mana**). Si bien la conjuración controlada requiere patrones precisos, el Maná Salvaje (**Wild Mana**) puede mejorar ciertos tipos de invocación al:
 
-- **Boundary Weakening**: Making it easier to reach across planar boundaries
-- **Manifestation Boosting**: Providing additional energy for materialization
-- **Pattern Expansion**: Allowing for less exact correspondent patterns to succeed
+- **Debilitamiento de Límites** (**Boundary Weakening**): Facilitar el alcance a través de los límites planares
+- **Impulso de Manifestación** (**Manifestation Boosting**): Proporcionar energía adicional para la materialización
+- **Expansión de Patrones** (**Pattern Expansion**): Permitir que tengan éxito patrones correspondientes menos exactos
 
-However, these benefits come with significant risks:
+Sin embargo, estos beneficios conllevan riesgos significativos:
 
-- **Location Drift**: Conjured elements may arrive from unexpected sources
-- **Partial Manifestation**: Incomplete or distorted summoning results
-- **Binding Failure**: Loss of control over conjured entities or elements
-- **Reverse Flow**: The caster being pulled toward the target rather than vice versa
+- **Deriva de Ubicación** (**Location Drift**): Los elementos conjurados pueden llegar de fuentes inesperadas
+- **Manifestación Parcial** (**Partial Manifestation**): Resultados de invocación incompletos o distorsionados
+- **Fallo de Ligadura** (**Binding Failure**): Pérdida de control sobre las entidades o elementos conjurados
+- **Flujo Inverso** (**Reverse Flow**): El lanzador siendo atraído hacia el objetivo en lugar de viceversa
 
-## Mana Purification for Conjuration
+## Purificación de Maná para la Conjuración (**Mana Purification for Conjuration**)
 
-Conjuration requires high mana purity for precise targeting and control:
+La conjuración requiere una alta pureza de maná para una orientación y control precisos:
 
-| Purification Level | Conjuration Capability |
+| Purification Level (Nivel de Purificación) | Conjuration Capability (Capacidad de Conjuración) |
 |--------------------|------------------------|
-| Basic (15-25%) | Simple object summoning from visible locations |
-| Intermediate (30-45%) | Elemental calling and teleportation of small objects over moderate distances |
-| Advanced (50-65%) | Entity summoning, personal teleportation, and minor extradimensional spaces |
-| Master (70-80%) | Complex entity binding, group teleportation, and stable pocket dimensions |
-| Grandmaster (85%+) | Planar gateways and permanent extradimensional constructs |
+| Basic (Básico) (15-25%) | Invocación simple de objetos desde ubicaciones visibles |
+| Intermediate (Intermedio) (30-45%) | Llamada elemental y teletransportación de objetos pequeños a distancias moderadas |
+| Advanced (Avanzado) (50-65%) | Invocación de entidades, teletransportación personal y espacios extradimensionales menores |
+| Master (Maestro) (70-80%) | Ligadura compleja de entidades, teletransportación grupal y dimensiones de bolsillo estables |
+| Grandmaster (Gran Maestro) (85%+) | Portales planares y construcciones extradimensionales permanentes |
 
-Insufficient purity in conjuration often results in material or spatial distortion—objects arriving damaged, locations being slightly misaligned, or entities appearing with altered properties.
+La pureza insuficiente en la conjuración a menudo resulta en distorsión material o espacial: los objetos llegan dañados, las ubicaciones están ligeramente desalineadas o las entidades aparecen con propiedades alteradas.
 
-## The Conjurer's Harmony
+## La Armonía del Conjurador (**The Conjurer's Harmony**)
 
-Conjuration magic is conceptualized through musical counterpoint, with each spell creating harmonic relationships between source and destination:
+La magia de conjuración se conceptualiza a través del contrapunto musical, con cada hechizo creando relaciones armónicas entre la fuente y el destino:
 
-- **Unison**: Direct transportation with minimal change
-- **Octave Shift**: Scaling effects (enlarging or diminishing the conjured element)
-- **Harmonization**: Adapting the conjured element to its new environment
-- **Dissonant Conjuring**: Forcing incompatible elements into manifestation
-- **Resonant Summoning**: Enhanced manifestation through matching harmonics
+- **Unísono** (**Unison**): Transporte directo con un cambio mínimo
+- **Cambio de Octava** (**Octave Shift**): Efectos de escala (ampliando o disminuyendo el elemento conjurado)
+- **Armonización** (**Harmonization**): Adaptación del elemento conjurado a su nuevo entorno
+- **Conjuración Disonante** (**Dissonant Conjuring**): Forzar la manifestación de elementos incompatibles
+- **Invocación Resonante** (**Resonant Summoning**): Manifestación mejorada a través de armónicos coincidentes
 
-Master conjurers speak of "conducting" multiple simultaneous manifestations, maintaining distinct harmonic relationships with each conjured element.
+Los maestros conjuradores hablan de "dirigir" múltiples manifestaciones simultáneas, manteniendo relaciones armónicas distintas con cada elemento conjurado.
 
-## Specialized Disciplines
+## Disciplinas Especializadas (**Specialized Disciplines**)
 
-### Summoning
+### Invocación (**Summoning**)
 
-The calling of entities, whether elemental, spiritual, or organic. Practitioners are known as Summoners.
+El llamado de entidades, ya sean elementales, espirituales u orgánicas. Los practicantes se conocen como Invocadores (**Summoners**).
 
-### Material Conjuration
+### Conjuración Material (**Material Conjuration**)
 
-Focused on manifesting non-living objects and substances. Masters are called Materializers.
+Centrado en la manifestación de objetos y sustancias no vivientes. Los maestros se llaman Materializadores (**Materializers**).
 
-### Spatial Manipulation
+### Manipulación Espacial (**Spatial Manipulation**)
 
-Specialized in teleportation and dimensional pockets. Practitioners are called Spatials.
+Especializado en teletransportación y bolsillos dimensionales. Los practicantes se llaman Espaciales (**Spatials**).
 
-### Binding
+### Ligadura (**Binding**)
 
-The control and constraint of conjured entities. Masters are known as Binders.
+El control y la restricción de las entidades conjuradas. Los maestros se conocen como Ligadores (**Binders**).
 
-### Gateway Creation
+### Creación de Portales (**Gateway Creation**)
 
-Establishing permanent or semi-permanent connections between locations. Practitioners are called Gateweavers.
+Establecer conexiones permanentes o semipermanentes entre ubicaciones. Los practicantes se llaman Tejedores de Portales (**Gateweavers**).
 
-### Dismissal
+### Descarte (**Dismissal**)
 
-Specialized in returning conjured elements to their origin. Masters are known as Banishers.
+Especializado en devolver los elementos conjurados a su origen. Los maestros se conocen como Desterradores (**Banishers**).
 
-### Planar Exploration
+### Exploración Planar (**Planar Exploration**)
 
-The study and access of other planes of existence. Practitioners are called Planeswalkers.
+El estudio y el acceso a otros planos de existencia. Los practicantes se llaman Caminantes Planarios (**Planeswalkers**).
 
-## Training Methodology
+## Metodología de Entrenamiento (**Training Methodology**)
 
-Conjuration training follows a structured progression:
+El entrenamiento de conjuración sigue una progresión estructurada:
 
-1. **Theoretical Foundations**: Understanding cross-spatial relationships and correspondence
-2. **Local Manifestation**: Practicing with objects in visual range
-3. **Distance Expansion**: Gradually increasing the range of conjuration
-4. **Elemental Work**: Summoning the more predictable elemental forces
-5. **Dimensional Theory**: Study of other planes and dimensions
-6. **Entity Protocols**: Safe summoning and binding of sentient beings
-7. **Self-Translation**: Personal teleportation techniques
-8. **Combined Operations**: Managing multiple conjurations simultaneously
+1. **Fundamentos Teóricos** (**Theoretical Foundations**): Comprender las relaciones y la correspondencia entre espacios
+2. **Manifestación Local** (**Local Manifestation**): Practicar con objetos en el rango visual
+3. **Expansión de Distancia** (**Distance Expansion**): Aumentar gradualmente el rango de conjuración
+4. **Trabajo Elemental** (**Elemental Work**): Invocación de las fuerzas elementales más predecibles
+5. **Teoría Dimensional** (**Dimensional Theory**): Estudio de otros planos y dimensiones
+6. **Protocolos de Entidades** (**Entity Protocols**): Invocación y ligadura seguras de seres sintientes
+7. **Autotraducción** (**Self-Translation**): Técnicas de teletransportación personal
+8. **Operaciones Combinadas** (**Combined Operations**): Gestionar múltiples conjuraciones simultáneamente
 
-Training emphasizes control and containment above all else, with rigorous safety protocols developed from centuries of sometimes catastrophic failures.
+El entrenamiento enfatiza el control y la contención por encima de todo, con rigurosos protocolos de seguridad desarrollados a partir de siglos de fracasos a veces catastróficos.
 
-## Conjuration in Practice
+## La Conjuración en la Práctica (**Conjuration in Practice**)
 
-The process of casting conjuration magic follows distinct phases:
+El proceso de lanzamiento de magia de conjuración sigue fases distintas:
 
-1. **Target Identification**: Determining the specific element to be conjured
-2. **Pattern Matching**: Establishing the resonant link to the target
-3. **Mana Purification**: Achieving the necessary purity for stable connections
-4. **Boundary Thinning**: Creating the spatial or dimensional pathway
-5. **Draw or Push**: Pulling the target to the caster or moving the caster to the target
-6. **Manifestation Stabilization**: Anchoring the conjured element in its new location
-7. **Binding (if needed)**: Establishing control over conjured entities
-8. **Dismissal Preparation**: Setting conditions for ending the conjuration
+1. **Identificación del Objetivo** (**Target Identification**): Determinar el elemento específico que se va a conjurar
+2. **Coincidencia de Patrones** (**Pattern Matching**): Establecer el enlace resonante con el objetivo
+3. **Purificación de Maná** (**Mana Purification**): Lograr la pureza necesaria para conexiones estables
+4. **Adelgazamiento de Límites** (**Boundary Thinning**): Crear la vía espacial o dimensional
+5. **Atracción o Empuje** (**Draw or Push**): Atraer el objetivo al lanzador o mover al lanzador al objetivo
+6. **Estabilización de la Manifestación** (**Manifestation Stabilization**): Anclar el elemento conjurado en su nueva ubicación
+7. **Ligadura (si es necesario)** (**Binding (if needed)**): Establecer el control sobre las entidades conjuradas
+8. **Preparación del Descarte** (**Dismissal Preparation**): Establecer las condiciones para finalizar la conjuración
 
-For emergency conjuration, these steps may be compressed into rapid casting, while complex summonings often involve elaborate ritual circles and extended preparation.
+Para la conjuración de emergencia, estos pasos pueden comprimirse en un lanzamiento rápido, mientras que las invocaciones complejas a menudo involucran círculos rituales elaborados y una preparación prolongada.
 
-## Practical Applications
+## Aplicaciones Prácticas (**Practical Applications**)
 
-Conjuration serves numerous practical functions in magical society:
+La conjuración sirve a numerosas funciones prácticas en la sociedad mágica:
 
-- **Transportation**: Personal and group teleportation networks, item delivery systems
-- **Resource Acquisition**: Summoning rare materials from distant locations
-- **Space Optimization**: Extradimensional storage for homes, businesses, and archives
-- **Emergency Services**: Rapid response through teleportation, summoning water for firefighting
-- **Construction**: Conjuring building materials directly at construction sites
-- **Military**: Strategic troop deployment, supply line maintenance, battlefield control
-- **Entertainment**: Conjuration performances featuring exotic entities or spectacular manifestations
+- **Transporte** (**Transportation**): Redes de teletransportación personales y grupales, sistemas de entrega de artículos
+- **Adquisición de Recursos** (**Resource Acquisition**): Invocación de materiales raros de lugares distantes
+- **Optimización del Espacio** (**Space Optimization**): Almacenamiento extradimensional para hogares, negocios y archivos
+- **Servicios de Emergencia** (**Emergency Services**): Respuesta rápida mediante teletransportación, invocación de agua para la extinción de incendios
+- **Construcción** (**Construction**): Conjurar materiales de construcción directamente en los sitios de construcción
+- **Militar** (**Military**): Despliegue estratégico de tropas, mantenimiento de líneas de suministro, control del campo de batalla
+- **Entretenimiento** (**Entertainment**): Actuaciones de conjuración con entidades exóticas o manifestaciones espectaculares
 
-## Ethical Considerations
+## Consideraciones Éticas (**Ethical Considerations**)
 
-Conjuration raises significant ethical questions:
+La conjuración plantea importantes cuestiones éticas:
 
-- **Entity Rights**: The moral implications of summoning and binding sentient beings
-- **Ecosystem Impact**: Consequences of removing elements from their native environments
-- **Dimensional Stability**: Potential harm from weakening planar boundaries
-- **Informed Consent**: Whether entities understand or agree to being summoned
-- **Environmental Exploitation**: Using conjuration to extract resources from vulnerable regions
-- **Secure Transport**: Privacy and security concerns with teleportation networks
+- **Derechos de las Entidades** (**Entity Rights**): Las implicaciones morales de invocar y ligar seres sintientes
+- **Impacto en el Ecosistema** (**Ecosystem Impact**): Consecuencias de la eliminación de elementos de sus entornos nativos
+- **Estabilidad Dimensional** (**Dimensional Stability**): Daño potencial al debilitar los límites planares
+- **Consentimiento Informado** (**Informed Consent**): Si las entidades entienden o aceptan ser invocadas
+- **Explotación Ambiental** (**Environmental Exploitation**): Uso de la conjuración para extraer recursos de regiones vulnerables
+- **Transporte Seguro** (**Secure Transport**): Preocupaciones de privacidad y seguridad con las redes de teletransportación
 
-Most conjuration academies enforce strict ethical codes governing entity summoning and extradimensional access.
+La mayoría de las academias de conjuración hacen cumplir códigos éticos estrictos que rigen la invocación de entidades y el acceso extradimensional.
 
-## Limitations and Weaknesses
+## Limitaciones y Debilidades (**Limitations and Weaknesses**)
 
-Despite its power, conjuration has inherent limitations:
+A pesar de su poder, la conjuración tiene limitaciones inherentes:
 
-- **Conservation Principles**: Matter and energy can be moved but not created from nothing
-- **Correspondence Requirements**: Conjurers must have some connection to or knowledge of their target
-- **Distance Factors**: Energy requirements increase exponentially with distance or dimensional separation
-- **Unwilling Resistance**: Sentient targets can resist summoning or teleportation
-- **Planar Compatibility**: Some elements cannot exist in environments too different from their origin
-- **Dimensional Rejection**: Repeated conjuration to the same location can create instability
+- **Principios de Conservación** (**Conservation Principles**): La materia y la energía pueden moverse pero no crearse de la nada
+- **Requisitos de Correspondencia** (**Correspondence Requirements**): Los conjuradores deben tener alguna conexión o conocimiento de su objetivo
+- **Factores de Distancia** (**Distance Factors**): Los requisitos de energía aumentan exponencialmente con la distancia o la separación dimensional
+- **Resistencia No Dispuesta** (**Unwilling Resistance**): Los objetivos sintientes pueden resistir la invocación o la teletransportación
+- **Compatibilidad Planar** (**Planar Compatibility**): Algunos elementos no pueden existir en entornos demasiado diferentes a su origen
+- **Rechazo Dimensional** (**Dimensional Rejection**): La conjuración repetida en el mismo lugar puede crear inestabilidad
 
-Common countermeasures against conjuration include:
+Las contramedidas comunes contra la conjuración incluyen:
 
-- **Anchor Wards**: Magical protections that prevent teleportation or summoning
-- **Pattern Obscuring**: Techniques to hide one's resonant signature from would-be summoners
-- **Dimensional Shielding**: Barriers that block access from other planes
-- **Binding Severing**: Methods to break control over summoned entities
-- **Return Forcing**: Compelling conjured elements to return to their origin prematurely
+- **Guardias de Anclaje** (**Anchor Wards**): Protecciones mágicas que impiden la teletransportación o la invocación
+- **Oscurecimiento de Patrones** (**Pattern Obscuring**): Técnicas para ocultar la firma resonante de uno de los posibles invocadores
+- **Blindaje Dimensional** (**Dimensional Shielding**): Barreras que bloquean el acceso desde otros planos
+- **Separación de Ligadura** (**Binding Severing**): Métodos para romper el control sobre las entidades invocadas
+- **Forzamiento de Retorno** (**Return Forcing**): Obligar a los elementos conjurados a regresar a su origen prematuramente
 
-## Musical Analogy
+## Analogía Musical (**Musical Analogy**)
 
-In the musical framework of magic, conjuration represents string instruments—creating connections that vibrate across distances, pulling disparate elements into harmony. The conjurer is like a harpist, plucking the strings that connect different points in the multiverse.
+En el marco musical de la magia, la conjuración representa los instrumentos de cuerda: crear conexiones que vibran a través de las distancias, atrayendo elementos dispares a la armonía. El conjurador es como un arpista, pulsando las cuerdas que conectan diferentes puntos del multiverso.
 
-Conjuration spells are described in terms of "resonance" and "harmonics," with each successful manifestation requiring perfect tuning between the caster and target. Master conjurers can maintain complex "chords" of multiple connections simultaneously, drawing elements from various sources into carefully orchestrated combinations.
+Los hechizos de conjuración se describen en términos de "resonancia" y "armónicos", y cada manifestación exitosa requiere una sintonización perfecta entre el lanzador y el objetivo. Los maestros conjuradores pueden mantener "acordes" complejos de múltiples conexiones simultáneamente, atrayendo elementos de varias fuentes en combinaciones cuidadosamente orquestadas.
 
-## Notable Practitioners
+## Practicantes Notables (**Notable Practitioners**)
 
-- **Thaddeus Voidcaller**: Pioneer of safe entity summoning protocols and creator of the Sevenfold Binding Circle
-- **Lydia Gateheart**: Established the first permanent teleportation network spanning the continent
-- **Corvus Dimensionum**: Legendary explorer of pocket dimensions and creator of the Pocket Academy
-- **Elara Quicksilver**: Master of combat teleportation and developer of the Spatial Combat System
-- **Malachi Netherbridge**: Controversial researcher who established first contact with the Far Realms
+- Thaddeus Voidcaller (Thaddeus Voidcaller): Pionero de los protocolos seguros de invocación de entidades y creador del Círculo de Ligadura Séptuple
+- Lydia Gateheart (Lydia Gateheart): Estableció la primera red de teletransportación permanente que abarca el continente
+- Corvus Dimensionum (Corvus Dimensionum): Legendario explorador de dimensiones de bolsillo y creador de la Academia de Bolsillo
+- Elara Quicksilver (Elara Quicksilver): Maestra de la teletransportación de combate y desarrolladora del Sistema de Combate Espacial
+- Malachi Netherbridge (Malachi Netherbridge): Investigador controvertido que estableció el primer contacto con los Reinos Lejanos
 
-## Safety Protocols
+## Protocolos de Seguridad (**Safety Protocols**)
 
-Due to the inherent dangers of conjuration, standardized safety measures include:
+Debido a los peligros inherentes de la conjuración, las medidas de seguridad estandarizadas incluyen:
 
-- **Containment Circles**: Mandatory for all entity summoning
-- **Pattern Verification**: Double-checking correspondences before casting
-- **Emergency Dismissal Words**: Universal phrases taught to instantly end conjurations
-- **Planar Anchoring**: Methods to prevent unwanted dimensional drift
-- **Entity Contracts**: Formal agreements with regularly summoned beings
-- **Observation Partners**: Required second casters for monitoring complex conjurations
+- **Círculos de Contención** (**Containment Circles**): Obligatorio para toda invocación de entidades
+- **Verificación de Patrones** (**Pattern Verification**): Doble comprobación de correspondencias antes del lanzamiento
+- **Palabras de Descarte de Emergencia** (**Emergency Dismissal Words**): Frases universales que se enseñan para finalizar instantáneamente las conjuraciones
+- **Anclaje Planar** (**Planar Anchoring**): Métodos para evitar la deriva dimensional no deseada
+- **Contratos de Entidades** (**Entity Contracts**): Acuerdos formales con seres invocados regularmente
+- **Socios de Observación** (**Observation Partners**): Segundos lanzadores requeridos para monitorear conjuraciones complejas
 
-The Conjurer's Oath, taken by all certified practitioners, includes the promise to "never call what cannot be dismissed, never bind what cannot be controlled, and never open doors that cannot be closed." 
+El Juramento del Conjurador (**Conjurer's Oath**), tomado por todos los practicantes certificados, incluye la promesa de "nunca llamar lo que no se puede descartar, nunca ligar lo que no se puede controlar y nunca abrir puertas que no se pueden cerrar".
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

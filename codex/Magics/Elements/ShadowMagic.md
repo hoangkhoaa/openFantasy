@@ -1,203 +1,207 @@
-# **Shadow Magic**: The Art of Darkness and Concealment
+# **Magia de las Sombras (Shadow Magic)**: El Arte (The Art) de la Oscuridad (Darkness) y el Ocultamiento (Concealment)
 
-> *"Shadow is not the absence of light, but a subtle presence of its own—a realm of possibilities that exists between what is seen and unseen. Those who fear the dark understand neither its nature nor its gifts."* — Archumbramancer Soren Nightveil
+> *"La sombra (Shadow) no es la ausencia de luz (light), sino una sutil presencia propia, un reino (realm) de posibilidades que existe entre lo que se ve y no se ve. Aquellos que temen a la oscuridad (dark) no comprenden ni su naturaleza ni sus dones."* — Archumbramancer Soren Nightveil
 
-## Quick Reference
-- [Properties of Umbramana](#properties-of-umbramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Referencia Rápida (Quick Reference)
+- [Propiedades de Umbramana](#properties-of-umbramana)
+- [Técnicas de Manipulación (Manipulation Techniques)](#manipulation-techniques)
+- [Hechizos Comunes (Common Spells)](#common-spells)
+- [Desarrollo de Afinidad (Affinity Development)](#affinity-development)
+- [Riesgos y Salvaguardias (Risks and Safeguards)](#risks-and-safeguards)
+- [Significado Cultural (Cultural Significance)](#cultural-significance)
 
-## Properties of Umbramana
+## Propiedades de Umbramana
 
-Umbramana, the elemental mana of shadow, is characterized by:
+Umbramana, el maná elemental (elemental mana) de la sombra (shadow), se caracteriza por:
 
-- **Appearance**: Deep purples, blues, and blacks; absorptive, flowing patterns that seem to draw in light
-- **Sensation**: Feels cool, calming, and subtly invigorating when channeled; creates a sense of depth and concealment
-- **Resonance**: Low to medium-frequency, complex vibration patterns with harmonic depth
-- **Purification Challenge**: Tends to absorb and hide impurities rather than release them; requires persistent refinement
-- **Opposite Element**: Light (creates twilight when forced together, ultimately consumed by light)
-- **Complementary Elements**: Death (creates void), Fire (creates smoke)
-- **Musical Analogy**: Minor key melodies, particularly string instruments; complex, layered harmonies
+- **Apariencia (Appearance)**: Morados (purples), azules (blues) y negros (blacks) profundos; patrones absortivos y fluidos que parecen atraer la luz (light)
+- **Sensación (Sensation)**: Se siente fresco, calmante y sutilmente vigorizante cuando se canaliza; crea una sensación de profundidad (depth) y ocultamiento (concealment)
+- **Resonancia (Resonance)**: Patrones de vibración complejos de frecuencia baja a media con profundidad armónica
+- **Desafío de Purificación (Purification Challenge)**: Tiende a absorber y ocultar las impurezas en lugar de liberarlas; requiere un refinamiento persistente
+- **Elemento Opuesto (Opposite Element)**: Luz (Light) (crea crepúsculo (twilight) cuando se juntan a la fuerza, finalmente consumido por la luz (light))
+- **Elementos Complementarios (Complementary Elements)**: Muerte (Death) (crea vacío (void)), Fuego (Fire) (crea humo (smoke))
+- **Analogía Musical (Musical Analogy)**: Melodías de tono menor, particularmente instrumentos de cuerda; armonías complejas y estratificadas
 
-## Manipulation Techniques
+## Técnicas de Manipulación (Manipulation Techniques)
 
-### Basic Techniques
+### Técnicas Básicas (Basic Techniques)
 
-#### Shadow Summoning
-The foundational technique of drawing forth and concentrating shadow:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Gathers ambient darkness or creates shadow where minimal light exists
-- **Training Focus**: Darkness concentration and boundary definition
-- **Applications**: Creating areas of concealment, darkening rooms, enhancing existing shadows
+#### Invocación de Sombras (Shadow Summoning)
+La técnica fundamental de extraer y concentrar la sombra (shadow):
+- **Dificultad (Difficulty)**: Novato (Novice)
+- **Requisito de Pureza (Purity Requirement)**: Básico (Basic) (15-25%)
+- **Efecto (Effect)**: Recopila la oscuridad (darkness) ambiental o crea sombra (shadow) donde existe una luz (light) mínima
+- **Enfoque de Entrenamiento (Training Focus)**: Concentración de la oscuridad (darkness) y definición de límites
+- **Aplicaciones (Applications)**: Crear áreas de ocultamiento (concealment), oscurecer habitaciones, mejorar las sombras (shadows) existentes
 
-#### Umbral Shaping
-Molding and manipulating existing shadow:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Forms shadow into specific shapes and patterns
-- **Training Focus**: Shadow density and form maintenance
-- **Applications**: Simple disguises, intimidation effects, symbolic communication
+#### Moldeado Umbral (Umbral Shaping)
+Moldear y manipular la sombra (shadow) existente:
+- **Dificultad (Difficulty)**: Novato (Novice) a Intermedio (Intermediate)
+- **Requisito de Pureza (Purity Requirement)**: Básico (Basic) a Refinado (Refined) (20-40%)
+- **Efecto (Effect)**: Forma la sombra (shadow) en formas y patrones específicos
+- **Enfoque de Entrenamiento (Training Focus)**: Densidad de la sombra (shadow) y mantenimiento de la forma
+- **Aplicaciones (Applications)**: Disfraces simples, efectos de intimidación, comunicación simbólica
 
-#### Perception Dimming
-Subtly affecting how others perceive the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-50%)
-- **Effect**: Reduces observers' awareness of the caster's presence
-- **Training Focus**: Attention deflection and sensory dampening
-- **Applications**: Stealth enhancement, social camouflage, avoiding unwanted attention
+#### Atenuación de la Percepción (Perception Dimming)
+Afectar sutilmente cómo los demás perciben al lanzador:
+- **Dificultad (Difficulty)**: Intermedio (Intermediate)
+- **Requisito de Pureza (Purity Requirement)**: Refinado (Refined) (30-50%)
+- **Efecto (Effect)**: Reduce la conciencia de los observadores de la presencia del lanzador
+- **Enfoque de Entrenamiento (Training Focus)**: Desviación de la atención y amortiguación sensorial
+- **Aplicaciones (Applications)**: Mejora del sigilo, camuflaje social, evitar la atención no deseada
 
-### Advanced Techniques
+### Técnicas Avanzadas (Advanced Techniques)
 
-#### Shadow Animation
-Creating semi-autonomous shadow constructs:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Infuses shadow with temporary purpose and limited intelligence
-- **Training Focus**: Intent projection and umbral persistence
-- **Applications**: Scouting, distraction, message carrying, performance art
+#### Animación de Sombras (Shadow Animation)
+Crear construcciones de sombra (shadow) semiautónomas:
+- **Dificultad (Difficulty)**: Avanzado (Advanced)
+- **Requisito de Pureza (Purity Requirement)**: Refinado (Refined) a Perfecto (Perfect) (45-70%)
+- **Efecto (Effect)**: Infunde a la sombra (shadow) un propósito temporal e inteligencia limitada
+- **Enfoque de Entrenamiento (Training Focus)**: Proyección de la intención y persistencia umbral
+- **Aplicaciones (Applications)**: Exploración, distracción, transporte de mensajes, arte escénico
 
-#### Void Pocketing
-Creating spaces between shadows:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Forms stable extra-dimensional spaces within shadow
-- **Training Focus**: Spatial folding and boundary maintenance
-- **Applications**: Concealment of objects, temporary storage, escape routes
+#### Ensacado de Vacío (Void Pocketing)
+Crear espacios entre sombras (shadows):
+- **Dificultad (Difficulty)**: Experto (Expert)
+- **Requisito de Pureza (Purity Requirement)**: Perfecto (Perfect) (65-85%)
+- **Efecto (Effect)**: Forma espacios extradimensionales estables dentro de la sombra (shadow)
+- **Enfoque de Entrenamiento (Training Focus)**: Plegado espacial y mantenimiento de límites
+- **Aplicaciones (Applications)**: Ocultamiento (concealment) de objetos, almacenamiento temporal, rutas de escape
 
-#### Umbral Traversal
-Using shadow as a medium for transportation:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Allows physical translation through connected shadows
-- **Training Focus**: Dimensional mapping and personal integrity maintenance
-- **Applications**: Rapid travel, infiltration, escape from physical restraints
+#### Travesía Umbral (Umbral Traversal)
+Usar la sombra (shadow) como medio de transporte:
+- **Dificultad (Difficulty)**: Maestro (Master)
+- **Requisito de Pureza (Purity Requirement)**: Perfecto (Perfect) (75-95%)
+- **Efecto (Effect)**: Permite la traducción física a través de sombras (shadows) conectadas
+- **Enfoque de Entrenamiento (Training Focus)**: Mapeo dimensional y mantenimiento de la integridad personal
+- **Aplicaciones (Applications)**: Viaje rápido, infiltración, escape de restricciones físicas
 
-## Common Spells
+## Hechizos Comunes (Common Spells)
 
-### Novice Spells
+### Hechizos de Novato (Novice Spells)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Spell (Hechizo) | Effect (Efecto) | Components (Componentes) | Casting Time (Tiempo de Lanzamiento) | Duration (Duración) |
 |-------|--------|------------|--------------|----------|
-| **Shadow Hand** | Creates a manipulable shadow appendage | Somatic | 2 seconds | Concentration |
-| **Dim** | Reduces light level in a small area | Somatic, Verbal | 3 seconds | 10 minutes |
-| **Night Eyes** | Enhances vision in darkness | Somatic, Verbal | 5 seconds | 1 hour |
-| **Shadow Mark** | Places an invisible mark visible only in darkness | Somatic, Focus | 10 seconds | 1 week |
+| **Shadow Hand (Mano de Sombra)** | Crea un apéndice de sombra (shadow) manipulable | Somático (Somatic) | 2 segundos | Concentración (Concentration) |
+| **Dim (Atenuar)** | Reduce el nivel de luz (light) en un área pequeña | Somático (Somatic), Verbal | 3 segundos | 10 minutos |
+| **Night Eyes (Ojos Nocturnos)** | Mejora la visión en la oscuridad (darkness) | Somático (Somatic), Verbal | 5 segundos | 1 hora |
+| **Shadow Mark (Marca de Sombra)** | Coloca una marca invisible visible sólo en la oscuridad (darkness) | Somático (Somatic), Enfoque (Focus) | 10 segundos | 1 semana |
 
-### Intermediate Spells
+### Hechizos Intermedios (Intermediate Spells)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Spell (Hechizo) | Effect (Efecto) | Components (Componentes) | Casting Time (Tiempo de Lanzamiento) | Duration (Duración) |
 |-------|--------|------------|--------------|----------|
-| **Cloak of Shadows** | Wraps the caster in concealing darkness | Somatic, Verbal | 5 seconds | 30 minutes |
-| **Shadow Puppet** | Creates a simple animated shadow figure | Somatic, Focus | 10 seconds | 10 minutes |
-| **Umbral Message** | Sends a message through connecting shadows | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
-| **Dark Mirror** | Creates a reflection of reality in shadow | Somatic, Verbal, Focus | 30 seconds | 10 minutes |
+| **Cloak of Shadows (Manto de Sombras)** | Envuelve al lanzador en una oscuridad (darkness) que lo oculta | Somático (Somatic), Verbal | 5 segundos | 30 minutos |
+| **Shadow Puppet (Marioneta de Sombra)** | Crea una figura de sombra (shadow) animada simple | Somático (Somatic), Enfoque (Focus) | 10 segundos | 10 minutos |
+| **Umbral Message (Mensaje Umbral)** | Envía un mensaje a través de sombras (shadows) conectadas | Somático (Somatic), Verbal, Enfoque (Focus) | 30 segundos | Instantáneo (Instantaneous) |
+| **Dark Mirror (Espejo Oscuro)** | Crea un reflejo de la realidad en la sombra (shadow) | Somático (Somatic), Verbal, Enfoque (Focus) | 30 segundos | 10 minutos |
 
-### Advanced Spells
+### Hechizos Avanzados (Advanced Spells)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Spell (Hechizo) | Effect (Efecto) | Components (Componentes) | Casting Time (Tiempo de Lanzamiento) | Duration (Duración) |
 |-------|--------|------------|--------------|----------|
-| **Shadow Step** | Allows short-range teleportation between shadows | Somatic, Verbal, Focus | 3 seconds | Instantaneous |
-| **Umbral Entity** | Forms a semi-autonomous shadow being | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Consuming Darkness** | Creates a field of devouring shadow energy | Somatic, Verbal, Focus | 15 seconds | Concentration |
-| **Realm of Shadow** | Transforms an area into a shadow-dominant environment | Somatic, Verbal, Focus, Ritual | 10 minutes | 1 hour |
+| **Shadow Step (Paso de Sombra)** | Permite la teletransportación de corto alcance entre sombras (shadows) | Somático (Somatic), Verbal, Enfoque (Focus) | 3 segundos | Instantáneo (Instantaneous) |
+| **Umbral Entity (Entidad Umbral)** | Forma un ser de sombra (shadow) semiautónomo | Somático (Somatic), Verbal, Enfoque (Focus) | 1 minuto | 1 hora |
+| **Consuming Darkness (Oscuridad Devoradora)** | Crea un campo de energía de sombra (shadow) devoradora | Somático (Somatic), Verbal, Enfoque (Focus) | 15 segundos | Concentración (Concentration) |
+| **Realm of Shadow (Reino de Sombra)** | Transforma un área en un entorno dominado por la sombra (shadow) | Somático (Somatic), Verbal, Enfoque (Focus), Ritual | 10 minutos | 1 hora |
 
-## Affinity Development
+## Desarrollo de Afinidad (Affinity Development)
 
-Shadow affinity progresses through several distinctive stages:
+La afinidad con la sombra (shadow) progresa a través de varias etapas distintivas:
 
-### Twilight Touch
-The foundational relationship with shadow that most beginners possess:
-- **Manifestation**: Enhanced perception in darkness, intuitive sense of concealed spaces
-- **Physical Signs**: Slightly darker pupils, subtle darkening around fingertips when casting
-- **Enhancement Method**: Regular meditation at twilight or in dimly lit spaces
+### Toque Crepuscular (Twilight Touch)
+La relación fundamental con la sombra (shadow) que la mayoría de los principiantes poseen:
+- **Manifestación (Manifestation)**: Percepción mejorada en la oscuridad (darkness), sentido intuitivo de los espacios ocultos
+- **Signos Físicos (Physical Signs)**: Pupilas ligeramente más oscuras, oscurecimiento sutil alrededor de las yemas de los dedos al lanzar
+- **Método de Mejora (Enhancement Method)**: Meditación regular al crepúsculo (twilight) o en espacios con poca luz (light)
 
-### Umbral Echo
-The intermediate stage where shadow responds more readily to the mage's will:
-- **Manifestation**: Shadows deepen around the caster, ambient light seems to dim slightly
-- **Physical Signs**: Eyes appear darker, shadow cast is slightly more pronounced than normal
-- **Enhancement Method**: Shadow immersion exercises, prolonged exposure to natural darkness
+### Eco Umbral (Umbral Echo)
+La etapa intermedia donde la sombra (shadow) responde más fácilmente a la voluntad del mago:
+- **Manifestación (Manifestation)**: Las sombras (shadows) se profundizan alrededor del lanzador, la luz (light) ambiental parece atenuarse ligeramente
+- **Signos Físicos (Physical Signs)**: Los ojos parecen más oscuros, la sombra (shadow) proyectada es ligeramente más pronunciada de lo normal
+- **Método de Mejora (Enhancement Method)**: Ejercicios de inmersión en la sombra (shadow), exposición prolongada a la oscuridad (darkness) natural
 
-### Void Harmony
-Advanced practitioners achieve a deep resonance with shadow's properties:
-- **Manifestation**: Natural shadows seem drawn to the caster, ability to sense movement through darkness
-- **Physical Signs**: Skin develops subtle shifting patterns in dim light, voice gains resonant qualities
-- **Enhancement Method**: Deep communion at sites of natural darkness or during lunar eclipses
+### Armonía del Vacío (Void Harmony)
+Los practicantes avanzados logran una resonancia profunda con las propiedades de la sombra (shadow):
+- **Manifestación (Manifestation)**: Las sombras (shadows) naturales parecen atraídas por el lanzador, capacidad de sentir el movimiento a través de la oscuridad (darkness)
+- **Signos Físicos (Physical Signs)**: La piel desarrolla patrones sutiles y cambiantes con poca luz (light), la voz adquiere cualidades resonantes
+- **Método de Mejora (Enhancement Method)**: Comunión profunda en sitios de oscuridad (darkness) natural o durante eclipses lunares
 
-### Shadow Integration
-Master umbramancers who have achieved profound connection with shadow:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of darkness
-- **Physical Signs**: Body temperature drops slightly, blood appears unusually dark, starlight reflection in eyes
-- **Enhancement Method**: Deep communion at ley line intersections with strong shadow resonance
+### Integración de la Sombra (Shadow Integration)
+Umbramancers maestros que han logrado una profunda conexión con la sombra (shadow):
+- **Manifestación (Manifestation)**: Habilidades de transformación parcial, manipulación intuitiva de la oscuridad (darkness)
+- **Signos Físicos (Physical Signs)**: La temperatura corporal baja ligeramente, la sangre aparece inusualmente oscura, reflejo de la luz de las estrellas en los ojos
+- **Método de Mejora (Enhancement Method)**: Comunión profunda en intersecciones de líneas ley con fuerte resonancia de sombra (shadow)
 
-## Risks and Safeguards
+## Riesgos y Salvaguardias (Risks and Safeguards)
 
-### Common Risks
+### Riesgos Comunes (Common Risks)
 
-- **Sensory Degradation**: Diminished visual perception in normal light
-- **Emotional Dampening**: Gradual suppression of emotional responses
-- **Umbral Dependency**: Developing discomfort in bright light or open spaces
-- **Identity Diffusion**: Loss of self-definition through excessive shadow immersion
-- **Void Contamination**: Shadow techniques accidentally accessing dangerous extraplanar spaces
+- **Degradación Sensorial (Sensory Degradation)**: Percepción visual disminuida con luz (light) normal
+- **Amortiguación Emocional (Emotional Dampening)**: Supresión gradual de las respuestas emocionales
+- **Dependencia Umbral (Umbral Dependency)**: Desarrollar incomodidad con la luz (light) brillante o los espacios abiertos
+- **Difusión de Identidad (Identity Diffusion)**: Pérdida de la autodefinición a través de la inmersión excesiva en la sombra (shadow)
+- **Contaminación del Vacío (Void Contamination)**: Técnicas de sombra (shadow) que acceden accidentalmente a espacios extraplanares peligrosos
 
-### Miscast Effects
+### Efectos de Lanzamiento Fallido (Miscast Effects)
 
-| Severity | Effect | Recovery |
+| Severity (Gravedad) | Effect (Efecto) | Recovery (Recuperación) |
 |----------|--------|----------|
-| **Minor** | Temporary night vision, heightened light sensitivity, minor shadow persistence | Hours |
-| **Moderate** | Partial transparency in bright light, shadow pooling, emotional flattening | Days |
-| **Severe** | Uncontrolled phasing into shadow, sensory darkness, loss of physical boundaries | Weeks |
-| **Critical** | Involuntary shadow transformation, void displacement, essence fragmentation | Months to permanent |
+| **Minor (Menor)** | Visión nocturna (night vision) temporal, mayor sensibilidad a la luz (light), persistencia menor de la sombra (shadow) | Horas |
+| **Moderate (Moderado)** | Transparencia parcial con luz (light) brillante, acumulación de sombras (shadows), aplanamiento emocional | Días |
+| **Severe (Grave)** | Faseo incontrolado hacia la sombra (shadow), oscuridad (darkness) sensorial, pérdida de límites físicos | Semanas |
+| **Critical (Crítico)** | Transformación involuntaria en sombra (shadow), desplazamiento del vacío (void), fragmentación de la esencia | Meses a permanente |
 
-### Safety Practices
+### Prácticas de Seguridad (Safety Practices)
 
-- **Light Balancing**: Regular exposure to natural sunlight between practice sessions
-- **Identity Anchoring**: Personal focus objects and regular social interaction
-- **Boundary Rituals**: Clearly defined casting spaces with protective markings
-- **Emotional Maintenance**: Creative expression and emotional stimulation exercises
-- **Physical Grounding**: Regular physical exercise and tactile experiences
+- **Equilibrio de Luz (Light Balancing)**: Exposición regular a la luz (light) solar natural entre sesiones de práctica
+- **Anclaje de Identidad (Identity Anchoring)**: Objetos de enfoque personal e interacción social regular
+- **Rituales de Límite (Boundary Rituals)**: Espacios de lanzamiento claramente definidos con marcas protectoras
+- **Mantenimiento Emocional (Emotional Maintenance)**: Expresión creativa y ejercicios de estimulación emocional
+- **Conexión Física a Tierra (Physical Grounding)**: Ejercicio físico regular y experiencias táctiles
 
-## Cultural Significance
+## Significado Cultural (Cultural Significance)
 
-### Historical Development
+### Desarrollo Histórico (Historical Development)
 
-Shadow magic represents one of the most misunderstood and often maligned magical disciplines. Its development followed three distinct historical phases:
+La magia de las sombras (shadow magic) representa una de las disciplinas mágicas más incomprendidas y a menudo difamadas. Su desarrollo siguió tres fases históricas distintas:
 
-1. **Primal Darkness**: Early cultures developing rituals around night, caves, and the unknown
-2. **Concealment Necessity**: Development of stealth techniques during periods of magical persecution
-3. **Dimensional Exploration**: Advanced practitioners discovering shadow's connection to other planes
+1. **Oscuridad Primal (Primal Darkness)**: Las culturas tempranas desarrollaron rituales en torno a la noche, las cuevas y lo desconocido
+2. **Necesidad de Ocultamiento (Concealment Necessity)**: Desarrollo de técnicas de sigilo durante los períodos de persecución mágica
+3. **Exploración Dimensional (Dimensional Exploration)**: Practicantes avanzados que descubren la conexión de la sombra (shadow) con otros planos
 
-### Regional Variations
+### Variaciones Regionales (Regional Variations)
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Culture (Cultura) | Focus (Enfoque) | Signature Technique (Técnica Distintiva) | Philosophy (Filosofía) |
 |---------|-------|---------------------|------------|
-| **Forest Dwellers** | Concealment, camouflage | Shadow blending, dappled darkness | Shadow as the silent protector |
-| **Underground Societies** | Navigation, perception | Cave sight, echo shadowing | Shadow as the true foundation |
-| **Urban Practitioners** | Stealth, communication | Alleyway walking, urban concealment | Shadow as the unseen network |
-| **Desert Night Tribes** | Star connection, cooling | Night shrouding, heat absorption | Shadow as the night's blessing |
+| **Forest Dwellers (Habitantes del Bosque)** | Ocultamiento (Concealment), camuflaje | Mezcla de sombras (shadow blending), oscuridad (darkness) moteada | La sombra (shadow) como el protector silencioso |
+| **Underground Societies (Sociedades Subterráneas)** | Navegación, percepción | Vista de cueva, sombreado de eco | La sombra (shadow) como la verdadera base |
+| **Urban Practitioners (Practicantes Urbanos)** | Sigilo, comunicación | Caminar por callejones, ocultamiento (concealment) urbano | La sombra (shadow) como la red invisible |
+| **Desert Night Tribes (Tribus Nocturnas del Desierto)** | Conexión estelar, enfriamiento | Envoltura nocturna, absorción de calor | La sombra (shadow) como la bendición de la noche |
 
-### Ceremonial Uses
+### Usos Ceremoniales (Ceremonial Uses)
 
-Shadow magic features prominently in some cultural ceremonies:
-- **Transition Rituals**: Marking major life changes through symbolic shadow immersion
-- **Protection Ceremonies**: Creating shadow guardians for important locations
-- **Coming of Age**: Young umbramancers demonstrating their first shadow manipulation
-- **New Moon Gatherings**: Communal shadow workings during the darkest nights
+La magia de las sombras (shadow magic) aparece prominentemente en algunas ceremonias culturales:
+- **Rituales de Transición (Transition Rituals)**: Marcar los principales cambios de la vida a través de la inmersión simbólica en la sombra (shadow)
+- **Ceremonias de Protección (Protection Ceremonies)**: Crear guardianes de sombra (shadow) para lugares importantes
+- **Mayoría de Edad (Coming of Age)**: Jóvenes umbramancers que demuestran su primera manipulación de la sombra (shadow)
+- **Reuniones de Luna Nueva (New Moon Gatherings)**: Trabajos comunales de sombra (shadow) durante las noches más oscuras
 
-### Contemporary Applications
+### Aplicaciones Contemporáneas (Contemporary Applications)
 
-Beyond stealth and intimidation, shadow magic serves important societal functions:
-- **Privacy Protection**: Creating secure spaces free from surveillance
-- **Information Security**: Shadow-marked documents that reveal content only under specific conditions
-- **Environmental Management**: Temperature control through strategic shadow creation
-- **Therapeutic Applications**: Sensory reduction environments for psychological treatment
-- **Engineering**: Testing structures for stability and integrity through shadow analysis
+Más allá del sigilo y la intimidación, la magia de las sombras (shadow magic) cumple importantes funciones sociales:
+- **Protección de la Privacidad (Privacy Protection)**: Crear espacios seguros libres de vigilancia
+- **Seguridad de la Información (Information Security)**: Documentos marcados con sombra (shadow) que revelan contenido sólo bajo condiciones específicas
+- **Gestión Ambiental (Environmental Management)**: Control de la temperatura a través de la creación estratégica de sombras (shadows)
+- **Aplicaciones Terapéuticas (Therapeutic Applications)**: Entornos de reducción sensorial para el tratamiento psicológico
+- **Ingeniería (Engineering)**: Probar la estabilidad e integridad de las estructuras a través del análisis de la sombra (shadow)
 
-> *"The student of shadow must understand that darkness does not seek to consume light, but to provide balance—like silence that gives meaning to sound, or rest that gives purpose to activity."* — The Umbral Tenets
+> *"El estudiante de la sombra (shadow) debe comprender que la oscuridad (darkness) no busca consumir la luz (light), sino proporcionar equilibrio, como el silencio que da significado al sonido, o el descanso que da propósito a la actividad."* — Los Mandamientos Umbrales (The Umbral Tenets)
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Light Magic](/codex/Magics/Elements/LightMagic.md), [Void Magic](/codex/Magics/Advanced/Specializations/VoidMagic.md)* 
+*Ver también: [Magia Elemental (Elemental Magic)](/codex/Magics/Elements/ElementalMagic.md), [Magia de la Luz (Light Magic)](/codex/Magics/Elements/LightMagic.md), [Magia del Vacío (Void Magic)](/codex/Magics/Advanced/Specializations/VoidMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

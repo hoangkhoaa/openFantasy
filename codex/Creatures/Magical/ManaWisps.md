@@ -1,187 +1,191 @@
-# **Mana Wisps**: Sentient Manifestations of Pure Magical Energy
+# **Mana Wisps** (Fragmentos de Maná): Manifestaciones Sensibles de Energía Mágica Pura
 
-> *"Like living thoughts of magic itself, Wisps dance at the edge of perception, embodying the purest expression of mana's will to exist."* — Archmage Elara Lumestriel
+> *"Como pensamientos vivientes de la magia misma, los Fragmentos danzan al borde de la percepción, encarnando la expresión más pura de la voluntad del maná de existir."* — Archimaga Elara Lumestriel
 
-## Quick Navigation
+## Navegación Rápida
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Behavioral Patterns](#behavioral-patterns)
-- [Species Relationships](#species-relationships)
+- [Elemental Composition (Composición Elemental)](#elemental-composition)
+- [Physical Characteristics (Características Físicas)](#physical-characteristics)
+- [Magical Affinity (Afinidad Mágica)](#magical-affinity)
+- [Habitat and Distribution (Hábitat y Distribución)](#habitat-and-distribution)
+- [Behavioral Patterns (Patrones de Comportamiento)](#behavioral-patterns)
+- [Species Relationships (Relaciones con Especies)](#species-relationships)
 
-## Overview
+## Overview (Visión General)
 
-Mana Wisps are rare, ephemeral beings that exist as direct manifestations of nearly pure Base Mana that has achieved consciousness. Unlike most magical creatures, Wisps are not born through biological processes but form spontaneously in areas with exceptionally high magical saturation, particularly near ley line convergences, ancient ritual sites, or in the aftermath of powerful magical events. They represent the threshold where magical energy gains sufficient complexity to develop self-awareness, existing as living embodiments of the fundamental magical principles that govern OpenFantasy.
+Los Mana Wisps (Fragmentos de Maná) son seres raros y efímeros que existen como manifestaciones directas de Maná Base casi puro que ha alcanzado la conciencia. A diferencia de la mayoría de las criaturas mágicas, los Wisps no nacen a través de procesos biológicos, sino que se forman espontáneamente en áreas con una saturación mágica excepcionalmente alta, particularmente cerca de las convergencias de líneas ley, sitios rituales antiguos o después de poderosos eventos mágicos. Representan el umbral donde la energía mágica gana la complejidad suficiente para desarrollar la autoconciencia, existiendo como encarnaciones vivientes de los principios mágicos fundamentales que gobiernan OpenFantasy.
 
-## Elemental Composition
+## Elemental Composition (Composición Elemental)
 
-**Mana Wisps** possess an elemental composition unlike any other known beings:
+Los **Mana Wisps** (Fragmentos de Maná) poseen una composición elemental diferente a la de cualquier otro ser conocido:
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis (Exantis) | Soul (Alma) | Mana Capacity (Capacidad de Maná) | Representative Type (Tipo Representativo) |
 |----------|------|---------------|---------------------|
-| 1-5% | 10-15% | 80-90% | Standard Wisp |
-| 0-2% | 8-10% | 88-92% | **Pure Wisp** with heightened magical sensitivity |
-| 3-7% | 15-20% | 75-85% | **Stable Wisp** with greater physicality and longevity |
-| 5-10% | 5-10% | 80-90% | **Elemental Wisp** with strong affinity to specific elements |
+| 1-5% | 10-15% | 80-90% | Standard Wisp (Fragmento Estándar) |
+| 0-2% | 8-10% | 88-92% | **Pure Wisp** (Fragmento Puro) con mayor sensibilidad mágica |
+| 3-7% | 15-20% | 75-85% | **Stable Wisp** (Fragmento Estable) con mayor fisicalidad y longevidad |
+| 5-10% | 5-10% | 80-90% | **Elemental Wisp** (Fragmento Elemental) con fuerte afinidad a elementos específicos |
 
-### Individual Variations
+### Individual Variations (Variaciones Individuales)
 
-While all Mana Wisps share a core nature of extremely high Mana Capacity and minimal physical form, their individual manifestations vary based on the magical conditions that birthed them. Wisps formed near elemental sources tend to adopt qualities of that element, while those born from ritual magic often reflect the spell's purpose. The oldest Wisps gradually develop stronger Soul components, gaining deeper consciousness and the ability to form more complex thoughts and relationships.
+Si bien todos los Mana Wisps (Fragmentos de Maná) comparten una naturaleza central de una capacidad de Maná extremadamente alta y una forma física mínima, sus manifestaciones individuales varían según las condiciones mágicas que los engendraron. Los Wisps formados cerca de fuentes elementales tienden a adoptar cualidades de ese elemento, mientras que los nacidos de la magia ritual a menudo reflejan el propósito del hechizo. Los Wisps más antiguos desarrollan gradualmente componentes de Alma más fuertes, ganando una conciencia más profunda y la capacidad de formar pensamientos y relaciones más complejas.
 
-## Physical Characteristics
+## Physical Characteristics (Características Físicas)
 
-**Mana Wisps** exhibit distinctive physical traits:
+Los **Mana Wisps** (Fragmentos de Maná) exhiben rasgos físicos distintivos:
 
-| Characteristic | Description |
+| Characteristic (Característica) | Description (Descripción) |
 |----------------|-------------|
-| **Size** | Typically 4-12 inches in diameter |
-| **Weight** | Virtually none (0.01-0.1 ounces) |
-| **Lifespan** | Variable; typically 3-12 years, though some ancient specimens have existed for centuries |
-| **Physical Maturity** | Instantaneous upon formation |
-| **Notable Features** | Luminous core surrounded by shifting, translucent energy patterns |
+| **Size** (Tamaño) | Típicamente de 4-12 pulgadas de diámetro |
+| **Weight** (Peso) | Prácticamente ninguno (0.01-0.1 onzas) |
+| **Lifespan** (Esperanza de Vida) | Variable; típicamente de 3-12 años, aunque algunos especímenes antiguos han existido durante siglos |
+| **Physical Maturity** (Madurez Física) | Instantánea tras la formación |
+| **Notable Features** (Características Notables) | Núcleo luminoso rodeado de patrones de energía translúcidos y cambiantes |
 
-### Appearance
+### Appearance (Apariencia)
 
-- **Luminescence**: Emit soft, pulsating light reflecting their emotional state
-- **Chromatic Variation**: Color correlates with their dominant elemental affinity
-- **Patterned Movement**: Energy flow forms consistent patterns unique to each individual
-- **Translucent Body**: Core structure visible through semi-transparent outer layers
-- **Adaptive Form**: Can compress or expand slightly based on environmental conditions
+- **Luminescence** (Luminiscencia): Emiten una luz suave y pulsante que refleja su estado emocional.
+- **Chromatic Variation** (Variación Cromática): El color se correlaciona con su afinidad elemental dominante.
+- **Patterned Movement** (Movimiento Estampado): El flujo de energía forma patrones consistentes únicos para cada individuo.
+- **Translucent Body** (Cuerpo Translúcido): Estructura central visible a través de capas externas semitransparentes.
+- **Adaptive Form** (Forma Adaptable): Puede comprimirse o expandirse ligeramente según las condiciones ambientales.
 
-## Magical Affinity
+## Magical Affinity (Afinidad Mágica)
 
-**Mana Wisps** demonstrate extraordinary proficiency in manipulating **Mana**:
+Los **Mana Wisps** (Fragmentos de Maná) demuestran una extraordinaria competencia en la manipulación de **Mana**:
 
-| Aspect | Capability |
+| Aspect (Aspecto) | Capability (Capacidad) |
 |--------|------------|
-| **Mana Storage** | Exceptional (equivalent to 85-95% capacity beings despite small size) |
-| **Purification** | Extraordinary (natural 95%+ purity of Base Mana) |
-| **Specialization Efficiency** | Exceptional (80-90% conversion efficiency) |
-| **Natural Affinity** | Base Mana primarily; secondary affinity varies by individual |
+| **Mana Storage** (Almacenamiento de Maná) | Excepcional (equivalente al 85-95% de la capacidad de los seres a pesar de su pequeño tamaño) |
+| **Purification** (Purificación) | Extraordinaria (pureza natural del 95%+ de Maná Base) |
+| **Specialization Efficiency** (Eficiencia de Especialización) | Excepcional (80-90% de eficiencia de conversión) |
+| **Natural Affinity** (Afinidad Natural) | Maná Base principalmente; la afinidad secundaria varía según el individuo |
 
-### Magical Specializations
+### Magical Specializations (Especializaciones Mágicas)
 
-While **Mana Wisps** can manifest various forms of magic, they often excel in:
+Si bien los **Mana Wisps** (Fragmentos de Maná) pueden manifestar varias formas de magia, a menudo sobresalen en:
 
-- **Mana Sensing**: Ability to detect subtle variations in magical fields with extraordinary precision
-- **Energy Transference**: Can absorb, store, and release pure magical energy with minimal loss
-- **Resonance Manipulation**: Instinctively harmonize with and modify magical frequencies
-- **Pattern Recognition**: Intuitive understanding of spell patterns and magical structures
+- **Mana Sensing** (Detección de Maná): Capacidad para detectar variaciones sutiles en los campos mágicos con extraordinaria precisión.
+- **Energy Transference** (Transferencia de Energía): Puede absorber, almacenar y liberar energía mágica pura con una pérdida mínima.
+- **Resonance Manipulation** (Manipulación de Resonancia): Se armoniza instintivamente con las frecuencias mágicas y las modifica.
+- **Pattern Recognition** (Reconocimiento de Patrones): Comprensión intuitiva de los patrones de hechizos y las estructuras mágicas.
 
-### Unique Magical Traits
+### Unique Magical Traits (Rasgos Mágicos Únicos)
 
-- **Phase Shifting**: Can temporarily shift between material existence and pure energy state
-- **Mana Communion**: Ability to directly communicate with other magical beings through mana resonance
-- **Wild Mana Purification**: Natural ability to convert Wild Mana to Base Mana with exceptional efficiency
-- **Magical Symbiosis**: Can form beneficial connections with compatible spellcasters
+- **Phase Shifting** (Cambio de Fase): Puede cambiar temporalmente entre la existencia material y el estado de energía pura.
+- **Mana Communion** (Comunión de Maná): Capacidad para comunicarse directamente con otros seres mágicos a través de la resonancia del maná.
+- **Wild Mana Purification** (Purificación de Maná Salvaje): Habilidad natural para convertir Wild Mana (Maná Salvaje) en Maná Base con una eficiencia excepcional.
+- **Magical Symbiosis** (Simbiosis Mágica): Puede formar conexiones beneficiosas con lanzadores de hechizos compatibles.
 
-## Habitat and Distribution
+## Habitat and Distribution (Hábitat y Distribución)
 
-**Mana Wisps** typically inhabit areas with high magical concentration:
+Los **Mana Wisps** (Fragmentos de Maná) suelen habitar áreas con alta concentración mágica:
 
-| Region | Settlement Type | Notable Features |
+| Region (Región) | Settlement Type (Tipo de Asentamiento) | Notable Features (Características Notables) |
 |--------|----------------|------------------|
-| **Ley Line Confluences** | Temporary gatherings | Highest concentration, cyclical migration patterns |
-| **Ancient Magical Sites** | Small, stable colonies | Long-term residence, often serving as site guardians |
-| **Wizard Towers/Academies** | Symbiotic relationships | Living in mutually beneficial association with mages |
-| **Fae Realm Borders** | Threshold communities | Facilitating energy exchange between realms |
+| **Ley Line Confluences** (Confluencias de Líneas Ley) | Temporary gatherings (Reuniones temporales) | Highest concentration, cyclical migration patterns (Mayor concentración, patrones de migración cíclicos) |
+| **Ancient Magical Sites** (Antiguos Sitios Mágicos) | Small, stable colonies (Pequeñas colonias estables) | Long-term residence, often serving as site guardians (Residencia a largo plazo, que a menudo sirven como guardianes del sitio) |
+| **Wizard Towers/Academies** (Torres/Academias de Magos) | Symbiotic relationships (Relaciones simbióticas) | Living in mutually beneficial association with mages (Viviendo en asociación mutuamente beneficiosa con magos) |
+| **Fae Realm Borders** (Fronteras del Reino Fae) | Threshold communities (Comunidades umbral) | Facilitating energy exchange between realms (Facilitando el intercambio de energía entre reinos) |
 
-### Magical Environment Adaptation
+### Magical Environment Adaptation (Adaptación al Entorno Mágico)
 
-Mana Wisps require environments rich in ambient magical energy to sustain themselves. Unlike most beings that draw Wild Mana from their surroundings to convert into Base Mana internally, Wisps exist in a constant state of energy exchange with their environment. This makes them extremely sensitive to changes in magical fields and vulnerable to areas of low magical saturation, where they can quickly weaken and eventually dissipate.
+Los Mana Wisps (Fragmentos de Maná) requieren entornos ricos en energía mágica ambiental para sustentarse. A diferencia de la mayoría de los seres que extraen Wild Mana (Maná Salvaje) de su entorno para convertirlo en Maná Base internamente, los Wisps existen en un estado constante de intercambio de energía con su entorno. Esto los hace extremadamente sensibles a los cambios en los campos mágicos y vulnerables a las áreas de baja saturación mágica, donde pueden debilitarse rápidamente y eventualmente disiparse.
 
-## Behavioral Patterns
+## Behavioral Patterns (Patrones de Comportamiento)
 
-Despite lacking complex biological brains, Mana Wisps display distinct behavioral patterns that suggest sophisticated consciousness:
+A pesar de carecer de cerebros biológicos complejos, los Mana Wisps (Fragmentos de Maná) muestran distintos patrones de comportamiento que sugieren una conciencia sofisticada:
 
-### Intelligence and Communication
+### Intelligence and Communication (Inteligencia y Comunicación)
 
-- **Non-verbal Consciousness**: Possess intelligence without traditional thought structures
-- **Light Pattern Language**: Communicate through pulses, color shifts, and movement patterns
-- **Magical Resonance Dialogue**: Can "speak" directly to magically sensitive beings through mana fluctuations
-- **Collective Memory**: Access shared knowledge when gathered in groups
+- **Non-verbal Consciousness** (Conciencia No Verbal): Poseen inteligencia sin estructuras de pensamiento tradicionales.
+- **Light Pattern Language** (Lenguaje de Patrones de Luz): Se comunican a través de pulsos, cambios de color y patrones de movimiento.
+- **Magical Resonance Dialogue** (Diálogo de Resonancia Mágica): Pueden "hablar" directamente con seres mágicamente sensibles a través de fluctuaciones de maná.
+- **Collective Memory** (Memoria Colectiva): Acceden al conocimiento compartido cuando se reúnen en grupos.
 
-### Social Structure
+### Social Structure (Estructura Social)
 
-Wisps typically exist in loose collective arrangements called "illuminations":
+Los Wisps suelen existir en acuerdos colectivos flexibles llamados "iluminaciones":
 
-| Group Size | Structure | Purpose |
+| Group Size (Tamaño del Grupo) | Structure (Estructura) | Purpose (Propósito) |
 |------------|-----------|---------|
-| 1-3 Wisps | Solitary/Pair | Exploration, specialized magical functions |
-| 5-12 Wisps | Cluster | Standard social unit, mutual protection |
-| 20-50 Wisps | Illumination | Full community with specialized roles |
-| 100+ Wisps | Brilliance | Rare gatherings with heightened collective intelligence |
+| 1-3 Wisps (Fragmentos) | Solitary/Pair (Solitario/Pareja) | Exploration, specialized magical functions (Exploración, funciones mágicas especializadas) |
+| 5-12 Wisps (Fragmentos) | Cluster (Grupo) | Standard social unit, mutual protection (Unidad social estándar, protección mutua) |
+| 20-50 Wisps (Fragmentos) | Illumination (Iluminación) | Full community with specialized roles (Comunidad completa con roles especializados) |
+| 100+ Wisps (Fragmentos) | Brilliance (Brillantez) | Rare gatherings with heightened collective intelligence (Reuniones raras con mayor inteligencia colectiva) |
 
-### Life Cycle
+### Life Cycle (Ciclo de Vida)
 
-1. **Coalescence**: Spontaneous formation from concentrated ambient mana
-2. **Awakening**: Development of self-awareness and individual identity
-3. **Maturation**: Gradual stabilization and growth of mental complexity
-4. **Specialization**: Development of specific magical affinities and skills
-5. **Diffusion**: Eventually disperse back into pure magical energy or, rarely, ascend to higher forms
+1. **Coalescence** (Coalescencia): Formación espontánea a partir de maná ambiental concentrado.
+2. **Awakening** (Despertar): Desarrollo de la autoconciencia e identidad individual.
+3. **Maturation** (Maduración): Estabilización gradual y crecimiento de la complejidad mental.
+4. **Specialization** (Especialización): Desarrollo de afinidades y habilidades mágicas específicas.
+5. **Diffusion** (Difusión): Eventualmente se dispersan de nuevo en energía mágica pura o, raramente, ascienden a formas superiores.
 
-## Species Relationships
+## Species Relationships (Relaciones con Especies)
 
-**Mana Wisps** interact with other species in distinctive ways:
+Los **Mana Wisps** (Fragmentos de Maná) interactúan con otras especies de formas distintivas:
 
-| Species | Relationship | Notable Interactions |
+| Species (Especie) | Relationship (Relación) | Notable Interactions (Interacciones Notables) |
 |---------|--------------|----------------------|
-| **Arcane Spellcasters** | Mutually Beneficial | Can serve as familiars, mana monitors, or spell assistants |
-| **Fae** | General Affinity | Natural understanding and communication |
-| **Elementals** | Respectful Coexistence | Recognition of shared non-biological nature |
-| **Sentient Plants** | Symbiotic | Often provide growth energy in exchange for protection |
-| **Humans** | Cautious Curiosity | Interest in human magic, wariness of exploitation |
-| **Shadowfolk** | Opposing Energies | Natural tension due to contrasting magical natures |
+| **Arcane Spellcasters** (Lanzadores de Hechizos Arcanos) | Mutually Beneficial (Mutuamente Beneficiosa) | Can serve as familiars, mana monitors, or spell assistants (Puede servir como familiares, monitores de maná o asistentes de hechizos) |
+| **Fae** (Hada) | General Affinity (Afinidad General) | Natural understanding and communication (Comprensión y comunicación natural) |
+| **Elementals** (Elementales) | Respectful Coexistence (Coexistencia Respetuosa) | Recognition of shared non-biological nature (Reconocimiento de la naturaleza no biológica compartida) |
+| **Sentient Plants** (Plantas Sensibles) | Symbiotic (Simbiótica) | Often provide growth energy in exchange for protection (A menudo proporcionan energía de crecimiento a cambio de protección) |
+| **Humans** (Humanos) | Cautious Curiosity (Curiosidad Cautelosa) | Interest in human magic, wariness of exploitation (Interés en la magia humana, desconfianza de la explotación) |
+| **Shadowfolk** (Gente de las Sombras) | Opposing Energies (Energías Opuestas) | Natural tension due to contrasting magical natures (Tensión natural debido a la naturaleza mágica contrastante) |
 
-### Magical Symbiosis
+### Magical Symbiosis (Simbiosis Mágica)
 
-Mana Wisps can form uniquely beneficial relationships with spellcasters who earn their trust:
+Los Mana Wisps (Fragmentos de Maná) pueden formar relaciones excepcionalmente beneficiosas con los lanzadores de hechizos que se ganan su confianza:
 
-- **Mana Purification**: Help improve a caster's Phase 2 conversion efficiency
-- **Wild Mana Filtration**: Assist in converting dangerous concentrations of Wild Mana
-- **Spell Stabilization**: Lend their natural resonance to enhance spell pattern stability
-- **Energy Conservation**: Reduce mana wastage in complex castings
+- **Mana Purification** (Purificación de Maná): Ayudan a mejorar la eficiencia de conversión de Fase 2 de un lanzador.
+- **Wild Mana Filtration** (Filtración de Maná Salvaje): Ayudan a convertir concentraciones peligrosas de Wild Mana (Maná Salvaje).
+- **Spell Stabilization** (Estabilización de Hechizos): Prestan su resonancia natural para mejorar la estabilidad del patrón de los hechizos.
+- **Energy Conservation** (Conservación de Energía): Reducen el desperdicio de maná en lanzamientos complejos.
 
-## Notable Traits
+## Notable Traits (Rasgos Notables)
 
-**Mana Wisps** are characterized by several distinctive traits:
+Los **Mana Wisps** (Fragmentos de Maná) se caracterizan por varios rasgos distintivos:
 
-### Strengths
+### Strengths (Fortalezas)
 
-- **Magical Purity**: Natural 95%+ mana purity without effort
-- **Elemental Versatility**: Ability to work with all forms of elemental mana
-- **Pattern Intelligence**: Intuitive understanding of magical structures
-- **Energy Sensitivity**: Can detect subtle magical disturbances
-- **Environmental Adaptability**: Can adjust their resonance to match surroundings
+- **Magical Purity** (Pureza Mágica): Pureza de maná natural del 95%+ sin esfuerzo.
+- **Elemental Versatility** (Versatilidad Elemental): Capacidad para trabajar con todas las formas de maná elemental.
+- **Pattern Intelligence** (Inteligencia de Patrones): Comprensión intuitiva de las estructuras mágicas.
+- **Energy Sensitivity** (Sensibilidad Energética): Puede detectar perturbaciones mágicas sutiles.
+- **Environmental Adaptability** (Adaptabilidad Ambiental): Puede ajustar su resonancia para que coincida con el entorno.
 
-### Challenges
+### Challenges (Desafíos)
 
-- **Physical Vulnerability**: Almost no physical substance to resist damage
-- **Energy Dependency**: Require constant access to magical energy sources
-- **Communication Limitations**: Difficulty conveying complex concepts to non-magical beings
-- **Existence Fragility**: Risk of dissipation when exposed to anti-magical effects
+- **Physical Vulnerability** (Vulnerabilidad Física): Casi ninguna sustancia física para resistir el daño.
+- **Energy Dependency** (Dependencia Energética): Requieren acceso constante a fuentes de energía mágica.
+- **Communication Limitations** (Limitaciones de Comunicación): Dificultad para transmitir conceptos complejos a seres no mágicos.
+- **Existence Fragility** (Fragilidad Existencial): Riesgo de disipación cuando se exponen a efectos antimágicos.
 
-## Practical Applications and Interactions
+## Practical Applications and Interactions (Aplicaciones e Interacciones Prácticas)
 
-### Research Value
+### Research Value (Valor de Investigación)
 
-Mana Wisps provide invaluable insights into fundamental magical principles:
+Los Mana Wisps (Fragmentos de Maná) proporcionan información valiosa sobre los principios mágicos fundamentales:
 
-- **Living Demonstrations** of the Base Mana to Elemental Mana conversion process
-- **Natural Models** of optimal mana specialization efficiency
-- **Observable Examples** of consciousness emerging from magical energy
+- **Living Demonstrations** (Demostraciones Vivientes) del proceso de conversión de Maná Base a Maná Elemental.
+- **Natural Models** (Modelos Naturales) de eficiencia óptima de especialización de maná.
+- **Observable Examples** (Ejemplos Observables) de conciencia que emerge de la energía mágica.
 
-### Magical Practice Integration
+### Magical Practice Integration (Integración de la Práctica Mágica)
 
-Advanced mages work with Wisps in several capacities:
+Los magos avanzados trabajan con Wisps en varias capacidades:
 
-- **Spell Diagnostics**: Identify flaws in magical pattern construction
-- **Mana Source Identification**: Locate optimal positions for ritual sites
-- **Purification Assistance**: Enhance mana purification during complex workings
-- **Wild Mana Stabilization**: Help contain dangerous magical phenomena
+- **Spell Diagnostics** (Diagnóstico de Hechizos): Identifican fallas en la construcción de patrones mágicos.
+- **Mana Source Identification** (Identificación de Fuentes de Maná): Localizan posiciones óptimas para sitios rituales.
+- **Purification Assistance** (Asistencia de Purificación): Mejoran la purificación de maná durante trabajos complejos.
+- **Wild Mana Stabilization** (Estabilización de Maná Salvaje): Ayudan a contener fenómenos mágicos peligrosos.
 
 ---
 
-> Understanding **Mana Wisps** provides unique insight into the living potential of magical energy in its purest form, offering a window into the fundamental relationship between consciousness and mana that underpins all magical practice in OpenFantasy. 
+> La comprensión de los **Mana Wisps** (Fragmentos de Maná) proporciona una visión única del potencial vivo de la energía mágica en su forma más pura, ofreciendo una ventana a la relación fundamental entre la conciencia y el maná que sustenta toda práctica mágica en OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

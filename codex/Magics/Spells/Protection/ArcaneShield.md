@@ -1,104 +1,108 @@
-# **Arcane Shield**
+# **Arcane Shield (Escudo Arcano)**
 
-A fundamental defensive spell that creates a barrier of magical energy to protect the caster from physical and magical harm. This versatile protection serves as the foundation for most defensive magical techniques.
+Un hechizo defensivo fundamental que crea una barrera de energía mágica para proteger al lanzador del daño físico y mágico. Esta versátil protección sirve como base para la mayoría de las técnicas mágicas defensivas.
 
-## Casting Information
+## Casting Information (Información de Lanzamiento)
 
-| Aspect | Details |
+| Aspect (Aspecto) | Details (Detalles) |
 |--------|---------|
-| **Difficulty** | Novice to Adept (scales with shield strength) |
-| **Casting Time** | 1-3 seconds |
-| **Duration** | Concentration (up to 10 minutes for novices, 1 hour for adepts) |
-| **Range** | Self (bubble extends 1-3 feet from caster) |
-| **Components** | Somatic (circular gesture), Verbal (short incantation) |
+| **Difficulty (Dificultad)** | Novice to Adept (principiante a experto) (escala con la fuerza del escudo) |
+| **Casting Time (Tiempo de Lanzamiento)** | 1-3 segundos |
+| **Duration (Duración)** | Concentration (Concentración) (hasta 10 minutos para principiantes, 1 hora para expertos) |
+| **Range (Alcance)** | Self (Uno mismo) (la burbuja se extiende 1-3 pies desde el lanzador) |
+| **Components (Componentes)** | Somatic (Somático) (gesto circular), Verbal (Verbal) (breve encantamiento) |
 
-## Technical Details
+## Technical Details (Detalles Técnicos)
 
-| Aspect | Details |
+| Aspect (Aspecto) | Details (Detalles) |
 |--------|---------|
-| **Mana Type** | Base Mana (70%), Terramana (20%), Luxmana (10%) |
-| **Purity Required** | Basic (20-35%) for novice version, Refined (40-60%) for adept version |
-| **Pattern Complexity** | Moderate (5 elements) |
-| **Resonance Frequency** | Protection/Boundary spectrum |
-| **Minimum Mana Capacity** | 25% for novice version, 40% for adept version |
+| **Mana Type (Tipo de Maná)** | Base Mana (Maná Base) (70%), Terramana (20%), Luxmana (10%) |
+| **Purity Required (Pureza Requerida)** | Basic (Básica) (20-35%) para la versión de principiante, Refined (Refinada) (40-60%) para la versión de experto |
+| **Pattern Complexity (Complejidad del Patrón)** | Moderate (Moderada) (5 elementos) |
+| **Resonance Frequency (Frecuencia de Resonancia)** | Protection/Boundary spectrum (Espectro de Protección/Límite) |
+| **Minimum Mana Capacity (Capacidad Mínima de Maná)** | 25% para la versión de principiante, 40% para la versión de experto |
 
-## Pattern Structure
+## Pattern Structure (Estructura del Patrón)
 
-The Arcane Shield pattern consists of five primary elements:
-1. **Boundary Ring**: Defines the shield's perimeter and overall shape
-2. **Energy Matrix**: Distributes magical force evenly throughout the shield
-3. **Deflection Array**: Angles the shield's surface to divert incoming force
-4. **Filtration Web**: Selectively allows certain energies to pass through
-5. **Anchor Points**: Connects the shield to the caster's personal energy
+El patrón de Arcane Shield (Escudo Arcano) consta de cinco elementos primarios:
+1. **Boundary Ring (Anillo de Límite)**: Define el perímetro del escudo y la forma general
+2. **Energy Matrix (Matriz de Energía)**: Distribuye la fuerza mágica uniformemente por todo el escudo
+3. **Deflection Array (Matriz de Desviación)**: Ángulos de la superficie del escudo para desviar la fuerza entrante
+4. **Filtration Web (Red de Filtración)**: Permite selectivamente que ciertas energías pasen a través
+5. **Anchor Points (Puntos de Anclaje)**: Conecta el escudo a la energía personal del lanzador
 
-These elements form a spherical pattern that surrounds the caster in a protective bubble.
+Estos elementos forman un patrón esférico que rodea al lanzador en una burbuja protectora.
 
-## Practical Effect
+## Practical Effect (Efecto Práctico)
 
-When successfully cast, the spell:
-- Creates a translucent, slightly luminous barrier around the caster
-- Deflects minor physical projectiles and attacks
-- Reduces the impact of stronger physical forces
-- Dampens harmful magical effects directed at the caster
-- Maintains breathable atmosphere within the shield
+Cuando se lanza con éxito, el hechizo:
+- Crea una barrera translúcida, ligeramente luminosa alrededor del lanzador
+- Desvía proyectiles y ataques físicos menores
+- Reduce el impacto de fuerzas físicas más fuertes
+- Amortigua los efectos mágicos dañinos dirigidos al lanzador
+- Mantiene una atmósfera respirable dentro del escudo
 
-## Variations
+## Variations (Variaciones)
 
-- **Hardened Shield**: Emphasizes physical protection at the cost of magical defense
-- **Spell Ward**: Emphasizes magical protection at the cost of physical defense
-- **Shaped Shield**: Forms a flat barrier rather than a bubble (useful for specific situations)
-- **Chromatic Shield**: Specialized against a particular type of elemental energy (requires 40-50% purity)
-- **Silent Shield**: Cast without verbal components (Adept difficulty, requires 45-55% purity)
+- **Hardened Shield (Escudo Endurecido)**: Enfatiza la protección física a costa de la defensa mágica
+- **Spell Ward (Guardia de Hechizos)**: Enfatiza la protección mágica a costa de la defensa física
+- **Shaped Shield (Escudo Moldeado)**: Forma una barrera plana en lugar de una burbuja (útil para situaciones específicas)
+- **Chromatic Shield (Escudo Cromático)**: Especializado contra un tipo particular de energía elemental (requiere una pureza del 40-50%)
+- **Silent Shield (Escudo Silencioso)**: Lanzado sin componentes verbales (dificultad Experto, requiere una pureza del 45-55%)
 
-## Energy Consumption
+## Energy Consumption (Consumo de Energía)
 
-The Arcane Shield requires ongoing mana expenditure to maintain:
-- **Passive Maintenance**: Low constant drain while the shield is inactive
-- **Impact Response**: Moderate to high drain when absorbing or deflecting attacks
-- **Specialized Defense**: Additional drain when filtering specific threat types
+El Arcane Shield (Escudo Arcano) requiere un gasto continuo de maná para mantener:
+- **Passive Maintenance (Mantenimiento Pasivo)**: Bajo consumo constante mientras el escudo está inactivo
+- **Impact Response (Respuesta al Impacto)**: Consumo moderado a alto al absorber o desviar ataques
+- **Specialized Defense (Defensa Especializada)**: Consumo adicional al filtrar tipos de amenazas específicos
 
-Most novice casters can maintain a standard shield for approximately 10 minutes before experiencing significant magical fatigue.
+La mayoría de los lanzadores principiantes pueden mantener un escudo estándar durante aproximadamente 10 minutos antes de experimentar una fatiga mágica significativa.
 
-## Common Applications
+## Common Applications (Aplicaciones Comunes)
 
-- **Combat Defense**: Basic protection during magical or physical confrontations
-- **Environmental Protection**: Shielding from harsh weather, toxic atmospheres, or magical radiation
-- **Training Tool**: Learning advanced defensive principles and mana control
-- **Emergency Response**: Quick protection during unexpected dangers
-- **Magical Containment**: Preventing one's own magical experiments from affecting surroundings
+- **Combat Defense (Defensa en Combate)**: Protección básica durante confrontaciones mágicas o físicas
+- **Environmental Protection (Protección Ambiental)**: Protección contra climas hostiles, atmósferas tóxicas o radiación mágica
+- **Training Tool (Herramienta de Entrenamiento)**: Aprender principios defensivos avanzados y control de maná
+- **Emergency Response (Respuesta de Emergencia)**: Protección rápida durante peligros inesperados
+- **Magical Containment (Contención Mágica)**: Evitar que los propios experimentos mágicos afecten los alrededores
 
-## Risks and Miscast Effects
+## Risks and Miscast Effects (Riesgos y Efectos de Lanzamiento Incorrecto)
 
-- **Shield Collapse**: Unexpected failure under pressure, potentially causing magical backlash
-- **Permeability Flaws**: Formation of weak points that allow specific threats to penetrate
-- **Energy Drain**: Excessive mana consumption leading to faster than expected fatigue
-- **Feedback Loop**: Shield that reflects energy back toward the caster rather than away
-- **Attunement Lock**: Shield that becomes difficult to dismiss, trapping the caster temporarily
-- **Pattern Fracture**: Insufficient purity (below 15%) creates unstable shield that shatters upon impact
+- **Shield Collapse (Colapso del Escudo)**: Falla inesperada bajo presión, lo que puede causar una reacción mágica
+- **Permeability Flaws (Defectos de Permeabilidad)**: Formación de puntos débiles que permiten que amenazas específicas penetren
+- **Energy Drain (Drenaje de Energía)**: Consumo excesivo de maná que conduce a una fatiga más rápida de lo esperado
+- **Feedback Loop (Bucle de Retroalimentación)**: Escudo que refleja la energía de vuelta hacia el lanzador en lugar de alejarla
+- **Attunement Lock (Bloqueo de Sintonización)**: Escudo que se vuelve difícil de descartar, atrapando al lanzador temporalmente
+- **Pattern Fracture (Fractura del Patrón)**: Pureza insuficiente (por debajo del 15%) crea un escudo inestable que se rompe al impacto
 
-## Purity Influence on Effect
+## Purity Influence on Effect (Influencia de la Pureza en el Efecto)
 
-| Purity Level | Effect Enhancement |
+| Purity Level (Nivel de Pureza) | Effect Enhancement (Mejora del Efecto) |
 |--------------|---------------------|
-| 15-25% | Basic shield with minimal protection against physical and magical threats |
-| 25-35% | Standard novice shield with moderate durability and protection |
-| 35-50% | Enhanced shield with greater durability and selective filtering |
-| 50-65% | Advanced shield with precise control over permeability and extended duration |
-| 65%+ | Master-level shield with exceptional durability and specific threat adaptations |
+| 15-25% | Escudo básico con protección mínima contra amenazas físicas y mágicas |
+| 25-35% | Escudo estándar de principiante con durabilidad y protección moderadas |
+| 35-50% | Escudo mejorado con mayor durabilidad y filtrado selectivo |
+| 50-65% | Escudo avanzado con control preciso sobre la permeabilidad y duración extendida |
+| 65%+ | Escudo de nivel maestro con una durabilidad excepcional y adaptaciones específicas a las amenazas |
 
-## Musical Analogy
+## Musical Analogy (Analogía Musical)
 
-Arcane Shield is like sustaining a consistent protective chord. The caster must maintain the proper "harmony" between the different elements of the shield pattern while adjusting "volume" (shield strength) according to incoming threats. Like a musician who must maintain a difficult note through changing conditions, the shield caster must preserve the integrity of their protective barrier despite distractions and attacks.
+Arcane Shield (Escudo Arcano) es como sostener un acorde protector constante. El lanzador debe mantener la "armonía" adecuada entre los diferentes elementos del patrón del escudo mientras ajusta el "volumen" (fuerza del escudo) de acuerdo con las amenazas entrantes. Como un músico que debe mantener una nota difícil a través de condiciones cambiantes, el lanzador del escudo debe preservar la integridad de su barrera protectora a pesar de las distracciones y los ataques.
 
-## Learning Progression
+## Learning Progression (Progresión de Aprendizaje)
 
-Most students master this spell through graduated challenges:
-1. **Formation**: Creating and holding the basic shield structure
-2. **Endurance**: Maintaining the shield for progressively longer periods
-3. **Stress Testing**: Defending against minor controlled attacks
-4. **Refinement**: Adjusting shield properties for specific situations
-5. **Integration**: Casting and maintaining the shield while performing other actions
+La mayoría de los estudiantes dominan este hechizo a través de desafíos graduados:
+1. **Formation (Formación)**: Crear y mantener la estructura básica del escudo
+2. **Endurance (Resistencia)**: Mantener el escudo durante períodos progresivamente más largos
+3. **Stress Testing (Prueba de Estrés)**: Defenderse contra ataques menores controlados
+4. **Refinement (Refinamiento)**: Ajustar las propiedades del escudo para situaciones específicas
+5. **Integration (Integración)**: Lanzar y mantener el escudo mientras realiza otras acciones
 
-## Historical Note
+## Historical Note (Nota Histórica)
 
-The Arcane Shield is one of the oldest documented spells, with evidence of its use dating back to the First Era of magical development. Its original creator is unknown, but magical historians believe it evolved simultaneously across multiple cultures as a natural response to the dangers of early, unstable spellcasting. Despite countless attempts to improve or replace it with more complex defensive magic, the Arcane Shield's elegant efficiency and low mana requirements have kept it in active use for millennia. As the saying goes among battle mages: "Master your shield before you forge your sword." 
+El Arcane Shield (Escudo Arcano) es uno de los hechizos documentados más antiguos, con evidencia de su uso que se remonta a la Primera Era del desarrollo mágico. Se desconoce su creador original, pero los historiadores mágicos creen que evolucionó simultáneamente en múltiples culturas como una respuesta natural a los peligros del lanzamiento de hechizos temprano e inestable. A pesar de los innumerables intentos de mejorarlo o reemplazarlo con magia defensiva más compleja, la elegante eficiencia y los bajos requisitos de maná del Arcane Shield (Escudo Arcano) lo han mantenido en uso activo durante milenios. Como dice el dicho entre los magos de batalla: "Domina tu escudo antes de forjar tu espada".
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

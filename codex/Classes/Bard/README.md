@@ -1,89 +1,93 @@
-# Bard Class
+# Clase Bardo (Bard Class)
 
-> *"When words fail, music speaks. When magic falters, a song can reshape reality."*
+> *"Cuando las palabras fallan, la música habla. Cuando la magia flaquea, una canción puede remodelar la realidad."*
 
-## Quick Navigation
+## Navegación Rápida (Quick Navigation)
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Bard](#playing-a-bard)
-- [Notable Traits](#notable-traits)
+- [Resumen (Overview)](#overview)
+- [Composición de Clase (Class Composition)](#class-composition)
+- [Subclases (Subclasses)](#subclasses)
+- [Jugando como Bardo (Playing a Bard)](#playing-a-bard)
+- [Rasgos Notables (Notable Traits)](#notable-traits)
 
-## Overview
+## Resumen (Overview)
 
-Bards weave magic through artistic expression, primarily music, creating harmonies that resonate with the fabric of reality itself. They are versatile spellcasters who blend performance, social finesse, and magical knowledge into a unique style of casting that can inspire allies, manipulate emotions, and harm enemies.
+Los bardos (Bards) tejen magia a través de la expresión artística, principalmente la música, creando armonías que resuenan con el tejido de la realidad misma. Son lanzadores de conjuros versátiles que combinan la actuación, la fineza social y el conocimiento mágico en un estilo único de lanzamiento que puede inspirar a los aliados, manipular las emociones y dañar a los enemigos.
 
-## Class Composition
+## Composición de Clase (Class Composition)
 
-| Element | Typical Range | Function |
+| Elemento (Element) | Rango Típico (Typical Range) | Función (Function) |
 |---------|---------------|----------|
-| **Exanthis** | 20-35% | Physical vessel trained in artistic techniques and precise performance |
-| **Soul** | 35-55% | Emotional framework capable of authentic expression and magical resonance |
-| **Mana Capacity** | 20-40% | Naturally flowing mana reserves with intuitive harmonic control |
+| **Exanthis** | 20-35% | Vaso físico entrenado en técnicas artísticas y actuación precisa |
+| **Alma (Soul)** | 35-55% | Marco emocional capaz de expresión auténtica y resonancia mágica |
+| **Capacidad de Maná (Mana Capacity)** | 20-40% | Reservas de maná que fluyen naturalmente con control armónico intuitivo |
 
-Bards develop specialized neural pathways that connect artistic expression directly to magical manipulation, creating a unique system that translates performance into magical effects. Their approach emphasizes emotional resonance over academic understanding, allowing them to achieve magical effects through authentic artistic expression.
+Los bardos (Bards) desarrollan vías neuronales especializadas que conectan la expresión artística directamente con la manipulación mágica, creando un sistema único que traduce la actuación en efectos mágicos. Su enfoque enfatiza la resonancia emocional sobre la comprensión académica, lo que les permite lograr efectos mágicos a través de la expresión artística auténtica.
 
-## Subclasses
+## Subclases (Subclasses)
 
-Bards can specialize in several distinct colleges:
+Los bardos (Bards) pueden especializarse en varios colegios distintos:
 
-| College | Focus | Specialty |
+| Colegio (College) | Enfoque (Focus) | Especialidad (Specialty) |
 |----------|-------|-----------|
-| [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) | Verbal Persuasion | Oratory, debate, and perfect verbal expression |
-| [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) | Fey Enchantment | Captivation, fascination, and otherworldly beauty |
-| [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) | Knowledge Collection | Secrets, versatile magic, and comprehensive knowledge |
-| [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) | Spirit Communication | Storytelling, communing with spirits, and supernatural insight |
-| [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) | Martial Performance | Blade dancing, combat magic, and physical prowess |
-| [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) | Battlefield Inspiration | Combat support, heroic tales, and martial motivation |
-| [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) | Psychological Manipulation | Secrets, fear, and subtle psychological control |
-| [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) | Manifestation | Creating physical objects from performance energy |
+| [**Colegio de la Elocuencia (College of Eloquence)**](/codex/Classes/Bard/Colleges/Eloquence.md) | Persuasión Verbal (Verbal Persuasion) | Oratoria, debate y expresión verbal perfecta |
+| [**Colegio del Glamour (College of Glamour)**](/codex/Classes/Bard/Colleges/Glamour.md) | Encantamiento Feérico (Fey Enchantment) | Cautivación, fascinación y belleza de otro mundo |
+| [**Colegio del Saber (College of Lore)**](/codex/Classes/Bard/Colleges/Lore.md) | Recopilación de Conocimiento (Knowledge Collection) | Secretos, magia versátil y conocimiento integral |
+| [**Colegio de los Espíritus (College of Spirits)**](/codex/Classes/Bard/Colleges/Spirits.md) | Comunicación Espiritual (Spirit Communication) | Narración de historias, comunicación con espíritus e intuición sobrenatural |
+| [**Colegio de las Espadas (College of Swords)**](/codex/Classes/Bard/Colleges/Swords.md) | Actuación Marcial (Martial Performance) | Danza de espadas, magia de combate y destreza física |
+| [**Colegio del Valor (College of Valor)**](/codex/Classes/Bard/Colleges/Valor.md) | Inspiración en el Campo de Batalla (Battlefield Inspiration) | Apoyo en combate, cuentos heroicos y motivación marcial |
+| [**Colegio de los Susurros (College of Whispers)**](/codex/Classes/Bard/Colleges/Whispers.md) | Manipulación Psicológica (Psychological Manipulation) | Secretos, miedo y control psicológico sutil |
+| [**Colegio de la Creación (College of Creation)**](/codex/Classes/Bard/Colleges/Creation.md) | Manifestación (Manifestation) | Creación de objetos físicos a partir de energía de actuación |
 
-## Playing a Bard
+## Jugando como Bardo (Playing a Bard)
 
-### Core Abilities
+### Habilidades Principales (Core Abilities)
 
-- **Bardic Inspiration**: Channel magical energy to inspire and enhance allies' abilities
-- **Spellcasting**: Cast spells through artistic performance, drawing from a diverse spell list
-- **Jack of All Trades**: Apply partial proficiency to all skills, reflecting versatile knowledge
-- **Song of Rest**: Accelerate healing during rests through soothing performance
-- **Countercharm**: Disrupt hostile effects through pure musical expression
+- **Inspiración Bardica (Bardic Inspiration)**: Canaliza energía mágica para inspirar y mejorar las habilidades de los aliados
+- **Lanzamiento de Conjuros (Spellcasting)**: Lanza conjuros a través de la actuación artística, utilizando una lista diversa de conjuros
+- **Aprendiz de Todo (Jack of All Trades)**: Aplica competencia parcial a todas las habilidades, reflejando un conocimiento versátil
+- **Canción de Descanso (Song of Rest)**: Acelera la curación durante los descansos a través de una actuación relajante
+- **Contracanto (Countercharm)**: Interrumpe los efectos hostiles a través de la pura expresión musical
 
-### Common Equipment
+### Equipamiento Común (Common Equipment)
 
-- **Musical Instruments**: Lutes, flutes, drums or other tools of artistic expression
-- **Light Armor**: Protective gear that doesn't impede movement or performance
-- **Performance Attire**: Clothing designed to enhance stage presence
-- **Component Pouch**: Specialized materials that complement artistic spellcasting
+- **Instrumentos Musicales (Musical Instruments)**: Laúdes, flautas, tambores u otras herramientas de expresión artística
+- **Armadura Ligera (Light Armor)**: Equipo de protección que no impide el movimiento ni la actuación
+- **Atuendo de Actuación (Performance Attire)**: Ropa diseñada para mejorar la presencia escénica
+- **Bolsa de Componentes (Component Pouch)**: Materiales especializados que complementan el lanzamiento de conjuros artísticos
 
-### Species Affinities
+### Afinidades de Especies (Species Affinities)
 
-| Species | Affinity | Notable Traits |
+| Especie (Species) | Afinidad (Affinity) | Rasgos Notables (Notable Traits) |
 |---------|----------|----------------|
-| **Human** | High | Adaptable performance styles, cultural versatility |
-| **Half-Elf** | Very High | Natural charisma, mixed cultural influences |
-| **Gnome** | High | Creative expression, joyful performance |
-| **Tabaxi** | High | Natural curiosity, storytelling traditions |
-| **Tiefling** | Very High | Exotic presence, innate charisma |
+| **Humano (Human)** | Alta (High) | Estilos de actuación adaptables, versatilidad cultural |
+| **Semielfo (Half-Elf)** | Muy Alta (Very High) | Carisma natural, influencias culturales mixtas |
+| **Gnomo (Gnome)** | Alta (High) | Expresión creativa, actuación alegre |
+| **Tabaxi** | Alta (High) | Curiosidad natural, tradiciones de narración de historias |
+| **Tiefling** | Muy Alta (Very High) | Presencia exótica, carisma innato |
 
-## Notable Traits
+## Rasgos Notables (Notable Traits)
 
-### Strengths
+### Fortalezas (Strengths)
 
-- Exceptional versatility across multiple schools of magic
-- Superior effectiveness with social and emotional magic
-- Ability to perform magic while engaged in other activities
-- Natural talent for group harmonization and collaborative casting
-- Intuitive adaptation to unexpected magical situations
+- Versatilidad excepcional en múltiples escuelas de magia
+- Eficacia superior con la magia social y emocional
+- Capacidad para realizar magia mientras participa en otras actividades
+- Talento natural para la armonización grupal y el lanzamiento colaborativo
+- Adaptación intuitiva a situaciones mágicas inesperadas
 
-### Challenges
+### Desafíos (Challenges)
 
-- Reduced effectiveness when unable to perform artistically
-- Vulnerability to effects that impact emotional state
-- Less precision compared to academic casters like wizards
-- Performance requirements can make stealth casting difficult
-- Less effective with highly technical magical disciplines
+- Eficacia reducida cuando no puede actuar artísticamente
+- Vulnerabilidad a los efectos que impactan el estado emocional
+- Menos precisión en comparación con los lanzadores académicos como los magos
+- Los requisitos de actuación pueden dificultar el lanzamiento sigiloso
+- Menos efectivo con disciplinas mágicas altamente técnicas
 
 ---
 
-> See [Bard.md](/codex/Classes/Bard/Bard.md) for detailed information about the Bard class in OpenFantasy. 
+> Vea [Bard.md](/codex/Classes/Bard/Bard.md) para obtener información detallada sobre la clase Bardo (Bard) en OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

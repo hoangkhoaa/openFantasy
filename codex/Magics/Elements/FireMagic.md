@@ -1,203 +1,207 @@
-# **Fire Magic**: The Art of Flame and Heat
+# **Magia de Fuego (Fire Magic)**: El Arte de la Llama y el Calor
 
-> *"Fire does not merely destroy—it transforms, purifies, and illuminates. The wise pyromancer is not a destroyer, but an agent of change."* — Archmage Ignis Flameheart
+> *"El fuego no solo destruye, sino que transforma, purifica e ilumina. El piromante sabio no es un destructor, sino un agente de cambio."* — Archimago Ignis Flameheart (Corazón de Llama)
 
-## Quick Reference
-- [Properties of Pyromana](#properties-of-pyromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Referencia Rápida (Quick Reference)
+- [Propiedades del Pyromana](#properties-of-pyromana)
+- [Técnicas de Manipulación (Manipulation Techniques)](#manipulation-techniques)
+- [Hechizos Comunes (Common Spells)](#common-spells)
+- [Desarrollo de Afinidad (Affinity Development)](#affinity-development)
+- [Riesgos y Precauciones (Risks and Safeguards)](#risks-and-safeguards)
+- [Significado Cultural (Cultural Significance)](#cultural-significance)
 
-## Properties of Pyromana
+## Propiedades del Pyromana
 
-Pyromana, the elemental mana of fire, is characterized by:
+Pyromana, el mana elemental del fuego, se caracteriza por:
 
-- **Appearance**: Vibrant reds, oranges, and yellows; fluid and flickering
-- **Sensation**: Feels warm, energetic, and stimulating when channeled
-- **Resonance**: High-frequency, rapid vibration patterns
-- **Purification Challenge**: Highly volatile, tends to "burn off" impurities but can become wild if overpurified
-- **Opposite Element**: Water (creates steam when forced together)
-- **Complementary Elements**: Earth (creates magma), Light (creates radiant flame)
-- **Musical Analogy**: Brass instruments, particularly trumpets
+- **Apariencia (Appearance)**: Rojos, naranjas y amarillos vibrantes; fluido y parpadeante
+- **Sensación (Sensation)**: Se siente cálido, enérgico y estimulante cuando se canaliza
+- **Resonancia (Resonance)**: Patrones de vibración rápidos, de alta frecuencia
+- **Desafío de Purificación (Purification Challenge)**: Altamente volátil, tiende a "quemar" las impurezas, pero puede volverse salvaje si se purifica en exceso
+- **Elemento Opuesto (Opposite Element)**: Agua (crea vapor cuando se fuerza a juntarse)
+- **Elementos Complementarios (Complementary Elements)**: Tierra (crea magma), Luz (crea llama radiante)
+- **Analogía Musical (Musical Analogy)**: Instrumentos de metal, particularmente trompetas
 
-## Manipulation Techniques
+## Técnicas de Manipulación (Manipulation Techniques)
 
-### Basic Techniques
+### Técnicas Básicas (Basic Techniques)
 
-#### Flame Ignition
-The foundational technique of creating fire from magical energy:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Creates controlled flames from ambient materials or pure mana
-- **Training Focus**: Heat concentration and fuel conservation
-- **Applications**: Lighting fires, creating light sources, emergency warmth
+#### Encendido de Llama (Flame Ignition)
+La técnica fundamental de crear fuego a partir de energía mágica:
+- **Dificultad (Difficulty)**: Novato
+- **Requisito de Pureza (Purity Requirement)**: Básico (15-25%)
+- **Efecto (Effect)**: Crea llamas controladas a partir de materiales ambientales o mana puro
+- **Enfoque del Entrenamiento (Training Focus)**: Concentración de calor y conservación de combustible
+- **Aplicaciones (Applications)**: Encender fuegos, crear fuentes de luz, calor de emergencia
 
-#### Heat Control
-Manipulating ambient temperature and thermal energy:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Increases or decreases temperature in a localized area
-- **Training Focus**: Energy distribution and temperature gradient
-- **Applications**: Warming spaces, cooking, metal softening, preventing hypothermia
+#### Control de Calor (Heat Control)
+Manipular la temperatura ambiente y la energía térmica:
+- **Dificultad (Difficulty)**: Novato a Intermedio
+- **Requisito de Pureza (Purity Requirement)**: Básico a Refinado (20-40%)
+- **Efecto (Effect)**: Aumenta o disminuye la temperatura en un área localizada
+- **Enfoque del Entrenamiento (Training Focus)**: Distribución de energía y gradiente de temperatura
+- **Aplicaciones (Applications)**: Calentar espacios, cocinar, ablandar metales, prevenir la hipotermia
 
-#### Flame Shaping
-Directing and molding existing flames:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Changes the size, shape, and movement of fire
-- **Training Focus**: Combustion control and pattern imposition
-- **Applications**: Signal creation, artistic displays, controlled burns, flame barrier formation
+#### Modelado de Llama (Flame Shaping)
+Dirigir y moldear llamas existentes:
+- **Dificultad (Difficulty)**: Intermedio
+- **Requisito de Pureza (Purity Requirement)**: Refinado (30-45%)
+- **Efecto (Effect)**: Cambia el tamaño, la forma y el movimiento del fuego
+- **Enfoque del Entrenamiento (Training Focus)**: Control de la combustión e imposición de patrones
+- **Aplicaciones (Applications)**: Creación de señales, exhibiciones artísticas, quemas controladas, formación de barreras de llamas
 
-### Advanced Techniques
+### Técnicas Avanzadas (Advanced Techniques)
 
-#### Pyrokinetic Projection
-Creating and propelling concentrated fire:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Forms directed, high-energy flame that can travel significant distances
-- **Training Focus**: Energy compression and trajectory control
-- **Applications**: Combat techniques, forge work, long-distance signaling
+#### Proyección Piroquinética (Pyrokinetic Projection)
+Crear y propulsar fuego concentrado:
+- **Dificultad (Difficulty)**: Avanzado
+- **Requisito de Pureza (Purity Requirement)**: Refinado a Perfecto (45-65%)
+- **Efecto (Effect)**: Forma una llama dirigida de alta energía que puede viajar distancias significativas
+- **Enfoque del Entrenamiento (Training Focus)**: Compresión de energía y control de trayectoria
+- **Aplicaciones (Applications)**: Técnicas de combate, trabajo de forja, señalización a larga distancia
 
-#### Combustion Manipulation
-Controlling the specific properties of burning:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-80%)
-- **Effect**: Alters how materials burn, including heat intensity, light emission, and smoke production
-- **Training Focus**: Molecular excitation and reaction modulation
-- **Applications**: Smokeless fires, colored flames, extreme heat sources, cold-burning flames
+#### Manipulación de la Combustión (Combustion Manipulation)
+Controlar las propiedades específicas de la quema:
+- **Dificultad (Difficulty)**: Experto
+- **Requisito de Pureza (Purity Requirement)**: Perfecto (65-80%)
+- **Efecto (Effect)**: Altera cómo se queman los materiales, incluida la intensidad del calor, la emisión de luz y la producción de humo
+- **Enfoque del Entrenamiento (Training Focus)**: Excitación molecular y modulación de la reacción
+- **Aplicaciones (Applications)**: Fuegos sin humo, llamas de colores, fuentes de calor extremo, llamas de combustión fría
 
-#### Fire Embodiment
-Physically incorporating flame into one's being:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Temporarily transforms portions of the caster's body into living flame
-- **Training Focus**: Self-transmutation and identity preservation
-- **Applications**: Immunity to fire, direct energy attacks, rapid movement, illumination
+#### Encarnación de Fuego (Fire Embodiment)
+Incorporar físicamente la llama en el propio ser:
+- **Dificultad (Difficulty)**: Maestro
+- **Requisito de Pureza (Purity Requirement)**: Perfecto (75-95%)
+- **Efecto (Effect)**: Transforma temporalmente porciones del cuerpo del lanzador en llama viviente
+- **Enfoque del Entrenamiento (Training Focus)**: Autotransmutación y preservación de la identidad
+- **Aplicaciones (Applications)**: Inmunidad al fuego, ataques de energía directa, movimiento rápido, iluminación
 
-## Common Spells
+## Hechizos Comunes (Common Spells)
 
-### Novice Spells
+### Hechizos de Novato (Novice Spells)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Hechizo (Spell) | Efecto (Effect) | Componentes (Components) | Tiempo de Lanzamiento (Casting Time) | Duración (Duration) |
 |-------|--------|------------|--------------|----------|
-| **Ignite** | Creates a small flame on flammable material | Somatic | 1 second | Instantaneous |
-| **Warmth** | Raises temperature in a small area | Somatic, Verbal | 3 seconds | 10 minutes |
-| **Fire Dart** | Projects a small bolt of flame | Somatic, Verbal | 1 second | Instantaneous |
-| **Dancing Light** | Creates a small controllable flame | Somatic | 2 seconds | Concentration |
+| **Ignite** | Crea una pequeña llama sobre material inflamable | Somático (Somatic) | 1 segundo | Instantáneo (Instantaneous) |
+| **Warmth** | Aumenta la temperatura en un área pequeña | Somático (Somatic), Verbal (Verbal) | 3 segundos | 10 minutos |
+| **Fire Dart** | Proyecta un pequeño rayo de llama | Somático (Somatic), Verbal (Verbal) | 1 segundo | Instantáneo (Instantaneous) |
+| **Dancing Light** | Crea una pequeña llama controlable | Somático (Somatic) | 2 segundos | Concentración (Concentration) |
 
-### Intermediate Spells
+### Hechizos Intermedios (Intermediate Spells)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Hechizo (Spell) | Efecto (Effect) | Componentes (Components) | Tiempo de Lanzamiento (Casting Time) | Duración (Duration) |
 |-------|--------|------------|--------------|----------|
-| **Flame Shield** | Surrounds caster with protective fire | Somatic, Verbal | 3 seconds | 5 minutes |
-| **Heat Metal** | Rapidly raises temperature of metal objects | Somatic, Verbal, Focus | 5 seconds | Concentration |
-| **Fire Resistance** | Grants protection against heat and flame | Somatic, Verbal | 10 seconds | 30 minutes |
-| **Smoke Shape** | Creates and controls smoke formations | Somatic, Fire source | 5 seconds | Concentration |
+| **Flame Shield** | Rodea al lanzador con fuego protector | Somático (Somatic), Verbal (Verbal) | 3 segundos | 5 minutos |
+| **Heat Metal** | Aumenta rápidamente la temperatura de los objetos metálicos | Somático (Somatic), Verbal (Verbal), Focus (Focus) | 5 segundos | Concentración (Concentration) |
+| **Fire Resistance** | Otorga protección contra el calor y las llamas | Somático (Somatic), Verbal (Verbal) | 10 segundos | 30 minutos |
+| **Smoke Shape** | Crea y controla formaciones de humo | Somático (Somatic), Fuente de Fuego (Fire source) | 5 segundos | Concentración (Concentration) |
 
-### Advanced Spells
+### Hechizos Avanzados (Advanced Spells)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Hechizo (Spell) | Efecto (Effect) | Componentes (Components) | Tiempo de Lanzamiento (Casting Time) | Duración (Duration) |
 |-------|--------|------------|--------------|----------|
-| **Fireball** | Creates a explosive sphere of flame | Somatic, Verbal, Focus | 3 seconds | Instantaneous |
-| **Fire Elemental** | Summons a semi-autonomous fire entity | Somatic, Verbal, Focus, Fire | 1 minute | 30 minutes |
-| **Immolation** | Surrounds target in clinging flames | Somatic, Verbal, Focus | 5 seconds | Concentration |
-| **Pyroclastic Flow** | Creates a devastating wave of superheated particles | Somatic, Verbal, Focus, Earth | 10 seconds | Instantaneous |
+| **Fireball** | Crea una esfera explosiva de llama | Somático (Somatic), Verbal (Verbal), Focus (Focus) | 3 segundos | Instantáneo (Instantaneous) |
+| **Fire Elemental** | Invoca una entidad de fuego semiautónoma | Somático (Somatic), Verbal (Verbal), Focus (Focus), Fuego (Fire) | 1 minuto | 30 minutos |
+| **Immolation** | Rodea al objetivo con llamas adherentes | Somático (Somatic), Verbal (Verbal), Focus (Focus) | 5 segundos | Concentración (Concentration) |
+| **Pyroclastic Flow** | Crea una ola devastadora de partículas sobrecalentadas | Somático (Somatic), Verbal (Verbal), Focus (Focus), Tierra (Earth) | 10 segundos | Instantáneo (Instantaneous) |
 
-## Affinity Development
+## Desarrollo de Afinidad (Affinity Development)
 
-Fire affinity progresses through several distinctive stages:
+La afinidad con el fuego progresa a través de varias etapas distintivas:
 
-### Inner Spark
-The foundational relationship with fire that most beginners possess:
-- **Manifestation**: Slightly elevated body temperature, ability to light small fires with minimal effort
-- **Physical Signs**: Warm hands, occasionally steaming breath in cold weather
-- **Enhancement Method**: Regular meditation near open flames, particularly at dawn or sunset
+### Chispa Interna (Inner Spark)
+La relación fundamental con el fuego que la mayoría de los principiantes poseen:
+- **Manifestación (Manifestation)**: Temperatura corporal ligeramente elevada, capacidad para encender pequeños fuegos con mínimo esfuerzo
+- **Signos Físicos (Physical Signs)**: Manos cálidas, ocasionalmente aliento humeante en climas fríos
+- **Método de Mejora (Enhancement Method)**: Meditación regular cerca de llamas abiertas, particularmente al amanecer o al atardecer
 
-### Flame Resonance
-The intermediate stage where fire responds more readily to the mage's will:
-- **Manifestation**: Fire grows or diminishes in response to emotions, personal resistance to cold
-- **Physical Signs**: Eyes reflect firelight unusually well, fingertips glow slightly during casting
-- **Enhancement Method**: Fire walking rituals, forge work, exposure to varied flame types
+### Resonancia de Llama (Flame Resonance)
+La etapa intermedia donde el fuego responde más fácilmente a la voluntad del mago:
+- **Manifestación (Manifestation)**: El fuego crece o disminuye en respuesta a las emociones, resistencia personal al frío
+- **Signos Físicos (Physical Signs)**: Los ojos reflejan la luz del fuego inusualmente bien, las yemas de los dedos brillan ligeramente durante el lanzamiento
+- **Método de Mejora (Enhancement Method)**: Rituales de caminar sobre fuego, trabajo de forja, exposición a variados tipos de llama
 
-### Combustion Harmony
-Advanced practitioners achieve a deep resonance with fire's transformative properties:
-- **Manifestation**: Can perceive heat signatures, flames bend toward the caster naturally
-- **Physical Signs**: Blood runs noticeably warm, hair develops reddish highlights
-- **Enhancement Method**: Extended communion at volcanic sites or natural hot springs
+### Armonía de Combustión (Combustion Harmony)
+Los practicantes avanzados logran una resonancia profunda con las propiedades transformadoras del fuego:
+- **Manifestación (Manifestation)**: Puede percibir firmas de calor, las llamas se inclinan hacia el lanzador naturalmente
+- **Signos Físicos (Physical Signs)**: La sangre corre notablemente caliente, el cabello desarrolla reflejos rojizos
+- **Método de Mejora (Enhancement Method)**: Comunión extendida en sitios volcánicos o aguas termales naturales
 
-### Inferno Unity
-Master pyromancers who have achieved profound connection with fire:
-- **Manifestation**: Partial transformation abilities, influence over flame without formal casting
-- **Physical Signs**: Body emits heat visibly in cold environments, eyes develop flickering qualities
-- **Enhancement Method**: Deep communion at ley line intersections with strong fire resonance
+### Unidad Ígnea (Inferno Unity)
+Piromantes maestros que han logrado una profunda conexión con el fuego:
+- **Manifestación (Manifestation)**: Habilidades de transformación parcial, influencia sobre la llama sin lanzamiento formal
+- **Signos Físicos (Physical Signs)**: El cuerpo emite calor visiblemente en ambientes fríos, los ojos desarrollan cualidades parpadeantes
+- **Método de Mejora (Enhancement Method)**: Comunión profunda en intersecciones de líneas ley con fuerte resonancia de fuego
 
-## Risks and Safeguards
+## Riesgos y Precauciones (Risks and Safeguards)
 
-### Common Risks
+### Riesgos Comunes (Common Risks)
 
-- **Thermal Damage**: Burns to self or unintended targets
-- **Oxygen Depletion**: Creating flames that consume available air
-- **Combustion Cascade**: Unintended spread of fire beyond controlled area
-- **Thermal Dependency**: Developing discomfort in cold environments
-- **Inner Burning**: Metabolic acceleration causing rapid calorie consumption
+- **Daño Térmico (Thermal Damage)**: Quemaduras a uno mismo o a objetivos no deseados
+- **Agotamiento de Oxígeno (Oxygen Depletion)**: Crear llamas que consumen el aire disponible
+- **Cascada de Combustión (Combustion Cascade)**: Propagación no deseada del fuego más allá del área controlada
+- **Dependencia Térmica (Thermal Dependency)**: Desarrollar incomodidad en ambientes fríos
+- **Quema Interna (Inner Burning)**: Aceleración metabólica que causa un rápido consumo de calorías
 
-### Miscast Effects
+### Efectos de Lanzamiento Incorrecto (Miscast Effects)
 
-| Severity | Effect | Recovery |
+| Severidad (Severity) | Efecto (Effect) | Recuperación (Recovery) |
 |----------|--------|----------|
-| **Minor** | Temporary burns, singed hair, excessive sweating | Hours |
-| **Moderate** | Internal heating, mild fever, spontaneous small flames on contact | Days |
-| **Severe** | Blood heating, uncontrolled fire emissions, thermal regulation failure | Weeks |
-| **Critical** | Spontaneous combustion risk, organ damage from internal heating, pyrokinetic fugue | Months |
+| **Menor (Minor)** | Quemaduras temporales, cabello chamuscado, sudoración excesiva | Horas |
+| **Moderado (Moderate)** | Calentamiento interno, fiebre leve, pequeñas llamas espontáneas al contacto | Días |
+| **Grave (Severe)** | Calentamiento de la sangre, emisiones de fuego incontroladas, fallo de la regulación térmica | Semanas |
+| **Crítico (Critical)** | Riesgo de combustión espontánea, daño orgánico por calentamiento interno, fuga piroquinética | Meses |
 
-### Safety Practices
+### Prácticas de Seguridad (Safety Practices)
 
-- **Thermal Grounding**: Regular cooling exercises and hydration
-- **Flame Containment**: Practicing with clearly defined boundaries and fireproofing
-- **Emotional Regulation**: Meditation techniques to prevent passion-triggered flare-ups
-- **Environmental Awareness**: Assessing surroundings for fire hazards before casting
-- **Material Selection**: Using appropriate fire-resistant clothing and equipment
+- **Conexión a Tierra Térmica (Thermal Grounding)**: Ejercicios regulares de enfriamiento e hidratación
+- **Contención de Llama (Flame Containment)**: Practicar con límites claramente definidos e ignifugación
+- **Regulación Emocional (Emotional Regulation)**: Técnicas de meditación para prevenir brotes provocados por la pasión
+- **Conciencia Ambiental (Environmental Awareness)**: Evaluar los alrededores en busca de riesgos de incendio antes de lanzar
+- **Selección de Material (Material Selection)**: Usar ropa y equipo apropiados resistentes al fuego
 
-## Cultural Significance
+## Significado Cultural (Cultural Significance)
 
-### Historical Development
+### Desarrollo Histórico (Historical Development)
 
-Fire magic represents humanity's first and most primal magical tradition, with evidence of organized fire rituals dating back to prehistoric times. The development of pyromancy followed three distinct phases:
+La magia de fuego representa la primera y más primitiva tradición mágica de la humanidad, con evidencia de rituales de fuego organizados que se remontan a tiempos prehistóricos. El desarrollo de la piromancia siguió tres fases distintas:
 
-1. **Survival Application**: Prehistoric peoples developing basic fire creation and control
-2. **Symbolic Purification**: Early civilizations using fire for cleansing rituals and divine communion
-3. **Martial Development**: Formation of organized fire magic traditions for warfare and protection
+1. **Aplicación de Supervivencia (Survival Application)**: Pueblos prehistóricos que desarrollan la creación y el control básicos del fuego
+2. **Purificación Simbólica (Symbolic Purification)**: Civilizaciones antiguas que usan el fuego para rituales de limpieza y comunión divina
+3. **Desarrollo Marcial (Martial Development)**: Formación de tradiciones organizadas de magia de fuego para la guerra y la protección
 
-### Regional Variations
+### Variaciones Regionales (Regional Variations)
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Cultura (Culture) | Enfoque (Focus) | Técnica Característica (Signature Technique) | Filosofía (Philosophy) |
 |---------|-------|---------------------|------------|
-| **Volcanic Islanders** | Lava manipulation, heat resistance | Magma shaping, obsidian forming | Fire as the world's creator |
-| **Desert Tribes** | Heat management, minimal fuel casting | Sand fire, heat mirage | Fire as the precious lifegiver |
-| **Northern Clans** | Warming techniques, enduring flames | Cold fire, eternal torches | Fire as the defender against darkness |
-| **Forge Cultures** | Metallurgical applications, precision heat | Crucible flames, metal singing | Fire as the great transformer |
+| **Isleños Volcánicos (Volcanic Islanders)** | Manipulación de lava, resistencia al calor | Modelado de magma, formación de obsidiana | El fuego como el creador del mundo |
+| **Tribus del Desierto (Desert Tribes)** | Gestión del calor, lanzamiento con mínimo combustible | Fuego de arena, espejismo de calor | El fuego como el precioso dador de vida |
+| **Clanes del Norte (Northern Clans)** | Técnicas de calentamiento, llamas duraderas | Fuego frío, antorchas eternas | El fuego como el defensor contra la oscuridad |
+| **Culturas de Forja (Forge Cultures)** | Aplicaciones metalúrgicas, calor de precisión | Llamas de crisol, canto del metal | El fuego como el gran transformador |
 
-### Ceremonial Uses
+### Usos Ceremoniales (Ceremonial Uses)
 
-Fire magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young pyromancers lighting their first magical flame
-- **Purification Ceremonies**: Cleansing spaces or people through controlled fire
-- **Remembrance Vigils**: Eternal flames to honor ancestors or heroes
-- **Seasonal Festivals**: Major fire workings during solstices and harvest celebrations
+La magia de fuego ocupa un lugar destacado en muchas ceremonias culturales:
+- **Rituales de Paso a la Edad Adulta (Coming-of-Age Rituals)**: Jóvenes piromantes encendiendo su primera llama mágica
+- **Ceremonias de Purificación (Purification Ceremonies)**: Limpiar espacios o personas a través del fuego controlado
+- **Vigilias de Recordación (Remembrance Vigils)**: Llamas eternas para honrar a antepasados o héroes
+- **Festivales Estacionales (Seasonal Festivals)**: Grandes trabajos de fuego durante los solsticios y las celebraciones de la cosecha
 
-### Contemporary Applications
+### Aplicaciones Contemporáneas (Contemporary Applications)
 
-Beyond combat and utility applications, fire magic serves important societal functions:
-- **Manufacturing**: Controlled heat for metallurgy, glassblowing, and crafting
-- **Agriculture**: Controlled burns for field clearing and pest management
-- **Energy Production**: Sustainable heat sources for power generation
-- **Medicine**: Cauterization, sterilization, and thermal therapy
-- **Culinary Arts**: Specialized cooking techniques using magical flames
+Más allá de las aplicaciones de combate y utilidad, la magia de fuego cumple importantes funciones sociales:
+- **Manufactura (Manufacturing)**: Calor controlado para metalurgia, soplado de vidrio y artesanía
+- **Agricultura (Agriculture)**: Quemas controladas para limpieza de campos y control de plagas
+- **Producción de Energía (Energy Production)**: Fuentes de calor sostenibles para la generación de energía
+- **Medicina (Medicine)**: Cauterización, esterilización y terapia térmica
+- **Artes Culinarias (Culinary Arts)**: Técnicas de cocina especializadas que utilizan llamas mágicas
 
-> *"The student of fire must remember that the same flame that destroys a forest nurtures new growth. Master not just the power of the flame, but the wisdom to know when to kindle and when to extinguish."* — The Pyromancer's Credo
+> *"El estudiante de fuego debe recordar que la misma llama que destruye un bosque nutre un nuevo crecimiento. Domina no solo el poder de la llama, sino la sabiduría para saber cuándo encender y cuándo extinguir."* — El Credo del Piromante
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Water Magic](/codex/Magics/Elements/WaterMagic.md), [Light Magic](/codex/Magics/Elements/LightMagic.md)* 
+*Ver también: [Magia Elemental](/codex/Magics/Elements/ElementalMagic.md), [Magia de Agua](/codex/Magics/Elements/WaterMagic.md), [Magia de Luz](/codex/Magics/Elements/LightMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

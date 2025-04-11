@@ -1,105 +1,109 @@
-# **Fae**: The Ethereal Dancers of Magic
+# **Fae** (Fae): Los Danzarines Etéreos de la Magia
 
-[**Fae**](/codex/Creatures/Fae.md) are the ethereal dancers of magic, their bodies a delicate harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a shimmering harp, they resonate most strongly with the ethereal currents of [**Mana**](/codex/Basic/Mana.md), creating a unique melody of existence that bridges the material and spiritual realms.
+Los [**Fae**](/codex/Creatures/Fae.md) (Fae) son los danzarines etéreos de la magia, sus cuerpos una delicada armonía de [**Exanthis**](/codex/Basic/Exanthis.md) (Exanthis), [**Souls**](/codex/Basic/Soul.md) (Almas) y **Mana Capacity** (Capacidad de Maná). Como un arpa brillante, resuenan con mayor fuerza con las corrientes etéreas de [**Mana**](/codex/Basic/Mana.md) (Maná), creando una melodía única de existencia que une los reinos material y espiritual.
 
-## Elemental Composition
+## Composición Elemental
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **fae** forms a harmony that favors magical potential:
+Como se detalla en [Creatures](/codex/Creatures/Creatures.md) (Criaturas), la proporción típica para los **fae** (fae) forma una armonía que favorece el potencial mágico:
 
-| Element | Range | Function |
+| Element (Elemento) | Range (Rango) | Function (Función) |
 |---------|------------|----------|
-| **Exanthis** | 5-25% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 15-35% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 50-80% | The bridge between worlds that enables extraordinary magical potential |
+| **Exanthis** (Exanthis) | 5-25% | El corazón cristalino que proporciona una fuerza física y durabilidad mínimas |
+| **Soul** (Alma) | 15-35% | La esencia etérea que da forma a una conciencia fluida y adaptable |
+| **Mana Capacity** (Capacidad de Maná) | 50-80% | El puente entre mundos que permite un potencial mágico extraordinario |
 
-This composition grants **fae** their characteristic magical prowess but severely limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Esta composición otorga a los **fae** (fae) su destreza mágica característica, pero limita severamente su resistencia física en comparación con otras especies, como un instrumento delicado que produce hermosos sonidos pero debe manejarse con cuidado.
 
-### Individual Variations
+### Variaciones Individuales
 
-While the model composition represents the typical fae, individual variations exist:
+Si bien la composición del modelo representa al fae típico (fae), existen variaciones individuales:
 
-- **Arcane Fae**: Some fae possess Mana Capacity as high as 85%, making them among the most powerful spellcasters in existence, though physically fragile with as little as 5% Exanthis.
-- **Court Champions**: Rare fae have Exanthis levels approaching 30%, allowing them to serve as defenders of their courts while maintaining significant magical abilities (55% Mana Capacity).
-- **Dream Weavers**: Those with higher Soul percentages (up to 40%) develop exceptional abilities in manipulating consciousness and dreams, often becoming powerful enchanters or diplomatic emissaries.
-- **Seasonal Fae**: Specialized fae with composition tailored to their court's season (e.g., Summer Court: 15% Exanthis, 25% Soul, 60% Mana Capacity; Winter Court: 20% Exanthis, 20% Soul, 60% Mana Capacity).
-- **Twilight Dancers**: A unique composition of (10% Exanthis, 30% Soul, 60% Mana Capacity) creates fae who excel at manipulating the boundaries between worlds and realities.
+- **Arcane Fae** (Fae Arcanos): Algunos fae (fae) poseen una Capacidad de Maná tan alta como el 85%, lo que los convierte en algunos de los lanzadores de hechizos más poderosos que existen, aunque físicamente frágiles con tan solo un 5% de Exanthis.
+- **Court Champions** (Campeones de la Corte): Los fae raros (fae) tienen niveles de Exanthis que se acercan al 30%, lo que les permite servir como defensores de sus cortes manteniendo importantes habilidades mágicas (55% de Capacidad de Maná).
+- **Dream Weavers** (Tejedores de Sueños): Aquellos con porcentajes de Alma más altos (hasta el 40%) desarrollan habilidades excepcionales para manipular la conciencia y los sueños, y a menudo se convierten en poderosos encantadores o emisarios diplomáticos.
+- **Seasonal Fae** (Fae Estacionales): Fae especializados (fae) con una composición adaptada a la estación de su corte (por ejemplo, Corte de Verano: 15% de Exanthis, 25% de Alma, 60% de Capacidad de Maná; Corte de Invierno: 20% de Exanthis, 20% de Alma, 60% de Capacidad de Maná).
+- **Twilight Dancers** (Danzarines Crepusculares): Una composición única de (10% de Exanthis, 30% de Alma, 60% de Capacidad de Maná) crea fae (fae) que sobresalen en la manipulación de los límites entre mundos y realidades.
 
-## Physical Characteristics
+## Características Físicas
 
-**Fae** are known for their ethereal beauty and otherworldly appearance:
-- Slender and graceful, with proportions that seem to defy reality
-- Eyes that shimmer with inner light, reflecting their connection to **Mana**
-- Ears that extend into elegant points, attuned to the subtle harmonies of magic
-- Skin that seems to glow with inner light, like moonlight on water
-- Hair that flows with an otherworldly grace, often in impossible colors
-- Wings that vary in form from delicate insect-like structures to ethereal light
+Los **Fae** (Fae) son conocidos por su belleza etérea y su apariencia de otro mundo:
+- Delgados y elegantes, con proporciones que parecen desafiar la realidad
+- Ojos que brillan con luz interior, reflejando su conexión con el **Mana** (Maná)
+- Orejas que se extienden en elegantes puntas, sintonizadas con las sutiles armonías de la magia
+- Piel que parece brillar con luz interior, como la luz de la luna sobre el agua
+- Cabello que fluye con una gracia de otro mundo, a menudo en colores imposibles
+- Alas que varían en forma desde delicadas estructuras similares a insectos hasta luz etérea
 
-## Magical Affinity
+## Afinidad Mágica
 
-**Fae** demonstrate exceptional proficiency in manipulating **Mana**, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Store vast amounts of **Mana** within their mana reservoirs, like deep wells of liquid light
-- Achieve extraordinary purity levels in spell casting, like artists painting with pure starlight
-- Specialize in enchantment and illusion magic with unparalleled mastery, like composers who have perfected the art of creating beautiful lies
+Los **Fae** (Fae) demuestran una competencia excepcional en la manipulación del **Mana** (Maná), como músicos virtuosos que han dominado sus instrumentos. Su composición les permite:
+- Almacenar vastas cantidades de **Mana** (Maná) dentro de sus reservas de maná, como pozos profundos de luz líquida
+- Alcanzar niveles de pureza extraordinarios en el lanzamiento de hechizos, como artistas que pintan con luz estelar pura
+- Especializarse en magia de encantamiento e ilusión con un dominio incomparable, como compositores que han perfeccionado el arte de crear hermosas mentiras
 
-This specialization makes **fae** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Esta especialización hace que los **fae** (fae) sean capaces de alcanzar los niveles más altos de competencia en sus tradiciones mágicas elegidas, aunque pueden tener dificultades con tareas que requieren fuerza física o resistencia, como un instrumento delicado que produce hermosos sonidos pero no puede soportar un manejo brusco.
 
-## Lifespan and Soul Decay
+## Vida Útil y Descomposición del Alma
 
-The **soul decay** timeline for **fae**, from birth to complete decay, is approximately 800 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+La línea de tiempo de **soul decay** (descomposición del alma) para los **fae** (fae), desde el nacimiento hasta la descomposición completa, es de aproximadamente 800 años, como una llama de combustión lenta que ilumina las edades. Esta vida útil prolongada les permite:
+- Acumular vastos conocimientos y sabiduría a lo largo de los siglos
+- Desarrollar conexiones profundas con lugares específicos y tradiciones mágicas
+- Formar sociedades complejas con intrincadas costumbres y rituales
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Sin embargo, su descomposición del alma más lenta también significa que cambian y se adaptan más lentamente que otras especies, como una melodía que sigue siendo hermosa pero inmutable a través de las edades.
 
-## Habitat and Distribution
+## Hábitat y Distribución
 
-**Fae** primarily inhabit:
-- **Eastern Veldrassil**, where the currents of **Mana** flow most intensely
-- Enchanted forests and magical groves, where the boundaries between worlds grow thin
-- Floating islands and crystal spires, where they can be closer to the celestial harmonies
-- Hidden realms accessible only through magical portals, like secret gardens of light
+Los **Fae** (Fae) habitan principalmente:
+- **Eastern Veldrassil** (Veldrassil Oriental), donde las corrientes de **Mana** (Maná) fluyen con mayor intensidad
+- Bosques encantados y arboledas mágicas, donde los límites entre mundos se vuelven delgados
+- Islas flotantes y agujas de cristal, donde pueden estar más cerca de las armonías celestiales
+- Reinos ocultos accesibles solo a través de portales mágicos, como jardines secretos de luz
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Estos lugares proporcionan entornos ideales para el estudio mágico y la contemplación espiritual, como una acústica perfecta para una sinfonía.
 
-## Cultural Impact
+## Impacto Cultural
 
-In the world of **OpenFantasy**, **fae** play a crucial role in preserving ancient magical traditions and enchanting the world with beauty, like weavers of ethereal melodies. Their societies are centers of:
-- Arcane research and magical innovation
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+En el mundo de **OpenFantasy**, los **fae** (fae) desempeñan un papel crucial en la preservación de las antiguas tradiciones mágicas y en el encantamiento del mundo con la belleza, como tejedores de melodías etéreas. Sus sociedades son centros de:
+- Investigación arcana e innovación mágica
+- Expresión artística y refinamiento estético
+- Relaciones diplomáticas e intercambio cultural
 
-The proximity to the strongest currents of **Mana** has shaped fae culture around the study and mastery of magic, creating a society where magical ability and beauty are highly valued.
+La proximidad a las corrientes más fuertes de **Mana** (Maná) ha moldeado la cultura fae (fae) en torno al estudio y dominio de la magia, creando una sociedad donde la habilidad mágica y la belleza son muy valoradas.
 
-## Relationship with Other Species
+## Relación con Otras Especies
 
-**Fae** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and amusement, often leading to complex interactions
-- With **Elves**: A deep connection based on shared magical affinities and aesthetic sensibilities
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Beastfolk**: A wary relationship, as beastfolk are less susceptible to fae enchantments
+Los **Fae** (Fae) mantienen relaciones complejas con otras especies:
+- Con [**Humans**](/codex/Creatures/Human.md) (Humanos): Una mezcla de fascinación y diversión, que a menudo conduce a interacciones complejas
+- Con **Elves** (Elfos): Una conexión profunda basada en afinidades mágicas compartidas y sensibilidades estéticas
+- Con **Dwarves** (Enanos): Una distancia respetuosa, reconociendo su artesanía pero encontrando extrañas sus costumbres
+- Con **Beastfolk** (Hombres Bestia): Una relación cautelosa, ya que los hombres bestia son menos susceptibles a los encantamientos fae (fae)
 
-These relationships are often characterized by a sense of cultural superiority, as **fae** view themselves as the true children of magic and beauty.
+Estas relaciones a menudo se caracterizan por una sensación de superioridad cultural, ya que los **fae** (fae) se ven a sí mismos como los verdaderos hijos de la magia y la belleza.
 
-## Notable Fae Traits
+## Rasgos Fae Notables
 
-- **Magical Mastery**: Fae excel in enchantment and illusion magic, often specializing in one area to the exclusion of others
-- **Ethereal Beauty**: Fae possess an otherworldly beauty that can be both enchanting and unsettling
-- **Environmental Sensitivity**: Fae are deeply attuned to their surroundings, particularly in magical environments
-- **Cultural Preservation**: Fae societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Fae have developed highly refined artistic and cultural traditions
+- **Magical Mastery** (Dominio Mágico): Los fae (fae) sobresalen en la magia de encantamiento e ilusión, a menudo especializándose en un área con exclusión de otras
+- **Ethereal Beauty** (Belleza Etérea): Los fae (fae) poseen una belleza de otro mundo que puede ser a la vez encantadora e inquietante
+- **Environmental Sensitivity** (Sensibilidad Ambiental): Los fae (fae) están profundamente en sintonía con su entorno, particularmente en entornos mágicos
+- **Cultural Preservation** (Preservación Cultural): Las sociedades fae (fae) hacen gran hincapié en la preservación de las tradiciones y el conocimiento
+- **Aesthetic Refinement** (Refinamiento Estético): Los fae (fae) han desarrollado tradiciones artísticas y culturales muy refinadas
 
-## Fae Courts
+## Cortes Fae
 
-Fae society is organized into numerous courts, each with its own specialties and traditions:
+La sociedad fae (fae) está organizada en numerosas cortes, cada una con sus propias especialidades y tradiciones:
 
-| Court | Specialty | Territory | Notable Traits |
+| Court (Corte) | Specialty (Especialidad) | Territory (Territorio) | Notable Traits (Rasgos Notables) |
 |---------|---------------|---------|-------------------|
-| **Summer Court** | Light magic, growth | Sunlit groves | Radiant beauty, nurturing magic |
-| **Winter Court** | Ice magic, preservation | Frost-covered realms | Cold precision, preservation magic |
-| **Spring Court** | Life magic, renewal | Blooming gardens | Fertility magic, renewal rituals |
-| **Autumn Court** | Transformation magic, harvest | Golden forests | Change magic, harvest celebrations |
-| **Twilight Court** | Shadow magic, transition | Dusk-lit realms | Transition magic, balance between light and dark |
-| **Dawn Court** | Hope magic, new beginnings | Morning-lit meadows | Hope magic, new beginning rituals |
+| **Summer Court** (Corte de Verano) | Light magic, growth (Magia de la luz, crecimiento) | Sunlit groves (Arboledas iluminadas por el sol) | Radiant beauty, nurturing magic (Belleza radiante, magia nutritiva) |
+| **Winter Court** (Corte de Invierno) | Ice magic, preservation (Magia de hielo, preservación) | Frost-covered realms (Reinos cubiertos de escarcha) | Cold precision, preservation magic (Precisión fría, magia de preservación) |
+| **Spring Court** (Corte de Primavera) | Life magic, renewal (Magia de la vida, renovación) | Blooming gardens (Jardines florecientes) | Fertility magic, renewal rituals (Magia de la fertilidad, rituales de renovación) |
+| **Autumn Court** (Corte de Otoño) | Transformation magic, harvest (Magia de la transformación, cosecha) | Golden forests (Bosques dorados) | Change magic, harvest celebrations (Magia del cambio, celebraciones de la cosecha) |
+| **Twilight Court** (Corte del Crepúsculo) | Shadow magic, transition (Magia de las sombras, transición) | Dusk-lit realms (Reinos iluminados por el crepúsculo) | Transition magic, balance between light and dark (Magia de la transición, equilibrio entre la luz y la oscuridad) |
+| **Dawn Court** (Corte del Amanecer) | Hope magic, new beginnings (Magia de la esperanza, nuevos comienzos) | Morning-lit meadows (Prados iluminados por la mañana) | Hope magic, new beginning rituals (Magia de la esperanza, rituales de nuevos comienzos) |
 
-Understanding the nature of **fae** provides insight into the magical and aesthetic aspects of the world of **OpenFantasy**, like listening to the ethereal melodies that dance through the enchanted forests and crystal spires. 
+Comprender la naturaleza de los **fae** (fae) proporciona información sobre los aspectos mágicos y estéticos del mundo de **OpenFantasy**, como escuchar las melodías etéreas que bailan a través de los bosques encantados y las agujas de cristal.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,150 +1,154 @@
-# Hybrid Beings of OpenFantasy
+# Seres Híbridos de OpenFantasy
 
-> *"In the blending of divergent natures emerges something greater than the sum of its parts—a harmony of contrasting songs played as one melody."*
+> *"En la fusión de naturalezas divergentes emerge algo mayor que la suma de sus partes: una armonía de canciones contrastantes interpretadas como una sola melodía."*
 
-## Overview
+## Visión General
 
-Hybrid beings in OpenFantasy represent creatures that combine the characteristics of multiple species or categories of life. These unique entities possess physiological, magical, and sometimes spiritual traits from different origins, creating distinctive beings that often occupy specialized ecological or social niches.
+Los seres híbridos en OpenFantasy representan criaturas que combinan las características de múltiples especies o categorías de vida. Estas entidades únicas poseen rasgos fisiológicos, mágicos y, a veces, espirituales de diferentes orígenes, creando seres distintivos que a menudo ocupan nichos ecológicos o sociales especializados.
 
-Unlike simple crossbreeds between closely related species, true hybrids in OpenFantasy typically bridge fundamentally different categories of being—such as aquatic and terrestrial, humanoid and animal, or even material and elemental. These combinations result in unique elemental compositions and special capabilities not found in either parent category.
+A diferencia de los cruces simples entre especies estrechamente relacionadas, los verdaderos híbridos en OpenFantasy suelen tender puentes entre categorías de seres fundamentalmente diferentes, como acuáticos y terrestres, humanoides y animales, o incluso materiales y elementales. Estas combinaciones dan como resultado composiciones elementales únicas y capacidades especiales que no se encuentran en ninguna de las categorías parentales.
 
-## Origins of Hybrid Beings
+## Orígenes de los Seres Híbridos
 
-Hybrids come into existence through various means:
+Los híbridos surgen a través de varios medios:
 
-| Origin Type | Process | Examples |
+| Origin Type (Tipo de Origen) | Process (Proceso) | Examples (Ejemplos) |
 |-------------|---------|----------|
-| **Natural Evolution** | Adaptation to specialized environments | Merfolk evolving for coastal environments |
-| **Ancient Magic** | Deliberate magical creation or fusion | Centaurs created during the Age of Wonders |
-| **Divine Influence** | Blessing or intervention of deities | Sirens formed by ocean deity transformations |
-| **Arcane Accident** | Unintended magical transformation | Some chimeric beings resulting from wild magic |
-| **Elemental Fusion** | Merger of elemental and physical forms | Certain geomancers with partly mineral bodies |
+| **Natural Evolution** (Evolución Natural) | Adaptación a entornos especializados | Merfolk (Sirenos/as) evolucionando para entornos costeros |
+| **Ancient Magic** (Magia Antigua) | Creación o fusión mágica deliberada | Centaurs (Centauros) creados durante la Age of Wonders (Era de las Maravillas) |
+| **Divine Influence** (Influencia Divina) | Bendición o intervención de deidades | Sirens (Sirenas) formadas por transformaciones de deidades oceánicas |
+| **Arcane Accident** (Accidente Arcano) | Transformación mágica no intencionada | Algunos seres quiméricos resultantes de magia salvaje |
+| **Elemental Fusion** (Fusión Elemental) | Fusión de formas elementales y físicas | Ciertos geomancers (geomantes) con cuerpos parcialmente minerales |
 
-## Major Hybrid Categories
+## Principales Categorías de Híbridos
 
-### Aquatic-Terrestrial Hybrids
+### Híbridos Acuático-Terrestres
 
-Beings that bridge water and land environments:
+Seres que unen entornos acuáticos y terrestres:
 
-| Species | Composition | Key Traits | Habitat |
+| Species (Especies) | Composition (Composición) | Key Traits (Rasgos Clave) | Habitat (Hábitat) |
 |---------|------------|------------|----------|
-| **Merfolk** | E: 30-50%, S: 15-35%, M: 25-45% | Humanoid upper body, fish lower body, water manipulation | Coastal waters, deep sea regions |
-| **Selkies** | E: 40-60%, S: 20-30%, M: 15-35% | Shapeshifting between human and seal forms | Cold coastal areas, isolated islands |
-| **Kappa** | E: 35-55%, S: 10-25%, M: 30-45% | Turtle-humanoid features, water dependency | Freshwater lakes, slow-moving rivers |
-| **Cecaelia** | E: 35-55%, S: 15-30%, M: 25-40% | Humanoid upper body, octopus lower body | Deep ocean trenches, underwater caves |
+| **Merfolk** (Sirenos/as) | E: 30-50%, S: 15-35%, M: 25-45% | Parte superior del cuerpo humanoide, parte inferior del cuerpo de pez, manipulación del agua | Aguas costeras, regiones de aguas profundas |
+| **Selkies** (Selkies) | E: 40-60%, S: 20-30%, M: 15-35% | Cambio de forma entre formas humanas y de foca | Zonas costeras frías, islas aisladas |
+| **Kappa** (Kappa) | E: 35-55%, S: 10-25%, M: 30-45% | Características de tortuga-humanoide, dependencia del agua | Lagos de agua dulce, ríos de movimiento lento |
+| **Cecaelia** (Cecaelia) | E: 35-55%, S: 15-30%, M: 25-40% | Parte superior del cuerpo humanoide, parte inferior del cuerpo de pulpo | Fosas oceánicas profundas, cuevas submarinas |
 
-→ See [Merfolk](Merfolk.md) for detailed information on the most common aquatic hybrid.
+→ Ver [Merfolk](Merfolk.md) para obtener información detallada sobre el híbrido acuático más común.
 
-### Musical-Physical Hybrids
+### Híbridos Musical-Físicos
 
-Beings that embody musical or sonic energy in physical form:
+Seres que encarnan energía musical o sónica en forma física:
 
-| Species | Composition | Key Traits | Habitat |
+| Species (Especies) | Composition (Composición) | Key Traits (Rasgos Clave) | Habitat (Hábitat) |
 |---------|------------|------------|----------|
-| **Sirens** | E: 15-30%, S: 30-45%, M: 40-60% | Enchanting voices, emotional manipulation | Coastal cliffs, island lagoons |
-| **Harpies** | E: 40-60%, S: 15-30%, M: 20-35% | Bird-humanoid features, disruptive vocals | Mountain peaks, isolated highlands |
-| **Echo Spirits** | E: 10-25%, S: 20-40%, M: 45-65% | Sound embodiment, mimicry abilities | Canyons, caves with natural acoustics |
-| **Resonants** | E: 25-40%, S: 15-35%, M: 35-50% | Living instruments, harmonic magic | Music-saturated regions, performance venues |
+| **Sirens** (Sirenas) | E: 15-30%, S: 30-45%, M: 40-60% | Voces encantadoras, manipulación emocional | Acantilados costeros, lagunas isleñas |
+| **Harpies** (Arpías) | E: 40-60%, S: 15-30%, M: 20-35% | Características de pájaro-humanoide, voces disruptivas | Cimas de montañas, tierras altas aisladas |
+| **Echo Spirits** (Espíritus de Eco) | E: 10-25%, S: 20-40%, M: 45-65% | Encarnación del sonido, habilidades de mímica | Cañones, cuevas con acústica natural |
+| **Resonants** (Resonantes) | E: 25-40%, S: 15-35%, M: 35-50% | Instrumentos vivientes, magia armónica | Regiones saturadas de música, lugares de actuación |
 
-→ See [Sirens](Sirens.md) for detailed information on vocal enchantresses.
+→ Ver [Sirens](Sirens.md) para obtener información detallada sobre las hechiceras vocales.
 
-### Humanoid-Beast Hybrids
+### Híbridos Humanoide-Bestia
 
-Beings that combine humanoid and animal characteristics:
+Seres que combinan características humanoides y animales:
 
-| Species | Composition | Key Traits | Habitat |
+| Species (Especies) | Composition (Composición) | Key Traits (Rasgos Clave) | Habitat (Hábitat) |
 |---------|------------|------------|----------|
-| **Centaurs** | E: 50-70%, S: 20-40%, M: 10-25% | Human upper body, horse lower body | Open plains, forests with clearings |
-| **Satyrs** | E: 45-65%, S: 20-35%, M: 15-30% | Human upper body, goat lower body | Woodland areas, vineyard regions |
-| **Minotaurs** | E: 60-80%, S: 15-25%, M: 5-20% | Human body with bovine head | Labyrinths, complex cave systems |
-| **Harpies** | E: 40-60%, S: 15-30%, M: 20-35% | Human-avian mixture, winged arms | Mountain regions, high cliffs |
+| **Centaurs** (Centauros) | E: 50-70%, S: 20-40%, M: 10-25% | Parte superior del cuerpo humano, parte inferior del cuerpo de caballo | Llanuras abiertas, bosques con claros |
+| **Satyrs** (Sátiros) | E: 45-65%, S: 20-35%, M: 15-30% | Parte superior del cuerpo humano, parte inferior del cuerpo de cabra | Zonas boscosas, regiones de viñedos |
+| **Minotaurs** (Minotauros) | E: 60-80%, S: 15-25%, M: 5-20% | Cuerpo humano con cabeza bovina | Laberintos, sistemas de cuevas complejos |
+| **Harpies** (Arpías) | E: 40-60%, S: 15-30%, M: 20-35% | Mezcla humano-aviar, brazos alados | Regiones montañosas, acantilados altos |
 
-→ See [Centaurs](Centaurs.md) for detailed information on horse-human hybrids.
+→ Ver [Centaurs](Centaurs.md) para obtener información detallada sobre los híbridos caballo-humano.
 
-### Elemental-Physical Hybrids
+### Híbridos Elemental-Físicos
 
-Beings with both physical and elemental characteristics:
+Seres con características físicas y elementales:
 
-| Species | Composition | Key Traits | Habitat |
+| Species (Especies) | Composition (Composición) | Key Traits (Rasgos Clave) | Habitat (Hábitat) |
 |---------|------------|------------|----------|
-| **Geomancers** | E: 55-70%, S: 10-25%, M: 15-35% | Partial stone bodies, earth manipulation | Mountain interiors, crystal caves |
-| **Flameheart** | E: 30-50%, S: 15-30%, M: 30-50% | Internal fire core, heat generation | Volcanic regions, thermal vents |
-| **Mistwalkers** | E: 20-40%, S: 10-30%, M: 40-65% | Semi-gaseous form, air/fog control | Foggy valleys, high-altitude plateaus |
-| **Tidebloods** | E: 25-45%, S: 15-35%, M: 30-55% | Fluid internal composition, water affinity | Shorelines, river confluences |
+| **Geomancers** (Geomantes) | E: 55-70%, S: 10-25%, M: 15-35% | Cuerpos parcialmente de piedra, manipulación de la tierra | Interiores de montañas, cuevas de cristal |
+| **Flameheart** (Corazón de Llama) | E: 30-50%, S: 15-30%, M: 30-50% | Núcleo de fuego interno, generación de calor | Regiones volcánicas, respiraderos térmicos |
+| **Mistwalkers** (Caminantes de la Niebla) | E: 20-40%, S: 10-30%, M: 40-65% | Forma semigaseosa, control del aire/niebla | Valles neblinosos, mesetas de gran altitud |
+| **Tidebloods** (Sangre de Marea) | E: 25-45%, S: 15-35%, M: 30-55% | Composición interna fluida, afinidad con el agua | Costas, confluencias de ríos |
 
-## Physiological Characteristics
+## Características Fisiológicas
 
-Hybrid beings often exhibit unique biological features that reflect their mixed heritage:
+Los seres híbridos a menudo exhiben características biológicas únicas que reflejan su herencia mixta:
 
-### Adaptive Systems
+### Sistemas Adaptativos
 
-| System | Adaptation | Functional Benefit |
+| System (Sistema) | Adaptation (Adaptación) | Functional Benefit (Beneficio Funcional) |
 |--------|------------|-------------------|
-| **Respiratory** | Dual breathing systems (gills/lungs) | Environment flexibility |
-| **Locomotion** | Multiple movement types (swimming/walking/flying) | Terrain adaptability |
-| **Sensory** | Combined perception systems | Enhanced awareness |
-| **Metabolic** | Flexible energy processing | Varied diet options |
+| **Respiratory** (Respiratorio) | Sistemas de respiración dual (branquias/pulmones) | Flexibilidad ambiental |
+| **Locomotion** (Locomoción) | Múltiples tipos de movimiento (nadar/caminar/volar) | Adaptabilidad al terreno |
+| **Sensory** (Sensorial) | Sistemas de percepción combinados | Conciencia mejorada |
+| **Metabolic** (Metabólico) | Procesamiento de energía flexible | Variadas opciones de dieta |
 
-### Integration Challenges
+### Desafíos de Integración
 
-Most hybrids face unique physiological challenges due to their mixed nature:
+La mayoría de los híbridos enfrentan desafíos fisiológicos únicos debido a su naturaleza mixta:
 
-- **System Compatibility**: Internal organs from different species must function together
-- **Energy Requirements**: Often higher metabolic needs due to maintaining complex biology
-- **Developmental Stability**: Growth patterns must accommodate different tissue types
-- **Reproductive Viability**: Many hybrids have reduced fertility or specialized reproduction
+- **System Compatibility** (Compatibilidad del Sistema): Los órganos internos de diferentes especies deben funcionar juntos
+- **Energy Requirements** (Requisitos de Energía): A menudo, mayores necesidades metabólicas debido al mantenimiento de una biología compleja
+- **Developmental Stability** (Estabilidad del Desarrollo): Los patrones de crecimiento deben acomodar diferentes tipos de tejido
+- **Reproductive Viability** (Viabilidad Reproductiva): Muchos híbridos tienen fertilidad reducida o reproducción especializada
 
-## Cultural Position
+## Posición Cultural
 
-Hybrid beings occupy complex positions in OpenFantasy societies:
+Los seres híbridos ocupan posiciones complejas en las sociedades de OpenFantasy:
 
-### Social Integration
+### Integración Social
 
-| Society | Treatment of Hybrids | Notable Roles |
+| Society (Sociedad) | Treatment of Hybrids (Trato de los Híbridos) | Notable Roles (Roles Notables) |
 |---------|----------------------|--------------|
-| **Human Kingdoms** | Varies from acceptance to suspicion | Specialized occupations, cultural mediators |
-| **Elven Realms** | Generally accepted as natural diversity | Valued for unique perspectives, artisans |
-| **Dwarven Holds** | Pragmatic acceptance based on utility | Specialized labor, unique crafting |
-| **Beast Tribes** | Acceptance varies by tribal traditions | Spiritual intermediaries, border guards |
+| **Human Kingdoms** (Reinos Humanos) | Varía de la aceptación a la sospecha | Ocupaciones especializadas, mediadores culturales |
+| **Elven Realms** (Reinos Élficos) | Generalmente aceptados como diversidad natural | Valorado por perspectivas únicas, artesanos |
+| **Dwarven Holds** (Fortalezas Enanas) | Aceptación pragmática basada en la utilidad | Trabajo especializado, artesanía única |
+| **Beast Tribes** (Tribus de Bestias) | La aceptación varía según las tradiciones tribales | Intermediarios espirituales, guardias fronterizos |
 
-### Common Social Roles
+### Roles Sociales Comunes
 
-Hybrid beings often find themselves in specialized societal positions:
+Los seres híbridos a menudo se encuentran en posiciones sociales especializadas:
 
-- **Cultural Intermediaries**: Bridging different societies through shared understanding
-- **Specialized Occupations**: Roles specifically suited to their unique capabilities
-- **Boundary Dwellers**: Living along the edges of different territories
-- **Magical Specialists**: Unique magical abilities stemming from their hybrid nature
+- **Cultural Intermediaries** (Intermediarios Culturales): Uniendo diferentes sociedades a través de la comprensión compartida
+- **Specialized Occupations** (Ocupaciones Especializadas): Roles específicamente adecuados a sus capacidades únicas
+- **Boundary Dwellers** (Habitantes Fronterizos): Viviendo a lo largo de los bordes de diferentes territorios
+- **Magical Specialists** (Especialistas Mágicos): Habilidades mágicas únicas derivadas de su naturaleza híbrida
 
-## Magical Characteristics
+## Características Mágicas
 
-The mixed nature of hybrids creates distinctive magical patterns:
+La naturaleza mixta de los híbridos crea patrones mágicos distintivos:
 
-| Hybrid Type | Magical Signature | Special Capabilities |
+| Hybrid Type (Tipo de Híbrido) | Magical Signature (Firma Mágica) | Special Capabilities (Capacidades Especiales) |
 |-------------|-------------------|---------------------|
-| **Merfolk** | Fluid mana circulation, water resonance | Natural hydrokinesis, weather sensing |
-| **Centaurs** | Stable mana foundation, earth connection | Heightened nature awareness, stamina enhancement |
-| **Sirens** | Oscillating mana patterns, emotional conductivity | Sound manipulation, emotional influence |
-| **Geomancers** | Crystalline mana structure, mineral resonance | Stone shaping, mineral sensing |
+| **Merfolk** (Sirenos/as) | Circulación de maná fluido, resonancia del agua | Hidrocinesis natural, detección del clima |
+| **Centaurs** (Centauros) | Base de maná estable, conexión con la tierra | Conciencia de la naturaleza intensificada, mejora de la resistencia |
+| **Sirens** (Sirenas) | Patrones de maná oscilantes, conductividad emocional | Manipulación del sonido, influencia emocional |
+| **Geomancers** (Geomantes) | Estructura de maná cristalina, resonancia mineral | Moldeado de piedra, detección de minerales |
 
-## Ethical and Philosophical Questions
+## Cuestiones Éticas y Filosóficas
 
-The existence of hybrid beings raises important questions in OpenFantasy societies:
+La existencia de seres híbridos plantea importantes interrogantes en las sociedades de OpenFantasy:
 
-- **Origin Ethics**: Debates about the ethics of magical hybridization
-- **Identity Philosophy**: Questions about the dual nature of hybrid beings
-- **Cultural Belonging**: Considerations of where hybrids fit in social structures
-- **Natural Order**: Discussions about hybrids' place in natural/magical ecosystems
+- **Origin Ethics** (Ética del Origen): Debates sobre la ética de la hibridación mágica
+- **Identity Philosophy** (Filosofía de la Identidad): Preguntas sobre la doble naturaleza de los seres híbridos
+- **Cultural Belonging** (Pertenencia Cultural): Consideraciones sobre dónde encajan los híbridos en las estructuras sociales
+- **Natural Order** (Orden Natural): Discusiones sobre el lugar de los híbridos en los ecosistemas naturales/mágicos
 
-## Notable Hybrid Communities
+## Comunidades Híbridas Notables
 
-| Community | Location | Characteristics |
+| Community (Comunidad) | Location (Ubicación) | Characteristics (Características) |
 |-----------|----------|-----------------|
-| **Tidehaven** | Western coastal region | Merfolk-human collaborative settlement |
-| **Plainstrider Clans** | Central grasslands | Nomadic centaur societies |
-| **Siren Archipelago** | Southern island chain | Siren-dominated island culture |
-| **Boundary Enclaves** | Various border regions | Mixed communities of different hybrid types |
+| **Tidehaven** (Refugio de las Mareas) | Región costera occidental | Asentamiento colaborativo sirenos/as-humano |
+| **Plainstrider Clans** (Clanes Caminantes de las Llanuras) | Praderas centrales | Sociedades nómadas de centauros |
+| **Siren Archipelago** (Archipiélago de las Sirenas) | Cadena de islas del sur | Cultura insular dominada por sirenas |
+| **Boundary Enclaves** (Enclaves Fronterizos) | Varias regiones fronterizas | Comunidades mixtas de diferentes tipos de híbridos |
 
 ---
 
-> *"We stand not between worlds but as living bridges connecting them. Our dual nature is not division but synthesis."* — Chiron Stormhoof, Centaur Elder and Philosopher 
+> *"No nos situamos entre mundos, sino como puentes vivientes que los conectan. Nuestra doble naturaleza no es división, sino síntesis."* — Chiron Stormhoof (Casco de Tormenta de Quirón), Centaur Elder (Anciano Centauro) y Philosopher (Filósofo)
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

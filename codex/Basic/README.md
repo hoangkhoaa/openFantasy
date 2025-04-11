@@ -1,108 +1,112 @@
-# OpenFantasy Fundamental Concepts
+# Conceptos fundamentales de OpenFantasy
 
-> *"Three elements form the foundation of all existence: Exanthis gives it form, Soul gives it purpose, and Mana gives it wonder."*
+> *"Tres elementos forman la base de toda existencia: Exanthis le da forma, Alma le da propósito y Maná le da asombro."*
 
-## Overview
+## Resumen
 
-Welcome to the OpenFantasy Fundamental Concepts documentation. This section contains detailed information about the three foundational elements that define the reality of the OpenFantasy world: Exanthis, Soul, and Mana. These elements interact to create all beings, objects, and phenomena in the world.
+Bienvenido a la documentación de Conceptos Fundamentales de OpenFantasy. Esta sección contiene información detallada sobre los tres elementos fundamentales que definen la realidad del mundo de OpenFantasy: Exanthis, Alma y Maná. Estos elementos interactúan para crear todos los seres, objetos y fenómenos del mundo.
 
-## Quick Navigation
+## Navegación rápida
 
 - [Exanthis](#exanthis)
-- [Soul](#soul)
-- [Mana](#mana)
-- [Elemental Interactions](#elemental-interactions)
-- [Geographical Distribution](#geographical-distribution)
+- [Alma](#soul)
+- [Maná](#mana)
+- [Interacciones elementales](#elemental-interactions)
+- [Distribución geográfica](#geographical-distribution)
 
-## The Three Elements
+## Los tres elementos
 
-Each of the three fundamental elements governs a different aspect of existence:
+Cada uno de los tres elementos fundamentales gobierna un aspecto diferente de la existencia:
 
-| Element | Nature | Function | Document |
+| Element (Elemento) | Nature (Naturaleza) | Function (Función) | Document (Documento) |
 |---------|--------|----------|----------|
-| **Exanthis** | Physical, magnetic material | Creates form and structure | [Exanthis.md](Exanthis.md) |
-| **Soul** | Ethereal essence | Provides consciousness and will | [Soul.md](Soul.md) |
-| **Mana** | Magical energy | Enables magical manipulation | [Mana.md](Mana.md) |
+| **Exanthis** | Material físico, magnético | Crea forma y estructura | [Exanthis.md](Exanthis.md) |
+| **Soul** (Alma) | Esencia etérea | Proporciona consciencia y voluntad | [Soul.md](Soul.md) |
+| **Mana** (Maná) | Energía mágica | Permite la manipulación mágica | [Mana.md](Mana.md) |
 
 ## Exanthis
 
-Exanthis is the foundation of physical reality, providing structure and solidity to the world:
+Exanthis es la base de la realidad física, proporcionando estructura y solidez al mundo:
 
-### Key Properties
+### Propiedades clave
 
-- Forms the physical structure of reality
-- Generates magnetic fields that disrupt Mana
-- At 100% purity, becomes the hardest known material
-- Found in high concentrations in western regions
+- Forma la estructura física de la realidad
+- Genera campos magnéticos que perturban el Maná
+- Con una pureza del 100%, se convierte en el material más duro conocido
+- Se encuentra en altas concentraciones en las regiones occidentales
 
-### Significance
+### Significado
 
-Exanthis grounds reality in material form, providing resistance to magical forces and establishing the physical laws of the world. Higher Exanthis concentration in living beings grants them greater physical strength and durability at the cost of magical potential.
+Exanthis fundamenta la realidad en la forma material, proporcionando resistencia a las fuerzas mágicas y estableciendo las leyes físicas del mundo. Una mayor concentración de Exanthis en los seres vivos les otorga mayor fuerza física y durabilidad a costa del potencial mágico.
 
-## Soul
+## Soul (Alma)
 
-The Soul bridges the material and spiritual realms, providing consciousness and will:
+El Alma une los reinos material y espiritual, proporcionando conciencia y voluntad:
 
-### Key Properties
+### Propiedades clave
 
-- Consists of Core Identity, Memory Matrix, and Intent Framework
-- Serves as the conduit for magical manipulation
-- Can evolve and develop throughout a lifetime
-- Persists after physical death
+- Consta de Identidad Central, Matriz de Memoria y Marco de Intención
+- Sirve como conducto para la manipulación mágica
+- Puede evolucionar y desarrollarse a lo largo de toda una vida
+- Persiste después de la muerte física
 
-### Significance
+### Significado
 
-The Soul enables beings to experience the world, form intentions, and manipulate Mana according to their will. It creates the unique identity of each individual and allows for conscious interaction with reality.
+El Alma permite a los seres experimentar el mundo, formar intenciones y manipular el Maná según su voluntad. Crea la identidad única de cada individuo y permite la interacción consciente con la realidad.
 
-## Mana
+## Mana (Maná)
 
-Mana is the breath of creation itself, forming the foundation of all magical effects:
+Maná es el aliento de la creación misma, formando la base de todos los efectos mágicos:
 
-### Key Properties
+### Propiedades clave
 
-- Permeates all things as particle-like energy
-- Flows in currents throughout the world
-- Resonates with Soul to enable magical manipulation
-- Repelled by Exanthis' magnetic field
+- Permea todas las cosas como energía similar a partículas
+- Fluye en corrientes por todo el mundo
+- Resuena con el Alma para permitir la manipulación mágica
+- Repelido por el campo magnético de Exanthis
 
-### Significance
+### Significado
 
-Mana is the raw material of magic, enabling the transformation of intention into reality. It flows through the world in varying concentrations, creating regions of high and low magical potential.
+El Maná es la materia prima de la magia, lo que permite la transformación de la intención en realidad. Fluye a través del mundo en concentraciones variables, creando regiones de alto y bajo potencial mágico.
 
-## Elemental Interactions
+## Interacciones elementales
 
-The three elements interact in complex ways that define the nature of reality:
+Los tres elementos interactúan de formas complejas que definen la naturaleza de la realidad:
 
-### Balance and Opposition
+### Equilibrio y oposición
 
-| Interaction | Result | Effect |
+| Interaction (Interacción) | Result (Resultado) | Effect (Efecto) |
 |-------------|--------|--------|
-| **Exanthis + Mana** | Opposition | Exanthis disrupts and repels Mana |
-| **Soul + Mana** | Harmony | Soul directs and shapes Mana |
-| **Exanthis + Soul** | Structure | Soul animates physical form created by Exanthis |
-| **All Three** | Balance | Creates living beings with unique capabilities |
+| **Exanthis + Mana** (Maná) | Opposition (Oposición) | Exanthis interrumpe y repele el Maná |
+| **Soul** (Alma) **+ Mana** (Maná) | Harmony (Armonía) | El Alma dirige y da forma al Maná |
+| **Exanthis + Soul** (Alma) | Structure (Estructura) | El Alma anima la forma física creada por Exanthis |
+| **All Three** (Los tres) | Balance (Equilibrio) | Crea seres vivos con capacidades únicas |
 
-### In Living Beings
+### En los seres vivos
 
-The ratio of these elements in a living being determines their nature and abilities:
+La proporción de estos elementos en un ser vivo determina su naturaleza y habilidades:
 
-- **High Exanthis**: Greater physical strength and durability, reduced magical ability
-- **High Soul**: Enhanced consciousness and willpower, often shorter lifespan
-- **High Mana Capacity**: Enhanced magical potential, often reduced physical robustness
+- **High Exanthis** (Alto Exanthis): Mayor fuerza física y durabilidad, menor capacidad mágica
+- **High Soul** (Alma alta): Conciencia y fuerza de voluntad mejoradas, a menudo una vida útil más corta
+- **High Mana Capacity** (Alta capacidad de Maná): Potencial mágico mejorado, a menudo menor robustez física
 
-## Geographical Distribution
+## Geographical Distribution (Distribución geográfica)
 
-The elements are not evenly distributed throughout the world:
+Los elementos no están distribuidos uniformemente por todo el mundo:
 
-| Region | Dominant Element | Characteristics |
+| Region (Región) | Dominant Element (Elemento dominante) | Characteristics (Características) |
 |--------|------------------|-----------------|
-| **Eastern Veldrassil** | Mana | High magical potential, centers of arcane study |
-| **Western Veldrassil** | Exanthis | Low magical potential, centers of physical industry |
-| **Various Leylines** | Mana | Streams of concentrated magical energy |
-| **Sacred Groves** | Soul | Places of heightened spiritual connection |
+| **Eastern Veldrassil** (Veldrassil oriental) | Mana (Maná) | Alto potencial mágico, centros de estudio arcano |
+| **Western Veldrassil** (Veldrassil occidental) | Exanthis | Bajo potencial mágico, centros de industria física |
+| **Various Leylines** (Varias líneas ley) | Mana (Maná) | Corrientes de energía mágica concentrada |
+| **Sacred Groves** (Arboledas sagradas) | Soul (Alma) | Lugares de mayor conexión espiritual |
 
-This uneven distribution creates natural zones of magical intensity and magical dead zones, influencing the development of civilizations and the distribution of species.
+Esta distribución desigual crea zonas naturales de intensidad mágica y zonas muertas mágicas, lo que influye en el desarrollo de las civilizaciones y la distribución de las especies.
 
 ---
 
-> **Note**: Understanding these fundamental concepts is essential for comprehending all other aspects of the OpenFantasy world, from species characteristics to magical systems to technological development. 
+> **Note** (Nota): Comprender estos conceptos fundamentales es esencial para comprender todos los demás aspectos del mundo de OpenFantasy, desde las características de las especies hasta los sistemas mágicos y el desarrollo tecnológico.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,104 +1,108 @@
-# **Giants**: The Colossal Forces of Nature
+# **Giants** (Gigantes): The Colossal Forces of Nature (Las Colosales Fuerzas de la Naturaleza)
 
-[**Giants**](/codex/Creatures/Giants.md) are the colossal forces of nature, their bodies a massive harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a thunderous tuba, they resonate with raw power, creating a unique melody of existence that bridges the mortal and divine realms.
+[**Giants** (Gigantes)](/codex/Creatures/Giants.md) son las colosales fuerzas de la naturaleza, sus cuerpos una armonía masiva de [**Exanthis** (Exanthis)](/codex/Basic/Exanthis.md), [**Souls** (Almas)](/codex/Basic/Soul.md), y **Mana Capacity** (Capacidad de Maná). Como una tuba atronadora, resuenan con poder bruto, creando una melodía única de existencia que une los reinos mortal y divino.
 
-## Elemental Composition
+## Elemental Composition (Composición Elemental)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **giants** forms a harmony that favors physical might:
+Como se detalla en [Creatures (Criaturas)](/codex/Creatures/Creatures.md), la proporción típica para los **giants** (gigantes) forma una armonía que favorece el poder físico:
 
-| Element | Range | Function |
+| Element (Elemento) | Range (Rango) | Function (Función) |
 |---------|------------|----------|
-| **Exanthis** | 65-85% | The crystalline heart that grants extraordinary strength and resilience |
-| **Soul** | 10-20% | The ethereal essence that shapes a focused but limited consciousness |
-| **Mana Capacity** | 5-20% | The bridge between worlds that enables minimal magical potential |
+| **Exanthis** (Exanthis) | 65-85% | El corazón cristalino que otorga fuerza y resistencia extraordinarias |
+| **Soul** (Alma) | 10-20% | La esencia etérea que da forma a una consciencia enfocada pero limitada |
+| **Mana Capacity** (Capacidad de Maná) | 5-20% | El puente entre mundos que permite un potencial mágico mínimo |
 
-This composition grants **giants** their characteristic power but typically limits their adaptability compared to other species, like a powerful instrument that can only play a limited range of notes.
+Esta composición otorga a los **giants** (gigantes) su poder característico, pero típicamente limita su adaptabilidad en comparación con otras especies, como un instrumento poderoso que solo puede tocar un rango limitado de notas.
 
-### Individual Variations
+### Individual Variations (Variaciones Individuales)
 
-While the model composition represents the typical giant, individual variations exist based on their lineage:
+Si bien la composición modelo representa al gigante típico, existen variaciones individuales basadas en su linaje:
 
-- **Primal Giants**: Ancient giant bloodlines possess Exanthis levels approaching 90%, making them nearly invulnerable with immense strength, though with greatly reduced consciousness (5% Soul) and magical ability (5% Mana Capacity).
-- **Storm Lords**: Giants from the Stormgiant lineage often have enhanced Mana Capacity (up to 25%), allowing them to channel lightning with devastating effect, though with slightly reduced physical mass (60% Exanthis).
-- **Ancient Sages**: Rare giants with higher Soul percentages (up to 25%) and moderate Mana Capacity (15%) become wisdom-keepers and leaders, preserving the ancient knowledge of giantkind.
-- **Elemental Monarchs**: Specialized giants with composition of (70% Exanthis, 10% Soul, 20% Mana Capacity) can embody and command entire elemental forces, becoming living manifestations of mountains, volcanoes, or glaciers.
-- **Hybrid Giants**: Giants with mixed ancestry may have more balanced compositions (60% Exanthis, 20% Soul, 20% Mana Capacity), combining substantial physical might with greater adaptability and magical potential.
+- **Primal Giants** (Gigantes Primigenios): Los antiguos linajes de gigantes poseen niveles de Exanthis cercanos al 90%, lo que los hace casi invulnerables con una fuerza inmensa, aunque con una consciencia muy reducida (5% Soul (Alma)) y habilidad mágica (5% Mana Capacity (Capacidad de Maná)).
+- **Storm Lords** (Señores de la Tormenta): Los gigantes del linaje Stormgiant (Gigante de la Tormenta) a menudo tienen una Mana Capacity (Capacidad de Maná) mejorada (hasta el 25%), lo que les permite canalizar rayos con un efecto devastador, aunque con una masa física ligeramente reducida (60% Exanthis (Exanthis)).
+- **Ancient Sages** (Sabios Ancestrales): Los gigantes raros con porcentajes de Soul (Alma) más altos (hasta el 25%) y una Mana Capacity (Capacidad de Maná) moderada (15%) se convierten en guardianes de la sabiduría y líderes, preservando el antiguo conocimiento del pueblo gigante.
+- **Elemental Monarchs** (Monarcas Elementales): Los gigantes especializados con una composición de (70% Exanthis (Exanthis), 10% Soul (Alma), 20% Mana Capacity (Capacidad de Maná)) pueden encarnar y comandar fuerzas elementales completas, convirtiéndose en manifestaciones vivientes de montañas, volcanes o glaciares.
+- **Hybrid Giants** (Gigantes Híbridos): Los gigantes con ascendencia mixta pueden tener composiciones más equilibradas (60% Exanthis (Exanthis), 20% Soul (Alma), 20% Mana Capacity (Capacidad de Maná)), combinando una fuerza física sustancial con una mayor adaptabilidad y potencial mágico.
 
-## Physical Characteristics
+## Physical Characteristics (Características Físicas)
 
-**Giants** are known for their immense size and strength:
-- Towering height, ranging from 15 to 30 feet tall, depending on their lineage
-- Massive build with dense muscle and bone structure, like living mountains
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair and beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+Los **Giants** (Gigantes) son conocidos por su inmenso tamaño y fuerza:
+- Altura imponente, que va desde los 15 hasta los 30 pies de altura, dependiendo de su linaje
+- Constitución masiva con una densa estructura muscular y ósea, como montañas vivientes
+- Piel gruesa que proporciona protección natural, como piedra viviente
+- Ojos que brillan con luz interior, reflejando su conexión con [**Exanthis** (Exanthis)](/codex/Basic/Exanthis.md)
+- Cabello y barbas que a menudo están intrincadamente trenzados con símbolos de clan y estatus
+- Resistencia natural a venenos y enfermedades, como montañas que resisten tormentas
 
-## Physical and Magical Affinity
+## Physical and Magical Affinity (Afinidad Física y Mágica)
 
-**Giants** demonstrate exceptional proficiency in physical might and resilience, like virtuoso performers who excel in power and intensity. Their composition allows them to:
-- Develop extraordinary strength and resilience, like living embodiments of power
-- Channel elemental energies with minimal proficiency, particularly earth and fire
-- Resist magical effects through their high **Exanthis** content, like a mountain standing against a storm
+Los **Giants** (Gigantes) demuestran una aptitud excepcional en poder físico y resistencia, como virtuosos intérpretes que sobresalen en poder e intensidad. Su composición les permite:
+- Desarrollar una fuerza y resistencia extraordinarias, como encarnaciones vivientes del poder
+- Canalizar energías elementales con una aptitud mínima, particularmente la tierra y el fuego
+- Resistir efectos mágicos a través de su alto contenido de **Exanthis** (Exanthis), como una montaña que se mantiene firme contra una tormenta
 
-This power makes **giants** capable of achieving feats of strength that few other species can match, though they may struggle with tasks requiring subtlety or adaptability, like a powerful instrument that can only play at full volume.
+Este poder hace que los **giants** (gigantes) sean capaces de lograr hazañas de fuerza que pocas otras especies pueden igualar, aunque pueden tener dificultades con tareas que requieren sutileza o adaptabilidad, como un instrumento poderoso que solo puede tocar a todo volumen.
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (Esperanza de Vida y Decaimiento del Alma)
 
-The **soul decay** timeline for **giants**, from birth to complete decay, is approximately 800 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate power and knowledge over centuries
-- Develop deep connections to their territories and lineages
-- Form powerful societies with strong hierarchical structures
+La línea de tiempo de **soul decay** (decaimiento del alma) para los **giants** (gigantes), desde el nacimiento hasta el decaimiento completo, es de aproximadamente 800 años, como una llama de combustión lenta que ilumina las edades. Esta extensa vida útil les permite:
+- Acumular poder y conocimiento durante siglos
+- Desarrollar conexiones profundas con sus territorios y linajes
+- Formar sociedades poderosas con fuertes estructuras jerárquicas
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains powerful but unchanging through the ages.
+Sin embargo, su mínima proporción de soul (alma) también significa que cambian y se adaptan muy lentamente, como una melodía que permanece poderosa pero inmutable a través de las edades.
 
-## Habitat and Distribution
+## Habitat and Distribution (Hábitat y Distribución)
 
-**Giants** primarily inhabit:
-- Remote mountain ranges and volcanic regions, where they can be closest to elemental power
-- Territories that provide natural defenses and resources
-- Strategic locations that allow them to maintain their independence
+Los **Giants** (Gigantes) habitan principalmente:
+- Cordilleras remotas y regiones volcánicas, donde pueden estar más cerca del poder elemental
+- Territorios que proporcionan defensas y recursos naturales
+- Ubicaciones estratégicas que les permiten mantener su independencia
 
-These locations provide ideal environments for the development of power and the practice of elemental magic, like a stage perfectly suited to their performance.
+Estas ubicaciones proporcionan entornos ideales para el desarrollo del poder y la práctica de la magia elemental, como un escenario perfectamente adecuado para su actuación.
 
-## Cultural Impact
+## Cultural Impact (Impacto Cultural)
 
-In the world of **OpenFantasy**, **giants** play a crucial role in maintaining the balance of power, like conductors of the grand symphony of strength. Their societies are centers of:
-- Martial prowess and military might
-- Elemental magic and power
-- Hierarchical structures and lineage pride
+En el mundo de **OpenFantasy**, los **giants** (gigantes) juegan un papel crucial en el mantenimiento del equilibrio de poder, como directores de la gran sinfonía de la fuerza. Sus sociedades son centros de:
+- Destreza marcial y poderío militar
+- Magia elemental y poder
+- Estructuras jerárquicas y orgullo de linaje
 
-The connection to power has shaped giant culture around respect for strength, lineage, and dominance, creating a society where might makes right.
+La conexión con el poder ha moldeado la cultura gigante en torno al respeto por la fuerza, el linaje y el dominio, creando una sociedad donde el poder hace el derecho.
 
-## Relationship with Other Species
+## Relationship with Other Species (Relación con Otras Especies)
 
-**Giants** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **Dragonkin**: A complex relationship of reverence and rivalry
+Los **Giants** (Gigantes) mantienen relaciones complejas con otras especies:
+- Con [**Humans** (Humanos)](/codex/Creatures/Human.md): Una mezcla de respeto por su adaptabilidad y frustración por su debilidad
+- Con **Elves** (Elfos): Un respeto cauteloso, reconociendo su destreza mágica pero encontrando extrañas sus costumbres
+- Con **Dwarves** (Enanos): Una alianza pragmática basada en el respeto mutuo por la fuerza y la artesanía
+- Con **Dragonkin** (Dracónidos): Una relación compleja de reverencia y rivalidad
 
-These relationships are often characterized by a sense of superiority, as **giants** view themselves as the true heirs to divine power.
+Estas relaciones a menudo se caracterizan por un sentido de superioridad, ya que los **giants** (gigantes) se ven a sí mismos como los verdaderos herederos del poder divino.
 
-## Notable Giant Traits
+## Notable Giant Traits (Rasgos Notables de los Gigantes)
 
-- **Physical Might**: Giants excel in strength and resilience, often surpassing other species in raw power
-- **Elemental Affinity**: Giants have a natural connection to elemental magic, particularly earth and fire
-- **Limited Adaptability**: Their minimal soul ratio makes it difficult for giants to change or adapt
-- **Lineage Pride**: Giants place great emphasis on their divine heritage and lineage
-- **Territorial Nature**: Giants are fiercely protective of their territories and resources
+- **Physical Might** (Poder Físico): Los gigantes sobresalen en fuerza y resistencia, a menudo superando a otras especies en poder bruto
+- **Elemental Affinity** (Afinidad Elemental): Los gigantes tienen una conexión natural con la magia elemental, particularmente la tierra y el fuego
+- **Limited Adaptability** (Adaptabilidad Limitada): Su mínima proporción de soul (alma) dificulta que los gigantes cambien o se adapten
+- **Lineage Pride** (Orgullo de Linaje): Los gigantes ponen gran énfasis en su herencia y linaje divinos
+- **Territorial Nature** (Naturaleza Territorial): Los gigantes son ferozmente protectores de sus territorios y recursos
 
-## Giant Lineages
+## Giant Lineages (Linajes de Gigantes)
 
-Giant society is organized around powerful lineages, each tracing its heritage to a specific divine ancestor:
+La sociedad gigante está organizada en torno a linajes poderosos, cada uno de los cuales rastrea su herencia hasta un ancestro divino específico:
 
-| Lineage | Elemental Affinity | Territory | Notable Traits |
+| Lineage (Linaje) | Elemental Affinity (Afinidad Elemental) | Territory (Territorio) | Notable Traits (Rasgos Notables) |
 |---------|---------------|---------|-------------------|
-| **Stormgiants** | Lightning | Mountain peaks | Swift action, electrical mastery |
-| **Firegiants** | Fire | Volcanic regions | Intense passion, destructive power |
-| **Frostgiants** | Ice | Arctic regions | Patient strategy, cold precision |
-| **Stonegiants** | Earth | Mountain ranges | Steadfast defense, geological control |
-| **Cloudgiants** | Air | Cloud islands | Swift movement, aerial dominance |
-| **Hillgiants** | Nature | Rolling hills | Connection to nature, agricultural mastery |
+| **Stormgiants** (Gigantes de la Tormenta) | Lightning (Rayo) | Mountain peaks (Picos de Montaña) | Swift action (Acción rápida), electrical mastery (dominio eléctrico) |
+| **Firegiants** (Gigantes de Fuego) | Fire (Fuego) | Volcanic regions (Regiones Volcánicas) | Intense passion (Pasión intensa), destructive power (poder destructivo) |
+| **Frostgiants** (Gigantes de Hielo) | Ice (Hielo) | Arctic regions (Regiones Árticas) | Patient strategy (Estrategia paciente), cold precision (precisión fría) |
+| **Stonegiants** (Gigantes de Piedra) | Earth (Tierra) | Mountain ranges (Cordilleras) | Steadfast defense (Defensa firme), geological control (control geológico) |
+| **Cloudgiants** (Gigantes de las Nubes) | Air (Aire) | Cloud islands (Islas de Nubes) | Swift movement (Movimiento rápido), aerial dominance (dominio aéreo) |
+| **Hillgiants** (Gigantes de las Colinas) | Nature (Naturaleza) | Rolling hills (Colinas Ondulantes) | Connection to nature (Conexión con la naturaleza), agricultural mastery (dominio agrícola) |
 
-Understanding the nature of **giants** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the mountains and skies. 
+Comprender la naturaleza de los **giants** (gigantes) proporciona información sobre la dinámica de poder del mundo de **OpenFantasy**, como sentir los ritmos atronadores que pulsan a través de las montañas y los cielos.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
