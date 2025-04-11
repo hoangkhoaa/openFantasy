@@ -1,212 +1,216 @@
-# **The School of Abjuration**
+# **Die Schule der Abjuration (Bannmagie)**
 
-> *"To abjure is not merely to say 'no' to harmful forces, but to compose a silence into which discord cannot enter."*  
-> — Grandmaster Isolde Shieldweaver, Warden of the Seven Sanctums
+> *"Abjurieren (Bannen) bedeutet nicht nur, 'Nein' zu schädlichen Kräften zu sagen, sondern eine Stille zu schaffen, in die keine Zwietracht eindringen kann."*
+> — Großmeisterin Isolde Schildweber, Hüterin der Sieben Heiligtümer
 
-## Overview
+## Übersicht
 
-Abjuration is the school of protective magic, focused on the creation of defensive barriers, the neutralization of harmful effects, and the banishment of unwanted entities. Unlike other schools that seek to create or transform, abjuration primarily prevents, protects, and preserves. It is considered one of the most technically demanding magical disciplines due to its emphasis on perfect structural integrity and flawless execution.
+Abjuration (Bannmagie) ist die Schule der Schutzzauber, die sich auf die Erschaffung von Verteidigungsbarrieren, die Neutralisierung schädlicher Auswirkungen und die Verbannung unerwünschter Wesen konzentriert. Im Gegensatz zu anderen Schulen, die erschaffen oder verwandeln wollen, verhindert, schützt und bewahrt die Abjuration (Bannmagie) in erster Linie. Sie gilt als eine der technisch anspruchsvollsten magischen Disziplinen, da sie die perfekte strukturelle Integrität und die fehlerfreie Ausführung betont.
 
-## Fundamental Principles
+## Grundlegende Prinzipien
 
-### The Barrier Theorem
+### Der Barrierensatz
 
-At the core of abjuration theory lies the Barrier Theorem, which states that properly structured magical energy can create boundaries that selectively filter or completely block other energies, entities, or effects. These barriers operate on the principle of harmonic opposition—creating frequencies that destructively interfere with incoming magical forces.
+Im Kern der Abjurationstheorie (Bannmagietheorie) steht der Barrierensatz, der besagt, dass richtig strukturierte magische Energie Grenzen schaffen kann, die andere Energien, Wesen oder Effekte selektiv filtern oder vollständig blockieren. Diese Barrieren funktionieren nach dem Prinzip der harmonischen Opposition – sie erzeugen Frequenzen, die eingehende magische Kräfte destruktiv stören.
 
-### Primary Components
+### Primäre Komponenten
 
-All abjuration spells incorporate three fundamental components:
+Alle Abjurationszauber (Bannmagiezauber) beinhalten drei grundlegende Komponenten:
 
-1. **Boundary Definition**: Establishing the protected space or subject
-2. **Resonant Opposition**: Creating the specific counter-frequencies to the targeted threat
-3. **Structural Integrity**: Maintaining the defensive pattern against pressure or attack
+1. **Boundary Definition (Grenzdefinition)**: Festlegung des geschützten Raums oder Subjekts
+2. **Resonant Opposition (Resonante Opposition)**: Erzeugung der spezifischen Gegenfrequenzen zur gezielten Bedrohung
+3. **Structural Integrity (Strukturelle Integrität)**: Aufrechterhaltung des Verteidigungsmusters gegen Druck oder Angriff
 
-More complex abjurations add additional components:
+Komplexere Abjurationen (Bannmagien) fügen zusätzliche Komponenten hinzu:
 
-4. **Selective Permeability**: Allowing specific entities or energies to pass
-5. **Response Protocols**: Automated reactions to specific types of breach attempts
-6. **Regenerative Matrix**: Self-repair capabilities for damaged sections
+4. **Selective Permeability (Selektive Durchlässigkeit)**: Ermöglichen des Durchtritts bestimmter Entitäten oder Energien
+5. **Response Protocols (Reaktionsprotokolle)**: Automatisierte Reaktionen auf bestimmte Arten von Durchbruchversuchen
+6. **Regenerative Matrix (Regenerative Matrix)**: Selbstreparaturfähigkeiten für beschädigte Abschnitte
 
-### Mana Requirements
+### Mana Requirements (Mana-Anforderungen)
 
-Abjuration requires specific combinations of mana types, with purity levels that increase with the potency of the threats being defended against:
+Abjuration (Bannmagie) erfordert spezifische Kombinationen von Mana-Typen, wobei die Reinheitsgrade mit der Potenz der abzuwehrenden Bedrohungen steigen:
 
-| Abjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| Abjuration Type (Abjurationsart) | Primary Mana (Primäres Mana) | Secondary Mana (Sekundäres Mana) | Tertiary Mana (Tertiäres Mana) | Purpose (Zweck) |
 |-----------------|-------------|----------------|---------------|---------|
-| Personal Shield | Base Mana (50-60%) | Varies by threat | N/A | Individual protection |
-| Area Warding | Base Mana (40-50%) | Terramana (20-30%) | Varies by threat | Location protection |
-| Anti-Magic Field | Base Mana (60-70%) | N/A | N/A | Magic neutralization |
-| Entity Banishment | Base Mana (50-60%) | Varies by entity | Chronosmana (10-20%) | Force removal |
-| Curse Breaking | Base Mana (60-70%) | Matching curse mana | Luxmana (10-20%) | Malefic effect removal |
-| Sanctuary | Base Mana (40-50%) | Luxmana (30-40%) | Aeromana (10-20%) | Complete safe zone |
+| Personal Shield (Persönlicher Schild) | Base Mana (Basismana) (50-60%) | Varies by threat (Variiert je nach Bedrohung) | N/A | Individual protection (Individueller Schutz) |
+| Area Warding (Gebietsabschirmung) | Base Mana (Basismana) (40-50%) | Terramana (Terramana) (20-30%) | Varies by threat (Variiert je nach Bedrohung) | Location protection (Ortsschutz) |
+| Anti-Magic Field (Antimagiefeld) | Base Mana (Basismana) (60-70%) | N/A | N/A | Magic neutralization (Magieneutralisierung) |
+| Entity Banishment (Wesenverbannung) | Base Mana (Basismana) (50-60%) | Varies by entity (Variiert je nach Wesen) | Chronosmana (Chronosmana) (10-20%) | Force removal (Entfernung mit Gewalt) |
+| Curse Breaking (Fluchbrechen) | Base Mana (Basismana) (60-70%) | Matching curse mana (Passendes Fluchmana) | Luxmana (Luxmana) (10-20%) | Malefic effect removal (Entfernung schädlicher Effekte) |
+| Sanctuary (Zufluchtsort) | Base Mana (Basismana) (40-50%) | Luxmana (Luxmana) (30-40%) | Aeromana (Aeromana) (10-20%) | Complete safe zone (Komplette Sicherheitszone) |
 
-### Wild Mana Response
+### Wild Mana Response (Wild-Mana-Reaktion)
 
-Abjuration magic has a unique relationship with Wild Mana. While most schools suffer unpredictable effects when exposed to Wild Mana, properly constructed abjurations can actually incorporate Wild Mana into their structure through a process called "harmonic redirection." This technique captures and channels the chaotic energy into reinforcing the barrier itself.
+Abjurationsmagie (Bannmagie) hat eine einzigartige Beziehung zu Wild Mana (Wildem Mana). Während die meisten Schulen unvorhersehbare Auswirkungen erleiden, wenn sie Wild Mana (Wildem Mana) ausgesetzt sind, können richtig konstruierte Abjurationen (Bannmagien) Wild Mana (Wildes Mana) durch einen Prozess namens "harmonische Umlenkung" tatsächlich in ihre Struktur integrieren. Diese Technik fängt die chaotische Energie ein und leitet sie zur Verstärkung der Barriere selbst.
 
-However, this is a delicate process that requires exceptional skill; poorly executed attempts can result in:
+Dies ist jedoch ein heikler Prozess, der außergewöhnliche Fähigkeiten erfordert; schlecht ausgeführte Versuche können zu folgenden Ergebnissen führen:
 
-- **Polarity Inversion**: The barrier repels what it should admit and admits what it should repel
-- **Fractured Containment**: Wild Mana becomes trapped within the barrier, creating unstable pockets
-- **Resonance Backlash**: The barrier amplifies rather than neutralizes incoming threats
+- **Polarity Inversion (Polaritätsumkehrung)**: Die Barriere stößt ab, was sie zulassen sollte, und lässt zu, was sie abstoßen sollte
+- **Fractured Containment (Gebrochene Eindämmung)**: Wild Mana (Wildes Mana) wird in der Barriere eingeschlossen und erzeugt instabile Taschen
+- **Resonance Backlash (Resonanzrückschlag)**: Die Barriere verstärkt eher als neutralisiert eingehende Bedrohungen
 
-## Mana Purification for Abjuration
+## Mana Purification for Abjuration (Manareinigung für Abjuration)
 
-Abjuration demands exceptional mana purity due to its defensive nature—any flaw in the magical structure creates a potential vulnerability:
+Abjuration (Bannmagie) erfordert aufgrund ihrer defensiven Natur eine außergewöhnliche Manareinheit – jeder Fehler in der magischen Struktur stellt eine potenzielle Schwachstelle dar:
 
-| Purification Level | Abjuration Capability |
+| Purification Level (Reinigungsgrad) | Abjuration Capability (Abjurationsfähigkeit) |
 |--------------------|------------------------|
-| Basic (15-25%) | Simple personal shields against minor physical threats |
-| Intermediate (30-45%) | Multi-layered protections against moderate magical and physical dangers |
-| Advanced (50-65%) | Complex selective barriers and wards against major threats |
-| Master (70-80%) | Impenetrable sanctuaries and banishment fields effective against legendary threats |
-| Grandmaster (85%+) | Reality-anchoring barriers that can withstand cosmic-level forces |
+| Basic (Grundlegend) (15-25%) | Simple personal shields against minor physical threats (Einfache persönliche Schilde gegen geringfügige physische Bedrohungen) |
+| Intermediate (Mittel) (30-45%) | Multi-layered protections against moderate magical and physical dangers (Mehrschichtiger Schutz gegen mäßige magische und physische Gefahren) |
+| Advanced (Fortgeschritten) (50-65%) | Complex selective barriers and wards against major threats (Komplexe selektive Barrieren und Schutzvorrichtungen gegen größere Bedrohungen) |
+| Master (Meister) (70-80%) | Impenetrable sanctuaries and banishment fields effective against legendary threats (Undurchdringliche Heiligtümer und Verbannungsfelder, die gegen legendäre Bedrohungen wirksam sind) |
+| Grandmaster (Großmeister) (85%+) | Reality-anchoring barriers that can withstand cosmic-level forces (Realitätsverankernde Barrieren, die kosmischen Kräften standhalten können) |
 
-In abjuration, purity correlates directly with both barrier strength and specificity—higher purity allows for more precisely targeted defenses against specific threats.
+In der Abjuration (Bannmagie) korreliert die Reinheit direkt mit der Barrierenstärke und der Spezifität – höhere Reinheit ermöglicht präzisere gezielte Abwehrmaßnahmen gegen spezifische Bedrohungen.
 
-## The Defensive Scales
+## The Defensive Scales (Die Verteidigungsskalen)
 
-Abjuration magic is often conceptualized through musical structure, with protective spells described as "scales"—progressive sequences of notes that create complete defensive patterns:
+Abjurationsmagie (Bannmagie) wird oft durch musikalische Strukturen konzeptualisiert, wobei Schutzzauber als "Skalen" beschrieben werden – progressive Notenfolgen, die vollständige Verteidigungsmuster erzeugen:
 
-- **Major Scales**: Outward-facing protections against external threats
-- **Minor Scales**: Inward-facing protections to contain or suppress
-- **Chromatic Scales**: Complex, adaptable barriers that shift in response to threats
-- **Pentatonic Scales**: Simplified, robust protections effective against a limited range of threats
-- **Counterpoint Defense**: Multiple overlapping barriers that reinforce each other
+- **Major Scales (Dur-Tonleitern)**: Nach außen gerichteter Schutz gegen äußere Bedrohungen
+- **Minor Scales (Moll-Tonleitern)**: Nach innen gerichteter Schutz zum Eindämmen oder Unterdrücken
+- **Chromatic Scales (Chromatische Tonleitern)**: Komplexe, anpassungsfähige Barrieren, die sich als Reaktion auf Bedrohungen verschieben
+- **Pentatonic Scales (Pentatonische Tonleitern)**: Vereinfachte, robuste Schutzvorrichtungen, die gegen eine begrenzte Anzahl von Bedrohungen wirksam sind
+- **Counterpoint Defense (Kontrapunktische Verteidigung)**: Mehrere sich überlappende Barrieren, die sich gegenseitig verstärken
 
-Master abjurers speak of "conducting" their defenses, actively maintaining and adjusting multiple protective layers simultaneously.
+Meister-Abjuratoren (Bannmagier) sprechen davon, ihre Abwehrmaßnahmen zu "dirigieren" und aktiv mehrere Schutzschichten gleichzeitig aufrechtzuerhalten und anzupassen.
 
-## Specialized Disciplines
+## Specialized Disciplines (Spezialisierte Disziplinen)
 
-### Wardcraft
+### Wardcraft (Schutzmagie)
 
-The art of creating long-term protective fields for locations. Practitioners are known as Warders.
+Die Kunst, langfristige Schutzfelder für Orte zu schaffen. Praktizierende werden als Warders (Hüter) bezeichnet.
 
-### Shielding
+### Shielding (Abschirmung)
 
-Focused on immediate, tactical barriers for combat situations. Masters are called Shieldmages.
+Konzentriert sich auf unmittelbare, taktische Barrieren für Kampfsituationen. Meister werden Shieldmages (Schildmagier) genannt.
 
-### Banishment
+### Banishment (Verbannung)
 
-Specialized in the removal of unwanted entities or energies. Practitioners are called Banishers.
+Spezialisiert auf die Entfernung unerwünschter Entitäten oder Energien. Praktizierende werden Banishers (Verbanner) genannt.
 
-### Nullification
+### Nullification (Aufhebung)
 
-The neutralization of existing magical effects. Masters are known as Nullifiers.
+Die Neutralisierung bestehender magischer Effekte. Meister werden Nullifiers (Aufheber) genannt.
 
-### Anchoring
+### Anchoring (Verankerung)
 
-Securing entities, objects, or locations against magical displacement. Practitioners are called Anchors.
+Sichern von Entitäten, Objekten oder Orten gegen magische Verschiebung. Praktizierende werden Anchors (Anker) genannt.
 
-### Purification
+### Purification (Reinigung)
 
-Removal of magical contamination or corruption. Masters are known as Purifiers.
+Entfernung von magischer Kontamination oder Korruption. Meister werden Purifiers (Reiniger) genannt.
 
-### Sanctuary Creation
+### Sanctuary Creation (Zufluchtsortschaffung)
 
-The establishment of spaces where specific magical laws apply. Practitioners are called Sanctifiers.
+Die Errichtung von Räumen, in denen bestimmte magische Gesetze gelten. Praktizierende werden Sanctifiers (Heiliger) genannt.
 
-### Curse Breaking
+### Curse Breaking (Fluchbrechen)
 
-Specialized in dismantling malicious persistent effects. Masters are known as Breakers.
+Spezialisiert auf die Beseitigung bösartiger, anhaltender Effekte. Meister werden Breakers (Brecher) genannt.
 
-## Training Methodology
+## Training Methodology (Trainingsmethodik)
 
-Abjuration training follows a rigorous progression:
+Das Abjurationstraining (Bannmagietraining) folgt einer strengen Progression:
 
-1. **Foundational Theory**: Understanding the principles of magical opposition and containment
-2. **Personal Shielding**: Mastering protection of the self as the fundamental skill
-3. **Threat Analysis**: Learning to identify and categorize magical and physical dangers
-4. **Barrier Construction**: Techniques for creating structurally sound protective fields
-5. **Selective Filtering**: Advanced methods for discriminating between entities and energies
-6. **Breach Response**: Protocols for handling failures and penetrations of defenses
-7. **Multiple Barrier Orchestration**: Maintaining several protective spells simultaneously
-8. **Permanent Warding**: Creation of long-term or permanent protective measures
+1. **Foundational Theory (Grundlagentheorie)**: Verständnis der Prinzipien der magischen Opposition und Eindämmung
+2. **Personal Shielding (Persönliche Abschirmung)**: Beherrschung des Selbstschutzes als grundlegende Fähigkeit
+3. **Threat Analysis (Bedrohungsanalyse)**: Erlernen der Identifizierung und Kategorisierung magischer und physischer Gefahren
+4. **Barrier Construction (Barrierenbau)**: Techniken zur Erstellung strukturell solider Schutzfelder
+5. **Selective Filtering (Selektive Filterung)**: Fortgeschrittene Methoden zur Unterscheidung zwischen Entitäten und Energien
+6. **Breach Response (Reaktion auf Durchbrüche)**: Protokolle für den Umgang mit Fehlern und Durchdringungen von Abwehrmaßnahmen
+7. **Multiple Barrier Orchestration (Orchestrierung mehrerer Barrieren)**: Gleichzeitiges Aufrechterhalten mehrerer Schutzzauber
+8. **Permanent Warding (Permanente Abschirmung)**: Erstellung langfristiger oder dauerhafter Schutzmaßnahmen
 
-Training emphasizes precision over speed, with students typically spending years mastering basic shields before progressing to more complex protections.
+Das Training betont Präzision gegenüber Geschwindigkeit, wobei die Schüler in der Regel Jahre damit verbringen, grundlegende Schilde zu meistern, bevor sie zu komplexeren Schutzmaßnahmen übergehen.
 
-## Abjuration in Practice
+## Abjuration in Practice (Abjuration in der Praxis)
 
-The process of casting abjuration magic follows distinct phases:
+Der Prozess des Wirkens von Abjurationsmagie (Bannmagie) folgt bestimmten Phasen:
 
-1. **Threat Assessment**: Identifying the specific dangers to be defended against
-2. **Boundary Establishment**: Defining the protected space or subject
-3. **Mana Purification**: Achieving the necessary purity for stable protection
-4. **Pattern Formation**: Creating the specific defensive structure needed
-5. **Opposition Tuning**: Calibrating the defense to counter specific threats
-6. **Reinforcement**: Strengthening potential weak points in the structure
-7. **Activation**: Empowering the completed pattern to begin functioning
-8. **Maintenance**: Sustaining the defense through concentration or anchoring
+1. **Threat Assessment (Bedrohungsbeurteilung)**: Identifizierung der spezifischen Gefahren, vor denen man sich schützen muss
+2. **Boundary Establishment (Grenzfestelegung)**: Definition des geschützten Raums oder Subjekts
+3. **Mana Purification (Manareinigung)**: Erreichen der notwendigen Reinheit für stabilen Schutz
+4. **Pattern Formation (Musterbildung)**: Erstellung der spezifischen benötigten Abwehrstruktur
+5. **Opposition Tuning (Oppositionsabstimmung)**: Kalibrierung der Abwehr zur Bekämpfung spezifischer Bedrohungen
+6. **Reinforcement (Verstärkung)**: Verstärkung potenzieller Schwachstellen in der Struktur
+7. **Activation (Aktivierung)**: Befähigung des vollständigen Musters, mit der Funktion zu beginnen
+8. **Maintenance (Wartung)**: Aufrechterhaltung der Abwehr durch Konzentration oder Verankerung
 
-For combat abjuration, these steps must often be compressed into split-second casting, while permanent wards may involve ritual processes extending over days.
+Für die Kampf-Abjuration (Kampf-Bannmagie) müssen diese Schritte oft in Sekundenbruchteilen zusammengepresst werden, während permanente Schutzvorrichtungen rituelle Prozesse beinhalten können, die sich über Tage erstrecken.
 
-## Practical Applications
+## Practical Applications (Praktische Anwendungen)
 
-Abjuration serves vital protective functions across society:
+Abjuration (Bannmagie) dient wichtigen Schutzfunktionen in der Gesellschaft:
 
-- **Personal Safety**: Combat shields, environmental protection, privacy barriers
-- **Domestic Security**: Home wards, fire suppression fields, theft prevention
-- **Infrastructure**: Public building protections, bridge reinforcement, disaster containment
-- **Medicine**: Quarantine fields, stabilization chambers, surgical protection
-- **Transportation**: Vehicle safety systems, cargo protection, pathfinding security
-- **Research**: Containment for dangerous materials or entities, experiment isolation
-- **Cultural Preservation**: Protection of historical sites, artifact conservation, legacy maintenance
+- **Personal Safety (Persönliche Sicherheit)**: Kampfschilde, Umweltschutz, Privatsphärebarrieren
+- **Domestic Security (Häusliche Sicherheit)**: Heimschutzvorrichtungen, Feuerunterdrückungsfelder, Diebstahlprävention
+- **Infrastructure (Infrastruktur)**: Schutz öffentlicher Gebäude, Brückenverstärkung, Katastrophenschutz
+- **Medicine (Medizin)**: Quarantänefelder, Stabilisierungskammern, chirurgischer Schutz
+- **Transportation (Transport)**: Fahrzeugsicherheitssysteme, Frachtschutz, Wegfindungssicherheit
+- **Research (Forschung)**: Eindämmung gefährlicher Materialien oder Entitäten, Experimentisolierung
+- **Cultural Preservation (Kulturelle Bewahrung)**: Schutz historischer Stätten, Artefaktkonservierung, Vermächtnispflege
 
-## Ethical Considerations
+## Ethical Considerations (Ethische Überlegungen)
 
-Abjuration raises several distinct ethical questions:
+Abjuration (Bannmagie) wirft verschiedene ethische Fragen auf:
 
-- **Isolation Ethics**: The moral implications of creating completely isolated spaces
-- **Discriminatory Protection**: Selective barriers that admit some but not others
-- **Defensive Aggression**: Wards designed to harm those who breach them
-- **Autonomy Concerns**: Protections that restrict the protected individual's freedom
-- **Resource Allocation**: Prioritizing who or what receives limited protective resources
-- **False Security**: The ethics of providing protections known to be inadequate
+- **Isolation Ethics (Isolation-Ethik)**: Die moralischen Implikationen der Schaffung vollständig isolierter Räume
+- **Discriminatory Protection (Diskriminierender Schutz)**: Selektive Barrieren, die einige zulassen, andere aber nicht
+- **Defensive Aggression (Defensive Aggression)**: Schutzvorrichtungen, die dazu bestimmt sind, diejenigen zu verletzen, die sie durchbrechen
+- **Autonomy Concerns (Autonomiebedenken)**: Schutzmaßnahmen, die die Freiheit des geschützten Individuums einschränken
+- **Resource Allocation (Ressourcenallokation)**: Priorisierung, wer oder was begrenzte Schutzressourcen erhält
+- **False Security (Falsche Sicherheit)**: Die Ethik der Bereitstellung von Schutzmaßnahmen, von denen bekannt ist, dass sie unzureichend sind
 
-Most abjuration academies teach a code of protective ethics based on proportionality and informed consent.
+Die meisten Abjurationsakademien (Bannmagieakademien) lehren einen Kodex der Schutzkraftethik, der auf Verhältnismäßigkeit und informierter Zustimmung basiert.
 
-## Limitations and Weaknesses
+## Limitations and Weaknesses (Einschränkungen und Schwächen)
 
-Despite its strength, abjuration has inherent limitations:
+Trotz ihrer Stärke hat Abjuration (Bannmagie) inhärente Einschränkungen:
 
-- **Energy Cost**: Stronger threats require exponentially more energy to repel
-- **Specificity Trade-Off**: Broad-spectrum defenses are weaker than specifically targeted ones
-- **Concentration Dependency**: Many barriers require ongoing attention to maintain
-- **Adaptation Lag**: Defenses may fail against novel or rapidly changing threats
-- **Indirect Vulnerability**: Physical anchors or focus points can be targeted
-- **Resonance Counters**: Every defense has a specific resonance that can be exploited
+- **Energy Cost (Energiekosten)**: Stärkere Bedrohungen erfordern exponentiell mehr Energie, um sie abzuwehren
+- **Specificity Trade-Off (Spezifitäts-Kompromiss)**: Breitbandverteidigung ist schwächer als spezifisch zielgerichtete
+- **Concentration Dependency (Konzentrationsabhängigkeit)**: Viele Barrieren erfordern ständige Aufmerksamkeit, um sie aufrechtzuerhalten
+- **Adaptation Lag (Anpassungsverzögerung)**: Die Abwehr kann gegen neuartige oder sich schnell ändernde Bedrohungen versagen
+- **Indirect Vulnerability (Indirekte Verwundbarkeit)**: Physische Anker oder Fokusse können angegriffen werden
+- **Resonance Counters (Resonanz-Gegeneffekte)**: Jede Abwehr hat eine spezifische Resonanz, die ausgenutzt werden kann
 
-Common methods for overcoming abjuration include:
+Gängige Methoden zur Überwindung von Abjuration (Bannmagie) umfassen:
 
-- **Frequency Matching**: Tuning offensive magic to the exact counter-frequency of a barrier
-- **Threshold Flooding**: Overwhelming defenses with massive energy surges
-- **Sequential Probing**: Finding and exploiting weak points in the barrier structure
-- **Anchor Targeting**: Destroying the physical components supporting a ward
-- **Patient Erosion**: Sustained low-level pressure that gradually weakens defenses
-- **Harmonic Infiltration**: Using complementary rather than opposing frequencies to pass through
+- **Frequency Matching (Frequenzanpassung)**: Abstimmung der Offensivmagie auf die exakte Gegenfrequenz einer Barriere
+- **Threshold Flooding (Schwellenwertüberflutung)**: Überwältigende Abwehrmaßnahmen mit massiven Energieschüben
+- **Sequential Probing (Sequenzielle Sondierung)**: Auffinden und Ausnutzen von Schwachstellen in der Barrierenstruktur
+- **Anchor Targeting (Ankervisierung)**: Zerstörung der physischen Komponenten, die eine Schutzvorrichtung tragen
+- **Patient Erosion (Geduldige Erosion)**: Anhaltender, geringfügiger Druck, der die Abwehr allmählich schwächt
+- **Harmonic Infiltration (Harmonische Infiltration)**: Verwenden von komplementären statt gegensätzlichen Frequenzen, um hindurchzukommen
 
-## Musical Analogy
+## Musical Analogy (Musikalische Analogie)
 
-In the musical framework of magic, abjuration represents percussion instruments—creating rhythm and structure that frames and constrains other magical elements. The abjurer is like a drummer, maintaining the boundaries within which other musicians can safely operate.
+Im musikalischen Rahmen der Magie repräsentiert die Abjuration (Bannmagie) Schlaginstrumente – sie erzeugt Rhythmus und Struktur, die andere magische Elemente umrahmt und einschränkt. Der Abjurer (Bannmagier) ist wie ein Schlagzeuger, der die Grenzen aufrechterhält, innerhalb derer andere Musiker sicher agieren können.
 
-Defensive spells are described in terms of "tempos" and "measures," with each protective layer adding a beat to the complex rhythm of a complete defense. Master abjurers can maintain multiple independent "time signatures" simultaneously, creating complex polyrhythmic defenses that are extraordinarily difficult to breach.
+Verteidigungszauber werden in Bezug auf "Tempi" und "Takte" beschrieben, wobei jede Schutzschicht dem komplexen Rhythmus einer vollständigen Abwehr einen Takt hinzufügt. Meister-Abjuratoren (Bannmagier) können mehrere unabhängige "Taktarten" gleichzeitig aufrechterhalten und so komplexe polyrhythmische Abwehrmaßnahmen schaffen, die außerordentlich schwer zu durchbrechen sind.
 
-## Notable Practitioners
+## Notable Practitioners (Bemerkenswerte Praktizierende)
 
-- **Isolde Shieldweaver**: Creator of the Seven-Fold Sanctuary technique used in highest-security magical facilities
-- **Dorian Wardwright**: Legendary warder who established the continent-spanning Great Boundary after the Rift War
-- **Castiel Banebane**: Pioneer of curse-breaking methodologies now standard in medical abjuration
-- **Amalthea Stillhaven**: Developer of the Silent Sanctuary, a completely magic-null environment
-- **Thaddeus Ironward**: Master of combat abjuration and creator of the Reactive Shield System
+- **Isolde Shieldweaver (Isolde Schildweber)**: Schöpferin der Siebenfachen Zufluchtstechnik, die in magischen Hochsicherheitseinrichtungen eingesetzt wird
+- **Dorian Wardwright (Dorian Schutzschreiber)**: Legendärer Schützer, der nach dem Rift War (Risskrieg) die kontinentübergreifende Große Grenze errichtete
+- **Castiel Banebane (Castiel Unheilbann)**: Pionier der Fluchbrechungsmethoden, die heute in der medizinischen Abjuration (Bannmagie) Standard sind
+- **Amalthea Stillhaven (Amalthea Stillhafen)**: Entwicklerin des Silent Sanctuary (Stillen Heiligtums), einer vollständig magisch-neutralen Umgebung
+- **Thaddeus Ironward (Thaddeus Eisenschirm)**: Meister der Kampf-Abjuration (Kampf-Bannmagie) und Schöpfer des Reactive Shield System (Reaktiven Schildsystems)
 
-## Historical Development
+## Historical Development (Historische Entwicklung)
 
-Abjuration emerged early in magical history, with simple wards and protections among the first spells developed by early civilizations. The formal study of abjuration as a distinct school coalesced during the Age of Strife, when defensive magic became critically important.
+Abjuration (Bannmagie) entstand früh in der magischen Geschichte, wobei einfache Schutzvorrichtungen und Schutzmaßnahmen zu den ersten Zaubern gehörten, die von frühen Zivilisationen entwickelt wurden. Das formale Studium der Abjuration (Bannmagie) als eigenständige Schule kristallisierte sich während des Zeitalters der Streitigkeiten heraus, als defensive Magie von entscheidender Bedeutung wurde.
 
-The publication of "Principles of Magical Boundary" by Magister Elara Stoneheart in the early Second Age established the theoretical foundation for modern abjuration. The Third Age saw significant advancement with the development of selective filtering techniques by the Brotherhood of the Veil.
+Die Veröffentlichung von "Principles of Magical Boundary (Prinzipien der magischen Grenze)" durch Magister Elara Stoneheart (Elara Steinherz) im frühen Zweiten Zeitalter begründete das theoretische Fundament der modernen Abjuration (Bannmagie). Das Dritte Zeitalter erlebte mit der Entwicklung selektiver Filtertechniken durch die Brotherhood of the Veil (Bruderschaft des Schleiers) bedeutende Fortschritte.
 
-Contemporary abjuration research focuses on adaptive defense systems, energy-efficient sustainable barriers, and counter-measures for emerging magical threats. The cutting edge of the field explores dimensional anchoring—protections that remain stable across multiple planes of existence.
+Die zeitgenössische Abjurationsforschung (Bannmagieforschung) konzentriert sich auf adaptive Abwehrsysteme, energieeffiziente, nachhaltige Barrieren und Gegenmaßnahmen für neu auftretende magische Bedrohungen. Die Speerspitze des Fachgebiets erforscht die dimensionale Verankerung – Schutzmaßnahmen, die über mehrere Existenzebenen hinweg stabil bleiben.
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Evocation](/codex/Magics/Schools/Evocation.md)* 
+*Siehe auch: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Evocation](/codex/Magics/Schools/Evocation.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

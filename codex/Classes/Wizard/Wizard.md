@@ -1,44 +1,46 @@
-# **Wizard**: Masters of Studied Arcana
+# **Wizard** (Zauberer): Meister der studierten Arkanen Künste
 
-[**Wizards**](/codex/Classes/Wizard/Wizard.md) are intellectual spellcasters who approach magic as a science to be understood, documented, and mastered through rigorous study and experimentation. Their power comes from comprehensive knowledge of arcane formulas and meticulous practice of magical techniques.
+[**Wizards** (Zauberer)](/codex/Classes/Wizard/Wizard.md) sind intellektuelle Zauberwirker, die sich der Magie als einer Wissenschaft nähern, die durch rigoroses Studium und Experimentieren verstanden, dokumentiert und gemeistert werden muss. Ihre Macht beruht auf umfassenden Kenntnissen arkaner Formeln und sorgfältiger Ausübung magischer Techniken.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-The typical elemental ratio for **wizards** emphasizes their scholarly approach to magic:
+Das typische elementare Verhältnis für **wizards** (Zauberer) unterstreicht ihren wissenschaftlichen Ansatz zur Magie:
 
-| Element | Range | Function |
+| Element | Bereich | Funktion |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Physical vessel trained to execute precise somatic components |
-| **Soul** | 35-50% | Mental framework developed to comprehend and manipulate arcane patterns |
-| **Mana Capacity** | 25-45% | Deliberately cultivated mana reserves with exceptional control systems |
+| **Exanthis** | 15-30% | Physisches Gefäß, das darauf trainiert ist, präzise somatische Komponenten auszuführen |
+| **Soul** (Seele) | 35-50% | Mentales Gerüst, das entwickelt wurde, um arkane Muster zu verstehen und zu manipulieren |
+| **Mana Capacity** (Mana-Kapazität) | 25-45% | Bewusst kultivierte Mana-Reserven mit außergewöhnlichen Kontrollsystemen |
 
-This composition distinguishes **wizards** from other spellcasters through their emphasis on understanding over raw power. Wizards develop specialized neural and spiritual pathways through years of study, creating a refined system for interpreting and manipulating magical energy. Their physical forms adapt to support the cognitive demands of spellcasting rather than serving as primary channels.
+Diese Zusammensetzung unterscheidet **wizards** (Zauberer) von anderen Zauberwirkern durch ihre Betonung des Verständnisses gegenüber roher Macht. Wizards (Zauberer) entwickeln durch jahrelanges Studium spezialisierte neuronale und spirituelle Bahnen, wodurch ein verfeinertes System zur Interpretation und Manipulation magischer Energie entsteht. Ihre physischen Formen passen sich an, um die kognitiven Anforderungen der Zauberei zu unterstützen, anstatt als primäre Kanäle zu dienen.
 
-### Magical Affinity Profile
+### Magisches Affinitätsprofil
 
-Wizards develop specific affinities based on their school of specialization:
+Wizards (Zauberer) entwickeln spezifische Affinitäten, die auf ihrer Spezialisierungsschule basieren:
 
-| School | Primary Affinities | Secondary Affinities | Typical Application |
+| School (Schule) | Primary Affinities (Primäre Affinitäten) | Secondary Affinities (Sekundäre Affinitäten) | Typical Application (Typische Anwendung) |
 |--------------|-------------------|---------------------|---------------------|
-| **Abjuration** | Base Mana (Protection) | Varies by application | Wards, barriers, banishment, dispelling |
-| **Conjuration** | Base Mana (Creation) | Element matching creation | Summoning, teleportation, creation |
-| **Divination** | Chronimana | Mentimana | Foresight, detection, information gathering |
-| **Enchantment** | Mentimana | Base Mana (Influence) | Mind control, emotion manipulation, charm |
-| **Evocation** | Various Elementals | Base Mana (Energy) | Elemental damage, force manipulation |
-| **Illusion** | Base Mana (Sensory) | Mentimana | Visual/auditory deception, phantasms |
-| **Necromancy** | Thanatomana | Base Mana (Vitality) | Animation, life force manipulation |
-| **Transmutation** | Base Mana (Transformation) | Element matching target | Matter alteration, physical law manipulation |
+| **Abjuration** (Bannzauber) | Base Mana (Schutz) | Varies by application (Variiert je nach Anwendung) | Wards, barriers, banishment, dispelling (Schutzzauber, Barrieren, Verbannung, Zerstreuung) |
+| **Conjuration** (Beschwörung) | Base Mana (Erschaffung) | Element matching creation (Element passend zur Erschaffung) | Summoning, teleportation, creation (Herbeirufung, Teleportation, Erschaffung) |
+| **Divination** (Wahrsagung) | Chronimana | Mentimana | Foresight, detection, information gathering (Voraussicht, Erkennung, Informationsbeschaffung) |
+| **Enchantment** (Verzauberung) | Mentimana | Base Mana (Beeinflussung) | Mind control, emotion manipulation, charm (Geisteskontrolle, Emotionsmanipulation, Charme) |
+| **Evocation** (Hervorrufung) | Various Elementals (Verschiedene Elementare) | Base Mana (Energie) | Elemental damage, force manipulation (Elementarschaden, Kraftmanipulation) |
+| **Illusion** (Illusion) | Base Mana (Sensorisch) | Mentimana | Visual/auditory deception, phantasms (Visuelle/auditive Täuschung, Phantasmagorien) |
+| **Necromancy** (Nekromantie) | Thanatomana | Base Mana (Vitalität) | Animation, life force manipulation (Animation, Lebenskraftmanipulation) |
+| **Transmutation** (Verwandlung) | Base Mana (Transformation) | Element matching target (Element passend zum Ziel) | Matter alteration, physical law manipulation (Materieänderung, Manipulation physikalischer Gesetze) |
 
-Wizards typically achieve 40-60% resonance with their specialized school's elements, with decades of study potentially raising this to 70-85% in their areas of expertise. Their scholarly approach enables them to achieve high mana purity (45-65%) through disciplined purification techniques, with archmages reaching 75-90% purity in their specialized fields.
+Wizards (Zauberer) erreichen typischerweise eine Resonanz von 40-60% mit den Elementen ihrer Spezialschule, wobei jahrzehntelanges Studium dies potenziell auf 70-85% in ihren Fachgebieten erhöhen kann. Ihr wissenschaftlicher Ansatz ermöglicht es ihnen, durch disziplinierte Reinigungstechniken eine hohe Mana-Reinheit (45-65%) zu erreichen, wobei Erzmagier in ihren Spezialgebieten eine Reinheit von 75-90% erreichen.
 
-### Species-Specific Variations
+### Speziesspezifische Variationen
 
-Different species show varying natural inclinations toward the wizard class:
+Verschiedene Spezies zeigen unterschiedliche natürliche Neigungen zur Wizard (Zauberer)-Klasse:
 
-- **Humans** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Their adaptability allows for comprehensive magical study across multiple disciplines, with moderate specialization potential.
-- **High Elves** (10-25% Exanthis, 40-55% Soul, 30-50% Mana Capacity): Their longevity and natural magical attunement creates exceptional retention of complex arcane formulas.
-- **Gnomes** (15-25% Exanthis, 45-60% Soul, 20-40% Mana Capacity): Their innovative thinking creates natural affinity for illusion and transmutation magic.
-- **Tieflings** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Their infernal heritage provides intuitive understanding of certain arcane concepts, particularly conjuration and evocation.
-- **Dragonborn** (20-35% Exanthis, 30-45% Soul, 25-45% Mana Capacity): Their draconic connection provides natural aptitude for evocation magic related to their ancestry.
+- **Humans** (Menschen) (15-30% Exanthis, 35-50% Soul (Seele), 25-45% Mana Capacity (Mana-Kapazität)): Ihre Anpassungsfähigkeit ermöglicht ein umfassendes magisches Studium über mehrere Disziplinen hinweg, mit moderatem Spezialisierungspotenzial.
+- **High Elves** (Hochelfen) (10-25% Exanthis, 40-55% Soul (Seele), 30-50% Mana Capacity (Mana-Kapazität)): Ihre Langlebigkeit und natürliche magische Einstimmung ermöglicht eine außergewöhnliche Beibehaltung komplexer arkaner Formeln.
+- **Gnomes** (Gnome) (15-25% Exanthis, 45-60% Soul (Seele), 20-40% Mana Capacity (Mana-Kapazität)): Ihr innovatives Denken schafft eine natürliche Affinität für Illusions- und Transmutationsmagie.
+- **Tieflings** (Tieflinge) (15-30% Exanthis, 35-50% Soul (Seele), 25-45% Mana Capacity (Mana-Kapazität)): Ihr infernales Erbe vermittelt ein intuitives Verständnis bestimmter arkaner Konzepte, insbesondere Beschwörung und Hervorrufung.
+- **Dragonborn** (Drachenblütige) (20-35% Exanthis, 30-45% Soul (Seele), 25-45% Mana Capacity (Mana-Kapazität)): Ihre drakonische Verbindung bietet eine natürliche Begabung für Hervorrufungszauberei, die mit ihrer Abstammung zusammenhängt.
 
-// ... rest of the file remains unchanged ... 
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,155 +1,159 @@
-# **Minor Illusion**
+# **Geringfügige Illusion (Minor Illusion)**
 
-> *"Reality is but a canvas awaiting the illusion artist's touch."*  
-> — Mirala Shadowweaver, Illusion Grandmaster
+> *"Die Realität ist nichts weiter als eine Leinwand, die auf die Berührung des Illusionskünstlers wartet."*
+> — Mirala Shadowweaver (Mirala Schattenweberin), Illusions-Großmeisterin
 
-## Casting Information
-- **Difficulty**: Novice
-- **Casting Time**: 2 seconds
-- **Duration**: Concentration, up to 5 minutes
-- **Range**: Within 15 feet
-- **Components**: Somatic, Verbal
+## Informationen zum Zaubern (Casting Information)
+- **Schwierigkeit (Difficulty)**: Anfänger
+- **Zauberzeit (Casting Time)**: 2 Sekunden
+- **Dauer (Duration)**: Konzentration, bis zu 5 Minuten
+- **Reichweite (Range)**: Innerhalb von 15 Fuß
+- **Komponenten (Components)**: Somatisch, Verbal
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 60%, Umbramana 30%, Luxmana 10%
-- **Purity Required**: Basic (15-25%)
-- **Minimum Mana Capacity**: 15% (Higher capacity extends possible duration and area)
-- **Pattern Complexity**: Simple (3-tier matrix)
-- **Resonance Frequency**: Mid-range sensory spectrum
-- **Specialization Efficiency Required**: 40%+ (Novice level)
-- **Wild Mana Tolerance**: Up to 15% residual content
+## Technische Details (Technical Details)
+- **Mana-Typ-Verteilung (Mana Type Distribution)**: Basis-Mana 60%, Umbramana 30%, Luxmana 10%
+- **Erforderliche Reinheit (Purity Required)**: Grundlegend (15-25%)
+- **Minimale Mana-Kapazität (Minimum Mana Capacity)**: 15% (Höhere Kapazität verlängert mögliche Dauer und Fläche)
+- **Musterkomplexität (Pattern Complexity)**: Einfach (3-stufige Matrix)
+- **Resonanzfrequenz (Resonance Frequency)**: Mittleres sensorisches Spektrum
+- **Erforderliche Spezialisierungseffizienz (Specialization Efficiency Required)**: 40%+ (Anfänger-Level)
+- **Toleranz für Wildes Mana (Wild Mana Tolerance)**: Bis zu 15% Restgehalt
 
-## Mana Mechanics
+## Mana-Mechaniken (Mana Mechanics)
 
-### Base Mana Function
-The Base Mana component (60%) provides:
-- Structural framework for the illusion pattern
-- Stability and duration maintenance
-- Connection to the caster's concentration
-- Boundary definition and spatial anchoring
+### Funktion des Basis-Manas (Base Mana Function)
+Die Basis-Mana-Komponente (60%) bietet:
+- Strukturelles Gerüst für das Illusionsmuster
+- Stabilität und Aufrechterhaltung der Dauer
+- Verbindung zur Konzentration des Zauberers
+- Definition der Grenzen und räumliche Verankerung
 
-### Umbramana Function
-The Shadow mana component (30%) contributes:
-- Visual/sensory obscuration capabilities
-- Reality distortion properties
-- Light/perception manipulation
-- Concealment of the magical nature of the effect
+### Umbramana-Funktion (Umbramana Function)
+Die Schatten-Mana-Komponente (30%) trägt bei:
+- Visuelle/sensorische Verschleierungsfähigkeiten
+- Eigenschaften der Realitätsverzerrung
+- Manipulation von Licht/Wahrnehmung
+- Verschleierung der magischen Natur des Effekts
 
-### Luxmana Function
-The Light mana component (10%) provides:
-- Visual clarity and detail enhancement
-- Sensory precision and definition
-- Reality mimicry qualities
-- Observer connection hooks
+### Luxmana-Funktion (Luxmana Function)
+Die Licht-Mana-Komponente (10%) bietet:
+- Visuelle Klarheit und Detailverbesserung
+- Sensorische Präzision und Definition
+- Qualitäten der Realitätsnachahmung
+- Verbindungshaken für Beobachter
 
-### Specialization Process
-The caster must successfully:
-1. Draw Base Mana from internal reserves
-2. Transform approximately 40% of this Base Mana into specialized forms
-3. Maintain the correct proportional balance (60:30:10)
-4. Establish the harmonics between opposing elements (Umbramana and Luxmana)
+### Spezialisierungsprozess (Specialization Process)
+Der Zauberer muss erfolgreich:
+1. Basis-Mana aus internen Reserven ziehen
+2. Ungefähr 40% dieses Basis-Manas in spezialisierte Formen umwandeln
+3. Das richtige proportionale Gleichgewicht (60:30:10) aufrechterhalten
+4. Die Harmonien zwischen gegensätzlichen Elementen (Umbramana und Luxmana) herstellen
 
-## Pattern Structure
+## Musterstruktur (Pattern Structure)
 
-The spell consists of four primary pattern elements forming a sensory projection matrix:
+Der Zauber besteht aus vier primären Musterelementen, die eine sensorische Projektionsmatrix bilden:
 
-1. **Image Seed**: The core visualization pattern that establishes the illusion's foundation
-2. **Sensory Projection**: The pattern component that projects the illusion into physical space
-3. **Boundary Frame**: Defines the spatial limitations and edges of the illusion
-4. **Perception Hook**: The subtle pattern that connects the illusion to observers' senses
+1. **Image Seed**: Das Kernvisualisierungsmuster, das die Grundlage der Illusion bildet
+2. **Sensory Projection**: Die Musterkomponente, die die Illusion in den physischen Raum projiziert
+3. **Boundary Frame**: Definiert die räumlichen Beschränkungen und Ränder der Illusion
+4. **Perception Hook**: Das subtile Muster, das die Illusion mit den Sinnen der Beobachter verbindet
 
-## Practical Effect
+## Praktische Wirkung (Practical Effect)
 
-Minor Illusion creates a single sensory illusion within range:
-- A visual illusion no larger than a 5-foot cube
-- A sound emanating from a point in range (whisper to conversation volume)
-- A simple scent detectable within 10 feet
-- A minor tactile sensation (temperature change, light breeze, gentle touch)
+Geringfügige Illusion (Minor Illusion) erzeugt eine einzelne sensorische Illusion innerhalb der Reichweite:
+- Eine visuelle Illusion, die nicht größer als ein 5-Fuß-Würfel ist
+- Ein Geräusch, das von einem Punkt innerhalb der Reichweite ausgeht (Flüstern bis Gesprächslautstärke)
+- Ein einfacher Duft, der innerhalb von 10 Fuß wahrnehmbar ist
+- Eine geringfügige taktile Empfindung (Temperaturänderung, leichte Brise, sanfte Berührung)
 
-The spell can create only one type of sensory effect at a time. The illusion has no physical substance and cannot cause damage, create light that illuminates areas, or produce sound loud enough to cause damage or be heard more than 100 feet away.
+Der Zauber kann nur eine Art von sensorischer Wirkung gleichzeitig erzeugen. Die Illusion hat keine physische Substanz und kann keinen Schaden verursachen, kein Licht erzeugen, das Bereiche beleuchtet, oder Geräusche erzeugen, die laut genug sind, um Schaden zu verursachen oder in mehr als 100 Fuß Entfernung gehört zu werden.
 
-## Purity Influence on Effect
+## Reinheitseinfluss auf die Wirkung (Purity Influence on Effect)
 
-The caster's mana purity directly affects the illusion's quality, believability, and stability:
+Die Mana-Reinheit des Zauberers beeinflusst direkt die Qualität, Glaubwürdigkeit und Stabilität der Illusion:
 
-| Purity Level | Effect |
+| Reinheitsgrad (Purity Level) | Wirkung (Effect) |
 |--------------|--------|
-| Below 10% | Casting typically fails; any resulting illusion appears as obvious magical energy with no coherent form |
-| 10-15% | Highly unstable illusion with visible fluctuations and mana "glitches"; immediately recognizable as magical |
-| 15-25% | Standard illusion that appears realistic from a distance but lacks fine details and natural movement |
-| 25-35% | Enhanced illusion with improved details, more natural movement, and better sensory integration |
-| 35-45% | Refined illusion with convincing details that can withstand moderate scrutiny; subtle environmental interaction |
-| 50%+ | Nearly flawless illusion that can fool most observers without careful inspection; seamlessly adapts to environmental changes |
+| Unter 10% | Das Zaubern schlägt typischerweise fehl; jede resultierende Illusion erscheint als offensichtliche magische Energie ohne kohärente Form |
+| 10-15% | Hochentabile Illusion mit sichtbaren Schwankungen und Mana-"Fehlern"; sofort als magisch erkennbar |
+| 15-25% | Standardillusion, die aus der Ferne realistisch erscheint, aber feine Details und natürliche Bewegungen vermissen lässt |
+| 25-35% | Verbesserte Illusion mit verbesserten Details, natürlicheren Bewegungen und besserer sensorischer Integration |
+| 35-45% | Verfeinerte Illusion mit überzeugenden Details, die einer moderaten Prüfung standhalten kann; subtile Umweltinteraktion |
+| 50%+ | Nahezu fehlerlose Illusion, die die meisten Beobachter ohne sorgfältige Inspektion täuschen kann; passt sich nahtlos an Umweltveränderungen an |
 
-Higher purity also extends potential duration, reduces concentration strain, and minimizes the risk of Wild Mana contamination which can cause unintended sensory effects to bleed into the illusion.
+Höhere Reinheit verlängert auch die potenzielle Dauer, reduziert die Konzentrationsanstrengung und minimiert das Risiko einer Verunreinigung durch Wildes Mana (Wild Mana), die dazu führen kann, dass unbeabsichtigte sensorische Effekte in die Illusion einfließen.
 
-## Mana Capacity Effects
+## Auswirkungen der Mana-Kapazität (Mana Capacity Effects)
 
-The caster's Mana Capacity influences the spell in several ways:
+Die Mana-Kapazität (Mana Capacity) des Zauberers beeinflusst den Zauber auf verschiedene Weise:
 
-| Capacity Level | Duration Effect | Size/Range Effect | Quality Effect |
+| Kapazitätsgrad (Capacity Level) | Dauereffekt (Duration Effect) | Größen-/Reichweiteneffekt (Size/Range Effect) | Qualitätseffekt (Quality Effect) |
 |----------------|-----------------|-------------------|----------------|
-| 15-25% | Basic duration (up to 5 minutes) | Standard range (15 feet) | Standard quality |
-| 25-40% | Extended duration (up to 10 minutes) | Increased range (20 feet) | Minor detail enhancement |
-| 40-60% | Long duration (up to 20 minutes) | Extended range (25 feet) | Significant detail enhancement |
-| 60%+ | Sustained duration (up to 30 minutes) | Maximum range (30 feet) | Maximum detail potential |
+| 15-25% | Grundlegende Dauer (bis zu 5 Minuten) | Standardreichweite (15 Fuß) | Standardqualität |
+| 25-40% | Verlängerte Dauer (bis zu 10 Minuten) | Erhöhte Reichweite (20 Fuß) | Geringfügige Detailverbesserung |
+| 40-60% | Lange Dauer (bis zu 20 Minuten) | Erweiterte Reichweite (25 Fuß) | Signifikante Detailverbesserung |
+| 60%+ | Anhaltende Dauer (bis zu 30 Minuten) | Maximale Reichweite (30 Fuß) | Maximales Detailpotenzial |
 
-## Common Applications
+## Häufige Anwendungen (Common Applications)
 
-- **Distraction**: Creating sounds or visual distractions to divert attention
-- **Concealment**: Masking small objects or features with illusory coverings
-- **Communication**: Displaying simple messages or warnings
-- **Entertainment**: Creating pleasant visuals or sounds for amusement
-- **Ambiance**: Enhancing environments with appropriate sensory elements
-- **Pranks**: Harmless tricks and surprises (heavily discouraged in academic settings)
+- **Ablenkung (Distraction)**: Erzeugen von Geräuschen oder visuellen Ablenkungen, um die Aufmerksamkeit abzulenken
+- **Verbergen (Concealment)**: Maskieren kleiner Objekte oder Merkmale mit illusorischen Abdeckungen
+- **Kommunikation (Communication)**: Anzeigen einfacher Nachrichten oder Warnungen
+- **Unterhaltung (Entertainment)**: Erzeugen angenehmer visueller oder akustischer Reize zur Belustigung
+- **Ambiente (Ambiance)**: Verbesserung von Umgebungen mit geeigneten sensorischen Elementen
+- **Streiche (Pranks)**: Harmlose Tricks und Überraschungen (in akademischen Umgebungen stark missbilligt)
 
-## Variations
+## Variationen (Variations)
 
-| Variation | Effect | Mana Requirements |
+| Variation | Wirkung (Effect) | Mana-Anforderungen (Mana Requirements) |
 |-----------|--------|-------------------|
-| **Silent Image** | Visual illusion only, but with enhanced detail | 65% Base Mana, 25% Umbramana, 10% Luxmana |
-| **Whisper** | Sound-only version with greater range (30 feet) | 70% Base Mana, 20% Umbramana, 10% Aeromana |
-| **Phantom Scent** | Olfactory illusion with increased intensity | 60% Base Mana, 25% Umbramana, 15% Vitamana |
-| **Ghost Touch** | Tactile illusion with more complex sensation | 55% Base Mana, 35% Umbramana, 10% Terramana |
-| **Persistent Image** | Lasts without concentration for 1 minute | 50% Base Mana, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ purity required |
-| **Dual Sense** | Combines two sensory effects simultaneously | 45% Base Mana, 35% Umbramana, 20% Luxmana; 35%+ purity and 20%+ capacity required |
+| **Stilles Bild (Silent Image)** | Nur visuelle Illusion, aber mit verbesserter Detailgenauigkeit | 65% Basis-Mana, 25% Umbramana, 10% Luxmana |
+| **Flüstern (Whisper)** | Reine Tonversion mit größerer Reichweite (30 Fuß) | 70% Basis-Mana, 20% Umbramana, 10% Aeromana |
+| **Phantomduft (Phantom Scent)** | Olfaktorische Illusion mit erhöhter Intensität | 60% Basis-Mana, 25% Umbramana, 15% Vitamana |
+| **Geisterberührung (Ghost Touch)** | Taktile Illusion mit komplexerer Empfindung | 55% Basis-Mana, 35% Umbramana, 10% Terramana |
+| **Anhaltendes Bild (Persistent Image)** | Hält 1 Minute ohne Konzentration an | 50% Basis-Mana, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ Reinheit erforderlich |
+| **Doppelsinn (Dual Sense)** | Kombiniert zwei sensorische Effekte gleichzeitig | 45% Basis-Mana, 35% Umbramana, 20% Luxmana; 35%+ Reinheit und 20%+ Kapazität erforderlich |
 
-## Risks and Miscast Effects
+## Risiken und Fehlwirkungseffekte (Risks and Miscast Effects)
 
-| Risk | Effect | Cause |
+| Risiko (Risk) | Wirkung (Effect) | Ursache (Cause) |
 |------|--------|-------|
-| **Sensory Bleed** | Unintended secondary sensory effects | Imprecise specialization, Base Mana deficiency |
-| **Pattern Collapse** | Illusion dissipates prematurely | Insufficient concentration, unstable Base Mana framework |
-| **Perception Lock** | Caster temporarily experiences the illusion as real | Wild Mana contamination above 15%, improper Umbramana balance |
-| **Sensory Echo** | Illusion repeats at random intervals after dismissal | Improper spell termination, excess Chronomana resonance |
-| **Detail Drift** | Illusion details gradually change without caster input | Purity below 15% or Wild Mana interference with Luxmana component |
-| **Reality Distortion** | Caster's perception of real sensory input becomes temporarily distorted | Critical purity shortage (below 10%), excessive Umbramana specialization |
+| **Sensorische Blutung (Sensory Bleed)** | Unbeabsichtigte sekundäre sensorische Effekte | Ungenaue Spezialisierung, Basis-Mana-Mangel |
+| **Musterzusammenbruch (Pattern Collapse)** | Illusion löst sich vorzeitig auf | Unzureichende Konzentration, instabiles Basis-Mana-Gerüst |
+| **Wahrnehmungssperre (Perception Lock)** | Zauberer erlebt die Illusion vorübergehend als real | Wilde Mana (Wild Mana)-Kontamination über 15%, falsches Umbramana-Gleichgewicht |
+| **Sensorisches Echo (Sensory Echo)** | Illusion wiederholt sich in zufälligen Abständen nach dem Verwerfen | Unsachgemäße Zauberbeendigung, überschüssige Chronomana-Resonanz |
+| **Detaildrift (Detail Drift)** | Illusionsdetails ändern sich allmählich ohne Zutun des Zauberers | Reinheit unter 15% oder Wilde Mana (Wild Mana)-Interferenz mit der Luxmana-Komponente |
+| **Realitätsverzerrung (Reality Distortion)** | Die Wahrnehmung realer sensorischer Eingaben des Zauberers wird vorübergehend verzerrt | Kritischer Reinheitsmangel (unter 10%), übermäßige Umbramana-Spezialisierung |
 
-## Elemental Interactions
+## Elementare Interaktionen (Elemental Interactions)
 
-Minor Illusion demonstrates several important elemental principles:
+Geringfügige Illusion (Minor Illusion) demonstriert mehrere wichtige elementare Prinzipien:
 
-1. **Balanced Opposition**: The controlled tension between Umbramana (shadow) and Luxmana (light) creates the realistic visual quality
-2. **Base Mana Framework**: The high proportion of Base Mana (60%) provides stability for the inherently unstable combination of opposed elements
-3. **Harmonic Resonance**: The specific 60:30:10 ratio creates a resonance pattern that mimics natural sensory frequencies
-4. **Specialization Gradient**: The spell uses partially specialized Umbramana and Luxmana rather than pure forms, allowing more subtle effects
+1. **Ausgeglichene Gegensätze (Balanced Opposition)**: Die kontrollierte Spannung zwischen Umbramana (Schatten) und Luxmana (Licht) erzeugt die realistische visuelle Qualität
+2. **Basis-Mana-Gerüst (Base Mana Framework)**: Der hohe Anteil an Basis-Mana (60%) sorgt für Stabilität bei der von Natur aus instabilen Kombination gegensätzlicher Elemente
+3. **Harmonische Resonanz (Harmonic Resonance)**: Das spezifische Verhältnis 60:30:10 erzeugt ein Resonanzmuster, das natürliche sensorische Frequenzen nachahmt
+4. **Spezialisierungsgradient (Specialization Gradient)**: Der Zauber verwendet teilweise spezialisierte Umbramana und Luxmana anstelle von reinen Formen, was subtilere Effekte ermöglicht
 
-## Musical Analogy
+## Musikalische Analogie (Musical Analogy)
 
-Casting Minor Illusion is like playing a simple melody that listeners can perceive but not interact with. The Base Mana forms the fundamental tone or "carrier note," while the Umbramana and Luxmana create the harmonics that give the illusion its character. The caster must maintain the rhythm (concentration) to keep the melody playing, while carefully balancing the various sensory "notes" to create a convincing performance. Wild Mana contamination introduces random discordant notes that diminish the performance quality.
+Das Zaubern von Geringfügige Illusion (Minor Illusion) ist wie das Spielen einer einfachen Melodie, die Zuhörer wahrnehmen, aber nicht mit ihr interagieren können. Das Basis-Mana bildet den Grundton oder die "Trägernote", während das Umbramana und Luxmana die Obertöne erzeugen, die der Illusion ihren Charakter verleihen. Der Zauberer muss den Rhythmus (Konzentration) aufrechterhalten, um die Melodie am Laufen zu halten, und gleichzeitig die verschiedenen sensorischen "Noten" sorgfältig ausbalancieren, um eine überzeugende Darbietung zu erzielen. Wilde Mana (Wild Mana)-Kontamination führt zufällige, dissonante Noten ein, die die Darbietungsqualität mindern.
 
-## Learning Progression
+## Lernfortschritt (Learning Progression)
 
-1. **Base Mana Structure**: Learning to create and maintain the basic illusion framework
-2. **Umbramana Specialization**: Developing skill in shadow mana conversion for reality distortion
-3. **Luxmana Integration**: Adding light mana elements for detail and clarity
-4. **Harmonic Balancing**: Achieving the precise ratio of elements for stable illusions
-5. **Sensory Precision**: Refining the illusion to appear more realistic and detailed
-6. **Sustaining Focus**: Extending the duration through improved concentration
-7. **Purification Techniques**: Methods to reduce Wild Mana contamination for clearer illusions
+1. **Basis-Mana-Struktur (Base Mana Structure)**: Erlernen des Erstellens und Aufrechterhaltens des grundlegenden Illusionsrahmens
+2. **Umbramana-Spezialisierung (Umbramana Specialization)**: Entwicklung von Fähigkeiten in der Schatten-Mana-Umwandlung zur Realitätsverzerrung
+3. **Luxmana-Integration (Luxmana Integration)**: Hinzufügen von Licht-Mana-Elementen für Detailgenauigkeit und Klarheit
+4. **Harmonischer Ausgleich (Harmonic Balancing)**: Erreichen des präzisen Verhältnisses von Elementen für stabile Illusionen
+5. **Sensorische Präzision (Sensory Precision)**: Verfeinern der Illusion, um realistischer und detaillierter zu erscheinen
+6. **Fokus aufrechterhalten (Sustaining Focus)**: Verlängern der Dauer durch verbesserte Konzentration
+7. **Reinigungstechniken (Purification Techniques)**: Methoden zur Reduzierung der Wilden Mana (Wild Mana)-Kontamination für klarere Illusionen
 
-## Historical Note
+## Historische Anmerkung (Historical Note)
 
-Minor Illusion was developed by Mirala Shadowweaver during the Second Age as a teaching tool for apprentice illusionists. The spell's simple structure makes it an ideal introduction to perception manipulation, while its limited scope prevents dangerous applications. It remains one of the most commonly taught spells in magical academies across the realm.
+Geringfügige Illusion (Minor Illusion) wurde von Mirala Shadowweaver (Mirala Schattenweberin) während des Zweiten Zeitalters als Lehrmittel für Illusionslehrlinge entwickelt. Die einfache Struktur des Zaubers macht ihn zu einer idealen Einführung in die Wahrnehmungsmanipulation, während sein begrenzter Umfang gefährliche Anwendungen verhindert. Er ist nach wie vor einer der am häufigsten gelehrten Zauber in magischen Akademien im ganzen Reich.
 
-*See also: [Illusion School](/codex/Magics/Schools/Illusion.md), [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md)* 
+*Siehe auch: [Illusion School](/codex/Magics/Schools/Illusion.md), [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

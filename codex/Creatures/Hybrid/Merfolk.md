@@ -1,105 +1,109 @@
-# **Merfolk**: The Guardians of the Deep
+# **Merfolk** (Meermenschen): Die Wächter der Tiefe
 
-[**Merfolk**](/codex/Creatures/Merfolk.md) are the guardians of the deep, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a deep bassoon, they resonate with the currents of the ocean, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+[**Merfolk**](/codex/Creatures/Merfolk.md) (Meermenschen) sind die Wächter der Tiefe, ihre Körper eine fließende Harmonie aus [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md) (Seelen) und **Mana Capacity** (Manakapazität). Wie ein tiefes Fagott schwingen sie mit den Strömungen des Ozeans mit und erzeugen eine einzigartige Melodie der Existenz, die die aquatischen und terrestrischen Reiche verbindet.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **merfolk** forms a harmony that favors physical grace:
+Wie in [Creatures](/codex/Creatures/Creatures.md) (Kreaturen) beschrieben, bildet das typische Verhältnis für **merfolk** (Meermenschen) eine Harmonie, die die körperliche Anmut begünstigt:
 
-| Element | Range | Function |
+| Element (Element) | Range (Bereich) | Function (Funktion) |
 |---------|------------|----------|
-| **Exanthis** | 30-50% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-40% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 20-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** | 30-50% | Das kristalline Herz, das moderate körperliche Stärke und Anmut verleiht |
+| **Soul** (Seele) | 25-40% | Die ätherische Essenz, die ein fließendes und anpassungsfähiges Bewusstsein formt |
+| **Mana Capacity** (Manakapazität) | 20-40% | Die Brücke zwischen den Welten, die ein moderates magisches Potenzial ermöglicht |
 
-This composition grants **merfolk** their characteristic grace and adaptability but typically moderates their magical potential compared to other species, like a versatile instrument that can play many notes but lacks the power of a full orchestra.
+Diese Zusammensetzung verleiht **merfolk** (Meermenschen) ihre charakteristische Anmut und Anpassungsfähigkeit, moderiert aber typischerweise ihr magisches Potenzial im Vergleich zu anderen Spezies, wie ein vielseitiges Instrument, das viele Noten spielen kann, aber nicht die Kraft eines vollen Orchesters hat.
 
-### Individual Variations
+### Individuelle Variationen
 
-While the model composition represents the typical merfolk, individual variations exist based on their tribal lineage:
+Während die Modellzusammensetzung den typischen Meermenschen darstellt, gibt es individuelle Variationen, die auf ihrer Stammeslinie basieren:
 
-- **Depth Divers**: Some merfolk, particularly from the Deepswimmer tribe, possess enhanced Exanthis levels (up to 55%) that allow them to withstand the crushing pressures of the deepest ocean trenches.
-- **Tide Mages**: Specialized variants with higher Mana Capacity (up to 45%) excel at water magic, becoming powerful spellcasters who can control currents, weather, and even blood in living creatures.
-- **Ocean Sages**: Those with higher Soul percentages (up to 45%) develop extraordinary empathy and wisdom, often becoming tribal leaders, healers, or diplomats who bridge the gap between merfolk and other species.
-- **Reef Guardians**: A balanced variant (40% Exanthis, 30% Soul, 30% Mana Capacity) specializes in protecting coral reef ecosystems, developing unique magical abilities that nurture and restore damaged aquatic environments.
-- **Storm Callers**: Some merfolk develop a unique composition (35% Exanthis, 25% Soul, 40% Mana Capacity) that allows them to sense and manipulate weather patterns above the ocean, creating or dispersing storms that might threaten their territories.
+- **Depth Divers** (Tiefentaucher): Einige Meermenschen, insbesondere vom Stamm der Deepswimmer, besitzen erhöhte Exanthis-Werte (bis zu 55%), die es ihnen ermöglichen, dem erdrückenden Druck der tiefsten Ozeangräben standzuhalten.
+- **Tide Mages** (Gezeitenmagier): Spezialisierte Varianten mit höherer Mana Capacity (bis zu 45%) zeichnen sich in der Wassermagie aus und werden zu mächtigen Zauberwirkern, die Strömungen, Wetter und sogar Blut in Lebewesen kontrollieren können.
+- **Ocean Sages** (Ozeanweise): Diejenigen mit höheren Soul (Seelen)-Prozentsätzen (bis zu 45%) entwickeln außergewöhnliche Empathie und Weisheit und werden oft zu Stammesführern, Heilern oder Diplomaten, die die Kluft zwischen Meermenschen und anderen Spezies überbrücken.
+- **Reef Guardians** (Riffwächter): Eine ausgewogene Variante (40% Exanthis, 30% Soul (Seele), 30% Mana Capacity (Manakapazität)) ist auf den Schutz von Korallenriff-Ökosystemen spezialisiert und entwickelt einzigartige magische Fähigkeiten, die geschädigte aquatische Umgebungen nähren und wiederherstellen.
+- **Storm Callers** (Sturmbeschwörer): Einige Meermenschen entwickeln eine einzigartige Zusammensetzung (35% Exanthis, 25% Soul (Seele), 40% Mana Capacity (Manakapazität)), die es ihnen ermöglicht, Wettermuster über dem Ozean zu erkennen und zu manipulieren, wodurch sie Stürme erzeugen oder auflösen können, die ihre Gebiete bedrohen könnten.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Merfolk** are known for their aquatic adaptations and graceful nature:
-- Humanoid upper bodies with fish-like lower bodies, allowing for efficient swimming
-- Eyes that are adapted to see clearly in the depths, often with a slight luminescence
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep green
-- Fins and webbed appendages that aid in swimming and balance
-- Ability to change the color of their scales for camouflage or communication
+**Merfolk** (Meermenschen) sind bekannt für ihre aquatischen Anpassungen und ihre anmutige Natur:
+- Humanoide Oberkörper mit fischartigen Unterkörpern, die ein effizientes Schwimmen ermöglichen
+- Augen, die angepasst sind, um in der Tiefe klar zu sehen, oft mit einer leichten Lumineszenz
+- Kiemen, die es ihnen ermöglichen, unter Wasser zu atmen, wie zarte Instrumente, die auf das Meer abgestimmt sind
+- Schuppen, die natürlichen Schutz und Schönheit bieten und deren Farben von schillerndem Blau bis zu tiefem Grün reichen
+- Flossen und Schwimmhäute, die beim Schwimmen und Balancieren helfen
+- Fähigkeit, die Farbe ihrer Schuppen zur Tarnung oder Kommunikation zu ändern
 
-## Physical and Magical Affinity
+## Physische und magische Affinität
 
-**Merfolk** demonstrate exceptional proficiency in swimming and aquatic combat, like virtuoso performers who have mastered their environment. Their composition allows them to:
-- Move through water with extraordinary grace and speed, like dancers in a liquid ballet
-- Channel water magic with moderate proficiency, like conductors of the ocean's symphony
-- Adapt to various aquatic environments, from shallow reefs to the deepest trenches
+**Merfolk** (Meermenschen) demonstrieren außergewöhnliche Fähigkeiten im Schwimmen und im aquatischen Kampf, wie Virtuosen, die ihre Umgebung gemeistert haben. Ihre Zusammensetzung ermöglicht es ihnen:
+- Sich mit außergewöhnlicher Anmut und Geschwindigkeit durch das Wasser zu bewegen, wie Tänzer in einem flüssigen Ballett
+- Wassermagie mit moderater Fähigkeit zu kanalisieren, wie Dirigenten der Symphonie des Ozeans
+- Sich an verschiedene aquatische Umgebungen anzupassen, von flachen Riffen bis zu den tiefsten Gräben
 
-This specialization makes **merfolk** capable of achieving feats of aquatic prowess that few other species can match, though they may struggle with tasks requiring complex magical abilities, like an instrument that can play many notes but lacks the complexity of a full orchestra.
+Diese Spezialisierung ermöglicht es **merfolk** (Meermenschen), Leistungen aquatischer Fähigkeiten zu vollbringen, die nur wenige andere Spezies erreichen können, obwohl sie mit Aufgaben, die komplexe magische Fähigkeiten erfordern, zu kämpfen haben könnten, wie ein Instrument, das viele Noten spielen kann, aber nicht die Komplexität eines vollen Orchesters besitzt.
 
-## Lifespan and Soul Decay
+## Lebensspanne und Seelenverfall
 
-The **soul decay** timeline for **merfolk**, from birth to complete decay, is approximately 300 years, like a steady flame that illuminates the depths. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to specific places and traditions
-- Form stable societies with strong communal bonds
+Die **soul decay** (Seelenverfall)-Zeitleiste für **merfolk** (Meermenschen) vom Zeitpunkt der Geburt bis zum vollständigen Verfall beträgt etwa 300 Jahre, wie eine stetige Flamme, die die Tiefen erhellt. Diese moderate Lebensspanne ermöglicht es ihnen:
+- Wissen und Weisheit über Generationen hinweg anzusammeln
+- Tiefe Verbindungen zu bestimmten Orten und Traditionen zu entwickeln
+- Stabile Gesellschaften mit starken Gemeinschaftsbindungen zu bilden
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the tides.
+Ihr moderates Soul (Seelen)-Verhältnis bedeutet jedoch auch, dass sie sich in einem moderaten Tempo verändern und anpassen, wie eine Melodie, die sich mit den Gezeiten entwickelt.
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**Merfolk** primarily inhabit:
-- Ocean depths and underwater cities, where they can be closest to the currents
-- Coral reefs and kelp forests, where they can find shelter and resources
-- Coastal regions and estuaries, where they can interact with terrestrial species
-- Strategic locations that provide access to both aquatic and terrestrial resources
+**Merfolk** (Meermenschen) bewohnen hauptsächlich:
+- Ozeantiefen und Unterwasserstädte, wo sie den Strömungen am nächsten sein können
+- Korallenriffe und Seetangwälder, wo sie Schutz und Ressourcen finden können
+- Küstenregionen und Flussmündungen, wo sie mit terrestrischen Spezies interagieren können
+- Strategische Standorte, die Zugang zu aquatischen und terrestrischen Ressourcen bieten
 
-These locations provide ideal environments for the development of aquatic societies and the practice of water magic, like stages perfectly suited to their performance.
+Diese Standorte bieten ideale Umgebungen für die Entwicklung aquatischer Gesellschaften und die Ausübung von Wassermagie, wie Bühnen, die perfekt auf ihre Darbietung zugeschnitten sind.
 
-## Cultural Impact
+## Kultureller Einfluss
 
-In the world of **OpenFantasy**, **merfolk** play a crucial role in maintaining the balance of aquatic ecosystems and preserving ancient traditions, like the steady bass notes that provide foundation to a symphony. Their societies are centers of:
-- Aquatic craftsmanship and architecture
-- Water magic and environmental preservation
-- Communal living and shared resources
+In der Welt von OpenFantasy spielen **merfolk** (Meermenschen) eine entscheidende Rolle bei der Aufrechterhaltung des Gleichgewichts der aquatischen Ökosysteme und der Bewahrung alter Traditionen, wie die stetigen Basstöne, die das Fundament einer Symphonie bilden. Ihre Gesellschaften sind Zentren von:
+- Aquatischer Handwerkskunst und Architektur
+- Wassermagie und Umweltschutz
+- Gemeinschaftlichem Leben und gemeinsamen Ressourcen
 
-The connection to the ocean has shaped merfolk culture around respect for the sea, community, and tradition, creating a society where harmony with nature is highly valued.
+Die Verbindung zum Ozean hat die Meermenschenkultur um Respekt für das Meer, die Gemeinschaft und die Tradition herum geformt und eine Gesellschaft geschaffen, in der die Harmonie mit der Natur hoch geschätzt wird.
 
-## Relationship with Other Species
+## Beziehung zu anderen Spezies
 
-**Merfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of curiosity and caution, often leading to limited interactions
-- With **Sirens**: A deep connection based on shared aquatic heritage but different magical affinities
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and resources
+**Merfolk** (Meermenschen) pflegen komplexe Beziehungen zu anderen Spezies:
+- Mit [**Humans**](/codex/Creatures/Human.md) (Menschen): Eine Mischung aus Neugier und Vorsicht, die oft zu begrenzten Interaktionen führt
+- Mit **Sirens** (Sirenen): Eine tiefe Verbindung, die auf einem gemeinsamen aquatischen Erbe, aber unterschiedlichen magischen Affinitäten basiert
+- Mit **Elves** (Elfen): Eine respektvolle Distanz, die ihre magischen Fähigkeiten anerkennt, aber ihre Wege seltsam findet
+- Mit **Dwarves** (Zwerge): Eine pragmatische Allianz, die auf gegenseitigem Respekt für Handwerkskunst und Ressourcen basiert
 
-These relationships are often characterized by a sense of environmental stewardship, as **merfolk** view themselves as the true guardians of the oceans.
+Diese Beziehungen sind oft von einem Gefühl der Umweltverantwortung geprägt, da **merfolk** (Meermenschen) sich selbst als die wahren Wächter der Ozeane betrachten.
 
-## Notable Merfolk Traits
+## Bemerkenswerte Merfolk-Eigenschaften
 
-- **Aquatic Grace**: Merfolk excel in swimming and aquatic movement, often surpassing other species in their ability to navigate water
-- **Environmental Sensitivity**: Merfolk are deeply attuned to their aquatic surroundings, able to sense changes in currents and water quality
-- **Communal Living**: Merfolk place great emphasis on community and shared resources, creating strong social bonds
-- **Water Magic**: Merfolk have a natural connection to water magic, allowing them to manipulate this element with moderate proficiency
-- **Adaptability**: Merfolk can thrive in various aquatic environments, from shallow reefs to the deepest trenches
+- **Aquatic Grace** (Aquatische Anmut): Meermenschen zeichnen sich im Schwimmen und in der aquatischen Fortbewegung aus und übertreffen oft andere Spezies in ihrer Fähigkeit, sich im Wasser zu bewegen
+- **Environmental Sensitivity** (Umweltsensibilität): Meermenschen sind tief auf ihre aquatische Umgebung eingestellt und können Veränderungen in Strömungen und Wasserqualität wahrnehmen
+- **Communal Living** (Gemeinschaftliches Leben): Meermenschen legen großen Wert auf die Gemeinschaft und gemeinsame Ressourcen und schaffen so starke soziale Bindungen
+- **Water Magic** (Wassermagie): Meermenschen haben eine natürliche Verbindung zur Wassermagie, die es ihnen ermöglicht, dieses Element mit moderaten Fähigkeiten zu manipulieren
+- **Adaptability** (Anpassungsfähigkeit): Meermenschen können in verschiedenen aquatischen Umgebungen gedeihen, von flachen Riffen bis zu den tiefsten Gräben
 
-## Merfolk Tribes
+## Merfolk-Stämme
 
-Merfolk society is organized into numerous tribes, each with its own specialties and traditions:
+Die Meermenschengesellschaft ist in zahlreiche Stämme organisiert, von denen jeder seine eigenen Spezialitäten und Traditionen hat:
 
-| Tribe | Specialty | Territory | Notable Traits |
+| Tribe (Stamm) | Specialty (Spezialität) | Territory (Territorium) | Notable Traits (Bemerkenswerte Eigenschaften) |
 |---------|---------------|---------|-------------------|
-| **Reefdwellers** | Craftsmanship, community | Coral reefs | Crafting abilities, communal living |
-| **Deepswimmers** | Exploration, knowledge | Ocean depths | Exploration abilities, ancient knowledge |
-| **Tidecallers** | Water magic, communication | Coastal regions | Communication abilities, water manipulation |
-| **Stormriders** | Combat, protection | Open ocean | Combat abilities, protective magic |
-| **Coralcrafters** | Art, architecture | Kelp forests | Artistic abilities, architectural innovation |
-| **Estuaryguardians** | Diplomacy, trade | Estuaries | Diplomatic skills, trading expertise |
+| **Reefdwellers** (Riffbewohner) | Handwerkskunst, Gemeinschaft | Coral reefs (Korallenriffe) | Crafting abilities (Handwerksfähigkeiten), communal living (gemeinschaftliches Leben) |
+| **Deepswimmers** (Tiefschwimmer) | Exploration (Erkundung), knowledge (Wissen) | Ocean depths (Ozeantiefen) | Exploration abilities (Erkundungsfähigkeiten), ancient knowledge (altes Wissen) |
+| **Tidecallers** (Gezeitenrufer) | Water magic (Wassermagie), communication (Kommunikation) | Coastal regions (Küstenregionen) | Communication abilities (Kommunikationsfähigkeiten), water manipulation (Wassermanipulation) |
+| **Stormriders** (Sturmfahrer) | Combat (Kampf), protection (Schutz) | Open ocean (Offener Ozean) | Combat abilities (Kampffähigkeiten), protective magic (Schutzmagie) |
+| **Coralcrafters** (Korallenhandwerker) | Art (Kunst), architecture (Architektur) | Kelp forests (Seetangwälder) | Artistic abilities (Künstlerische Fähigkeiten), architectural innovation (architektonische Innovation) |
+| **Estuaryguardians** (Flussmündungswächter) | Diplomacy (Diplomatie), trade (Handel) | Estuaries (Flussmündungen) | Diplomatic skills (Diplomatische Fähigkeiten), trading expertise (Handelssachverstand) |
 
-Understanding the nature of **merfolk** provides insight into the aquatic aspects of the world of **OpenFantasy**, like listening to the deep, resonant melodies that echo through the oceans. 
+Das Verständnis der Natur der **merfolk** (Meermenschen) gibt Einblick in die aquatischen Aspekte der Welt von OpenFantasy, wie das Hören der tiefen, resonierenden Melodien, die durch die Ozeane hallen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

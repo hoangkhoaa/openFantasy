@@ -1,365 +1,369 @@
-# **Magic Casting**: The Practical Art of Magical Manipulation
+# **Magic Casting** (Magiewirken): Die praktische Kunst der magischen Manipulation
 
-[**Magic Casting**](/codex/Magics/MagicCasting.md) represents the practical application of magical theory, transforming abstract understanding into concrete effects. Like a musician who must master both theory and technique to create beautiful music, a spellcaster must understand both magical principles and specific casting methods to work their art effectively.
+[**Magic Casting**](/codex/Magics/MagicCasting.md) (Magiewirken) stellt die praktische Anwendung magischer Theorie dar und wandelt abstraktes Verständnis in konkrete Effekte um. Wie ein Musiker, der sowohl Theorie als auch Technik beherrschen muss, um schöne Musik zu erzeugen, muss ein Zauberwirker sowohl magische Prinzipien als auch spezifische Wirkmethoden verstehen, um seine Kunst effektiv auszuüben.
 
-## The Spellcasting Process
+## Der Zauberwirkprozess
 
-All spellcasting, regardless of tradition or school, follows a five-stage process that transforms raw magical potential into manifested effects:
+Jegliches Zauberwirken, unabhängig von Tradition oder Schule, folgt einem fünfstufigen Prozess, der rohes magisches Potenzial in manifestierte Effekte umwandelt:
 
-### 1. Gathering
-The collection of raw **Mana** from internal reserves or external sources.
+### 1. Gathering (Sammeln)
+Die Sammlung von rohem **Mana** aus internen Reserven oder externen Quellen.
 
-**Methods:**
-- **Internal Drawing**: Pulling from one's own Mana Capacity (most common)
-- **Environmental Tapping**: Drawing ambient Mana from the surroundings
-- **Ley Line Channeling**: Accessing concentrated magical currents
-- **Artifact Amplification**: Using magical items to enhance gathering
-- **Group Harmonization**: Multiple casters combining their gathering ability
+**Methods (Methoden):**
+- **Internal Drawing** (Internes Ziehen): Schöpfen aus der eigenen Mana Capacity (Mana-Kapazität) (am häufigsten)
+- **Environmental Tapping** (Umweltanzapfung): Ziehen von Umgebungsmana aus der Umgebung
+- **Ley Line Channeling** (Leitlinienkanalisierung): Zugriff auf konzentrierte magische Ströme
+- **Artifact Amplification** (Artefaktverstärkung): Verwendung magischer Gegenstände zur Verstärkung des Sammelns
+- **Group Harmonization** (Gruppenharmonisierung): Mehrere Zauberwirker kombinieren ihre Sammelfähigkeit
 
-**Key Factors:**
-- **Collection Rate**: Speed at which Mana can be safely gathered
-- **Volume Capacity**: Maximum amount that can be held at once
-- **Stability Maintenance**: Keeping gathered Mana stable until purification
+**Key Factors (Schlüsselfaktoren):**
+- **Collection Rate** (Sammelrate): Geschwindigkeit, mit der Mana sicher gesammelt werden kann
+- **Volume Capacity** (Volumenkapazität): Maximale Menge, die auf einmal gehalten werden kann
+- **Stability Maintenance** (Stabilitätsaufrechterhaltung): Gesammeltes Mana bis zur Reinigung stabil halten
 
-**Wild Mana Risks During Gathering:**
-Wild Mana contamination at this stage can dramatically affect all subsequent casting steps:
+**Wild Mana Risks During Gathering** (Risiken von Wildem Mana beim Sammeln):
+Die Kontamination durch Wildes Mana in dieser Phase kann alle nachfolgenden Wirkschritte drastisch beeinflussen:
 
-| Contamination Level | Effects on Gathering | Possible Consequences |
+| Contamination Level (Kontaminationsgrad) | Effects on Gathering (Auswirkungen auf das Sammeln) | Possible Consequences (Mögliche Konsequenzen) |
 |---------------------|----------------------|------------------------|
-| **Minimal** (5-10%) | Slight instability, minor fluctuations | Manageable with standard purification |
-| **Moderate** (10-30%) | Energy surges, inconsistent volume | Requires additional purification cycles |
-| **Significant** (30-50%) | Chaotic flow, potential overflow | Purification may fail, spell instability likely |
-| **Critical** (50%+) | Gathering control lost, energy spikes | Dangerous feedback, spell collapse, physical harm |
+| **Minimal** (5-10%) | Geringe Instabilität, geringfügige Schwankungen | Mit Standardreinigung beherrschbar |
+| **Moderate** (10-30%) | Energieschübe, inkonsistentes Volumen | Erfordert zusätzliche Reinigungszyklen |
+| **Significant** (30-50%) | Chaotischer Fluss, potenzieller Überlauf | Reinigung kann fehlschlagen, Zauberinstabilität wahrscheinlich |
+| **Critical** (50%+) | Verlust der Sammelkontrolle, Energiespitzen | Gefährliche Rückkopplung, Zauberkollaps, körperlicher Schaden |
 
-> *"The moment of gathering is where the fate of your spell is first decided. Draw carelessly from Wild Mana-saturated environments, and no amount of skill in later stages can fully correct the chaos you've invited."* — Archmage Thalen Windwhisper
+> *"Der Moment des Sammelns ist der Moment, in dem das Schicksal deines Zaubers zuerst entschieden wird. Schöpfe unachtsam aus mit Wildem Mana gesättigten Umgebungen, und keine noch so große Geschicklichkeit in späteren Phasen kann das Chaos, das du eingeladen hast, vollständig korrigieren."* — Erzmagier Thalen Windwhisper (Thalen Windflüster)
 
-### 2. Purification
-The refinement of raw Mana into a clarified, focused state suitable for patterning.
+### 2. Purification (Reinigung)
+Die Verfeinerung von rohem Mana in einen geklärten, fokussierten Zustand, der für die Musterbildung geeignet ist.
 
-**Methods:**
-- **Resonant Filtering**: Using mental focus to align Mana to specific frequencies
-- **Crystalline Passage**: Passing Mana through physical crystals that filter impurities
-- **Vocal Harmonization**: Using specific tones to vibrate away dissonant energies
-- **Gestural Refinement**: Precise hand movements that separate pure from impure
-- **Runic Stabilization**: Using written symbols to trap and remove impurities
+**Methods (Methoden):**
+- **Resonant Filtering** (Resonanzfilterung): Verwendung von mentalem Fokus, um Mana auf bestimmte Frequenzen auszurichten
+- **Crystalline Passage** (Kristalliner Durchgang): Leiten von Mana durch physische Kristalle, die Verunreinigungen filtern
+- **Vocal Harmonization** (Vokale Harmonisierung): Verwendung spezifischer Töne, um dissonante Energien wegzuvibrieren
+- **Gestural Refinement** (Gestische Verfeinerung): Präzise Handbewegungen, die Reines von Unreinem trennen
+- **Runic Stabilization** (Runenstabilisierung): Verwendung geschriebener Symbole, um Verunreinigungen einzufangen und zu entfernen
 
-**Purity Levels:**
-| Level | Description | Wild Mana Content | Suitable For | Training Required |
+**Purity Levels (Reinheitsgrade):**
+| Level (Grad) | Description (Beschreibung) | Wild Mana Content (Wilder Mana-Gehalt) | Suitable For (Geeignet für) | Training Required (Erforderliches Training) |
 |------|-------------|-------------------|--------------|-------------------|
-| **Crude** | Minimal refinement | 90-100% | Unpredictable wild magic only | Untrained |
-| **Basic** | Functional purity | 65-90% | Simple spells, temporary effects | 1-2 years |
-| **Refined** | Enhanced clarity | 35-65% | Complex manipulations, lasting effects | 3-5 years |
-| **Superior** | High precision | 15-35% | Delicate workings, healing magic | 6-10 years |
-| **Perfect** | Absolute purity | 0-15% | Soul work, permanent alterations | 10+ years |
+| **Crude** (Roh) | Minimale Verfeinerung | 90-100% | Nur unvorhersehbare wilde Magie | Ungeschult |
+| **Basic** (Einfach) | Funktionale Reinheit | 65-90% | Einfache Zauber, temporäre Effekte | 1-2 Jahre |
+| **Refined** (Verfeinert) | Erhöhte Klarheit | 35-65% | Komplexe Manipulationen, dauerhafte Effekte | 3-5 Jahre |
+| **Superior** (Überlegen) | Hohe Präzision | 15-35% | Filigrane Arbeiten, Heilmagie | 6-10 Jahre |
+| **Perfect** (Perfekt) | Absolute Reinheit | 0-15% | Seelenarbeit, dauerhafte Veränderungen | 10+ Jahre |
 
-**Consequences of Inadequate Purification:**
-The dangers of proceeding with insufficiently purified mana increase with spell complexity:
+**Consequences of Inadequate Purification** (Konsequenzen unzureichender Reinigung):
+Die Gefahren, mit unzureichend gereinigtem Mana fortzufahren, steigen mit der Komplexität des Zaubers:
 
-- **Pattern Distortion**: Unpredictable alterations to the intended spell effect
-- **Wild Surge**: Eruption of uncontrolled magical energy during casting
-- **Feedback Loop**: Amplification of Wild Mana contamination through resonance 
-- **Spellcaster's Taint**: Temporary or permanent alteration to the caster's magical signature
-- **Reality Warping**: Severe cases can create localized anomalies in the fabric of reality
+- **Pattern Distortion** (Musterverzerrung): Unvorhersehbare Veränderungen der beabsichtigten Zauberwirkung
+- **Wild Surge** (Wilder Schub): Ausbruch unkontrollierter magischer Energie während des Wirkens
+- **Feedback Loop** (Rückkopplungsschleife): Verstärkung der Kontamination durch Wildes Mana durch Resonanz
+- **Spellcaster's Taint** (Zauberwirkers Makel): Temporäre oder dauerhafte Veränderung der magischen Signatur des Zauberwirkers
+- **Reality Warping** (Realitätsverzerrung): Schwere Fälle können lokalisierte Anomalien im Gewebe der Realität erzeugen
 
-**Musical Analogy:**
-Purification is like tuning an instrument to perfect pitch or removing static from a recording. The cleaner the magical energy, the more precise and effective the resulting spell. Wild Mana is the equivalent of environmental noise, feedback, and distortion—sometimes these can create interesting musical effects, but rarely what the composer intended.
+**Musical Analogy** (Musikalische Analogie):
+Reinigung ist wie das Stimmen eines Instruments auf die perfekte Tonhöhe oder das Entfernen von Rauschen aus einer Aufnahme. Je sauberer die magische Energie ist, desto präziser und effektiver ist der resultierende Zauber. Wildes Mana ist das Äquivalent von Umgebungsgeräuschen, Rückkopplungen und Verzerrungen – manchmal können diese interessante musikalische Effekte erzeugen, aber selten das, was der Komponist beabsichtigt hat.
 
-### 3. Patterning
-Shaping purified Mana into specific magical structures that determine the spell's effect.
+### 3. Patterning (Musterbildung)
+Formen von gereinigtem Mana in spezifische magische Strukturen, die die Wirkung des Zaubers bestimmen.
 
-**Patterning Techniques:**
-- **Mental Visualization**: Creating and holding the pattern in the mind's eye
-- **Somatic Gestures**: Physical movements that shape the pattern externally
-- **Verbal Incantations**: Spoken words that create vibrational patterns
-- **Material Catalysts**: Physical components that embody aspects of the desired pattern
-- **Runic Frameworks**: Written symbols that hold parts of the pattern stable
+**Patterning Techniques** (Musterbildungstechniken):
+- **Mental Visualization** (Mentale Visualisierung): Erstellen und Halten des Musters im geistigen Auge
+- **Somatic Gestures** (Somatische Gesten): Körperliche Bewegungen, die das Muster extern formen
+- **Verbal Incantations** (Verbale Beschwörungen): Gesprochene Worte, die Schwingungsmuster erzeugen
+- **Material Catalysts** (Materielle Katalysatoren): Physische Komponenten, die Aspekte des gewünschten Musters verkörpern
+- **Runic Frameworks** (Runische Rahmenwerke): Geschriebene Symbole, die Teile des Musters stabil halten
 
-**Pattern Complexity Levels:**
-| Complexity | Components | Effect Range | Maintenance Difficulty | Wild Mana Tolerance |
+**Pattern Complexity Levels** (Musterkomplexitätsgrade):
+| Complexity (Komplexität) | Components (Komponenten) | Effect Range (Wirkungsbereich) | Maintenance Difficulty (Schwierigkeit der Aufrechterhaltung) | Wild Mana Tolerance (Wild Mana-Toleranz) |
 |------------|------------|--------------|------------------------|---------------------|
-| **Simple** | 1-3 elements | Single target, single effect | Low (seconds of concentration) | Up to 35% |
-| **Moderate** | 4-7 elements | Area effect, multiple targets | Medium (constant attention) | Up to 25% |
-| **Complex** | 8-12 elements | Multiple effects, precise control | High (intense concentration) | Up to 15% |
-| **Intricate** | 13-20 elements | System-wide, interlinked effects | Very High (mentally taxing) | Up to 5% |
-| **Masterwork** | 21+ elements | Exceptional precision and control | Extreme (few can maintain) | Less than 2% |
+| **Simple** (Einfach) | 1-3 Elemente | Einzelziel, Einzeleffekt | Niedrig (Sekunden der Konzentration) | Bis zu 35% |
+| **Moderate** (Mäßig) | 4-7 Elemente | Flächenwirkung, mehrere Ziele | Mittel (ständige Aufmerksamkeit) | Bis zu 25% |
+| **Complex** (Komplex) | 8-12 Elemente | Mehrere Effekte, präzise Kontrolle | Hoch (intensive Konzentration) | Bis zu 15% |
+| **Intricate** (Verwickelt) | 13-20 Elemente | Systemweit, miteinander verbundene Effekte | Sehr hoch (geistig anstrengend) | Bis zu 5% |
+| **Masterwork** (Meisterwerk) | 21+ Elemente | Außergewöhnliche Präzision und Kontrolle | Extrem (wenige können es aufrechterhalten) | Weniger als 2% |
 
-**Wild Mana Effects on Patterns:**
-Residual Wild Mana can cause pattern instability:
-- Simple patterns may develop unexpected additional effects
-- Complex patterns may develop structural weaknesses
-- Intricate patterns may collapse entirely or mutate into unrecognizable forms
+**Wild Mana Effects on Patterns** (Auswirkungen von Wildem Mana auf Muster):
+Restliches Wildes Mana kann Musterinstabilität verursachen:
+- Einfache Muster können unerwartete zusätzliche Effekte entwickeln
+- Komplexe Muster können strukturelle Schwächen entwickeln
+- Verwickelte Muster können vollständig zusammenbrechen oder zu unkenntlichen Formen mutieren
 
-**Musical Analogy:**
-Patterning is like composing a musical piece, where each element must be in perfect relation to others. Simple spells are like basic melodies, while complex spells resemble symphonic arrangements. Wild Mana in this stage is like having musicians randomly change notes or tempos during a performance.
+**Musical Analogy** (Musikalische Analogie):
+Musterbildung ist wie das Komponieren eines Musikstücks, bei dem jedes Element in perfekter Beziehung zu anderen stehen muss. Einfache Zauber sind wie einfache Melodien, während komplexe Zauber symphonischen Arrangements ähneln. Wildes Mana ist in dieser Phase, als würden Musiker während einer Aufführung zufällig Noten oder Tempi ändern.
 
-### 4. Resonance
-Aligning the patterned Mana with natural magical frequencies to amplify and stabilize the effect.
+### 4. Resonance (Resonanz)
+Ausrichten des gemusterten Mana mit natürlichen magischen Frequenzen, um die Wirkung zu verstärken und zu stabilisieren.
 
-**Resonance Methods:**
-- **Frequency Matching**: Tuning the spell's vibration to natural magical currents
-- **Harmonic Enhancement**: Creating complementary patterns that strengthen the primary effect
-- **Sympathetic Binding**: Linking the spell to similar natural phenomena
-- **Personal Signature**: Infusing the caster's unique magical "voice" into the pattern
-- **Environmental Anchoring**: Connecting the spell to local magical features
+**Resonance Methods** (Resonanzmethoden):
+- **Frequency Matching** (Frequenzanpassung): Abstimmen der Schwingung des Zaubers auf natürliche magische Ströme
+- **Harmonic Enhancement** (Harmonische Verbesserung): Erzeugen komplementärer Muster, die die Primärwirkung verstärken
+- **Sympathetic Binding** (Sympathische Bindung): Verknüpfen des Zaubers mit ähnlichen Naturphänomenen
+- **Personal Signature** (Persönliche Signatur): Einbringen der einzigartigen magischen "Stimme" des Zauberwirkers in das Muster
+- **Environmental Anchoring** (Umweltverankerung): Verbinden des Zaubers mit lokalen magischen Merkmalen
 
-**Resonance Types:**
-| Type | Effect | Difficulty | Musical Analogy |
+**Resonance Types** (Resonanztypen):
+| Type (Typ) | Effect (Effekt) | Difficulty (Schwierigkeit) | Musical Analogy (Musikalische Analogie) |
 |------|--------|------------|-----------------|
-| **Unison** | Direct amplification of effect | Medium | Playing in the same octave |
-| **Harmonic** | Enhanced stability and duration | High | Creating harmonious chords |
-| **Counterpoint** | Multiple complementary effects | Very High | Independent melodies that work together |
-| **Dissonant** | Breaking or negating other magic | Extreme | Deliberately clashing notes |
+| **Unison** (Einstimmigkeit) | Direkte Verstärkung des Effekts | Mittel | Spielen in der gleichen Oktave |
+| **Harmonic** (Harmonisch) | Erhöhte Stabilität und Dauer | Hoch | Erzeugen harmonischer Akkorde |
+| **Counterpoint** (Kontrapunkt) | Mehrere komplementäre Effekte | Sehr hoch | Unabhängige Melodien, die zusammenarbeiten |
+| **Dissonant** (Dissonant) | Brechen oder Negieren anderer Magie | Extrem | Bewusst zusammenstoßende Noten |
 
-**Musical Analogy:**
-Resonance is like finding the acoustic sweet spot in a concert hall, where the natural properties of the space enhance and carry the sound. A well-resonated spell works with rather than against the natural flow of magic.
+**Musical Analogy** (Musikalische Analogie):
+Resonanz ist wie das Finden des akustischen Sweetspots in einem Konzertsaal, wo die natürlichen Eigenschaften des Raumes den Klang verstärken und tragen. Ein gut resonierter Zauber arbeitet mit dem natürlichen Fluss der Magie, anstatt gegen ihn.
 
-### 5. Release
-The controlled unleashing of the completed spell into the world to produce the desired effect.
+### 5. Release (Freisetzung)
+Das kontrollierte Entfesseln des abgeschlossenen Zaubers in die Welt, um die gewünschte Wirkung zu erzielen.
 
-**Release Techniques:**
-- **Projection**: Sending the spell outward from the caster
-- **Implantation**: Placing the spell into a target
-- **Diffusion**: Spreading the spell across an area
-- **Binding**: Attaching the spell to an object or being
-- **Triggered Release**: Setting conditions for later automatic activation
+**Release Techniques** (Freisetzungstechniken):
+- **Projection** (Projektion): Senden des Zaubers vom Zauberwirker nach außen
+- **Implantation** (Implantation): Platzieren des Zaubers in einem Ziel
+- **Diffusion** (Diffusion): Verteilen des Zaubers über einen Bereich
+- **Binding** (Bindung): Befestigen des Zaubers an einem Objekt oder Wesen
+- **Triggered Release** (Ausgelöste Freisetzung): Festlegen von Bedingungen für die spätere automatische Aktivierung
 
-**Control Factors:**
-- **Precision**: Accuracy of targeting and effect placement
-- **Range**: Distance the spell can maintain integrity
-- **Duration**: How long the effect persists after release
-- **Stability**: Resistance to disruption from outside forces
+**Control Factors** (Kontrollfaktoren):
+- **Precision** (Präzision): Genauigkeit der Zielausrichtung und Effektplatzierung
+- **Range** (Reichweite): Entfernung, die der Zauber Integrität bewahren kann
+- **Duration** (Dauer): Wie lange die Wirkung nach der Freisetzung anhält
+- **Stability** (Stabilität): Widerstandsfähigkeit gegen Störungen von außen
 
-**Musical Analogy:**
-Release is like the performance itself - all the preparation culminates in this moment. The skill of the release determines whether the audience receives the music as intended.
+**Musical Analogy** (Musikalische Analogie):
+Freisetzung ist wie die Aufführung selbst – die ganze Vorbereitung gipfelt in diesem Moment. Die Geschicklichkeit der Freisetzung bestimmt, ob das Publikum die Musik wie beabsichtigt empfängt.
 
-## Purification Methods in Detail
+## Purification Methods in Detail (Reinigungsverfahren im Detail)
 
-### Mental Purification Techniques
+### Mental Purification Techniques (Mentale Reinigungsverfahren)
 
-1. **Thought Stillness**
-   - **Process**: Calming the mind to create a silent space where impurities become obvious
-   - **Effect**: Removes emotional contamination from Mana
-   - **Training**: Meditation practices, typically 3-5 years for mastery
-   - **Musical Analogy**: Finding silence between notes
+1. **Thought Stillness** (Gedankenstille)
+   - **Process** (Prozess): Beruhigen des Geistes, um einen stillen Raum zu schaffen, in dem Verunreinigungen offensichtlich werden
+   - **Effect** (Effekt): Entfernt emotionale Kontamination aus dem Mana
+   - **Training** (Training): Meditationspraktiken, typischerweise 3-5 Jahre für die Meisterschaft
+   - **Musical Analogy** (Musikalische Analogie): Stille zwischen Noten finden
 
-2. **Frequency Visualization**
-   - **Process**: Mentally "seeing" the desired frequency and aligning Mana to match it
-   - **Effect**: Enhances precision of elemental alignment
-   - **Training**: Color association exercises, harmonic training
-   - **Musical Analogy**: Tuning to a perfect A440
+2. **Frequency Visualization** (Frequenzvisualisierung)
+   - **Process** (Prozess): Mentales "Sehen" der gewünschten Frequenz und Ausrichten des Mana, um es anzupassen
+   - **Effect** (Effekt): Erhöht die Präzision der elementaren Ausrichtung
+   - **Training** (Training): Farbassoziationsübungen, harmonisches Training
+   - **Musical Analogy** (Musikalische Analogie): Stimmen auf ein perfektes A440
 
-3. **Cascading Focus**
-   - **Process**: Series of progressive refinements through multiple mental "filters"
-   - **Effect**: Achieves higher purity levels than single-pass methods
-   - **Training**: Concentration exercises, typically 7-10 years for mastery
-   - **Musical Analogy**: Multi-stage audio filtering
+3. **Cascading Focus** (Kaskadierender Fokus)
+   - **Process** (Prozess): Reihe von progressiven Verfeinerungen durch mehrere mentale "Filter"
+   - **Effect** (Effekt): Erzielt höhere Reinheitsgrade als Ein-Pass-Methoden
+   - **Training** (Training): Konzentrationsübungen, typischerweise 7-10 Jahre für die Meisterschaft
+   - **Musical Analogy** (Musikalische Analogie): Mehrstufige Audiofilterung
 
-### Physical Purification Techniques
+### Physical Purification Techniques (Physikalische Reinigungsverfahren)
 
-1. **Crystal Channeling**
-   - **Process**: Passing Mana through specially prepared crystals that trap impurities
-   - **Effect**: Reliable standard purity, regardless of caster's mental state
-   - **Requirements**: Properly attuned crystals, typically quartz or clear gemstones
-   - **Musical Analogy**: Using a high-quality microphone filter
+1. **Crystal Channeling** (Kristallkanalisierung)
+   - **Process** (Prozess): Leiten von Mana durch speziell präparierte Kristalle, die Verunreinigungen einfangen
+   - **Effect** (Effekt): Zuverlässige Standardreinheit, unabhängig vom mentalen Zustand des Zauberwirkers
+   - **Requirements** (Anforderungen): Richtig abgestimmte Kristalle, typischerweise Quarz oder klare Edelsteine
+   - **Musical Analogy** (Musikalische Analogie): Verwenden eines hochwertigen Mikrofonfilters
 
-2. **Elemental Exposure**
-   - **Process**: Exposing gathered Mana to pure elemental sources
-   - **Effect**: Enhanced elemental alignment and potency
-   - **Requirements**: Access to pure elemental source
-   - **Musical Analogy**: Acoustic treatment of a room
+2. **Elemental Exposure** (Elementare Exposition)
+   - **Process** (Prozess): Aussetzen von gesammeltem Mana reinen elementaren Quellen
+   - **Effect** (Effekt): Erhöhte elementare Ausrichtung und Potenz
+   - **Requirements** (Anforderungen): Zugang zu einer reinen elementaren Quelle
+   - **Musical Analogy** (Musikalische Analogie): Akustische Behandlung eines Raumes
 
-3. **Blood Resonance**
-   - **Process**: Using one's own blood as a filtering medium
-   - **Effect**: Exceptional purity but physically taxing
-   - **Risks**: Physical weakness, potential for contamination if health is poor
-   - **Musical Analogy**: Using the body itself as a resonance chamber
+3. **Blood Resonance** (Blutresonanz)
+   - **Process** (Prozess): Verwenden des eigenen Blutes als Filtermedium
+   - **Effect** (Effekt): Außergewöhnliche Reinheit, aber körperlich anstrengend
+   - **Risks** (Risiken): Körperliche Schwäche, Potenzial für Kontamination, wenn die Gesundheit schlecht ist
+   - **Musical Analogy** (Musikalische Analogie): Verwenden des Körpers selbst als Resonanzkammer
 
-### Tool-Assisted Purification
+### Tool-Assisted Purification (Werkzeuggestützte Reinigung)
 
-1. **Wand Focusing**
-   - **Process**: Channeling Mana through a properly attuned wand
-   - **Effect**: Stabilizes fluctuating Mana and enhances consistent purity
-   - **Requirements**: Wand matched to caster's elemental composition
-   - **Musical Analogy**: Using a well-crafted instrument
+1. **Wand Focusing** (Zauberstabfokussierung)
+   - **Process** (Prozess): Kanalisieren von Mana durch einen richtig abgestimmten Zauberstab
+   - **Effect** (Effekt): Stabilisiert schwankendes Mana und erhöht die konsistente Reinheit
+   - **Requirements** (Anforderungen): Zauberstab, der auf die elementare Zusammensetzung des Zauberwirkers abgestimmt ist
+   - **Musical Analogy** (Musikalische Analogie): Verwenden eines gut gefertigten Instruments
 
-2. **Runic Filters**
-   - **Process**: Passing Mana through prepared runic circuits
-   - **Effect**: Programmatic purification for specific spell types
-   - **Requirements**: Knowledge of runic language, properly inscribed surfaces
-   - **Musical Analogy**: Using sound equalizing technology
+2. **Runic Filters** (Runische Filter)
+   - **Process** (Prozess): Leiten von Mana durch präparierte Runenkreise
+   - **Effect** (Effekt): Programmatische Reinigung für bestimmte Zaubertypen
+   - **Requirements** (Anforderungen): Kenntnis der Runensprache, richtig beschriftete Oberflächen
+   - **Musical Analogy** (Musikalische Analogie): Verwenden von Schallausgleichstechnologie
 
-3. **Alchemical Catalysts**
-   - **Process**: Exposing Mana to alchemical substances that attract impurities
-   - **Effect**: Rapid purification without mental strain
-   - **Requirements**: Correctly prepared alchemical substances
-   - **Musical Analogy**: Chemical treatment of instruments
+3. **Alchemical Catalysts** (Alchemistische Katalysatoren)
+   - **Process** (Prozess): Aussetzen von Mana alchemistischen Substanzen, die Verunreinigungen anziehen
+   - **Effect** (Effekt): Schnelle Reinigung ohne mentale Anstrengung
+   - **Requirements** (Anforderungen): Korrekt zubereitete alchemistische Substanzen
+   - **Musical Analogy** (Musikalische Analogie): Chemische Behandlung von Instrumenten
 
-## Resonance Techniques in Detail
+## Resonance Techniques in Detail (Resonanztechniken im Detail)
 
-### Personal Resonance Methods
+### Personal Resonance Methods (Persönliche Resonanzmethoden)
 
-1. **Signature Harmonization**
-   - **Process**: Infusing the spell with the caster's unique magical "voice"
-   - **Effect**: Enhanced control and connection to the spell
-   - **Training**: Self-awareness exercises, magical identity development
-   - **Musical Analogy**: A musician's distinctive playing style
+1. **Signature Harmonization** (Signaturharmonisierung)
+   - **Process** (Prozess): Einbringen der einzigartigen magischen "Stimme" des Zauberwirkers in den Zauber
+   - **Effect** (Effekt): Erhöhte Kontrolle und Verbindung zum Zauber
+   - **Training** (Training): Selbstwahrnehmungsübungen, Entwicklung der magischen Identität
+   - **Musical Analogy** (Musikalische Analogie): Der unverwechselbare Spielstil eines Musikers
 
-2. **Emotional Keying**
-   - **Process**: Using specific emotional states to align spell frequencies
-   - **Effect**: More powerful effects, but potentially less stable
-   - **Training**: Emotional control and channeling techniques
-   - **Musical Analogy**: Playing with feeling and expressiveness
+2. **Emotional Keying** (Emotionale Schlüsselung)
+   - **Process** (Prozess): Verwenden spezifischer emotionaler Zustände, um Zauberfrequenzen auszurichten
+   - **Effect** (Effekt): Mächtigere Effekte, aber potenziell weniger stabil
+   - **Training** (Training): Emotionale Kontroll- und Kanalisierungstechniken
+   - **Musical Analogy** (Musikalische Analogie): Spielen mit Gefühl und Ausdruckskraft
 
-3. **Body Resonance**
-   - **Process**: Using physical postures that create sympathetic vibrations
-   - **Effect**: Enhanced spell stability and reduced energy cost
-   - **Training**: Magical movement disciplines, typically 5+ years
-   - **Musical Analogy**: Proper playing posture for optimal sound
+3. **Body Resonance** (Körperresonanz)
+   - **Process** (Prozess): Verwenden von Körperhaltungen, die sympathische Schwingungen erzeugen
+   - **Effect** (Effekt): Erhöhte Zauberstabilität und reduzierte Energiekosten
+   - **Training** (Training): Magische Bewegungsdisziplinen, typischerweise 5+ Jahre
+   - **Musical Analogy** (Musikalische Analogie): Richtige Spielhaltung für optimalen Klang
 
-### Environmental Resonance Methods
+### Environmental Resonance Methods (Umweltresonanzmethoden)
 
-1. **Location Attunement**
-   - **Process**: Aligning spells with the natural magical currents of a location
-   - **Effect**: Significantly amplified effects in attuned locations
-   - **Requirements**: Knowledge of local magical geography
-   - **Musical Analogy**: Taking advantage of a venue's natural acoustics
+1. **Location Attunement** (Ortsabstimmung)
+   - **Process** (Prozess): Ausrichten von Zaubern auf die natürlichen magischen Ströme eines Ortes
+   - **Effect** (Effekt): Deutlich verstärkte Effekte an abgestimmten Orten
+   - **Requirements** (Anforderungen): Kenntnis der lokalen magischen Geographie
+   - **Musical Analogy** (Musikalische Analogie): Nutzung der natürlichen Akustik eines Veranstaltungsortes
 
-2. **Celestial Alignment**
-   - **Process**: Timing spellcasting to correspond with astronomical positions
-   - **Effect**: Enhanced power and duration during favorable alignments
-   - **Requirements**: Astronomical knowledge and timing precision
-   - **Musical Analogy**: Performing at the moment when conditions are perfect
+2. **Celestial Alignment** (Himmlische Ausrichtung)
+   - **Process** (Prozess): Abstimmen des Zauberwirkens auf astronomische Positionen
+   - **Effect** (Effekt): Erhöhte Kraft und Dauer während günstiger Ausrichtungen
+   - **Requirements** (Anforderungen): Astronomisches Wissen und Timing-Präzision
+   - **Musical Analogy** (Musikalische Analogie): Auftreten zu dem Zeitpunkt, an dem die Bedingungen perfekt sind
 
-3. **Ley Line Tapping**
-   - **Process**: Connecting spells to natural currents of magical energy
-   - **Effect**: Vastly increased power and range
-   - **Requirements**: Location near a ley line, ley sensing ability
-   - **Musical Analogy**: Using natural amplification systems
+3. **Ley Line Tapping** (Leitlinienanzapfung)
+   - **Process** (Prozess): Verbinden von Zaubern mit natürlichen Strömen magischer Energie
+   - **Effect** (Effekt): Enorm erhöhte Kraft und Reichweite
+   - **Requirements** (Anforderungen): Lage in der Nähe einer Leitlinie, Leitlinienerkennungsfähigkeit
+   - **Musical Analogy** (Musikalische Analogie): Verwenden natürlicher Verstärkungssysteme
 
-### Material Resonance Methods
+### Material Resonance Methods (Materielle Resonanzmethoden)
 
-1. **Sympathetic Objects**
-   - **Process**: Including materials that naturally resonate with the spell's purpose
-   - **Effect**: Enhanced specificity and reduced energy requirements
-   - **Requirements**: Appropriate materials with natural connections
-   - **Musical Analogy**: Choosing instruments that naturally complement the piece
+1. **Sympathetic Objects** (Sympathische Objekte)
+   - **Process** (Prozess): Einbeziehen von Materialien, die auf natürliche Weise mit dem Zweck des Zaubers resonieren
+   - **Effect** (Effekt): Erhöhte Spezifität und reduzierte Energieanforderungen
+   - **Requirements** (Anforderungen): Geeignete Materialien mit natürlichen Verbindungen
+   - **Musical Analogy** (Musikalische Analogie): Auswählen von Instrumenten, die das Stück auf natürliche Weise ergänzen
 
-2. **Focus Instruments**
-   - **Process**: Using specially crafted tools that enhance specific resonance types
-   - **Effect**: Precision control over spell harmonics
-   - **Requirements**: Properly crafted and attuned magical instruments
-   - **Musical Analogy**: Using specialized musical tools for specific effects
+2. **Focus Instruments** (Fokussierinstrumente)
+   - **Process** (Prozess): Verwenden speziell gefertigter Werkzeuge, die bestimmte Resonanztypen verstärken
+   - **Effect** (Effekt): Präzise Kontrolle über Zauberharmonien
+   - **Requirements** (Anforderungen): Richtig gefertigte und abgestimmte magische Instrumente
+   - **Musical Analogy** (Musikalische Analogie): Verwenden spezialisierter Musikwerkzeuge für spezifische Effekte
 
-3. **Elemental Conductors**
-   - **Process**: Incorporating pure elemental substances into the casting process
-   - **Effect**: Enhanced elemental aspects of the spell
-   - **Requirements**: Pure elemental materials
-   - **Musical Analogy**: Using materials with superior acoustic properties
+3. **Elemental Conductors** (Elementare Leiter)
+   - **Process** (Prozess): Einarbeiten reiner elementarer Substanzen in den Wirkprozess
+   - **Effect** (Effekt): Verstärkte elementare Aspekte des Zaubers
+   - **Requirements** (Anforderungen): Reine elementare Materialien
+   - **Musical Analogy** (Musikalische Analogie): Verwenden von Materialien mit überlegenen akustischen Eigenschaften
 
-## Advanced Casting Techniques
+## Advanced Casting Techniques (Fortgeschrittene Wirktechniken)
 
-### Sustained Casting
-Maintaining a spell's effect over extended periods:
+### Sustained Casting (Anhaltendes Wirken)
+Aufrechterhaltung der Wirkung eines Zaubers über längere Zeiträume:
 
-- **Energy Cycling**: Continuously refreshing small amounts of energy rather than full recasting
-- **Pattern Anchoring**: Creating stable frameworks that require minimal maintenance
-- **Resonance Loops**: Establishing self-perpetuating magical circuits
-- **Musical Analogy**: Circular breathing techniques used by wind instrumentalists
+- **Energy Cycling** (Energiezyklus): Kontinuierliches Auffrischen kleiner Energiemengen anstatt vollständiges Neuwirken
+- **Pattern Anchoring** (Musterverankerung): Erstellen stabiler Rahmenwerke, die nur minimale Wartung erfordern
+- **Resonance Loops** (Resonanzschleifen): Etablieren sich selbst erhaltender magischer Kreisläufe
+- **Musical Analogy** (Musikalische Analogie): Kreislaufatmungstechniken, die von Blasinstrumentalisten verwendet werden
 
-### Multi-Casting
-Managing multiple spells simultaneously:
+### Multi-Casting (Mehrfachwirken)
+Gleichzeitiges Verwalten mehrerer Zauber:
 
-- **Split Focus**: Dividing attention between separate magical workings
-- **Harmonic Layering**: Creating spells that intrinsically work together
-- **Parallel Processing**: Developing the mental ability to run multiple casting processes
-- **Musical Analogy**: Orchestra conductors managing multiple instrumental sections
+- **Split Focus** (Geteilter Fokus): Aufteilen der Aufmerksamkeit zwischen separaten magischen Arbeiten
+- **Harmonic Layering** (Harmonische Schichtung): Erstellen von Zaubern, die von Natur aus zusammenarbeiten
+- **Parallel Processing** (Parallele Verarbeitung): Entwickeln der mentalen Fähigkeit, mehrere Wirkprozesse auszuführen
+- **Musical Analogy** (Musikalische Analogie): Orchesterdirigenten, die mehrere Instrumentalgruppen verwalten
 
-### Adaptive Casting
-Modifying spells during their operation:
+### Adaptive Casting (Adaptives Wirken)
+Modifizieren von Zaubern während ihres Betriebs:
 
-- **Pattern Flexibility**: Building spells with components that can be adjusted mid-effect
-- **Resonance Shifting**: Changing a spell's frequency during operation
-- **Modular Design**: Creating spells with interchangeable components
-- **Musical Analogy**: Jazz improvisation and musical adaptation
+- **Pattern Flexibility** (Musterflexibilität): Aufbauen von Zaubern mit Komponenten, die während des Effekts angepasst werden können
+- **Resonance Shifting** (Resonanzverschiebung): Ändern der Frequenz eines Zaubers während des Betriebs
+- **Modular Design** (Modulares Design): Erstellen von Zaubern mit austauschbaren Komponenten
+- **Musical Analogy** (Musikalische Analogie): Jazzimprovisation und musikalische Adaption
 
-### Cooperative Casting
-Multiple casters working together:
+### Cooperative Casting (Kooperatives Wirken)
+Mehrere Zauberwirker arbeiten zusammen:
 
-- **Harmonic Circles**: Casters focusing on complementary aspects of a single spell
-- **Power Channeling**: One caster providing energy while another handles patterning
-- **Resonance Choirs**: Groups creating harmonized magical frequencies
-- **Musical Analogy**: Ensemble playing where each musician contributes to a unified piece
+- **Harmonic Circles** (Harmonische Kreise): Zauberwirker, die sich auf komplementäre Aspekte eines einzelnen Zaubers konzentrieren
+- **Power Channeling** (Kraftkanalisierung): Ein Zauberwirker stellt Energie bereit, während ein anderer die Musterbildung übernimmt
+- **Resonance Choirs** (Resonanzchöre): Gruppen, die harmonisierte magische Frequenzen erzeugen
+- **Musical Analogy** (Musikalische Analogie): Ensemblespiel, bei dem jeder Musiker zu einem einheitlichen Stück beiträgt
 
-## Magical Implements
+## Magical Implements (Magische Werkzeuge)
 
-### Casting Tools
-Specialized implements that enhance specific aspects of spellcasting:
+### Casting Tools (Wirkwerkzeuge)
+Spezialisierte Werkzeuge, die bestimmte Aspekte des Zauberwirkens verbessern:
 
-| Implement | Primary Function | Best For | Limitations |
+| Implement (Werkzeug) | Primary Function (Hauptfunktion) | Best For (Am besten für) | Limitations (Einschränkungen) |
 |-----------|------------------|----------|-------------|
-| **Wands** | Precision and direction | Targeted spells, fine control | Limited amplification |
-| **Staves** | Power amplification and stability | Large-scale magic, sustained effects | Reduced precision |
-| **Orbs** | Energy storage and visualization | Divination, complex patterns | Physical fragility |
-| **Amulets** | Passive effect maintenance | Protective magic, subtle influences | Limited versatility |
-| **Rings** | Personal enhancement and control | Self-affecting magic, quick casting | Reduced power ceiling |
-| **Athames** | Energy cutting and directing | Ward creation, channeling | Minimal amplification |
-| **Chalices** | Containment and transformation | Alchemical magic, purification | Stationary use only |
+| **Wands** (Zauberstäbe) | Präzision und Richtung | Gezielte Zauber, feine Kontrolle | Begrenzte Verstärkung |
+| **Staves** (Stäbe) | Kraftverstärkung und Stabilität | Großflächige Magie, anhaltende Effekte | Reduzierte Präzision |
+| **Orbs** (Kugeln) | Energiespeicher und Visualisierung | Wahrsagerei, komplexe Muster | Physische Zerbrechlichkeit |
+| **Amulets** (Amulette) | Passive Effektpflege | Schutzmagie, subtile Einflüsse | Begrenzte Vielseitigkeit |
+| **Rings** (Ringe) | Persönliche Verbesserung und Kontrolle | Selbstbeeinflussende Magie, schnelles Wirken | Reduzierte Leistungsobergrenze |
+| **Athames** (Athames) | Energieschneiden und -lenken | Ward-Erstellung, Kanalisierung | Minimale Verstärkung |
+| **Chalices** (Kelche) | Eindämmung und Transformation | Alchemistische Magie, Reinigung | Nur stationärer Einsatz |
 
-### Musical Instruments as Magical Tools
+### Musical Instruments as Magical Tools (Musikinstrumente als magische Werkzeuge)
 
-Some traditions use musical instruments as casting implements, taking advantage of the natural connection between music and magic:
+Einige Traditionen verwenden Musikinstrumente als Wirkwerkzeuge und nutzen die natürliche Verbindung zwischen Musik und Magie:
 
-| Instrument Type | Magical Specialty | Resonance Effect |
+| Instrument Type (Instrumententyp) | Magical Specialty (Magische Spezialität) | Resonance Effect (Resonanzeffekt) |
 |-----------------|-------------------|------------------|
-| **Stringed Instruments** | Emotional magic, illusions | Creates harmonic patterns that affect perception |
-| **Wind Instruments** | Air magic, communication spells | Extends range and clarity of magical signals |
-| **Percussion** | Earth magic, protective wards | Establishes strong, regular magical foundations |
-| **Voices** | Enchantment, command magic | Direct translation of intent into magical effect |
+| **Stringed Instruments** (Saiteninstrumente) | Emotionale Magie, Illusionen | Erzeugt harmonische Muster, die die Wahrnehmung beeinflussen |
+| **Wind Instruments** (Blasinstrumente) | Luftmagie, Kommunikationszauber | Erweitert die Reichweite und Klarheit magischer Signale |
+| **Percussion** (Percussion) | Erdmagie, Schutzwälle | Etabliert starke, regelmäßige magische Grundlagen |
+| **Voices** (Stimmen) | Verzauberung, Befehlsmagie | Direkte Übersetzung von Absicht in magische Wirkung |
 
-## Common Challenges in Spellcasting
+## Common Challenges in Spellcasting (Häufige Herausforderungen beim Zauberwirken)
 
-### Mana Instability
-Causes:
-- Emotional disturbance during gathering
-- Insufficient purification
-- Environmental magical disruption
+### Mana Instability (Mana-Instabilität)
+Ursachen:
+- Emotionale Störung während des Sammelns
+- Unzureichende Reinigung
+- Magische Störung der Umgebung
 
-Solutions:
-- Stabilization exercises before casting
-- Enhanced purification techniques
-- Protective circles to isolate casting environment
+Lösungen:
+- Stabilisierungsübungen vor dem Wirken
+- Verbesserte Reinigungstechniken
+- Schutzkreise zur Isolierung der Wirkumgebung
 
-### Pattern Collapse
-Causes:
-- Insufficient concentration
-- Overly complex patterns for skill level
-- Conflicting intentions within the pattern
+### Pattern Collapse (Musterkollaps)
+Ursachen:
+- Unzureichende Konzentration
+- Übermäßig komplexe Muster für das Fähigkeitsniveau
+- Konfliktierende Absichten innerhalb des Musters
 
-Solutions:
-- Progressive complexity training
-- Pattern segmentation for complex spells
-- Intention clarification exercises
+Lösungen:
+- Progressives Komplexitätstraining
+- Mustersegmentierung für komplexe Zauber
+- Übungen zur Absichtsklärung
 
-### Resonance Failure
-Causes:
-- Inadequate understanding of local magical conditions
-- Forced resonance with incompatible frequencies
-- Interference from other magical works
+### Resonance Failure (Resonanzfehler)
+Ursachen:
+- Unzureichendes Verständnis der lokalen magischen Bedingungen
+- Erzwingen der Resonanz mit inkompatiblen Frequenzen
+- Interferenz durch andere magische Arbeiten
 
-Solutions:
-- Local magical surveying before major workings
-- Resonance flexibility techniques
-- Timing casting to avoid interference periods
+Lösungen:
+- Lokale magische Vermessung vor größeren Arbeiten
+- Resonanzflexibilitätstechniken
+- Abstimmen des Wirkens, um Interferenzperioden zu vermeiden
 
-### Release Disruption
-Causes:
-- Premature release due to concentration lapse
-- External interference during release phase
-- Insufficient power for intended effect
+### Release Disruption (Freisetzungsstörung)
+Ursachen:
+- Vorzeitige Freisetzung aufgrund von Konzentrationsverlust
+- Externe Interferenz während der Freisetzungsphase
+- Unzureichende Leistung für die beabsichtigte Wirkung
 
-Solutions:
-- Release timing exercises
-- Protected casting environments
-- Energy requirement calculations before casting
+Lösungen:
+- Übungen zum Freisetzungs-Timing
+- Geschützte Wirkumgebungen
+- Energiebedarfsberechnungen vor dem Wirken
 
-Understanding **Magic Casting** provides practitioners with the practical tools to translate magical theory into reality, like a musician who moves beyond understanding music on paper to creating living sound. The master spellcaster, like the master musician, makes the complex seem effortless, hiding years of practice behind seemingly simple gestures and words that reshape reality itself. 
+Das Verständnis von **Magic Casting** (Magiewirken) vermittelt Praktizierenden die praktischen Werkzeuge, um magische Theorie in Realität umzusetzen, wie ein Musiker, der über das Verständnis von Musik auf Papier hinausgeht, um lebendigen Klang zu erzeugen. Der Meisterzauberwirker lässt, wie der Meistermusiker, das Komplexe mühelos erscheinen und verbirgt jahrelange Übung hinter scheinbar einfachen Gesten und Worten, die die Realität selbst verändern.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

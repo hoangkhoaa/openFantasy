@@ -1,110 +1,114 @@
-# **Magic Sense**
+# **Magic Sense (Magischer Sinn)**
 
-A fundamental divination spell that allows the caster to perceive magical energies in their surroundings. This perceptual enhancement serves as the foundation for magical investigation, artifact identification, and spellwork analysis.
+Eine grundlegende Wahrsage-Zauber, der es dem Zauberwirker ermöglicht, magische Energien in seiner Umgebung wahrzunehmen. Diese Wahrnehmungsverstärkung dient als Grundlage für magische Untersuchungen, Artefaktidentifizierung und Zauberwerkanalyse.
 
-## Casting Information
+## Casting Information (Informationen zum Wirken)
 
-| Aspect | Details |
+| Aspect (Aspekt) | Details (Details) |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | 3 seconds |
-| **Duration** | Concentration (up to 15 minutes) |
-| **Range** | 30 foot radius centered on caster |
-| **Components** | Somatic (touching fingertips to temples), Verbal (whispered phrase) |
+| **Difficulty (Schwierigkeit)** | Anfänger |
+| **Casting Time (Zauberzeit)** | 3 Sekunden |
+| **Duration (Dauer)** | Konzentration (bis zu 15 Minuten) |
+| **Range (Reichweite)** | 30 Fuß Radius, zentriert auf den Zauberwirker |
+| **Components (Komponenten)** | Somatisch (Berühren der Fingerspitzen an den Schläfen), Verbal (geflüsterte Phrase) |
 
-## Technical Details
+## Technical Details (Technische Details)
 
-| Aspect | Details |
+| Aspect (Aspekt) | Details (Details) |
 |--------|---------|
-| **Mana Type** | Base Mana (80%), Luxmana (20%) |
-| **Purity Required** | Basic (15-30%) |
-| **Pattern Complexity** | Simple (3 elements) |
-| **Resonance Frequency** | Perception/Awareness spectrum |
-| **Minimum Mana Capacity** | 15% (Higher capacity increases detection range and clarity) |
+| **Mana Type (Mana-Typ)** | Basis-Mana (80%), Luxmana (20%) |
+| **Purity Required (Erforderliche Reinheit)** | Grundlegend (15-30%) |
+| **Pattern Complexity (Musterkomplexität)** | Einfach (3 Elemente) |
+| **Resonance Frequency (Resonanzfrequenz)** | Wahrnehmungs-/Bewusstseinsspektrum |
+| **Minimum Mana Capacity (Minimale Mana-Kapazität)** | 15% (Höhere Kapazität erhöht die Erkennungsreichweite und Klarheit) |
 
-## Pattern Structure
+## Pattern Structure (Musterstruktur)
 
-The Magic Sense pattern consists of three primary elements:
-1. **Perception Filter**: Attunes the caster's senses to magical frequencies
-2. **Resonance Amplifier**: Enhances subtle magical emanations to detectable levels
-3. **Interpretation Matrix**: Translates magical energies into sensory information the caster can understand
+Das Magic Sense (Magischer Sinn)-Muster besteht aus drei Hauptelementen:
+1. **Perception Filter (Wahrnehmungsfilter)**: Stimmt die Sinne des Zauberwirkers auf magische Frequenzen ab.
+2. **Resonance Amplifier (Resonanzverstärker)**: Verstärkt subtile magische Ausstrahlungen auf erkennbare Werte.
+3. **Interpretation Matrix (Interpretationsmatrix)**: Übersetzt magische Energien in sensorische Informationen, die der Zauberwirker verstehen kann.
 
-These elements form a web-like pattern that extends from the caster's mind outward into the surrounding area.
+Diese Elemente bilden ein netzartiges Muster, das sich vom Geist des Zauberwirkers nach außen in die Umgebung erstreckt.
 
-## Practical Effect
+## Practical Effect (Praktischer Effekt)
 
-When successfully cast, the spell:
-- Creates a second "sight" that perceives magical energies
-- Allows identification of active spells and enchanted objects
-- Reveals residual magical traces from recent spellcasting
-- Detects the presence and general nature of magical beings
-- Provides insight into the type and relative strength of detected magic
+Wenn der Zauber erfolgreich gewirkt wurde:
+- Erzeugt eine zweite "Sicht", die magische Energien wahrnimmt
+- Ermöglicht die Identifizierung aktiver Zauber und verzauberter Objekte
+- Enthüllt restliche magische Spuren von kürzlichen Zauberwirkungen
+- Erkennt die Anwesenheit und allgemeine Natur magischer Wesen
+- Bietet Einblick in die Art und relative Stärke der erkannten Magie
 
-Most casters perceive magical energies as colored auras or glowing patterns superimposed over their normal vision, though some experience magical energy as sounds, scents, or tactile sensations.
+Die meisten Zauberwirker nehmen magische Energien als farbige Auren oder leuchtende Muster wahr, die über ihr normales Sehvermögen gelegt werden, obwohl einige magische Energie als Geräusche, Düfte oder taktile Empfindungen erleben.
 
-## Magical Perception Characteristics
+## Magical Perception Characteristics (Merkmale der magischen Wahrnehmung)
 
-Different types of magic typically manifest with distinctive sensory properties:
+Verschiedene Arten von Magie manifestieren sich typischerweise mit unterschiedlichen sensorischen Eigenschaften:
 
-| Magic Type | Visual Perception | Other Sensory Manifestations |
+| Magic Type (Magietyp) | Visual Perception (Visuelle Wahrnehmung) | Other Sensory Manifestations (Andere sensorische Manifestationen) |
 |------------|-------------------|------------------------------|
-| **Pyromana** | Red-orange glow, flickering patterns | Warmth, crackling sounds |
-| **Hydromana** | Blue-green luminescence, flowing patterns | Coolness, gentle rushing sounds |
-| **Terramana** | Brown-amber aura, solid patterns | Weight, deep humming |
-| **Aeromana** | White-silver glow, swirling patterns | Tingling, whistling sounds |
-| **Luxmana** | Golden-white brilliance, radiant patterns | Warmth, harmonious tones |
-| **Umbramana** | Purple-black aura, shadowy patterns | Coldness, whispering sounds |
-| **Vitaemana** | Green-gold glow, pulsing patterns | Vitality, rhythmic beating |
-| **Mortismana** | Gray-purple luminescence, still patterns | Hollowness, distant echoes |
+| **Pyromana** | Rot-orangefarbenes Leuchten, flackernde Muster | Wärme, knisternde Geräusche |
+| **Hydromana** | Blau-grüne Lumineszenz, fließende Muster | Kühle, sanfte rauschende Geräusche |
+| **Terramana** | Braun-bernsteinfarbene Aura, feste Muster | Gewicht, tiefes Summen |
+| **Aeromana** | Weiß-silbernes Leuchten, wirbelnde Muster | Kribbeln, pfeifende Geräusche |
+| **Luxmana** | Gold-weißes Strahlen, strahlende Muster | Wärme, harmonische Töne |
+| **Umbramana** | Violett-schwarze Aura, schattenhafte Muster | Kälte, flüsternde Geräusche |
+| **Vitaemana** | Grün-goldenes Leuchten, pulsierende Muster | Vitalität, rhythmischer Schlag |
+| **Mortismana** | Grau-violette Lumineszenz, stille Muster | Leere, ferne Echos |
 
-## Common Applications
+## Common Applications (Häufige Anwendungen)
 
-- **Spell Identification**: Determining the nature of active magical effects
-- **Artifact Assessment**: Identifying enchanted objects and their properties
-- **Environmental Analysis**: Detecting magical anomalies or hidden enchantments
-- **Aura Reading**: Gaining insight into the magical nature of beings
-- **Magical Tracking**: Following traces of recently cast spells
-- **Safety Scanning**: Checking areas for harmful magical effects before proceeding
+- **Spell Identification (Zauberidentifizierung)**: Bestimmen der Natur aktiver magischer Effekte
+- **Artifact Assessment (Artefaktbewertung)**: Identifizieren verzauberter Objekte und ihrer Eigenschaften
+- **Environmental Analysis (Umweltanalyse)**: Erkennen magischer Anomalien oder versteckter Verzauberungen
+- **Aura Reading (Auralesen)**: Einblick in die magische Natur von Wesen gewinnen
+- **Magical Tracking (Magische Verfolgung)**: Verfolgen von Spuren kürzlich gewirkter Zauber
+- **Safety Scanning (Sicherheitsscannen)**: Überprüfen von Bereichen auf schädliche magische Effekte vor dem Fortfahren
 
-## Variations
+## Variations (Variationen)
 
-- **Focused Sense**: Concentrates on a smaller area for more detailed information
-- **Extended Sense**: Covers a larger area with less precise detection (requires 25%+ purity)
-- **Specific Resonance**: Tunes specifically to one type of magical energy
-- **Deep Sense**: Penetrates magical concealment at the cost of range (Adept difficulty, requires 40-50% purity)
-- **Passive Sense**: Lower intensity but longer duration (up to 1 hour)
+- **Focused Sense (Fokussierter Sinn)**: Konzentriert sich auf einen kleineren Bereich für detailliertere Informationen
+- **Extended Sense (Erweiterter Sinn)**: Deckt einen größeren Bereich mit weniger präziser Erkennung ab (erfordert 25%+ Reinheit)
+- **Specific Resonance (Spezifische Resonanz)**: Stimmt sich speziell auf eine Art magischer Energie ein
+- **Deep Sense (Tiefer Sinn)**: Dringt in magische Verschleierung ein, auf Kosten der Reichweite (Adeptenschwierigkeit, erfordert 40-50% Reinheit)
+- **Passive Sense (Passiver Sinn)**: Geringere Intensität, aber längere Dauer (bis zu 1 Stunde)
 
-## Risks and Miscast Effects
+## Risks and Miscast Effects (Risiken und Fehlwirkungs-Effekte)
 
-- **Sensory Overload**: In magically dense environments, can cause disorientation or headaches
-- **False Readings**: Imprecise casting or insufficient purity (below 15%) can result in misleading or incorrect perceptions
-- **Attraction**: Poorly controlled sensing can alert magical entities to the caster's presence
-- **Attunement Bleed**: Temporary difficulty distinguishing magical from mundane perceptions after the spell ends
-- **Energy Drain**: Excessive concentration can lead to mental fatigue
-- **Sensory Contamination**: Critical purity shortage (below 10%) may temporarily distort the caster's normal senses
+- **Sensory Overload (Sensorische Überlastung)**: In magisch dichten Umgebungen kann dies zu Desorientierung oder Kopfschmerzen führen
+- **False Readings (Falsche Messwerte)**: Ungenaue Wirkung oder unzureichende Reinheit (unter 15%) kann zu irreführenden oder falschen Wahrnehmungen führen
+- **Attraction (Anziehung)**: Schlecht kontrollierte Wahrnehmung kann magische Wesen auf die Anwesenheit des Zauberwirkers aufmerksam machen
+- **Attunement Bleed (Abstimmungsblutung)**: Vorübergehende Schwierigkeiten, magische von alltäglichen Wahrnehmungen zu unterscheiden, nachdem der Zauber endet
+- **Energy Drain (Energieentzug)**: Übermäßige Konzentration kann zu mentaler Erschöpfung führen
+- **Sensory Contamination (Sensorische Kontamination)**: Kritischer Reinheitsmangel (unter 10%) kann vorübergehend die normalen Sinne des Zauberwirkers verzerren
 
-## Purity Influence on Effect
+## Purity Influence on Effect (Reinheitseinfluss auf den Effekt)
 
-| Purity Level | Effect Enhancement |
+| Purity Level (Reinheitsgrad) | Effect Enhancement (Effektverstärkung) |
 |--------------|---------------------|
-| 10-15% | Limited detection of only the strongest magical emanations with frequent false readings |
-| 15-30% | Standard effect as described above |
-| 30-50% | Enhanced clarity, ability to discern spell structures, increased range (45 foot radius) |
-| 50%+ | Precise magical analysis, ability to identify casting signatures, detection of layered or concealed magic |
+| 10-15% | Begrenzte Erkennung nur der stärksten magischen Ausstrahlungen mit häufigen falschen Messwerten |
+| 15-30% | Standardeffekt wie oben beschrieben |
+| 30-50% | Erhöhte Klarheit, Fähigkeit, Zauberstrukturen zu erkennen, erhöhte Reichweite (45 Fuß Radius) |
+| 50%+ | Präzise magische Analyse, Fähigkeit, Zaubersignaturen zu identifizieren, Erkennung von geschichteter oder verborgener Magie |
 
-## Musical Analogy
+## Musical Analogy (Musikalische Analogie)
 
-Magic Sense is like developing perfect pitch for magical frequencies. The caster must tune their awareness to the subtle "music" of magical energies, learning to distinguish different "notes" (magical types) and "melodies" (spell patterns). Like a trained musician who can identify individual instruments in an orchestra, an experienced Magic Sense user can pick out specific magical elements from complex enchantments.
+Magic Sense (Magischer Sinn) ist wie die Entwicklung eines absoluten Gehörs für magische Frequenzen. Der Zauberwirker muss sein Bewusstsein auf die subtile "Musik" magischer Energien einstellen und lernen, verschiedene "Noten" (magische Typen) und "Melodien" (Zaubermuster) zu unterscheiden. Wie ein ausgebildeter Musiker, der einzelne Instrumente in einem Orchester identifizieren kann, kann ein erfahrener Magic Sense (Magischer Sinn)-Benutzer spezifische magische Elemente aus komplexen Verzauberungen herausfiltern.
 
-## Learning Progression
+## Learning Progression (Lernfortschritt)
 
-Most students master this spell through graduated exercises:
-1. **Awareness**: Detecting the presence of obvious magic (active spells, powerful artifacts)
-2. **Discrimination**: Distinguishing between different types of magical energy
-3. **Analysis**: Interpreting the structure and purpose of detected magic
-4. **Subtlety**: Perceiving faint traces and residual magic
-5. **Integration**: Maintaining the sense while performing other actions
+Die meisten Studenten beherrschen diesen Zauber durch abgestufte Übungen:
+1. **Awareness (Bewusstsein)**: Erkennen der Anwesenheit offensichtlicher Magie (aktive Zauber, mächtige Artefakte)
+2. **Discrimination (Diskriminierung)**: Unterscheiden zwischen verschiedenen Arten magischer Energie
+3. **Analysis (Analyse)**: Interpretieren der Struktur und des Zwecks der erkannten Magie
+4. **Subtlety (Subtilität)**: Wahrnehmen schwacher Spuren und restlicher Magie
+5. **Integration (Integration)**: Aufrechterhalten des Sinns während der Durchführung anderer Aktionen
 
-## Historical Note
+## Historical Note (Historische Anmerkung)
 
-Magic Sense evolved naturally among early spellcasters as a survival mechanism, allowing them to avoid dangerous magical phenomena and identify beneficial magical resources. Its first formal codification is credited to the elven diviner Elariel Truesight, who refined the wild perceptual techniques into a controlled, teachable pattern during the Age of Awakening. Today, it is considered the first essential spell for any practitioner of divination magic and is often taught alongside basic protective magic as a fundamental safety skill for all magical disciplines. 
+Magic Sense (Magischer Sinn) entwickelte sich auf natürliche Weise unter frühen Zauberwirkern als Überlebensmechanismus, der es ihnen ermöglichte, gefährliche magische Phänomene zu vermeiden und nützliche magische Ressourcen zu identifizieren. Seine erste formale Kodifizierung wird der Elfenwahrsagerin Elariel Truesight (Elariel Wahrsicht) zugeschrieben, die die wilden Wahrnehmungstechniken während des Age of Awakening (Zeitalters des Erwachens) zu einem kontrollierten, lehrbaren Muster verfeinerte. Heute gilt es als der erste wesentliche Zauber für jeden Praktizierenden der Wahrsage-Magie und wird oft zusammen mit grundlegender Schutzmagie als grundlegende Sicherheitsfähigkeit für alle magischen Disziplinen gelehrt.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

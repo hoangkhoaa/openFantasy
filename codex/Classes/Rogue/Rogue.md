@@ -1,135 +1,139 @@
-# **Rogue**: Masters of Finesse and Stealth
+# **Schurke** (**Rogue**): Meister der Finesse und Heimlichkeit
 
-[**Rogues**](/codex/Classes/Rogue/Rogue.md) embody the perfect balance between physical dexterity and cunning intellect. Their existence forms a subtle harmony that favors precision, adaptability, and opportunism rather than raw power or magical might.
+[**Schurken**](/codex/Classes/Rogue/Rogue.md) verkörpern die perfekte Balance zwischen körperlicher Geschicklichkeit und listigem Intellekt. Ihre Existenz bildet eine subtile Harmonie, die Präzision, Anpassungsfähigkeit und Opportunismus anstelle von roher Gewalt oder magischer Macht bevorzugt.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rogues** creates a distinctive harmony that emphasizes adaptability:
+Wie in [Klassen](/codex/Classes/Classes.md) beschrieben, erzeugt das typische Verhältnis für **Schurken** eine unverwechselbare Harmonie, die Anpassungsfähigkeit betont:
 
-| Element | Range | Function |
+| Element | Bereich | Funktion |
 |---------|------------|----------|
-| **Exanthis** | 35-50% | Balanced physical foundation providing agility, precision, and reflexes over raw strength |
-| **Soul** | 30-45% | Enhanced consciousness supporting perception, improvisation, and strategic thinking |
-| **Mana Capacity** | 15-30% | Moderate magical potential typically channeled into enhancing stealth, perception, and deception |
+| **Exanthis** | 35-50% | Ausgewogene physische Grundlage, die Agilität, Präzision und Reflexe über rohe Kraft stellt |
+| **Soul** | 30-45% | Erhöhtes Bewusstsein, das Wahrnehmung, Improvisation und strategisches Denken unterstützt |
+| **Mana Capacity** | 15-30% | Mäßiges magisches Potenzial, das typischerweise zur Verbesserung von Tarnung, Wahrnehmung und Täuschung eingesetzt wird |
 
-This composition grants **rogues** their characteristic versatility and adaptability. Their balanced elemental distribution allows them to excel in situations requiring both physical prowess and mental acuity, though they lack the specialized extremes of other classes.
+Diese Zusammensetzung verleiht **Schurken** ihre charakteristische Vielseitigkeit und Anpassungsfähigkeit. Ihre ausgewogene elementare Verteilung ermöglicht es ihnen, in Situationen zu glänzen, die sowohl körperliche Stärke als auch geistige Schärfe erfordern, obwohl ihnen die spezialisierten Extreme anderer Klassen fehlen.
 
-### Magical Affinity Profile
+### Magisches Affinitätsprofil
 
-Rogues typically develop specific affinities that complement their shadowy and adaptive nature:
+Schurken entwickeln typischerweise spezifische Affinitäten, die ihre schattenhafte und anpassungsfähige Natur ergänzen:
 
-| Rogue Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Schurken-Tradition | Primäre Affinitäten | Sekundäre Affinitäten | Typische Anwendung |
 |-----------------|-------------------|---------------------|---------------------|
-| **Shadowblade** | Umbramana (Concealment, Deception) | Aeromana (Silence) | Invisibility, shadow stepping, misdirection |
-| **Infiltrator** | Aeromana (Silence, Lightness) | Umbramana (Concealment) | Soundless movement, feather fall, enhanced agility |
-| **Trickster** | Luxmana (Illusion) | Umbramana (Deception) | Minor illusions, distractions, sensory manipulation |
-| **Poisoner** | Hydromana (Fluid, Mixing) | Terramana (Substance) | Toxin enhancement, alchemical acceleration, substance manipulation |
-| **Acrobat** | Aeromana (Balance, Movement) | Base Mana (Reflex) | Supernatural balance, wall-running, impossible leaps |
-| **Saboteur** | Base Mana (Disruption) | Pyromana (Ignition) | Trap enhancement, mechanical manipulation, controlled detonations |
+| **Shadowblade** | Umbramana (Verbergung, Täuschung) | Aeromana (Stille) | Unsichtbarkeit, Schattenschritt, Irreführung |
+| **Infiltrator** | Aeromana (Stille, Leichtigkeit) | Umbramana (Verbergung) | Geräuschlose Bewegung, Federfall, erhöhte Agilität |
+| **Trickster** | Luxmana (Illusion) | Umbramana (Täuschung) | Geringfügige Illusionen, Ablenkungen, sensorische Manipulation |
+| **Poisoner** | Hydromana (Fluid, Mischen) | Terramana (Substanz) | Toxin-Verstärkung, alchemistische Beschleunigung, Substanzmanipulation |
+| **Acrobat** | Aeromana (Gleichgewicht, Bewegung) | Base Mana (Reflex) | Übernatürliches Gleichgewicht, Wände hochlaufen, unmögliche Sprünge |
+| **Saboteur** | Base Mana (Zerstörung) | Pyromana (Zündung) | Fallenverstärkung, mechanische Manipulation, kontrollierte Detonationen |
 
-Rogues typically achieve 50-70% specialization efficiency with their primary affinities, striking a balance between the focused specialization of mages and the practical application of warriors. This middle ground reflects their adaptable nature and diverse skill set.
+Schurken erreichen typischerweise eine Spezialisierungseffizienz von 50-70% mit ihren primären Affinitäten, wodurch ein Gleichgewicht zwischen der fokussierten Spezialisierung von Magiern und der praktischen Anwendung von Kriegern hergestellt wird. Dieser Mittelweg spiegelt ihre anpassungsfähige Natur und ihr vielfältiges Fähigkeitsspektrum wider.
 
-### Species-Specific Variations
+### Speziesspezifische Variationen
 
-Different species show varying natural inclinations toward the rogue class:
+Verschiedene Spezies zeigen unterschiedliche natürliche Neigungen zur Schurkenklasse:
 
-- **Humans** (30-45% Exanthis, 35-45% Soul, 15-30% Mana Capacity): Their adaptability makes them versatile rogues capable of mastering various specializations.
-- **Elves** (25-40% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their natural grace and enhanced senses make them exceptional infiltrators and scouts.
-- **Halflings** (30-45% Exanthis, 40-55% Soul, 10-25% Mana Capacity): Their small size and heightened luck make them natural burglars and opportunists.
-- **Kitsune** (25-40% Exanthis, 35-50% Soul, 20-35% Mana Capacity): Their innate affinity for trickery and illusion makes them masterful deceivers.
-- **Changelings** (30-45% Exanthis, 25-40% Soul, 25-40% Mana Capacity): Their natural shapeshifting abilities make them unparalleled infiltrators and spies.
+- **Humans** (Menschen) (30-45% Exanthis, 35-45% Soul, 15-30% Mana Capacity): Ihre Anpassungsfähigkeit macht sie zu vielseitigen Schurken, die verschiedene Spezialisierungen meistern können.
+- **Elves** (Elfen) (25-40% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Ihre natürliche Anmut und ihre verbesserten Sinne machen sie zu außergewöhnlichen Infiltratoren und Kundschaftern.
+- **Halflings** (Halblinge) (30-45% Exanthis, 40-55% Soul, 10-25% Mana Capacity): Ihre geringe Größe und ihr erhöhtes Glück machen sie zu natürlichen Einbrechern und Opportunisten.
+- **Kitsune** (Kitsune) (25-40% Exanthis, 35-50% Soul, 20-35% Mana Capacity): Ihre angeborene Affinität zu Tricksereien und Illusionen macht sie zu meisterhaften Betrügern.
+- **Changelings** (Wechselbälger) (30-45% Exanthis, 25-40% Soul, 25-40% Mana Capacity): Ihre natürlichen Gestaltwandlungsfähigkeiten machen sie zu unübertroffenen Infiltratoren und Spionen.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Rogues** are known for their agility and stealth:
-- Lean build with quick reflexes, like a dancer's graceful movements
-- Eyes that dart with alertness, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the art of precision, like a musician who has perfected the art of the flute
-- Presence that can be both commanding and nearly invisible, like a melody that can be bold or whisper-soft
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+**Schurken** sind bekannt für ihre Agilität und Heimlichkeit:
+- Schlanke Statur mit schnellen Reflexen, wie die anmutigen Bewegungen eines Tänzers
+- Augen, die aufmerksam umherblicken und ihre Verbindung zu [**Soul**](/codex/Basic/Soul.md) zeigen
+- Hände, die die Kunst der Präzision beherrschen, wie ein Musiker, der die Kunst der Flöte perfektioniert hat
+- Präsenz, die sowohl gebieterisch als auch nahezu unsichtbar sein kann, wie eine Melodie, die kühn oder flüsterleise sein kann
+- Haltung, die Gleichgewicht und Bereitschaft betont, wie ein Künstler, der bereit ist, sich in jede Richtung zu bewegen
 
-## Stealth Affinity
+## Heimlichkeitsaffinität
 
-**Rogues** demonstrate exceptional proficiency in stealth and precision, like virtuoso musicians who have mastered the art of subtlety. Their composition allows them to:
-- Move silently and unseen, like shadows that slip through the night
-- Strike with precision and timing, like a musician hitting the perfect note
-- Navigate complex environments with grace, like dancers performing an intricate routine
+**Schurken** zeigen außergewöhnliche Fähigkeiten in Bezug auf Heimlichkeit und Präzision, wie Virtuosen, die die Kunst der Subtilität beherrschen. Ihre Zusammensetzung ermöglicht es ihnen:
+- Sich lautlos und ungesehen zu bewegen, wie Schatten, die durch die Nacht huschen
+- Mit Präzision und Timing zuzuschlagen, wie ein Musiker, der den perfekten Ton trifft
+- Komplexe Umgebungen mit Anmut zu durchqueren, wie Tänzer, die eine komplizierte Choreografie aufführen
 
-This specialization makes **rogues** capable of achieving the highest levels of proficiency in their chosen stealth techniques, though they may struggle with tasks requiring brute strength or powerful magic, like a delicate instrument that produces beautiful sounds but cannot match the power of a drum.
+Diese Spezialisierung macht **Schurken** in der Lage, die höchsten Grade an Kompetenz in ihren gewählten Tarntechniken zu erreichen, obwohl sie mit Aufgaben, die rohe Gewalt oder mächtige Magie erfordern, zu kämpfen haben, wie ein zartes Instrument, das wunderschöne Klänge erzeugt, aber nicht mit der Kraft einer Trommel mithalten kann.
 
-## Training and Development
+## Training und Entwicklung
 
-The path of a **rogue** involves rigorous stealth training and mental discipline:
-- Daily practice in moving silently and unseen, like musicians practicing the art of pianissimo
-- Study of anatomy and weak points, like learning the theory behind a perfect strike
-- Meditation to develop focus and awareness, like finding the quiet center before a performance
-- Practice in deception and misdirection, like artists mastering the art of illusion
+Der Weg eines **Schurken** beinhaltet rigoroses Tarnungstraining und mentale Disziplin:
+- Tägliche Übung, um sich lautlos und ungesehen zu bewegen, wie Musiker, die die Kunst des Pianissimo üben
+- Studium der Anatomie und der Schwachstellen, wie das Erlernen der Theorie hinter einem perfekten Schlag
+- Meditation, um Konzentration und Aufmerksamkeit zu entwickeln, wie das Finden der ruhigen Mitte vor einer Aufführung
+- Übung in Täuschung und Irreführung, wie Künstler, die die Kunst der Illusion beherrschen
 
-## Equipment and Gear
+## Ausrüstung und Gear
 
-**Rogues** rely on various equipment to enhance their stealth and precision:
-- Light weapons designed for quick strikes, like different instruments for different performances
-- Stealth gear such as cloaks, boots, and tools, like accessories that enhance an instrument's capabilities
-- Precision tools such as lockpicks, traps, and poisons, like specialized instruments for specific tasks
+**Schurken** verlassen sich auf verschiedene Ausrüstungsgegenstände, um ihre Tarnung und Präzision zu verbessern:
+- Leichte Waffen, die für schnelle Schläge ausgelegt sind, wie verschiedene Instrumente für verschiedene Aufführungen
+- Tarnausrüstung wie Umhänge, Stiefel und Werkzeuge, wie Zubehör, das die Fähigkeiten eines Instruments verbessert
+- Präzisionswerkzeuge wie Dietrich, Fallen und Gifte, wie spezielle Instrumente für bestimmte Aufgaben
 
-## Subclasses
+## Subklassen
 
-**Rogues** can specialize in various stealth and precision techniques:
+**Schurken** können sich auf verschiedene Tarn- und Präzisionstechniken spezialisieren:
 
 ### [**Assassin**](/codex/Classes/Rogue/Assassin.md)
 
-Assassins focus on eliminating targets without detection, emphasizing the art of the silent kill. They excel at:
-- Tracking and stalking targets
-- Delivering致命一击 with precision
-- Remaining undetected before and after the kill
+Assassinen konzentrieren sich darauf, Ziele unentdeckt zu eliminieren, wobei sie die Kunst des lautlosen Tötens betonen. Sie zeichnen sich aus durch:
+- Verfolgen und Stalken von Zielen
+- Ausführen von **致命一击** mit Präzision
+- Unentdeckt bleiben vor und nach dem Töten
 
 ### [**Scout**](/codex/Classes/Rogue/Scout.md)
 
-Scouts focus on gathering information and navigating unknown territories, emphasizing observation and exploration. They excel at:
-- Moving unseen through dangerous areas
-- Gathering intelligence without detection
-- Finding safe paths through hazardous environments
+Scouts konzentrieren sich auf das Sammeln von Informationen und das Navigieren in unbekannten Gebieten, wobei sie Beobachtung und Erkundung betonen. Sie zeichnen sich aus durch:
+- Sich ungesehen durch gefährliche Gebiete bewegen
+- Informationen sammeln, ohne entdeckt zu werden
+- Sichere Wege durch gefährliche Umgebungen finden
 
 ### [**Trickster**](/codex/Classes/Rogue/Trickster.md)
 
-Tricksters focus on deception and misdirection, emphasizing the art of the con. They excel at:
-- Creating and maintaining false identities
-- Manipulating others through charm and wit
-- Executing elaborate schemes and cons
+Tricksters konzentrieren sich auf Täuschung und Irreführung, wobei sie die Kunst des Betrugs betonen. Sie zeichnen sich aus durch:
+- Erstellen und Aufrechterhalten falscher Identitäten
+- Manipulieren anderer durch Charme und Witz
+- Ausführen ausgeklügelter Pläne und Betrügereien
 
 ### [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md)
 
-Shadowblades focus on blending stealth with combat, emphasizing the art of the surprise attack. They excel at:
-- Initiating combat from stealth
-- Using shadows and darkness to their advantage
-- Striking quickly and disappearing
+Shadowblades konzentrieren sich darauf, Tarnung mit Kampf zu verbinden, wobei sie die Kunst des Überraschungsangriffs betonen. Sie zeichnen sich aus durch:
+- Initiieren von Kämpfen aus dem Verborgenen
+- Nutzen von Schatten und Dunkelheit zu ihrem Vorteil
+- Schnell zuschlagen und verschwinden
 
 ### [**Spy**](/codex/Classes/Rogue/Spy.md)
 
-Spies focus on infiltration and intelligence gathering, emphasizing the art of the deep cover. They excel at:
-- Infiltrating enemy organizations
-- Gathering sensitive information
-- Maintaining cover identities for extended periods
+Spies konzentrieren sich auf Infiltration und das Sammeln von Informationen, wobei sie die Kunst des Undercover-Einsatzes betonen. Sie zeichnen sich aus durch:
+- Infiltrieren von feindlichen Organisationen
+- Sammeln sensibler Informationen
+- Aufrechterhalten von Deckidentitäten über längere Zeiträume
 
-## Notable Rogue Traits
+## Bemerkenswerte Schurken-Eigenschaften
 
-- **Stealth Mastery**: Rogues excel in moving unseen and unheard, often specializing in specific stealth techniques
-- **Precision Strikes**: Rogues can deliver精确打击 with exceptional accuracy
-- **Perception**: Rogues develop keen senses and awareness through stealth training
-- **Adaptability**: Rogues can quickly adapt to changing situations and environments
-- **Discipline**: Rogues maintain rigorous training regimens to maintain their stealth abilities
+- **Stealth Mastery**: Schurken zeichnen sich dadurch aus, dass sie sich ungesehen und ungehört bewegen, wobei sie sich oft auf bestimmte Tarntechniken spezialisieren
+- **Precision Strikes**: Schurken können **präzise Schläge** mit außergewöhnlicher Genauigkeit ausführen
+- **Perception**: Schurken entwickeln durch das Tarnungstraining scharfe Sinne und Aufmerksamkeit
+- **Adaptability**: Schurken können sich schnell an veränderte Situationen und Umgebungen anpassen
+- **Discipline**: Schurken halten rigorose Trainingsprogramme ein, um ihre Tarnfähigkeiten aufrechtzuerhalten
 
-## Rogue Guilds
+## Schurken-Gilden
 
-Rogue society is organized into numerous guilds, each with its own specialties and techniques:
+Die Schurkengesellschaft ist in zahlreiche Gilden organisiert, von denen jede ihre eigenen Spezialitäten und Techniken hat:
 
-| Guild | Specialty | Territory | Notable Traits |
+| Gilde | Spezialität | Territorium | Bemerkenswerte Eigenschaften |
 |---------|---------------|---------|-------------------|
-| **Shadow Network** | Information gathering, espionage | Urban centers | Information brokering, espionage |
-| **Silent Blades** | Assassination, elimination | Various locations | Silent kills, target elimination |
-| **Trickster's Guild** | Deception, confidence games | Urban centers | Confidence schemes, deception |
-| **Night Walkers** | Stealth, infiltration | Various locations | Stealth techniques, infiltration |
-| **Shadow Scouts** | Exploration, reconnaissance | Wilderness regions | Exploration, reconnaissance |
-| **Veiled Daggers** | Combat from stealth, shadow fighting | Various locations | Stealth combat, shadow techniques |
+| **Shadow Network** | Informationsbeschaffung, Spionage | Städtische Zentren | Informationsvermittlung, Spionage |
+| **Silent Blades** | Attentat, Eliminierung | Verschiedene Standorte | Lautlose Tötungen, Zieleliminierung |
+| **Trickster's Guild** | Täuschung, Vertrauensspiele | Städtische Zentren | Vertrauensbetrug, Täuschung |
+| **Night Walkers** | Tarnung, Infiltration | Verschiedene Standorte | Tarntechniken, Infiltration |
+| **Shadow Scouts** | Erkundung, Aufklärung | Wildnisregionen | Erkundung, Aufklärung |
+| **Veiled Daggers** | Kampf aus dem Verborgenen, Schattenkampf | Verschiedene Standorte | Tarnkampf, Schattentechniken |
 
-Understanding the nature of **rogues** provides insight into the subtle aspects of the world of **OpenFantasy**, like listening to the quiet melodies that move unseen through the symphony of existence. 
+Das Verständnis der Natur von **Schurken** gibt Einblicke in die subtilen Aspekte der Welt von **OpenFantasy**, wie das Hören auf die leisen Melodien, die sich ungesehen durch die Symphonie der Existenz bewegen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,151 +1,155 @@
-# **The School of Divination**
+# **Die Schule der Weissagung** (The School of Divination)
 
-> *"To see beyond sight is to understand that time and space are but suggestions to those who know how to listen."*  
-> — Archmage Thalindra Starwhisper, Oracle of the Seventh Veil
+> *"Über das Sehen hinauszusehen bedeutet zu verstehen, dass Zeit und Raum nur Vorschläge für diejenigen sind, die wissen, wie man zuhört."*
+> — Erzmagierin Thalindra Sternenflüstern (Thalindra Starwhisper), Orakel des Siebten Schleiers
 
-## Overview
+## Überblick (Overview)
 
-Divination magic focuses on gaining insight, knowledge, and understanding beyond ordinary perception. Unlike illusion magic which creates false perceptions, divination enhances and extends perception to reveal hidden truths about the past, present, and possible futures. Divination is considered one of the most subtle and complex magical arts, requiring exceptional mana control and mental discipline.
+Weissagungsmagie konzentriert sich darauf, Einsichten, Wissen und Verständnis jenseits der normalen Wahrnehmung zu erlangen. Im Gegensatz zur Illusionsmagie, die falsche Wahrnehmungen erzeugt, erweitert und verbessert die Weissagung die Wahrnehmung, um verborgene Wahrheiten über die Vergangenheit, die Gegenwart und mögliche Zukünfte zu enthüllen. Die Weissagung gilt als eine der subtilsten und komplexesten magischen Künste, die außergewöhnliche Manakontrolle und mentale Disziplin erfordert.
 
-## Fundamental Principles
+## Grundlegende Prinzipien (Fundamental Principles)
 
-### The Threads of Fate
+### Die Fäden des Schicksals (The Threads of Fate)
 
-Divination operates on the principle that all events, objects, and beings are connected by invisible threads of causality and resonance. These "Threads of Fate" contain information about their connections, origins, and potential futures. Divination magic allows practitioners to perceive and interpret these threads.
+Die Weissagung basiert auf dem Prinzip, dass alle Ereignisse, Objekte und Wesen durch unsichtbare Fäden der Kausalität und Resonanz miteinander verbunden sind. Diese "Fäden des Schicksals" (Threads of Fate) enthalten Informationen über ihre Verbindungen, Ursprünge und potenziellen Zukünfte. Die Weissagungsmagie ermöglicht es den Praktizierenden, diese Fäden wahrzunehmen und zu interpretieren.
 
-The four fundamental aspects of divinatory perception are:
+Die vier grundlegenden Aspekte der weissagerischen Wahrnehmung sind:
 
-1. **Temporal Echoes**: Residual information from past events
-2. **Spatial Connections**: Links between related objects, places, and beings
-3. **Causal Patterns**: The web of cause and effect that shapes events
-4. **Potential Futures**: Probability streams of what may come to pass
+1.  **Zeitliche Echos** (Temporal Echoes): Restinformationen aus vergangenen Ereignissen
+2.  **Räumliche Verbindungen** (Spatial Connections): Verbindungen zwischen verwandten Objekten, Orten und Wesen
+3.  **Kausale Muster** (Causal Patterns): Das Netz von Ursache und Wirkung, das Ereignisse prägt
+4.  **Potenzielle Zukünfte** (Potential Futures): Wahrscheinlichkeitsströme dessen, was geschehen könnte
 
-### Mana Requirements
+### Mana-Anforderungen (Mana Requirements)
 
-Divination magic requires precise mana composition:
+Weissagungsmagie erfordert eine präzise Manakomposition:
 
-| Divinatory Focus | Primary Mana | Secondary Mana | Purpose |
-|------------------|-------------|----------------|---------|
-| Present Sensing | Base Mana (50-70%) | Varies by target | Foundation for perception extension |
-| Past Viewing | Chronomana (40-60%) | Base Mana (30-40%) | Accessing temporal echoes |
-| Future Glimpsing | Chronomana (60-80%) | Umbramana (10-20%) | Probability stream navigation |
-| Object Reading | Base Mana (40-60%) | Terramana (30-40%) | Material memory extraction |
-| Life Reading | Base Mana (30-50%) | Floramana/Faunamana (40-50%) | Biological connection tracing |
-| Distant Viewing | Aeromana (50-70%) | Base Mana (20-30%) | Spatial perception extension |
+| Weissagerischer Fokus (Divinatory Focus) | Primäres Mana (Primary Mana) | Sekundäres Mana (Secondary Mana) | Zweck (Purpose) |
+|---------------------------------------|----------------------------|-----------------------------------|--------------------|
+| Gegenwärtiges Erfassen (Present Sensing) | Basis-Mana (Base Mana) (50-70%) | Variiert je nach Ziel (Varies by target) | Grundlage für Wahrnehmungserweiterung (Foundation for perception extension) |
+| Vergangenes Betrachten (Past Viewing) | Chronomana (40-60%) | Basis-Mana (Base Mana) (30-40%) | Zugriff auf zeitliche Echos (Accessing temporal echoes) |
+| Zukünftiges Erhaschen (Future Glimpsing) | Chronomana (60-80%) | Umbramana (10-20%) | Navigation von Wahrscheinlichkeitsströmen (Probability stream navigation) |
+| Objekt-Lesen (Object Reading) | Basis-Mana (Base Mana) (40-60%) | Terramana (30-40%) | Materialspeicher-Extraktion (Material memory extraction) |
+| Lebens-Lesen (Life Reading) | Basis-Mana (Base Mana) (30-50%) | Floramana/Faunamana (40-50%) | Biologische Verbindungs-Verfolgung (Biological connection tracing) |
+| Fernansicht (Distant Viewing) | Aeromana (50-70%) | Basis-Mana (Base Mana) (20-30%) | Erweiterung der räumlichen Wahrnehmung (Spatial perception extension) |
 
-More powerful divination spells often require complex harmonization of multiple mana types, with precise ratios that must be maintained throughout the casting process.
+Mächtigere Weissagungszauber erfordern oft eine komplexe Harmonisierung mehrerer Manatypen mit präzisen Verhältnissen, die während des gesamten Zaubervorgangs aufrechterhalten werden müssen.
 
-### Wild Mana Interference
+### Wildes Mana-Einmischung (Wild Mana Interference)
 
-Divination is extraordinarily vulnerable to Wild Mana contamination. The unpatterned nature of Wild Mana creates "false threads" that can lead to inaccurate readings or dangerous misinterpretations. Effects include:
+Die Weissagung ist außerordentlich anfällig für Wildes Mana (Wild Mana)-Kontamination. Die ungemusterte Natur von Wildem Mana (Wild Mana) erzeugt "falsche Fäden" (false threads), die zu ungenauen Lesungen oder gefährlichen Fehlinterpretationen führen können. Zu den Auswirkungen gehören:
 
-- **Temporal Distortion**: Viewing events from incorrect time periods
-- **False Positives**: Seeing connections that don't actually exist
-- **Probability Cascade**: Overwhelming the caster with multiple conflicting futures
-- **Perceptual Anchoring**: The caster becoming trapped in a divinatory vision
+-   **Zeitliche Verzerrung** (Temporal Distortion): Betrachten von Ereignissen aus falschen Zeiträumen
+-   **Falsch Positive** (False Positives): Sehen von Verbindungen, die in Wirklichkeit nicht existieren
+-   **Wahrscheinlichkeits-Kaskade** (Probability Cascade): Überwältigung des Zauberwirkers mit mehreren widersprüchlichen Zukünften
+-   **Wahrnehmungs-Verankerung** (Perceptual Anchoring): Der Zauberwirker wird in einer weissagerischen Vision gefangen
 
-Advanced practitioners develop specialized Wild Mana filtering techniques to minimize these risks.
+Fortgeschrittene Praktizierende entwickeln spezielle Filtertechniken für Wildes Mana (Wild Mana), um diese Risiken zu minimieren.
 
-## Mana Purification for Divination
+## Mana-Reinigung für die Weissagung (Mana Purification for Divination)
 
-Divination requires exceptionally high mana purity due to the subtle nature of the information being accessed. The purification process focuses on achieving "Perceptual Clarity" - a state where the mana is refined to eliminate any elements that would create false perceptions.
+Die Weissagung erfordert eine außergewöhnlich hohe Manareinheit aufgrund der subtilen Natur der Informationen, auf die zugegriffen wird. Der Reinigungsprozess konzentriert sich auf die Erreichung von "Wahrnehmungsklarheit" (Perceptual Clarity) - einem Zustand, in dem das Mana verfeinert wird, um alle Elemente zu eliminieren, die falsche Wahrnehmungen erzeugen würden.
 
-| Purification Level | Divination Capability |
-|--------------------|----------------------|
-| Basic (20-30%) | Simple object reading and magical detection |
-| Intermediate (35-50%) | Short-range scrying and basic past viewing |
-| Advanced (55-70%) | Reliable future glimpsing and detailed past viewing |
-| Master (75-85%) | Long-range viewing with high accuracy and clarity |
-| Grandmaster (90%+) | Multi-temporal perception and probability manipulation |
+| Reinigungsstufe (Purification Level) | Weissagungsfähigkeit (Divination Capability) |
+|----------------------------------------|--------------------------------------------|
+| Grundlegend (Basic) (20-30%) | Einfaches Objekt-Lesen und magische Erkennung (Simple object reading and magical detection) |
+| Mittel (Intermediate) (35-50%) | Kurzstrecken-Wahrsagerei und grundlegendes Betrachten der Vergangenheit (Short-range scrying and basic past viewing) |
+| Fortgeschritten (Advanced) (55-70%) | Zuverlässiges Erhaschen von Zukunftsvisionen und detailliertes Betrachten der Vergangenheit (Reliable future glimpsing and detailed past viewing) |
+| Meister (Master) (75-85%) | Fernsicht mit hoher Genauigkeit und Klarheit (Long-range viewing with high accuracy and clarity) |
+| Großmeister (Grandmaster) (90%+) | Multi-temporale Wahrnehmung und Wahrscheinlichkeitsmanipulation (Multi-temporal perception and probability manipulation) |
 
-## Magical Resonance in Divination
+## Magische Resonanz in der Weissagung (Magical Resonance in Divination)
 
-Divination exhibits unique resonance patterns described as "harmonic perception" - where the mana pattern synchronizes with the information being sought, allowing it to be perceived and interpreted by the caster.
+Die Weissagung weist einzigartige Resonanzmuster auf, die als "harmonische Wahrnehmung" (harmonic perception) beschrieben werden - wobei das Mana-Muster mit den gesuchten Informationen synchronisiert wird, so dass es vom Zauberwirker wahrgenommen und interpretiert werden kann.
 
-This resonance is highly personal, which is why divination results can vary between practitioners even when viewing the same target. Each diviner develops a unique "perceptual signature" that colors their interpretation of divinatory information.
+Diese Resonanz ist sehr persönlich, weshalb die Weissagungsergebnisse zwischen den Praktizierenden variieren können, selbst wenn sie dasselbe Ziel betrachten. Jeder Wahrsager entwickelt eine einzigartige "Wahrnehmungssignatur" (perceptual signature), die seine Interpretation der weissagerischen Informationen färbt.
 
-## Specialized Disciplines
+## Spezialisierte Disziplinen (Specialized Disciplines)
 
-### Chronomancy
+### Chronomanie (Chronomancy)
 
-Focused on viewing events across time, particularly the past and possible futures. Practitioners are known as Chronoseers.
+Konzentriert sich auf die Betrachtung von Ereignissen im Laufe der Zeit, insbesondere der Vergangenheit und möglicher Zukünfte. Die Praktizierenden werden als Chronoseher (Chronoseers) bezeichnet.
 
-### Psychometry
+### Psychometrie (Psychometry)
 
-The art of reading objects to perceive information about their history, owners, and significance. Masters are called Memoryreaders.
+Die Kunst, Objekte zu lesen, um Informationen über ihre Geschichte, ihre Besitzer und ihre Bedeutung wahrzunehmen. Meister werden als Gedächtnisleser (Memoryreaders) bezeichnet.
 
-### Spatial Scrying
+### Räumliche Wahrsagerei (Spatial Scrying)
 
-Specializes in viewing distant locations in the present moment. Practitioners are known as Farseers.
+Spezialisiert auf die Betrachtung entfernter Orte im gegenwärtigen Moment. Die Praktizierenden werden als Fernseher (Farseers) bezeichnet.
 
-### Auramancy
+### Auramantie (Auramancy)
 
-The discipline of perceiving and interpreting the magical and life energies that surround beings. Practitioners are called Aurasights.
+Die Disziplin der Wahrnehmung und Interpretation der magischen und Lebensenergien, die Wesen umgeben. Die Praktizierenden werden als Aurasichtige (Aurasights) bezeichnet.
 
-### Probability Mapping
+### Wahrscheinlichkeits-Mapping (Probability Mapping)
 
-Advanced discipline focused on identifying and navigating potential futures. Masters are known as Fateweavers.
+Fortgeschrittene Disziplin, die sich auf die Identifizierung und Navigation potenzieller Zukünfte konzentriert. Meister werden als Schicksalsweber (Fateweavers) bezeichnet.
 
-## Training Methodology
+## Ausbildungsmethodik (Training Methodology)
 
-Divination training follows a methodical progression:
+Die Weissagungsausbildung folgt einem methodischen Fortschritt:
 
-1. **Perceptual Expansion**: Learning to extend awareness beyond physical senses
-2. **Signal Isolation**: Developing the ability to focus on specific information threads
-3. **Wild Mana Filtering**: Techniques for eliminating perceptual contamination
-4. **Temporal Navigation**: Methods for shifting perceptual focus through time
-5. **Interpretation Rigor**: Developing systematic approaches to analyzing divinatory information
-6. **Multi-Threading**: Advanced techniques for following multiple information streams
-7. **Anchoring Practices**: Methods to maintain connection to present reality during deep divination
+1.  **Wahrnehmungserweiterung** (Perceptual Expansion): Erlernen, das Bewusstsein über die physischen Sinne hinaus zu erweitern
+2.  **Signalisolierung** (Signal Isolation): Entwicklung der Fähigkeit, sich auf bestimmte Informationsfäden zu konzentrieren
+3.  **Wildes Mana (Wild Mana)-Filterung** (Wild Mana Filtering): Techniken zur Beseitigung von Wahrnehmungs-Kontamination
+4.  **Zeitliche Navigation** (Temporal Navigation): Methoden zur Verlagerung des Wahrnehmungsfokus durch die Zeit
+5.  **Interpretationsstrenge** (Interpretation Rigor): Entwicklung systematischer Ansätze zur Analyse weissagerischer Informationen
+6.  **Mehrfädigkeit** (Multi-Threading): Fortgeschrittene Techniken zum Verfolgen mehrerer Informationsströme
+7.  **Verankerungspraktiken** (Anchoring Practices): Methoden, um die Verbindung zur gegenwärtigen Realität während tiefer Weissagung aufrechtzuerhalten
 
-## Ethical Considerations
+## Ethische Überlegungen (Ethical Considerations)
 
-Divination raises significant ethical concerns regarding privacy, free will, and responsibility:
+Die Weissagung wirft erhebliche ethische Bedenken hinsichtlich Privatsphäre, freiem Willen und Verantwortung auf:
 
-- **Perceptual Consent**: The question of whether viewing others without permission violates their autonomy
-- **Future Knowledge**: The ethical implications of acting on knowledge of potential futures
-- **Intervention Responsibility**: Whether diviners have an obligation to prevent foreseen harms
-- **Truth Disclosure**: Guidelines about sharing potentially harmful divinatory information
+-   **Wahrnehmungszustimmung** (Perceptual Consent): Die Frage, ob die Betrachtung anderer ohne Erlaubnis ihre Autonomie verletzt
+-   **Zukunftswissen** (Future Knowledge): Die ethischen Implikationen des Handelns aufgrund von Kenntnissen über potenzielle Zukünfte
+-   **Interventionsverantwortung** (Intervention Responsibility): Ob Wahrsager eine Verpflichtung haben, vorhergesehenen Schaden zu verhindern
+-   **Wahrheitsaufdeckung** (Truth Disclosure): Richtlinien für die Weitergabe potenziell schädlicher weissagerischer Informationen
 
-Most reputable magical institutions enforce strict codes of conduct for diviners, including restrictions on divining private moments and requirements to report certain categories of foreseen threats.
+Die meisten angesehenen magischen Institutionen setzen strenge Verhaltensregeln für Wahrsager durch, einschließlich Beschränkungen der Weissagung privater Momente und der Verpflichtung, bestimmte Kategorien vorhergesehener Bedrohungen zu melden.
 
-## Limitations and Countermeasures
+## Einschränkungen und Gegenmaßnahmen (Limitations and Countermeasures)
 
-Despite its power, divination has inherent limitations:
+Trotz ihrer Macht hat die Weissagung inhärente Einschränkungen:
 
-- **Probability Flux**: Future events exist as probability streams that can shift based on choices
-- **Perceptual Filters**: The diviner's own biases can affect interpretation
-- **Energy Requirements**: Powerful divination requires significant mana and mental focus
-- **Temporal Distance**: Greater temporal or spatial distance increases difficulty and reduces accuracy
+-   **Wahrscheinlichkeitsfluss** (Probability Flux): Zukünftige Ereignisse existieren als Wahrscheinlichkeitsströme, die sich aufgrund von Entscheidungen verschieben können
+-   **Wahrnehmungsfilter** (Perceptual Filters): Die eigenen Vorurteile des Wahrsagers können die Interpretation beeinflussen
+-   **Energiebedarf** (Energy Requirements): Mächtige Weissagung erfordert erhebliches Mana und mentale Konzentration
+-   **Zeitliche Distanz** (Temporal Distance): Eine größere zeitliche oder räumliche Distanz erhöht die Schwierigkeit und reduziert die Genauigkeit
 
-Common countermeasures against unwanted divination include:
+Gängige Gegenmaßnahmen gegen unerwünschte Weissagung sind:
 
-- **Veiling**: Spells that obscure objects or beings from divinatory perception
-- **Thread Severing**: Techniques that break connections that diviners might follow
-- **Pattern Disruption**: Methods that create confusing or misleading information patterns
-- **Wild Mana Saturation**: Creating local concentrations of Wild Mana to introduce false signals
+-   **Verschleierung** (Veiling): Zauber, die Objekte oder Wesen vor weissagerischer Wahrnehmung verbergen
+-   **Faden-Durchtrennung** (Thread Severing): Techniken, die Verbindungen unterbrechen, denen Wahrsager folgen könnten
+-   **Musterstörung** (Pattern Disruption): Methoden, die verwirrende oder irreführende Informationsmuster erzeugen
+-   **Wildes Mana (Wild Mana)-Sättigung** (Wild Mana Saturation): Erzeugung lokaler Konzentrationen von Wildem Mana (Wild Mana), um falsche Signale einzuführen
 
-## Musical Analogy
+## Musikalische Analogie (Musical Analogy)
 
-In the musical framework of magic, divination is akin to active listening - the art of discerning specific instruments, harmonies, and melodies within a complex orchestration. The diviner must tune their perception to the specific "frequency" of the information they seek, filtering out background noise.
+Im musikalischen Rahmen der Magie ist die Weissagung mit aktivem Zuhören vergleichbar - der Kunst, bestimmte Instrumente, Harmonien und Melodien innerhalb einer komplexen Orchestrierung zu erkennen. Der Wahrsager muss seine Wahrnehmung auf die spezifische "Frequenz" (frequency) der gesuchten Informationen einstellen und dabei Hintergrundgeräusche herausfiltern.
 
-Master diviners describe their craft as finding the silent spaces between notes, where the future and past whisper their secrets. Like a conductor who can hear a single out-of-tune instrument in a full orchestra, the skilled diviner can identify the specific thread of information they seek amidst the countless connections that bind reality together.
+Meisterwahrsager beschreiben ihr Handwerk als das Finden der stillen Räume zwischen den Noten, in denen die Zukunft und die Vergangenheit ihre Geheimnisse flüstern. Wie ein Dirigent, der ein einzelnes verstimmtes Instrument in einem vollen Orchester hören kann, kann der geschickte Wahrsager den spezifischen Informationsfaden identifizieren, den er inmitten der unzähligen Verbindungen sucht, die die Realität zusammenhalten.
 
-## Notable Practitioners
+## Bemerkenswerte Praktizierende (Notable Practitioners)
 
-- **Thalindra Starwhisper**: Developer of the Stellar Divination system and author of "Voices Beyond Time"
-- **Eldrin Truthseeker**: Creator of the Magic Sense spell and pioneer of magical energy detection
-- **Sylarion Fatecaller**: Master of Probability Mapping who accurately predicted the Fall of Caelum
-- **Moira Veilwalker**: Renowned for developing Wild Mana filtering techniques for divination
+-   **Thalindra Sternenflüstern** (Thalindra Starwhisper): Entwicklerin des Stellar Divination-Systems und Autorin von "Stimmen jenseits der Zeit" ("Voices Beyond Time")
+-   **Eldrin Wahrheitssucher** (Eldrin Truthseeker): Schöpfer des Zaubers Magisches Gespür (Magic Sense) und Pionier der magischen Energieerkennung
+-   **Sylarion Schicksalsrufer** (Sylarion Fatecaller): Meister des Wahrscheinlichkeits-Mapping (Probability Mapping), der den Fall von Caelum genau vorhersagte
+-   **Moira Schleierwandlerin** (Moira Veilwalker): Bekannt für die Entwicklung von Wildes Mana (Wild Mana)-Filtertechniken für die Weissagung
 
-## Historical Development
+## Historische Entwicklung (Historical Development)
 
-Divination is one of the oldest magical disciplines, with evidence of formalized practice dating to the First Age. Early divination focused primarily on weather prediction, hunting success, and tribal fate, developing from shamanic traditions.
+Die Weissagung ist eine der ältesten magischen Disziplinen, mit Beweisen für eine formalisierte Praxis, die bis ins Erste Zeitalter (First Age) zurückreicht. Die frühe Weissagung konzentrierte sich hauptsächlich auf Wettervorhersage, Jagderfolg und Stammesgeschichte und entwickelte sich aus schamanischen Traditionen.
 
-The Second Age saw the emergence of systematic divination theory with the writing of "The Threads That Bind" by Archseer Elindor. This established the fundamental conceptual framework still used in modern practice.
+Das Zweite Zeitalter (Second Age) sah die Entstehung einer systematischen Weissagungstheorie mit der Schrift "Die Fäden, die verbinden" ("The Threads That Bind") von Erzseher Elindor. Dies etablierte den grundlegenden konzeptionellen Rahmen, der noch heute in der modernen Praxis verwendet wird.
 
-The Third Age brought technological and theoretical advances, particularly in the area of Wild Mana filtering and probability navigation. Modern divination continues to evolve, with increasing integration with other magical disciplines such as enchantment and warding.
+Das Dritte Zeitalter (Third Age) brachte technologische und theoretische Fortschritte, insbesondere im Bereich der Wildes Mana (Wild Mana)-Filterung und der Wahrscheinlichkeitsnavigation. Die moderne Weissagung entwickelt sich ständig weiter, mit zunehmender Integration in andere magische Disziplinen wie Verzauberung und Schutzzauber.
 
 ---
 
-*See also: [Magic Sense](/codex/Magics/Spells/Divination/MagicSense.md), [Temporal Magic](/codex/Magics/Domains/Temporal.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*Siehe auch: [Magisches Gespür](/codex/Magics/Spells/Divination/MagicSense.md) (Magic Sense), [Zeitmagie](/codex/Magics/Domains/Temporal.md) (Temporal Magic), [Mana-Reinigung](/codex/Magics/ManaMechanics.md) (Mana Purification)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

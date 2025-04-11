@@ -1,90 +1,94 @@
-# **Elves**: The Eternal Seekers of Wisdom
+# **Elves** (Elfen): Die ewigen Sucher der Weisheit
 
-[**Elves**](/codex/Creatures/Elves.md) are the eternal seekers of wisdom, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a flute that plays an endless melody, they embody grace and magical prowess, creating a unique harmony of existence that emphasizes longevity, knowledge, and magical mastery.
+[**Elves**](/codex/Creatures/Elves.md) (Elfen) sind die ewigen Sucher der Weisheit, deren Körper eine harmonische Mischung aus [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md) (Seelen) und **Mana Capacity** (Manakapazität) darstellt. Wie eine Flöte, die eine endlose Melodie spielt, verkörpern sie Anmut und magisches Können und erschaffen eine einzigartige Harmonie der Existenz, die Langlebigkeit, Wissen und magische Meisterschaft betont.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **elves** forms a harmony that favors magical prowess:
+Wie in [Creatures](/codex/Creatures/Creatures.md) (Kreaturen) beschrieben, bildet das typische Verhältnis für **elves** (Elfen) eine Harmonie, die magisches Können begünstigt:
 
-| Element | Range | Function |
+| Element (Element) | Range (Bereich) | Function (Funktion) |
 |---------|------------|----------|
-| **Exanthis** | 15-40% | The crystalline heart that provides graceful physical form and moderate durability |
-| **Soul** | 5-15% | The ethereal essence that shapes a focused and analytical consciousness |
-| **Mana Capacity** | 50-80% | The bridge between worlds that enables exceptional magical potential |
+| **Exanthis** | 15-40% | Das kristalline Herz, das eine anmutige physische Form und moderate Haltbarkeit bietet |
+| **Soul** (Seele) | 5-15% | Die ätherische Essenz, die ein fokussiertes und analytisches Bewusstsein formt |
+| **Mana Capacity** (Manakapazität) | 50-80% | Die Brücke zwischen den Welten, die außergewöhnliches magisches Potenzial ermöglicht |
 
-This composition grants **elves** their characteristic magical prowess and longevity but limits their physical strength compared to other species, like a delicate instrument that produces complex melodies but cannot match the power of a drum.
+Diese Zusammensetzung verleiht **elves** (Elfen) ihr charakteristisches magisches Können und ihre Langlebigkeit, schränkt aber ihre körperliche Stärke im Vergleich zu anderen Spezies ein, wie ein zartes Instrument, das komplexe Melodien erzeugt, aber nicht mit der Kraft einer Trommel mithalten kann.
 
-### Individual Variations
+### Individuelle Variationen
 
-While the model composition represents the typical elf, individual variations exist:
+Während die Modellzusammensetzung den typischen Elfen darstellt, gibt es individuelle Variationen:
 
-- **Archmages**: Some elves possess Mana Capacity as high as 85%, making them among the most powerful spellcasters in existence but physically vulnerable with as little as 10% Exanthis.
-- **Warrior Elves**: A rare subset has Exanthis levels approaching 45%, allowing them to excel in physical combat while still maintaining significant magical abilities (45% Mana Capacity).
-- **Soul Seekers**: Those with higher Soul percentages (up to 20%) develop exceptional empathy and connection to the spiritual realm, often becoming powerful healers or spiritual guides.
-- **Balanced Elves**: Some individuals maintain a more balanced composition (30% Exanthis, 10% Soul, 60% Mana Capacity), allowing them to adapt to various roles within elven society.
-- **Spell Blades**: A specialized composition of (25% Exanthis, 5% Soul, 70% Mana Capacity) creates elves who can channel powerful magic through physical combat techniques.
+- **Archmages** (Erzmagier): Einige Elfen besitzen eine Mana Capacity (Manakapazität) von bis zu 85%, was sie zu den mächtigsten Zauberern macht, die es gibt, aber körperlich verletzlich mit nur 10% Exanthis.
+- **Warrior Elves** (Kriegerelfen): Eine seltene Untergruppe hat Exanthis-Werte von fast 45%, was es ihnen ermöglicht, sich im physischen Kampf hervorzutun und gleichzeitig bedeutende magische Fähigkeiten (45% Mana Capacity (Manakapazität)) beizubehalten.
+- **Soul Seekers** (Seelensucher): Diejenigen mit höheren Soul (Seelen)-Prozentsätzen (bis zu 20%) entwickeln außergewöhnliche Empathie und Verbindung zur spirituellen Welt und werden oft zu mächtigen Heilern oder spirituellen Führern.
+- **Balanced Elves** (Ausgeglichene Elfen): Einige Individuen behalten eine ausgeglichenere Zusammensetzung bei (30% Exanthis, 10% Soul (Seele), 60% Mana Capacity (Manakapazität)), wodurch sie sich an verschiedene Rollen innerhalb der Elfengesellschaft anpassen können.
+- **Spell Blades** (Zauberklingen): Eine spezielle Zusammensetzung von (25% Exanthis, 5% Soul (Seele), 70% Mana Capacity (Manakapazität)) erschafft Elfen, die mächtige Magie durch physische Kampftechniken kanalisieren können.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Elves** are known for their ethereal beauty and graceful movements:
-- Tall and slender, with proportions that seem to defy gravity
-- Eyes that shimmer with inner light, reflecting their connection to **Mana**
-- Ears that extend slightly upward, attuned to the subtle harmonies of magic
-- Skin that seems to glow faintly in moonlight, like a pearl catching starlight
-- Hair that flows with an otherworldly grace, often in shades of silver, gold, or the colors of autumn
+**Elves** (Elfen) sind bekannt für ihre ätherische Schönheit und anmutigen Bewegungen:
+- Groß und schlank, mit Proportionen, die der Schwerkraft zu trotzen scheinen
+- Augen, die mit innerem Licht schimmern und ihre Verbindung zu **Mana** widerspiegeln
+- Ohren, die sich leicht nach oben erstrecken, abgestimmt auf die subtilen Harmonien der Magie
+- Haut, die im Mondlicht schwach zu leuchten scheint, wie eine Perle, die Sternenlicht einfängt
+- Haar, das mit einer überweltlichen Anmut fließt, oft in Schattierungen von Silber, Gold oder den Farben des Herbstes
 
-## Magical Affinity
+## Magische Affinität
 
-**Elves** demonstrate exceptional proficiency in manipulating **Mana**, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Store vast amounts of **Mana** within their mana reservoirs, like deep wells of liquid light
-- Achieve extraordinary purity levels in spell casting, like artists painting with pure starlight
-- Specialize in specific magical disciplines with unparalleled mastery, like composers who have perfected a particular style
+**Elves** (Elfen) zeigen außergewöhnliche Fähigkeiten bei der Manipulation von **Mana**, wie virtuose Musiker, die ihre Instrumente gemeistert haben. Ihre Zusammensetzung ermöglicht es ihnen:
+- Riesige Mengen an **Mana** in ihren Mana-Reservoirs zu speichern, wie tiefe Brunnen aus flüssigem Licht
+- Außergewöhnliche Reinheitsgrade beim Zaubern zu erreichen, wie Künstler, die mit reinem Sternenlicht malen
+- Sich mit beispielloser Meisterschaft auf bestimmte magische Disziplinen zu spezialisieren, wie Komponisten, die einen bestimmten Stil perfektioniert haben
 
-This specialization makes **elves** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with disciplines outside their expertise, like a classical musician who cannot improvise jazz.
+Diese Spezialisierung macht **elves** (Elfen) in der Lage, die höchsten Grade an Können in ihren gewählten magischen Traditionen zu erreichen, obwohl sie mit Disziplinen außerhalb ihrer Expertise zu kämpfen haben, wie ein klassischer Musiker, der keinen Jazz improvisieren kann.
 
-## Lifespan and Soul Decay
+## Lebensspanne und Seelenzerfall
 
-The **soul decay** timeline for **elves**, from birth to complete decay, is approximately 1000 years, like a slow-burning candle that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+Die **soul decay** (Seelenzerfall)-Zeitleiste für **elves** (Elfen), von der Geburt bis zum vollständigen Zerfall, beträgt ungefähr 1000 Jahre, wie eine langsam brennende Kerze, die die Zeitalter erleuchtet. Diese verlängerte Lebensspanne ermöglicht es ihnen:
+- Über Jahrhunderte hinweg enormes Wissen und Weisheit anzusammeln
+- Tiefe Verbindungen zu bestimmten Orten und magischen Traditionen zu entwickeln
+- Komplexe Gesellschaften mit komplizierten Bräuchen und Ritualen zu bilden
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Ihr langsamerer Soul Decay (Seelenzerfall) bedeutet jedoch auch, dass sie sich langsamer verändern und anpassen als andere Spezies, wie eine Melodie, die schön bleibt, aber sich durch die Zeitalter nicht verändert.
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**Elves** primarily inhabit:
-- **Eastern Veldrassil**, where the currents of **Mana** flow most intensely
-- Ancient forests and magical groves, where the boundaries between worlds grow thin
-- Floating islands and crystal spires, where they can be closer to the celestial harmonies
+**Elves** (Elfen) bewohnen hauptsächlich:
+- **Eastern Veldrassil** (Östliches Veldrassil), wo die Ströme von **Mana** am stärksten fließen
+- Alte Wälder und magische Haine, wo die Grenzen zwischen den Welten dünn werden
+- Schwebende Inseln und Kristallspitzen, wo sie den himmlischen Harmonien näher sein können
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Diese Orte bieten ideale Umgebungen für magische Studien und spirituelle Kontemplation, wie eine perfekte Akustik für eine Symphonie.
 
-## Cultural Impact
+## Kultureller Einfluss
 
-In the world of **OpenFantasy**, **elves** play a crucial role in preserving ancient knowledge and magical traditions, like archivists of forgotten melodies. Their societies are centers of:
-- Arcane research and magical innovation
-- Spiritual wisdom and philosophical contemplation
-- Artistic expression and aesthetic refinement
+In der Welt von OpenFantasy spielen **elves** (Elfen) eine entscheidende Rolle bei der Bewahrung alten Wissens und magischer Traditionen, wie Archivare vergessener Melodien. Ihre Gesellschaften sind Zentren von:
+- Arkaner Forschung und magischer Innovation
+- Spiritueller Weisheit und philosophischer Kontemplation
+- Künstlerischem Ausdruck und ästhetischer Verfeinerung
 
-The proximity to the strongest currents of **Mana** has shaped elven culture around the study and mastery of magic, creating a society where magical ability is the highest form of achievement.
+Die Nähe zu den stärksten Strömen von **Mana** hat die Elfenkultur um das Studium und die Beherrschung der Magie geformt und eine Gesellschaft geschaffen, in der magische Fähigkeit die höchste Form der Leistung ist.
 
-## Relationship with Other Species
+## Beziehung zu anderen Spezies
 
-**Elves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their short-sightedness
-- With **Dwarves**: A historical rivalry born from their different approaches to the world
-- With **Fae**: A deep connection based on shared magical affinities
-- With **Beastfolk**: A respectful distance, acknowledging their primal strength
+**Elves** (Elfen) pflegen komplexe Beziehungen zu anderen Spezies:
+- Mit [**Humans**](/codex/Creatures/Human.md) (Menschen): Eine Mischung aus Respekt für ihre Anpassungsfähigkeit und Frustration über ihre Kurzsichtigkeit
+- Mit **Dwarves** (Zwergen): Eine historische Rivalität, die aus ihren unterschiedlichen Herangehensweisen an die Welt entstanden ist
+- Mit **Fae** (Feen): Eine tiefe Verbindung, die auf gemeinsamen magischen Affinitäten basiert
+- Mit **Beastfolk** (Tiermenschen): Eine respektvolle Distanz, die ihre Urstärke anerkennt
 
-These relationships are often characterized by a sense of cultural superiority, as **elves** view themselves as the guardians of ancient wisdom and magical traditions.
+Diese Beziehungen sind oft von einem Gefühl kultureller Überlegenheit geprägt, da **elves** (Elfen) sich selbst als die Hüter alten Wissens und magischer Traditionen betrachten.
 
-## Notable Elven Traits
+## Bemerkenswerte Elfeneigenschaften
 
-- **Magical Mastery**: Elves excel in specific magical disciplines, often specializing in one area to the exclusion of others
-- **Long Memory**: Their extended lifespans allow them to remember events and knowledge that other species have forgotten
-- **Environmental Sensitivity**: Elves are deeply attuned to their surroundings, particularly in magical environments
-- **Cultural Preservation**: Elven societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Elves have developed highly refined artistic and cultural traditions
+- **Magical Mastery** (Magische Meisterschaft): Elfen zeichnen sich in bestimmten magischen Disziplinen aus und spezialisieren sich oft auf einen Bereich unter Ausschluss anderer
+- **Long Memory** (Langes Gedächtnis): Ihre verlängerte Lebensspanne ermöglicht es ihnen, sich an Ereignisse und Wissen zu erinnern, die andere Spezies vergessen haben
+- **Environmental Sensitivity** (Umweltsensibilität): Elfen sind tief auf ihre Umgebung abgestimmt, insbesondere in magischen Umgebungen
+- **Cultural Preservation** (Kulturelle Bewahrung): Elfengesellschaften legen großen Wert auf die Bewahrung von Traditionen und Wissen
+- **Aesthetic Refinement** (Ästhetische Verfeinerung): Elfen haben hochentwickelte künstlerische und kulturelle Traditionen entwickelt
 
-Understanding the nature of **elves** provides insight into the magical aspects of the world of **OpenFantasy**, like listening to the ethereal melodies that echo through the ages. 
+Das Verständnis der Natur von **elves** (Elfen) gibt Einblicke in die magischen Aspekte der Welt von OpenFantasy, wie das Hören der ätherischen Melodien, die durch die Zeitalter hallen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

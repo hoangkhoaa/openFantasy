@@ -1,135 +1,139 @@
-# **Mage**: The Masters of Magical Arts
+# **Magier** (**Mage**): Die Meister der Magischen Künste
 
-[**Mages**](/codex/Classes/Mage/Mage.md) are the conductors of arcane energies, their being a finely tuned instrument for channeling and shaping the magical forces that permeate the world. Their existence resonates with the fundamental harmonies of magic, creating a symphony of spellcraft and mystical understanding.
+[**Magier**](/codex/Classes/Mage/Mage.md) (**Mages**) sind die Leiter arkaner Energien, deren Wesen ein fein abgestimmtes Instrument ist, um die magischen Kräfte, die die Welt durchdringen, zu kanalisieren und zu formen. Ihre Existenz schwingt mit den grundlegenden Harmonien der Magie mit und erschafft eine Symphonie aus Zauberei und mystischem Verständnis.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **mages** creates a distinctive harmony that favors magical prowess:
+Wie unter [Klassen](/codex/Classes/Classes.md) (**Classes**) detailliert beschrieben, erzeugt das typische Verhältnis für **Magier** (**mages**) eine unverwechselbare Harmonie, die magische Fähigkeiten begünstigt:
 
-| Element | Range | Function |
+| Element (**Element**) | Bereich (**Range**) | Funktion (**Function**) |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Minimal physical foundation supporting a vessel capable of containing vast magical energies |
-| **Soul** | 25-40% | Enhanced consciousness supporting complex spell formulation and magical theory |
-| **Mana Capacity** | 40-60% | Exceptional magical potential allowing for powerful and diverse spell casting |
+| **Exanthis** | 15-30% | Minimale physische Grundlage, die ein Gefäß unterstützt, das in der Lage ist, riesige magische Energien zu enthalten |
+| **Seele** (**Soul**) | 25-40% | Erweitertes Bewusstsein, das komplexe Zauberformulierungen und magische Theorien unterstützt |
+| **Mana-Kapazität** (**Mana Capacity**) | 40-60% | Außergewöhnliches magisches Potenzial, das mächtige und vielfältige Zaubersprüche ermöglicht |
 
-This composition grants **mages** their characteristic magical potency at the cost of physical resilience. Their bodies are like finely crafted instruments, designed primarily to channel and manipulate magical energies rather than endure physical hardship.
+Diese Zusammensetzung verleiht **Magiern** (**mages**) ihre charakteristische magische Potenz auf Kosten der körperlichen Widerstandsfähigkeit. Ihre Körper sind wie fein gefertigte Instrumente, die in erster Linie dazu bestimmt sind, magische Energien zu kanalisieren und zu manipulieren, anstatt körperliche Strapazen zu ertragen.
 
-### Magical Affinity Profile
+### Magisches Affinitätsprofil
 
-The substantial Mana Capacity of **mages** typically develops along specialized pathways, creating distinct magical traditions:
+Die beträchtliche Mana-Kapazität (**Mana Capacity**) von **Magiern** (**mages**) entwickelt sich typischerweise entlang spezialisierter Pfade, wodurch unterschiedliche magische Traditionen entstehen:
 
-| Mage Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Magier-Tradition (**Mage Tradition**) | Primäre Affinitäten (**Primary Affinities**) | Sekundäre Affinitäten (**Secondary Affinities**) | Typische Anwendung (**Typical Application**) |
 |-----------------|-------------------|---------------------|---------------------|
-| **Pyromancer** | Pyromana (Creation, Control) | Aeromana (Expansion) | Fire evocation, heat manipulation, combustion control |
-| **Hydromancer** | Aquamana (Adaptation, Fluidity) | Base Mana (Purification) | Water manipulation, healing, transmutation |
-| **Geomancer** | Terramana (Stability, Structure) | Base Mana (Foundation) | Earth shaping, fortification, crystallization |
-| **Aeromancer** | Aeromana (Freedom, Movement) | Base Mana (Distance) | Wind control, sound manipulation, levitation |
-| **Umbramancer** | Umbramana (Concealment, Density) | Pyromana (Consumption) | Shadow manipulation, void creation, energy absorption |
-| **Luxomancer** | Luxmana (Illumination, Clarity) | Base Mana (Precision) | Light creation, illusion, truth-seeing |
+| **Pyromant** (**Pyromancer**) | Pyromana (Erschaffung, Kontrolle) (**Pyromana (Creation, Control)**) | Aeromana (Expansion) (**Aeromana (Expansion)**) | Feuerbeschwörung, Wärmemanipulation, Verbrennungskontrolle |
+| **Hydromant** (**Hydromancer**) | Aquamana (Anpassung, Fließfähigkeit) (**Aquamana (Adaptation, Fluidity)**) | Basismana (Reinigung) (**Base Mana (Purification)**) | Wassermanipulation, Heilung, Transmutation |
+| **Geomant** (**Geomancer**) | Terramana (Stabilität, Struktur) (**Terramana (Stability, Structure)**) | Basismana (Fundament) (**Base Mana (Foundation)**) | Erdformung, Befestigung, Kristallisation |
+| **Aeromant** (**Aeromancer**) | Aeromana (Freiheit, Bewegung) (**Aeromana (Freedom, Movement)**) | Basismana (Distanz) (**Base Mana (Distance)**) | Windkontrolle, Schallmanipulation, Levitation |
+| **Umbramant** (**Umbramancer**) | Umbramana (Verbergen, Dichte) (**Umbramana (Concealment, Density)**) | Pyromana (Konsum) (**Pyromana (Consumption)**) | Schattenmanipulation, Leerenerschaffung, Energieabsorption |
+| **Luxomant** (**Luxomancer**) | Luxmana (Erleuchtung, Klarheit) (**Luxmana (Illumination, Clarity)**) | Basismana (Präzision) (**Base Mana (Precision)**) | Lichterzeugung, Illusion, Wahrheitssuche |
 
-Mages typically achieve 70-90% specialization efficiency with their primary affinities, allowing for much deeper and more nuanced manipulation than other classes. This specialization reflects their dedicated study and natural affinity for magical arts.
+Magier (**Mages**) erreichen typischerweise eine Spezialisierungseffizienz von 70-90% bei ihren primären Affinitäten, was eine viel tiefere und nuanciertere Manipulation als bei anderen Klassen ermöglicht. Diese Spezialisierung spiegelt ihr engagiertes Studium und ihre natürliche Affinität zu magischen Künsten wider.
 
-### Species-Specific Variations
+### Speziesspezifische Variationen
 
-Different species show varying natural inclinations toward the mage class:
+Verschiedene Spezies zeigen unterschiedliche natürliche Neigungen zur Magierklasse:
 
-- **Humans** (15-30% Exanthis, 25-40% Soul, 40-55% Mana Capacity): Their adaptability allows them to excel in all magical traditions, though they require more dedicated study.
-- **Elves** (15-25% Exanthis, 30-45% Soul, 45-60% Mana Capacity): Their innate connection to magic makes them natural spellcasters, particularly in nature-related magic.
-- **Gnomes** (20-30% Exanthis, 35-45% Soul, 40-55% Mana Capacity): Their intellectual curiosity makes them exceptional theoretical magicians and innovators.
-- **Sylph** (10-20% Exanthis, 25-40% Soul, 50-65% Mana Capacity): Their elemental nature gives them unparalleled affinity for aeromancy.
-- **Dragonkin** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): Their ancestral connection to dragons grants them natural talent with pyromancy.
+- **Menschen** (**Humans**) (15-30% Exanthis, 25-40% Seele (**Soul**), 40-55% Mana-Kapazität (**Mana Capacity**)): Ihre Anpassungsfähigkeit ermöglicht es ihnen, in allen magischen Traditionen hervorragende Leistungen zu erbringen, obwohl sie ein engagierteres Studium benötigen.
+- **Elfen** (**Elves**) (15-25% Exanthis, 30-45% Seele (**Soul**), 45-60% Mana-Kapazität (**Mana Capacity**)): Ihre angeborene Verbindung zur Magie macht sie zu natürlichen Zauberern, insbesondere in der naturbezogenen Magie.
+- **Gnome** (**Gnomes**) (20-30% Exanthis, 35-45% Seele (**Soul**), 40-55% Mana-Kapazität (**Mana Capacity**)): Ihre intellektuelle Neugier macht sie zu außergewöhnlichen theoretischen Magiern und Innovatoren.
+- **Sylph** (**Sylph**) (10-20% Exanthis, 25-40% Seele (**Soul**), 50-65% Mana-Kapazität (**Mana Capacity**)): Ihre elementare Natur verleiht ihnen eine beispiellose Affinität zur Aeromantie.
+- **Drachenblütige** (**Dragonkin**) (25-35% Exanthis, 20-35% Seele (**Soul**), 40-55% Mana-Kapazität (**Mana Capacity**)): Ihre Ahnenverbindung zu Drachen verleiht ihnen ein natürliches Talent für die Pyromantie.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Mages** are known for their magical focus and scholarly nature:
-- Slender build with graceful movements, like a conductor's precise gestures
-- Eyes that shimmer with inner light, showing their connection to [**Mana**](/codex/Basic/Mana.md)
-- Hands that have mastered the intricate gestures of spellcasting, like a musician who has perfected the art of the violin
-- Presence that exudes arcane power, like a powerful chord that resonates through a room
-- Stance that emphasizes focus and concentration, like a performer poised to begin a complex piece
+**Magier** (**Mages**) sind bekannt für ihren magischen Fokus und ihre Gelehrsamkeit:
+- Schlanke Statur mit anmutigen Bewegungen, wie die präzisen Gesten eines Dirigenten
+- Augen, die mit innerem Licht schimmern und ihre Verbindung zu [**Mana**](/codex/Basic/Mana.md) zeigen
+- Hände, die die komplizierten Gesten der Zauberei beherrschen, wie ein Musiker, der die Kunst der Violine perfektioniert hat
+- Präsenz, die arkane Kraft ausstrahlt, wie ein mächtiger Akkord, der durch einen Raum hallt
+- Haltung, die Fokus und Konzentration betont, wie ein Darsteller, der bereit ist, ein komplexes Stück zu beginnen
 
-## Magical Affinity
+## Magische Affinität
 
-**Mages** demonstrate exceptional proficiency in magical abilities, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Cast spells with extraordinary precision, like conductors leading an orchestra
-- Manipulate [**Mana**](/codex/Basic/Mana.md) with finesse and power, like artists painting with light and energy
-- Execute complex magical rituals with grace and efficiency, like dancers performing a magical ballet
+**Magier** (**Mages**) demonstrieren außergewöhnliche Fähigkeiten in magischen Fähigkeiten, wie Virtuosen, die ihre Instrumente beherrschen. Ihre Zusammensetzung erlaubt es ihnen:
+- Zauber mit außergewöhnlicher Präzision zu wirken, wie Dirigenten, die ein Orchester leiten
+- [**Mana**](/codex/Basic/Mana.md) mit Finesse und Kraft zu manipulieren, wie Künstler, die mit Licht und Energie malen
+- Komplexe magische Rituale mit Anmut und Effizienz auszuführen, wie Tänzer, die ein magisches Ballett aufführen
 
-This specialization makes **mages** capable of achieving the highest levels of proficiency in their chosen magical disciplines, though they may struggle with tasks requiring physical strength or endurance, like a delicate instrument that produces beautiful sounds but cannot withstand physical stress.
+Diese Spezialisierung macht **Magier** (**mages**) in der Lage, die höchsten Leistungsstufen in ihren gewählten magischen Disziplinen zu erreichen, obwohl sie mit Aufgaben zu kämpfen haben, die körperliche Stärke oder Ausdauer erfordern, wie ein empfindliches Instrument, das schöne Klänge erzeugt, aber keiner physischen Belastung standhalten kann.
 
-## Training and Development
+## Training und Entwicklung
 
-The path of a **mage** involves rigorous magical study and mental discipline:
-- Daily spell practice and magical drills, like musicians practicing scales
-- Study of magical theory and spellcraft, like learning the theory behind musical composition
-- Meditation to develop focus and magical sensitivity, like finding the quiet center before a performance
-- Research into ancient magical texts and artifacts, like scholars studying the works of master composers
+Der Weg eines **Magiers** (**mage**) beinhaltet rigoroses magisches Studium und mentale Disziplin:
+- Tägliche Zauberpraxis und magische Übungen, wie Musiker, die Tonleitern üben
+- Studium der magischen Theorie und Zauberei, wie das Erlernen der Theorie hinter der musikalischen Komposition
+- Meditation zur Entwicklung von Fokus und magischer Sensibilität, wie das Finden der ruhigen Mitte vor einer Aufführung
+- Forschung in alten magischen Texten und Artefakten, wie Gelehrte, die die Werke von Meisterkomponisten studieren
 
-## Equipment and Gear
+## Ausrüstung und Zubehör
 
-**Mages** rely on various magical equipment to enhance their spellcasting abilities:
-- Staves and wands that focus and amplify magical energy, like different instruments for different performances
-- Spellbooks and grimoires containing magical knowledge, like sheet music containing the notes of power
-- Magical accessories such as amulets, rings, and talismans, like accessories that enhance an instrument's capabilities
+**Magier** (**Mages**) verlassen sich auf verschiedene magische Ausrüstungsgegenstände, um ihre Zauberfähigkeiten zu verbessern:
+- Stäbe und Zauberstäbe, die magische Energie fokussieren und verstärken, wie verschiedene Instrumente für verschiedene Aufführungen
+- Zauberbücher und Grimoires, die magisches Wissen enthalten, wie Notenblätter, die die Noten der Macht enthalten
+- Magische Accessoires wie Amulette, Ringe und Talismane, wie Accessoires, die die Fähigkeiten eines Instruments verbessern
 
-## Subclasses
+## Unterklassen
 
-**Mages** can specialize in various magical disciplines and roles:
+**Magier** (**Mages**) können sich auf verschiedene magische Disziplinen und Rollen spezialisieren:
 
-### [**Elementalist**](/codex/Classes/Mage/Elementalist.md)
+### [**Elementarmagier**](/codex/Classes/Mage/Elementalist.md) (**Elementalist**)
 
-Elementalists focus on the manipulation of natural elements, emphasizing the control of fire, water, earth, and air. They excel at:
-- Channeling and directing elemental forces
-- Creating powerful elemental effects
-- Adapting to different elemental environments
+Elementarmagier (**Elementalists**) konzentrieren sich auf die Manipulation natürlicher Elemente und betonen die Kontrolle über Feuer, Wasser, Erde und Luft. Sie zeichnen sich aus durch:
+- Kanäle und lenken elementare Kräfte
+- Erzeugen mächtiger elementarer Effekte
+- Anpassen an verschiedene elementare Umgebungen
 
-### [**Necromancer**](/codex/Classes/Mage/Necromancer.md)
+### [**Nekromant**](/codex/Classes/Mage/Necromancer.md) (**Necromancer**)
 
-Necromancers focus on death and soul magic, emphasizing the manipulation of life force and the undead. They excel at:
-- Communicating with and controlling the undead
-- Manipulating life force and soul energy
-- Performing rituals involving death and rebirth
+Nekromanten (**Necromancers**) konzentrieren sich auf den Tod und die Seelenmagie und betonen die Manipulation der Lebenskraft und der Untoten. Sie zeichnen sich aus durch:
+- Kommunizieren mit und kontrollieren der Untoten
+- Manipulieren der Lebenskraft und Seelenenergie
+- Durchführen von Ritualen, die Tod und Wiedergeburt beinhalten
 
-### [**Illusionist**](/codex/Classes/Mage/Illusionist.md)
+### [**Illusionist**](/codex/Classes/Mage/Illusionist.md) (**Illusionist**)
 
-Illusionists focus on creating deceptive magical effects, emphasizing the manipulation of perception and reality. They excel at:
-- Creating convincing illusions and phantasms
-- Manipulating light and shadow
-- Deceiving the senses of others
+Illusionisten (**Illusionists**) konzentrieren sich auf das Erzeugen trügerischer magischer Effekte und betonen die Manipulation von Wahrnehmung und Realität. Sie zeichnen sich aus durch:
+- Erzeugen überzeugender Illusionen und Phantome
+- Manipulieren von Licht und Schatten
+- Täuschen der Sinne anderer
 
-### [**Diviner**](/codex/Classes/Mage/Diviner.md)
+### [**Wahrsager**](/codex/Classes/Mage/Diviner.md) (**Diviner**)
 
-Diviners focus on seeking knowledge through magical means, emphasizing the discovery of hidden information. They excel at:
-- Scrying and remote viewing
-- Reading omens and portents
-- Predicting future events
+Wahrsager (**Diviners**) konzentrieren sich auf die Suche nach Wissen mit magischen Mitteln und betonen die Entdeckung verborgener Informationen. Sie zeichnen sich aus durch:
+- Hellsehen und Fernwahrnehmung
+- Lesen von Vorzeichen und Omen
+- Vorhersagen zukünftiger Ereignisse
 
-### [**Warlock**](/codex/Classes/Mage/Warlock.md)
+### [**Hexenmeister**](/codex/Classes/Mage/Warlock.md) (**Warlock**)
 
-Warlocks focus on pacts with otherworldly entities, emphasizing the acquisition of power through bargains. They excel at:
-- Making deals with supernatural beings
-- Channeling the power of their patrons
-- Performing rituals involving otherworldly entities
+Hexenmeister (**Warlocks**) konzentrieren sich auf Pakte mit jenseitigen Wesen und betonen den Erwerb von Macht durch Verhandlungen. Sie zeichnen sich aus durch:
+- Abschließen von Verträgen mit übernatürlichen Wesen
+- Kanalisieren der Macht ihrer Gönner
+- Durchführen von Ritualen, die jenseitige Wesen beinhalten
 
-## Notable Mage Traits
+## Bemerkenswerte Magier-Eigenschaften
 
-- **Magical Mastery**: Mages excel in magical abilities, often specializing in specific schools of magic
-- **Knowledge Seeking**: Mages have a deep thirst for magical knowledge and understanding
-- **Analytical Mind**: Mages develop keen analytical abilities through magical study
-- **Arcane Sensitivity**: Mages are deeply attuned to the flow of magical energy
-- **Discipline**: Mages maintain rigorous study regimens to maintain their magical abilities
+- **Magische Meisterschaft** (**Magical Mastery**): Magier (**Mages**) zeichnen sich in magischen Fähigkeiten aus und spezialisieren sich oft auf bestimmte Magieschulen
+- **Wissenssuche** (**Knowledge Seeking**): Magier (**Mages**) haben einen tiefen Durst nach magischem Wissen und Verständnis
+- **Analytischer Verstand** (**Analytical Mind**): Magier (**Mages**) entwickeln durch magisches Studium scharfe analytische Fähigkeiten
+- **Arkane Sensibilität** (**Arcane Sensitivity**): Magier (**Mages**) sind tief auf den Fluss magischer Energie eingestellt
+- **Disziplin** (**Discipline**): Magier (**Mages**) halten strenge Studienpläne ein, um ihre magischen Fähigkeiten zu erhalten
 
-## Mage Traditions
+## Magier-Traditionen
 
-Mage society is organized into numerous traditions, each with its own specialties and techniques:
+Die Magiergesellschaft ist in zahlreiche Traditionen unterteilt, von denen jede ihre eigenen Spezialitäten und Techniken hat:
 
-| Tradition | Specialty | Territory | Notable Traits |
+| Tradition (**Tradition**) | Spezialität (**Specialty**) | Territorium (**Territory**) | Bemerkenswerte Eigenschaften (**Notable Traits**) |
 |---------|---------------|---------|-------------------|
-| **Arcane Scholars** | Magical research, spell development | Magical academies | Spell research, magical theory |
-| **Battle Mages** | Combat magic, battlefield control | Military units | Combat spells, battlefield control |
-| **Elemental Masters** | Elemental manipulation, natural forces | Elemental realms | Elemental control, environmental adaptation |
-| **Mystic Seekers** | Forbidden knowledge, hidden secrets | Secret libraries | Forbidden magic, hidden knowledge |
-| **Ritual Weavers** | Complex rituals, magical ceremonies | Ritual chambers | Ritual magic, ceremonial casting |
-| **Ward Crafters** | Protective magic, magical defenses | Defensive positions | Protective wards, magical barriers |
+| **Arkane Gelehrte** (**Arcane Scholars**) | Magische Forschung, Zauberentwicklung | Magische Akademien | Zauberforschung, magische Theorie |
+| **Kampfmagier** (**Battle Mages**) | Kampfmagie, Schlachtfeldkontrolle | Militärische Einheiten | Kampfzauber, Schlachtfeldkontrolle |
+| **Elementarmeister** (**Elemental Masters**) | Elementare Manipulation, Naturkräfte | Elementare Reiche | Elementare Kontrolle, Umweltanpassung |
+| **Mystische Sucher** (**Mystic Seekers**) | Verbotenes Wissen, verborgene Geheimnisse | Geheime Bibliotheken | Verbotene Magie, verborgenes Wissen |
+| **Ritualwirker** (**Ritual Weavers**) | Komplexe Rituale, magische Zeremonien | Ritualkammern | Ritualmagie, zeremonielle Beschwörung |
+| **Schutzzauberwirker** (**Ward Crafters**) | Schützende Magie, magische Abwehr | Verteidigungspositionen | Schützende Schutzzauber, magische Barrieren |
 
-Understanding the nature of **mages** provides insight into the magical aspects of the world of **OpenFantasy**, like listening to the complex melodies that weave the symphony of magic. 
+Das Verständnis der Natur von **Magiern** (**mages**) gibt Einblick in die magischen Aspekte der Welt von **OpenFantasy**, wie das Hören der komplexen Melodien, die die Symphonie der Magie weben.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,211 +1,215 @@
-# **Mana Blights**: Corrupted Manifestations of Wild Magical Energy
+# **Mana Blights** (Mana-Pest) : Korrumpierte Manifestationen wilder magischer Energie
 
-> *"Where magic festers and grows unchecked, the Blights arise—wounds in reality given hunger and malevolent purpose."* — Magister Thorne, Warden of the Magical Containment Division
+> *"Wo Magie schwelt und ungezügelt wächst, entstehen die Pest – Wunden in der Realität, denen Hunger und bösartige Absichten gegeben wurden."* — Magister Thorne (Magister Thorne), Hüter der Abteilung für magische Eindämmung
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Formation](#habitat-and-formation)
-- [Behavioral Patterns](#behavioral-patterns)
-- [Containment and Countermeasures](#containment-and-countermeasures)
+- [Elementare Zusammensetzung](#elemental-composition)
+- [Physische Eigenschaften](#physical-characteristics)
+- [Magische Affinität](#magical-affinity)
+- [Lebensraum und Entstehung](#habitat-and-formation)
+- [Verhaltensmuster](#behavioral-patterns)
+- [Eindämmung und Gegenmaßnahmen](#containment-and-countermeasures)
 
-## Overview
+## Überblick
 
-Mana Blights are dangerous manifestations of corrupted magical energy, occurring when Wild Mana becomes severely contaminated and unstable. Unlike [Mana Wisps](/codex/Creatures/Magical/ManaWisps.md), which represent the harmonious potential of magical energy, Blights embody magic's destructive capacity when left uncontrolled or deliberately corrupted. They form in areas of magical catastrophe, failed ritual sites, or places where the natural flow of magic has been severely disrupted. Constantly hungry for more energy to sustain their unstable existence, Blights represent one of the most significant hazards in areas of high magical activity.
+Mana-Pest sind gefährliche Manifestationen korrumpierter magischer Energie, die auftreten, wenn Wildes Mana (Wildes Mana) stark verunreinigt und instabil wird. Im Gegensatz zu [Mana Wisps](/codex/Creatures/Magical/ManaWisps.md) (Mana-Irrlichtern), die das harmonische Potenzial magischer Energie darstellen, verkörpern Pest die zerstörerische Kraft der Magie, wenn sie unkontrolliert bleibt oder absichtlich korrumpiert wird. Sie bilden sich in Gebieten magischer Katastrophen, fehlgeschlagenen Ritualstätten oder an Orten, an denen der natürliche Fluss der Magie stark gestört wurde. Da sie ständig hungrig nach mehr Energie sind, um ihre instabile Existenz aufrechtzuerhalten, stellen Pest eine der größten Gefahren in Gebieten mit hoher magischer Aktivität dar.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-**Mana Blights** possess a dangerously imbalanced elemental composition:
+**Mana Blights** (Mana-Pest) besitzen eine gefährlich unausgewogene elementare Zusammensetzung:
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Seele | Mana-Kapazität | Repräsentativer Typ |
 |----------|------|---------------|---------------------|
-| 15-25% | 0-5% | 70-85% | Standard Blight |
-| 30-40% | 0-2% | 60-70% | **Crystalline Blight** with partial physical manifestation |
-| 10-15% | 5-10% | 75-85% | **Sentient Blight** with rudimentary consciousness |
-| 5-15% | 0-5% | 80-95% | **Void Blight** with extreme magical instability |
+| 15-25% | 0-5% | 70-85% | Standard-Pest |
+| 30-40% | 0-2% | 60-70% | **Kristalline Pest** (Crystalline Blight) mit teilweiser physischer Manifestation |
+| 10-15% | 5-10% | 75-85% | **Empfindungsfähige Pest** (Sentient Blight) mit rudimentärem Bewusstsein |
+| 5-15% | 0-5% | 80-95% | **Leere-Pest** (Void Blight) mit extremer magischer Instabilität |
 
-### Distinctive Composition
+### Unterscheidende Zusammensetzung
 
-Unlike most creatures, Mana Blights possess a fundamentally unstable elemental balance. Their abnormally high Mana Capacity contains almost entirely unprocessed Wild Mana rather than Base Mana, creating a constantly fluctuating energy state. Their Exanthis component consists primarily of magical residue and environmental matter absorbed during formation rather than biological tissue. Most Blights possess negligible Soul components, though particularly old specimens may develop rudimentary consciousness through extended existence.
+Im Gegensatz zu den meisten Kreaturen besitzen Mana-Pest ein grundlegend instabiles elementares Gleichgewicht. Ihre abnormal hohe Mana-Kapazität enthält fast ausschließlich unverarbeitetes Wildes Mana (Wildes Mana) anstelle von Basis-Mana (Basis-Mana), wodurch ein ständig schwankender Energiezustand entsteht. Ihre Exanthis-Komponente besteht hauptsächlich aus magischen Rückständen und Umweltmaterie, die während der Entstehung absorbiert wurden, und nicht aus biologischem Gewebe. Die meisten Pest besitzen vernachlässigbare Seelenkomponenten, obwohl besonders alte Exemplare durch längere Existenz ein rudimentäres Bewusstsein entwickeln können.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Mana Blights** exhibit disturbing physical traits:
+**Mana Blights** (Mana-Pest) weisen beunruhigende physische Merkmale auf:
 
-| Characteristic | Description |
+| Merkmal (Characteristic) | Beschreibung (Description) |
 |----------------|-------------|
-| **Size** | Highly variable; typically 2-8 feet in diameter but can grow substantially larger |
-| **Weight** | 30-200 pounds depending on absorbed material |
-| **Lifespan** | Typically 1-5 years until energy dissolution or containment |
-| **Physical Maturity** | Reach full power within 2-4 weeks of formation |
-| **Notable Features** | Dark, swirling core with chaotic energy patterns and often incorporated environmental debris |
+| **Größe** (Size) | Sehr variabel; typischerweise 60-240 cm im Durchmesser, kann aber wesentlich größer werden |
+| **Gewicht** (Weight) | 15-90 kg, abhängig vom absorbierten Material |
+| **Lebensdauer** (Lifespan) | Typischerweise 1-5 Jahre bis zur Energieauflösung oder Eindämmung |
+| **Physische Reife** (Physical Maturity) | Erreichen innerhalb von 2-4 Wochen nach der Entstehung ihre volle Kraft |
+| **Bemerkenswerte Merkmale** (Notable Features) | Dunkler, wirbelnder Kern mit chaotischen Energiemustern und oft eingebauten Umweltrückständen |
 
-### Appearance
+### Aussehen
 
-- **Anti-Luminescence**: Often absorb rather than emit light, creating shadow-like distortions
-- **Unstable Boundaries**: Edges constantly shift and pulse with erratic energy discharges
-- **Environmental Incorporation**: Absorb and integrate nearby materials into their form
-- **Chromatic Distortion**: Display unnatural color patterns that strain the observer's vision
-- **Spatial Warping**: Create minor distortions in space around their immediate vicinity
+- **Anti-Lumineszenz** (Anti-Luminescence): Absorbieren oft eher Licht als es auszustrahlen, wodurch schattenartige Verzerrungen entstehen
+- **Instabile Grenzen** (Unstable Boundaries): Kanten verschieben und pulsieren ständig mit unregelmäßigen Energieentladungen
+- **Umweltintegration** (Environmental Incorporation): Absorbieren und integrieren nahegelegene Materialien in ihre Form
+- **Chromatische Verzerrung** (Chromatic Distortion): Zeigen unnatürliche Farbmuster, die die Sicht des Betrachters belasten
+- **Räumliche Verkrümmung** (Spatial Warping): Erzeugen geringfügige Verzerrungen im Raum in ihrer unmittelbaren Umgebung
 
-## Magical Affinity
+## Magische Affinität
 
-**Mana Blights** represent a dangerous perversion of normal magical energy:
+**Mana Blights** (Mana-Pest) stellen eine gefährliche Perversion normaler magischer Energie dar:
 
-| Aspect | Capability |
+| Aspekt (Aspect) | Fähigkeit (Capability) |
 |--------|------------|
-| **Mana Storage** | Abnormal (capable of containing high concentrations of Wild Mana) |
-| **Purification** | Inverse (actively corrupt Base Mana into Wild Mana) |
-| **Specialization Pattern** | Chaotic (unpredictable, uncontrolled elemental manifestations) |
-| **Natural Affinity** | Wild Mana primarily; often demonstrate erratic elemental discharges |
+| **Mana-Speicherung** (Mana Storage) | Abnormal (fähig, hohe Konzentrationen von Wildem Mana zu enthalten) |
+| **Reinigung** (Purification) | Invers (korrumpiert aktiv Basis-Mana in Wildes Mana) |
+| **Spezialisierungsmuster** (Specialization Pattern) | Chaotisch (unvorhersehbare, unkontrollierte elementare Manifestationen) |
+| **Natürliche Affinität** (Natural Affinity) | Hauptsächlich Wildes Mana; zeigen oft unregelmäßige elementare Entladungen |
 
-### Magical Disruptions
+### Magische Störungen
 
-Mana Blights create several magical anomalies in their vicinity:
+Mana-Pest erzeugen in ihrer Nähe mehrere magische Anomalien:
 
-- **Phase 1 Interference**: Disrupt the Wild Mana to Base Mana conversion process in living beings
-- **Pattern Dissolution**: Erode established magical patterns like wards, enchantments, and ongoing spells
-- **Resonance Contamination**: Corrupt the harmonic frequencies used in specialization
-- **Energy Absorption**: Drain ambient magical energy to fuel their own unstable existence
+- **Phase-1-Interferenz** (Phase 1 Interference): Stören den Umwandlungsprozess von Wildem Mana in Basis-Mana in Lebewesen
+- **Musterauflösung** (Pattern Dissolution): Erodieren etablierte magische Muster wie Schutzzauber, Verzauberungen und laufende Zaubersprüche
+- **Resonanzkontamination** (Resonance Contamination): Korrumpieren die harmonischen Frequenzen, die in der Spezialisierung verwendet werden
+- **Energieabsorption** (Energy Absorption): Zapfen die umgebende magische Energie ab, um ihre eigene instabile Existenz zu befeuern
 
-### Dangerous Magical Traits
+### Gefährliche magische Eigenschaften
 
-- **Wild Surge Generation**: Produce unpredictable bursts of untamed magical energy
-- **Base Mana Corruption**: Convert stable Base Mana into chaotic Wild Mana on contact
-- **Resonance Disruption**: Interfere with spellcasting within their proximity (10-100 foot radius)
-- **Pattern Interference**: Cause established magical patterns to degrade or fail
+- **Wilde-Welle-Erzeugung** (Wild Surge Generation): Produzieren unvorhersehbare Ausbrüche ungezähmter magischer Energie
+- **Basis-Mana-Korruption** (Base Mana Corruption): Wandeln stabiles Basis-Mana bei Kontakt in chaotisches Wildes Mana um
+- **Resonanzstörung** (Resonance Disruption): Beeinträchtigen die Zauberwirkung in ihrer Nähe (3-30 Meter Radius)
+- **Musterinterferenz** (Pattern Interference): Führen dazu, dass etablierte magische Muster sich verschlechtern oder versagen
 
-## Habitat and Formation
+## Lebensraum und Entstehung
 
-**Mana Blights** form in areas where magical energy has been corrupted or disrupted:
+**Mana Blights** (Mana-Pest) bilden sich in Gebieten, in denen magische Energie korrumpiert oder gestört wurde:
 
-| Formation Site | Blight Type | Formation Trigger |
+| Entstehungsort (Formation Site) | Pest-Typ (Blight Type) | Entstehungsauslöser (Formation Trigger) |
 |----------------|-------------|-------------------|
-| **Failed Ritual Sites** | Complex Blights | Catastrophic spell failure |
-| **Magical Waste Areas** | Toxic Blights | Accumulation of magical byproducts |
-| **Planar Breach Points** | Void Blights | Improper interdimensional contact |
-| **Ley Line Ruptures** | Elemental Blights | Natural magical upheaval |
+| **Fehlgeschlagene Ritualstätten** (Failed Ritual Sites) | Komplexe Pest (Complex Blights) | Katastrophales Zauberversagen |
+| **Magische Abfallgebiete** (Magical Waste Areas) | Toxische Pest (Toxic Blights) | Ansammlung magischer Nebenprodukte |
+| **Planare Bruchstellen** (Planar Breach Points) | Leere-Pest (Void Blights) | Unsachgemäßer interdimensionaler Kontakt |
+| **Ley-Linien-Brüche** (Ley Line Ruptures) | Elementare Pest (Elemental Blights) | Natürlicher magischer Umbruch |
 
-### Formation Process
+### Entstehungsprozess
 
-1. **Magical Disruption**: Initial event creates unstable Wild Mana concentration
-2. **Energy Accumulation**: Wild Mana begins to coalesce and attract more energy
-3. **Pattern Corruption**: Emergence of anti-harmonious resonance patterns
-4. **Matter Incorporation**: Absorption of physical material to create quasi-stable form
-5. **Consciousness Development**: In rare cases, emergence of primitive awareness
+1. **Magische Störung** (Magical Disruption): Das anfängliche Ereignis erzeugt eine instabile Konzentration von Wildem Mana
+2. **Energieansammlung** (Energy Accumulation): Wildes Mana beginnt zu koaleszieren und mehr Energie anzuziehen
+3. **Musterkorruption** (Pattern Corruption): Entstehung anti-harmonischer Resonanzmuster
+4. **Materieintegration** (Matter Incorporation): Absorption von physischem Material, um eine quasi-stabile Form zu schaffen
+5. **Bewusstseinsentwicklung** (Consciousness Development): In seltenen Fällen Entstehung eines primitiven Bewusstseins
 
-## Behavioral Patterns
+## Verhaltensmuster
 
-Despite generally lacking true consciousness, Mana Blights display consistent behavioral tendencies:
+Obwohl Mana-Pest im Allgemeinen kein echtes Bewusstsein besitzen, zeigen sie konsistente Verhaltenstendenzen:
 
-### Instinctive Behaviors
+### Instinktive Verhaltensweisen
 
-- **Energy Hunger**: Constant drive to absorb additional magical energy
-- **Territorial Expansion**: Gradual spreading from point of origin
-- **Pattern Erasure**: Seem to specifically target and degrade organized magical structures
-- **Environmental Corruption**: Convert surrounding area to match their chaotic resonance
+- **Energiehunger** (Energy Hunger): Ständiger Drang, zusätzliche magische Energie zu absorbieren
+- **Territoriale Ausdehnung** (Territorial Expansion): Allmähliche Ausbreitung vom Ursprungsort aus
+- **Musterlöschung** (Pattern Erasure): Scheinen gezielt organisierte magische Strukturen anzugreifen und abzubauen
+- **Umweltkorruption** (Environmental Corruption): Konvertieren die Umgebung so, dass sie ihrer chaotischen Resonanz entspricht
 
-### Environmental Impact
+### Umweltauswirkungen
 
-Mana Blights create progressively worsening magical contamination zones:
+Mana-Pest erzeugen zunehmend schlimmere magische Kontaminationszonen:
 
-| Zone Range | Effects | Duration After Removal |
+| Zonenbereich (Zone Range) | Auswirkungen (Effects) | Dauer nach Entfernung (Duration After Removal) |
 |------------|---------|------------------------|
-| Inner Zone (0-30ft) | Complete magical disruption, physical corruption | 1-5 years |
-| Middle Zone (30-100ft) | Spell failure, resonance distortion, Wild Mana saturation | 3-12 months |
-| Outer Zone (100-300ft) | Reduced spell effectiveness, increased Wild Mana content | 1-4 weeks |
-| Fringe Zone (300-1000ft) | Subtle magical interference, enhanced Wild Mana presence | 1-7 days |
+| Innere Zone (Inner Zone) (0-9m) | Vollständige magische Störung, physische Korruption | 1-5 Jahre |
+| Mittlere Zone (Middle Zone) (9-30m) | Zauberversagen, Resonanzverzerrung, Wild-Mana-Sättigung | 3-12 Monate |
+| Äußere Zone (Outer Zone) (30-90m) | Reduzierte Zauberwirksamkeit, erhöhter Wild-Mana-Gehalt | 1-4 Wochen |
+| Randzone (Fringe Zone) (90-300m) | Subtile magische Beeinträchtigung, verstärkte Präsenz von Wildem Mana | 1-7 Tage |
 
-### Growth and Expansion
+### Wachstum und Expansion
 
-Without containment, Blights follow a predictable growth pattern:
+Ohne Eindämmung folgen Pest einem vorhersehbaren Wachstumsmuster:
 
-1. **Nascent Stage**: Small, relatively stable, limited radius of effect
-2. **Feeding Stage**: Rapid energy absorption, increasing size and instability
-3. **Expansion Stage**: Territory growth, development of stronger disruption fields
-4. **Critical Mass**: Eventually reaching unstable size leading to catastrophic discharge or collapse
+1. **Anfangsphase** (Nascent Stage): Klein, relativ stabil, begrenzter Wirkungsradius
+2. **Fütterungsphase** (Feeding Stage): Schnelle Energieabsorption, zunehmende Größe und Instabilität
+3. **Expansionsphase** (Expansion Stage): Territoriales Wachstum, Entwicklung stärkerer Störfelder
+4. **Kritische Masse** (Critical Mass): Erreichen schließlich eine instabile Größe, die zu katastrophaler Entladung oder Zusammenbruch führt
 
-## Containment and Countermeasures
+## Eindämmung und Gegenmaßnahmen
 
-Magical authorities have developed specific protocols for dealing with Mana Blights:
+Magische Behörden haben spezifische Protokolle für den Umgang mit Mana-Pest entwickelt:
 
-### Detection Methods
+### Nachweismethoden
 
-- **Specialized Divination**: Modified detection spells that identify resonance distortions
-- **Elemental Reactions**: Certain purified elemental substances react visibly to Blight presence
-- **Familiar Response**: Trained magical familiars can sense Blights at great distances
-- **Symptom Recognition**: Environmental changes and spell behavior anomalies
+- **Spezialisierte Divination** (Specialized Divination): Modifizierte Detektionszauber, die Resonanzverzerrungen identifizieren
+- **Elementare Reaktionen** (Elemental Reactions): Bestimmte gereinigte elementare Substanzen reagieren sichtbar auf die Anwesenheit von Pest
+- **Vertrautenreaktion** (Familiar Response): Trainierte magische Vertraute können Pest aus großer Entfernung wahrnehmen
+- **Symptomerkennung** (Symptom Recognition): Umweltveränderungen und Zauberverhaltensanomalien
 
-### Containment Techniques
+### Eindämmungstechniken
 
-| Method | Effectiveness | Limitations |
+| Methode (Method) | Wirksamkeit (Effectiveness) | Einschränkungen (Limitations) |
 |--------|--------------|-------------|
-| **Harmonic Barrier** | High for small/medium Blights | Requires constant maintenance |
-| **Purification Circle** | Moderate | Works only on newer formations |
-| **Mana Siphoning** | Variable | Dangerous to practitioners |
-| **Resonance Inversion** | Very High | Requires master-level skill |
+| **Harmonische Barriere** (Harmonic Barrier) | Hoch für kleine/mittelgroße Pest | Erfordert ständige Wartung |
+| **Reinigungskreis** (Purification Circle) | Moderat | Funktioniert nur bei neueren Formationen |
+| **Mana-Ableitung** (Mana Siphoning) | Variabel | Gefährlich für Praktizierende |
+| **Resonanzumkehr** (Resonance Inversion) | Sehr hoch | Erfordert meisterhaftes Können |
 
-### Neutralization Procedures
+### Neutralisierungsverfahren
 
-The most effective approaches to eliminating Mana Blights include:
+Die effektivsten Ansätze zur Beseitigung von Mana-Pest umfassen:
 
-1. **Containment**: Establishing barriers to prevent expansion
-2. **Isolation**: Separating the Blight from external energy sources
-3. **Purification**: Controlled conversion of Wild Mana to Base Mana
-4. **Dissipation**: Careful dispersion of the energy concentration
-5. **Transmutation**: In extreme cases, converting the entire energy mass into another form
+1. **Eindämmung** (Containment): Errichten von Barrieren, um die Ausdehnung zu verhindern
+2. **Isolierung** (Isolation): Trennen der Pest von externen Energiequellen
+3. **Reinigung** (Purification): Kontrollierte Umwandlung von Wildem Mana in Basis-Mana
+4. **Auflösung** (Dissipation): Sorgfältige Verteilung der Energiekonzentration
+5. **Transmutation** (Transmutation): In extremen Fällen Umwandlung der gesamten Energiemasse in eine andere Form
 
-## Classification System
+## Klassifizierungssystem
 
-The Arcane Containment Authority classifies Mana Blights by threat level:
+Die Arkan-Eindämmungs-Behörde (Arcane Containment Authority) klassifiziert Mana-Pest nach Bedrohungsgrad:
 
-| Class | Characteristics | Containment Protocol | Response Team |
+| Klasse (Class) | Eigenschaften (Characteristics) | Eindämmungsprotokoll (Containment Protocol) | Reaktionsteam (Response Team) |
 |-------|----------------|----------------------|---------------|
-| **Alpha** | Nascent, under 2ft diameter | Standard containment | Local mages |
-| **Beta** | Established, 2-5ft diameter | Active purification | Regional specialists |
-| **Gamma** | Mature, 5-10ft diameter | Full containment team | Authority response unit |
-| **Delta** | Critical, 10ft+ diameter | Emergency protocol | Master mage intervention |
-| **Omega** | Catastrophic, regional threat | Evacuation and isolation | Multiple master mages |
+| **Alpha** | Entstehend, unter 60cm Durchmesser | Standardeindämmung | Lokale Magier |
+| **Beta** | Etabliert, 60-150cm Durchmesser | Aktive Reinigung | Regionale Spezialisten |
+| **Gamma** | Ausgereift, 150-300cm Durchmesser | Vollständiges Eindämmungsteam | Reaktionseinheit der Behörde |
+| **Delta** | Kritisch, über 300cm Durchmesser | Notfallprotokoll | Meistermagier-Intervention |
+| **Omega** | Katastrophal, regionale Bedrohung | Evakuierung und Isolierung | Mehrere Meistermagier |
 
-## Magical Mechanics Analysis
+## Magische Mechanikanalyse
 
-Mana Blights provide key insights into magical theory through their abnormal properties:
+Mana-Pest bieten durch ihre abnormalen Eigenschaften wichtige Einblicke in die magische Theorie:
 
-### Mana Purification Inversion
+### Mana-Reinigungs-Inversion
 
-While normal magical beings convert Wild Mana into stable Base Mana, Blights demonstrate the reverse process:
+Während normale magische Wesen Wildes Mana in stabiles Basis-Mana umwandeln, demonstrieren Pest den umgekehrten Prozess:
 
-- **Purity Degradation**: Convert purified mana back to chaotic Wild Mana state
-- **Harmonic Disruption**: Create dissonant frequencies that interfere with stable resonance
-- **Pattern Corruption**: Introduce errors and instability into organized magical structures
+- **Reinheitsabbau** (Purity Degradation): Wandeln gereinigtes Mana zurück in den chaotischen Wild-Mana-Zustand um
+- **Harmonische Störung** (Harmonic Disruption): Erzeugen dissonante Frequenzen, die die stabile Resonanz stören
+- **Musterkorruption** (Pattern Corruption): Führen Fehler und Instabilität in organisierte magische Strukturen ein
 
-### Phase Transition Impact
+### Phasentransitionseffekt
 
-Blights disrupt both phases of the standard mana conversion process:
+Pest stören beide Phasen des Standard-Mana-Umwandlungsprozesses:
 
-- **Phase 1 Interference**: Prevent efficient absorption and conversion of Wild Mana
-- **Phase 2 Corruption**: Destabilize Base Mana undergoing elemental specialization
+- **Phase-1-Interferenz** (Phase 1 Interference): Verhindern die effiziente Absorption und Umwandlung von Wildem Mana
+- **Phase-2-Korruption** (Phase 2 Corruption): Destabilisieren Basis-Mana, das sich einer elementaren Spezialisierung unterzieht
 
-### Resonance Manifestations
+### Resonanzmanifestationen
 
-The chaotic resonance patterns of Blights manifest in observable phenomena:
+Die chaotischen Resonanzmuster von Pest manifestieren sich in beobachtbaren Phänomenen:
 
-- **Visual Distortions**: Light bends unpredictably near Blight boundaries
-- **Auditory Anomalies**: Witnesses report discordant sounds at the edge of hearing
-- **Thermal Fluctuations**: Erratic temperature changes in the vicinity
-- **Temporal Inconsistencies**: Minor time flow variations within the contamination zone
+- **Visuelle Verzerrungen** (Visual Distortions): Licht beugt sich unvorhersehbar in der Nähe von Pest-Grenzen
+- **Auditive Anomalien** (Auditory Anomalies): Zeugen berichten von disharmonischen Geräuschen am Rande des Hörvermögens
+- **Thermische Schwankungen** (Thermal Fluctuations): Unregelmäßige Temperaturänderungen in der Nähe
+- **Zeitliche Inkonsistenzen** (Temporal Inconsistencies): Geringfügige Zeitflussvariationen innerhalb der Kontaminationszone
 
-## Historical Incidents
+## Historische Vorfälle
 
-Several notable Mana Blight incidents have been documented:
+Mehrere bemerkenswerte Mana-Pest-Vorfälle wurden dokumentiert:
 
-- **The Azurefall Catastrophe**: Formation of a Delta-class Blight following an experimental teleportation ritual failure
-- **Westmarch Academy Incident**: Beta-class Blight containment breach resulting in the loss of an entire research wing
-- **Silverlake Anomaly**: Naturally occurring Gamma-class Blight from a ley line rupture, now a permanent research site
-- **Thornwood Corruption**: Ongoing Omega-class Blight that has transformed an entire forest into a magical dead zone
+- **Die Azurefall-Katastrophe** (The Azurefall Catastrophe): Bildung einer Pest der Delta-Klasse nach einem fehlgeschlagenen experimentellen Teleportationsritual
+- **Westmarch-Akademie-Vorfall** (Westmarch Academy Incident): Eindämmungsbruch einer Pest der Beta-Klasse, der zum Verlust eines ganzen Forschungstrakts führte
+- **Silverlake-Anomalie** (Silverlake Anomaly): Natürlich vorkommende Pest der Gamma-Klasse durch einen Ley-Linien-Bruch, jetzt ein permanenter Forschungsstandort
+- **Thornwood-Korruption** (Thornwood Corruption): Laufende Pest der Omega-Klasse, die einen ganzen Wald in eine magische Todeszone verwandelt hat
 
 ---
 
-> Understanding **Mana Blights** provides crucial insight into the dangers of uncontrolled magical energy and the importance of proper magical practice. As much as they are threats to be contained, they also serve as powerful reminders of magic's capacity for chaos when the fundamental principles of harmonious resonance are violated. 
+> Das Verständnis von **Mana Blights** (Mana-Pest) liefert wichtige Einblicke in die Gefahren unkontrollierter magischer Energie und die Bedeutung einer ordnungsgemäßen magischen Praxis. So sehr sie auch Bedrohungen sind, die eingedämmt werden müssen, so dienen sie auch als eindringliche Erinnerung an das Chaos-Potenzial der Magie, wenn die grundlegenden Prinzipien der harmonischen Resonanz verletzt werden.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

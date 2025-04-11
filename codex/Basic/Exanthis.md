@@ -1,104 +1,108 @@
-# **Exanthis**: The Foundation of Reality
+# **Exanthis**: Die Grundlage der Realität
 
-> *"As music needs an instrument to be heard, magic needs Exanthis to take form in the physical world."*
+> *"Wie Musik ein Instrument benötigt, um gehört zu werden, benötigt Magie Exanthis, um im physischen Bereich Gestalt anzunehmen."*
 
-## Quick Navigation
+## Schnellnavigation
 
-- [Properties and Interaction](#properties-and-interaction)
-- [Geographic Distribution](#geographic-distribution)
-- [Exanthis in Living Beings](#exanthis-in-living-beings)
-- [Applications](#applications-of-exanthis)
-- [Metaphysical Significance](#metaphysical-significance)
+- [Eigenschaften und Interaktion](#eigenschaften-und-interaktion)
+- [Geografische Verteilung](#geografische-verteilung)
+- [Exanthis in Lebewesen](#exanthis-in-lebewesen)
+- [Anwendungen](#anwendungen-von-exanthis)
+- [Metaphysische Bedeutung](#metaphysische-bedeutung)
 
-## Properties and Interaction
+## Eigenschaften und Interaktion
 
-**Exanthis** is a fundamental material that forms the bedrock of physical reality, providing structure and solidity to the world. Like the resonant body of a musical instrument, it gives form to the ephemeral vibrations of magic, transforming potential into tangible reality.
+**Exanthis** ist ein grundlegendes Material, das das Fundament der physischen Realität bildet und der Welt Struktur und Festigkeit verleiht. Wie der Resonanzkörper eines Musikinstruments verleiht es den flüchtigen Schwingungen der Magie Gestalt und verwandelt Potenzial in greifbare Realität.
 
-| Property | Description |
+| Property (Eigenschaft) | Description (Beschreibung) |
 |----------|-------------|
-| **State** | Solid, crystalline metal with magnetic properties |
-| **Appearance** | Silver-gray with subtle blue luminescence when pure |
-| **Hardness** | Proportional to purity; 100% purity creates the hardest known material |
-| **Magnetic Field** | Generates fields that disrupt the flow of [**Mana**](/codex/Basic/Mana.md) |
-| **Conductivity** | Poor conductor of heat and electricity but excellent conductor of physical force |
+| **State (Zustand)** | Festes, kristallines Metall mit magnetischen Eigenschaften |
+| **Appearance (Aussehen)** | Silbergrau mit subtiler blauer Lumineszenz, wenn es rein ist |
+| **Hardness (Härte)** | Proportional zur Reinheit; 100 % Reinheit erzeugt das härteste bekannte Material |
+| **Magnetic Field (Magnetfeld)** | Erzeugt Felder, die den Fluss von [**Mana**](/codex/Basic/Mana.md) stören |
+| **Conductivity (Leitfähigkeit)** | Schlechter Leiter von Wärme und Elektrizität, aber ausgezeichneter Leiter von physischer Kraft |
 
-### Exanthis and Magic
+### Exanthis und Magie
 
-The relationship between **Exanthis** and **Mana** is complex and reciprocal:
+Die Beziehung zwischen **Exanthis** und **Mana** ist komplex und wechselseitig:
 
-- **Exanthis** disrupts the flow of **Mana** through its natural magnetic field
-- This disruption is proportional to the **Exanthis'** purity
-- Higher purity creates stronger anti-magical fields
-- The disruption is temporary; overwhelming **Mana** can temporarily overcome the disruption
+- **Exanthis** stört den Fluss von **Mana** durch sein natürliches Magnetfeld
+- Diese Störung ist proportional zur Reinheit des **Exanthis**
+- Höhere Reinheit erzeugt stärkere antimagische Felder
+- Die Störung ist temporär; überwältigendes **Mana** kann die Störung vorübergehend überwinden
 
-## Geographic Distribution
+## Geografische Verteilung
 
-**Exanthis** is not evenly distributed throughout the world:
+**Exanthis** ist nicht gleichmäßig über die Welt verteilt:
 
-| Region | Concentration | Notable Features |
+| Region (Region) | Concentration (Konzentration) | Notable Features (Bemerkenswerte Merkmale) |
 |--------|--------------|------------------|
-| **Western Veldrassil** | Very High | Natural magical dead zones, centers of physical industry |
-| **Iron Mountains** | Extremely High | Massive veins creating zones nearly devoid of magic |
-| **Central Plains** | Moderate | Balanced environments suitable for diverse development |
-| **Eastern Veldrassil** | Low | Minimal natural deposits, allowing for magical abundance |
-| **Deep Earth** | High | Core deposits that help stabilize the world's physical structure |
+| **Western Veldrassil (Westliches Veldrassil)** | Sehr hoch | Natürliche magische Todeszonen, Zentren der physischen Industrie |
+| **Iron Mountains (Eisenberge)** | Extrem hoch | Massive Adern, die Zonen schaffen, die fast frei von Magie sind |
+| **Central Plains (Zentrale Ebenen)** | Mäßig | Ausgewogene Umgebungen, die für eine vielfältige Entwicklung geeignet sind |
+| **Eastern Veldrassil (Östliches Veldrassil)** | Niedrig | Minimale natürliche Vorkommen, die magische Fülle ermöglichen |
+| **Deep Earth (Tiefe Erde)** | Hoch | Kernvorkommen, die zur Stabilisierung der physischen Struktur der Welt beitragen |
 
-### Impact on Civilization
+### Auswirkung auf die Zivilisation
 
-Regions rich in **Exanthis** develop distinctive characteristics:
+Regionen, die reich an **Exanthis** sind, entwickeln ausgeprägte Eigenschaften:
 
-- Technological rather than magical innovations
-- Societal structures emphasizing physical strength and craftsmanship
-- Safe havens for beings sensitive to magic
-- Natural defensive positions against magical threats
-- Centers of mining and metallurgy
+- Technologische statt magische Innovationen
+- Gesellschaftliche Strukturen, die physische Stärke und Handwerkskunst betonen
+- Sichere Häfen für Wesen, die empfindlich auf Magie reagieren
+- Natürliche Verteidigungspositionen gegen magische Bedrohungen
+- Zentren des Bergbaus und der Metallurgie
 
-## Exanthis in Living Beings
+## Exanthis in Lebewesen
 
-All living beings contain varying amounts of **Exanthis** in their composition:
+Alle Lebewesen enthalten unterschiedliche Mengen an **Exanthis** in ihrer Zusammensetzung:
 
-- Higher **Exanthis** content provides greater physical strength, endurance, and resistance to magic
-- Lower **Exanthis** content allows for greater magical sensitivity and potential
-- The balance of **Exanthis**, [**Soul**](/codex/Basic/Soul.md), and **Mana Capacity** determines natural aptitudes
+- Ein höherer **Exanthis**-Gehalt sorgt für größere physische Stärke, Ausdauer und Widerstandsfähigkeit gegen Magie
+- Ein niedrigerer **Exanthis**-Gehalt ermöglicht eine größere magische Sensibilität und Potenzial
+- Das Gleichgewicht von **Exanthis**, [**Soul**](/codex/Basic/Soul.md) (Seele) und **Mana Capacity (Mana-Kapazität)** bestimmt die natürlichen Fähigkeiten
 
-### Species Variations
+### Spezies-Variationen
 
-Different species exhibit characteristic ranges of **Exanthis** content:
+Verschiedene Spezies weisen charakteristische Bereiche des **Exanthis**-Gehalts auf:
 
-| Species | Exanthis Range | Characteristics |
+| Species (Spezies) | Exanthis Range (Exanthis-Bereich) | Characteristics (Eigenschaften) |
 |---------|----------------|-----------------|
-| **Dwarves** | 50-70% | Exceptionally sturdy and magic-resistant |
-| **Humans** | 20-55% | Versatile and adaptable |
-| **Elves** | 5-25% | Physically graceful but less robust |
-| **Fae** | 2-10% | Almost ethereal, with minimal physical substance |
+| **Dwarves (Zwerge)** | 50-70% | Außergewöhnlich robust und magieresistent |
+| **Humans (Menschen)** | 20-55% | Vielseitig und anpassungsfähig |
+| **Elves (Elfen)** | 5-25% | Physisch anmutig, aber weniger robust |
+| **Fae (Feen)** | 2-10% | Fast ätherisch, mit minimaler physischer Substanz |
 
-## Applications of Exanthis
+## Anwendungen von Exanthis
 
-**Exanthis** serves numerous practical purposes in the world:
+**Exanthis** dient zahlreichen praktischen Zwecken in der Welt:
 
-### Technological Uses
+### Technologische Anwendungen
 
-- **Weapon and Armor Crafting**: Pure **Exanthis** creates unparalleled weapons and armor
-- **Anti-Magic Devices**: Devices incorporating **Exanthis** can create zones where magic is suppressed
-- **Stabilization Technology**: **Exanthis** is used to ground and stabilize structures in magically volatile regions
-- **Mechanical Engineering**: Forms the basis for precision machinery and complex mechanisms
+- **Weapon and Armor Crafting (Waffen- und Rüstungsherstellung)**: Reines **Exanthis** erzeugt unvergleichliche Waffen und Rüstungen
+- **Anti-Magic Devices (Antimagische Geräte)**: Geräte mit **Exanthis** können Zonen schaffen, in denen Magie unterdrückt wird
+- **Stabilization Technology (Stabilisierungstechnologie)**: **Exanthis** wird verwendet, um Strukturen in magisch instabilen Regionen zu erden und zu stabilisieren
+- **Mechanical Engineering (Maschinenbau)**: Bildet die Grundlage für Präzisionsmaschinen und komplexe Mechanismen
 
-### Medical Applications
+### Medizinische Anwendungen
 
-- **Magical Suppressants**: **Exanthis** dust is used in medicines to treat conditions caused by magical overexposure
-- **Grounding Therapy**: **Exanthis** touchstones help stabilize beings suffering from magical instability
-- **Physical Enhancement**: Carefully administered **Exanthis** treatments can enhance physical resilience
-- **Prosthetics**: **Exanthis** alloys create durable artificial limbs and organs
+- **Magical Suppressants (Magische Unterdrückungsmittel)**: **Exanthis**-Staub wird in Medikamenten verwendet, um Zustände zu behandeln, die durch magische Überbelichtung verursacht werden
+- **Grounding Therapy (Erdungstherapie)**: **Exanthis**-Griffsteine helfen, Wesen zu stabilisieren, die unter magischer Instabilität leiden
+- **Physical Enhancement (Physische Verbesserung)**: Sorgfältig verabreichte **Exanthis**-Behandlungen können die physische Widerstandsfähigkeit verbessern
+- **Prosthetics (Prothetik)**: **Exanthis**-Legierungen schaffen haltbare künstliche Gliedmaßen und Organe
 
-## Metaphysical Significance
+## Metaphysische Bedeutung
 
-Beyond its physical properties, **Exanthis** holds deeper significance:
+Über seine physischen Eigenschaften hinaus hat **Exanthis** eine tiefere Bedeutung:
 
-- Represents the principle of structure and limitation in the cosmos
-- Creates the necessary resistance that allows for meaningful creation
-- Embodies the concept of permanence in an ever-changing world
-- Forms the foundation upon which reality is built
+- Repräsentiert das Prinzip der Struktur und Begrenzung im Kosmos
+- Schafft den notwendigen Widerstand, der eine sinnvolle Schöpfung ermöglicht
+- Verkörpert das Konzept der Beständigkeit in einer sich ständig verändernden Welt
+- Bildet das Fundament, auf dem die Realität aufgebaut ist
 
 ---
 
-> Understanding **Exanthis** provides insight into the foundation of physical reality in the world of **OpenFantasy**, like knowing the materials from which a musical instrument is crafted. It creates the stable foundation upon which the world exists, allowing the symphony of creation to play out across its solid surface.
+> Das Verständnis von **Exanthis** gibt Einblick in die Grundlage der physischen Realität in der Welt von **OpenFantasy**, wie das Wissen um die Materialien, aus denen ein Musikinstrument gefertigt ist. Es schafft das stabile Fundament, auf dem die Welt existiert, und ermöglicht es der Symphonie der Schöpfung, sich auf ihrer festen Oberfläche abzuspielen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

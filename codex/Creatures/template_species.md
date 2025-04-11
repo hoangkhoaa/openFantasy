@@ -1,156 +1,160 @@
-# **[SPECIES_NAME]**: [BRIEF_DESCRIPTION]
+# **[SPECIES_NAME]** (SPEZIES_NAME): [BRIEF_DESCRIPTION] (KURZBESCHREIBUNG)
 
-> *"[QUOTE_ABOUT_SPECIES]"*
+> *"[QUOTE_ABOUT_SPECIES]" ([ZITAT_ÜBER_SPEZIES])"*
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Cultural Aspects](#cultural-aspects)
-- [Species Relationships](#species-relationships)
+- [Elementare Zusammensetzung](#elemental-composition)
+- [Physische Eigenschaften](#physical-characteristics)
+- [Magische Affinität](#magical-affinity)
+- [Lebensraum und Verbreitung](#habitat-and-distribution)
+- [Kulturelle Aspekte](#cultural-aspects)
+- [Beziehungen zu anderen Spezies](#species-relationships)
 
-## Overview
+## Überblick
 
-[OVERVIEW_PARAGRAPH]
+[OVERVIEW_PARAGRAPH] (ÜBERSICHTSPARAGRAPH)
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-**[SPECIES_NAME]** possess a distinctive elemental composition:
+**[SPECIES_NAME]** (SPEZIES_NAME) besitzen eine unverwechselbare elementare Zusammensetzung:
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Soul (Seele) | Mana Capacity (Mana-Kapazität) | Representative Type (Repräsentativer Typ) |
 |----------|------|---------------|---------------------|
-| [E_RANGE]% | [S_RANGE]% | [M_RANGE]% | Standard range for the species |
-| [E_SUBTYPE1]% | [S_SUBTYPE1]% | [M_SUBTYPE1]% | **[SUBTYPE1]** with [SUBTYPE1_TRAITS] |
-| [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** with [SUBTYPE2_TRAITS] |
-| [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** with [SUBTYPE3_TRAITS] |
+| [E_RANGE]% | [S_RANGE]% | [M_RANGE]% | Standardbereich für die Spezies |
+| [E_SUBTYPE1]% | [S_SUBTYPE1]% | [M_SUBTYPE1]% | **[SUBTYPE1]** mit [SUBTYPE1_TRAITS] (SUBTYP1-EIGENSCHAFTEN) |
+| [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** mit [SUBTYPE2_TRAITS] (SUBTYP2-EIGENSCHAFTEN) |
+| [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** mit [SUBTYPE3_TRAITS] (SUBTYP3-EIGENSCHAFTEN) |
 
-### Individual Variations
+### Individuelle Variationen
 
-[VARIATION_PARAGRAPH]
+[VARIATION_PARAGRAPH] (VARIATIONSPARAGRAPH)
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**[SPECIES_NAME]** exhibit distinctive physical traits:
+**[SPECIES_NAME]** (SPEZIES_NAME) weisen unverwechselbare physische Merkmale auf:
 
-| Characteristic | Description |
+| Characteristic (Merkmal) | Description (Beschreibung) |
 |----------------|-------------|
-| **Height** | [HEIGHT_RANGE] |
-| **Weight** | [WEIGHT_RANGE] |
-| **Lifespan** | [LIFESPAN] |
-| **Physical Maturity** | [MATURITY_AGE] |
-| **Notable Features** | [DISTINCTIVE_FEATURES] |
+| **Height (Größe)** | [HEIGHT_RANGE] (GRÖßENBEREICH) |
+| **Weight (Gewicht)** | [WEIGHT_RANGE] (GEWICHTSBEREICH) |
+| **Lifespan (Lebensspanne)** | [LIFESPAN] (LEBENSSPANNE) |
+| **Physical Maturity (Physische Reife)** | [MATURITY_AGE] (REIFEALTER) |
+| **Notable Features (Bemerkenswerte Merkmale)** | [DISTINCTIVE_FEATURES] (AUSPRÄGENDEMERKMALE) |
 
-### Appearance
+### Aussehen
 
-- [APPEARANCE_TRAIT1]
-- [APPEARANCE_TRAIT2]
-- [APPEARANCE_TRAIT3]
-- [APPEARANCE_TRAIT4]
+- [APPEARANCE_TRAIT1] (AUSSEHENSEIGENSCHAFT1)
+- [APPEARANCE_TRAIT2] (AUSSEHENSEIGENSCHAFT2)
+- [APPEARANCE_TRAIT3] (AUSSEHENSEIGENSCHAFT3)
+- [APPEARANCE_TRAIT4] (AUSSEHENSEIGENSCHAFT4)
 
-## Magical Affinity
+## Magische Affinität
 
-**[SPECIES_NAME]** demonstrate [MAGICAL_PROFICIENCY_LEVEL] proficiency in manipulating **Mana**:
+**[SPECIES_NAME]** (SPEZIES_NAME) demonstrieren [MAGICAL_PROFICIENCY_LEVEL] (MAGISCHE FÄHIGKEITSSTUFE) Kompetenz in der Manipulation von **Mana**:
 
-| Aspect | Capability |
+| Aspect (Aspekt) | Capability (Fähigkeit) |
 |--------|------------|
-| **Mana Storage** | [STORAGE_CAPACITY] |
-| **Purification** | [PURIFICATION_ABILITY] |
-| **Casting Speed** | [CASTING_SPEED] |
-| **Natural Affinity** | [NATURAL_MAGIC_TYPE] |
+| **Mana Storage (Mana-Speicherung)** | [STORAGE_CAPACITY] (SPEICHERKAPAZITÄT) |
+| **Purification (Reinigung)** | [PURIFICATION_ABILITY] (REINIGUNGSFÄHIGKEIT) |
+| **Casting Speed (Zaubergeschwindigkeit)** | [CASTING_SPEED] (ZAUBERGESCHWINDIGKEIT) |
+| **Natural Affinity (Natürliche Affinität)** | [NATURAL_MAGIC_TYPE] (NATÜRLICHE MAGIEART) |
 
-### Magical Specializations
+### Magische Spezialisierungen
 
-While **[SPECIES_NAME]** can practice various forms of magic, they often excel in:
+Während **[SPECIES_NAME]** (SPEZIES_NAME) verschiedene Formen der Magie praktizieren können, zeichnen sie sich oft aus in:
 
-- **[SPECIALIZATION1]**: [SPECIALIZATION1_DESCRIPTION]
-- **[SPECIALIZATION2]**: [SPECIALIZATION2_DESCRIPTION]
-- **[SPECIALIZATION3]**: [SPECIALIZATION3_DESCRIPTION]
+- **[SPECIALIZATION1]** (SPEZIALISIERUNG1): [SPECIALIZATION1_DESCRIPTION] (SPEZIALISIERUNG1_BESCHREIBUNG)
+- **[SPECIALIZATION2]** (SPEZIALISIERUNG2): [SPECIALIZATION2_DESCRIPTION] (SPEZIALISIERUNG2_BESCHREIBUNG)
+- **[SPECIALIZATION3]** (SPEZIALISIERUNG3): [SPECIALIZATION3_DESCRIPTION] (SPEZIALISIERUNG3_BESCHREIBUNG)
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**[SPECIES_NAME]** typically inhabit [HABITAT_DESCRIPTION]:
+**[SPECIES_NAME]** (SPEZIES_NAME) bewohnen typischerweise [HABITAT_DESCRIPTION] (HABITATSBESCHREIBUNG):
 
-| Region | Settlement Type | Notable Features |
+| Region | Settlement Type (Siedlungsart) | Notable Features (Bemerkenswerte Merkmale) |
 |--------|----------------|------------------|
-| **[REGION1]** | [SETTLEMENT_TYPE1] | [REGION1_FEATURES] |
-| **[REGION2]** | [SETTLEMENT_TYPE2] | [REGION2_FEATURES] |
-| **[REGION3]** | [SETTLEMENT_TYPE3] | [REGION3_FEATURES] |
+| **[REGION1]** (REGION1) | [SETTLEMENT_TYPE1] (SIEDLUNGSART1) | [REGION1_FEATURES] (REGION1_MERKMALE) |
+| **[REGION2]** (REGION2) | [SETTLEMENT_TYPE2] (SIEDLUNGSART2) | [REGION2_FEATURES] (REGION2_MERKMALE) |
+| **[REGION3]** (REGION3) | [SETTLEMENT_TYPE3] (SIEDLUNGSART3) | [REGION3_FEATURES] (REGION3_MERKMALE) |
 
-### Climate Adaptation
+### Klimaanpassung
 
-[CLIMATE_ADAPTATION_DESCRIPTION]
+[CLIMATE_ADAPTATION_DESCRIPTION] (KLIMAANPASSUNGSBESCHREIBUNG)
 
-## Cultural Aspects
+## Kulturelle Aspekte
 
-The culture of **[SPECIES_NAME]** is characterized by [CULTURE_OVERVIEW]:
+Die Kultur der **[SPECIES_NAME]** (SPEZIES_NAME) ist gekennzeichnet durch [CULTURE_OVERVIEW] (KULTURÜBERBLICK):
 
-### Social Structure
+### Soziale Struktur
 
-[SOCIAL_STRUCTURE_DESCRIPTION]
+[SOCIAL_STRUCTURE_DESCRIPTION] (SOZIALSTRUKTURBESCHREIBUNG)
 
-| Aspect | Details |
+| Aspect (Aspekt) | Details (Details) |
 |--------|---------|
-| **Government** | [GOVERNMENT_TYPE] |
-| **Family Units** | [FAMILY_STRUCTURE] |
-| **Leadership** | [LEADERSHIP_MODEL] |
-| **Social Mobility** | [SOCIAL_MOBILITY] |
+| **Government (Regierung)** | [GOVERNMENT_TYPE] (REGIERUNGSFORM) |
+| **Family Units (Familieneinheiten)** | [FAMILY_STRUCTURE] (FAMILIENSTRUKTUR) |
+| **Leadership (Führung)** | [LEADERSHIP_MODEL] (FÜHRUNGSMODELL) |
+| **Social Mobility (Soziale Mobilität)** | [SOCIAL_MOBILITY] (SOZIALE MOBILITÄT) |
 
-### Core Values
+### Kernwerte
 
-Most **[SPECIES_NAME]** cultures share certain common values:
+Die meisten **[SPECIES_NAME]** (SPEZIES_NAME)-Kulturen teilen bestimmte gemeinsame Werte:
 
-- **[VALUE1]**: [VALUE1_DESCRIPTION]
-- **[VALUE2]**: [VALUE2_DESCRIPTION]
-- **[VALUE3]**: [VALUE3_DESCRIPTION]
-- **[VALUE4]**: [VALUE4_DESCRIPTION]
+- **[VALUE1]** (WERT1): [VALUE1_DESCRIPTION] (WERT1_BESCHREIBUNG)
+- **[VALUE2]** (WERT2): [VALUE2_DESCRIPTION] (WERT2_BESCHREIBUNG)
+- **[VALUE3]** (WERT3): [VALUE3_DESCRIPTION] (WERT3_BESCHREIBUNG)
+- **[VALUE4]** (WERT4): [VALUE4_DESCRIPTION] (WERT4_BESCHREIBUNG)
 
-### Common Occupations
+### Häufige Berufe
 
-Popular professions among **[SPECIES_NAME]** include:
+Beliebte Berufe unter **[SPECIES_NAME]** (SPEZIES_NAME) sind:
 
-- **[OCCUPATION1]**: [OCCUPATION1_DESCRIPTION]
-- **[OCCUPATION2]**: [OCCUPATION2_DESCRIPTION]
-- **[OCCUPATION3]**: [OCCUPATION3_DESCRIPTION]
-- **[OCCUPATION4]**: [OCCUPATION4_DESCRIPTION]
+- **[OCCUPATION1]** (BERUF1): [OCCUPATION1_DESCRIPTION] (BERUF1_BESCHREIBUNG)
+- **[OCCUPATION2]** (BERUF2): [OCCUPATION2_DESCRIPTION] (BERUF2_BESCHREIBUNG)
+- **[OCCUPATION3]** (BERUF3): [OCCUPATION3_DESCRIPTION] (BERUF3_BESCHREIBUNG)
+- **[OCCUPATION4]** (BERUF4): [OCCUPATION4_DESCRIPTION] (BERUF4_BESCHREIBUNG)
 
-## Species Relationships
+## Beziehungen zu anderen Spezies
 
-**[SPECIES_NAME]** interact with other species in distinctive ways:
+**[SPECIES_NAME]** (SPEZIES_NAME) interagieren auf unterschiedliche Weise mit anderen Spezies:
 
-| Species | Relationship | Notable Interactions |
+| Species (Spezies) | Relationship (Beziehung) | Notable Interactions (Bemerkenswerte Interaktionen) |
 |---------|--------------|----------------------|
-| **[RELATION_SPECIES1]** | [RELATIONSHIP_TYPE1] | [INTERACTION_DETAILS1] |
-| **[RELATION_SPECIES2]** | [RELATIONSHIP_TYPE2] | [INTERACTION_DETAILS2] |
-| **[RELATION_SPECIES3]** | [RELATIONSHIP_TYPE3] | [INTERACTION_DETAILS3] |
-| **[RELATION_SPECIES4]** | [RELATIONSHIP_TYPE4] | [INTERACTION_DETAILS4] |
+| **[RELATION_SPECIES1]** (BEZIEHUNGS_SPEZIES1) | [RELATIONSHIP_TYPE1] (BEZIEHUNGSART1) | [INTERACTION_DETAILS1] (INTERAKTIONS_DETAILS1) |
+| **[RELATION_SPECIES2]** (BEZIEHUNGS_SPEZIES2) | [RELATIONSHIP_TYPE2] (BEZIEHUNGSART2) | [INTERACTION_DETAILS2] (INTERAKTIONS_DETAILS2) |
+| **[RELATION_SPECIES3]** (BEZIEHUNGS_SPEZIES3) | [RELATIONSHIP_TYPE3] (BEZIEHUNGSART3) | [INTERACTION_DETAILS3] (INTERAKTIONS_DETAILS3) |
+| **[RELATION_SPECIES4]** (BEZIEHUNGS_SPEZIES4) | [RELATIONSHIP_TYPE4] (BEZIEHUNGSART4) | [INTERACTION_DETAILS4] (INTERAKTIONS_DETAILS4) |
 
-### Diplomatic Approach
+### Diplomatischer Ansatz
 
-[SPECIES_NAME] diplomatic approaches typically emphasize:
+[SPECIES_NAME] (SPEZIES_NAME) diplomatische Ansätze betonen typischerweise:
 
-- [DIPLOMATIC_TRAIT1]
-- [DIPLOMATIC_TRAIT2]
-- [DIPLOMATIC_TRAIT3]
+- [DIPLOMATIC_TRAIT1] (DIPLOMATISCHE_EIGENSCHAFT1)
+- [DIPLOMATIC_TRAIT2] (DIPLOMATISCHE_EIGENSCHAFT2)
+- [DIPLOMATIC_TRAIT3] (DIPLOMATISCHE_EIGENSCHAFT3)
 
-## Notable Traits
+## Bemerkenswerte Eigenschaften
 
-**[SPECIES_NAME]** are characterized by several distinctive traits:
+**[SPECIES_NAME]** (SPEZIES_NAME) zeichnen sich durch mehrere charakteristische Eigenschaften aus:
 
-### Strengths
+### Stärken
 
-- **[STRENGTH1]**: [STRENGTH1_DESCRIPTION]
-- **[STRENGTH2]**: [STRENGTH2_DESCRIPTION]
-- **[STRENGTH3]**: [STRENGTH3_DESCRIPTION]
-- **[STRENGTH4]**: [STRENGTH4_DESCRIPTION]
+- **[STRENGTH1]** (STÄRKE1): [STRENGTH1_DESCRIPTION] (STÄRKE1_BESCHREIBUNG)
+- **[STRENGTH2]** (STÄRKE2): [STRENGTH2_DESCRIPTION] (STÄRKE2_BESCHREIBUNG)
+- **[STRENGTH3]** (STÄRKE3): [STRENGTH3_DESCRIPTION] (STÄRKE3_BESCHREIBUNG)
+- **[STRENGTH4]** (STÄRKE4): [STRENGTH4_DESCRIPTION] (STÄRKE4_BESCHREIBUNG)
 
-### Challenges
+### Herausforderungen
 
-- **[CHALLENGE1]**: [CHALLENGE1_DESCRIPTION]
-- **[CHALLENGE2]**: [CHALLENGE2_DESCRIPTION]
-- **[CHALLENGE3]**: [CHALLENGE3_DESCRIPTION]
+- **[CHALLENGE1]** (HERAUSFORDERUNG1): [CHALLENGE1_DESCRIPTION] (HERAUSFORDERUNG1_BESCHREIBUNG)
+- **[CHALLENGE2]** (HERAUSFORDERUNG2): [CHALLENGE2_DESCRIPTION] (HERAUSFORDERUNG2_BESCHREIBUNG)
+- **[CHALLENGE3]** (HERAUSFORDERUNG3): [CHALLENGE3_DESCRIPTION] (HERAUSFORDERUNG3_BESCHREIBUNG)
 
 ---
 
-> Understanding the **[SPECIES_NAME]** provides insight into [SPECIES_SIGNIFICANCE] in the world of **OpenFantasy**. 
+> Das Verständnis der **[SPECIES_NAME]** (SPEZIES_NAME) bietet Einblick in [SPECIES_SIGNIFICANCE] (SPEZIES_BEDEUTUNG) in der Welt von OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

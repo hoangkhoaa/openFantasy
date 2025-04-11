@@ -1,123 +1,127 @@
-# Inspire Courage
+# Mut zur Inspiration
 
-> *"When fear grips the heart, a single melody can rekindle the flame of bravery."*  
-> — Jalavar Swiftstrings, Battle-Bard of the Western Front
+> *"Wenn die Angst das Herz ergreift, kann eine einzige Melodie die Flamme des Mutes neu entfachen."*
+> — Jalavar Swiftstrings (Jalavar Flinkesaiten), Schlacht-Barde (Schlacht-Barde) der Westfront
 
-## Quick Reference
+## Kurzübersicht
 
-- **Casting Time:** 6 seconds (performance action)
-- **Duration:** 30 seconds to 2 minutes
-- **Range:** 9 meters radius (centered on bard)
-- **Components:** Verbal, Somatic, Instrumental (optional but enhances effect)
-- **School:** Enchantment (Courage-Weaving)
-- **Classification:** Support/Enhancement
-- **Difficulty:** Intermediate
-- **Purity Required:** Basic (20-30%)
-- **Minimum Mana Capacity:** 20% (Higher capacity extends duration and radius)
+- **Zauberzeit:** 6 Sekunden (Performance-Aktion)
+- **Dauer:** 30 Sekunden bis 2 Minuten
+- **Reichweite:** 9 Meter Radius (zentriert auf den Barden (Barde))
+- **Komponenten:** Verbal, Somatisch, Instrumental (optional, verstärkt aber den Effekt)
+- **Schule:** Verzauberung (Mut-Weben)
+- **Klassifizierung:** Unterstützung/Verstärkung
+- **Schwierigkeit:** Mittel
+- **Erforderliche Reinheit:** Grundlegend (20-30%)
+- **Minimale Mana-Kapazität:** 20% (Höhere Kapazität verlängert Dauer und Radius)
 
-## Technical Details
+## Technische Details
 
-Inspire Courage creates a mana-harmonic field that resonates with allies' courage centers in both mind and spirit. The spell weaves a pattern of enchantment energy that directly counters fear responses while enhancing confidence and resolute action.
+Mut zur Inspiration (Mut zur Inspiration) erzeugt ein Mana-harmonisches Feld, das mit den Mut-Zentren der Verbündeten in Geist und Seele resoniert. Der Zauber (Zauber) webt ein Muster aus Verzauberungsenergie, das Angstreaktionen direkt entgegenwirkt und gleichzeitig Selbstvertrauen und entschlossenes Handeln verstärkt.
 
-### Mana Composition
-- **Primary:** Base Mana (Inspiration) 50-65%
-- **Secondary:** Mentimana 25-35%
-- **Tertiary:** Vitomana 10-15%
+### Mana-Zusammensetzung
+- **Primär:** Basis-Mana (Inspiration) 50-65%
+- **Sekundär:** Mentimana 25-35%
+- **Tertiär:** Vitomana 10-15%
 
-### Purity Influence on Effect
-- **15-20% Purity:** Minimal effect, provides resistance to fear effects but little combat enhancement
-- **20-30% Purity:** Standard effect, grants both fear resistance and moderate combat enhancement
-- **30-45% Purity:** Enhanced effect, stronger combat bonuses and complete immunity to minor fear effects
-- **45%+ Purity:** Master effect, extends duration significantly and provides partial resistance even to magical dread effects
+### Reinheitseinfluss auf den Effekt
+- **15-20% Reinheit:** Minimale Wirkung, bietet Widerstand gegen Angsteffekte, aber wenig Kampfverbesserung
+- **20-30% Reinheit:** Standardeffekt, gewährt sowohl Angstresistenz als auch moderate Kampfverbesserung
+- **30-45% Reinheit:** Verstärkter Effekt, stärkere Kampfboni und vollständige Immunität gegen geringfügige Angsteffekte
+- **45%+ Reinheit:** Meistereffekt, verlängert die Dauer erheblich und bietet selbst gegen magische Schreckenseffekte teilweisen Widerstand
 
-### Harmonic Pattern
-The spell follows a rising melodic pattern that creates resonance points within allies' mana networks. These resonance points generate counter-frequencies to fear-inducing stimuli while amplifying natural courage responses.
+### Harmonisches Muster
+Der Zauber (Zauber) folgt einem aufsteigenden melodischen Muster, das Resonanzpunkte innerhalb der Mana-Netzwerke der Verbündeten erzeugt. Diese Resonanzpunkte erzeugen Gegenfrequenzen zu angstauslösenden Reizen und verstärken gleichzeitig natürliche Mutreaktionen.
 
-## Practical Effects
+## Praktische Auswirkungen
 
-When successfully cast, Inspire Courage produces the following effects on allies within range:
+Wenn Mut zur Inspiration (Mut zur Inspiration) erfolgreich gewirkt wird, erzeugt es die folgenden Effekte auf Verbündete in Reichweite:
 
-1. **Courage Enhancement:** Recipients experience a noticeable reduction in fear response, both natural and magical. Their threshold for fear-inducing stimuli increases by 30-60% depending on casting purity.
+1. **Mutverstärkung:** Die Empfänger erleben eine spürbare Verringerung der Angstreaktion, sowohl natürlich als auch magisch. Ihre Schwelle für angstauslösende Reize erhöht sich je nach Reinheit des Zaubers um 30-60%.
 
-2. **Combat Prowess:** The harmonic resonance enhances physical performance by 10-25% through the reduction of hesitation and doubt. This manifests as improved reaction time, strike precision, and force application.
+2. **Kampffertigkeit:** Die harmonische Resonanz verbessert die körperliche Leistungsfähigkeit um 10-25% durch die Reduzierung von Zögern und Zweifeln. Dies äußert sich in verbesserter Reaktionszeit, Treffgenauigkeit und Kraftanwendung.
 
-3. **Pain Resilience:** Recipients can withstand 15-30% more pain before performance degradation, allowing them to fight effectively despite injuries that would normally impair function.
+3. **Schmerzresistenz:** Die Empfänger können 15-30% mehr Schmerzen ertragen, bevor die Leistung nachlässt, sodass sie trotz Verletzungen, die normalerweise die Funktion beeinträchtigen würden, effektiv kämpfen können.
 
-4. **Morale Stability:** The group experiences a collective resilience against demoralization, creating a feedback loop where individual courage reinforces group courage.
+4. **Moralische Stabilität:** Die Gruppe erlebt eine kollektive Widerstandsfähigkeit gegen Demoralisierung, wodurch eine Rückkopplungsschleife entsteht, in der der individuelle Mut den Mut der Gruppe verstärkt.
 
-## Casting Process
+## Zauberprozess
 
-The bard channels mana through emotional expression focused on themes of courage, victory, or heroism. The casting follows a specific progression:
+Der Barde (Barde) kanalisiert Mana durch emotionalen Ausdruck, der sich auf Themen wie Mut, Sieg oder Heldentum konzentriert. Der Zauber folgt einer bestimmten Abfolge:
 
-1. **Initiation:** The bard begins a performance (instrumental, vocal, or both) with an uplifting motif that serves as the spell's foundation.
+1. **Initiierung:** Der Barde (Barde) beginnt eine Darbietung (instrumental, vokal oder beides) mit einem erhebenden Motiv, das als Grundlage des Zaubers (Zauber) dient.
 
-2. **Mana Infusion:** As the performance continues, the bard infuses the sound waves with mana, creating a resonant enchantment field.
+2. **Mana-Infusion:** Während die Darbietung andauert, infundiert der Barde (Barde) die Schallwellen mit Mana und erzeugt so ein resonantes Verzauberungsfeld.
 
-3. **Harmonic Expansion:** The mana-infused performance expands outward, seeking compatible mana signatures of allies.
+3. **Harmonische Ausdehnung:** Die mit Mana angereicherte Darbietung dehnt sich nach außen aus und sucht nach kompatiblen Mana-Signaturen von Verbündeten.
 
-4. **Connection Establishment:** When the spell connects with an ally, a momentary flash of golden light may appear at the point of connection (visible only to those with magical sight).
+4. **Verbindungsaufbau:** Wenn der Zauber (Zauber) sich mit einem Verbündeten verbindet, kann an der Verbindungsstelle ein kurzer goldener Lichtblitz erscheinen (nur für diejenigen mit magischem Sehvermögen sichtbar).
 
-5. **Maintenance:** The bard must maintain at least a subtle performance to sustain the effect for its duration.
+5. **Aufrechterhaltung:** Der Barde (Barde) muss mindestens eine subtile Darbietung aufrechterhalten, um die Wirkung für die Dauer aufrechtzuerhalten.
 
-## Common Applications
+## Häufige Anwendungen
 
-- **Pre-Battle Inspiration:** Most commonly used before engaging in combat to prepare allies mentally and emotionally
-- **Fear Resistance:** Particularly effective against creatures that use fear as a weapon
-- **Morale Recovery:** Can reverse a deteriorating battlefield situation by restoring group confidence
-- **Performance Enhancement:** Used in non-combat situations to help allies perform under pressure
-- **Training Aid:** Helps novices overcome fear during intense training scenarios
+- **Inspiration vor der Schlacht:** Wird am häufigsten vor dem Kampf eingesetzt, um Verbündete mental und emotional vorzubereiten
+- **Angstresistenz:** Besonders wirksam gegen Kreaturen, die Angst als Waffe einsetzen
+- **Moralische Wiederherstellung:** Kann eine sich verschlechternde Schlachtfeldsituation umkehren, indem das Vertrauen der Gruppe wiederhergestellt wird
+- **Leistungssteigerung:** Wird in Nicht-Kampfsituationen eingesetzt, um Verbündeten zu helfen, unter Druck Leistung zu erbringen
+- **Trainingshilfe:** Hilft Anfängern, Angst in intensiven Trainingsszenarien zu überwinden
 
-## Variations
+## Variationen
 
-### Battle Anthem
-A more martially-focused version that enhances physical prowess at the expense of fear resistance.
-- **Mana Composition:** Shifts to 60% Base Mana, 15% Mentimana, 25% Vitomana
-- **Purity Required:** 25-35%
-- **Effect:** Combat enhancement increases to 20-35%, fear resistance reduced to 15-25%
+### Schlachtgesang
+Eine stärker militärisch ausgerichtete Version, die die körperliche Leistungsfähigkeit auf Kosten der Angstresistenz verbessert.
+- **Mana-Zusammensetzung:** Verschiebt sich auf 60% Basis-Mana, 15% Mentimana, 25% Vitomana
+- **Erforderliche Reinheit:** 25-35%
+- **Effekt:** Die Kampfverbesserung steigt auf 20-35%, die Angstresistenz sinkt auf 15-25%
 
-### Heroic Resonance
-A sustained version that creates a longer-lasting but more subtle effect.
-- **Casting Time:** 30 seconds
-- **Duration:** Up to 1 hour
-- **Purity Required:** 35-45%
-- **Effect:** Provides 50% of standard combat enhancement but maintains fear resistance at full strength
+### Heldenhafte Resonanz
+Eine nachhaltige Version, die eine länger anhaltende, aber subtilere Wirkung erzeugt.
+- **Zauberzeit:** 30 Sekunden
+- **Dauer:** Bis zu 1 Stunde
+- **Erforderliche Reinheit:** 35-45%
+- **Effekt:** Bietet 50% der Standard-Kampfverbesserung, behält aber die Angstresistenz bei voller Stärke bei
 
-### Silent Valor
-A version that can be cast without audible components, relying on subtle body language and direct mana projection.
-- **Components:** Somatic only
-- **Range:** Reduced to 5 meters
-- **Purity Required:** 40-50%
-- **Effect:** Standard effects but more difficult to maintain and detect
+### Stummer Mut
+Eine Version, die ohne hörbare Komponenten gewirkt werden kann und sich auf subtile Körpersprache und direkte Mana-Projektion verlässt.
+- **Komponenten:** Nur somatisch
+- **Reichweite:** Reduziert auf 5 Meter
+- **Erforderliche Reinheit:** 40-50%
+- **Effekt:** Standardeffekte, aber schwieriger aufrechtzuerhalten und zu erkennen
 
-## Risks and Miscast Effects
+## Risiken und Fehlzaubereffekte
 
-### Overconfidence
-Insufficient control (purity below 20%) can cause recipients to become recklessly overconfident, leading them to underestimate dangers.
+### Übermut
+Unzureichende Kontrolle (Reinheit unter 20%) kann dazu führen, dass die Empfänger rücksichtslos übermütig werden, was dazu führt, dass sie Gefahren unterschätzen.
 
-### Emotional Dependency
-If the spell is maintained too long (beyond 10 minutes) or cast repeatedly within a short timeframe, recipients may develop temporary dependency, experiencing heightened fear when the effect ends.
+### Emotionale Abhängigkeit
+Wenn der Zauber (Zauber) zu lange aufrechterhalten wird (länger als 10 Minuten) oder wiederholt innerhalb kurzer Zeit gewirkt wird, können die Empfänger eine vorübergehende Abhängigkeit entwickeln, die bei Ende der Wirkung zu erhöhter Angst führt.
 
-### Resonance Backlash
-Critical failure (purity below 15%) can create a reverse effect, momentarily amplifying fear responses instead of suppressing them.
+### Resonanz-Rückschlag
+Kritisches Versagen (Reinheit unter 15%) kann einen umgekehrten Effekt erzeugen und die Angstreaktionen anstatt sie zu unterdrücken, kurzzeitig verstärken.
 
-### Performance Pressure
-If the bard becomes the target of significant attacks while maintaining the spell, concentration checks are required to prevent premature termination of the effect.
+### Leistungsdruck
+Wenn der Barde (Barde) während der Aufrechterhaltung des Zaubers (Zauber) zum Ziel bedeutender Angriffe wird, sind Konzentrationsprüfungen erforderlich, um eine vorzeitige Beendigung der Wirkung zu verhindern.
 
-## Musical Analogy
+## Musikalische Analogie
 
-Casting Inspire Courage is like performing a military march that gradually shifts to a heroic anthem. The percussive elements establish rhythm (the spell's structure), while brass elements provide power (the courage enhancement) and melodic components create emotional resonance (the fear resistance). The performer must maintain the driving tempo while ensuring harmonies remain uplifting rather than aggressive.
+Mut zur Inspiration (Mut zur Inspiration) zu wirken, ist wie das Aufführen eines Militärmarsches, der allmählich in eine heroische Hymne übergeht. Die perkussiven Elemente etablieren den Rhythmus (die Struktur des Zaubers (Zauber)), während Blechbläser die Kraft (die Mutverbesserung) liefern und melodische Komponenten emotionale Resonanz erzeugen (die Angstresistenz). Der Interpret muss das treibende Tempo beibehalten und gleichzeitig sicherstellen, dass die Harmonien eher erhebend als aggressiv bleiben.
 
-## Learning Progression
+## Lernfortschritt
 
-| Stage | Description | Typical Timeline |
+| Stage (Stufe) | Description (Beschreibung) | Typical Timeline (Typischer Zeitrahmen) |
 |-------|-------------|------------------|
-| **Novice** | Basic single-target version with minimal combat enhancement | 6-8 weeks of practice |
-| **Apprentice** | Small group effect (3-4 targets) with moderate enhancement | 4-6 months of practice |
-| **Adept** | Standard version affecting up to 10 allies with full effects | 1-2 years of practice |
-| **Master** | Extended range and duration with enhanced effects | 3-5 years of refinement |
+| **Novice (Anfänger)** | Basic single-target version with minimal combat enhancement (Einfache Einzelzielversion mit minimaler Kampfverbesserung) | 6-8 weeks of practice (6-8 Wochen Übung) |
+| **Apprentice (Lehrling)** | Small group effect (3-4 targets) with moderate enhancement (Kleiner Gruppeneffekt (3-4 Ziele) mit moderater Verbesserung) | 4-6 months of practice (4-6 Monate Übung) |
+| **Adept (Experte)** | Standard version affecting up to 10 allies with full effects (Standardversion, die bis zu 10 Verbündete mit vollen Effekten betrifft) | 1-2 years of practice (1-2 Jahre Übung) |
+| **Master (Meister)** | Extended range and duration with enhanced effects (Erweiterte Reichweite und Dauer mit verbesserten Effekten) | 3-5 years of refinement (3-5 Jahre Verfeinerung) |
 
-## Historical Note
+## Historische Notiz
 
-Inspire Courage was first formalized by the Battle-Bards of the Crimson Legion during the Moonfall War. These specialized bards developed techniques to maintain morale against the unnatural fear induced by shadow-tainted creatures. The spell has been refined over generations, with each major bardic college adding its own variations and enhancements to the core technique.
+Mut zur Inspiration (Mut zur Inspiration) wurde zuerst von den Schlacht-Barden (Schlacht-Barden) der Crimson Legion (Purpurroten Legion) während des Moonfall War (Mondsturz-Krieges) formalisiert. Diese spezialisierten Barden (Barden) entwickelten Techniken, um die Moral gegen die unnatürliche Angst aufrechtzuerhalten, die von schattenbefleckten Kreaturen hervorgerufen wurde. Der Zauber (Zauber) wurde über Generationen hinweg verfeinert, wobei jedes größere bardische College (Barden-Kollegium) seine eigenen Variationen und Verbesserungen der Kerntechnik hinzufügte.
 
-The most famous recorded use was by Malian Silvervoice at the Battle of Thornvale Pass, where her performance allowed a force of 300 defenders to stand against over 2,000 attackers for three days until reinforcements arrived. 
+Die berühmteste aufgezeichnete Verwendung war durch Malian Silvervoice (Malian Silberstimme) in der Battle of Thornvale Pass (Schlacht am Dornentalpass), wo ihre Darbietung es einer Truppe von 300 Verteidigern ermöglichte, drei Tage lang gegen über 2.000 Angreifer standzuhalten, bis Verstärkung eintraf.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

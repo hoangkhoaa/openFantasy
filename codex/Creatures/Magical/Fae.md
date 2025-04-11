@@ -1,105 +1,109 @@
-# **Fae**: The Ethereal Dancers of Magic
+# **Fae** (Feen): Die ätherischen Tänzer der Magie
 
-[**Fae**](/codex/Creatures/Fae.md) are the ethereal dancers of magic, their bodies a delicate harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a shimmering harp, they resonate most strongly with the ethereal currents of [**Mana**](/codex/Basic/Mana.md), creating a unique melody of existence that bridges the material and spiritual realms.
+[**Fae**](/codex/Creatures/Fae.md) (Feen) sind die ätherischen Tänzer der Magie, ihre Körper eine zarte Harmonie aus [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md) (Seelen) und **Mana Capacity** (Manakapazität). Wie eine schimmernde Harfe resonieren sie am stärksten mit den ätherischen Strömungen von [**Mana**](/codex/Basic/Mana.md), wodurch eine einzigartige Melodie der Existenz entsteht, die die materielle und spirituelle Welt verbindet.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **fae** forms a harmony that favors magical potential:
+Wie unter [Creatures](/codex/Creatures/Creatures.md) (Kreaturen) beschrieben, bildet das typische Verhältnis für **fae** (Feen) eine Harmonie, die das magische Potenzial begünstigt:
 
-| Element | Range | Function |
+| Element | Bereich | Funktion |
 |---------|------------|----------|
-| **Exanthis** | 5-25% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 15-35% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 50-80% | The bridge between worlds that enables extraordinary magical potential |
+| **Exanthis** | 5-25% | Das kristalline Herz, das minimale physische Stärke und Haltbarkeit bietet |
+| **Soul** (Seele) | 15-35% | Die ätherische Essenz, die ein fließendes und anpassungsfähiges Bewusstsein formt |
+| **Mana Capacity** (Manakapazität) | 50-80% | Die Brücke zwischen den Welten, die außergewöhnliches magisches Potenzial ermöglicht |
 
-This composition grants **fae** their characteristic magical prowess but severely limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Diese Zusammensetzung verleiht **fae** (Feen) ihre charakteristische magische Leistungsfähigkeit, schränkt aber ihre physische Widerstandsfähigkeit im Vergleich zu anderen Spezies stark ein, wie ein zartes Instrument, das wunderschöne Klänge erzeugt, aber mit Sorgfalt behandelt werden muss.
 
-### Individual Variations
+### Individuelle Variationen
 
-While the model composition represents the typical fae, individual variations exist:
+Während die Modellzusammensetzung die typische Fee darstellt, gibt es individuelle Variationen:
 
-- **Arcane Fae**: Some fae possess Mana Capacity as high as 85%, making them among the most powerful spellcasters in existence, though physically fragile with as little as 5% Exanthis.
-- **Court Champions**: Rare fae have Exanthis levels approaching 30%, allowing them to serve as defenders of their courts while maintaining significant magical abilities (55% Mana Capacity).
-- **Dream Weavers**: Those with higher Soul percentages (up to 40%) develop exceptional abilities in manipulating consciousness and dreams, often becoming powerful enchanters or diplomatic emissaries.
-- **Seasonal Fae**: Specialized fae with composition tailored to their court's season (e.g., Summer Court: 15% Exanthis, 25% Soul, 60% Mana Capacity; Winter Court: 20% Exanthis, 20% Soul, 60% Mana Capacity).
-- **Twilight Dancers**: A unique composition of (10% Exanthis, 30% Soul, 60% Mana Capacity) creates fae who excel at manipulating the boundaries between worlds and realities.
+- **Arcane Fae** (Arkane Feen): Einige Feen besitzen eine Manakapazität von bis zu 85%, was sie zu den mächtigsten Zauberwirkern überhaupt macht, obwohl sie mit nur 5% Exanthis körperlich zerbrechlich sind.
+- **Court Champions** (Hof-Champions): Seltene Feen haben Exanthis-Werte von fast 30%, wodurch sie als Verteidiger ihrer Höfe dienen können und gleichzeitig erhebliche magische Fähigkeiten (55% Manakapazität) besitzen.
+- **Dream Weavers** (Traumweber): Diejenigen mit höheren Seelenprozentsätzen (bis zu 40%) entwickeln außergewöhnliche Fähigkeiten in der Manipulation von Bewusstsein und Träumen und werden oft zu mächtigen Verzauberern oder diplomatischen Gesandten.
+- **Seasonal Fae** (Jahreszeiten-Feen): Spezialisierte Feen mit einer Zusammensetzung, die auf die Jahreszeit ihres Hofes zugeschnitten ist (z. B. Sommerhof: 15% Exanthis, 25% Seele, 60% Manakapazität; Winterhof: 20% Exanthis, 20% Seele, 60% Manakapazität).
+- **Twilight Dancers** (Zwielichttänzer): Eine einzigartige Zusammensetzung von (10% Exanthis, 30% Seele, 60% Manakapazität) erschafft Feen, die sich hervorragend darin auskennen, die Grenzen zwischen Welten und Realitäten zu manipulieren.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Fae** are known for their ethereal beauty and otherworldly appearance:
-- Slender and graceful, with proportions that seem to defy reality
-- Eyes that shimmer with inner light, reflecting their connection to **Mana**
-- Ears that extend into elegant points, attuned to the subtle harmonies of magic
-- Skin that seems to glow with inner light, like moonlight on water
-- Hair that flows with an otherworldly grace, often in impossible colors
-- Wings that vary in form from delicate insect-like structures to ethereal light
+**Fae** (Feen) sind bekannt für ihre ätherische Schönheit und ihr jenseitiges Aussehen:
+- Schlank und anmutig, mit Proportionen, die die Realität zu verleugnen scheinen
+- Augen, die mit innerem Licht schimmern und ihre Verbindung zu **Mana** widerspiegeln
+- Ohren, die sich zu eleganten Spitzen verlängern, abgestimmt auf die subtilen Harmonien der Magie
+- Haut, die mit innerem Licht zu leuchten scheint, wie Mondlicht auf dem Wasser
+- Haar, das mit einer jenseitigen Anmut fließt, oft in unmöglichen Farben
+- Flügel, die in ihrer Form von zarten insektenartigen Strukturen bis hin zu ätherischem Licht variieren
 
-## Magical Affinity
+## Magische Affinität
 
-**Fae** demonstrate exceptional proficiency in manipulating **Mana**, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Store vast amounts of **Mana** within their mana reservoirs, like deep wells of liquid light
-- Achieve extraordinary purity levels in spell casting, like artists painting with pure starlight
-- Specialize in enchantment and illusion magic with unparalleled mastery, like composers who have perfected the art of creating beautiful lies
+**Fae** (Feen) demonstrieren außergewöhnliche Fähigkeiten in der Manipulation von **Mana**, wie virtuose Musiker, die ihre Instrumente beherrschen. Ihre Zusammensetzung ermöglicht es ihnen:
+- Riesige Mengen an **Mana** in ihren Manareservoirs zu speichern, wie tiefe Brunnen aus flüssigem Licht
+- Außergewöhnliche Reinheitsgrade beim Zaubern zu erreichen, wie Künstler, die mit reinem Sternenlicht malen
+- Sich mit unvergleichlicher Meisterschaft auf Verzauberungs- und Illusionsmagie zu spezialisieren, wie Komponisten, die die Kunst des Erschaffens schöner Lügen perfektioniert haben
 
-This specialization makes **fae** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Diese Spezialisierung macht **fae** (Feen) in der Lage, die höchsten Grade an Können in ihren gewählten magischen Traditionen zu erreichen, obwohl sie mit Aufgaben zu kämpfen haben, die physische Stärke oder Widerstandsfähigkeit erfordern, wie ein zartes Instrument, das wunderschöne Klänge erzeugt, aber rauer Behandlung nicht standhalten kann.
 
-## Lifespan and Soul Decay
+## Lebensspanne und Seelenverfall
 
-The **soul decay** timeline for **fae**, from birth to complete decay, is approximately 800 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+Der Zeitrahmen für den **soul decay** (Seelenverfall) bei **fae** (Feen), von der Geburt bis zum vollständigen Verfall, beträgt etwa 800 Jahre, wie eine langsam brennende Flamme, die die Zeitalter erhellt. Diese verlängerte Lebensspanne ermöglicht es ihnen:
+- Über Jahrhunderte hinweg enormes Wissen und Weisheit anzusammeln
+- Tiefe Verbindungen zu bestimmten Orten und magischen Traditionen aufzubauen
+- Komplexe Gesellschaften mit komplizierten Bräuchen und Ritualen zu bilden
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Ihr langsamerer Seelenverfall bedeutet jedoch auch, dass sie sich langsamer verändern und anpassen als andere Spezies, wie eine Melodie, die durch die Zeitalter hindurch schön, aber unverändert bleibt.
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**Fae** primarily inhabit:
-- **Eastern Veldrassil**, where the currents of **Mana** flow most intensely
-- Enchanted forests and magical groves, where the boundaries between worlds grow thin
-- Floating islands and crystal spires, where they can be closer to the celestial harmonies
-- Hidden realms accessible only through magical portals, like secret gardens of light
+**Fae** (Feen) bewohnen hauptsächlich:
+- **Eastern Veldrassil** (Östliches Veldrassil), wo die Strömungen von **Mana** am stärksten fließen
+- Verzauberte Wälder und magische Haine, wo die Grenzen zwischen den Welten dünn werden
+- Schwebende Inseln und Kristallspitzen, wo sie den himmlischen Harmonien näher sein können
+- Verborgene Reiche, die nur durch magische Portale zugänglich sind, wie geheime Gärten des Lichts
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Diese Orte bieten ideale Umgebungen für magisches Studium und spirituelle Kontemplation, wie eine perfekte Akustik für eine Symphonie.
 
-## Cultural Impact
+## Kulturelle Auswirkung
 
-In the world of **OpenFantasy**, **fae** play a crucial role in preserving ancient magical traditions and enchanting the world with beauty, like weavers of ethereal melodies. Their societies are centers of:
-- Arcane research and magical innovation
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+In der Welt von OpenFantasy spielen **fae** (Feen) eine entscheidende Rolle bei der Bewahrung alter magischer Traditionen und der Verzauberung der Welt mit Schönheit, wie Weber ätherischer Melodien. Ihre Gesellschaften sind Zentren von:
+- Arkaner Forschung und magischer Innovation
+- Künstlerischem Ausdruck und ästhetischer Verfeinerung
+- Diplomatischen Beziehungen und kulturellem Austausch
 
-The proximity to the strongest currents of **Mana** has shaped fae culture around the study and mastery of magic, creating a society where magical ability and beauty are highly valued.
+Die Nähe zu den stärksten Strömungen von **Mana** hat die Feenkultur um das Studium und die Beherrschung der Magie herum geprägt und eine Gesellschaft geschaffen, in der magische Fähigkeiten und Schönheit hoch geschätzt werden.
 
-## Relationship with Other Species
+## Beziehung zu anderen Spezies
 
-**Fae** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and amusement, often leading to complex interactions
-- With **Elves**: A deep connection based on shared magical affinities and aesthetic sensibilities
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Beastfolk**: A wary relationship, as beastfolk are less susceptible to fae enchantments
+**Fae** (Feen) pflegen komplexe Beziehungen zu anderen Spezies:
+- Mit [**Humans**](/codex/Creatures/Human.md) (Menschen): Eine Mischung aus Faszination und Belustigung, die oft zu komplexen Interaktionen führt
+- Mit **Elves** (Elfen): Eine tiefe Verbindung, die auf gemeinsamen magischen Affinitäten und ästhetischen Sensibilitäten basiert
+- Mit **Dwarves** (Zwergen): Eine respektvolle Distanz, die ihr Handwerk anerkennt, aber ihre Wege seltsam findet
+- Mit **Beastfolk** (Tiermenschen): Eine misstrauische Beziehung, da Tiermenschen weniger anfällig für Feenverzauberungen sind
 
-These relationships are often characterized by a sense of cultural superiority, as **fae** view themselves as the true children of magic and beauty.
+Diese Beziehungen sind oft von einem Gefühl kultureller Überlegenheit geprägt, da **fae** (Feen) sich selbst als die wahren Kinder der Magie und Schönheit betrachten.
 
-## Notable Fae Traits
+## Bemerkenswerte Feenmerkmale
 
-- **Magical Mastery**: Fae excel in enchantment and illusion magic, often specializing in one area to the exclusion of others
-- **Ethereal Beauty**: Fae possess an otherworldly beauty that can be both enchanting and unsettling
-- **Environmental Sensitivity**: Fae are deeply attuned to their surroundings, particularly in magical environments
-- **Cultural Preservation**: Fae societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Fae have developed highly refined artistic and cultural traditions
+- **Magical Mastery** (Magische Meisterschaft): Feen zeichnen sich in Verzauberungs- und Illusionsmagie aus und spezialisieren sich oft auf einen Bereich unter Ausschluss anderer
+- **Ethereal Beauty** (Ätherische Schönheit): Feen besitzen eine jenseitige Schönheit, die sowohl bezaubernd als auch beunruhigend sein kann
+- **Environmental Sensitivity** (Umweltsensibilität): Feen sind tief mit ihrer Umgebung verbunden, insbesondere in magischen Umgebungen
+- **Cultural Preservation** (Kulturelle Bewahrung): Feengesellschaften legen großen Wert auf die Bewahrung von Traditionen und Wissen
+- **Aesthetic Refinement** (Ästhetische Verfeinerung): Feen haben hochentwickelte künstlerische und kulturelle Traditionen entwickelt
 
-## Fae Courts
+## Feenhöfe
 
-Fae society is organized into numerous courts, each with its own specialties and traditions:
+Die Feengesellschaft ist in zahlreiche Höfe unterteilt, von denen jeder seine eigenen Spezialitäten und Traditionen hat:
 
-| Court | Specialty | Territory | Notable Traits |
+| Court (Hof) | Specialty (Spezialität) | Territory (Territorium) | Notable Traits (Bemerkenswerte Eigenschaften) |
 |---------|---------------|---------|-------------------|
-| **Summer Court** | Light magic, growth | Sunlit groves | Radiant beauty, nurturing magic |
-| **Winter Court** | Ice magic, preservation | Frost-covered realms | Cold precision, preservation magic |
-| **Spring Court** | Life magic, renewal | Blooming gardens | Fertility magic, renewal rituals |
-| **Autumn Court** | Transformation magic, harvest | Golden forests | Change magic, harvest celebrations |
-| **Twilight Court** | Shadow magic, transition | Dusk-lit realms | Transition magic, balance between light and dark |
-| **Dawn Court** | Hope magic, new beginnings | Morning-lit meadows | Hope magic, new beginning rituals |
+| **Summer Court** (Sommerhof) | Light magic, growth (Lichtmagie, Wachstum) | Sunlit groves (Sonnenbeschienene Haine) | Radiant beauty, nurturing magic (Strahlende Schönheit, nährende Magie) |
+| **Winter Court** (Winterhof) | Ice magic, preservation (Eismagie, Bewahrung) | Frost-covered realms (Frostbedeckte Reiche) | Cold precision, preservation magic (Kalte Präzision, Bewahrungsmagie) |
+| **Spring Court** (Frühlingshof) | Life magic, renewal (Lebensmagie, Erneuerung) | Blooming gardens (Blühende Gärten) | Fertility magic, renewal rituals (Fruchtbarkeitsmagie, Erneuerungsrituale) |
+| **Autumn Court** (Herbsthof) | Transformation magic, harvest (Transformationsmagie, Ernte) | Golden forests (Goldene Wälder) | Change magic, harvest celebrations (Veränderungsmagie, Erntefeiern) |
+| **Twilight Court** (Zwielichthof) | Shadow magic, transition (Schattenmagie, Übergang) | Dusk-lit realms (Dämmerbeschienene Reiche) | Transition magic, balance between light and dark (Übergangsmagie, Gleichgewicht zwischen Licht und Dunkelheit) |
+| **Dawn Court** (Morgenhof) | Hope magic, new beginnings (Hoffnungsmagie, Neuanfänge) | Morning-lit meadows (Morgenbeschienene Wiesen) | Hope magic, new beginning rituals (Hoffnungsmagie, Neuanfangsrituale) |
 
-Understanding the nature of **fae** provides insight into the magical and aesthetic aspects of the world of **OpenFantasy**, like listening to the ethereal melodies that dance through the enchanted forests and crystal spires. 
+Das Verständnis der Natur von **fae** (Feen) gibt Einblick in die magischen und ästhetischen Aspekte der Welt von OpenFantasy, wie das Zuhören der ätherischen Melodien, die durch die verzauberten Wälder und Kristallspitzen tanzen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,120 +1,124 @@
-# **Ranger**: The Voices of the Wild
+# **Waldläufer (Ranger)**: Die Stimmen der Wildnis
 
-[**Rangers**](/codex/Classes/Ranger/Ranger.md) are the voices of the wild, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a woodwind that echoes the sounds of the forest, they commune with nature, creating a unique melody of existence that emphasizes survival, tracking, and the connection to the natural world.
+[**Waldläufer (Rangers)**](/codex/Classes/Ranger/Ranger.md) sind die Stimmen der Wildnis, ihre Körper eine harmonische Mischung aus [**Exanthis**](/codex/Basic/Exanthis.md), [**Seelen (Souls)**](/codex/Basic/Soul.md) und **Mana Capacity**. Wie ein Holzblasinstrument, das die Klänge des Waldes widerhallt, kommunizieren sie mit der Natur und erschaffen eine einzigartige Melodie der Existenz, die Überleben, Fährtenlesen und die Verbindung zur natürlichen Welt betont.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rangers** forms a harmony that favors connection to nature:
+Wie unter [Klassen (Classes)](/codex/Classes/Classes.md) beschrieben, bildet das typische Verhältnis für **Waldläufer (rangers)** eine Harmonie, die die Verbindung zur Natur begünstigt:
 
-| Element | Range | Function |
+| Element | Bereich (Range) | Funktion |
 |---------|------------|----------|
-| **Exanthis** | 35-55% | The crystalline heart that provides physical strength and agility |
-| **Soul** | 25-45% | The ethereal essence that shapes a nature-connected consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables nature magic |
+| **Exanthis** | 35-55% | Das kristalline Herz, das physische Stärke und Agilität verleiht |
+| **Seele (Soul)** | 25-45% | Die ätherische Essenz, die ein naturverbundenes Bewusstsein formt |
+| **Mana Capacity** | 10-30% | Die Brücke zwischen den Welten, die Naturmagie ermöglicht |
 
-This composition grants **rangers** their characteristic connection to nature but limits their magical abilities compared to other classes, like a versatile instrument that can play many melodies but cannot match the complexity of a full orchestra.
+Diese Zusammensetzung verleiht **Waldläufern (rangers)** ihre charakteristische Verbindung zur Natur, schränkt aber ihre magischen Fähigkeiten im Vergleich zu anderen Klassen ein, wie ein vielseitiges Instrument, das viele Melodien spielen kann, aber nicht mit der Komplexität eines vollständigen Orchesters mithalten kann.
 
-### Species-Specific Talents
+### Speziesspezifische Talente
 
-Different species show varying natural inclinations toward the ranger class:
+Verschiedene Spezies zeigen unterschiedliche natürliche Neigungen zur Waldläuferklasse:
 
-- **Elves** (35% Exanthis, 25% Soul, 40% Mana Capacity): Their natural grace and connection to nature make them exceptional rangers, particularly as Wardens and Forest Singers.
-- **Beastfolk** (50% Exanthis, 30% Soul, 20% Mana Capacity): Their physical prowess and animal kinship make them natural Beastmasters and Hunters.
-- **Humans** (40% Exanthis, 35% Soul, 25% Mana Capacity): Their adaptability allows them to excel in any ranger specialization, though they rarely reach the heights of species with more specialized compositions.
-- **Dragonkin** (60% Exanthis, 20% Soul, 20% Mana Capacity): Their physical might makes them formidable Hunters, though their limited adaptability restricts their versatility.
-- **Dwarves** (55% Exanthis, 30% Soul, 15% Mana Capacity): Their endurance and resilience make them excellent Survivalists, particularly in harsh mountain environments.
+- **Elfen (Elves)** (35% Exanthis, 25% Seele (Soul), 40% Mana Capacity): Ihre natürliche Anmut und Verbindung zur Natur machen sie zu außergewöhnlichen Waldläufern (rangers), insbesondere als Hüter (Wardens) und Waldsänger (Forest Singers).
+- **Bestienvolk (Beastfolk)** (50% Exanthis, 30% Seele (Soul), 20% Mana Capacity): Ihre körperliche Stärke und Tierverwandtschaft machen sie zu natürlichen Tiermeistern (Beastmasters) und Jägern (Hunters).
+- **Menschen (Humans)** (40% Exanthis, 35% Seele (Soul), 25% Mana Capacity): Ihre Anpassungsfähigkeit ermöglicht es ihnen, in jeder Waldläuferspezialisierung hervorragende Leistungen zu erbringen, obwohl sie selten die Höhen von Spezies mit spezialisierteren Kompositionen erreichen.
+- **Drachlinge (Dragonkin)** (60% Exanthis, 20% Seele (Soul), 20% Mana Capacity): Ihre physische Macht macht sie zu formidablen Jägern (Hunters), obwohl ihre begrenzte Anpassungsfähigkeit ihre Vielseitigkeit einschränkt.
+- **Zwerge (Dwarves)** (55% Exanthis, 30% Seele (Soul), 15% Mana Capacity): Ihre Ausdauer und Widerstandsfähigkeit machen sie zu exzellenten Überlebenskünstlern (Survivalists), insbesondere in rauen Gebirgsregionen.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Rangers** are known for their connection to nature and survival skills:
-- Athletic build with graceful movements, like a dancer's natural grace
-- Eyes that reflect awareness of surroundings, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of bows and survival tools, like a musician who has perfected the art of the woodwind
-- Presence that blends with natural surroundings, like a melody that harmonizes with the sounds of the forest
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+**Waldläufer (Rangers)** sind bekannt für ihre Verbindung zur Natur und ihre Überlebensfähigkeiten:
+- Athletischer Körperbau mit anmutigen Bewegungen, wie die natürliche Anmut eines Tänzers
+- Augen, die das Bewusstsein für die Umgebung widerspiegeln und ihre Verbindung zur [**Seele (Soul)**](/codex/Basic/Soul.md) zeigen
+- Hände, die den Gebrauch von Bögen und Überlebenswerkzeugen beherrschen, wie ein Musiker, der die Kunst des Holzblasinstruments perfektioniert hat
+- Präsenz, die sich in die natürliche Umgebung einfügt, wie eine Melodie, die mit den Klängen des Waldes harmoniert
+- Haltung, die Gleichgewicht und Bereitschaft betont, wie ein Darsteller, der bereit ist, sich in jede Richtung zu bewegen
 
-## Nature Affinity
+## Naturverbundenheit
 
-**Rangers** demonstrate exceptional proficiency in wilderness survival and combat, like virtuoso musicians who have mastered the art of the natural world. Their composition allows them to:
-- Track and hunt with extraordinary precision, like conductors leading an orchestra through the wilderness
-- Survive in harsh environments, like artists adapting to changing conditions
-- Communicate with animals and understand natural signs, like performers harmonizing with the sounds of nature
+**Waldläufer (Rangers)** zeigen außergewöhnliche Fähigkeiten im Überleben und im Kampf in der Wildnis, wie Virtuosen, die die Kunst der natürlichen Welt beherrschen. Ihre Zusammensetzung ermöglicht es ihnen:
+- Mit außergewöhnlicher Präzision zu verfolgen und zu jagen, wie Dirigenten, die ein Orchester durch die Wildnis führen
+- In rauen Umgebungen zu überleben, wie Künstler, die sich an veränderte Bedingungen anpassen
+- Mit Tieren zu kommunizieren und natürliche Zeichen zu verstehen, wie Darsteller, die mit den Klängen der Natur harmonieren
 
-This specialization makes **rangers** capable of achieving the highest levels of proficiency in their chosen wilderness techniques, though they may struggle with tasks requiring complex magic or urban skills, like a versatile instrument that excels in natural settings but may be out of place in a formal concert hall.
+Diese Spezialisierung ermöglicht es **Waldläufern (rangers)**, die höchsten Stufen der Kompetenz in ihren gewählten Wildnistechniken zu erreichen, obwohl sie mit Aufgaben zu kämpfen haben, die komplexe Magie oder städtische Fähigkeiten erfordern, wie ein vielseitiges Instrument, das in natürlichen Umgebungen hervorragt, aber in einem formellen Konzertsaal fehl am Platz sein kann.
 
-## Training and Development
+## Training und Entwicklung
 
-The path of a **ranger** involves rigorous wilderness training and mental discipline:
-- Daily practice in tracking and survival skills, like musicians practicing their natural melodies
-- Study of natural environments and animal behavior, like learning the theory behind natural harmony
-- Meditation to develop connection to nature, like finding the quiet center of the wilderness
-- Practice in combat and stealth techniques, like artists mastering the art of natural movement
+Der Weg eines **Waldläufers (ranger)** beinhaltet rigoroses Wildnistraining und mentale Disziplin:
+- Tägliches Üben von Fährtenlese- und Überlebensfähigkeiten, wie Musiker, die ihre natürlichen Melodien üben
+- Studium der natürlichen Umgebungen und des Tierverhaltens, wie das Erlernen der Theorie hinter der natürlichen Harmonie
+- Meditation zur Entwicklung der Verbindung zur Natur, wie das Finden des stillen Zentrums der Wildnis
+- Üben von Kampf- und Tarntechniken, wie Künstler, die die Kunst der natürlichen Bewegung beherrschen
 
-## Equipment and Gear
+## Ausrüstung
 
-**Rangers** rely on various equipment to enhance their wilderness abilities:
-- Bows and light weapons designed for precision, like different instruments for different performances
-- Survival gear such as ropes, traps, and navigation tools, like accessories that enhance an instrument's capabilities
-- Natural accessories such as animal companions, tracking dogs, and natural remedies, like specialized instruments for specific tasks
+**Waldläufer (Rangers)** verlassen sich auf verschiedene Ausrüstungsgegenstände, um ihre Wildnisfähigkeiten zu verbessern:
+- Bögen und leichte Waffen, die auf Präzision ausgelegt sind, wie verschiedene Instrumente für verschiedene Aufführungen
+- Überlebensausrüstung wie Seile, Fallen und Navigationswerkzeuge, wie Zubehör, das die Fähigkeiten eines Instruments verbessert
+- Natürliches Zubehör wie Tiergefährten, Spürhunde und Naturheilmittel, wie Spezialinstrumente für bestimmte Aufgaben
 
-## Subclasses
+## Unterklassen
 
-**Rangers** can specialize in various wilderness disciplines and roles:
+**Waldläufer (Rangers)** können sich in verschiedenen Wildnisdisziplinen und Rollen spezialisieren:
 
-### [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md)
+### [**Tiermeister (Beastmaster)**](/codex/Classes/Ranger/Beastmaster.md)
 
-Beastmasters focus on forming bonds with animals, emphasizing the role of the animal companion. They excel at:
-- Training and commanding animal companions
-- Understanding animal behavior and communication
-- Fighting alongside their animal allies
+Tiermeister (Beastmasters) konzentrieren sich auf den Aufbau von Bindungen zu Tieren und betonen die Rolle des Tiergefährten. Sie zeichnen sich aus durch:
+- Training und Befehligen von Tiergefährten
+- Verstehen des Tierverhaltens und der Kommunikation
+- Kämpfen an der Seite ihrer tierischen Verbündeten
 
-### [**Hunter**](/codex/Classes/Ranger/Hunter.md)
+### [**Jäger (Hunter)**](/codex/Classes/Ranger/Hunter.md)
 
-Hunters focus on tracking and eliminating targets, emphasizing the role of the predator. They excel at:
-- Tracking and stalking prey
-- Setting traps and ambushes
-- Delivering precise strikes from a distance
+Jäger (Hunters) konzentrieren sich auf das Aufspüren und Eliminieren von Zielen und betonen die Rolle des Raubtiers. Sie zeichnen sich aus durch:
+- Aufspüren und Verfolgen von Beute
+- Stellen von Fallen und Hinterhalten
+- Ausführen präziser Schläge aus der Ferne
 
-### [**Warden**](/codex/Classes/Ranger/Warden.md)
+### [**Hüter (Warden)**](/codex/Classes/Ranger/Warden.md)
 
-Wardens focus on protecting natural places, emphasizing the role of the guardian. They excel at:
-- Defending natural territories
-- Maintaining the balance of ecosystems
-- Communicating with nature spirits
+Hüter (Wardens) konzentrieren sich auf den Schutz natürlicher Orte und betonen die Rolle des Wächters. Sie zeichnen sich aus durch:
+- Verteidigen natürlicher Gebiete
+- Aufrechterhaltung des Gleichgewichts der Ökosysteme
+- Kommunizieren mit Naturgeistern
 
-### [**Scout**](/codex/Classes/Ranger/Scout.md)
+### [**Kundschafter (Scout)**](/codex/Classes/Ranger/Scout.md)
 
-Scouts focus on exploring and navigating unknown territories, emphasizing the role of the explorer. They excel at:
-- Finding safe paths through dangerous areas
-- Gathering information about new territories
-- Adapting to unfamiliar environments
+Kundschafter (Scouts) konzentrieren sich auf das Erkunden und Navigieren unbekannter Gebiete und betonen die Rolle des Entdeckers. Sie zeichnen sich aus durch:
+- Finden sicherer Pfade durch gefährliche Gebiete
+- Sammeln von Informationen über neue Gebiete
+- Anpassen an ungewohnte Umgebungen
 
-### [**Survivalist**](/codex/Classes/Ranger/Survivalist.md)
+### [**Überlebenskünstler (Survivalist)**](/codex/Classes/Ranger/Survivalist.md)
 
-Survivalists focus on thriving in harsh environments, emphasizing the role of the survivor. They excel at:
-- Finding food and water in barren places
-- Creating shelter in extreme conditions
-- Adapting to changing environmental conditions
+Überlebenskünstler (Survivalists) konzentrieren sich auf das Gedeihen in rauen Umgebungen und betonen die Rolle des Überlebenden. Sie zeichnen sich aus durch:
+- Finden von Nahrung und Wasser an kargen Orten
+- Errichten von Unterkünften unter extremen Bedingungen
+- Anpassen an sich ändernde Umweltbedingungen
 
-## Notable Ranger Traits
+## Bemerkenswerte Waldläufereigenschaften
 
-- **Wilderness Mastery**: Rangers excel in survival and tracking, often specializing in specific environments
-- **Animal Connection**: Rangers develop strong bonds with animals and nature
-- **Environmental Adaptation**: Rangers can thrive in various natural environments
-- **Precision Combat**: Rangers excel in combat that requires precision and timing
-- **Discipline**: Rangers maintain rigorous training regimens to maintain their wilderness abilities
+- **Wildnisbeherrschung (Wilderness Mastery)**: Waldläufer (Rangers) zeichnen sich durch Überleben und Fährtenlesen aus und spezialisieren sich oft auf bestimmte Umgebungen
+- **Tierverbindung (Animal Connection)**: Waldläufer (Rangers) entwickeln starke Bindungen zu Tieren und zur Natur
+- **Umweltanpassung (Environmental Adaptation)**: Waldläufer (Rangers) können in verschiedenen natürlichen Umgebungen gedeihen
+- **Präzisionskampf (Precision Combat)**: Waldläufer (Rangers) zeichnen sich im Kampf aus, der Präzision und Timing erfordert
+- **Disziplin (Discipline)**: Waldläufer (Rangers) halten strenge Trainingsprogramme ein, um ihre Wildnisfähigkeiten zu erhalten
 
-## Ranger Orders
+## Waldläuferorden
 
-Ranger society is organized into numerous orders, each with its own specialties and techniques:
+Die Waldläufergesellschaft ist in zahlreiche Orden unterteilt, von denen jeder seine eigenen Spezialitäten und Techniken hat:
 
-| Order | Specialty | Territory | Notable Traits |
+| Orden (Order) | Spezialität (Specialty) | Gebiet (Territory) | Bemerkenswerte Eigenschaften (Notable Traits) |
 |---------|---------------|---------|-------------------|
-| **Beast Companions** | Animal bonding, companion training | Various locations | Animal companions, beast communication |
-| **Track Masters** | Tracking, hunting | Various locations | Tracking abilities, hunting techniques |
-| **Territory Wardens** | Territory protection, ecosystem balance | Natural territories | Territory defense, ecosystem maintenance |
-| **Path Finders** | Exploration, navigation | Unknown territories | Exploration, navigation |
-| **Wild Survivors** | Survival, adaptation | Harsh environments | Survival skills, environmental adaptation |
-| **Forest Singers** | Nature communication, harmony | Forest regions | Nature communication, forest harmony |
+| **Tiergefährten (Beast Companions)** | Tierbindung, Gefährtentraining | Verschiedene Orte | Tiergefährten, Tierkommunikation |
+| **Fährtenmeister (Track Masters)** | Fährtenlesen, Jagen | Verschiedene Orte | Fährtenlesefähigkeiten, Jagdtechniken |
+| **Gebietshüter (Territory Wardens)** | Gebietsschutz, Ökosystemgleichgewicht | Natürliche Gebiete | Gebietsverteidigung, Ökosystemerhaltung |
+| **Pfadfinder (Path Finders)** | Erkundung, Navigation | Unbekannte Gebiete | Erkundung, Navigation |
+| **Wilde Überlebende (Wild Survivors)** | Überleben, Anpassung | Raue Umgebungen | Überlebensfähigkeiten, Umweltanpassung |
+| **Waldsänger (Forest Singers)** | Naturkommunikation, Harmonie | Waldregionen | Naturkommunikation, Waldharmonie |
 
-Understanding the nature of **rangers** provides insight into the natural aspects of the world of **OpenFantasy**, like listening to the wild melodies that echo through the symphony of nature. 
+Das Verständnis der Natur von **Waldläufern (rangers)** bietet Einblick in die natürlichen Aspekte der Welt von **OpenFantasy**, wie das Hören der wilden Melodien, die durch die Symphonie der Natur hallen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

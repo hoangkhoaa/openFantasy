@@ -1,105 +1,109 @@
-# **Gnomes**: The Ingenious Crafters of Innovation
+# **Gnome** (Gnome): Die genialen Handwerker der Innovation
 
-[**Gnomes**](/codex/Creatures/Gnomes.md) are the ingenious crafters of innovation, their bodies a delicate harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a complex music box, they resonate with the precision of machinery, creating a unique melody of existence that bridges the magical and technological realms.
+[**Gnome**](/codex/Creatures/Gnomes.md) (Gnome) sind die genialen Handwerker der Innovation, ihre Körper eine feine Harmonie aus [**Exanthis**](/codex/Basic/Exanthis.md) (Exanthis), [**Souls**](/codex/Basic/Soul.md) (Seelen) und **Mana Capacity** (Manakapazität). Wie eine komplexe Spieluhr schwingen sie mit der Präzision einer Maschine mit und erzeugen eine einzigartige Melodie der Existenz, die die magische und technologische Welt verbindet.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **gnomes** forms a harmony that favors adaptability:
+Wie unter [Creatures](/codex/Creatures/Creatures.md) (Kreaturen) beschrieben, bildet das typische Verhältnis für **Gnome** (Gnome) eine Harmonie, die die Anpassungsfähigkeit begünstigt:
 
-| Element | Range | Function |
+| Element (Element) | Range (Bereich) | Function (Funktion) |
 |---------|------------|----------|
-| **Exanthis** | 20-40% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 30-50% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 25-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** (Exanthis) | 20-40% | Das kristalline Herz, das minimale physische Stärke und Haltbarkeit bietet |
+| **Soul** (Seele) | 30-50% | Die ätherische Essenz, die ein fließendes und anpassungsfähiges Bewusstsein formt |
+| **Mana Capacity** (Manakapazität) | 25-40% | Die Brücke zwischen den Welten, die ein moderates magisches Potenzial ermöglicht |
 
-This composition grants **gnomes** their characteristic ingenuity and adaptability but typically limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Diese Zusammensetzung verleiht **Gnome** (Gnomen) ihren charakteristischen Erfindungsreichtum und ihre Anpassungsfähigkeit, schränkt aber typischerweise ihre physische Widerstandsfähigkeit im Vergleich zu anderen Spezies ein, wie ein empfindliches Instrument, das schöne Klänge erzeugt, aber mit Sorgfalt behandelt werden muss.
 
-### Individual Variations
+### Individuelle Variationen
 
-While the model composition represents the typical gnome, individual variations exist based on their guild affiliations:
+Während die Modellzusammensetzung den typischen Gnom darstellt, gibt es individuelle Variationen basierend auf ihrer Gildenzugehörigkeit:
 
-- **Master Tinkerers**: Some gnomes from the Tinkerguild possess enhanced Soul percentages (up to 55%) that allow them extraordinary creativity and problem-solving abilities, often at the expense of physical strength (20% Exanthis).
-- **Arcanists**: Specialized variants with higher Mana Capacity (up to 45%) excel at magical invention, creating devices that seamlessly blend technology and magic in ways other species find impossible.
-- **Durability Engineers**: Rarer gnomes with enhanced Exanthis (up to 45%) focus on developing resilient technologies and often serve as field testers for dangerous inventions.
-- **Alchemical Innovators**: A balanced variant (30% Exanthis, 40% Soul, 30% Mana Capacity) specializes in creating substances and potions that defy normal classification as either magical or technological.
-- **Artifice Savants**: Some gnomes develop a unique composition (25% Exanthis, 35% Soul, 40% Mana Capacity) that allows them to intuitively understand magical artifacts and replicate their functions through technological means.
+- **Master Tinkerers** (Meisterbastler): Einige Gnome aus der Tinkerguild (Bastlergilde) besitzen erhöhte Soul (Seelen)-Prozentsätze (bis zu 55%), die ihnen außergewöhnliche Kreativität und Problemlösungsfähigkeiten ermöglichen, oft auf Kosten der physischen Stärke (20% Exanthis (Exanthis)).
+- **Arcanists** (Arkanisten): Spezialisierte Varianten mit höherer Mana Capacity (Manakapazität) (bis zu 45%) zeichnen sich durch magische Erfindungen aus und schaffen Geräte, die Technologie und Magie nahtlos miteinander verbinden, was andere Spezies für unmöglich halten.
+- **Durability Engineers** (Haltbarkeitsingenieure): Seltenere Gnome mit erhöhtem Exanthis (Exanthis) (bis zu 45%) konzentrieren sich auf die Entwicklung widerstandsfähiger Technologien und dienen oft als Feldtester für gefährliche Erfindungen.
+- **Alchemical Innovators** (Alchemistische Innovatoren): Eine ausgewogene Variante (30% Exanthis (Exanthis), 40% Soul (Seele), 30% Mana Capacity (Manakapazität)) ist auf die Herstellung von Substanzen und Tränken spezialisiert, die sich nicht normal als magisch oder technologisch einstufen lassen.
+- **Artifice Savants** (Artefakt-Gelehrte): Einige Gnome entwickeln eine einzigartige Zusammensetzung (25% Exanthis (Exanthis), 35% Soul (Seele), 40% Mana Capacity (Manakapazität)), die es ihnen ermöglicht, magische Artefakte intuitiv zu verstehen und ihre Funktionen durch technologische Mittel zu replizieren.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Gnomes** are known for their small size and inventive nature:
-- Height ranging from 3 to 4 feet, making them one of the smallest sentient species
-- Proportionate build with delicate features, like finely crafted miniatures
-- Eyes that sparkle with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair that is often styled in elaborate designs, showcasing their creativity
-- Hands with extra dexterity, allowing for precise manipulation of small objects
-- Natural resistance to magical effects, like a well-insulated circuit
+**Gnome** (Gnome) sind bekannt für ihre geringe Größe und ihren erfinderischen Charakter:
+- Körpergröße von 3 bis 4 Fuß, was sie zu einer der kleinsten empfindungsfähigen Spezies macht
+- Proportionale Statur mit zarten Zügen, wie fein gearbeitete Miniaturen
+- Augen, die mit innerem Licht funkeln und ihre Verbindung zu [**Exanthis**](/codex/Basic/Exanthis.md) (Exanthis) widerspiegeln
+- Haare, die oft in aufwendigen Designs gestylt sind und ihre Kreativität zeigen
+- Hände mit zusätzlicher Geschicklichkeit, die eine präzise Manipulation kleiner Objekte ermöglichen
+- Natürliche Resistenz gegen magische Effekte, wie eine gut isolierte Schaltung
 
-## Magical and Technological Affinity
+## Magische und technologische Affinität
 
-**Gnomes** demonstrate exceptional proficiency in combining magic and technology, like virtuoso musicians who have mastered the art of harmony. Their composition allows them to:
-- Create intricate magical devices that blend technology and enchantment, like composers who have perfected the art of the symphony
-- Develop innovative solutions to complex problems, like artists who have mastered the art of improvisation
-- Adapt quickly to new situations and technologies, like instruments that can play in any key
+**Gnome** (Gnome) demonstrieren außergewöhnliche Fähigkeiten bei der Kombination von Magie und Technologie, wie virtuose Musiker, die die Kunst der Harmonie beherrschen. Ihre Zusammensetzung ermöglicht es ihnen:
+- Komplizierte magische Geräte herzustellen, die Technologie und Verzauberung verbinden, wie Komponisten, die die Kunst der Symphonie perfektioniert haben
+- Innovative Lösungen für komplexe Probleme zu entwickeln, wie Künstler, die die Kunst der Improvisation beherrschen
+- Sich schnell an neue Situationen und Technologien anzupassen, wie Instrumente, die in jeder Tonart spielen können
 
-This specialization makes **gnomes** capable of achieving feats of ingenuity that few other species can match, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Diese Spezialisierung macht **Gnome** (Gnome) in der Lage, Leistungen des Erfindungsreichtums zu vollbringen, die nur wenige andere Spezies erreichen können, obwohl sie mit Aufgaben zu kämpfen haben, die physische Stärke oder Widerstandsfähigkeit erfordern, wie ein empfindliches Instrument, das schöne Klänge erzeugt, aber rauer Behandlung nicht standhalten kann.
 
-## Lifespan and Soul Decay
+## Lebensspanne und Seelenverfall
 
-The **soul decay** timeline for **gnomes**, from birth to complete decay, is approximately 500 years, like a steady flame that illuminates the workshop. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and traditions
-- Form complex societies with intricate customs and rituals
+Die **soul decay** (Seelenverfall)-Zeitleiste für **Gnome** (Gnome), von der Geburt bis zum vollständigen Verfall, beträgt ungefähr 500 Jahre, wie eine stetige Flamme, die die Werkstatt beleuchtet. Diese verlängerte Lebensspanne ermöglicht es ihnen:
+- Über Jahrhunderte hinweg umfangreiches Wissen und Weisheit anzusammeln
+- Tiefe Verbindungen zu bestimmten Orten und Traditionen zu entwickeln
+- Komplexe Gesellschaften mit komplizierten Bräuchen und Ritualen zu bilden
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Ihr langsamerer Seelenverfall bedeutet jedoch auch, dass sie sich langsamer verändern und anpassen als andere Spezies, wie eine Melodie, die durch die Zeitalter hindurch schön, aber unverändert bleibt.
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**Gnomes** primarily inhabit:
-- Underground cities and workshops, where they can be closest to their inventions
-- Magical laboratories and research facilities, where they can study and innovate
-- Strategic locations that provide access to both magical and technological resources
-- Hidden enclaves that protect their secrets and inventions
+**Gnome** (Gnome) bewohnen hauptsächlich:
+- Unterirdische Städte und Werkstätten, wo sie ihren Erfindungen am nächsten sein können
+- Magische Laboratorien und Forschungseinrichtungen, wo sie studieren und innovativ sein können
+- Strategische Standorte, die Zugang zu magischen und technologischen Ressourcen bieten
+- Versteckte Enklaven, die ihre Geheimnisse und Erfindungen schützen
 
-These locations provide ideal environments for magical study and technological innovation, like perfect acoustics for a symphony.
+Diese Orte bieten ideale Umgebungen für magische Studien und technologische Innovationen, wie eine perfekte Akustik für eine Symphonie.
 
-## Cultural Impact
+## Kultureller Einfluss
 
-In the world of **OpenFantasy**, **gnomes** play a crucial role in advancing technology and magic, like weavers of intricate melodies. Their societies are centers of:
-- Technological innovation and magical research
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+In der Welt von **OpenFantasy** spielen **Gnome** (Gnome) eine entscheidende Rolle bei der Weiterentwicklung von Technologie und Magie, wie Weber komplizierter Melodien. Ihre Gesellschaften sind Zentren von:
+- Technologischer Innovation und magischer Forschung
+- Künstlerischem Ausdruck und ästhetischer Verfeinerung
+- Diplomatischen Beziehungen und kulturellem Austausch
 
-The connection to innovation has shaped gnomish culture around the study and mastery of technology and magic, creating a society where ingenuity and creativity are highly valued.
+Die Verbindung zur Innovation hat die gnomische Kultur rund um das Studium und die Beherrschung von Technologie und Magie geprägt und eine Gesellschaft geschaffen, in der Einfallsreichtum und Kreativität hoch geschätzt werden.
 
-## Relationship with Other Species
+## Beziehung zu anderen Spezies
 
-**Gnomes** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and amusement, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for magic and beauty
-- With **Dwarves**: A respectful alliance based on mutual respect for craftsmanship and innovation
-- With **Golems**: A deep connection based on shared appreciation for technology and precision
+**Gnome** (Gnome) pflegen komplexe Beziehungen zu anderen Spezies:
+- Mit [**Humans**](/codex/Creatures/Human.md) (Menschen): Eine Mischung aus Faszination und Belustigung, die oft zu komplexen Interaktionen führt
+- Mit **Elves** (Elfen): Eine tiefe Verbindung, die auf einer gemeinsamen Wertschätzung für Magie und Schönheit basiert
+- Mit **Dwarves** (Zwergen): Ein respektvolles Bündnis, das auf gegenseitigem Respekt für Handwerkskunst und Innovation basiert
+- Mit **Golems** (Golems): Eine tiefe Verbindung, die auf einer gemeinsamen Wertschätzung für Technologie und Präzision basiert
 
-These relationships are often characterized by a sense of cultural superiority, as **gnomes** view themselves as the true innovators of the world.
+Diese Beziehungen sind oft durch ein Gefühl der kulturellen Überlegenheit gekennzeichnet, da **Gnome** (Gnome) sich selbst als die wahren Innovatoren der Welt betrachten.
 
-## Notable Gnome Traits
+## Bemerkenswerte Gnomeigenschaften
 
-- **Ingenuity**: Gnomes excel in creating innovative solutions to complex problems
-- **Technological Mastery**: Gnomes have a natural talent for understanding and manipulating technology
-- **Magical Sensitivity**: Gnomes are deeply attuned to the subtle harmonies of magic
-- **Environmental Adaptation**: Gnomes can thrive in various environments, from underground cities to floating islands
-- **Artistic Expression**: Gnomes have developed highly refined artistic and cultural traditions
+- **Ingenuity** (Einfallsreichtum): Gnome zeichnen sich durch die Entwicklung innovativer Lösungen für komplexe Probleme aus
+- **Technological Mastery** (Technologische Meisterschaft): Gnome haben ein natürliches Talent für das Verständnis und die Manipulation von Technologie
+- **Magical Sensitivity** (Magische Sensibilität): Gnome sind tief auf die subtilen Harmonien der Magie abgestimmt
+- **Environmental Adaptation** (Umweltanpassung): Gnome können in verschiedenen Umgebungen gedeihen, von unterirdischen Städten bis hin zu schwebenden Inseln
+- **Artistic Expression** (Künstlerischer Ausdruck): Gnome haben hochentwickelte künstlerische und kulturelle Traditionen entwickelt
 
-## Gnomish Guilds
+## Gnomische Gilden
 
-Gnome society is organized into numerous guilds, each with its own specialties and traditions:
+Die gnomische Gesellschaft ist in zahlreiche Gilden unterteilt, von denen jede ihre eigenen Spezialitäten und Traditionen hat:
 
-| Guild | Specialty | Territory | Notable Traits |
+| Guild (Gilde) | Specialty (Spezialität) | Territory (Gebiet) | Notable Traits (Bemerkenswerte Eigenschaften) |
 |---------|---------------|---------|-------------------|
-| **Tinkerguild** | Technology, innovation | Underground workshops | Technological innovation, mechanical mastery |
-| **Arcaneguild** | Magic, research | Magical laboratories | Magical research, spell development |
-| **Artificerguild** | Artifacts, enchantment | Enchantment chambers | Artifact creation, enchantment mastery |
-| **Alchemistguild** | Potions, transmutation | Alchemical laboratories | Potion brewing, transmutation expertise |
-| **Engineerguild** | Architecture, construction | Construction sites | Architectural innovation, construction expertise |
-| **Inventorguild** | Inventions, patents | Invention halls | Invention creation, patent development |
+| **Tinkerguild** (Bastlergilde) | Technology (Technologie), innovation (Innovation) | Underground workshops (Unterirdische Werkstätten) | Technological innovation (Technologische Innovation), mechanical mastery (Mechanische Meisterschaft) |
+| **Arcaneguild** (Arkanergilde) | Magic (Magie), research (Forschung) | Magical laboratories (Magische Laboratorien) | Magical research (Magische Forschung), spell development (Zauberentwicklung) |
+| **Artificerguild** (Artefaktgilde) | Artifacts (Artefakte), enchantment (Verzauberung) | Enchantment chambers (Verzauberungskammern) | Artifact creation (Artefaktherstellung), enchantment mastery (Verzauberungsmeisterschaft) |
+| **Alchemistguild** (Alchemistengilde) | Potions (Tränke), transmutation (Transmutation) | Alchemical laboratories (Alchemistische Laboratorien) | Potion brewing (Tränkebrauerei), transmutation expertise (Transmutationsexpertise) |
+| **Engineerguild** (Ingenieurgilde) | Architecture (Architektur), construction (Konstruktion) | Construction sites (Baustellen) | Architectural innovation (Architektonische Innovation), construction expertise (Konstruktionsexpertise) |
+| **Inventorguild** (Erfindergilde) | Inventions (Erfindungen), patents (Patente) | Invention halls (Erfindungshallen) | Invention creation (Erfindungserstellung), patent development (Patententwicklung) |
 
-Understanding the nature of **gnomes** provides insight into the technological and magical aspects of the world of **OpenFantasy**, like listening to the intricate melodies that echo through the workshops and laboratories. 
+Das Verständnis der Natur der **Gnome** (Gnome) gibt Einblick in die technologischen und magischen Aspekte der Welt von **OpenFantasy**, wie das Lauschen auf die komplizierten Melodien, die durch die Werkstätten und Laboratorien hallen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
