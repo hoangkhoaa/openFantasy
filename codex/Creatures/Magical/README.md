@@ -1,162 +1,166 @@
-# Magical Beings of OpenFantasy
+# Magische Wesen von OpenFantasy
 
-> *"They are magic given form and purpose, the living embodiment of mystical forces that flow through our world."*
+> *"Sie sind Magie in Form und mit Zweck, die lebendige Verkörperung mystischer Kräfte, die durch unsere Welt fließen."*
 
-## Overview
+## Überblick
 
-Magical beings in OpenFantasy are creatures that are fundamentally composed of, created by, or infused with magical energy. Unlike sentient species that evolved naturally and merely use magic, magical beings have magic as an intrinsic part of their existence, often with their physical forms serving primarily as vessels for magical energies.
+Magische Wesen in OpenFantasy sind Kreaturen, die grundlegend aus magischer Energie bestehen, von ihr erschaffen oder mit ihr durchdrungen sind. Im Gegensatz zu empfindungsfähigen Spezies, die sich auf natürliche Weise entwickelt haben und lediglich Magie nutzen, ist Magie für magische Wesen ein intrinsischer Bestandteil ihrer Existenz, wobei ihre physischen Formen oft primär als Gefäße für magische Energien dienen.
 
-These beings are distinguished by their unusually high Mana Capacity, which typically exceeds that of natural creatures. Many originated during periods of intense magical activity or were created through deliberate magical processes, while others represent the physical manifestation of specific magical concepts or elements.
+Diese Wesen zeichnen sich durch ihre ungewöhnlich hohe Mana-Kapazität aus, die typischerweise die von natürlichen Kreaturen übersteigt. Viele entstanden während Perioden intensiver magischer Aktivität oder wurden durch bewusste magische Prozesse erschaffen, während andere die physische Manifestation spezifischer magischer Konzepte oder Elemente darstellen.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-Magical beings typically exhibit the following elemental composition ranges:
+Magische Wesen weisen typischerweise die folgenden elementaren Zusammensetzungsbereiche auf:
 
 | Being Category | Exanthis | Soul | Mana Capacity | Notes |
 |----------------|----------|------|---------------|-------|
-| Fae | 2-10% | 15-35% | 50-80% | Almost pure magical entities |
-| Elementals | 15-30% | 5-15% | 60-85% | Embodiments of elemental forces |
-| Dragonkin | 55-75% | 5-15% | 20-35% | Ancient magical lineage |
-| Constructs | 70-90% | 5-15% | 5-15% | Artificially created beings |
-| Spiritfolk | 10-30% | 20-40% | 40-70% | Beings of manifested spiritual energy |
+| Fae | 2-10% | 15-35% | 50-80% | Fast reine magische Entitäten |
+| Elementals | 15-30% | 5-15% | 60-85% | Verkörperungen elementarer Kräfte |
+| Dragonkin | 55-75% | 5-15% | 20-35% | Uralte magische Linie |
+| Constructs | 70-90% | 5-15% | 5-15% | Künstlich erschaffene Wesen |
+| Spiritfolk | 10-30% | 20-40% | 40-70% | Wesen manifestierter spiritueller Energie |
 
-## Categories of Magical Beings
+## Kategorien magischer Wesen
 
 ### Fae
 
-The Fae represent some of the most purely magical beings in existence, with physical forms that are often mutable and primarily composed of magical energy:
+Die Fae repräsentieren einige der reinsten magischen Wesen, die existieren, mit physischen Formen, die oft veränderlich sind und primär aus magischer Energie bestehen:
 
 | Subcategory | Key Characteristics | Notable Examples |
 |-------------|---------------------|------------------|
-| **High Fae** | Aristocratic, immense magical power | Fae Lords, Archfey, Court Nobles |
-| **Wild Fae** | Nature-bound, seasonal powers | Dryads, Nixies, Pixies |
-| **Shadow Fae** | Darkness-aligned, deceptive | Bogies, Shadow Dancers, Night Wraiths |
-| **Trickster Fae** | Chaotic, mischievous | Pucks, Imps, Changelings |
+| **High Fae** | Aristokratisch, immense magische Kraft | Fae Lords, Archfey, Court Nobles |
+| **Wild Fae** | Naturgebunden, saisonale Kräfte | Dryads, Nixies, Pixies |
+| **Shadow Fae** | Dunkelheitsorientiert, trügerisch | Bogies, Shadow Dancers, Night Wraiths |
+| **Trickster Fae** | Chaotisch, schelmisch | Pucks, Imps, Changelings |
 
-→ See [Fae](Fae.md) for detailed information.
+→ Siehe [Fae](Fae.md) für detaillierte Informationen.
 
 ### Elementals
 
-Beings that embody and manifest the fundamental elemental forces of the world:
+Wesen, die die fundamentalen elementaren Kräfte der Welt verkörpern und manifestieren:
 
 | Subcategory | Key Characteristics | Notable Examples |
 |-------------|---------------------|------------------|
-| **Fire Elementals** | Heat generation, volatile temperament | Flame Sprites, Magma Golems, Ember Wraiths |
-| **Water Elementals** | Fluid form, adaptability | Water Nymphs, Tidal Guardians, Ice Shapers |
-| **Earth Elementals** | Physical strength, steadfastness | Stone Sentinels, Crystal Beings, Geomancers |
-| **Air Elementals** | Mobility, unpredictability | Wind Dancers, Storm Heralds, Mist Phantoms |
-| **Composite Elementals** | Multi-element capabilities | Tempest Beings, Volcanic Spirits, Weather Lords |
+| **Fire Elementals** | Wärmeerzeugung, volatiles Temperament | Flame Sprites, Magma Golems, Ember Wraiths |
+| **Water Elementals** | Fluide Form, Anpassungsfähigkeit | Water Nymphs, Tidal Guardians, Ice Shapers |
+| **Earth Elementals** | Physische Stärke, Standhaftigkeit | Stone Sentinels, Crystal Beings, Geomancers |
+| **Air Elementals** | Mobilität, Unberechenbarkeit | Wind Dancers, Storm Heralds, Mist Phantoms |
+| **Composite Elementals** | Multi-Element-Fähigkeiten | Tempest Beings, Volcanic Spirits, Weather Lords |
 
-→ See [Elementals](Elementals.md) for detailed information.
+→ Siehe [Elementals](Elementals.md) für detaillierte Informationen.
 
 ### Dragonkin
 
-Beings with draconic heritage or essence, representing some of the most ancient magical bloodlines:
+Wesen mit drakonischem Erbe oder Essenz, die einige der ältesten magischen Blutlinien repräsentieren:
 
 | Subcategory | Key Characteristics | Notable Examples |
 |-------------|---------------------|------------------|
-| **True Dragons** | Immense power, elemental mastery | Ancient Wyrms, Dragon Lords, Serpent Kings |
-| **Lesser Dragonkin** | Draconic traits, specialized abilities | Wyverns, Drakes, Feathered Serpents |
-| **Half-Dragons** | Mixed heritage, adaptive magic | Dragon-Touched, Scale Knights, Hybrid Descendants |
-| **Dragon Spirits** | Ethereal nature, ancient knowledge | Astral Dragons, Dragon Ghosts, Essence Wyrms |
+| **True Dragons** | Immense Kraft, elementare Meisterschaft | Ancient Wyrms, Dragon Lords, Serpent Kings |
+| **Lesser Dragonkin** | Drakonische Züge, spezialisierte Fähigkeiten | Wyverns, Drakes, Feathered Serpents |
+| **Half-Dragons** | Gemischtes Erbe, adaptive Magie | Dragon-Touched, Scale Knights, Hybrid Descendants |
+| **Dragon Spirits** | Ätherische Natur, uraltes Wissen | Astral Dragons, Dragon Ghosts, Essence Wyrms |
 
-→ See [Dragonkin](Dragonkin.md) for detailed information.
+→ Siehe [Dragonkin](Dragonkin.md) für detaillierte Informationen.
 
 ### Constructs
 
-Artificially created beings animated by magic:
+Künstlich erschaffene Wesen, die durch Magie animiert werden:
 
 | Subcategory | Key Characteristics | Notable Examples |
 |-------------|---------------------|------------------|
-| **Golems** | Physical power, specific purpose | Clay Golems, Stone Defenders, Iron Sentinels |
-| **Animated Objects** | Former items given consciousness | Living Statues, Awakened Weapons, Animated Furniture |
-| **Homunculi** | Small size, specific functions | Artificer's Assistants, Spell Carriers, Living Tools |
-| **Magical Automata** | Complex mechanisms with magical power | Clockwork Mages, Arcane Engines, Self-Repairing Constructs |
+| **Golems** | Physische Kraft, spezifischer Zweck | Clay Golems, Stone Defenders, Iron Sentinels |
+| **Animated Objects** | Ehemalige Gegenstände mit Bewusstsein | Living Statues, Awakened Weapons, Animated Furniture |
+| **Homunculi** | Kleine Größe, spezifische Funktionen | Artificer's Assistants, Spell Carriers, Living Tools |
+| **Magical Automata** | Komplexe Mechanismen mit magischer Kraft | Clockwork Mages, Arcane Engines, Self-Repairing Constructs |
 
-→ See [Golems](Golems.md) for detailed information on constructed beings.
+→ Siehe [Golems](Golems.md) für detaillierte Informationen zu konstruierten Wesen.
 
 ### Spiritfolk
 
-Beings composed primarily of spiritual or shadow energy:
+Wesen, die primär aus spiritueller oder Schattenenergie bestehen:
 
 | Subcategory | Key Characteristics | Notable Examples |
 |-------------|---------------------|------------------|
-| **Shadowfolk** | Shadow manipulation, light vulnerability | Umbral Walkers, Shade Dancers, Night Weavers |
-| **Ethereal Beings** | Partial incorporeality, planar shifting | Boundary Walkers, Veil Seers, Phase Dancers |
-| **Manifestations** | Embodiments of concepts or emotions | Joy Sprites, Grief Wraiths, Courage Embodiments |
-| **Bound Spirits** | Attached to locations or objects | Guardian Spirits, Hearth Entities, Vessel-Bound Souls |
+| **Shadowfolk** | Schattenmanipulation, Lichtverwundbarkeit | Umbral Walkers, Shade Dancers, Night Weavers |
+| **Ethereal Beings** | Partielle Körperlosigkeit, planare Verschiebung | Boundary Walkers, Veil Seers, Phase Dancers |
+| **Manifestations** | Verkörperungen von Konzepten oder Emotionen | Joy Sprites, Grief Wraiths, Courage Embodiments |
+| **Bound Spirits** | An Orte oder Objekte gebunden | Guardian Spirits, Hearth Entities, Vessel-Bound Souls |
 
-→ See [Shadowfolk](Shadowfolk.md) for detailed information on shadow beings.
+→ Siehe [Shadowfolk](Shadowfolk.md) für detaillierte Informationen zu Schattenwesen.
 
-## Origin and Creation
+## Ursprung und Erschaffung
 
-Magical beings come into existence through various means:
+Magische Wesen entstehen auf verschiedene Weise:
 
 | Origin Type | Process | Examples |
 |-------------|----------|----------|
-| **Primal Manifestation** | Spontaneous coalescing of magical energy | Elementals forming at sites of elemental power |
-| **Deliberate Creation** | Magical crafting by other beings | Golems, artificially created servants |
-| **Evolutionary Divergence** | Natural evolution in highly magical environments | Certain Fae species, magical animals |
-| **Transformation** | Magical alteration of existing beings | Shadow-transformed creatures, fae-touched beings |
-| **Conceptual Manifestation** | Physical embodiment of abstract forces | Spirits of emotions, season embodiments |
+| **Primal Manifestation** | Spontanes Zusammenfließen magischer Energie | Elementals, die sich an Orten elementarer Kraft bilden |
+| **Deliberate Creation** | Magisches Handwerk durch andere Wesen | Golems, künstlich erschaffene Diener |
+| **Evolutionary Divergence** | Natürliche Evolution in hochmagischen Umgebungen | Bestimmte Fae-Spezies, magische Tiere |
+| **Transformation** | Magische Veränderung bestehender Wesen | Schattenverwandelte Kreaturen, fae-berührte Wesen |
+| **Conceptual Manifestation** | Physische Verkörperung abstrakter Kräfte | Geister von Emotionen, Saisonverkörperungen |
 
-## Magic and Abilities
+## Magie und Fähigkeiten
 
-The magical abilities of these beings differ fundamentally from those of spellcasting sentient species:
+Die magischen Fähigkeiten dieser Wesen unterscheiden sich grundlegend von denen zauberwirkender empfindungsfähiger Spezies:
 
-### Innate vs. Learned Magic
+### Angeborene vs. Erlernte Magie
 
 | Being Type | Magic Source | Characteristics |
 |------------|--------------|-----------------|
-| **Sentient Spellcaster** | Manipulates external mana through learned patterns | Requires study, controlled, versatile |
-| **Magical Being** | Channels internal magical essence through instinct | Innate, specialized, often more powerful in specific domains |
+| **Sentient Spellcaster** | Manipuliert externes Mana durch erlernte Muster | Erfordert Studium, kontrolliert, vielseitig |
+| **Magical Being** | Kanalisiert interne magische Essenz durch Instinkt | Angeboren, spezialisiert, oft mächtiger in bestimmten Bereichen |
 
-### Life Cycle and Sustainability
+### Lebenszyklus und Nachhaltigkeit
 
-Magical beings often have unique requirements to sustain their existence:
+Magische Wesen haben oft einzigartige Anforderungen, um ihre Existenz aufrechtzuerhalten:
 
 | Type | Sustenance | Life Cycle |
 |------|------------|------------|
-| **Elementals** | Connection to elemental source | May dissipate if separated from element, potentially immortal |
-| **Fae** | Emotional energy, belief, magical alignment | Extremely long-lived, bound to conceptual cycles |
-| **Constructs** | Magical maintenance, purpose fulfillment | Potentially eternal if maintained, may fade if purpose ends |
-| **Spiritfolk** | Shadow energy, spiritual resonance | Cyclical manifestation patterns, tied to natural or emotional cycles |
+| **Elementals** | Verbindung zur elementaren Quelle | Kann sich auflösen, wenn vom Element getrennt, potenziell unsterblich |
+| **Fae** | Emotionale Energie, Glaube, magische Ausrichtung | Extrem langlebig, an konzeptionelle Zyklen gebunden |
+| **Constructs** | Magische Wartung, Zweck Erfüllung | Potenziell ewig, wenn gewartet, kann verblassen, wenn Zweck endet |
+| **Spiritfolk** | Schattenenergie, spirituelle Resonanz | Zyklische Manifestationsmuster, an natürliche oder emotionale Zyklen gebunden |
 
-## Habitats and Domains
+## Lebensräume und Domänen
 
-Magical beings typically inhabit areas with significant magical properties:
+Magische Wesen bewohnen typischerweise Gebiete mit signifikanten magischen Eigenschaften:
 
 | Environment | Common Inhabitants | Notable Characteristics |
 |-------------|-------------------|-------------------------|
-| **Fae Wilds** | High Fae, Trickster Fae | Reality distortion, temporal fluctuations |
-| **Elemental Planes** | Pure Elementals, Elemental Hybrids | Concentrated elemental energy, hostile to non-natives |
-| **Ancient Ruins** | Constructed Guardians, Bound Spirits | Residual enchantments, magical preservation |
-| **Shadow Realms** | Shadowfolk, Dark Fae | Limited light, emotional amplification |
-| **Magical Nexuses** | Various Magical Beings | Ley line intersections, planar boundaries |
+| **Fae Wilds** | High Fae, Trickster Fae | Realitätsverzerrung, zeitliche Schwankungen |
+| **Elemental Planes** | Pure Elementals, Elemental Hybrids | Konzentrierte elementare Energie, feindlich gegenüber Nicht-Einheimischen |
+| **Ancient Ruins** | Constructed Guardians, Bound Spirits | Residuale Verzauberungen, magische Erhaltung |
+| **Shadow Realms** | Shadowfolk, Dark Fae | Begrenztes Licht, emotionale Verstärkung |
+| **Magical Nexuses** | Various Magical Beings | Leylinien-Kreuzungen, planare Grenzen |
 
-## Interactions with Other Beings
+## Interaktionen mit anderen Wesen
 
-The relationship between magical beings and other creatures varies widely:
+Die Beziehung zwischen magischen Wesen und anderen Kreaturen ist sehr unterschiedlich:
 
-### Common Dynamics
+### Häufige Dynamiken
 
-- **Symbiotic Partnerships**: Mutually beneficial arrangements between magical beings and sentient species
-- **Service Bonds**: Magical creatures bound to serve mages or organizations
-- **Territorial Conflicts**: Competition for magically significant locations
-- **Knowledge Exchange**: Magical beings as sources of ancient wisdom or magical techniques
-- **Cultural Integration**: Societies where magical beings and sentient species coexist
+- **Symbiotic Partnerships**: Gegenseitig vorteilhafte Vereinbarungen zwischen magischen Wesen und empfindungsfähigen Spezies
+- **Service Bonds**: Magische Kreaturen, die dazu verpflichtet sind, Magiern oder Organisationen zu dienen
+- **Territorial Conflicts**: Wettbewerb um magisch bedeutsame Orte
+- **Knowledge Exchange**: Magische Wesen als Quellen alten Wissens oder magischer Techniken
+- **Cultural Integration**: Gesellschaften, in denen magische Wesen und empfindungsfähige Spezies koexistieren
 
-### Rules of Engagement
+### Verhaltensregeln
 
-Many magical beings operate according to specific metaphysical rules:
+Viele magische Wesen operieren nach spezifischen metaphysischen Regeln:
 
 | Being Type | Common Rules | Impact on Interaction |
 |------------|--------------|----------------------|
-| **Fae** | Cannot lie but may mislead, bound by bargains | Literal interpretation of agreements, value of true names |
-| **Elementals** | Behave according to elemental nature | Predictable reactions based on elemental alignment |
-| **Constructs** | Follow creator's instructions literally | Potential for loophole exploitation, strict interpretation |
-| **Spiritfolk** | Bound by spiritual laws and cycles | Interaction changes based on moon phases, time of day, emotions |
+| **Fae** | Kann nicht lügen, kann aber irreführen, an Schnäppchen gebunden | Wörtliche Interpretation von Vereinbarungen, Wert wahrer Namen |
+| **Elementals** | Verhalten sich gemäß elementarer Natur | Vorhersagbare Reaktionen basierend auf elementarer Ausrichtung |
+| **Constructs** | Befolgen die Anweisungen des Schöpfers wörtlich | Potenzial für Schlupfloch-Ausnutzung, strikte Interpretation |
+| **Spiritfolk** | An spirituelle Gesetze und Zyklen gebunden | Interaktion ändert sich basierend auf Mondphasen, Tageszeit, Emotionen |
 
 ---
 
-> *"To truly understand magical beings, one must first accept that they are not simply creatures who use magic—they are magic itself, experiencing the world through forms we can comprehend."* — Archmage Thaelon, Treatise on Magical Ontology 
+> *"Um magische Wesen wirklich zu verstehen, muss man zuerst akzeptieren, dass sie nicht einfach Kreaturen sind, die Magie verwenden – sie sind die Magie selbst, die die Welt durch Formen erlebt, die wir verstehen können."* — Erzmagier Thaelon, Abhandlung über magische Ontologie
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

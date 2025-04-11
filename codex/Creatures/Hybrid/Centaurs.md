@@ -1,105 +1,109 @@
-# **Centaurs**: The Swift Riders of the Plains
+# **Zentauren**: Die schnellen Reiter der Ebenen
 
-[**Centaurs**](/codex/Creatures/Centaurs.md) are the swift riders of the plains, their bodies a powerful harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a galloping percussion section, they resonate with the rhythm of the land, creating a unique melody of existence that bridges the human and equine realms.
+[**Zentauren**](/codex/Creatures/Centaurs.md) sind die schnellen Reiter der Ebenen, deren Körper eine kraftvolle Harmonie aus [**Exanthis**](/codex/Basic/Exanthis.md), [**Seelen**](/codex/Basic/Soul.md) und **Mana-Kapazität** darstellen. Wie eine galoppierende Percussion-Gruppe resonieren sie mit dem Rhythmus des Landes und erschaffen eine einzigartige Melodie der Existenz, die die menschliche und die Pferde-Welt verbindet.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **centaurs** forms a harmony that favors physical prowess:
+Wie in [Kreaturen](/codex/Creatures/Creatures.md) detailliert beschrieben, bildet das typische Verhältnis für **Zentauren** eine Harmonie, die die körperliche Stärke bevorzugt:
 
-| Element | Range | Function |
+| Element | Bereich | Funktion |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that grants exceptional strength and speed |
-| **Soul** | 20-30% | The ethereal essence that shapes a balanced and adaptable consciousness |
-| **Mana Capacity** | 10-25% | The bridge between worlds that enables limited magical potential |
+| **Exanthis** | 50-70% | Das kristalline Herz, das außergewöhnliche Kraft und Geschwindigkeit verleiht |
+| **Seele** | 20-30% | Die ätherische Essenz, die ein ausgeglichenes und anpassungsfähiges Bewusstsein formt |
+| **Mana-Kapazität** | 10-25% | Die Brücke zwischen den Welten, die begrenztes magisches Potenzial ermöglicht |
 
-This composition grants **centaurs** their characteristic speed and strength but typically limits their magical potential compared to other species, like a powerful instrument that can play with great intensity but lacks the subtlety of a full orchestra.
+Diese Zusammensetzung verleiht **Zentauren** ihre charakteristische Geschwindigkeit und Stärke, schränkt aber typischerweise ihr magisches Potenzial im Vergleich zu anderen Spezies ein, wie ein kraftvolles Instrument, das mit großer Intensität spielen kann, dem aber die Subtilität eines ganzen Orchesters fehlt.
 
-### Individual Variations
+### Individuelle Variationen
 
-While the model composition represents the typical centaur, individual variations exist based on their clan lineage:
+Während die Modell-Zusammensetzung den typischen Zentauren darstellt, existieren individuelle Variationen basierend auf ihrer Klan-Abstammung:
 
-- **Wind Champions**: Some centaurs, particularly from the Windrider clan, possess Exanthis levels as high as 75%, giving them extraordinary speed and endurance that allows them to run for days without rest, though with reduced magical abilities (10% Mana Capacity).
-- **Earth Seers**: Rarer centaurs with enhanced Mana Capacity (up to 30%) can manipulate earth magic with impressive skill, particularly for tracking, healing, and strengthening clan territories.
-- **Star Prophets**: Those with higher Soul percentages (up to 35%) become wise leaders and prophets, often developing divination abilities based on celestial observations.
-- **Forest Shadows**: A specialized variant with balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity) develops extraordinary stealth abilities despite their size, becoming master hunters and scouts.
-- **Thunder Hooves**: Some centaurs develop a unique composition (65% Exanthis, 20% Soul, 15% Mana Capacity) that allows them to channel their physical energy into combat techniques that generate thunderous impacts with each strike.
+- **Wind-Champions**: Einige Zentauren, insbesondere aus dem Windreiter-Klan, besitzen Exanthis-Werte von bis zu 75%, was ihnen außergewöhnliche Geschwindigkeit und Ausdauer verleiht, die es ihnen ermöglicht, tagelang ohne Ruhe zu laufen, allerdings mit reduzierten magischen Fähigkeiten (10% Mana-Kapazität).
+- **Erdseher**: Seltenere Zentauren mit erhöhter Mana-Kapazität (bis zu 30%) können Erdmagie mit beeindruckendem Geschick manipulieren, insbesondere für die Verfolgung, Heilung und Stärkung von Klan-Territorien.
+- **Sternen-Propheten**: Jene mit höheren Seelen-Prozentsätzen (bis zu 35%) werden zu weisen Führern und Propheten, die oft Wahrsagefähigkeiten entwickeln, die auf himmlischen Beobachtungen basieren.
+- **Waldschatten**: Eine spezialisierte Variante mit ausgeglichener Zusammensetzung (50% Exanthis, 25% Seele, 25% Mana-Kapazität) entwickelt trotz ihrer Größe außergewöhnliche Tarnfähigkeiten und wird zu Meisterjägern und Kundschaftern.
+- **Donnerhufe**: Einige Zentauren entwickeln eine einzigartige Zusammensetzung (65% Exanthis, 20% Seele, 15% Mana-Kapazität), die es ihnen ermöglicht, ihre körperliche Energie in Kampftechniken zu kanalisieren, die bei jedem Schlag donnernde Einschläge erzeugen.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Centaurs** are known for their powerful build and equine grace:
-- Humanoid upper bodies seamlessly joined to horse-like lower bodies
-- Height ranging from 7 to 9 feet at the shoulder, depending on their lineage
-- Muscular build with dense muscle and bone structure, like living embodiments of power
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair and manes that are often intricately braided with symbols of clan and status
-- Natural resistance to fatigue and endurance, like the endless plains they call home
+**Zentauren** sind bekannt für ihre kräftige Statur und ihre Pferde-Anmut:
+- Menschliche Oberkörper, die nahtlos mit pferdeartigen Unterkörpern verbunden sind
+- Höhe von 7 bis 9 Fuß an der Schulter, abhängig von ihrer Abstammung
+- Muskulöser Körperbau mit dichter Muskel- und Knochenstruktur, wie lebende Verkörperungen der Kraft
+- Augen, die mit innerem Licht schimmern und ihre Verbindung zu [**Exanthis**](/codex/Basic/Exanthis.md) widerspiegeln
+- Haare und Mähnen, die oft aufwendig mit Symbolen des Klans und des Status geflochten sind
+- Natürliche Resistenz gegen Müdigkeit und Ausdauer, wie die endlosen Ebenen, die sie ihr Zuhause nennen
 
-## Physical and Magical Affinity
+## Physische und Magische Affinität
 
-**Centaurs** demonstrate exceptional proficiency in speed and endurance, like virtuoso performers who excel in power and rhythm. Their composition allows them to:
-- Develop extraordinary speed and stamina, like living embodiments of the wind
-- Channel earth magic with minimal proficiency, particularly for navigation and tracking
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+**Zentauren** zeigen außergewöhnliche Fähigkeiten in Geschwindigkeit und Ausdauer, wie Virtuosen, die sich durch Kraft und Rhythmus auszeichnen. Ihre Zusammensetzung ermöglicht es ihnen:
+- Außergewöhnliche Geschwindigkeit und Ausdauer zu entwickeln, wie lebende Verkörperungen des Windes
+- Erdmagie mit minimalem Können zu kanalisieren, insbesondere für Navigation und Verfolgung
+- Magischen Effekten durch ihren hohen **Exanthis**-Gehalt zu widerstehen, wie ein Stein, der die Oberfläche eines magischen Teiches durchbricht
 
-This power makes **centaurs** capable of achieving feats of speed and endurance that few other species can match, though they may struggle with tasks requiring complex magical abilities, like a powerful instrument that can play with great intensity but lacks the complexity of a full orchestra.
+Diese Kraft ermöglicht es **Zentauren**, Leistungen in Geschwindigkeit und Ausdauer zu vollbringen, die nur wenige andere Spezies erreichen können, obwohl sie Schwierigkeiten mit Aufgaben haben könnten, die komplexe magische Fähigkeiten erfordern, wie ein kraftvolles Instrument, das mit großer Intensität spielen kann, dem aber die Komplexität eines ganzen Orchesters fehlt.
 
-## Lifespan and Soul Decay
+## Lebensspanne und Seelenverfall
 
-The **soul decay** timeline for **centaurs**, from birth to complete decay, is approximately 200 years, like a steady flame that illuminates the plains. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to their territories and traditions
-- Form stable societies with strong hierarchical structures
+Der **Seelenverfalls**-Zeitrahmen für **Zentauren**, von der Geburt bis zum vollständigen Verfall, beträgt ungefähr 200 Jahre, wie eine stetige Flamme, die die Ebenen erleuchtet. Diese moderate Lebensspanne ermöglicht es ihnen:
+- Wissen und Weisheit über Generationen anzusammeln
+- Tiefe Verbindungen zu ihren Territorien und Traditionen aufzubauen
+- Stabile Gesellschaften mit starken hierarchischen Strukturen zu bilden
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the seasons.
+Ihr moderates Seelenverhältnis bedeutet jedoch auch, dass sie sich in einem moderaten Tempo verändern und anpassen, wie eine Melodie, die sich mit den Jahreszeiten entwickelt.
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**Centaurs** primarily inhabit:
-- Vast grasslands and plains, where they can run freely and hunt
-- Rolling hills and savannas, where they can maintain their herds
-- Strategic locations that provide access to water and resources
-- Nomadic territories that allow them to follow the migrations of game
+**Zentauren** bewohnen hauptsächlich:
+- Weite Graslandschaften und Ebenen, wo sie frei laufen und jagen können
+- Hügel und Savannen, wo sie ihre Herden halten können
+- Strategische Standorte, die Zugang zu Wasser und Ressourcen bieten
+- Nomadische Territorien, die es ihnen ermöglichen, den Wanderungen des Wildes zu folgen
 
-These locations provide ideal environments for the development of speed and the practice of earth magic, like stages perfectly suited to their performance.
+Diese Standorte bieten ideale Umgebungen für die Entwicklung von Geschwindigkeit und die Ausübung von Erdmagie, wie Bühnen, die perfekt auf ihre Darbietung zugeschnitten sind.
 
-## Cultural Impact
+## Kultureller Einfluss
 
-In the world of **OpenFantasy**, **centaurs** play a crucial role in maintaining the balance of the plains, like conductors of the grand symphony of speed. Their societies are centers of:
-- Martial prowess and hunting skills
-- Earth magic and navigation
-- Hierarchical structures and clan pride
+In der Welt von **OpenFantasy** spielen **Zentauren** eine entscheidende Rolle bei der Aufrechterhaltung des Gleichgewichts der Ebenen, wie Dirigenten der großen Symphonie der Geschwindigkeit. Ihre Gesellschaften sind Zentren von:
+- Kriegerischer Stärke und Jagdfähigkeiten
+- Erdmagie und Navigation
+- Hierarchischen Strukturen und Klan-Stolz
 
-The connection to the land has shaped centaur culture around respect for speed, strength, and tradition, creating a society where might and skill are highly valued.
+Die Verbindung zum Land hat die Zentauren-Kultur um den Respekt vor Geschwindigkeit, Stärke und Tradition geformt und eine Gesellschaft geschaffen, in der Macht und Geschicklichkeit hoch geschätzt werden.
 
-## Relationship with Other Species
+## Beziehung zu Anderen Spezies
 
-**Centaurs** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **Beastfolk**: A deep connection based on shared appreciation for physical prowess and connection to nature
+**Zentauren** pflegen komplexe Beziehungen zu anderen Spezies:
+- Mit [**Menschen**](/codex/Creatures/Human.md): Eine Mischung aus Respekt für ihre Anpassungsfähigkeit und Frustration über ihre Schwäche
+- Mit **Elfen**: Ein vorsichtiger Respekt, der ihr magisches Können anerkennt, aber ihre Wege seltsam findet
+- Mit **Zwergen**: Eine pragmatische Allianz, die auf gegenseitigem Respekt für Stärke und Handwerkskunst basiert
+- Mit **Tiermenschen**: Eine tiefe Verbindung, die auf gemeinsamer Wertschätzung für körperliche Stärke und Verbundenheit zur Natur basiert
 
-These relationships are often characterized by a sense of superiority, as **centaurs** view themselves as the true children of the plains.
+Diese Beziehungen sind oft von einem Gefühl der Überlegenheit geprägt, da **Zentauren** sich selbst als die wahren Kinder der Ebenen betrachten.
 
-## Notable Centaur Traits
+## Bemerkenswerte Zentauren-Eigenschaften
 
-- **Physical Might**: Centaurs excel in speed and endurance, often surpassing other species in their ability to travel long distances
-- **Earth Affinity**: Centaurs have a natural connection to earth magic, allowing them to navigate and track with ease
-- **Limited Adaptability**: Their minimal mana capacity makes it difficult for centaurs to master complex magical abilities
-- **Clan Pride**: Centaurs place great emphasis on their clan heritage and traditions
-- **Territorial Nature**: Centaurs are fiercely protective of their territories and resources
+- **Körperliche Stärke**: Zentauren zeichnen sich durch Geschwindigkeit und Ausdauer aus und übertreffen oft andere Spezies in ihrer Fähigkeit, lange Strecken zurückzulegen
+- **Erd-Affinität**: Zentauren haben eine natürliche Verbindung zur Erdmagie, die es ihnen ermöglicht, mit Leichtigkeit zu navigieren und zu verfolgen
+- **Begrenzte Anpassungsfähigkeit**: Ihre minimale Mana-Kapazität erschwert es Zentauren, komplexe magische Fähigkeiten zu meistern
+- **Klan-Stolz**: Zentauren legen großen Wert auf ihre Klan-Herkunft und Traditionen
+- **Territoriales Wesen**: Zentauren sind wild entschlossen, ihre Territorien und Ressourcen zu schützen
 
-## Centaur Clans
+## Zentauren-Klans
 
-Centaur society is organized into numerous clans, each with its own specialties and traditions:
+Die Zentauren-Gesellschaft ist in zahlreiche Klans organisiert, von denen jeder seine eigenen Spezialitäten und Traditionen hat:
 
-| Clan | Specialty | Territory | Notable Traits |
+| Klan | Spezialität | Territorium | Bemerkenswerte Eigenschaften |
 |---------|---------------|---------|-------------------|
-| **Windriders** | Speed, hunting | Open plains | Swift action, hunting mastery |
-| **Earthshakers** | Strength, combat | Rocky hills | Combat abilities, earth manipulation |
-| **Starseekers** | Navigation, wisdom | Star-lit plains | Navigation abilities, astronomical knowledge |
-| **Riverwatchers** | Water magic, fishing | River valleys | Water magic, fishing expertise |
-| **Firebrands** | Passion, leadership | Volcanic regions | Leadership abilities, fire resistance |
-| **Forestwardens** | Stealth, tracking | Forest edges | Stealth abilities, tracking expertise |
+| **Windreiter** | Geschwindigkeit, Jagd | Offene Ebenen | Schnelles Handeln, Jagd-Meisterschaft |
+| **Erderschütterer** | Stärke, Kampf | Felsige Hügel | Kampffähigkeiten, Erdmanipulation |
+| **Sternensucher** | Navigation, Weisheit | Sternenbeleuchtete Ebenen | Navigationsfähigkeiten, astronomisches Wissen |
+| **Flusswächter** | Wassermagie, Fischfang | Flusstäler | Wassermagie, Fischexpertise |
+| **Feuerbrand** | Leidenschaft, Führung | Vulkanische Regionen | Führungsfähigkeiten, Feuerresistenz |
+| **Waldhüter** | Tarnung, Verfolgung | Waldränder | Tarnfähigkeiten, Verfolgungsexpertise |
 
-Understanding the nature of **centaurs** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the plains and skies. 
+Das Verständnis der Natur von **Zentauren** gibt Einblick in die Kräfteverhältnisse der Welt von **OpenFantasy**, wie das Fühlen der donnernden Rhythmen, die durch die Ebenen und Himmel pulsieren.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

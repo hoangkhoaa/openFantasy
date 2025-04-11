@@ -1,187 +1,191 @@
-# **Mana Wisps**: Sentient Manifestations of Pure Magical Energy
+# **Mana-Irrlichte**: Empfindungsfähige Manifestationen reiner Magischer Energie
 
-> *"Like living thoughts of magic itself, Wisps dance at the edge of perception, embodying the purest expression of mana's will to exist."* — Archmage Elara Lumestriel
+> *"Wie lebende Gedanken der Magie selbst, tanzen Irrlichte am Rande der Wahrnehmung und verkörpern den reinsten Ausdruck des Willens des Manas zu existieren."* — Erzmagierin Elara Lumestriel
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Behavioral Patterns](#behavioral-patterns)
-- [Species Relationships](#species-relationships)
+- [Elementare Zusammensetzung](#elementare-zusammensetzung)
+- [Physische Eigenschaften](#physische-eigenschaften)
+- [Magische Affinität](#magische-affinität)
+- [Lebensraum und Verbreitung](#lebensraum-und-verbreitung)
+- [Verhaltensmuster](#verhaltensmuster)
+- [Beziehungen zu anderen Arten](#beziehungen-zu-anderen-arten)
 
-## Overview
+## Überblick
 
-Mana Wisps are rare, ephemeral beings that exist as direct manifestations of nearly pure Base Mana that has achieved consciousness. Unlike most magical creatures, Wisps are not born through biological processes but form spontaneously in areas with exceptionally high magical saturation, particularly near ley line convergences, ancient ritual sites, or in the aftermath of powerful magical events. They represent the threshold where magical energy gains sufficient complexity to develop self-awareness, existing as living embodiments of the fundamental magical principles that govern OpenFantasy.
+Mana-Irrlichte sind seltene, ephemere Wesen, die als direkte Manifestationen von nahezu reinem Basis-Mana existieren, das Bewusstsein erlangt hat. Im Gegensatz zu den meisten magischen Kreaturen werden Irrlichte nicht durch biologische Prozesse geboren, sondern bilden sich spontan in Gebieten mit außergewöhnlich hoher magischer Sättigung, insbesondere in der Nähe von Leylinien-Konvergenzen, alten Ritualstätten oder im Nachgang von mächtigen magischen Ereignissen. Sie stellen die Schwelle dar, an der magische Energie genügend Komplexität erlangt, um Selbstbewusstsein zu entwickeln, und existieren als lebende Verkörperungen der grundlegenden magischen Prinzipien, die OpenFantasy beherrschen.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-**Mana Wisps** possess an elemental composition unlike any other known beings:
+**Mana-Irrlichte** besitzen eine elementare Zusammensetzung, die sich von allen anderen bekannten Wesen unterscheidet:
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Seele | Mana-Kapazität | Repräsentativer Typ |
 |----------|------|---------------|---------------------|
-| 1-5% | 10-15% | 80-90% | Standard Wisp |
-| 0-2% | 8-10% | 88-92% | **Pure Wisp** with heightened magical sensitivity |
-| 3-7% | 15-20% | 75-85% | **Stable Wisp** with greater physicality and longevity |
-| 5-10% | 5-10% | 80-90% | **Elemental Wisp** with strong affinity to specific elements |
+| 1-5% | 10-15% | 80-90% | Standard-Irrlicht |
+| 0-2% | 8-10% | 88-92% | **Reines Irrlicht** mit erhöhter magischer Sensibilität |
+| 3-7% | 15-20% | 75-85% | **Stabiles Irrlicht** mit größerer Körperlichkeit und Langlebigkeit |
+| 5-10% | 5-10% | 80-90% | **Elementar-Irrlicht** mit starker Affinität zu bestimmten Elementen |
 
-### Individual Variations
+### Individuelle Variationen
 
-While all Mana Wisps share a core nature of extremely high Mana Capacity and minimal physical form, their individual manifestations vary based on the magical conditions that birthed them. Wisps formed near elemental sources tend to adopt qualities of that element, while those born from ritual magic often reflect the spell's purpose. The oldest Wisps gradually develop stronger Soul components, gaining deeper consciousness and the ability to form more complex thoughts and relationships.
+Während alle Mana-Irrlichte eine Kernnatur von extrem hoher Mana-Kapazität und minimaler physischer Form teilen, variieren ihre individuellen Manifestationen basierend auf den magischen Bedingungen, die sie hervorgebracht haben. Irrlichte, die in der Nähe von elementaren Quellen entstehen, neigen dazu, Eigenschaften dieses Elements anzunehmen, während solche, die aus Ritualmagie geboren werden, oft den Zweck des Zaubers widerspiegeln. Die ältesten Irrlichte entwickeln allmählich stärkere Seelenkomponenten und erlangen ein tieferes Bewusstsein und die Fähigkeit, komplexere Gedanken und Beziehungen zu formen.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Mana Wisps** exhibit distinctive physical traits:
+**Mana-Irrlichte** weisen unverwechselbare physische Merkmale auf:
 
-| Characteristic | Description |
+| Charakteristik | Beschreibung |
 |----------------|-------------|
-| **Size** | Typically 4-12 inches in diameter |
-| **Weight** | Virtually none (0.01-0.1 ounces) |
-| **Lifespan** | Variable; typically 3-12 years, though some ancient specimens have existed for centuries |
-| **Physical Maturity** | Instantaneous upon formation |
-| **Notable Features** | Luminous core surrounded by shifting, translucent energy patterns |
+| **Größe** | Typischerweise 10-30 cm im Durchmesser |
+| **Gewicht** | Praktisch nicht vorhanden (0,3-3 Gramm) |
+| **Lebensdauer** | Variabel; typischerweise 3-12 Jahre, obwohl einige uralte Exemplare seit Jahrhunderten existieren |
+| **Physische Reife** | Sofort nach der Bildung |
+| **Bemerkenswerte Merkmale** | Leuchtender Kern, umgeben von sich verändernden, durchscheinenden Energiemustern |
 
-### Appearance
+### Erscheinungsbild
 
-- **Luminescence**: Emit soft, pulsating light reflecting their emotional state
-- **Chromatic Variation**: Color correlates with their dominant elemental affinity
-- **Patterned Movement**: Energy flow forms consistent patterns unique to each individual
-- **Translucent Body**: Core structure visible through semi-transparent outer layers
-- **Adaptive Form**: Can compress or expand slightly based on environmental conditions
+- **Lumineszenz**: Geben weiches, pulsierendes Licht ab, das ihren emotionalen Zustand widerspiegelt
+- **Chromatische Variation**: Die Farbe korreliert mit ihrer dominanten elementaren Affinität
+- **Gemusterte Bewegung**: Energiefluss bildet konsistente Muster, die für jedes Individuum einzigartig sind
+- **Durchscheinender Körper**: Kernstruktur sichtbar durch semi-transparente äußere Schichten
+- **Adaptive Form**: Kann sich basierend auf den Umgebungsbedingungen leicht zusammenziehen oder ausdehnen
 
-## Magical Affinity
+## Magische Affinität
 
-**Mana Wisps** demonstrate extraordinary proficiency in manipulating **Mana**:
+**Mana-Irrlichte** demonstrieren außergewöhnliche Fähigkeiten bei der Manipulation von **Mana**:
 
-| Aspect | Capability |
+| Aspekt | Fähigkeit |
 |--------|------------|
-| **Mana Storage** | Exceptional (equivalent to 85-95% capacity beings despite small size) |
-| **Purification** | Extraordinary (natural 95%+ purity of Base Mana) |
-| **Specialization Efficiency** | Exceptional (80-90% conversion efficiency) |
-| **Natural Affinity** | Base Mana primarily; secondary affinity varies by individual |
+| **Mana-Speicherung** | Außergewöhnlich (entspricht 85-95% Kapazität bei Wesen trotz geringer Größe) |
+| **Reinigung** | Außergewöhnlich (natürliche 95%+ Reinheit von Basis-Mana) |
+| **Spezialisierungs-Effizienz** | Außergewöhnlich (80-90% Konversionseffizienz) |
+| **Natürliche Affinität** | Hauptsächlich Basis-Mana; sekundäre Affinität variiert je nach Individuum |
 
-### Magical Specializations
+### Magische Spezialisierungen
 
-While **Mana Wisps** can manifest various forms of magic, they often excel in:
+Während **Mana-Irrlichte** verschiedene Formen von Magie manifestieren können, zeichnen sie sich oft in folgenden Bereichen aus:
 
-- **Mana Sensing**: Ability to detect subtle variations in magical fields with extraordinary precision
-- **Energy Transference**: Can absorb, store, and release pure magical energy with minimal loss
-- **Resonance Manipulation**: Instinctively harmonize with and modify magical frequencies
-- **Pattern Recognition**: Intuitive understanding of spell patterns and magical structures
+- **Mana-Sensorik**: Fähigkeit, subtile Variationen in magischen Feldern mit außergewöhnlicher Präzision zu erkennen
+- **Energietransfer**: Kann reine magische Energie mit minimalem Verlust absorbieren, speichern und freisetzen
+- **Resonanzmanipulation**: Harmonisieren instinktiv mit magischen Frequenzen und modifizieren diese
+- **Mustererkennung**: Intuitives Verständnis von Zaubermustern und magischen Strukturen
 
-### Unique Magical Traits
+### Einzigartige Magische Eigenschaften
 
-- **Phase Shifting**: Can temporarily shift between material existence and pure energy state
-- **Mana Communion**: Ability to directly communicate with other magical beings through mana resonance
-- **Wild Mana Purification**: Natural ability to convert Wild Mana to Base Mana with exceptional efficiency
-- **Magical Symbiosis**: Can form beneficial connections with compatible spellcasters
+- **Phasenverschiebung**: Kann vorübergehend zwischen materieller Existenz und reinem Energiezustand wechseln
+- **Mana-Kommunion**: Fähigkeit, direkt mit anderen magischen Wesen durch Mana-Resonanz zu kommunizieren
+- **Wild-Mana-Reinigung**: Natürliche Fähigkeit, Wild-Mana mit außergewöhnlicher Effizienz in Basis-Mana umzuwandeln
+- **Magische Symbiose**: Kann vorteilhafte Verbindungen mit kompatiblen Zauberwirker/innen eingehen
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**Mana Wisps** typically inhabit areas with high magical concentration:
+**Mana-Irrlichte** bewohnen typischerweise Gebiete mit hoher magischer Konzentration:
 
-| Region | Settlement Type | Notable Features |
+| Region | Siedlungstyp | Bemerkenswerte Merkmale |
 |--------|----------------|------------------|
-| **Ley Line Confluences** | Temporary gatherings | Highest concentration, cyclical migration patterns |
-| **Ancient Magical Sites** | Small, stable colonies | Long-term residence, often serving as site guardians |
-| **Wizard Towers/Academies** | Symbiotic relationships | Living in mutually beneficial association with mages |
-| **Fae Realm Borders** | Threshold communities | Facilitating energy exchange between realms |
+| **Leylinien-Zusammenflüsse** | Temporäre Versammlungen | Höchste Konzentration, zyklische Migrationsmuster |
+| **Alte Magische Stätten** | Kleine, stabile Kolonien | Langfristiger Aufenthalt, oft als Wächter der Stätte |
+| **Zaubertürme/Akademien** | Symbiotische Beziehungen | Leben in einer für beide Seiten vorteilhaften Verbindung mit Magiern |
+| **Feenreich-Grenzen** | Schwellen-Gemeinschaften | Erleichterung des Energieaustauschs zwischen den Reichen |
 
-### Magical Environment Adaptation
+### Anpassung an die Magische Umgebung
 
-Mana Wisps require environments rich in ambient magical energy to sustain themselves. Unlike most beings that draw Wild Mana from their surroundings to convert into Base Mana internally, Wisps exist in a constant state of energy exchange with their environment. This makes them extremely sensitive to changes in magical fields and vulnerable to areas of low magical saturation, where they can quickly weaken and eventually dissipate.
+Mana-Irrlichte benötigen Umgebungen, die reich an ambienter magischer Energie sind, um sich selbst zu erhalten. Im Gegensatz zu den meisten Wesen, die Wild-Mana aus ihrer Umgebung beziehen, um es intern in Basis-Mana umzuwandeln, befinden sich Irrlichte in einem konstanten Zustand des Energieaustauschs mit ihrer Umgebung. Dies macht sie äußerst empfindlich gegenüber Veränderungen in magischen Feldern und anfällig für Gebiete mit geringer magischer Sättigung, wo sie schnell schwächer werden und sich schließlich auflösen können.
 
-## Behavioral Patterns
+## Verhaltensmuster
 
-Despite lacking complex biological brains, Mana Wisps display distinct behavioral patterns that suggest sophisticated consciousness:
+Obwohl es ihnen an komplexen biologischen Gehirnen mangelt, zeigen Mana-Irrlichte deutliche Verhaltensmuster, die auf ein hochentwickeltes Bewusstsein hindeuten:
 
-### Intelligence and Communication
+### Intelligenz und Kommunikation
 
-- **Non-verbal Consciousness**: Possess intelligence without traditional thought structures
-- **Light Pattern Language**: Communicate through pulses, color shifts, and movement patterns
-- **Magical Resonance Dialogue**: Can "speak" directly to magically sensitive beings through mana fluctuations
-- **Collective Memory**: Access shared knowledge when gathered in groups
+- **Non-verbales Bewusstsein**: Besitzen Intelligenz ohne traditionelle Denkstrukturen
+- **Lichtmuster-Sprache**: Kommunizieren durch Impulse, Farbverschiebungen und Bewegungsmuster
+- **Magischer Resonanz-Dialog**: Können durch Mana-Schwankungen direkt mit magisch empfindlichen Wesen "sprechen"
+- **Kollektives Gedächtnis**: Zugriff auf gemeinsames Wissen, wenn sie in Gruppen versammelt sind
 
-### Social Structure
+### Soziale Struktur
 
-Wisps typically exist in loose collective arrangements called "illuminations":
+Irrlichte existieren typischerweise in losen kollektiven Arrangements, die als "Illuminationen" bezeichnet werden:
 
-| Group Size | Structure | Purpose |
+| Gruppengröße | Struktur | Zweck |
 |------------|-----------|---------|
-| 1-3 Wisps | Solitary/Pair | Exploration, specialized magical functions |
-| 5-12 Wisps | Cluster | Standard social unit, mutual protection |
-| 20-50 Wisps | Illumination | Full community with specialized roles |
-| 100+ Wisps | Brilliance | Rare gatherings with heightened collective intelligence |
+| 1-3 Irrlichte | Einzelgänger/Paar | Erkundung, spezialisierte magische Funktionen |
+| 5-12 Irrlichte | Cluster | Standard-Sozialeinheit, gegenseitiger Schutz |
+| 20-50 Irrlichte | Illumination | Volle Gemeinschaft mit spezialisierten Rollen |
+| 100+ Irrlichte | Brillanz | Seltene Versammlungen mit erhöhter kollektiver Intelligenz |
 
-### Life Cycle
+### Lebenszyklus
 
-1. **Coalescence**: Spontaneous formation from concentrated ambient mana
-2. **Awakening**: Development of self-awareness and individual identity
-3. **Maturation**: Gradual stabilization and growth of mental complexity
-4. **Specialization**: Development of specific magical affinities and skills
-5. **Diffusion**: Eventually disperse back into pure magical energy or, rarely, ascend to higher forms
+1. **Koaleszenz**: Spontane Bildung aus konzentriertem Ambient-Mana
+2. **Erwachen**: Entwicklung von Selbstbewusstsein und individueller Identität
+3. **Reifung**: Allmähliche Stabilisierung und Wachstum der mentalen Komplexität
+4. **Spezialisierung**: Entwicklung spezifischer magischer Affinitäten und Fähigkeiten
+5. **Diffusion**: Lösen sich schließlich wieder in reine magische Energie auf oder steigen in seltenen Fällen zu höheren Formen auf
 
-## Species Relationships
+## Beziehungen zu anderen Arten
 
-**Mana Wisps** interact with other species in distinctive ways:
+**Mana-Irrlichte** interagieren auf unverwechselbare Weise mit anderen Arten:
 
-| Species | Relationship | Notable Interactions |
+| Spezies | Beziehung | Bemerkenswerte Interaktionen |
 |---------|--------------|----------------------|
-| **Arcane Spellcasters** | Mutually Beneficial | Can serve as familiars, mana monitors, or spell assistants |
-| **Fae** | General Affinity | Natural understanding and communication |
-| **Elementals** | Respectful Coexistence | Recognition of shared non-biological nature |
-| **Sentient Plants** | Symbiotic | Often provide growth energy in exchange for protection |
-| **Humans** | Cautious Curiosity | Interest in human magic, wariness of exploitation |
-| **Shadowfolk** | Opposing Energies | Natural tension due to contrasting magical natures |
+| **Arkane Zauberwirker/innen** | Gegenseitig vorteilhaft | Können als Vertraute, Mana-Monitore oder Zauberassistenten dienen |
+| **Feen** | Allgemeine Affinität | Natürliches Verständnis und Kommunikation |
+| **Elementare** | Respektvolle Koexistenz | Anerkennung der gemeinsamen nicht-biologischen Natur |
+| **Empfindungsfähige Pflanzen** | Symbiotisch | Bieten oft Wachstumsenergie im Austausch für Schutz |
+| **Menschen** | Vorsichtige Neugier | Interesse an menschlicher Magie, Scheu vor Ausbeutung |
+| **Schattenvolk** | Gegensätzliche Energien | Natürliche Spannung aufgrund gegensätzlicher magischer Natur |
 
-### Magical Symbiosis
+### Magische Symbiose
 
-Mana Wisps can form uniquely beneficial relationships with spellcasters who earn their trust:
+Mana-Irrlichte können einzigartig vorteilhafte Beziehungen zu Zauberwirker/innen eingehen, die ihr Vertrauen gewinnen:
 
-- **Mana Purification**: Help improve a caster's Phase 2 conversion efficiency
-- **Wild Mana Filtration**: Assist in converting dangerous concentrations of Wild Mana
-- **Spell Stabilization**: Lend their natural resonance to enhance spell pattern stability
-- **Energy Conservation**: Reduce mana wastage in complex castings
+- **Mana-Reinigung**: Helfen, die Konversionseffizienz von Phase 2 eines/einer Zauberwirkers/in zu verbessern
+- **Wild-Mana-Filtration**: Helfen bei der Umwandlung gefährlicher Konzentrationen von Wild-Mana
+- **Zauberstabilisierung**: Leihen ihre natürliche Resonanz, um die Stabilität des Zaubermusters zu verbessern
+- **Energiekonservierung**: Reduzieren Mana-Verschwendung bei komplexen Wirkungen
 
-## Notable Traits
+## Bemerkenswerte Eigenschaften
 
-**Mana Wisps** are characterized by several distinctive traits:
+**Mana-Irrlichte** zeichnen sich durch mehrere unverwechselbare Eigenschaften aus:
 
-### Strengths
+### Stärken
 
-- **Magical Purity**: Natural 95%+ mana purity without effort
-- **Elemental Versatility**: Ability to work with all forms of elemental mana
-- **Pattern Intelligence**: Intuitive understanding of magical structures
-- **Energy Sensitivity**: Can detect subtle magical disturbances
-- **Environmental Adaptability**: Can adjust their resonance to match surroundings
+- **Magische Reinheit**: Natürliche 95%+ Mana-Reinheit ohne Anstrengung
+- **Elementare Vielseitigkeit**: Fähigkeit, mit allen Formen von elementarem Mana zu arbeiten
+- **Musterintelligenz**: Intuitives Verständnis magischer Strukturen
+- **Energiesensibilität**: Kann subtile magische Störungen erkennen
+- **Umweltanpassungsfähigkeit**: Kann ihre Resonanz an die Umgebung anpassen
 
-### Challenges
+### Herausforderungen
 
-- **Physical Vulnerability**: Almost no physical substance to resist damage
-- **Energy Dependency**: Require constant access to magical energy sources
-- **Communication Limitations**: Difficulty conveying complex concepts to non-magical beings
-- **Existence Fragility**: Risk of dissipation when exposed to anti-magical effects
+- **Physische Verwundbarkeit**: Fast keine physische Substanz, um Schäden zu widerstehen
+- **Energieabhängigkeit**: Benötigen ständigen Zugriff auf magische Energiequellen
+- **Kommunikationsbeschränkungen**: Schwierigkeiten, nicht-magischen Wesen komplexe Konzepte zu vermitteln
+- **Existenzielle Fragilität**: Risiko der Auflösung bei Einwirkung von Anti-Magie-Effekten
 
-## Practical Applications and Interactions
+## Praktische Anwendungen und Interaktionen
 
-### Research Value
+### Forschungswert
 
-Mana Wisps provide invaluable insights into fundamental magical principles:
+Mana-Irrlichte liefern unschätzbare Einblicke in grundlegende magische Prinzipien:
 
-- **Living Demonstrations** of the Base Mana to Elemental Mana conversion process
-- **Natural Models** of optimal mana specialization efficiency
-- **Observable Examples** of consciousness emerging from magical energy
+- **Lebende Demonstrationen** des Basis-Mana-zu-Elementar-Mana-Konversionsprozesses
+- **Natürliche Modelle** der optimalen Mana-Spezialisierungseffizienz
+- **Beobachtbare Beispiele** für Bewusstsein, das aus magischer Energie entsteht
 
-### Magical Practice Integration
+### Integration in die Magische Praxis
 
-Advanced mages work with Wisps in several capacities:
+Fortgeschrittene Magier arbeiten mit Irrlichten in verschiedenen Funktionen:
 
-- **Spell Diagnostics**: Identify flaws in magical pattern construction
-- **Mana Source Identification**: Locate optimal positions for ritual sites
-- **Purification Assistance**: Enhance mana purification during complex workings
-- **Wild Mana Stabilization**: Help contain dangerous magical phenomena
+- **Zauberdiagnostik**: Identifizieren Fehler in der magischen Musterkonstruktion
+- **Mana-Quellenidentifizierung**: Lokalisieren optimale Positionen für Ritualstätten
+- **Reinigungsunterstützung**: Verbessern die Mana-Reinigung bei komplexen Arbeiten
+- **Wild-Mana-Stabilisierung**: Helfen, gefährliche magische Phänomene einzudämmen
 
 ---
 
-> Understanding **Mana Wisps** provides unique insight into the living potential of magical energy in its purest form, offering a window into the fundamental relationship between consciousness and mana that underpins all magical practice in OpenFantasy. 
+> Das Verständnis von **Mana-Irrlichten** bietet einen einzigartigen Einblick in das lebende Potenzial magischer Energie in ihrer reinsten Form und öffnet ein Fenster zu der grundlegenden Beziehung zwischen Bewusstsein und Mana, die jeder magischen Praxis in OpenFantasy zugrunde liegt.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

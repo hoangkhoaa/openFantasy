@@ -1,105 +1,109 @@
-# **Shadowfolk**: The Mysterious Dwellers of Darkness
+# **Schattenvolk**: Die geheimnisvollen Bewohner der Dunkelheit
 
-[**Shadowfolk**](/codex/Creatures/Shadowfolk.md) are the mysterious dwellers of darkness, their bodies a shadowy harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a haunting bassoon, they resonate most strongly with the shadows and darkness, creating a unique melody of existence that bridges the light and dark realms.
+[**Schattenvolk**](/codex/Creatures/Shadowfolk.md) sind die geheimnisvollen Bewohner der Dunkelheit, ihre Körper eine schattenhafte Harmonie aus [**Exanthis**](/codex/Basic/Exanthis.md), [**Seelen**](/codex/Basic/Soul.md) und **Mana Capacity**. Wie ein eindringliches Fagott resonieren sie am stärksten mit den Schatten und der Dunkelheit und erschaffen so eine einzigartige Melodie der Existenz, die die Reiche des Lichts und der Dunkelheit verbindet.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **shadowfolk** forms a harmony that favors magical potential:
+Wie in [Creatures](/codex/Creatures/Creatures.md) beschrieben, bildet das typische Verhältnis für **Schattenvolk** eine Harmonie, die magisches Potenzial begünstigt:
 
-| Element | Range | Function |
+| Element | Bereich | Funktion |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 30-50% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 30-50% | The bridge between worlds that enables significant magical potential |
+| **Exanthis** | 15-30% | Das kristalline Herz, das minimale physische Stärke und Haltbarkeit bietet |
+| **Seele** | 30-50% | Die ätherische Essenz, die ein fließendes und anpassungsfähiges Bewusstsein formt |
+| **Mana Capacity** | 30-50% | Die Brücke zwischen Welten, die ein signifikantes magisches Potenzial ermöglicht |
 
-This composition grants **shadowfolk** their characteristic shadowy abilities but typically limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Diese Zusammensetzung verleiht **Schattenvolk** ihre charakteristischen schattenhaften Fähigkeiten, schränkt aber typischerweise ihre physische Widerstandsfähigkeit im Vergleich zu anderen Spezies ein, wie ein zartes Instrument, das wunderschöne Klänge erzeugt, aber mit Sorgfalt behandelt werden muss.
 
-### Individual Variations
+### Individuelle Variationen
 
-While the model composition represents the typical shadowfolk, individual variations exist:
+Während die Modellzusammensetzung das typische Schattenvolk darstellt, gibt es individuelle Variationen:
 
-- **Void Walkers**: Some shadowfolk possess unusually high Mana Capacity (up to 60%) and low Exanthis (15%), allowing them to manipulate the very fabric of shadows and even travel between shadow realms.
-- **Shadow Blades**: A specialized variant with enhanced Exanthis levels (35%) serves as protectors and assassins, maintaining significant magical ability (35% Mana Capacity) while gaining physical prowess.
-- **Soul Seers**: Those with higher Soul percentages (up to 55%) develop extraordinary perception and wisdom, often becoming seers, prophets, or spiritual leaders who can glimpse truths hidden in darkness.
-- **Twilight Mediators**: Balanced shadowfolk (25% Exanthis, 40% Soul, 35% Mana Capacity) often serve as diplomats between shadowfolk clans and other species, having enough empathy to understand others while maintaining shadowy abilities.
-- **Darkness Shapers**: Specialized shadowfolk with composition of (20% Exanthis, 30% Soul, 50% Mana Capacity) are masters of shadow manipulation, able to create elaborate constructs and illusions from darkness itself.
+- **Leerenwanderer**: Einige Schattenvolk besitzen eine ungewöhnlich hohe Mana Capacity (bis zu 60%) und einen niedrigen Exanthis-Wert (15%), wodurch sie das Gefüge der Schatten manipulieren und sogar zwischen Schattenreichen reisen können.
+- **Schattenschwerter**: Eine spezialisierte Variante mit erhöhten Exanthis-Werten (35%) dient als Beschützer und Assassinen und behält eine bedeutende magische Fähigkeit (35% Mana Capacity) bei, während sie gleichzeitig an physischer Stärke gewinnen.
+- **Seelensucher**: Jene mit höheren Seelenprozenten (bis zu 55%) entwickeln außergewöhnliche Wahrnehmung und Weisheit und werden oft zu Sehern, Propheten oder spirituellen Führern, die Wahrheiten erblicken können, die in der Dunkelheit verborgen sind.
+- **Zwielichtvermittler**: Ausgeglichene Schattenvolk (25% Exanthis, 40% Seele, 35% Mana Capacity) dienen oft als Diplomaten zwischen Schattenvolk-Clans und anderen Spezies und haben genug Empathie, um andere zu verstehen, während sie ihre schattenhaften Fähigkeiten beibehalten.
+- **Dunkelheitsformer**: Spezialisiertes Schattenvolk mit einer Zusammensetzung von (20% Exanthis, 30% Seele, 50% Mana Capacity) sind Meister der Schattenmanipulation, die in der Lage sind, aus der Dunkelheit selbst aufwendige Konstrukte und Illusionen zu erschaffen.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Shadowfolk** are known for their ethereal appearance and shadowy nature:
-- Tall and slender, with proportions that seem to defy reality
-- Eyes that glow with inner darkness, reflecting their connection to shadow magic
-- Skin that seems to absorb light, creating a shadowy aura around them
-- Hair that flows with an otherworldly grace, often in shades of black, purple, or deep blue
-- Ability to blend into shadows, making them difficult to see in low light
-- Presence that seems to dim the light around them, like a shadow passing over the sun
+**Schattenvolk** sind bekannt für ihr ätherisches Aussehen und ihre schattenhafte Natur:
+- Groß und schlank, mit Proportionen, die die Realität zu verleugnen scheinen
+- Augen, die mit innerer Dunkelheit glühen und ihre Verbindung zur Schattenmagie widerspiegeln
+- Haut, die Licht zu absorbieren scheint und eine schattenhafte Aura um sie herum erzeugt
+- Haar, das mit einer jenseitigen Anmut fließt, oft in Schattierungen von Schwarz, Lila oder Tiefblau
+- Fähigkeit, in Schatten aufzugehen, wodurch sie bei schwachem Licht schwer zu sehen sind
+- Eine Präsenz, die das Licht um sie herum zu dimmen scheint, wie ein Schatten, der über die Sonne zieht
 
-## Magical Affinity
+## Magische Affinität
 
-**Shadowfolk** demonstrate exceptional proficiency in shadow magic and stealth, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Manipulate shadows and darkness with extraordinary precision, like conductors of the night's symphony
-- Create illusions through the manipulation of light and shadow, like artists painting with darkness
-- Move silently and unseen through the shadows, like ghosts passing through the night
+**Schattenvolk** zeigen eine außergewöhnliche Beherrschung der Schattenmagie und Tarnung, wie Virtuosen, die ihre Instrumente gemeistert haben. Ihre Zusammensetzung ermöglicht es ihnen:
+- Schatten und Dunkelheit mit außergewöhnlicher Präzision zu manipulieren, wie Dirigenten der Symphonie der Nacht
+- Illusionen durch die Manipulation von Licht und Schatten zu erzeugen, wie Künstler, die mit Dunkelheit malen
+- Sich lautlos und ungesehen durch die Schatten zu bewegen, wie Geister, die durch die Nacht ziehen
 
-This specialization makes **shadowfolk** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Diese Spezialisierung ermöglicht es **Schattenvolk**, die höchsten Grade der Beherrschung in ihren gewählten magischen Traditionen zu erreichen, obwohl sie mit Aufgaben, die physische Stärke oder Widerstandsfähigkeit erfordern, zu kämpfen haben, wie ein zartes Instrument, das wunderschöne Klänge erzeugt, aber rauer Behandlung nicht standhalten kann.
 
-## Lifespan and Soul Decay
+## Lebensspanne und Seelenverfall
 
-The **soul decay** timeline for **shadowfolk**, from birth to complete decay, is approximately 600 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+Die **Seelenverfall**-Timeline für **Schattenvolk**, von der Geburt bis zum vollständigen Verfall, beträgt ungefähr 600 Jahre, wie eine langsam brennende Flamme, die die Zeitalter erleuchtet. Diese verlängerte Lebensspanne ermöglicht es ihnen:
+- Über Jahrhunderte hinweg immenses Wissen und Weisheit anzusammeln
+- Tiefe Verbindungen zu bestimmten Orten und magischen Traditionen zu entwickeln
+- Komplexe Gesellschaften mit komplizierten Bräuchen und Ritualen zu bilden
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Ihr langsamerer Seelenverfall bedeutet jedoch auch, dass sie sich langsamer verändern und anpassen als andere Spezies, wie eine Melodie, die durch die Zeitalter hindurch schön, aber unveränderlich bleibt.
 
-## Habitat and Distribution
+## Habitat und Verbreitung
 
-**Shadowfolk** primarily inhabit:
-- Dark forests and shadowy groves, where they can be closest to the shadows
-- Underground cities and caverns, where they can control the light
-- Magical realms where the boundaries between light and dark grow thin
-- Strategic locations that provide access to both light and shadow
+**Schattenvolk** bewohnen hauptsächlich:
+- Dunkle Wälder und schattenhafte Haine, wo sie den Schatten am nächsten sein können
+- Unterirdische Städte und Höhlen, wo sie das Licht kontrollieren können
+- Magische Reiche, in denen die Grenzen zwischen Licht und Dunkelheit verschwimmen
+- Strategische Standorte, die Zugang zu Licht und Schatten bieten
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Diese Orte bieten ideale Umgebungen für magische Studien und spirituelle Kontemplation, wie eine perfekte Akustik für eine Symphonie.
 
-## Cultural Impact
+## Kultureller Einfluss
 
-In the world of **OpenFantasy**, **shadowfolk** play a crucial role in preserving ancient magical traditions and maintaining the balance between light and dark, like weavers of shadowy melodies. Their societies are centers of:
-- Shadow magic and stealth techniques
-- Philosophical contemplation and spiritual wisdom
-- Artistic expression and aesthetic refinement
+In der Welt von **OpenFantasy** spielen **Schattenvolk** eine entscheidende Rolle bei der Bewahrung alter magischer Traditionen und der Aufrechterhaltung des Gleichgewichts zwischen Licht und Dunkelheit, wie Weber schattenhafter Melodien. Ihre Gesellschaften sind Zentren von:
+- Schattenmagie und Tarntechniken
+- Philosophischer Kontemplation und spiritueller Weisheit
+- Künstlerischem Ausdruck und ästhetischer Verfeinerung
 
-The connection to shadows has shaped shadowfolk culture around the study and mastery of darkness, creating a society where magical ability and wisdom are highly valued.
+Die Verbindung zu den Schatten hat die Schattenvolk-Kultur um das Studium und die Beherrschung der Dunkelheit herum geprägt und eine Gesellschaft geschaffen, in der magische Fähigkeit und Weisheit hoch geschätzt werden.
 
-## Relationship with Other Species
+## Beziehung zu anderen Spezies
 
-**Shadowfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and caution, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for magic and wisdom
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Fae**: A wary relationship, as shadowfolk are less susceptible to fae enchantments
+**Schattenvolk** unterhalten komplexe Beziehungen zu anderen Spezies:
+- Mit [**Menschen**](/codex/Creatures/Human.md): Eine Mischung aus Faszination und Vorsicht, die oft zu komplexen Interaktionen führt
+- Mit **Elfen**: Eine tiefe Verbindung, die auf einer gemeinsamen Wertschätzung für Magie und Weisheit basiert
+- Mit **Zwergen**: Eine respektvolle Distanz, die ihre Handwerkskunst anerkennt, ihre Wege aber seltsam findet
+- Mit **Fae**: Eine vorsichtige Beziehung, da Schattenvolk weniger anfällig für Fae-Verzauberungen sind
 
-These relationships are often characterized by a sense of cultural superiority, as **shadowfolk** view themselves as the true children of darkness and wisdom.
+Diese Beziehungen sind oft von einem Gefühl kultureller Überlegenheit geprägt, da **Schattenvolk** sich selbst als die wahren Kinder der Dunkelheit und Weisheit betrachten.
 
-## Notable Shadowfolk Traits
+## Bemerkenswerte Schattenvolk-Merkmale
 
-- **Shadow Manipulation**: Shadowfolk excel in controlling and manipulating shadows and darkness
-- **Stealth Abilities**: Shadowfolk can move silently and unseen through the shadows
-- **Wisdom**: Shadowfolk possess deep knowledge and understanding of the mysteries of the universe
-- **Artistic Expression**: Shadowfolk have developed highly refined artistic and cultural traditions
-- **Philosophical Contemplation**: Shadowfolk place great emphasis on understanding the nature of existence
+- **Schattenmanipulation**: Schattenvolk zeichnen sich durch die Kontrolle und Manipulation von Schatten und Dunkelheit aus
+- **Tarnfähigkeiten**: Schattenvolk können sich lautlos und ungesehen durch die Schatten bewegen
+- **Weisheit**: Schattenvolk besitzen tiefes Wissen und Verständnis für die Mysterien des Universums
+- **Künstlerischer Ausdruck**: Schattenvolk haben hoch verfeinerte künstlerische und kulturelle Traditionen entwickelt
+- **Philosophische Kontemplation**: Schattenvolk legen großen Wert auf das Verständnis der Natur der Existenz
 
-## Shadowfolk Clans
+## Schattenvolk-Clans
 
-Shadowfolk society is organized into numerous clans, each with its own specialties and traditions:
+Die Schattenvolk-Gesellschaft ist in zahlreiche Clans organisiert, von denen jeder seine eigenen Spezialitäten und Traditionen hat:
 
-| Clan | Specialty | Territory | Notable Traits |
+| Clan | Spezialität | Territorium | Bemerkenswerte Merkmale |
 |---------|---------------|---------|-------------------|
-| **Shadowweavers** | Shadow magic, illusion | Dark forests | Illusion abilities, shadow manipulation |
-| **Nightwalkers** | Stealth, assassination | Underground cities | Stealth abilities, assassination techniques |
-| **Darkphilosophers** | Knowledge, wisdom | Ancient libraries | Philosophical wisdom, ancient knowledge |
-| **Voidcallers** | Void magic, teleportation | Magical realms | Teleportation abilities, void manipulation |
-| **Twilightseekers** | Balance, harmony | Border regions | Balance magic, harmony techniques |
-| **Shadowartists** | Art, beauty | Artistic districts | Artistic abilities, aesthetic refinement |
+| **Schattweber** | Schattenmagie, Illusion | Dunkle Wälder | Illusionsfähigkeiten, Schattenmanipulation |
+| **Nachtwandler** | Tarnung, Attentat | Unterirdische Städte | Tarnfähigkeiten, Attentatstechniken |
+| **Dunkelphilosophen** | Wissen, Weisheit | Alte Bibliotheken | Philosophische Weisheit, altes Wissen |
+| **Leerenrufer** | Leerenmagie, Teleportation | Magische Reiche | Teleportationsfähigkeiten, Leerenmanipulation |
+| **Zwielichtsucher** | Gleichgewicht, Harmonie | Grenzregionen | Gleichgewichtsmagie, Harmonietechniken |
+| **Schattenkünstler** | Kunst, Schönheit | Künstlerische Bezirke | Künstlerische Fähigkeiten, ästhetische Verfeinerung |
 
-Understanding the nature of **shadowfolk** provides insight into the shadowy aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the darkness. 
+Das Verständnis der Natur von **Schattenvolk** gibt Einblick in die schattenhaften Aspekte der Welt von **OpenFantasy**, wie das Hören der eindringlichen Melodien, die durch die Dunkelheit hallen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

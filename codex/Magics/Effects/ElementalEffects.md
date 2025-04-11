@@ -1,43 +1,47 @@
-# **Elemental Effects**: Consequences and Manifestations of Elemental Magic
+# **Elementare Effekte**: Konsequenzen und Manifestationen elementarer Magie
 
-> *"Every fundamental force leaves its mark on both the world and the wielder. The fire mage's hands are ever warm; the water witch's tears never dry."* — Archmage Lysander Moonshadow
+> *"Jede fundamentale Kraft hinterlässt ihre Spuren sowohl auf der Welt als auch auf dem Anwender. Die Hände des Feuermagiers sind stets warm; die Tränen der Wasserhexe trocknen nie."* — Erzmagier Lysander Moonshadow
 
-## Quick Reference
-- [Physical Manifestations](#physical-manifestations)
-- [Environmental Impact](#environmental-impact)
-- [Long-Term Exposure](#long-term-exposure)
-- [Elemental Contamination](#elemental-contamination)
-- [Mitigation Techniques](#mitigation-techniques)
-- [Beneficial Applications](#beneficial-applications)
+## Kurzübersicht
+- [Physische Manifestationen](#physical-manifestations)
+- [Umweltauswirkungen](#environmental-impact)
+- [Langzeitbelastung](#long-term-exposure)
+- [Elementare Kontamination](#elemental-contamination)
+- [Minderungstechniken](#mitigation-techniques)
+- [Vorteilhafte Anwendungen](#beneficial-applications)
 
-## Overview
+## Überblick
 
-The manipulation of elemental forces produces both intended and unintended consequences for practitioners, subjects, and environments. This document catalogs the various effects that result from elemental magic use, from minor physical manifestations to major environmental transformations.
+Die Manipulation elementarer Kräfte erzeugt sowohl beabsichtigte als auch unbeabsichtigte Konsequenzen für Praktizierende, Subjekte und Umgebungen. Dieses Dokument katalogisiert die verschiedenen Effekte, die aus der Anwendung elementarer Magie resultieren, von geringfügigen physischen Manifestationen bis hin zu großen Umwelttransformationen.
 
-## Physical Manifestations
+## Physische Manifestationen
 
-*Detailed content coming soon...*
+*Detaillierte Inhalte folgen in Kürze...*
 
-## Environmental Impact
+## Umweltauswirkungen
 
-*Detailed content coming soon...*
+*Detaillierte Inhalte folgen in Kürze...*
 
-## Long-Term Exposure
+## Langzeitbelastung
 
-*Detailed content coming soon...*
+*Detaillierte Inhalte folgen in Kürze...*
 
-## Elemental Contamination
+## Elementare Kontamination
 
-*Detailed content coming soon...*
+*Detaillierte Inhalte folgen in Kürze...*
 
-## Mitigation Techniques
+## Minderungstechniken
 
-*Detailed content coming soon...*
+*Detaillierte Inhalte folgen in Kürze...*
 
-## Beneficial Applications
+## Vorteilhafte Anwendungen
 
-*Detailed content coming soon...*
+*Detaillierte Inhalte folgen in Kürze...*
 
 ---
 
-*This document is under development. See [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) for more information on the fundamentals of elemental forces.* 
+*Dieses Dokument befindet sich in der Entwicklung. Siehe [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) für weitere Informationen zu den Grundlagen der elementaren Kräfte.*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

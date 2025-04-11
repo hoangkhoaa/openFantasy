@@ -1,250 +1,254 @@
-# **Enhancement Buffs**: The Amplifiers of Magical Potential
+# **Verbesserungs-Buffs**: Die Verstärker magischen Potenzials
 
-[**Enhancement Buffs**](/codex/Magics/EnhancementBuffs.md) are specialized spells designed to temporarily augment a practitioner's natural magical capabilities. Like amplifiers and resonance chambers that enhance a musical instrument's sound, these buffs strengthen specific aspects of a caster's magical ability, allowing them to perform beyond their natural limitations.
+[**Verbesserungs-Buffs**](/codex/Magics/EnhancementBuffs.md) sind spezialisierte Zauber, die dazu dienen, die natürlichen magischen Fähigkeiten eines Praktizierenden vorübergehend zu verstärken. Wie Verstärker und Resonanzkörper, die den Klang eines Musikinstruments verbessern, stärken diese Buffs bestimmte Aspekte der magischen Fähigkeiten eines Zauberers und ermöglichen es ihm, über seine natürlichen Grenzen hinaus zu wirken.
 
-## Fundamentals of Enhancement Buffs
+## Grundlagen von Verbesserungs-Buffs
 
-Enhancement buffs operate by temporarily altering the caster's elemental composition or magical resonance:
+Verbesserungs-Buffs funktionieren, indem sie vorübergehend die elementare Zusammensetzung oder die magische Resonanz des Zauberers verändern:
 
-| Buff Type | Effect | Duration | Limitations |
+| Buff-Typ | Effekt | Dauer | Einschränkungen |
 |---------|------------|---------|----------|
-| **Mana Amplification** | Increases total mana capacity | Short to medium | Strain on physical body |
-| **Purification Enhancement** | Improves mana purification ability | Medium | Mental fatigue |
-| **Pattern Stability** | Enhances ability to maintain complex patterns | Short | Soul wear |
-| **Resonance Attunement** | Strengthens connection to specific frequencies | Medium to long | Reduced flexibility |
+| **Mana-Verstärkung** | Erhöht die gesamte Mana-Kapazität | Kurz bis mittel | Belastung des physischen Körpers |
+| **Reinigungs-Verbesserung** | Verbessert die Fähigkeit zur Mana-Reinigung | Mittel | Mentale Ermüdung |
+| **Muster-Stabilität** | Verbessert die Fähigkeit, komplexe Muster aufrechtzuerhalten | Kurz | Seelenverschleiß |
+| **Resonanz-Abstimmung** | Stärkt die Verbindung zu bestimmten Frequenzen | Mittel bis lang | Reduzierte Flexibilität |
 
-All enhancement buffs share common characteristics:
-- **Temporary Nature**: Effects fade after a specific duration
-- **Diminishing Returns**: Multiple applications become less effective
-- **Recovery Period**: A necessary rest period after buff expiration
-- **Balance Principle**: Enhancement of one aspect often reduces others
+Alle Verbesserungs-Buffs haben gemeinsame Eigenschaften:
+- **Vorübergehende Natur**: Effekte klingen nach einer bestimmten Dauer ab
+- **Abnehmender Ertrag**: Mehrfache Anwendungen werden weniger effektiv
+- **Erholungsphase**: Eine notwendige Ruhephase nach Ablauf des Buffs
+- **Balance-Prinzip**: Die Verbesserung eines Aspekts reduziert oft andere
 
-## Wild Mana and Enhancement Buffs
+## Wildes Mana und Verbesserungs-Buffs
 
-The relationship between [**Wild Mana**](/codex/Magics/WildMana.md) and enhancement buffs is complex and potentially volatile. While Wild Mana can provide unpredictable boosts to buff potency, it introduces significant risks:
+Die Beziehung zwischen [**Wildem Mana**](/codex/Magics/WildMana.md) und Verbesserungs-Buffs ist komplex und potenziell volatil. Während Wildes Mana unvorhersehbare Steigerungen der Buff-Potenz bewirken kann, birgt es erhebliche Risiken:
 
-### Wild Mana Amplification
+### Wilde Mana-Verstärkung
 
-Some practitioners deliberately introduce controlled amounts of Wild Mana into enhancement buffs:
+Einige Praktizierende führen absichtlich kontrollierte Mengen an Wildem Mana in Verbesserungs-Buffs ein:
 
-| Technique | Potential Benefit | Risk Factor | Risk Description |
+| Technik | Potenzieller Nutzen | Risikofaktor | Risikobeschreibung |
 |-----------|-------------------|-------------|------------------|
-| **Chaos Infusion** | 25-50% increased buff potency | Very High | Unpredictable side effects, duration fluctuations |
-| **Edge Harmonics** | Extended buff duration | High | Potential buff collapse, rebound effects |
-| **Wild Resonance** | Enhanced magical sensitivity | Extreme | Sensory overload, magical signature disruption |
-| **Primal Drawing** | Access to raw magical potential | Critical | Wild Mana contamination, elemental corruption |
+| **Chaos-Infusion** | 25-50% erhöhte Buff-Potenz | Sehr hoch | Unvorhersehbare Nebenwirkungen, Dauerschwankungen |
+| **Rand-Harmonien** | Verlängerte Buff-Dauer | Hoch | Potenzieller Buff-Zusammenbruch, Rebound-Effekte |
+| **Wilde Resonanz** | Erhöhte magische Sensibilität | Extrem | Sensorische Überlastung, Störung der magischen Signatur |
+| **Urtümliches Ziehen** | Zugriff auf rohes magisches Potenzial | Kritisch | Kontamination durch Wildes Mana, elementare Korruption |
 
-> *"Wild Mana doesn't simply enhance your buffs—it transforms them into something neither you nor any text can predict. Those who embrace this path walk a line between unprecedented power and becoming the very chaos they sought to harness."* — Magister Thorne, Specialist in Experimental Enhancements
+> *"Wildes Mana verstärkt deine Buffs nicht einfach – es verwandelt sie in etwas, das weder du noch irgendein Text vorhersagen kann. Diejenigen, die diesen Weg beschreiten, wandeln auf einem schmalen Grat zwischen beispielloser Macht und dem Werden des Chaos, das sie zu bändigen suchten."* — Magister Thorne, Spezialist für experimentelle Verbesserungen
 
-### Instability Factors
+### Instabilitätsfaktoren
 
-The stability of Wild Mana-enhanced buffs depends on several factors:
+Die Stabilität von Wild Mana-verstärkten Buffs hängt von mehreren Faktoren ab:
 
-- **Practitioner's Experience**: More experienced mages can contain greater Wild Mana ratios
-- **Environmental Conditions**: Magical stability of the casting location
-- **Buff Complexity**: Simpler buffs tolerate more Wild Mana
-- **Personal Resonance**: Individual magical signatures respond differently to Wild Mana
-- **Preparation Time**: Proper containment structures reduce instability
+- **Erfahrung des Praktizierenden**: Erfahrenere Magier können größere Anteile an Wildem Mana enthalten
+- **Umgebungsbedingungen**: Magische Stabilität des Wirkungsortes
+- **Buff-Komplexität**: Einfachere Buffs vertragen mehr Wildes Mana
+- **Persönliche Resonanz**: Individuelle magische Signaturen reagieren unterschiedlich auf Wildes Mana
+- **Vorbereitungszeit**: Geeignete Eindämmungsstrukturen reduzieren die Instabilität
 
-### Wild Enhancement Protocols
+### Wilde Verbesserungs-Protokolle
 
-Academies that teach Wild Enhancement techniques enforce strict protocols:
+Akademien, die Wilde Verbesserungs-Techniken lehren, setzen strenge Protokolle durch:
 
-1. **Calibration Testing**: Determining a practitioner's personal Wild Mana tolerance
-2. **Containment Training**: Techniques to isolate Wild Mana effects
-3. **Emergency Dispersion**: Methods to safely discharge unstable enhancements
-4. **Incremental Exposure**: Gradually increasing Wild Mana ratios through controlled practice
-5. **Harmonic Stabilization**: Techniques to partially order Wild Mana through resonance
+1. **Kalibrierungsprüfung**: Bestimmung der persönlichen Wild Mana-Toleranz eines Praktizierenden
+2. **Eindämmungs-Training**: Techniken zur Isolierung von Wild Mana-Effekten
+3. **Notfall-Dispersion**: Methoden zur sicheren Entladung instabiler Verbesserungen
+4. **Inkrementelle Exposition**: Allmähliche Erhöhung der Wild Mana-Anteile durch kontrollierte Übung
+5. **Harmonische Stabilisierung**: Techniken zur teilweisen Ordnung von Wildem Mana durch Resonanz
 
-Most reputable magical institutions consider Wild Enhancement techniques experimental and potentially dangerous, requiring special permits and supervision for their practice.
+Die meisten angesehenen magischen Institutionen betrachten Wilde Verbesserungs-Techniken als experimentell und potenziell gefährlich und verlangen für ihre Ausübung spezielle Genehmigungen und Aufsicht.
 
-## Purification Enhancement Buffs
+## Reinigungs-Verbesserungs-Buffs
 
-These buffs specifically enhance a caster's ability to purify raw mana, enabling higher levels of magical precision and efficiency.
+Diese Buffs verbessern speziell die Fähigkeit eines Zauberers, rohes Mana zu reinigen, und ermöglichen so ein höheres Maß an magischer Präzision und Effizienz.
 
-### Crystal Clarity
+### Kristallklare Klarheit
 
-A fundamental purification enhancement that sharpens mental focus:
+Eine grundlegende Reinigungsverbesserung, die die mentale Konzentration schärft:
 
-- **Effect**: Increases purification efficiency by 30-50%
-- **Duration**: 1-2 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Clear quartz, pure water
-- **Musical Analogy**: Tuning a string to perfect pitch
-- **Side Effects**: Slight sensory hypersensitivity
+- **Effekt**: Erhöht die Reinigungseffizienz um 30-50%
+- **Dauer**: 1-2 Stunden
+- **Wirkungs-Komplexität**: Moderat (Zusammengesetztes Muster)
+- **Erforderliche Komponenten**: Klarer Quarz, reines Wasser
+- **Musikalische Analogie**: Eine Saite auf perfekte Tonhöhe stimmen
+- **Nebenwirkungen**: Leichte sensorische Hypersensibilität
 
-### Harmonic Filter
+### Harmonischer Filter
 
-Creates a secondary resonance field that automatically filters mana:
+Erzeugt ein sekundäres Resonanzfeld, das Mana automatisch filtert:
 
-- **Effect**: Allows automatic purification to Standard level without mental focus
-- **Duration**: 3-4 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Resonating crystal tuned to the caster's frequency
-- **Musical Analogy**: Acoustic filter that removes unwanted frequencies
-- **Side Effects**: Reduced sensitivity to ambient mana
+- **Effekt**: Ermöglicht die automatische Reinigung bis zum Standard-Level ohne mentale Konzentration
+- **Dauer**: 3-4 Stunden
+- **Wirkungs-Komplexität**: Hoch (Komplexes Muster)
+- **Erforderliche Komponenten**: Resonierender Kristall, der auf die Frequenz des Zauberers abgestimmt ist
+- **Musikalische Analogie**: Akustikfilter, der unerwünschte Frequenzen entfernt
+- **Nebenwirkungen**: Reduzierte Empfindlichkeit gegenüber ambientem Mana
 
-### Purification Cascade
+### Reinigungs-Kaskade
 
-Advanced buff that creates a self-sustaining purification cycle:
+Fortgeschrittener Buff, der einen sich selbst erhaltenden Reinigungszyklus erzeugt:
 
-- **Effect**: Purification becomes 75% more efficient and continues without constant attention
-- **Duration**: 30-45 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Purified mana crystal, silver dust
-- **Musical Analogy**: Perfect acoustics that enhance every note
-- **Side Effects**: Mental exhaustion after expiration
+- **Effekt**: Die Reinigung wird 75% effizienter und wird ohne ständige Aufmerksamkeit fortgesetzt
+- **Dauer**: 30-45 Minuten
+- **Wirkungs-Komplexität**: Sehr hoch (Komplexes Muster)
+- **Erforderliche Komponenten**: Gereinigter Mana-Kristall, Silberstaub
+- **Musikalische Analogie**: Perfekte Akustik, die jede Note verbessert
+- **Nebenwirkungen**: Mentale Erschöpfung nach Ablauf
 
-### Crystalline Mind
+### Kristalliner Geist
 
-Elite buff that transforms mental processes to achieve perfect mana filtering:
+Elite-Buff, der mentale Prozesse transformiert, um eine perfekte Mana-Filterung zu erreichen:
 
-- **Effect**: Allows achievement of Perfect purity level with minimal effort
-- **Duration**: 10-15 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Diamond dust, essence of clarity
-- **Musical Analogy**: Crystal glass resonating at perfect frequency
-- **Side Effects**: Temporary loss of emotional access, risk of mental strain
+- **Effekt**: Ermöglicht das Erreichen des Perfekten Reinheitsgrades mit minimalem Aufwand
+- **Dauer**: 10-15 Minuten
+- **Wirkungs-Komplexität**: Extrem (Großes Muster)
+- **Erforderliche Komponenten**: Diamantstaub, Essenz der Klarheit
+- **Musikalische Analogie**: Kristallglas, das bei perfekter Frequenz resoniert
+- **Nebenwirkungen**: Vorübergehender Verlust des emotionalen Zugangs, Risiko mentaler Anstrengung
 
-## Mana Capacity Enhancement Buffs
+## Mana-Kapazität-Verbesserungs-Buffs
 
-These buffs focus on increasing the total amount of mana a caster can hold and channel, functioning like expanded reservoirs.
+Diese Buffs konzentrieren sich auf die Erhöhung der Gesamtmenge an Mana, die ein Zauberer halten und kanalisieren kann, und fungieren wie erweiterte Reservoirs.
 
-### Mana Well
+### Mana-Brunnen
 
-Basic enhancement that expands internal mana reservoirs:
+Grundlegende Verbesserung, die interne Mana-Reservoirs erweitert:
 
-- **Effect**: Increases mana capacity by 25-40%
-- **Duration**: 2-3 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Blue sapphire, night dew
-- **Musical Analogy**: Expanding a drum's resonance chamber
-- **Side Effects**: Slight physical weariness
+- **Effekt**: Erhöht die Mana-Kapazität um 25-40%
+- **Dauer**: 2-3 Stunden
+- **Wirkungs-Komplexität**: Moderat (Zusammengesetztes Muster)
+- **Erforderliche Komponenten**: Blauer Saphir, Nachttau
+- **Musikalische Analogie**: Erweiterung der Resonanzkammer einer Trommel
+- **Nebenwirkungen**: Leichte physische Müdigkeit
 
-### Ethereal Vessel
+### Ätherisches Gefäß
 
-Creates a secondary mana pool connected to the caster's natural reserves:
+Erzeugt einen sekundären Mana-Pool, der mit den natürlichen Reserven des Zauberers verbunden ist:
 
-- **Effect**: Adds a separate mana reserve equal to 50% of natural capacity
-- **Duration**: 1-2 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Enchanted vessel, liquid starlight
-- **Musical Analogy**: Adding an echo chamber to an instrument
-- **Side Effects**: Feeling of weightlessness, minor dissociation
+- **Effekt**: Fügt eine separate Mana-Reserve hinzu, die 50% der natürlichen Kapazität entspricht
+- **Dauer**: 1-2 Stunden
+- **Wirkungs-Komplexität**: Hoch (Komplexes Muster)
+- **Erforderliche Komponenten**: Verzaubertes Gefäß, flüssiges Sternenlicht
+- **Musikalische Analogie**: Hinzufügen einer Echokammer zu einem Instrument
+- **Nebenwirkungen**: Gefühl der Schwerelosigkeit, geringfügige Dissoziation
 
-### Mana Cascade
+### Mana-Kaskade
 
-Establishes a constant flow between the caster and ambient mana:
+Etabliert einen konstanten Fluss zwischen dem Zauberer und ambientem Mana:
 
-- **Effect**: Continuous mana regeneration at 3x normal rate
-- **Duration**: 30-60 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Conductor metal, essence of flow
-- **Musical Analogy**: Continuous bellows providing air to a wind instrument
-- **Side Effects**: Heightened body temperature, magical aura
+- **Effekt**: Kontinuierliche Mana-Regeneration mit 3-facher normaler Rate
+- **Dauer**: 30-60 Minuten
+- **Wirkungs-Komplexität**: Sehr hoch (Komplexes Muster)
+- **Erforderliche Komponenten**: Leitermetall, Essenz des Flusses
+- **Musikalische Analogie**: Kontinuierlicher Blasebalg, der einem Blasinstrument Luft zuführt
+- **Nebenwirkungen**: Erhöhte Körpertemperatur, magische Aura
 
-### Soul Resonance
+### Seelen-Resonanz
 
-Elite buff that temporarily reconfigures elemental composition:
+Elite-Buff, der vorübergehend die elementare Zusammensetzung rekonfiguriert:
 
-- **Effect**: Doubles mana capacity by converting a portion of Exanthis to Mana Capacity
-- **Duration**: 5-10 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Soul resonator, essence of potential
-- **Musical Analogy**: Completely reconfiguring an instrument for maximum volume
-- **Side Effects**: Physical weakness, accelerated soul decay
+- **Effekt**: Verdoppelt die Mana-Kapazität, indem ein Teil von Exanthis in Mana-Kapazität umgewandelt wird
+- **Dauer**: 5-10 Minuten
+- **Wirkungs-Komplexität**: Extrem (Großes Muster)
+- **Erforderliche Komponenten**: Seelenresonator, Essenz des Potenzials
+- **Musikalische Analogie**: Vollständige Rekonfiguration eines Instruments für maximale Lautstärke
+- **Nebenwirkungen**: Physische Schwäche, beschleunigter Seelenverfall
 
-## Combined Enhancement Buffs
+## Kombinierte Verbesserungs-Buffs
 
-Advanced practitioners can implement buffs that enhance both purification and capacity simultaneously.
+Fortgeschrittene Praktizierende können Buffs implementieren, die sowohl die Reinigung als auch die Kapazität gleichzeitig verbessern.
 
-### Mage's Ascension
+### Aufstieg des Magiers
 
-A balanced enhancement of core magical abilities:
+Eine ausgewogene Verbesserung der magischen Kernfähigkeiten:
 
-- **Effect**: 30% increase to both purification efficiency and mana capacity
-- **Duration**: 1 hour
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Mage's crystal, essence of harmony
-- **Musical Analogy**: Perfect instrument played in perfect acoustics
-- **Side Effects**: Moderate fatigue after expiration
+- **Effekt**: 30% Erhöhung der Reinigungseffizienz und der Mana-Kapazität
+- **Dauer**: 1 Stunde
+- **Wirkungs-Komplexität**: Sehr hoch (Komplexes Muster)
+- **Erforderliche Komponenten**: Magierkristall, Essenz der Harmonie
+- **Musikalische Analogie**: Perfektes Instrument, das in perfekter Akustik gespielt wird
+- **Nebenwirkungen**: Moderate Ermüdung nach Ablauf
 
-### Archmage's Mantle
+### Mantel des Erzmagiers
 
-Elite buff used by master mages for critical magical working:
+Elite-Buff, der von Meistermagiern für kritische magische Arbeit verwendet wird:
 
-- **Effect**: 60% increase to purification efficiency, 75% increase to mana capacity
-- **Duration**: 15-20 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Perfect focus crystal, essence of mastery
-- **Musical Analogy**: Master instrument with amplification in a perfect concert hall
-- **Side Effects**: Significant physical and mental fatigue, temporary elemental imbalance
+- **Effekt**: 60% Erhöhung der Reinigungseffizienz, 75% Erhöhung der Mana-Kapazität
+- **Dauer**: 15-20 Minuten
+- **Wirkungs-Komplexität**: Extrem (Großes Muster)
+- **Erforderliche Komponenten**: Perfekter Fokuskristall, Essenz der Meisterschaft
+- **Musikalische Analogie**: Meisterinstrument mit Verstärkung in einem perfekten Konzertsaal
+- **Nebenwirkungen**: Erhebliche physische und mentale Ermüdung, vorübergehendes elementares Ungleichgewicht
 
-### Ethereal Resonance
+### Ätherische Resonanz
 
-Legendary buff that creates perfect harmony between all aspects of spellcasting:
+Legendärer Buff, der perfekte Harmonie zwischen allen Aspekten der Zauberei erzeugt:
 
-- **Effect**: Doubles purification efficiency, increases mana capacity by 100%, enhances resonance by 50%
-- **Duration**: 5 minutes
-- **Casting Complexity**: Legendary (Grand Pattern with multiple anchors)
-- **Components Required**: Philosopher's crystal, essence of perfection, harmonic metal
-- **Musical Analogy**: Perfect symphony with ideal instruments, acoustics, and performers
-- **Side Effects**: Complete exhaustion, temporary inability to cast after expiration, soul wear
+- **Effekt**: Verdoppelt die Reinigungseffizienz, erhöht die Mana-Kapazität um 100%, verbessert die Resonanz um 50%
+- **Dauer**: 5 Minuten
+- **Wirkungs-Komplexität**: Legendär (Großes Muster mit mehreren Ankern)
+- **Erforderliche Komponenten**: Stein der Weisen, Essenz der Perfektion, harmonisches Metall
+- **Musikalische Analogie**: Perfekte Symphonie mit idealen Instrumenten, Akustik und Darstellern
+- **Nebenwirkungen**: Vollständige Erschöpfung, vorübergehende Unfähigkeit zu wirken nach Ablauf, Seelenverschleiß
 
-## Buff Application Techniques
+## Buff-Anwendungstechniken
 
-The method of applying enhancement buffs affects their potency and duration:
+Die Methode zur Anwendung von Verbesserungs-Buffs beeinflusst ihre Potenz und Dauer:
 
-### Self-Buffing
+### Selbst-Buffing
 
-Applying enhancements to oneself:
-- **Advantage**: Perfect attunement to personal magical signature
-- **Disadvantage**: Divides concentration between buff maintenance and spellcasting
-- **Best For**: Mages working alone on complex but non-urgent tasks
+Anwenden von Verbesserungen auf sich selbst:
+- **Vorteil**: Perfekte Abstimmung auf die persönliche magische Signatur
+- **Nachteil**: Teilt die Konzentration zwischen Buff-Aufrechterhaltung und Zauberei auf
+- **Am besten geeignet für**: Magier, die allein an komplexen, aber nicht dringenden Aufgaben arbeiten
 
-### Partner Buffing
+### Partner-Buffing
 
-Having another caster apply the buff:
-- **Advantage**: Allows full concentration on primary spellcasting
-- **Disadvantage**: Requires compatible magical signatures
-- **Best For**: Paired mages performing complex ritual magic
+Einen anderen Zauberer den Buff anwenden lassen:
+- **Vorteil**: Ermöglicht die volle Konzentration auf die primäre Zauberei
+- **Nachteil**: Erfordert kompatible magische Signaturen
+- **Am besten geeignet für**: Gepaarte Magier, die komplexe Ritualmagie durchführen
 
-### Ritual Circle Buffing
+### Ritualkreis-Buffing
 
-Using a prepared ritual circle to apply and maintain buffs:
-- **Advantage**: Extended duration, more stable effects
-- **Disadvantage**: Limited to specific locations
-- **Best For**: Planned magical operations with preparation time
+Verwenden eines vorbereiteten Ritualkreises, um Buffs anzuwenden und aufrechtzuerhalten:
+- **Vorteil**: Verlängerte Dauer, stabilere Effekte
+- **Nachteil**: Beschränkt auf bestimmte Orte
+- **Am besten geeignet für**: Geplante magische Operationen mit Vorbereitungszeit
 
-### Artifact Buffing
+### Artefakt-Buffing
 
-Using magical artifacts to apply enhancement buffs:
-- **Advantage**: Consistent effects, no casting required
-- **Disadvantage**: Limited customization, dependency on artifacts
-- **Best For**: Emergencies or situations requiring reliability
+Verwenden magischer Artefakte zum Anwenden von Verbesserungs-Buffs:
+- **Vorteil**: Konsistente Effekte, keine Zauberei erforderlich
+- **Nachteil**: Begrenzte Anpassung, Abhängigkeit von Artefakten
+- **Am besten geeignet für**: Notfälle oder Situationen, die Zuverlässigkeit erfordern
 
-## Risks and Limitations
+## Risiken und Einschränkungen
 
-Enhancement buffs carry significant risks when misused:
+Verbesserungs-Buffs bergen erhebliche Risiken bei Missbrauch:
 
-### Elemental Imbalance
-- **Cause**: Excessive alteration of elemental composition
-- **Symptoms**: Unpredictable magic, physical symptoms matching the imbalanced element
-- **Treatment**: Elemental rebalancing rituals, rest in harmonically neutral environments
+### Elementares Ungleichgewicht
+- **Ursache**: Übermäßige Veränderung der elementaren Zusammensetzung
+- **Symptome**: Unvorhersehbare Magie, physische Symptome, die dem unausgeglichenen Element entsprechen
+- **Behandlung**: Elementare Ausgleichsrituale, Ruhe in harmonisch neutraler Umgebung
 
-### Arcane Addiction
-- **Cause**: Overreliance on enhancement buffs
-- **Symptoms**: Diminished natural capabilities, dependency on buffs for normal casting
-- **Treatment**: Magical detoxification, gradual reduction in buff potency
+### Arkane Sucht
+- **Ursache**: Übermäßige Abhängigkeit von Verbesserungs-Buffs
+- **Symptome**: Verminderte natürliche Fähigkeiten, Abhängigkeit von Buffs für normale Zauberei
+- **Behandlung**: Magische Entgiftung, allmähliche Reduzierung der Buff-Potenz
 
-### Resonance Scarring
-- **Cause**: Repeated use of resonance-altering buffs
-- **Symptoms**: Difficulty achieving natural resonance, dissonant casting
-- **Treatment**: Harmonic therapy, extended abstention from magical practice
+### Resonanz-Vernarbung
+- **Ursache**: Wiederholte Verwendung von resonanzverändernden Buffs
+- **Symptome**: Schwierigkeiten beim Erreichen natürlicher Resonanz, dissonante Zauberei
+- **Behandlung**: Harmonische Therapie, längere Enthaltsamkeit von magischer Praxis
 
-### Soul Fracturing
-- **Cause**: Extreme buffs that strain the soul's connection to mana
-- **Symptoms**: Personality changes, erratic magic, accelerated soul decay
-- **Treatment**: Soul mending rituals, specialized healing
+### Seelenbruch
+- **Ursache**: Extreme Buffs, die die Verbindung der Seele zum Mana belasten
+- **Symptome**: Persönlichkeitsveränderungen, unberechenbare Magie, beschleunigter Seelenverfall
+- **Behandlung**: Seelenheilungsrituale, spezialisierte Heilung
 
-Understanding the proper use of **Enhancement Buffs** provides practitioners with powerful tools to temporarily exceed their natural limitations, like musicians using acoustic enhancements to achieve sounds beyond their instruments' natural capabilities. When used wisely, these buffs can transform a competent mage into an extraordinary force of magical potential - but always at a cost that must be carefully weighed. 
+Das Verständnis der richtigen Verwendung von **Verbesserungs-Buffs** bietet Praktizierenden mächtige Werkzeuge, um ihre natürlichen Grenzen vorübergehend zu überschreiten, wie Musiker, die akustische Verbesserungen nutzen, um Klänge zu erzielen, die über die natürlichen Fähigkeiten ihrer Instrumente hinausgehen. Bei weiser Anwendung können diese Buffs einen kompetenten Magier in eine außergewöhnliche Kraft magischen Potenzials verwandeln - aber immer zu einem Preis, der sorgfältig abgewogen werden muss.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,196 +1,200 @@
-# **Shielding**
+# **Abschirmung**
 
-> *"The first lesson of magical defense is not to strengthen your walls, but to understand that protection flows from within—like music, a shield is not merely a barrier, but a resonance that redirects the hostile symphony around you."*  
-> — Sentinel Ilyra Swiftshield, Arcane Defense Master
+> *"Die erste Lektion der magischen Verteidigung ist nicht, deine Mauern zu verstärken, sondern zu verstehen, dass Schutz von innen kommt – wie Musik ist ein Schild nicht nur eine Barriere, sondern eine Resonanz, die die feindliche Symphonie um dich herumleitet."*
+> — Sentinel Ilyra Swiftshield, Meisterin der Arkanen Verteidigung
 
-## Casting Information
-- **Difficulty**: Novice to Expert (depending on variant)
-- **Casting Time**: 1 second (basic shield), 2-3 seconds (advanced variants)
-- **Duration**: Concentration, up to 10 minutes (or until broken)
-- **Range**: Self or up to 30 feet (dependent on variant)
-- **Components**: Somatic, Verbal (optional enhancement)
+## Informationen zum Wirken
+- **Schwierigkeit**: Anfänger bis Experte (abhängig von der Variante)
+- **Wirkzeit**: 1 Sekunde (Basisschild), 2-3 Sekunden (fortgeschrittene Varianten)
+- **Dauer**: Konzentration, bis zu 10 Minuten (oder bis er zerbricht)
+- **Reichweite**: Selbst oder bis zu 30 Fuß (abhängig von der Variante)
+- **Komponenten**: Somatisch, Verbal (optionale Verbesserung)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 70%, Terramana 20% (stability), Aeromana 10% (flexibility)
-- **Purity Required**: Basic (20-35%) for personal shield, Refined (35-55%) for advanced variants
-- **Minimum Mana Capacity**: 15% (larger/stronger shields require greater capacity)
-- **Pattern Complexity**: Low to High (2-tier for basic shield, up to 5-tier for specialized variants)
-- **Resonance Frequency**: Defensive harmonic in the mid-protective spectrum
+## Technische Details
+- **Mana-Typenverteilung**: Basis-Mana 70 %, Terramana 20 % (Stabilität), Aeromana 10 % (Flexibilität)
+- **Erforderliche Reinheit**: Basic (20-35 %) für persönlichen Schild, Refined (35-55 %) für fortgeschrittene Varianten
+- **Minimale Mana-Kapazität**: 15 % (größere/stärkere Schilde erfordern eine größere Kapazität)
+- **Musterkomplexität**: Niedrig bis Hoch (2-stufig für Basisschild, bis zu 5-stufig für spezialisierte Varianten)
+- **Resonanzfrequenz**: Defensive Harmonische im mittleren Schutzspektrum
 
-## Core Principles
+## Kernprinzipien
 
-Shielding converts mana into a semi-tangible protective field that deflects, absorbs, or nullifies incoming threats. Unlike purely physical barriers, magical shields operate through a resonance principle, creating a counter-frequency to disrupt hostile energies while allowing benign forces to pass through.
+Abschirmung wandelt Mana in ein halbfestes Schutzfeld um, das eingehende Bedrohungen ablenkt, absorbiert oder neutralisiert. Im Gegensatz zu rein physischen Barrieren funktionieren magische Schilde nach einem Resonanzprinzip, indem sie eine Gegenfrequenz erzeugen, um feindliche Energien zu stören, während sie gutartige Kräfte passieren lassen.
 
-The foundational pattern establishes:
+Das grundlegende Muster etabliert:
 
-1. **Barrier Matrix**: The core protective field structure
-2. **Resonance Layer**: The component that identifies and counters threats
-3. **Stability Framework**: The support structure maintaining shield integrity
-4. **Energy Distribution Network**: The system dispersing impact forces
-5. **Permeability Control**: The optional component allowing selective filtering
+1. **Barrierenmatrix**: Die Kernstruktur des Schutzfeldes
+2. **Resonanzschicht**: Die Komponente, die Bedrohungen identifiziert und ihnen entgegenwirkt
+3. **Stabilitätsrahmen**: Die Stützstruktur, die die Schildintegrität aufrechterhält
+4. **Energieverteilungsnetzwerk**: Das System, das Aufprallkräfte verteilt
+5. **Permeabilitätskontrolle**: Die optionale Komponente, die eine selektive Filterung ermöglicht
 
-## Standard Variants
+## Standardvarianten
 
-### Personal Shield
-The fundamental protective barrier around the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (20-30%)
-- **Effect**: Creates a barrier absorbing physical and magical damage
-- **Typical Users**: All magic practitioners
-- **Applications**: Personal defense, training safety, emergency protection
+### Persönlicher Schild
+Die grundlegende Schutzbarriere um den Zaubernden:
+- **Schwierigkeit**: Anfänger
+- **Reinheitsanforderung**: Basic (20-30 %)
+- **Effekt**: Erzeugt eine Barriere, die physischen und magischen Schaden absorbiert
+- **Typische Benutzer**: Alle Magieanwender
+- **Anwendungen**: Persönliche Verteidigung, Trainingssicherheit, Notfallschutz
 
-### Directed Shield
-A flat shield projected away from the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Creates a movable plane of protection to block specific threats
-- **Typical Users**: Battle Mages, Tactical Casters, Support Specialists
-- **Applications**: Protecting allies, blocking passages, deflecting projectiles
+### Gerichteter Schild
+Ein flacher Schild, der vom Zaubernden weg projiziert wird:
+- **Schwierigkeit**: Mittel
+- **Reinheitsanforderung**: Refined (35-45 %)
+- **Effekt**: Erzeugt eine bewegliche Schutzebene, um bestimmte Bedrohungen abzuwehren
+- **Typische Benutzer**: Kampfmagier, Taktische Wirker, Unterstützungsspezialisten
+- **Anwendungen**: Schutz von Verbündeten, Blockieren von Durchgängen, Ablenken von Projektilen
 
-### Bubble Shield
-Expands protection to cover multiple individuals:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (40-50%)
-- **Effect**: Creates dome or sphere protecting several targets
-- **Typical Users**: Group Leaders, Defensive Specialists, Protectors
-- **Applications**: Group protection, safe zones, mobile coverage during retreats
+### Blasenschild
+Erweitert den Schutz auf mehrere Personen:
+- **Schwierigkeit**: Mittel
+- **Reinheitsanforderung**: Refined (40-50 %)
+- **Effekt**: Erzeugt eine Kuppel oder Sphäre, die mehrere Ziele schützt
+- **Typische Benutzer**: Gruppenleiter, Verteidigungsspezialisten, Beschützer
+- **Anwendungen**: Gruppenschutz, Sicherheitszonen, mobile Deckung während Rückzügen
 
-## Advanced Variants
+## Fortgeschrittene Varianten
 
-### Selective Filter Shield
-Allows specific elements or energies to pass through:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (55-65%)
-- **Effect**: Creates barriers permeable to chosen forces
-- **Typical Users**: Elemental Specialists, Advanced Practitioners
-- **Applications**: Allowing allies to attack through shields, environmental protection, selective filtering
+### Selektiver Filterschild
+Lässt bestimmte Elemente oder Energien durch:
+- **Schwierigkeit**: Experte
+- **Reinheitsanforderung**: Perfect (55-65 %)
+- **Effekt**: Erzeugt Barrieren, die für ausgewählte Kräfte durchlässig sind
+- **Typische Benutzer**: Elementarspezialisten, Fortgeschrittene Anwender
+- **Anwendungen**: Ermöglicht Verbündeten, durch Schilde anzugreifen, Umweltschutz, selektive Filterung
 
-### Reactive Shield
-Adapts to incoming threats automatically:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Shield analyzes and adapts to counter specific attacks
-- **Typical Users**: Duelists, Master Defenders, Elite Guards
-- **Applications**: Unknown threat protection, adaptive defense, magical counteraction
+### Reaktiver Schild
+Passt sich automatisch an eingehende Bedrohungen an:
+- **Schwierigkeit**: Experte
+- **Reinheitsanforderung**: Perfect (60-70 %)
+- **Effekt**: Schild analysiert und passt sich an, um bestimmten Angriffen entgegenzuwirken
+- **Typische Benutzer**: Duellanten, Meisterverteidiger, Elitewachen
+- **Anwendungen**: Schutz vor unbekannten Bedrohungen, adaptive Verteidigung, magische Gegenwirkung
 
-### Reflective Shield
-Returns energy to its source:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Redirects a portion of incoming energy back at attacker
-- **Typical Users**: Advanced Battle Mages, Specialist Defenders
-- **Applications**: Counterattack, energy conservation, deterrence
+### Reflektierender Schild
+Gibt Energie an ihre Quelle zurück:
+- **Schwierigkeit**: Meister
+- **Reinheitsanforderung**: Perfect (65-75 %)
+- **Effekt**: Leitet einen Teil der eingehenden Energie zurück zum Angreifer
+- **Typische Benutzer**: Fortgeschrittene Kampfmagier, Spezialverteidiger
+- **Anwendungen**: Gegenangriff, Energieeinsparung, Abschreckung
 
-## Purity Influence on Effect
+## Reinheitseinfluss auf den Effekt
 
-Mana purity directly affects shield strength, duration, and special properties:
+Die Mana-Reinheit beeinflusst direkt die Schildstärke, Dauer und besonderen Eigenschaften:
 
-| Purity Level | Shield Strength | Absorption Capacity | Special Properties | Duration |
+| Reinheitsgrad | Schildstärke | Absorptionskapazität | Besondere Eigenschaften | Dauer |
 |--------------|----------------|---------------------|-------------------|----------|
-| 20-35% | Basic protection, visible shield | 25-40% damage reduction | None | 1-3 minutes |
-| 35-55% | Enhanced durability, less visible | 40-60% damage reduction | Basic filtering, limited mobility | 3-5 minutes |
-| 55-70% | High resilience, nearly invisible | 60-80% damage reduction | Advanced filtering, reactive properties | 5-8 minutes |
-| 70%+ | Superior protection, completely invisible | 80-95% damage reduction | Full reflection capabilities, adaptation | 8-10+ minutes |
+| 20-35 % | Grundlegender Schutz, sichtbarer Schild | 25-40 % Schadensreduktion | Keine | 1-3 Minuten |
+| 35-55 % | Erhöhte Haltbarkeit, weniger sichtbar | 40-60 % Schadensreduktion | Grundlegende Filterung, begrenzte Mobilität | 3-5 Minuten |
+| 55-70 % | Hohe Belastbarkeit, fast unsichtbar | 60-80 % Schadensreduktion | Fortgeschrittene Filterung, reaktive Eigenschaften | 5-8 Minuten |
+| 70 %+ | Überlegener Schutz, vollständig unsichtbar | 80-95 % Schadensreduktion | Volle Reflexionsfähigkeiten, Anpassung | 8-10+ Minuten |
 
-## Class-Specific Applications
+## Klassenspezifische Anwendungen
 
-### Warrior Class
-- **Combat Shell**: Tight-fitting shield enhancing armor protection
-- **Breach Shield**: Forward-focused protection for charges
-- **Weapon Guard**: Selective shield protecting weapons from damage or tampering
-- **Footing Anchor**: Lower-body shield stabilizing position during combat
+### Kriegerklasse
+- **Kampfpanzer**: Eng anliegender Schild, der den Rüstungsschutz verbessert
+- **Durchbruchschild**: Vorwärtsgerichteter Schutz für Angriffe
+- **Waffenwächter**: Selektiver Schild, der Waffen vor Beschädigung oder Manipulation schützt
+- **Standfeste Verankerung**: Unterkörperschild, der die Position im Kampf stabilisiert
 
-### Rogue/Assassin Class
-- **Shadow Cloak**: Barely visible shield masking magical signature
-- **Impact Dampener**: Shield reducing sound and physical impacts
-- **Trace Obscurer**: Shield dispersing magical residue from activities
-- **Selective Barrier**: Allows weapons out but blocks incoming attacks
+### Schurken-/Assassinenklasse
+- **Schattenschleier**: Kaum sichtbarer Schild, der die magische Signatur maskiert
+- **Aufpralldämpfer**: Schild, der Geräusche und physische Einwirkungen reduziert
+- **Spurenverwischer**: Schild, der magische Rückstände von Aktivitäten verteilt
+- **Selektive Barriere**: Lässt Waffen heraus, blockiert aber eingehende Angriffe
 
-### Ranger Class
-- **Environmental Buffer**: Shield protecting from terrain hazards
-- **Arrow Screen**: Specialized shield allowing outgoing projectiles while blocking incoming ones
-- **Companion Guard**: Projectable shield to protect animal companions
-- **Sensory Shield**: Protection against sensory overload or manipulation
+### Waldläuferklasse
+- **Umgebungspuffer**: Schild, der vor Geländegefahren schützt
+- **Pfeilhagel**: Spezialisierter Schild, der ausgehende Projektile zulässt, während er eingehende blockiert
+- **Begleitschutz**: Projizierbarer Schild zum Schutz tierischer Begleiter
+- **Sensorischer Schild**: Schutz vor sensorischer Überlastung oder Manipulation
 
-### Mage Class
-- **Concentration Sphere**: Shield blocking distractions during complex casting
-- **Spell Containment**: Barrier keeping volatile magic effects controlled
-- **Mana Conservation Bubble**: Shield recycling leaked mana back to caster
-- **Layered Defense**: Multiple specialized shields for comprehensive protection
+### Magierklasse
+- **Konzentrationssphäre**: Schild, der Ablenkungen während komplexer Zauber blockiert
+- **Zaubereindämmung**: Barriere, die flüchtige magische Effekte kontrolliert
+- **Manasparblase**: Schild, der verlorenes Mana zurück zum Zaubernden recycelt
+- **Mehrschichtige Verteidigung**: Mehrere spezialisierte Schilde für umfassenden Schutz
 
-## Training Progression
+## Trainingsfortschritt
 
-### Fundamental Shielding
-- Energy projection and containment exercises
-- Barrier visualization and manifestation
-- Basic impact absorption techniques
-- Shield maintenance under minor stress
+### Grundlegende Abschirmung
+- Energieprojektions- und Eindämmungsübungen
+- Visualisierung und Manifestation von Barrieren
+- Grundlegende Techniken zur Aufprallabsorption
+- Schildwartung unter geringer Belastung
 
-### Intermediate Applications
-- Moving and repositioning shields while maintaining integrity
-- Extending protection to others
-- Shaping shields for specific tactical situations
-- Efficiency training for reduced mana consumption
+### Fortgeschrittene Anwendungen
+- Bewegen und Neupositionieren von Schilden unter Beibehaltung der Integrität
+- Ausdehnung des Schutzes auf andere
+- Formen von Schilden für bestimmte taktische Situationen
+- Effizienztraining zur Reduzierung des Manaverbrauchs
 
-### Advanced Mastery
-- Reactive shield programming
-- Multi-layer shield construction
-- Energy reflection and redirection
-- Integrating shields with other magical effects
+### Fortgeschrittene Meisterschaft
+- Reaktive Schildprogrammierung
+- Mehrschichtiger Schildaufbau
+- Energiereflexion und -umleitung
+- Integration von Schilden mit anderen magischen Effekten
 
-## Risk Factors
+## Risikofaktoren
 
-### Common Mishaps
-- **Shield Inversion**: Protection directed inward, trapping the caster
-- **Resonance Cascade**: Shield amplifying rather than blocking energy
-- **Pattern Collapse**: Sudden shield failure under stress
-- **Mana Drain Spiral**: Excessive energy consumption depleting caster
-- **Brittleness**: Shield shattering rather than absorbing impact
+### Häufige Missgeschicke
+- **Schildinversion**: Schutz nach innen gerichtet, wodurch der Zaubernde eingeschlossen wird
+- **Resonanzkaskade**: Schild, der Energie verstärkt, anstatt sie zu blockieren
+- **Musterzusammenbruch**: Plötzliches Schildversagen unter Belastung
+- **Manasogspirale**: Übermäßiger Energieverbrauch, der den Zaubernden erschöpft
+- **Sprödigkeit**: Schild, der zerbricht, anstatt den Aufprall zu absorbieren
 
-### Safety Practices
-- Regular shield strength testing under controlled conditions
-- Practicing emergency shield dissolution techniques
-- Developing shield layers with independent failure points
-- Training with gradually increasing threat levels
-- Establishing personal shield limitations
+### Sicherheitspraktiken
+- Regelmäßige Schildstärke-Tests unter kontrollierten Bedingungen
+- Üben von Notfalltechniken zur Schildauflösung
+- Entwicklung von Schildschichten mit unabhängigen Ausfallpunkten
+- Training mit allmählich steigenden Bedrohungsstufen
+- Festlegung persönlicher Schildbeschränkungen
 
-## Shield Variations by Threat Type
+## Schildvarianten nach Bedrohungstyp
 
-### Physical Protection
-Shields specialized against material threats:
-- **Impact Shields**: Absorb kinetic energy from blunt force
-- **Penetration Barriers**: Resist piercing from arrows, blades
-- **Friction Dampeners**: Reduce damage from abrasive forces
-- **Pressure Equalizers**: Protect against crushing or explosive forces
+### Physischer Schutz
+Schilde, die auf materielle Bedrohungen spezialisiert sind:
+- **Aufprallschilde**: Absorbieren kinetische Energie von stumpfer Gewalt
+- **Durchdringungsbarrieren**: Widerstehen dem Durchdringen von Pfeilen, Klingen
+- **Reibungsdämpfer**: Reduzieren Schäden durch abrasive Kräfte
+- **Druckausgleicher**: Schützen vor Quetsch- oder Explosionskräften
 
-### Energy Defense
-Shields tailored to magical and elemental threats:
-- **Thermal Barriers**: Insulate against heat and cold
-- **Arcane Dispersal Fields**: Diffuse magical energy attacks
-- **Elemental Filters**: Specialized protection against specific elements
-- **Harmonic Dampeners**: Neutralize sound-based or vibrational attacks
+### Energieabwehr
+Schilde, die auf magische und elementare Bedrohungen zugeschnitten sind:
+- **Thermische Barrieren**: Isolieren gegen Hitze und Kälte
+- **Arkane Streufelder**: Diffundieren magische Energieangriffe
+- **Elementarfilter**: Spezialisierter Schutz vor bestimmten Elementen
+- **Harmonische Dämpfer**: Neutralisieren schallbasierte oder Vibrationsangriffe
 
-### Status Protection
-Shields against non-damaging magical effects:
-- **Mind Wards**: Protect against mental intrusion or influence
-- **Curse Barriers**: Repel malicious enchantments
-- **Transmutation Inhibitors**: Prevent unwanted transformative effects
-- **Temporal Stabilizers**: Shield against time manipulation
+### Statusschutz
+Schilde gegen nicht schädliche magische Effekte:
+- **Geistesschutz**: Schützen vor mentalem Eindringen oder Einfluss
+- **Fluchbarrieren**: Wehren bösartige Verzauberungen ab
+- **Transmutationshemmer**: Verhindern unerwünschte transformative Effekte
+- **Zeitliche Stabilisatoren**: Schützen vor Zeitmanipulation
 
-## Historical Development
+## Historische Entwicklung
 
-Shielding magic represents one of the oldest and most fundamental protective arts, dating back to the Dawn Era when early mages sought defense against both natural and supernatural threats. The Arcane Sentinels of the Second Age formalized the art into distinct disciplines, establishing the foundational patterns still used today.
+Die Schildmagie stellt eine der ältesten und grundlegendsten Schutzarten dar und reicht bis in das Morgendämmerungszeitalter zurück, als frühe Magier Schutz vor natürlichen und übernatürlichen Bedrohungen suchten. Die Arkanen Sentinels des Zweiten Zeitalters formalisierten die Kunst in verschiedene Disziplinen und etablierten die grundlegenden Muster, die noch heute verwendet werden.
 
-The Mage Wars saw explosive development in shielding techniques as practitioners sought ever more effective defenses against increasingly powerful offensive magic. Modern shielding draws heavily from the innovations of Ilyra Swiftshield, whose revolutionary understanding of resonance patterns transformed shields from mere barriers into dynamic, responsive defenses.
+Die Magierkriege sahen eine explosive Entwicklung der Schildtechniken, als die Praktizierenden immer effektivere Abwehrmaßnahmen gegen zunehmend mächtige offensive Magie suchten. Die moderne Abschirmung stützt sich stark auf die Innovationen von Ilyra Swiftshield, deren revolutionäres Verständnis von Resonanzmustern Schilde von bloßen Barrieren in dynamische, reaktionsfähige Abwehrmaßnahmen verwandelte.
 
-> *"A novice creates a wall. An adept creates a filter. A master creates a conversation between energies—the shield does not fight the incoming force, but rather invites it to flow elsewhere."* — From "Dialogues on Defense," Ilyra Swiftshield's premier text
+> *"Ein Novize erschafft eine Mauer. Ein Adept erschafft einen Filter. Ein Meister erschafft ein Gespräch zwischen Energien – der Schild bekämpft nicht die ankommende Kraft, sondern lädt sie ein, anderswohin zu fließen."* — Aus "Dialoge über Verteidigung", Ilyra Swiftshields Haupttext
 
-## Practical Notes
+## Praktische Hinweise
 
-Shield spells are often among the first defensive magic taught to novices, as even imperfect shields provide valuable protection during training. Many practitioners develop highly personalized shielding techniques, adapting the basic patterns to their specific needs and mana characteristics.
+Schildzauber gehören oft zu den ersten defensiven Magien, die Anfängern beigebracht werden, da selbst unvollkommene Schilde während des Trainings wertvollen Schutz bieten. Viele Praktizierende entwickeln hochgradig personalisierte Schildtechniken und passen die grundlegenden Muster an ihre spezifischen Bedürfnisse und Mana-Eigenschaften an.
 
-The most advanced shield masters can maintain multiple layered defenses simultaneously, each calibrated to different threat types, creating a comprehensive protective system that approaches true invulnerability—though at significant mana cost.
+Die fortgeschrittensten Schildmeister können mehrere mehrschichtige Verteidigungen gleichzeitig aufrechterhalten, von denen jede auf verschiedene Bedrohungstypen kalibriert ist, wodurch ein umfassendes Schutzsystem entsteht, das sich der wahren Unverwundbarkeit nähert – wenn auch zu erheblichen Manakosten.
 
 ---
 
-*See also: [Barrier Magic](/codex/Magics/Schools/Abjuration.md), [Defensive Fundamentals](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Combat Countermeasures](/codex/Magics/Spells/Combat/CombatCountermeasures.md)* 
+*Siehe auch: [Barrierenmagie](/codex/Magics/Schools/Abjuration.md), [Grundlagen der Verteidigung](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Kampfgegenmaßnahmen](/codex/Magics/Spells/Combat/CombatCountermeasures.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,202 +1,206 @@
-# **Earth Magic**: The Art of Stone, Crystal, and Soil
+# **Erdmagie**: Die Kunst von Stein, Kristall und Erde
 
-> *"The wisdom of earth lies in its patience. Mountains are not raised in a day, nor valleys carved in a moment. True strength comes from endurance, not force."* — Archgeomancer Doran Stoneheart
+> *"Die Weisheit der Erde liegt in ihrer Geduld. Berge werden nicht an einem Tag errichtet, noch Täler in einem Augenblick geformt. Wahre Stärke kommt von Ausdauer, nicht von Gewalt."* — Erzgeomant Doran Stoneheart
 
-## Quick Reference
-- [Properties of Terramana](#properties-of-terramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Kurzübersicht
+- [Eigenschaften von Terramana](#eigenschaften-von-terramana)
+- [Manipulationstechniken](#manipulationstechniken)
+- [Gängige Zaubersprüche](#gängige-zaubersprüche)
+- [Affinitätsentwicklung](#affinitätsentwicklung)
+- [Risiken und Sicherheitsvorkehrungen](#risiken-und-sicherheitsvorkehrungen)
+- [Kulturelle Bedeutung](#kulturelle-bedeutung)
 
-## Properties of Terramana
+## Eigenschaften von Terramana
 
-Terramana, the elemental mana of earth, is characterized by:
+Terramana, das elementare Mana der Erde, zeichnet sich aus durch:
 
-- **Appearance**: Deep browns, greens, and amber; crystalline structure with geometric patterns
-- **Sensation**: Feels heavy, grounding, and solid when channeled; creates a sense of weight and stability
-- **Resonance**: Low-frequency, stable vibration patterns with strong harmonic undertones
-- **Purification Challenge**: Slow to purify but maintains purity once achieved; tends to accumulate sedimentary impurities
-- **Opposite Element**: Air (creates dust when forced together, ultimately eroded by air)
-- **Complementary Elements**: Fire (creates magma/lava), Life (creates growth and fertility)
-- **Musical Analogy**: Bass instruments, particularly double bass; foundation notes that provide structure
+- **Erscheinung**: Tiefe Brauntöne, Grüntöne und Bernstein; kristalline Struktur mit geometrischen Mustern
+- **Empfindung**: Fühlt sich schwer, erdend und fest an, wenn es kanalisiert wird; erzeugt ein Gefühl von Gewicht und Stabilität
+- **Resonanz**: Niederfrequente, stabile Schwingungsmuster mit starken harmonischen Obertönen
+- **Reinigung Herausforderung**: Langsam zu reinigen, behält aber die Reinheit, sobald sie erreicht ist; neigt dazu, sedimentäre Verunreinigungen anzusammeln
+- **Entgegengesetztes Element**: Luft (erzeugt Staub, wenn sie zusammengezwungen werden, letztendlich von der Luft erodiert)
+- **Komplementäre Elemente**: Feuer (erzeugt Magma/Lava), Leben (erzeugt Wachstum und Fruchtbarkeit)
+- **Musikalische Analogie**: Bassinstrumente, insbesondere Kontrabass; Fundamentnoten, die Struktur geben
 
-## Manipulation Techniques
+## Manipulationstechniken
 
-### Basic Techniques
+### Grundlegende Techniken
 
-#### Terrakinesis
-The foundational technique of moving and directing earth and stone:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-30%)
-- **Effect**: Shifts, lifts, or compresses earth, sand, or loose stone
-- **Training Focus**: Force direction and mass distribution
-- **Applications**: Creating mounds, digging trenches, stabilizing unstable ground
+#### Terrakinese
+Die grundlegende Technik, um Erde und Stein zu bewegen und zu lenken:
+- **Schwierigkeit**: Anfänger
+- **Reinheitsanforderung**: Grundlegend (15-30%)
+- **Effekt**: Verschiebt, hebt oder verdichtet Erde, Sand oder loses Gestein
+- **Trainingsfokus**: Kraftrichtung und Massenverteilung
+- **Anwendungen**: Erstellen von Hügeln, Graben von Gräben, Stabilisierung instabilen Bodens
 
-#### Material Densification
-Increasing or decreasing the density and hardness of earth materials:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-45%)
-- **Effect**: Changes the physical properties of earth without changing its form
-- **Training Focus**: Molecular compression and structural integrity
-- **Applications**: Hardening mud into clay or stone, softening rock, creating paths through difficult terrain
+#### Materialverdichtung
+Erhöhen oder Verringern der Dichte und Härte von Erdmaterialien:
+- **Schwierigkeit**: Anfänger bis Fortgeschrittene
+- **Reinheitsanforderung**: Grundlegend bis Verfeinert (20-45%)
+- **Effekt**: Verändert die physikalischen Eigenschaften der Erde, ohne ihre Form zu verändern
+- **Trainingsfokus**: Molekulare Kompression und strukturelle Integrität
+- **Anwendungen**: Härten von Schlamm zu Ton oder Stein, Erweichen von Gestein, Schaffen von Wegen durch schwieriges Gelände
 
-#### Seismic Sensing
-Detecting vibrations and structures through earth:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Extends awareness through connected earth materials
-- **Training Focus**: Vibrational interpretation and filtering
-- **Applications**: Finding caverns, detecting movement, locating water or mineral deposits
+#### Seismische Wahrnehmung
+Erkennen von Vibrationen und Strukturen durch die Erde:
+- **Schwierigkeit**: Fortgeschritten
+- **Reinheitsanforderung**: Verfeinert (35-50%)
+- **Effekt**: Erweitert das Bewusstsein durch verbundene Erdmaterialien
+- **Trainingsfokus**: Vibrationsinterpretation und Filterung
+- **Anwendungen**: Finden von Höhlen, Erkennen von Bewegungen, Auffinden von Wasser- oder Mineralvorkommen
 
-### Advanced Techniques
+### Fortgeschrittene Techniken
 
-#### Crystalline Formation
-Creating and manipulating mineral structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms crystalline structures with specific properties and geometric patterns
-- **Training Focus**: Molecular arrangement and growth control
-- **Applications**: Creating gemstones, reinforcing structures, developing crystalline tools
+#### Kristalline Formation
+Erzeugen und Manipulieren von Mineralstrukturen:
+- **Schwierigkeit**: Fortgeschritten
+- **Reinheitsanforderung**: Verfeinert bis Perfekt (45-70%)
+- **Effekt**: Bildet kristalline Strukturen mit spezifischen Eigenschaften und geometrischen Mustern
+- **Trainingsfokus**: Molekulare Anordnung und Wachstumskontrolle
+- **Anwendungen**: Erstellen von Edelsteinen, Verstärken von Strukturen, Entwickeln von kristallinen Werkzeugen
 
 #### Terra Transmutation
-Changing one earth material into another:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Transforms the elemental composition of earth materials
-- **Training Focus**: Molecular deconstruction and reassembly
-- **Applications**: Creating precious metals, purifying ores, transforming sand to glass
+Verwandeln eines Erdmaterials in ein anderes:
+- **Schwierigkeit**: Experte
+- **Reinheitsanforderung**: Perfekt (65-85%)
+- **Effekt**: Transformiert die elementare Zusammensetzung von Erdmaterialien
+- **Trainingsfokus**: Molekulare Dekonstruktion und Reassemblierung
+- **Anwendungen**: Erstellen von Edelmetallen, Reinigen von Erzen, Verwandeln von Sand in Glas
 
-#### Tectonic Manipulation
-Influencing the movement of large earth masses:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Creates controlled movement in bedrock and underground structures
-- **Training Focus**: Force multiplication and geological understanding
-- **Applications**: Creating passages through mountains, stabilizing earthquake-prone regions, raising small landforms
+#### Tektonische Manipulation
+Beeinflussen der Bewegung großer Erdmassen:
+- **Schwierigkeit**: Meister
+- **Reinheitsanforderung**: Perfekt (75-95%)
+- **Effekt**: Erzeugt kontrollierte Bewegungen in Grundgestein und unterirdischen Strukturen
+- **Trainingsfokus**: Kraftvervielfachung und geologisches Verständnis
+- **Anwendungen**: Erstellen von Durchgängen durch Berge, Stabilisieren erdbebengefährdeter Regionen, Erheben kleiner Landformen
 
-## Common Spells
+## Gängige Zaubersprüche
 
-### Novice Spells
+### Anfänger Zaubersprüche
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauberspruch | Effekt | Komponenten | Wirkzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Stone Lift** | Raises a small mass of earth or stone | Somatic, Earth contact | 3 seconds | Instantaneous |
-| **Soil Shift** | Moves loose earth from one location to another | Somatic, Earth contact | 5 seconds | Instantaneous |
-| **Terra Firma** | Stabilizes unstable ground | Somatic, Verbal | 10 seconds | 1 hour |
-| **Dust Cloud** | Creates a cloud of fine particles for concealment | Somatic, Earth material | 2 seconds | 5 minutes |
+| **Steinheben** | Hebt eine kleine Erd- oder Steinmasse an | Somatisch, Erdkontakt | 3 Sekunden | Sofortig |
+| **Erde verschieben** | Bewegt lose Erde von einem Ort zum anderen | Somatisch, Erdkontakt | 5 Sekunden | Sofortig |
+| **Terra Firma** | Stabilisiert instabilen Boden | Somatisch, Verbal | 10 Sekunden | 1 Stunde |
+| **Staubwolke** | Erzeugt eine Wolke aus feinen Partikeln zur Tarnung | Somatisch, Erdmaterial | 2 Sekunden | 5 Minuten |
 
-### Intermediate Spells
+### Fortgeschrittene Zaubersprüche
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauberspruch | Effekt | Komponenten | Wirkzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Stone Shield** | Creates a protective barrier of hardened earth | Somatic, Verbal, Earth | 5 seconds | 30 minutes |
-| **Crystal Lens** | Forms a crystal that enhances vision or focuses light | Somatic, Mineral focus | 30 seconds | 1 day |
-| **Earth Merge** | Allows partial merging with stone or earth | Somatic, Verbal, Earth | 10 seconds | 10 minutes |
-| **Metal Finding** | Reveals nearby metal deposits | Somatic, Mineral focus | 30 seconds | Instantaneous |
+| **Steinschild** | Erzeugt eine Schutzbarriere aus gehärteter Erde | Somatisch, Verbal, Erde | 5 Sekunden | 30 Minuten |
+| **Kristalllinse** | Bildet einen Kristall, der das Sehen verbessert oder Licht fokussiert | Somatisch, Mineralfokus | 30 Sekunden | 1 Tag |
+| **Erdverschmelzung** | Ermöglicht die teilweise Verschmelzung mit Stein oder Erde | Somatisch, Verbal, Erde | 10 Sekunden | 10 Minuten |
+| **Metallfindung** | Enthüllt nahegelegene Metallvorkommen | Somatisch, Mineralfokus | 30 Sekunden | Sofortig |
 
-### Advanced Spells
+### Fortgeschrittene Zaubersprüche
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauberspruch | Effekt | Komponenten | Wirkzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Earthquake** | Creates localized seismic activity | Somatic, Verbal, Focus | 15 seconds | Instantaneous |
-| **Terra Construct** | Forms a semi-autonomous earth elemental | Somatic, Verbal, Focus, Earth | 1 minute | 1 hour |
-| **Crystalline Prison** | Encases target in crystal growth | Somatic, Verbal, Minerals | 10 seconds | 1 hour |
-| **Mountain's Strength** | Grants incredible durability to target | Somatic, Verbal, Stone dust | 30 seconds | 10 minutes |
+| **Erdbeben** | Erzeugt lokalisierte seismische Aktivität | Somatisch, Verbal, Fokus | 15 Sekunden | Sofortig |
+| **Terra Konstrukt** | Bildet ein semi-autonomes Erdelementar | Somatisch, Verbal, Fokus, Erde | 1 Minute | 1 Stunde |
+| **Kristallgefängnis** | Schließt das Ziel in Kristallwachstum ein | Somatisch, Verbal, Mineralien | 10 Sekunden | 1 Stunde |
+| **Kraft des Berges** | Verleiht dem Ziel unglaubliche Haltbarkeit | Somatisch, Verbal, Steinstaub | 30 Sekunden | 10 Minuten |
 
-## Affinity Development
+## Affinitätsentwicklung
 
-Earth affinity progresses through several distinctive stages:
+Die Erd-Affinität durchläuft mehrere markante Stadien:
 
-### Grounded Connection
-The foundational relationship with earth that most beginners possess:
-- **Manifestation**: Intuitive sense of stability, minor influence over soil and sand
-- **Physical Signs**: Slightly roughened skin, strong sense of direction underground
-- **Enhancement Method**: Regular meditation while in direct contact with bare earth
+### Geerdete Verbindung
+Die grundlegende Beziehung zur Erde, die die meisten Anfänger besitzen:
+- **Manifestation**: Intuitives Gefühl von Stabilität, geringer Einfluss auf Boden und Sand
+- **Physische Zeichen**: Leicht raue Haut, starker Orientierungssinn unter der Erde
+- **Verbesserungsmethode**: Regelmäßige Meditation im direkten Kontakt mit bloßer Erde
 
-### Material Mastery
-The intermediate stage where earth responds more readily to the mage's will:
-- **Manifestation**: Stone and earth move with less effort, sensing abilities expand
-- **Physical Signs**: Nails and hair take on mineral-like properties, skin develops subtle crystal patterns
-- **Enhancement Method**: Handling and studying different types of stone, soil, and crystal
+### Materialbeherrschung
+Das Zwischenstadium, in dem die Erde bereitwilliger auf den Willen des Magiers reagiert:
+- **Manifestation**: Stein und Erde bewegen sich mit weniger Anstrengung, die sensorischen Fähigkeiten erweitern sich
+- **Physische Zeichen**: Nägel und Haare nehmen mineralähnliche Eigenschaften an, die Haut entwickelt subtile Kristallmuster
+- **Verbesserungsmethode**: Handhabung und Studium verschiedener Arten von Stein, Erde und Kristall
 
-### Bedrock Harmony
-Advanced practitioners achieve a deep resonance with earth's structural properties:
-- **Manifestation**: Earth seems to respond intuitively, minerals form naturally around the caster
-- **Physical Signs**: Increased body density, earth-toned skin patterns appear during casting
-- **Enhancement Method**: Extended communion at sites of geological interest or power
+### Fundament Harmonie
+Fortgeschrittene Praktiker erzielen eine tiefe Resonanz mit den strukturellen Eigenschaften der Erde:
+- **Manifestation**: Die Erde scheint intuitiv zu reagieren, Mineralien bilden sich auf natürliche Weise um den Zauberer herum
+- **Physische Zeichen**: Erhöhte Körperdichte, erdfarbene Hautmuster erscheinen während des Zauberns
+- **Verbesserungsmethode**: Ausgedehnte Kommunion an Orten von geologischem Interesse oder Kraft
 
-### Tectonic Unity
-Master geomancers who have achieved profound connection with earth:
-- **Manifestation**: Partial transformation abilities, influence over terrain without direct contact
-- **Physical Signs**: Eyes develop crystalline patterns, blood contains mineral compounds
-- **Enhancement Method**: Deep communion at ley line intersections with strong earth resonance
+### Tektonische Einheit
+Meistergeomanten, die eine tiefe Verbindung mit der Erde erreicht haben:
+- **Manifestation**: Teilweise Transformationsfähigkeiten, Einfluss auf das Gelände ohne direkten Kontakt
+- **Physische Zeichen**: Die Augen entwickeln kristalline Muster, das Blut enthält Mineralverbindungen
+- **Verbesserungsmethode**: Tiefe Kommunion an Leylinienkreuzungen mit starker Erdresonanz
 
-## Risks and Safeguards
+## Risiken und Sicherheitsvorkehrungen
 
-### Common Risks
+### Häufige Risiken
 
-- **Immobility**: Becoming too attuned to earth's stillness, resulting in slowed movement
-- **Crystal Growth**: Unintended crystallization in the caster's body tissues
-- **Mass Overload**: Attempting to manipulate earth masses beyond one's strength
-- **Burial Potential**: Loss of control leading to self-burial or cave-ins
-- **Molecular Disruption**: Improper transmutation affecting the caster's own body composition
+- **Immobilität**: Zu stark auf die Stille der Erde eingestellt sein, was zu verlangsamter Bewegung führt
+- **Kristallwachstum**: Unerwünschte Kristallisation im Körpergewebe des Zauberers
+- **Massenüberlastung**: Versuch, Erdmassen über die eigene Stärke hinaus zu manipulieren
+- **Begrabungspotenzial**: Kontrollverlust, der zur Selbstbegrabung oder zu Höhleneinstürzen führt
+- **Molekulare Disruption**: Unsachgemäße Transmutation, die die eigene Körperzusammensetzung des Zauberers beeinträchtigt
 
-### Miscast Effects
+### Fehlbesetzungseffekte
 
-| Severity | Effect | Recovery |
+| Schweregrad | Effekt | Erholung |
 |----------|--------|----------|
-| **Minor** | Temporary stiffening of joints, skin abrasions, sensory dulling | Hours |
-| **Moderate** | Partial petrification of extremities, internal mineral deposits, weight increase | Days |
-| **Severe** | Major joint crystallization, organ calcification, structural integrity damage | Weeks |
-| **Critical** | Progressive petrification, catastrophic molecular restructuring, skeletal reinforcement | Months to permanent |
+| **Geringfügig** | Vorübergehende Versteifung der Gelenke, Hautabschürfungen, sensorische Abstumpfung | Stunden |
+| **Mittel** | Teilweise Versteinerung der Extremitäten, innere Mineralablagerungen, Gewichtszunahme | Tage |
+| **Schwer** | Starke Gelenkkristallisation, Organverkalkung, Schädigung der strukturellen Integrität | Wochen |
+| **Kritisch** | Fortschreitende Versteinerung, katastrophale molekulare Restrukturierung, Skelettverstärkung | Monate bis dauerhaft |
 
-### Safety Practices
+### Sicherheitspraktiken
 
-- **Grounding Rituals**: Regular release of accumulated earth energies
-- **Flexibility Maintenance**: Counterbalancing exercises to prevent stiffening
-- **Mass Calculation**: Careful assessment of earth volume before manipulation
-- **Material Isolation**: Using external earth sources rather than biological minerals
-- **Environmental Awareness**: Assessing geological stability before major workings
+- **Erdungsrituale**: Regelmäßige Freisetzung angesammelter Erdenergien
+- **Flexibilitätserhaltung**: Ausgleichsübungen zur Verhinderung von Versteifungen
+- **Massenberechnung**: Sorgfältige Beurteilung des Erdvolumens vor der Manipulation
+- **Materialisolation**: Verwendung externer Erdquellen anstelle von biologischen Mineralien
+- **Umweltbewusstsein**: Beurteilung der geologischen Stabilität vor größeren Arbeiten
 
-## Cultural Significance
+## Kulturelle Bedeutung
 
-### Historical Development
+### Historische Entwicklung
 
-Earth magic represents one of the oldest and most universally practiced forms of elemental manipulation. The development of geomancy followed three primary historical paths:
+Die Erdmagie stellt eine der ältesten und am weitesten verbreiteten Formen der Elementarmanipulation dar. Die Entwicklung der Geomantie folgte drei primären historischen Pfaden:
 
-1. **Agricultural Foundation**: Early tribal practitioners using earth magic for cultivation and shelter
-2. **Structural Engineering**: Ancient civilizations developing earth manipulation for architecture and infrastructure
-3. **Mineral Crafting**: Advanced societies discovering crystal and metal manipulation
+1. **Landwirtschaftliche Grundlage**: Frühe Stammespraktizierende, die Erdmagie für den Anbau und den Schutz nutzen
+2. **Bauingenieurwesen**: Antike Zivilisationen, die Erdmanipulation für Architektur und Infrastruktur entwickelten
+3. **Mineralhandwerk**: Fortgeschrittene Gesellschaften, die Kristall- und Metallmanipulation entdeckten
 
-### Regional Variations
+### Regionale Variationen
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Kultur | Fokus | Signaturtechnik | Philosophie |
 |---------|-------|---------------------|------------|
-| **Mountain Clans** | Stone manipulation, tunneling | Living stone, cave singing | Earth as the eternal foundation |
-| **Plains Peoples** | Soil fertility, agricultural enhancement | Growth blessing, soil enrichment | Earth as the nurturing provider |
-| **Desert Dwellers** | Crystal formation, finding water | Crystal dowsing, sand walking | Earth as the hidden treasure keeper |
-| **Forest Tribes** | Root systems, natural structures | Living architecture, wood strengthening | Earth as the connected network |
+| **Bergclans** | Steinmanipulation, Tunnelbau | Lebender Stein, Höhlengesang | Erde als ewiges Fundament |
+| **Volk der Ebenen** | Bodenfruchtbarkeit, landwirtschaftliche Verbesserung | Wachstumssegen, Bodenanreicherung | Erde als nährender Versorger |
+| **Wüstenbewohner** | Kristallformation, Wasserfindung | Kristallwünschelrutengang, Sandwandern | Erde als verborgener Schatzbewahrer |
+| **Waldstämme** | Wurzelsysteme, natürliche Strukturen | Lebende Architektur, Holzverstärkung | Erde als verbundenes Netzwerk |
 
-### Ceremonial Uses
+### Zeremonielle Anwendungen
 
-Earth magic features prominently in many cultural ceremonies:
-- **Foundation Rituals**: Blessing new structures and settlements
-- **Harvest Ceremonies**: Thanksgiving and renewal of soil fertility
-- **Rite of Passage**: Young geomancers demonstrating their ability to shape stone
-- **Burial Customs**: Earth magic often used in funeral practices and memorials
+Erdmagie spielt in vielen kulturellen Zeremonien eine herausragende Rolle:
+- **Grundsteinlegungsrituale**: Segnen neuer Strukturen und Siedlungen
+- **Erntezeremonien**: Danksagung und Erneuerung der Bodenfruchtbarkeit
+- **Übergangsritus**: Junge Geomanten demonstrieren ihre Fähigkeit, Stein zu formen
+- **Bestattungsbräuche**: Erdmagie wird oft in Bestattungspraktiken und Gedenkstätten verwendet
 
-### Contemporary Applications
+### Zeitgenössische Anwendungen
 
-Beyond combat and utility applications, earth magic serves essential societal functions:
-- **Construction**: Reinforcing buildings, creating roads, excavating foundations
-- **Mining**: Locating and extracting valuable minerals safely
-- **Agriculture**: Soil enhancement and management
-- **Environmental Protection**: Containing erosion, stabilizing landscapes, managing sinkholes
+Über Kampf- und Nutzanwendungen hinaus erfüllt die Erdmagie wesentliche gesellschaftliche Funktionen:
+- **Konstruktion**: Verstärken von Gebäuden, Erstellen von Straßen, Ausheben von Fundamenten
+- **Bergbau**: Auffinden und sicheres Abbauen wertvoller Mineralien
+- **Landwirtschaft**: Bodenverbesserung und -bewirtschaftung
+- **Umweltschutz**: Eindämmung der Erosion, Stabilisierung von Landschaften, Bewältigung von Erdfällen
 
-> *"The student of earth must understand that true strength lies not in hardness alone, but in the balance between rigidity and flexibility—like the mountain that stands for eons yet slowly changes its shape."* — The Geomantic Principles
+> *"Der Schüler der Erde muss verstehen, dass wahre Stärke nicht allein in der Härte liegt, sondern in der Balance zwischen Starrheit und Flexibilität - wie der Berg, der Äonen steht und doch langsam seine Form verändert."* — Die Geomantischen Prinzipien
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Metal Magic](/codex/Magics/Advanced/Combinations/MetalMagic.md)* 
+*Siehe auch: [Elementarmagie](/codex/Magics/Elements/ElementalMagic.md), [Feuermagie](/codex/Magics/Elements/FireMagic.md), [Metallmagie](/codex/Magics/Advanced/Combinations/MetalMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

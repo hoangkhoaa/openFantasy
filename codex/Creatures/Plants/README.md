@@ -1,158 +1,162 @@
-# Plants of OpenFantasy
+# Pflanzen von OpenFantasy
 
-> *"In the quiet language of root and leaf is written the oldest magic of our world."*
+> *"In der stillen Sprache von Wurzel und Blatt ist die älteste Magie unserer Welt geschrieben."*
 
-## Overview
+## Überblick
 
-The plant life of OpenFantasy represents a diverse and vital aspect of the world's ecosystem. From common crops that sustain civilizations to mystical flora with extraordinary properties, plants embody the subtle magic that permeates all living things.
+Das Pflanzenleben von OpenFantasy stellt einen vielfältigen und wichtigen Aspekt des Ökosystems der Welt dar. Von gewöhnlichen Nutzpflanzen, die Zivilisationen ernähren, bis hin zu mystischen Pflanzen mit außergewöhnlichen Eigenschaften verkörpern Pflanzen die subtile Magie, die alle Lebewesen durchdringt.
 
-Unlike the animal kingdom, plants typically possess minimal Soul component and vary widely in their Mana Capacity, with some species evolving to channel and store magical energy in unique ways. The elemental composition of plants—particularly their Mana component—directly influences their properties, growth patterns, and magical potential.
+Im Gegensatz zum Tierreich besitzen Pflanzen typischerweise eine minimale Seelenkomponente und variieren stark in ihrer Mana-Kapazität, wobei sich einige Arten so entwickelt haben, dass sie magische Energie auf einzigartige Weise kanalisieren und speichern. Die elementare Zusammensetzung von Pflanzen – insbesondere ihre Mana-Komponente – beeinflusst direkt ihre Eigenschaften, Wachstumsmuster und ihr magisches Potenzial.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-Plants generally exhibit the following elemental composition ranges:
+Pflanzen weisen im Allgemeinen die folgenden elementaren Zusammensetzungsbereiche auf:
 
-| Plant Category | Exanthis | Soul | Mana Capacity | Notes |
-|----------------|----------|------|---------------|-------|
-| Common Plants | 85-95% | 0-2% | 5-15% | Most standard flora |
-| Medicinal Plants | 75-85% | 1-3% | 15-25% | Natural healing properties |
-| Magical Plants | 60-80% | 1-5% | 20-40% | Innate magical attributes |
-| Sentient Plants | 70-85% | 5-15% | 10-25% | Conscious plant entities |
+| Pflanzenkategorie | Exanthis | Seele | Mana-Kapazität | Anmerkungen |
+|-------------------|----------|-------|----------------|------------|
+| Gewöhnliche Pflanzen | 85-95% | 0-2% | 5-15% | Die meisten Standardpflanzen |
+| Heilpflanzen | 75-85% | 1-3% | 15-25% | Natürliche heilende Eigenschaften |
+| Magische Pflanzen | 60-80% | 1-5% | 20-40% | Angeborene magische Attribute |
+| Empfindungsfähige Pflanzen | 70-85% | 5-15% | 10-25% | Bewusste Pflanzenwesen |
 
-## Plant Classifications
+## Pflanzenklassifizierungen
 
-### Mundane Flora
+### Weltliche Flora
 
-Common plants with limited or no magical properties that form the foundation of ecosystems:
+Gewöhnliche Pflanzen mit begrenzten oder keinen magischen Eigenschaften, die das Fundament von Ökosystemen bilden:
 
-| Category | Examples | Primary Uses |
-|----------|----------|--------------|
-| **Agricultural** | Wheat, corn, fruit trees | Food production, materials |
-| **Forest Flora** | Oaks, pines, ferns | Ecosystems, building materials |
-| **Prairie Plants** | Grasses, wildflowers | Ground cover, animal fodder |
-| **Aquatic Plants** | Seaweed, lily pads, reeds | Water filtration, aquatic habitats |
-
-→ See [Mundane Plants](Mundane.md) for detailed information.
-
-### Medicinal Plants
-
-Species with natural healing or beneficial properties:
-
-| Category | Examples | Primary Effects |
-|----------|----------|----------------|
-| **Healing Herbs** | Healer's root, bloodstop moss | Wound treatment, infection prevention |
-| **Restorative Plants** | Vitality flowers, stamina caps | Energy restoration, fatigue relief |
-| **Antidote Sources** | Venom cleansers, toxin lilies | Poison neutralization, toxin absorption |
-| **Mental Remedies** | Clarity mint, dream shade | Focus enhancement, sleep aids |
-
-→ See [Medicinal Plants](Medicinal.md) for detailed information.
-
-### Magical Plants
-
-Flora with innate magical properties or the ability to interact with magical forces:
-
-| Category | Examples | Magical Properties |
+| Kategorie | Beispiele | Hauptverwendungen |
 |----------|----------|-------------------|
-| **Elemental Flora** | Emberblooms, frost lichen | Manifestation of elemental energies |
-| **Mana Conductors** | Spellvines, arcane mushrooms | Capture and channel magical energy |
-| **Transmutative Species** | Shapeleaf, form tubers | Physical transformation properties |
-| **Enchantment Enhancers** | Binding moss, runic ferns | Amplify or stabilize enchantments |
+| **Landwirtschaftlich** | Weizen, Mais, Obstbäume | Nahrungsmittelproduktion, Materialien |
+| **Waldflora** | Eichen, Kiefern, Farne | Ökosysteme, Baumaterialien |
+| **Präriepflanzen** | Gräser, Wildblumen | Bodendecker, Tierfutter |
+| **Wasserpflanzen** | Seetang, Seerosen, Schilf | Wasserfiltration, aquatische Lebensräume |
 
-→ See [Magical Plants](Magical.md) for detailed information.
+→ Siehe [Mundane Plants](Mundane.md) für detaillierte Informationen.
 
-### Poisonous and Dangerous Flora
+### Heilpflanzen
 
-Plants with toxic or harmful properties:
+Arten mit natürlichen heilenden oder wohltuenden Eigenschaften:
 
-| Category | Examples | Dangerous Effects |
-|----------|----------|------------------|
-| **Toxic Plants** | Deathcap, voidroot | Severe poisoning, organ failure |
-| **Carnivorous Flora** | Snaptrap, digestive vines | Animal/humanoid consumption |
-| **Mind-Affecting** | Delusion caps, madness pollen | Hallucinations, confusion, insanity |
-| **Parasitic Species** | Life-drainers, energy siphons | Extract nutrients or energy from hosts |
+| Kategorie | Beispiele | Haupteffekte |
+|----------|----------|----------------|
+| **Heilkräuter** | Heilerwurzel, Blutstoppmoos | Wundbehandlung, Infektionsprävention |
+| **Restorative Pflanzen** | Vitalitätsblumen, Ausdauerkappen | Energiewiederherstellung, Linderung von Müdigkeit |
+| **Gegengiftquellen** | Giftreiniger, Toxinenlilien | Giftneutralisierung, Toxinabsorption |
+| **Mentale Heilmittel** | Klarheitsminze, Traumschatten | Fokusverbesserung, Schlafmittel |
 
-→ See [Poisonous Plants](Poisonous.md) for detailed information.
+→ Siehe [Medicinal Plants](Medicinal.md) für detaillierte Informationen.
 
-### Sentient Plant Species
+### Magische Pflanzen
 
-Plants with consciousness and often mobility:
+Flora mit angeborenen magischen Eigenschaften oder der Fähigkeit, mit magischen Kräften zu interagieren:
 
-| Category | Examples | Key Characteristics |
+| Kategorie | Beispiele | Magische Eigenschaften |
+|----------|----------|------------------------|
+| **Elementare Flora** | Glutblüten, Frostreichen | Manifestation von elementaren Energien |
+| **Manaleiter** | Zauberranken, arkane Pilze | Einfangen und Kanalisieren von magischer Energie |
+| **Transmutative Arten** | Formblatt, Formknollen | Physische Transformationseigenschaften |
+| **Verzauberungsverstärker** | Bindendes Moos, Runenfarn | Verstärken oder Stabilisieren von Verzauberungen |
+
+→ Siehe [Magical Plants](Magical.md) für detaillierte Informationen.
+
+### Giftige und gefährliche Flora
+
+Pflanzen mit giftigen oder schädlichen Eigenschaften:
+
+| Kategorie | Beispiele | Gefährliche Effekte |
+|----------|----------|-----------------------|
+| **Giftpflanzen** | Todeshut, Leerenwurzel | Schwere Vergiftung, Organversagen |
+| **Fleischfressende Flora** | Schnappfalle, Verdauungsranken | Tier-/Humanoide Konsumtion |
+| **Geistbeeinflussend** | Täuschungskappen, Wahnsinnspollen | Halluzinationen, Verwirrung, Wahnsinn |
+| **Parasitäre Arten** | Lebenssauger, Energiesiphonen | Extrahieren von Nährstoffen oder Energie von Wirten |
+
+→ Siehe [Poisonous Plants](Poisonous.md) für detaillierte Informationen.
+
+### Empfindungsfähige Pflanzenarten
+
+Pflanzen mit Bewusstsein und oft Mobilität:
+
+| Kategorie | Beispiele | Hauptmerkmale |
 |----------|----------|---------------------|
-| **Treants** | Ancient oaks, guardian pines | Tree-like humanoids, forest protectors |
-| **Fungal Consciousness** | Myconids, thought fungi | Collective awareness, spore communication |
-| **Ambulatory Flora** | Tumbleweed sentinels, walking vines | Independent movement, reactive behavior |
-| **Hive Mind Plants** | Colony ferns, neural root networks | Shared consciousness across multiple plants |
+| **Treants** | Uralte Eichen, Wächterkiefern | Baumartige Humanoide, Waldschützer |
+| **Pilzbewusstsein** | Myconiden, Denkpilze | Kollektives Bewusstsein, Sporenkommunikation |
+| **Ambulante Flora** | Steppenläufer-Wachen, Wandernde Ranken | Unabhängige Bewegung, reaktives Verhalten |
+| **Schwarmgeist-Pflanzen** | Kolonie-Farne, neuronale Wurzelnetzwerke | Geteiltes Bewusstsein über mehrere Pflanzen |
 
-→ See [Sentient Plants](Sentient.md) for detailed information.
+→ Siehe [Sentient Plants](Sentient.md) für detaillierte Informationen.
 
-## Magical Interactions
+## Magische Interaktionen
 
-Plants interact with mana in various significant ways:
+Pflanzen interagieren auf verschiedene bedeutende Weisen mit Mana:
 
-### Mana Cycling
+### Manazyklen
 
-Many plants participate in the natural circulation of magical energy:
+Viele Pflanzen nehmen am natürlichen Kreislauf magischer Energie teil:
 
-- **Absorption**: Drawing mana from soil and atmosphere
-- **Transformation**: Converting raw mana into specialized magical compounds
-- **Release**: Returning processed mana to the environment through various mechanisms
-- **Storage**: Accumulating magical energy in specialized tissues
+- **Absorption**: Entziehen von Mana aus Boden und Atmosphäre
+- **Transformation**: Umwandeln von rohem Mana in spezialisierte magische Verbindungen
+- **Freisetzung**: Rückführen von verarbeitetem Mana in die Umwelt durch verschiedene Mechanismen
+- **Speicherung**: Ansammeln von magischer Energie in spezialisiertem Gewebe
 
-### Cultivation and Harvesting
+### Anbau und Ernte
 
-Proper techniques are essential for preserving magical properties:
+Geeignete Techniken sind essentiell zur Erhaltung magischer Eigenschaften:
 
-| Plant Type | Harvesting Method | Timing Considerations |
-|------------|------------------|------------------------|
-| **Healing Herbs** | Clean cuts with silver tools | Dawn or dusk, avoiding full moon |
-| **Magical Fungi** | Gentle separation from substrate | During appropriate lunar phase |
-| **Elemental Flora** | Element-attuned implements | During element's ascendant period |
-| **Enchanted Trees** | Ritualistic branch collection | Seasonal equinox or solstice |
+| Pflanzentyp | Erntemethode | Zeitliche Überlegungen |
+|------------|-------------------|-------------------------|
+| **Heilkräuter** | Saubere Schnitte mit Silberwerkzeug | Morgengrauen oder Abenddämmerung, Vermeidung von Vollmond |
+| **Magische Pilze** | Sanfte Trennung vom Substrat | Während der passenden Mondphase |
+| **Elementare Flora** | Elementar-abgestimmte Werkzeuge | Während der Aufstiegsperiode des Elements |
+| **Verzauberte Bäume** | Rituelle Zweigsammlung | Saisonale Tagundnachtgleiche oder Sonnenwende |
 
-## Ecological Significance
+## Ökologische Bedeutung
 
-Plants serve vital functions in OpenFantasy's ecosystems:
+Pflanzen erfüllen wichtige Funktionen in OpenFantasy's Ökosystemen:
 
-### Magical Stabilization
+### Magische Stabilisierung
 
-- **Ley Line Anchoring**: Certain species grow along and stabilize magical energy currents
-- **Wild Magic Mitigation**: Some plants absorb and neutralize chaotic magical discharges
-- **Elemental Balancing**: Flora that maintains equilibrium between elemental forces
-- **Planar Boundary Reinforcement**: Plants that strengthen the barriers between realms
+- **Ley-Linien-Verankerung**: Bestimmte Arten wachsen entlang von magischen Energieströmen und stabilisieren diese
+- **Wilde Magie-Minderung**: Einige Pflanzen absorbieren und neutralisieren chaotische magische Entladungen
+- **Elementares Ausbalancieren**: Flora, die das Gleichgewicht zwischen elementaren Kräften aufrechterhält
+- **Planare Grenzbefestigung**: Pflanzen, die die Barrieren zwischen Reichen verstärken
 
-### Habitat Creation
+### Lebensraumschaffung
 
-- **Magical Microclimates**: Plants creating zones of specialized magical conditions
-- **Extradimensional Spaces**: Flora that generates pockets of expanded or altered space
-- **Protective Enclaves**: Plant communities that shield areas from magical contamination
-- **Sentient Sanctuaries**: Conscious plant networks that selectively welcome or exclude visitors
+- **Magische Mikroklimata**: Pflanzen, die Zonen mit spezialisierten magischen Bedingungen schaffen
+- **Extradimensionale Räume**: Flora, die Taschen mit erweitertem oder verändertem Raum erzeugt
+- **Schützende Enklaven**: Pflanzengemeinschaften, die Gebiete vor magischer Kontamination schützen
+- **Empfindungsfähige Schutzgebiete**: Bewusste Pflanzennetzwerke, die Besucher selektiv willkommen heißen oder ausschließen
 
-## Cultural Significance
+## Kulturelle Bedeutung
 
-Plants hold important places in the cultures and practices of sentient species:
+Pflanzen haben wichtige Plätze in den Kulturen und Praktiken empfindungsfähiger Arten:
 
-| Culture | Plant Relationship | Notable Traditions |
-|---------|-------------------|-------------------|
-| **Elven** | Symbiotic gardening, tree dwelling | Living architecture, growth singing |
-| **Human** | Agricultural development, herbal medicine | Harvest festivals, medicinal traditions |
-| **Druidic** | Plant communication, forest guardianship | Grove sanctification, plant bond rituals |
-| **Fae** | Magical enhancement, plant transformation | Bloom dances, growth manipulation |
-| **Dwarven** | Subterranean cultivation, fungal specialization | Mushroom brewing, cave gardens |
+| Kultur | Pflanzenbeziehung | Bemerkenswerte Traditionen |
+|---------|-------------------|---------------------------|
+| **Elfen** | Symbiotischer Gartenbau, Baumwohnen | Lebende Architektur, Wachstumssingen |
+| **Menschen** | Landwirtschaftliche Entwicklung, Kräutermedizin | Erntefeste, medizinische Traditionen |
+| **Druiden** | Pflanzenkommunikation, Waldschutz | Hainheiligung, Pflanzenbindungsrituale |
+| **Fae** | Magische Verbesserung, Pflanzentransformation | Blüten-Tänze, Wachstummanipulation |
+| **Zwerge** | Unterirdischer Anbau, Pilzspezialisierung | Pilgebrauen, Höhlengärten |
 
-## Regions and Endemic Flora
+## Regionen und Endemische Flora
 
-Different regions feature specialized plant adaptations:
+Verschiedene Regionen weisen spezialisierte Pflanzenanpassungen auf:
 
-| Biome | Notable Flora | Special Adaptations |
-|-------|--------------|---------------------|
-| **Arcane Forests** | Spellwood trees, mana flowers | Direct mana incorporation, magical fruit production |
-| **Elemental Plains** | Essence grasses, primordial shrubs | Element absorption, rapid adaptation |
-| **Shadow Realms** | Voidferns, umbral roses | Light absorption, shadow manifestation |
-| **Fae Wilds** | Whimsy blooms, changeberry bushes | Reality alteration, temporal manipulation |
-| **Ancient Mountains** | Stone flowers, crystal lichens | Mineral integration, extreme longevity |
-| **Enchanted Marshes** | Spellbog reeds, illusion lilies | Magic filtration, sensory effects |
+| Biome | Bemerkenswerte Flora | Spezielle Anpassungen |
+|-------|---------------------|--------------------------|
+| **Arkane Wälder** | Zauberholzbäume, Mana-Blumen | Direkte Mana-Einbindung, magische Fruchterzeugung |
+| **Elementare Ebenen** | Essenzgräser, Ursträucher | Elementabsorption, schnelle Anpassung |
+| **Schattenreiche** | Leerenfarne, Umbralrosen | Lichtabsorption, Schattenmanifestation |
+| **Fae-Wildnis** | Launenblüten, Wechselbeerensträucher | Realitätsveränderung, Zeitliche Manipulation |
+| **Uralte Berge** | Steinblumen, Kristallflechten | Mineralintegration, extreme Langlebigkeit |
+| **Verzauberte Sümpfe** | Zaubersumpfrohr, Illusionslilien | Magiefiltration, sensorische Effekte |
 
 ---
 
-> *"A garden is more than beauty; it is power, knowledge, and life itself. Cultivate accordingly."* — Lady Thorne, Master Botanist and Royal Gardener 
+> *"Ein Garten ist mehr als Schönheit; er ist Macht, Wissen und das Leben selbst. Bewirtschaften Sie ihn entsprechend."* — Lady Thorne, Meisterbotanikerin und Königliche Gärtnerin
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

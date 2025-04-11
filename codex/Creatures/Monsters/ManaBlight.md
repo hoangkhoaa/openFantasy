@@ -1,211 +1,215 @@
-# **Mana Blights**: Corrupted Manifestations of Wild Magical Energy
+# **Mana-Seuchen**: Korrumpierte Manifestationen wilder magischer Energie
 
-> *"Where magic festers and grows unchecked, the Blights arise—wounds in reality given hunger and malevolent purpose."* — Magister Thorne, Warden of the Magical Containment Division
+> *"Wo Magie wuchert und ungehindert wächst, entstehen die Seuchen – Wunden in der Realität, denen Hunger und böswillige Absichten innewohnen."* — Magister Thorne, Wächter der Abteilung für magische Eindämmung
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Formation](#habitat-and-formation)
-- [Behavioral Patterns](#behavioral-patterns)
-- [Containment and Countermeasures](#containment-and-countermeasures)
+- [Elementare Zusammensetzung](#elementare-zusammensetzung)
+- [Physische Eigenschaften](#physische-eigenschaften)
+- [Magische Affinität](#magische-affinität)
+- [Habitat und Entstehung](#habitat-und-entstehung)
+- [Verhaltensmuster](#verhaltensmuster)
+- [Eindämmung und Gegenmaßnahmen](#eindämmung-und-gegenmaßnahmen)
 
-## Overview
+## Überblick
 
-Mana Blights are dangerous manifestations of corrupted magical energy, occurring when Wild Mana becomes severely contaminated and unstable. Unlike [Mana Wisps](/codex/Creatures/Magical/ManaWisps.md), which represent the harmonious potential of magical energy, Blights embody magic's destructive capacity when left uncontrolled or deliberately corrupted. They form in areas of magical catastrophe, failed ritual sites, or places where the natural flow of magic has been severely disrupted. Constantly hungry for more energy to sustain their unstable existence, Blights represent one of the most significant hazards in areas of high magical activity.
+Mana-Seuchen sind gefährliche Manifestationen korrumpierter magischer Energie, die auftreten, wenn Wildes Mana stark verunreinigt und instabil wird. Im Gegensatz zu [Mana-Irrlichtern](/codex/Creatures/Magical/ManaWisps.md), die das harmonische Potenzial magischer Energie repräsentieren, verkörpern Seuchen die zerstörerische Kapazität der Magie, wenn sie unkontrolliert gelassen oder absichtlich korrumpiert wird. Sie bilden sich in Gebieten magischer Katastrophen, fehlgeschlagenen Ritualstätten oder an Orten, an denen der natürliche Fluss der Magie stark gestört wurde. Ständig hungrig nach mehr Energie, um ihre instabile Existenz aufrechtzuerhalten, stellen Seuchen eine der größten Gefahren in Gebieten mit hoher magischer Aktivität dar.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-**Mana Blights** possess a dangerously imbalanced elemental composition:
+**Mana-Seuchen** besitzen eine gefährlich unausgewogene elementare Zusammensetzung:
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Seele | Mana-Kapazität | Repräsentativer Typ |
 |----------|------|---------------|---------------------|
-| 15-25% | 0-5% | 70-85% | Standard Blight |
-| 30-40% | 0-2% | 60-70% | **Crystalline Blight** with partial physical manifestation |
-| 10-15% | 5-10% | 75-85% | **Sentient Blight** with rudimentary consciousness |
-| 5-15% | 0-5% | 80-95% | **Void Blight** with extreme magical instability |
+| 15-25% | 0-5% | 70-85% | Standard-Seuche |
+| 30-40% | 0-2% | 60-70% | **Kristalline Seuche** mit teilweiser physischer Manifestation |
+| 10-15% | 5-10% | 75-85% | **Empfindungsfähige Seuche** mit rudimentärem Bewusstsein |
+| 5-15% | 0-5% | 80-95% | **Leeren-Seuche** mit extremer magischer Instabilität |
 
-### Distinctive Composition
+### Unterscheidende Zusammensetzung
 
-Unlike most creatures, Mana Blights possess a fundamentally unstable elemental balance. Their abnormally high Mana Capacity contains almost entirely unprocessed Wild Mana rather than Base Mana, creating a constantly fluctuating energy state. Their Exanthis component consists primarily of magical residue and environmental matter absorbed during formation rather than biological tissue. Most Blights possess negligible Soul components, though particularly old specimens may develop rudimentary consciousness through extended existence.
+Im Gegensatz zu den meisten Kreaturen besitzen Mana-Seuchen ein grundlegend instabiles elementares Gleichgewicht. Ihre abnormal hohe Mana-Kapazität enthält fast ausschließlich unverarbeitetes Wildes Mana anstelle von Basis-Mana, wodurch ein ständig fluktuierender Energiezustand entsteht. Ihre Exanthis-Komponente besteht hauptsächlich aus magischen Rückständen und Umweltmaterie, die während der Bildung absorbiert werden, und nicht aus biologischem Gewebe. Die meisten Seuchen besitzen vernachlässigbare Seelenkomponenten, obwohl besonders alte Exemplare durch längere Existenz ein rudimentäres Bewusstsein entwickeln können.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Mana Blights** exhibit disturbing physical traits:
+**Mana-Seuchen** weisen beunruhigende physische Merkmale auf:
 
-| Characteristic | Description |
+| Merkmal | Beschreibung |
 |----------------|-------------|
-| **Size** | Highly variable; typically 2-8 feet in diameter but can grow substantially larger |
-| **Weight** | 30-200 pounds depending on absorbed material |
-| **Lifespan** | Typically 1-5 years until energy dissolution or containment |
-| **Physical Maturity** | Reach full power within 2-4 weeks of formation |
-| **Notable Features** | Dark, swirling core with chaotic energy patterns and often incorporated environmental debris |
+| **Größe** | Sehr variabel; typischerweise 2-8 Fuß im Durchmesser, kann aber erheblich größer werden |
+| **Gewicht** | 30-200 Pfund, abhängig vom absorbierten Material |
+| **Lebensdauer** | Typischerweise 1-5 Jahre bis zur Energieauflösung oder Eindämmung |
+| **Physische Reife** | Erreichen innerhalb von 2-4 Wochen nach der Bildung ihre volle Kraft |
+| **Bemerkenswerte Merkmale** | Dunkler, wirbelnder Kern mit chaotischen Energiemustern und oft eingebauten Umweltrückständen |
 
-### Appearance
+### Aussehen
 
-- **Anti-Luminescence**: Often absorb rather than emit light, creating shadow-like distortions
-- **Unstable Boundaries**: Edges constantly shift and pulse with erratic energy discharges
-- **Environmental Incorporation**: Absorb and integrate nearby materials into their form
-- **Chromatic Distortion**: Display unnatural color patterns that strain the observer's vision
-- **Spatial Warping**: Create minor distortions in space around their immediate vicinity
+- **Anti-Lumineszenz**: Absorbiert oft eher Licht, anstatt es auszusenden, wodurch schattenartige Verzerrungen entstehen
+- **Instabile Grenzen**: Kanten verschieben und pulsieren ständig mit unregelmäßigen Energieentladungen
+- **Umweltintegration**: Absorbieren und integrieren nahegelegene Materialien in ihre Form
+- **Chromatische Verzerrung**: Zeigen unnatürliche Farbmuster, die die Augen des Beobachters überanstrengen
+- **Räumliche Verwerfung**: Erzeugen geringfügige Verzerrungen im Raum in ihrer unmittelbaren Umgebung
 
-## Magical Affinity
+## Magische Affinität
 
-**Mana Blights** represent a dangerous perversion of normal magical energy:
+**Mana-Seuchen** stellen eine gefährliche Perversion normaler magischer Energie dar:
 
-| Aspect | Capability |
+| Aspekt | Fähigkeit |
 |--------|------------|
-| **Mana Storage** | Abnormal (capable of containing high concentrations of Wild Mana) |
-| **Purification** | Inverse (actively corrupt Base Mana into Wild Mana) |
-| **Specialization Pattern** | Chaotic (unpredictable, uncontrolled elemental manifestations) |
-| **Natural Affinity** | Wild Mana primarily; often demonstrate erratic elemental discharges |
+| **Mana-Speicherung** | Abnormal (fähig, hohe Konzentrationen von Wildem Mana zu enthalten) |
+| **Reinigung** | Umgekehrt (korrumpiert aktiv Basis-Mana in Wildes Mana) |
+| **Spezialisierungsmuster** | Chaotisch (unvorhersehbare, unkontrollierte elementare Manifestationen) |
+| **Natürliche Affinität** | Hauptsächlich Wildes Mana; zeigen oft unregelmäßige elementare Entladungen |
 
-### Magical Disruptions
+### Magische Störungen
 
-Mana Blights create several magical anomalies in their vicinity:
+Mana-Seuchen erzeugen in ihrer Nähe mehrere magische Anomalien:
 
-- **Phase 1 Interference**: Disrupt the Wild Mana to Base Mana conversion process in living beings
-- **Pattern Dissolution**: Erode established magical patterns like wards, enchantments, and ongoing spells
-- **Resonance Contamination**: Corrupt the harmonic frequencies used in specialization
-- **Energy Absorption**: Drain ambient magical energy to fuel their own unstable existence
+- **Phase-1-Interferenz**: Stören den Umwandlungsprozess von Wildem Mana zu Basis-Mana in Lebewesen
+- **Musterauflösung**: Erodieren etablierte magische Muster wie Schutzschilde, Verzauberungen und laufende Zauber
+- **Resonanzkontamination**: Korrumpieren die harmonischen Frequenzen, die bei der Spezialisierung verwendet werden
+- **Energieabsorption**: Ziehen Umgebungsmagie ab, um ihre eigene instabile Existenz zu befeuern
 
-### Dangerous Magical Traits
+### Gefährliche magische Eigenschaften
 
-- **Wild Surge Generation**: Produce unpredictable bursts of untamed magical energy
-- **Base Mana Corruption**: Convert stable Base Mana into chaotic Wild Mana on contact
-- **Resonance Disruption**: Interfere with spellcasting within their proximity (10-100 foot radius)
-- **Pattern Interference**: Cause established magical patterns to degrade or fail
+- **Wild-Surge-Generation**: Produzieren unvorhersehbare Ausbrüche ungezähmter magischer Energie
+- **Basis-Mana-Korruption**: Wandeln stabiles Basis-Mana bei Kontakt in chaotisches Wildes Mana um
+- **Resonanzstörung**: Beeinträchtigen das Zaubern in ihrer Nähe (10-100 Fuß Radius)
+- **Musterinterferenz**: Führen dazu, dass etablierte magische Muster sich verschlechtern oder fehlschlagen
 
-## Habitat and Formation
+## Habitat und Entstehung
 
-**Mana Blights** form in areas where magical energy has been corrupted or disrupted:
+**Mana-Seuchen** bilden sich in Gebieten, in denen magische Energie korrumpiert oder gestört wurde:
 
-| Formation Site | Blight Type | Formation Trigger |
+| Entstehungsort | Seuchen-Typ | Auslöser der Entstehung |
 |----------------|-------------|-------------------|
-| **Failed Ritual Sites** | Complex Blights | Catastrophic spell failure |
-| **Magical Waste Areas** | Toxic Blights | Accumulation of magical byproducts |
-| **Planar Breach Points** | Void Blights | Improper interdimensional contact |
-| **Ley Line Ruptures** | Elemental Blights | Natural magical upheaval |
+| **Fehlgeschlagene Ritualstätten** | Komplexe Seuchen | Katastrophales Zauberversagen |
+| **Magische Abfallgebiete** | Toxische Seuchen | Ansammlung magischer Nebenprodukte |
+| **Planare Bruchstellen** | Leeren-Seuchen | Unsachgemäßer interdimensionaler Kontakt |
+| **Ley-Linien-Brüche** | Elementare Seuchen | Natürliche magische Umwälzungen |
 
-### Formation Process
+### Entstehungsprozess
 
-1. **Magical Disruption**: Initial event creates unstable Wild Mana concentration
-2. **Energy Accumulation**: Wild Mana begins to coalesce and attract more energy
-3. **Pattern Corruption**: Emergence of anti-harmonious resonance patterns
-4. **Matter Incorporation**: Absorption of physical material to create quasi-stable form
-5. **Consciousness Development**: In rare cases, emergence of primitive awareness
+1. **Magische Störung**: Das anfängliche Ereignis erzeugt eine instabile Konzentration von Wildem Mana
+2. **Energieansammlung**: Wildes Mana beginnt sich zu vereinen und mehr Energie anzuziehen
+3. **Musterkorruption**: Entstehung von anti-harmonischen Resonanzmustern
+4. **Materie-Integration**: Absorption von physischem Material, um eine quasi-stabile Form zu schaffen
+5. **Bewusstseinsentwicklung**: In seltenen Fällen Entstehung eines primitiven Bewusstseins
 
-## Behavioral Patterns
+## Verhaltensmuster
 
-Despite generally lacking true consciousness, Mana Blights display consistent behavioral tendencies:
+Obwohl es ihnen im Allgemeinen an wahrem Bewusstsein mangelt, zeigen Mana-Seuchen konsistente Verhaltenstendenzen:
 
-### Instinctive Behaviors
+### Instinktive Verhaltensweisen
 
-- **Energy Hunger**: Constant drive to absorb additional magical energy
-- **Territorial Expansion**: Gradual spreading from point of origin
-- **Pattern Erasure**: Seem to specifically target and degrade organized magical structures
-- **Environmental Corruption**: Convert surrounding area to match their chaotic resonance
+- **Energiehunger**: Ständiger Drang, zusätzliche magische Energie zu absorbieren
+- **Territoriale Ausdehnung**: Allmähliche Ausbreitung vom Ausgangspunkt
+- **Musterlöschung**: Scheinen gezielt organisierte magische Strukturen anzugreifen und abzubauen
+- **Umweltkorruption**: Verwandeln die Umgebung so, dass sie mit ihrer chaotischen Resonanz übereinstimmt
 
-### Environmental Impact
+### Umweltauswirkungen
 
-Mana Blights create progressively worsening magical contamination zones:
+Mana-Seuchen erzeugen zunehmend schlimmer werdende magische Kontaminationszonen:
 
-| Zone Range | Effects | Duration After Removal |
+| Zonenbereich | Auswirkungen | Dauer nach Entfernung |
 |------------|---------|------------------------|
-| Inner Zone (0-30ft) | Complete magical disruption, physical corruption | 1-5 years |
-| Middle Zone (30-100ft) | Spell failure, resonance distortion, Wild Mana saturation | 3-12 months |
-| Outer Zone (100-300ft) | Reduced spell effectiveness, increased Wild Mana content | 1-4 weeks |
-| Fringe Zone (300-1000ft) | Subtle magical interference, enhanced Wild Mana presence | 1-7 days |
+| Innere Zone (0-30 Fuß) | Vollständige magische Störung, physische Korruption | 1-5 Jahre |
+| Mittlere Zone (30-100 Fuß) | Zauberversagen, Resonanzverzerrung, Wilde Mana-Sättigung | 3-12 Monate |
+| Äußere Zone (100-300 Fuß) | Reduzierte Zauberwirksamkeit, erhöhter Gehalt an Wildem Mana | 1-4 Wochen |
+| Randzone (300-1000 Fuß) | Subtile magische Interferenz, verstärktes Vorhandensein von Wildem Mana | 1-7 Tage |
 
-### Growth and Expansion
+### Wachstum und Expansion
 
-Without containment, Blights follow a predictable growth pattern:
+Ohne Eindämmung folgen Seuchen einem vorhersehbaren Wachstumsmuster:
 
-1. **Nascent Stage**: Small, relatively stable, limited radius of effect
-2. **Feeding Stage**: Rapid energy absorption, increasing size and instability
-3. **Expansion Stage**: Territory growth, development of stronger disruption fields
-4. **Critical Mass**: Eventually reaching unstable size leading to catastrophic discharge or collapse
+1. **Anfangsphase**: Klein, relativ stabil, begrenzter Wirkungsradius
+2. **Fütterungsphase**: Schnelle Energieabsorption, zunehmende Größe und Instabilität
+3. **Expansionsphase**: Territoriales Wachstum, Entwicklung stärkerer Störfelder
+4. **Kritische Masse**: Erreichen schließlich eine instabile Größe, die zu katastrophaler Entladung oder Zusammenbruch führt
 
-## Containment and Countermeasures
+## Eindämmung und Gegenmaßnahmen
 
-Magical authorities have developed specific protocols for dealing with Mana Blights:
+Magische Behörden haben spezifische Protokolle für den Umgang mit Mana-Seuchen entwickelt:
 
-### Detection Methods
+### Erkennungsmethoden
 
-- **Specialized Divination**: Modified detection spells that identify resonance distortions
-- **Elemental Reactions**: Certain purified elemental substances react visibly to Blight presence
-- **Familiar Response**: Trained magical familiars can sense Blights at great distances
-- **Symptom Recognition**: Environmental changes and spell behavior anomalies
+- **Spezialisierte Divination**: Modifizierte Erkennungszauber, die Resonanzverzerrungen identifizieren
+- **Elementare Reaktionen**: Bestimmte gereinigte elementare Substanzen reagieren sichtbar auf die Anwesenheit von Seuchen
+- **Vertrauten-Reaktion**: Trainierte magische Vertraute können Seuchen aus großer Entfernung wahrnehmen
+- **Symptomerkennung**: Umweltveränderungen und Anomalien im Zauberverhalten
 
-### Containment Techniques
+### Eindämmungstechniken
 
-| Method | Effectiveness | Limitations |
+| Methode | Wirksamkeit | Einschränkungen |
 |--------|--------------|-------------|
-| **Harmonic Barrier** | High for small/medium Blights | Requires constant maintenance |
-| **Purification Circle** | Moderate | Works only on newer formations |
-| **Mana Siphoning** | Variable | Dangerous to practitioners |
-| **Resonance Inversion** | Very High | Requires master-level skill |
+| **Harmonische Barriere** | Hoch für kleine/mittlere Seuchen | Erfordert ständige Wartung |
+| **Reinigungszirkel** | Mäßig | Funktioniert nur bei neueren Formationen |
+| **Mana-Absaugung** | Variabel | Gefährlich für Praktizierende |
+| **Resonanzumkehrung** | Sehr hoch | Erfordert meisterhafte Fähigkeiten |
 
-### Neutralization Procedures
+### Neutralisierungsverfahren
 
-The most effective approaches to eliminating Mana Blights include:
+Die effektivsten Ansätze zur Beseitigung von Mana-Seuchen umfassen:
 
-1. **Containment**: Establishing barriers to prevent expansion
-2. **Isolation**: Separating the Blight from external energy sources
-3. **Purification**: Controlled conversion of Wild Mana to Base Mana
-4. **Dissipation**: Careful dispersion of the energy concentration
-5. **Transmutation**: In extreme cases, converting the entire energy mass into another form
+1. **Eindämmung**: Errichtung von Barrieren zur Verhinderung der Ausdehnung
+2. **Isolation**: Trennung der Seuche von externen Energiequellen
+3. **Reinigung**: Kontrollierte Umwandlung von Wildem Mana in Basis-Mana
+4. **Auflösung**: Sorgfältige Verteilung der Energiekonzentration
+5. **Transmutation**: In extremen Fällen Umwandlung der gesamten Energiemasse in eine andere Form
 
-## Classification System
+## Klassifizierungssystem
 
-The Arcane Containment Authority classifies Mana Blights by threat level:
+Die Arcane Containment Authority klassifiziert Mana-Seuchen nach Gefährdungsgrad:
 
-| Class | Characteristics | Containment Protocol | Response Team |
+| Klasse | Eigenschaften | Eindämmungsprotokoll | Reaktionsteam |
 |-------|----------------|----------------------|---------------|
-| **Alpha** | Nascent, under 2ft diameter | Standard containment | Local mages |
-| **Beta** | Established, 2-5ft diameter | Active purification | Regional specialists |
-| **Gamma** | Mature, 5-10ft diameter | Full containment team | Authority response unit |
-| **Delta** | Critical, 10ft+ diameter | Emergency protocol | Master mage intervention |
-| **Omega** | Catastrophic, regional threat | Evacuation and isolation | Multiple master mages |
+| **Alpha** | Entstehend, unter 2 Fuß Durchmesser | Standardmäßige Eindämmung | Lokale Magier |
+| **Beta** | Etabliert, 2-5 Fuß Durchmesser | Aktive Reinigung | Regionale Spezialisten |
+| **Gamma** | Ausgereift, 5-10 Fuß Durchmesser | Vollständiges Eindämmungsteam | Reaktionseinheit der Behörde |
+| **Delta** | Kritisch, über 10 Fuß Durchmesser | Notfallprotokoll | Meistermagier-Intervention |
+| **Omega** | Katastrophal, regionale Bedrohung | Evakuierung und Isolation | Mehrere Meistermagier |
 
-## Magical Mechanics Analysis
+## Magische Mechanik-Analyse
 
-Mana Blights provide key insights into magical theory through their abnormal properties:
+Mana-Seuchen liefern durch ihre abnormalen Eigenschaften wichtige Einblicke in die magische Theorie:
 
-### Mana Purification Inversion
+### Mana-Reinigungs-Inversion
 
-While normal magical beings convert Wild Mana into stable Base Mana, Blights demonstrate the reverse process:
+Während normale magische Wesen Wildes Mana in stabiles Basis-Mana umwandeln, demonstrieren Seuchen den umgekehrten Prozess:
 
-- **Purity Degradation**: Convert purified mana back to chaotic Wild Mana state
-- **Harmonic Disruption**: Create dissonant frequencies that interfere with stable resonance
-- **Pattern Corruption**: Introduce errors and instability into organized magical structures
+- **Reinheitsabbau**: Wandeln gereinigtes Mana zurück in den chaotischen Zustand von Wildem Mana
+- **Harmonische Störung**: Erzeugen dissonante Frequenzen, die stabile Resonanz stören
+- **Musterkorruption**: Führen Fehler und Instabilität in organisierte magische Strukturen ein
 
-### Phase Transition Impact
+### Phasentransitionsauswirkung
 
-Blights disrupt both phases of the standard mana conversion process:
+Seuchen stören beide Phasen des Standard-Mana-Umwandlungsprozesses:
 
-- **Phase 1 Interference**: Prevent efficient absorption and conversion of Wild Mana
-- **Phase 2 Corruption**: Destabilize Base Mana undergoing elemental specialization
+- **Phase-1-Interferenz**: Verhindern die effiziente Absorption und Umwandlung von Wildem Mana
+- **Phase-2-Korruption**: Destabilisieren Basis-Mana, das sich der elementaren Spezialisierung unterzieht
 
-### Resonance Manifestations
+### Resonanzmanifestationen
 
-The chaotic resonance patterns of Blights manifest in observable phenomena:
+Die chaotischen Resonanzmuster von Seuchen manifestieren sich in beobachtbaren Phänomenen:
 
-- **Visual Distortions**: Light bends unpredictably near Blight boundaries
-- **Auditory Anomalies**: Witnesses report discordant sounds at the edge of hearing
-- **Thermal Fluctuations**: Erratic temperature changes in the vicinity
-- **Temporal Inconsistencies**: Minor time flow variations within the contamination zone
+- **Visuelle Verzerrungen**: Licht beugt sich in der Nähe von Seuchen-Grenzen unvorhersehbar
+- **Auditive Anomalien**: Zeugen berichten von disharmonischen Geräuschen am Rande des Hörvermögens
+- **Thermische Schwankungen**: Unregelmäßige Temperaturschwankungen in der Umgebung
+- **Zeitliche Inkonsistenzen**: Geringfügige Zeitflussvariationen innerhalb der Kontaminationszone
 
-## Historical Incidents
+## Historische Vorfälle
 
-Several notable Mana Blight incidents have been documented:
+Mehrere bemerkenswerte Mana-Seuchen-Vorfälle wurden dokumentiert:
 
-- **The Azurefall Catastrophe**: Formation of a Delta-class Blight following an experimental teleportation ritual failure
-- **Westmarch Academy Incident**: Beta-class Blight containment breach resulting in the loss of an entire research wing
-- **Silverlake Anomaly**: Naturally occurring Gamma-class Blight from a ley line rupture, now a permanent research site
-- **Thornwood Corruption**: Ongoing Omega-class Blight that has transformed an entire forest into a magical dead zone
+- **Die Azurefall-Katastrophe**: Bildung einer Seuche der Delta-Klasse nach einem experimentellen Teleportationsritual-Fehlschlag
+- **Westmarch-Akademie-Vorfall**: Eindämmungsbruch einer Seuche der Beta-Klasse, der zum Verlust eines gesamten Forschungsflügels führte
+- **Silverlake-Anomalie**: Natürlich vorkommende Seuche der Gamma-Klasse durch einen Ley-Linien-Bruch, jetzt ein permanenter Forschungsstandort
+- **Thornwood-Korruption**: Laufende Seuche der Omega-Klasse, die einen ganzen Wald in eine magische Todeszone verwandelt hat
 
 ---
 
-> Understanding **Mana Blights** provides crucial insight into the dangers of uncontrolled magical energy and the importance of proper magical practice. As much as they are threats to be contained, they also serve as powerful reminders of magic's capacity for chaos when the fundamental principles of harmonious resonance are violated. 
+> Das Verständnis von **Mana-Seuchen** vermittelt entscheidende Einblicke in die Gefahren unkontrollierter magischer Energie und die Bedeutung einer ordnungsgemäßen magischen Praxis. So sehr sie auch Bedrohungen sind, die es einzudämmen gilt, dienen sie auch als eindringliche Erinnerung an die Fähigkeit der Magie zum Chaos, wenn die grundlegenden Prinzipien der harmonischen Resonanz verletzt werden.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,151 +1,155 @@
-# **The School of Divination**
+# **Die Schule der Divination**
 
-> *"To see beyond sight is to understand that time and space are but suggestions to those who know how to listen."*  
-> — Archmage Thalindra Starwhisper, Oracle of the Seventh Veil
+> *"Über das Sehen hinauszusehen bedeutet zu verstehen, dass Zeit und Raum nur Vorschläge für diejenigen sind, die wissen, wie man zuhört."*
+> — Erzmagierin Thalindra Sternenflüsterin, Orakel des Siebten Schleiers
 
-## Overview
+## Übersicht
 
-Divination magic focuses on gaining insight, knowledge, and understanding beyond ordinary perception. Unlike illusion magic which creates false perceptions, divination enhances and extends perception to reveal hidden truths about the past, present, and possible futures. Divination is considered one of the most subtle and complex magical arts, requiring exceptional mana control and mental discipline.
+Divinationsmagie konzentriert sich darauf, Einsichten, Wissen und Verständnis jenseits der gewöhnlichen Wahrnehmung zu erlangen. Im Gegensatz zur Illusionsmagie, die falsche Wahrnehmungen erzeugt, erweitert und vertieft die Divination die Wahrnehmung, um verborgene Wahrheiten über die Vergangenheit, die Gegenwart und mögliche Zukünfte zu enthüllen. Divination gilt als eine der subtilsten und komplexesten magischen Künste, die außergewöhnliche Manakontrolle und mentale Disziplin erfordert.
 
-## Fundamental Principles
+## Grundprinzipien
 
-### The Threads of Fate
+### Die Fäden des Schicksals
 
-Divination operates on the principle that all events, objects, and beings are connected by invisible threads of causality and resonance. These "Threads of Fate" contain information about their connections, origins, and potential futures. Divination magic allows practitioners to perceive and interpret these threads.
+Divination basiert auf dem Prinzip, dass alle Ereignisse, Objekte und Wesen durch unsichtbare Fäden der Kausalität und Resonanz miteinander verbunden sind. Diese "Fäden des Schicksals" enthalten Informationen über ihre Verbindungen, Ursprünge und potenziellen Zukünfte. Divinationsmagie ermöglicht es Praktizierenden, diese Fäden wahrzunehmen und zu interpretieren.
 
-The four fundamental aspects of divinatory perception are:
+Die vier grundlegenden Aspekte der divinatorischen Wahrnehmung sind:
 
-1. **Temporal Echoes**: Residual information from past events
-2. **Spatial Connections**: Links between related objects, places, and beings
-3. **Causal Patterns**: The web of cause and effect that shapes events
-4. **Potential Futures**: Probability streams of what may come to pass
+1. **Zeitliche Echos**: Restinformationen aus vergangenen Ereignissen
+2. **Räumliche Verbindungen**: Verbindungen zwischen verwandten Objekten, Orten und Wesen
+3. **Kausale Muster**: Das Netz von Ursache und Wirkung, das Ereignisse formt
+4. **Potenzielle Zukünfte**: Wahrscheinlichkeitsströme dessen, was geschehen mag
 
-### Mana Requirements
+### Mana-Anforderungen
 
-Divination magic requires precise mana composition:
+Divinationsmagie erfordert eine präzise Manazusammensetzung:
 
-| Divinatory Focus | Primary Mana | Secondary Mana | Purpose |
-|------------------|-------------|----------------|---------|
-| Present Sensing | Base Mana (50-70%) | Varies by target | Foundation for perception extension |
-| Past Viewing | Chronomana (40-60%) | Base Mana (30-40%) | Accessing temporal echoes |
-| Future Glimpsing | Chronomana (60-80%) | Umbramana (10-20%) | Probability stream navigation |
-| Object Reading | Base Mana (40-60%) | Terramana (30-40%) | Material memory extraction |
-| Life Reading | Base Mana (30-50%) | Floramana/Faunamana (40-50%) | Biological connection tracing |
-| Distant Viewing | Aeromana (50-70%) | Base Mana (20-30%) | Spatial perception extension |
+| Divinatorischer Fokus | Primäres Mana | Sekundäres Mana | Zweck |
+|-----------------------|--------------|-----------------|---------|
+| Gegenwärtiges Spüren | Basis-Mana (50-70%) | Variiert je nach Ziel | Grundlage für Wahrnehmungserweiterung |
+| Vergangenes Sehen | Chronomana (40-60%) | Basis-Mana (30-40%) | Zugriff auf zeitliche Echos |
+| Zukünftiges Erblicken | Chronomana (60-80%) | Umbramana (10-20%) | Navigation durch Wahrscheinlichkeitsströme |
+| Objektlesen | Basis-Mana (40-60%) | Terramana (30-40%) | Materielle Gedächtnisextraktion |
+| Lebenslesen | Basis-Mana (30-50%) | Floramana/Faunamana (40-50%) | Biologische Verbindungsverfolgung |
+| Fernsicht | Aeromana (50-70%) | Basis-Mana (20-30%) | Räumliche Wahrnehmungserweiterung |
 
-More powerful divination spells often require complex harmonization of multiple mana types, with precise ratios that must be maintained throughout the casting process.
+Mächtigere Divinationszauber erfordern oft eine komplexe Harmonisierung mehrerer Manaarten mit präzisen Verhältnissen, die während des gesamten Zauberwirkprozesses aufrechterhalten werden müssen.
 
-### Wild Mana Interference
+### Wild-Mana-Interferenz
 
-Divination is extraordinarily vulnerable to Wild Mana contamination. The unpatterned nature of Wild Mana creates "false threads" that can lead to inaccurate readings or dangerous misinterpretations. Effects include:
+Divination ist außerordentlich anfällig für Wild-Mana-Kontamination. Die unstrukturierte Natur von Wild-Mana erzeugt "falsche Fäden", die zu ungenauen Lesungen oder gefährlichen Fehlinterpretationen führen können. Zu den Auswirkungen gehören:
 
-- **Temporal Distortion**: Viewing events from incorrect time periods
-- **False Positives**: Seeing connections that don't actually exist
-- **Probability Cascade**: Overwhelming the caster with multiple conflicting futures
-- **Perceptual Anchoring**: The caster becoming trapped in a divinatory vision
+- **Zeitliche Verzerrung**: Ereignisse aus falschen Zeitperioden betrachten
+- **Falsch Positive**: Verbindungen sehen, die in Wirklichkeit nicht existieren
+- **Wahrscheinlichkeitskaskade**: Den Zauberer mit mehreren widersprüchlichen Zukünften überwältigen
+- **Wahrnehmungsankerung**: Der Zauberer gerät in einer divinatorischen Vision gefangen
 
-Advanced practitioners develop specialized Wild Mana filtering techniques to minimize these risks.
+Fortgeschrittene Praktizierende entwickeln spezielle Wild-Mana-Filtertechniken, um diese Risiken zu minimieren.
 
-## Mana Purification for Divination
+## Mana-Reinigung für Divination
 
-Divination requires exceptionally high mana purity due to the subtle nature of the information being accessed. The purification process focuses on achieving "Perceptual Clarity" - a state where the mana is refined to eliminate any elements that would create false perceptions.
+Divination erfordert eine außergewöhnlich hohe Mana-Reinheit aufgrund der subtilen Natur der Informationen, auf die zugegriffen wird. Der Reinigungsprozess konzentriert sich auf das Erreichen von "Wahrnehmungsklarheit" - einem Zustand, in dem das Mana verfeinert wird, um alle Elemente zu eliminieren, die falsche Wahrnehmungen erzeugen würden.
 
-| Purification Level | Divination Capability |
-|--------------------|----------------------|
-| Basic (20-30%) | Simple object reading and magical detection |
-| Intermediate (35-50%) | Short-range scrying and basic past viewing |
-| Advanced (55-70%) | Reliable future glimpsing and detailed past viewing |
-| Master (75-85%) | Long-range viewing with high accuracy and clarity |
-| Grandmaster (90%+) | Multi-temporal perception and probability manipulation |
+| Reinigungsgrad | Divinationsfähigkeit |
+|-------------------|-----------------------|
+| Basic (20-30%) | Einfaches Objektlesen und magische Erkennung |
+| Intermediate (35-50%) | Kurzstrecken-Scrying und einfaches Vergangenheitssehen |
+| Advanced (55-70%) | Zuverlässiges Zukunftsblicken und detailliertes Vergangenheitssehen |
+| Master (75-85%) | Langstreckenblick mit hoher Genauigkeit und Klarheit |
+| Grandmaster (90%+) | Multi-temporale Wahrnehmung und Wahrscheinlichkeitsmanipulation |
 
-## Magical Resonance in Divination
+## Magische Resonanz in der Divination
 
-Divination exhibits unique resonance patterns described as "harmonic perception" - where the mana pattern synchronizes with the information being sought, allowing it to be perceived and interpreted by the caster.
+Divination zeigt einzigartige Resonanzmuster, die als "harmonische Wahrnehmung" beschrieben werden - wobei das Mana-Muster mit den gesuchten Informationen synchronisiert wird, so dass es vom Zauberer wahrgenommen und interpretiert werden kann.
 
-This resonance is highly personal, which is why divination results can vary between practitioners even when viewing the same target. Each diviner develops a unique "perceptual signature" that colors their interpretation of divinatory information.
+Diese Resonanz ist sehr persönlich, weshalb die Ergebnisse der Divination zwischen den Praktizierenden variieren können, selbst wenn sie dasselbe Ziel betrachten. Jeder Divinator entwickelt eine einzigartige "Wahrnehmungssignatur", die seine Interpretation der divinatorischen Informationen prägt.
 
-## Specialized Disciplines
+## Spezialisierte Disziplinen
 
-### Chronomancy
+### Chronomantie
 
-Focused on viewing events across time, particularly the past and possible futures. Practitioners are known as Chronoseers.
+Konzentriert sich auf die Betrachtung von Ereignissen im Laufe der Zeit, insbesondere der Vergangenheit und möglicher Zukünfte. Praktizierende werden als Chronoseher bezeichnet.
 
-### Psychometry
+### Psychometrie
 
-The art of reading objects to perceive information about their history, owners, and significance. Masters are called Memoryreaders.
+Die Kunst, Objekte zu lesen, um Informationen über ihre Geschichte, Besitzer und Bedeutung wahrzunehmen. Meister werden Gedächtnisleser genannt.
 
-### Spatial Scrying
+### Räumliches Scrying
 
-Specializes in viewing distant locations in the present moment. Practitioners are known as Farseers.
+Spezialisiert sich auf die Betrachtung entfernter Orte im gegenwärtigen Moment. Praktizierende werden als Fernseher bezeichnet.
 
-### Auramancy
+### Auramantie
 
-The discipline of perceiving and interpreting the magical and life energies that surround beings. Practitioners are called Aurasights.
+Die Disziplin der Wahrnehmung und Interpretation der magischen und Lebensenergien, die Wesen umgeben. Praktizierende werden Aurasichter genannt.
 
-### Probability Mapping
+### Wahrscheinlichkeitskartierung
 
-Advanced discipline focused on identifying and navigating potential futures. Masters are known as Fateweavers.
+Fortgeschrittene Disziplin, die sich auf die Identifizierung und Navigation potenzieller Zukünfte konzentriert. Meister werden Schicksalsweber genannt.
 
-## Training Methodology
+## Trainingsmethodik
 
-Divination training follows a methodical progression:
+Das Divinationstraining folgt einer methodischen Progression:
 
-1. **Perceptual Expansion**: Learning to extend awareness beyond physical senses
-2. **Signal Isolation**: Developing the ability to focus on specific information threads
-3. **Wild Mana Filtering**: Techniques for eliminating perceptual contamination
-4. **Temporal Navigation**: Methods for shifting perceptual focus through time
-5. **Interpretation Rigor**: Developing systematic approaches to analyzing divinatory information
-6. **Multi-Threading**: Advanced techniques for following multiple information streams
-7. **Anchoring Practices**: Methods to maintain connection to present reality during deep divination
+1. **Wahrnehmungserweiterung**: Lernen, das Bewusstsein über die physischen Sinne hinaus auszudehnen
+2. **Signal Isolation**: Entwicklung der Fähigkeit, sich auf bestimmte Informationsfäden zu konzentrieren
+3. **Wild Mana Filtering**: Techniken zur Beseitigung von Wahrnehmungskontamination
+4. **Temporal Navigation**: Methoden zur Verlagerung des Wahrnehmungsfokus durch die Zeit
+5. **Interpretation Rigor**: Entwicklung systematischer Ansätze zur Analyse divinatorischer Informationen
+6. **Multi-Threading**: Fortgeschrittene Techniken zum Verfolgen mehrerer Informationsströme
+7. **Anchoring Practices**: Methoden zur Aufrechterhaltung der Verbindung zur gegenwärtigen Realität während der tiefen Divination
 
-## Ethical Considerations
+## Ethische Überlegungen
 
-Divination raises significant ethical concerns regarding privacy, free will, and responsibility:
+Divination wirft erhebliche ethische Bedenken hinsichtlich Privatsphäre, freiem Willen und Verantwortung auf:
 
-- **Perceptual Consent**: The question of whether viewing others without permission violates their autonomy
-- **Future Knowledge**: The ethical implications of acting on knowledge of potential futures
-- **Intervention Responsibility**: Whether diviners have an obligation to prevent foreseen harms
-- **Truth Disclosure**: Guidelines about sharing potentially harmful divinatory information
+- **Perceptual Consent**: Die Frage, ob das Betrachten anderer ohne Erlaubnis deren Autonomie verletzt
+- **Future Knowledge**: Die ethischen Implikationen des Handelns auf der Grundlage von Kenntnissen potenzieller Zukünfte
+- **Intervention Responsibility**: Ob Divinatoren eine Verpflichtung haben, vorhergesehenen Schäden vorzubeugen
+- **Truth Disclosure**: Richtlinien für die Weitergabe potenziell schädlicher divinatorischer Informationen
 
-Most reputable magical institutions enforce strict codes of conduct for diviners, including restrictions on divining private moments and requirements to report certain categories of foreseen threats.
+Die meisten angesehenen magischen Institutionen setzen strenge Verhaltensregeln für Divinatoren durch, einschließlich Beschränkungen für die Divination privater Momente und der Verpflichtung, bestimmte Kategorien vorhergesehener Bedrohungen zu melden.
 
-## Limitations and Countermeasures
+## Einschränkungen und Gegenmaßnahmen
 
-Despite its power, divination has inherent limitations:
+Trotz ihrer Macht hat Divination inhärente Einschränkungen:
 
-- **Probability Flux**: Future events exist as probability streams that can shift based on choices
-- **Perceptual Filters**: The diviner's own biases can affect interpretation
-- **Energy Requirements**: Powerful divination requires significant mana and mental focus
-- **Temporal Distance**: Greater temporal or spatial distance increases difficulty and reduces accuracy
+- **Probability Flux**: Zukünftige Ereignisse existieren als Wahrscheinlichkeitsströme, die sich je nach Wahl verschieben können
+- **Perceptual Filters**: Die eigenen Vorurteile des Divinators können die Interpretation beeinflussen
+- **Energy Requirements**: Mächtige Divination erfordert erhebliches Mana und mentale Konzentration
+- **Temporal Distance**: Größere zeitliche oder räumliche Entfernung erhöht die Schwierigkeit und verringert die Genauigkeit
 
-Common countermeasures against unwanted divination include:
+Zu den üblichen Gegenmaßnahmen gegen unerwünschte Divination gehören:
 
-- **Veiling**: Spells that obscure objects or beings from divinatory perception
-- **Thread Severing**: Techniques that break connections that diviners might follow
-- **Pattern Disruption**: Methods that create confusing or misleading information patterns
-- **Wild Mana Saturation**: Creating local concentrations of Wild Mana to introduce false signals
+- **Veiling**: Zauber, die Objekte oder Wesen vor divinatorischer Wahrnehmung verbergen
+- **Thread Severing**: Techniken, die Verbindungen unterbrechen, denen Divinatoren folgen könnten
+- **Pattern Disruption**: Methoden, die verwirrende oder irreführende Informationsmuster erzeugen
+- **Wild Mana Saturation**: Erzeugung lokaler Konzentrationen von Wild Mana, um falsche Signale einzuführen
 
-## Musical Analogy
+## Musikalische Analogie
 
-In the musical framework of magic, divination is akin to active listening - the art of discerning specific instruments, harmonies, and melodies within a complex orchestration. The diviner must tune their perception to the specific "frequency" of the information they seek, filtering out background noise.
+Im musikalischen Rahmen der Magie ist Divination mit aktivem Zuhören vergleichbar - der Kunst, bestimmte Instrumente, Harmonien und Melodien innerhalb einer komplexen Orchestrierung zu erkennen. Der Divinator muss seine Wahrnehmung auf die spezifische "Frequenz" der Informationen abstimmen, die er sucht, und dabei Hintergrundgeräusche ausblenden.
 
-Master diviners describe their craft as finding the silent spaces between notes, where the future and past whisper their secrets. Like a conductor who can hear a single out-of-tune instrument in a full orchestra, the skilled diviner can identify the specific thread of information they seek amidst the countless connections that bind reality together.
+Meisterdivinatoren beschreiben ihr Handwerk als das Finden der stillen Räume zwischen den Noten, in denen die Zukunft und die Vergangenheit ihre Geheimnisse flüstern. Wie ein Dirigent, der ein einzelnes verstimmtes Instrument in einem vollen Orchester hören kann, kann der geschickte Divinator den spezifischen Informationsfaden, den er sucht, inmitten der unzähligen Verbindungen identifizieren, die die Realität zusammenhalten.
 
-## Notable Practitioners
+## Bemerkenswerte Praktizierende
 
-- **Thalindra Starwhisper**: Developer of the Stellar Divination system and author of "Voices Beyond Time"
-- **Eldrin Truthseeker**: Creator of the Magic Sense spell and pioneer of magical energy detection
-- **Sylarion Fatecaller**: Master of Probability Mapping who accurately predicted the Fall of Caelum
-- **Moira Veilwalker**: Renowned for developing Wild Mana filtering techniques for divination
+- **Thalindra Sternenflüsterin**: Entwicklerin des Stellar Divination-Systems und Autorin von "Stimmen jenseits der Zeit"
+- **Eldrin Wahrheitssucher**: Schöpfer des Zaubers Magic Sense und Pionier der magischen Energieerkennung
+- **Sylarion Schicksalsrufer**: Meister der Wahrscheinlichkeitskartierung, der den Fall von Caelum genau vorhersagte
+- **Moira Schleierwandlerin**: Bekannt für die Entwicklung von Wild-Mana-Filtertechniken für die Divination
 
-## Historical Development
+## Historische Entwicklung
 
-Divination is one of the oldest magical disciplines, with evidence of formalized practice dating to the First Age. Early divination focused primarily on weather prediction, hunting success, and tribal fate, developing from shamanic traditions.
+Divination ist eine der ältesten magischen Disziplinen, wobei es Beweise für eine formalisierte Praxis gibt, die bis in das Erste Zeitalter zurückreicht. Die frühe Divination konzentrierte sich hauptsächlich auf Wettervorhersagen, Jagderfolge und Stammesgeschicke und entwickelte sich aus schamanischen Traditionen.
 
-The Second Age saw the emergence of systematic divination theory with the writing of "The Threads That Bind" by Archseer Elindor. This established the fundamental conceptual framework still used in modern practice.
+Das Zweite Zeitalter erlebte die Entstehung der systematischen Divinationstheorie mit dem Schreiben von "Die Fäden, die verbinden" durch Erzseher Elindor. Damit wurde der grundlegende konzeptionelle Rahmen festgelegt, der auch in der modernen Praxis verwendet wird.
 
-The Third Age brought technological and theoretical advances, particularly in the area of Wild Mana filtering and probability navigation. Modern divination continues to evolve, with increasing integration with other magical disciplines such as enchantment and warding.
+Das Dritte Zeitalter brachte technologische und theoretische Fortschritte, insbesondere im Bereich der Wild-Mana-Filterung und Wahrscheinlichkeitsnavigation. Die moderne Divination entwickelt sich ständig weiter und wird zunehmend in andere magische Disziplinen wie Verzauberung und Abwehr integriert.
 
 ---
 
-*See also: [Magic Sense](/codex/Magics/Spells/Divination/MagicSense.md), [Temporal Magic](/codex/Magics/Domains/Temporal.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*Siehe auch: [Magic Sense](/codex/Magics/Spells/Divination/MagicSense.md), [Temporal Magic](/codex/Magics/Domains/Temporal.md), [Mana Purification](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

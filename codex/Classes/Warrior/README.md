@@ -1,83 +1,87 @@
-# Warrior Class
+# Kriegerklasse
 
-> *"A warrior's strength lies not only in their arm, but in their resolve to stand when others fall."*
+> *"Die Stärke eines Kriegers liegt nicht nur in seinem Arm, sondern in seiner Entschlossenheit, zu stehen, wenn andere fallen."*
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Warrior](#playing-a-warrior)
-- [Notable Traits](#notable-traits)
+- [Überblick](#überblick)
+- [Klassenzusammensetzung](#klassenzusammensetzung)
+- [Unterklassen](#unterklassen)
+- [Einen Krieger spielen](#einen-krieger-spielen)
+- [Bemerkenswerte Eigenschaften](#bemerkenswerte-eigenschaften)
 
-## Overview
+## Überblick
 
-Warriors are masters of physical combat, channeling their exceptional **Exanthis** to perform feats of strength and martial prowess. Like a powerful drum driving the rhythm of battle, they provide the foundation upon which armies are built and legends are forged.
+Krieger sind Meister des physischen Kampfes und kanalisieren ihr außergewöhnliches **Exanthis**, um Stärke und Kampfgeschick zu demonstrieren. Wie eine kraftvolle Trommel, die den Rhythmus der Schlacht antreibt, bilden sie das Fundament, auf dem Armeen aufgebaut und Legenden geschmiedet werden.
 
-## Class Composition
+## Klassenzusammensetzung
 
-| Element | Typical Range | Function |
+| Element | Typischer Bereich | Funktion |
 |---------|---------------|----------|
-| **Exanthis** | 50-70% | Physical prowess with exceptional strength and durability |
-| **Soul** | 20-40% | Consciousness that enables tactical thinking and willpower |
-| **Mana Capacity** | 5-15% | Limited magical potential but sufficient for combat enhancements |
+| **Exanthis** | 50-70% | Physische Stärke mit außergewöhnlicher Kraft und Haltbarkeit |
+| **Seele** | 20-40% | Bewusstsein, das taktisches Denken und Willenskraft ermöglicht |
+| **Manakapazität** | 5-15% | Begrenztes magisches Potenzial, aber ausreichend für Kampferweiterungen |
 
-This elemental balance grants warriors their characteristic physical might while limiting their magical capabilities.
+Dieses Elementgleichgewicht verleiht Kriegern ihre charakteristische physische Macht und schränkt gleichzeitig ihre magischen Fähigkeiten ein.
 
-## Subclasses
+## Unterklassen
 
-Warriors can specialize in several distinct combat disciplines:
+Krieger können sich auf verschiedene Kampfdisziplinen spezialisieren:
 
-| Subclass | Focus | Specialty |
+| Unterklasse | Fokus | Spezialität |
 |----------|-------|-----------|
-| [**Guardian**](Guardian.md) | Defense | Protecting allies and controlling battlefield space |
-| [**Berserker**](Berserker.md) | Offensive fury | Channeling rage into devastating attacks |
-| [**Duelist**](Duelist.md) | Precision combat | Excelling in one-on-one engagements |
-| [**Commander**](Commander.md) | Leadership | Coordinating allies for maximum effectiveness |
-| [**Weaponmaster**](Weaponmaster.md) | Versatility | Mastering multiple weapons and combat styles |
+| [**Wächter**](Guardian.md) | Verteidigung | Verbündete schützen und Schlachtfeldraum kontrollieren |
+| [**Berserker**](Berserker.md) | Offensive Wut | Wut in verheerende Angriffe kanalisieren |
+| [**Duelist**](Duelist.md) | Präzisionskampf | Hervorragend in Eins-gegen-Eins-Kämpfen |
+| [**Kommandant**](Commander.md) | Führung | Verbündete für maximale Effektivität koordinieren |
+| [**Waffenmeister**](Weaponmaster.md) | Vielseitigkeit | Beherrschung mehrerer Waffen und Kampfstile |
 
-## Playing a Warrior
+## Einen Krieger spielen
 
-### Core Abilities
+### Kernfähigkeiten
 
-- **Weapon Proficiency**: Expertise with a wide range of armaments
-- **Combat Endurance**: Exceptional stamina in prolonged battles
-- **Tactical Awareness**: Understanding battlefield positioning and advantage
-- **Physical Resilience**: Resistance to injury and fatigue
+- **Waffenfertigkeit**: Expertise mit einer breiten Palette von Waffen
+- **Kampfausdauer**: Außergewöhnliche Ausdauer in längeren Schlachten
+- **Taktisches Bewusstsein**: Verständnis für Schlachtfeldpositionierung und Vorteile
+- **Physische Belastbarkeit**: Widerstandsfähigkeit gegen Verletzungen und Ermüdung
 
-### Common Equipment
+### Übliche Ausrüstung
 
-- **Weapons**: Diverse armaments from swords and axes to bows and spears
-- **Armor**: Protective gear ranging from light to heavy plating
-- **Shields**: Defensive implements for blocking and controlling space
-- **Battle Accessories**: Bracers, greaves, and other protective items
+- **Waffen**: Vielfältige Waffen von Schwertern und Äxten bis hin zu Bögen und Speeren
+- **Rüstung**: Schutzkleidung von leichter bis schwerer Panzerung
+- **Schilde**: Defensive Instrumente zum Blocken und Kontrollieren von Raum
+- **Kampfaccessoires**: Armschienen, Beinschienen und andere Schutzelemente
 
-### Species Affinities
+### Speziesaffinitäten
 
-| Species | Affinity | Notable Traits |
+| Spezies | Affinität | Bemerkenswerte Eigenschaften |
 |---------|----------|----------------|
-| **Humans** | High | Adaptable combat styles, balanced capabilities |
-| **Dwarves** | Very High | Natural durability, exceptional strength |
-| **Dragonkin** | High | Natural armor, heightened battle instincts |
-| **Beastfolk** | Moderate-High | Enhanced reflexes, natural weapon affinity |
-| **Elves** | Moderate | Precision and grace rather than raw power |
+| **Menschen** | Hoch | Anpassungsfähige Kampfstile, ausgeglichene Fähigkeiten |
+| **Zwerge** | Sehr Hoch | Natürliche Haltbarkeit, außergewöhnliche Stärke |
+| **Drachenblütige** | Hoch | Natürliche Rüstung, erhöhte Kampflust |
+| **Tiermenschen** | Mittel-Hoch | Verbesserte Reflexe, natürliche Waffenaffinität |
+| **Elfen** | Mittel | Präzision und Anmut anstelle von roher Kraft |
 
-## Notable Traits
+## Bemerkenswerte Eigenschaften
 
-### Strengths
+### Stärken
 
-- Unmatched physical combat capabilities
-- High endurance and survivability in difficult conditions
-- Ability to protect allies from physical threats
-- Effectiveness against a wide range of opponents
+- Unübertroffene physische Kampffähigkeiten
+- Hohe Ausdauer und Überlebensfähigkeit unter schwierigen Bedingungen
+- Fähigkeit, Verbündete vor physischen Bedrohungen zu schützen
+- Wirksamkeit gegen eine breite Palette von Gegnern
 
-### Challenges
+### Herausforderungen
 
-- Limited magical capabilities and countermeasures
-- Vulnerability to enchantments and illusions
-- Reliance on physical resources and equipment
-- Difficulty facing enemies that cannot be harmed by conventional weapons
+- Begrenzte magische Fähigkeiten und Gegenmaßnahmen
+- Anfälligkeit für Verzauberungen und Illusionen
+- Abhängigkeit von physischen Ressourcen und Ausrüstung
+- Schwierigkeiten bei der Konfrontation mit Feinden, die nicht durch konventionelle Waffen verletzt werden können
 
 ---
 
-> See [Warrior.md](Warrior.md) for detailed information about the warrior class in OpenFantasy. 
+> Siehe [Warrior.md](Warrior.md) für detaillierte Informationen über die Kriegerklasse in OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

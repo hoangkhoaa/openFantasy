@@ -1,104 +1,108 @@
-# **Arcane Shield**
+# **Arkaner Schild**
 
-A fundamental defensive spell that creates a barrier of magical energy to protect the caster from physical and magical harm. This versatile protection serves as the foundation for most defensive magical techniques.
+Ein grundlegender defensiver Zauber, der eine Barriere aus magischer Energie erschafft, um den Zaubernden vor physischem und magischem Schaden zu schützen. Dieser vielseitige Schutz dient als Grundlage für die meisten defensiven magischen Techniken.
 
-## Casting Information
+## Informationen zum Wirken
 
-| Aspect | Details |
+| Aspekt | Details |
 |--------|---------|
-| **Difficulty** | Novice to Adept (scales with shield strength) |
-| **Casting Time** | 1-3 seconds |
-| **Duration** | Concentration (up to 10 minutes for novices, 1 hour for adepts) |
-| **Range** | Self (bubble extends 1-3 feet from caster) |
-| **Components** | Somatic (circular gesture), Verbal (short incantation) |
+| **Schwierigkeitsgrad** | Anfänger bis Experte (skaliert mit der Schildstärke) |
+| **Zauberzeit** | 1-3 Sekunden |
+| **Dauer** | Konzentration (bis zu 10 Minuten für Anfänger, 1 Stunde für Experten) |
+| **Reichweite** | Selbst (Blase erstreckt sich 30-90 cm vom Zaubernden) |
+| **Komponenten** | Somatisch (kreisförmige Geste), Verbal (kurze Beschwörung) |
 
-## Technical Details
+## Technische Details
 
-| Aspect | Details |
+| Aspekt | Details |
 |--------|---------|
-| **Mana Type** | Base Mana (70%), Terramana (20%), Luxmana (10%) |
-| **Purity Required** | Basic (20-35%) for novice version, Refined (40-60%) for adept version |
-| **Pattern Complexity** | Moderate (5 elements) |
-| **Resonance Frequency** | Protection/Boundary spectrum |
-| **Minimum Mana Capacity** | 25% for novice version, 40% for adept version |
+| **Mana-Typ** | Basismana (70%), Terramana (20%), Luxmana (10%) |
+| **Reinheit Erforderlich** | Basic (20-35%) für Anfängerversion, Raffiniert (40-60%) für Expertenversion |
+| **Musterkomplexität** | Mäßig (5 Elemente) |
+| **Resonanzfrequenz** | Schutz/Grenze Spektrum |
+| **Minimale Manakapazität** | 25% für Anfängerversion, 40% für Expertenversion |
 
-## Pattern Structure
+## Musterstruktur
 
-The Arcane Shield pattern consists of five primary elements:
-1. **Boundary Ring**: Defines the shield's perimeter and overall shape
-2. **Energy Matrix**: Distributes magical force evenly throughout the shield
-3. **Deflection Array**: Angles the shield's surface to divert incoming force
-4. **Filtration Web**: Selectively allows certain energies to pass through
-5. **Anchor Points**: Connects the shield to the caster's personal energy
+Das Arkane Schildmuster besteht aus fünf Hauptelementen:
+1. **Grenzenring**: Definiert den Umfang und die Gesamtform des Schildes
+2. **Energiematrix**: Verteilt die magische Kraft gleichmäßig im gesamten Schild
+3. **Ablenkungsanordnung**: Winkelt die Oberfläche des Schildes an, um eingehende Kraft abzuleiten
+4. **Filtrationsnetz**: Lässt selektiv bestimmte Energien durch
+5. **Ankerpunkte**: Verbindet den Schild mit der persönlichen Energie des Zaubernden
 
-These elements form a spherical pattern that surrounds the caster in a protective bubble.
+Diese Elemente bilden ein sphärisches Muster, das den Zaubernden in einer schützenden Blase umgibt.
 
-## Practical Effect
+## Praktischer Effekt
 
-When successfully cast, the spell:
-- Creates a translucent, slightly luminous barrier around the caster
-- Deflects minor physical projectiles and attacks
-- Reduces the impact of stronger physical forces
-- Dampens harmful magical effects directed at the caster
-- Maintains breathable atmosphere within the shield
+Wenn der Zauber erfolgreich gewirkt wird:
+- Erschafft eine durchscheinende, leicht leuchtende Barriere um den Zaubernden
+- Lenkt kleinere physische Projektile und Angriffe ab
+- Reduziert die Auswirkungen stärkerer physischer Kräfte
+- Dämpft schädliche magische Effekte, die auf den Zaubernden gerichtet sind
+- Erhält eine atembare Atmosphäre innerhalb des Schildes
 
-## Variations
+## Variationen
 
-- **Hardened Shield**: Emphasizes physical protection at the cost of magical defense
-- **Spell Ward**: Emphasizes magical protection at the cost of physical defense
-- **Shaped Shield**: Forms a flat barrier rather than a bubble (useful for specific situations)
-- **Chromatic Shield**: Specialized against a particular type of elemental energy (requires 40-50% purity)
-- **Silent Shield**: Cast without verbal components (Adept difficulty, requires 45-55% purity)
+- **Gehärteter Schild**: Betont den physischen Schutz auf Kosten der magischen Verteidigung
+- **Zauberbann**: Betont den magischen Schutz auf Kosten der physischen Verteidigung
+- **Geformter Schild**: Bildet eine flache Barriere anstelle einer Blase (nützlich für bestimmte Situationen)
+- **Chromatischer Schild**: Spezialisiert auf eine bestimmte Art von Elementarenergie (erfordert 40-50% Reinheit)
+- **Stiller Schild**: Wirkt ohne verbale Komponenten (Experten Schwierigkeitsgrad, erfordert 45-55% Reinheit)
 
-## Energy Consumption
+## Energieverbrauch
 
-The Arcane Shield requires ongoing mana expenditure to maintain:
-- **Passive Maintenance**: Low constant drain while the shield is inactive
-- **Impact Response**: Moderate to high drain when absorbing or deflecting attacks
-- **Specialized Defense**: Additional drain when filtering specific threat types
+Der Arkane Schild erfordert laufenden Manaaufwand zur Aufrechterhaltung:
+- **Passive Wartung**: Niedriger, konstanter Abfluss, während der Schild inaktiv ist
+- **Aufprallreaktion**: Mäßiger bis hoher Abfluss beim Absorbieren oder Ablenken von Angriffen
+- **Spezialisierte Verteidigung**: Zusätzlicher Abfluss beim Filtern bestimmter Bedrohungsarten
 
-Most novice casters can maintain a standard shield for approximately 10 minutes before experiencing significant magical fatigue.
+Die meisten Anfänger können einen Standardschild für etwa 10 Minuten aufrechterhalten, bevor sie erhebliche magische Erschöpfung verspüren.
 
-## Common Applications
+## Häufige Anwendungen
 
-- **Combat Defense**: Basic protection during magical or physical confrontations
-- **Environmental Protection**: Shielding from harsh weather, toxic atmospheres, or magical radiation
-- **Training Tool**: Learning advanced defensive principles and mana control
-- **Emergency Response**: Quick protection during unexpected dangers
-- **Magical Containment**: Preventing one's own magical experiments from affecting surroundings
+- **Kampfverteidigung**: Grundlegender Schutz bei magischen oder physischen Auseinandersetzungen
+- **Umweltschutz**: Schutz vor rauem Wetter, giftigen Atmosphären oder magischer Strahlung
+- **Trainingswerkzeug**: Erlernen fortgeschrittener defensiver Prinzipien und Manakontrolle
+- **Notfallreaktion**: Schneller Schutz bei unerwarteten Gefahren
+- **Magische Eindämmung**: Verhindern, dass die eigenen magischen Experimente die Umgebung beeinflussen
 
-## Risks and Miscast Effects
+## Risiken und Fehlwirkungs-Effekte
 
-- **Shield Collapse**: Unexpected failure under pressure, potentially causing magical backlash
-- **Permeability Flaws**: Formation of weak points that allow specific threats to penetrate
-- **Energy Drain**: Excessive mana consumption leading to faster than expected fatigue
-- **Feedback Loop**: Shield that reflects energy back toward the caster rather than away
-- **Attunement Lock**: Shield that becomes difficult to dismiss, trapping the caster temporarily
-- **Pattern Fracture**: Insufficient purity (below 15%) creates unstable shield that shatters upon impact
+- **Schildkollaps**: Unerwartetes Versagen unter Druck, das möglicherweise magische Rückwirkungen verursacht
+- **Permeabilitätsfehler**: Bildung von Schwachstellen, die es bestimmten Bedrohungen ermöglichen, einzudringen
+- **Energieentzug**: Übermäßiger Manaverbrauch, der zu schneller als erwarteter Erschöpfung führt
+- **Feedbackschleife**: Schild, der Energie eher zum Zaubernden zurück als weg reflektiert
+- **Abstimmungssperre**: Schild, der schwer aufzulösen ist und den Zaubernden vorübergehend einfängt
+- **Musterbruch**: Unzureichende Reinheit (unter 15%) erzeugt einen instabilen Schild, der beim Aufprall zerbricht
 
-## Purity Influence on Effect
+## Reinheitseinfluss auf den Effekt
 
-| Purity Level | Effect Enhancement |
+| Reinheitsgrad | Effektverbesserung |
 |--------------|---------------------|
-| 15-25% | Basic shield with minimal protection against physical and magical threats |
-| 25-35% | Standard novice shield with moderate durability and protection |
-| 35-50% | Enhanced shield with greater durability and selective filtering |
-| 50-65% | Advanced shield with precise control over permeability and extended duration |
-| 65%+ | Master-level shield with exceptional durability and specific threat adaptations |
+| 15-25% | Grundschild mit minimalem Schutz gegen physische und magische Bedrohungen |
+| 25-35% | Standard-Anfängerschild mit moderater Haltbarkeit und Schutz |
+| 35-50% | Verbesserter Schild mit größerer Haltbarkeit und selektiver Filterung |
+| 50-65% | Fortschrittlicher Schild mit präziser Kontrolle über die Permeabilität und verlängerter Dauer |
+| 65%+ | Schild auf Meisterebene mit außergewöhnlicher Haltbarkeit und spezifischen Bedrohungsanpassungen |
 
-## Musical Analogy
+## Musikalische Analogie
 
-Arcane Shield is like sustaining a consistent protective chord. The caster must maintain the proper "harmony" between the different elements of the shield pattern while adjusting "volume" (shield strength) according to incoming threats. Like a musician who must maintain a difficult note through changing conditions, the shield caster must preserve the integrity of their protective barrier despite distractions and attacks.
+Der Arkane Schild ist wie das Halten eines konsistenten schützenden Akkords. Der Zaubernde muss die richtige "Harmonie" zwischen den verschiedenen Elementen des Schildmusters aufrechterhalten und gleichzeitig die "Lautstärke" (Schildstärke) entsprechend den eingehenden Bedrohungen anpassen. Wie ein Musiker, der eine schwierige Note unter sich ändernden Bedingungen halten muss, muss der Schildzauberer die Integrität seiner Schutzbarriere trotz Ablenkungen und Angriffe bewahren.
 
-## Learning Progression
+## Lernprogression
 
-Most students master this spell through graduated challenges:
-1. **Formation**: Creating and holding the basic shield structure
-2. **Endurance**: Maintaining the shield for progressively longer periods
-3. **Stress Testing**: Defending against minor controlled attacks
-4. **Refinement**: Adjusting shield properties for specific situations
-5. **Integration**: Casting and maintaining the shield while performing other actions
+Die meisten Studenten meistern diesen Zauber durch abgestufte Herausforderungen:
+1. **Formation**: Erstellen und Halten der grundlegenden Schildstruktur
+2. **Ausdauer**: Aufrechterhalten des Schildes über immer längere Zeiträume
+3. **Belastungstest**: Verteidigung gegen kleinere, kontrollierte Angriffe
+4. **Verfeinerung**: Anpassen der Schildeigenschaften für bestimmte Situationen
+5. **Integration**: Wirken und Aufrechterhalten des Schildes während der Ausführung anderer Aktionen
 
-## Historical Note
+## Historische Notiz
 
-The Arcane Shield is one of the oldest documented spells, with evidence of its use dating back to the First Era of magical development. Its original creator is unknown, but magical historians believe it evolved simultaneously across multiple cultures as a natural response to the dangers of early, unstable spellcasting. Despite countless attempts to improve or replace it with more complex defensive magic, the Arcane Shield's elegant efficiency and low mana requirements have kept it in active use for millennia. As the saying goes among battle mages: "Master your shield before you forge your sword." 
+Der Arkane Schild ist einer der ältesten dokumentierten Zauber, mit Beweisen für seine Verwendung, die bis in die Erste Ära der magischen Entwicklung zurückreichen. Sein ursprünglicher Schöpfer ist unbekannt, aber magische Historiker glauben, dass er sich gleichzeitig in mehreren Kulturen als natürliche Reaktion auf die Gefahren des frühen, instabilen Zauberns entwickelt hat. Trotz unzähliger Versuche, ihn zu verbessern oder durch komplexere defensive Magie zu ersetzen, haben die elegante Effizienz und der geringe Mana-Bedarf des Arkanen Schildes ihn seit Jahrtausenden in aktivem Gebrauch gehalten. Wie das Sprichwort unter den Kampfmagiern sagt: "Meistere deinen Schild, bevor du dein Schwert schmiedest."
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

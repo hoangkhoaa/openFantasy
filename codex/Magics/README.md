@@ -1,174 +1,178 @@
-# **OpenFantasy Magic System**
+# **OpenFantasy Magiesystem**
 
-## Directory Structure
+## Verzeichnisstruktur
 
 ```
 codex/Magics/
-├── Core/                            # Fundamental magic concepts
-│   ├── Magic.md                     # Overview of magic system
-│   ├── MagicCasting.md              # The practical art of magical manipulation
-│   ├── ManaMechanics.md             # Technical details of mana function
-│   ├── ManaPurity.md                # Mana quality and purification
-│   ├── ManaRegeneration.md          # Recovery of magical potential
-│   └── WildMana.md                  # Primordial magical energy
+├── Core/                            # Fundamentale magische Konzepte
+│   ├── Magic.md                     # Überblick über das Magiesystem
+│   ├── MagicCasting.md              # Die praktische Kunst der magischen Manipulation
+│   ├── ManaMechanics.md             # Technische Details der Manafunktion
+│   ├── ManaPurity.md                # Manaqualität und -reinigung
+│   ├── ManaRegeneration.md          # Wiederherstellung des magischen Potenzials
+│   └── WildMana.md                  # Ursprüngliche magische Energie
 │
-├── Effects/                         # Impact and consequences
-│   ├── WildManaEffects.md           # Dangers of Wild Mana exposure
-│   ├── EnhancementBuffs.md          # Amplifiers of magical potential
-│   └── ElementalEffects.md          # Elemental magic consequences
+├── Effects/                         # Auswirkungen und Konsequenzen
+│   ├── WildManaEffects.md          # Gefahren der Wild Mana-Exposition
+│   ├── EnhancementBuffs.md          # Verstärker des magischen Potenzials
+│   └── ElementalEffects.md          # Konsequenzen elementarer Magie
 │
-├── Schools/                         # Major magical disciplines
-│   ├── Evocation.md                 # Channeling energy for direct effects
-│   ├── Abjuration.md                # Protective and warding magic
-│   ├── Divination.md                # Information gathering and foresight
-│   ├── Enchantment.md               # Influencing minds and enhancing objects
-│   ├── Illusion.md                  # Manipulating perception
-│   └── Conjuration.md               # Creating and summoning
+├── Schools/                         # Hauptmagische Disziplinen
+│   ├── Evocation.md                 # Kanalisieren von Energie für direkte Effekte
+│   ├── Abjuration.md                 # Schützende und abwehrende Magie
+│   ├── Divination.md                 # Informationssammlung und Voraussicht
+│   ├── Enchantment.md                # Beeinflussung von Geistern und Verbesserung von Objekten
+│   ├── Illusion.md                  # Manipulation der Wahrnehmung
+│   └── Conjuration.md                # Erschaffung und Beschwörung
 │
-├── Elements/                        # Elemental forces
-│   ├── ElementalMagic.md            # Fundamental harmonies of creation
-│   ├── FireMagic.md                 # Flame and heat manipulation
-│   ├── WaterMagic.md                # Liquid, ice, and vapor control
-│   ├── EarthMagic.md                # Stone, crystal, and soil mastery
-│   ├── AirMagic.md                  # Wind and atmospheric command
-│   ├── LightMagic.md                # Illumination and radiance
-│   └── ShadowMagic.md               # Darkness and concealment
+├── Elements/                        # Elementare Kräfte
+│   ├── ElementalMagic.md            # Fundamentale Harmonien der Schöpfung
+│   ├── FireMagic.md                 # Flammen- und Hitzemanipulation
+│   ├── WaterMagic.md                 # Flüssigkeits-, Eis- und Dampfkontrolle
+│   ├── EarthMagic.md                 # Stein-, Kristall- und Bodenbeherrschung
+│   ├── AirMagic.md                 # Wind- und Atmosphärenkontrolle
+│   ├── LightMagic.md                 # Beleuchtung und Strahlung
+│   └── ShadowMagic.md               # Dunkelheit und Tarnung
 │
-├── Spells/                          # Specific spell documentation
-│   ├── README.md                    # Spell classification system
-│   ├── Elemental/                   # Element-based spells
-│   ├── Divination/                  # Information-gathering spells
-│   ├── Protection/                  # Defensive spells
-│   ├── Utility/                     # Practical everyday spells
-│   └── Illusion/                    # Perception-altering spells
+├── Spells/                          # Spezifische Zauberdokumentation
+│   ├── README.md                    # Zauberklassifizierungssystem
+│   ├── Elemental/                   # Elementbasierte Zauber
+│   ├── Divination/                  # Informationsbeschaffungszauber
+│   ├── Protection/                  # Defensive Zauber
+│   ├── Utility/                     # Praktische Alltagszauber
+│   └── Illusion/                    # Wahrnehmungsverändernde Zauber
 │
-└── Advanced/                        # Higher-level magical concepts
-    ├── Rituals/                     # Complex multi-caster magic
-    ├── MagicalCreation/             # Creating magical objects
-    ├── SoulMagic/                   # Working with spiritual essence
-    └── Metaphysics/                 # Theoretical magical principles
+└── Advanced/                        # Magische Konzepte höherer Ebene
+    ├── Rituals/                     # Komplexe Magie für mehrere Zauberwirker
+    ├── MagicalCreation/             # Erschaffen von magischen Objekten
+    ├── SoulMagic/                   # Arbeiten mit spiritueller Essenz
+    └── Metaphysics/                 # Theoretische magische Prinzipien
 ```
 
-## Quick Navigation
+## Schnelle Navigation
 
-### Fundamental Concepts
-- [Magic Overview](/codex/Magics/Core/Magic.md) - Basic principles and terminology
-- [Casting Process](/codex/Magics/Core/MagicCasting.md) - How magic is performed
-- [Mana Mechanics](/codex/Magics/Core/ManaMechanics.md) - Technical aspects of magical energy
+### Fundamentale Konzepte
+- [Magie-Überblick](/codex/Magics/Core/Magic.md) - Grundlegende Prinzipien und Terminologie
+- [Zauberwirkprozess](/codex/Magics/Core/MagicCasting.md) - Wie Magie ausgeführt wird
+- [Mana-Mechaniken](/codex/Magics/Core/ManaMechanics.md) - Technische Aspekte der magischen Energie
 
-### Practical Applications
-- [Spell Directory](/codex/Magics/Spells/README.md) - Catalog of known spells
-- [Enhancement Techniques](/codex/Magics/Effects/EnhancementBuffs.md) - Improving magical ability
-- [Elemental Manipulation](/codex/Magics/Elements/ElementalMagic.md) - Working with fundamental forces
+### Praktische Anwendungen
+- [Zauberverzeichnis](/codex/Magics/Spells/README.md) - Katalog bekannter Zauber
+- [Verbesserungstechniken](/codex/Magics/Effects/EnhancementBuffs.md) - Verbesserung der magischen Fähigkeit
+- [Elementare Manipulation](/codex/Magics/Elements/ElementalMagic.md) - Arbeiten mit fundamentalen Kräften
 
-### Magical Disciplines
-- [Schools of Magic](/codex/Magics/Schools/) - Major magical traditions
-- [Elemental Forces](/codex/Magics/Elements/) - Elemental magic systems
-- [Advanced Practices](/codex/Magics/Advanced/) - Master-level magical concepts
+### Magische Disziplinen
+- [Magieschulen](/codex/Magics/Schools/) - Bedeutende magische Traditionen
+- [Elementarkräfte](/codex/Magics/Elements/) - Elementare Magiesysteme
+- [Fortgeschrittene Praktiken](/codex/Magics/Advanced/) - Magische Konzepte auf Meisterebene
 
-## Magical Progression
+## Magischer Fortschritt
 
-Practitioners typically follow this learning path:
+Praktizierende folgen typischerweise diesem Lernpfad:
 
-1. **Fundamentals**: Understanding mana, basic purification, and simple patterns
-2. **Elemental Affinity**: Developing connection with elemental forces
-3. **School Specialization**: Focusing on one or more magical schools
-4. **Advanced Applications**: Combining techniques for complex effects
-5. **Mastery**: Developing unique magical expressions and innovations
+1. **Grundlagen**: Verständnis von Mana, grundlegende Reinigung und einfache Muster
+2. **Elementare Affinität**: Entwicklung einer Verbindung zu elementaren Kräften
+3. **Schulspezialisierung**: Konzentration auf eine oder mehrere Magieschulen
+4. **Fortgeschrittene Anwendungen**: Kombination von Techniken für komplexe Effekte
+5. **Meisterschaft**: Entwicklung einzigartiger magischer Ausdrücke und Innovationen
 
-> *"Magic is not merely a collection of spells, but a living system of knowledge built upon fundamental principles that flow together like a grand symphony."* — Archmage Thalen Moonshadow
+> *"Magie ist nicht nur eine Sammlung von Zaubern, sondern ein lebendiges Wissenssystem, das auf fundamentalen Prinzipien aufgebaut ist, die wie eine grandiose Symphonie zusammenfließen."* — Erzmagier Thalen Mondenschatten
 
-## Overview
+## Überblick
 
-Welcome to the OpenFantasy Magic System documentation. This repository contains a comprehensive framework for magic in the OpenFantasy world, blending systematic rules with thematic elements.
+Willkommen zur OpenFantasy-Magiesystem-Dokumentation. Dieses Repository enthält ein umfassendes Framework für Magie in der OpenFantasy-Welt, das systematische Regeln mit thematischen Elementen verbindet.
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [Fundamental Concepts](#fundamental-concepts)
-- [Key Documents](#key-documents)
-- [Spells](#spells)
-- [Magical Elements](#magical-elements)
-- [Enhancement and Progression](#enhancement-and-progression)
+- [Fundamentale Konzepte](#fundamentale-konzepte)
+- [Schlüsseldokumente](#schlüsseldokumente)
+- [Zauber](#zauber)
+- [Magische Elemente](#magische-elemente)
+- [Verbesserung und Fortschritt](#verbesserung-und-fortschritt)
 
-## Fundamental Concepts
+## Fundamentale Konzepte
 
-The OpenFantasy magic system is built on these core principles:
+Das OpenFantasy-Magiesystem basiert auf diesen Kernprinzipien:
 
-| Concept | Description |
+| Konzept | Beschreibung |
 |---------|-------------|
-| **Mana** | The fundamental magical energy that powers all spells |
-| **Purity** | The refinement of mana, determining spell effectiveness |
-| **Capacity** | The amount of mana a caster can hold and channel |
-| **Resonance** | The harmonic properties of magical energies |
-| **Pattern** | The structured form that shapes mana into specific effects |
+| **Mana** | Die fundamentale magische Energie, die alle Zauber antreibt |
+| **Reinheit** | Die Verfeinerung von Mana, die die Zauberwirksamkeit bestimmt |
+| **Kapazität** | Die Menge an Mana, die ein Zauberwirker halten und kanalisieren kann |
+| **Resonanz** | Die harmonischen Eigenschaften magischer Energien |
+| **Muster** | Die strukturierte Form, die Mana zu spezifischen Effekten formt |
 
-## Key Documents
+## Schlüsseldokumente
 
-| Document | Content |
+| Dokument | Inhalt |
 |----------|---------|
-| [Magic.md](/codex/Magics/Core/Magic.md) | Overview of magical theory and practice |
-| [MagicCasting.md](/codex/Magics/Core/MagicCasting.md) | Detailed explanation of the spellcasting process |
-| [ManaPurity.md](/codex/Magics/Core/ManaPurity.md) | The refinement of magical energy |
-| [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) | The eight primary elements and their properties |
-| [EnhancementBuffs.md](/codex/Magics/Effects/EnhancementBuffs.md) | Magical effects that enhance a caster's abilities |
-| [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md) | Technical details connecting capacity, purity, and spell requirements |
+| [Magic.md](/codex/Magics/Core/Magic.md) | Überblick über magische Theorie und Praxis |
+| [MagicCasting.md](/codex/Magics/Core/MagicCasting.md) | Detaillierte Erklärung des Zauberwirkprozesses |
+| [ManaPurity.md](/codex/Magics/Core/ManaPurity.md) | Die Verfeinerung magischer Energie |
+| [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) | Die acht primären Elemente und ihre Eigenschaften |
+| [EnhancementBuffs.md](/codex/Magics/Effects/EnhancementBuffs.md) | Magische Effekte, die die Fähigkeiten eines Zauberwirkers verbessern |
+| [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md) | Technische Details, die Kapazität, Reinheit und Zauberanforderungen verbinden |
 
-## Spells
+## Zauber
 
-The [Spells directory](/codex/Magics/Spells/) contains documentation for specific magical effects, organized by category:
+Das [Zauberverzeichnis](/codex/Magics/Spells/) enthält die Dokumentation für spezifische magische Effekte, organisiert nach Kategorien:
 
-- **Elemental**: Manipulation of the eight primary elements
-- **Utility**: Practical magic for everyday tasks
-- **Protection**: Defensive and warding magic
-- **Divination**: Information-gathering and perception-enhancing magic
-- **Illusion**: Perception-altering magic
-- **Enchantment**: Object and being enhancement
-- **Transformation**: Physical alterations
-- **Summoning**: Calling entities and objects
+- **Elementar**: Manipulation der acht primären Elemente
+- **Nützlichkeit**: Praktische Magie für alltägliche Aufgaben
+- **Schutz**: Defensive und abwehrende Magie
+- **Wahrsagung**: Informationsbeschaffungs- und wahrnehmungsfördernde Magie
+- **Illusion**: Wahrnehmungsverändernde Magie
+- **Verzauberung**: Objekt- und Wesenverbesserung
+- **Transformation**: Physische Veränderungen
+- **Beschwörung**: Aufrufen von Entitäten und Objekten
 
-→ See the [Spells README](/codex/Magics/Spells/README.md) for detailed information.
+→ Siehe die [Zauber-README](/codex/Magics/Spells/README.md) für detaillierte Informationen.
 
-## Magical Elements
+## Magische Elemente
 
-The OpenFantasy world recognizes eight primary elements arranged in complementary pairs:
+Die OpenFantasy-Welt erkennt acht primäre Elemente an, die in komplementären Paaren angeordnet sind:
 
-| Element | Opposed Element | Associated Mana |
-|---------|-----------------|-----------------|
-| Fire | Water | Pyromana |
-| Water | Fire | Hydromana |
-| Earth | Air | Terramana |
-| Air | Earth | Aeromana |
-| Light | Shadow | Luxmana |
-| Shadow | Light | Umbramana |
-| Life | Death | Vitaemana |
-| Death | Life | Mortismana |
+| Element | Entgegengesetztes Element | Zugeordnetes Mana |
+|---------|--------------------------|-------------------|
+| Feuer | Wasser | Pyromana |
+| Wasser | Feuer | Hydromana |
+| Erde | Luft | Terramana |
+| Luft | Erde | Aeromana |
+| Licht | Schatten | Luxmana |
+| Schatten | Licht | Umbramana |
+| Leben | Tod | Vitaemana |
+| Tod | Leben | Mortismana |
 
-Base Mana serves as the foundation for all magical workings, with elemental mana types adding specific properties.
+Basismana dient als Grundlage für alle magischen Arbeiten, wobei elementare Manatypen spezifische Eigenschaften hinzufügen.
 
-## Enhancement and Progression
+## Verbesserung und Fortschritt
 
-Character advancement in magical ability follows several paths:
+Die Charakterentwicklung in Bezug auf magische Fähigkeiten folgt mehreren Pfaden:
 
-1. **Capacity Development**: Increasing the amount of mana a character can hold
-2. **Purification Skill**: Improving the quality of mana a character can produce
-3. **Pattern Complexity**: Learning more intricate spell structures
-4. **Elemental Attunement**: Developing affinity with specific elements
-5. **Specialization**: Focusing on particular magical disciplines
+1. **Kapazitätsentwicklung**: Erhöhung der Menge an Mana, die ein Charakter halten kann
+2. **Reinigungsfähigkeit**: Verbesserung der Qualität des Manas, das ein Charakter erzeugen kann
+3. **Musterkomplexität**: Erlernen komplizierterer Zauberstrukturen
+4. **Elementare Einstimmung**: Entwicklung einer Affinität zu bestimmten Elementen
+5. **Spezialisierung**: Konzentration auf bestimmte magische Disziplinen
 
-Enhancement buffs can temporarily boost these abilities beyond natural limits.
+Verbesserungs-Buffs können diese Fähigkeiten vorübergehend über die natürlichen Grenzen hinaus steigern.
 
-## Musical Framework
+## Musikalischer Rahmen
 
-Magic in OpenFantasy is conceptualized through musical analogies:
+Magie in OpenFantasy wird durch musikalische Analogien konzipiert:
 
-- **Spellcasting** resembles playing a musical composition
-- **Mana Purification** is like tuning an instrument
-- **Multi-element magic** functions like chord progressions
-- **Ritual magic** operates as a magical orchestra
-- **Magical resonance** behaves according to harmonic principles
+- **Zauberwirken** ähnelt dem Spielen einer musikalischen Komposition
+- **Manareinigung** ist wie das Stimmen eines Instruments
+- **Multi-Element-Magie** funktioniert wie Akkordfolgen
+- **Ritualmagie** funktioniert wie ein magisches Orchester
+- **Magische Resonanz** verhält sich nach harmonischen Prinzipien
 
-This thematic element reinforces the systematic nature of magic while providing intuitive understanding.
+Dieses thematische Element verstärkt die systematische Natur der Magie und vermittelt gleichzeitig ein intuitives Verständnis.
 
 ---
 
-> **Repository Structure**: This documentation uses Markdown formatting optimized for viewing on Git platforms. 
+> **Repository-Struktur**: Diese Dokumentation verwendet Markdown-Formatierung, die für die Anzeige auf Git-Plattformen optimiert ist.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

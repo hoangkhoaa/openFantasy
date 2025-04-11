@@ -1,144 +1,148 @@
-# Monsters of OpenFantasy
+# Monster der OpenFantasy
 
-> *"Not all that walks beneath the moons is born of natural design. Some creatures emerge from darkness, corruption, or the fevered dreams of reality itself."*
+> *"Nicht alles, was unter den Monden wandelt, ist natürlichen Ursprungs. Manche Kreaturen entstehen aus Dunkelheit, Korruption oder den fiebrigen Träumen der Realität selbst."*
 
-## Overview
+## Überblick
 
-In OpenFantasy, "monsters" refers to dangerous or unnatural creatures that exist outside the normal ecological balance. Unlike animals that evolved through natural processes, monsters typically emerge through magical accidents, corruption, deliberate creation, or manifestation from other planes of existence.
+In OpenFantasy bezieht sich der Begriff "Monster" auf gefährliche oder unnatürliche Kreaturen, die außerhalb des normalen ökologischen Gleichgewichts existieren. Im Gegensatz zu Tieren, die sich durch natürliche Prozesse entwickelt haben, entstehen Monster in der Regel durch magische Unfälle, Korruption, bewusste Erschaffung oder Manifestation aus anderen Existenzebenen.
 
-Monsters often possess abilities that defy conventional understanding, making them particularly dangerous to sentient civilizations and natural ecosystems alike. While not universally malevolent, most pose significant threats due to their predatory nature, territorial aggression, or incompatibility with the natural world.
+Monster besitzen oft Fähigkeiten, die dem konventionellen Verständnis trotzen, was sie für empfindungsfähige Zivilisationen und natürliche Ökosysteme gleichermaßen besonders gefährlich macht. Obwohl sie nicht durchweg bösartig sind, stellen die meisten aufgrund ihrer räuberischen Natur, territorialen Aggression oder Unvereinbarkeit mit der natürlichen Welt erhebliche Bedrohungen dar.
 
-## Monster Origins
+## Monster-Ursprünge
 
-Monsters come into being through various means, each creating distinct types of creatures:
+Monster entstehen auf verschiedene Weise, wobei jede Art unterschiedliche Arten von Kreaturen hervorbringt:
 
-| Origin | Description | Examples |
+| Ursprung | Beschreibung | Beispiele |
 |--------|-------------|----------|
-| **Corruption** | Natural beings twisted by dark magic or contamination | Blighted wolves, tainted elementals, plague beasts |
-| **Magical Creation** | Deliberately crafted through spellcraft | Chimeras, artificial abominations, bound spirits |
-| **Planar Intrusion** | Entities that enter from other planes of existence | Void stalkers, dream haunts, dimensional anomalies |
-| **Ancient Evolution** | Primordial creatures from before current natural order | Deep terrors, prehistoric predators, living fossils |
-| **Death Perversion** | Creatures formed through interference with natural death | Undead, soul-bound husks, necromantic constructs |
+| **Korruption** | Natürliche Wesen, die durch dunkle Magie oder Kontamination verdreht werden | Verpestete Wölfe, verdorbene Elementare, Seuchenbestien |
+| **Magische Erschaffung** | Bewusst durch Zauberei erschaffen | Chimären, künstliche Abscheulichkeiten, gebundene Geister |
+| **Planare Intrusion** | Entitäten, die aus anderen Existenzebenen eintreten | Leerenpirscher, Traumheimsuchungen, dimensionale Anomalien |
+| **Uralte Evolution** | Urzeitliche Kreaturen aus der Zeit vor der aktuellen natürlichen Ordnung | Tiefe Schrecken, prähistorische Raubtiere, lebende Fossilien |
+| **Todesperversion** | Kreaturen, die durch Eingriffe in den natürlichen Tod entstanden sind | Untote, seelengebundene Hüllen, nekromantische Konstrukte |
 
-## Monster Classifications
+## Monsterklassifizierungen
 
-### Aberrations
+### Aberrationen
 
-Biologically impossible creatures with anatomies that defy natural law:
+Biologisch unmögliche Kreaturen mit Anatomien, die dem Naturgesetz trotzen:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Unterkategorie | Hauptmerkmale | Bemerkenswerte Beispiele |
 |-------------|---------------------|------------------|
-| **Shapeshifters** | Malleable form, identity deception | Mimics, doppelgangers, flesh warpers |
-| **Many-Eyed** | Enhanced perception, reality distortion | Beholders, void seers, panoptic crawlers |
-| **Mind Hunters** | Psychic abilities, consciousness manipulation | Mind flayers, thought leeches, dream stalkers |
-| **Composite Horrors** | Multiple creature aspects fused together | Chimeras, fusion beasts, amalgam terrors |
+| **Gestaltwandler** | Formbare Form, Identitätstäuschung | Mimics, Doppelgänger, Fleischverzerrer |
+| **Vieläugige** | Verbesserte Wahrnehmung, Realitätsverzerrung | Betrachter, Leeren Seher, panoptische Kriecher |
+| **Geistjäger** | Psychische Fähigkeiten, Bewusstseinsmanipulation | Gedankenschinder, Gedankenegel, Traumpirscher |
+| **Zusammengesetzte Schrecken** | Mehrere Kreaturenaspekte miteinander verschmolzen | Chimären, Fusionsbestien, Amalgam Schrecken |
 
-→ See [Aberrations](Aberrations.md) for detailed information.
+→ Siehe [Aberrationen](Aberrations.md) für detaillierte Informationen.
 
-### Undead
+### Untote
 
-Formerly living beings animated by necromantic energy or trapped souls:
+Ehemals lebende Wesen, die durch nekromantische Energie animiert oder durch gefangene Seelen angetrieben werden:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Unterkategorie | Hauptmerkmale | Bemerkenswerte Beispiele |
 |-------------|---------------------|------------------|
-| **Corporeal Undead** | Physical bodies, reduced intelligence | Zombies, ghouls, flesh constructs |
-| **Skeletal Undead** | Animated bones, magical binding | Skeletons, bone colossi, marrow mages |
-| **Spectral Undead** | Incorporeal forms, emotional anchoring | Ghosts, wraiths, phantoms, shadow walkers |
-| **Sentient Undead** | Retained intelligence, complex motivations | Vampires, liches, death knights, mummy lords |
+| **Körperliche Untote** | Physische Körper, reduzierte Intelligenz | Zombies, Ghule, Fleischkonstrukte |
+| **Skelett-Untote** | Animierte Knochen, magische Bindung | Skelette, Knochenkolosse, Markmagier |
+| **Spektrale Untote** | Körperlose Formen, emotionale Verankerung | Geister, Todesgeister, Phantome, Schattenspaziergänger |
+| **Empfindungsfähige Untote** | Beibehaltene Intelligenz, komplexe Motivationen | Vampire, Liches, Todesritter, Mumienfürsten |
 
-→ See [Undead](Undead.md) for detailed information.
+→ Siehe [Untote](Untote.md) für detaillierte Informationen.
 
-### Corrupted Beings
+### Verdorbene Wesen
 
-Natural creatures transformed by magical contamination or dark influence:
+Natürliche Kreaturen, die durch magische Kontamination oder dunklen Einfluss verwandelt wurden:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Unterkategorie | Hauptmerkmale | Bemerkenswerte Beispiele |
 |-------------|---------------------|------------------|
-| **Blighted Animals** | Twisted natural fauna, toxicity | Plague wolves, rot bears, venom hawks |
-| **Tainted Elementals** | Elemental beings corrupted by opposing forces | Ash elementals, pollution spirits, decay shamblers |
-| **Void-Touched** | Beings altered by exposure to cosmic emptiness | Void hunters, null beasts, star-mad predators |
-| **Curse Bearers** | Victims of powerful curses with monstrous transformations | Werewolves, harpy afflicted, stone-curse victims |
+| **Verpestete Tiere** | Verdrehte natürliche Fauna, Toxizität | Seuchenwölfe, Fäulnisbären, Venenfalken |
+| **Verdorbene Elementare** | Elementare Wesen, die durch gegensätzliche Kräfte verdorben wurden | Ascheelementare, Verschmutzungsgeister, Verfallsschlurfer |
+| **Leerenberührte** | Wesen, die durch die kosmische Leere verändert wurden | Leerenjäger, Nullbestien, sternenverrückte Raubtiere |
+| **Fluchträger** | Opfer mächtiger Flüche mit monströsen Transformationen | Werwölfe, Harpyiengeplagte, Steinfluchopfer |
 
-→ See [Corrupted](Corrupted.md) for detailed information.
+→ Siehe [Verdorben](Corrupted.md) für detaillierte Informationen.
 
-### Giants and Titans
+### Riesen und Titanen
 
-Enormous beings of extraordinary strength and primal power:
+Enorme Wesen von außergewöhnlicher Stärke und urzeitlicher Kraft:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Unterkategorie | Hauptmerkmale | Bemerkenswerte Beispiele |
 |-------------|---------------------|------------------|
-| **Elemental Giants** | Connection to fundamental forces | Frost giants, fire titans, storm colossi |
-| **Primal Giants** | Ancient lineage, territorial nature | Hill giants, mountain ogres, forest trolls |
-| **Ancient Titans** | Primordial beings of immense power | World shapers, elder titans, forgotten ones |
-| **Corrupted Giants** | Giants twisted by dark influences | Plague giants, void-touched colossi, undead titans |
+| **Elementarriesen** | Verbindung zu grundlegenden Kräften | Frostriesen, Feuertitanen, Sturmkolosse |
+| **Urzeitliche Riesen** | Uralte Abstammung, territoriales Wesen | Hügelriesen, Bergogern, Waldtrolle |
+| **Uralte Titanen** | Urzeitliche Wesen von immenser Macht | Weltenformer, ältere Titanen, vergessene Wesen |
+| **Verdorbene Riesen** | Riesen, die durch dunkle Einflüsse verdreht wurden | Seuchenriesen, leerenberührte Kolosse, untote Titanen |
 
-→ See [Giants](Giants.md) for detailed information.
+→ Siehe [Riesen](Giants.md) für detaillierte Informationen.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-Monsters often exhibit unusual elemental composition compared to natural creatures:
+Monster weisen im Vergleich zu natürlichen Kreaturen oft eine ungewöhnliche elementare Zusammensetzung auf:
 
-| Monster Type | Typical Elemental Ratio | Notes |
+| Monstertyp | Typisches Elementares Verhältnis | Hinweise |
 |--------------|-------------------------|-------|
-| Aberrations | E: 30-60%, S: 5-20%, M: 30-60% | Unstable mana patterns, reality-warping properties |
-| Undead | E: 10-30%, S: 0-10%, M: 60-90% | Necromantic energy replacing normal soul component |
-| Corrupted | E: 40-60%, S: 5-15%, M: 30-50% | Original composition distorted by corruption |
-| Giants | E: 65-85%, S: 5-15%, M: 10-25% | Exanthis-dominant with primal magical connections |
+| Aberrationen | E: 30-60%, S: 5-20%, M: 30-60% | Instabile Manamuster, realitätsverzerrende Eigenschaften |
+| Untote | E: 10-30%, S: 0-10%, M: 60-90% | Nekromantische Energie ersetzt normale Seelenkomponente |
+| Verdorben | E: 40-60%, S: 5-15%, M: 30-50% | Ursprüngliche Zusammensetzung durch Korruption verzerrt |
+| Riesen | E: 65-85%, S: 5-15%, M: 10-25% | Exanthis-dominant mit urzeitlichen magischen Verbindungen |
 
-## Threat Assessment
+## Gefahreneinschätzung
 
-The Adventurers' Guild and Royal Monster Hunters classify monsters by threat level:
+Die Abenteurergilde und die königlichen Monsterjäger klassifizieren Monster nach Gefährdungsgrad:
 
-| Threat Level | Description | Recommended Response |
+| Gefährdungsgrad | Beschreibung | Empfohlene Reaktion |
 |--------------|-------------|----------------------|
-| **Alpha** | Existential threat to entire regions | Full military response, arch-mage intervention |
-| **Beta** | Capable of destroying settlements | Veteran hunter squads, master mages |
-| **Gamma** | Dangerous to small groups | Experienced adventurers, specialized hunters |
-| **Delta** | Threatening to individuals | Trained guards, novice adventurers |
-| **Epsilon** | Nuisance-level danger | Local militia, basic countermeasures |
+| **Alpha** | Existentielle Bedrohung für ganze Regionen | Vollständige militärische Reaktion, Erzmagier-Intervention |
+| **Beta** | In der Lage, Siedlungen zu zerstören | Veteranen-Jägertrupps, Meistermagier |
+| **Gamma** | Gefährlich für kleine Gruppen | Erfahrene Abenteurer, spezialisierte Jäger |
+| **Delta** | Bedrohung für Einzelpersonen | Ausgebildete Wachen, Anfänger-Abenteurer |
+| **Epsilon** | Gefahr auf Belästigungsebene | Lokale Miliz, grundlegende Gegenmaßnahmen |
 
-## Habitats and Territories
+## Lebensräume und Territorien
 
-Monsters tend to inhabit specific environments based on their nature and origins:
+Monster neigen dazu, bestimmte Umgebungen basierend auf ihrer Natur und ihrem Ursprung zu bewohnen:
 
-| Environment | Common Monster Types | Notable Characteristics |
+| Umgebung | Häufige Monstertypen | Bemerkenswerte Eigenschaften |
 |-------------|----------------------|-------------------------|
-| **Blighted Lands** | Corrupted beings, disease carriers | Magical contamination, toxic atmosphere |
-| **Ancient Ruins** | Undead, guardian constructs | Magical residue, historical significance |
-| **Deep Caverns** | Aberrations, subterranean predators | Isolation, evolutionary divergence |
-| **Wild Magic Zones** | Magical hybrids, reality warpers | Unpredictable magical effects, planar thinning |
-| **Abandoned Battlefields** | War spirits, animated weapons | Emotional residue, death magic |
-| **Primordial Forests** | Ancient guardians, feral horrors | Old growth, ley line convergence |
+| **Verpestete Länder** | Verdorbene Wesen, Krankheitsüberträger | Magische Kontamination, toxische Atmosphäre |
+| **Alte Ruinen** | Untote, Wächterkonstrukte | Magische Rückstände, historische Bedeutung |
+| **Tiefe Höhlen** | Aberrationen, unterirdische Raubtiere | Isolation, evolutionäre Divergenz |
+| **Wilde Magiezonen** | Magische Hybride, Realitätsverzerer | Unvorhersehbare magische Effekte, planare Verdünnung |
+| **Verlassene Schlachtfelder** | Kriegsgeister, animierte Waffen | Emotionale Rückstände, Todesmagie |
+| **Urzeitliche Wälder** | Uralte Wächter, wilde Schrecken | Alter Wuchs, Ley-Linien-Konvergenz |
 
-## Monster Hunting
+## Monsterjagd
 
-The pursuit and elimination of dangerous monsters has evolved into specialized professions:
+Die Verfolgung und Beseitigung gefährlicher Monster hat sich zu spezialisierten Berufen entwickelt:
 
-### Professional Organizations
+### Professionelle Organisationen
 
-- **Royal Monster Hunters**: Government-sanctioned experts who protect settlements
-- **Adventurers' Guild**: Independent contractors who handle monster-related quests
-- **Order of the Silver Blade**: Religious organization focused on undead and fiends
-- **Arcane Containment Corps**: Specialist mages who handle magical threats
+- **Königliche Monsterjäger**: Von der Regierung sanktionierte Experten, die Siedlungen schützen
+- **Abenteurergilde**: Unabhängige Auftragnehmer, die monsterbezogene Quests bearbeiten
+- **Orden der Silberklinge**: Religiöse Organisation, die sich auf Untote und Unholde konzentriert
+- **Arkane Eindämmungs Korps**: Spezialistenmagier, die sich um magische Bedrohungen kümmern
 
-### Common Tactics
+### Übliche Taktiken
 
-| Monster Type | Effective Approaches | Specialized Equipment |
+| Monstertyp | Wirksame Ansätze | Spezialausrüstung |
 |--------------|----------------------|----------------------|
-| **Aberrations** | Reality anchoring, pattern disruption | Stabilization runes, anti-magic implements |
-| **Undead** | Soul binding, consecrated weapons | Silver, blessed armaments, holy symbols |
-| **Corrupted** | Purification, elemental opposition | Cleansing salts, elemental focuses |
-| **Giants** | Mobility, group tactics | Specialized ballistas, immobilization devices |
+| **Aberrationen** | Realitätsverankerung, Musterstörung | Stabilisierungsrunen, Anti-Magie-Werkzeuge |
+| **Untote** | Seelenbindung, geweihte Waffen | Silber, gesegnete Waffen, heilige Symbole |
+| **Verdorben** | Reinigung, elementare Opposition | Reinigungssalze, elementare Fokusse |
+| **Riesen** | Mobilität, Gruppentaktiken | Spezialisierte Ballisten, Immobilisierungsvorrichtungen |
 
-## Research and Study
+## Forschung und Studium
 
-Despite their dangers, monsters provide valuable insights into magical principles and biological possibilities:
+Trotz ihrer Gefahren liefern Monster wertvolle Einblicke in magische Prinzipien und biologische Möglichkeiten:
 
-- **Alchemical Applications**: Monster parts used in potions and magical compounds
-- **Magical Theory**: Study of unnatural creatures reveals new arcane knowledge
-- **Planar Research**: Extradimensional monsters provide insights into other realms
-- **Evolutionary Biology**: Aberrations challenge and expand biological understanding
+- **Alchemistische Anwendungen**: Monsterteile, die in Tränken und magischen Verbindungen verwendet werden
+- **Magische Theorie**: Das Studium unnatürlicher Kreaturen enthüllt neues arkanes Wissen
+- **Planare Forschung**: Extradimensionale Monster liefern Einblicke in andere Reiche
+- **Evolutionsbiologie**: Aberrationen fordern das biologische Verständnis heraus und erweitern es
 
 ---
 
-> *"The line between monster and marvel is drawn not in the creature's form, but in our understanding of its nature."* — Archsage Veldrin, Monstrology Scholar 
+> *"Die Grenze zwischen Monster und Wunder wird nicht in der Form der Kreatur gezogen, sondern in unserem Verständnis ihrer Natur."* — Erzmagier Veldrin, Monstrologie-Gelehrter
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

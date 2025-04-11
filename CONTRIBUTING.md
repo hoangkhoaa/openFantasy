@@ -1,74 +1,76 @@
-# Contributing to **OpenFantasy**
+# Mitwirken bei **OpenFantasy**
 
-Thank you for your interest in contributing to **OpenFantasy**! This document provides guidelines and information on how to participate in this open-source world-building project.
+Vielen Dank für Ihr Interesse an einer Beteiligung bei **OpenFantasy**! Dieses Dokument bietet Richtlinien und Informationen, wie Sie an diesem Open-Source-Worldbuilding-Projekt teilnehmen können.
 
-## Our Vision
+## Unsere Vision
 
-**OpenFantasy** aims to create a logical, consistent framework for magical systems that storytellers, game designers, and world-builders can use as a foundation. We believe that fantasy worlds should maintain their wonder and depth without sacrificing logical consistency as stories progress.
+**OpenFantasy** zielt darauf ab, ein logisches, konsistentes Framework für magische Systeme zu schaffen, das Geschichtenerzähler, Spieldesigner und Worldbuilder als Grundlage verwenden können. Wir glauben, dass Fantasiewelten ihren Zauber und ihre Tiefe bewahren sollten, ohne im Laufe der Geschichten die logische Konsistenz zu opfern.
 
-## Ways to Contribute
+## Möglichkeiten zur Beteiligung
 
-There are many ways to participate in the **OpenFantasy** project:
+Es gibt viele Möglichkeiten, am **OpenFantasy**-Projekt teilzunehmen:
 
-### Content Development
-- **Expand the Codex**: Develop detailed entries on creatures, locations, artifacts, or historical events
-- **Create Stories**: Write short stories or campaign scenarios set within the **OpenFantasy** framework
-- **Develop Game Systems**: Design rule systems for tabletop RPGs or other game formats
+### Inhaltsentwicklung
+- **Erweitern Sie den Kodex**: Entwickeln Sie detaillierte Einträge zu Kreaturen, Orten, Artefakten oder historischen Ereignissen
+- **Erstellen Sie Geschichten**: Schreiben Sie Kurzgeschichten oder Kampagnenszenarien, die im **OpenFantasy**-Framework angesiedelt sind
+- **Entwickeln Sie Spielsysteme**: Entwerfen Sie Regelsysteme für Tabletop-RPGs oder andere Spielformate
 
-### Technical Contributions
-- **Documentation**: Improve existing documentation for clarity and accessibility
-- **Website**: Contribute to our project website
-- **Tools**: Develop tools that help creators work with the **OpenFantasy** framework
+### Technische Beiträge
+- **Dokumentation**: Verbessern Sie die bestehende Dokumentation hinsichtlich Klarheit und Zugänglichkeit
+- **Website**: Tragen Sie zu unserer Projektwebsite bei
+- **Tools**: Entwickeln Sie Tools, die Kreativen helfen, mit dem **OpenFantasy**-Framework zu arbeiten
 
-### Community Support
-- **Review Submissions**: Help review and provide feedback on other contributors' work
-- **Answer Questions**: Support new contributors in our community forums
-- **Spread the Word**: Share the project with others who might be interested
+### Community-Unterstützung
+- **Einreichungen prüfen**: Helfen Sie bei der Überprüfung und dem Feedback zu den Arbeiten anderer Mitwirkender
+- **Fragen beantworten**: Unterstützen Sie neue Mitwirkende in unseren Community-Foren
+- **Verbreiten Sie die Nachricht**: Teilen Sie das Projekt mit anderen, die möglicherweise interessiert sind
 
+### Kernprinzipien, die beibehalten werden müssen
 
+1. **Logische Konsistenz**: Alle Beiträge sollten sich an die etablierten Regeln von **Aeromana** und **Exanthis** und deren Auswirkungen auf die Welt halten
+2. **Gleichgewicht**: Bewahren Sie die natürliche Spannung zwischen gegensätzlichen Kräften
+3. **Tiefe ohne Widerspruch**: Fügen Sie Komplexität und Nuancen hinzu, ohne etablierte Überlieferungen zu widersprechen
+4. **Zugänglichkeit**: Schreiben Sie klar, damit Neuankömmlinge die Konzepte verstehen können
 
-### Core Principles to Maintain
+### Inhaltsrichtlinien
 
-1. **Logical Consistency**: All contributions should adhere to the established rules of **Aeromana** and **Exanthis**, and their effects on the world
-2. **Balance**: Maintain the natural tension between opposing forces
-3. **Depth Without Contradiction**: Add complexity and nuance without contradicting established lore
-4. **Accessibility**: Write clearly so that newcomers can understand the concepts
+Stellen Sie bei der Erstellung neuer Inhalte für **OpenFantasy** Folgendes sicher:
 
-### Content Guidelines
+- Ihre Arbeit respektiert das etablierte Verhältnissystem (Exanthis, Seele, Aeromana)
+- Neue Kreaturen, Charaktere oder Rassen folgen der internen Logik der Welt
+- Magische Systeme und Effekte werden anhand des Frameworks erklärt
+- Geografische Elemente berücksichtigen die Verteilung von **Aeromana** und **Exanthis**
 
-When creating new content for **OpenFantasy**, please ensure:
+### Einreichungsprozess
 
-- Your work respects the established ratio system (Exanthis, Soul, Aeromana)
-- New creatures, characters, or races follow the internal logic of the world
-- Magical systems and effects are explained in terms of the framework
-- Geographic elements consider the distribution of **Aeromana** and **Exanthis**
+1. **Fork des Repository**: Erstellen Sie Ihren eigenen Fork des Projekts
+2. **Erstellen Sie einen Branch**: Nehmen Sie Ihre Änderungen in einem neuen Branch vor
+3. **Folgen Sie der Vorlage**: Verwenden Sie die entsprechende Vorlage für Ihren Beitragstyp
+4. **Senden Sie einen Pull Request**: Fügen Sie eine klare Beschreibung Ihres Beitrags hinzu
+5. **Auf Feedback reagieren**: Seien Sie offen für Vorschläge von Rezensenten
 
-### Submission Process
+### Formatierung
+- Verwenden Sie Markdown für alle Textdokumente
+- Befolgen Sie die etablierte Überschriftenstruktur
+- **Fetten** Sie Schlüsselbegriffe und -konzepte bei der ersten Erwähnung
+- Verwenden Sie entsprechende Links zu verwandten Inhalten innerhalb des Repository
 
-1. **Fork the Repository**: Create your own fork of the project
-2. **Create a Branch**: Make your changes in a new branch
-3. **Follow the Template**: Use the appropriate template for your contribution type
-4. **Submit a Pull Request**: Include a clear description of your contribution
-5. **Respond to Feedback**: Be open to suggestions from reviewers
+### Ton und Stimme
+- Schreiben Sie in klarer, ansprechender Sprache
+- Achten Sie auf ein Gleichgewicht zwischen akademischer Beschreibung und narrativem Flair
+- Vermeiden Sie übermäßig umgangssprachliche Ausdrücke oder Slang
+- Seien Sie inklusiv und berücksichtigen Sie unterschiedliche Perspektiven
 
-### Formatting
-- Use Markdown for all text documents
-- Follow the established heading structure
-- **Bold** key terms and concepts on first mention
-- Use appropriate links to related content within the repository
+## Anerkennung
 
-### Tone and Voice
-- Write in clear, engaging language
-- Maintain a balance between academic description and narrative flair
-- Avoid overly colloquial expressions or slang
-- Be inclusive and consider diverse perspectives
-
-## Recognition
-
-All contributors will be acknowledged in our [CONTRIBUTORS.md](CONTRIBUTORS.md) file. Significant contributions may receive special recognition in project announcements and updates.
+Alle Mitwirkenden werden in unserer [CONTRIBUTORS.md](CONTRIBUTORS.md)-Datei genannt. Bedeutende Beiträge können in Projektankündigungen und -aktualisierungen eine besondere Anerkennung erhalten.
 
 ---
 
-"*Magic should make us wonder, not scratch our heads in confusion.*"
+"*Magie sollte uns zum Staunen bringen, nicht uns verwirrt am Kopf kratzen lassen.*"
 
-Thank you for helping build a more logical and engaging fantasy framework! 
+Vielen Dank, dass Sie beim Aufbau eines logischeren und ansprechenderen Fantasy-Frameworks helfen!
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

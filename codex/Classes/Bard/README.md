@@ -1,89 +1,93 @@
-# Bard Class
+# Barden-Klasse
 
-> *"When words fail, music speaks. When magic falters, a song can reshape reality."*
+> *"Wenn Worte versagen, spricht die Musik. Wenn Magie ins Stocken gerät, kann ein Lied die Realität neu formen."*
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Bard](#playing-a-bard)
-- [Notable Traits](#notable-traits)
+- [Überblick](#überblick)
+- [Klassenzusammensetzung](#klassenzusammensetzung)
+- [Unterklassen](#unterklassen)
+- [Einen Barden spielen](#einen-barden-spielen)
+- [Bemerkenswerte Eigenschaften](#bemerkenswerte-eigenschaften)
 
-## Overview
+## Überblick
 
-Bards weave magic through artistic expression, primarily music, creating harmonies that resonate with the fabric of reality itself. They are versatile spellcasters who blend performance, social finesse, and magical knowledge into a unique style of casting that can inspire allies, manipulate emotions, and harm enemies.
+Barden weben Magie durch künstlerischen Ausdruck, vor allem Musik, und erschaffen Harmonien, die mit dem Gefüge der Realität selbst in Resonanz treten. Sie sind vielseitige Zauberwirker, die Darbietung, soziale Finesse und magisches Wissen zu einem einzigartigen Zauberstil verbinden, der Verbündete inspirieren, Emotionen manipulieren und Feinden schaden kann.
 
-## Class Composition
+## Klassenzusammensetzung
 
-| Element | Typical Range | Function |
+| Element | Typischer Bereich | Funktion |
 |---------|---------------|----------|
-| **Exanthis** | 20-35% | Physical vessel trained in artistic techniques and precise performance |
-| **Soul** | 35-55% | Emotional framework capable of authentic expression and magical resonance |
-| **Mana Capacity** | 20-40% | Naturally flowing mana reserves with intuitive harmonic control |
+| **Exanthis** | 20-35% | Physisches Gefäß, trainiert in künstlerischen Techniken und präziser Darbietung |
+| **Seele** | 35-55% | Emotionales Gerüst, das zu authentischem Ausdruck und magischer Resonanz fähig ist |
+| **Mana-Kapazität** | 20-40% | Natürlich fließende Mana-Reserven mit intuitiver harmonischer Kontrolle |
 
-Bards develop specialized neural pathways that connect artistic expression directly to magical manipulation, creating a unique system that translates performance into magical effects. Their approach emphasizes emotional resonance over academic understanding, allowing them to achieve magical effects through authentic artistic expression.
+Barden entwickeln spezialisierte neuronale Bahnen, die künstlerischen Ausdruck direkt mit magischer Manipulation verbinden und so ein einzigartiges System schaffen, das Darbietung in magische Effekte übersetzt. Ihr Ansatz betont emotionale Resonanz gegenüber akademischem Verständnis und ermöglicht es ihnen, magische Effekte durch authentischen künstlerischen Ausdruck zu erzielen.
 
-## Subclasses
+## Unterklassen
 
-Bards can specialize in several distinct colleges:
+Barden können sich auf verschiedene Colleges spezialisieren:
 
-| College | Focus | Specialty |
+| College | Fokus | Spezialität |
 |----------|-------|-----------|
-| [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) | Verbal Persuasion | Oratory, debate, and perfect verbal expression |
-| [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) | Fey Enchantment | Captivation, fascination, and otherworldly beauty |
-| [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) | Knowledge Collection | Secrets, versatile magic, and comprehensive knowledge |
-| [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) | Spirit Communication | Storytelling, communing with spirits, and supernatural insight |
-| [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) | Martial Performance | Blade dancing, combat magic, and physical prowess |
-| [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) | Battlefield Inspiration | Combat support, heroic tales, and martial motivation |
-| [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) | Psychological Manipulation | Secrets, fear, and subtle psychological control |
-| [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) | Manifestation | Creating physical objects from performance energy |
+| [**College der Eloquenz**](/codex/Classes/Bard/Colleges/Eloquence.md) | Verbale Überzeugung | Redekunst, Debatte und perfekter verbaler Ausdruck |
+| [**College des Glamours**](/codex/Classes/Bard/Colleges/Glamour.md) | Fey-Verzauberung | Fesselung, Faszination und jenseitige Schönheit |
+| [**College der Weisheit**](/codex/Classes/Bard/Colleges/Lore.md) | Wissenssammlung | Geheimnisse, vielseitige Magie und umfassendes Wissen |
+| [**College der Geister**](/codex/Classes/Bard/Colleges/Spirits.md) | Geisterkommunikation | Geschichtenerzählen, Umgang mit Geistern und übernatürliche Einsichten |
+| [**College der Schwerter**](/codex/Classes/Bard/Colleges/Swords.md) | Martialische Darbietung | Klingentanz, Kampfmagie und körperliche Stärke |
+| [**College des Mutes**](/codex/Classes/Bard/Colleges/Valor.md) | Schlachtfeld-Inspiration | Kampfunterstützung, heldenhafte Geschichten und martialische Motivation |
+| [**College des Geflüsters**](/codex/Classes/Bard/Colleges/Whispers.md) | Psychologische Manipulation | Geheimnisse, Angst und subtile psychologische Kontrolle |
+| [**College der Schöpfung**](/codex/Classes/Bard/Colleges/Creation.md) | Manifestation | Erschaffung physischer Objekte aus Darbietungsenergie |
 
-## Playing a Bard
+## Einen Barden spielen
 
-### Core Abilities
+### Kernfähigkeiten
 
-- **Bardic Inspiration**: Channel magical energy to inspire and enhance allies' abilities
-- **Spellcasting**: Cast spells through artistic performance, drawing from a diverse spell list
-- **Jack of All Trades**: Apply partial proficiency to all skills, reflecting versatile knowledge
-- **Song of Rest**: Accelerate healing during rests through soothing performance
-- **Countercharm**: Disrupt hostile effects through pure musical expression
+- **Barden-Inspiration**: Kanalisiere magische Energie, um die Fähigkeiten von Verbündeten zu inspirieren und zu verbessern
+- **Zauberwirken**: Wirke Zauber durch künstlerische Darbietung und schöpfe dabei aus einer vielfältigen Zauberliste
+- **Hansdampf in allen Gassen**: Wende teilweise Fertigkeit auf alle Fähigkeiten an, was vielseitiges Wissen widerspiegelt
+- **Lied der Ruhe**: Beschleunige die Heilung während der Ruhephasen durch beruhigende Darbietung
+- **Gegenzauber**: Störe feindliche Effekte durch reinen musikalischen Ausdruck
 
-### Common Equipment
+### Übliche Ausrüstung
 
-- **Musical Instruments**: Lutes, flutes, drums or other tools of artistic expression
-- **Light Armor**: Protective gear that doesn't impede movement or performance
-- **Performance Attire**: Clothing designed to enhance stage presence
-- **Component Pouch**: Specialized materials that complement artistic spellcasting
+- **Musikinstrumente**: Lauten, Flöten, Trommeln oder andere Werkzeuge des künstlerischen Ausdrucks
+- **Leichte Rüstung**: Schutzkleidung, die die Bewegung oder Darbietung nicht behindert
+- **Darbietungs-Kleidung**: Kleidung, die dazu bestimmt ist, die Bühnenpräsenz zu verbessern
+- **Komponentenbeutel**: Spezialisierte Materialien, die das künstlerische Zauberwirken ergänzen
 
-### Species Affinities
+### Spezies-Affinitäten
 
-| Species | Affinity | Notable Traits |
+| Spezies | Affinität | Bemerkenswerte Eigenschaften |
 |---------|----------|----------------|
-| **Human** | High | Adaptable performance styles, cultural versatility |
-| **Half-Elf** | Very High | Natural charisma, mixed cultural influences |
-| **Gnome** | High | Creative expression, joyful performance |
-| **Tabaxi** | High | Natural curiosity, storytelling traditions |
-| **Tiefling** | Very High | Exotic presence, innate charisma |
+| **Mensch** | Hoch | Anpassungsfähige Darbietungsstile, kulturelle Vielseitigkeit |
+| **Halbelf** | Sehr Hoch | Natürliches Charisma, gemischte kulturelle Einflüsse |
+| **Gnom** | Hoch | Kreativer Ausdruck, freudige Darbietung |
+| **Tabaxi** | Hoch | Natürliche Neugierde, Geschichtenerzählungstraditionen |
+| **Tiefling** | Sehr Hoch | Exotische Präsenz, angeborenes Charisma |
 
-## Notable Traits
+## Bemerkenswerte Eigenschaften
 
-### Strengths
+### Stärken
 
-- Exceptional versatility across multiple schools of magic
-- Superior effectiveness with social and emotional magic
-- Ability to perform magic while engaged in other activities
-- Natural talent for group harmonization and collaborative casting
-- Intuitive adaptation to unexpected magical situations
+- Außergewöhnliche Vielseitigkeit in mehreren Magieschulen
+- Überlegene Effektivität bei sozialer und emotionaler Magie
+- Fähigkeit, Magie zu wirken, während man andere Aktivitäten ausübt
+- Natürliches Talent für Gruppenharmonisierung und kollaboratives Zaubern
+- Intuitive Anpassung an unerwartete magische Situationen
 
-### Challenges
+### Herausforderungen
 
-- Reduced effectiveness when unable to perform artistically
-- Vulnerability to effects that impact emotional state
-- Less precision compared to academic casters like wizards
-- Performance requirements can make stealth casting difficult
-- Less effective with highly technical magical disciplines
+- Reduzierte Effektivität, wenn man nicht in der Lage ist, künstlerisch aufzutreten
+- Anfälligkeit für Effekte, die den emotionalen Zustand beeinträchtigen
+- Weniger Präzision im Vergleich zu akademischen Zauberern wie Magiern
+- Darbietungsanforderungen können heimliches Zaubern erschweren
+- Weniger effektiv bei hochtechnischen magischen Disziplinen
 
 ---
 
-> See [Bard.md](/codex/Classes/Bard/Bard.md) for detailed information about the Bard class in OpenFantasy. 
+> Siehe [Bard.md](/codex/Classes/Bard/Bard.md) für detaillierte Informationen über die Barden-Klasse in OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

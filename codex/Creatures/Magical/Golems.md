@@ -1,106 +1,110 @@
-# **Golems**: The Artificially Crafted Guardians
+# **Golems**: Die künstlich erschaffenen Wächter
 
-[**Golems**](/codex/Creatures/Golems.md) are the artificially crafted guardians, their bodies a constructed harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a grand pipe organ, they resonate with the power of their creators, creating a unique melody of existence that bridges the artificial and natural realms.
+[**Golems**](/codex/Creatures/Golems.md) sind die künstlich erschaffenen Wächter, deren Körper eine konstruierte Harmonie aus [**Exanthis**](/codex/Basic/Exanthis.md), [**Seelen**](/codex/Basic/Soul.md) und **Mana Capacity** darstellt. Wie eine große Pfeifenorgel resonieren sie mit der Kraft ihrer Schöpfer und erzeugen eine einzigartige Melodie der Existenz, die die künstliche und natürliche Welt verbindet.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **golems** forms a harmony that favors physical resilience:
+Wie unter [Creatures](/codex/Creatures/Creatures.md) beschrieben, bildet das typische Verhältnis für **Golems** eine Harmonie, die die physische Widerstandsfähigkeit begünstigt:
 
-| Element | Range | Function |
+| Element | Bereich | Funktion |
 |---------|------------|----------|
-| **Exanthis** | 60-85% | The crystalline heart that grants exceptional durability and strength |
-| **Soul** | 5-15% | The ethereal essence that shapes a focused but limited consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables limited magical potential |
+| **Exanthis** | 60-85% | Das kristalline Herz, das außergewöhnliche Haltbarkeit und Stärke verleiht |
+| **Soul** | 5-15% | Die ätherische Essenz, die ein fokussiertes, aber begrenztes Bewusstsein formt |
+| **Mana Capacity** | 10-30% | Die Brücke zwischen den Welten, die begrenztes magisches Potenzial ermöglicht |
 
-This composition grants **golems** their characteristic resilience and strength but typically limits their adaptability compared to other species, like a massive instrument that can only play a limited range of notes.
+Diese Zusammensetzung verleiht **Golems** ihre charakteristische Widerstandsfähigkeit und Stärke, schränkt aber typischerweise ihre Anpassungsfähigkeit im Vergleich zu anderen Spezies ein, wie ein massives Instrument, das nur eine begrenzte Anzahl von Noten spielen kann.
 
-### Individual Variations
+### Individuelle Variationen
 
-While the model composition represents the typical golem, individual variations exist based on their creators' designs:
+Während die Modellzusammensetzung den typischen Golem repräsentiert, existieren individuelle Variationen, die auf den Entwürfen ihrer Schöpfer basieren:
 
-- **War Golems**: Military-grade constructs possess Exanthis levels as high as 90%, making them nearly indestructible, though with minimal consciousness (5% Soul) and magical ability (5% Mana Capacity).
-- **Arcane Guardians**: Specialized variants designed for magical tasks have enhanced Mana Capacity approaching 40%, allowing them to interact with and guard against magical forces, often with reduced physical mass (50% Exanthis).
-- **Sentient Constructs**: Rare golems created with higher Soul percentages (up to 25%) develop more complex consciousness and autonomy, often becoming leaders among golem societies.
-- **Runic Vessels**: Specialized golems with composition of (60% Exanthis, 5% Soul, 35% Mana Capacity) serve as living magical batteries and conduits for powerful spells.
-- **Shapeshifting Golems**: Advanced designs with a balanced composition (55% Exanthis, 15% Soul, 30% Mana Capacity) can reconfigure their physical forms for different tasks.
+- **War Golems**: Militärische Konstrukte besitzen Exanthis-Werte von bis zu 90%, was sie nahezu unzerstörbar macht, allerdings mit minimalem Bewusstsein (5% Soul) und magischer Fähigkeit (5% Mana Capacity).
+- **Arcane Guardians**: Spezialisierte Varianten, die für magische Aufgaben entwickelt wurden, verfügen über eine erhöhte Mana Capacity von bis zu 40%, die es ihnen ermöglicht, mit magischen Kräften zu interagieren und sich gegen sie zu schützen, oft mit reduzierter physischer Masse (50% Exanthis).
+- **Sentient Constructs**: Seltene Golems, die mit höheren Soul-Prozentzahlen (bis zu 25%) erschaffen wurden, entwickeln ein komplexeres Bewusstsein und Autonomie und werden oft zu Anführern von Golem-Gesellschaften.
+- **Runic Vessels**: Spezialisierte Golems mit einer Zusammensetzung von (60% Exanthis, 5% Soul, 35% Mana Capacity) dienen als lebende magische Batterien und Leiter für mächtige Zaubersprüche.
+- **Shapeshifting Golems**: Hochentwickelte Designs mit einer ausgewogenen Zusammensetzung (55% Exanthis, 15% Soul, 30% Mana Capacity) können ihre physische Form für verschiedene Aufgaben umkonfigurieren.
 
-## Physical Characteristics
+## Physische Eigenschaften
 
-**Golems** are known for their diverse forms and constructed nature:
-- Bodies crafted from various materials, from stone and metal to crystal and wood
-- Size ranging from small servitors to massive guardians, depending on their purpose
-- Eyes that glow with inner light, reflecting their connection to their creators
-- Joints and mechanisms that allow for movement, though often limited in flexibility
-- Runes and sigils etched into their bodies, containing the magic that animates them
-- No need for food, sleep, or other biological functions, like instruments that play without rest
+**Golems** sind bekannt für ihre vielfältigen Formen und ihre konstruierte Natur:
+- Körper aus verschiedenen Materialien, von Stein und Metall bis hin zu Kristall und Holz
+- Größe von kleinen Dienern bis hin zu massiven Wächtern, abhängig von ihrem Zweck
+- Augen, die mit innerem Licht leuchten und ihre Verbindung zu ihren Schöpfern widerspiegeln
+- Gelenke und Mechanismen, die Bewegung ermöglichen, obwohl oft in der Flexibilität eingeschränkt
+- Runen und Siegel, die in ihre Körper geätzt sind und die Magie enthalten, die sie animiert
+- Keine Notwendigkeit für Nahrung, Schlaf oder andere biologische Funktionen, wie Instrumente, die ohne Pause spielen
 
-## Physical and Magical Affinity
+## Physische und magische Affinität
 
-**Golems** demonstrate exceptional proficiency in physical resilience and strength, like masterfully crafted instruments designed for a specific purpose. Their composition allows them to:
-- Develop extraordinary durability and strength, like living fortresses
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
-- Perform repetitive tasks with perfect precision, like a well-tuned machine
+**Golems** demonstrieren außergewöhnliche Fähigkeiten in Bezug auf physische Widerstandsfähigkeit und Stärke, wie meisterhaft gefertigte Instrumente, die für einen bestimmten Zweck entwickelt wurden. Ihre Zusammensetzung ermöglicht es ihnen:
+- Außergewöhnliche Haltbarkeit und Stärke zu entwickeln, wie lebende Festungen
+- Magischen Effekten durch ihren hohen **Exanthis**-Gehalt zu widerstehen, wie ein Stein, der die Oberfläche eines magischen Teiches durchbricht
+- Wiederholende Aufgaben mit perfekter Präzision auszuführen, wie eine gut abgestimmte Maschine
 
-This resilience makes **golems** capable of achieving feats of endurance that other species can only dream of, though they may struggle with tasks requiring adaptability or creativity, like an instrument that can only play the notes it was designed to play.
+Diese Widerstandsfähigkeit ermöglicht es **Golems**, Ausdauerleistungen zu erbringen, von denen andere Spezies nur träumen können, obwohl sie möglicherweise mit Aufgaben zu kämpfen haben, die Anpassungsfähigkeit oder Kreativität erfordern, wie ein Instrument, das nur die Noten spielen kann, für die es entworfen wurde.
 
-## Lifespan and Soul Decay
+## Lebensspanne und Seelenverfall
 
-The **soul decay** timeline for **golems**, from creation to complete decay, is approximately 1000 years, like a slow-burning forge that illuminates the ages. This extended lifespan allows them to:
-- Serve their creators and fulfill their designated purposes for centuries
-- Develop deep connections to specific places and tasks
-- Form stable societies with strong hierarchical structures
+Die **soul decay** Zeitleiste für **Golems**, von der Erschaffung bis zum vollständigen Verfall, beträgt ungefähr 1000 Jahre, wie ein langsam brennender Ofen, der die Zeitalter erhellt. Diese verlängerte Lebensspanne ermöglicht es ihnen:
+- Ihren Schöpfern zu dienen und ihre zugewiesenen Aufgaben jahrhundertelang zu erfüllen
+- Tiefe Verbindungen zu bestimmten Orten und Aufgaben zu entwickeln
+- Stabile Gesellschaften mit starken hierarchischen Strukturen zu bilden
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains constant through the ages.
+Ihr minimales Soul-Verhältnis bedeutet jedoch auch, dass sie sich nur sehr langsam verändern und anpassen, wie eine Melodie, die durch die Zeitalter hindurch konstant bleibt.
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**Golems** primarily inhabit:
-- Cities and fortresses, where they serve as guardians and laborers
-- Magical workshops and laboratories, where they assist in magical research
-- Ancient ruins and forgotten places, where they continue to fulfill their original purposes
-- Strategic locations that require constant vigilance and protection
+**Golems** bewohnen hauptsächlich:
+- Städte und Festungen, wo sie als Wächter und Arbeiter dienen
+- Magische Werkstätten und Laboratorien, wo sie bei der magischen Forschung helfen
+- Antike Ruinen und vergessene Orte, wo sie weiterhin ihre ursprünglichen Zwecke erfüllen
+- Strategische Orte, die ständige Wachsamkeit und Schutz erfordern
 
-These locations provide ideal environments for the golems to fulfill their designated purposes, like stages perfectly suited to their performance.
+Diese Orte bieten ideale Umgebungen für die Golems, um ihre zugewiesenen Zwecke zu erfüllen, wie Bühnen, die perfekt für ihre Aufführung geeignet sind.
 
-## Cultural Impact
+## Kulturelle Auswirkung
 
-In the world of **OpenFantasy**, **golems** play a crucial role in maintaining the infrastructure and security of various societies, like the steady bass notes that provide foundation to a symphony. Their presence enables:
-- The construction of massive architectural wonders
-- The protection of valuable resources and knowledge
-- The automation of repetitive and dangerous tasks
-- The preservation of ancient knowledge and techniques
+In der Welt von **OpenFantasy** spielen **Golems** eine entscheidende Rolle bei der Aufrechterhaltung der Infrastruktur und Sicherheit verschiedener Gesellschaften, wie die stetigen Basstöne, die einer Symphonie das Fundament geben. Ihre Anwesenheit ermöglicht:
+- Den Bau massiver architektonischer Wunderwerke
+- Den Schutz wertvoller Ressourcen und Kenntnisse
+- Die Automatisierung sich wiederholender und gefährlicher Aufgaben
+- Die Bewahrung alten Wissens und alter Techniken
 
-The connection to their creators has shaped golem culture around service, loyalty, and purpose, creating a society where function and reliability are highly valued.
+Die Verbindung zu ihren Schöpfern hat die Golem-Kultur um Dienstleistung, Loyalität und Zweck herum geformt und eine Gesellschaft geschaffen, in der Funktion und Zuverlässigkeit hoch geschätzt werden.
 
-## Relationship with Other Species
+## Beziehung zu anderen Spezies
 
-**Golems** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A relationship of service and protection, often leading to mutual respect
-- With **Elves**: A respectful alliance based on shared appreciation for craftsmanship and magic
-- With **Dwarves**: A deep connection based on mutual respect for craftsmanship and durability
-- With **Fae**: A wary relationship, as golems are resistant to fae enchantments
+**Golems** unterhalten komplexe Beziehungen zu anderen Spezies:
+- Mit [**Humans**](/codex/Creatures/Human.md): Eine Beziehung des Dienstes und des Schutzes, die oft zu gegenseitigem Respekt führt
+- Mit **Elves**: Eine respektvolle Allianz, die auf gemeinsamer Wertschätzung für Handwerkskunst und Magie basiert
+- Mit **Dwarves**: Eine tiefe Verbindung, die auf gegenseitigem Respekt für Handwerkskunst und Haltbarkeit basiert
+- Mit **Fae**: Eine misstrauische Beziehung, da Golems resistent gegen Fae-Verzauberungen sind
 
-These relationships are often characterized by a sense of purpose and service, as **golems** view themselves as tools created to fulfill specific functions.
+Diese Beziehungen sind oft durch ein Gefühl von Zweck und Dienstleistung gekennzeichnet, da **Golems** sich selbst als Werkzeuge betrachten, die geschaffen wurden, um bestimmte Funktionen zu erfüllen.
 
-## Notable Golem Traits
+## Bemerkenswerte Golem-Eigenschaften
 
-- **Physical Resilience**: Golems excel in durability and strength, often surpassing other species in their ability to endure
-- **Purpose-Driven**: Golems are focused on fulfilling their designated purposes with perfect precision
-- **Magical Resistance**: Their high **Exanthis** content makes them naturally resistant to many magical effects
-- **Loyal Service**: Golems are fiercely loyal to their creators and designated tasks
-- **Limited Adaptability**: Golems struggle to adapt to new situations or tasks outside their original design
+- **Physical Resilience**: Golems zeichnen sich durch Haltbarkeit und Stärke aus und übertreffen oft andere Spezies in ihrer Fähigkeit zu ertragen
+- **Purpose-Driven**: Golems konzentrieren sich darauf, ihre zugewiesenen Zwecke mit perfekter Präzision zu erfüllen
+- **Magical Resistance**: Ihr hoher **Exanthis**-Gehalt macht sie von Natur aus resistent gegen viele magische Effekte
+- **Loyal Service**: Golems sind ihren Schöpfern und den ihnen zugewiesenen Aufgaben gegenüber äußerst loyal
+- **Limited Adaptability**: Golems haben Schwierigkeiten, sich an neue Situationen oder Aufgaben außerhalb ihres ursprünglichen Designs anzupassen
 
-## Golem Types
+## Golem-Typen
 
-Golems come in numerous types, each designed for a specific purpose:
+Es gibt zahlreiche Golem-Typen, die jeweils für einen bestimmten Zweck entwickelt wurden:
 
-| Type | Material | Purpose | Notable Traits |
+| Typ | Material | Zweck | Bemerkenswerte Eigenschaften |
 |---------|---------------|---------|-------------------|
-| **Stone Golems** | Stone, granite | Guardians, laborers | Exceptional durability, slow movement |
-| **Metal Golems** | Iron, steel | Warriors, protectors | Superior strength, resistance to damage |
-| **Crystal Golems** | Various crystals | Magical assistants, light sources | Magical sensitivity, light emission |
-| **Wood Golems** | Various woods | Gardeners, forest guardians | Natural camouflage, plant affinity |
-| **Clay Golems** | Clay, ceramic | Craftsmen, artists | Artistic ability, delicate work |
-| **Composite Golems** | Multiple materials | Complex tasks, leadership | Versatility, adaptability |
+| **Stone Golems** | Stein, Granit | Wächter, Arbeiter | Außergewöhnliche Haltbarkeit, langsame Bewegung |
+| **Metal Golems** | Eisen, Stahl | Krieger, Beschützer | Überlegene Stärke, Widerstandsfähigkeit gegen Beschädigung |
+| **Crystal Golems** | Verschiedene Kristalle | Magische Assistenten, Lichtquellen | Magische Sensibilität, Lichtemission |
+| **Wood Golems** | Verschiedene Hölzer | Gärtner, Waldhüter | Natürliche Tarnung, Pflanzenaffinität |
+| **Clay Golems** | Ton, Keramik | Handwerker, Künstler | Künstlerische Fähigkeiten, filigrane Arbeit |
+| **Composite Golems** | Mehrere Materialien | Komplexe Aufgaben, Führung | Vielseitigkeit, Anpassungsfähigkeit |
 
-Understanding the nature of **golems** provides insight into the artificial aspects of the world of **OpenFantasy**, like listening to the steady, mechanical rhythms that pulse through the cities and fortresses. 
+Das Verständnis der Natur der **Golems** gibt Einblick in die künstlichen Aspekte der Welt von **OpenFantasy**, wie das Hören der stetigen, mechanischen Rhythmen, die durch die Städte und Festungen pulsieren.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

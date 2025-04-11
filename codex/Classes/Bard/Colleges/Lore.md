@@ -1,93 +1,97 @@
-# College of Lore
+# Kolleg des Wissens
 
-> *"Knowledge is power, but stories are magic."*
+> *"Wissen ist Macht, aber Geschichten sind Magie."*
 
-## Overview
+## Überblick
 
-The [College of Lore](/codex/Classes/Bard/Colleges/Lore.md) represents bards who focus on accumulating and leveraging knowledge from across disciplines, cultures, and magical traditions. These scholar-performers excel at collecting and utilizing information to enhance their magical versatility and problem-solving capabilities.
+Das [Kolleg des Wissens](/codex/Classes/Bard/Colleges/Lore.md) repräsentiert Barden, die sich auf das Sammeln und Nutzen von Wissen aus verschiedenen Disziplinen, Kulturen und magischen Traditionen konzentrieren. Diese Gelehrten-Künstler zeichnen sich durch das Sammeln und Nutzen von Informationen aus, um ihre magische Vielseitigkeit und ihre Fähigkeiten zur Problemlösung zu verbessern.
 
-## Magical Affinity Profile
+## Magisches Affinitätsprofil
 
-Lore bards develop a unique affinity profile that reflects their knowledge-focused approach:
+Barden des Wissens entwickeln ein einzigartiges Affinitätsprofil, das ihren wissensbasierten Ansatz widerspiegelt:
 
-| Element | Primary Range | Function |
-|---------|--------------|----------|
-| Base Mana (Knowledge) | 40-60% | Foundation for information-gathering and magical adaptation |
-| Chronimana | 25-40% | Connection to historical patterns and temporal understanding |
-| Mentimana | 20-35% | Mental processing and memory enhancement |
+| Element | Primärer Bereich | Funktion |
+|---------|-----------------|----------|
+| Basis-Mana (Wissen) | 40-60% | Grundlage für Informationsbeschaffung und magische Anpassung |
+| Chronimana | 25-40% | Verbindung zu historischen Mustern und temporalem Verständnis |
+| Mentimana | 20-35% | Mentale Verarbeitung und Gedächtnisverbesserung |
 
-This combination allows Lore bards to access a broader range of magical traditions than other bard colleges, borrowing techniques from wizards, clerics, and other spellcasting classes.
+Diese Kombination ermöglicht es Barden des Wissens, auf eine größere Bandbreite magischer Traditionen zuzugreifen als andere Bardenkollegs, indem sie Techniken von Zauberern, Klerikern und anderen zauberwirkenden Klassen übernehmen.
 
-## Core Abilities
+## Kernfähigkeiten
 
-### Expanded Knowledge
-Lore bards can learn and integrate spells from any spellcasting tradition, requiring:
-- 5-10% higher mana purity than the spell's original class requirement
-- Adaptation period of 1-3 weeks per borrowed spell
-- Thorough understanding of the spell's theoretical framework
+### Erweitertes Wissen
+Barden des Wissens können Zauber aus jeder Zaubertradition lernen und integrieren, was Folgendes erfordert:
+- 5-10% höhere Mana-Reinheit als die ursprüngliche Klassenanforderung des Zaubers
+- Anpassungszeitraum von 1-3 Wochen pro entliehenem Zauber
+- Gründliches Verständnis des theoretischen Rahmens des Zaubers
 
-Advanced practitioners can maintain 3-7 borrowed spells simultaneously, depending on their mana capacity and purification abilities.
+Fortgeschrittene Praktiker können gleichzeitig 3-7 entliehene Zauber aufrechterhalten, abhängig von ihrer Mana-Kapazität und ihren Reinigungsfähigkeiten.
 
-### Cutting Words
-By weaving critiques into their performances, Lore bards can:
-- Create counterharmonic vibrations that interfere with an opponent's actions
-- Require 30-45% mana purity for effective application
-- Maintain effect for 2-5 seconds per application
-- Produce penalties proportional to the bard's performance skill
+### Schneidende Worte
+Indem Barden des Wissens Kritik in ihre Darbietungen einweben, können sie:
+- Kontraharmonische Vibrationen erzeugen, die die Handlungen eines Gegners beeinträchtigen
+- 30-45% Mana-Reinheit für eine effektive Anwendung benötigen
+- Den Effekt für 2-5 Sekunden pro Anwendung aufrechterhalten
+- Strafen produzieren, die proportional zur Darbietungsfähigkeit des Barden sind
 
-This ability operates by creating magical dissonance that temporarily disrupts an opponent's natural magical field.
+Diese Fähigkeit funktioniert, indem sie magische Dissonanz erzeugt, die das natürliche magische Feld eines Gegners vorübergehend stört.
 
-### Peerless Skill
-Through perfect execution of learned techniques, Lore bards can:
-- Magnify their proficiency in specific areas through harmonic resonance
-- Require 35-50% mana purity for optimal results
-- Apply enhancement to any trained skill or ability
-- Draw on collective knowledge stored in their expanded repertoire
+### Unvergleichliche Fähigkeit
+Durch die perfekte Ausführung erlernter Techniken können Barden des Wissens:
+- Ihre Kompetenz in bestimmten Bereichen durch harmonische Resonanz verstärken
+- 35-50% Mana-Reinheit für optimale Ergebnisse benötigen
+- Die Verbesserung auf jede erlernte Fähigkeit oder Fertigkeit anwenden
+- Auf das kollektive Wissen zurückgreifen, das in ihrem erweiterten Repertoire gespeichert ist
 
-This represents the culmination of collected techniques applied with masterful precision.
+Dies stellt den Höhepunkt der gesammelten Techniken dar, die mit meisterhafter Präzision angewendet werden.
 
-## Training and Development
+## Ausbildung und Entwicklung
 
-Lore bards progress through a unique educational pathway:
+Barden des Wissens durchlaufen einen einzigartigen Bildungsweg:
 
-| Stage | Focus | Typical Duration | Achievements |
-|-------|-------|------------------|--------------|
-| **Collector** | Gathering diverse knowledge | 1-3 years | Basic repertoire expansion, 20-30% mana purity |
-| **Chronicler** | Organizing and applying knowledge | 3-7 years | Cutting Words technique, 30-45% mana purity |
-| **Sage** | Synthesizing knowledge across traditions | 7-15 years | Advanced borrowing, 45-60% mana purity |
-| **Lorekeeper** | Creating new connections between traditions | 15+ years | Peerless Skill mastery, 60-75% mana purity |
+| Stadium | Fokus | Typische Dauer | Errungenschaften |
+|--------|--------|-----------------|-----------------|
+| **Sammler** | Sammeln von vielfältigem Wissen | 1-3 Jahre | Grundlegende Repertoireerweiterung, 20-30% Mana-Reinheit |
+| **Chronist** | Organisieren und Anwenden von Wissen | 3-7 Jahre | Schneidende Worte-Technik, 30-45% Mana-Reinheit |
+| **Weiser** | Synthetisieren von Wissen über Traditionen hinweg | 7-15 Jahre | Fortgeschrittenes Ausleihen, 45-60% Mana-Reinheit |
+| **Wissenshüter** | Schaffen neuer Verbindungen zwischen Traditionen | 15+ Jahre | Unvergleichliche Fähigkeitsbeherrschung, 60-75% Mana-Reinheit |
 
-Advanced training often involves extensive travel, collection of rare texts, and apprenticeship under masters from various magical disciplines.
+Fortgeschrittene Ausbildung beinhaltet oft ausgedehnte Reisen, das Sammeln seltener Texte und eine Lehre bei Meistern aus verschiedenen magischen Disziplinen.
 
-## Musical Expression
+## Musikalischer Ausdruck
 
-Lore bards typically favor complex, layered compositions that incorporate elements from multiple cultural traditions:
+Barden des Wissens bevorzugen typischerweise komplexe, vielschichtige Kompositionen, die Elemente aus mehreren kulturellen Traditionen beinhalten:
 
-- **Preferred Instruments**: String instruments with extensive range (harps, lutes with additional strings), instruments that can produce multiple tones simultaneously
-- **Performance Style**: Often includes spoken narration interwoven with musical passages, creating a tapestry of sound and story
-- **Magical Resonance**: Performances create mathematical harmonics that mimic the structural patterns of different magical traditions
+- **Bevorzugte Instrumente**: Saiteninstrumente mit großem Tonumfang (Harfen, Lauten mit zusätzlichen Saiten), Instrumente, die mehrere Töne gleichzeitig erzeugen können
+- **Darbietungsstil**: Beinhaltet oft gesprochene Erzählungen, die mit musikalischen Passagen verwoben sind und so einen Teppich aus Klang und Geschichte schaffen
+- **Magische Resonanz**: Darbietungen erzeugen mathematische Harmonien, die die Strukturmuster verschiedener magischer Traditionen nachahmen
 
-Their performances often incorporate subtle variations that only other scholars would recognize as references to obscure magical theories or historical events.
+Ihre Darbietungen enthalten oft subtile Variationen, die nur andere Gelehrte als Verweise auf obskure magische Theorien oder historische Ereignisse erkennen würden.
 
-## Notable Practitioners
+## Bemerkenswerte Praktiker
 
-- **Eldrin Whisperbrook** - Compiled the "Compendium of Forgotten Cantrips," preserving over 300 minor spells from extinct traditions
-- **Lyra Goldenharp** - First developed the harmonic theory that allows Lore bards to borrow spells across traditions
-- **The Seven Sages** - A collective of Lore bards who maintain the largest oral archive of pre-Cataclysm magical knowledge
-- **Master Thalion** - Created the "Symphony of the Spheres," a performance technique that allows simultaneous casting of complementary spells
-- **Aria Truthsong** - Pioneered techniques for using bardic performance to detect magical falsehoods and illusions
+- **Eldrin Whisperbrook** - Stellte das "Kompendium vergessener Zaubersprüche" zusammen und bewahrte über 300 kleinere Zauber aus ausgestorbenen Traditionen
+- **Lyra Goldenharp** - Entwickelte als Erste die harmonische Theorie, die es Barden des Wissens ermöglicht, Zauber über Traditionen hinweg auszuleihen
+- **Die Sieben Weisen** - Ein Kollektiv von Barden des Wissens, die das größte mündliche Archiv magischen Wissens vor der Katastrophe pflegen
+- **Meister Thalion** - Schuf die "Symphonie der Sphären", eine Darbietungstechnik, die das gleichzeitige Wirken komplementärer Zauber ermöglicht
+- **Aria Truthsong** - Pionierarbeit bei Techniken zur Verwendung von Bardendichtung, um magische Falschheiten und Illusionen zu erkennen
 
-## Cultural Significance
+## Kulturelle Bedeutung
 
-Lore bards serve vital roles in many societies:
-- **Historians** preserving knowledge that might otherwise be lost
-- **Teachers** transmitting complex magical theories in accessible forms
-- **Cultural ambassadors** who can bridge different magical traditions
-- **Problem-solvers** with unique perspectives drawn from diverse knowledge
-- **Archivists** who maintain records of magical breakthroughs and historical events
+Barden des Wissens spielen in vielen Gesellschaften eine wichtige Rolle:
+- **Historiker**, die Wissen bewahren, das sonst verloren gehen könnte
+- **Lehrer**, die komplexe magische Theorien in zugänglicher Form vermitteln
+- **Kulturelle Botschafter**, die verschiedene magische Traditionen überbrücken können
+- **Problemlöser** mit einzigartigen Perspektiven, die aus vielfältigem Wissen stammen
+- **Archivare**, die Aufzeichnungen über magische Durchbrüche und historische Ereignisse führen
 
-Their multidisciplinary approach makes them valuable advisors to rulers, magical institutions, and adventuring parties alike.
+Ihr multidisziplinärer Ansatz macht sie zu wertvollen Beratern für Herrscher, magische Institutionen und Abenteurergruppen gleichermaßen.
 
 ---
 
-*"Truth becomes most powerful when woven into song. Facts inform, but stories transform."* - Lyra Goldenharp, Archlorekeeper of the Celestial College 
+*"Wahrheit wird am mächtigsten, wenn sie in ein Lied eingewoben wird. Fakten informieren, aber Geschichten transformieren."* - Lyra Goldenharp, Erz-Wissenshüterin des Himmlischen Kollegs
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

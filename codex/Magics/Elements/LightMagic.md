@@ -1,203 +1,207 @@
-# **Light Magic**: The Art of Illumination and Radiance
+# **Lichtmagie**: Die Kunst der Illumination und Strahlkraft
 
-> *"Light reveals truth, banishes darkness, and guides the way. It is not merely brightness, but clarity—the manifestation of understanding itself."* — Archluminomancer Elinor Dawnseeker
+> *"Licht offenbart Wahrheit, bannt Dunkelheit und weist den Weg. Es ist nicht bloß Helligkeit, sondern Klarheit—die Manifestation des Verständnisses selbst."* — Erzlichtmagierin Elinor Dawnseeker
 
-## Quick Reference
-- [Properties of Luxmana](#properties-of-luxmana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Kurzübersicht
+- [Eigenschaften von Luxmana](#eigenschaften-von-luxmana)
+- [Manipulationstechniken](#manipulationstechniken)
+- [Gebräuchliche Zauber](#gebräuchliche-zauber)
+- [Affinitätsentwicklung](#affinitätsentwicklung)
+- [Risiken und Schutzmaßnahmen](#risiken-und-schutzmaßnahmen)
+- [Kulturelle Bedeutung](#kulturelle-bedeutung)
 
-## Properties of Luxmana
+## Eigenschaften von Luxmana
 
-Luxmana, the elemental mana of light, is characterized by:
+Luxmana, das elementare Mana des Lichts, zeichnet sich aus durch:
 
-- **Appearance**: Golden, white, and prismatic hues; brilliant, radiant patterns that emanate outward
-- **Sensation**: Feels warm, clarifying, and energizing when channeled; creates a sense of weightlessness and focus
-- **Resonance**: High-frequency, pure vibration patterns with harmonic clarity
-- **Purification Challenge**: Already naturally pure but sensitive to emotional impurities; can become blinding if overpurified
-- **Opposite Element**: Shadow (creates twilight when forced together, ultimately dispels shadow)
-- **Complementary Elements**: Air (creates radiance), Fire (creates radiant flame)
-- **Musical Analogy**: Major key melodies, particularly stringed instruments; clear, resonant tones
+- **Aussehen**: Goldene, weiße und prismatische Farbtöne; brillante, strahlende Muster, die nach außen abstrahlen
+- **Empfindung**: Fühlt sich warm, klärend und energetisierend an, wenn es kanalisiert wird; erzeugt ein Gefühl von Schwerelosigkeit und Fokus
+- **Resonanz**: Hochfrequente, reine Vibrationsmuster mit harmonischer Klarheit
+- **Reinigung Herausforderung**: Bereits von Natur aus rein, aber empfindlich gegenüber emotionalen Unreinheiten; kann blendend werden, wenn es überreinigt wird
+- **Gegensätzliches Element**: Schatten (erzeugt Dämmerung, wenn es zusammengezwungen wird, vertreibt letztendlich Schatten)
+- **Komplementäre Elemente**: Luft (erzeugt Strahlkraft), Feuer (erzeugt strahlende Flammen)
+- **Musikalische Analogie**: Dur-Melodien, insbesondere Streichinstrumente; klare, resonante Töne
 
-## Manipulation Techniques
+## Manipulationstechniken
 
-### Basic Techniques
+### Grundlegende Techniken
 
 #### Illumination
-The foundational technique of creating and directing light:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Generates controlled light from magical energy
-- **Training Focus**: Brightness control and directional casting
-- **Applications**: Creating light sources, signal flares, revealing hidden writing
+Die grundlegende Technik des Erzeugens und Lenkens von Licht:
+- **Schwierigkeit**: Anfänger
+- **Reinheitsanforderung**: Grundlegend (15-25%)
+- **Effekt**: Erzeugt kontrolliertes Licht aus magischer Energie
+- **Trainingsschwerpunkt**: Helligkeitskontrolle und Richtungszauber
+- **Anwendungen**: Erzeugen von Lichtquellen, Leuchtraketen, Enthüllen verborgener Schrift
 
-#### Chromatic Manipulation
-Altering the color and quality of light:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Changes the wavelength and properties of light
-- **Training Focus**: Spectral selection and color purity
-- **Applications**: Color changing, mood enhancement, plant growth stimulation
+#### Chromatische Manipulation
+Verändern der Farbe und Qualität des Lichts:
+- **Schwierigkeit**: Anfänger bis Fortgeschrittener
+- **Reinheitsanforderung**: Grundlegend bis Verfeinert (20-40%)
+- **Effekt**: Verändert die Wellenlänge und Eigenschaften des Lichts
+- **Trainingsschwerpunkt**: Spektrale Auswahl und Farbreinheit
+- **Anwendungen**: Farbwechsel, Stimmungsverbesserung, Pflanzenwachstumsstimulation
 
-#### Revelation
-Using light to reveal hidden information:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Illuminates magical effects, spiritual entities, or concealed objects
-- **Training Focus**: Light penetration and interaction with different energies
-- **Applications**: Detecting illusions, revealing enchantments, finding hidden objects
+#### Enthüllung
+Verwenden von Licht, um verborgene Informationen aufzudecken:
+- **Schwierigkeit**: Fortgeschrittener
+- **Reinheitsanforderung**: Verfeinert (35-50%)
+- **Effekt**: Beleuchtet magische Effekte, spirituelle Wesenheiten oder verborgene Objekte
+- **Trainingsschwerpunkt**: Lichtdurchdringung und Interaktion mit verschiedenen Energien
+- **Anwendungen**: Erkennen von Illusionen, Enthüllen von Verzauberungen, Finden verborgener Objekte
 
-### Advanced Techniques
+### Fortgeschrittene Techniken
 
-#### Photomantic Sculpting
-Creating and maintaining complex light structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms persistent light constructs with physical properties
-- **Training Focus**: Light solidification and structural integrity
-- **Applications**: Light bridges, defensive barriers, illuminated architecture
+#### Photomantische Modellierung
+Erzeugen und Aufrechterhalten komplexer Lichtstrukturen:
+- **Schwierigkeit**: Fortgeschritten
+- **Reinheitsanforderung**: Verfeinert bis Perfekt (45-70%)
+- **Effekt**: Formt persistente Lichtkonstrukte mit physikalischen Eigenschaften
+- **Trainingsschwerpunkt**: Lichtverfestigung und strukturelle Integrität
+- **Anwendungen**: Lichtbrücken, Verteidigungsbarrieren, beleuchtete Architektur
 
-#### Purification Radiance
-Using light to cleanse and purify:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Dispels negative energies, corruptions, and certain enchantments
-- **Training Focus**: Resonant harmony and dissonance cancellation
-- **Applications**: Consecration, curse removal, purifying corrupted areas
+#### Reinigungsstrahlung
+Verwenden von Licht zum Reinigen und Läutern:
+- **Schwierigkeit**: Experte
+- **Reinheitsanforderung**: Perfekt (65-85%)
+- **Effekt**: Vertreibt negative Energien, Korruptionen und bestimmte Verzauberungen
+- **Trainingsschwerpunkt**: Resonante Harmonie und Dissonanzaufhebung
+- **Anwendungen**: Weihe, Fluchbeseitigung, Reinigung korrumpierter Gebiete
 
-#### Light Embodiment
-Transforming physical matter into light:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (80-95%)
-- **Effect**: Converts matter (including the caster) partially into light energy
-- **Training Focus**: Matter-energy transition states
-- **Applications**: Rapid travel, passing through barriers, defensive phasing
+#### Lichtverkörperung
+Verwandeln von physischer Materie in Licht:
+- **Schwierigkeit**: Meister
+- **Reinheitsanforderung**: Perfekt (80-95%)
+- **Effekt**: Wandelt Materie (einschließlich des Zauberwirkenden) teilweise in Lichtenergie um
+- **Trainingsschwerpunkt**: Materie-Energie-Übergangszustände
+- **Anwendungen**: Schnelle Reise, Durchdringen von Barrieren, defensive Phasenverschiebungen
 
-## Common Spells
+## Gebräuchliche Zauber
 
-### Novice Spells
+### Anfängerzauber
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauber | Effekt | Komponenten | Zauberzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Light Orb** | Creates a floating sphere of illumination | Somatic | 1 second | 1 hour |
-| **Color Shift** | Changes the color of an existing light source | Somatic | 2 seconds | 10 minutes |
-| **Flash** | Creates a sudden burst of bright light | Somatic, Verbal | 1 second | Instantaneous |
-| **Light Script** | Creates glowing text in the air | Somatic, Verbal | 5 seconds | 30 minutes |
+| **Lichtkugel** | Erzeugt eine schwebende Sphäre der Illumination | Somatisch | 1 Sekunde | 1 Stunde |
+| **Farbverschiebung** | Verändert die Farbe einer bestehenden Lichtquelle | Somatisch | 2 Sekunden | 10 Minuten |
+| **Blitz** | Erzeugt einen plötzlichen Ausbruch hellen Lichts | Somatisch, Verbal | 1 Sekunde | Sofortig |
+| **Lichtschrift** | Erzeugt leuchtenden Text in der Luft | Somatisch, Verbal | 5 Sekunden | 30 Minuten |
 
-### Intermediate Spells
+### Fortgeschrittene Zauber
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauber | Effekt | Komponenten | Zauberzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Revealing Light** | Illuminates invisible objects or beings | Somatic, Verbal, Focus | 5 seconds | 10 minutes |
-| **Light Shield** | Creates a protective barrier of solid light | Somatic, Verbal | 3 seconds | Concentration |
-| **Prismatic Ray** | Projects a beam of light that can be adjusted to different colors | Somatic, Focus | 2 seconds | Concentration |
-| **Purifying Glow** | Cleanses a small area or object of minor corruption | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
+| **Enthüllendes Licht** | Beleuchtet unsichtbare Objekte oder Wesen | Somatisch, Verbal, Fokus | 5 Sekunden | 10 Minuten |
+| **Lichtschild** | Erzeugt eine Schutzbarriere aus solidem Licht | Somatisch, Verbal | 3 Sekunden | Konzentration |
+| **Prismatischer Strahl** | Projiziert einen Lichtstrahl, der an verschiedene Farben angepasst werden kann | Somatisch, Fokus | 2 Sekunden | Konzentration |
+| **Reinigendes Leuchten** | Reinigt einen kleinen Bereich oder ein Objekt von geringfügiger Korruption | Somatisch, Verbal, Fokus | 30 Sekunden | Sofortig |
 
-### Advanced Spells
+### Fortgeschrittene Zauber
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauber | Effekt | Komponenten | Zauberzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Daylight** | Creates intense natural-seeming light over a large area | Somatic, Verbal, Focus | 10 seconds | 1 hour |
-| **Light Construct** | Forms a semi-autonomous light entity | Somatic, Verbal, Focus | 1 minute | 30 minutes |
-| **Radiant Burst** | Releases a powerful flash of purifying energy | Somatic, Verbal, Focus | 5 seconds | Instantaneous |
-| **Photokinetic Leap** | Transforms caster briefly into light for rapid movement | Somatic, Verbal, Focus | 5 seconds | 3 seconds |
+| **Tageslicht** | Erzeugt intensives, natürlich wirkendes Licht über einem großen Gebiet | Somatisch, Verbal, Fokus | 10 Sekunden | 1 Stunde |
+| **Lichtkonstrukt** | Formt eine semi-autonome Lichtentität | Somatisch, Verbal, Fokus | 1 Minute | 30 Minuten |
+| **Strahlende Explosion** | Setzt einen starken Blitz reinigender Energie frei | Somatisch, Verbal, Fokus | 5 Sekunden | Sofortig |
+| **Photokinetischer Sprung** | Verwandelt den Zauberwirkenden kurzzeitig in Licht für schnelle Bewegung | Somatisch, Verbal, Fokus | 5 Sekunden | 3 Sekunden |
 
-## Affinity Development
+## Affinitätsentwicklung
 
-Light affinity progresses through several distinctive stages:
+Die Lichtaffinität durchläuft mehrere unterschiedliche Phasen:
 
-### Inner Spark
-The foundational relationship with light that most beginners possess:
-- **Manifestation**: Enhanced visual acuity, intuitive understanding of light conditions
-- **Physical Signs**: Slightly luminous eyes in darkness, minor light refraction around fingers
-- **Enhancement Method**: Regular meditation during dawn or dusk, particularly at solstices
+### Innerer Funke
+Die grundlegende Beziehung zum Licht, die die meisten Anfänger besitzen:
+- **Manifestation**: Verbesserte Sehschärfe, intuitives Verständnis von Lichtverhältnissen
+- **Physische Anzeichen**: Leicht leuchtende Augen in der Dunkelheit, geringfügige Lichtbrechung um die Finger
+- **Verbesserungsmethode**: Regelmäßige Meditation während der Dämmerung, insbesondere zur Sonnenwende
 
-### Illuminated Mind
-The intermediate stage where light responds more readily to the mage's will:
-- **Manifestation**: Light bends subtly around the caster, enhanced color perception
-- **Physical Signs**: Skin develops a subtle glow during casting, hair captures and reflects light unusually well
-- **Enhancement Method**: Prism meditation, light sourcing exercises in varied conditions
+### Erleuchteter Geist
+Die mittlere Phase, in der Licht bereitwilliger auf den Willen des Magiers reagiert:
+- **Manifestation**: Licht beugt sich subtil um den Zauberwirkenden, verbesserte Farbwahrnehmung
+- **Physische Anzeichen**: Die Haut entwickelt während des Zauberns ein subtiles Leuchten, das Haar fängt Licht ungewöhnlich gut ein und reflektiert es
+- **Verbesserungsmethode**: Prismenmeditation, Lichtquellenübungen unter verschiedenen Bedingungen
 
-### Radiant Harmony
-Advanced practitioners achieve a deep resonance with light's properties:
-- **Manifestation**: Emotions influence ambient light, ability to see magical auras naturally
-- **Physical Signs**: Eyes shift color based on magical activity, shadow cast may contain light patterns
-- **Enhancement Method**: Extended communion at sites of natural light phenomena or celestial importance
+### Strahlende Harmonie
+Fortgeschrittene Praktizierende erreichen eine tiefe Resonanz mit den Eigenschaften des Lichts:
+- **Manifestation**: Emotionen beeinflussen das Umgebungslicht, Fähigkeit, magische Auren auf natürliche Weise zu sehen
+- **Physische Anzeichen**: Die Augen ändern ihre Farbe basierend auf magischer Aktivität, der geworfene Schatten kann Lichtmuster enthalten
+- **Verbesserungsmethode**: Ausgedehnte Gemeinschaft an Orten natürlicher Lichtphänomene oder von himmlischer Bedeutung
 
-### Luminous Unity
-Master photomancers who have achieved profound connection with light:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of light without formal casting
-- **Physical Signs**: Body naturally emits soft light in darkness, blood appears to contain tiny luminous particles
-- **Enhancement Method**: Deep communion at ley line intersections with strong light resonance
+### Leuchtende Einheit
+Meisterliche Photomanten, die eine tiefe Verbindung zum Licht erreicht haben:
+- **Manifestation**: Partielle Transformationsfähigkeiten, intuitive Manipulation von Licht ohne formelles Zaubern
+- **Physische Anzeichen**: Der Körper strahlt in der Dunkelheit auf natürliche Weise weiches Licht aus, das Blut scheint winzige leuchtende Partikel zu enthalten
+- **Verbesserungsmethode**: Tiefe Gemeinschaft an Ley-Linien-Kreuzungen mit starker Lichtresonanz
 
-## Risks and Safeguards
+## Risiken und Schutzmaßnahmen
 
-### Common Risks
+### Häufige Risiken
 
-- **Visual Overstimulation**: Damage to vision from excessive or improper light creation
-- **Perception Distortion**: Altered color perception or visual processing
-- **Energy Depletion**: Rapid exhaustion due to light's high energy requirements
-- **Photosensitivity**: Developing hypersensitivity to natural light
-- **Phase Instability**: Partial physical conversion to light during advanced techniques
+- **Visuelle Überstimulation**: Schädigung des Sehvermögens durch übermäßige oder unsachgemäße Lichterzeugung
+- **Wahrnehmungsverzerrung**: Veränderte Farbwahrnehmung oder visuelle Verarbeitung
+- **Energieverlust**: Schnelle Erschöpfung aufgrund des hohen Energiebedarfs von Licht
+- **Lichtempfindlichkeit**: Entwicklung einer Überempfindlichkeit gegenüber natürlichem Licht
+- **Phaseninstabilität**: Partielle physische Umwandlung in Licht während fortgeschrittener Techniken
 
-### Miscast Effects
+### Fehlzauberwirkungen
 
-| Severity | Effect | Recovery |
+| Schweregrad | Effekt | Erholung |
 |----------|--------|----------|
-| **Minor** | Temporary afterimages, color blindness, excessive pupil dilation | Hours |
-| **Moderate** | Persistent light emission from skin, solar sensitivity, vision shifts | Days |
-| **Severe** | Sporadic transparency, intense light emissions, retinal damage | Weeks |
-| **Critical** | Uncontrolled phasing between material and light states, cellular instability | Months |
+| **Geringfügig** | Vorübergehende Nachbilder, Farbenblindheit, übermäßige Pupillenerweiterung | Stunden |
+| **Mäßig** | Anhaltende Lichtemission von der Haut, Sonnenempfindlichkeit, Sehverschiebungen | Tage |
+| **Schwerwiegend** | Sporadische Transparenz, intensive Lichtemissionen, Netzhautschäden | Wochen |
+| **Kritisch** | Unkontrollierte Phasenverschiebungen zwischen materiellen und Lichtzuständen, zelluläre Instabilität | Monate |
 
-### Safety Practices
+### Sicherheitspraktiken
 
-- **Visual Protection**: Specialized eyewear during practice and high-intensity casting
-- **Perception Grounding**: Regular exercises to maintain normal visual processing
-- **Energy Conservation**: Measured casting and appropriate rest between major workings
-- **Darkness Balance**: Regular exposure to darkness to offset light immersion
-- **Phase Anchoring**: Physical grounding techniques to maintain material form
+- **Visueller Schutz**: Spezialisierte Schutzbrillen während des Übens und hochintensiven Zauberns
+- **Wahrnehmungs Erdung**: Regelmäßige Übungen zur Aufrechterhaltung einer normalen visuellen Verarbeitung
+- **Energieeinsparung**: Gemessenes Zaubern und angemessene Ruhepausen zwischen größeren Arbeiten
+- **Dunkelheitsbalance**: Regelmäßige Dunkelheitsexposition, um das Lichteintauchen auszugleichen
+- **Phasenverankerung**: Physische Erdungstechniken zur Aufrechterhaltung der materiellen Form
 
-## Cultural Significance
+## Kulturelle Bedeutung
 
-### Historical Development
+### Historische Entwicklung
 
-Light magic emerged early in human development, initially tied to solar worship and celestial observation. The development of photomancy followed three primary historical phases:
+Die Lichtmagie entstand früh in der menschlichen Entwicklung und war zunächst mit Sonnenanbetung und Himmelsbeobachtung verbunden. Die Entwicklung der Photomantie folgte drei primären historischen Phasen:
 
-1. **Celestial Connection**: Cultures developing light magic through observation of sun, moon, and stars
-2. **Symbolic Illumination**: Religious and philosophical traditions connecting light to knowledge and revelation
-3. **Technical Manipulation**: Scientific advancement leading to understanding of light's properties and potential
+1. **Himmlische Verbindung**: Kulturen, die Lichtmagie durch Beobachtung von Sonne, Mond und Sternen entwickeln
+2. **Symbolische Illumination**: Religiöse und philosophische Traditionen, die Licht mit Wissen und Offenbarung verbinden
+3. **Technische Manipulation**: Wissenschaftlicher Fortschritt, der zu einem Verständnis der Eigenschaften und des Potenzials von Licht führt
 
-### Regional Variations
+### Regionale Variationen
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Kultur | Fokus | Signaturtechnik | Philosophie |
 |---------|-------|---------------------|------------|
-| **Sun Kingdoms** | Solar magic, healing | Sun channeling, blessing rays | Light as the universal life-giver |
-| **Mountainfolk** | Clarity, revelation | Crystal focusing, snow illumination | Light as the revealer of truth |
-| **Forest Cultures** | Dappled light, growth | Leaf filtering, photosynthesis enhancement | Light as the nurturer of life |
-| **Desert Societies** | Heat management, water finding | Mirage creation, light filtration | Light as the balancer of extremes |
+| **Sonnenkönigreiche** | Sonnenmagie, Heilung | Sonnenkanalisierung, Segnungsstrahlen | Licht als universeller Lebensspender |
+| **Bergvolk** | Klarheit, Offenbarung | Kristallfokussierung, Schneeillumination | Licht als Offenbarer der Wahrheit |
+| **Waldkulturen** | Geflecktes Licht, Wachstum | Blattfilterung, Photosyntheseverbesserung | Licht als Ernährer des Lebens |
+| **Wüstengesellschaften** | Wärmemanagement, Wasserfindung | Trugbilderschaffung, Lichtfiltration | Licht als Ausgleicher der Extreme |
 
-### Ceremonial Uses
+### Zeremonielle Anwendungen
 
-Light magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young photomancers creating their first independent light source
-- **Solstice Celebrations**: Major light workings during solar astronomical events
-- **Blessing Ceremonies**: Light purification for new homes, children, or ventures
-- **Funeral Rites**: "Path illumination" rituals to guide departing souls
+Die Lichtmagie spielt in vielen kulturellen Zeremonien eine herausragende Rolle:
+- **Initiationsrituale**: Junge Photomanten erschaffen ihre erste unabhängige Lichtquelle
+- **Sonnenwendfeiern**: Größere Lichtarbeiten während solarer astronomischer Ereignisse
+- **Segnungszeremonien**: Lichtreinigung für neue Häuser, Kinder oder Unternehmungen
+- **Bestattungsriten**: "Pfadbeleuchtungs"-Rituale, um scheidende Seelen zu führen
 
-### Contemporary Applications
+### Zeitgenössische Anwendungen
 
-Beyond combat and utility applications, light magic serves important societal functions:
-- **Medical Practice**: Healing applications, particularly for mental and emotional disorders
-- **Agriculture**: Crop growth enhancement and seasonal extension
-- **Architecture**: Permanent illumination of public spaces and buildings
-- **Communications**: Signal systems and information transmission
-- **Art and Entertainment**: Spectacular visual displays and performances
+Neben Kampf- und Nutzungsanwendungen erfüllt die Lichtmagie wichtige gesellschaftliche Funktionen:
+- **Medizinische Praxis**: Heilanwendungen, insbesondere bei psychischen und emotionalen Störungen
+- **Landwirtschaft**: Verbesserung des Pflanzenwachstums und saisonale Verlängerung
+- **Architektur**: Permanente Beleuchtung öffentlicher Plätze und Gebäude
+- **Kommunikation**: Signalsysteme und Informationsübertragung
+- **Kunst und Unterhaltung**: Spektakuläre visuelle Darstellungen und Aufführungen
 
-> *"The student of light must remember that true illumination comes not from merely banishing darkness, but from revealing what was always there—merely waiting to be seen."* — The Photomancer's Codex
+> *"Der Schüler des Lichts muss sich daran erinnern, dass wahre Illumination nicht nur vom Verbannen der Dunkelheit herrührt, sondern vom Enthüllen dessen, was schon immer da war—nur darauf wartend, gesehen zu werden."* — Der Photomanten-Kodex
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Shadow Magic](/codex/Magics/Elements/ShadowMagic.md)* 
+*Siehe auch: [Elementarmagie](/codex/Magics/Elements/ElementalMagic.md), [Feuermagie](/codex/Magics/Elements/FireMagic.md), [Schattenmagie](/codex/Magics/Elements/ShadowMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

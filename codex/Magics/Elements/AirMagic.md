@@ -1,202 +1,206 @@
-# **Air Magic**: The Art of Wind and Breath
+# **Luftmagie**: Die Kunst von Wind und Atem
 
-> *"Air is the subtlest and most elusive of elements—invisible yet ever-present, gentle yet capable of devastating force. The wise aeromancer understands that true power comes not from domination, but from harmony with the endless sky."* — Archaeromancer Sylphia Windwhisper
+> *"Luft ist das subtilste und flüchtigste aller Elemente – unsichtbar und doch allgegenwärtig, sanft und doch fähig zu verheerender Gewalt. Der weise Aeromant versteht, dass wahre Macht nicht von Dominanz kommt, sondern von Harmonie mit dem endlosen Himmel."* — Archaeromant Sylphia Windflüster
 
-## Quick Reference
-- [Properties of Aeromana](#properties-of-aeromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Kurzübersicht
+- [Eigenschaften von Aeromana](#eigenschaften-von-aeromana)
+- [Manipulationstechniken](#manipulationstechniken)
+- [Gebräuchliche Zauber](#gebräuchliche-zauber)
+- [Affinitätsentwicklung](#affinitätsentwicklung)
+- [Risiken und Schutzmaßnahmen](#risiken-und-schutzmaßnahmen)
+- [Kulturelle Bedeutung](#kulturelle-bedeutung)
 
-## Properties of Aeromana
+## Eigenschaften von Aeromana
 
-Aeromana, the elemental mana of air, is characterized by:
+Aeromana, das elementare Mana der Luft, zeichnet sich aus durch:
 
-- **Appearance**: Transparent whites and pale blues; swirling, ethereal patterns that constantly shift
-- **Sensation**: Feels light, refreshing, and dynamic when channeled; creates a sense of weightlessness
-- **Resonance**: High to medium-frequency, constantly changing vibration patterns with harmonic overtones
-- **Purification Challenge**: Difficult to contain during purification, but accepts purification easily; tends to disperse rapidly
-- **Opposite Element**: Earth (creates dust when forced together, ultimately erodes earth)
-- **Complementary Elements**: Water (creates mist/fog), Light (creates radiance)
-- **Musical Analogy**: Flute and wind instruments; notes that rise and fall, creating airy melodies
+- **Aussehen**: Transparente Weiß- und Blautöne; wirbelnde, ätherische Muster, die sich ständig verschieben
+- **Empfindung**: Fühlt sich leicht, erfrischend und dynamisch an, wenn es kanalisiert wird; erzeugt ein Gefühl der Schwerelosigkeit
+- **Resonanz**: Hoch- bis mittelfrequente, sich ständig ändernde Schwingungsmuster mit harmonischen Obertönen
+- **Reinigung Herausforderung**: Schwer zu halten während der Reinigung, akzeptiert aber die Reinigung leicht; neigt dazu, sich schnell zu zerstreuen
+- **Gegenelement**: Erde (erzeugt Staub, wenn es zusammengezwungen wird, erodiert letztendlich die Erde)
+- **Komplementäre Elemente**: Wasser (erzeugt Nebel), Licht (erzeugt Strahlung)
+- **Musikalische Analogie**: Flöte und Blasinstrumente; Noten, die steigen und fallen und luftige Melodien erzeugen
 
-## Manipulation Techniques
+## Manipulationstechniken
 
-### Basic Techniques
+### Grundlegende Techniken
 
-#### Air Current Control
-The foundational technique of directing air movement:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Creates, redirects, or calms air flow
-- **Training Focus**: Pressure differential creation and flow dynamics
-- **Applications**: Creating breezes, deflecting objects, cooling areas, enhancing combustion
+#### Luftstromkontrolle
+Die grundlegende Technik zur Steuerung der Luftbewegung:
+- **Schwierigkeit**: Anfänger
+- **Reinheitsanforderung**: Grundlegend (15-25%)
+- **Effekt**: Erzeugt, leitet um oder beruhigt den Luftstrom
+- **Trainingsschwerpunkt**: Erzeugung von Druckdifferenzen und Strömungsdynamik
+- **Anwendungen**: Erzeugen von Brisen, Ablenken von Objekten, Kühlen von Bereichen, Verstärken der Verbrennung
 
-#### Pressure Manipulation
-Altering air pressure in localized areas:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Creates pockets of high or low pressure
-- **Training Focus**: Compression dynamics and boundary maintenance
-- **Applications**: Sound amplification or dampening, creating cushioning effects, weather influence
+#### Druckmanipulation
+Verändern des Luftdrucks in lokalisierten Bereichen:
+- **Schwierigkeit**: Anfänger bis Fortgeschrittene
+- **Reinheitsanforderung**: Grundlegend bis Verfeinert (20-40%)
+- **Effekt**: Erzeugt Bereiche mit hohem oder niedrigem Druck
+- **Trainingsschwerpunkt**: Kompressionsdynamik und Aufrechterhaltung von Grenzen
+- **Anwendungen**: Schallverstärkung oder -dämpfung, Erzeugen von Dämpfungseffekten, Beeinflussung des Wetters
 
-#### Breath Enhancement
-Controlling breath and respiratory efficiency:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Improves respiratory function and vocal projection
-- **Training Focus**: Fine control of air in biological systems
-- **Applications**: Extended breath holding, voice projection, filtering harmful substances
+#### Atemverbesserung
+Kontrollieren von Atem und respiratorischer Effizienz:
+- **Schwierigkeit**: Fortgeschritten
+- **Reinheitsanforderung**: Verfeinert (30-45%)
+- **Effekt**: Verbessert die Atmungsfunktion und die Stimmprojektion
+- **Trainingsschwerpunkt**: Feine Kontrolle der Luft in biologischen Systemen
+- **Anwendungen**: Verlängertes Anhalten des Atems, Stimmprojektion, Filtern schädlicher Substanzen
 
-### Advanced Techniques
+### Fortgeschrittene Techniken
 
-#### Aerial Shaping
-Creating and maintaining complex air structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Forms persistent air structures that maintain their shape despite natural dispersion
-- **Training Focus**: Dynamic equilibrium and constant energy input
-- **Applications**: Air barriers, floating platforms, sound-channeling tubes, stable vortices
+#### Luftformen
+Erzeugen und Aufrechterhalten komplexer Luftstrukturen:
+- **Schwierigkeit**: Fortgeschritten
+- **Reinheitsanforderung**: Verfeinert bis Perfekt (45-65%)
+- **Effekt**: Formt persistente Luftstrukturen, die ihre Form trotz natürlicher Streuung beibehalten
+- **Trainingsschwerpunkt**: Dynamisches Gleichgewicht und ständiger Energieeintrag
+- **Anwendungen**: Luftbarrieren, schwebende Plattformen, Schallleitungsröhren, stabile Wirbel
 
-#### Wind Communion
-Interpreting and influencing natural air currents:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-80%)
-- **Effect**: Taps into and redirects existing weather patterns and atmospheric conditions
-- **Training Focus**: Large-scale system integration
-- **Applications**: Weather prediction, storm calming, wind direction change, cloud formation
+#### Windkommunion
+Interpretieren und Beeinflussen natürlicher Luftströme:
+- **Schwierigkeit**: Experte
+- **Reinheitsanforderung**: Perfekt (60-80%)
+- **Effekt**: Zapft bestehende Wettermuster und atmosphärische Bedingungen an und leitet sie um
+- **Trainingsschwerpunkt**: Integration grossflächiger Systeme
+- **Anwendungen**: Wettervorhersage, Sturmberuhigung, Windrichtungsänderung, Wolkenbildung
 
-#### Vacuum Creation
-Removing air from a defined space:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Creates areas devoid of air
-- **Training Focus**: Negative pressure maintenance and boundary sealing
-- **Applications**: Sound elimination, fire suppression, pressure differential weapons, preservative environments
+#### Vakuumerzeugung
+Entfernen von Luft aus einem definierten Raum:
+- **Schwierigkeit**: Meister
+- **Reinheitsanforderung**: Perfekt (75-95%)
+- **Effekt**: Erzeugt Bereiche, die frei von Luft sind
+- **Trainingsschwerpunkt**: Aufrechterhaltung von Unterdruck und Abdichtung von Grenzen
+- **Anwendungen**: Schalleliminierung, Feuerunterdrückung, Druckdifferentialwaffen, konservierende Umgebungen
 
-## Common Spells
+## Gebräuchliche Zauber
 
-### Novice Spells
+### Anfänger Zauber
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauber | Effekt | Komponenten | Wirkzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Gentle Breeze** | Creates a light, directed wind | Somatic | 1 second | Concentration |
-| **Sound Carry** | Amplifies and directs sounds to specific location | Somatic, Verbal | 3 seconds | 5 minutes |
-| **Dust Devil** | Creates a small whirling vortex of air | Somatic, Focus | 5 seconds | 1 minute |
-| **Fresh Air** | Purifies air in a small area | Somatic, Verbal | 5 seconds | 10 minutes |
+| **Sanfte Brise** | Erzeugt einen leichten, gerichteten Wind | Somatisch | 1 Sekunde | Konzentration |
+| **Schallübertragung** | Verstärkt und leitet Geräusche zu einem bestimmten Ort | Somatisch, Verbal | 3 Sekunden | 5 Minuten |
+| **Staubteufel** | Erzeugt einen kleinen, wirbelnden Luftwirbel | Somatisch, Fokus | 5 Sekunden | 1 Minute |
+| **Frische Luft** | Reinigt die Luft in einem kleinen Bereich | Somatisch, Verbal | 5 Sekunden | 10 Minuten |
 
-### Intermediate Spells
+### Fortgeschrittene Zauber
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauber | Effekt | Komponenten | Wirkzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Wind Wall** | Creates a vertical barrier of rushing air | Somatic, Verbal | 5 seconds | Concentration |
-| **Whisper Wind** | Sends a short message carried by the breeze | Somatic, Verbal, Focus | 10 seconds | Special |
-| **Cushioned Fall** | Slows descent by creating supportive air currents | Somatic | 1 second | 10 seconds |
-| **Fog Creation** | Forms a cloud of obscuring mist | Somatic, Verbal, Water | 10 seconds | 30 minutes |
+| **Windwand** | Erzeugt eine vertikale Barriere aus strömender Luft | Somatisch, Verbal | 5 Sekunden | Konzentration |
+| **Flüsterwind** | Sendet eine kurze Nachricht, die von der Brise getragen wird | Somatisch, Verbal, Fokus | 10 Sekunden | Speziell |
+| **Gedämpfter Fall** | Verlangsamt den Abstieg durch Erzeugen von unterstützenden Luftströmen | Somatisch | 1 Sekunde | 10 Sekunden |
+| **Nebelerzeugung** | Bildet eine Wolke aus verdunkelndem Nebel | Somatisch, Verbal, Wasser | 10 Sekunden | 30 Minuten |
 
-### Advanced Spells
+### Fortgeschrittene Zauber
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Zauber | Effekt | Komponenten | Wirkzeit | Dauer |
 |-------|--------|------------|--------------|----------|
-| **Cyclone** | Creates a powerful rotating column of air | Somatic, Verbal, Focus | 15 seconds | Concentration |
-| **Air Elemental** | Forms a semi-autonomous air entity | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Wind Walk** | Partially transforms body into air for rapid travel | Somatic, Verbal, Focus | 30 seconds | 10 minutes |
-| **Vacuum Sphere** | Creates a sphere of airlessness | Somatic, Verbal, Focus | 10 seconds | Concentration |
+| **Zyklon** | Erzeugt eine mächtige, rotierende Luftsäule | Somatisch, Verbal, Fokus | 15 Sekunden | Konzentration |
+| **Luftelementar** | Bildet eine semi-autonome Lufteinheit | Somatisch, Verbal, Fokus | 1 Minute | 1 Stunde |
+| **Windwandeln** | Verwandelt den Körper teilweise in Luft für schnelle Reisen | Somatisch, Verbal, Fokus | 30 Sekunden | 10 Minuten |
+| **Vakuumkugel** | Erzeugt eine Kugel der Luftleere | Somatisch, Verbal, Fokus | 10 Sekunden | Konzentration |
 
-## Affinity Development
+## Affinitätsentwicklung
 
-Air affinity progresses through several distinctive stages:
+Die Luftaffinität durchläuft mehrere unterschiedliche Stadien:
 
-### Breath Connection
-The foundational relationship with air that most beginners possess:
-- **Manifestation**: Enhanced breath control, intuitive sense of air currents
-- **Physical Signs**: Slightly lighter footsteps, ability to hold breath longer
-- **Enhancement Method**: Breathing exercises, particularly at high elevations or in windy areas
+### Atemverbindung
+Die grundlegende Beziehung zur Luft, die die meisten Anfänger besitzen:
+- **Manifestation**: Verbesserte Atemkontrolle, intuitives Gespür für Luftströme
+- **Physische Anzeichen**: Etwas leichtere Schritte, Fähigkeit, den Atem länger anzuhalten
+- **Verbesserungsmethode**: Atemübungen, insbesondere in grossen Höhen oder in windigen Gegenden
 
-### Breeze Harmony
-The intermediate stage where air responds more readily to the mage's will:
-- **Manifestation**: Air moves with minimal effort, atmospheric awareness expands
-- **Physical Signs**: Hair and clothing move with subtle air currents, voice carries unusually well
-- **Enhancement Method**: Meditation during storms, practice in varied atmospheric conditions
+### Brisenharmonie
+Das fortgeschrittene Stadium, in dem die Luft bereitwilliger auf den Willen des Magiers reagiert:
+- **Manifestation**: Die Luft bewegt sich mit minimalem Aufwand, das atmosphärische Bewusstsein erweitert sich
+- **Physische Anzeichen**: Haare und Kleidung bewegen sich mit subtilen Luftströmen, die Stimme trägt ungewöhnlich gut
+- **Verbesserungsmethode**: Meditation während Stürmen, Übung bei unterschiedlichen atmosphärischen Bedingungen
 
-### Wind Symphony
-Advanced practitioners achieve a deep resonance with air's movements:
-- **Manifestation**: Weather subtly shifts in response to emotions, air seems to part naturally
-- **Physical Signs**: Body temperature regulation mirrors air, subtle glow during deep breathing
-- **Enhancement Method**: Extended communion with high-altitude winds and atmospheric patterns
+### Windsymphonie
+Fortgeschrittene Praktizierende erreichen eine tiefe Resonanz mit den Bewegungen der Luft:
+- **Manifestation**: Das Wetter ändert sich subtil als Reaktion auf Emotionen, die Luft scheint sich auf natürliche Weise zu teilen
+- **Physische Anzeichen**: Die Körpertemperaturregelung spiegelt die Luft wider, subtiles Leuchten während der tiefen Atmung
+- **Verbesserungsmethode**: Ausgedehnte Kommunion mit Höhenwinden und atmosphärischen Mustern
 
-### Sky Unity
-Master aeromancers who have achieved profound connection with air:
-- **Manifestation**: Partial transformation abilities, influence over weather without direct casting
-- **Physical Signs**: Eyes reflect sky conditions, breath becomes visible as colored mist
-- **Enhancement Method**: Deep communion at ley line intersections with strong air resonance
+### Himmelseinheit
+Meister-Aeromanten, die eine tiefe Verbindung zur Luft erreicht haben:
+- **Manifestation**: Partielle Transformationsfähigkeiten, Einfluss auf das Wetter ohne direktes Wirken
+- **Physische Anzeichen**: Die Augen spiegeln die Himmelsbedingungen wider, der Atem wird als farbiger Nebel sichtbar
+- **Verbesserungsmethode**: Tiefe Kommunion an Leylinienkreuzungen mit starker Luftresonanz
 
-## Risks and Safeguards
+## Risiken und Schutzmaßnahmen
 
-### Common Risks
+### Häufige Risiken
 
-- **Breath Disruption**: Loss of control over personal breathing patterns
-- **Pressure Damage**: Creating unsafe pressure differentials affecting ears, sinuses, or lungs
-- **Oxygen Deprivation**: Accidentally removing breathable air from the caster's vicinity
-- **Weather Instability**: Unintended atmospheric effects spreading beyond the intended area
-- **Dispersal Effect**: Caster's consciousness becoming too diffuse during advanced techniques
+- **Atemstörung**: Verlust der Kontrolle über die persönlichen Atemmuster
+- **Druckschäden**: Erzeugen unsicherer Druckdifferenzen, die Ohren, Nasennebenhöhlen oder Lungen betreffen
+- **Sauerstoffmangel**: Versehentliches Entfernen von atembarer Luft aus der Nähe des Zaubernden
+- **Wetterinstabilität**: Unbeabsichtigte atmosphärische Auswirkungen, die sich über den beabsichtigten Bereich hinaus ausbreiten
+- **Streuungseffekt**: Das Bewusstsein des Zaubernden wird bei fortgeschrittenen Techniken zu diffus
 
-### Miscast Effects
+### Fehlbesetzungseffekte
 
-| Severity | Effect | Recovery |
+| Schweregrad | Effekt | Erholung |
 |----------|--------|----------|
-| **Minor** | Temporary breathing irregularities, light-headedness, voice changes | Hours |
-| **Moderate** | Inner ear disturbances, respiratory irritation, uncontrolled floating | Days |
-| **Severe** | Partial corporeal dispersion, lung damage, severe disorientation | Weeks |
-| **Critical** | Physical form instability, consciousness diffusion, organ disruption | Months |
+| **Geringfügig** | Vorübergehende Atemunregelmässigkeiten, Benommenheit, Stimmveränderungen | Stunden |
+| **Mässig** | Innenohr-Störungen, Atemwegsreizungen, unkontrolliertes Schweben | Tage |
+| **Schwer** | Partielle körperliche Dispersion, Lungenschäden, schwere Desorientierung | Wochen |
+| **Kritisch** | Instabilität der physischen Form, Bewusstseinsdiffusion, Organstörung | Monate |
 
-### Safety Practices
+### Sicherheitspraktiken
 
-- **Grounding Techniques**: Regular physical contact with earth to maintain corporeal stability
-- **Pressure Equalization**: Gradual pressure changes when working with air compression
-- **Breathing Discipline**: Maintaining conscious breath control during casting
-- **Environmental Awareness**: Monitoring weather conditions before large-scale workings
-- **Pattern Anchoring**: Using physical gestures to maintain focus during complex manipulations
+- **Erdungstechniken**: Regelmässiger physischer Kontakt mit der Erde, um die körperliche Stabilität zu erhalten
+- **Druckausgleich**: Allmähliche Druckänderungen bei der Arbeit mit Luftkompression
+- **Atemdisziplin**: Bewusstes Aufrechterhalten der Atemkontrolle während des Zauberns
+- **Umweltbewusstsein**: Überwachung der Wetterbedingungen vor grossflächigen Arbeiten
+- **Musterverankerung**: Verwenden physischer Gesten, um den Fokus bei komplexen Manipulationen aufrechtzuerhalten
 
-## Cultural Significance
+## Kulturelle Bedeutung
 
-### Historical Development
+### Historische Entwicklung
 
-Air magic emerged as a formalized practice later than earth or fire magic, but evidence suggests intuitive use dates back to early tribal shamans. The development of aeromancy followed three distinct paths:
+Die Luftmagie entwickelte sich später als die Erd- oder Feuermagie zu einer formalisierten Praxis, aber es gibt Hinweise darauf, dass die intuitive Anwendung bis zu frühen Stammes-Schamanen zurückreicht. Die Entwicklung der Aeromantie folgte drei verschiedenen Wegen:
 
-1. **Breath Mysticism**: Meditative traditions focusing on the connection between breath and spirit
-2. **Weather Working**: Agrarian and seafaring cultures developing techniques to predict and influence weather
-3. **Voice Enhancement**: Bardic traditions using air magic to enhance communication and performance
+1. **Atemmystik**: Meditative Traditionen, die sich auf die Verbindung zwischen Atem und Geist konzentrieren
+2. **Wetterarbeit**: Agrar- und Seefahrerkulturen entwickeln Techniken, um das Wetter vorherzusagen und zu beeinflussen
+3. **Sprachverbesserung**: Barden-Traditionen, die Luftmagie verwenden, um die Kommunikation und Leistung zu verbessern
 
-### Regional Variations
+### Regionale Variationen
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Kultur | Fokus | Signaturtechnik | Philosophie |
 |---------|-------|---------------------|------------|
-| **Mountain Peoples** | High-altitude adaptation, weather reading | Cloud divination, breath extension | Air as the cosmic breath |
-| **Nomadic Tribes** | Weather prediction, travel enhancement | Wind listening, dust scrying | Air as the eternal wanderer |
-| **Island Nations** | Storm control, long-distance communication | Storm calming, message winds | Air as the world connector |
-| **Sky Temples** | Spiritual communion, levitation | Meditation flights, voice projection | Air as the path to enlightenment |
+| **Bergvölker** | Anpassung an grosse Höhen, Wetterlesen | Wolkenweissagung, Atemerweiterung | Luft als kosmischer Atem |
+| **Nomadische Stämme** | Wettervorhersage, Reiseverbesserung | Windhören, Staubschauen | Luft als ewiger Wanderer |
+| **Inselnationen** | Sturmkontrolle, Fernkommunikation | Sturmberuhigung, Nachrichtenwinde | Luft als Weltverbinder |
+| **Himmelstempel** | Spirituelle Kommunion, Levitation | Meditationsflüge, Stimmprojektion | Luft als Weg zur Erleuchtung |
 
-### Ceremonial Uses
+### Zeremonielle Anwendungen
 
-Air magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young aeromancers demonstrating their first controlled breeze
-- **Funeral Rites**: "Sky burial" practices and soul-releasing ceremonies
-- **Harvest Festivals**: Weather blessing for the coming seasons
-- **Voice Competitions**: Demonstrations of air-enhanced vocal abilities
+Die Luftmagie spielt in vielen kulturellen Zeremonien eine wichtige Rolle:
+- **Übergangsrituale**: Junge Aeromanten demonstrieren ihre erste kontrollierte Brise
+- **Bestattungsriten**: "Himmelsbestattungs"-Praktiken und Seelenfreisetzungszeremonien
+- **Erntefeste**: Wettersegen für die kommenden Jahreszeiten
+- **Gesangswettbewerbe**: Demonstrationen von luftverbesserten Gesangsfähigkeiten
 
-### Contemporary Applications
+### Zeitgenössische Anwendungen
 
-Beyond combat and utility applications, air magic serves important societal functions:
-- **Communication**: Message carrying, sound enhancement, signal transmission
-- **Transportation**: Wind-powered vehicles, resistance reduction for conventional transport
-- **Environmental Management**: Air purification, ventilation systems, weather moderation
-- **Artistry**: Musical enhancement, aerial dance, visual displays
+Über Kampf- und Nutzanwendungen hinaus erfüllt die Luftmagie wichtige gesellschaftliche Funktionen:
+- **Kommunikation**: Nachrichtenübermittlung, Schallverbesserung, Signalübertragung
+- **Transport**: Windbetriebene Fahrzeuge, Widerstandsreduzierung für konventionelle Transporte
+- **Umweltmanagement**: Luftreinigung, Belüftungssysteme, Wettermässigung
+- **Kunst**: Musikalische Verbesserung, Lufttanz, visuelle Darstellungen
 
-> *"The student of air must learn that control comes not from force but from subtle influence—like the breeze that does not break the branch but convinces it to bend."* — The Aeromancer's Path
+> *"Der Schüler der Luft muss lernen, dass Kontrolle nicht von Gewalt kommt, sondern von subtilem Einfluss – wie die Brise, die den Ast nicht bricht, sondern ihn überzeugt, sich zu biegen."* — Der Pfad des Aeromanten
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Water Magic](/codex/Magics/Elements/WaterMagic.md), [Weather Magic](/codex/Magics/Advanced/Combinations/WeatherMagic.md)* 
+*Siehe auch: [Elementarmagie](/codex/Magics/Elements/ElementalMagic.md), [Wassermagie](/codex/Magics/Elements/WaterMagic.md), [Wettermagie](/codex/Magics/Advanced/Combinations/WeatherMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

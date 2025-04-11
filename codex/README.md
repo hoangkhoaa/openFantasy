@@ -1,157 +1,161 @@
-# OpenFantasy World Codex
+# OpenFantasy Welt-Kodex
 
-> *"A world of magic and wonder awaits, where every soul contributes to the grand symphony of existence."*
+> *"Eine Welt voller Magie und Wunder erwartet dich, in der jede Seele zur großen Symphonie der Existenz beiträgt."*
 
-## Overview
+## Überblick
 
-Welcome to the OpenFantasy World Codex, a comprehensive repository of knowledge about the OpenFantasy universe. This codex contains detailed information about the world's fundamental principles, inhabitants, magic systems, locations, items, and more.
+Willkommen im OpenFantasy Welt-Kodex, einem umfassenden Wissensspeicher über das OpenFantasy-Universum. Dieser Kodex enthält detaillierte Informationen über die grundlegenden Prinzipien der Welt, ihre Bewohner, Magiesysteme, Orte, Gegenstände und mehr.
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [World Fundamentals](#world-fundamentals)
-- [Creatures and Species](#creatures-and-species)
-- [Magic System](#magic-system)
-- [Character Classes](#character-classes)
-- [World Geography](#world-geography)
-- [Items and Artifacts](#items-and-artifacts)
-- [Repository Structure](#repository-structure)
+- [Welt-Fundamente](#welt-fundamente)
+- [Kreaturen und Spezies](#kreaturen-und-spezies)
+- [Magiesystem](#magiesystem)
+- [Charakterklassen](#charakterklassen)
+- [Weltgeographie](#weltgeographie)
+- [Gegenstände und Artefakte](#gegenstände-und-artefakte)
+- [Repository-Struktur](#repository-struktur)
 
-## World Fundamentals
+## Welt-Fundamente
 
-OpenFantasy is built on core principles that govern how the world functions:
+OpenFantasy basiert auf Kernprinzipien, die die Funktionsweise der Welt bestimmen:
 
-| Directory | Contents | Description |
+| Verzeichnis | Inhalt | Beschreibung |
 |-----------|----------|-------------|
-| [Basic/](Basic/) | Fundamental concepts | The building blocks of reality in OpenFantasy |
+| [Basic/](Basic/) | Fundamentale Konzepte | Die Bausteine der Realität in OpenFantasy |
 
-Key concepts include:
+Zu den Schlüsselkonzepten gehören:
 
-- **Exanthis**: The physical foundation that provides structure and form
-- **Soul**: The spark of consciousness that provides will and identity
-- **Mana**: The magical energy that flows through all things
-- **Elemental Balance**: The interplay between fundamental forces
+- **Exanthis**: Das physische Fundament, das Struktur und Form bietet
+- **Seele**: Der Funke des Bewusstseins, der Willen und Identität bietet
+- **Mana**: Die magische Energie, die durch alle Dinge fließt
+- **Elementares Gleichgewicht**: Das Zusammenspiel zwischen grundlegenden Kräften
 
-## Creatures and Species
+## Kreaturen und Spezies
 
-The world is inhabited by diverse species with unique characteristics:
+Die Welt wird von verschiedenen Spezies mit einzigartigen Eigenschaften bewohnt:
 
-| Directory | Contents | Description |
+| Verzeichnis | Inhalt | Beschreibung |
 |-----------|----------|-------------|
-| [Creatures/](Creatures/) | Species documentation | Information about the various beings that inhabit the world |
+| [Creatures/](Creatures/) | Spezies-Dokumentation | Informationen über die verschiedenen Wesen, die die Welt bewohnen |
 
-Major species categories include:
+Zu den wichtigsten Spezies-Kategorien gehören:
 
-- **Primary Species**: Humans, Elves, Dwarves, Beastfolk, etc.
-- **Magical Species**: Fae, Golems, Sirens, Shadowfolk, etc.
-- **Other Notable Species**: Dark Elves, Centaurs, Gnomes, Merfolk, etc.
+- **Primäre Spezies**: Menschen, Elfen, Zwerge, Tiermenschen usw.
+- **Magische Spezies**: Feen, Golems, Sirenen, Schattenvolk usw.
+- **Andere bemerkenswerte Spezies**: Dunkelelfen, Zentauren, Gnome, Meervolk usw.
 
-→ See the [Creatures README](Creatures/README.md) for detailed information.
+→ Siehe die [Creatures README](Creatures/README.md) für detaillierte Informationen.
 
-## Magic System
+## Magiesystem
 
-Magic in OpenFantasy follows systematic rules and principles:
+Magie in OpenFantasy folgt systematischen Regeln und Prinzipien:
 
-| Directory | Contents | Description |
+| Verzeichnis | Inhalt | Beschreibung |
 |-----------|----------|-------------|
-| [Magics/](Magics/) | Magic systems, spells | The rules and manifestations of magical energy |
+| [Magics/](Magics/) | Magiesysteme, Zaubersprüche | Die Regeln und Manifestationen magischer Energie |
 
-Key magical concepts include:
+Zu den wichtigsten magischen Konzepten gehören:
 
-- **Elemental Magic**: Manipulation of the eight primary elements
-- **Mana Purity**: The refinement of magical energy
-- **Spell Structure**: The patterns that shape magical effects
-- **Enhancement Buffs**: Magical effects that enhance abilities
+- **Elementarmagie**: Manipulation der acht primären Elemente
+- **Mana-Reinheit**: Die Verfeinerung magischer Energie
+- **Zauberstruktur**: Die Muster, die magische Effekte formen
+- **Verbesserungs-Buffs**: Magische Effekte, die Fähigkeiten verbessern
 
-→ See the [Magics README](Magics/README.md) for detailed information.
+→ Siehe die [Magics README](Magics/README.md) für detaillierte Informationen.
 
-## Character Classes
+## Charakterklassen
 
-Characters in OpenFantasy follow specialized paths of development:
+Charaktere in OpenFantasy folgen spezialisierten Entwicklungspfaden:
 
-| Directory | Contents | Description |
+| Verzeichnis | Inhalt | Beschreibung |
 |-----------|----------|-------------|
-| [Classes/](Classes/) | Class information, specializations | The various paths of power and specialization |
+| [Classes/](Classes/) | Klasseninformationen, Spezialisierungen | Die verschiedenen Pfade der Macht und Spezialisierung |
 
-Major class categories include:
+Zu den wichtigsten Klassenkategorien gehören:
 
-- **Martial Classes**: Warrior, Monk, Ranger
-- **Magical Classes**: Mage, Warlock, Druid
-- **Hybrid Classes**: Cleric, Bard, Artificer
-- **Specialized Classes**: Rogue and subclasses
+- **Kriegerklassen**: Krieger, Mönch, Waldläufer
+- **Magische Klassen**: Magier, Hexenmeister, Druide
+- **Hybridklassen**: Kleriker, Barde, Handwerker
+- **Spezialisierte Klassen**: Schurke und Unterklassen
 
-→ See the [Classes README](Classes/README.md) for detailed information.
+→ Siehe die [Classes README](Classes/README.md) für detaillierte Informationen.
 
-## World Geography
+## Weltgeographie
 
-The world of OpenFantasy contains diverse regions and locations:
+Die Welt von OpenFantasy enthält vielfältige Regionen und Orte:
 
-| Directory | Contents | Description |
+| Verzeichnis | Inhalt | Beschreibung |
 |-----------|----------|-------------|
-| [World/](World/) | Locations, geography, history | The physical and cultural landscape of the world |
+| [World/](World/) | Orte, Geographie, Geschichte | Die physische und kulturelle Landschaft der Welt |
 
-Notable regions include:
+Bemerkenswerte Regionen sind:
 
-- **Eastern Veldrassil**: Magical forests and academic centers
-- **Western Veldrassil**: Mountain ranges and mining operations
-- **Central Plains**: Agricultural heartlands and major cities
-- **Northern Reaches**: Frozen wastes and ancient ruins
-- **Southern Isles**: Tropical archipelagos and maritime cultures
+- **Östliches Veldrassil**: Magische Wälder und akademische Zentren
+- **Westliches Veldrassil**: Bergketten und Bergbaubetriebe
+- **Zentrale Ebenen**: Landwirtschaftliche Kerngebiete und Großstädte
+- **Nördliche Ausläufer**: Gefrorene Einöden und antike Ruinen
+- **Südliche Inseln**: Tropische Archipele und maritime Kulturen
 
-## Items and Artifacts
+## Gegenstände und Artefakte
 
-The world contains numerous objects of power and significance:
+Die Welt enthält zahlreiche Objekte von Macht und Bedeutung:
 
-| Directory | Contents | Description |
+| Verzeichnis | Inhalt | Beschreibung |
 |-----------|----------|-------------|
-| [Items/](Items/) | Equipment, artifacts, materials | Objects of power and utility |
+| [Items/](Items/) | Ausrüstung, Artefakte, Materialien | Objekte der Macht und Nützlichkeit |
 
-Item categories include:
+Zu den Gegenstandskategorien gehören:
 
-- **Magical Equipment**: Weapons, armor, and accessories with magical properties
-- **Alchemical Substances**: Potions, elixirs, and magical reagents
-- **Artifacts**: Ancient objects of significant power
-- **Everyday Items**: Mundane objects with cultural significance
+- **Magische Ausrüstung**: Waffen, Rüstungen und Zubehör mit magischen Eigenschaften
+- **Alchemistische Substanzen**: Tränke, Elixiere und magische Reagenzien
+- **Artefakte**: Antike Objekte von bedeutender Macht
+- **Alltagsgegenstände**: Weltliche Gegenstände mit kultureller Bedeutung
 
-## Repository Structure
+## Repository-Struktur
 
-The OpenFantasy Codex is organized with a consistent structure:
+Der OpenFantasy-Kodex ist mit einer konsistenten Struktur organisiert:
 
 ```
 codex/
-├── README.md                # This overview document
-├── Basic/                   # Fundamental concepts
-├── Creatures/               # Species documentation
-│   ├── README.md            # Creatures overview
-│   ├── Creatures.md         # General species information
-│   ├── Human.md             # Individual species document
-│   └── ...                  # Other species documents
-├── Magics/                  # Magic systems
-│   ├── README.md            # Magic overview
-│   ├── Spells/              # Spell documentation
-│   └── ...                  # Magic system documents
-├── Classes/                 # Character classes
-│   ├── README.md            # Classes overview
-│   ├── Warrior/             # Class-specific directory
-│   └── ...                  # Other class directories
-├── World/                   # Geography and locations
-│   ├── README.md            # World overview
-│   └── ...                  # Region and location documents
-└── Items/                   # Equipment and artifacts
-    ├── README.md            # Items overview
-    └── ...                  # Item category documents
+├── README.md                # Dieses Übersichts-Dokument
+├── Basic/                   # Fundamentale Konzepte
+├── Creatures/               # Spezies-Dokumentation
+│   ├── README.md            # Kreaturen-Überblick
+│   ├── Creatures.md         # Allgemeine Spezies-Informationen
+│   ├── Human.md             # Individuelles Spezies-Dokument
+│   └── ...                  # Andere Spezies-Dokumente
+├── Magics/                  # Magiesysteme
+│   ├── README.md            # Magie-Überblick
+│   ├── Spells/              # Zauberspruch-Dokumentation
+│   └── ...                  # Magiesystem-Dokumente
+├── Classes/                 # Charakterklassen
+│   ├── README.md            # Klassen-Überblick
+│   ├── Warrior/             # Klassenspezifisches Verzeichnis
+│   └── ...                  # Andere Klassenverzeichnisse
+├── World/                   # Geographie und Orte
+│   ├── README.md            # Welt-Überblick
+│   └── ...                  # Regionen- und Orts-Dokumente
+└── Items/                   # Ausrüstung und Artefakte
+    ├── README.md            # Gegenstände-Überblick
+    └── ...                  # Gegenstandskategorie-Dokumente
 ```
 
-### Documentation Standards
+### Dokumentationsstandards
 
-All documents in this repository follow consistent formatting:
+Alle Dokumente in diesem Repository folgen einer konsistenten Formatierung:
 
-- **README.md files** provide overviews and navigation
-- **Quick Reference sections** at the top of documents
-- **Tables** for comparative information
-- **Consistent headers** for similar information across documents
-- **Cross-references** to related content
-- **Git-optimized markdown** for better viewing experience
+- **README.md Dateien** bieten Übersichten und Navigation
+- **Kurzübersicht-Abschnitte** am Anfang der Dokumente
+- **Tabellen** für vergleichende Informationen
+- **Konsistente Überschriften** für ähnliche Informationen in allen Dokumenten
+- **Querverweise** zu verwandten Inhalten
+- **Git-optimiertes Markdown** für ein besseres Anzeigeerlebnis
 
 ---
 
-> **Note**: This codex is a living document that may be expanded and refined over time. All content follows the musical metaphor that defines the OpenFantasy world. 
+> **Hinweis**: Dieser Kodex ist ein lebendiges Dokument, das im Laufe der Zeit erweitert und verfeinert werden kann. Alle Inhalte folgen der musikalischen Metapher, die die OpenFantasy-Welt definiert.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

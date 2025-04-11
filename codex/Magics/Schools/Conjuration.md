@@ -1,213 +1,217 @@
-# **The School of Conjuration**
+# **Die Schule der Beschwörung**
 
-> *"To conjure is to reach across the veil of possibility and draw forth that which exists elsewhere. It is not creation, but connection—a bridge between realms."*  
-> — Archconjurer Thaddeus Voidcaller, Master of the Summoning Circle
+> *"Beschwören bedeutet, den Schleier der Möglichkeiten zu durchdringen und das hervorzuziehen, was anderswo existiert. Es ist keine Schöpfung, sondern Verbindung – eine Brücke zwischen den Reichen."*
+> — Erzbeschwörer Thaddeus Voidcaller, Meister des Beschwörungskreises
 
-## Overview
+## Überblick
 
-Conjuration is the school of magic focused on calling forth matter, energy, or entities from elsewhere—whether from another location in the material world, elemental planes, or even other dimensions. Unlike illusion that creates sensory deception or evocation that generates effects from raw magical energy, conjuration involves the transportation, manifestation, or binding of pre-existing elements. It is considered one of the most potentially dangerous magical disciplines due to its interaction with forces and entities beyond the caster's native realm.
+Beschwörung ist die Schule der Magie, die sich darauf konzentriert, Materie, Energie oder Entitäten von anderswo herbeizurufen – sei es von einem anderen Ort in der materiellen Welt, aus den Elementarebenen oder sogar aus anderen Dimensionen. Im Gegensatz zur Illusion, die sinnliche Täuschung erzeugt, oder zur Evokation, die Effekte aus roher magischer Energie erzeugt, beinhaltet die Beschwörung den Transport, die Manifestation oder die Bindung von bereits existierenden Elementen. Sie gilt als eine der potenziell gefährlichsten magischen Disziplinen, da sie mit Kräften und Entitäten außerhalb des nativen Reiches des Zauberers interagiert.
 
-## Fundamental Principles
+## Grundlegende Prinzipien
 
-### The Correspondence Axiom
+### Das Korrespondenz-Axiom
 
-The foundation of conjuration theory is the Correspondence Axiom, which states that all things that exist share fundamental resonant patterns that can be leveraged to create connections across space, time, and dimensional boundaries. By replicating these patterns, conjurers can establish temporary or permanent links between distant points.
+Die Grundlage der Beschwörungstheorie ist das Korrespondenz-Axiom, das besagt, dass alle existierenden Dinge grundlegende resonante Muster teilen, die genutzt werden können, um Verbindungen über Raum, Zeit und dimensionale Grenzen hinweg herzustellen. Durch die Replikation dieser Muster können Beschwörer temporäre oder permanente Verbindungen zwischen entfernten Punkten herstellen.
 
-### Primary Components
+### Primäre Komponenten
 
-All conjuration spells incorporate three fundamental components:
+Alle Beschwörungszauber beinhalten drei grundlegende Komponenten:
 
-1. **Pattern Recognition**: Identifying the specific resonant signature of the target
-2. **Spatial Bridging**: Creating a connection between the caster's location and the target's location
-3. **Manifestation Control**: Guiding and containing the conjured element upon arrival
+1. **Mustererkennung**: Identifizierung der spezifischen resonanten Signatur des Ziels
+2. **Raumüberbrückung**: Erstellung einer Verbindung zwischen dem Standort des Zauberers und dem Standort des Ziels
+3. **Manifestationskontrolle**: Führung und Eindämmung des beschworenen Elements bei der Ankunft
 
-More complex conjurations add additional components:
+Komplexere Beschwörungen fügen zusätzliche Komponenten hinzu:
 
-4. **Binding Frameworks**: Establishing control over conjured entities
-5. **Duration Anchoring**: Extending the manifestation period beyond immediate casting
-6. **Return Protocols**: Methods for dismissing or returning conjured elements
+4. **Bindungsgerüste**: Etablierung der Kontrolle über beschworene Entitäten
+5. **Dauerverankerung**: Verlängerung der Manifestationsperiode über das unmittelbare Wirken hinaus
+6. **Rückkehrprotokolle**: Methoden zum Entlassen oder Rückführen beschworener Elemente
 
-### Mana Requirements
+### Mana-Anforderungen
 
-Conjuration requires specific combinations of mana types, with purity levels that increase with the complexity and distance of the conjuration:
+Beschwörung erfordert spezifische Kombinationen von Mana-Typen, wobei die Reinheitsgrade mit der Komplexität und Entfernung der Beschwörung zunehmen:
 
-| Conjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| Beschwörungstyp | Primäres Mana | Sekundäres Mana | Tertiäres Mana | Zweck |
 |------------------|-------------|----------------|---------------|---------|
-| Object Summoning | Base Mana (40-50%) | Terramana (20-30%) | N/A | Material objects |
-| Elemental Calling | Base Mana (50-60%) | Elemental type (30-40%) | N/A | Elemental forces |
-| Entity Summoning | Base Mana (60-70%) | Varies by entity | Aetheramana (10-20%) | Living beings |
-| Teleportation | Base Mana (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Self/object movement |
-| Extradimensional Space | Base Mana (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Pocket dimensions |
-| Planar Gateway | Base Mana (70-80%) | Aetheramana (40-50%) | Varies by plane | Interplanar travel |
+| Objektbeschwörung | Basis-Mana (40-50%) | Terramana (20-30%) | N/A | Materielle Objekte |
+| Elementare Berufung | Basis-Mana (50-60%) | Elementar-Typ (30-40%) | N/A | Elementarkräfte |
+| Entitätsbeschwörung | Basis-Mana (60-70%) | Variiert je nach Entität | Aetheramana (10-20%) | Lebewesen |
+| Teleportation | Basis-Mana (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Eigen-/Objektbewegung |
+| Extradimensionaler Raum | Basis-Mana (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Taschen-Dimensionen |
+| Planare Pforte | Basis-Mana (70-80%) | Aetheramana (40-50%) | Variiert je nach Ebene | Interplanare Reisen |
 
-### Wild Mana Response
+### Reaktion auf Wildes Mana
 
-Conjuration magic has a complex relationship with Wild Mana. While controlled conjuration requires precise patterns, Wild Mana can actually enhance certain types of summoning by:
+Beschwörungsmagie hat eine komplexe Beziehung zu Wildem Mana. Während kontrollierte Beschwörung präzise Muster erfordert, kann Wildes Mana bestimmte Arten der Beschwörung tatsächlich verbessern durch:
 
-- **Boundary Weakening**: Making it easier to reach across planar boundaries
-- **Manifestation Boosting**: Providing additional energy for materialization
-- **Pattern Expansion**: Allowing for less exact correspondent patterns to succeed
+- **Grenzenabschwächung**: Erleichterung des Erreichens planarer Grenzen
+- **Manifestationsverstärkung**: Bereitstellung zusätzlicher Energie für die Materialisierung
+- **Musterausweitung**: Ermöglichung weniger exakter Korrespondenzmuster zum Erfolg
 
-However, these benefits come with significant risks:
+Diese Vorteile sind jedoch mit erheblichen Risiken verbunden:
 
-- **Location Drift**: Conjured elements may arrive from unexpected sources
-- **Partial Manifestation**: Incomplete or distorted summoning results
-- **Binding Failure**: Loss of control over conjured entities or elements
-- **Reverse Flow**: The caster being pulled toward the target rather than vice versa
+- **Ortsdrift**: Beschworene Elemente können aus unerwarteten Quellen ankommen
+- **Partielle Manifestation**: Unvollständige oder verzerrte Beschwörungsergebnisse
+- **Bindungsfehler**: Verlust der Kontrolle über beschworene Entitäten oder Elemente
+- **Rückfluss**: Der Zauberer wird eher zum Ziel als umgekehrt gezogen
 
-## Mana Purification for Conjuration
+## Mana-Reinigung für die Beschwörung
 
-Conjuration requires high mana purity for precise targeting and control:
+Beschwörung erfordert eine hohe Mana-Reinheit für präzise Zielsetzung und Kontrolle:
 
-| Purification Level | Conjuration Capability |
+| Reinigungsgrad | Beschwörungsfähigkeit |
 |--------------------|------------------------|
-| Basic (15-25%) | Simple object summoning from visible locations |
-| Intermediate (30-45%) | Elemental calling and teleportation of small objects over moderate distances |
-| Advanced (50-65%) | Entity summoning, personal teleportation, and minor extradimensional spaces |
-| Master (70-80%) | Complex entity binding, group teleportation, and stable pocket dimensions |
-| Grandmaster (85%+) | Planar gateways and permanent extradimensional constructs |
+| Basic (15-25%) | Einfache Objektbeschwörung von sichtbaren Orten |
+| Intermediate (30-45%) | Elementare Berufung und Teleportation kleiner Objekte über moderate Distanzen |
+| Advanced (50-65%) | Entitätsbeschwörung, persönliche Teleportation und kleinere extradimensionale Räume |
+| Master (70-80%) | Komplexe Entitätsbindung, Gruppenteleportation und stabile Taschen-Dimensionen |
+| Grandmaster (85%+) | Planare Portale und permanente extradimensionale Konstrukte |
 
-Insufficient purity in conjuration often results in material or spatial distortion—objects arriving damaged, locations being slightly misaligned, or entities appearing with altered properties.
+Unzureichende Reinheit bei der Beschwörung führt oft zu materieller oder räumlicher Verzerrung – Objekte kommen beschädigt an, Orte sind leicht falsch ausgerichtet oder Entitäten erscheinen mit veränderten Eigenschaften.
 
-## The Conjurer's Harmony
+## Die Harmonie des Beschwörers
 
-Conjuration magic is conceptualized through musical counterpoint, with each spell creating harmonic relationships between source and destination:
+Beschwörungsmagie wird durch musikalischen Kontrapunkt konzeptualisiert, wobei jeder Zauber harmonische Beziehungen zwischen Quelle und Ziel erzeugt:
 
-- **Unison**: Direct transportation with minimal change
-- **Octave Shift**: Scaling effects (enlarging or diminishing the conjured element)
-- **Harmonization**: Adapting the conjured element to its new environment
-- **Dissonant Conjuring**: Forcing incompatible elements into manifestation
-- **Resonant Summoning**: Enhanced manifestation through matching harmonics
+- **Unisono**: Direkter Transport mit minimalen Veränderungen
+- **Oktavverschiebung**: Skalierungseffekte (Vergrößerung oder Verkleinerung des beschworenen Elements)
+- **Harmonisierung**: Anpassung des beschworenen Elements an seine neue Umgebung
+- **Dissonante Beschwörung**: Erzwingen der Manifestation inkompatibler Elemente
+- **Resonante Beschwörung**: Verstärkte Manifestation durch passende Harmonien
 
-Master conjurers speak of "conducting" multiple simultaneous manifestations, maintaining distinct harmonic relationships with each conjured element.
+Meisterbeschwörer sprechen davon, mehrere simultane Manifestationen zu "dirigieren" und dabei unterschiedliche harmonische Beziehungen zu jedem beschworenen Element aufrechtzuerhalten.
 
-## Specialized Disciplines
+## Spezialisierte Disziplinen
 
-### Summoning
+### Beschwörung
 
-The calling of entities, whether elemental, spiritual, or organic. Practitioners are known as Summoners.
+Das Rufen von Entitäten, ob elementar, spirituell oder organisch. Praktizierende sind als Beschwörer bekannt.
 
-### Material Conjuration
+### Materielle Beschwörung
 
-Focused on manifesting non-living objects and substances. Masters are called Materializers.
+Konzentriert sich auf die Manifestation nicht-lebender Objekte und Substanzen. Meister werden Materialisierer genannt.
 
-### Spatial Manipulation
+### Räumliche Manipulation
 
-Specialized in teleportation and dimensional pockets. Practitioners are called Spatials.
+Spezialisiert auf Teleportation und dimensionale Taschen. Praktizierende werden Spatials genannt.
 
-### Binding
+### Bindung
 
-The control and constraint of conjured entities. Masters are known as Binders.
+Die Kontrolle und Beschränkung beschworener Entitäten. Meister sind als Binder bekannt.
 
-### Gateway Creation
+### Portalerschaffung
 
-Establishing permanent or semi-permanent connections between locations. Practitioners are called Gateweavers.
+Etablierung permanenter oder semi-permanenter Verbindungen zwischen Orten. Praktizierende werden Torwirker genannt.
 
-### Dismissal
+### Entlassung
 
-Specialized in returning conjured elements to their origin. Masters are known as Banishers.
+Spezialisiert auf die Rückführung beschworener Elemente zu ihrem Ursprung. Meister sind als Verbanner bekannt.
 
-### Planar Exploration
+### Planare Erkundung
 
-The study and access of other planes of existence. Practitioners are called Planeswalkers.
+Das Studium und der Zugang zu anderen Existenzebenen. Praktizierende werden Ebenenwanderer genannt.
 
-## Training Methodology
+## Trainingsmethodik
 
-Conjuration training follows a structured progression:
+Das Beschwörungstraining folgt einer strukturierten Progression:
 
-1. **Theoretical Foundations**: Understanding cross-spatial relationships and correspondence
-2. **Local Manifestation**: Practicing with objects in visual range
-3. **Distance Expansion**: Gradually increasing the range of conjuration
-4. **Elemental Work**: Summoning the more predictable elemental forces
-5. **Dimensional Theory**: Study of other planes and dimensions
-6. **Entity Protocols**: Safe summoning and binding of sentient beings
-7. **Self-Translation**: Personal teleportation techniques
-8. **Combined Operations**: Managing multiple conjurations simultaneously
+1. **Theoretische Grundlagen**: Verständnis der kreuzräumlichen Beziehungen und Korrespondenz
+2. **Lokale Manifestation**: Üben mit Objekten in Sichtweite
+3. **Entfernungsausweitung**: Allmähliche Erhöhung der Reichweite der Beschwörung
+4. **Elementararbeit**: Beschwörung der besser vorhersagbaren Elementarkräfte
+5. **Dimensionstheorie**: Studium anderer Ebenen und Dimensionen
+6. **Entitätsprotokolle**: Sichere Beschwörung und Bindung empfindungsfähiger Wesen
+7. **Selbstübersetzung**: Persönliche Teleportationstechniken
+8. **Kombinierte Operationen**: Gleichzeitiges Verwalten mehrerer Beschwörungen
 
-Training emphasizes control and containment above all else, with rigorous safety protocols developed from centuries of sometimes catastrophic failures.
+Das Training betont vor allem Kontrolle und Eindämmung, mit strengen Sicherheitsprotokollen, die aus Jahrhunderten manchmal katastrophaler Misserfolge entwickelt wurden.
 
-## Conjuration in Practice
+## Beschwörung in der Praxis
 
-The process of casting conjuration magic follows distinct phases:
+Der Prozess des Wirkens von Beschwörungsmagie folgt bestimmten Phasen:
 
-1. **Target Identification**: Determining the specific element to be conjured
-2. **Pattern Matching**: Establishing the resonant link to the target
-3. **Mana Purification**: Achieving the necessary purity for stable connections
-4. **Boundary Thinning**: Creating the spatial or dimensional pathway
-5. **Draw or Push**: Pulling the target to the caster or moving the caster to the target
-6. **Manifestation Stabilization**: Anchoring the conjured element in its new location
-7. **Binding (if needed)**: Establishing control over conjured entities
-8. **Dismissal Preparation**: Setting conditions for ending the conjuration
+1. **Zielidentifikation**: Bestimmung des spezifischen Elements, das beschworen werden soll
+2. **Musterabgleich**: Herstellung der resonanten Verbindung zum Ziel
+3. **Mana-Reinigung**: Erreichen der notwendigen Reinheit für stabile Verbindungen
+4. **Grenzenausdünnung**: Schaffung des räumlichen oder dimensionalen Pfades
+5. **Ziehen oder Schieben**: Ziehen des Ziels zum Zauberer oder Bewegen des Zauberers zum Ziel
+6. **Manifestationsstabilisierung**: Verankerung des beschworenen Elements an seinem neuen Standort
+7. **Bindung (falls erforderlich)**: Etablierung der Kontrolle über beschworene Entitäten
+8. **Entlassungsvorbereitung**: Festlegung von Bedingungen für die Beendigung der Beschwörung
 
-For emergency conjuration, these steps may be compressed into rapid casting, while complex summonings often involve elaborate ritual circles and extended preparation.
+Für Notfallbeschwörungen können diese Schritte zu einem schnellen Wirken zusammengefasst werden, während komplexe Beschwörungen oft aufwendige Ritualkreise und eine längere Vorbereitung beinhalten.
 
-## Practical Applications
+## Praktische Anwendungen
 
-Conjuration serves numerous practical functions in magical society:
+Die Beschwörung dient zahlreichen praktischen Funktionen in der magischen Gesellschaft:
 
-- **Transportation**: Personal and group teleportation networks, item delivery systems
-- **Resource Acquisition**: Summoning rare materials from distant locations
-- **Space Optimization**: Extradimensional storage for homes, businesses, and archives
-- **Emergency Services**: Rapid response through teleportation, summoning water for firefighting
-- **Construction**: Conjuring building materials directly at construction sites
-- **Military**: Strategic troop deployment, supply line maintenance, battlefield control
-- **Entertainment**: Conjuration performances featuring exotic entities or spectacular manifestations
+- **Transport**: Persönliche und Gruppenteleportationsnetze, Artikelzustellungssysteme
+- **Ressourcenbeschaffung**: Beschwörung seltener Materialien von entfernten Orten
+- **Raumoptimierung**: Extradimensionaler Stauraum für Häuser, Geschäfte und Archive
+- **Notfalldienste**: Schnelle Reaktion durch Teleportation, Beschwörung von Wasser zur Brandbekämpfung
+- **Konstruktion**: Beschwörung von Baumaterialien direkt auf Baustellen
+- **Militär**: Strategischer Truppeneinsatz, Aufrechterhaltung von Versorgungslinien, Schlachtfeldkontrolle
+- **Unterhaltung**: Beschwörungsvorstellungen mit exotischen Entitäten oder spektakulären Manifestationen
 
-## Ethical Considerations
+## Ethische Überlegungen
 
-Conjuration raises significant ethical questions:
+Die Beschwörung wirft bedeutende ethische Fragen auf:
 
-- **Entity Rights**: The moral implications of summoning and binding sentient beings
-- **Ecosystem Impact**: Consequences of removing elements from their native environments
-- **Dimensional Stability**: Potential harm from weakening planar boundaries
-- **Informed Consent**: Whether entities understand or agree to being summoned
-- **Environmental Exploitation**: Using conjuration to extract resources from vulnerable regions
-- **Secure Transport**: Privacy and security concerns with teleportation networks
+- **Entitätsrechte**: Die moralischen Implikationen des Beschwörens und Bindens empfindungsfähiger Wesen
+- **Auswirkungen auf das Ökosystem**: Konsequenzen der Entfernung von Elementen aus ihren natürlichen Umgebungen
+- **Dimensionale Stabilität**: Potenzieller Schaden durch die Schwächung planarer Grenzen
+- **Informierte Zustimmung**: Ob Entitäten das Beschworenwerden verstehen oder damit einverstanden sind
+- **Umweltausbeutung**: Nutzung der Beschwörung zur Gewinnung von Ressourcen aus gefährdeten Regionen
+- **Sicherer Transport**: Datenschutz- und Sicherheitsbedenken bei Teleportationsnetzen
 
-Most conjuration academies enforce strict ethical codes governing entity summoning and extradimensional access.
+Die meisten Beschwörungsakademien setzen strenge ethische Kodizes durch, die die Entitätsbeschwörung und den extradimensionalen Zugang regeln.
 
-## Limitations and Weaknesses
+## Einschränkungen und Schwächen
 
-Despite its power, conjuration has inherent limitations:
+Trotz ihrer Macht hat die Beschwörung inhärente Einschränkungen:
 
-- **Conservation Principles**: Matter and energy can be moved but not created from nothing
-- **Correspondence Requirements**: Conjurers must have some connection to or knowledge of their target
-- **Distance Factors**: Energy requirements increase exponentially with distance or dimensional separation
-- **Unwilling Resistance**: Sentient targets can resist summoning or teleportation
-- **Planar Compatibility**: Some elements cannot exist in environments too different from their origin
-- **Dimensional Rejection**: Repeated conjuration to the same location can create instability
+- **Erhaltungsprinzipien**: Materie und Energie können bewegt, aber nicht aus dem Nichts geschaffen werden
+- **Korrespondenzanforderungen**: Beschwörer müssen eine Verbindung oder Kenntnis ihres Ziels haben
+- **Entfernungsfaktoren**: Der Energiebedarf steigt exponentiell mit der Entfernung oder dimensionalen Trennung
+- **Widerstand des Willens**: Empfindungsfähige Ziele können sich der Beschwörung oder Teleportation widersetzen
+- **Planare Kompatibilität**: Einige Elemente können in Umgebungen, die sich zu stark von ihrem Ursprung unterscheiden, nicht existieren
+- **Dimensionale Ablehnung**: Wiederholte Beschwörung zum selben Ort kann Instabilität erzeugen
 
-Common countermeasures against conjuration include:
+Häufige Gegenmaßnahmen gegen die Beschwörung umfassen:
 
-- **Anchor Wards**: Magical protections that prevent teleportation or summoning
-- **Pattern Obscuring**: Techniques to hide one's resonant signature from would-be summoners
-- **Dimensional Shielding**: Barriers that block access from other planes
-- **Binding Severing**: Methods to break control over summoned entities
-- **Return Forcing**: Compelling conjured elements to return to their origin prematurely
+- **Anker-Wards**: Magische Schutzvorrichtungen, die Teleportation oder Beschwörung verhindern
+- **Musterverschleierung**: Techniken, um die eigene resonante Signatur vor angehenden Beschwörern zu verbergen
+- **Dimensionale Abschirmung**: Barrieren, die den Zugang von anderen Ebenen blockieren
+- **Bindungslösung**: Methoden, um die Kontrolle über beschworene Entitäten zu brechen
+- **Rückkehrerzwingung**: Erzwingen, dass beschworene Elemente vorzeitig zu ihrem Ursprung zurückkehren
 
-## Musical Analogy
+## Musikalische Analogie
 
-In the musical framework of magic, conjuration represents string instruments—creating connections that vibrate across distances, pulling disparate elements into harmony. The conjurer is like a harpist, plucking the strings that connect different points in the multiverse.
+Im musikalischen Rahmen der Magie repräsentiert die Beschwörung Streichinstrumente – die Verbindungen schaffen, die über Entfernungen hinweg schwingen und ungleiche Elemente in Harmonie bringen. Der Beschwörer ist wie ein Harfenist, der die Saiten zupft, die verschiedene Punkte im Multiversum verbinden.
 
-Conjuration spells are described in terms of "resonance" and "harmonics," with each successful manifestation requiring perfect tuning between the caster and target. Master conjurers can maintain complex "chords" of multiple connections simultaneously, drawing elements from various sources into carefully orchestrated combinations.
+Beschwörungszauber werden in Form von "Resonanz" und "Obertönen" beschrieben, wobei jede erfolgreiche Manifestation eine perfekte Abstimmung zwischen dem Zauberer und dem Ziel erfordert. Meisterbeschwörer können komplexe "Akkorde" aus mehreren Verbindungen gleichzeitig aufrechterhalten und Elemente aus verschiedenen Quellen zu sorgfältig orchestrierten Kombinationen zusammenziehen.
 
-## Notable Practitioners
+## Bemerkenswerte Praktizierende
 
-- **Thaddeus Voidcaller**: Pioneer of safe entity summoning protocols and creator of the Sevenfold Binding Circle
-- **Lydia Gateheart**: Established the first permanent teleportation network spanning the continent
-- **Corvus Dimensionum**: Legendary explorer of pocket dimensions and creator of the Pocket Academy
-- **Elara Quicksilver**: Master of combat teleportation and developer of the Spatial Combat System
-- **Malachi Netherbridge**: Controversial researcher who established first contact with the Far Realms
+- **Thaddeus Voidcaller**: Pionier sicherer Entitätsbeschwörungsprotokolle und Schöpfer des Siebenfachen Bindungskreises
+- **Lydia Gateheart**: Etablierte das erste permanente Teleportationsnetzwerk, das den Kontinent überspannt
+- **Corvus Dimensionum**: Legendärer Erforscher von Taschen-Dimensionen und Schöpfer der Taschenakademie
+- **Elara Quicksilver**: Meisterin der Kampfteleportation und Entwicklerin des Räumlichen Kampfsystems
+- **Malachi Netherbridge**: Kontroverser Forscher, der den ersten Kontakt zu den Fernen Reichen herstellte
 
-## Safety Protocols
+## Sicherheitsprotokolle
 
-Due to the inherent dangers of conjuration, standardized safety measures include:
+Aufgrund der inhärenten Gefahren der Beschwörung umfassen standardisierte Sicherheitsmaßnahmen:
 
-- **Containment Circles**: Mandatory for all entity summoning
-- **Pattern Verification**: Double-checking correspondences before casting
-- **Emergency Dismissal Words**: Universal phrases taught to instantly end conjurations
-- **Planar Anchoring**: Methods to prevent unwanted dimensional drift
-- **Entity Contracts**: Formal agreements with regularly summoned beings
-- **Observation Partners**: Required second casters for monitoring complex conjurations
+- **Eindämmungskreise**: Obligatorisch für jede Entitätsbeschwörung
+- **Musterverifizierung**: Doppelprüfung der Entsprechungen vor dem Wirken
+- **Notfallentlassungswörter**: Universelle Phrasen, die gelehrt werden, um Beschwörungen sofort zu beenden
+- **Planare Verankerung**: Methoden, um unerwünschte dimensionale Drift zu verhindern
+- **Entitätsverträge**: Formelle Vereinbarungen mit regelmäßig beschworenen Wesen
+- **Beobachtungspartner**: Erforderliche zweite Zauberer zur Überwachung komplexer Beschwörungen
 
-The Conjurer's Oath, taken by all certified practitioners, includes the promise to "never call what cannot be dismissed, never bind what cannot be controlled, and never open doors that cannot be closed." 
+Der Beschwörer-Eid, der von allen zertifizierten Praktizierenden abgelegt wird, beinhaltet das Versprechen, "niemals das zu rufen, was nicht entlassen werden kann, niemals das zu binden, was nicht kontrolliert werden kann, und niemals Türen zu öffnen, die nicht geschlossen werden können."
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

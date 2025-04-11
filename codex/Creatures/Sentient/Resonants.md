@@ -1,235 +1,239 @@
-# **Resonants**: Harmonic Embodiments of Magical Symphony
+# **Resonanten**: Harmonische Verkörperungen Magischer Symphonie
 
-> *"To hear a Resonant choir is to understand the true music of magic itself—every note a perfect expression of elemental harmony."* — Melodius Harpweaver, Master Bardic Mage
+> *"Ein Resonanten-Chor zu hören bedeutet, die wahre Musik der Magie selbst zu verstehen – jede Note ein perfekter Ausdruck elementarer Harmonie."* — Melodius Harpweaver, Meister Bardenmagier
 
-## Quick Navigation
+## Schnelle Navigation
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Cultural Aspects](#cultural-aspects)
-- [Species Relationships](#species-relationships)
+- [Elementare Zusammensetzung](#elementare-zusammensetzung)
+- [Physische Merkmale](#physische-merkmale)
+- [Magische Affinität](#magische-affinität)
+- [Lebensraum und Verbreitung](#lebensraum-und-verbreitung)
+- [Kulturelle Aspekte](#kulturelle-aspekte)
+- [Beziehungen zwischen den Arten](#beziehungen-zwischen-den-arten)
 
-## Overview
+## Überblick
 
-Resonants are a rare and remarkable sentient species whose very bodies serve as living conduits for magical harmonics. Neither fully physical nor entirely magical, they exist in a state of perfect balance between material and magical realms. Their crystalline humanoid forms are composed of semi-transparent resonating tissues that naturally amplify and modulate magical energy. Born from the spontaneous coalescence of Base Mana around particularly harmonious magical frequencies, Resonants represent the living embodiment of magical theory's harmonic principles.
+Resonanten sind eine seltene und bemerkenswerte empfindungsfähige Spezies, deren Körper als lebende Leiter für magische Harmonien dienen. Weder vollständig physisch noch gänzlich magisch existieren sie in einem Zustand des perfekten Gleichgewichts zwischen materiellen und magischen Reichen. Ihre kristallinen humanoiden Formen bestehen aus semi-transparentem, resonierendem Gewebe, das magische Energie auf natürliche Weise verstärkt und moduliert. Geboren aus dem spontanen Zusammenwachsen von Base Mana um besonders harmonische magische Frequenzen, repräsentieren Resonanten die lebende Verkörperung der harmonischen Prinzipien der magischen Theorie.
 
-## Elemental Composition
+## Elementare Zusammensetzung
 
-**Resonants** possess a distinctive elemental composition unlike other sentient beings:
+**Resonanten** besitzen eine unverwechselbare elementare Zusammensetzung, die sich von anderen empfindungsfähigen Wesen unterscheidet:
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Seele | Mana-Kapazität | Repräsentativer Typ |
 |----------|------|---------------|---------------------|
-| 30-40% | 30-40% | 30-40% | Standard Resonant |
-| 40-50% | 25-35% | 20-30% | **Crystal Resonant** with enhanced physical durability |
-| 25-35% | 35-45% | 25-35% | **Harmonic Resonant** with enhanced musical ability |
-| 20-30% | 25-35% | 40-50% | **Arcane Resonant** with exceptional magical prowess |
+| 30-40% | 30-40% | 30-40% | Standard-Resonant |
+| 40-50% | 25-35% | 20-30% | **Kristall-Resonant** mit erhöhter physischer Haltbarkeit |
+| 25-35% | 35-45% | 25-35% | **Harmonischer Resonant** mit erhöhter musikalischer Fähigkeit |
+| 20-30% | 25-35% | 40-50% | **Arkaner Resonant** mit außergewöhnlicher magischer Tüchtigkeit |
 
-### Individual Variations
+### Individuelle Variationen
 
-Unlike most beings whose elemental composition remains relatively fixed throughout life, Resonants experience fluctuations based on their environment, emotional state, and magical activities. They naturally adjust their internal elemental balance to achieve optimal resonance with their surroundings, a trait that gives them extraordinary adaptability but can also make them vulnerable to magical disruptions. Their most unique trait is the perfect triangular balance between all three elemental components, allowing them to serve as ideal conduits for magical energy.
+Im Gegensatz zu den meisten Wesen, deren elementare Zusammensetzung im Laufe des Lebens relativ konstant bleibt, erfahren Resonanten Schwankungen, die auf ihrer Umgebung, ihrem emotionalen Zustand und ihren magischen Aktivitäten basieren. Sie passen ihr inneres elementares Gleichgewicht auf natürliche Weise an, um eine optimale Resonanz mit ihrer Umgebung zu erreichen, eine Eigenschaft, die ihnen eine außergewöhnliche Anpassungsfähigkeit verleiht, sie aber auch anfällig für magische Störungen machen kann. Ihr einzigartigstes Merkmal ist das perfekte dreieckige Gleichgewicht zwischen allen drei elementaren Komponenten, das es ihnen ermöglicht, als ideale Leiter für magische Energie zu dienen.
 
-## Physical Characteristics
+## Physische Merkmale
 
-**Resonants** exhibit distinctive physical traits:
+**Resonanten** weisen unverwechselbare physische Merkmale auf:
 
-| Characteristic | Description |
+| Merkmal | Beschreibung |
 |----------------|-------------|
-| **Height** | 5'6" - 6'6" (168-198 cm) |
-| **Weight** | 140-200 lbs (63-91 kg), lighter than their crystalline appearance suggests |
-| **Lifespan** | 200-300 years, with potential for extended periods of dormancy |
-| **Physical Maturity** | 25-30 years |
-| **Notable Features** | Semi-transparent crystalline body with internal luminescence, resonating chamber in chest |
+| **Größe** | 5'6" - 6'6" (168-198 cm) |
+| **Gewicht** | 140-200 lbs (63-91 kg), leichter als ihr kristallines Aussehen vermuten lässt |
+| **Lebensdauer** | 200-300 Jahre, mit Potenzial für längere Ruhephasen |
+| **Physische Reife** | 25-30 Jahre |
+| **Bemerkenswerte Merkmale** | Semi-transparenter kristalliner Körper mit interner Lumineszenz, Resonanzkammer in der Brust |
 
-### Appearance
+### Aussehen
 
-- **Crystalline Structure**: Bodies composed of translucent, faceted tissue resembling living crystal
-- **Internal Luminescence**: Soft light emanates from within, color shifting with emotional state
-- **Resonating Chambers**: Hollow spaces within chest and head that amplify magical frequencies
-- **Minimal Features**: Simplified facial features with luminous eyes and subtle expressions
-- **Harmonic Patterns**: Intricate geometric patterns that flow across their surface, representing their personal harmonic signature
+- **Kristalline Struktur**: Körper bestehen aus durchscheinendem, facettiertem Gewebe, das lebendem Kristall ähnelt
+- **Interne Lumineszenz**: Weiches Licht strahlt von innen heraus, die Farbe ändert sich mit dem emotionalen Zustand
+- **Resonanzkammern**: Hohle Räume in Brust und Kopf, die magische Frequenzen verstärken
+- **Minimale Merkmale**: Vereinfachte Gesichtszüge mit leuchtenden Augen und subtilen Ausdrücken
+- **Harmonische Muster**: Komplizierte geometrische Muster, die über ihre Oberfläche fließen und ihre persönliche harmonische Signatur darstellen
 
-## Magical Affinity
+## Magische Affinität
 
-**Resonants** demonstrate extraordinary proficiency in manipulating **Mana**:
+**Resonanten** zeigen eine außergewöhnliche Fähigkeit zur Manipulation von **Mana**:
 
-| Aspect | Capability |
+| Aspekt | Fähigkeit |
 |--------|------------|
-| **Mana Storage** | Moderate capacity but exceptional efficiency (nearly 100% utilization) |
-| **Purification** | Extraordinary (natural 90%+ purity with minimal effort) |
-| **Specialization Efficiency** | Exceptional (can achieve 95%+ elemental conversion) |
-| **Natural Affinity** | Innate understanding of magical harmonics and resonance patterns |
+| **Mana-Speicherung** | Moderate Kapazität, aber außergewöhnliche Effizienz (nahezu 100% Nutzung) |
+| **Reinigung** | Außergewöhnlich (natürliche 90%+ Reinheit mit minimalem Aufwand) |
+| **Spezialisierungseffizienz** | Außergewöhnlich (kann 95%+ elementare Umwandlung erreichen) |
+| **Natürliche Affinität** | Angeborenes Verständnis für magische Harmonien und Resonanzmuster |
 
-### The Living Harmonic Model
+### Das lebende harmonische Modell
 
-Resonants physically embody the principles of magical harmonics described in [Magical Resonance](/codex/Magics/Core/BaseMana.md#magical-resonance) theory:
+Resonanten verkörpern physisch die Prinzipien der magischen Harmonien, die in der [Magischen Resonanz](/codex/Magics/Core/BaseMana.md#magische-resonanz)-Theorie beschrieben werden:
 
-1. **Fundamental Frequency**: Each Resonant possesses a unique personal resonance frequency
-2. **Harmonic Overtones**: Can naturally generate and manipulate precise magical harmonics
-3. **Consonance Perception**: Instinctively understand compatible elemental combinations
-4. **Dissonance Sensitivity**: Physically pained by disharmonious magical patterns
+1. **Grundfrequenz**: Jeder Resonant besitzt eine einzigartige persönliche Resonanzfrequenz
+2. **Harmonische Obertöne**: Können auf natürliche Weise präzise magische Harmonien erzeugen und manipulieren
+3. **Konsonanzwahrnehmung**: Verstehen instinktiv kompatible elementare Kombinationen
+4. **Dissonanzempfindlichkeit**: Werden durch disharmonische magische Muster physisch geschmerzt
 
-### Magical Specializations
+### Magische Spezialisierungen
 
-While **Resonants** excel across all magical disciplines, they particularly thrive in:
+Während **Resonanten** in allen magischen Disziplinen hervorragend sind, blühen sie besonders in folgenden Bereichen auf:
 
-- **Harmonic Spellcraft**: Creating perfectly balanced patterns for maximum magical efficiency
-- **Elemental Synthesis**: Combining different elemental energies with unprecedented precision
-- **Resonance Healing**: Using harmonic vibrations to restore natural magical balance
-- **Pattern Stabilization**: Maintaining complex spell structures with extraordinary longevity
-- **Sound-based Magic**: Unparalleled mastery of magic that utilizes sound as a component
+- **Harmonische Zauberkunst**: Erstellen perfekt ausbalancierter Muster für maximale magische Effizienz
+- **Elementare Synthese**: Kombinieren verschiedener elementarer Energien mit beispielloser Präzision
+- **Resonanzheilung**: Verwenden harmonischer Vibrationen, um das natürliche magische Gleichgewicht wiederherzustellen
+- **Musterstabilisierung**: Aufrechterhaltung komplexer Zauberstrukturen mit außergewöhnlicher Langlebigkeit
+- **Schallbasierte Magie**: Unübertroffene Beherrschung von Magie, die Schall als Komponente verwendet
 
-### Unique Magical Traits
+### Einzigartige magische Eigenschaften
 
-- **Harmonic Sight**: Perceive magical resonances visually as colors and patterns
-- **Frequency Attunement**: Can adjust their personal frequency to match environmental magic
-- **Pattern Memory**: Perfect recall of any spell pattern they have previously encountered
-- **Resonant Amplification**: Ability to magnify magical effects through bodily resonance chambers
-- **Wild Mana Harmonization**: Can temporarily stabilize Wild Mana through resonant frequencies
+- **Harmonischer Blick**: Wahrnehmen magischer Resonanzen visuell als Farben und Muster
+- **Frequenzabstimmung**: Können ihre persönliche Frequenz an die Umgebungsmagie anpassen
+- **Musterspeicher**: Perfekte Erinnerung an jedes Zaubermuster, dem sie zuvor begegnet sind
+- **Resonanzverstärkung**: Fähigkeit, magische Effekte durch körperliche Resonanzkammern zu verstärken
+- **Wild Mana-Harmonisierung**: Kann Wild Mana durch Resonanzfrequenzen vorübergehend stabilisieren
 
-## Habitat and Distribution
+## Lebensraum und Verbreitung
 
-**Resonants** are exceedingly rare, with fewer than a thousand known to exist across the world:
+**Resonanten** sind äußerst selten, mit weniger als tausend bekannten Exemplaren auf der ganzen Welt:
 
-| Region | Settlement Type | Notable Features |
+| Region | Siedlungstyp | Bemerkenswerte Merkmale |
 |--------|----------------|------------------|
-| **Harmonic Spires** | Primary Resonant community | Crystal towers built at major ley line convergence |
-| **Resonance Academies** | Small enclaves within magical institutions | Educational and research communities |
-| **Frequency Sanctuaries** | Isolated meditation retreats | Located at sites of natural harmonic magic |
-| **Wandering Harmonists** | Solitary or small traveling groups | Nomadic Resonants studying various magical traditions |
+| **Harmonische Türme** | Primäre Resonanten-Gemeinschaft | Kristalltürme, die an wichtigen Leylinien-Konvergenzen gebaut wurden |
+| **Resonanzakademien** | Kleine Enklaven innerhalb magischer Institutionen | Bildungs- und Forschungsgemeinschaften |
+| **Frequenzheiligtümer** | Abgeschiedene Meditationsretreats | Befinden sich an Orten natürlicher harmonischer Magie |
+| **Wandernde Harmonisten** | Einzelgängerische oder kleine Reisegruppen | Nomadische Resonanten, die verschiedene magische Traditionen studieren |
 
-### Environment Sensitivity
+### Umgebungssensitivität
 
-Resonants thrive in environments with stable, harmonious magical fields. They find dissonant or chaotic magical areas physically painful and can become ill when exposed to corrupted magic or [Mana Blights](/codex/Creatures/Monsters/ManaBlight.md). Conversely, they experience profound well-being in places of exceptional magical harmony, such as ancient elven forests or properly maintained ritual sites.
+Resonanten gedeihen in Umgebungen mit stabilen, harmonischen magischen Feldern. Sie empfinden dissonante oder chaotische magische Bereiche als physisch schmerzhaft und können krank werden, wenn sie korrumpierter Magie oder [Mana-Plagen](/codex/Creatures/Monsters/ManaBlight.md) ausgesetzt sind. Umgekehrt erfahren sie tiefes Wohlbefinden an Orten außergewöhnlicher magischer Harmonie, wie z. B. in alten Elfenwäldern oder ordnungsgemäß gepflegten Ritualstätten.
 
-## Cultural Aspects
+## Kulturelle Aspekte
 
-The culture of **Resonants** is characterized by their unique relationship with magical harmonics:
+Die Kultur der **Resonanten** ist durch ihre einzigartige Beziehung zu magischen Harmonien gekennzeichnet:
 
-### Social Structure
+### Soziale Struktur
 
-Resonant society is organized around harmonic compatibility rather than traditional hierarchies:
+Die Resonanten-Gesellschaft ist eher um harmonische Kompatibilität als um traditionelle Hierarchien herum organisiert:
 
-| Aspect | Details |
+| Aspekt | Details |
 |--------|---------|
-| **Government** | Harmonic Council of complementary frequency representatives |
-| **Family Units** | Resonance Clusters of harmonically compatible individuals |
-| **Leadership** | Based on harmonic complexity and ability to synthesize diverse patterns |
-| **Social Mobility** | Determined by development of one's unique resonance signature |
+| **Regierung** | Harmonischer Rat von Vertretern komplementärer Frequenzen |
+| **Familienverbände** | Resonanzcluster harmonisch kompatibler Individuen |
+| **Führung** | Basiert auf harmonischer Komplexität und der Fähigkeit, verschiedene Muster zu synthetisieren |
+| **Soziale Mobilität** | Bestimmt durch die Entwicklung der eigenen einzigartigen Resonanzsignatur |
 
-### Core Values
+### Kernwerte
 
-Most **Resonant** cultures share certain common values:
+Die meisten **Resonanten**-Kulturen teilen bestimmte gemeinsame Werte:
 
-- **Harmonic Balance**: Seeking perfect equilibrium between all elements and forces
-- **Pattern Integrity**: Maintaining the purity and correct structure of magical patterns
-- **Resonant Diversity**: Celebrating the unique frequency signature of each individual
-- **Knowledge Preservation**: Recording and protecting magical patterns across generations
-- **Dissonance Resolution**: Finding harmony in seemingly incompatible elements
+- **Harmonisches Gleichgewicht**: Streben nach perfektem Gleichgewicht zwischen allen Elementen und Kräften
+- **Musterintegrität**: Aufrechterhaltung der Reinheit und korrekten Struktur magischer Muster
+- **Resonanzvielfalt**: Feiern der einzigartigen Frequenzsignatur jedes Individuums
+- **Wissenserhaltung**: Aufzeichnen und Schützen magischer Muster über Generationen hinweg
+- **Dissonanzauflösung**: Finden von Harmonie in scheinbar unvereinbaren Elementen
 
-### Resonant Music
+### Resonante Musik
 
-At the center of Resonant culture lies their extraordinary musical tradition:
+Im Zentrum der Resonanten-Kultur steht ihre außergewöhnliche musikalische Tradition:
 
-- **Frequency Choirs**: Groups who can produce perfect magical harmonics vocally
-- **Crystal Instrumentation**: Tools that amplify and modulate their natural resonance
-- **Pattern Songs**: Musical compositions that double as functional spell structures
-- **Harmonic Meditation**: Musical practices that enhance magical aptitude and control
-- **Historical Records**: Preserving knowledge through musical compositions rather than writing
+- **Frequenzchöre**: Gruppen, die stimmlich perfekte magische Harmonien erzeugen können
+- **Kristallinstrumentierung**: Werkzeuge, die ihre natürliche Resonanz verstärken und modulieren
+- **Mustersongs**: Musikalische Kompositionen, die gleichzeitig als funktionale Zauberstrukturen dienen
+- **Harmonische Meditation**: Musikalische Praktiken, die die magische Begabung und Kontrolle verbessern
+- **Historische Aufzeichnungen**: Bewahrung von Wissen durch musikalische Kompositionen und nicht durch Schrift
 
-### Common Occupations
+### Häufige Berufe
 
-Popular professions among **Resonants** include:
+Beliebte Berufe unter **Resonanten** sind:
 
-- **Harmonic Mages**: Specialists in resonance-based spellcasting
-- **Pattern Architects**: Designers of new spell structures based on harmonic principles
-- **Resonance Healers**: Practitioners who restore magical and physical balance
-- **Frequency Scholars**: Researchers studying the fundamental principles of magical harmonics
-- **Wild Mana Stabilizers**: Specialists in harmonizing chaotic magical environments
+- **Harmonische Magier**: Spezialisten für resonanzbasierte Zauberei
+- **Musterarchitekten**: Designer neuer Zauberstrukturen basierend auf harmonischen Prinzipien
+- **Resonanzheiler**: Praktizierende, die das magische und physische Gleichgewicht wiederherstellen
+- **Frequenzgelehrte**: Forscher, die die grundlegenden Prinzipien der magischen Harmonien studieren
+- **Wild Mana-Stabilisatoren**: Spezialisten für die Harmonisierung chaotischer magischer Umgebungen
 
-## Species Relationships
+## Beziehungen zwischen den Arten
 
-**Resonants** interact with other species in distinctive ways:
+**Resonanten** interagieren auf unverwechselbare Weise mit anderen Spezies:
 
-| Species | Relationship | Notable Interactions |
+| Spezies | Beziehung | Bemerkenswerte Interaktionen |
 |---------|--------------|----------------------|
-| **Elves** | Deep Respect | Exchange of magical knowledge, mutual appreciation of harmony |
-| **Humans** | Cautious Mentorship | Teaching harmonic principles to gifted human mages |
-| **Fae** | Natural Understanding | Recognition of shared connection to magical fundamentals |
-| **Mana Wisps** | Symbiotic | Direct communication through resonant frequencies |
-| **Dwarves** | Respectful Distance | Appreciation for dwarven crystal crafting, difficulty with earth-bound pragmatism |
-| **Shadowfolk** | Uncomfortable Tension | Fundamental dissonance between their magical natures |
+| **Elfen** | Tiefer Respekt | Austausch von magischem Wissen, gegenseitige Wertschätzung der Harmonie |
+| **Menschen** | Vorsichtige Mentorschaft | Vermittlung harmonischer Prinzipien an begabte menschliche Magier |
+| **Fae** | Natürliches Verständnis | Anerkennung der gemeinsamen Verbindung zu magischen Grundlagen |
+| **Mana-Irrlichter** | Symbiotisch | Direkte Kommunikation über Resonanzfrequenzen |
+| **Zwerge** | Respektvolle Distanz | Wertschätzung für zwergische Kristallhandwerkskunst, Schwierigkeiten mit erdgebundenem Pragmatismus |
+| **Schattenvolk** | Unangenehme Spannung | Fundamentale Dissonanz zwischen ihren magischen Naturen |
 
-### Diplomatic Approach
+### Diplomatischer Ansatz
 
-Resonant diplomatic approaches typically emphasize:
+Resonante diplomatische Ansätze betonen typischerweise:
 
-- **Frequency Matching**: Adapting their communication style to resonate with other cultures
-- **Dissonance Resolution**: Mediating conflicts by finding underlying harmonic patterns
-- **Pattern Recognition**: Identifying commonalities between seemingly disparate viewpoints
-- **Amplification of Harmony**: Strengthening existing points of agreement and cooperation
+- **Frequenzabstimmung**: Anpassung ihres Kommunikationsstils, um mit anderen Kulturen zu resonieren
+- **Dissonanzauflösung**: Vermittlung von Konflikten durch Auffinden zugrunde liegender harmonischer Muster
+- **Mustererkennung**: Identifizierung von Gemeinsamkeiten zwischen scheinbar unterschiedlichen Standpunkten
+- **Verstärkung der Harmonie**: Stärkung bestehender Punkte der Übereinstimmung und Zusammenarbeit
 
-## Notable Traits
+## Bemerkenswerte Eigenschaften
 
-**Resonants** are characterized by several distinctive traits:
+**Resonanten** zeichnen sich durch verschiedene besondere Eigenschaften aus:
 
-### Strengths
+### Stärken
 
-- **Pattern Perfection**: Unmatched precision in spell structure creation
-- **Harmonic Perception**: Ability to "hear" the resonant frequencies of all magic
-- **Mana Efficiency**: Nearly 100% utilization of magical energy
-- **Adaptation**: Can adjust their personal frequency to match different magical environments
-- **Longevity**: Extended lifespan and ability to enter dormant crystal states
+- **Musterperfektion**: Unübertroffene Präzision bei der Erstellung von Zauberstrukturen
+- **Harmonische Wahrnehmung**: Fähigkeit, die Resonanzfrequenzen aller Magie zu "hören"
+- **Mana-Effizienz**: Nahezu 100% Nutzung magischer Energie
+- **Anpassung**: Können ihre persönliche Frequenz an verschiedene magische Umgebungen anpassen
+- **Langlebigkeit**: Verlängerte Lebensdauer und Fähigkeit, in ruhende Kristallzustände einzutreten
 
-### Challenges
+### Herausforderungen
 
-- **Dissonance Sensitivity**: Physical pain from exposure to disharmonious magic
-- **Limited Reproduction**: New Resonants form rarely, only under specific harmonic conditions
-- **Crystal Vulnerability**: Physical form can shatter under extreme stress
-- **Emotional Amplification**: Feelings can create unintended magical resonances
-- **Cultural Isolation**: Difficulty relating to non-harmonic perspectives
+- **Dissonanzempfindlichkeit**: Physischer Schmerz durch Exposition gegenüber disharmonischer Magie
+- **Begrenzte Fortpflanzung**: Neue Resonanten bilden sich selten, nur unter bestimmten harmonischen Bedingungen
+- **Kristallverwundbarkeit**: Physische Form kann unter extremem Stress zerbrechen
+- **Emotionale Verstärkung**: Gefühle können unbeabsichtigte magische Resonanzen erzeugen
+- **Kulturelle Isolation**: Schwierigkeiten, sich auf nicht-harmonische Perspektiven zu beziehen
 
-## Magical Theory Applications
+## Magische Theorieanwendungen
 
-The existence of Resonants provides invaluable insights into magical theory:
+Die Existenz von Resonanten liefert unschätzbare Einblicke in die magische Theorie:
 
-### Phase Conversion Amplification
+### Phasenkonvertierungsverstärkung
 
-Resonants demonstrate an enhanced version of the standard two-phase mana conversion process:
+Resonanten demonstrieren eine verbesserte Version des standardmäßigen zweiphasigen Mana-Konvertierungsprozesses:
 
-1. **Phase 1 (Wild → Base)**: Achieve nearly 100% conversion efficiency
-2. **Resonant Amplification**: Unique intermediate phase that purifies Base Mana
-3. **Phase 2 (Base → Elemental)**: Achieve extraordinarily precise elemental specialization
+1. **Phase 1 (Wild → Base)**: Erreichen nahezu 100% Konvertierungseffizienz
+2. **Resonanzverstärkung**: Einzigartige Zwischenphase, die Base Mana reinigt
+3. **Phase 2 (Base → Elemental)**: Erreichen außergewöhnlich präziser elementarer Spezialisierung
 
-### The Harmonic Spellcasting Model
+### Das harmonische Zauberwirkungsmodell
 
-Resonants have developed a specialized approach to magic based on musical principles:
+Resonanten haben einen spezialisierten Ansatz für Magie entwickelt, der auf musikalischen Prinzipien basiert:
 
-1. **Frequency Identification**: Determining the precise resonant frequency of the desired effect
-2. **Harmonic Construction**: Building the spell pattern using mathematical harmonic relationships
-3. **Resonant Amplification**: Using bodily chambers to amplify and stabilize the pattern
-4. **Frequency Modulation**: Fine-tuning the spell through precise harmonic adjustments
+1. **Frequenzidentifizierung**: Bestimmung der präzisen Resonanzfrequenz des gewünschten Effekts
+2. **Harmonische Konstruktion**: Aufbau des Zaubermusters unter Verwendung mathematischer harmonischer Beziehungen
+3. **Resonanzverstärkung**: Verwendung von Körperkammern zur Verstärkung und Stabilisierung des Musters
+4. **Frequenzmodulation**: Feinabstimmung des Zaubers durch präzise harmonische Anpassungen
 
-### Specialized Casting Tools
+### Spezialisierte Gusswerkzeuge
 
-Resonants craft and use unique magical implements:
+Resonanten fertigen und verwenden einzigartige magische Werkzeuge:
 
-- **Tuning Forks**: Precision tools for establishing fundamental frequencies
-- **Resonance Chambers**: External amplifiers that extend their bodily capabilities
-- **Harmonic Crystals**: Storage devices for complex magical patterns
-- **Frequency Wands**: Tools for projecting precise magical harmonics
+- **Stimmgabeln**: Präzisionswerkzeuge zum Festlegen von Grundfrequenzen
+- **Resonanzkammern**: Externe Verstärker, die ihre körperlichen Fähigkeiten erweitern
+- **Harmonische Kristalle**: Speichergeräte für komplexe magische Muster
+- **Frequenzstäbe**: Werkzeuge zum Projizieren präziser magischer Harmonien
 
-## Historical Origins
+## Historische Ursprünge
 
-The origins of Resonants remain partially mysterious, but scholars have identified three possible creation theories:
+Die Ursprünge der Resonanten bleiben teilweise mysteriös, aber Gelehrte haben drei mögliche Schöpfungstheorien identifiziert:
 
-1. **Crystallization Theory**: Spontaneous formation from perfectly balanced magical fields
-2. **Ascension Theory**: Evolution of mages who achieved perfect harmonic mastery
-3. **Harmonic Design Theory**: Deliberate creation by ancient magical civilizations seeking perfect magical vessels
+1. **Kristallisationstheorie**: Spontane Bildung aus perfekt ausbalancierten magischen Feldern
+2. **Aufstiegstheorie**: Evolution von Magiern, die perfekte harmonische Meisterschaft erlangten
+3. **Harmonische Designtheorie**: Gezielte Erschaffung durch alte magische Zivilisationen, die perfekte magische Gefäße suchten
 
-Most Resonants themselves subscribe to the Crystallization Theory, believing they represent the natural emergence of consciousness from perfectly balanced magical harmony.
+Die meisten Resonanten selbst vertreten die Kristallisationstheorie und glauben, dass sie das natürliche Entstehen von Bewusstsein aus perfekt ausbalancierter magischer Harmonie darstellen.
 
 ---
 
-> Understanding the **Resonants** provides profound insight into the fundamental principles of magical harmonics and the living potential of perfectly balanced elemental composition. Their existence serves as both proof and exemplar of the harmonic theories that underpin all magical practice in OpenFantasy. 
+> Das Verständnis der **Resonanten** liefert tiefe Einblicke in die grundlegenden Prinzipien der magischen Harmonien und das lebendige Potenzial perfekt ausbalancierter elementarer Zusammensetzung. Ihre Existenz dient sowohl als Beweis als auch als Exempel für die harmonischen Theorien, die der gesamten magischen Praxis in OpenFantasy zugrunde liegen.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

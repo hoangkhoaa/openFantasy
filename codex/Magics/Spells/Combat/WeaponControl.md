@@ -1,233 +1,237 @@
-# **Weapon Control**
+# **Waffenkontrolle**
 
-> *"The unbound blade dances at your command, not bound by the limitations of flesh, but guided by the precision of will."*  
-> — Swordmaster Arlan Vostel, Founder of the Orbiting Blade Technique
+> *"Die ungebundene Klinge tanzt auf deinen Befehl, nicht gebunden durch die Grenzen des Fleisches, sondern geleitet durch die Präzision des Willens."*
+> — Schwertmeister Arlan Vostel, Gründer der Orbiting Blade Technik
 
-## Casting Information
-- **Difficulty**: Intermediate to Expert
-- **Casting Time**: 1-3 seconds (initial control), instantaneous (subsequent directions)
-- **Duration**: Concentration, up to 1 minute
-- **Range**: 30 feet (standard), up to 60 feet (mastery)
-- **Components**: Somatic, Focus (weapon or projectile)
+## Informationen zum Zauberwirken
+- **Schwierigkeit**: Mittel bis Experte
+- **Zauberzeit**: 1-3 Sekunden (initiale Kontrolle), augenblicklich (nachfolgende Anweisungen)
+- **Dauer**: Konzentration, bis zu 1 Minute
+- **Reichweite**: 30 Fuß (Standard), bis zu 60 Fuß (Meisterschaft)
+- **Komponenten**: Somatisch, Fokus (Waffe oder Projektil)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 75%, Aeromana 15%, Terramana 10%
-- **Primary Factor**: Technical Mastery and Training (more significant than purity)
-- **Minimum Mana Capacity**: 20% (Higher capacity allows controlling heavier/more objects)
-- **Pattern Complexity**: Moderate (4-tier control matrix with targeting subpattern)
-- **Resonance Frequency**: Mid-range physical spectrum with harmonic oscillation
-- **Roaming Mana Utilization**: High (Typically operates at sustainable regeneration limits)
+## Technische Details
+- **Mana-Typ Verteilung**: Basis-Mana 75%, Aeromana 15%, Terramana 10%
+- **Primärer Faktor**: Technische Meisterschaft und Training (bedeutender als Reinheit)
+- **Minimale Mana-Kapazität**: 20% (Höhere Kapazität erlaubt die Kontrolle schwererer/mehrerer Objekte)
+- **Musterkomplexität**: Moderat (4-stufige Kontrollmatrix mit Zielunterprogramm)
+- **Resonanzfrequenz**: Mittleres physisches Spektrum mit harmonischer Schwingung
+- **Roaming Mana Nutzung**: Hoch (Arbeitet typischerweise an nachhaltigen Regenerationsgrenzen)
 
-## Core Principles
+## Kernprinzipien
 
-Weapon Control enables the magical manipulation of weapons, projectiles, or other combat implements without physical contact. The spell creates a resonant connection between the caster's mana and the target objects, allowing for precise control of movement, trajectory, and impact force.
+Waffenkontrolle ermöglicht die magische Manipulation von Waffen, Projektilen oder anderen Kampfinstrumenten ohne physischen Kontakt. Der Zauber erzeugt eine resonante Verbindung zwischen dem Mana des Zaubernden und den Zielobjekten, was eine präzise Kontrolle von Bewegung, Flugbahn und Aufprallkraft ermöglicht.
 
-Unlike simpler force vector spells, Weapon Control maintains a persistent connection that permits ongoing manipulation and direction changes. The core pattern establishes:
+Im Gegensatz zu einfacheren Kraftvektor-Zaubern behält Waffenkontrolle eine persistente Verbindung bei, die fortlaufende Manipulation und Richtungsänderungen erlaubt. Das Kernmuster etabliert:
 
-1. **Connection Tether**: The resonant link between caster and weapon
-2. **Momentum Matrix**: The control system for speed and directional change
-3. **Balance Stabilizer**: The component maintaining weapon orientation
-4. **Target Acquisition**: The optional component enabling guided strikes
-5. **Force Amplifier**: The energy transfer mechanism for impact
+1. **Verbindungsleine**: Die resonante Verbindung zwischen Zauberer und Waffe
+2. **Momentum Matrix**: Das Kontrollsystem für Geschwindigkeit und Richtungsänderung
+3. **Balance Stabilisator**: Die Komponente, die die Waffenorientierung aufrechterhält
+4. **Zielerfassung**: Die optionale Komponente, die geführte Schläge ermöglicht
+5. **Kraftverstärker**: Der Energietransfermechanismus für den Aufprall
 
-While many combat spells require high purity levels, Weapon Control is distinct in its emphasis on technical proficiency over raw mana quality. Masters of this art often possess only moderate purity levels but have developed exceptional precision in their technique through thousands of hours of disciplined practice.
+Während viele Kampfzauber hohe Reinheitsgrade erfordern, unterscheidet sich Waffenkontrolle durch ihre Betonung auf technischer Kompetenz gegenüber roher Mana-Qualität. Meister dieser Kunst besitzen oft nur moderate Reinheitsgrade, haben aber durch Tausende von Stunden disziplinierten Übens außergewöhnliche Präzision in ihrer Technik entwickelt.
 
-## Standard Variants
+## Standardvarianten
 
-### Single Weapon Control
-The foundational application for manipulating one weapon:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Complete control over one weapon's movement
-- **Typical Users**: Duelists, Battle Mages, Elite Warriors
-- **Applications**: Extended attack range, surprise angles, reaching inaccessible targets
+### Einzelwaffenkontrolle
+Die grundlegende Anwendung zur Manipulation einer Waffe:
+- **Schwierigkeit**: Mittel
+- **Reinheitsanforderung**: Verfeinert (30-40%)
+- **Effekt**: Vollständige Kontrolle über die Bewegung einer Waffe
+- **Typische Benutzer**: Duellanten, Schlachtmagier, Elitekrieger
+- **Anwendungen**: Erweiterte Angriffsreichweite, überraschende Winkel, Erreichen unzugänglicher Ziele
 
-### Projectile Guidance
-Influences the flight path of thrown weapons or arrows:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Adjusts trajectory of projectiles after release
-- **Typical Users**: Rangers, Scouts, Specialist Archers
-- **Applications**: Curving shots around obstacles, extending effective range, compensating for wind
+### Projektilführung
+Beeinflusst die Flugbahn von geworfenen Waffen oder Pfeilen:
+- **Schwierigkeit**: Mittel
+- **Reinheitsanforderung**: Verfeinert (35-45%)
+- **Effekt**: Passt die Flugbahn von Projektilen nach dem Abwurf an
+- **Typische Benutzer**: Waldläufer, Späher, Spezialisten-Bogenschützen
+- **Anwendungen**: Kurven von Schüssen um Hindernisse, Verlängerung der effektiven Reichweite, Kompensation von Wind
 
-### Weapon Retrieval
-Specialized variant focused on returning weapons to the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Pulls a weapon back to the caster's hand
-- **Typical Users**: Weapon Specialists, Close Combat Fighters
-- **Applications**: Recovering thrown weapons, disarm countering, tactical repositioning
+### Waffenrückholung
+Spezialisierte Variante, die sich auf die Rückführung von Waffen zum Zauberer konzentriert:
+- **Schwierigkeit**: Mittel
+- **Reinheitsanforderung**: Verfeinert (30-40%)
+- **Effekt**: Zieht eine Waffe zurück in die Hand des Zauberers
+- **Typische Benutzer**: Waffenspezialisten, Nahkämpfer
+- **Anwendungen**: Wiederherstellung geworfener Waffen, Entwaffnungskonter, taktische Neupositionierung
 
-## Advanced Variants
+## Fortgeschrittene Varianten
 
-### Multiple Weapon Orchestra
-Controls several weapons simultaneously:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Manipulates 2-5 weapons independently
-- **Typical Users**: Blade Dancers, Master Battle Mages
-- **Applications**: Multi-directional attacks, defensive screens, coordinated patterns
+### Mehrwaffen-Orchester
+Kontrolliert mehrere Waffen gleichzeitig:
+- **Schwierigkeit**: Experte
+- **Reinheitsanforderung**: Perfekt (60-70%)
+- **Effekt**: Manipuliert 2-5 Waffen unabhängig voneinander
+- **Typische Benutzer**: Klingentänzer, Meister-Schlachtmagier
+- **Anwendungen**: Multi-direktionale Angriffe, defensive Schilde, koordinierte Muster
 
-### Precision Strike
-Enhances accuracy and penetrating power:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Guides weapons with surgical precision to vulnerable points
-- **Typical Users**: Assassins, Elite Rangers, Precision Specialists
-- **Applications**: Targeting weak points in armor, striking vital areas, threading narrow gaps
+### Präzisionsschlag
+Verbessert die Genauigkeit und Durchschlagskraft:
+- **Schwierigkeit**: Experte
+- **Reinheitsanforderung**: Perfekt (65-75%)
+- **Effekt**: Führt Waffen mit chirurgischer Präzision zu verwundbaren Punkten
+- **Typische Benutzer**: Assassinen, Elite-Waldläufer, Präzisionsspezialisten
+- **Anwendungen**: Zielen auf Schwachstellen in Rüstungen, Treffen vitaler Bereiche, Durchfädeln enger Lücken
 
-### Combat Swarm
-Controls numerous small projectiles as a coordinated group:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-80%)
-- **Effect**: Manipulates 10-30 small objects (darts, needles, shards)
-- **Typical Users**: Specialized Mages, Elite Assassins
-- **Applications**: Area denial, multiple target engagement, distraction tactics
+### Kampfschwarm
+Kontrolliert zahlreiche kleine Projektile als koordinierte Gruppe:
+- **Schwierigkeit**: Meister
+- **Reinheitsanforderung**: Perfekt (70-80%)
+- **Effekt**: Manipuliert 10-30 kleine Objekte (Pfeile, Nadeln, Splitter)
+- **Typische Benutzer**: Spezialisierte Magier, Elite-Assassinen
+- **Anwendungen**: Gebietsverweigerung, Mehrfachzielbekämpfung, Ablenkungstaktiken
 
-## Technique Influence on Effect
+## Technikeinfluss auf den Effekt
 
-Unlike many complex spells, Weapon Control effectiveness is determined more by training and technique than by mana purity:
+Im Gegensatz zu vielen komplexen Zaubern wird die Effektivität der Waffenkontrolle eher durch Training und Technik als durch Mana-Reinheit bestimmt:
 
-| Training Level | Control Precision | Maximum Weight | Sustainability |
+| Trainingslevel | Kontrollpräzision | Maximales Gewicht | Nachhaltigkeit |
 |----------------|-------------------|----------------|----------------|
-| Novice | Basic directional control, simple movements | Single light weapon (up to 3 lbs) | High energy cost, brief duration |
-| Intermediate | Smooth trajectories, controlled speed | Medium weapons (up to 8 lbs) | Moderate efficiency, operates within regeneration |
-| Advanced | Complex maneuvers, accurate targeting | Heavy weapons (up to 15 lbs) | Efficient use, sustainable for combat duration |
-| Master | Intricate patterns, perfect balance, combat integration | Multiple weapons or very heavy implements (20+ lbs) | Optimized for regeneration equilibrium |
+| Anfänger | Grundlegende Richtungskontrolle, einfache Bewegungen | Einzelne leichte Waffe (bis zu 3 lbs) | Hoher Energieverbrauch, kurze Dauer |
+| Mittelstufe | Glatte Flugbahnen, kontrollierte Geschwindigkeit | Mittelschwere Waffen (bis zu 8 lbs) | Moderate Effizienz, arbeitet innerhalb der Regeneration |
+| Fortgeschritten | Komplexe Manöver, genaue Zielerfassung | Schwere Waffen (bis zu 15 lbs) | Effiziente Nutzung, nachhaltig für die Kampfdauer |
+| Meister | Komplizierte Muster, perfektes Gleichgewicht, Kampfintegration | Mehrere Waffen oder sehr schwere Werkzeuge (20+ lbs) | Optimiert für das Regenerationsgleichgewicht |
 
-Practitioners train to utilize ambient roaming mana to supplement their personal reserves, allowing them to maintain control for extended periods. The most skilled users establish an energy equilibrium where they expend only as much mana as they naturally regenerate, creating theoretically indefinite control periods.
+Praktizierende trainieren, um Ambient Roaming Mana zu nutzen, um ihre persönlichen Reserven zu ergänzen, was es ihnen ermöglicht, die Kontrolle über längere Zeiträume aufrechtzuerhalten. Die erfahrensten Benutzer stellen ein Energiegleichgewicht her, in dem sie nur so viel Mana verbrauchen, wie sie auf natürliche Weise regenerieren, wodurch theoretisch unbegrenzte Kontrollperioden entstehen.
 
-## Mana Capacity and Object Relationship
+## Mana-Kapazität und Objektbeziehung
 
-The primary limiting factor in Weapon Control is the relationship between mana capacity and controlled object mass:
+Der primäre limitierende Faktor bei der Waffenkontrolle ist die Beziehung zwischen Mana-Kapazität und kontrollierter Objektmasse:
 
-| Mana Capacity | Maximum Sustainable Weight | Number of Objects | Duration at Maximum Load |
+| Mana-Kapazität | Maximales nachhaltiges Gewicht | Anzahl der Objekte | Dauer bei maximaler Last |
 |---------------|----------------------------|-------------------|--------------------------|
-| 20-30% | Up to 10 pounds total | 1-2 objects | Combat duration (sustainable) |
-| 31-45% | Up to 25 pounds total | 2-3 objects | Combat duration (sustainable) |
-| 46-60% | Up to 50 pounds total | 3-5 objects | Limited combat (approaching regeneration limit) |
-| 61-75% | Up to 100 pounds total | 5-8 objects | Brief periods (exceeds regeneration) |
-| 76%+ | 100+ pounds total | 8+ objects | Tactical moments only (rapidly depletes reserves) |
+| 20-30% | Bis zu 10 Pfund insgesamt | 1-2 Objekte | Kampfdauer (nachhaltig) |
+| 31-45% | Bis zu 25 Pfund insgesamt | 2-3 Objekte | Kampfdauer (nachhaltig) |
+| 46-60% | Bis zu 50 Pfund insgesamt | 3-5 Objekte | Begrenzter Kampf (nähert sich der Regenerationsgrenze) |
+| 61-75% | Bis zu 100 Pfund insgesamt | 5-8 Objekte | Kurze Zeiträume (überschreitet die Regeneration) |
+| 76%+ | 100+ Pfund insgesamt | 8+ Objekte | Nur taktische Momente (erschöpft schnell die Reserven) |
 
-Experienced practitioners typically operate at 70-85% of their maximum capacity to maintain combat effectiveness while ensuring sustainable mana expenditure.
+Erfahrene Praktizierende arbeiten in der Regel mit 70-85 % ihrer maximalen Kapazität, um die Kampfeffektivität aufrechtzuerhalten und gleichzeitig einen nachhaltigen Manaverbrauch zu gewährleisten.
 
-## Class-Specific Applications
+## Klassenspezifische Anwendungen
 
-### Warrior Class
-- **Orbital Shield**: Circling weapon providing mobile defense
-- **Extended Reach**: Attacking beyond normal melee range
-- **Flanking Strike**: Attacking from unexpected angles
-- **Weapon Swap**: Quickly exchanging wielded and controlled weapons
+### Kriegerklasse
+- **Orbitalschild**: Umkreisende Waffe bietet mobile Verteidigung
+- **Erweiterte Reichweite**: Angreifen über die normale Nahkampfreichweite hinaus
+- **Flankenangriff**: Angreifen aus unerwarteten Winkeln
+- **Waffenwechsel**: Schnelles Austauschen von geführten und kontrollierten Waffen
 
-### Rogue/Assassin Class
-- **Silent Strike**: Weapon attacks without revealing caster position
-- **Needle Storm**: Controlling multiple poisoned projectiles
-- **Distraction Array**: Creating diversions with controlled objects
-- **Lock Manipulation**: Controlling lockpicks or small tools remotely
+### Schurken-/Assassinen-Klasse
+- **Lautloser Schlag**: Waffenangriffe, ohne die Position des Zauberers preiszugeben
+- **Nadelsturm**: Kontrollieren mehrerer vergifteter Projektile
+- **Ablenkungsanordnung**: Erzeugen von Ablenkungen mit kontrollierten Objekten
+- **Schlossmanipulation**: Fernsteuerung von Dietrichen oder kleinen Werkzeugen
 
-### Ranger Class
-- **Arrow Guidance**: Steering arrows around obstacles after firing
-- **Multi-Shot Control**: Guiding several arrows to different targets
-- **Retrieval Hunt**: Recovering valuable or special arrows
-- **Signal Arrows**: Complex flight paths for communication signals
+### Waldläuferklasse
+- **Pfeilführung**: Steuern von Pfeilen um Hindernisse nach dem Abfeuern
+- **Mehrfachschusskontrolle**: Führen mehrerer Pfeile zu verschiedenen Zielen
+- **Bergungsjagd**: Bergen wertvoller oder spezieller Pfeile
+- **Signalpfeile**: Komplexe Flugbahnen für Kommunikationssignale
 
-### Mage Class
-- **Arcane Defender**: Orbiting weapon while casting other spells
-- **Focus Control**: Manipulating magical implements without physical touch
-- **Material Manipulation**: Precise control of ritual components
-- **Spell Conduit**: Using controlled weapons as delivery systems for touch spells
+### Magierklasse
+- **Arkaner Verteidiger**: Umkreisende Waffe während des Wirkens anderer Zauber
+- **Fokussteuerung**: Manipulieren magischer Geräte ohne physische Berührung
+- **Materialmanipulation**: Präzise Kontrolle von Ritualkomponenten
+- **Zauberleitung**: Verwenden kontrollierter Waffen als Zustellsysteme für Berührungszauber
 
-## Training Progression
+## Trainingsprogression
 
-### Fundamental Control
-- Connection establishment exercises
-- Basic directional control drills
-- Weight and balance adaptation
-- Simple patterns and movements
+### Fundamentale Kontrolle
+- Übungen zur Verbindungsherstellung
+- Grundlegende Richtungssteuerungsübungen
+- Gewichts- und Balanceanpassung
+- Einfache Muster und Bewegungen
 
-### Intermediate Mastery
-- Sustained control during caster movement
-- Precise targeting and impact control
-- Transitioning between different movement patterns
-- Multi-object awareness development
-- Roaming mana harvesting techniques
+### Mittelstufen-Meisterschaft
+- Aufrechterhaltung der Kontrolle während der Bewegung des Zauberers
+- Präzise Zielerfassung und Aufprallkontrolle
+- Übergang zwischen verschiedenen Bewegungsmustern
+- Entwicklung des Multiobjektbewusstseins
+- Techniken zur Ernte von Roaming Mana
 
-### Advanced Techniques
-- Independent object movement coordination
-- Combat integration with physical attacks
-- Environmental interaction and obstacle navigation
-- Specialized applications for different weapon types
-- Regeneration-synchronized control rhythms
+### Fortgeschrittene Techniken
+- Unabhängige Koordination der Objektbewegung
+- Kampfintegration mit physischen Angriffen
+- Interaktion mit der Umgebung und Navigation von Hindernissen
+- Spezialisierte Anwendungen für verschiedene Waffentypen
+- Regenerationssynchronisierte Kontrollrhythmen
 
-### Master Level Training
-- Combat flow state achievement
-- Mana efficiency optimization
-- Weight-to-distance ratio mastery
-- Simultaneous ranged and melee control
-- Defensive and offensive pattern integration
+### Training auf Meisterebene
+- Erreichen des Kampf-Flow-Zustands
+- Optimierung der Manaeffizienz
+- Beherrschung des Gewichts-Distanz-Verhältnisses
+- Gleichzeitige Fern- und Nahkampfkontrolle
+- Integration von defensiven und offensiven Mustern
 
-## Technical Considerations
+## Technische Überlegungen
 
-- **Regeneration Synchronization**: Techniques to match mana expenditure with natural recovery rate
-- **Ambient Mana Harvesting**: Methods to supplement personal reserves with environmental energy
-- **Connection Efficiency**: Minimizing energy loss in the control tether
-- **Weight Distribution Analysis**: Understanding how a weapon's balance affects control requirements
-- **Pattern Streamlining**: Eliminating unnecessary complexity in control matrices
-- **Energy Circuit Optimization**: Creating closed loops that recycle portions of expended mana
+- **Regenerationssynchronisation**: Techniken zur Anpassung des Manaverbrauchs an die natürliche Erholungsrate
+- **Ambient Mana Harvesting**: Methoden zur Ergänzung persönlicher Reserven mit Umweltenergie
+- **Verbindungseffizienz**: Minimierung von Energieverlusten in der Kontrollleine
+- **Gewichtsverteilungsanalyse**: Verständnis dafür, wie sich das Gleichgewicht einer Waffe auf die Kontrollanforderungen auswirkt
+- **Mustervereinfachung**: Eliminierung unnötiger Komplexität in Kontrollmatrizen
+- **Energiekreislaufoptimierung**: Erstellen geschlossener Schleifen, die Teile des verbrauchten Mana recyceln
 
-## Risk Factors
+## Risikofaktoren
 
-### Common Mishaps
-- **Control Inversion**: Weapon movement opposite to intended direction
-- **Oscillation Cascade**: Uncontrollable wobbling or vibration
-- **Tether Snap**: Sudden loss of connection during crucial moments
-- **Rebound Effect**: Weapon unexpectedly returning toward caster
-- **Pattern Interference**: Multiple controlled objects colliding
+### Häufige Missgeschicke
+- **Kontrollinversion**: Waffenbewegung entgegen der beabsichtigten Richtung
+- **Oszillationskaskade**: Unkontrollierbares Wackeln oder Vibrieren
+- **Leinenbruch**: Plötzlicher Verbindungsverlust in entscheidenden Momenten
+- **Rückpralleffekt**: Waffe kehrt unerwartet zum Zauberer zurück
+- **Musterstörung**: Mehrere kontrollierte Objekte kollidieren
 
-### Safety Practices
-- Training with blunted or weighted practice weapons
-- Establishing emergency release protocol
-- Practicing in spaces with adequate clearance
-- Developing muscle memory for standard movement patterns
-- Regular connection refresh during extended control periods
+### Sicherheitspraktiken
+- Training mit stumpfen oder gewichteten Übungswaffen
+- Festlegen eines Notfall-Freigabeprotokolls
+- Üben in Räumen mit ausreichend Freiraum
+- Entwicklung des Muskelgedächtnisses für Standardbewegungsmuster
+- Regelmäßige Verbindungsaktualisierung während längerer Kontrollperioden
 
-## Specific Weapon Considerations
+## Spezifische Waffenbetrachtungen
 
-### Bladed Weapons
-Offer excellent control characteristics due to balance and aerodynamics:
-- **Daggers**: Highest precision, ideal for beginners
-- **Swords**: Good balance of reach and maneuverability
-- **Axes**: Require special attention to rotational momentum
-- **Polearms**: Excellent reach but challenging rotational control
+### Klingenwaffen
+Bieten aufgrund von Gleichgewicht und Aerodynamik hervorragende Kontrolleigenschaften:
+- **Dolche**: Höchste Präzision, ideal für Anfänger
+- **Schwerter**: Gutes Gleichgewicht zwischen Reichweite und Manövrierfähigkeit
+- **Äxte**: Erfordern besondere Aufmerksamkeit für das Drehmoment
+- **Stangenwaffen**: Ausgezeichnete Reichweite, aber herausfordernde Rotationskontrolle
 
-### Projectile Weapons
-Particularly suited for guidance rather than full control:
-- **Arrows**: Respond well to minor course corrections
-- **Throwing Knives**: Balance makes them ideal for controlled returns
-- **Darts/Needles**: Perfect for swarm techniques but limited individual impact
-- **Javelins**: Excellent distance but require higher purity for effective guidance
+### Projektilwaffen
+Besonders geeignet für die Führung und weniger für die vollständige Kontrolle:
+- **Pfeile**: Reagieren gut auf kleinere Kurskorrekturen
+- **Wurfmesser**: Das Gleichgewicht macht sie ideal für kontrollierte Rückführungen
+- **Pfeile/Nadeln**: Perfekt für Schwarmtechniken, aber begrenzte individuelle Wirkung
+- **Speere**: Ausgezeichnete Distanz, erfordern aber höhere Reinheit für effektive Führung
 
-### Specialty Applications
-Unusual but effective implementations:
-- **Chain Weapons**: Complex but devastating when mastered
-- **Shrapnel Control**: Directing fragments after explosive impacts
-- **Dust/Powder**: Fine control creates blinding or poisonous clouds
-- **Liquid Projectiles**: Advanced technique for controlling thrown potions or alchemical substances
+### Spezialanwendungen
+Ungewöhnliche, aber effektive Implementierungen:
+- **Kettenwaffen**: Komplex, aber verheerend, wenn sie beherrscht werden
+- **Splitterkontrolle**: Lenken von Fragmenten nach explosiven Einschlägen
+- **Staub/Pulver**: Feine Kontrolle erzeugt blendende oder giftige Wolken
+- **Flüssige Projektile**: Fortgeschrittene Technik zur Kontrolle geworfener Tränke oder alchemistischer Substanzen
 
-## Historical Development
+## Historische Entwicklung
 
-Weapon Control magic emerged during the early Third Age from martial traditions seeking to extend combat capabilities. The Vostel Academy of Kinetic Arts formalized the first comprehensive curriculum, but the spell's true potential was realized during the Mage Wars when resource limitations forced innovative applications of simple spells.
+Waffenkontrollmagie entstand während des frühen Dritten Zeitalters aus martialischen Traditionen, die darauf abzielten, die Kampffähigkeiten zu erweitern. Die Vostel Academy of Kinetic Arts formalisierte den ersten umfassenden Lehrplan, aber das wahre Potenzial des Zaubers wurde während der Magierkriege erkannt, als Ressourcenbeschränkungen innovative Anwendungen einfacher Zauber erzwangen.
 
-What differentiated Weapon Control from other combat magics was its focus on applied technique rather than theoretical mastery. Warriors with only basic magical talent could achieve remarkable results through disciplined practice, establishing it as the premier combat system for those who lacked the capacity or inclination for high-purity spellcasting. This accessibility revolutionized battlefield tactics by providing enhanced capabilities to fighters rather than limiting advanced magical combat to dedicated mages.
+Was die Waffenkontrolle von anderen Kampfmagien unterschied, war ihr Fokus auf angewandte Technik anstelle von theoretischer Meisterschaft. Krieger mit nur grundlegenden magischen Talenten konnten durch diszipliniertes Üben bemerkenswerte Ergebnisse erzielen, was sie als das führende Kampfsystem für diejenigen etablierte, denen die Fähigkeit oder Neigung zur hochreinen Zauberei fehlte. Diese Zugänglichkeit revolutionierte die Schlachtfeldtaktik, indem sie Kämpfern verbesserte Fähigkeiten verlieh, anstatt den fortgeschrittenen magischen Kampf auf engagierte Magier zu beschränken.
 
-> *"Purity is a scholar's concern. In the crucible of battle, it is technique that divides the living from the dead. I have seen novices with perfect mana fail where veterans with practiced hands prevail."* — From "The Floating Edge," Arlan Vostel's training manual
+> *"Reinheit ist das Anliegen eines Gelehrten. Im Schmelztiegel der Schlacht trennt die Technik die Lebenden von den Toten. Ich habe Anfänger mit perfektem Mana scheitern sehen, wo Veteranen mit geübten Händen siegen."* — Aus "Die schwebende Schneide", Arlan Vostels Trainingshandbuch
 
-## Practical Notes
+## Praktische Hinweise
 
-Weapon Control is particularly synergistic with weapons specially designed or enchanted for magical manipulation. Such weapons often feature balanced construction, resonant materials, or specific enchantments that reduce the mana cost of control.
+Die Waffenkontrolle wirkt besonders synergetisch mit Waffen, die speziell für magische Manipulation entwickelt oder verzaubert wurden. Solche Waffen verfügen oft über eine ausgewogene Konstruktion, resonante Materialien oder spezifische Verzauberungen, die die Mana-Kosten der Kontrolle reduzieren.
 
-Many practitioners develop personalized movement patterns or "forms" that their controlled weapons follow, allowing for rapid deployment of complex maneuvers with minimal additional concentration once the base pattern is established.
+Viele Praktizierende entwickeln personalisierte Bewegungsmuster oder "Formen", denen ihre kontrollierten Waffen folgen, was eine schnelle Bereitstellung komplexer Manöver mit minimaler zusätzlicher Konzentration ermöglicht, sobald das Basismuster etabliert ist.
 
 ---
 
-*See also: [Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Combat Magic Fundamentals](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [Telekinetic Applications](/codex/Magics/Spells/Utility/TelekineticApplications.md)* 
+*Siehe auch: [Kraftvektor](/codex/Magics/Spells/Utility/ForceVector.md), [Grundlagen der Kampfmagie](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [Telekinetische Anwendungen](/codex/Magics/Spells/Utility/TelekineticApplications.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
