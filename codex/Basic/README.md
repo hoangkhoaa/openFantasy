@@ -1,108 +1,112 @@
-# OpenFantasy Fundamental Concepts
+# OpenFantasy 基本概念
 
-> *"Three elements form the foundation of all existence: Exanthis gives it form, Soul gives it purpose, and Mana gives it wonder."*
+> *"三种元素构成了所有存在的基础：Exanthis（埃克赞蒂斯）赋予其形态，Soul（灵魂）赋予其目的，而 Mana（玛娜）赋予其奇迹。"*
 
-## Overview
+## 概述
 
-Welcome to the OpenFantasy Fundamental Concepts documentation. This section contains detailed information about the three foundational elements that define the reality of the OpenFantasy world: Exanthis, Soul, and Mana. These elements interact to create all beings, objects, and phenomena in the world.
+欢迎来到 OpenFantasy 基本概念文档。本节包含关于定义 OpenFantasy 世界现实的三个基本元素的详细信息：Exanthis（埃克赞蒂斯）、Soul（灵魂）和 Mana（玛娜）。这些元素相互作用，创造了世界中的所有生物、物体和现象。
 
-## Quick Navigation
+## 快速导航
 
 - [Exanthis](#exanthis)
 - [Soul](#soul)
 - [Mana](#mana)
-- [Elemental Interactions](#elemental-interactions)
-- [Geographical Distribution](#geographical-distribution)
+- [元素互动](#elemental-interactions)
+- [地理分布](#geographical-distribution)
 
-## The Three Elements
+## 三种元素
 
-Each of the three fundamental elements governs a different aspect of existence:
+三种基本元素中的每一种都控制着存在的不同方面：
 
-| Element | Nature | Function | Document |
+| Element（元素） | Nature（性质） | Function（功能） | Document（文档） |
 |---------|--------|----------|----------|
-| **Exanthis** | Physical, magnetic material | Creates form and structure | [Exanthis.md](Exanthis.md) |
-| **Soul** | Ethereal essence | Provides consciousness and will | [Soul.md](Soul.md) |
-| **Mana** | Magical energy | Enables magical manipulation | [Mana.md](Mana.md) |
+| **Exanthis**（埃克赞蒂斯） | 物理的，磁性物质 | 创造形态和结构 | [Exanthis.md](Exanthis.md) |
+| **Soul**（灵魂） | 虚无缥缈的本质 | 提供意识和意志 | [Soul.md](Soul.md) |
+| **Mana**（玛娜） | 魔法能量 | 启用魔法操控 | [Mana.md](Mana.md) |
 
-## Exanthis
+## Exanthis（埃克赞蒂斯）
 
-Exanthis is the foundation of physical reality, providing structure and solidity to the world:
+Exanthis（埃克赞蒂斯）是物理现实的基础，为世界提供结构和坚固性：
 
-### Key Properties
+### 主要属性
 
-- Forms the physical structure of reality
-- Generates magnetic fields that disrupt Mana
-- At 100% purity, becomes the hardest known material
-- Found in high concentrations in western regions
+- 构成现实的物理结构
+- 产生干扰 Mana（玛娜）的磁场
+- 在 100% 纯度下，成为已知最坚硬的材料
+- 在西部地区发现高浓度存在
 
-### Significance
+### 重要性
 
-Exanthis grounds reality in material form, providing resistance to magical forces and establishing the physical laws of the world. Higher Exanthis concentration in living beings grants them greater physical strength and durability at the cost of magical potential.
+Exanthis（埃克赞蒂斯）将现实建立在物质形式上，为魔法力量提供抵抗力，并确立世界的物理定律。生物体内较高的 Exanthis（埃克赞蒂斯）浓度赋予它们更大的体力和耐力，但以魔法潜力为代价。
 
-## Soul
+## Soul（灵魂）
 
-The Soul bridges the material and spiritual realms, providing consciousness and will:
+Soul（灵魂）连接物质和精神领域，提供意识和意志：
 
-### Key Properties
+### 主要属性
 
-- Consists of Core Identity, Memory Matrix, and Intent Framework
-- Serves as the conduit for magical manipulation
-- Can evolve and develop throughout a lifetime
-- Persists after physical death
+- 由核心身份、记忆矩阵和意图框架组成
+- 用作魔法操控的通道
+- 可以在一生中进化和发展
+- 在肉体死亡后持续存在
 
-### Significance
+### 重要性
 
-The Soul enables beings to experience the world, form intentions, and manipulate Mana according to their will. It creates the unique identity of each individual and allows for conscious interaction with reality.
+Soul（灵魂）使生物能够体验世界，形成意图，并根据自己的意愿操纵 Mana（玛娜）。它创造了每个个体的独特身份，并允许与现实进行有意识的互动。
 
-## Mana
+## Mana（玛娜）
 
-Mana is the breath of creation itself, forming the foundation of all magical effects:
+Mana（玛娜）是创造本身的呼吸，构成所有魔法效果的基础：
 
-### Key Properties
+### 主要属性
 
-- Permeates all things as particle-like energy
-- Flows in currents throughout the world
-- Resonates with Soul to enable magical manipulation
-- Repelled by Exanthis' magnetic field
+- 作为粒子状能量渗透到所有事物中
+- 在世界各地以气流形式流动
+- 与 Soul（灵魂）产生共鸣，以实现魔法操控
+- 被 Exanthis（埃克赞蒂斯）的磁场排斥
 
-### Significance
+### 重要性
 
-Mana is the raw material of magic, enabling the transformation of intention into reality. It flows through the world in varying concentrations, creating regions of high and low magical potential.
+Mana（玛娜）是魔法的原始材料，能够将意图转化为现实。它以不同的浓度流经世界，创造出高和低魔法潜力的区域。
 
-## Elemental Interactions
+## 元素互动
 
-The three elements interact in complex ways that define the nature of reality:
+这三种元素以复杂的方式相互作用，定义了现实的本质：
 
-### Balance and Opposition
+### 平衡与对立
 
-| Interaction | Result | Effect |
+| Interaction（互动） | Result（结果） | Effect（效果） |
 |-------------|--------|--------|
-| **Exanthis + Mana** | Opposition | Exanthis disrupts and repels Mana |
-| **Soul + Mana** | Harmony | Soul directs and shapes Mana |
-| **Exanthis + Soul** | Structure | Soul animates physical form created by Exanthis |
-| **All Three** | Balance | Creates living beings with unique capabilities |
+| **Exanthis + Mana**（埃克赞蒂斯 + 玛娜） | 对立 | Exanthis（埃克赞蒂斯）扰乱和排斥 Mana（玛娜） |
+| **Soul + Mana**（灵魂 + 玛娜） | 和谐 | Soul（灵魂）引导和塑造 Mana（玛娜） |
+| **Exanthis + Soul**（埃克赞蒂斯 + 灵魂） | 结构 | Soul（灵魂）使由 Exanthis（埃克赞蒂斯）创造的物理形态充满活力 |
+| **All Three**（全部三种） | 平衡 | 创造具有独特能力的生物 |
 
-### In Living Beings
+### 在生物体内
 
-The ratio of these elements in a living being determines their nature and abilities:
+生物体内这些元素的比例决定了它们的性质和能力：
 
-- **High Exanthis**: Greater physical strength and durability, reduced magical ability
-- **High Soul**: Enhanced consciousness and willpower, often shorter lifespan
-- **High Mana Capacity**: Enhanced magical potential, often reduced physical robustness
+- **High Exanthis**（高埃克赞蒂斯）：更大的体力和耐力，降低魔法能力
+- **High Soul**（高灵魂）：增强的意识和意志力，通常寿命较短
+- **High Mana Capacity**（高玛娜容量）：增强的魔法潜力，通常降低身体的坚韧性
 
-## Geographical Distribution
+## 地理分布
 
-The elements are not evenly distributed throughout the world:
+这些元素在世界各地的分布并不均匀：
 
-| Region | Dominant Element | Characteristics |
+| Region（地区） | Dominant Element（主导元素） | Characteristics（特征） |
 |--------|------------------|-----------------|
-| **Eastern Veldrassil** | Mana | High magical potential, centers of arcane study |
-| **Western Veldrassil** | Exanthis | Low magical potential, centers of physical industry |
-| **Various Leylines** | Mana | Streams of concentrated magical energy |
-| **Sacred Groves** | Soul | Places of heightened spiritual connection |
+| **Eastern Veldrassil**（东部维尔德拉西尔） | Mana（玛娜） | 高魔法潜力，奥术研究中心 |
+| **Western Veldrassil**（西部维尔德拉西尔） | Exanthis（埃克赞蒂斯） | 低魔法潜力，物理工业中心 |
+| **Various Leylines**（各种灵脉） | Mana（玛娜） | 集中魔法能量流 |
+| **Sacred Groves**（神圣树丛） | Soul（灵魂） | 精神连接增强的地方 |
 
-This uneven distribution creates natural zones of magical intensity and magical dead zones, influencing the development of civilizations and the distribution of species.
+这种不均匀的分布创造了魔法强度和魔法死亡区的自然区域，影响了文明的发展和物种的分布。
 
 ---
 
-> **Note**: Understanding these fundamental concepts is essential for comprehending all other aspects of the OpenFantasy world, from species characteristics to magical systems to technological development. 
+> **注意**：理解这些基本概念对于理解 OpenFantasy 世界的所有其他方面至关重要，从物种特征到魔法系统再到技术发展。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

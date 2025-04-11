@@ -1,34 +1,34 @@
-# [CLASS_NAME] Class
+# [CLASS_NAME] Class（[CLASS_NAME]职业）
 
 > *"[CLASS_QUOTE]"*
 
-## Quick Navigation
+## Quick Navigation（快速导航）
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a [CLASS_NAME]](#playing-a-class_name)
-- [Notable Traits](#notable-traits)
+- [Overview](#overview)（概述）
+- [Class Composition](#class-composition)（职业构成）
+- [Subclasses](#subclasses)（子职业）
+- [Playing a [CLASS_NAME]](#playing-a-class_name)（游玩[CLASS_NAME]）
+- [Notable Traits](#notable-traits)（显著特性）
 
-## Overview
+## Overview（概述）
 
 [CLASS_BRIEF_DESCRIPTION]
 
-## Class Composition
+## Class Composition（职业构成）
 
-| Element | Typical Range | Function |
+| Element（元素） | Typical Range（典型范围） | Function（功能） |
 |---------|---------------|----------|
 | **Exanthis** | [EXANTHIS_RANGE] | [EXANTHIS_FUNCTION] |
-| **Soul** | [SOUL_RANGE] | [SOUL_FUNCTION] |
-| **Mana Capacity** | [MANA_RANGE] | [MANA_FUNCTION] |
+| **Soul（灵魂）** | [SOUL_RANGE] | [SOUL_FUNCTION] |
+| **Mana Capacity（魔法容量）** | [MANA_RANGE] | [MANA_FUNCTION] |
 
 [CLASS_COMPOSITION_DESCRIPTION]
 
-## Subclasses
+## Subclasses（子职业）
 
-[CLASS_NAME]s can specialize in several distinct disciplines:
+[CLASS_NAME]s（[CLASS_NAME]）可以专精于几个不同的学科：
 
-| Subclass | Focus | Specialty |
+| Subclass（子职业） | Focus（焦点） | Specialty（专长） |
 |----------|-------|-----------|
 | [**[SUBCLASS1_NAME]**]([SUBCLASS1_FILE]) | [SUBCLASS1_FOCUS] | [SUBCLASS1_SPECIALTY] |
 | [**[SUBCLASS2_NAME]**]([SUBCLASS2_FILE]) | [SUBCLASS2_FOCUS] | [SUBCLASS2_SPECIALTY] |
@@ -36,25 +36,25 @@
 | [**[SUBCLASS4_NAME]**]([SUBCLASS4_FILE]) | [SUBCLASS4_FOCUS] | [SUBCLASS4_SPECIALTY] |
 | [**[SUBCLASS5_NAME]**]([SUBCLASS5_FILE]) | [SUBCLASS5_FOCUS] | [SUBCLASS5_SPECIALTY] |
 
-## Playing a [CLASS_NAME]
+## Playing a [CLASS_NAME]（游玩[CLASS_NAME]）
 
-### Core Abilities
+### Core Abilities（核心能力）
 
 - **[ABILITY1_NAME]**: [ABILITY1_DESCRIPTION]
 - **[ABILITY2_NAME]**: [ABILITY2_DESCRIPTION]
 - **[ABILITY3_NAME]**: [ABILITY3_DESCRIPTION]
 - **[ABILITY4_NAME]**: [ABILITY4_DESCRIPTION]
 
-### Common Equipment
+### Common Equipment（常用装备）
 
 - **[EQUIPMENT1]**: [EQUIPMENT1_DESCRIPTION]
 - **[EQUIPMENT2]**: [EQUIPMENT2_DESCRIPTION]
 - **[EQUIPMENT3]**: [EQUIPMENT3_DESCRIPTION]
 - **[EQUIPMENT4]**: [EQUIPMENT4_DESCRIPTION]
 
-### Species Affinities
+### Species Affinities（种族倾向）
 
-| Species | Affinity | Notable Traits |
+| Species（种族） | Affinity（倾向） | Notable Traits（显著特性） |
 |---------|----------|----------------|
 | **[SPECIES1]** | [AFFINITY1] | [TRAITS1] |
 | **[SPECIES2]** | [AFFINITY2] | [TRAITS2] |
@@ -62,16 +62,16 @@
 | **[SPECIES4]** | [AFFINITY4] | [TRAITS4] |
 | **[SPECIES5]** | [AFFINITY5] | [TRAITS5] |
 
-## Notable Traits
+## Notable Traits（显著特性）
 
-### Strengths
+### Strengths（优势）
 
 - [STRENGTH1]
 - [STRENGTH2]
 - [STRENGTH3]
 - [STRENGTH4]
 
-### Challenges
+### Challenges（挑战）
 
 - [CHALLENGE1]
 - [CHALLENGE2]
@@ -81,3 +81,9 @@
 ---
 
 > See [[CLASS_NAME].md]([CLASS_NAME].md) for detailed information about the [CLASS_NAME] class in OpenFantasy. 
+>
+> 请参阅[[CLASS_NAME].md]([CLASS_NAME].md)，获取关于OpenFantasy中[CLASS_NAME]职业的详细信息。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

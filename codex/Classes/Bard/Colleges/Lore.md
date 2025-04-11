@@ -1,93 +1,97 @@
-# College of Lore
+# College of Lore (知识学院)
 
-> *"Knowledge is power, but stories are magic."*
+> *“知识就是力量，但故事就是魔法。”*
 
-## Overview
+## Overview (概述)
 
-The [College of Lore](/codex/Classes/Bard/Colleges/Lore.md) represents bards who focus on accumulating and leveraging knowledge from across disciplines, cultures, and magical traditions. These scholar-performers excel at collecting and utilizing information to enhance their magical versatility and problem-solving capabilities.
+[College of Lore](/codex/Classes/Bard/Colleges/Lore.md) (知识学院) 代表着专注于积累和利用来自不同学科、文化和魔法传统的知识的吟游诗人。这些学者型的表演者擅长收集和利用信息，以增强他们的魔法多功能性和解决问题的能力。
 
-## Magical Affinity Profile
+## Magical Affinity Profile (魔法亲和力概况)
 
-Lore bards develop a unique affinity profile that reflects their knowledge-focused approach:
+Lore (知识) 吟游诗人发展出一种独特的亲和力概况，反映了他们以知识为中心的方法：
 
-| Element | Primary Range | Function |
+| Element (元素) | Primary Range (主要范围) | Function (功能) |
 |---------|--------------|----------|
-| Base Mana (Knowledge) | 40-60% | Foundation for information-gathering and magical adaptation |
-| Chronimana | 25-40% | Connection to historical patterns and temporal understanding |
-| Mentimana | 20-35% | Mental processing and memory enhancement |
+| Base Mana (Knowledge) (基础法力 (知识)) | 40-60% | 用于信息收集和魔法适应的基础 |
+| Chronimana (时间法力) | 25-40% | 与历史模式和时间理解的连接 |
+| Mentimana (精神法力) | 20-35% | 精神处理和记忆增强 |
 
-This combination allows Lore bards to access a broader range of magical traditions than other bard colleges, borrowing techniques from wizards, clerics, and other spellcasting classes.
+这种组合使 Lore (知识) 吟游诗人能够访问比其他吟游诗人学院更广泛的魔法传统，借鉴来自巫师、牧师和其他施法职业的技术。
 
-## Core Abilities
+## Core Abilities (核心能力)
 
-### Expanded Knowledge
-Lore bards can learn and integrate spells from any spellcasting tradition, requiring:
-- 5-10% higher mana purity than the spell's original class requirement
-- Adaptation period of 1-3 weeks per borrowed spell
-- Thorough understanding of the spell's theoretical framework
+### Expanded Knowledge (扩展知识)
+Lore (知识) 吟游诗人可以学习和整合来自任何施法传统的法术，需要：
+- 比法术的原始职业要求高 5-10% 的法力纯度
+- 每个借用咒语需要 1-3 周的适应期
+- 彻底理解该法术的理论框架
 
-Advanced practitioners can maintain 3-7 borrowed spells simultaneously, depending on their mana capacity and purification abilities.
+高级从业者可以同时维持 3-7 个借用的法术，具体取决于他们的法力容量和净化能力。
 
-### Cutting Words
-By weaving critiques into their performances, Lore bards can:
-- Create counterharmonic vibrations that interfere with an opponent's actions
-- Require 30-45% mana purity for effective application
-- Maintain effect for 2-5 seconds per application
-- Produce penalties proportional to the bard's performance skill
+### Cutting Words (嘲讽之语)
+通过将批评融入他们的表演中，Lore (知识) 吟游诗人可以：
+- 创造干扰对手行动的反谐波振动
+- 需要 30-45% 的法力纯度才能有效应用
+- 每次应用维持 2-5 秒的效果
+- 产生与吟游诗人的表演技巧成比例的惩罚
 
-This ability operates by creating magical dissonance that temporarily disrupts an opponent's natural magical field.
+此能力通过创建暂时扰乱对手自然魔法场的魔法不和谐来运作。
 
-### Peerless Skill
-Through perfect execution of learned techniques, Lore bards can:
-- Magnify their proficiency in specific areas through harmonic resonance
-- Require 35-50% mana purity for optimal results
-- Apply enhancement to any trained skill or ability
-- Draw on collective knowledge stored in their expanded repertoire
+### Peerless Skill (超凡技巧)
+通过完美执行所学技术，Lore (知识) 吟游诗人可以：
+- 通过谐波共振放大他们在特定领域的熟练程度
+- 需要 35-50% 的法力纯度才能获得最佳效果
+- 将增强效果应用于任何经过训练的技能或能力
+- 借鉴存储在他们扩展曲目中的集体知识
 
-This represents the culmination of collected techniques applied with masterful precision.
+这代表了应用精湛的技巧所收集的技术的顶峰。
 
-## Training and Development
+## Training and Development (训练和发展)
 
-Lore bards progress through a unique educational pathway:
+Lore (知识) 吟游诗人通过独特的教育途径进步：
 
-| Stage | Focus | Typical Duration | Achievements |
+| Stage (阶段) | Focus (重点) | Typical Duration (典型持续时间) | Achievements (成就) |
 |-------|-------|------------------|--------------|
-| **Collector** | Gathering diverse knowledge | 1-3 years | Basic repertoire expansion, 20-30% mana purity |
-| **Chronicler** | Organizing and applying knowledge | 3-7 years | Cutting Words technique, 30-45% mana purity |
-| **Sage** | Synthesizing knowledge across traditions | 7-15 years | Advanced borrowing, 45-60% mana purity |
-| **Lorekeeper** | Creating new connections between traditions | 15+ years | Peerless Skill mastery, 60-75% mana purity |
+| **Collector (收集者)** | 收集各种知识 | 1-3 years (年) | 基本曲目扩展，20-30% 的法力纯度 |
+| **Chronicler (编年史家)** | 组织和应用知识 | 3-7 years (年) | Cutting Words (嘲讽之语) 技术，30-45% 的法力纯度 |
+| **Sage (贤者)** | 综合跨传统的知识 | 7-15 years (年) | 高级借用，45-60% 的法力纯度 |
+| **Lorekeeper (知识守护者)** | 在传统之间创建新的连接 | 15+ years (年) | Peerless Skill (超凡技巧) 精通，60-75% 的法力纯度 |
 
-Advanced training often involves extensive travel, collection of rare texts, and apprenticeship under masters from various magical disciplines.
+高级训练通常涉及广泛的旅行、稀有文本的收集以及在来自各种魔法学科的大师指导下的学徒期。
 
-## Musical Expression
+## Musical Expression (音乐表达)
 
-Lore bards typically favor complex, layered compositions that incorporate elements from multiple cultural traditions:
+Lore (知识) 吟游诗人通常喜欢复杂的、分层的作品，这些作品融合了来自多种文化传统的元素：
 
-- **Preferred Instruments**: String instruments with extensive range (harps, lutes with additional strings), instruments that can produce multiple tones simultaneously
-- **Performance Style**: Often includes spoken narration interwoven with musical passages, creating a tapestry of sound and story
-- **Magical Resonance**: Performances create mathematical harmonics that mimic the structural patterns of different magical traditions
+- **Preferred Instruments (首选乐器)**：具有广泛音域的弦乐器（竖琴、带有额外琴弦的鲁特琴），可以同时产生多种音调的乐器
+- **Performance Style (表演风格)**：通常包括穿插着音乐段落的口头叙述，创造出声音和故事的挂毯
+- **Magical Resonance (魔法共鸣)**：表演会产生模仿不同魔法传统结构模式的数学谐波
 
-Their performances often incorporate subtle variations that only other scholars would recognize as references to obscure magical theories or historical events.
+他们的表演经常包含细微的变化，只有其他学者才能识别为对晦涩的魔法理论或历史事件的引用。
 
-## Notable Practitioners
+## Notable Practitioners (著名从业者)
 
-- **Eldrin Whisperbrook** - Compiled the "Compendium of Forgotten Cantrips," preserving over 300 minor spells from extinct traditions
-- **Lyra Goldenharp** - First developed the harmonic theory that allows Lore bards to borrow spells across traditions
-- **The Seven Sages** - A collective of Lore bards who maintain the largest oral archive of pre-Cataclysm magical knowledge
-- **Master Thalion** - Created the "Symphony of the Spheres," a performance technique that allows simultaneous casting of complementary spells
-- **Aria Truthsong** - Pioneered techniques for using bardic performance to detect magical falsehoods and illusions
+- **Eldrin Whisperbrook (艾尔德林·低语溪)** - 编纂了《被遗忘的咒语汇编》，保存了来自已灭绝的传统中的 300 多个小型法术
+- **Lyra Goldenharp (莱拉·金竖琴)** - 首次开发了谐波理论，该理论允许 Lore (知识) 吟游诗人跨传统借用法术
+- **The Seven Sages (七贤者)** - 一群 Lore (知识) 吟游诗人，他们维护着最大的灾变前魔法知识口头档案
+- **Master Thalion (萨利昂大师)** - 创造了“天体交响曲”，这是一种允许同时施放互补法术的表演技巧
+- **Aria Truthsong (艾莉亚·真相之歌)** - 开创了使用吟游诗人表演来检测魔法谎言和幻觉的技术
 
-## Cultural Significance
+## Cultural Significance (文化意义)
 
-Lore bards serve vital roles in many societies:
-- **Historians** preserving knowledge that might otherwise be lost
-- **Teachers** transmitting complex magical theories in accessible forms
-- **Cultural ambassadors** who can bridge different magical traditions
-- **Problem-solvers** with unique perspectives drawn from diverse knowledge
-- **Archivists** who maintain records of magical breakthroughs and historical events
+Lore (知识) 吟游诗人在许多社会中扮演着至关重要的角色：
+- **Historians (历史学家)** 保存可能丢失的知识
+- **Teachers (教师)** 以易于理解的形式传播复杂的魔法理论
+- **Cultural ambassadors (文化大使)** 可以弥合不同的魔法传统
+- **Problem-solvers (问题解决者)** 具有来自各种知识的独特视角
+- **Archivists (档案管理员)** 维护魔法突破和历史事件的记录
 
-Their multidisciplinary approach makes them valuable advisors to rulers, magical institutions, and adventuring parties alike.
+他们的多学科方法使他们成为统治者、魔法机构和冒险团队的宝贵顾问。
 
 ---
 
-*"Truth becomes most powerful when woven into song. Facts inform, but stories transform."* - Lyra Goldenharp, Archlorekeeper of the Celestial College 
+*“当真理融入歌曲时，它变得最强大。事实提供信息，但故事改变。”* - Lyra Goldenharp (莱拉·金竖琴), Celestial College (天界学院) 的 Archlorekeeper (首席知识守护者)
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

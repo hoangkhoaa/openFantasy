@@ -1,89 +1,93 @@
-# Bard Class
+# 吟游诗人职业 (Bard Class)
 
-> *"When words fail, music speaks. When magic falters, a song can reshape reality."*
+> *"当言语无法表达时，音乐会说话。当魔法失效时，一首歌可以重塑现实。"*
 
-## Quick Navigation
+## 快速导航 (Quick Navigation)
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Bard](#playing-a-bard)
-- [Notable Traits](#notable-traits)
+- [概述 (Overview)](#overview)
+- [职业构成 (Class Composition)](#class-composition)
+- [子职业 (Subclasses)](#subclasses)
+- [扮演吟游诗人 (Playing a Bard)](#playing-a-bard)
+- [显著特征 (Notable Traits)](#notable-traits)
 
-## Overview
+## 概述 (Overview)
 
-Bards weave magic through artistic expression, primarily music, creating harmonies that resonate with the fabric of reality itself. They are versatile spellcasters who blend performance, social finesse, and magical knowledge into a unique style of casting that can inspire allies, manipulate emotions, and harm enemies.
+吟游诗人通过艺术表达来编织魔法，主要是音乐，创造与现实结构本身产生共鸣的和谐之音。他们是多才多艺的施法者，将表演、社交技巧和魔法知识融合到一种独特的施法风格中，可以鼓舞盟友、操纵情绪和伤害敌人。
 
-## Class Composition
+## 职业构成 (Class Composition)
 
-| Element | Typical Range | Function |
+| 元素 (Element) | 典型范围 (Typical Range) | 功能 (Function) |
 |---------|---------------|----------|
-| **Exanthis** | 20-35% | Physical vessel trained in artistic techniques and precise performance |
-| **Soul** | 35-55% | Emotional framework capable of authentic expression and magical resonance |
-| **Mana Capacity** | 20-40% | Naturally flowing mana reserves with intuitive harmonic control |
+| **Exanthis** | 20-35% | 经过艺术技巧和精确表演训练的身体容器 |
+| **Soul** | 35-55% | 能够真实表达和魔法共鸣的情感框架 |
+| **Mana Capacity** | 20-40% | 具有直观和谐控制的自然流动的法力储备 |
 
-Bards develop specialized neural pathways that connect artistic expression directly to magical manipulation, creating a unique system that translates performance into magical effects. Their approach emphasizes emotional resonance over academic understanding, allowing them to achieve magical effects through authentic artistic expression.
+吟游诗人发展出特殊的神经通路，将艺术表达直接连接到魔法操纵，创造出一个独特的系统，将表演转化为魔法效果。他们的方法强调情感共鸣而非学术理解，使他们能够通过真实的艺术表达来实现魔法效果。
 
-## Subclasses
+## 子职业 (Subclasses)
 
-Bards can specialize in several distinct colleges:
+吟游诗人可以专注于几个不同的学院 (colleges)：
 
-| College | Focus | Specialty |
+| 学院 (College) | 焦点 (Focus) | 特长 (Specialty) |
 |----------|-------|-----------|
-| [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) | Verbal Persuasion | Oratory, debate, and perfect verbal expression |
-| [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) | Fey Enchantment | Captivation, fascination, and otherworldly beauty |
-| [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) | Knowledge Collection | Secrets, versatile magic, and comprehensive knowledge |
-| [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) | Spirit Communication | Storytelling, communing with spirits, and supernatural insight |
-| [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) | Martial Performance | Blade dancing, combat magic, and physical prowess |
-| [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) | Battlefield Inspiration | Combat support, heroic tales, and martial motivation |
-| [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) | Psychological Manipulation | Secrets, fear, and subtle psychological control |
-| [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) | Manifestation | Creating physical objects from performance energy |
+| [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) | 口头说服 (Verbal Persuasion) | 演说、辩论和完美的语言表达 |
+| [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) | 精灵附魔 (Fey Enchantment) | 吸引、着迷和超凡脱俗的美丽 |
+| [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) | 知识收集 (Knowledge Collection) | 秘密、多才多艺的魔法和全面的知识 |
+| [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) | 灵魂沟通 (Spirit Communication) | 讲故事、与灵魂交流和超自然洞察力 |
+| [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) | 武术表演 (Martial Performance) | 剑舞、战斗魔法和身体力量 |
+| [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) | 战场鼓舞 (Battlefield Inspiration) | 战斗支援、英雄故事和武术动机 |
+| [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) | 心理操纵 (Psychological Manipulation) | 秘密、恐惧和微妙的心理控制 |
+| [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) | 显现 (Manifestation) | 从表演能量中创造物理物体 |
 
-## Playing a Bard
+## 扮演吟游诗人 (Playing a Bard)
 
-### Core Abilities
+### 核心能力 (Core Abilities)
 
-- **Bardic Inspiration**: Channel magical energy to inspire and enhance allies' abilities
-- **Spellcasting**: Cast spells through artistic performance, drawing from a diverse spell list
-- **Jack of All Trades**: Apply partial proficiency to all skills, reflecting versatile knowledge
-- **Song of Rest**: Accelerate healing during rests through soothing performance
-- **Countercharm**: Disrupt hostile effects through pure musical expression
+- **Bardic Inspiration**: 引导魔法能量来鼓舞和增强盟友的能力
+- **Spellcasting**: 通过艺术表演施放法术，从多样化的法术列表中汲取
+- **Jack of All Trades**: 将部分熟练度应用于所有技能，反映多才多艺的知识
+- **Song of Rest**: 通过舒缓的表演来加速休息期间的治疗
+- **Countercharm**: 通过纯粹的音乐表达来扰乱敌对效果
 
-### Common Equipment
+### 常用装备 (Common Equipment)
 
-- **Musical Instruments**: Lutes, flutes, drums or other tools of artistic expression
-- **Light Armor**: Protective gear that doesn't impede movement or performance
-- **Performance Attire**: Clothing designed to enhance stage presence
-- **Component Pouch**: Specialized materials that complement artistic spellcasting
+- **Musical Instruments**: 琵琶、长笛、鼓或其他艺术表达工具
+- **Light Armor**: 不妨碍移动或表演的防护装备
+- **Performance Attire**: 旨在增强舞台表现力的服装
+- **Component Pouch**: 补充艺术施法的专用材料
 
-### Species Affinities
+### 种族亲和力 (Species Affinities)
 
-| Species | Affinity | Notable Traits |
+| 种族 (Species) | 亲和力 (Affinity) | 显著特征 (Notable Traits) |
 |---------|----------|----------------|
-| **Human** | High | Adaptable performance styles, cultural versatility |
-| **Half-Elf** | Very High | Natural charisma, mixed cultural influences |
-| **Gnome** | High | Creative expression, joyful performance |
-| **Tabaxi** | High | Natural curiosity, storytelling traditions |
-| **Tiefling** | Very High | Exotic presence, innate charisma |
+| **Human** | 高 (High) | 适应性强的表演风格，文化多样性 |
+| **Half-Elf** | 很高 (Very High) | 天生的魅力，混合的文化影响 |
+| **Gnome** | 高 (High) | 创意表达，快乐的表演 |
+| **Tabaxi** | 高 (High) | 天生的好奇心，讲故事的传统 |
+| **Tiefling** | 很高 (Very High) | 异国情调，天生的魅力 |
 
-## Notable Traits
+## 显著特征 (Notable Traits)
 
-### Strengths
+### 优势 (Strengths)
 
-- Exceptional versatility across multiple schools of magic
-- Superior effectiveness with social and emotional magic
-- Ability to perform magic while engaged in other activities
-- Natural talent for group harmonization and collaborative casting
-- Intuitive adaptation to unexpected magical situations
+- 在多个魔法学院 (schools of magic) 中具有卓越的多功能性
+- 在社交和情感魔法方面具有卓越的效率
+- 能够在从事其他活动时施展魔法
+- 在群体和谐和协作施法方面的天赋
+- 对意外魔法情况的直观适应
 
-### Challenges
+### 挑战 (Challenges)
 
-- Reduced effectiveness when unable to perform artistically
-- Vulnerability to effects that impact emotional state
-- Less precision compared to academic casters like wizards
-- Performance requirements can make stealth casting difficult
-- Less effective with highly technical magical disciplines
+- 当无法进行艺术表演时，效率降低
+- 容易受到影响情绪状态的效果的影响
+- 与像巫师 (wizards) 这样的学术施法者相比，精度较低
+- 表演要求会使隐形施法变得困难
+- 对于高度技术性的魔法学科效果较差
 
 ---
 
-> See [Bard.md](/codex/Classes/Bard/Bard.md) for detailed information about the Bard class in OpenFantasy. 
+> 请参阅 [Bard.md](/codex/Classes/Bard/Bard.md)，了解有关 OpenFantasy 中吟游诗人职业 (Bard class) 的详细信息。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

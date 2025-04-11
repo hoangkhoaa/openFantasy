@@ -1,123 +1,127 @@
-# Inspire Courage
+# 激发勇气 (Jīfā Yǒngqì)
 
-> *"When fear grips the heart, a single melody can rekindle the flame of bravery."*  
-> — Jalavar Swiftstrings, Battle-Bard of the Western Front
+> *"当恐惧抓住心灵时，一首简单的旋律就能重新点燃勇敢的火焰。"*
+> — Jalavar Swiftstrings (贾拉瓦·斯威夫特斯特林斯), 西部前线的战斗吟游诗人 (Xībù Qiánxiàn de Zhàndòu Yínyóushī)
 
-## Quick Reference
+## 快速参考 (Kuàisù Cānkǎo)
 
-- **Casting Time:** 6 seconds (performance action)
-- **Duration:** 30 seconds to 2 minutes
-- **Range:** 9 meters radius (centered on bard)
-- **Components:** Verbal, Somatic, Instrumental (optional but enhances effect)
-- **School:** Enchantment (Courage-Weaving)
-- **Classification:** Support/Enhancement
-- **Difficulty:** Intermediate
-- **Purity Required:** Basic (20-30%)
-- **Minimum Mana Capacity:** 20% (Higher capacity extends duration and radius)
+- **施法时间 (Shīfǎ Shíjiān):** 6 秒 (表演动作) (6 Miǎo (Biǎoyǎn Dòngzuò))
+- **持续时间 (Chíxù Shíjiān):** 30 秒到 2 分钟 (30 Miǎo dào 2 Fēnzhōng)
+- **范围 (Fànwéi):** 9 米半径 (以吟游诗人为中心) (9 Mǐ Bàijìng (Yǐ Yínyóushī Wéi Zhōngxīn))
+- **成分 (Chéngfèn):** 语言，姿势，乐器 (可选但增强效果) (Yǔyán, Zīshì, Yuèqì (Kěxuǎn Dàn Zēngqiáng Xiàoguǒ))
+- **学派 (Xuépài):** 附魔 (勇气编织) (Fùmó (Yǒngqì Biānzhī))
+- **分类 (Fēnlèi):** 支援/增强 (Zhīyuán/Zēngqiáng)
+- **难度 (Nándù):** 中级 (Zhōngjí)
+- **纯度要求 (Chúndù Yāoqiú):** 基础 (20-30%) (Jīchǔ (20-30%))
+- **最小法力容量 (Zuìxiǎo Fǎlì Róngliàng):** 20% (更高的容量延长持续时间和半径) (20% (Gèng Gāo de Róngliàng Yáncháng Chíxù Shíjiān hé Bàijìng))
 
-## Technical Details
+## 技术细节 (Jìshù Xìjié)
 
-Inspire Courage creates a mana-harmonic field that resonates with allies' courage centers in both mind and spirit. The spell weaves a pattern of enchantment energy that directly counters fear responses while enhancing confidence and resolute action.
+激发勇气 (Jīfā Yǒngqì) 创建一个法力谐波场，与盟友在精神和思想中的勇气中心产生共鸣。该法术编织一种附魔能量模式，直接对抗恐惧反应，同时增强信心和坚定的行动。
 
-### Mana Composition
-- **Primary:** Base Mana (Inspiration) 50-65%
-- **Secondary:** Mentimana 25-35%
-- **Tertiary:** Vitomana 10-15%
+### 法力构成 (Fǎlì Gòuchéng)
+- **主要 (Zhǔyào):** 基础法力 (灵感) 50-65% (Jīchǔ Fǎlì (Línggǎn) 50-65%)
+- **次要 (Cìyào):** 精神法力 25-35% (Jīngshén Fǎlì 25-35%)
+- **第三 (Dìsān):** 生命法力 10-15% (Shēngmìng Fǎlì 10-15%)
 
-### Purity Influence on Effect
-- **15-20% Purity:** Minimal effect, provides resistance to fear effects but little combat enhancement
-- **20-30% Purity:** Standard effect, grants both fear resistance and moderate combat enhancement
-- **30-45% Purity:** Enhanced effect, stronger combat bonuses and complete immunity to minor fear effects
-- **45%+ Purity:** Master effect, extends duration significantly and provides partial resistance even to magical dread effects
+### 纯度对效果的影响 (Chúndù Duì Xiàoguǒ de Yǐngxiǎng)
+- **15-20% 纯度 (Chúndù):** 效果最小，提供对恐惧效果的抵抗力，但几乎没有战斗增强
+- **20-30% 纯度 (Chúndù):** 标准效果，提供恐惧抵抗和适度的战斗增强
+- **30-45% 纯度 (Chúndù):** 增强效果，更强的战斗奖励和对轻微恐惧效果的完全免疫
+- **45%+ 纯度 (Chúndù):** 大师效果，显着延长持续时间，甚至对魔法恐惧效果提供部分抵抗
 
-### Harmonic Pattern
-The spell follows a rising melodic pattern that creates resonance points within allies' mana networks. These resonance points generate counter-frequencies to fear-inducing stimuli while amplifying natural courage responses.
+### 谐波模式 (Xiébō Móshì)
+该法术遵循上升的旋律模式，在盟友的法力网络中产生共鸣点。这些共鸣点产生对抗频率，以对抗引发恐惧的刺激，同时放大自然的勇气反应。
 
-## Practical Effects
+## 实际效果 (Shíjì Xiàoguǒ)
 
-When successfully cast, Inspire Courage produces the following effects on allies within range:
+成功施放后，激发勇气 (Jīfā Yǒngqì) 对范围内的盟友产生以下效果：
 
-1. **Courage Enhancement:** Recipients experience a noticeable reduction in fear response, both natural and magical. Their threshold for fear-inducing stimuli increases by 30-60% depending on casting purity.
+1. **勇气增强 (Yǒngqì Zēngqiáng):** 接受者体验到恐惧反应显着减少，无论是自然的还是魔法的。他们对引发恐惧的刺激的阈值根据施法纯度增加 30-60%。
 
-2. **Combat Prowess:** The harmonic resonance enhances physical performance by 10-25% through the reduction of hesitation and doubt. This manifests as improved reaction time, strike precision, and force application.
+2. **战斗能力 (Zhàndòu Nénglì):** 通过减少犹豫和怀疑，谐波共振将身体表现提高 10-25%。这表现为改善的反应时间，打击精度和力量施加。
 
-3. **Pain Resilience:** Recipients can withstand 15-30% more pain before performance degradation, allowing them to fight effectively despite injuries that would normally impair function.
+3. **疼痛恢复力 (Téngtòng Huīfùlì):** 接受者可以在性能退化之前承受 15-30% 的更多疼痛，允许他们尽管受伤仍能有效地战斗，而这些伤害通常会损害功能。
 
-4. **Morale Stability:** The group experiences a collective resilience against demoralization, creating a feedback loop where individual courage reinforces group courage.
+4. **士气稳定性 (Shìqì Wěndìngxìng):** 该群体体验到对士气低落的集体抵抗力，从而创建一个反馈循环，其中个人的勇气增强了群体的勇气。
 
-## Casting Process
+## 施法过程 (Shīfǎ Guòchéng)
 
-The bard channels mana through emotional expression focused on themes of courage, victory, or heroism. The casting follows a specific progression:
+吟游诗人通过专注于勇气，胜利或英雄主义主题的情感表达来引导法力。施法遵循特定的进展：
 
-1. **Initiation:** The bard begins a performance (instrumental, vocal, or both) with an uplifting motif that serves as the spell's foundation.
+1. **启动 (Qǐdòng):** 吟游诗人开始表演 (乐器，声乐或两者兼而有之)，并以振奋人心的主题作为法术的基础。
 
-2. **Mana Infusion:** As the performance continues, the bard infuses the sound waves with mana, creating a resonant enchantment field.
+2. **法力注入 (Fǎlì Zhùrù):** 随着表演的继续，吟游诗人将法力注入声波中，从而创建一个共振附魔场。
 
-3. **Harmonic Expansion:** The mana-infused performance expands outward, seeking compatible mana signatures of allies.
+3. **谐波扩展 (Xiébō Kuòzhǎn):** 注入法力的表演向外扩展，寻找盟友的兼容法力签名。
 
-4. **Connection Establishment:** When the spell connects with an ally, a momentary flash of golden light may appear at the point of connection (visible only to those with magical sight).
+4. **连接建立 (Liánjiē Jiànlì):** 当法术与盟友连接时，在连接点可能会出现一瞬间的金光闪烁 (仅对那些具有魔法视觉的人可见)。
 
-5. **Maintenance:** The bard must maintain at least a subtle performance to sustain the effect for its duration.
+5. **维护 (Wéihù):** 吟游诗人必须保持至少微妙的表演才能维持效果的持续时间。
 
-## Common Applications
+## 常见应用 (Chángjiàn Yìngyòng)
 
-- **Pre-Battle Inspiration:** Most commonly used before engaging in combat to prepare allies mentally and emotionally
-- **Fear Resistance:** Particularly effective against creatures that use fear as a weapon
-- **Morale Recovery:** Can reverse a deteriorating battlefield situation by restoring group confidence
-- **Performance Enhancement:** Used in non-combat situations to help allies perform under pressure
-- **Training Aid:** Helps novices overcome fear during intense training scenarios
+- **战前灵感 (Zhànqián Línggǎn):** 最常用于参加战斗之前，以在精神上和情感上准备盟友
+- **恐惧抵抗 (Kǒngjù Dǐkàng):** 对使用恐惧作为武器的生物特别有效
+- **士气恢复 (Shìqì Huīfù):** 可以通过恢复群体信心来扭转恶化的战场局势
+- **性能增强 (Xìngnéng Zēngqiáng):** 用于非战斗情况下，以帮助盟友在压力下表演
+- **训练辅助 (Xùnliàn Fǔzhù):** 帮助新手克服在激烈训练情况下的恐惧
 
-## Variations
+## 变体 (Biàntǐ)
 
-### Battle Anthem
-A more martially-focused version that enhances physical prowess at the expense of fear resistance.
-- **Mana Composition:** Shifts to 60% Base Mana, 15% Mentimana, 25% Vitomana
-- **Purity Required:** 25-35%
-- **Effect:** Combat enhancement increases to 20-35%, fear resistance reduced to 15-25%
+### 战斗赞歌 (Zhàndòu Zàngē)
+一个更以军事为中心的版本，以牺牲恐惧抵抗力为代价来增强身体能力。
+- **法力构成 (Fǎlì Gòuchéng):** 转移到 60% 基础法力，15% 精神法力，25% 生命法力 (60% Jīchǔ Fǎlì, 15% Jīngshén Fǎlì, 25% Shēngmìng Fǎlì)
+- **纯度要求 (Chúndù Yāoqiú):** 25-35%
+- **效果 (Xiàoguǒ):** 战斗增强增加到 20-35%，恐惧抵抗降低到 15-25%
 
-### Heroic Resonance
-A sustained version that creates a longer-lasting but more subtle effect.
-- **Casting Time:** 30 seconds
-- **Duration:** Up to 1 hour
-- **Purity Required:** 35-45%
-- **Effect:** Provides 50% of standard combat enhancement but maintains fear resistance at full strength
+### 英雄共鸣 (Yīngxióng Gòngmíng)
+一个持续的版本，产生更持久但更微妙的效果。
+- **施法时间 (Shīfǎ Shíjiān):** 30 秒 (30 Miǎo)
+- **持续时间 (Chíxù Shíjiān):** 最多 1 小时 (Zuìduō 1 Xiǎoshí)
+- **纯度要求 (Chúndù Yāoqiú):** 35-45%
+- **效果 (Xiàoguǒ):** 提供 50% 的标准战斗增强，但在充分发挥的情况下保持恐惧抵抗力
 
-### Silent Valor
-A version that can be cast without audible components, relying on subtle body language and direct mana projection.
-- **Components:** Somatic only
-- **Range:** Reduced to 5 meters
-- **Purity Required:** 40-50%
-- **Effect:** Standard effects but more difficult to maintain and detect
+### 无声勇气 (Wúshēng Yǒngqì)
+一个可以在没有声音成分的情况下施放的版本，依靠微妙的肢体语言和直接的法力投射。
+- **成分 (Chéngfèn):** 仅限姿势 (Jǐnxiàn Zīshì)
+- **范围 (Fànwéi):** 减少到 5 米 (Jiǎnshǎo Dào 5 Mǐ)
+- **纯度要求 (Chúndù Yāoqiú):** 40-50%
+- **效果 (Xiàoguǒ):** 标准效果，但更难以维持和检测
 
-## Risks and Miscast Effects
+## 风险和施法错误的影响 (Fēngxiǎn hé Shīfǎ Cuòwù de Yǐngxiǎng)
 
-### Overconfidence
-Insufficient control (purity below 20%) can cause recipients to become recklessly overconfident, leading them to underestimate dangers.
+### 过度自信 (Guòdù Zìxìn)
+控制不足 (纯度低于 20%) 会导致接受者变得鲁莽过度自信，导致他们低估危险。
 
-### Emotional Dependency
-If the spell is maintained too long (beyond 10 minutes) or cast repeatedly within a short timeframe, recipients may develop temporary dependency, experiencing heightened fear when the effect ends.
+### 情感依赖 (Qínggǎn Yīlài)
+如果法术维持太久 (超过 10 分钟) 或在短时间内重复施放，接受者可能会产生暂时的依赖性，在效果结束时会体验到更高的恐惧。
 
-### Resonance Backlash
-Critical failure (purity below 15%) can create a reverse effect, momentarily amplifying fear responses instead of suppressing them.
+### 共鸣反冲 (Gòngmíng Fǎnchōng)
+严重失败 (纯度低于 15%) 会产生相反的效果，暂时放大恐惧反应而不是抑制它们。
 
-### Performance Pressure
-If the bard becomes the target of significant attacks while maintaining the spell, concentration checks are required to prevent premature termination of the effect.
+### 表演压力 (Biǎoyǎn Yālì)
+如果吟游诗人成为维持法术时的重要攻击目标，则需要集中精力检查以防止效果过早终止。
 
-## Musical Analogy
+## 音乐类比 (Yīnyuè Lèibǐ)
 
-Casting Inspire Courage is like performing a military march that gradually shifts to a heroic anthem. The percussive elements establish rhythm (the spell's structure), while brass elements provide power (the courage enhancement) and melodic components create emotional resonance (the fear resistance). The performer must maintain the driving tempo while ensuring harmonies remain uplifting rather than aggressive.
+施放激发勇气 (Jīfā Yǒngqì) 就像表演一首逐渐转变为英雄赞歌的军事进行曲。打击乐元素建立节奏 (法术的结构)，而铜管元素提供力量 (勇气的增强)，而旋律元素产生情感共鸣 (恐惧的抵抗)。表演者必须保持驱动的节奏，同时确保和声保持振奋而不是激进。
 
-## Learning Progression
+## 学习进度 (Xuéxí Jìndù)
 
-| Stage | Description | Typical Timeline |
+| 阶段 (Jiēduàn) | 描述 (Miáoshù) | 典型时间表 (Diǎnxíng Shíjiānbiǎo) |
 |-------|-------------|------------------|
-| **Novice** | Basic single-target version with minimal combat enhancement | 6-8 weeks of practice |
-| **Apprentice** | Small group effect (3-4 targets) with moderate enhancement | 4-6 months of practice |
-| **Adept** | Standard version affecting up to 10 allies with full effects | 1-2 years of practice |
-| **Master** | Extended range and duration with enhanced effects | 3-5 years of refinement |
+| **新手 (Xīnshǒu)** | 基本的单目标版本，具有最小的战斗增强 | 6-8 周的练习 (6-8 Zhōu de Liànxí) |
+| **学徒 (Xuétú)** | 小型群体效果 (3-4 个目标) 具有适度的增强 | 4-6 个月的练习 (4-6 Gè Yuè de Liànxí) |
+| **熟练者 (Shúliànzhě)** | 影响最多 10 个盟友且具有全部效果的标准版本 | 1-2 年的练习 (1-2 Nián de Liànxí) |
+| **大师 (Dàshī)** | 扩展的范围和持续时间，具有增强的效果 | 3-5 年的完善 (3-5 Nián de Wánshàn) |
 
-## Historical Note
+## 历史记录 (Lìshǐ Jìlù)
 
-Inspire Courage was first formalized by the Battle-Bards of the Crimson Legion during the Moonfall War. These specialized bards developed techniques to maintain morale against the unnatural fear induced by shadow-tainted creatures. The spell has been refined over generations, with each major bardic college adding its own variations and enhancements to the core technique.
+激发勇气 (Jīfā Yǒngqì) 最初由猩红军团 (Xīnghóng Jūntuán) 的战斗吟游诗人 (Zhàndòu Yínyóushī) 在月陨战争 (Yuè Yǔn Zhànzhēng) 期间正式确定。这些专门的吟游诗人开发了技术，以维持对阴影污染生物引起的不自然恐惧的士气。该法术经过了几代人的完善，每个主要的吟游诗人学院都将自己的变体和增强添加到核心技术中。
 
-The most famous recorded use was by Malian Silvervoice at the Battle of Thornvale Pass, where her performance allowed a force of 300 defenders to stand against over 2,000 attackers for three days until reinforcements arrived. 
+最著名的记录用途是马利安·银嗓 (Mǎlìān Yín Sǎng) 在荆棘谷隘口之战 (Jīngjí Gǔ Àikǒu Zhī Zhàn) 中的表演，她的表演使 300 名防御者的部队能够抵抗超过 2,000 名攻击者三天，直到增援部队到达。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

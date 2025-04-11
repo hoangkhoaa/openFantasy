@@ -1,152 +1,156 @@
-# **Wild Mana**: The Primordial Energy
+# **Wild Mana** (狂野玛娜)：原始能量
 
-## Overview
+## 概述
 
-Wild Mana is the primordial, untamed form of magical energy that permeates the natural environment of OpenFantasy. Unlike the refined mana types used in spellcasting, Wild Mana exists in its raw, unprocessed state—chaotic, unpredictable, and fundamentally connected to the world's life force.
+Wild Mana (狂野玛娜) 是弥漫于 OpenFantasy (保持原文) 自然环境中的原始、未经驯服的魔法能量。与施法中使用的精炼玛娜类型不同，Wild Mana (狂野玛娜) 以其原始、未经加工的状态存在——混乱、不可预测，并且从根本上与世界的生命力相连。
 
-## Properties of Wild Mana
+## Wild Mana (狂野玛娜) 的属性
 
-### Physical Characteristics
-- **Appearance**: Shimmering, erratic energy with constantly shifting colors
-- **Behavior**: Flows along natural currents, concentrates around living things and magical locations
-- **Sensation**: Produces tingling, vibrant sensations when encountered in high concentrations
+### 物理特性
+- **Appearance** (外观)：闪烁、不稳定的能量，颜色不断变化
+- **Behavior** (行为)：沿着自然流流动，集中在生物和魔法地点周围
+- **Sensation** (感觉)：在高浓度下遇到时会产生刺痛、充满活力的感觉
 
-### Magical Attributes
-- **Versatility**: Contains the potential for all specialized mana types
-- **Instability**: Difficult to control directly due to chaotic nature
-- **Resonance**: Naturally responds to and amplifies emotional states
+### 魔法属性
+- **Versatility** (多功能性)：包含所有专业玛娜类型的潜力
+- **Instability** (不稳定性)：由于其混乱的性质，难以直接控制
+- **Resonance** (共鸣)：自然地响应并放大情绪状态
 
-## The Mana Conversion Process
+## 玛娜转换过程
 
-### Environmental Presence
-Wild Mana forms the foundation of the magical ecosystem, functioning similarly to how air, water, and nutrients sustain physical life:
+### 环境存在
+Wild Mana (狂野玛娜) 构成了魔法生态系统的基础，其作用方式类似于空气、水和养分维持物理生命：
 
-1. **Generation**: Continuously produced by the world itself, particularly at ley line nodes
-2. **Flow**: Moves through natural channels (ley lines) and disperses through the atmosphere
-3. **Concentration**: Gathers around living beings, magical creatures, and places of power
-4. **Presence**: Exists in varying concentrations throughout the environment
+1. **Generation** (产生)：由世界本身持续产生，特别是在灵脉节点
+2. **Flow** (流动)：通过自然通道（灵脉）移动并分散到大气中
+3. **Concentration** (集中)：聚集在生物、魔法生物和力量场所周围
+4. **Presence** (存在)：以不同的浓度存在于整个环境中
 
-### Fundamental Two-Phase Conversion
+### 基本的两阶段转换
 
-The transformation of magical energy follows a strictly defined two-phase process that is essential to understanding all magical practice:
+魔法能量的转变遵循严格定义的两阶段过程，这对于理解所有魔法实践至关重要：
 
-#### Phase 1: Wild Mana to Base Mana Conversion
-This is primarily a biological process that occurs in all magical beings:
+#### 阶段 1：Wild Mana (狂野玛娜) 到 Base Mana (基础玛娜) 转换
+这主要是一个生物过程，发生在所有魔法生物中：
 
-1. **Absorption**: Beings draw in Wild Mana from their surroundings
-2. **Filtration**: Internal biological processes separate usable energy from chaotic elements
-3. **Stabilization**: Chaotic patterns are ordered into coherent Base Mana energy
-4. **Storage**: The energy is stored within the being's internal reserves as Base Mana
+1. **Absorption** (吸收)：生物从周围环境中吸收 Wild Mana (狂野玛娜)
+2. **Filtration** (过滤)：内部生物过程将可用能量与混乱元素分离
+3. **Stabilization** (稳定)：混乱的模式被排序为连贯的 Base Mana (基础玛娜) 能量
+4. **Storage** (存储)：能量作为 Base Mana (基础玛娜) 存储在生物的内部储备中
 
-> **CRITICAL**: Effectiveness is calculated at this phase, measuring how efficiently a being converts Wild Mana to Base Mana. This determines the quantity of magical energy available to a caster.
+> **CRITICAL** (关键)：在此阶段计算效率，衡量生物将 Wild Mana (狂野玛娜) 转换为 Base Mana (基础玛娜) 的效率。这决定了施法者可用的魔法能量数量。
 
-#### Phase 2: Base Mana to Elemental Mana Conversion
-This is a conscious process that occurs during spellcasting:
+#### 阶段 2：Base Mana (基础玛娜) 到 Elemental Mana (元素玛娜) 转换
+这是一个有意识的过程，发生在施法期间：
 
-1. **Drawing**: Base Mana is pulled from internal reserves into active consciousness
-2. **Specialization**: Base Mana is attuned to specific elemental resonances
-3. **Transformation**: The energy shifts into specialized forms (Elemental Mana)
-4. **Result**: The final mixture contains both specialized Elemental Mana and residual Wild Mana
+1. **Drawing** (提取)：Base Mana (基础玛娜) 从内部储备中提取到主动意识中
+2. **Specialization** (专门化)：Base Mana (基础玛娜) 被调整为特定的元素共鸣
+3. **Transformation** (转化)：能量转变为专门的形式 (Elemental Mana (元素玛娜))
+4. **Result** (结果)：最终混合物包含专门的 Elemental Mana (元素玛娜) 和残留的 Wild Mana (狂野玛娜)
 
-> **CRITICAL**: Purity is calculated at this phase, measuring the ratio of refined Elemental Mana to residual Wild Mana. This determines the quality and control of the resulting magical effect.
+> **CRITICAL** (关键)：在此阶段计算纯度，衡量精炼的 Elemental Mana (元素玛娜) 与残留的 Wild Mana (狂野玛娜) 的比率。这决定了所得魔法效果的质量和控制。
 
-### Base Mana: The Internal Energy Form
+### Base Mana (基础玛娜)：内部能量形式
 
-**All mana stored within living creatures exists as Base Mana**, not Wild Mana or Elemental Mana. This is a crucial distinction that explains several fundamental aspects of magic:
+**所有存储在生物体内的玛娜都以 Base Mana (基础玛娜) 的形式存在**，而不是 Wild Mana (狂野玛娜) 或 Elemental Mana (元素玛娜)。这是一个至关重要的区别，解释了魔法的几个基本方面：
 
-- Base Mana is stable, neutralized, and can be safely contained within biological systems
-- Direct storage of Wild Mana within a being would cause severe magical trauma
-- Long-term storage of Elemental Mana within a being would cause elemental imbalances
-- All spellcasting begins by drawing from this internal Base Mana reservoir
+- Base Mana (基础玛娜) 是稳定的、中和的，并且可以安全地包含在生物系统中
+- 将 Wild Mana (狂野玛娜) 直接存储在生物体内会导致严重的魔法创伤
+- 将 Elemental Mana (元素玛娜) 长期存储在生物体内会导致元素失衡
+- 所有施法都始于从这个内部 Base Mana (基础玛娜) 储备中提取
 
-This Base Mana serves as both:
-- The magical "battery" that determines a being's overall magical capacity
-- The foundation material that will be refined into specialized forms during spellcasting
+这种 Base Mana (基础玛娜) 既充当：
+- 决定生物整体魔法容量的魔法“电池”
+- 将在施法期间提炼成专门形式的基础材料
 
-## Conversion Effectiveness and Purity
+## 转换效率和纯度
 
-### Phase 1: Effectiveness (Wild → Base)
-The effectiveness of Phase 1 conversion determines:
+### 阶段 1：效率 (Wild (狂野) → Base (基础))
+阶段 1 转换的效率决定：
 
-- How much of the absorbed Wild Mana becomes usable Base Mana
-- How quickly a being can replenish their internal mana reserves
-- The efficiency of mana extraction from the environment
+- 有多少被吸收的 Wild Mana (狂野玛娜) 成为可用的 Base Mana (基础玛娜)
+- 生物补充其内部玛娜储备的速度有多快
+- 从环境中提取玛娜的效率
 
-Factors affecting effectiveness include:
-- Species and inherent biological processes
-- Training and practiced techniques
-- Current health and energy levels
-- Environmental Wild Mana concentration
+影响效率的因素包括：
+- 物种和固有的生物过程
+- 训练和实践技术
+- 当前的健康和能量水平
+- 环境中的 Wild Mana (狂野玛娜) 浓度
 
-### Phase 2: Purity (Base → Elemental)
-The purity achieved during Phase 2 conversion determines:
+### 阶段 2：纯度 (Base (基础) → Elemental (元素))
+在阶段 2 转换期间实现的纯度决定：
 
-- How much precision and control a spell exhibits
-- The stability and predictability of magical effects
-- The efficiency of mana usage during spellcasting
+- 法术表现出多少精度和控制
+- 魔法效果的稳定性和可预测性
+- 施法期间玛娜的使用效率
 
-Factors affecting purity include:
-- Training and magical education
-- Concentration and mental clarity
-- Compatible elemental affinities
-- Quality of focusing tools or components
+影响纯度的因素包括：
+- 训练和魔法教育
+- 注意力和精神清晰度
+- 兼容的元素亲和力
+- 聚焦工具或组件的质量
 
-### Mathematical Expressions
+### 数学表达式
 
-**Phase 1 (Effectiveness):**
+**阶段 1（效率）：**
 ```
-Effectiveness Percentage = (Base Mana Produced) / (Wild Mana Consumed) × 100%
-```
-
-**Phase 2 (Purity):**
-```
-Purity Percentage = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+效率百分比 = (产生的 Base Mana (基础玛娜)) / (消耗的 Wild Mana (狂野玛娜)) × 100%
 ```
 
-### Visualization of Purification Levels
+**阶段 2（纯度）：**
+```
+纯度百分比 = (精炼的 Elemental Mana (元素玛娜)) / (精炼的 Elemental Mana (元素玛娜) + 残留的 Wild Mana (狂野玛娜)) × 100%
+```
 
-| Purity Level | Wild Mana Content | Description | Typical Application |
+### 纯化水平的可视化
+
+| Purity Level (纯度等级) | Wild Mana Content (狂野玛娜含量) | Description (描述) | Typical Application (典型应用) |
 |--------------|-------------------|-------------|---------------------|
-| 0-10% | 90-100% | Almost entirely Wild Mana | Unusable for most controlled magic |
-| 10-35% | 65-90% | Basic refinement | Suitable for simple, forgiving spells |
-| 35-65% | 35-65% | Standard refinement | Everyday professional magic use |
-| 65-85% | 15-35% | Advanced refinement | Complex or precision spellcasting |
-| 85-100% | 0-15% | Master-level refinement | Highest tier magical works |
+| 0-10% | 90-100% | 几乎完全是 Wild Mana (狂野玛娜) | 无法用于大多数受控魔法 |
+| 10-35% | 65-90% | 基本提炼 | 适用于简单、宽容的法术 |
+| 35-65% | 35-65% | 标准提炼 | 日常专业魔法使用 |
+| 65-85% | 15-35% | 高级提炼 | 复杂或精确的施法 |
+| 85-100% | 0-15% | 大师级提炼 | 最高等级的魔法作品 |
 
-## Different Approaches to Wild Mana
+## 处理 Wild Mana (狂野玛娜) 的不同方法
 
-Various magical traditions have developed different relationships with Wild Mana:
+各种魔法传统已经发展出与 Wild Mana (狂野玛娜) 的不同关系：
 
-### Academic Traditions
-- **Philosophy**: Wild Mana is an impurity to be eliminated
-- **Practice**: Focus on maximizing purity during Phase 2
-- **Strength**: Precise, predictable magical effects
-- **Weakness**: May be less adaptable to changing conditions
+### 学术传统
+- **Philosophy** (哲学)：Wild Mana (狂野玛娜) 是一种需要消除的杂质
+- **Practice** (实践)：专注于在阶段 2 中最大化纯度
+- **Strength** (优势)：精确、可预测的魔法效果
+- **Weakness** (弱点)：可能不太适应不断变化的条件
 
-### Natural Traditions
-- **Philosophy**: Wild Mana is a vital connection to natural forces
-- **Practice**: Intentionally maintain some Wild Mana content in spells
-- **Strength**: More dynamic and adaptable magic
-- **Weakness**: Less precise control over effects
+### 自然传统
+- **Philosophy** (哲学)：Wild Mana (狂野玛娜) 是与自然力量的重要联系
+- **Practice** (实践)：有意在法术中保持一些 Wild Mana (狂野玛娜) 含量
+- **Strength** (优势)：更动态和适应性强的魔法
+- **Weakness** (弱点)：对效果的控制较差
 
-### Innate Casters
-- **Philosophy**: Magic is an inherent gift rather than learned technique
-- **Practice**: Often have unique biological Phase 1 processes
-- **Strength**: May achieve unusual effectiveness or specialized effects
-- **Weakness**: Often less consistent than trained practitioners
+### 天赋施法者
+- **Philosophy** (哲学)：魔法是一种固有的天赋，而不是学习的技术
+- **Practice** (实践)：通常具有独特的生物阶段 1 过程
+- **Strength** (优势)：可能实现不寻常的效率或专门的效果
+- **Weakness** (弱点)：通常不如训练有素的从业者一致
 
-## Wild Mana Training Techniques
+## Wild Mana (狂野玛娜) 训练技巧
 
-### Phase 1 (Effectiveness) Training
-1. **Absorption Meditation**: Improving the intake of Wild Mana
-2. **Channel Clearing**: Removing blockages in internal mana pathways
-3. **Conversion Rituals**: Practicing efficient transformation techniques
-4. **Reserve Expansion**: Gradually increasing Base Mana storage capacity
+### 阶段 1（效率）训练
+1. **Absorption Meditation** (吸收冥想)：提高 Wild Mana (狂野玛娜) 的摄入量
+2. **Channel Clearing** (通道清理)：消除内部玛娜通道中的阻塞
+3. **Conversion Rituals** (转换仪式)：练习高效的转换技术
+4. **Reserve Expansion** (储备扩展)：逐步增加 Base Mana (基础玛娜) 存储容量
 
-### Phase 2 (Purity) Training
-1. **Filtration Exercises**: Mental disciplines for removing Wild Mana contamination
-2. **Pattern Stabilization**: Maintaining clear magical intentions
-3. **Elemental Alignment**: Strengthening affinity with specific elements
-4. **Precision Casting**: Practicing fine control of mana manipulation
+### 阶段 2（纯度）训练
+1. **Filtration Exercises** (过滤练习)：用于消除 Wild Mana (狂野玛娜) 污染的精神训练
+2. **Pattern Stabilization** (模式稳定)：保持清晰的魔法意图
+3. **Elemental Alignment** (元素对齐)：加强与特定元素的亲和力
+4. **Precision Casting** (精确施法)：练习对玛娜操纵的精细控制
 
-> *"Wild Mana is neither good nor evil, neither completely hostile nor completely benign. It simply is—the raw stuff of possibility from which all other magic derives. Learn to respect it, not fear it."* — Elowen Wildroot, Archdruid of the Emerald Circle 
+> *“Wild Mana (狂野玛娜) 既不好也不坏，既不是完全敌对也不是完全良性。它只是存在——所有其他魔法都源于其中的原始可能性。学会尊重它，而不是害怕它。”* ——埃洛温·怀尔德鲁特，翡翠之环的大德鲁伊
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

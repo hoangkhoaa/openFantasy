@@ -1,104 +1,108 @@
-# **Dwarves**: The Steadfast Guardians of Tradition
+# **Dwarves** (矮人): 坚定的传统守护者
 
-[**Dwarves**](/codex/Creatures/Dwarves.md) are the steadfast guardians of tradition, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a bass drum that provides the foundation for an orchestra, they embody resilience and craftsmanship, creating a unique melody of existence that emphasizes durability, skill, and cultural continuity.
+[**Dwarves**](/codex/Creatures/Dwarves.md) (矮人) 是坚定的传统守护者，他们的身体是 [**Exanthis**](/codex/Basic/Exanthis.md) (艾克萨尼斯)、[**Souls**](/codex/Basic/Soul.md) (灵魂) 和 **Mana Capacity** (法力容量) 的和谐融合。就像为管弦乐队奠定基础的低音鼓一样，他们体现了坚韧和工艺，创造出一种独特的生存旋律，强调耐用性、技能和文化连续性。
 
-## Elemental Composition
+## Elemental Composition (元素构成)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dwarves** forms a harmony that favors physical resilience:
+正如 [Creatures](/codex/Creatures/Creatures.md) (生物) 中详述的那样，**dwarves** (矮人) 的典型比例形成了一种有利于身体韧性的和谐：
 
-| Element | Range | Function |
+| Element (元素) | Range (范围) | Function (功能) |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that provides exceptional physical strength and durability |
-| **Soul** | 20-35% | The ethereal essence that shapes a focused and determined consciousness |
-| **Mana Capacity** | 5-25% | The bridge between worlds that enables runic magical potential |
+| **Exanthis** (艾克萨尼斯) | 50-70% | 提供卓越的身体力量和耐久性的结晶核心 |
+| **Soul** (灵魂) | 20-35% | 塑造专注和坚定的意识的以太本质 |
+| **Mana Capacity** (法力容量) | 5-25% | 连接世界，实现符文魔法潜力的桥梁 |
 
-This composition grants **dwarves** their characteristic physical resilience but typically limits their magical abilities compared to other species, like a sturdy instrument that can withstand rough handling but produces a limited range of sounds.
+这种构成赋予了 **dwarves** (矮人) 其特有的身体韧性，但通常限制了他们与其他物种相比的魔法能力，就像一种坚固的乐器，可以承受粗暴的处理，但产生的音域有限。
 
-### Individual Variations
+### Individual Variations (个体差异)
 
-While the model composition represents the typical dwarf, individual variations exist:
+虽然模型构成代表了典型的矮人，但个体差异确实存在：
 
-- **Mountain Kings**: Some dwarves possess Exanthis levels as high as 75%, making them among the most physically resilient beings in existence, though often with minimal magical ability (5% Mana Capacity).
-- **Soul Smiths**: Those with higher Soul percentages (up to 40%) develop exceptional craftsmanship and artistic abilities, often becoming legendary artisans or cultural leaders whose works contain a fragment of their very essence.
-- **Rune Masters**: Rare individuals have Mana Capacity approaching 30%, allowing them to create powerful runic enchantments and artifacts, though they typically maintain significant physical resilience (45% Exanthis).
-- **Balanced Dwarves**: Some maintain a more balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity), allowing them to adapt to various roles within dwarven society.
-- **Forge Guardians**: A specialized composition of (65% Exanthis, 30% Soul, 5% Mana Capacity) creates dwarves who are exceptionally resistant to heat, fire, and physical damage, perfect for the most dangerous forging work.
+- **Mountain Kings** (山丘之王): 一些矮人拥有高达 75% 的 Exanthis (艾克萨尼斯) 水平，这使他们成为现存身体最坚韧的生物之一，尽管通常魔法能力极低（5% 法力容量）。
+- **Soul Smiths** (灵魂铁匠): 那些灵魂 (Soul) 百分比较高（高达 40%）的人会发展出卓越的工艺和艺术能力，通常成为传奇的工匠或文化领袖，他们的作品包含他们自身本质的碎片。
+- **Rune Masters** (符文大师): 罕见的个体拥有的法力容量 (Mana Capacity) 接近 30%，这使他们能够创造强大的符文附魔和神器，尽管他们通常保持显着的身体韧性（45% Exanthis (艾克萨尼斯)）。
+- **Balanced Dwarves** (平衡矮人): 有些人保持更平衡的构成（50% Exanthis (艾克萨尼斯)，25% 灵魂 (Soul)，25% 法力容量 (Mana Capacity)），这使他们能够适应矮人社会中的各种角色。
+- **Forge Guardians** (熔炉守卫): 一种专门的构成（65% Exanthis (艾克萨尼斯)，30% 灵魂 (Soul)，5% 法力容量 (Mana Capacity)）创造了对热、火和物理伤害具有极强抵抗力的矮人，非常适合最危险的锻造工作。
 
-## Physical Characteristics
+## Physical Characteristics (生理特征)
 
-**Dwarves** are known for their sturdy build and connection to the earth:
-- Short and stocky, with dense muscle and bone structure
-- Broad shoulders and strong limbs, built for physical labor
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+**Dwarves** (矮人) 以其坚固的体格和与大地的联系而闻名：
+- 身材矮小敦实，肌肉和骨骼结构致密
+- 肩膀宽阔，四肢强壮，专为体力劳动而生
+- 厚实的皮肤提供天然保护，就像活生生的石头一样
+- 眼睛闪烁着内在的光芒，反映了他们与 [**Exanthis**](/codex/Basic/Exanthis.md) (艾克萨尼斯) 的联系
+- 胡须通常错综复杂地编织着氏族和地位的象征
+- 天生对毒药和疾病的抵抗力，就像山脉经受风暴一样
 
-## Physical and Magical Affinity
+## Physical and Magical Affinity (物理和魔法亲和力)
 
-**Dwarves** demonstrate exceptional proficiency in physical resilience and craftsmanship, like master artisans who have perfected their craft. Their composition allows them to:
-- Develop extraordinary durability and strength, like living mountains
-- Create and work with materials that other species find impossible to shape
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+**Dwarves** (矮人) 在身体韧性和工艺方面表现出卓越的才能，就像已经完善了他们工艺的大师级工匠一样。 他们的构成使他们能够：
+- 发展出非凡的耐久性和力量，就像活生生的山脉
+- 创造和处理其他物种发现无法塑造的材料
+- 通过其高 Exanthis (艾克萨尼斯) 含量抵抗魔法效果，就像石头打破魔法池塘的表面一样
 
-This resilience makes **dwarves** capable of achieving feats of endurance that other species can only dream of, though they may struggle with tasks requiring flexibility or magical finesse, like a solid foundation that provides stability but resists change.
+这种韧性使 **dwarves** (矮人) 能够完成其他物种只能梦想的耐力壮举，尽管他们可能难以完成需要灵活性或魔法技巧的任务，就像坚实的基础提供稳定性但抵抗变化一样。
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (寿命和灵魂衰变)
 
-The **soul decay** timeline for **dwarves**, from birth to complete decay, is approximately 300 years, like a slow-burning forge that illuminates the ages. This extended lifespan allows them to:
-- Master complex crafts and techniques over generations
-- Develop deep connections to their ancestral lands and traditions
-- Form stable societies with strong cultural continuity
+**dwarves** (矮人) 从出生到完全衰变的 **soul decay** (灵魂衰变) 时间线约为 300 年，就像照亮时代的缓慢燃烧的熔炉。 这种延长的寿命使他们能够：
+- 掌握几代人的复杂工艺和技术
+- 与他们的祖先土地和传统建立深厚的联系
+- 形成具有强大文化连续性的稳定社会
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains constant through the ages.
+然而，他们较慢的灵魂衰变也意味着他们比其他物种改变和适应得更慢，就像一种在时代中保持不变的旋律。
 
-## Habitat and Distribution
+## Habitat and Distribution (栖息地和分布)
 
-**Dwarves** primarily inhabit:
-- Mountain ranges and underground cities, where they can be closest to the earth
-- Regions rich in [**Exanthis**](/codex/Basic/Exanthis.md), where their natural resistance to magic is strongest
-- Strategic locations that provide natural defenses and valuable resources
+**Dwarves** (矮人) 主要居住在：
+- 山脉和地下城市，在那里他们可以最接近大地
+- Exanthis (艾克萨尼斯) 丰富的地区，他们在那里对魔法的天然抵抗力最强
+- 提供自然防御和有价值资源的战略位置
 
-These locations provide ideal environments for craftsmanship and defense, like a well-fortified stage for their performance.
+这些地点为工艺和防御提供了理想的环境，就像为他们的表演提供了一个坚固的舞台。
 
-## Cultural Impact
+## Cultural Impact (文化影响)
 
-In the world of **OpenFantasy**, **dwarves** play a crucial role in preserving traditional crafts and techniques, like archivists of ancient melodies. Their societies are centers of:
-- Master craftsmanship and engineering
-- Traditional wisdom and cultural continuity
-- Military strength and defensive strategy
+在 **OpenFantasy** 的世界中，**dwarves** (矮人) 在保护传统工艺和技术方面发挥着至关重要的作用，就像古代旋律的档案管理员。 他们的社会是以下中心：
+- 大师级的工艺和工程
+- 传统智慧和文化连续性
+- 军事实力和防御战略
 
-The connection to the earth and [**Exanthis**](/codex/Basic/Exanthis.md) has shaped dwarven culture around respect for tradition, craftsmanship, and resilience, creating a society where skill and honor are highly valued.
+与地球和 [**Exanthis**](/codex/Basic/Exanthis.md) (艾克萨尼斯) 的联系使矮人文化围绕着尊重传统、工艺和韧性而形成，创造了一个技能和荣誉受到高度重视的社会。
 
-## Relationship with Other Species
+## Relationship with Other Species (与其他物种的关系)
 
-**Dwarves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A pragmatic alliance based on mutual trade and defense
-- With **Elves**: A historical rivalry born from their different approaches to the world
-- With **Beastfolk**: A respectful alliance based on mutual respect for strength and honor
-- With **Giants**: A cautious relationship, as dwarves are among the few who can match giant strength with technology
+**Dwarves** (矮人) 与其他物种保持着复杂的关系：
+- 与 [**Humans**](/codex/Creatures/Human.md) (人类): 基于互利贸易和防御的务实联盟
+- 与 **Elves** (精灵): 源于他们对世界不同看法的历史竞争
+- 与 **Beastfolk** (兽人): 基于相互尊重力量和荣誉的友好联盟
+- 与 **Giants** (巨人): 一种谨慎的关系，因为矮人是少数能够用技术与巨人力量相匹配的人
 
-These relationships are often characterized by a sense of pride in their craftsmanship and resilience, as **dwarves** view themselves as the true children of the earth.
+这些关系的特点通常是对他们的工艺和韧性的自豪感，因为 **dwarves** (矮人) 认为自己是真正的地球之子。
 
-## Notable Dwarven Traits
+## Notable Dwarven Traits (矮人显著特征)
 
-- **Physical Resilience**: Dwarves excel in durability and strength, often surpassing other species in their ability to endure
-- **Master Craftsmanship**: Dwarves are renowned for their skill in crafting weapons, armor, and other items
-- **Magical Resistance**: Their high **Exanthis** content makes them naturally resistant to many magical effects
-- **Traditional Wisdom**: Dwarves place great emphasis on preserving traditional knowledge and techniques
-- **Clan Structure**: Dwarven society is organized around powerful clans, each with its own traditions and specialties
+- **Physical Resilience** (身体韧性): 矮人在耐久性和力量方面表现出色，通常在承受能力方面超过其他物种
+- **Master Craftsmanship** (大师级工艺): 矮人以其制造武器、盔甲和其他物品的技能而闻名
+- **Magical Resistance** (魔法抗性): 他们高 Exanthis (艾克萨尼斯) 含量使他们天生对许多魔法效果具有抵抗力
+- **Traditional Wisdom** (传统智慧): 矮人非常重视保护传统知识和技术
+- **Clan Structure** (氏族结构): 矮人社会围绕着强大的氏族组织起来，每个氏族都有自己的传统和特色
 
-## Dwarven Clans
+## Dwarven Clans (矮人氏族)
 
-Dwarven society is organized into numerous clans, each with its own specialties and traditions:
+矮人社会被组织成许多氏族，每个氏族都有自己的特色和传统：
 
-| Clan | Specialty | Territory | Notable Traits |
+| Clan (氏族) | Specialty (特长) | Territory (领地) | Notable Traits (显著特征) |
 |---------|---------------|---------|-------------------|
-| **Ironheart** | Metalworking, weapons | Northern Mountains | Fierce warriors, master smiths |
-| **Stonefist** | Architecture, engineering | Central Range | Master builders, tunnel experts |
-| **Goldweaver** | Jewelry, fine crafts | Eastern Peaks | Wealthy traders, artistic masters |
-| **Fireforge** | Magical items, runes | Volcanic Region | Rune masters, fire magic specialists |
-| **Deepdelver** | Mining, gemcutting | Deep Caves | Expert miners, gem specialists |
-| **Stormhammer** | Naval engineering, shipbuilding | Coastal Cliffs | Master shipwrights, naval experts |
+| **Ironheart** (铁心) | 金属加工，武器 | Northern Mountains (北部山脉) | 凶猛的战士，大师级铁匠 |
+| **Stonefist** (石拳) | 建筑，工程 | Central Range (中央山脉) | 大师级建造者，隧道专家 |
+| **Goldweaver** (金织) | 珠宝，精美工艺品 | Eastern Peaks (东部山峰) | 富有的贸易商，艺术大师 |
+| **Fireforge** (火炉) | 魔法物品，符文 | Volcanic Region (火山地区) | 符文大师，火焰魔法专家 |
+| **Deepdelver** (深掘) | 采矿，宝石切割 | Deep Caves (深邃洞穴) | 采矿专家，宝石专家 |
+| **Stormhammer** (风暴锤) | 海军工程，造船 | Coastal Cliffs (沿海悬崖) | 大师级造船匠，海军专家 |
 
-Understanding the nature of **dwarves** provides insight into the traditional aspects of the world of **OpenFantasy**, like listening to the deep, steady rhythms that pulse through the mountains and earth. 
+了解 **dwarves** (矮人) 的本质可以深入了解 **OpenFantasy** 世界的传统方面，就像聆听在山脉和地球中跳动的深沉而稳定的节奏。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

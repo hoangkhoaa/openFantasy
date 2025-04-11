@@ -1,225 +1,229 @@
-# **Magic**: The Harmonic Art of Reality Manipulation
+# **Magic** (魔法): 现实操纵的和谐艺术
 
-[**Magic**](/codex/Magics/Core/Magic.md) in the world of OpenFantasy is not merely a mystical force but a fundamental aspect of reality—as natural and essential as physics or mathematics. Just as music transforms vibrations into harmony through structured patterns, magic transforms mana into effects through disciplined manipulation of universal energies.
+在 OpenFantasy 世界中的 [**Magic**](/codex/Magics/Core/Magic.md) (魔法)不仅仅是一种神秘力量，而是现实的一个基本方面——如同物理学或数学一样自然和必不可少。正如音乐通过结构化的模式将振动转化为和谐一样，魔法通过对宇宙能量的有纪律的操纵将 mana (魔力)转化为效果。
 
-## Fundamental Principles
+## Fundamental Principles (基本原则)
 
-Magic in OpenFantasy operates on three fundamental principles that form the basis of all magical theory and practice:
+OpenFantasy 中的魔法基于三个基本原则运作，这些原则构成了所有魔法理论和实践的基础：
 
-| Principle | Description | Musical Analogy |
+| Principle (原则) | Description (描述) | Musical Analogy (音乐类比) |
 |---------|------------|----------|
-| **Purity** | The clarity and focus of magical energy | The cleanness of a musical note |
-| **Intensity** | The raw power and force of magical energy | The volume of a musical performance |
-| **Complexity** | The intricacy and sophistication of magical patterns | The complexity of a musical composition |
+| **Purity** (纯度) | magical energy (魔法能量)的清晰度和专注度 | 音符的清晰度 |
+| **Intensity** (强度) | magical energy (魔法能量)的原始力量和力量 | 音乐表演的音量 |
+| **Complexity** (复杂性) | magical patterns (魔法模式)的复杂性和精巧性 | 音乐作品的复杂性 |
 
-These principles interact with a practitioner's elemental composition to determine their magical capabilities and limitations.
+这些原则与施法者的 elemental composition (元素构成)相互作用，以确定他们的魔法能力和局限性。
 
-## Elemental Composition and Magic
+## Elemental Composition and Magic (元素构成与魔法)
 
-A being's elemental composition directly influences their magical abilities:
+一个生物的 elemental composition (元素构成)直接影响他们的魔法能力：
 
-- **Exanthis**: Provides the physical substrate that anchors magic in reality. Higher Exanthis grants greater resistance to magical effects but can limit magical output. Like the physical construction of an instrument that determines its durability.
+- **Exanthis**: 提供物理基质，将魔法锚定在现实中。更高的 Exanthis 赋予更强的 magical effects (魔法效果)抵抗力，但会限制 magical output (魔法输出)。就像乐器的物理结构决定其耐用性一样。
 
-- **Soul**: Shapes the character and creativity of magical expression. Higher Soul percentages allow for more intuitive and adaptable spellcasting. Like a musician's interpretation that brings unique character to a performance.
+- **Soul** (灵魂): 塑造 magical expression (魔法表达)的特征和创造力。更高的 Soul (灵魂)百分比允许更直观和适应性强的 spellcasting (施法)。就像音乐家的诠释为表演带来独特的性格一样。
 
-- **Mana Capacity**: Determines the amount of magical energy a being can channel and store. Higher Mana Capacity allows for more powerful and sustained spellcasting. Like the lung capacity of a wind instrumentalist or the arm strength of a percussionist.
+- **Mana Capacity** (魔力容量): 决定了一个生物可以引导和存储的 magical energy (魔法能量)量。更高的 Mana Capacity (魔力容量)允许更强大和持久的 spellcasting (施法)。就像管乐器演奏者的肺活量或打击乐手的臂力一样。
 
-## Key Magical Concepts
+## Key Magical Concepts (关键魔法概念)
 
-### Mana
-The fundamental energy of magic, comparable to notes in music:
-- **Nature**: Universal life force present in all things
-- **Accessibility**: Can be drawn from the caster or environment
-- **Limitation**: Finite resource that must be replenished
-- **Manipulation**: Requires training to gather and control
+### Mana (魔力)
+魔法的基本能量，相当于音乐中的音符：
+- **Nature** (本质): 存在于万物中的 universal life force (宇宙生命力)
+- **Accessibility** (可及性): 可以从施法者或环境中汲取
+- **Limitation** (限制): 必须补充的有限资源
+- **Manipulation** (操纵): 需要训练才能收集和控制
 
-*See [**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md) for detailed information*
+*有关详细信息，请参阅 [**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md) (魔力机制)*
 
-### Mana Capacity
-The amount of magical energy a practitioner can hold and channel:
-- **Range**: Typically 5-85% of theoretical maximum
-- **Development**: Increases through practice and study
-- **Limitation**: Genetically influenced upper limit
-- **Expression**: Higher capacity enables larger and more complex spells
+### Mana Capacity (魔力容量)
+施法者可以持有和引导的 magical energy (魔法能量)量：
+- **Range** (范围): 通常为理论最大值的 5-85%
+- **Development** (发展): 通过实践和学习增加
+- **Limitation** (限制): 受遗传影响的上限
+- **Expression** (表达): 更高的容量可以实现更大和更复杂的 spells (法术)
 
-*See [**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md) for detailed information*
+*有关详细信息，请参阅 [**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md) (魔力再生)*
 
-### Wild Mana
-Raw, unpurified magical energy permeating the environment:
-- **Nature**: Chaotic, unpredictable energy
-- **Danger**: Can contaminate spells and cause instability
-- **Utility**: Source of ambient magical power
-- **Manifestation**: Can create spontaneous magical phenomena
+### Wild Mana (狂野魔力)
+渗透环境的原始、未净化的 magical energy (魔法能量)：
+- **Nature** (本质): 混乱、不可预测的能量
+- **Danger** (危险): 会污染 spells (法术)并导致不稳定
+- **Utility** (效用): 环境 magical power (魔法力量)的来源
+- **Manifestation** (表现): 可以创造自发的 magical phenomena (魔法现象)
 
-*See [**Wild Mana**](/codex/Magics/Core/WildMana.md) and [**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md) for detailed information*
+*有关详细信息，请参阅 [**Wild Mana**](/codex/Magics/Core/WildMana.md) (狂野魔力)和 [**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md) (狂野魔力效果)*
 
-### Purification
-The process of refining raw mana for spellcasting:
-- **Purpose**: Removes chaotic elements for precise control
-- **Methods**: Mental discipline, tool assistance, alchemical aids
-- **Levels**: Crude to Perfect based on remaining Wild Mana content
-- **Significance**: Determines spell precision and reliability
+### Purification (净化)
+精炼 raw mana (原始魔力)以进行 spellcasting (施法)的过程：
+- **Purpose** (目的): 移除混乱元素以进行精确控制
+- **Methods** (方法): 精神纪律、工具辅助、炼金术辅助
+- **Levels** (等级): 根据剩余的 Wild Mana (狂野魔力)含量，从粗糙到完美
+- **Significance** (意义): 决定 spell (法术)的精度和可靠性
 
-*See [**Mana Purity**](/codex/Magics/Core/ManaPurity.md) for detailed information*
+*有关详细信息，请参阅 [**Mana Purity**](/codex/Magics/Core/ManaPurity.md) (魔力纯度)*
 
-### Spellcasting
-The practical application of magical theory:
-- **Process**: Five-stage sequence (Gathering, Purification, Patterning, Resonance, Release)
-- **Variation**: Different traditions employ unique methods
-- **Requirement**: Mental discipline, physical components, and/or tools
-- **Expression**: Ranges from simple cantrips to complex ritual magic
+### Spellcasting (施法)
+魔法理论的实际应用：
+- **Process** (过程): 五阶段序列（Gathering (聚集), Purification (净化), Patterning (模式化), Resonance (共鸣), Release (释放)）
+- **Variation** (变化): 不同的传统采用独特的方法
+- **Requirement** (要求): 精神纪律、物理组件和/或工具
+- **Expression** (表达): 范围从简单的 cantrips (戏法)到复杂的 ritual magic (仪式魔法)
 
-*See [**Magic Casting**](/codex/Magics/Core/MagicCasting.md) for detailed information*
+*有关详细信息，请参阅 [**Magic Casting**](/codex/Magics/Core/MagicCasting.md) (魔法施法)*
 
-### Elemental Magic
-Manipulation of fundamental forces and elements:
-- **Primary Elements**: Fire, Water, Earth, Air, Light, Shadow, Life, Death
-- **Structure**: Complementary and opposing pairings
-- **Application**: Most accessible and widely practiced form of magic
-- **Expression**: Direct manipulation or elemental byproducts
+### Elemental Magic (元素魔法)
+对基本力量和元素的操纵：
+- **Primary Elements** (主要元素): Fire (火), Water (水), Earth (土), Air (气), Light (光), Shadow (影), Life (生命), Death (死亡)
+- **Structure** (结构): 互补和对立的配对
+- **Application** (应用): 最容易获得和广泛实践的魔法形式
+- **Expression** (表达): 直接操纵或 elemental byproducts (元素副产品)
 
-*See [**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) for detailed information*
+*有关详细信息，请参阅 [**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) (元素魔法)*
 
-### Magical Schools
-Specialized disciplines focusing on particular applications:
-- **Major Schools**: Evocation, Conjuration, Divination, Enchantment, Illusion, Abjuration
-- **Organization**: Systematic approaches to magical education and research
-- **Philosophy**: Unique perspectives on the nature and application of magic
-- **Methodology**: Specialized techniques for particular magical effects
+### Magical Schools (魔法学院)
+专注于特定应用的专门学科：
+- **Major Schools** (主要学院): Evocation (唤起), Conjuration (召唤), Divination (占卜), Enchantment (附魔), Illusion (幻术), Abjuration (防护)
+- **Organization** (组织): 对魔法教育和研究的系统方法
+- **Philosophy** (哲学): 对魔法的本质和应用的独特视角
+- **Methodology** (方法论): 用于特定 magical effects (魔法效果)的专门技术
 
-*See the [**Schools**](/codex/Magics/Schools/) directory for detailed information*
+*有关详细信息，请参阅 [**Schools**](/codex/Magics/Schools/) (学院)目录*
 
-## Intensity and Magic
+## Intensity and Magic (强度与魔法)
 
-Magical intensity refers to the raw power and force of magical energy. Like the volume of a musical performance, intense magic commands attention and overwhelms opposition.
+Magical intensity (魔法强度)指的是 magical energy (魔法能量)的原始力量。就像音乐表演的音量一样，强烈的魔法会引起人们的注意并压倒反对者。
 
-### Intensity Factors
+### Intensity Factors (强度因素)
 
-1. **Mana Volume**: The amount of magical energy a caster can channel at once. Higher Mana Capacity allows for greater intensity.
+1. **Mana Volume** (魔力量): 施法者一次可以引导的 magical energy (魔法能量)量。更高的 Mana Capacity (魔力容量)允许更大的强度。
 
-2. **Exanthis Conductivity**: The physical body must be able to withstand the channeling of intense magic. Higher Exanthis provides resistance but can also limit conductivity.
+2. **Exanthis Conductivity**: 身体必须能够承受强烈魔法的引导。更高的 Exanthis 提供抵抗力，但也会限制传导性。
 
-3. **Emotional State**: Strong emotions can temporarily increase magical intensity at the cost of control and purity.
+3. **Emotional State** (情绪状态): 强烈的情绪可以暂时提高 magical intensity (魔法强度)，但会以控制和纯度为代价。
 
-### Species and Intensity
+### Species and Intensity (物种与强度)
 
-Different species have natural affinities for magical intensity:
+不同的 species (物种)对 magical intensity (魔法强度)有自然的亲和力：
 
-- **Dragonkin** (55-75% Exanthis, 20-35% Mana Capacity): Channel intense elemental magic with devastating effect but limited finesse.
+- **Dragonkin** (龙族) (55-75% Exanthis, 20-35% Mana Capacity (魔力容量)): 以毁灭性的效果引导强烈的 elemental magic (元素魔法)，但精细度有限。
 
-- **Dark Elves** (15-35% Exanthis, 45-75% Mana Capacity): Achieve high intensity in shadow and void magic through specialized training.
+- **Dark Elves** (黑暗精灵) (15-35% Exanthis, 45-75% Mana Capacity (魔力容量)): 通过专门的训练在 shadow (阴影)和 void magic (虚空魔法)中实现高强度。
 
-- **Giants** (65-85% Exanthis, 5-20% Mana Capacity): Limited magical potential but what little magic they produce tends to be intense and primal.
+- **Giants** (巨人) (65-85% Exanthis, 5-20% Mana Capacity (魔力容量)): 有限的魔法潜力，但他们产生的少量魔法往往是强烈和原始的。
 
-- **Humans** (20-55% Exanthis, 15-60% Mana Capacity): Capable of surprising bursts of intensity, especially when emotionally charged.
+- **Humans** (人类) (20-55% Exanthis, 15-60% Mana Capacity (魔力容量)): 能够爆发令人惊讶的强度，尤其是在情绪激动时。
 
-### Intensity Applications
+### Intensity Applications (强度应用)
 
-- **Combat Magic**: Higher intensity overwhelms magical defenses and produces more devastating effects.
+- **Combat Magic** (战斗魔法): 更高的强度压倒 magical defenses (魔法防御)并产生更具破坏性的 effects (效果)。
 
-- **Elemental Manipulation**: Intensity determines the scale and force of elemental effects, from gentle breezes to devastating storms.
+- **Elemental Manipulation** (元素操纵): 强度决定了 elemental effects (元素效果)的规模和力量，从微风到毁灭性的风暴。
 
-- **Warding**: Intensity determines the strength of magical barriers and their resistance to breaching attempts.
+- **Warding** (守护): 强度决定了 magical barriers (魔法屏障)的强度以及它们对突破尝试的抵抗力。
 
-## Complexity and Magic
+## Complexity and Magic (复杂性与魔法)
 
-Magical complexity refers to the intricacy and sophistication of magical patterns. Like a complex musical composition, complex magic can achieve effects that simpler magic cannot.
+Magical complexity (魔法复杂性)指的是 magical patterns (魔法模式)的复杂性和精巧性。就像复杂的音乐作品一样，复杂的魔法可以实现 simpler magic (简单魔法)无法实现的效果。
 
-### Complexity Factors
+### Complexity Factors (复杂性因素)
 
-1. **Mental Capacity**: The caster's ability to conceptualize and maintain complex magical patterns.
+1. **Mental Capacity** (心智能力): 施法者概念化和维持复杂 magical patterns (魔法模式)的能力。
 
-2. **Soul Flexibility**: Higher Soul percentages allow for more adaptable and creative manipulation of magical energies.
+2. **Soul Flexibility** (灵魂灵活性): 更高的 Soul (灵魂)百分比允许更具适应性和创造性地操纵 magical energies (魔法能量)。
 
-3. **Training and Knowledge**: Academic understanding of magical theory enables greater complexity.
+3. **Training and Knowledge** (训练和知识): 对魔法理论的学术理解能够提高复杂性。
 
-### Species and Complexity
+### Species and Complexity (物种与复杂性)
 
-Different species have natural affinities for magical complexity:
+不同的 species (物种)对魔法复杂性有自然的亲和力：
 
-- **Gnomes** (30-50% Soul, 25-40% Mana Capacity): Excel at creating complex magical devices and combining magic with technology.
+- **Gnomes** (侏儒) (30-50% Soul (灵魂), 25-40% Mana Capacity (魔力容量)): 擅长创造复杂的 magical devices (魔法装置)并将魔法与技术相结合。
 
-- **Shadowfolk** (30-50% Soul, 30-50% Mana Capacity): Master intricate shadow patterns and complex illusions.
+- **Shadowfolk** (影民) (30-50% Soul (灵魂), 30-50% Mana Capacity (魔力容量)): 掌握复杂的 shadow patterns (阴影模式)和 complex illusions (复杂幻象)。
 
-- **Humans** (15-45% Soul, 15-60% Mana Capacity): Adapt quickly to new magical paradigms and innovations.
+- **Humans** (人类) (15-45% Soul (灵魂), 15-60% Mana Capacity (魔力容量)): 快速适应新的 magical paradigms (魔法范式)和创新。
 
-- **Merfolk** (25-40% Soul, 20-40% Mana Capacity): Create complex harmonies in water magic that affect entire ecosystems.
+- **Merfolk** (美人鱼) (25-40% Soul (灵魂), 20-40% Mana Capacity (魔力容量)): 在水魔法中创造复杂的 harmonies (和谐)，影响整个生态系统。
 
-### Complexity Applications
+### Complexity Applications (复杂性应用)
 
-- **Ritual Magic**: Complex rituals can achieve effects impossible through direct spellcasting.
+- **Ritual Magic** (仪式魔法): 复杂的 rituals (仪式)可以实现 direct spellcasting (直接施法)无法实现的效果。
 
-- **Transformation Magic**: Altering physical forms requires intricate understanding of both target and desired form.
+- **Transformation Magic** (变形魔法): 改变物理形态需要对目标和所需形态的复杂理解。
 
-- **Teleportation**: Spatial manipulation demands exceptional complexity to ensure accurate and safe transit.
+- **Teleportation** (传送): 空间操纵需要非凡的复杂性，以确保准确和安全的 transit (运输)。
 
-## The Mana Spectrum
+## The Mana Spectrum (魔力光谱)
 
-When Wild Mana is purified and refined, it becomes **Base Mana** - the stable form of magical energy from which all magical effects derive. When this base mana is aligned and attuned to specific elemental resonances, it transforms into specialized elemental forms:
+当 Wild Mana (狂野魔力)被净化和提炼时，它会变成 **Base Mana** (基础魔力)—— magical energy (魔法能量)的稳定形式，所有 magical effects (魔法效果)都源于此。当这个基础魔力与特定的 elemental resonances (元素共鸣)对齐和协调时，它会转化为专门的 elemental forms (元素形式)：
 
-| Mana Type | Properties | Natural Affinity | Musical Analogy |
+| Mana Type (魔力类型) | Properties (属性) | Natural Affinity (自然亲和力) | Musical Analogy (音乐类比) |
 |---------|------------|---------|----------|
-| **Wild Mana** | Chaotic, primordial, untamed | Creatures of chaos, natural world | Unstructured sound |
-| **Base Mana** | Neutral, adaptable, receptive | Humans, balanced beings | Unpitched percussion |
-| **Pyromana** | Intense, passionate, destructive | Dragonkin, Giants | Trumpet, high brass |
-| **Hydromana** | Flowing, healing, transformative | Merfolk, Sirens | Cello, flowing strings |
-| **Terramana** | Stable, enduring, protective | Dwarves, Centaurs | Bass, foundation notes |
-| **Aeromana** | Swift, changeable, far-reaching | Elves, Birdfolk | Flute, woodwinds |
-| **Luxmana** | Revealing, purifying, energizing | Fae, High Elves | Major key melodies |
-| **Umbramana** | Subtle, deceptive, penetrating | Shadowfolk, Dark Elves | Minor key melodies |
-| **Vitaemana** | Life-giving, growing, renewing | Beastfolk, Humans | Folk harmonies |
-| **Mortismana** | Decaying, transforming, conserving | Dark Elves, Shadowfolk | Dissonant harmonies |
+| **Wild Mana** (狂野魔力) | Chaotic (混乱的), primordial (原始的), untamed (未驯服的) | Creatures of chaos (混乱生物), natural world (自然世界) | Unstructured sound (无结构的声音) |
+| **Base Mana** (基础魔力) | Neutral (中性的), adaptable (适应性强的), receptive (易接受的) | Humans (人类), balanced beings (平衡生物) | Unpitched percussion (无音高打击乐) |
+| **Pyromana** | Intense (强烈的), passionate (充满激情的), destructive (破坏性的) | Dragonkin (龙族), Giants (巨人) | Trumpet (小号), high brass (高音铜管) |
+| **Hydromana** | Flowing (流动的), healing (治疗性的), transformative (变革性的) | Merfolk (美人鱼), Sirens (海妖) | Cello (大提琴), flowing strings (流动的弦乐) |
+| **Terramana** | Stable (稳定的), enduring (持久的), protective (保护性的) | Dwarves (矮人), Centaurs (半人马) | Bass (贝斯), foundation notes (基础音符) |
+| **Aeromana** | Swift (迅速的), changeable (多变的), far-reaching (影响深远的) | Elves (精灵), Birdfolk (鸟人) | Flute (长笛), woodwinds (木管乐器) |
+| **Luxmana** | Revealing (揭示性的), purifying (净化的), energizing (充满活力的) | Fae (仙灵), High Elves (高等精灵) | Major key melodies (大调旋律) |
+| **Umbramana** | Subtle (微妙的), deceptive (欺骗性的), penetrating (渗透性的) | Shadowfolk (影民), Dark Elves (黑暗精灵) | Minor key melodies (小调旋律) |
+| **Vitaemana** | Life-giving (赋予生命的), growing (生长的), renewing (更新的) | Beastfolk (兽人), Humans (人类) | Folk harmonies (民间和声) |
+| **Mortismana** | Decaying (腐烂的), transforming (转化的), conserving (保存的) | Dark Elves (黑暗精灵), Shadowfolk (影民) | Dissonant harmonies (不和谐的和声) |
 
-For detailed information on elemental mana types, see [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md).
+有关 elemental mana types (元素魔力类型)的详细信息，请参阅 [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md)。
 
-## Magical Resonance and Dissonance
+## Magical Resonance and Dissonance (魔法共鸣与不和谐)
 
-When multiple casters work together, their magic can either resonate (amplify) or create dissonance (interfere):
+当多个施法者一起工作时，他们的魔法可以产生共鸣（放大）或产生不和谐（干扰）：
 
-### Harmonic Casting
+### Harmonic Casting (和谐施法)
 
-When casters with compatible elemental compositions work together, they can achieve magical resonance:
-- Combined magical power exceeds the sum of individual contributions
-- Enhanced purity, intensity, or complexity depending on the casters' strengths
-- Extended duration and range of magical effects
+当具有兼容 elemental compositions (元素构成)的施法者一起工作时，他们可以实现 magical resonance (魔法共鸣)：
+- Combined magical power (组合魔法力量)超过个人贡献的总和
+- 根据施法者的优势，增强纯度、强度或复杂性
+- 延长 magical effects (魔法效果)的持续时间和范围
 
-### Dissonant Casting
+### Dissonant Casting (不和谐施法)
 
-When casters with incompatible compositions attempt to combine magic:
-- Unpredictable effects and magical instability
-- Increased mana consumption with diminished results
-- Potential for magical feedback causing harm to casters
+当具有不兼容构成的施法者试图结合魔法时：
+- 不可预测的 effects (效果)和 magical instability (魔法不稳定)
+- 增加 mana (魔力)消耗，效果降低
+- 可能会发生 magical feedback (魔法反馈)，对施法者造成伤害
 
-## Regeneration of Magical Energy
+## Regeneration of Magical Energy (魔法能量再生)
 
-After spellcasting depletes a practitioner's mana reserves, they must recover through rest and regeneration. The rate of regeneration depends on their Mana Capacity, training, and various environmental factors. For detailed information on regeneration techniques and methods, see [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md).
+在 spellcasting (施法)耗尽施法者的 mana (魔力)储备后，他们必须通过休息和再生来恢复。再生速度取决于他们的 Mana Capacity (魔力容量)、训练和各种 environmental factors (环境因素)。有关再生技术和方法的详细信息，请参阅 [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md)。
 
-## The Price of Magic
+## The Price of Magic (魔法的代价)
 
-All magic exacts a price from its practitioners:
+所有的魔法都会向其从业者索取代价：
 
-1. **Mana Depletion**: Casting depletes Mana Capacity, requiring rest to replenish. Severe depletion can cause exhaustion, unconsciousness, or even death.
+1. **Mana Depletion** (魔力耗尽): 施法会耗尽 Mana Capacity (魔力容量)，需要休息才能补充。严重的消耗会导致精疲力竭、失去知觉甚至死亡。
 
-2. **Physical Strain**: The body's Exanthis content limits how much magic can be channeled safely. Exceeding these limits causes physical damage.
+2. **Physical Strain** (身体压力): 身体的 Exanthis 含量限制了可以安全引导的魔法量。超过这些限制会导致身体损伤。
 
-3. **Mental Fatigue**: Complex or prolonged spellcasting taxes the mind, causing difficulty maintaining concentration and eventually mental exhaustion.
+3. **Mental Fatigue** (精神疲劳): 复杂或长时间的 spellcasting (施法)会给大脑带来压力，导致难以保持注意力，最终导致精神疲惫。
 
-4. **Soul Wear**: Frequent use of powerful magic gradually accelerates soul decay, potentially shortening lifespan.
+4. **Soul Wear** (灵魂磨损): 频繁使用强大的魔法会逐渐加速 soul decay (灵魂衰变)，可能会缩短寿命。
 
-5. **Wild Mana Contamination**: Insufficient purification can lead to Wild Mana contamination, causing unpredictable magical effects and potentially harming the caster over time.
+5. **Wild Mana Contamination** (狂野魔力污染): 不充分的 purification (净化)会导致 Wild Mana contamination (狂野魔力污染)，导致不可预测的 magical effects (魔法效果)，并可能随着时间的推移损害施法者。
 
-## Forbidden Magics
+## Forbidden Magics (禁忌魔法)
 
-Some magical practices are considered forbidden due to their dangerous nature:
+由于其危险性，某些魔法实践被认为是禁忌：
 
-1. **Soul Manipulation**: Directly altering or extracting Soul essence causes permanent damage to both subject and practitioner.
+1. **Soul Manipulation** (灵魂操纵): 直接改变或提取 Soul (灵魂)本质会对受试者和从业者造成永久性损害。
 
-2. **Exanthis Conversion**: Transforming Exanthis into pure magical energy yields immense power but causes irreversible physical degradation.
+2. **Exanthis Conversion** (Exanthis 转换): 将 Exanthis 转化为纯 magical energy (魔法能量)会产生巨大的力量，但会导致不可逆转的身体退化。
 
-3. **Void Channeling**: Drawing power from the spaces between reality creates unpredictable rifts and attracts dangerous entities.
+3. **Void Channeling** (虚空引导): 从现实之间的空间中汲取力量会产生不可预测的裂缝并吸引危险的实体。
 
-4. **Temporal Distortion**: Manipulating the flow of time creates paradoxes and weakens the fabric of reality.
+4. **Temporal Distortion** (时间扭曲): 操纵时间的流动会产生悖论并削弱现实的结构。
 
-5. **Wild Mana Amplification**: Deliberately increasing Wild Mana content in spells to boost power at the cost of control. Can lead to catastrophic magical surges and permanent corruption.
+5. **Wild Mana Amplification** (狂野魔力放大): 为了提高力量而故意增加 spells (法术)中的 Wild Mana (狂野魔力)含量，但以控制为代价。可能导致灾难性的 magical surges (魔法浪涌)和永久性腐败。
 
-Understanding the nature of **Magic** provides insight into the foundational forces of the world of **OpenFantasy**, like listening to the grand symphony that underlies all of creation, where each being contributes their unique part to the endless melody.
+理解 **Magic** (魔法)的本质可以深入了解 OpenFantasy 世界的基础力量，就像聆听构成所有创造的宏伟交响乐一样，每个生物都为这无尽的旋律贡献了自己独特的部分。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

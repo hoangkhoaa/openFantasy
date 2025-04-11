@@ -1,87 +1,91 @@
 # **OpenFantasy**
 
-> *"A world where magic follows logical principles, souls are measurable, and every being contributes to the grand symphony of existence."*
+> *"一个魔法遵循逻辑原则，灵魂可以被衡量，每个存在都为宏伟的存在交响曲做出贡献的世界。"*
 
-## Quick Navigation
+## 快速导航
 
-- [Logical Framework](#a-logical-framework-for-magic-systems)
-- [Core Elements](#core-elements)
-- [World Codex](#world-codex)
-- [The Future Vision](#the-future-vision)
-- [Collaboration](#open-source-collaboration)
+- [逻辑框架](#a-logical-framework-for-magic-systems)
+- [核心元素](#core-elements)
+- [世界法典](#world-codex)
+- [未来愿景](#the-future-vision)
+- [协作](#open-source-collaboration)
 
-## Overview
+## 概述
 
-OpenFantasy is a comprehensive fantasy world framework built on consistent principles and logical systems. Unlike many fantasy settings that suffer from inconsistent rules and power creep, OpenFantasy creates a foundation where magic, species, abilities, and environments all interact according to well-defined principles.
+OpenFantasy是一个建立在一致原则和逻辑系统之上的综合性奇幻世界框架。与许多规则不一致和力量蔓延的奇幻设定不同，OpenFantasy创造了一个基础，在这个基础上，魔法、物种、能力和环境都根据明确定义的原则进行互动。
 
-The world is defined by three fundamental components:
-- **Exanthis**: The physical foundation that provides structure and form
-- **Soul**: The spark of consciousness that provides will and identity
-- **Mana**: The magical energy that flows through all things
+这个世界由三个基本组成部分定义：
+- **Exanthis**: 提供结构和形式的物理基础
+- **Soul** (灵魂): 提供意志和身份的意识火花
+- **Mana** (魔法): 流动于万物之中的魔法能量
 
-Every creature, location, spell, and artifact in OpenFantasy emerges from the interaction of these three elements, creating a rich but internally consistent world.
+OpenFantasy中的每个生物、地点、咒语和神器都源于这三个元素的相互作用，创造了一个丰富但内在一致的世界。
 
-## A Logical Framework for Magic Systems
+## 魔法系统的逻辑框架
 
-Many fantasy worlds captivate us with their dreamlike qualities and depth, drawing readers into magnificent realms of wonder and adventure. However, as these stories progress, they often suffer from inconsistent magic systems that become increasingly illogical, predictable, or simply boring. Power creep sets in, rules are conveniently forgotten, and the once-enchanting world loses its coherence.
+许多奇幻世界以其梦幻般的品质和深度吸引着我们，将读者带入奇妙的奇迹和冒险领域。然而，随着这些故事的进展，它们经常遭受不一致的魔法系统的困扰，这些系统变得越来越不合逻辑、可预测或只是无聊。力量蔓延开始出现，规则被方便地忘记，曾经迷人的世界失去了连贯性。
 
-**OpenFantasy** addresses this fundamental problem by providing a logical framework for magical systems—a foundation built on consistent principles that creators can use to develop their worlds while maintaining internal consistency.
+**OpenFantasy** 通过为魔法系统提供一个逻辑框架来解决这个根本问题——一个建立在一致原则之上的基础，创作者可以使用它来开发他们的世界，同时保持内在一致性。
 
-## Core Elements
+## 核心元素
 
-At the heart of our framework lies a simple yet revolutionary understanding of two opposing forces:
+我们框架的核心在于对两种对立力量的简单而革命性的理解：
 
-| Element | Nature | Role in the World |
+| Element (元素) | Nature (本质) | Role in the World (在世界中的作用) |
 |---------|--------|-------------------|
-| **Mana** | Gaseous, omnipresent magical essence | Powers spells, enchants objects, fuels arcane wonders |
-| **Exanthis** | Dense, rare mineral | Disrupts mana, creates zones where magic falters or warps |
+| **Mana** (魔法) | 气体状，无处不在的魔法本质 | 为咒语提供动力，为物体附魔，为神秘的奇迹提供燃料 |
+| **Exanthis** | 稠密，稀有矿物 | 扰乱魔法，创造魔法失效或扭曲的区域 |
 
-These two forces exist in constant opposition, shaping civilizations, battles, and the very laws of magic. Their interaction creates a natural system of checks and balances, preventing any single power from dominating the world.
+这两种力量存在于持续的对立之中，塑造着文明、战斗和魔法的法则。它们的相互作用创造了一个自然的制衡系统，防止任何单一力量主宰世界。
 
-The third core element, **Soul**, provides consciousness and identity to beings, allowing them to harness and direct magical energies according to their will.
+第三个核心元素，**Soul** (灵魂)，为生物提供意识和身份，使它们能够根据自己的意愿利用和引导魔法能量。
 
-## World Codex
+## 世界法典
 
-The OpenFantasy world is documented in a comprehensive codex organized into key sections:
+OpenFantasy世界记录在一个全面的法典中，该法典被组织成关键部分：
 
-| Section | Content | Description |
+| Section (章节) | Content (内容) | Description (描述) |
 |---------|---------|-------------|
-| [**Basic**](/codex/Basic/) | Fundamental concepts | The core principles that govern the world |
-| [**Creatures**](/codex/Creatures/) | Species documentation | The diverse beings that inhabit the world |
-| [**Magics**](/codex/Magics/) | Magic systems, spells | The rules and manifestations of magical energy |
-| [**Classes**](/codex/Classes/) | Character paths | Specialized development frameworks for characters |
-| [**World**](/codex/World/) | Geography, history | The physical and cultural landscape |
-| [**Items**](/codex/Items/) | Objects, artifacts | Tools, weapons, and magical items |
+| [**Basic**](/codex/Basic/) | Fundamental concepts (基本概念) | The core principles that govern the world (支配世界的核心原则) |
+| [**Creatures**](/codex/Creatures/) | Species documentation (物种文档) | The diverse beings that inhabit the world (居住在这个世界上的各种生物) |
+| [**Magics**](/codex/Magics/) | Magic systems, spells (魔法系统，咒语) | The rules and manifestations of magical energy (魔法能量的规则和表现形式) |
+| [**Classes**](/codex/Classes/) | Character paths (角色路径) | Specialized development frameworks for characters (角色的专业开发框架) |
+| [**World**](/codex/World/) | Geography, history (地理，历史) | The physical and cultural landscape (物质和文化景观) |
+| [**Items**](/codex/Items/) | Objects, artifacts (物体，神器) | Tools, weapons, and magical items (工具，武器和魔法物品) |
 
-→ See the [Codex README](/codex/README.md) for detailed information about the world.
+→ 有关世界的详细信息，请参阅 [Codex README](/codex/README.md)。
 
-## The Future Vision
+## 未来愿景
 
-OpenFantasy is designed not just as a theoretical framework but as a foundation for immersive experiences. With the rapid advancement of artificial intelligence, virtual reality, and 3D generation technologies, we envision a future where this world can transcend traditional media:
+OpenFantasy的设计不仅是一个理论框架，而且是沉浸式体验的基础。随着人工智能、虚拟现实和 3D 生成技术的快速发展，我们设想未来这个世界可以超越传统媒体：
 
-- **AI-Generated Characters**: Beings with consistent personalities based on their elemental composition
-- **Dynamic VR Environments**: Worlds where magical rules function predictably and consistently
-- **Procedural Content**: New stories, quests, and adventures that respect the established framework
-- **Interactive Storytelling**: Narratives that adapt while maintaining the world's internal logic
+- **AI-Generated Characters** (人工智能生成的角色): 具有基于其元素组成的内在一致的个性
+- **Dynamic VR Environments** (动态VR环境): 魔法规则可以预测和一致地发挥作用的世界
+- **Procedural Content** (程序化内容): 尊重已建立框架的新故事、任务和冒险
+- **Interactive Storytelling** (互动式故事讲述): 在保持世界内在逻辑的同时进行调整的叙述
 
-As these technologies mature, the line between fiction and experience will blur, potentially bringing OpenFantasy to life as an explorable reality rather than merely a described world. The fundamental logical consistency of the framework makes it particularly well-suited for computational implementation and AI-driven development.
+随着这些技术的成熟，虚构和体验之间的界限将变得模糊，有可能将OpenFantasy变成一个可探索的现实，而不仅仅是一个描述的世界。该框架的基本逻辑一致性使其特别适合计算实现和人工智能驱动的开发。
 
-## Building Your World on Solid Foundations
+## 在坚实的基础上建立您的世界
 
-By incorporating the **OpenFantasy** framework into your worldbuilding, you gain access to:
+通过将 **OpenFantasy** 框架融入到您的世界构建中，您可以获得：
 
-- A logical system of power growth and limitations
-- Natural geographical power distributions
-- Built-in narrative tension through opposing forces
-- Coherent explanations for different races and their abilities
-- A systematic approach to magical development
+- 一种逻辑的力量增长和限制系统
+- 自然的地理力量分布
+- 通过对立力量构建的叙事张力
+- 对不同种族及其能力的连贯解释
+- 一种系统的魔法开发方法
 
-## Open Source Collaboration
+## 开源协作
 
-**OpenFantasy** is an open source project, and we welcome contributions from the community. Whether you're expanding the lore, building new applications of the system, or developing stories within this framework, your input helps this world grow.
+**OpenFantasy** 是一个开源项目，我们欢迎社区的贡献。无论您是在扩展传说、构建该系统的新应用程序，还是在该框架内开发故事，您的投入都有助于这个世界的成长。
 
-Join us in creating fantasy worlds where magic remains wondrous throughout the story—without sacrificing logical consistency or narrative tension.
+加入我们，共同创造奇幻世界，让魔法在整个故事中保持奇妙——而不牺牲逻辑一致性或叙事张力。
 
 ---
 
-*To contribute, please see our [contribution guidelines](CONTRIBUTING.md) or join the discussion in our [community forums](https://openfantasy.forum).*
+*要做出贡献，请参阅我们的 [贡献指南](CONTRIBUTING.md) 或加入我们的 [社区论坛](https://openfantasy.forum) 中的讨论。*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

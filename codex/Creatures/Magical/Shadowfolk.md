@@ -1,105 +1,109 @@
-# **Shadowfolk**: The Mysterious Dwellers of Darkness
+# **Shadowfolk**（暗影族）: 神秘的黑暗居民
 
-[**Shadowfolk**](/codex/Creatures/Shadowfolk.md) are the mysterious dwellers of darkness, their bodies a shadowy harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a haunting bassoon, they resonate most strongly with the shadows and darkness, creating a unique melody of existence that bridges the light and dark realms.
+[**Shadowfolk**](/codex/Creatures/Shadowfolk.md)（暗影族）是神秘的黑暗居民，他们的身体是由 [**Exanthis**](/codex/Basic/Exanthis.md)（以太水晶）、[**Souls**](/codex/Basic/Soul.md)（灵魂）和 **Mana Capacity**（魔力容量）组成的影子般的和谐体。 就像一架令人难忘的巴松管，他们与影子和黑暗产生最强烈的共鸣，创造出一种独特的生命旋律，连接着光明和黑暗的领域。
 
-## Elemental Composition
+## Elemental Composition（元素构成）
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **shadowfolk** forms a harmony that favors magical potential:
+正如 [Creatures](/codex/Creatures/Creatures.md)（生物）中所详述的，**shadowfolk**（暗影族）的典型比例形成了一种有利于魔法潜力的和谐：
 
-| Element | Range | Function |
+| Element（元素） | Range（范围） | Function（功能） |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 30-50% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 30-50% | The bridge between worlds that enables significant magical potential |
+| **Exanthis**（以太水晶） | 15-30% | 这种结晶之心提供了最小的物理强度和耐久性 |
+| **Soul**（灵魂） | 30-50% | 这种虚无缥缈的本质塑造了一种流动且适应性强的意识 |
+| **Mana Capacity**（魔力容量） | 30-50% | 连接世界的桥梁，能够实现显著的魔法潜力 |
 
-This composition grants **shadowfolk** their characteristic shadowy abilities but typically limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+这种构成赋予了 **shadowfolk**（暗影族）他们特有的影子能力，但通常限制了他们与其他物种相比的物理韧性，就像一件精致的乐器，可以发出优美的声音，但必须小心处理。
 
-### Individual Variations
+### Individual Variations（个体差异）
 
-While the model composition represents the typical shadowfolk, individual variations exist:
+虽然模型构成代表了典型的暗影族，但个体差异仍然存在：
 
-- **Void Walkers**: Some shadowfolk possess unusually high Mana Capacity (up to 60%) and low Exanthis (15%), allowing them to manipulate the very fabric of shadows and even travel between shadow realms.
-- **Shadow Blades**: A specialized variant with enhanced Exanthis levels (35%) serves as protectors and assassins, maintaining significant magical ability (35% Mana Capacity) while gaining physical prowess.
-- **Soul Seers**: Those with higher Soul percentages (up to 55%) develop extraordinary perception and wisdom, often becoming seers, prophets, or spiritual leaders who can glimpse truths hidden in darkness.
-- **Twilight Mediators**: Balanced shadowfolk (25% Exanthis, 40% Soul, 35% Mana Capacity) often serve as diplomats between shadowfolk clans and other species, having enough empathy to understand others while maintaining shadowy abilities.
-- **Darkness Shapers**: Specialized shadowfolk with composition of (20% Exanthis, 30% Soul, 50% Mana Capacity) are masters of shadow manipulation, able to create elaborate constructs and illusions from darkness itself.
+- **Void Walkers**（虚空行者）：一些暗影族拥有异常高的 Mana Capacity（魔力容量）（高达 60%）和较低的 Exanthis（以太水晶）（15%），使他们能够操纵影子的结构，甚至在影子领域之间旅行。
+- **Shadow Blades**（暗影之刃）：一种特殊的变体，具有增强的 Exanthis（以太水晶）水平（35%），充当保护者和刺客，保持显著的魔法能力（35% Mana Capacity（魔力容量）），同时获得物理能力。
+- **Soul Seers**（灵魂先知）：那些具有较高 Soul（灵魂）百分比（高达 55%）的人会发展出非凡的感知力和智慧，经常成为先知、预言家或精神领袖，他们可以瞥见隐藏在黑暗中的真理。
+- **Twilight Mediators**（暮光调解者）：平衡的暗影族（25% Exanthis（以太水晶），40% Soul（灵魂），35% Mana Capacity（魔力容量））通常充当暗影族氏族和其他物种之间的外交官，他们有足够的同情心去理解他人，同时保持影子能力。
+- **Darkness Shapers**（黑暗塑形者）：特殊的暗影族，其组成为 (20% Exanthis（以太水晶），30% Soul（灵魂），50% Mana Capacity（魔力容量）) 是影子操纵大师，能够用黑暗本身创造出精巧的结构和幻象。
 
-## Physical Characteristics
+## Physical Characteristics（身体特征）
 
-**Shadowfolk** are known for their ethereal appearance and shadowy nature:
-- Tall and slender, with proportions that seem to defy reality
-- Eyes that glow with inner darkness, reflecting their connection to shadow magic
-- Skin that seems to absorb light, creating a shadowy aura around them
-- Hair that flows with an otherworldly grace, often in shades of black, purple, or deep blue
-- Ability to blend into shadows, making them difficult to see in low light
-- Presence that seems to dim the light around them, like a shadow passing over the sun
+**Shadowfolk**（暗影族）以其飘渺的外表和影子般的本性而闻名：
+- 高大而苗条，比例似乎违背了现实
+- 眼睛闪烁着内在的黑暗，反映了他们与影子魔法的联系
+- 皮肤似乎吸收了光线，在他们周围营造出一种阴影般的氛围
+- 头发以一种超凡脱俗的优雅流动，通常是黑色、紫色或深蓝色
+- 能够融入阴影中，使他们在弱光下难以看到
+- 他们的存在似乎使周围的光线变暗，就像一道阴影掠过太阳
 
-## Magical Affinity
+## Magical Affinity（魔法亲和力）
 
-**Shadowfolk** demonstrate exceptional proficiency in shadow magic and stealth, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Manipulate shadows and darkness with extraordinary precision, like conductors of the night's symphony
-- Create illusions through the manipulation of light and shadow, like artists painting with darkness
-- Move silently and unseen through the shadows, like ghosts passing through the night
+**Shadowfolk**（暗影族）在影子魔法和隐身方面表现出非凡的熟练程度，就像掌握了乐器的大师级音乐家。 他们的构成使他们能够：
+- 以非凡的精度操纵阴影和黑暗，就像夜晚交响乐的指挥家
+- 通过操纵光线和阴影来创造幻象，就像用黑暗作画的艺术家
+- 在阴影中无声无息地移动，就像幽灵穿过夜晚
 
-This specialization makes **shadowfolk** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+这种专业化使 **shadowfolk**（暗影族）能够在他们选择的魔法传统中达到最高的熟练程度，但他们可能难以完成需要物理力量或韧性的任务，就像一件精致的乐器，可以发出优美的声音，但无法承受粗暴的处理。
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay（寿命和灵魂衰退）
 
-The **soul decay** timeline for **shadowfolk**, from birth to complete decay, is approximately 600 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+**shadowfolk**（暗影族）的 **soul decay**（灵魂衰退）时间线，从出生到完全衰退，大约为 600 年，就像一团缓慢燃烧的火焰，照亮了岁月。 这种延长的寿命使他们能够：
+- 在几个世纪里积累广博的知识和智慧
+- 与特定地点和魔法传统建立深厚的联系
+- 形成具有复杂习俗和仪式的复杂社会
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+然而，他们较慢的灵魂衰退也意味着他们比其他物种变化和适应得更慢，就像一首美丽但历久不变的旋律。
 
-## Habitat and Distribution
+## Habitat and Distribution（栖息地和分布）
 
-**Shadowfolk** primarily inhabit:
-- Dark forests and shadowy groves, where they can be closest to the shadows
-- Underground cities and caverns, where they can control the light
-- Magical realms where the boundaries between light and dark grow thin
-- Strategic locations that provide access to both light and shadow
+**Shadowfolk**（暗影族）主要居住在：
+- 黑暗的森林和阴影笼罩的树林，在那里他们可以最接近阴影
+- 地下城市和洞穴，在那里他们可以控制光线
+- 光明与黑暗之间的界限变得模糊的魔法领域
+- 提供光明和阴影战略通道的地点
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+这些地点为魔法研究和精神冥想提供了理想的环境，就像交响乐的完美音响效果。
 
-## Cultural Impact
+## Cultural Impact（文化影响）
 
-In the world of **OpenFantasy**, **shadowfolk** play a crucial role in preserving ancient magical traditions and maintaining the balance between light and dark, like weavers of shadowy melodies. Their societies are centers of:
-- Shadow magic and stealth techniques
-- Philosophical contemplation and spiritual wisdom
-- Artistic expression and aesthetic refinement
+在 **OpenFantasy** 的世界中，**shadowfolk**（暗影族）在保护古代魔法传统和维持光明与黑暗之间的平衡方面发挥着关键作用，就像阴影旋律的编织者。 他们的社会是以下内容的中心：
+- 影子魔法和隐身技术
+- 哲学沉思和精神智慧
+- 艺术表达和审美提升
 
-The connection to shadows has shaped shadowfolk culture around the study and mastery of darkness, creating a society where magical ability and wisdom are highly valued.
+与影子的联系塑造了暗影族文化，围绕着对黑暗的研究和掌握，创造了一个高度重视魔法能力和智慧的社会。
 
-## Relationship with Other Species
+## Relationship with Other Species（与其他物种的关系）
 
-**Shadowfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and caution, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for magic and wisdom
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Fae**: A wary relationship, as shadowfolk are less susceptible to fae enchantments
+**Shadowfolk**（暗影族）与其他物种保持着复杂的关系：
+- 与 [**Humans**](/codex/Creatures/Human.md)（人类）：一种着迷和谨慎的混合体，经常导致复杂的互动
+- 与 **Elves**（精灵）：基于对魔法和智慧的共同欣赏的深刻联系
+- 与 **Dwarves**（矮人）：一种尊重的距离，承认他们的工艺，但发现他们的生活方式很奇怪
+- 与 **Fae**（妖精）：一种谨慎的关系，因为暗影族不太容易受到妖精的魅惑
 
-These relationships are often characterized by a sense of cultural superiority, as **shadowfolk** view themselves as the true children of darkness and wisdom.
+这些关系的特点通常是一种文化上的优越感，因为 **shadowfolk**（暗影族）认为自己是黑暗和智慧的真正孩子。
 
-## Notable Shadowfolk Traits
+## Notable Shadowfolk Traits（著名的暗影族特征）
 
-- **Shadow Manipulation**: Shadowfolk excel in controlling and manipulating shadows and darkness
-- **Stealth Abilities**: Shadowfolk can move silently and unseen through the shadows
-- **Wisdom**: Shadowfolk possess deep knowledge and understanding of the mysteries of the universe
-- **Artistic Expression**: Shadowfolk have developed highly refined artistic and cultural traditions
-- **Philosophical Contemplation**: Shadowfolk place great emphasis on understanding the nature of existence
+- **Shadow Manipulation**（影子操纵）：暗影族擅长控制和操纵阴影和黑暗
+- **Stealth Abilities**（隐身能力）：暗影族可以在阴影中无声无息地移动
+- **Wisdom**（智慧）：暗影族拥有对宇宙奥秘的深刻知识和理解
+- **Artistic Expression**（艺术表达）：暗影族发展了高度精致的艺术和文化传统
+- **Philosophical Contemplation**（哲学沉思）：暗影族非常重视理解存在的本质
 
-## Shadowfolk Clans
+## Shadowfolk Clans（暗影族氏族）
 
-Shadowfolk society is organized into numerous clans, each with its own specialties and traditions:
+暗影族社会被组织成许多氏族，每个氏族都有自己的特长和传统：
 
-| Clan | Specialty | Territory | Notable Traits |
+| Clan（氏族） | Specialty（特长） | Territory（领地） | Notable Traits（显著特征） |
 |---------|---------------|---------|-------------------|
-| **Shadowweavers** | Shadow magic, illusion | Dark forests | Illusion abilities, shadow manipulation |
-| **Nightwalkers** | Stealth, assassination | Underground cities | Stealth abilities, assassination techniques |
-| **Darkphilosophers** | Knowledge, wisdom | Ancient libraries | Philosophical wisdom, ancient knowledge |
-| **Voidcallers** | Void magic, teleportation | Magical realms | Teleportation abilities, void manipulation |
-| **Twilightseekers** | Balance, harmony | Border regions | Balance magic, harmony techniques |
-| **Shadowartists** | Art, beauty | Artistic districts | Artistic abilities, aesthetic refinement |
+| **Shadowweavers**（暗影编织者） | 影子魔法、幻觉 | 黑暗森林 | 幻觉能力、影子操纵 |
+| **Nightwalkers**（夜行者） | 隐身、暗杀 | 地下城市 | 隐身能力、暗杀技巧 |
+| **Darkphilosophers**（黑暗哲学家） | 知识、智慧 | 古老的图书馆 | 哲学智慧、古代知识 |
+| **Voidcallers**（虚空召唤者） | 虚空魔法、传送 | 魔法领域 | 传送能力、虚空操纵 |
+| **Twilightseekers**（暮光追寻者） | 平衡、和谐 | 边界地区 | 平衡魔法、和谐技巧 |
+| **Shadowartists**（暗影艺术家） | 艺术、美 | 艺术区 | 艺术能力、审美提升 |
 
-Understanding the nature of **shadowfolk** provides insight into the shadowy aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the darkness. 
+理解 **shadowfolk**（暗影族）的本质可以深入了解 **OpenFantasy** 世界的阴暗面，就像聆听在黑暗中回荡的令人难忘的旋律。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
