@@ -1,235 +1,239 @@
-# **Resonants**: Harmonic Embodiments of Magical Symphony
+# **Resonants** (Các Cộng Hưởng): Hiện Thân Hài Hòa của Bản Giao Hưởng Ma Thuật
 
-> *"To hear a Resonant choir is to understand the true music of magic itself—every note a perfect expression of elemental harmony."* — Melodius Harpweaver, Master Bardic Mage
+> *"Nghe một Dàn Hợp Xướng Cộng Hưởng là hiểu được bản nhạc đích thực của chính ma thuật—mỗi nốt nhạc là một biểu hiện hoàn hảo của sự hài hòa nguyên tố."* — Melodius Harpweaver (Melodius Harpweaver), Bậc Thầy Pháp Sư Thi Sĩ
 
-## Quick Navigation
+## Điều Hướng Nhanh
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Cultural Aspects](#cultural-aspects)
-- [Species Relationships](#species-relationships)
+- [Thành Phần Nguyên Tố](#elemental-composition)
+- [Đặc Điểm Hình Thể](#physical-characteristics)
+- [Cảm Quan Ma Thuật](#magical-affinity)
+- [Môi Trường Sống và Phân Bố](#habitat-and-distribution)
+- [Khía Cạnh Văn Hóa](#cultural-aspects)
+- [Mối Quan Hệ Loài](#species-relationships)
 
-## Overview
+## Tổng quan
 
-Resonants are a rare and remarkable sentient species whose very bodies serve as living conduits for magical harmonics. Neither fully physical nor entirely magical, they exist in a state of perfect balance between material and magical realms. Their crystalline humanoid forms are composed of semi-transparent resonating tissues that naturally amplify and modulate magical energy. Born from the spontaneous coalescence of Base Mana around particularly harmonious magical frequencies, Resonants represent the living embodiment of magical theory's harmonic principles.
+Resonants (Các Cộng Hưởng) là một loài hữu tri giác quý hiếm và đáng chú ý, mà chính cơ thể của họ đóng vai trò là ống dẫn sống cho các sóng hài ma thuật. Không hoàn toàn là vật chất cũng không hoàn toàn là ma thuật, chúng tồn tại trong trạng thái cân bằng hoàn hảo giữa cõi vật chất và cõi ma thuật. Hình dạng người tinh thể của chúng bao gồm các mô cộng hưởng bán trong suốt, tự nhiên khuếch đại và điều chỉnh năng lượng ma thuật. Được sinh ra từ sự hợp nhất tự phát của Base Mana (Mana Gốc) xung quanh các tần số ma thuật đặc biệt hài hòa, Resonants (Các Cộng Hưởng) đại diện cho hiện thân sống động của các nguyên tắc hài hòa trong lý thuyết ma thuật.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-**Resonants** possess a distinctive elemental composition unlike other sentient beings:
+**Resonants** (Các Cộng Hưởng) sở hữu một thành phần nguyên tố đặc biệt khác với các sinh vật hữu tri giác khác:
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis (Exanthis) | Soul (Linh Hồn) | Mana Capacity (Dung Lượng Mana) | Representative Type (Loại Đại Diện) |
 |----------|------|---------------|---------------------|
-| 30-40% | 30-40% | 30-40% | Standard Resonant |
-| 40-50% | 25-35% | 20-30% | **Crystal Resonant** with enhanced physical durability |
-| 25-35% | 35-45% | 25-35% | **Harmonic Resonant** with enhanced musical ability |
-| 20-30% | 25-35% | 40-50% | **Arcane Resonant** with exceptional magical prowess |
+| 30-40% | 30-40% | 30-40% | Standard Resonant (Cộng Hưởng Tiêu Chuẩn) |
+| 40-50% | 25-35% | 20-30% | **Crystal Resonant** (Cộng Hưởng Tinh Thể) với độ bền vật lý tăng cường |
+| 25-35% | 35-45% | 25-35% | **Harmonic Resonant** (Cộng Hưởng Hài Hòa) với khả năng âm nhạc tăng cường |
+| 20-30% | 25-35% | 40-50% | **Arcane Resonant** (Cộng Hưởng Bí Thuật) với sức mạnh ma thuật đặc biệt |
 
-### Individual Variations
+### Các Biến Thể Cá Nhân
 
-Unlike most beings whose elemental composition remains relatively fixed throughout life, Resonants experience fluctuations based on their environment, emotional state, and magical activities. They naturally adjust their internal elemental balance to achieve optimal resonance with their surroundings, a trait that gives them extraordinary adaptability but can also make them vulnerable to magical disruptions. Their most unique trait is the perfect triangular balance between all three elemental components, allowing them to serve as ideal conduits for magical energy.
+Không giống như hầu hết các sinh vật có thành phần nguyên tố tương đối cố định trong suốt cuộc đời, Resonants (Các Cộng Hưởng) trải qua những biến động dựa trên môi trường, trạng thái cảm xúc và các hoạt động ma thuật của chúng. Chúng tự nhiên điều chỉnh sự cân bằng nguyên tố bên trong để đạt được sự cộng hưởng tối ưu với môi trường xung quanh, một đặc điểm mang lại cho chúng khả năng thích ứng phi thường nhưng cũng có thể khiến chúng dễ bị tổn thương trước những gián đoạn ma thuật. Đặc điểm độc đáo nhất của chúng là sự cân bằng hình tam giác hoàn hảo giữa cả ba thành phần nguyên tố, cho phép chúng đóng vai trò là ống dẫn lý tưởng cho năng lượng ma thuật.
 
-## Physical Characteristics
+## Đặc Điểm Hình Thể
 
-**Resonants** exhibit distinctive physical traits:
+**Resonants** (Các Cộng Hưởng) thể hiện những đặc điểm thể chất đặc biệt:
 
-| Characteristic | Description |
+| Characteristic (Đặc Điểm) | Description (Mô Tả) |
 |----------------|-------------|
-| **Height** | 5'6" - 6'6" (168-198 cm) |
-| **Weight** | 140-200 lbs (63-91 kg), lighter than their crystalline appearance suggests |
-| **Lifespan** | 200-300 years, with potential for extended periods of dormancy |
-| **Physical Maturity** | 25-30 years |
-| **Notable Features** | Semi-transparent crystalline body with internal luminescence, resonating chamber in chest |
+| **Height** (Chiều Cao) | 5'6" - 6'6" (168-198 cm) |
+| **Weight** (Cân Nặng) | 140-200 lbs (63-91 kg), nhẹ hơn so với vẻ ngoài tinh thể của chúng |
+| **Lifespan** (Tuổi Thọ) | 200-300 năm, với khả năng kéo dài thời gian ngủ đông |
+| **Physical Maturity** (Độ Tuổi Trưởng Thành Thể Chất) | 25-30 năm |
+| **Notable Features** (Đặc Điểm Nổi Bật) | Cơ thể tinh thể bán trong suốt với độ phát quang bên trong, khoang cộng hưởng trong ngực |
 
-### Appearance
+### Ngoại Hình
 
-- **Crystalline Structure**: Bodies composed of translucent, faceted tissue resembling living crystal
-- **Internal Luminescence**: Soft light emanates from within, color shifting with emotional state
-- **Resonating Chambers**: Hollow spaces within chest and head that amplify magical frequencies
-- **Minimal Features**: Simplified facial features with luminous eyes and subtle expressions
-- **Harmonic Patterns**: Intricate geometric patterns that flow across their surface, representing their personal harmonic signature
+- **Crystalline Structure** (Cấu Trúc Tinh Thể): Cơ thể bao gồm mô trong mờ, nhiều mặt giống như tinh thể sống
+- **Internal Luminescence** (Độ Phát Sáng Bên Trong): Ánh sáng dịu nhẹ phát ra từ bên trong, màu sắc thay đổi theo trạng thái cảm xúc
+- **Resonating Chambers** (Khoang Cộng Hưởng): Các khoảng trống bên trong ngực và đầu khuếch đại tần số ma thuật
+- **Minimal Features** (Đặc Điểm Tối Giản): Các đặc điểm khuôn mặt được đơn giản hóa với đôi mắt phát sáng và biểu cảm tinh tế
+- **Harmonic Patterns** (Hoa Văn Hài Hòa): Các hoa văn hình học phức tạp chảy trên bề mặt của chúng, đại diện cho chữ ký hài hòa cá nhân của chúng
 
-## Magical Affinity
+## Cảm Quan Ma Thuật
 
-**Resonants** demonstrate extraordinary proficiency in manipulating **Mana**:
+**Resonants** (Các Cộng Hưởng) thể hiện khả năng phi thường trong việc thao túng **Mana**:
 
-| Aspect | Capability |
+| Aspect (Khía Cạnh) | Capability (Khả Năng) |
 |--------|------------|
-| **Mana Storage** | Moderate capacity but exceptional efficiency (nearly 100% utilization) |
-| **Purification** | Extraordinary (natural 90%+ purity with minimal effort) |
-| **Specialization Efficiency** | Exceptional (can achieve 95%+ elemental conversion) |
-| **Natural Affinity** | Innate understanding of magical harmonics and resonance patterns |
+| **Mana Storage** (Lưu Trữ Mana) | Dung lượng vừa phải nhưng hiệu quả vượt trội (sử dụng gần 100%) |
+| **Purification** (Thanh Lọc) | Phi thường (độ tinh khiết tự nhiên 90%+ với nỗ lực tối thiểu) |
+| **Specialization Efficiency** (Hiệu Quả Chuyên Môn Hóa) | Đặc biệt (có thể đạt được chuyển đổi nguyên tố 95%+) |
+| **Natural Affinity** (Cảm Quan Tự Nhiên) | Hiểu biết bẩm sinh về sóng hài ma thuật và các kiểu cộng hưởng |
 
-### The Living Harmonic Model
+### Mô Hình Hài Hòa Sống
 
-Resonants physically embody the principles of magical harmonics described in [Magical Resonance](/codex/Magics/Core/BaseMana.md#magical-resonance) theory:
+Resonants (Các Cộng Hưởng) thể hiện về mặt vật lý các nguyên tắc của sóng hài ma thuật được mô tả trong lý thuyết [Magical Resonance](/codex/Magics/Core/BaseMana.md#magical-resonance) (Cộng Hưởng Ma Thuật):
 
-1. **Fundamental Frequency**: Each Resonant possesses a unique personal resonance frequency
-2. **Harmonic Overtones**: Can naturally generate and manipulate precise magical harmonics
-3. **Consonance Perception**: Instinctively understand compatible elemental combinations
-4. **Dissonance Sensitivity**: Physically pained by disharmonious magical patterns
+1. **Fundamental Frequency** (Tần Số Cơ Bản): Mỗi Resonant (Cộng Hưởng) sở hữu một tần số cộng hưởng cá nhân duy nhất
+2. **Harmonic Overtones** (Âm Bội Hài Hòa): Có thể tự nhiên tạo ra và thao túng các sóng hài ma thuật chính xác
+3. **Consonance Perception** (Tri Giác Hợp Âm): Hiểu một cách bản năng các tổ hợp nguyên tố tương thích
+4. **Dissonance Sensitivity** (Độ Nhạy Cảm Với Sự Bất Hòa): Bị đau đớn về thể xác bởi các kiểu ma thuật bất hòa
 
-### Magical Specializations
+### Các Chuyên Môn Hóa Ma Thuật
 
-While **Resonants** excel across all magical disciplines, they particularly thrive in:
+Trong khi **Resonants** (Các Cộng Hưởng) vượt trội trong tất cả các lĩnh vực ma thuật, họ đặc biệt phát triển mạnh trong:
 
-- **Harmonic Spellcraft**: Creating perfectly balanced patterns for maximum magical efficiency
-- **Elemental Synthesis**: Combining different elemental energies with unprecedented precision
-- **Resonance Healing**: Using harmonic vibrations to restore natural magical balance
-- **Pattern Stabilization**: Maintaining complex spell structures with extraordinary longevity
-- **Sound-based Magic**: Unparalleled mastery of magic that utilizes sound as a component
+- **Harmonic Spellcraft** (Thuật Phép Hài Hòa): Tạo ra các hoa văn cân bằng hoàn hảo để đạt được hiệu quả ma thuật tối đa
+- **Elemental Synthesis** (Tổng Hợp Nguyên Tố): Kết hợp các năng lượng nguyên tố khác nhau với độ chính xác chưa từng có
+- **Resonance Healing** (Chữa Lành Cộng Hưởng): Sử dụng các rung động hài hòa để khôi phục sự cân bằng ma thuật tự nhiên
+- **Pattern Stabilization** (Ổn Định Hoa Văn): Duy trì các cấu trúc phép thuật phức tạp với tuổi thọ phi thường
+- **Sound-based Magic** (Ma Thuật Dựa Trên Âm Thanh): Làm chủ vô song ma thuật sử dụng âm thanh như một thành phần
 
-### Unique Magical Traits
+### Đặc Điểm Ma Thuật Độc Đáo
 
-- **Harmonic Sight**: Perceive magical resonances visually as colors and patterns
-- **Frequency Attunement**: Can adjust their personal frequency to match environmental magic
-- **Pattern Memory**: Perfect recall of any spell pattern they have previously encountered
-- **Resonant Amplification**: Ability to magnify magical effects through bodily resonance chambers
-- **Wild Mana Harmonization**: Can temporarily stabilize Wild Mana through resonant frequencies
+- **Harmonic Sight** (Thị Giác Hài Hòa): Nhận biết các cộng hưởng ma thuật bằng hình ảnh dưới dạng màu sắc và hoa văn
+- **Frequency Attunement** (Điều Chỉnh Tần Số): Có thể điều chỉnh tần số cá nhân của chúng để phù hợp với ma thuật môi trường
+- **Pattern Memory** (Trí Nhớ Hoa Văn): Ghi nhớ hoàn hảo bất kỳ hoa văn phép thuật nào mà chúng đã từng gặp
+- **Resonant Amplification** (Khuếch Đại Cộng Hưởng): Khả năng khuếch đại các hiệu ứng ma thuật thông qua các khoang cộng hưởng cơ thể
+- **Wild Mana Harmonization** (Hài Hòa Mana Hoang Dã): Có thể tạm thời ổn định Wild Mana (Mana Hoang Dã) thông qua các tần số cộng hưởng
 
-## Habitat and Distribution
+## Môi Trường Sống và Phân Bố
 
-**Resonants** are exceedingly rare, with fewer than a thousand known to exist across the world:
+**Resonants** (Các Cộng Hưởng) cực kỳ hiếm, với ít hơn một nghìn cá thể được biết là tồn tại trên khắp thế giới:
 
-| Region | Settlement Type | Notable Features |
+| Region (Khu Vực) | Settlement Type (Loại Khu Định Cư) | Notable Features (Đặc Điểm Nổi Bật) |
 |--------|----------------|------------------|
-| **Harmonic Spires** | Primary Resonant community | Crystal towers built at major ley line convergence |
-| **Resonance Academies** | Small enclaves within magical institutions | Educational and research communities |
-| **Frequency Sanctuaries** | Isolated meditation retreats | Located at sites of natural harmonic magic |
-| **Wandering Harmonists** | Solitary or small traveling groups | Nomadic Resonants studying various magical traditions |
+| **Harmonic Spires** (Những Ngọn Tháp Hài Hòa) | Cộng đồng Resonant (Cộng Hưởng) chính | Các tòa tháp pha lê được xây dựng tại điểm hội tụ của các đường ley chính |
+| **Resonance Academies** (Học Viện Cộng Hưởng) | Các vùng đất nhỏ bên trong các tổ chức ma thuật | Cộng đồng giáo dục và nghiên cứu |
+| **Frequency Sanctuaries** (Khu Bảo Tồn Tần Số) | Các khu ẩn cư thiền định biệt lập | Nằm tại các địa điểm có ma thuật hài hòa tự nhiên |
+| **Wandering Harmonists** (Những Nhà Hài Hòa Lang Thang) | Các nhóm du hành đơn độc hoặc nhỏ | Resonants (Các Cộng Hưởng) du mục nghiên cứu các truyền thống ma thuật khác nhau |
 
-### Environment Sensitivity
+### Độ Nhạy Cảm Với Môi Trường
 
-Resonants thrive in environments with stable, harmonious magical fields. They find dissonant or chaotic magical areas physically painful and can become ill when exposed to corrupted magic or [Mana Blights](/codex/Creatures/Monsters/ManaBlight.md). Conversely, they experience profound well-being in places of exceptional magical harmony, such as ancient elven forests or properly maintained ritual sites.
+Resonants (Các Cộng Hưởng) phát triển mạnh trong môi trường có các trường ma thuật ổn định, hài hòa. Chúng cảm thấy đau đớn về thể xác ở những khu vực ma thuật bất hòa hoặc hỗn loạn và có thể bị bệnh khi tiếp xúc với ma thuật bị hỏng hoặc [Mana Blights](/codex/Creatures/Monsters/ManaBlight.md) (Bệnh Dịch Mana). Ngược lại, chúng trải qua sự hạnh phúc sâu sắc ở những nơi có sự hài hòa ma thuật đặc biệt, chẳng hạn như rừng tiên cổ hoặc các địa điểm nghi lễ được duy trì đúng cách.
 
-## Cultural Aspects
+## Khía Cạnh Văn Hóa
 
-The culture of **Resonants** is characterized by their unique relationship with magical harmonics:
+Văn hóa của **Resonants** (Các Cộng Hưởng) được đặc trưng bởi mối quan hệ độc đáo của chúng với sóng hài ma thuật:
 
-### Social Structure
+### Cấu Trúc Xã Hội
 
-Resonant society is organized around harmonic compatibility rather than traditional hierarchies:
+Xã hội Resonant (Cộng Hưởng) được tổ chức xung quanh khả năng tương thích hài hòa hơn là hệ thống phân cấp truyền thống:
 
-| Aspect | Details |
+| Aspect (Khía Cạnh) | Details (Chi Tiết) |
 |--------|---------|
-| **Government** | Harmonic Council of complementary frequency representatives |
-| **Family Units** | Resonance Clusters of harmonically compatible individuals |
-| **Leadership** | Based on harmonic complexity and ability to synthesize diverse patterns |
-| **Social Mobility** | Determined by development of one's unique resonance signature |
+| **Government** (Chính Phủ) | Harmonic Council (Hội Đồng Hài Hòa) gồm các đại diện tần số bổ sung |
+| **Family Units** (Đơn Vị Gia Đình) | Resonance Clusters (Cụm Cộng Hưởng) của các cá nhân tương thích hài hòa |
+| **Leadership** (Lãnh Đạo) | Dựa trên độ phức tạp hài hòa và khả năng tổng hợp các hoa văn đa dạng |
+| **Social Mobility** (Tính Di Động Xã Hội) | Được xác định bởi sự phát triển chữ ký cộng hưởng độc đáo của mỗi người |
 
-### Core Values
+### Các Giá Trị Cốt Lõi
 
-Most **Resonant** cultures share certain common values:
+Hầu hết các nền văn hóa **Resonant** (Cộng Hưởng) đều có chung một số giá trị chung:
 
-- **Harmonic Balance**: Seeking perfect equilibrium between all elements and forces
-- **Pattern Integrity**: Maintaining the purity and correct structure of magical patterns
-- **Resonant Diversity**: Celebrating the unique frequency signature of each individual
-- **Knowledge Preservation**: Recording and protecting magical patterns across generations
-- **Dissonance Resolution**: Finding harmony in seemingly incompatible elements
+- **Harmonic Balance** (Cân Bằng Hài Hòa): Tìm kiếm sự cân bằng hoàn hảo giữa tất cả các yếu tố và lực lượng
+- **Pattern Integrity** (Tính Toàn Vẹn Của Hoa Văn): Duy trì sự tinh khiết và cấu trúc chính xác của các hoa văn ma thuật
+- **Resonant Diversity** (Sự Đa Dạng Cộng Hưởng): Tôn vinh chữ ký tần số độc đáo của mỗi cá nhân
+- **Knowledge Preservation** (Bảo Tồn Kiến Thức): Ghi lại và bảo vệ các hoa văn ma thuật qua nhiều thế hệ
+- **Dissonance Resolution** (Giải Quyết Sự Bất Hòa): Tìm kiếm sự hài hòa trong các yếu tố dường như không tương thích
 
-### Resonant Music
+### Âm Nhạc Resonant
 
-At the center of Resonant culture lies their extraordinary musical tradition:
+Ở trung tâm của văn hóa Resonant (Cộng Hưởng) là truyền thống âm nhạc phi thường của họ:
 
-- **Frequency Choirs**: Groups who can produce perfect magical harmonics vocally
-- **Crystal Instrumentation**: Tools that amplify and modulate their natural resonance
-- **Pattern Songs**: Musical compositions that double as functional spell structures
-- **Harmonic Meditation**: Musical practices that enhance magical aptitude and control
-- **Historical Records**: Preserving knowledge through musical compositions rather than writing
+- **Frequency Choirs** (Dàn Hợp Xướng Tần Số): Các nhóm có thể tạo ra các sóng hài ma thuật hoàn hảo bằng giọng nói
+- **Crystal Instrumentation** (Nhạc Cụ Tinh Thể): Các công cụ khuếch đại và điều chỉnh cộng hưởng tự nhiên của chúng
+- **Pattern Songs** (Bài Hát Hoa Văn): Các tác phẩm âm nhạc hoạt động như các cấu trúc phép thuật chức năng
+- **Harmonic Meditation** (Thiền Định Hài Hòa): Các thực hành âm nhạc giúp tăng cường năng khiếu và khả năng kiểm soát ma thuật
+- **Historical Records** (Hồ Sơ Lịch Sử): Bảo tồn kiến thức thông qua các tác phẩm âm nhạc thay vì viết
 
-### Common Occupations
+### Các Nghề Nghiệp Phổ Biến
 
-Popular professions among **Resonants** include:
+Các ngành nghề phổ biến trong số **Resonants** (Các Cộng Hưởng) bao gồm:
 
-- **Harmonic Mages**: Specialists in resonance-based spellcasting
-- **Pattern Architects**: Designers of new spell structures based on harmonic principles
-- **Resonance Healers**: Practitioners who restore magical and physical balance
-- **Frequency Scholars**: Researchers studying the fundamental principles of magical harmonics
-- **Wild Mana Stabilizers**: Specialists in harmonizing chaotic magical environments
+- **Harmonic Mages** (Pháp Sư Hài Hòa): Các chuyên gia về thuật phù phép dựa trên cộng hưởng
+- **Pattern Architects** (Kiến Trúc Sư Hoa Văn): Các nhà thiết kế các cấu trúc phép thuật mới dựa trên các nguyên tắc hài hòa
+- **Resonance Healers** (Người Chữa Lành Cộng Hưởng): Các học viên khôi phục sự cân bằng ma thuật và thể chất
+- **Frequency Scholars** (Học Giả Tần Số): Các nhà nghiên cứu nghiên cứu các nguyên tắc cơ bản của sóng hài ma thuật
+- **Wild Mana Stabilizers** (Người Ổn Định Mana Hoang Dã): Các chuyên gia trong việc hài hòa các môi trường ma thuật hỗn loạn
 
-## Species Relationships
+## Mối Quan Hệ Loài
 
-**Resonants** interact with other species in distinctive ways:
+**Resonants** (Các Cộng Hưởng) tương tác với các loài khác theo những cách đặc biệt:
 
-| Species | Relationship | Notable Interactions |
+| Species (Loài) | Relationship (Mối Quan Hệ) | Notable Interactions (Tương Tác Đáng Chú Ý) |
 |---------|--------------|----------------------|
-| **Elves** | Deep Respect | Exchange of magical knowledge, mutual appreciation of harmony |
-| **Humans** | Cautious Mentorship | Teaching harmonic principles to gifted human mages |
-| **Fae** | Natural Understanding | Recognition of shared connection to magical fundamentals |
-| **Mana Wisps** | Symbiotic | Direct communication through resonant frequencies |
-| **Dwarves** | Respectful Distance | Appreciation for dwarven crystal crafting, difficulty with earth-bound pragmatism |
-| **Shadowfolk** | Uncomfortable Tension | Fundamental dissonance between their magical natures |
+| **Elves** (Tiên) | Deep Respect (Sự Tôn Trọng Sâu Sắc) | Trao đổi kiến thức ma thuật, đánh giá cao lẫn nhau về sự hài hòa |
+| **Humans** (Con Người) | Cautious Mentorship (Sự Cố Vấn Thận Trọng) | Dạy các nguyên tắc hài hòa cho các pháp sư loài người tài năng |
+| **Fae** (Tiên Linh) | Natural Understanding (Sự Thấu Hiểu Tự Nhiên) | Nhận ra mối liên hệ chung với các nguyên tắc cơ bản của ma thuật |
+| **Mana Wisps** (Mana Wisps) | Symbiotic (Cộng Sinh) | Giao tiếp trực tiếp thông qua các tần số cộng hưởng |
+| **Dwarves** (Người Lùn) | Respectful Distance (Khoảng Cách Tôn Trọng) | Đánh giá cao nghề thủ công tinh thể của người lùn, khó khăn với chủ nghĩa thực dụng gắn liền với đất |
+| **Shadowfolk** (Người Bóng Tối) | Uncomfortable Tension (Căng Thẳng Khó Chịu) | Sự bất hòa cơ bản giữa bản chất ma thuật của chúng |
 
-### Diplomatic Approach
+### Phương Pháp Ngoại Giao
 
-Resonant diplomatic approaches typically emphasize:
+Các phương pháp ngoại giao Resonant (Cộng Hưởng) thường nhấn mạnh:
 
-- **Frequency Matching**: Adapting their communication style to resonate with other cultures
-- **Dissonance Resolution**: Mediating conflicts by finding underlying harmonic patterns
-- **Pattern Recognition**: Identifying commonalities between seemingly disparate viewpoints
-- **Amplification of Harmony**: Strengthening existing points of agreement and cooperation
+- **Frequency Matching** (Khớp Tần Số): Điều chỉnh phong cách giao tiếp của chúng để cộng hưởng với các nền văn hóa khác
+- **Dissonance Resolution** (Giải Quyết Sự Bất Hòa): Hòa giải các xung đột bằng cách tìm kiếm các hoa văn hài hòa tiềm ẩn
+- **Pattern Recognition** (Nhận Biết Hoa Văn): Xác định những điểm chung giữa các quan điểm dường như khác biệt
+- **Amplification of Harmony** (Khuếch Đại Sự Hài Hòa): Tăng cường các điểm đồng thuận và hợp tác hiện có
 
-## Notable Traits
+## Các Đặc Điểm Đáng Chú Ý
 
-**Resonants** are characterized by several distinctive traits:
+**Resonants** (Các Cộng Hưởng) được đặc trưng bởi một số đặc điểm riêng biệt:
 
-### Strengths
+### Điểm Mạnh
 
-- **Pattern Perfection**: Unmatched precision in spell structure creation
-- **Harmonic Perception**: Ability to "hear" the resonant frequencies of all magic
-- **Mana Efficiency**: Nearly 100% utilization of magical energy
-- **Adaptation**: Can adjust their personal frequency to match different magical environments
-- **Longevity**: Extended lifespan and ability to enter dormant crystal states
+- **Pattern Perfection** (Sự Hoàn Hảo Của Hoa Văn): Độ chính xác vô song trong việc tạo ra cấu trúc phép thuật
+- **Harmonic Perception** (Tri Giác Hài Hòa): Khả năng "nghe" tần số cộng hưởng của tất cả ma thuật
+- **Mana Efficiency** (Hiệu Quả Mana): Sử dụng gần 100% năng lượng ma thuật
+- **Adaptation** (Khả Năng Thích Ứng): Có thể điều chỉnh tần số cá nhân của chúng để phù hợp với các môi trường ma thuật khác nhau
+- **Longevity** (Tuổi Thọ): Tuổi thọ kéo dài và khả năng đi vào trạng thái tinh thể ngủ đông
 
-### Challenges
+### Thách Thức
 
-- **Dissonance Sensitivity**: Physical pain from exposure to disharmonious magic
-- **Limited Reproduction**: New Resonants form rarely, only under specific harmonic conditions
-- **Crystal Vulnerability**: Physical form can shatter under extreme stress
-- **Emotional Amplification**: Feelings can create unintended magical resonances
-- **Cultural Isolation**: Difficulty relating to non-harmonic perspectives
+- **Dissonance Sensitivity** (Độ Nhạy Cảm Với Sự Bất Hòa): Đau đớn về thể xác khi tiếp xúc với ma thuật bất hòa
+- **Limited Reproduction** (Sinh Sản Hạn Chế): Resonants (Các Cộng Hưởng) mới hình thành rất hiếm, chỉ trong những điều kiện hài hòa cụ thể
+- **Crystal Vulnerability** (Tính Dễ Bị Tổn Thương Của Tinh Thể): Hình dạng vật lý có thể vỡ tan dưới áp lực cực độ
+- **Emotional Amplification** (Khuếch Đại Cảm Xúc): Cảm xúc có thể tạo ra các cộng hưởng ma thuật không mong muốn
+- **Cultural Isolation** (Sự Cô Lập Văn Hóa): Khó khăn trong việc liên hệ với các quan điểm phi hài hòa
 
-## Magical Theory Applications
+## Các Ứng Dụng Lý Thuyết Ma Thuật
 
-The existence of Resonants provides invaluable insights into magical theory:
+Sự tồn tại của Resonants (Các Cộng Hưởng) cung cấp những hiểu biết vô giá về lý thuyết ma thuật:
 
-### Phase Conversion Amplification
+### Khuếch Đại Chuyển Đổi Pha
 
-Resonants demonstrate an enhanced version of the standard two-phase mana conversion process:
+Resonants (Các Cộng Hưởng) thể hiện một phiên bản nâng cao của quy trình chuyển đổi mana hai pha tiêu chuẩn:
 
-1. **Phase 1 (Wild → Base)**: Achieve nearly 100% conversion efficiency
-2. **Resonant Amplification**: Unique intermediate phase that purifies Base Mana
-3. **Phase 2 (Base → Elemental)**: Achieve extraordinarily precise elemental specialization
+1. **Phase 1 (Wild → Base)** (Pha 1 (Hoang Dã → Gốc)): Đạt được hiệu quả chuyển đổi gần 100%
+2. **Resonant Amplification** (Khuếch Đại Cộng Hưởng): Pha trung gian duy nhất giúp thanh lọc Base Mana (Mana Gốc)
+3. **Phase 2 (Base → Elemental)** (Pha 2 (Gốc → Nguyên Tố)): Đạt được chuyên môn hóa nguyên tố cực kỳ chính xác
 
-### The Harmonic Spellcasting Model
+### Mô Hình Thuật Phù Phép Hài Hòa
 
-Resonants have developed a specialized approach to magic based on musical principles:
+Resonants (Các Cộng Hưởng) đã phát triển một phương pháp tiếp cận chuyên biệt đối với ma thuật dựa trên các nguyên tắc âm nhạc:
 
-1. **Frequency Identification**: Determining the precise resonant frequency of the desired effect
-2. **Harmonic Construction**: Building the spell pattern using mathematical harmonic relationships
-3. **Resonant Amplification**: Using bodily chambers to amplify and stabilize the pattern
-4. **Frequency Modulation**: Fine-tuning the spell through precise harmonic adjustments
+1. **Frequency Identification** (Xác Định Tần Số): Xác định tần số cộng hưởng chính xác của hiệu ứng mong muốn
+2. **Harmonic Construction** (Xây Dựng Hài Hòa): Xây dựng hoa văn phép thuật bằng các mối quan hệ hài hòa toán học
+3. **Resonant Amplification** (Khuếch Đại Cộng Hưởng): Sử dụng các khoang cơ thể để khuếch đại và ổn định hoa văn
+4. **Frequency Modulation** (Điều Chế Tần Số): Tinh chỉnh phép thuật thông qua các điều chỉnh hài hòa chính xác
 
-### Specialized Casting Tools
+### Các Công Cụ Thi triển Chuyên Dụng
 
-Resonants craft and use unique magical implements:
+Resonants (Các Cộng Hưởng) chế tạo và sử dụng các dụng cụ ma thuật độc đáo:
 
-- **Tuning Forks**: Precision tools for establishing fundamental frequencies
-- **Resonance Chambers**: External amplifiers that extend their bodily capabilities
-- **Harmonic Crystals**: Storage devices for complex magical patterns
-- **Frequency Wands**: Tools for projecting precise magical harmonics
+- **Tuning Forks** (Âm Thoas): Các công cụ chính xác để thiết lập các tần số cơ bản
+- **Resonance Chambers** (Khoang Cộng Hưởng): Bộ khuếch đại bên ngoài mở rộng khả năng cơ thể của chúng
+- **Harmonic Crystals** (Tinh Thể Hài Hòa): Thiết bị lưu trữ cho các hoa văn ma thuật phức tạp
+- **Frequency Wands** (Đũa Phép Tần Số): Các công cụ để chiếu các sóng hài ma thuật chính xác
 
-## Historical Origins
+## Nguồn Gốc Lịch Sử
 
-The origins of Resonants remain partially mysterious, but scholars have identified three possible creation theories:
+Nguồn gốc của Resonants (Các Cộng Hưởng) vẫn còn một phần bí ẩn, nhưng các học giả đã xác định ba lý thuyết về sự sáng tạo có thể xảy ra:
 
-1. **Crystallization Theory**: Spontaneous formation from perfectly balanced magical fields
-2. **Ascension Theory**: Evolution of mages who achieved perfect harmonic mastery
-3. **Harmonic Design Theory**: Deliberate creation by ancient magical civilizations seeking perfect magical vessels
+1. **Crystallization Theory** (Lý Thuyết Kết Tinh): Sự hình thành tự phát từ các trường ma thuật cân bằng hoàn hảo
+2. **Ascension Theory** (Lý Thuyết Thăng Hoa): Sự tiến hóa của các pháp sư đã đạt được sự làm chủ hài hòa hoàn hảo
+3. **Harmonic Design Theory** (Lý Thuyết Thiết Kế Hài Hòa): Sự sáng tạo có chủ ý của các nền văn minh ma thuật cổ đại tìm kiếm các bình chứa ma thuật hoàn hảo
 
-Most Resonants themselves subscribe to the Crystallization Theory, believing they represent the natural emergence of consciousness from perfectly balanced magical harmony.
+Hầu hết Resonants (Các Cộng Hưởng) đều ủng hộ Crystallization Theory (Lý Thuyết Kết Tinh), tin rằng chúng đại diện cho sự xuất hiện tự nhiên của ý thức từ sự hài hòa ma thuật cân bằng hoàn hảo.
 
 ---
 
-> Understanding the **Resonants** provides profound insight into the fundamental principles of magical harmonics and the living potential of perfectly balanced elemental composition. Their existence serves as both proof and exemplar of the harmonic theories that underpin all magical practice in OpenFantasy. 
+> Hiểu về **Resonants** (Các Cộng Hưởng) cung cấp cái nhìn sâu sắc về các nguyên tắc cơ bản của sóng hài ma thuật và tiềm năng sống của thành phần nguyên tố cân bằng hoàn hảo. Sự tồn tại của chúng vừa là bằng chứng vừa là ví dụ điển hình cho các lý thuyết hài hòa làm nền tảng cho tất cả các thực hành ma thuật trong OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

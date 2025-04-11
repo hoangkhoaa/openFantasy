@@ -1,42 +1,42 @@
-# **Mana Mechanics**: The Technical Foundations of Spellcasting
+# **Mana Mechanics (Cơ Chế Mana)**: The Technical Foundations of Spellcasting (Nền Tảng Kỹ Thuật của Việc Thi Triển Phép Thuật)
 
-In the world of OpenFantasy, successful spellcasting depends on the delicate interplay between a caster's Mana Capacity, their ability to achieve sufficient Mana Purity, and the specific Mana Type requirements of a spell. This technical foundation determines which spells a practitioner can reliably cast and explains why magical training progresses through increasingly complex and demanding workings.
+In the world of OpenFantasy, successful spellcasting (thi triển phép thuật thành công) depends on the delicate interplay between a caster's Mana Capacity (Dung Lượng Mana), their ability to achieve sufficient Mana Purity (Độ Tinh Khiết Mana), and the specific Mana Type (Loại Mana) requirements of a spell. This technical foundation determines which spells a practitioner can reliably cast and explains why magical training progresses through increasingly complex and demanding workings.
 
-## Mana Capacity and Spell Casting
+## Mana Capacity (Dung Lượng Mana) and Spell Casting (Thi Triển Phép Thuật)
 
-A being's Mana Capacity represents their innate ability to hold and channel magical energy. This elemental component has several critical influences on spellcasting ability:
+A being's Mana Capacity (Dung Lượng Mana) represents their innate ability to hold and channel magical energy (năng lượng phép thuật). This elemental component has several critical influences on spellcasting ability:
 
-### Storage Capacity
+### Storage Capacity (Dung Lượng Lưu Trữ)
 
-| Mana Capacity | Maximum Mana Volume | Practical Effect |
+| Mana Capacity (Dung Lượng Mana) | Maximum Mana Volume (Thể Tích Mana Tối Đa) | Practical Effect (Hiệu Quả Thực Tế) |
 |---------------|---------------------|------------------|
-| 5-15% | Very Low | Can cast only the simplest spells, quickly depleted |
-| 15-30% | Low | Can handle basic spells and limited casting sessions |
-| 30-50% | Moderate | Can manage intermediate spells and moderate duration |
-| 50-70% | High | Can cast advanced spells and maintain multiple effects |
-| 70-85% | Very High | Can handle complex magical workings and extended sessions |
-| 85%+ | Exceptional | Can cast legendary spells and maintain persistent effects |
+| 5-15% | Rất thấp | Chỉ có thể thi triển những phép đơn giản nhất, cạn kiệt nhanh chóng |
+| 15-30% | Thấp | Có thể xử lý các phép cơ bản và các buổi thi triển giới hạn |
+| 30-50% | Vừa phải | Có thể quản lý các phép trung cấp và thời gian vừa phải |
+| 50-70% | Cao | Có thể thi triển các phép nâng cao và duy trì nhiều hiệu ứng |
+| 70-85% | Rất cao | Có thể xử lý các thao tác phép thuật phức tạp và các buổi kéo dài |
+| 85%+ | Đặc biệt | Có thể thi triển các phép huyền thoại và duy trì các hiệu ứng dai dẳng |
 
-### Regeneration Rate
+### Regeneration Rate (Tốc Độ Phục Hồi)
 
-Mana Capacity also determines how quickly a caster recovers their magical energy:
+Mana Capacity (Dung Lượng Mana) also determines how quickly a caster recovers their magical energy:
 
-| Mana Capacity | Regeneration Rate | Recovery Time |
+| Mana Capacity (Dung Lượng Mana) | Regeneration Rate (Tốc Độ Phục Hồi) | Recovery Time (Thời Gian Phục Hồi) |
 |---------------|-------------------|---------------|
-| 5-15% | Very Slow | 24+ hours for full recovery |
-| 15-30% | Slow | 12-24 hours for full recovery |
-| 30-50% | Moderate | 6-12 hours for full recovery |
-| 50-70% | Fast | 3-6 hours for full recovery |
-| 70-85% | Very Fast | 1-3 hours for full recovery |
-| 85%+ | Exceptional | Under 1 hour for full recovery |
+| 5-15% | Rất chậm | 24+ giờ để phục hồi hoàn toàn |
+| 15-30% | Chậm | 12-24 giờ để phục hồi hoàn toàn |
+| 30-50% | Vừa phải | 6-12 giờ để phục hồi hoàn toàn |
+| 50-70% | Nhanh | 3-6 giờ để phục hồi hoàn toàn |
+| 70-85% | Rất nhanh | 1-3 giờ để phục hồi hoàn toàn |
+| 85%+ | Đặc biệt | Dưới 1 giờ để phục hồi hoàn toàn |
 
 For more detailed information on regeneration techniques and factors, see [ManaRegeneration.md](/codex/Magics/ManaRegeneration.md).
 
-## Mana Purity and Spell Effectiveness
+## Mana Purity (Độ Tinh Khiết Mana) and Spell Effectiveness (Hiệu Quả Phép Thuật)
 
-Raw [Wild Mana](/codex/Magics/WildMana.md) must be purified to be effectively used in spellcasting. Like refining ore into metal, this process transforms chaotic Wild Mana into controlled, refined mana types suitable for pattern formation.
+Raw [Wild Mana](/codex/Magics/WildMana.md) (Mana Hoang Dã) must be purified to be effectively used in spellcasting (thi triển phép thuật). Like refining ore into metal, this process transforms chaotic Wild Mana (Mana Hoang Dã) into controlled, refined mana types suitable for pattern formation.
 
-### Purity Calculation
+### Purity Calculation (Tính Toán Độ Tinh Khiết)
 
 Purity is calculated using the formula:
 
@@ -44,119 +44,123 @@ Purity is calculated using the formula:
 Purity Percentage = (Refined Mana) / (Refined Mana + Wild Mana) × 100%
 ```
 
-This mathematical relationship explains why Wild Mana content inversely affects spell effectiveness.
+This mathematical relationship explains why Wild Mana (Mana Hoang Dã) content inversely affects spell effectiveness.
 
-### Purity Levels
+### Purity Levels (Cấp Độ Tinh Khiết)
 
-| Purity Level | Percentage | Wild Mana Content | Difficulty to Achieve |
+| Purity Level (Cấp Độ Tinh Khiết) | Percentage (Phần Trăm) | Wild Mana Content (Hàm Lượng Mana Hoang Dã) | Difficulty to Achieve (Độ Khó Đạt Được) |
 |--------------|------------|-------------------|----------------------|
-| **Crude** | 0-10% | 90-100% | Minimal training required |
-| **Basic** | 10-35% | 65-90% | Basic training (1-2 years) |
-| **Refined** | 35-65% | 35-65% | Intermediate training (3-5 years) |
-| **Superior** | 65-85% | 15-35% | Advanced training (6-10 years) |
-| **Perfect** | 85-100% | 0-15% | Master training (10+ years) |
+| **Crude (Thô)** | 0-10% | 90-100% | Yêu cầu đào tạo tối thiểu |
+| **Basic (Cơ bản)** | 10-35% | 65-90% | Đào tạo cơ bản (1-2 năm) |
+| **Refined (Tinh chế)** | 35-65% | 35-65% | Đào tạo trung cấp (3-5 năm) |
+| **Superior (Vượt trội)** | 65-85% | 15-35% | Đào tạo nâng cao (6-10 năm) |
+| **Perfect (Hoàn hảo)** | 85-100% | 0-15% | Đào tạo bậc thầy (10+ năm) |
 
-### Mana Capacity and Maximum Achievable Purity
+### Mana Capacity (Dung Lượng Mana) and Maximum Achievable Purity (Độ Tinh Khiết Tối Đa Có Thể Đạt Được)
 
-A caster's Mana Capacity influences the maximum purity level they can potentially achieve:
+A caster's Mana Capacity (Dung Lượng Mana) influences the maximum purity level they can potentially achieve:
 
-| Mana Capacity | Maximum Achievable Purity | Wild Mana Minimum |
+| Mana Capacity (Dung Lượng Mana) | Maximum Achievable Purity (Độ Tinh Khiết Tối Đa Có Thể Đạt Được) | Wild Mana Minimum (Mana Hoang Dã Tối Thiểu) |
 |---------------|-----------------------------|-------------------|
-| 5-15% | Basic (up to 25%) | 75%+ |
-| 15-30% | Basic to Refined (up to 40%) | 60%+ |
-| 30-50% | Refined (up to 60%) | 40%+ |
-| 50-70% | Superior (up to 80%) | 20%+ |
-| 70-85% | Perfect (up to 95%) | 5%+ |
-| 85%+ | Perfect (up to 100%) | Trace amounts |
+| 5-15% | Cơ bản (tối đa 25%) | 75%+ |
+| 15-30% | Cơ bản đến Tinh chế (tối đa 40%) | 60%+ |
+| 30-50% | Tinh chế (tối đa 60%) | 40%+ |
+| 50-70% | Vượt trội (tối đa 80%) | 20%+ |
+| 70-85% | Hoàn hảo (tối đa 95%) | 5%+ |
+| 85%+ | Hoàn hảo (tối đa 100%) | Lượng vết |
 
-This limitation explains why species with naturally high Mana Capacity (such as Elves and Fae) excel at complex magic requiring high purity, while those with lower capacity (like Dwarves) typically focus on magic that requires lower purity but values stability.
+This limitation explains why species with naturally high Mana Capacity (Dung Lượng Mana) (such as Elves (Yêu Tinh) and Fae) excel at complex magic requiring high purity, while those with lower capacity (like Dwarves (Người Lùn)) typically focus on magic that requires lower purity but values stability.
 
-## Wild Mana to Refined Mana Conversion
+## Wild Mana (Mana Hoang Dã) to Refined Mana Conversion (Chuyển Đổi Mana Tinh Chế)
 
-The biological process of converting Wild Mana to usable forms involves:
+The biological process of converting Wild Mana (Mana Hoang Dã) to usable forms involves:
 
-1. **Absorption**: Drawing Wild Mana from the environment into the body
-2. **Filtration**: Separating useful energy from chaotic elements
-3. **Refinement**: Stabilizing the energy into Base Mana
-4. **Specialization**: Further converting Base Mana into elemental types
+1. **Absorption (Hấp Thụ)**: Drawing Wild Mana (Mana Hoang Dã) from the environment into the body
+2. **Filtration (Lọc)**: Separating useful energy from chaotic elements
+3. **Refinement (Tinh Chế)**: Stabilizing the energy into Base Mana (Mana Gốc)
+4. **Specialization (Chuyên Môn Hóa)**: Further converting Base Mana (Mana Gốc) into elemental types
 
-Different species and individuals vary in their efficiency at each stage, explaining variations in magical aptitude even among those with similar Mana Capacity.
+Different species and individuals vary in their efficiency at each stage, explaining variations in magical aptitude even among those with similar Mana Capacity (Dung Lượng Mana).
 
-## Spell Technical Requirements
+## Spell Technical Requirements (Yêu Cầu Kỹ Thuật của Phép Thuật)
 
 Each spell has specific technical requirements that determine which casters can successfully perform it:
 
-### Mana Type Distribution
+### Mana Type Distribution (Phân Bố Loại Mana)
 
 Spells require specific proportions of different mana types:
 
-- **Base Mana**: The foundational energy that forms the structural framework of most spells
-- **Elemental Mana**: Specialized energies (Pyromana, Hydromana, etc.) that provide specific magical effects
-- **Combined Forms**: Complex ratios of multiple mana types for sophisticated magical effects
+- **Base Mana (Mana Gốc)**: The foundational energy that forms the structural framework of most spells
+- **Elemental Mana (Mana Nguyên Tố)**: Specialized energies (Pyromana (Hỏa Mana), Hydromana (Thủy Mana), etc.) that provide specific magical effects
+- **Combined Forms (Dạng Kết Hợp)**: Complex ratios of multiple mana types for sophisticated magical effects
 
-The average proportion of Base Mana to specialized mana types correlates with spell difficulty:
+The average proportion of Base Mana (Mana Gốc) to specialized mana types correlates with spell difficulty:
 
-| Spell Level | Typical Base Mana % | Specialized Mana % | Example |
+| Spell Level (Cấp Độ Phép Thuật) | Typical Base Mana % (Tỷ Lệ Mana Gốc Thông Thường) | Specialized Mana % (Tỷ Lệ Mana Chuyên Dụng) | Example (Ví Dụ) |
 |-------------|---------------------|---------------------|---------|
-| Novice | 60-80% | 20-40% | Dancing Ember, Mending Touch |
-| Adept | 40-60% | 40-60% | Frost Armor, Wind Message |
-| Expert | 30-50% | 50-70% | Lightning Storm, Greater Healing |
-| Master | 20-40% | 60-80% | Earthquake, Teleportation |
-| Legendary | 10-30% | 70-90% | Weather Control, Resurrection |
+| Novice (Sơ Cấp) | 60-80% | 20-40% | Dancing Ember, Mending Touch |
+| Adept (Trung Cấp) | 40-60% | 40-60% | Frost Armor, Wind Message |
+| Expert (Cao Cấp) | 30-50% | 50-70% | Lightning Storm, Greater Healing |
+| Master (Bậc Thầy) | 20-40% | 60-80% | Earthquake, Teleportation |
+| Legendary (Huyền Thoại) | 10-30% | 70-90% | Weather Control, Resurrection |
 
-### Purity Requirements
+### Purity Requirements (Yêu Cầu Độ Tinh Khiết)
 
 Each spell has minimum purity requirements for successful casting:
 
-| Spell Level | Minimum Purity Required | Maximum Wild Mana Content |
+| Spell Level (Cấp Độ Phép Thuật) | Minimum Purity Required (Độ Tinh Khiết Tối Thiểu Yêu Cầu) | Maximum Wild Mana Content (Hàm Lượng Mana Hoang Dã Tối Đa) |
 |-------------|--------------------------|---------------------------|
-| Novice | Basic (10-35%) | 65-90% |
-| Adept | Refined (35-65%) | 35-65% |
-| Expert | Superior (65-85%) | 15-35% |
-| Master | Perfect (85-95%) | 5-15% |
-| Legendary | Perfect (95%+) | <5% |
+| Novice (Sơ Cấp) | Cơ bản (10-35%) | 65-90% |
+| Adept (Trung Cấp) | Tinh chế (35-65%) | 35-65% |
+| Expert (Cao Cấp) | Vượt trội (65-85%) | 15-35% |
+| Master (Bậc Thầy) | Hoàn hảo (85-95%) | 5-15% |
+| Legendary (Huyền Thoại) | Hoàn hảo (95%+) | <5% |
 
 Attempting to cast a spell with insufficient mana purity (excessive Wild Mana content) results in various failure modes:
 
-- **Minor Shortfall**: Spell works but with reduced effectiveness or duration
-- **Moderate Shortfall**: Spell fails to form completely, wasting magical energy
-- **Significant Shortfall**: Spell pattern destabilizes, potentially causing harmful side effects
-- **Critical Shortfall**: Pattern collapses catastrophically, potentially harming the caster
+- **Minor Shortfall (Thiếu Hụt Nhỏ)**: Spell works but with reduced effectiveness or duration
+- **Moderate Shortfall (Thiếu Hụt Vừa Phải)**: Spell fails to form completely, wasting magical energy
+- **Significant Shortfall (Thiếu Hụt Đáng Kể)**: Spell pattern destabilizes, potentially causing harmful side effects
+- **Critical Shortfall (Thiếu Hụt Nghiêm Trọng)**: Pattern collapses catastrophically, potentially harming the caster
 
-## The Harmony of Elements
+## The Harmony of Elements (Sự Hài Hòa của Các Nguyên Tố)
 
-The relationship between a caster's Mana Capacity, their achieved purity level, and a spell's requirements can be understood through musical analogy:
+The relationship between a caster's Mana Capacity (Dung Lượng Mana), their achieved purity level, and a spell's requirements can be understood through musical analogy:
 
-- **Mana Capacity** is like the range of notes a musician can play
-- **Purity Level** is like the precision with which they can hit each note
-- **Wild Mana Content** is like background noise interfering with the music
-- **Spell Requirements** are like the demands of a particular musical piece
+- **Mana Capacity (Dung Lượng Mana)** is like the range of notes a musician can play
+- **Purity Level (Cấp Độ Tinh Khiết)** is like the precision with which they can hit each note
+- **Wild Mana Content (Hàm Lượng Mana Hoang Dã)** is like background noise interfering with the music
+- **Spell Requirements (Yêu Cầu Phép Thuật)** are like the demands of a particular musical piece
 
-Just as a musician with limited range cannot play pieces requiring notes beyond their reach, a spellcaster with insufficient Mana Capacity cannot achieve the purity levels demanded by advanced spells. Similarly, even a caster with great capacity must develop the skill (purification control) to effectively minimize Wild Mana interference.
+Just as a musician with limited range cannot play pieces requiring notes beyond their reach, a spellcaster with insufficient Mana Capacity (Dung Lượng Mana) cannot achieve the purity levels demanded by advanced spells. Similarly, even a caster with great capacity must develop the skill (purification control) to effectively minimize Wild Mana (Mana Hoang Dã) interference.
 
-## Training Progression
+## Training Progression (Tiến Trình Đào Tạo)
 
 Magical training systematically develops both capacity and purification skill:
 
-1. **Fundamental Exercises**: Developing basic purification techniques and expanding capacity
-2. **Simple Spells**: Mastering basic patterns with low purity requirements
-3. **Capacity Building**: Exercises to gradually expand mana reserves
-4. **Purification Refinement**: Techniques to reduce Wild Mana content
-5. **Advanced Pattern Work**: Progressively more complex spells requiring greater purity
-6. **Specialization**: Focus on particular mana types and associated spell categories
+1. **Fundamental Exercises (Bài Tập Cơ Bản)**: Developing basic purification techniques and expanding capacity
+2. **Simple Spells (Phép Thuật Đơn Giản)**: Mastering basic patterns with low purity requirements
+3. **Capacity Building (Xây Dựng Dung Lượng)**: Exercises to gradually expand mana reserves
+4. **Purification Refinement (Tinh Chế Độ Tinh Khiết)**: Techniques to reduce Wild Mana (Mana Hoang Dã) content
+5. **Advanced Pattern Work (Làm Việc với Mẫu Nâng Cao)**: Progressively more complex spells requiring greater purity
+6. **Specialization (Chuyên Môn Hóa)**: Focus on particular mana types and associated spell categories
 
-Proper training recognizes the natural limitations imposed by a practitioner's Mana Capacity while maximizing their potential within those constraints. This explains the structured curriculum found in magical academies, where students progress through increasingly demanding spells as their capacity and purification skills develop.
+Proper training recognizes the natural limitations imposed by a practitioner's Mana Capacity (Dung Lượng Mana) while maximizing their potential within those constraints. This explains the structured curriculum found in magical academies, where students progress through increasingly demanding spells as their capacity and purification skills develop.
 
-## Individual Variations
+## Individual Variations (Các Biến Thể Cá Nhân)
 
-Natural aptitude for purification exists independently of Mana Capacity:
+Natural aptitude for purification exists independently of Mana Capacity (Dung Lượng Mana):
 
-- **Natural Purifiers**: Some individuals with moderate Mana Capacity achieve exceptional purity by efficiently filtering Wild Mana
-- **High-Volume Casters**: Others with great Mana Capacity but less refinement excel at power-intensive but lower-precision magic
-- **Specialists**: Those with affinity for specific elemental mana types achieve higher purity with those types
-- **Balanced Practitioners**: Those who develop equally in capacity and purification skill
-- **Wild Harmonizers**: Rare practitioners who work with rather than against Wild Mana, incorporating its chaotic nature
+- **Natural Purifiers (Người Thanh Lọc Tự Nhiên)**: Some individuals with moderate Mana Capacity (Dung Lượng Mana) achieve exceptional purity by efficiently filtering Wild Mana (Mana Hoang Dã)
+- **High-Volume Casters (Người Thi Triển Khối Lượng Lớn)**: Others with great Mana Capacity (Dung Lượng Mana) but less refinement excel at power-intensive but lower-precision magic
+- **Specialists (Chuyên Gia)**: Those with affinity for specific elemental mana types achieve higher purity with those types
+- **Balanced Practitioners (Người Hành Nghề Cân Bằng)**: Those who develop equally in capacity and purification skill
+- **Wild Harmonizers (Người Điều Hòa Hoang Dã)**: Rare practitioners who work with rather than against Wild Mana (Mana Hoang Dã), incorporating its chaotic nature
 
 These variations explain the diverse approaches to magic found among practitioners, from the precise, efficient spellwork of some to the raw, powerful castings of others.
 
-Understanding these mechanical foundations provides insight into why magical training follows specific progressions, why certain species tend toward particular magical traditions, and how individual practitioners develop their unique approaches to the magical arts. 
+Understanding these mechanical foundations provides insight into why magical training follows specific progressions, why certain species tend toward particular magical traditions, and how individual practitioners develop their unique approaches to the magical arts.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

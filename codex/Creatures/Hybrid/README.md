@@ -1,150 +1,154 @@
-# Hybrid Beings of OpenFantasy
+# Các Sinh Vật Lai (Hybrid Beings) của OpenFantasy
 
-> *"In the blending of divergent natures emerges something greater than the sum of its parts—a harmony of contrasting songs played as one melody."*
+> *"Trong sự pha trộn của những bản chất khác biệt, một điều gì đó vĩ đại hơn tổng các phần của nó xuất hiện—một sự hài hòa của những bài hát tương phản được chơi như một giai điệu duy nhất."*
 
-## Overview
+## Tổng quan
 
-Hybrid beings in OpenFantasy represent creatures that combine the characteristics of multiple species or categories of life. These unique entities possess physiological, magical, and sometimes spiritual traits from different origins, creating distinctive beings that often occupy specialized ecological or social niches.
+Các sinh vật lai (Hybrid beings) trong OpenFantasy đại diện cho những sinh vật kết hợp các đặc điểm của nhiều loài hoặc loại hình sự sống. Những thực thể độc đáo này sở hữu các đặc điểm sinh lý, phép thuật và đôi khi là tâm linh từ các nguồn gốc khác nhau, tạo ra những sinh vật đặc biệt thường chiếm các hốc sinh thái hoặc xã hội chuyên biệt.
 
-Unlike simple crossbreeds between closely related species, true hybrids in OpenFantasy typically bridge fundamentally different categories of being—such as aquatic and terrestrial, humanoid and animal, or even material and elemental. These combinations result in unique elemental compositions and special capabilities not found in either parent category.
+Không giống như các giống lai đơn giản giữa các loài có quan hệ gần gũi, các sinh vật lai thực sự trong OpenFantasy thường bắc cầu các loại hình tồn tại khác nhau về cơ bản—chẳng hạn như thủy sinh và trên cạn, hình người và động vật, hoặc thậm chí vật chất và nguyên tố. Những sự kết hợp này tạo ra các thành phần nguyên tố độc đáo và các khả năng đặc biệt không tìm thấy ở bất kỳ loại hình gốc nào.
 
-## Origins of Hybrid Beings
+## Nguồn gốc của các Sinh Vật Lai (Hybrid Beings)
 
-Hybrids come into existence through various means:
+Các sinh vật lai (Hybrids) ra đời bằng nhiều cách khác nhau:
 
-| Origin Type | Process | Examples |
+| Origin Type (Loại Nguồn Gốc) | Process (Quá Trình) | Examples (Ví dụ) |
 |-------------|---------|----------|
-| **Natural Evolution** | Adaptation to specialized environments | Merfolk evolving for coastal environments |
-| **Ancient Magic** | Deliberate magical creation or fusion | Centaurs created during the Age of Wonders |
-| **Divine Influence** | Blessing or intervention of deities | Sirens formed by ocean deity transformations |
-| **Arcane Accident** | Unintended magical transformation | Some chimeric beings resulting from wild magic |
-| **Elemental Fusion** | Merger of elemental and physical forms | Certain geomancers with partly mineral bodies |
+| **Natural Evolution (Tiến Hóa Tự Nhiên)** | Adaptation to specialized environments (Thích nghi với môi trường chuyên biệt) | Merfolk (Người Cá) evolving for coastal environments (tiến hóa cho môi trường ven biển) |
+| **Ancient Magic (Ma Thuật Cổ Đại)** | Deliberate magical creation or fusion (Sáng tạo hoặc hợp nhất ma thuật có chủ ý) | Centaurs (Nhân Mã) created during the Age of Wonders (được tạo ra trong Thời Đại Kỳ Diệu) |
+| **Divine Influence (Ảnh Hưởng Thần Thánh)** | Blessing or intervention of deities (Ban phước hoặc can thiệp của các vị thần) | Sirens (Nàng Tiên Cá) formed by ocean deity transformations (được hình thành bởi sự biến đổi của thần biển) |
+| **Arcane Accident (Tai Nạn Huyền Bí)** | Unintended magical transformation (Biến đổi ma thuật không chủ ý) | Some chimeric beings resulting from wild magic (Một số sinh vật lai tạo do ma thuật hoang dã) |
+| **Elemental Fusion (Hợp Nhất Nguyên Tố)** | Merger of elemental and physical forms (Sáp nhập các dạng nguyên tố và vật chất) | Certain geomancers (nhà địa lý) with partly mineral bodies (với cơ thể một phần là khoáng chất) |
 
-## Major Hybrid Categories
+## Các Loại Hình Lai (Hybrid Categories) Chính
 
-### Aquatic-Terrestrial Hybrids
+### Các Sinh Vật Lai (Hybrid Beings) Thủy Sinh-Trên Cạn
 
-Beings that bridge water and land environments:
+Những sinh vật bắc cầu giữa môi trường nước và đất liền:
 
-| Species | Composition | Key Traits | Habitat |
+| Species (Loài) | Composition (Thành Phần) | Key Traits (Đặc Điểm Chính) | Habitat (Môi Trường Sống) |
 |---------|------------|------------|----------|
-| **Merfolk** | E: 30-50%, S: 15-35%, M: 25-45% | Humanoid upper body, fish lower body, water manipulation | Coastal waters, deep sea regions |
-| **Selkies** | E: 40-60%, S: 20-30%, M: 15-35% | Shapeshifting between human and seal forms | Cold coastal areas, isolated islands |
-| **Kappa** | E: 35-55%, S: 10-25%, M: 30-45% | Turtle-humanoid features, water dependency | Freshwater lakes, slow-moving rivers |
-| **Cecaelia** | E: 35-55%, S: 15-30%, M: 25-40% | Humanoid upper body, octopus lower body | Deep ocean trenches, underwater caves |
+| **Merfolk (Người Cá)** | E: 30-50%, S: 15-35%, M: 25-45% | Humanoid upper body, fish lower body, water manipulation (Nửa thân trên hình người, nửa thân dưới hình cá, điều khiển nước) | Coastal waters, deep sea regions (Vùng nước ven biển, vùng biển sâu) |
+| **Selkies (Người Hải Cẩu)** | E: 40-60%, S: 20-30%, M: 15-35% | Shapeshifting between human and seal forms (Biến hình giữa hình dạng người và hải cẩu) | Cold coastal areas, isolated islands (Vùng ven biển lạnh, các hòn đảo biệt lập) |
+| **Kappa (Thủy Quái Kappa)** | E: 35-55%, S: 10-25%, M: 30-45% | Turtle-humanoid features, water dependency (Các đặc điểm hình người-rùa, phụ thuộc vào nước) | Freshwater lakes, slow-moving rivers (Hồ nước ngọt, sông chảy chậm) |
+| **Cecaelia (Người Bạch Tuộc)** | E: 35-55%, S: 15-30%, M: 25-40% | Humanoid upper body, octopus lower body (Nửa thân trên hình người, nửa thân dưới hình bạch tuộc) | Deep ocean trenches, underwater caves (Rãnh đại dương sâu, hang động dưới nước) |
 
-→ See [Merfolk](Merfolk.md) for detailed information on the most common aquatic hybrid.
+→ Xem [Merfolk (Người Cá)](Merfolk.md) để biết thông tin chi tiết về giống lai thủy sinh phổ biến nhất.
 
-### Musical-Physical Hybrids
+### Các Sinh Vật Lai (Hybrid Beings) Âm Nhạc-Vật Chất
 
-Beings that embody musical or sonic energy in physical form:
+Những sinh vật thể hiện năng lượng âm nhạc hoặc âm thanh ở dạng vật chất:
 
-| Species | Composition | Key Traits | Habitat |
+| Species (Loài) | Composition (Thành Phần) | Key Traits (Đặc Điểm Chính) | Habitat (Môi Trường Sống) |
 |---------|------------|------------|----------|
-| **Sirens** | E: 15-30%, S: 30-45%, M: 40-60% | Enchanting voices, emotional manipulation | Coastal cliffs, island lagoons |
-| **Harpies** | E: 40-60%, S: 15-30%, M: 20-35% | Bird-humanoid features, disruptive vocals | Mountain peaks, isolated highlands |
-| **Echo Spirits** | E: 10-25%, S: 20-40%, M: 45-65% | Sound embodiment, mimicry abilities | Canyons, caves with natural acoustics |
-| **Resonants** | E: 25-40%, S: 15-35%, M: 35-50% | Living instruments, harmonic magic | Music-saturated regions, performance venues |
+| **Sirens (Nàng Tiên Cá)** | E: 15-30%, S: 30-45%, M: 40-60% | Enchanting voices, emotional manipulation (Giọng nói mê hoặc, thao túng cảm xúc) | Coastal cliffs, island lagoons (Vách đá ven biển, đầm phá trên đảo) |
+| **Harpies (Điểu Nhân)** | E: 40-60%, S: 15-30%, M: 20-35% | Bird-humanoid features, disruptive vocals (Các đặc điểm hình người-chim, giọng hát gây rối) | Mountain peaks, isolated highlands (Đỉnh núi, vùng cao nguyên biệt lập) |
+| **Echo Spirits (Linh Hồn Tiếng Vọng)** | E: 10-25%, S: 20-40%, M: 45-65% | Sound embodiment, mimicry abilities (Hiện thân của âm thanh, khả năng bắt chước) | Canyons, caves with natural acoustics (Hẻm núi, hang động có âm thanh tự nhiên) |
+| **Resonants (Cộng Hưởng)** | E: 25-40%, S: 15-35%, M: 35-50% | Living instruments, harmonic magic (Nhạc cụ sống, ma thuật hài hòa) | Music-saturated regions, performance venues (Vùng bão hòa âm nhạc, địa điểm biểu diễn) |
 
-→ See [Sirens](Sirens.md) for detailed information on vocal enchantresses.
+→ Xem [Sirens (Nàng Tiên Cá)](Sirens.md) để biết thông tin chi tiết về những phù thủy giọng hát.
 
-### Humanoid-Beast Hybrids
+### Các Sinh Vật Lai (Hybrid Beings) Hình Người-Quái Vật
 
-Beings that combine humanoid and animal characteristics:
+Những sinh vật kết hợp các đặc điểm hình người và động vật:
 
-| Species | Composition | Key Traits | Habitat |
+| Species (Loài) | Composition (Thành Phần) | Key Traits (Đặc Điểm Chính) | Habitat (Môi Trường Sống) |
 |---------|------------|------------|----------|
-| **Centaurs** | E: 50-70%, S: 20-40%, M: 10-25% | Human upper body, horse lower body | Open plains, forests with clearings |
-| **Satyrs** | E: 45-65%, S: 20-35%, M: 15-30% | Human upper body, goat lower body | Woodland areas, vineyard regions |
-| **Minotaurs** | E: 60-80%, S: 15-25%, M: 5-20% | Human body with bovine head | Labyrinths, complex cave systems |
-| **Harpies** | E: 40-60%, S: 15-30%, M: 20-35% | Human-avian mixture, winged arms | Mountain regions, high cliffs |
+| **Centaurs (Nhân Mã)** | E: 50-70%, S: 20-40%, M: 10-25% | Human upper body, horse lower body (Nửa thân trên hình người, nửa thân dưới hình ngựa) | Open plains, forests with clearings (Đồng bằng mở, rừng có khoảng trống) |
+| **Satyrs (Thần Rừng)** | E: 45-65%, S: 20-35%, M: 15-30% | Human upper body, goat lower body (Nửa thân trên hình người, nửa thân dưới hình dê) | Woodland areas, vineyard regions (Khu vực rừng cây, vùng trồng nho) |
+| **Minotaurs (Quái Vật Đầu Bò)** | E: 60-80%, S: 15-25%, M: 5-20% | Human body with bovine head (Thân người với đầu bò) | Labyrinths, complex cave systems (Mê cung, hệ thống hang động phức tạp) |
+| **Harpies (Điểu Nhân)** | E: 40-60%, S: 15-30%, M: 20-35% | Human-avian mixture, winged arms (Hỗn hợp người-chim, cánh tay có cánh) | Mountain regions, high cliffs (Vùng núi, vách đá cao) |
 
-→ See [Centaurs](Centaurs.md) for detailed information on horse-human hybrids.
+→ Xem [Centaurs (Nhân Mã)](Centaurs.md) để biết thông tin chi tiết về các giống lai người-ngựa.
 
-### Elemental-Physical Hybrids
+### Các Sinh Vật Lai (Hybrid Beings) Nguyên Tố-Vật Chất
 
-Beings with both physical and elemental characteristics:
+Những sinh vật có cả đặc điểm vật chất và nguyên tố:
 
-| Species | Composition | Key Traits | Habitat |
+| Species (Loài) | Composition (Thành Phần) | Key Traits (Đặc Điểm Chính) | Habitat (Môi Trường Sống) |
 |---------|------------|------------|----------|
-| **Geomancers** | E: 55-70%, S: 10-25%, M: 15-35% | Partial stone bodies, earth manipulation | Mountain interiors, crystal caves |
-| **Flameheart** | E: 30-50%, S: 15-30%, M: 30-50% | Internal fire core, heat generation | Volcanic regions, thermal vents |
-| **Mistwalkers** | E: 20-40%, S: 10-30%, M: 40-65% | Semi-gaseous form, air/fog control | Foggy valleys, high-altitude plateaus |
-| **Tidebloods** | E: 25-45%, S: 15-35%, M: 30-55% | Fluid internal composition, water affinity | Shorelines, river confluences |
+| **Geomancers (Nhà Địa Lý)** | E: 55-70%, S: 10-25%, M: 15-35% | Partial stone bodies, earth manipulation (Cơ thể một phần bằng đá, điều khiển đất) | Mountain interiors, crystal caves (Bên trong núi, hang động pha lê) |
+| **Flameheart (Trái Tim Lửa)** | E: 30-50%, S: 15-30%, M: 30-50% | Internal fire core, heat generation (Lõi lửa bên trong, tạo nhiệt) | Volcanic regions, thermal vents (Vùng núi lửa, lỗ thông nhiệt) |
+| **Mistwalkers (Người Đi Trong Sương)** | E: 20-40%, S: 10-30%, M: 40-65% | Semi-gaseous form, air/fog control (Dạng bán khí, kiểm soát không khí/sương mù) | Foggy valleys, high-altitude plateaus (Thung lũng sương mù, cao nguyên trên cao) |
+| **Tidebloods (Huyết Triều)** | E: 25-45%, S: 15-35%, M: 30-55% | Fluid internal composition, water affinity (Thành phần bên trong chất lỏng, gần gũi với nước) | Shorelines, river confluences (Bờ biển, nơi hợp lưu của sông) |
 
-## Physiological Characteristics
+## Đặc Điểm Sinh Lý
 
-Hybrid beings often exhibit unique biological features that reflect their mixed heritage:
+Các sinh vật lai (Hybrid beings) thường thể hiện các đặc điểm sinh học độc đáo phản ánh di sản hỗn hợp của chúng:
 
-### Adaptive Systems
+### Hệ Thống Thích Ứng
 
-| System | Adaptation | Functional Benefit |
+| System (Hệ Thống) | Adaptation (Sự Thích Ứng) | Functional Benefit (Lợi Ích Chức Năng) |
 |--------|------------|-------------------|
-| **Respiratory** | Dual breathing systems (gills/lungs) | Environment flexibility |
-| **Locomotion** | Multiple movement types (swimming/walking/flying) | Terrain adaptability |
-| **Sensory** | Combined perception systems | Enhanced awareness |
-| **Metabolic** | Flexible energy processing | Varied diet options |
+| **Respiratory (Hô Hấp)** | Dual breathing systems (gills/lungs) (Hệ thống thở kép (mang/phổi)) | Environment flexibility (Linh hoạt môi trường) |
+| **Locomotion (Vận Động)** | Multiple movement types (swimming/walking/flying) (Nhiều kiểu di chuyển (bơi/đi bộ/bay)) | Terrain adaptability (Khả năng thích ứng địa hình) |
+| **Sensory (Cảm Giác)** | Combined perception systems (Hệ thống nhận thức kết hợp) | Enhanced awareness (Nâng cao nhận thức) |
+| **Metabolic (Trao Đổi Chất)** | Flexible energy processing (Xử lý năng lượng linh hoạt) | Varied diet options (Lựa chọn chế độ ăn uống đa dạng) |
 
-### Integration Challenges
+### Thách Thức Hội Nhập
 
-Most hybrids face unique physiological challenges due to their mixed nature:
+Hầu hết các sinh vật lai (hybrids) phải đối mặt với những thách thức sinh lý độc đáo do bản chất hỗn hợp của chúng:
 
-- **System Compatibility**: Internal organs from different species must function together
-- **Energy Requirements**: Often higher metabolic needs due to maintaining complex biology
-- **Developmental Stability**: Growth patterns must accommodate different tissue types
-- **Reproductive Viability**: Many hybrids have reduced fertility or specialized reproduction
+- **System Compatibility (Tính Tương Thích Hệ Thống)**: Các cơ quan nội tạng từ các loài khác nhau phải hoạt động cùng nhau
+- **Energy Requirements (Yêu Cầu Năng Lượng)**: Thường có nhu cầu trao đổi chất cao hơn do duy trì sinh học phức tạp
+- **Developmental Stability (Ổn Định Phát Triển)**: Mô hình tăng trưởng phải phù hợp với các loại mô khác nhau
+- **Reproductive Viability (Khả Năng Sinh Sản)**: Nhiều giống lai có khả năng sinh sản giảm hoặc sinh sản chuyên biệt
 
-## Cultural Position
+## Vị Trí Văn Hóa
 
-Hybrid beings occupy complex positions in OpenFantasy societies:
+Các sinh vật lai (Hybrid beings) chiếm giữ các vị trí phức tạp trong các xã hội OpenFantasy:
 
-### Social Integration
+### Hội Nhập Xã Hội
 
-| Society | Treatment of Hybrids | Notable Roles |
+| Society (Xã Hội) | Treatment of Hybrids (Đối Xử Với Sinh Vật Lai) | Notable Roles (Vai Trò Đáng Chú Ý) |
 |---------|----------------------|--------------|
-| **Human Kingdoms** | Varies from acceptance to suspicion | Specialized occupations, cultural mediators |
-| **Elven Realms** | Generally accepted as natural diversity | Valued for unique perspectives, artisans |
-| **Dwarven Holds** | Pragmatic acceptance based on utility | Specialized labor, unique crafting |
-| **Beast Tribes** | Acceptance varies by tribal traditions | Spiritual intermediaries, border guards |
+| **Human Kingdoms (Vương Quốc Loài Người)** | Varies from acceptance to suspicion (Thay đổi từ chấp nhận đến nghi ngờ) | Specialized occupations, cultural mediators (Nghề nghiệp chuyên biệt, hòa giải viên văn hóa) |
+| **Elven Realms (Vùng Đất Tiên)** | Generally accepted as natural diversity (Thường được chấp nhận như sự đa dạng tự nhiên) | Valued for unique perspectives, artisans (Được đánh giá cao vì quan điểm độc đáo, nghệ nhân) |
+| **Dwarven Holds (Pháo Đài Người Lùn)** | Pragmatic acceptance based on utility (Chấp nhận thực dụng dựa trên tiện ích) | Specialized labor, unique crafting (Lao động chuyên biệt, chế tạo độc đáo) |
+| **Beast Tribes (Bộ Lạc Quái Thú)** | Acceptance varies by tribal traditions (Sự chấp nhận khác nhau tùy theo truyền thống bộ lạc) | Spiritual intermediaries, border guards (Trung gian tâm linh, lính biên phòng) |
 
-### Common Social Roles
+### Vai Trò Xã Hội Phổ Biến
 
-Hybrid beings often find themselves in specialized societal positions:
+Các sinh vật lai (Hybrid beings) thường thấy mình ở các vị trí xã hội chuyên biệt:
 
-- **Cultural Intermediaries**: Bridging different societies through shared understanding
-- **Specialized Occupations**: Roles specifically suited to their unique capabilities
-- **Boundary Dwellers**: Living along the edges of different territories
-- **Magical Specialists**: Unique magical abilities stemming from their hybrid nature
+- **Cultural Intermediaries (Trung Gian Văn Hóa)**: Kết nối các xã hội khác nhau thông qua sự hiểu biết chung
+- **Specialized Occupations (Nghề Nghiệp Chuyên Biệt)**: Vai trò đặc biệt phù hợp với khả năng độc đáo của họ
+- **Boundary Dwellers (Cư Dân Biên Giới)**: Sống dọc theo rìa của các lãnh thổ khác nhau
+- **Magical Specialists (Chuyên Gia Phép Thuật)**: Khả năng phép thuật độc đáo bắt nguồn từ bản chất lai của họ
 
-## Magical Characteristics
+## Đặc Điểm Phép Thuật
 
-The mixed nature of hybrids creates distinctive magical patterns:
+Bản chất hỗn hợp của các giống lai tạo ra các mô hình ma thuật đặc biệt:
 
-| Hybrid Type | Magical Signature | Special Capabilities |
+| Hybrid Type (Loại Lai) | Magical Signature (Chữ Ký Ma Thuật) | Special Capabilities (Khả Năng Đặc Biệt) |
 |-------------|-------------------|---------------------|
-| **Merfolk** | Fluid mana circulation, water resonance | Natural hydrokinesis, weather sensing |
-| **Centaurs** | Stable mana foundation, earth connection | Heightened nature awareness, stamina enhancement |
-| **Sirens** | Oscillating mana patterns, emotional conductivity | Sound manipulation, emotional influence |
-| **Geomancers** | Crystalline mana structure, mineral resonance | Stone shaping, mineral sensing |
+| **Merfolk (Người Cá)** | Fluid mana circulation, water resonance (Lưu thông mana lỏng, cộng hưởng nước) | Natural hydrokinesis, weather sensing (Thủy động lực học tự nhiên, cảm nhận thời tiết) |
+| **Centaurs (Nhân Mã)** | Stable mana foundation, earth connection (Nền tảng mana ổn định, kết nối đất) | Heightened nature awareness, stamina enhancement (Nâng cao nhận thức về thiên nhiên, tăng cường sức bền) |
+| **Sirens (Nàng Tiên Cá)** | Oscillating mana patterns, emotional conductivity (Mô hình mana dao động, độ dẫn cảm xúc) | Sound manipulation, emotional influence (Thao túng âm thanh, ảnh hưởng cảm xúc) |
+| **Geomancers (Nhà Địa Lý)** | Crystalline mana structure, mineral resonance (Cấu trúc mana tinh thể, cộng hưởng khoáng chất) | Stone shaping, mineral sensing (Tạo hình đá, cảm nhận khoáng chất) |
 
-## Ethical and Philosophical Questions
+## Câu Hỏi Đạo Đức và Triết Học
 
-The existence of hybrid beings raises important questions in OpenFantasy societies:
+Sự tồn tại của các sinh vật lai (hybrid beings) đặt ra những câu hỏi quan trọng trong các xã hội OpenFantasy:
 
-- **Origin Ethics**: Debates about the ethics of magical hybridization
-- **Identity Philosophy**: Questions about the dual nature of hybrid beings
-- **Cultural Belonging**: Considerations of where hybrids fit in social structures
-- **Natural Order**: Discussions about hybrids' place in natural/magical ecosystems
+- **Origin Ethics (Đạo Đức Nguồn Gốc)**: Tranh luận về đạo đức của việc lai tạo ma thuật
+- **Identity Philosophy (Triết Học Bản Sắc)**: Các câu hỏi về bản chất kép của các sinh vật lai
+- **Cultural Belonging (Thuộc Về Văn Hóa)**: Xem xét nơi các giống lai phù hợp trong các cấu trúc xã hội
+- **Natural Order (Trật Tự Tự Nhiên)**: Thảo luận về vị trí của các giống lai trong hệ sinh thái tự nhiên/ma thuật
 
-## Notable Hybrid Communities
+## Các Cộng Đồng Lai (Hybrid Communities) Đáng Chú Ý
 
-| Community | Location | Characteristics |
+| Community (Cộng Đồng) | Location (Vị Trí) | Characteristics (Đặc Điểm) |
 |-----------|----------|-----------------|
-| **Tidehaven** | Western coastal region | Merfolk-human collaborative settlement |
-| **Plainstrider Clans** | Central grasslands | Nomadic centaur societies |
-| **Siren Archipelago** | Southern island chain | Siren-dominated island culture |
-| **Boundary Enclaves** | Various border regions | Mixed communities of different hybrid types |
+| **Tidehaven (Bến Triều)** | Western coastal region (Vùng ven biển phía tây) | Merfolk (Người Cá)-human collaborative settlement (Khu định cư hợp tác người-người cá) |
+| **Plainstrider Clans (Gia Tộc Bước Trên Đồng Bằng)** | Central grasslands (Đồng cỏ trung tâm) | Nomadic centaur (nhân mã) societies (Xã hội nhân mã du mục) |
+| **Siren Archipelago (Quần Đảo Tiên Cá)** | Southern island chain (Chuỗi đảo phía nam) | Siren (tiên cá)-dominated island culture (Văn hóa đảo do tiên cá thống trị) |
+| **Boundary Enclaves (Vùng Lãnh Thổ Biên Giới)** | Various border regions (Các vùng biên giới khác nhau) | Mixed communities of different hybrid types (Cộng đồng hỗn hợp các loại hình lai khác nhau) |
 
 ---
 
-> *"We stand not between worlds but as living bridges connecting them. Our dual nature is not division but synthesis."* — Chiron Stormhoof, Centaur Elder and Philosopher 
+> *"Chúng ta không đứng giữa các thế giới mà là những cây cầu sống kết nối chúng. Bản chất kép của chúng ta không phải là sự chia rẽ mà là sự tổng hợp."* — Chiron Stormhoof, Trưởng Lão và Triết Gia Nhân Mã
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

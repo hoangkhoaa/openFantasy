@@ -1,105 +1,109 @@
-# **Fae**: The Ethereal Dancers of Magic
+# **Fae** (Tiên tộc): Vũ công Thuần khiết của Ma thuật
 
-[**Fae**](/codex/Creatures/Fae.md) are the ethereal dancers of magic, their bodies a delicate harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a shimmering harp, they resonate most strongly with the ethereal currents of [**Mana**](/codex/Basic/Mana.md), creating a unique melody of existence that bridges the material and spiritual realms.
+[**Fae**](/codex/Creatures/Fae.md) (Tiên tộc) là những vũ công thuần khiết của ma thuật, cơ thể của họ là sự hài hòa tinh tế của [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md) (Linh hồn), và **Mana Capacity** (Dung lượng Mana). Giống như một cây đàn hạc lấp lánh, họ cộng hưởng mạnh mẽ nhất với các dòng chảy thuần khiết của [**Mana**](/codex/Basic/Mana.md), tạo ra một giai điệu độc đáo của sự tồn tại, kết nối giữa thế giới vật chất và thế giới tâm linh.
 
-## Elemental Composition
+## Elemental Composition (Thành phần Nguyên tố)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **fae** forms a harmony that favors magical potential:
+Như đã trình bày chi tiết trong [Creatures](/codex/Creatures/Creatures.md) (Sinh vật), tỷ lệ điển hình cho **fae** (tiên tộc) tạo thành một sự hài hòa, ưu ái tiềm năng phép thuật:
 
-| Element | Range | Function |
+| Element (Nguyên tố) | Range (Phạm vi) | Function (Chức năng) |
 |---------|------------|----------|
-| **Exanthis** | 5-25% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 15-35% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 50-80% | The bridge between worlds that enables extraordinary magical potential |
+| **Exanthis** | 5-25% | Trái tim kết tinh cung cấp sức mạnh thể chất và độ bền tối thiểu |
+| **Soul** (Linh hồn) | 15-35% | Bản chất thuần khiết định hình ý thức linh hoạt và dễ thích nghi |
+| **Mana Capacity** (Dung lượng Mana) | 50-80% | Cầu nối giữa các thế giới, cho phép tiềm năng phép thuật phi thường |
 
-This composition grants **fae** their characteristic magical prowess but severely limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Thành phần này ban cho **fae** (tiên tộc) sức mạnh phép thuật đặc trưng của họ nhưng hạn chế nghiêm trọng khả năng phục hồi thể chất so với các loài khác, giống như một nhạc cụ tinh tế tạo ra âm thanh tuyệt đẹp nhưng phải được xử lý cẩn thận.
 
-### Individual Variations
+### Individual Variations (Các Biến thể Cá nhân)
 
-While the model composition represents the typical fae, individual variations exist:
+Mặc dù thành phần mô hình đại diện cho fae (tiên tộc) điển hình, nhưng vẫn tồn tại các biến thể cá nhân:
 
-- **Arcane Fae**: Some fae possess Mana Capacity as high as 85%, making them among the most powerful spellcasters in existence, though physically fragile with as little as 5% Exanthis.
-- **Court Champions**: Rare fae have Exanthis levels approaching 30%, allowing them to serve as defenders of their courts while maintaining significant magical abilities (55% Mana Capacity).
-- **Dream Weavers**: Those with higher Soul percentages (up to 40%) develop exceptional abilities in manipulating consciousness and dreams, often becoming powerful enchanters or diplomatic emissaries.
-- **Seasonal Fae**: Specialized fae with composition tailored to their court's season (e.g., Summer Court: 15% Exanthis, 25% Soul, 60% Mana Capacity; Winter Court: 20% Exanthis, 20% Soul, 60% Mana Capacity).
-- **Twilight Dancers**: A unique composition of (10% Exanthis, 30% Soul, 60% Mana Capacity) creates fae who excel at manipulating the boundaries between worlds and realities.
+- **Arcane Fae** (Tiên tộc Bí ẩn): Một số fae (tiên tộc) sở hữu Mana Capacity (Dung lượng Mana) cao tới 85%, khiến họ trở thành một trong những người sử dụng phép thuật mạnh mẽ nhất, mặc dù thể chất mỏng manh với Exanthis chỉ 5%.
+- **Court Champions** (Nhà Vô địch Triều đình): Fae (Tiên tộc) hiếm hoi có mức Exanthis gần 30%, cho phép họ phục vụ với tư cách là người bảo vệ triều đình của mình trong khi vẫn duy trì khả năng phép thuật đáng kể (55% Mana Capacity (Dung lượng Mana)).
+- **Dream Weavers** (Người Dệt Mộng): Những người có tỷ lệ Soul (Linh hồn) cao hơn (lên đến 40%) phát triển khả năng đặc biệt trong việc điều khiển ý thức và giấc mơ, thường trở thành những người phù phép mạnh mẽ hoặc phái viên ngoại giao.
+- **Seasonal Fae** (Tiên tộc Theo mùa): Fae (Tiên tộc) chuyên biệt với thành phần phù hợp với mùa của triều đình (ví dụ: Summer Court (Triều đình Mùa hè): 15% Exanthis, 25% Soul (Linh hồn), 60% Mana Capacity (Dung lượng Mana); Winter Court (Triều đình Mùa đông): 20% Exanthis, 20% Soul (Linh hồn), 60% Mana Capacity (Dung lượng Mana)).
+- **Twilight Dancers** (Vũ công Hoàng hôn): Một thành phần độc đáo (10% Exanthis, 30% Soul (Linh hồn), 60% Mana Capacity (Dung lượng Mana)) tạo ra fae (tiên tộc) vượt trội trong việc điều khiển ranh giới giữa các thế giới và thực tại.
 
-## Physical Characteristics
+## Physical Characteristics (Đặc điểm Thể chất)
 
-**Fae** are known for their ethereal beauty and otherworldly appearance:
-- Slender and graceful, with proportions that seem to defy reality
-- Eyes that shimmer with inner light, reflecting their connection to **Mana**
-- Ears that extend into elegant points, attuned to the subtle harmonies of magic
-- Skin that seems to glow with inner light, like moonlight on water
-- Hair that flows with an otherworldly grace, often in impossible colors
-- Wings that vary in form from delicate insect-like structures to ethereal light
+**Fae** (Tiên tộc) được biết đến với vẻ đẹp thuần khiết và vẻ ngoài khác lạ:
+- Thon thả và duyên dáng, với tỷ lệ dường như thách thức thực tế
+- Đôi mắt lấp lánh ánh sáng bên trong, phản ánh mối liên hệ của chúng với **Mana**
+- Đôi tai kéo dài thành những điểm thanh lịch, hòa hợp với những giai điệu tinh tế của phép thuật
+- Làn da dường như phát sáng với ánh sáng bên trong, như ánh trăng trên mặt nước
+- Mái tóc chảy bồng bềnh duyên dáng, thường có màu sắc không thể có
+- Đôi cánh có hình dạng khác nhau, từ cấu trúc giống côn trùng mỏng manh đến ánh sáng thuần khiết
 
-## Magical Affinity
+## Magical Affinity (Thiên hướng Ma thuật)
 
-**Fae** demonstrate exceptional proficiency in manipulating **Mana**, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Store vast amounts of **Mana** within their mana reservoirs, like deep wells of liquid light
-- Achieve extraordinary purity levels in spell casting, like artists painting with pure starlight
-- Specialize in enchantment and illusion magic with unparalleled mastery, like composers who have perfected the art of creating beautiful lies
+**Fae** (Tiên tộc) thể hiện trình độ đặc biệt trong việc điều khiển **Mana**, giống như những nhạc sĩ điêu luyện đã làm chủ được nhạc cụ của mình. Thành phần của chúng cho phép chúng:
+- Lưu trữ lượng lớn **Mana** trong hồ chứa mana của chúng, như những giếng sâu ánh sáng lỏng
+- Đạt được mức độ tinh khiết phi thường trong việc sử dụng phép thuật, giống như các nghệ sĩ vẽ bằng ánh sao tinh khiết
+- Chuyên về phép thuật phù phép và ảo ảnh với sự thành thạo vô song, giống như các nhà soạn nhạc đã hoàn thiện nghệ thuật tạo ra những lời nói dối đẹp đẽ
 
-This specialization makes **fae** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Sự chuyên môn hóa này giúp **fae** (tiên tộc) có khả năng đạt được trình độ thành thạo cao nhất trong các truyền thống ma thuật mà họ đã chọn, mặc dù họ có thể gặp khó khăn với các nhiệm vụ đòi hỏi sức mạnh thể chất hoặc khả năng phục hồi, giống như một nhạc cụ tinh tế tạo ra âm thanh tuyệt đẹp nhưng không thể chịu được sự thô bạo.
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (Tuổi thọ và Sự suy tàn của Linh hồn)
 
-The **soul decay** timeline for **fae**, from birth to complete decay, is approximately 800 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+Dòng thời gian **soul decay** (sự suy tàn của linh hồn) đối với **fae** (tiên tộc), từ khi sinh ra đến khi suy tàn hoàn toàn, là khoảng 800 năm, giống như một ngọn lửa cháy chậm chiếu sáng các thời đại. Tuổi thọ kéo dài này cho phép chúng:
+- Tích lũy kiến thức và trí tuệ sâu rộng qua nhiều thế kỷ
+- Phát triển mối liên hệ sâu sắc với những địa điểm và truyền thống ma thuật cụ thể
+- Hình thành các xã hội phức tạp với các phong tục và nghi lễ phức tạp
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Tuy nhiên, sự suy tàn linh hồn chậm hơn của chúng cũng có nghĩa là chúng thay đổi và thích nghi chậm hơn các loài khác, giống như một giai điệu vẫn đẹp nhưng không thay đổi qua các thời đại.
 
-## Habitat and Distribution
+## Habitat and Distribution (Môi trường sống và Phân bố)
 
-**Fae** primarily inhabit:
-- **Eastern Veldrassil**, where the currents of **Mana** flow most intensely
-- Enchanted forests and magical groves, where the boundaries between worlds grow thin
-- Floating islands and crystal spires, where they can be closer to the celestial harmonies
-- Hidden realms accessible only through magical portals, like secret gardens of light
+**Fae** (Tiên tộc) chủ yếu cư trú ở:
+- **Eastern Veldrassil** (Veldrassil phía Đông), nơi dòng chảy của **Mana** chảy mạnh mẽ nhất
+- Rừng mê hoặc và lùm cây ma thuật, nơi ranh giới giữa các thế giới trở nên mỏng manh
+- Các hòn đảo nổi và ngọn tháp pha lê, nơi chúng có thể ở gần hơn với sự hài hòa trên trời
+- Các cõi ẩn chỉ có thể truy cập thông qua các cổng ma thuật, như những khu vườn ánh sáng bí mật
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Những địa điểm này cung cấp môi trường lý tưởng cho việc nghiên cứu phép thuật và chiêm nghiệm tâm linh, giống như âm thanh hoàn hảo cho một bản giao hưởng.
 
-## Cultural Impact
+## Cultural Impact (Tác động Văn hóa)
 
-In the world of **OpenFantasy**, **fae** play a crucial role in preserving ancient magical traditions and enchanting the world with beauty, like weavers of ethereal melodies. Their societies are centers of:
-- Arcane research and magical innovation
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+Trong thế giới **OpenFantasy**, **fae** (tiên tộc) đóng một vai trò quan trọng trong việc bảo tồn các truyền thống ma thuật cổ xưa và mê hoặc thế giới bằng vẻ đẹp, giống như những người dệt nên những giai điệu thuần khiết. Xã hội của họ là trung tâm của:
+- Nghiên cứu bí truyền và đổi mới ma thuật
+- Thể hiện nghệ thuật và tinh tế thẩm mỹ
+- Quan hệ ngoại giao và trao đổi văn hóa
 
-The proximity to the strongest currents of **Mana** has shaped fae culture around the study and mastery of magic, creating a society where magical ability and beauty are highly valued.
+Sự gần gũi với các dòng chảy **Mana** mạnh nhất đã định hình nền văn hóa fae (tiên tộc) xung quanh việc nghiên cứu và làm chủ phép thuật, tạo ra một xã hội nơi khả năng ma thuật và vẻ đẹp được đánh giá cao.
 
-## Relationship with Other Species
+## Relationship with Other Species (Mối quan hệ với các Loài khác)
 
-**Fae** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and amusement, often leading to complex interactions
-- With **Elves**: A deep connection based on shared magical affinities and aesthetic sensibilities
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Beastfolk**: A wary relationship, as beastfolk are less susceptible to fae enchantments
+**Fae** (Tiên tộc) duy trì mối quan hệ phức tạp với các loài khác:
+- Với [**Humans**](/codex/Creatures/Human.md) (Con người): Một sự pha trộn giữa sự quyến rũ và thích thú, thường dẫn đến những tương tác phức tạp
+- Với **Elves** (Yêu tinh): Một kết nối sâu sắc dựa trên sự tương đồng về ma thuật và sự nhạy cảm về thẩm mỹ
+- Với **Dwarves** (Người lùn): Một khoảng cách tôn trọng, thừa nhận tay nghề thủ công của họ nhưng thấy cách của họ kỳ lạ
+- Với **Beastfolk** (Người thú): Một mối quan hệ thận trọng, vì người thú ít bị ảnh hưởng bởi sự phù phép của fae (tiên tộc)
 
-These relationships are often characterized by a sense of cultural superiority, as **fae** view themselves as the true children of magic and beauty.
+Những mối quan hệ này thường được đặc trưng bởi cảm giác ưu việt về văn hóa, vì **fae** (tiên tộc) coi mình là những đứa con thực sự của ma thuật và vẻ đẹp.
 
-## Notable Fae Traits
+## Notable Fae Traits (Đặc điểm Fae đáng chú ý)
 
-- **Magical Mastery**: Fae excel in enchantment and illusion magic, often specializing in one area to the exclusion of others
-- **Ethereal Beauty**: Fae possess an otherworldly beauty that can be both enchanting and unsettling
-- **Environmental Sensitivity**: Fae are deeply attuned to their surroundings, particularly in magical environments
-- **Cultural Preservation**: Fae societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Fae have developed highly refined artistic and cultural traditions
+- **Magical Mastery** (Làm chủ phép thuật): Fae (Tiên tộc) vượt trội trong phép thuật phù phép và ảo ảnh, thường chuyên về một lĩnh vực để loại trừ những lĩnh vực khác
+- **Ethereal Beauty** (Vẻ đẹp Thuần khiết): Fae (Tiên tộc) sở hữu một vẻ đẹp khác lạ có thể vừa mê hoặc vừa đáng lo ngại
+- **Environmental Sensitivity** (Độ nhạy Cảm với Môi trường): Fae (Tiên tộc) rất hòa hợp với môi trường xung quanh, đặc biệt là trong môi trường ma thuật
+- **Cultural Preservation** (Bảo tồn Văn hóa): Các xã hội Fae (Tiên tộc) đặc biệt chú trọng đến việc bảo tồn truyền thống và kiến thức
+- **Aesthetic Refinement** (Tinh tế Thẩm mỹ): Fae (Tiên tộc) đã phát triển các truyền thống nghệ thuật và văn hóa được trau chuốt cao
 
-## Fae Courts
+## Fae Courts (Triều đình Fae)
 
-Fae society is organized into numerous courts, each with its own specialties and traditions:
+Xã hội Fae (Tiên tộc) được tổ chức thành nhiều triều đình, mỗi triều đình có những đặc thù và truyền thống riêng:
 
-| Court | Specialty | Territory | Notable Traits |
+| Court (Triều đình) | Specialty (Chuyên môn) | Territory (Lãnh thổ) | Notable Traits (Đặc điểm Nổi bật) |
 |---------|---------------|---------|-------------------|
-| **Summer Court** | Light magic, growth | Sunlit groves | Radiant beauty, nurturing magic |
-| **Winter Court** | Ice magic, preservation | Frost-covered realms | Cold precision, preservation magic |
-| **Spring Court** | Life magic, renewal | Blooming gardens | Fertility magic, renewal rituals |
-| **Autumn Court** | Transformation magic, harvest | Golden forests | Change magic, harvest celebrations |
-| **Twilight Court** | Shadow magic, transition | Dusk-lit realms | Transition magic, balance between light and dark |
-| **Dawn Court** | Hope magic, new beginnings | Morning-lit meadows | Hope magic, new beginning rituals |
+| **Summer Court** (Triều đình Mùa hè) | Ánh sáng ma thuật, tăng trưởng | Lùm cây đầy nắng | Vẻ đẹp rạng rỡ, ma thuật nuôi dưỡng |
+| **Winter Court** (Triều đình Mùa đông) | Băng ma thuật, bảo tồn | Cõi phủ đầy sương giá | Độ chính xác lạnh lùng, ma thuật bảo tồn |
+| **Spring Court** (Triều đình Mùa xuân) | Ma thuật sự sống, đổi mới | Vườn hoa nở rộ | Ma thuật sinh sản, nghi lễ đổi mới |
+| **Autumn Court** (Triều đình Mùa thu) | Ma thuật biến hình, thu hoạch | Rừng vàng | Thay đổi ma thuật, lễ kỷ niệm thu hoạch |
+| **Twilight Court** (Triều đình Hoàng hôn) | Bóng tối ma thuật, chuyển tiếp | Cõi mờ tối | Chuyển đổi ma thuật, cân bằng giữa ánh sáng và bóng tối |
+| **Dawn Court** (Triều đình Bình minh) | Ma thuật hy vọng, khởi đầu mới | Đồng cỏ đầy nắng buổi sáng | Ma thuật hy vọng, nghi lễ khởi đầu mới |
 
-Understanding the nature of **fae** provides insight into the magical and aesthetic aspects of the world of **OpenFantasy**, like listening to the ethereal melodies that dance through the enchanted forests and crystal spires. 
+Hiểu bản chất của **fae** (tiên tộc) cung cấp cái nhìn sâu sắc về các khía cạnh ma thuật và thẩm mỹ của thế giới **OpenFantasy**, giống như lắng nghe những giai điệu thuần khiết đang nhảy múa qua những khu rừng mê hoặc và ngọn tháp pha lê.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

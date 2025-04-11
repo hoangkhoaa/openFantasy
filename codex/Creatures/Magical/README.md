@@ -1,162 +1,166 @@
-# Magical Beings of OpenFantasy
+# Sinh Vật Ma Thuật của OpenFantasy
 
-> *"They are magic given form and purpose, the living embodiment of mystical forces that flow through our world."*
+> *"Chúng là phép thuật được ban cho hình dạng và mục đích, hiện thân sống động của những thế lực thần bí chảy qua thế giới của chúng ta."*
 
-## Overview
+## Tổng quan
 
-Magical beings in OpenFantasy are creatures that are fundamentally composed of, created by, or infused with magical energy. Unlike sentient species that evolved naturally and merely use magic, magical beings have magic as an intrinsic part of their existence, often with their physical forms serving primarily as vessels for magical energies.
+Sinh vật ma thuật trong OpenFantasy là những sinh vật về cơ bản được cấu tạo từ, được tạo ra bởi hoặc được truyền năng lượng ma thuật. Không giống như các loài hữu tri tiến hóa một cách tự nhiên và chỉ sử dụng phép thuật, sinh vật ma thuật có phép thuật như một phần vốn có trong sự tồn tại của chúng, thường với hình dạng vật lý của chúng chủ yếu đóng vai trò là vật chứa cho năng lượng ma thuật.
 
-These beings are distinguished by their unusually high Mana Capacity, which typically exceeds that of natural creatures. Many originated during periods of intense magical activity or were created through deliberate magical processes, while others represent the physical manifestation of specific magical concepts or elements.
+Những sinh vật này được phân biệt bởi Mana Capacity (Dung Lượng Mana) đặc biệt cao của chúng, thường vượt quá các sinh vật tự nhiên. Nhiều sinh vật có nguồn gốc trong thời kỳ hoạt động ma thuật mạnh mẽ hoặc được tạo ra thông qua các quy trình ma thuật có chủ ý, trong khi những sinh vật khác đại diện cho sự biểu hiện vật lý của các khái niệm hoặc yếu tố ma thuật cụ thể.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-Magical beings typically exhibit the following elemental composition ranges:
+Sinh vật ma thuật thường thể hiện các phạm vi thành phần nguyên tố sau:
 
-| Being Category | Exanthis | Soul | Mana Capacity | Notes |
+| Being Category (Loại Sinh Vật) | Exanthis | Soul (Linh Hồn) | Mana Capacity (Dung Lượng Mana) | Notes (Ghi Chú) |
 |----------------|----------|------|---------------|-------|
-| Fae | 2-10% | 15-35% | 50-80% | Almost pure magical entities |
-| Elementals | 15-30% | 5-15% | 60-85% | Embodiments of elemental forces |
-| Dragonkin | 55-75% | 5-15% | 20-35% | Ancient magical lineage |
-| Constructs | 70-90% | 5-15% | 5-15% | Artificially created beings |
-| Spiritfolk | 10-30% | 20-40% | 40-70% | Beings of manifested spiritual energy |
+| Fae | 2-10% | 15-35% | 50-80% | Gần như là những thực thể ma thuật thuần túy |
+| Elementals (Nguyên Tố) | 15-30% | 5-15% | 60-85% | Hiện thân của các thế lực nguyên tố |
+| Dragonkin (Hậu Duệ Rồng) | 55-75% | 5-15% | 20-35% | Dòng dõi ma thuật cổ xưa |
+| Constructs (Công Trình) | 70-90% | 5-15% | 5-15% | Những sinh vật được tạo ra một cách nhân tạo |
+| Spiritfolk (Dân Tộc Tinh Thần) | 10-30% | 20-40% | 40-70% | Những sinh vật năng lượng tinh thần biểu hiện |
 
-## Categories of Magical Beings
+## Các Loại Sinh Vật Ma Thuật
 
 ### Fae
 
-The Fae represent some of the most purely magical beings in existence, with physical forms that are often mutable and primarily composed of magical energy:
+Fae đại diện cho một số sinh vật ma thuật thuần túy nhất trong sự tồn tại, với hình dạng vật lý thường có thể thay đổi và chủ yếu bao gồm năng lượng ma thuật:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Subcategory (Phân Loại) | Key Characteristics (Đặc Điểm Chính) | Notable Examples (Ví Dụ Nổi Bật) |
 |-------------|---------------------|------------------|
-| **High Fae** | Aristocratic, immense magical power | Fae Lords, Archfey, Court Nobles |
-| **Wild Fae** | Nature-bound, seasonal powers | Dryads, Nixies, Pixies |
-| **Shadow Fae** | Darkness-aligned, deceptive | Bogies, Shadow Dancers, Night Wraiths |
-| **Trickster Fae** | Chaotic, mischievous | Pucks, Imps, Changelings |
+| **High Fae** | Quý tộc, sức mạnh ma thuật to lớn | Fae Lords (Lãnh Chúa Fae), Archfey (Đại Fae), Court Nobles (Quý Tộc Triều Đình) |
+| **Wild Fae** | Ràng buộc với thiên nhiên, sức mạnh theo mùa | Dryads (Nữ Thần Rừng), Nixies (Tiên Nữ Nước), Pixies (Tiên Nữ Nhỏ) |
+| **Shadow Fae** | Liên kết với bóng tối, lừa dối | Bogies (Yêu Tinh), Shadow Dancers (Vũ Công Bóng Tối), Night Wraiths (Hồn Ma Đêm) |
+| **Trickster Fae** | Hỗn loạn, nghịch ngợm | Pucks (Yêu Tinh), Imps (Quỷ Nhỏ), Changelings (Kẻ Đổi Lốt) |
 
-→ See [Fae](Fae.md) for detailed information.
+→ Xem [Fae](Fae.md) để biết thông tin chi tiết.
 
-### Elementals
+### Elementals (Nguyên Tố)
 
-Beings that embody and manifest the fundamental elemental forces of the world:
+Những sinh vật thể hiện và biểu hiện các thế lực nguyên tố cơ bản của thế giới:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Subcategory (Phân Loại) | Key Characteristics (Đặc Điểm Chính) | Notable Examples (Ví Dụ Nổi Bật) |
 |-------------|---------------------|------------------|
-| **Fire Elementals** | Heat generation, volatile temperament | Flame Sprites, Magma Golems, Ember Wraiths |
-| **Water Elementals** | Fluid form, adaptability | Water Nymphs, Tidal Guardians, Ice Shapers |
-| **Earth Elementals** | Physical strength, steadfastness | Stone Sentinels, Crystal Beings, Geomancers |
-| **Air Elementals** | Mobility, unpredictability | Wind Dancers, Storm Heralds, Mist Phantoms |
-| **Composite Elementals** | Multi-element capabilities | Tempest Beings, Volcanic Spirits, Weather Lords |
+| **Fire Elementals** (Nguyên Tố Lửa) | Tạo nhiệt, tính khí thất thường | Flame Sprites (Tinh Linh Lửa), Magma Golems (Golems Dung Nham), Ember Wraiths (Hồn Ma Than Hồng) |
+| **Water Elementals** (Nguyên Tố Nước) | Hình dạng chất lỏng, khả năng thích ứng | Water Nymphs (Nữ Thần Nước), Tidal Guardians (Người Bảo Vệ Thủy Triều), Ice Shapers (Người Tạo Hình Băng) |
+| **Earth Elementals** (Nguyên Tố Đất) | Sức mạnh thể chất, sự kiên định | Stone Sentinels (Lính Canh Đá), Crystal Beings (Sinh Vật Pha Lê), Geomancers (Nhà Địa Mạo) |
+| **Air Elementals** (Nguyên Tố Khí) | Tính di động, khó đoán | Wind Dancers (Vũ Công Gió), Storm Heralds (Sứ Giả Bão), Mist Phantoms (Bóng Ma Sương) |
+| **Composite Elementals** (Nguyên Tố Hỗn Hợp) | Khả năng đa nguyên tố | Tempest Beings (Sinh Vật Bão Tố), Volcanic Spirits (Linh Hồn Núi Lửa), Weather Lords (Chúa Tể Thời Tiết) |
 
-→ See [Elementals](Elementals.md) for detailed information.
+→ Xem [Elementals](Elementals.md) để biết thông tin chi tiết.
 
-### Dragonkin
+### Dragonkin (Hậu Duệ Rồng)
 
-Beings with draconic heritage or essence, representing some of the most ancient magical bloodlines:
+Những sinh vật có di sản hoặc tinh chất rồng, đại diện cho một số dòng máu ma thuật cổ xưa nhất:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Subcategory (Phân Loại) | Key Characteristics (Đặc Điểm Chính) | Notable Examples (Ví Dụ Nổi Bật) |
 |-------------|---------------------|------------------|
-| **True Dragons** | Immense power, elemental mastery | Ancient Wyrms, Dragon Lords, Serpent Kings |
-| **Lesser Dragonkin** | Draconic traits, specialized abilities | Wyverns, Drakes, Feathered Serpents |
-| **Half-Dragons** | Mixed heritage, adaptive magic | Dragon-Touched, Scale Knights, Hybrid Descendants |
-| **Dragon Spirits** | Ethereal nature, ancient knowledge | Astral Dragons, Dragon Ghosts, Essence Wyrms |
+| **True Dragons** (Rồng Thực Sự) | Sức mạnh to lớn, làm chủ nguyên tố | Ancient Wyrms (Rồng Cổ Đại), Dragon Lords (Lãnh Chúa Rồng), Serpent Kings (Vua Rắn) |
+| **Lesser Dragonkin** (Hậu Duệ Rồng Bậc Thấp) | Đặc điểm rồng, khả năng chuyên biệt | Wyverns (Rồng Hai Chân), Drakes (Rồng Nhỏ), Feathered Serpents (Rắn Có Lông) |
+| **Half-Dragons** (Nửa Rồng) | Di sản hỗn hợp, phép thuật thích ứng | Dragon-Touched (Chạm Vào Rồng), Scale Knights (Hiệp Sĩ Vảy), Hybrid Descendants (Hậu Duệ Lai) |
+| **Dragon Spirits** (Linh Hồn Rồng) | Bản chất thanh tao, kiến thức cổ xưa | Astral Dragons (Rồng Tinh Tú), Dragon Ghosts (Ma Rồng), Essence Wyrms (Rồng Tinh Chất) |
 
-→ See [Dragonkin](Dragonkin.md) for detailed information.
+→ Xem [Dragonkin](Dragonkin.md) để biết thông tin chi tiết.
 
-### Constructs
+### Constructs (Công Trình)
 
-Artificially created beings animated by magic:
+Những sinh vật được tạo ra một cách nhân tạo được hoạt hóa bằng phép thuật:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Subcategory (Phân Loại) | Key Characteristics (Đặc Điểm Chính) | Notable Examples (Ví Dụ Nổi Bật) |
 |-------------|---------------------|------------------|
-| **Golems** | Physical power, specific purpose | Clay Golems, Stone Defenders, Iron Sentinels |
-| **Animated Objects** | Former items given consciousness | Living Statues, Awakened Weapons, Animated Furniture |
-| **Homunculi** | Small size, specific functions | Artificer's Assistants, Spell Carriers, Living Tools |
-| **Magical Automata** | Complex mechanisms with magical power | Clockwork Mages, Arcane Engines, Self-Repairing Constructs |
+| **Golems** | Sức mạnh thể chất, mục đích cụ thể | Clay Golems (Golems Đất Sét), Stone Defenders (Người Bảo Vệ Đá), Iron Sentinels (Lính Canh Sắt) |
+| **Animated Objects** (Vật Thể Hoạt Hóa) | Các vật phẩm trước đây được ban cho ý thức | Living Statues (Tượng Sống), Awakened Weapons (Vũ Khí Thức Tỉnh), Animated Furniture (Đồ Nội Thất Hoạt Hóa) |
+| **Homunculi** | Kích thước nhỏ, chức năng cụ thể | Artificer's Assistants (Trợ Lý Thợ Thủ Công), Spell Carriers (Người Chuyển Phép), Living Tools (Công Cụ Sống) |
+| **Magical Automata** | Cơ chế phức tạp với sức mạnh ma thuật | Clockwork Mages (Pháp Sư Máy Móc), Arcane Engines (Động Cơ Huyền Bí), Self-Repairing Constructs (Công Trình Tự Sửa Chữa) |
 
-→ See [Golems](Golems.md) for detailed information on constructed beings.
+→ Xem [Golems](Golems.md) để biết thông tin chi tiết về các sinh vật được xây dựng.
 
-### Spiritfolk
+### Spiritfolk (Dân Tộc Tinh Thần)
 
-Beings composed primarily of spiritual or shadow energy:
+Những sinh vật chủ yếu bao gồm năng lượng tinh thần hoặc bóng tối:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Subcategory (Phân Loại) | Key Characteristics (Đặc Điểm Chính) | Notable Examples (Ví Dụ Nổi Bật) |
 |-------------|---------------------|------------------|
-| **Shadowfolk** | Shadow manipulation, light vulnerability | Umbral Walkers, Shade Dancers, Night Weavers |
-| **Ethereal Beings** | Partial incorporeality, planar shifting | Boundary Walkers, Veil Seers, Phase Dancers |
-| **Manifestations** | Embodiments of concepts or emotions | Joy Sprites, Grief Wraiths, Courage Embodiments |
-| **Bound Spirits** | Attached to locations or objects | Guardian Spirits, Hearth Entities, Vessel-Bound Souls |
+| **Shadowfolk** | Điều khiển bóng tối, dễ bị tổn thương bởi ánh sáng | Umbral Walkers (Người Đi Bóng Tối), Shade Dancers (Vũ Công Bóng Râm), Night Weavers (Người Dệt Đêm) |
+| **Ethereal Beings** (Sinh Vật Thanh Tao) | Một phần vô hình, chuyển dịch mặt phẳng | Boundary Walkers (Người Đi Giới Hạn), Veil Seers (Nhà Tiên Tri Màn Che), Phase Dancers (Vũ Công Pha) |
+| **Manifestations** (Biểu Hiện) | Hiện thân của các khái niệm hoặc cảm xúc | Joy Sprites (Tinh Linh Niềm Vui), Grief Wraiths (Hồn Ma Đau Buồn), Courage Embodiments (Hiện Thân Của Sự Can Đảm) |
+| **Bound Spirits** (Linh Hồn Bị Ràng Buộc) | Gắn liền với địa điểm hoặc đồ vật | Guardian Spirits (Linh Hồn Hộ Mệnh), Hearth Entities (Thực Thể Lò Sưởi), Vessel-Bound Souls (Linh Hồn Bị Ràng Buộc Vào Vật Chứa) |
 
-→ See [Shadowfolk](Shadowfolk.md) for detailed information on shadow beings.
+→ Xem [Shadowfolk](Shadowfolk.md) để biết thông tin chi tiết về các sinh vật bóng tối.
 
-## Origin and Creation
+## Nguồn Gốc và Sự Tạo Ra
 
-Magical beings come into existence through various means:
+Sinh vật ma thuật xuất hiện thông qua nhiều phương tiện khác nhau:
 
-| Origin Type | Process | Examples |
+| Origin Type (Loại Nguồn Gốc) | Process (Quy Trình) | Examples (Ví Dụ) |
 |-------------|----------|----------|
-| **Primal Manifestation** | Spontaneous coalescing of magical energy | Elementals forming at sites of elemental power |
-| **Deliberate Creation** | Magical crafting by other beings | Golems, artificially created servants |
-| **Evolutionary Divergence** | Natural evolution in highly magical environments | Certain Fae species, magical animals |
-| **Transformation** | Magical alteration of existing beings | Shadow-transformed creatures, fae-touched beings |
-| **Conceptual Manifestation** | Physical embodiment of abstract forces | Spirits of emotions, season embodiments |
+| **Primal Manifestation** (Sự Biểu Hiện Nguyên Thủy) | Sự hợp nhất tự phát của năng lượng ma thuật | Elementals (Nguyên Tố) hình thành tại các địa điểm có sức mạnh nguyên tố |
+| **Deliberate Creation** (Sự Tạo Ra Có Chủ Ý) | Chế tạo ma thuật bởi các sinh vật khác | Golems, những người hầu được tạo ra một cách nhân tạo |
+| **Evolutionary Divergence** (Sự Phân Kỳ Tiến Hóa) | Tiến hóa tự nhiên trong môi trường ma thuật cao | Một số loài Fae, động vật ma thuật |
+| **Transformation** (Sự Biến Đổi) | Sự thay đổi ma thuật của các sinh vật hiện có | Những sinh vật bị biến đổi bởi bóng tối, những sinh vật bị chạm vào bởi Fae |
+| **Conceptual Manifestation** (Sự Biểu Hiện Khái Niệm) | Hiện thân vật lý của các thế lực trừu tượng | Linh hồn của cảm xúc, hiện thân theo mùa |
 
-## Magic and Abilities
+## Phép Thuật và Khả Năng
 
-The magical abilities of these beings differ fundamentally from those of spellcasting sentient species:
+Khả năng ma thuật của những sinh vật này khác về cơ bản so với khả năng của các loài hữu tri sử dụng phép thuật:
 
-### Innate vs. Learned Magic
+### Phép Thuật Bẩm Sinh vs. Học Được
 
-| Being Type | Magic Source | Characteristics |
+| Being Type (Loại Sinh Vật) | Magic Source (Nguồn Phép Thuật) | Characteristics (Đặc Điểm) |
 |------------|--------------|-----------------|
-| **Sentient Spellcaster** | Manipulates external mana through learned patterns | Requires study, controlled, versatile |
-| **Magical Being** | Channels internal magical essence through instinct | Innate, specialized, often more powerful in specific domains |
+| **Sentient Spellcaster** (Người Sử Dụng Phép Thuật Hữu Tri) | Điều khiển mana bên ngoài thông qua các mẫu đã học | Yêu cầu nghiên cứu, được kiểm soát, linh hoạt |
+| **Magical Being** (Sinh Vật Ma Thuật) | Truyền năng lượng ma thuật bên trong thông qua bản năng | Bẩm sinh, chuyên biệt, thường mạnh hơn trong các lĩnh vực cụ thể |
 
-### Life Cycle and Sustainability
+### Vòng Đời và Tính Bền Vững
 
-Magical beings often have unique requirements to sustain their existence:
+Sinh vật ma thuật thường có những yêu cầu riêng để duy trì sự tồn tại của chúng:
 
-| Type | Sustenance | Life Cycle |
+| Type (Loại) | Sustenance (Duy Trì) | Life Cycle (Vòng Đời) |
 |------|------------|------------|
-| **Elementals** | Connection to elemental source | May dissipate if separated from element, potentially immortal |
-| **Fae** | Emotional energy, belief, magical alignment | Extremely long-lived, bound to conceptual cycles |
-| **Constructs** | Magical maintenance, purpose fulfillment | Potentially eternal if maintained, may fade if purpose ends |
-| **Spiritfolk** | Shadow energy, spiritual resonance | Cyclical manifestation patterns, tied to natural or emotional cycles |
+| **Elementals** (Nguyên Tố) | Kết nối với nguồn nguyên tố | Có thể tiêu tan nếu tách khỏi nguyên tố, có khả năng bất tử |
+| **Fae** | Năng lượng cảm xúc, niềm tin, sự liên kết ma thuật | Sống cực kỳ lâu, gắn liền với các chu kỳ khái niệm |
+| **Constructs** (Công Trình) | Bảo trì ma thuật, hoàn thành mục đích | Có khả năng vĩnh cửu nếu được bảo trì, có thể phai nhạt nếu mục đích kết thúc |
+| **Spiritfolk** (Dân Tộc Tinh Thần) | Năng lượng bóng tối, cộng hưởng tinh thần | Các mẫu biểu hiện theo chu kỳ, gắn liền với các chu kỳ tự nhiên hoặc cảm xúc |
 
-## Habitats and Domains
+## Môi Trường Sống và Lãnh Địa
 
-Magical beings typically inhabit areas with significant magical properties:
+Sinh vật ma thuật thường sinh sống ở những khu vực có đặc tính ma thuật đáng kể:
 
-| Environment | Common Inhabitants | Notable Characteristics |
+| Environment (Môi Trường) | Common Inhabitants (Cư Dân Phổ Biến) | Notable Characteristics (Đặc Điểm Nổi Bật) |
 |-------------|-------------------|-------------------------|
-| **Fae Wilds** | High Fae, Trickster Fae | Reality distortion, temporal fluctuations |
-| **Elemental Planes** | Pure Elementals, Elemental Hybrids | Concentrated elemental energy, hostile to non-natives |
-| **Ancient Ruins** | Constructed Guardians, Bound Spirits | Residual enchantments, magical preservation |
-| **Shadow Realms** | Shadowfolk, Dark Fae | Limited light, emotional amplification |
-| **Magical Nexuses** | Various Magical Beings | Ley line intersections, planar boundaries |
+| **Fae Wilds** | High Fae (Fae Bậc Cao), Trickster Fae (Fae Lừa Đảo) | Biến dạng thực tế, biến động thời gian |
+| **Elemental Planes** (Mặt Phẳng Nguyên Tố) | Pure Elementals (Nguyên Tố Thuần Túy), Elemental Hybrids (Nguyên Tố Lai) | Năng lượng nguyên tố tập trung, thù địch với những người không phải bản địa |
+| **Ancient Ruins** (Tàn Tích Cổ Xưa) | Constructed Guardians (Người Bảo Vệ Được Xây Dựng), Bound Spirits (Linh Hồn Bị Ràng Buộc) | Bùa chú còn sót lại, bảo tồn ma thuật |
+| **Shadow Realms** (Vương Quốc Bóng Tối) | Shadowfolk (Dân Tộc Bóng Tối), Dark Fae (Fae Bóng Tối) | Ánh sáng hạn chế, khuếch đại cảm xúc |
+| **Magical Nexuses** (Điểm Kết Nối Ma Thuật) | Various Magical Beings (Nhiều Sinh Vật Ma Thuật Khác Nhau) | Giao điểm đường Ley, ranh giới mặt phẳng |
 
-## Interactions with Other Beings
+## Tương Tác với Các Sinh Vật Khác
 
-The relationship between magical beings and other creatures varies widely:
+Mối quan hệ giữa sinh vật ma thuật và các sinh vật khác rất khác nhau:
 
-### Common Dynamics
+### Động Lực Phổ Biến
 
-- **Symbiotic Partnerships**: Mutually beneficial arrangements between magical beings and sentient species
-- **Service Bonds**: Magical creatures bound to serve mages or organizations
-- **Territorial Conflicts**: Competition for magically significant locations
-- **Knowledge Exchange**: Magical beings as sources of ancient wisdom or magical techniques
-- **Cultural Integration**: Societies where magical beings and sentient species coexist
+- **Symbiotic Partnerships** (Quan Hệ Đối Tác Cộng Sinh): Các thỏa thuận cùng có lợi giữa sinh vật ma thuật và các loài hữu tri
+- **Service Bonds** (Liên Kết Phục Vụ): Sinh vật ma thuật bị ràng buộc phục vụ các pháp sư hoặc tổ chức
+- **Territorial Conflicts** (Xung Đột Lãnh Thổ): Cạnh tranh cho các địa điểm có ý nghĩa ma thuật
+- **Knowledge Exchange** (Trao Đổi Kiến Thức): Sinh vật ma thuật là nguồn kiến thức cổ xưa hoặc kỹ thuật ma thuật
+- **Cultural Integration** (Hội Nhập Văn Hóa): Các xã hội nơi sinh vật ma thuật và các loài hữu tri cùng tồn tại
 
-### Rules of Engagement
+### Quy Tắc Tham Gia
 
-Many magical beings operate according to specific metaphysical rules:
+Nhiều sinh vật ma thuật hoạt động theo các quy tắc siêu hình cụ thể:
 
-| Being Type | Common Rules | Impact on Interaction |
+| Being Type (Loại Sinh Vật) | Common Rules (Quy Tắc Phổ Biến) | Impact on Interaction (Tác Động Đến Tương Tác) |
 |------------|--------------|----------------------|
-| **Fae** | Cannot lie but may mislead, bound by bargains | Literal interpretation of agreements, value of true names |
-| **Elementals** | Behave according to elemental nature | Predictable reactions based on elemental alignment |
-| **Constructs** | Follow creator's instructions literally | Potential for loophole exploitation, strict interpretation |
-| **Spiritfolk** | Bound by spiritual laws and cycles | Interaction changes based on moon phases, time of day, emotions |
+| **Fae** | Không thể nói dối nhưng có thể gây hiểu lầm, bị ràng buộc bởi các giao kèo | Giải thích theo nghĩa đen của thỏa thuận, giá trị của tên thật |
+| **Elementals** (Nguyên Tố) | Hành xử theo bản chất nguyên tố | Phản ứng có thể đoán trước dựa trên sự liên kết nguyên tố |
+| **Constructs** (Công Trình) | Tuân theo hướng dẫn của người tạo ra một cáchliterally | Tiềm năng khai thác lỗ hổng, giải thích nghiêm ngặt |
+| **Spiritfolk** (Dân Tộc Tinh Thần) | Bị ràng buộc bởi luật lệ và chu kỳ tinh thần | Tương tác thay đổi dựa trên các pha của mặt trăng, thời gian trong ngày, cảm xúc |
 
 ---
 
-> *"To truly understand magical beings, one must first accept that they are not simply creatures who use magic—they are magic itself, experiencing the world through forms we can comprehend."* — Archmage Thaelon, Treatise on Magical Ontology 
+> *"Để thực sự hiểu về sinh vật ma thuật, trước tiên người ta phải chấp nhận rằng chúng không chỉ đơn thuần là những sinh vật sử dụng phép thuật—chúng là phép thuật, trải nghiệm thế giới thông qua những hình thức mà chúng ta có thể hiểu được."* — Archmage Thaelon (Đại Pháp Sư Thaelon), Treatise on Magical Ontology (Luận Thuyết về Bản Thể Học Ma Thuật)
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

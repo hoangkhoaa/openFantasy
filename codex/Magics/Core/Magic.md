@@ -1,225 +1,229 @@
-# **Magic**: The Harmonic Art of Reality Manipulation
+# **Magic** (Ma thuật): Nghệ thuật Điều hòa của Việc Thao Túng Thực Tại
 
-[**Magic**](/codex/Magics/Core/Magic.md) in the world of OpenFantasy is not merely a mystical force but a fundamental aspect of reality—as natural and essential as physics or mathematics. Just as music transforms vibrations into harmony through structured patterns, magic transforms mana into effects through disciplined manipulation of universal energies.
+[**Magic**](/codex/Magics/Core/Magic.md) (Ma thuật) trong thế giới OpenFantasy không chỉ đơn thuần là một sức mạnh huyền bí mà là một khía cạnh cơ bản của thực tại—tự nhiên và thiết yếu như vật lý hoặc toán học. Giống như âm nhạc biến đổi rung động thành sự hài hòa thông qua các mẫu cấu trúc, ma thuật biến đổi mana thành các hiệu ứng thông qua việc thao túng năng lượng vũ trụ một cách kỷ luật.
 
-## Fundamental Principles
+## Các Nguyên Tắc Cơ Bản
 
-Magic in OpenFantasy operates on three fundamental principles that form the basis of all magical theory and practice:
+Ma thuật trong OpenFantasy hoạt động dựa trên ba nguyên tắc cơ bản tạo thành nền tảng của mọi lý thuyết và thực hành ma thuật:
 
-| Principle | Description | Musical Analogy |
+| Principle (Nguyên tắc) | Description (Mô tả) | Musical Analogy (Tương tự âm nhạc) |
 |---------|------------|----------|
-| **Purity** | The clarity and focus of magical energy | The cleanness of a musical note |
-| **Intensity** | The raw power and force of magical energy | The volume of a musical performance |
-| **Complexity** | The intricacy and sophistication of magical patterns | The complexity of a musical composition |
+| **Purity** (Độ tinh khiết) | Sự rõ ràng và tập trung của năng lượng ma thuật | Sự trong trẻo của một nốt nhạc |
+| **Intensity** (Cường độ) | Sức mạnh thô và lực của năng lượng ma thuật | Âm lượng của một buổi biểu diễn âm nhạc |
+| **Complexity** (Độ phức tạp) | Sự phức tạp và tinh vi của các mẫu ma thuật | Độ phức tạp của một bản nhạc |
 
-These principles interact with a practitioner's elemental composition to determine their magical capabilities and limitations.
+Các nguyên tắc này tương tác với thành phần nguyên tố của người thực hành để xác định khả năng và hạn chế ma thuật của họ.
 
-## Elemental Composition and Magic
+## Thành Phần Nguyên Tố và Ma Thuật
 
-A being's elemental composition directly influences their magical abilities:
+Thành phần nguyên tố của một sinh vật ảnh hưởng trực tiếp đến khả năng ma thuật của họ:
 
-- **Exanthis**: Provides the physical substrate that anchors magic in reality. Higher Exanthis grants greater resistance to magical effects but can limit magical output. Like the physical construction of an instrument that determines its durability.
+- **Exanthis**: Cung cấp chất nền vật lý neo giữ ma thuật trong thực tế. Exanthis cao hơn giúp tăng khả năng kháng lại các hiệu ứng ma thuật nhưng có thể hạn chế đầu ra ma thuật. Giống như cấu trúc vật lý của một nhạc cụ xác định độ bền của nó.
 
-- **Soul**: Shapes the character and creativity of magical expression. Higher Soul percentages allow for more intuitive and adaptable spellcasting. Like a musician's interpretation that brings unique character to a performance.
+- **Soul** (Linh hồn): Định hình tính cách và sự sáng tạo của biểu hiện ma thuật. Tỷ lệ Linh hồn cao hơn cho phép sử dụng phép thuật trực quan và dễ thích ứng hơn. Giống như cách giải thích của một nhạc sĩ mang lại nét độc đáo cho một buổi biểu diễn.
 
-- **Mana Capacity**: Determines the amount of magical energy a being can channel and store. Higher Mana Capacity allows for more powerful and sustained spellcasting. Like the lung capacity of a wind instrumentalist or the arm strength of a percussionist.
+- **Mana Capacity** (Dung lượng Mana): Xác định lượng năng lượng ma thuật mà một sinh vật có thể truyền và lưu trữ. Dung lượng Mana cao hơn cho phép sử dụng phép thuật mạnh mẽ và bền vững hơn. Giống như dung tích phổi của một người chơi nhạc cụ hơi hoặc sức mạnh cánh tay của một người chơi bộ gõ.
 
-## Key Magical Concepts
+## Các Khái Niệm Ma Thuật Quan Trọng
 
 ### Mana
-The fundamental energy of magic, comparable to notes in music:
-- **Nature**: Universal life force present in all things
-- **Accessibility**: Can be drawn from the caster or environment
-- **Limitation**: Finite resource that must be replenished
-- **Manipulation**: Requires training to gather and control
+Năng lượng cơ bản của ma thuật, có thể so sánh với các nốt nhạc trong âm nhạc:
+- **Nature** (Bản chất): Nguồn sống phổ quát hiện diện trong mọi thứ
+- **Accessibility** (Khả năng tiếp cận): Có thể được lấy từ người sử dụng hoặc môi trường
+- **Limitation** (Giới hạn): Nguồn tài nguyên hữu hạn phải được bổ sung
+- **Manipulation** (Thao tác): Yêu cầu đào tạo để thu thập và kiểm soát
 
-*See [**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md) for detailed information*
+*Xem [**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md) (Cơ chế Mana) để biết thông tin chi tiết*
 
-### Mana Capacity
-The amount of magical energy a practitioner can hold and channel:
-- **Range**: Typically 5-85% of theoretical maximum
-- **Development**: Increases through practice and study
-- **Limitation**: Genetically influenced upper limit
-- **Expression**: Higher capacity enables larger and more complex spells
+### Mana Capacity (Dung lượng Mana)
+Lượng năng lượng ma thuật mà một người thực hành có thể giữ và truyền:
+- **Range** (Phạm vi): Thông thường từ 5-85% mức tối đa lý thuyết
+- **Development** (Phát triển): Tăng lên thông qua luyện tập và học tập
+- **Limitation** (Giới hạn): Giới hạn trên bị ảnh hưởng bởi di truyền
+- **Expression** (Biểu hiện): Dung lượng cao hơn cho phép các phép thuật lớn hơn và phức tạp hơn
 
-*See [**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md) for detailed information*
+*Xem [**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md) (Tái tạo Mana) để biết thông tin chi tiết*
 
-### Wild Mana
-Raw, unpurified magical energy permeating the environment:
-- **Nature**: Chaotic, unpredictable energy
-- **Danger**: Can contaminate spells and cause instability
-- **Utility**: Source of ambient magical power
-- **Manifestation**: Can create spontaneous magical phenomena
+### Wild Mana (Mana Hoang)
+Năng lượng ma thuật thô, chưa được tinh chế thấm vào môi trường:
+- **Nature** (Bản chất): Năng lượng hỗn loạn, khó đoán
+- **Danger** (Nguy hiểm): Có thể làm ô nhiễm phép thuật và gây mất ổn định
+- **Utility** (Tiện ích): Nguồn sức mạnh ma thuật xung quanh
+- **Manifestation** (Biểu hiện): Có thể tạo ra các hiện tượng ma thuật tự phát
 
-*See [**Wild Mana**](/codex/Magics/Core/WildMana.md) and [**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md) for detailed information*
+*Xem [**Wild Mana**](/codex/Magics/Core/WildMana.md) (Mana Hoang) và [**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md) (Hiệu ứng Mana Hoang) để biết thông tin chi tiết*
 
-### Purification
-The process of refining raw mana for spellcasting:
-- **Purpose**: Removes chaotic elements for precise control
-- **Methods**: Mental discipline, tool assistance, alchemical aids
-- **Levels**: Crude to Perfect based on remaining Wild Mana content
-- **Significance**: Determines spell precision and reliability
+### Purification (Thanh lọc)
+Quá trình tinh chế mana thô để sử dụng phép thuật:
+- **Purpose** (Mục đích): Loại bỏ các yếu tố hỗn loạn để kiểm soát chính xác
+- **Methods** (Phương pháp): Kỷ luật tinh thần, hỗ trợ công cụ, trợ giúp giả kim
+- **Levels** (Cấp độ): Từ Thô đến Hoàn hảo dựa trên hàm lượng Mana Hoang còn lại
+- **Significance** (Ý nghĩa): Xác định độ chính xác và độ tin cậy của phép thuật
 
-*See [**Mana Purity**](/codex/Magics/Core/ManaPurity.md) for detailed information*
+*Xem [**Mana Purity**](/codex/Magics/Core/ManaPurity.md) (Độ tinh khiết của Mana) để biết thông tin chi tiết*
 
-### Spellcasting
-The practical application of magical theory:
-- **Process**: Five-stage sequence (Gathering, Purification, Patterning, Resonance, Release)
-- **Variation**: Different traditions employ unique methods
-- **Requirement**: Mental discipline, physical components, and/or tools
-- **Expression**: Ranges from simple cantrips to complex ritual magic
+### Spellcasting (Sử dụng phép thuật)
+Ứng dụng thực tế của lý thuyết ma thuật:
+- **Process** (Quy trình): Trình tự năm giai đoạn (Thu thập, Thanh lọc, Tạo mẫu, Cộng hưởng, Giải phóng)
+- **Variation** (Biến thể): Các truyền thống khác nhau sử dụng các phương pháp độc đáo
+- **Requirement** (Yêu cầu): Kỷ luật tinh thần, các thành phần vật lý và/hoặc công cụ
+- **Expression** (Biểu hiện): Phạm vi từ các câu thần chú đơn giản đến ma thuật nghi lễ phức tạp
 
-*See [**Magic Casting**](/codex/Magics/Core/MagicCasting.md) for detailed information*
+*Xem [**Magic Casting**](/codex/Magics/Core/MagicCasting.md) (Thi triển Ma thuật) để biết thông tin chi tiết*
 
-### Elemental Magic
-Manipulation of fundamental forces and elements:
-- **Primary Elements**: Fire, Water, Earth, Air, Light, Shadow, Life, Death
-- **Structure**: Complementary and opposing pairings
-- **Application**: Most accessible and widely practiced form of magic
-- **Expression**: Direct manipulation or elemental byproducts
+### Elemental Magic (Ma thuật nguyên tố)
+Thao tác các lực lượng và nguyên tố cơ bản:
+- **Primary Elements** (Nguyên tố chính): Lửa, Nước, Đất, Khí, Ánh sáng, Bóng tối, Sự sống, Cái chết
+- **Structure** (Cấu trúc): Các cặp bổ sung và đối lập
+- **Application** (Ứng dụng): Hình thức ma thuật dễ tiếp cận và được thực hành rộng rãi nhất
+- **Expression** (Biểu hiện): Thao tác trực tiếp hoặc các sản phẩm phụ nguyên tố
 
-*See [**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) for detailed information*
+*Xem [**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) (Ma thuật Nguyên tố) để biết thông tin chi tiết*
 
-### Magical Schools
-Specialized disciplines focusing on particular applications:
-- **Major Schools**: Evocation, Conjuration, Divination, Enchantment, Illusion, Abjuration
-- **Organization**: Systematic approaches to magical education and research
-- **Philosophy**: Unique perspectives on the nature and application of magic
-- **Methodology**: Specialized techniques for particular magical effects
+### Magical Schools (Trường phái ma thuật)
+Các ngành chuyên biệt tập trung vào các ứng dụng cụ thể:
+- **Major Schools** (Trường phái chính): Triệu hồi, Tạo tác, Tiên tri, Bùa mê, Ảo ảnh, Phù phép
+- **Organization** (Tổ chức): Các phương pháp tiếp cận có hệ thống đối với giáo dục và nghiên cứu ma thuật
+- **Philosophy** (Triết lý): Quan điểm độc đáo về bản chất và ứng dụng của ma thuật
+- **Methodology** (Phương pháp luận): Các kỹ thuật chuyên biệt cho các hiệu ứng ma thuật cụ thể
 
-*See the [**Schools**](/codex/Magics/Schools/) directory for detailed information*
+*Xem thư mục [**Schools**](/codex/Magics/Schools/) (Trường phái) để biết thông tin chi tiết*
 
-## Intensity and Magic
+## Cường Độ và Ma Thuật
 
-Magical intensity refers to the raw power and force of magical energy. Like the volume of a musical performance, intense magic commands attention and overwhelms opposition.
+Cường độ ma thuật đề cập đến sức mạnh thô và lực của năng lượng ma thuật. Giống như âm lượng của một buổi biểu diễn âm nhạc, ma thuật cường độ cao thu hút sự chú ý và áp đảo đối thủ.
 
-### Intensity Factors
+### Các Yếu Tố Cường Độ
 
-1. **Mana Volume**: The amount of magical energy a caster can channel at once. Higher Mana Capacity allows for greater intensity.
+1. **Mana Volume** (Âm lượng Mana): Lượng năng lượng ma thuật mà người sử dụng có thể truyền cùng một lúc. Dung lượng Mana cao hơn cho phép cường độ lớn hơn.
 
-2. **Exanthis Conductivity**: The physical body must be able to withstand the channeling of intense magic. Higher Exanthis provides resistance but can also limit conductivity.
+2. **Exanthis Conductivity** (Độ dẫn Exanthis): Cơ thể vật lý phải có khả năng chịu được việc truyền ma thuật cường độ cao. Exanthis cao hơn cung cấp khả năng kháng cự nhưng cũng có thể hạn chế độ dẫn điện.
 
-3. **Emotional State**: Strong emotions can temporarily increase magical intensity at the cost of control and purity.
+3. **Emotional State** (Trạng thái cảm xúc): Cảm xúc mạnh mẽ có thể tạm thời làm tăng cường độ ma thuật với cái giá là sự kiểm soát và độ tinh khiết.
 
-### Species and Intensity
+### Loài và Cường Độ
 
-Different species have natural affinities for magical intensity:
+Các loài khác nhau có mối liên hệ tự nhiên với cường độ ma thuật:
 
-- **Dragonkin** (55-75% Exanthis, 20-35% Mana Capacity): Channel intense elemental magic with devastating effect but limited finesse.
+- **Dragonkin** (Người Rồng) (55-75% Exanthis, 20-35% Dung lượng Mana): Truyền ma thuật nguyên tố cường độ cao với hiệu ứng tàn khốc nhưng sự khéo léo hạn chế.
 
-- **Dark Elves** (15-35% Exanthis, 45-75% Mana Capacity): Achieve high intensity in shadow and void magic through specialized training.
+- **Dark Elves** (Yêu Tinh Bóng Tối) (15-35% Exanthis, 45-75% Dung lượng Mana): Đạt được cường độ cao trong ma thuật bóng tối và khoảng không thông qua đào tạo chuyên biệt.
 
-- **Giants** (65-85% Exanthis, 5-20% Mana Capacity): Limited magical potential but what little magic they produce tends to be intense and primal.
+- **Giants** (Người Khổng Lồ) (65-85% Exanthis, 5-20% Dung lượng Mana): Tiềm năng ma thuật hạn chế nhưng lượng ma thuật ít ỏi mà họ tạo ra có xu hướng mạnh mẽ và nguyên thủy.
 
-- **Humans** (20-55% Exanthis, 15-60% Mana Capacity): Capable of surprising bursts of intensity, especially when emotionally charged.
+- **Humans** (Con người) (20-55% Exanthis, 15-60% Dung lượng Mana): Có khả năng bộc phát cường độ đáng ngạc nhiên, đặc biệt là khi có cảm xúc.
 
-### Intensity Applications
+### Các Ứng Dụng Cường Độ
 
-- **Combat Magic**: Higher intensity overwhelms magical defenses and produces more devastating effects.
+- **Combat Magic** (Ma thuật chiến đấu): Cường độ cao hơn áp đảo phòng thủ ma thuật và tạo ra các hiệu ứng tàn khốc hơn.
 
-- **Elemental Manipulation**: Intensity determines the scale and force of elemental effects, from gentle breezes to devastating storms.
+- **Elemental Manipulation** (Thao tác nguyên tố): Cường độ xác định quy mô và lực của các hiệu ứng nguyên tố, từ những làn gió nhẹ đến những cơn bão tàn khốc.
 
-- **Warding**: Intensity determines the strength of magical barriers and their resistance to breaching attempts.
+- **Warding** (Yểm hộ): Cường độ xác định sức mạnh của các rào cản ma thuật và khả năng chống lại các nỗ lực xâm phạm.
 
-## Complexity and Magic
+## Độ Phức Tạp và Ma Thuật
 
-Magical complexity refers to the intricacy and sophistication of magical patterns. Like a complex musical composition, complex magic can achieve effects that simpler magic cannot.
+Độ phức tạp của ma thuật đề cập đến sự phức tạp và tinh vi của các mẫu ma thuật. Giống như một bản nhạc phức tạp, ma thuật phức tạp có thể đạt được những hiệu ứng mà ma thuật đơn giản hơn không thể.
 
-### Complexity Factors
+### Các Yếu Tố Phức Tạp
 
-1. **Mental Capacity**: The caster's ability to conceptualize and maintain complex magical patterns.
+1. **Mental Capacity** (Năng lực tinh thần): Khả năng của người sử dụng để khái niệm hóa và duy trì các mẫu ma thuật phức tạp.
 
-2. **Soul Flexibility**: Higher Soul percentages allow for more adaptable and creative manipulation of magical energies.
+2. **Soul Flexibility** (Độ linh hoạt của Linh hồn): Tỷ lệ Linh hồn cao hơn cho phép thao tác năng lượng ma thuật dễ thích ứng và sáng tạo hơn.
 
-3. **Training and Knowledge**: Academic understanding of magical theory enables greater complexity.
+3. **Training and Knowledge** (Đào tạo và kiến thức): Hiểu biết học thuật về lý thuyết ma thuật cho phép độ phức tạp lớn hơn.
 
-### Species and Complexity
+### Loài và Độ Phức Tạp
 
-Different species have natural affinities for magical complexity:
+Các loài khác nhau có mối liên hệ tự nhiên với độ phức tạp của ma thuật:
 
-- **Gnomes** (30-50% Soul, 25-40% Mana Capacity): Excel at creating complex magical devices and combining magic with technology.
+- **Gnomes** (Người Lùn) (30-50% Linh hồn, 25-40% Dung lượng Mana): Vượt trội trong việc tạo ra các thiết bị ma thuật phức tạp và kết hợp ma thuật với công nghệ.
 
-- **Shadowfolk** (30-50% Soul, 30-50% Mana Capacity): Master intricate shadow patterns and complex illusions.
+- **Shadowfolk** (Dân Bóng Tối) (30-50% Linh hồn, 30-50% Dung lượng Mana): Làm chủ các mẫu bóng tối phức tạp và ảo ảnh phức tạp.
 
-- **Humans** (15-45% Soul, 15-60% Mana Capacity): Adapt quickly to new magical paradigms and innovations.
+- **Humans** (Con người) (15-45% Linh hồn, 15-60% Dung lượng Mana): Thích nghi nhanh chóng với các mô hình và đổi mới ma thuật mới.
 
-- **Merfolk** (25-40% Soul, 20-40% Mana Capacity): Create complex harmonies in water magic that affect entire ecosystems.
+- **Merfolk** (Người Cá) (25-40% Linh hồn, 20-40% Dung lượng Mana): Tạo ra sự hài hòa phức tạp trong ma thuật nước ảnh hưởng đến toàn bộ hệ sinh thái.
 
-### Complexity Applications
+### Các Ứng Dụng Phức Tạp
 
-- **Ritual Magic**: Complex rituals can achieve effects impossible through direct spellcasting.
+- **Ritual Magic** (Ma thuật nghi lễ): Các nghi lễ phức tạp có thể đạt được những hiệu ứng không thể thực hiện được thông qua việc sử dụng phép thuật trực tiếp.
 
-- **Transformation Magic**: Altering physical forms requires intricate understanding of both target and desired form.
+- **Transformation Magic** (Ma thuật biến hình): Thay đổi hình dạng vật lý đòi hỏi sự hiểu biết phức tạp về cả mục tiêu và hình dạng mong muốn.
 
-- **Teleportation**: Spatial manipulation demands exceptional complexity to ensure accurate and safe transit.
+- **Teleportation** (Dịch chuyển): Thao tác không gian đòi hỏi độ phức tạp đặc biệt để đảm bảo quá trình vận chuyển chính xác và an toàn.
 
-## The Mana Spectrum
+## Quang Phổ Mana
 
-When Wild Mana is purified and refined, it becomes **Base Mana** - the stable form of magical energy from which all magical effects derive. When this base mana is aligned and attuned to specific elemental resonances, it transforms into specialized elemental forms:
+Khi Wild Mana (Mana Hoang) được thanh lọc và tinh chế, nó trở thành **Base Mana** (Mana Gốc) - dạng năng lượng ma thuật ổn định từ đó tất cả các hiệu ứng ma thuật bắt nguồn. Khi mana gốc này được căn chỉnh và điều chỉnh theo các cộng hưởng nguyên tố cụ thể, nó sẽ biến đổi thành các dạng nguyên tố chuyên biệt:
 
-| Mana Type | Properties | Natural Affinity | Musical Analogy |
+| Mana Type (Loại Mana) | Properties (Đặc tính) | Natural Affinity (Sự gần gũi tự nhiên) | Musical Analogy (Tương tự âm nhạc) |
 |---------|------------|---------|----------|
-| **Wild Mana** | Chaotic, primordial, untamed | Creatures of chaos, natural world | Unstructured sound |
-| **Base Mana** | Neutral, adaptable, receptive | Humans, balanced beings | Unpitched percussion |
-| **Pyromana** | Intense, passionate, destructive | Dragonkin, Giants | Trumpet, high brass |
-| **Hydromana** | Flowing, healing, transformative | Merfolk, Sirens | Cello, flowing strings |
-| **Terramana** | Stable, enduring, protective | Dwarves, Centaurs | Bass, foundation notes |
-| **Aeromana** | Swift, changeable, far-reaching | Elves, Birdfolk | Flute, woodwinds |
-| **Luxmana** | Revealing, purifying, energizing | Fae, High Elves | Major key melodies |
-| **Umbramana** | Subtle, deceptive, penetrating | Shadowfolk, Dark Elves | Minor key melodies |
-| **Vitaemana** | Life-giving, growing, renewing | Beastfolk, Humans | Folk harmonies |
-| **Mortismana** | Decaying, transforming, conserving | Dark Elves, Shadowfolk | Dissonant harmonies |
+| **Wild Mana** (Mana Hoang) | Hỗn loạn, nguyên thủy, không thuần hóa | Các sinh vật hỗn loạn, thế giới tự nhiên | Âm thanh không cấu trúc |
+| **Base Mana** (Mana Gốc) | Trung tính, dễ thích ứng, dễ tiếp thu | Con người, những sinh vật cân bằng | Bộ gõ không cao độ |
+| **Pyromana** | Mãnh liệt, đam mê, hủy diệt | Dragonkin (Người Rồng), Giants (Người Khổng Lồ) | Kèn trumpet, kèn đồng cao |
+| **Hydromana** | Chảy, chữa lành, biến đổi | Merfolk (Người Cá), Sirens (Nàng Tiên Cá) | Cello, dây chảy |
+| **Terramana** | Ổn định, bền bỉ, bảo vệ | Dwarves (Người Lùn), Centaurs (Nhân Mã) | Bass, nốt nền tảng |
+| **Aeromana** | Nhanh chóng, dễ thay đổi, có tầm ảnh hưởng sâu rộng | Elves (Yêu Tinh), Birdfolk (Người Chim) | Sáo, nhạc cụ bộ hơi |
+| **Luxmana** | Tiết lộ, thanh lọc, tiếp thêm sinh lực | Fae (Tiên), High Elves (Thượng Yêu Tinh) | Giai điệu giọng trưởng |
+| **Umbramana** | Tinh tế, lừa dối, xuyên thấu | Shadowfolk (Dân Bóng Tối), Dark Elves (Yêu Tinh Bóng Tối) | Giai điệu giọng thứ |
+| **Vitaemana** | Cho sự sống, phát triển, đổi mới | Beastfolk (Người Thú), Humans (Con Người) | Hòa âm dân gian |
+| **Mortismana** | Phân rã, biến đổi, bảo tồn | Dark Elves (Yêu Tinh Bóng Tối), Shadowfolk (Dân Bóng Tối) | Hòa âm nghịch tai |
 
-For detailed information on elemental mana types, see [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md).
+Để biết thông tin chi tiết về các loại mana nguyên tố, hãy xem [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md).
 
-## Magical Resonance and Dissonance
+## Cộng Hưởng Ma Thuật và Bất Hòa
 
-When multiple casters work together, their magic can either resonate (amplify) or create dissonance (interfere):
+Khi nhiều người sử dụng phép thuật làm việc cùng nhau, phép thuật của họ có thể cộng hưởng (khuếch đại) hoặc tạo ra sự bất hòa (gây nhiễu):
 
-### Harmonic Casting
+### Harmonic Casting (Sử dụng phép thuật hài hòa)
 
-When casters with compatible elemental compositions work together, they can achieve magical resonance:
-- Combined magical power exceeds the sum of individual contributions
-- Enhanced purity, intensity, or complexity depending on the casters' strengths
-- Extended duration and range of magical effects
+Khi những người sử dụng phép thuật có thành phần nguyên tố tương thích làm việc cùng nhau, họ có thể đạt được sự cộng hưởng ma thuật:
+- Sức mạnh ma thuật kết hợp vượt quá tổng đóng góp của từng cá nhân
+- Độ tinh khiết, cường độ hoặc độ phức tạp nâng cao tùy thuộc vào điểm mạnh của người sử dụng phép thuật
+- Thời gian và phạm vi hiệu ứng ma thuật kéo dài
 
-### Dissonant Casting
+### Dissonant Casting (Sử dụng phép thuật bất hòa)
 
-When casters with incompatible compositions attempt to combine magic:
-- Unpredictable effects and magical instability
-- Increased mana consumption with diminished results
-- Potential for magical feedback causing harm to casters
+Khi những người sử dụng phép thuật có thành phần không tương thích cố gắng kết hợp ma thuật:
+- Các hiệu ứng không thể đoán trước và sự bất ổn ma thuật
+- Tăng tiêu thụ mana với kết quả giảm
+- Tiềm năng phản hồi ma thuật gây hại cho người sử dụng phép thuật
 
-## Regeneration of Magical Energy
+## Tái Tạo Năng Lượng Ma Thuật
 
-After spellcasting depletes a practitioner's mana reserves, they must recover through rest and regeneration. The rate of regeneration depends on their Mana Capacity, training, and various environmental factors. For detailed information on regeneration techniques and methods, see [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md).
+Sau khi sử dụng phép thuật làm cạn kiệt lượng mana dự trữ của người thực hành, họ phải phục hồi thông qua nghỉ ngơi và tái tạo. Tốc độ tái tạo phụ thuộc vào Dung lượng Mana, quá trình đào tạo và các yếu tố môi trường khác nhau. Để biết thông tin chi tiết về các kỹ thuật và phương pháp tái tạo, hãy xem [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md).
 
-## The Price of Magic
+## Cái Giá của Ma Thuật
 
-All magic exacts a price from its practitioners:
+Tất cả ma thuật đều đòi hỏi một cái giá từ người thực hành:
 
-1. **Mana Depletion**: Casting depletes Mana Capacity, requiring rest to replenish. Severe depletion can cause exhaustion, unconsciousness, or even death.
+1. **Mana Depletion** (Cạn kiệt Mana): Sử dụng phép thuật làm cạn kiệt Dung lượng Mana, đòi hỏi phải nghỉ ngơi để bổ sung. Sự cạn kiệt nghiêm trọng có thể gây ra kiệt sức, bất tỉnh hoặc thậm chí tử vong.
 
-2. **Physical Strain**: The body's Exanthis content limits how much magic can be channeled safely. Exceeding these limits causes physical damage.
+2. **Physical Strain** (Căng thẳng thể chất): Hàm lượng Exanthis trong cơ thể giới hạn lượng ma thuật có thể được truyền một cách an toàn. Vượt quá những giới hạn này gây ra tổn thương vật lý.
 
-3. **Mental Fatigue**: Complex or prolonged spellcasting taxes the mind, causing difficulty maintaining concentration and eventually mental exhaustion.
+3. **Mental Fatigue** (Mệt mỏi tinh thần): Sử dụng phép thuật phức tạp hoặc kéo dài gây áp lực lên tâm trí, gây khó khăn trong việc duy trì sự tập trung và cuối cùng là kiệt sức tinh thần.
 
-4. **Soul Wear**: Frequent use of powerful magic gradually accelerates soul decay, potentially shortening lifespan.
+4. **Soul Wear** (Mòn Linh hồn): Việc sử dụng thường xuyên ma thuật mạnh mẽ dần dần làm tăng tốc độ phân rã linh hồn, có khả năng rút ngắn tuổi thọ.
 
-5. **Wild Mana Contamination**: Insufficient purification can lead to Wild Mana contamination, causing unpredictable magical effects and potentially harming the caster over time.
+5. **Wild Mana Contamination** (Ô nhiễm Mana Hoang): Việc thanh lọc không đủ có thể dẫn đến ô nhiễm Mana Hoang, gây ra các hiệu ứng ma thuật khó lường và có khả năng gây hại cho người sử dụng phép thuật theo thời gian.
 
-## Forbidden Magics
+## Những Ma Thuật Bị Cấm
 
-Some magical practices are considered forbidden due to their dangerous nature:
+Một số hoạt động ma thuật được coi là bị cấm do tính chất nguy hiểm của chúng:
 
-1. **Soul Manipulation**: Directly altering or extracting Soul essence causes permanent damage to both subject and practitioner.
+1. **Soul Manipulation** (Thao túng Linh hồn): Trực tiếp thay đổi hoặc trích xuất bản chất Linh hồn gây ra tổn thương vĩnh viễn cho cả đối tượng và người thực hành.
 
-2. **Exanthis Conversion**: Transforming Exanthis into pure magical energy yields immense power but causes irreversible physical degradation.
+2. **Exanthis Conversion** (Chuyển đổi Exanthis): Chuyển đổi Exanthis thành năng lượng ma thuật thuần túy mang lại sức mạnh to lớn nhưng gây ra sự suy thoái vật lý không thể đảo ngược.
 
-3. **Void Channeling**: Drawing power from the spaces between reality creates unpredictable rifts and attracts dangerous entities.
+3. **Void Channeling** (Truyền dẫn Hư không): Lấy sức mạnh từ không gian giữa thực tế tạo ra những vết nứt khó lường và thu hút những thực thể nguy hiểm.
 
-4. **Temporal Distortion**: Manipulating the flow of time creates paradoxes and weakens the fabric of reality.
+4. **Temporal Distortion** (Bóp méo thời gian): Thao tác dòng chảy thời gian tạo ra nghịch lý và làm suy yếu cấu trúc của thực tế.
 
-5. **Wild Mana Amplification**: Deliberately increasing Wild Mana content in spells to boost power at the cost of control. Can lead to catastrophic magical surges and permanent corruption.
+5. **Wild Mana Amplification** (Khuếch đại Mana Hoang): Cố ý tăng hàm lượng Mana Hoang trong phép thuật để tăng sức mạnh với cái giá là sự kiểm soát. Có thể dẫn đến các đợt sóng ma thuật thảm khốc và tham nhũng vĩnh viễn.
 
-Understanding the nature of **Magic** provides insight into the foundational forces of the world of **OpenFantasy**, like listening to the grand symphony that underlies all of creation, where each being contributes their unique part to the endless melody.
+Hiểu bản chất của **Magic** (Ma thuật) cung cấp cái nhìn sâu sắc về các lực lượng nền tảng của thế giới OpenFantasy, giống như lắng nghe bản giao hưởng vĩ đại nằm dưới tất cả sự sáng tạo, nơi mỗi sinh vật đóng góp một phần độc đáo của mình vào giai điệu vô tận.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

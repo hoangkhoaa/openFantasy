@@ -1,118 +1,122 @@
-# **Bard**: Virtuosos of Magical Harmony
+# **Bard** (Nhà Thơ): Những Bậc Thầy của Hòa Âm Ma Thuật
 
-[**Bards**](/codex/Classes/Bard/Bard.md) are versatile spellcasters who channel arcane energy through artistic expression, primarily music. They weave magic into their performances, creating effects that inspire allies, manipulate emotions, and harm enemies through the resonance between artistic expression and the fundamental harmonies of reality.
+[**Bards** (Nhà Thơ)](/codex/Classes/Bard/Bard.md) là những người sử dụng phép thuật đa năng, dẫn truyền năng lượng huyền bí thông qua biểu hiện nghệ thuật, chủ yếu là âm nhạc. Họ dệt ma thuật vào màn trình diễn của mình, tạo ra những hiệu ứng truyền cảm hứng cho đồng minh, điều khiển cảm xúc và gây hại cho kẻ thù thông qua sự cộng hưởng giữa biểu hiện nghệ thuật và sự hòa hợp cơ bản của thực tế.
 
-## Elemental Composition
+## Elemental Composition (Thành Phần Nguyên Tố)
 
-The typical elemental ratio for **bards** reflects their artistic approach to magic:
+Tỷ lệ nguyên tố điển hình cho **bards** (nhà thơ) phản ánh cách tiếp cận nghệ thuật của họ đối với phép thuật:
 
-| Element | Range | Function |
+| Element (Nguyên Tố) | Range (Phạm Vi) | Function (Chức Năng) |
 |---------|------------|----------|
-| **Exanthis** | 20-35% | Physical vessel trained in artistic techniques and precise performance |
-| **Soul** | 35-55% | Emotional framework capable of authentic expression and magical resonance |
-| **Mana Capacity** | 20-40% | Naturally flowing mana reserves with intuitive harmonic control |
+| **Exanthis** | 20-35% | Bình chứa vật chất được đào tạo về các kỹ thuật nghệ thuật và biểu diễn chính xác |
+| **Soul** (Linh Hồn) | 35-55% | Khung cảm xúc có khả năng biểu hiện chân thực và cộng hưởng ma thuật |
+| **Mana Capacity** (Dung Lượng Mana) | 20-40% | Dự trữ mana chảy tự nhiên với khả năng kiểm soát hài hòa trực quan |
 
-This composition distinguishes **bards** from other spellcasters through their emphasis on emotional resonance over academic understanding. Bards develop specialized neural pathways that connect artistic expression directly to magical manipulation, creating a unique system that translates performance into magical effects. Their physical forms are trained to execute precise artistic techniques while simultaneously channeling magical energies.
+Thành phần này phân biệt **bards** (nhà thơ) với những người sử dụng phép thuật khác thông qua sự nhấn mạnh vào cộng hưởng cảm xúc hơn là hiểu biết học thuật. Bards (nhà thơ) phát triển các đường dẫn thần kinh chuyên biệt kết nối biểu hiện nghệ thuật trực tiếp với thao tác ma thuật, tạo ra một hệ thống độc đáo chuyển đổi hiệu suất thành hiệu ứng ma thuật. Hình thức vật chất của họ được đào tạo để thực hiện các kỹ thuật nghệ thuật chính xác đồng thời dẫn truyền năng lượng ma thuật.
 
-### Magical Affinity Profile
+### Magical Affinity Profile (Hồ Sơ Ái Lực Ma Thuật)
 
-Bards develop specific affinities based on their college of specialization:
+Bards (nhà thơ) phát triển các ái lực cụ thể dựa trên trường học chuyên môn của họ:
 
-| College | Primary Affinities | Secondary Affinities | Typical Application |
+| College (Trường Phái) | Primary Affinities (Ái Lực Chính) | Secondary Affinities (Ái Lực Phụ) | Typical Application (Ứng Dụng Tiêu Biểu) |
 |--------------|-------------------|---------------------|---------------------|
-| **Eloquence** | Mentimana | Base Mana (Influence) | Persuasion, social manipulation, linguistic mastery |
-| **Glamour** | Base Mana (Sensory) | Mentimana | Fascination, enchantment, illusory beauty |
-| **Lore** | Base Mana (Knowledge) | Chronimana | Information gathering, spell versatility, secrets |
-| **Spirits** | Spiritumana | Base Mana (Connection) | Spirit communication, supernatural insight |
-| **Swords** | Base Mana (Enhancement) | Elemental (varies) | Combat prowess, weapon infusion, battle magic |
-| **Valor** | Base Mana (Inspiration) | Vitomana | Combat support, protective inspiration, courage |
-| **Whispers** | Mentimana | Shadow Mana | Fear manipulation, secret extraction, psychic attacks |
-| **Creation** | Base Mana (Manifestation) | Elemental (varies) | Materializing art, performance enhancing, creative magic |
+| **Eloquence** (Hùng Biện) | Mentimana | Base Mana (Mana Gốc) (Influence (Ảnh Hưởng)) | Thuyết phục, thao túng xã hội, làm chủ ngôn ngữ |
+| **Glamour** (Quyến Rũ) | Base Mana (Mana Gốc) (Sensory (Cảm Giác)) | Mentimana | Sự mê hoặc, bùa mê, vẻ đẹp ảo ảnh |
+| **Lore** (Tri Thức) | Base Mana (Mana Gốc) (Knowledge (Kiến Thức)) | Chronimana | Thu thập thông tin, tính linh hoạt của phép thuật, bí mật |
+| **Spirits** (Linh Hồn) | Spiritumana | Base Mana (Mana Gốc) (Connection (Kết Nối)) | Giao tiếp tâm linh, cái nhìn sâu sắc siêu nhiên |
+| **Swords** (Kiếm Thuật) | Base Mana (Mana Gốc) (Enhancement (Tăng Cường)) | Elemental (Nguyên Tố) (varies (thay đổi)) | Sức mạnh chiến đấu, truyền vũ khí, phép thuật chiến đấu |
+| **Valor** (Dũng Cảm) | Base Mana (Mana Gốc) (Inspiration (Cảm Hứng)) | Vitomana | Hỗ trợ chiến đấu, cảm hứng bảo vệ, lòng dũng cảm |
+| **Whispers** (Lời Thì Thầm) | Mentimana | Shadow Mana (Mana Bóng Tối) | Thao túng nỗi sợ hãi, khai thác bí mật, tấn công tâm linh |
+| **Creation** (Sáng Tạo) | Base Mana (Mana Gốc) (Manifestation (Biểu Hiện)) | Elemental (Nguyên Tố) (varies (thay đổi)) | Hiện thực hóa nghệ thuật, nâng cao hiệu suất, phép thuật sáng tạo |
 
-Bards typically achieve 45-65% resonance with their specialized college's elements, with years of dedicated performance potentially raising this to 70-80% in their areas of expertise. Their intuitive approach enables them to achieve moderate mana purity (35-55%) through emotional connectivity and artistic discipline, with master bards reaching 65-75% purity when performing their specialized art forms.
+Bards (nhà thơ) thường đạt được cộng hưởng 45-65% với các yếu tố của trường học chuyên môn của họ, với nhiều năm biểu diễn chuyên dụng có khả năng nâng con số này lên 70-80% trong các lĩnh vực chuyên môn của họ. Cách tiếp cận trực quan của họ cho phép họ đạt được độ tinh khiết mana vừa phải (35-55%) thông qua kết nối cảm xúc và kỷ luật nghệ thuật, với các nhà thơ bậc thầy đạt độ tinh khiết 65-75% khi biểu diễn các loại hình nghệ thuật chuyên biệt của họ.
 
-### Species-Specific Variations
+### Species-Specific Variations (Biến Thể Cụ Thể theo Loài)
 
-Different species show varying natural inclinations toward the bard class:
+Các loài khác nhau thể hiện những khuynh hướng tự nhiên khác nhau đối với lớp nhà thơ:
 
-- **Humans** (20-35% Exanthis, 35-50% Soul, 20-40% Mana Capacity): Their cultural diversity creates a broad repertoire of artistic traditions to draw upon.
-- **Half-Elves** (15-30% Exanthis, 40-55% Soul, 25-45% Mana Capacity): Their dual heritage provides unique perspective that enhances emotional expression and magical intuition.
-- **Gnomes** (20-30% Exanthis, 40-60% Soul, 15-35% Mana Capacity): Their creative spirit and joyful nature creates natural affinity for performance magic.
-- **Tabaxi** (25-40% Exanthis, 30-50% Soul, 20-35% Mana Capacity): Their natural curiosity and storytelling traditions enhance bardic traditions of lore and performance.
-- **Tieflings** (20-35% Exanthis, 40-55% Soul, 20-35% Mana Capacity): Their inherent charisma and outsider perspective provides captivating performances with unique magical resonance.
+- **Humans** (Con người) (20-35% Exanthis, 35-50% Soul (Linh Hồn), 20-40% Mana Capacity (Dung Lượng Mana)): Sự đa dạng văn hóa của họ tạo ra một kho tàng các truyền thống nghệ thuật để khai thác.
+- **Half-Elves** (Nửa Elf) (15-30% Exanthis, 40-55% Soul (Linh Hồn), 25-45% Mana Capacity (Dung Lượng Mana)): Di sản kép của họ mang đến một góc nhìn độc đáo giúp tăng cường biểu hiện cảm xúc và trực giác ma thuật.
+- **Gnomes** (Người Lùn) (20-30% Exanthis, 40-60% Soul (Linh Hồn), 15-35% Mana Capacity (Dung Lượng Mana)): Tinh thần sáng tạo và bản chất vui vẻ của họ tạo ra ái lực tự nhiên cho phép thuật biểu diễn.
+- **Tabaxi** (Tabaxi) (25-40% Exanthis, 30-50% Soul (Linh Hồn), 20-35% Mana Capacity (Dung Lượng Mana)): Sự tò mò tự nhiên và truyền thống kể chuyện của họ nâng cao truyền thống bardic (nhà thơ) về tri thức và biểu diễn.
+- **Tieflings** (Tieflings) (20-35% Exanthis, 40-55% Soul (Linh Hồn), 20-35% Mana Capacity (Dung Lượng Mana)): Khả năng lôi cuốn vốn có và góc nhìn người ngoài cuộc của họ mang đến những màn trình diễn quyến rũ với sự cộng hưởng ma thuật độc đáo.
 
-## Casting Methodology
+## Casting Methodology (Phương Pháp Đúc Phép)
 
-Bards channel magic through artistic performance, using the following fundamental techniques:
+Bards (nhà thơ) dẫn truyền phép thuật thông qua biểu diễn nghệ thuật, sử dụng các kỹ thuật cơ bản sau:
 
-### Performance as Spellcasting
-Unlike wizards who rely on formulaic incantations, bards weave spells directly into their artistic expressions. The performance itself becomes the spell's framework, with each artistic element serving a specific magical function:
+### Performance as Spellcasting (Biểu Diễn Như Một Cách Đúc Phép)
+Không giống như các phù thủy dựa vào những câu thần chú công thức, bards (nhà thơ) dệt phép thuật trực tiếp vào những biểu hiện nghệ thuật của họ. Bản thân màn trình diễn trở thành khuôn khổ của phép thuật, với mỗi yếu tố nghệ thuật phục vụ một chức năng ma thuật cụ thể:
 
-- **Rhythm** establishes the spell's tempo and structure
-- **Melody** defines the spell's purpose and direction
-- **Harmony** provides magical stability and resonance
-- **Dynamics** control the spell's power and intensity
-- **Timbre** determines the spell's quality and character
+- **Rhythm** (Nhịp Điệu) thiết lập nhịp độ và cấu trúc của phép thuật
+- **Melody** (Giai Điệu) xác định mục đích và hướng đi của phép thuật
+- **Harmony** (Hòa Âm) cung cấp sự ổn định và cộng hưởng ma thuật
+- **Dynamics** (Sức Mạnh) kiểm soát sức mạnh và cường độ của phép thuật
+- **Timbre** (Âm Sắc) xác định chất lượng và đặc điểm của phép thuật
 
-The bardic approach allows for improvisational spellcasting that can adapt in real-time to changing circumstances, though with less precision than more rigid casting methods.
+Phương pháp bardic (nhà thơ) cho phép đúc phép thuật ngẫu hứng có thể thích ứng trong thời gian thực với những thay đổi của hoàn cảnh, mặc dù kém chính xác hơn so với các phương pháp đúc phép cứng nhắc hơn.
 
-### Instrument Resonance
-While bards can cast through pure vocal performance, most employ instruments to amplify and shape their magic:
+### Instrument Resonance (Cộng Hưởng Nhạc Cụ)
+Mặc dù bards (nhà thơ) có thể đúc phép thông qua biểu diễn thanh nhạc thuần túy, nhưng hầu hết đều sử dụng nhạc cụ để khuếch đại và định hình phép thuật của họ:
 
-| Instrument Type | Magical Resonance | Spell Enhancement |
+| Instrument Type (Loại Nhạc Cụ) | Magical Resonance (Cộng Hưởng Ma Thuật) | Spell Enhancement (Tăng Cường Phép Thuật) |
 |-----------------|-------------------|-------------------|
-| **Strings** | Emotional manipulation | Enchantment, illusion |
-| **Wind** | Breath and spirit | Divination, abjuration |
-| **Percussion** | Rhythm and force | Evocation, transmutation |
-| **Keyboard** | Complexity and harmony | Multi-effect spells, counterspell |
+| **Strings** (Dây) | Thao túng cảm xúc | Bùa mê, ảo ảnh |
+| **Wind** (Gió) | Hơi thở và tinh thần | Tiên tri, trừ tà |
+| **Percussion** (Bộ Gõ) | Nhịp điệu và lực | Triệu hồi, biến đổi |
+| **Keyboard** (Bàn Phím) | Độ phức tạp và hòa âm | Phép thuật đa hiệu ứng, phản phép |
 
-Master bards often maintain multiple instruments specialized for different magical effects, though most develop primary proficiency with a signature instrument that becomes an extension of their magical identity.
+Các nhà thơ bậc thầy thường duy trì nhiều nhạc cụ chuyên dụng cho các hiệu ứng ma thuật khác nhau, mặc dù hầu hết phát triển trình độ thành thạo chính với một nhạc cụ đặc trưng trở thành một phần mở rộng của danh tính ma thuật của họ.
 
-### Mana Purification Technique
-Rather than purifying mana through academic discipline, bards achieve purification through emotional authenticity and artistic mastery. This approach:
+### Mana Purification Technique (Kỹ Thuật Thanh Lọc Mana)
+Thay vì thanh lọc mana thông qua kỷ luật học thuật, bards (nhà thơ) đạt được sự thanh lọc thông qua tính xác thực về cảm xúc và sự thành thạo nghệ thuật. Cách tiếp cận này:
 
-- Produces vibrant and emotionally resonant magical effects
-- Creates more variable but often more potent emotional impacts
-- Achieves purification through performance rather than study
-- Requires genuine artistic skill alongside magical aptitude
+- Tạo ra các hiệu ứng ma thuật sống động và cộng hưởng cảm xúc
+- Tạo ra những tác động cảm xúc đa dạng hơn nhưng thường mạnh mẽ hơn
+- Đạt được sự thanh lọc thông qua biểu diễn hơn là học tập
+- Đòi hỏi kỹ năng nghệ thuật thực sự bên cạnh năng khiếu ma thuật
 
-This method can produce rapid purification during moments of exceptional performance (30-40% purity boost during perfect performances) but may falter during emotional distress.
+Phương pháp này có thể tạo ra sự thanh lọc nhanh chóng trong những khoảnh khắc biểu diễn đặc biệt (tăng độ tinh khiết 30-40% trong các buổi biểu diễn hoàn hảo) nhưng có thể dao động trong khi đau khổ về cảm xúc.
 
-## Training and Development
+## Training and Development (Đào Tạo và Phát Triển)
 
-Bardic training balances artistic development with magical understanding:
+Việc đào tạo bardic (nhà thơ) cân bằng giữa phát triển nghệ thuật với hiểu biết ma thuật:
 
-- **Novice (1-3 years)**: Foundational artistic training with basic magical theory, achieving 15-25% mana purity
-- **Apprentice (3-7 years)**: Performance refinement and magical application, reaching 25-40% purity
-- **Journeyman (7-15 years)**: College specialization and signature style development, attaining 40-55% purity
-- **Master (15+ years)**: Artistic transcendence and magical innovation, achieving 55-75% purity
+- **Novice (Người Mới Học) (1-3 years (năm))**: Đào tạo nghệ thuật nền tảng với lý thuyết ma thuật cơ bản, đạt được độ tinh khiết mana 15-25%
+- **Apprentice (Người Học Việc) (3-7 years (năm))**: Tinh chỉnh hiệu suất và ứng dụng ma thuật, đạt độ tinh khiết 25-40%
+- **Journeyman (Thợ Cả) (7-15 years (năm))**: Chuyên môn hóa trường học và phát triển phong cách đặc trưng, đạt độ tinh khiết 40-55%
+- **Master (Bậc Thầy) (15+ years (năm))**: Siêu việt nghệ thuật và đổi mới ma thuật, đạt độ tinh khiết 55-75%
 
-Unlike wizards who advance through academic achievement, bardic advancement requires both technical proficiency and authentic artistic expression. The most celebrated bards develop unique performance styles that produce instantly recognizable magical effects.
+Không giống như các phù thủy thăng tiến thông qua thành tích học tập, sự thăng tiến của bardic (nhà thơ) đòi hỏi cả trình độ kỹ thuật và biểu hiện nghệ thuật đích thực. Các nhà thơ được ca ngợi nhất phát triển các phong cách biểu diễn độc đáo tạo ra các hiệu ứng ma thuật có thể nhận ra ngay lập tức.
 
-## Magical Limitations and Advantages
+## Magical Limitations and Advantages (Ưu Điểm và Hạn Chế Ma Thuật)
 
-The bardic approach to magic creates distinct strengths and weaknesses:
+Phương pháp bardic (nhà thơ) đối với phép thuật tạo ra những điểm mạnh và điểm yếu riêng biệt:
 
-### Advantages
-- Exceptional versatility across multiple schools of magic
-- Superior emotional and social magical effects
-- Ability to cast while performing mundane activities
-- Natural talent for group magical harmonization
-- Intuitive adaptation to unexpected magical situations
+### Advantages (Ưu Điểm)
+- Tính linh hoạt đặc biệt trên nhiều trường phái phép thuật
+- Hiệu ứng ma thuật xã hội và cảm xúc vượt trội
+- Khả năng đúc phép trong khi thực hiện các hoạt động trần tục
+- Tài năng thiên bẩm cho sự hài hòa ma thuật nhóm
+- Khả năng thích ứng trực quan với các tình huống ma thuật bất ngờ
 
-### Limitations
-- Reduced effectiveness when unable to perform artistically
-- Vulnerability to effects that impact emotional state
-- Diminished precision compared to academic casters
-- Performance requirements can make stealth casting difficult
-- Less effective at highly technical magical disciplines
+### Limitations (Hạn Chế)
+- Giảm hiệu quả khi không thể biểu diễn nghệ thuật
+- Dễ bị ảnh hưởng bởi các hiệu ứng tác động đến trạng thái cảm xúc
+- Giảm độ chính xác so với những người đúc phép học thuật
+- Yêu cầu hiệu suất có thể gây khó khăn cho việc đúc phép lén lút
+- Kém hiệu quả hơn trong các ngành ma thuật kỹ thuật cao
 
-Bardic magic thrives in settings where performance is possible and appreciated, making bards particularly effective in social contexts but potentially limited in environments requiring stealth or silence.
+Phép thuật bardic (nhà thơ) phát triển mạnh trong những môi trường nơi biểu diễn là khả thi và được đánh giá cao, khiến bards (nhà thơ) đặc biệt hiệu quả trong các bối cảnh xã hội nhưng có khả năng bị hạn chế trong môi trường yêu cầu tàng hình hoặc im lặng.
 
-## Notable Practitioners
+## Notable Practitioners (Những Người Hành Nghề Đáng Chú Ý)
 
-- **Maestro Laranello** - Created the "Symphonic Cascade" technique that allows a single performer to create multi-layered magical effects
-- **Lady Whisperwind** - Pioneered the integration of shadow magic into bardic performances through whispered counter-melodies
-- **The Chord of Five** - Legendary bardic collective whose harmonic performances could affect entire regions
-- **Jalavar Swiftstrings** - Developed the "battle-chant" technique that allows for bardic casting while engaged in direct combat
-- **Serena Nightingale** - Creator of the "Emotional Resonance Theory" that revolutionized understanding of bardic magic 
+- **Maestro Laranello** - Created the "Symphonic Cascade" (Thác Âm Thanh Giao Hưởng) technique that allows a single performer to create multi-layered magical effects
+- **Lady Whisperwind** (Quý Cô Whisperwind) - Pioneered the integration of shadow magic (ma thuật bóng tối) into bardic performances through whispered counter-melodies
+- **The Chord of Five** (Hợp Âm Năm) - Legendary bardic (nhà thơ) collective whose harmonic performances could affect entire regions
+- **Jalavar Swiftstrings** (Jalavar Swiftstrings) - Developed the "battle-chant" (chiến ca) technique that allows for bardic casting while engaged in direct combat
+- **Serena Nightingale** (Serena Nightingale) - Creator of the "Emotional Resonance Theory" (Lý Thuyết Cộng Hưởng Cảm Xúc) that revolutionized understanding of bardic magic
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

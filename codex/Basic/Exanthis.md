@@ -1,104 +1,108 @@
-# **Exanthis**: The Foundation of Reality
+# **Exanthis** (**Exanthis**): Nền tảng của Thực tại
 
-> *"As music needs an instrument to be heard, magic needs Exanthis to take form in the physical world."*
+> *"Như âm nhạc cần một nhạc cụ để được nghe thấy, phép thuật cần Exanthis để hình thành trong thế giới vật chất."*
 
-## Quick Navigation
+## Điều hướng Nhanh
 
-- [Properties and Interaction](#properties-and-interaction)
-- [Geographic Distribution](#geographic-distribution)
-- [Exanthis in Living Beings](#exanthis-in-living-beings)
-- [Applications](#applications-of-exanthis)
-- [Metaphysical Significance](#metaphysical-significance)
+- [Thuộc tính và Tương tác](#properties-and-interaction)
+- [Phân bố Địa lý](#geographic-distribution)
+- [Exanthis trong Sinh vật Sống](#exanthis-in-living-beings)
+- [Ứng dụng](#applications-of-exanthis)
+- [Ý nghĩa Siêu hình](#metaphysical-significance)
 
-## Properties and Interaction
+## Thuộc tính và Tương tác
 
-**Exanthis** is a fundamental material that forms the bedrock of physical reality, providing structure and solidity to the world. Like the resonant body of a musical instrument, it gives form to the ephemeral vibrations of magic, transforming potential into tangible reality.
+**Exanthis** là một vật liệu cơ bản tạo nên nền tảng của thực tại vật chất, cung cấp cấu trúc và sự vững chắc cho thế giới. Giống như thân cộng hưởng của một nhạc cụ, nó mang lại hình thức cho những rung động phù du của phép thuật, biến tiềm năng thành hiện thực hữu hình.
 
-| Property | Description |
+| Property (Thuộc tính) | Description (Mô tả) |
 |----------|-------------|
-| **State** | Solid, crystalline metal with magnetic properties |
-| **Appearance** | Silver-gray with subtle blue luminescence when pure |
-| **Hardness** | Proportional to purity; 100% purity creates the hardest known material |
-| **Magnetic Field** | Generates fields that disrupt the flow of [**Mana**](/codex/Basic/Mana.md) |
-| **Conductivity** | Poor conductor of heat and electricity but excellent conductor of physical force |
+| **State** (Trạng thái) | Chất rắn, kim loại kết tinh với các đặc tính từ tính |
+| **Appearance** (Ngoại hình) | Màu xám bạc với ánh huỳnh quang xanh lam tinh tế khi tinh khiết |
+| **Hardness** (Độ cứng) | Tỷ lệ với độ tinh khiết; độ tinh khiết 100% tạo ra vật liệu cứng nhất được biết đến |
+| **Magnetic Field** (Từ trường) | Tạo ra các trường phá vỡ dòng chảy của [**Mana**](/codex/Basic/Mana.md) |
+| **Conductivity** (Độ dẫn điện) | Dẫn nhiệt và điện kém nhưng dẫn lực vật lý cực tốt |
 
-### Exanthis and Magic
+### Exanthis và Phép thuật
 
-The relationship between **Exanthis** and **Mana** is complex and reciprocal:
+Mối quan hệ giữa **Exanthis** và **Mana** rất phức tạp và có đi có lại:
 
-- **Exanthis** disrupts the flow of **Mana** through its natural magnetic field
-- This disruption is proportional to the **Exanthis'** purity
-- Higher purity creates stronger anti-magical fields
-- The disruption is temporary; overwhelming **Mana** can temporarily overcome the disruption
+- **Exanthis** phá vỡ dòng chảy của **Mana** thông qua từ trường tự nhiên của nó
+- Sự gián đoạn này tỷ lệ thuận với độ tinh khiết của **Exanthis**
+- Độ tinh khiết cao hơn tạo ra các trường chống phép thuật mạnh hơn
+- Sự gián đoạn là tạm thời; **Mana** áp đảo có thể tạm thời khắc phục sự gián đoạn
 
-## Geographic Distribution
+## Phân bố Địa lý
 
-**Exanthis** is not evenly distributed throughout the world:
+**Exanthis** không được phân bố đồng đều trên toàn thế giới:
 
-| Region | Concentration | Notable Features |
+| Region (Khu vực) | Concentration (Nồng độ) | Notable Features (Đặc điểm đáng chú ý) |
 |--------|--------------|------------------|
-| **Western Veldrassil** | Very High | Natural magical dead zones, centers of physical industry |
-| **Iron Mountains** | Extremely High | Massive veins creating zones nearly devoid of magic |
-| **Central Plains** | Moderate | Balanced environments suitable for diverse development |
-| **Eastern Veldrassil** | Low | Minimal natural deposits, allowing for magical abundance |
-| **Deep Earth** | High | Core deposits that help stabilize the world's physical structure |
+| **Western Veldrassil** (Veldrassil phía Tây) | Rất cao | Các vùng chết phép thuật tự nhiên, trung tâm công nghiệp vật chất |
+| **Iron Mountains** (Dãy núi Sắt) | Cực kỳ cao | Các mạch lớn tạo ra các khu vực gần như không có phép thuật |
+| **Central Plains** (Đồng bằng Trung tâm) | Vừa phải | Môi trường cân bằng phù hợp cho sự phát triển đa dạng |
+| **Eastern Veldrassil** (Veldrassil phía Đông) | Thấp | Trữ lượng tự nhiên tối thiểu, cho phép sự phong phú về phép thuật |
+| **Deep Earth** (Lòng đất sâu) | Cao | Các mỏ lõi giúp ổn định cấu trúc vật chất của thế giới |
 
-### Impact on Civilization
+### Tác động đến Nền văn minh
 
-Regions rich in **Exanthis** develop distinctive characteristics:
+Các khu vực giàu **Exanthis** phát triển các đặc điểm riêng biệt:
 
-- Technological rather than magical innovations
-- Societal structures emphasizing physical strength and craftsmanship
-- Safe havens for beings sensitive to magic
-- Natural defensive positions against magical threats
-- Centers of mining and metallurgy
+- Đổi mới công nghệ hơn là phép thuật
+- Các cấu trúc xã hội nhấn mạnh sức mạnh thể chất và sự khéo léo
+- Nơi trú ẩn an toàn cho những sinh vật nhạy cảm với phép thuật
+- Các vị trí phòng thủ tự nhiên chống lại các mối đe dọa phép thuật
+- Trung tâm khai thác và luyện kim
 
-## Exanthis in Living Beings
+## Exanthis trong Sinh vật Sống
 
-All living beings contain varying amounts of **Exanthis** in their composition:
+Tất cả các sinh vật sống đều chứa một lượng **Exanthis** khác nhau trong thành phần của chúng:
 
-- Higher **Exanthis** content provides greater physical strength, endurance, and resistance to magic
-- Lower **Exanthis** content allows for greater magical sensitivity and potential
-- The balance of **Exanthis**, [**Soul**](/codex/Basic/Soul.md), and **Mana Capacity** determines natural aptitudes
+- Hàm lượng **Exanthis** cao hơn mang lại sức mạnh thể chất, sức bền và khả năng kháng phép thuật lớn hơn
+- Hàm lượng **Exanthis** thấp hơn cho phép độ nhạy cảm và tiềm năng phép thuật lớn hơn
+- Sự cân bằng của **Exanthis**, [**Soul**](/codex/Basic/Soul.md) (**Linh hồn**), và **Mana Capacity** (**Khả năng Mana**) xác định năng khiếu tự nhiên
 
-### Species Variations
+### Biến thể loài
 
-Different species exhibit characteristic ranges of **Exanthis** content:
+Các loài khác nhau thể hiện phạm vi hàm lượng **Exanthis** đặc trưng:
 
-| Species | Exanthis Range | Characteristics |
+| Species (Loài) | Exanthis Range (Phạm vi Exanthis) | Characteristics (Đặc điểm) |
 |---------|----------------|-----------------|
-| **Dwarves** | 50-70% | Exceptionally sturdy and magic-resistant |
-| **Humans** | 20-55% | Versatile and adaptable |
-| **Elves** | 5-25% | Physically graceful but less robust |
-| **Fae** | 2-10% | Almost ethereal, with minimal physical substance |
+| **Dwarves** (Người lùn) | 50-70% | Đặc biệt mạnh mẽ và kháng phép thuật |
+| **Humans** (Con người) | 20-55% | Đa năng và dễ thích nghi |
+| **Elves** (Elf) | 5-25% | Duyên dáng về thể chất nhưng kém mạnh mẽ hơn |
+| **Fae** (**Fae**) | 2-10% | Gần như thanh tao, với chất vật chất tối thiểu |
 
-## Applications of Exanthis
+## Ứng dụng của Exanthis
 
-**Exanthis** serves numerous practical purposes in the world:
+**Exanthis** phục vụ nhiều mục đích thiết thực trên thế giới:
 
-### Technological Uses
+### Sử dụng Công nghệ
 
-- **Weapon and Armor Crafting**: Pure **Exanthis** creates unparalleled weapons and armor
-- **Anti-Magic Devices**: Devices incorporating **Exanthis** can create zones where magic is suppressed
-- **Stabilization Technology**: **Exanthis** is used to ground and stabilize structures in magically volatile regions
-- **Mechanical Engineering**: Forms the basis for precision machinery and complex mechanisms
+- **Weapon and Armor Crafting** (Chế tạo Vũ khí và Áo giáp): **Exanthis** tinh khiết tạo ra vũ khí và áo giáp vô song
+- **Anti-Magic Devices** (Thiết bị Chống Phép thuật): Các thiết bị kết hợp **Exanthis** có thể tạo ra các vùng nơi phép thuật bị đàn áp
+- **Stabilization Technology** (Công nghệ Ổn định): **Exanthis** được sử dụng để tiếp đất và ổn định các cấu trúc trong các khu vực biến động phép thuật
+- **Mechanical Engineering** (Kỹ thuật Cơ khí): Tạo thành cơ sở cho máy móc chính xác và cơ chế phức tạp
 
-### Medical Applications
+### Ứng dụng Y tế
 
-- **Magical Suppressants**: **Exanthis** dust is used in medicines to treat conditions caused by magical overexposure
-- **Grounding Therapy**: **Exanthis** touchstones help stabilize beings suffering from magical instability
-- **Physical Enhancement**: Carefully administered **Exanthis** treatments can enhance physical resilience
-- **Prosthetics**: **Exanthis** alloys create durable artificial limbs and organs
+- **Magical Suppressants** (Thuốc ức chế Phép thuật): Bụi **Exanthis** được sử dụng trong thuốc để điều trị các tình trạng do tiếp xúc quá nhiều với phép thuật
+- **Grounding Therapy** (Liệu pháp Tiếp đất): Đá thử **Exanthis** giúp ổn định những sinh vật bị mất ổn định phép thuật
+- **Physical Enhancement** (Tăng cường Thể chất): Các phương pháp điều trị **Exanthis** được quản lý cẩn thận có thể tăng cường khả năng phục hồi thể chất
+- **Prosthetics** (Bộ phận giả): Hợp kim **Exanthis** tạo ra chân tay và cơ quan nhân tạo bền
 
-## Metaphysical Significance
+## Ý nghĩa Siêu hình
 
-Beyond its physical properties, **Exanthis** holds deeper significance:
+Ngoài các đặc tính vật lý của nó, **Exanthis** còn có ý nghĩa sâu sắc hơn:
 
-- Represents the principle of structure and limitation in the cosmos
-- Creates the necessary resistance that allows for meaningful creation
-- Embodies the concept of permanence in an ever-changing world
-- Forms the foundation upon which reality is built
+- Đại diện cho nguyên tắc cấu trúc và giới hạn trong vũ trụ
+- Tạo ra sự kháng cự cần thiết cho phép tạo ra ý nghĩa
+- Thể hiện khái niệm về sự vĩnh cửu trong một thế giới luôn thay đổi
+- Tạo thành nền tảng mà trên đó thực tế được xây dựng
 
 ---
 
-> Understanding **Exanthis** provides insight into the foundation of physical reality in the world of **OpenFantasy**, like knowing the materials from which a musical instrument is crafted. It creates the stable foundation upon which the world exists, allowing the symphony of creation to play out across its solid surface.
+> Hiểu về **Exanthis** cung cấp cái nhìn sâu sắc về nền tảng của thực tại vật chất trong thế giới **OpenFantasy**, giống như biết các vật liệu mà từ đó một nhạc cụ được chế tạo. Nó tạo ra nền tảng ổn định mà trên đó thế giới tồn tại, cho phép bản giao hưởng của sự sáng tạo diễn ra trên bề mặt vững chắc của nó.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
