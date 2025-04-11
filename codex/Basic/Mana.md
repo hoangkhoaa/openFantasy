@@ -1,106 +1,110 @@
-# **Mana**: The Ethereal Essence of Magic
+# **Mana (마나)**: 마법의 미묘한 정수
 
-> *"Mana flows like liquid starlight through the fabric of reality, waiting for a soul's touch to ignite its potential."*
+> *"마나는 현실의 구조를 통해 액체 형태의 별빛처럼 흐르며, 영혼의 손길이 그 잠재력을 점화하기를 기다립니다."*
 
-## Quick Navigation
+## 빠른 탐색
 
-- [Nature and Properties](#nature-and-properties)
-- [Mana and Soul](#mana-and-soul)
-- [Geographic Distribution](#geographic-distribution)
-- [Applications](#applications)
-- [Interaction with Exanthis](#interaction-with-exanthis)
+- [본질 및 속성](#nature-and-properties)
+- [마나와 영혼](#mana-and-soul)
+- [지리적 분포](#geographic-distribution)
+- [응용](#applications)
+- [Exanthis (엑산티스)와의 상호 작용](#interaction-with-exanthis)
 
-## Nature and Properties
+## 본질 및 속성
 
-**Mana** is the breath of creation itself, atomic particles smaller than ordinary atoms that dance between the realms of possibility and reality. These particles possess several unique characteristics:
+**Mana (마나)**는 창조의 숨결 자체이며, 가능성과 현실의 영역 사이에서 춤추는 일반 원자보다 작은 원자 입자입니다. 이 입자들은 다음과 같은 몇 가지 고유한 특성을 가지고 있습니다.
 
-| Property | Description |
+| Property (속성) | Description (설명) |
 |----------|-------------|
-| **Form** | Ethereal, particle-like energy |
-| **State** | Semi-gaseous, flowing like currents |
-| **Visibility** | Invisible to normal sight, visible to magical perception |
-| **Regeneration** | Self-replenishing within living beings at varied rates |
-| **Composition** | Pure magical energy that can be refined into elemental forms |
+| **Form (형태)** | 미묘한 입자 형태의 에너지 |
+| **State (상태)** | 반기체 상태로, 해류처럼 흐름 |
+| **Visibility (가시성)** | 일반적인 시력으로는 보이지 않지만, 마법적인 지각으로는 보임 |
+| **Regeneration (재생)** | 생명체 내에서 다양한 속도로 자가 보충됨 |
+| **Composition (구성)** | 원소 형태로 정제될 수 있는 순수한 마법 에너지 |
 
-## Mana and Soul
+## Mana (마나)와 영혼
 
-**Mana** resonates with the will of the [**Soul**](/codex/Basic/Soul.md), allowing beings to shape reality through conscious intent:
+**Mana (마나)**는 [**Soul (영혼)**](/codex/Basic/Soul.md)의 의지와 공명하여 존재가 의식적인 의도를 통해 현실을 형성하도록 합니다.
 
-- When a living being possesses a **Soul**, **Mana** particles attach to its **Soul framework**
-- This creates a bridge between consciousness and creation
-- The being can then wield **Mana**, shaping it through sheer will
-- **Mana** regenerates naturally within a being's body at a rate determined by the **Soul's** innate capacity
-- Beings can project their own **Mana** into the environment to harmonize with external energy
+- 생명체가 **Soul (영혼)**을 소유하면 **Mana (마나)** 입자가 **Soul framework (영혼 골격)**에 부착됩니다.
+- 이는 의식과 창조 사이의 다리를 만듭니다.
+- 그러면 존재는 순수한 의지를 통해 **Mana (마나)**를 휘두르며 형상화할 수 있습니다.
+- **Mana (마나)**는 **Soul (영혼)**의 타고난 능력에 따라 존재의 몸 안에서 자연적으로 재생됩니다.
+- 존재는 외부 에너지와 조화를 이루기 위해 자신의 **Mana (마나)**를 환경으로 투사할 수 있습니다.
 
-### Magical Potency
+### Magical Potency (마법 효능)
 
-The effectiveness of magical workings depends on several factors:
+마법 작업의 효과는 다음과 같은 여러 요인에 따라 달라집니다.
 
-- The density of **Mana** in the surroundings
-- The purity of **Mana** being channeled
-- The clarity of intent from the **Soul** directing it
-- The absence of **Exanthis** interference
+- 주변의 **Mana (마나)** 밀도
+- 채널링되는 **Mana (마나)**의 순도
+- 그것을 지시하는 **Soul (영혼)**의 의도 명확성
+- **Exanthis (엑산티스)**의 간섭 부재
 
-## Geographic Distribution
+## Geographic Distribution (지리적 분포)
 
-**Mana** is not evenly distributed throughout the world:
+**Mana (마나)**는 전 세계에 고르게 분포되어 있지 않습니다.
 
-| Region | Mana Concentration | Notable Features |
+| Region (지역) | Mana Concentration (마나 농도) | Notable Features (주목할 만한 특징) |
 |--------|-------------------|------------------|
-| **Eastern Veldrassil** | Very High | Centers of magical study, intense magical phenomena |
-| **Central Plains** | Moderate | Balanced magical environments, stable casting conditions |
-| **Ley Lines** | Extremely High | Rivers of concentrated magical energy crossing the world |
-| **Nexus Points** | Overwhelming | Intersections of multiple ley lines, often unstable |
-| **Western Veldrassil** | Low to Very Low | Due to high **Exanthis** concentration |
+| **Eastern Veldrassil (동부 벨드라실)** | 매우 높음 | 마법 연구의 중심지, 강렬한 마법 현상 |
+| **Central Plains (중앙 평원)** | 보통 | 균형 잡힌 마법 환경, 안정적인 시전 조건 |
+| **Ley Lines (레이 라인)** | 극도로 높음 | 세계를 가로지르는 집중된 마법 에너지의 강 |
+| **Nexus Points (넥서스 지점)** | 압도적임 | 여러 레이 라인의 교차점, 종종 불안정함 |
+| **Western Veldrassil (서부 벨드라실)** | 낮음에서 매우 낮음 | 높은 **Exanthis (엑산티스)** 농도 때문 |
 
-### Movement Patterns
+### Movement Patterns (이동 패턴)
 
-**Mana** flows through the world in currents similar to atmospheric winds:
+**Mana (마나)**는 대기 바람과 유사한 해류를 통해 세계를 흐릅니다.
 
-- Creates regions of varying magical potency
-- Shifts seasonally according to cosmic cycles
-- Can be temporarily depleted by massive magical workings
-- Naturally replenishes over time from cosmic sources
+- 다양한 마법 효능의 지역을 만듭니다.
+- 우주 주기에 따라 계절적으로 이동합니다.
+- 대규모 마법 작업으로 인해 일시적으로 고갈될 수 있습니다.
+- 우주 근원에서 시간이 지남에 따라 자연적으로 보충됩니다.
 
-## Applications
+## Applications (응용)
 
-The manipulation of **Mana** forms the basis for all magical practices:
+**Mana (마나)**의 조작은 모든 마법 수행의 기초를 형성합니다.
 
-### Magical Functions
+### Magical Functions (마법 기능)
 
-- **Spellcasting**: Directed manipulation of reality through structured patterns
-- **Enchantment**: Infusing objects with persistent magical properties
-- **Divination**: Perceiving information beyond normal senses
-- **Transmutation**: Altering the properties of physical matter
-- **Conjuration**: Creating temporary manifestations of matter or energy
+- **Spellcasting (주문 시전)**: 구조화된 패턴을 통한 현실의 직접적인 조작
+- **Enchantment (마법 부여)**: 지속적인 마법 속성을 가진 물체 주입
+- **Divination (점술)**: 정상적인 감각을 넘어서는 정보 인지
+- **Transmutation (변환)**: 물리적 물질의 속성 변경
+- **Conjuration (소환)**: 물질 또는 에너지의 임시적 발현 생성
 
-### Beyond Magic
+### Beyond Magic (마법 그 이상)
 
-**Mana** influences more than just magical effects:
+**Mana (마나)**는 단순히 마법 효과 이상에 영향을 미칩니다.
 
-- Enhances creativity and intuition in high-concentration regions
-- Accelerates natural processes like growth and healing
-- Creates natural phenomena like glowing flora or weather anomalies
-- Attracts extradimensional entities drawn to its energy
+- 고농도 지역에서 창의성과 직관을 향상시킵니다.
+- 성장 및 치유와 같은 자연적인 과정을 가속화합니다.
+- 빛나는 식물이나 기상 이변과 같은 자연 현상을 만듭니다.
+- 에너지에 끌리는 차원 간 존재를 유인합니다.
 
-## Interaction with Exanthis
+## Interaction with Exanthis (Exanthis (엑산티스)와의 상호 작용)
 
-**Mana** is repelled by the magnetic field of [**Exanthis**](/codex/Basic/Exanthis.md):
+**Mana (마나)**는 [**Exanthis (엑산티스)**](/codex/Basic/Exanthis.md)의 자기장에 의해 반발됩니다.
 
-- Creates zones where magic is weakened or nullified
-- Forms natural boundaries between high and low magical regions
-- Produces unique phenomena at the interface between high **Mana** and high **Exanthis** areas
-- Can be temporarily forced through **Exanthis** barriers with sufficient power
+- 마법이 약화되거나 무효화되는 영역을 만듭니다.
+- 높은 마법 지역과 낮은 마법 지역 사이에 자연적인 경계를 형성합니다.
+- 높은 **Mana (마나)** 영역과 높은 **Exanthis (엑산티스)** 영역 사이의 인터페이스에서 고유한 현상을 생성합니다.
+- 충분한 힘으로 **Exanthis (엑산티스)** 장벽을 통해 일시적으로 강제될 수 있습니다.
 
-### Balance of Forces
+### Balance of Forces (힘의 균형)
 
-The opposition between **Mana** and **Exanthis** creates a natural system of checks and balances:
+**Mana (마나)**와 **Exanthis (엑산티스)** 사이의 대립은 견제와 균형의 자연스러운 시스템을 만듭니다.
 
-- Prevents any single power from dominating the world
-- Creates diverse environmental niches for different species
-- Establishes natural boundaries between civilizations
-- Forms the foundation for the world's magical ecology
+- 어떤 단일 세력도 세계를 지배하는 것을 막습니다.
+- 다양한 종에 대한 다양한 환경적 틈새를 만듭니다.
+- 문명 간의 자연스러운 경계를 설정합니다.
+- 세계의 마법 생태의 기초를 형성합니다.
 
 ---
 
-> Understanding **Mana** provides insight into the magical essence that flows through all things in the world of **OpenFantasy**, like appreciating the music that fills a concert hall. It is the medium through which imagination becomes reality, the canvas upon which the **Soul** paints its intentions. 
+> **Mana (마나)**를 이해하는 것은 마치 콘서트 홀을 가득 채우는 음악을 감상하는 것처럼 **OpenFantasy**의 세계에서 모든 것을 통해 흐르는 마법의 본질에 대한 통찰력을 제공합니다. 상상이 현실이 되는 매개체이자 **Soul (영혼)**이 그 의도를 그리는 캔버스입니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

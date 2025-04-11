@@ -1,104 +1,108 @@
-# **Exanthis**: The Foundation of Reality
+# **Exanthis** (엑산티스): 현실의 기초
 
-> *"As music needs an instrument to be heard, magic needs Exanthis to take form in the physical world."*
+> *"음악이 들리기 위해 악기가 필요한 것처럼, 마법이 물리적 세계에서 형태를 갖추려면 Exanthis (엑산티스)가 필요합니다."*
 
-## Quick Navigation
+## 빠른 탐색
 
-- [Properties and Interaction](#properties-and-interaction)
-- [Geographic Distribution](#geographic-distribution)
-- [Exanthis in Living Beings](#exanthis-in-living-beings)
-- [Applications](#applications-of-exanthis)
-- [Metaphysical Significance](#metaphysical-significance)
+- [속성 및 상호 작용](#properties-and-interaction)
+- [지리적 분포](#geographic-distribution)
+- [생명체 내의 Exanthis (엑산티스)](#exanthis-in-living-beings)
+- [응용 분야](#applications-of-exanthis)
+- [형이상학적 중요성](#metaphysical-significance)
 
-## Properties and Interaction
+## 속성 및 상호 작용
 
-**Exanthis** is a fundamental material that forms the bedrock of physical reality, providing structure and solidity to the world. Like the resonant body of a musical instrument, it gives form to the ephemeral vibrations of magic, transforming potential into tangible reality.
+**Exanthis** (엑산티스)는 물리적 현실의 기반을 형성하는 기본적인 물질이며, 세계에 구조와 견고함을 제공합니다. 마치 악기의 울림통처럼, 그것은 마법의 덧없는 진동에 형태를 부여하여 잠재력을 유형의 현실로 변환합니다.
 
-| Property | Description |
+| Property (속성) | Description (설명) |
 |----------|-------------|
-| **State** | Solid, crystalline metal with magnetic properties |
-| **Appearance** | Silver-gray with subtle blue luminescence when pure |
-| **Hardness** | Proportional to purity; 100% purity creates the hardest known material |
-| **Magnetic Field** | Generates fields that disrupt the flow of [**Mana**](/codex/Basic/Mana.md) |
-| **Conductivity** | Poor conductor of heat and electricity but excellent conductor of physical force |
+| **State** (상태) | 고체, 자기적 특성을 가진 결정질 금속 |
+| **Appearance** (외관) | 순수할 때 은회색을 띠며 미묘한 푸른색 발광을 냄 |
+| **Hardness** (경도) | 순도에 비례함; 100% 순도는 가장 단단한 알려진 물질을 생성함 |
+| **Magnetic Field** (자기장) | [**Mana**](/codex/Basic/Mana.md) (마나)의 흐름을 방해하는 장을 생성함 |
+| **Conductivity** (전도성) | 열과 전기의 불량 도체이지만 물리적 힘의 우수한 도체 |
 
-### Exanthis and Magic
+### Exanthis (엑산티스)와 마법
 
-The relationship between **Exanthis** and **Mana** is complex and reciprocal:
+**Exanthis** (엑산티스)와 **Mana** (마나)의 관계는 복잡하고 상호적입니다.
 
-- **Exanthis** disrupts the flow of **Mana** through its natural magnetic field
-- This disruption is proportional to the **Exanthis'** purity
-- Higher purity creates stronger anti-magical fields
-- The disruption is temporary; overwhelming **Mana** can temporarily overcome the disruption
+- **Exanthis** (엑산티스)는 자연적인 자기장을 통해 **Mana** (마나)의 흐름을 방해합니다.
+- 이 방해는 **Exanthis** (엑산티스)의 순도에 비례합니다.
+- 순도가 높을수록 더 강력한 반마법 장이 생성됩니다.
+- 이 방해는 일시적입니다. 압도적인 **Mana** (마나)는 일시적으로 방해를 극복할 수 있습니다.
 
-## Geographic Distribution
+## 지리적 분포
 
-**Exanthis** is not evenly distributed throughout the world:
+**Exanthis** (엑산티스)는 전 세계에 고르게 분포되어 있지 않습니다.
 
-| Region | Concentration | Notable Features |
+| Region (지역) | Concentration (농도) | Notable Features (주요 특징) |
 |--------|--------------|------------------|
-| **Western Veldrassil** | Very High | Natural magical dead zones, centers of physical industry |
-| **Iron Mountains** | Extremely High | Massive veins creating zones nearly devoid of magic |
-| **Central Plains** | Moderate | Balanced environments suitable for diverse development |
-| **Eastern Veldrassil** | Low | Minimal natural deposits, allowing for magical abundance |
-| **Deep Earth** | High | Core deposits that help stabilize the world's physical structure |
+| **Western Veldrassil** (서부 벨드라실) | 매우 높음 | 자연적인 마법 불능 지대, 물리적 산업의 중심지 |
+| **Iron Mountains** (철의 산맥) | 극도로 높음 | 마법이 거의 없는 지역을 만드는 거대한 광맥 |
+| **Central Plains** (중앙 평원) | 보통 | 다양한 개발에 적합한 균형 잡힌 환경 |
+| **Eastern Veldrassil** (동부 벨드라실) | 낮음 | 최소한의 자연 퇴적물, 마법의 풍부함을 허용 |
+| **Deep Earth** (심층) | 높음 | 세계의 물리적 구조를 안정화하는 데 도움이 되는 핵심 퇴적물 |
 
-### Impact on Civilization
+### 문명에 미치는 영향
 
-Regions rich in **Exanthis** develop distinctive characteristics:
+**Exanthis** (엑산티스)가 풍부한 지역은 독특한 특징을 발전시킵니다.
 
-- Technological rather than magical innovations
-- Societal structures emphasizing physical strength and craftsmanship
-- Safe havens for beings sensitive to magic
-- Natural defensive positions against magical threats
-- Centers of mining and metallurgy
+- 마법적 혁신보다는 기술적 혁신
+- 물리적 힘과 장인 정신을 강조하는 사회 구조
+- 마법에 민감한 존재를 위한 안전한 피난처
+- 마법적 위협에 대한 자연적인 방어 위치
+- 채광 및 야금의 중심지
 
-## Exanthis in Living Beings
+## 생명체 내의 Exanthis (엑산티스)
 
-All living beings contain varying amounts of **Exanthis** in their composition:
+모든 생명체는 그 구성에 다양한 양의 **Exanthis** (엑산티스)를 포함합니다.
 
-- Higher **Exanthis** content provides greater physical strength, endurance, and resistance to magic
-- Lower **Exanthis** content allows for greater magical sensitivity and potential
-- The balance of **Exanthis**, [**Soul**](/codex/Basic/Soul.md), and **Mana Capacity** determines natural aptitudes
+- **Exanthis** (엑산티스) 함량이 높을수록 더 큰 물리적 힘, 지구력 및 마법 저항력을 제공합니다.
+- **Exanthis** (엑산티스) 함량이 낮을수록 더 큰 마법적 감수성과 잠재력을 허용합니다.
+- **Exanthis** (엑산티스), [**Soul**](/codex/Basic/Soul.md) (영혼) 및 **Mana Capacity** (마나 용량)의 균형이 자연적인 적성을 결정합니다.
 
-### Species Variations
+### 종의 변형
 
-Different species exhibit characteristic ranges of **Exanthis** content:
+다른 종은 **Exanthis** (엑산티스) 함량의 특징적인 범위를 나타냅니다.
 
-| Species | Exanthis Range | Characteristics |
+| Species (종) | Exanthis Range (엑산티스 범위) | Characteristics (특성) |
 |---------|----------------|-----------------|
-| **Dwarves** | 50-70% | Exceptionally sturdy and magic-resistant |
-| **Humans** | 20-55% | Versatile and adaptable |
-| **Elves** | 5-25% | Physically graceful but less robust |
-| **Fae** | 2-10% | Almost ethereal, with minimal physical substance |
+| **Dwarves** (드워프) | 50-70% | 매우 튼튼하고 마법에 강함 |
+| **Humans** (인간) | 20-55% | 다재다능하고 적응력이 뛰어남 |
+| **Elves** (엘프) | 5-25% | 육체적으로 우아하지만 덜 튼튼함 |
+| **Fae** (페이) | 2-10% | 거의 실체가 없으며 최소한의 물리적 실체를 가짐 |
 
-## Applications of Exanthis
+## Exanthis (엑산티스)의 응용 분야
 
-**Exanthis** serves numerous practical purposes in the world:
+**Exanthis** (엑산티스)는 세계에서 수많은 실용적인 목적을 수행합니다.
 
-### Technological Uses
+### 기술적 용도
 
-- **Weapon and Armor Crafting**: Pure **Exanthis** creates unparalleled weapons and armor
-- **Anti-Magic Devices**: Devices incorporating **Exanthis** can create zones where magic is suppressed
-- **Stabilization Technology**: **Exanthis** is used to ground and stabilize structures in magically volatile regions
-- **Mechanical Engineering**: Forms the basis for precision machinery and complex mechanisms
+- **Weapon and Armor Crafting** (무기 및 갑옷 제작): 순수한 **Exanthis** (엑산티스)는 비할 데 없는 무기와 갑옷을 만듭니다.
+- **Anti-Magic Devices** (반마법 장치): **Exanthis** (엑산티스)를 통합한 장치는 마법이 억제되는 영역을 만들 수 있습니다.
+- **Stabilization Technology** (안정화 기술): **Exanthis** (엑산티스)는 마법적으로 불안정한 지역에서 구조물을 접지하고 안정화하는 데 사용됩니다.
+- **Mechanical Engineering** (기계 공학): 정밀 기계 및 복잡한 메커니즘의 기초를 형성합니다.
 
-### Medical Applications
+### 의료 응용
 
-- **Magical Suppressants**: **Exanthis** dust is used in medicines to treat conditions caused by magical overexposure
-- **Grounding Therapy**: **Exanthis** touchstones help stabilize beings suffering from magical instability
-- **Physical Enhancement**: Carefully administered **Exanthis** treatments can enhance physical resilience
-- **Prosthetics**: **Exanthis** alloys create durable artificial limbs and organs
+- **Magical Suppressants** (마법 억제제): **Exanthis** (엑산티스) 가루는 마법 과다 노출로 인한 질병을 치료하는 데 사용됩니다.
+- **Grounding Therapy** (접지 요법): **Exanthis** (엑산티스) 시험석은 마법적 불안정으로 고통받는 존재를 안정화하는 데 도움이 됩니다.
+- **Physical Enhancement** (신체 강화): 신중하게 투여된 **Exanthis** (엑산티스) 치료는 신체 회복력을 향상시킬 수 있습니다.
+- **Prosthetics** (보철): **Exanthis** (엑산티스) 합금은 내구성이 뛰어난 인공 팔다리 및 장기를 만듭니다.
 
-## Metaphysical Significance
+## 형이상학적 중요성
 
-Beyond its physical properties, **Exanthis** holds deeper significance:
+물리적 속성을 넘어 **Exanthis** (엑산티스)는 더 깊은 의미를 가집니다.
 
-- Represents the principle of structure and limitation in the cosmos
-- Creates the necessary resistance that allows for meaningful creation
-- Embodies the concept of permanence in an ever-changing world
-- Forms the foundation upon which reality is built
+- 우주에서 구조와 제한의 원리를 나타냅니다.
+- 의미 있는 창조를 가능하게 하는 필요한 저항을 만듭니다.
+- 끊임없이 변화하는 세계에서 영원함의 개념을 구체화합니다.
+- 현실이 구축되는 기반을 형성합니다.
 
 ---
 
-> Understanding **Exanthis** provides insight into the foundation of physical reality in the world of **OpenFantasy**, like knowing the materials from which a musical instrument is crafted. It creates the stable foundation upon which the world exists, allowing the symphony of creation to play out across its solid surface.
+> **Exanthis** (엑산티스)를 이해하면 마치 악기가 만들어진 재료를 아는 것처럼 OpenFantasy 세계의 물리적 현실의 기초에 대한 통찰력을 얻을 수 있습니다. 그것은 세계가 존재하는 안정적인 기반을 만들고 창조의 교향곡이 견고한 표면에서 연주될 수 있도록 합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

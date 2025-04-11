@@ -1,90 +1,94 @@
-# **Elves**: The Eternal Seekers of Wisdom
+# **Elves** (엘프): 지혜를 영원히 추구하는 자들
 
-[**Elves**](/codex/Creatures/Elves.md) are the eternal seekers of wisdom, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a flute that plays an endless melody, they embody grace and magical prowess, creating a unique harmony of existence that emphasizes longevity, knowledge, and magical mastery.
+[**Elves** (엘프)](/codex/Creatures/Elves.md)는 지혜를 영원히 추구하는 자들이며, 그들의 몸은 [**Exanthis** (엑산티스)](/codex/Basic/Exanthis.md), [**Souls** (영혼)](/codex/Basic/Soul.md), 그리고 **Mana Capacity** (마나 용량)의 조화로운 조화입니다. 끝없는 멜로디를 연주하는 플루트처럼, 그들은 우아함과 마법적 기량을 구현하여 장수, 지식, 마법 숙달을 강조하는 독특한 존재의 조화를 만들어냅니다.
 
-## Elemental Composition
+## Elemental Composition (원소 구성)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **elves** forms a harmony that favors magical prowess:
+[Creatures (생물)](/codex/Creatures/Creatures.md)에 자세히 설명된 것처럼, **elves** (엘프)의 일반적인 비율은 마법적 기량을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| Element (원소) | Range (범위) | Function (기능) |
 |---------|------------|----------|
-| **Exanthis** | 15-40% | The crystalline heart that provides graceful physical form and moderate durability |
-| **Soul** | 5-15% | The ethereal essence that shapes a focused and analytical consciousness |
-| **Mana Capacity** | 50-80% | The bridge between worlds that enables exceptional magical potential |
+| **Exanthis** (엑산티스) | 15-40% | 우아한 물리적 형태와 적당한 내구성을 제공하는 결정질의 심장 |
+| **Soul** (영혼) | 5-15% | 집중되고 분석적인 의식을 형성하는 에테르적인 본질 |
+| **Mana Capacity** (마나 용량) | 50-80% | 뛰어난 마법적 잠재력을 가능하게 하는 세계 사이의 다리 |
 
-This composition grants **elves** their characteristic magical prowess and longevity but limits their physical strength compared to other species, like a delicate instrument that produces complex melodies but cannot match the power of a drum.
+이 구성은 **elves** (엘프)에게 그들의 특징적인 마법적 기량과 장수를 부여하지만, 복잡한 멜로디를 만들어내지만 드럼의 힘에 비할 수 없는 섬세한 악기처럼 다른 종에 비해 물리적 힘을 제한합니다.
 
-### Individual Variations
+### Individual Variations (개별 변형)
 
-While the model composition represents the typical elf, individual variations exist:
+모델 구성은 일반적인 엘프를 나타내지만, 개별적인 변형이 존재합니다.
 
-- **Archmages**: Some elves possess Mana Capacity as high as 85%, making them among the most powerful spellcasters in existence but physically vulnerable with as little as 10% Exanthis.
-- **Warrior Elves**: A rare subset has Exanthis levels approaching 45%, allowing them to excel in physical combat while still maintaining significant magical abilities (45% Mana Capacity).
-- **Soul Seekers**: Those with higher Soul percentages (up to 20%) develop exceptional empathy and connection to the spiritual realm, often becoming powerful healers or spiritual guides.
-- **Balanced Elves**: Some individuals maintain a more balanced composition (30% Exanthis, 10% Soul, 60% Mana Capacity), allowing them to adapt to various roles within elven society.
-- **Spell Blades**: A specialized composition of (25% Exanthis, 5% Soul, 70% Mana Capacity) creates elves who can channel powerful magic through physical combat techniques.
+- **Archmages** (대마법사): 일부 엘프는 85%에 달하는 마나 용량을 소유하여 현존하는 가장 강력한 주문 시전자가 되지만, 엑산티스가 10%에 불과하여 신체적으로 취약합니다.
+- **Warrior Elves** (전사 엘프): 희귀한 하위 집합은 엑산티스 레벨이 45%에 가까워 물리적 전투에서 탁월하지만 여전히 상당한 마법 능력 (45% 마나 용량)을 유지합니다.
+- **Soul Seekers** (영혼 추구자): 더 높은 영혼 비율 (최대 20%)을 가진 사람들은 뛰어난 공감 능력과 영적 영역과의 연결을 개발하여 종종 강력한 치유사 또는 영적 안내자가 됩니다.
+- **Balanced Elves** (균형 잡힌 엘프): 일부 개인은 보다 균형 잡힌 구성 (30% 엑산티스, 10% 영혼, 60% 마나 용량)을 유지하여 엘프 사회 내에서 다양한 역할에 적응할 수 있습니다.
+- **Spell Blades** (주문 검): (25% 엑산티스, 5% 영혼, 70% 마나 용량)의 특수 구성은 물리적 전투 기술을 통해 강력한 마법을 전달할 수 있는 엘프를 만듭니다.
 
-## Physical Characteristics
+## Physical Characteristics (신체적 특징)
 
-**Elves** are known for their ethereal beauty and graceful movements:
-- Tall and slender, with proportions that seem to defy gravity
-- Eyes that shimmer with inner light, reflecting their connection to **Mana**
-- Ears that extend slightly upward, attuned to the subtle harmonies of magic
-- Skin that seems to glow faintly in moonlight, like a pearl catching starlight
-- Hair that flows with an otherworldly grace, often in shades of silver, gold, or the colors of autumn
+**Elves** (엘프)는 그들의 에테르적인 아름다움과 우아한 움직임으로 유명합니다.
+- 키가 크고 가늘며, 중력을 거스르는 듯한 비율
+- **Mana** (마나)와의 연결을 반영하는 내면의 빛으로 반짝이는 눈
+- 마법의 미묘한 조화에 맞춰 약간 위로 뻗은 귀
+- 달빛에 희미하게 빛나는 피부, 마치 별빛을 받는 진주처럼
+- 종종 은색, 금색 또는 가을 색조로 흐르는 다른 세상의 우아함과 함께 머리카락
 
-## Magical Affinity
+## Magical Affinity (마법적 친화력)
 
-**Elves** demonstrate exceptional proficiency in manipulating **Mana**, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Store vast amounts of **Mana** within their mana reservoirs, like deep wells of liquid light
-- Achieve extraordinary purity levels in spell casting, like artists painting with pure starlight
-- Specialize in specific magical disciplines with unparalleled mastery, like composers who have perfected a particular style
+**Elves** (엘프)는 악기를 마스터한 비르투오소 음악가처럼 **Mana** (마나) 조작에 탁월한 숙련도를 보여줍니다. 그들의 구성은 다음과 같이 할 수 있습니다.
+- 액체 빛의 깊은 우물처럼 마나 저장소 내에 막대한 양의 **Mana** (마나)를 저장합니다.
+- 순수한 별빛으로 그림을 그리는 예술가처럼 주문 시전에서 특별한 순도 수준을 달성합니다.
+- 특정 스타일을 완성한 작곡가처럼 비할 데 없는 숙달로 특정 마법 분야를 전문으로 합니다.
 
-This specialization makes **elves** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with disciplines outside their expertise, like a classical musician who cannot improvise jazz.
+이러한 전문화는 **elves** (엘프)가 선택한 마법 전통에서 최고 수준의 숙련도를 달성할 수 있게 하지만, 재즈를 즉흥 연주할 수 없는 클래식 음악가처럼 전문 지식 외부의 분야에서는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (수명과 영혼 부패)
 
-The **soul decay** timeline for **elves**, from birth to complete decay, is approximately 1000 years, like a slow-burning candle that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+**elves** (엘프)의 **soul decay** (영혼 부패) 타임라인은 출생에서 완전한 부패까지 약 1000년이며, 시대를 밝히는 천천히 타는 촛불과 같습니다. 이 연장된 수명을 통해 다음과 같은 작업을 수행할 수 있습니다.
+- 수세기에 걸쳐 막대한 지식과 지혜를 축적합니다.
+- 특정 장소 및 마법 전통에 대한 깊은 연결을 개발합니다.
+- 복잡한 관습과 의식이 있는 복잡한 사회를 형성합니다.
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+그러나 영혼 부패가 느리다는 것은 다른 종보다 변화하고 적응하는 데 더 오랜 시간이 걸린다는 것을 의미하며, 시대를 통해 아름답지만 변하지 않는 멜로디와 같습니다.
 
-## Habitat and Distribution
+## Habitat and Distribution (서식지와 분포)
 
-**Elves** primarily inhabit:
-- **Eastern Veldrassil**, where the currents of **Mana** flow most intensely
-- Ancient forests and magical groves, where the boundaries between worlds grow thin
-- Floating islands and crystal spires, where they can be closer to the celestial harmonies
+**Elves** (엘프)는 주로 다음 장소에 서식합니다.
+- **Eastern Veldrassil** (동부 벨드라실), **Mana** (마나)의 흐름이 가장 강렬한 곳
+- 세계 사이의 경계가 얇아지는 고대 숲과 마법 숲
+- 천상의 조화에 더 가까이 다가갈 수 있는 떠다니는 섬과 수정 첨탑
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+이러한 위치는 교향곡을 위한 완벽한 음향과 마찬가지로 마법 연구 및 영적 명상을 위한 이상적인 환경을 제공합니다.
 
-## Cultural Impact
+## Cultural Impact (문화적 영향)
 
-In the world of **OpenFantasy**, **elves** play a crucial role in preserving ancient knowledge and magical traditions, like archivists of forgotten melodies. Their societies are centers of:
-- Arcane research and magical innovation
-- Spiritual wisdom and philosophical contemplation
-- Artistic expression and aesthetic refinement
+**OpenFantasy** 세계에서 **elves** (엘프)는 잊혀진 멜로디의 기록 보관 담당자처럼 고대 지식과 마법 전통을 보존하는 데 중요한 역할을 합니다. 그들의 사회는 다음의 중심지입니다.
+- 신비로운 연구와 마법 혁신
+- 영적 지혜와 철학적 성찰
+- 예술적 표현과 미적 세련
 
-The proximity to the strongest currents of **Mana** has shaped elven culture around the study and mastery of magic, creating a society where magical ability is the highest form of achievement.
+**Mana** (마나)의 가장 강력한 흐름에 가까운 곳은 마법 연구 및 숙달을 중심으로 엘프 문화를 형성하여 마법 능력이 최고의 성취 형태인 사회를 만들었습니다.
 
-## Relationship with Other Species
+## Relationship with Other Species (다른 종과의 관계)
 
-**Elves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their short-sightedness
-- With **Dwarves**: A historical rivalry born from their different approaches to the world
-- With **Fae**: A deep connection based on shared magical affinities
-- With **Beastfolk**: A respectful distance, acknowledging their primal strength
+**Elves** (엘프)는 다른 종과 복잡한 관계를 유지합니다.
+- [**Humans** (인간)](/codex/Creatures/Human.md)와: 그들의 적응력에 대한 존경과 근시안적 태도에 대한 좌절감의 혼합
+- **Dwarves** (드워프)와: 세상에 대한 서로 다른 접근 방식으로 인해 발생한 역사적 라이벌 관계
+- **Fae** (페이)와: 공유된 마법적 친화력을 기반으로 한 깊은 연결
+- **Beastfolk** (수인)과: 그들의 원초적인 힘을 인정하는 존중하는 거리
 
-These relationships are often characterized by a sense of cultural superiority, as **elves** view themselves as the guardians of ancient wisdom and magical traditions.
+이러한 관계는 종종 문화적 우월감으로 특징지어지며, **elves** (엘프)는 자신을 고대 지혜와 마법 전통의 수호자로 간주합니다.
 
-## Notable Elven Traits
+## Notable Elven Traits (주목할 만한 엘프 특성)
 
-- **Magical Mastery**: Elves excel in specific magical disciplines, often specializing in one area to the exclusion of others
-- **Long Memory**: Their extended lifespans allow them to remember events and knowledge that other species have forgotten
-- **Environmental Sensitivity**: Elves are deeply attuned to their surroundings, particularly in magical environments
-- **Cultural Preservation**: Elven societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Elves have developed highly refined artistic and cultural traditions
+- **Magical Mastery** (마법 숙달): 엘프는 특정 마법 분야에서 뛰어나며 종종 다른 영역을 배제하고 한 영역을 전문으로 합니다.
+- **Long Memory** (긴 기억력): 그들의 연장된 수명은 다른 종이 잊어버린 사건과 지식을 기억할 수 있게 합니다.
+- **Environmental Sensitivity** (환경 감수성): 엘프는 특히 마법 환경에서 주변 환경에 깊이 적응합니다.
+- **Cultural Preservation** (문화 보존): 엘프 사회는 전통과 지식 보존에 큰 중점을 둡니다.
+- **Aesthetic Refinement** (미적 세련): 엘프는 고도로 세련된 예술적 및 문화적 전통을 개발했습니다.
 
-Understanding the nature of **elves** provides insight into the magical aspects of the world of **OpenFantasy**, like listening to the ethereal melodies that echo through the ages. 
+**elves** (엘프)의 본질을 이해하는 것은 시대를 통해 울려 퍼지는 에테르적인 멜로디를 듣는 것처럼 **OpenFantasy** 세계의 마법적 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

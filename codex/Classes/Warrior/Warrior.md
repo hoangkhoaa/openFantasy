@@ -1,135 +1,139 @@
-# **Warrior**: The Masters of Physical Combat
+# **전사(Warrior)**: 육체 전투의 달인
 
-[**Warriors**](/codex/Classes/Warrior/Warrior.md) are the embodiments of physical power and martial prowess, their bodies honed through rigorous training and battle experience. Their existence resonates with the material world, creating a symphony of strength, skill, and tactical expertise.
+[**전사(Warriors)**](/codex/Classes/Warrior/Warrior.md)는 육체적인 힘과 무술 기량의 구현체이며, 그들의 몸은 엄격한 훈련과 전투 경험을 통해 연마되었습니다. 그들의 존재는 물질 세계와 공명하여 힘, 기술, 전술적 전문성의 교향곡을 만들어냅니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **warriors** creates a distinctive harmony that favors physical might:
+[직업(Classes)](/codex/Classes/Classes.md)에 자세히 설명되어 있듯이, **전사(warriors)**의 일반적인 비율은 육체적 힘을 선호하는 독특한 조화를 이룹니다.
 
-| Element | Range | Function |
+| 원소(Element) | 범위(Range) | 기능(Function) |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | Exceptional physical foundation providing superior strength, endurance, and resilience |
-| **Soul** | 20-35% | Balanced consciousness supporting tactical awareness and combat intuition |
-| **Mana Capacity** | 10-25% | Limited magical potential typically channeled into enhancing physical capabilities |
+| **엑산티스(Exanthis)** | 50-70% | 뛰어난 힘, 지구력, 회복력을 제공하는 탁월한 신체적 기반 |
+| **영혼(Soul)** | 20-35% | 전술적 인식과 전투 직관을 지원하는 균형 잡힌 의식 |
+| **마나 용량(Mana Capacity)** | 10-25% | 일반적으로 신체 능력을 향상시키는 데 사용되는 제한적인 마법 잠재력 |
 
-This composition grants **warriors** their characteristic physical prowess at the cost of magical versatility. Their bodies are like well-forged weapons, designed primarily for physical combat rather than arcane manipulation.
+이러한 구성은 **전사(warriors)**에게 마법적 다양성을 희생하여 그들의 특징적인 육체적 기량을 부여합니다. 그들의 몸은 비전 조작보다는 주로 육체적 전투를 위해 설계된 잘 만들어진 무기와 같습니다.
 
-### Magical Affinity Profile
+### 마법 친화도 프로필
 
-Despite their limited Mana Capacity, **warriors** typically develop specific affinities that complement their martial abilities:
+제한된 마나 용량(Mana Capacity)에도 불구하고, **전사(warriors)**는 일반적으로 그들의 무술 능력을 보완하는 특정 친화도를 개발합니다.
 
-| Warrior Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| 전사 전통(Warrior Tradition) | 주요 친화도(Primary Affinities) | 보조 친화도(Secondary Affinities) | 일반적인 적용(Typical Application) |
 |-----------------|-------------------|---------------------|---------------------|
-| **Berserker** | Pyromana (Intensity, Consumption) | Base Mana (Endurance) | Battle fury, enhanced strength, pain suppression |
-| **Guardian** | Terramana (Stability, Protection) | Base Mana (Resilience) | Damage mitigation, defensive stances, immovability |
-| **Duelist** | Aeromana (Speed, Precision) | Luxmana (Awareness) | Enhanced reflexes, precision strikes, battlefield assessment |
-| **Warlord** | Base Mana (Command) | Varies by specialty | Battlefield control, intimidation, tactical coordination |
-| **Weaponmaster** | Base Mana (Extension) | Varies by weapon | Weapon enhancement, specialized techniques, supernatural precision |
-| **Juggernaut** | Terramana (Weight, Momentum) | Pyromana (Force) | Overwhelming attacks, unstoppable charges, ground-breaking strikes |
+| **광전사(Berserker)** | 파이로마나(Pyromana) (강도, 소비) | 기본 마나(Base Mana) (지구력) | 전투 격노, 강화된 힘, 고통 억제 |
+| **수호자(Guardian)** | 테라마나(Terramana) (안정성, 보호) | 기본 마나(Base Mana) (회복력) | 피해 완화, 방어 태세, 부동성 |
+| **결투가(Duelist)** | 에어로마나(Aeromana) (속도, 정확성) | 룩스마나(Luxmana) (인식) | 강화된 반사 신경, 정밀 타격, 전장 평가 |
+| **군주(Warlord)** | 기본 마나(Base Mana) (지휘) | 전문 분야에 따라 다름 | 전장 통제, 위협, 전술적 조정 |
+| **무기 달인(Weaponmaster)** | 기본 마나(Base Mana) (확장) | 무기에 따라 다름 | 무기 강화, 특수 기술, 초자연적인 정확성 |
+| **파괴자(Juggernaut)** | 테라마나(Terramana) (무게, 운동량) | 파이로마나(Pyromana) (힘) | 압도적인 공격, 멈출 수 없는 돌진, 지면 파괴 타격 |
 
-Warriors typically achieve 40-60% specialization efficiency with their primary affinities, focusing on practical application rather than theoretical mastery. This specialization reflects their combat-oriented training and pragmatic approach to magical energy.
+전사(Warriors)는 일반적으로 이론적 숙달보다는 실용적인 적용에 초점을 맞추어 주요 친화도에 대해 40-60%의 전문화 효율성을 달성합니다. 이러한 전문화는 전투 중심의 훈련과 마법 에너지에 대한 실용적인 접근 방식을 반영합니다.
 
-### Species-Specific Variations
+### 종족별 변형
 
-Different species show varying natural inclinations toward the warrior class:
+다양한 종족은 전사(warrior) 직업에 대한 다양한 자연적 성향을 보입니다.
 
-- **Humans** (45-65% Exanthis, 20-35% Soul, 10-25% Mana Capacity): Their adaptability allows them to develop diverse fighting styles balanced between strength and technique.
-- **Dwarves** (60-75% Exanthis, 15-25% Soul, 5-15% Mana Capacity): Their natural physical resilience makes them exceptional tanks and heavy weapon specialists.
-- **Orcs** (65-80% Exanthis, 10-20% Soul, 5-15% Mana Capacity): Their raw physical power makes them devastating front-line fighters with exceptional offensive capabilities.
-- **Minotaurs** (70-85% Exanthis, 10-20% Soul, 5-10% Mana Capacity): Their massive frames and natural strength make them unparalleled in terms of raw power and intimidation.
-- **Leonin** (55-70% Exanthis, 20-30% Soul, 10-15% Mana Capacity): Their predatory instincts grant them superior combat reflexes and tactical awareness.
+- **인간(Humans)** (45-65% 엑산티스(Exanthis), 20-35% 영혼(Soul), 10-25% 마나 용량(Mana Capacity)): 그들의 적응력은 그들이 힘과 기술 사이에서 균형 잡힌 다양한 격투 스타일을 개발할 수 있게 합니다.
+- **드워프(Dwarves)** (60-75% 엑산티스(Exanthis), 15-25% 영혼(Soul), 5-15% 마나 용량(Mana Capacity)): 그들의 타고난 신체적 회복력은 그들을 뛰어난 탱커 및 중화기 전문가로 만듭니다.
+- **오크(Orcs)** (65-80% 엑산티스(Exanthis), 10-20% 영혼(Soul), 5-15% 마나 용량(Mana Capacity)): 그들의 원초적인 육체적 힘은 그들을 뛰어난 공격 능력을 가진 파괴적인 최전선 전투원으로 만듭니다.
+- **미노타우로스(Minotaurs)** (70-85% 엑산티스(Exanthis), 10-20% 영혼(Soul), 5-10% 마나 용량(Mana Capacity)): 그들의 거대한 체격과 타고난 힘은 그들을 원초적인 힘과 위협의 측면에서 비할 데 없이 만듭니다.
+- **레오닌(Leonin)** (55-70% 엑산티스(Exanthis), 20-30% 영혼(Soul), 10-15% 마나 용량(Mana Capacity)): 그들의 포식적인 본능은 그들에게 우수한 전투 반사 신경과 전술적 인식을 부여합니다.
 
-## Physical Characteristics
+## 신체적 특징
 
-**Warriors** are known for their strength and martial prowess:
-- Muscular build with well-defined physique, like a finely crafted weapon
-- Eyes that reflect determination and focus, showing their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hands calloused from years of weapon training, like a musician's fingers adapted to their instrument
-- Presence that commands attention, like a powerful chord that resonates through a room
-- Stance that exudes confidence and readiness, like a performer poised to begin
+**전사(Warriors)**는 그들의 힘과 무술 기량으로 유명합니다.
+- 마치 정교하게 만들어진 무기처럼 잘 다듬어진 체격의 근육질 몸매
+- [**엑산티스(Exanthis)**](/codex/Basic/Exanthis.md)와의 연결을 보여주는 결단력과 집중력을 반영하는 눈
+- 마치 악기에 적응한 음악가의 손가락처럼, 수년간의 무기 훈련으로 굳은살이 박힌 손
+- 방을 통해 울려 퍼지는 강력한 화음처럼, 시선을 사로잡는 존재감
+- 공연을 시작하기 위해 자세를 취하는 연기자처럼, 자신감과 준비성을 발산하는 자세
 
-## Combat Affinity
+## 전투 친화도
 
-**Warriors** demonstrate exceptional proficiency in physical combat, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Wield weapons with extraordinary precision, like conductors leading an orchestra
-- Endure physical punishment that would incapacitate others, like a drum that can withstand powerful strikes
-- Execute complex combat maneuvers with grace and power, like dancers performing a martial ballet
+**전사(Warriors)**는 마치 악기를 마스터한 거장 음악가처럼 육체 전투에서 뛰어난 능력을 보여줍니다. 그들의 구성은 그들이 다음을 수행할 수 있게 합니다.
+- 마치 오케스트라를 이끄는 지휘자처럼, 특별한 정확성으로 무기를 휘두릅니다.
+- 강력한 타격을 견딜 수 있는 드럼처럼, 다른 사람을 무력화시킬 수 있는 신체적 처벌을 견뎌냅니다.
+- 마치 무술 발레를 공연하는 무용수처럼, 우아함과 힘으로 복잡한 전투 기동을 실행합니다.
 
-This specialization makes **warriors** capable of achieving the highest levels of proficiency in their chosen combat styles, though they may struggle with tasks requiring subtlety or magical finesse, like a powerful instrument that produces beautiful sounds but cannot play delicate passages.
+이러한 전문화는 **전사(warriors)**가 선택한 전투 스타일에서 최고 수준의 능력을 달성할 수 있게 하지만, 섬세한 구절을 연주할 수 없는 강력한 악기처럼, 미묘함이나 마법적 기교가 필요한 작업에는 어려움을 겪을 수 있습니다.
 
-## Training and Development
+## 훈련 및 개발
 
-The path of a **warrior** involves rigorous physical training and mental discipline:
-- Daily weapon practice and combat drills, like musicians practicing scales
-- Physical conditioning to build strength and endurance, like tuning an instrument for optimal performance
-- Study of combat tactics and strategies, like learning the theory behind musical composition
-- Meditation to develop focus and mental clarity, like finding the quiet center before a performance
+**전사(warrior)**의 길에는 엄격한 신체 훈련과 정신 수양이 포함됩니다.
+- 마치 음악가가 음계를 연습하는 것처럼, 매일 무기 연습과 전투 훈련
+- 마치 악기를 최적의 성능을 위해 조율하는 것처럼, 힘과 지구력을 키우기 위한 신체 단련
+- 마치 음악 작곡의 이론을 배우는 것처럼, 전투 전술과 전략 연구
+- 마치 공연 전에 조용한 중심을 찾는 것처럼, 집중력과 정신적 명료성을 개발하기 위한 명상
 
-## Equipment and Gear
+## 장비 및 장비
 
-**Warriors** rely on various equipment to enhance their combat abilities:
-- Weapons ranging from swords and axes to spears and bows, like different instruments for different performances
-- Armor that provides protection while allowing mobility, like a well-fitted case for a precious instrument
-- Combat accessories such as shields, throwing weapons, and grappling tools, like accessories that enhance an instrument's capabilities
+**전사(Warriors)**는 전투 능력을 향상시키기 위해 다양한 장비에 의존합니다.
+- 마치 다양한 공연을 위한 다양한 악기처럼, 검과 도끼에서 창과 활에 이르기까지 다양한 무기
+- 마치 귀중한 악기를 위한 잘 맞는 케이스처럼, 이동성을 허용하면서 보호 기능을 제공하는 갑옷
+- 마치 악기의 기능을 향상시키는 액세서리처럼, 방패, 투척 무기, 그래플링 도구와 같은 전투 액세서리
 
-## Subclasses
+## 하위 직업
 
-**Warriors** can specialize in various combat styles and roles:
+**전사(Warriors)**는 다양한 전투 스타일과 역할로 전문화할 수 있습니다.
 
-### [**Guardian**](/codex/Classes/Warrior/Guardian.md)
+### [**수호자(Guardian)**](/codex/Classes/Warrior/Guardian.md)
 
-Guardians focus on defensive combat, emphasizing the protection of others. They excel at:
-- Blocking and intercepting attacks directed at allies
-- Creating defensive formations that protect groups
-- Using shields and defensive stances to maximize protection
+수호자(Guardians)는 방어적인 전투에 집중하여 다른 사람의 보호를 강조합니다. 그들은 다음에 능숙합니다.
+- 아군을 향한 공격을 막고 가로챕니다.
+- 그룹을 보호하는 방어 진형을 만듭니다.
+- 방패와 방어 태세를 사용하여 보호를 극대화합니다.
 
-### [**Berserker**](/codex/Classes/Warrior/Berserker.md)
+### [**광전사(Berserker)**](/codex/Classes/Warrior/Berserker.md)
 
-Berserkers enter a battle rage that enhances their combat abilities. They excel at:
-- Dealing massive damage in close combat
-- Entering a trance-like state that enhances strength and reduces pain
-- Intimidating enemies with their ferocious presence
+광전사(Berserkers)는 전투 능력을 향상시키는 전투 격노 상태에 들어갑니다. 그들은 다음에 능숙합니다.
+- 근접전에서 막대한 피해를 줍니다.
+- 힘을 강화하고 고통을 줄이는 무아지경에 들어갑니다.
+- 맹렬한 존재감으로 적을 위협합니다.
 
-### [**Duelist**](/codex/Classes/Warrior/Duelist.md)
+### [**결투가(Duelist)**](/codex/Classes/Warrior/Duelist.md)
 
-Duelists specialize in one-on-one combat, emphasizing precision and technique. They excel at:
-- Fencing and swordplay with light weapons
-- Reading opponents and exploiting weaknesses
-- Performing complex combat maneuvers with grace
+결투가(Duelists)는 일대일 전투를 전문으로 하며, 정확성과 기술을 강조합니다. 그들은 다음에 능숙합니다.
+- 가벼운 무기로 펜싱 및 검술을 합니다.
+- 상대를 읽고 약점을 이용합니다.
+- 우아하게 복잡한 전투 기동을 수행합니다.
 
-### [**Commander**](/codex/Classes/Warrior/Commander.md)
+### [**지휘관(Commander)**](/codex/Classes/Warrior/Commander.md)
 
-Commanders lead groups in combat, coordinating their efforts for maximum effectiveness. They excel at:
-- Tactical planning and battlefield awareness
-- Inspiring and directing allies in combat
-- Adapting strategies to changing battlefield conditions
+지휘관(Commanders)은 전투에서 그룹을 이끌고 최대 효율성을 위해 노력을 조정합니다. 그들은 다음에 능숙합니다.
+- 전술적 계획 및 전장 인식
+- 전투에서 아군에게 영감을 주고 지시합니다.
+- 변화하는 전장 조건에 전략을 적용합니다.
 
-### [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md)
+### [**무기 달인(Weaponmaster)**](/codex/Classes/Warrior/Weaponmaster.md)
 
-Weaponmasters master multiple weapons and combat styles, adapting to any situation. They excel at:
-- Proficiency with a wide variety of weapons
-- Switching between combat styles as needed
-- Combining different weapons and techniques
+무기 달인(Weaponmasters)은 여러 무기와 전투 스타일을 마스터하여 모든 상황에 적응합니다. 그들은 다음에 능숙합니다.
+- 다양한 무기에 대한 능숙함
+- 필요에 따라 전투 스타일을 전환합니다.
+- 다양한 무기와 기술을 결합합니다.
 
-## Notable Warrior Traits
+## 주목할 만한 전사(Warrior) 특성
 
-- **Combat Mastery**: Warriors excel in physical combat, often specializing in specific weapons or styles
-- **Physical Resilience**: Warriors can endure physical punishment that would incapacitate others
-- **Tactical Awareness**: Warriors develop keen awareness of battlefield conditions and combat dynamics
-- **Leadership**: Many warriors develop natural leadership abilities through combat experience
-- **Discipline**: Warriors maintain rigorous training regimens to maintain their combat abilities
+- **전투 숙달(Combat Mastery)**: 전사(Warriors)는 육체 전투에 능숙하며 종종 특정 무기나 스타일을 전문으로 합니다.
+- **신체적 회복력(Physical Resilience)**: 전사(Warriors)는 다른 사람을 무력화시킬 수 있는 신체적 처벌을 견딜 수 있습니다.
+- **전술적 인식(Tactical Awareness)**: 전사(Warriors)는 전장 조건과 전투 역학에 대한 예리한 인식을 개발합니다.
+- **리더십(Leadership)**: 많은 전사(warriors)들이 전투 경험을 통해 자연스러운 리더십 능력을 개발합니다.
+- **수양(Discipline)**: 전사(Warriors)는 전투 능력을 유지하기 위해 엄격한 훈련 요법을 유지합니다.
 
-## Warrior Traditions
+## 전사(Warrior) 전통
 
-Warrior society is organized into numerous traditions, each with its own specialties and techniques:
+전사(Warrior) 사회는 수많은 전통으로 조직되어 있으며, 각 전통은 고유한 전문 분야와 기술을 가지고 있습니다.
 
-| Tradition | Specialty | Territory | Notable Traits |
+| 전통(Tradition) | 전문 분야(Specialty) | 영토(Territory) | 주목할 만한 특징(Notable Traits) |
 |---------|---------------|---------|-------------------|
-| **Blade Dancers** | Swordplay, grace | Urban centers | Elegant combat style, precision strikes |
-| **Iron Legion** | Heavy armor, formation fighting | Military fortresses | Defensive formations, shield walls |
-| **Wild Hunters** | Tracking, survival | Wilderness regions | Tracking abilities, survival skills |
-| **Storm Riders** | Cavalry, mounted combat | Plains and grasslands | Mounted combat, mobility |
-| **Shadow Blades** | Stealth, assassination | Urban shadows | Stealth techniques, surprise attacks |
-| **Dragon Slayers** | Monster hunting, specialized weapons | Monster territories | Monster knowledge, specialized techniques |
+| **검무단(Blade Dancers)** | 검술, 우아함 | 도시 중심부 | 우아한 전투 스타일, 정밀 타격 |
+| **철혈 군단(Iron Legion)** | 중갑, 대형 전투 | 군사 요새 | 방어 진형, 방패 벽 |
+| **야생 사냥꾼(Wild Hunters)** | 추적, 생존 | 황무지 지역 | 추적 능력, 생존 기술 |
+| **폭풍 기병대(Storm Riders)** | 기병, 기마 전투 | 평원 및 초원 | 기마 전투, 이동성 |
+| **그림자 검(Shadow Blades)** | 은신, 암살 | 도시의 그림자 | 은신 기술, 기습 공격 |
+| **용 사냥꾼(Dragon Slayers)** | 몬스터 사냥, 특수 무기 | 몬스터 영토 | 몬스터 지식, 특수 기술 |
 
-Understanding the nature of **warriors** provides insight into the martial aspects of the world of **OpenFantasy**, like listening to the powerful rhythms that drive the symphony of battle. 
+**전사(warriors)**의 본질을 이해하는 것은 마치 전투의 교향곡을 이끄는 강력한 리듬을 듣는 것처럼 **OpenFantasy** 세계의 무술적 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

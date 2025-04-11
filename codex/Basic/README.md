@@ -1,108 +1,112 @@
-# OpenFantasy Fundamental Concepts
+# OpenFantasy 기본 개념
 
-> *"Three elements form the foundation of all existence: Exanthis gives it form, Soul gives it purpose, and Mana gives it wonder."*
+> *"세 가지 요소가 모든 존재의 기초를 이룬다: Exanthis(엑산티스)는 형태를 부여하고, Soul(소울)은 목적을 부여하며, Mana(마나)는 경이로움을 부여한다."*
 
-## Overview
+## 개요
 
-Welcome to the OpenFantasy Fundamental Concepts documentation. This section contains detailed information about the three foundational elements that define the reality of the OpenFantasy world: Exanthis, Soul, and Mana. These elements interact to create all beings, objects, and phenomena in the world.
+OpenFantasy 기본 개념 문서에 오신 것을 환영합니다. 이 섹션에는 OpenFantasy 세계의 현실을 정의하는 세 가지 기본 요소인 Exanthis(엑산티스), Soul(소울) 및 Mana(마나)에 대한 자세한 정보가 들어 있습니다. 이 요소들은 상호 작용하여 세계의 모든 존재, 사물 및 현상을 창조합니다.
 
-## Quick Navigation
+## 빠른 탐색
 
 - [Exanthis](#exanthis)
 - [Soul](#soul)
 - [Mana](#mana)
-- [Elemental Interactions](#elemental-interactions)
-- [Geographical Distribution](#geographical-distribution)
+- [요소 상호 작용](#elemental-interactions)
+- [지리적 분포](#geographical-distribution)
 
-## The Three Elements
+## 세 가지 요소
 
-Each of the three fundamental elements governs a different aspect of existence:
+세 가지 기본 요소는 각각 존재의 다른 측면을 관장합니다.
 
-| Element | Nature | Function | Document |
+| 요소 (Element) | 본성 (Nature) | 기능 (Function) | 문서 (Document) |
 |---------|--------|----------|----------|
-| **Exanthis** | Physical, magnetic material | Creates form and structure | [Exanthis.md](Exanthis.md) |
-| **Soul** | Ethereal essence | Provides consciousness and will | [Soul.md](Soul.md) |
-| **Mana** | Magical energy | Enables magical manipulation | [Mana.md](Mana.md) |
+| **Exanthis** | 물리적, 자기적 물질 | 형태와 구조를 생성 | [Exanthis.md](Exanthis.md) |
+| **Soul** | 에테르 본질 | 의식과 의지를 제공 | [Soul.md](Soul.md) |
+| **Mana** | 마법 에너지 | 마법 조작을 가능하게 함 | [Mana.md](Mana.md) |
 
 ## Exanthis
 
-Exanthis is the foundation of physical reality, providing structure and solidity to the world:
+Exanthis(엑산티스)는 물리적 현실의 기초이며, 세계에 구조와 견고함을 제공합니다.
 
-### Key Properties
+### 주요 속성
 
-- Forms the physical structure of reality
-- Generates magnetic fields that disrupt Mana
-- At 100% purity, becomes the hardest known material
-- Found in high concentrations in western regions
+- 현실의 물리적 구조를 형성합니다.
+- Mana(마나)를 방해하는 자기장을 생성합니다.
+- 100% 순도에서 가장 단단한 알려진 물질이 됩니다.
+- 서부 지역에서 고농도로 발견됩니다.
 
-### Significance
+### 중요성
 
-Exanthis grounds reality in material form, providing resistance to magical forces and establishing the physical laws of the world. Higher Exanthis concentration in living beings grants them greater physical strength and durability at the cost of magical potential.
+Exanthis(엑산티스)는 현실을 물질적 형태로 고정시켜 마법력에 저항하고 세계의 물리 법칙을 확립합니다. 생명체 내 Exanthis(엑산티스) 농도가 높을수록 마법 잠재력을 희생하는 대신 더 큰 물리적 힘과 내구성을 얻습니다.
 
 ## Soul
 
-The Soul bridges the material and spiritual realms, providing consciousness and will:
+Soul(소울)은 물질적 영역과 영적 영역을 연결하여 의식과 의지를 제공합니다.
 
-### Key Properties
+### 주요 속성
 
-- Consists of Core Identity, Memory Matrix, and Intent Framework
-- Serves as the conduit for magical manipulation
-- Can evolve and develop throughout a lifetime
-- Persists after physical death
+- 핵심 정체성, 기억 매트릭스 및 의도 프레임워크로 구성됩니다.
+- 마법 조작의 통로 역할을 합니다.
+- 평생 동안 진화하고 발전할 수 있습니다.
+- 육체적 죽음 후에도 지속됩니다.
 
-### Significance
+### 중요성
 
-The Soul enables beings to experience the world, form intentions, and manipulate Mana according to their will. It creates the unique identity of each individual and allows for conscious interaction with reality.
+Soul(소울)은 존재가 세계를 경험하고, 의도를 형성하고, 자신의 의지에 따라 Mana(마나)를 조작할 수 있게 합니다. 각 개인의 고유한 정체성을 만들고 현실과의 의식적인 상호 작용을 허용합니다.
 
 ## Mana
 
-Mana is the breath of creation itself, forming the foundation of all magical effects:
+Mana(마나)는 창조의 숨결 그 자체이며, 모든 마법 효과의 기초를 형성합니다.
 
-### Key Properties
+### 주요 속성
 
-- Permeates all things as particle-like energy
-- Flows in currents throughout the world
-- Resonates with Soul to enable magical manipulation
-- Repelled by Exanthis' magnetic field
+- 입자 모양의 에너지로 모든 것에 스며듭니다.
+- 전 세계에 흐르는 흐름을 형성합니다.
+- Soul(소울)과 공명하여 마법 조작을 가능하게 합니다.
+- Exanthis(엑산티스)의 자기장에 의해 반발됩니다.
 
-### Significance
+### 중요성
 
-Mana is the raw material of magic, enabling the transformation of intention into reality. It flows through the world in varying concentrations, creating regions of high and low magical potential.
+Mana(마나)는 마법의 원료이며, 의도를 현실로 변환할 수 있게 합니다. 농도가 다양한 세계를 통해 흐르며, 마법 잠재력이 높고 낮은 지역을 만듭니다.
 
-## Elemental Interactions
+## 요소 상호 작용
 
-The three elements interact in complex ways that define the nature of reality:
+세 가지 요소는 복잡한 방식으로 상호 작용하여 현실의 본질을 정의합니다.
 
-### Balance and Opposition
+### 균형과 반대
 
-| Interaction | Result | Effect |
+| 상호 작용 (Interaction) | 결과 (Result) | 효과 (Effect) |
 |-------------|--------|--------|
-| **Exanthis + Mana** | Opposition | Exanthis disrupts and repels Mana |
-| **Soul + Mana** | Harmony | Soul directs and shapes Mana |
-| **Exanthis + Soul** | Structure | Soul animates physical form created by Exanthis |
-| **All Three** | Balance | Creates living beings with unique capabilities |
+| **Exanthis + Mana** | 반대 | Exanthis(엑산티스)는 Mana(마나)를 방해하고 격퇴합니다. |
+| **Soul + Mana** | 조화 | Soul(소울)은 Mana(마나)를 지시하고 형성합니다. |
+| **Exanthis + Soul** | 구조 | Soul(소울)은 Exanthis(엑산티스)가 만든 물리적 형태를 생기있게 합니다. |
+| **All Three** | 균형 | 고유한 능력을 가진 생명체를 만듭니다. |
 
-### In Living Beings
+### 생명체 내에서
 
-The ratio of these elements in a living being determines their nature and abilities:
+생명체 내 이러한 요소의 비율은 그들의 본성과 능력을 결정합니다.
 
-- **High Exanthis**: Greater physical strength and durability, reduced magical ability
-- **High Soul**: Enhanced consciousness and willpower, often shorter lifespan
-- **High Mana Capacity**: Enhanced magical potential, often reduced physical robustness
+- **높은 Exanthis(엑산티스)**: 더 큰 물리적 힘과 내구성, 마법 능력 감소
+- **높은 Soul(소울)**: 향상된 의식과 의지력, 종종 짧은 수명
+- **높은 Mana(마나) 용량**: 향상된 마법 잠재력, 종종 감소된 물리적 강건함
 
-## Geographical Distribution
+## 지리적 분포
 
-The elements are not evenly distributed throughout the world:
+요소들은 전 세계에 고르게 분포되어 있지 않습니다.
 
-| Region | Dominant Element | Characteristics |
+| 지역 (Region) | 지배적인 요소 (Dominant Element) | 특징 (Characteristics) |
 |--------|------------------|-----------------|
-| **Eastern Veldrassil** | Mana | High magical potential, centers of arcane study |
-| **Western Veldrassil** | Exanthis | Low magical potential, centers of physical industry |
-| **Various Leylines** | Mana | Streams of concentrated magical energy |
-| **Sacred Groves** | Soul | Places of heightened spiritual connection |
+| **Eastern Veldrassil (동부 벨드라실)** | Mana(마나) | 높은 마법 잠재력, 신비로운 연구의 중심지 |
+| **Western Veldrassil (서부 벨드라실)** | Exanthis(엑산티스) | 낮은 마법 잠재력, 물리적 산업의 중심지 |
+| **Various Leylines (다양한 레이라인)** | Mana(마나) | 집중된 마법 에너지의 흐름 |
+| **Sacred Groves (신성한 숲)** | Soul(소울) | 고조된 영적 연결의 장소 |
 
-This uneven distribution creates natural zones of magical intensity and magical dead zones, influencing the development of civilizations and the distribution of species.
+이러한 불균등한 분포는 마법 강도와 마법 사각 지대의 자연적인 구역을 만들어 문명의 발전과 종의 분포에 영향을 미칩니다.
 
 ---
 
-> **Note**: Understanding these fundamental concepts is essential for comprehending all other aspects of the OpenFantasy world, from species characteristics to magical systems to technological development. 
+> **참고**: 이러한 기본 개념을 이해하는 것은 종의 특성에서 마법 시스템, 기술 개발에 이르기까지 OpenFantasy 세계의 다른 모든 측면을 이해하는 데 필수적입니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

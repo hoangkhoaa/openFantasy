@@ -1,135 +1,139 @@
-# **Rogue**: Masters of Finesse and Stealth
+# **Rogue** (도적): 기교와 은신술의 달인
 
-[**Rogues**](/codex/Classes/Rogue/Rogue.md) embody the perfect balance between physical dexterity and cunning intellect. Their existence forms a subtle harmony that favors precision, adaptability, and opportunism rather than raw power or magical might.
+[**Rogues** (도적)](/codex/Classes/Rogue/Rogue.md)는 육체적인 민첩성과 교활한 지능 사이의 완벽한 균형을 구현합니다. 그들의 존재는 순수한 힘이나 마법적인 힘보다는 정확성, 적응성, 그리고 기회주의를 선호하는 미묘한 조화를 이룹니다.
 
-## Elemental Composition
+## Elemental Composition (원소 구성)
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rogues** creates a distinctive harmony that emphasizes adaptability:
+[Classes (직업)](/codex/Classes/Classes.md)에 자세히 설명된 바와 같이, **rogues** (도적)의 일반적인 비율은 적응성을 강조하는 독특한 조화를 만듭니다:
 
-| Element | Range | Function |
+| Element (원소) | Range (범위) | Function (기능) |
 |---------|------------|----------|
-| **Exanthis** | 35-50% | Balanced physical foundation providing agility, precision, and reflexes over raw strength |
-| **Soul** | 30-45% | Enhanced consciousness supporting perception, improvisation, and strategic thinking |
-| **Mana Capacity** | 15-30% | Moderate magical potential typically channeled into enhancing stealth, perception, and deception |
+| **Exanthis** | 35-50% | 순수한 힘보다 민첩성, 정확성, 반사 신경을 제공하는 균형 잡힌 신체 기반 |
+| **Soul** | 30-45% | 인식, 즉흥 연주, 전략적 사고를 지원하는 향상된 의식 |
+| **Mana Capacity** | 15-30% | 일반적으로 은신, 인식, 속임수를 향상시키는 데 사용되는 적당한 마법 잠재력 |
 
-This composition grants **rogues** their characteristic versatility and adaptability. Their balanced elemental distribution allows them to excel in situations requiring both physical prowess and mental acuity, though they lack the specialized extremes of other classes.
+이러한 구성은 **rogues** (도적)에게 그들의 특징적인 다재다능함과 적응력을 부여합니다. 그들의 균형 잡힌 원소 분포는 그들이 다른 직업의 특화된 극단적인 능력은 부족하지만, 신체적 기량과 정신적 예민함 모두를 요구하는 상황에서 뛰어날 수 있게 해줍니다.
 
-### Magical Affinity Profile
+### Magical Affinity Profile (마법 친화도 프로필)
 
-Rogues typically develop specific affinities that complement their shadowy and adaptive nature:
+도적은 일반적으로 그들의 그림자 같고 적응적인 본성을 보완하는 특정 친화도를 개발합니다:
 
-| Rogue Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Rogue Tradition (도적 유파) | Primary Affinities (주요 친화도) | Secondary Affinities (보조 친화도) | Typical Application (일반적인 응용) |
 |-----------------|-------------------|---------------------|---------------------|
-| **Shadowblade** | Umbramana (Concealment, Deception) | Aeromana (Silence) | Invisibility, shadow stepping, misdirection |
-| **Infiltrator** | Aeromana (Silence, Lightness) | Umbramana (Concealment) | Soundless movement, feather fall, enhanced agility |
-| **Trickster** | Luxmana (Illusion) | Umbramana (Deception) | Minor illusions, distractions, sensory manipulation |
-| **Poisoner** | Hydromana (Fluid, Mixing) | Terramana (Substance) | Toxin enhancement, alchemical acceleration, substance manipulation |
-| **Acrobat** | Aeromana (Balance, Movement) | Base Mana (Reflex) | Supernatural balance, wall-running, impossible leaps |
-| **Saboteur** | Base Mana (Disruption) | Pyromana (Ignition) | Trap enhancement, mechanical manipulation, controlled detonations |
+| **Shadowblade** | Umbramana (은폐, 속임수) | Aeromana (침묵) | 투명화, 그림자 걸음, 오도 |
+| **Infiltrator** | Aeromana (침묵, 가벼움) | Umbramana (은폐) | 소리 없는 움직임, 깃털 낙하, 향상된 민첩성 |
+| **Trickster** | Luxmana (환상) | Umbramana (속임수) | 사소한 환상, 주의 분산, 감각 조작 |
+| **Poisoner** | Hydromana (유체, 혼합) | Terramana (물질) | 독소 강화, 연금술 가속, 물질 조작 |
+| **Acrobat** | Aeromana (균형, 움직임) | Base Mana (반사) | 초자연적인 균형, 벽 달리기, 불가능한 도약 |
+| **Saboteur** | Base Mana (파괴) | Pyromana (점화) | 함정 강화, 기계 조작, 제어된 폭발 |
 
-Rogues typically achieve 50-70% specialization efficiency with their primary affinities, striking a balance between the focused specialization of mages and the practical application of warriors. This middle ground reflects their adaptable nature and diverse skill set.
+도적은 일반적으로 그들의 주요 친화도에서 50-70%의 전문화 효율성을 달성하여, 마법사의 집중된 전문화와 전사의 실용적인 응용 사이에서 균형을 이룹니다. 이러한 중간 지점은 그들의 적응적인 본성과 다양한 기술 세트를 반영합니다.
 
-### Species-Specific Variations
+### Species-Specific Variations (종족별 차이)
 
-Different species show varying natural inclinations toward the rogue class:
+다른 종족은 도적 직업에 대한 다양한 자연적인 성향을 보입니다:
 
-- **Humans** (30-45% Exanthis, 35-45% Soul, 15-30% Mana Capacity): Their adaptability makes them versatile rogues capable of mastering various specializations.
-- **Elves** (25-40% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their natural grace and enhanced senses make them exceptional infiltrators and scouts.
-- **Halflings** (30-45% Exanthis, 40-55% Soul, 10-25% Mana Capacity): Their small size and heightened luck make them natural burglars and opportunists.
-- **Kitsune** (25-40% Exanthis, 35-50% Soul, 20-35% Mana Capacity): Their innate affinity for trickery and illusion makes them masterful deceivers.
-- **Changelings** (30-45% Exanthis, 25-40% Soul, 25-40% Mana Capacity): Their natural shapeshifting abilities make them unparalleled infiltrators and spies.
+- **Humans** (인간) (30-45% Exanthis, 35-45% Soul, 15-30% Mana Capacity): 그들의 적응력은 그들을 다양한 전문 분야를 숙달할 수 있는 다재다능한 도적으로 만듭니다.
+- **Elves** (엘프) (25-40% Exanthis, 30-45% Soul, 25-40% Mana Capacity): 그들의 타고난 우아함과 향상된 감각은 그들을 뛰어난 침투자와 정찰병으로 만듭니다.
+- **Halflings** (하플링) (30-45% Exanthis, 40-55% Soul, 10-25% Mana Capacity): 그들의 작은 크기와 고조된 행운은 그들을 타고난 강도이자 기회주의자로 만듭니다.
+- **Kitsune** (키츠네) (25-40% Exanthis, 35-50% Soul, 20-35% Mana Capacity): 속임수와 환상에 대한 그들의 타고난 친화력은 그들을 능숙한 사기꾼으로 만듭니다.
+- **Changelings** (체인질링) (30-45% Exanthis, 25-40% Soul, 25-40% Mana Capacity): 그들의 타고난 형상 변환 능력은 그들을 비할 데 없는 침투자이자 스파이로 만듭니다.
 
-## Physical Characteristics
+## Physical Characteristics (신체적 특징)
 
-**Rogues** are known for their agility and stealth:
-- Lean build with quick reflexes, like a dancer's graceful movements
-- Eyes that dart with alertness, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the art of precision, like a musician who has perfected the art of the flute
-- Presence that can be both commanding and nearly invisible, like a melody that can be bold or whisper-soft
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+**Rogues** (도적)는 그들의 민첩성과 은신술로 유명합니다:
+- 무용수의 우아한 움직임과 같이 재빠른 반사 신경을 가진 날씬한 체격
+- 그들의 [**Soul**](/codex/Basic/Soul.md) (영혼)과의 연결을 보여주는 경계심으로 빠르게 움직이는 눈
+- 플루트의 예술을 완성한 음악가와 같이 정확성의 예술을 숙달한 손
+- 대담하거나 속삭임처럼 부드러울 수 있는 멜로디처럼, 지배적이면서 거의 보이지 않을 수 있는 존재감
+- 어떤 방향으로든 움직일 준비가 된 연주자처럼, 균형과 준비성을 강조하는 자세
 
-## Stealth Affinity
+## Stealth Affinity (은신 친화도)
 
-**Rogues** demonstrate exceptional proficiency in stealth and precision, like virtuoso musicians who have mastered the art of subtlety. Their composition allows them to:
-- Move silently and unseen, like shadows that slip through the night
-- Strike with precision and timing, like a musician hitting the perfect note
-- Navigate complex environments with grace, like dancers performing an intricate routine
+**Rogues** (도적)는 미묘함의 예술을 숙달한 거장 음악가처럼, 은신과 정확성에서 뛰어난 숙련도를 보여줍니다. 그들의 구성은 그들이 다음을 수행할 수 있게 해줍니다:
+- 밤에 미끄러지는 그림자처럼, 조용히 그리고 보이지 않게 움직입니다
+- 음악가가 완벽한 음을 치는 것처럼, 정확성과 타이밍으로 공격합니다
+- 댄서가 복잡한 루틴을 수행하는 것처럼, 복잡한 환경을 우아하게 탐색합니다
 
-This specialization makes **rogues** capable of achieving the highest levels of proficiency in their chosen stealth techniques, though they may struggle with tasks requiring brute strength or powerful magic, like a delicate instrument that produces beautiful sounds but cannot match the power of a drum.
+이러한 전문화는 **rogues** (도적)가 선택한 은신 기술에서 최고 수준의 숙련도를 달성할 수 있게 해주지만, 아름다운 소리를 내지만 드럼의 힘에 필적할 수 없는 섬세한 악기처럼, 맹목적인 힘이나 강력한 마법을 필요로 하는 작업에는 어려움을 겪을 수 있습니다.
 
-## Training and Development
+## Training and Development (훈련 및 개발)
 
-The path of a **rogue** involves rigorous stealth training and mental discipline:
-- Daily practice in moving silently and unseen, like musicians practicing the art of pianissimo
-- Study of anatomy and weak points, like learning the theory behind a perfect strike
-- Meditation to develop focus and awareness, like finding the quiet center before a performance
-- Practice in deception and misdirection, like artists mastering the art of illusion
+**rogue** (도적)의 길에는 엄격한 은신 훈련과 정신 수양이 포함됩니다:
+- 음악가가 피아니시모의 예술을 연습하는 것처럼, 조용히 그리고 보이지 않게 움직이는 매일의 연습
+- 완벽한 공격 뒤에 숨겨진 이론을 배우는 것처럼, 해부학과 약점에 대한 연구
+- 공연 전에 조용한 중심을 찾는 것처럼, 집중력과 인식을 개발하기 위한 명상
+- 예술가가 환상의 예술을 숙달하는 것처럼, 속임수와 오도 연습
 
-## Equipment and Gear
+## Equipment and Gear (장비 및 도구)
 
-**Rogues** rely on various equipment to enhance their stealth and precision:
-- Light weapons designed for quick strikes, like different instruments for different performances
-- Stealth gear such as cloaks, boots, and tools, like accessories that enhance an instrument's capabilities
-- Precision tools such as lockpicks, traps, and poisons, like specialized instruments for specific tasks
+**Rogues** (도적)는 그들의 은신과 정확성을 향상시키기 위해 다양한 장비에 의존합니다:
+- 다양한 공연을 위한 다양한 악기처럼, 빠른 공격을 위해 설계된 가벼운 무기
+- 악기의 성능을 향상시키는 액세서리처럼, 망토, 부츠, 도구와 같은 은신 장비
+- 특정 작업을 위한 전문 악기처럼, 자물쇠 따개, 함정, 독과 같은 정밀 도구
 
-## Subclasses
+## Subclasses (하위 직업)
 
-**Rogues** can specialize in various stealth and precision techniques:
+**Rogues** (도적)는 다양한 은신 및 정밀 기술을 전문으로 할 수 있습니다:
 
-### [**Assassin**](/codex/Classes/Rogue/Assassin.md)
+### [**Assassin**](/codex/Classes/Rogue/Assassin.md) (암살자)
 
-Assassins focus on eliminating targets without detection, emphasizing the art of the silent kill. They excel at:
-- Tracking and stalking targets
-- Delivering致命一击 with precision
-- Remaining undetected before and after the kill
+암살자는 탐지되지 않고 목표를 제거하는 데 중점을 두며, 조용한 살인의 예술을 강조합니다. 그들은 다음 분야에서 뛰어납니다:
+- 목표 추적 및 스토킹
+- 정밀한 致命一击 전달
+- 살인 전후에 탐지되지 않은 상태 유지
 
-### [**Scout**](/codex/Classes/Rogue/Scout.md)
+### [**Scout**](/codex/Classes/Rogue/Scout.md) (정찰병)
 
-Scouts focus on gathering information and navigating unknown territories, emphasizing observation and exploration. They excel at:
-- Moving unseen through dangerous areas
-- Gathering intelligence without detection
-- Finding safe paths through hazardous environments
+정찰병은 정보 수집과 미지의 영역 탐색에 중점을 두며, 관찰과 탐험을 강조합니다. 그들은 다음 분야에서 뛰어납니다:
+- 위험한 지역을 통해 보이지 않게 이동
+- 탐지되지 않고 정보 수집
+- 위험한 환경을 통과하는 안전한 경로 찾기
 
-### [**Trickster**](/codex/Classes/Rogue/Trickster.md)
+### [**Trickster**](/codex/Classes/Rogue/Trickster.md) (사기꾼)
 
-Tricksters focus on deception and misdirection, emphasizing the art of the con. They excel at:
-- Creating and maintaining false identities
-- Manipulating others through charm and wit
-- Executing elaborate schemes and cons
+사기꾼은 속임수와 오도에 중점을 두며, 사기의 예술을 강조합니다. 그들은 다음 분야에서 뛰어납니다:
+- 거짓 정체성 생성 및 유지
+- 매력과 재치를 통해 다른 사람 조종
+- 정교한 계획과 사기 실행
 
-### [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md)
+### [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md) (그림자 검사)
 
-Shadowblades focus on blending stealth with combat, emphasizing the art of the surprise attack. They excel at:
-- Initiating combat from stealth
-- Using shadows and darkness to their advantage
-- Striking quickly and disappearing
+Shadowblades (그림자 검사)는 은신과 전투의 조화에 중점을 두며, 기습 공격의 예술을 강조합니다. 그들은 다음 분야에서 뛰어납니다:
+- 은신 상태에서 전투 시작
+- 그림자와 어둠을 유리하게 활용
+- 빠르게 공격하고 사라지기
 
-### [**Spy**](/codex/Classes/Rogue/Spy.md)
+### [**Spy**](/codex/Classes/Rogue/Spy.md) (스파이)
 
-Spies focus on infiltration and intelligence gathering, emphasizing the art of the deep cover. They excel at:
-- Infiltrating enemy organizations
-- Gathering sensitive information
-- Maintaining cover identities for extended periods
+스파이는 침투 및 정보 수집에 중점을 두며, 잠복근무의 예술을 강조합니다. 그들은 다음 분야에서 뛰어납니다:
+- 적 조직 침투
+- 민감한 정보 수집
+- 장기간 신분 위장 유지
 
-## Notable Rogue Traits
+## Notable Rogue Traits (주목할 만한 도적 특징)
 
-- **Stealth Mastery**: Rogues excel in moving unseen and unheard, often specializing in specific stealth techniques
-- **Precision Strikes**: Rogues can deliver精确打击 with exceptional accuracy
-- **Perception**: Rogues develop keen senses and awareness through stealth training
-- **Adaptability**: Rogues can quickly adapt to changing situations and environments
-- **Discipline**: Rogues maintain rigorous training regimens to maintain their stealth abilities
+- **Stealth Mastery** (은신 숙달): 도적은 보이지 않고 들리지 않게 움직이는 데 능숙하며, 종종 특정 은신 기술을 전문으로 합니다
+- **Precision Strikes** (정밀 공격): 도적은 예외적인 정확도로 정밀 공격을 전달할 수 있습니다
+- **Perception** (인식): 도적은 은신 훈련을 통해 예리한 감각과 인식을 개발합니다
+- **Adaptability** (적응성): 도적은 변화하는 상황과 환경에 빠르게 적응할 수 있습니다
+- **Discipline** (수양): 도적은 그들의 은신 능력을 유지하기 위해 엄격한 훈련 요법을 유지합니다
 
-## Rogue Guilds
+## Rogue Guilds (도적 길드)
 
-Rogue society is organized into numerous guilds, each with its own specialties and techniques:
+도적 사회는 수많은 길드로 조직되어 있으며, 각 길드에는 고유한 전문 분야와 기술이 있습니다:
 
-| Guild | Specialty | Territory | Notable Traits |
+| Guild (길드) | Specialty (전문 분야) | Territory (영토) | Notable Traits (주목할 만한 특징) |
 |---------|---------------|---------|-------------------|
-| **Shadow Network** | Information gathering, espionage | Urban centers | Information brokering, espionage |
-| **Silent Blades** | Assassination, elimination | Various locations | Silent kills, target elimination |
-| **Trickster's Guild** | Deception, confidence games | Urban centers | Confidence schemes, deception |
-| **Night Walkers** | Stealth, infiltration | Various locations | Stealth techniques, infiltration |
-| **Shadow Scouts** | Exploration, reconnaissance | Wilderness regions | Exploration, reconnaissance |
-| **Veiled Daggers** | Combat from stealth, shadow fighting | Various locations | Stealth combat, shadow techniques |
+| **Shadow Network** | 정보 수집, 스파이 활동 | 도시 중심 | 정보 중개, 스파이 활동 |
+| **Silent Blades** | 암살, 제거 | 다양한 장소 | 조용한 살인, 목표 제거 |
+| **Trickster's Guild** | 속임수, 사기 게임 | 도시 중심 | 사기 계획, 속임수 |
+| **Night Walkers** | 은신, 침투 | 다양한 장소 | 은신 기술, 침투 |
+| **Shadow Scouts** | 탐험, 정찰 | 황무지 지역 | 탐험, 정찰 |
+| **Veiled Daggers** | 은신 전투, 그림자 싸움 | 다양한 장소 | 은신 전투, 그림자 기술 |
 
-Understanding the nature of **rogues** provides insight into the subtle aspects of the world of **OpenFantasy**, like listening to the quiet melodies that move unseen through the symphony of existence. 
+**rogues** (도적)의 본질을 이해하는 것은 **OpenFantasy**의 세계의 미묘한 측면에 대한 통찰력을 제공하며, 존재의 교향곡을 통해 보이지 않게 움직이는 조용한 멜로디를 듣는 것과 같습니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

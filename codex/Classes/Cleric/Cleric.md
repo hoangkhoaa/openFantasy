@@ -1,135 +1,139 @@
-# **Cleric**: Divine Conduits and Healers
+# **Cleric** (클레릭): 신성한 전달자 및 치유사
 
-[**Clerics**](/codex/Classes/Cleric/Cleric.md) represent a unique harmony between the material and divine realms. They serve as vessels for divine power while maintaining their mortal perspective, creating a resonant bridge between worldly needs and celestial aid.
+[**Clerics** (클레릭)](/codex/Classes/Cleric/Cleric.md)는 물질계와 신성계 사이의 독특한 조화를 나타냅니다. 그들은 필멸의 관점을 유지하면서 신성한 힘의 그릇 역할을 하며, 세속적인 필요와 천상의 도움 사이의 공명하는 다리를 만듭니다.
 
-## Elemental Composition
+## Elemental Composition (원소 구성)
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **clerics** creates a distinctive harmony that emphasizes divine channeling:
+[Classes (클래스)](/codex/Classes/Classes.md)에 자세히 설명된 바와 같이, **clerics** (클레릭)의 일반적인 비율은 신성한 채널링을 강조하는 독특한 조화를 만듭니다.
 
-| Element | Range | Function |
+| Element (원소) | Range (범위) | Function (기능) |
 |---------|------------|----------|
-| **Exanthis** | 25-40% | Solid physical foundation providing endurance and resilience for prolonged divine service |
-| **Soul** | 35-50% | Enhanced spiritual consciousness enabling divine connection, faith, and intuitive understanding |
-| **Mana Capacity** | 25-40% | Significant magical potential optimized for channeling, purifying, and manifesting divine energies |
+| **Exanthis** | 25-40% | 지속적인 신성한 봉사를 위한 지구력과 회복력을 제공하는 견고한 물리적 토대 |
+| **Soul** (영혼) | 35-50% | 신성한 연결, 믿음, 직관적인 이해를 가능하게 하는 향상된 영적 의식 |
+| **Mana Capacity** (마나 용량) | 25-40% | 신성한 에너지의 채널링, 정화 및 발현에 최적화된 상당한 마법적 잠재력 |
 
-This composition grants **clerics** their characteristic ability to bridge mortal and divine realms. Their elevated Soul component creates a natural resonance with divine forces, while their balanced Mana Capacity allows them to effectively manifest those forces in the physical world.
+이 구성은 **clerics** (클레릭)에게 필멸의 영역과 신성한 영역을 연결하는 특유의 능력을 부여합니다. 그들의 높은 Soul (영혼) 구성 요소는 신성한 힘과의 자연스러운 공명을 만들고, 균형 잡힌 Mana Capacity (마나 용량)는 그 힘을 물리적 세계에 효과적으로 나타낼 수 있게 합니다.
 
-### Magical Affinity Profile
+### Magical Affinity Profile (마법 친화도 프로필)
 
-Clerics typically develop specific affinities that complement their divine calling and theological orientation:
+Clerics (클레릭)는 일반적으로 그들의 신성한 소명과 신학적 방향을 보완하는 특정 친화력을 개발합니다.
 
-| Clerical Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Clerical Tradition (클레릭 전통) | Primary Affinities (주요 친화력) | Secondary Affinities (보조 친화력) | Typical Application (일반적인 적용) |
 |-----------------|-------------------|---------------------|---------------------|
-| **Healer** | Luxmana (Restoration) | Hydromana (Purification) | Wound mending, disease curing, spiritual cleansing |
-| **Protector** | Base Mana (Barriers) | Terramana (Reinforcement) | Divine shields, wards against evil, sanctuary creation |
-| **Smiter** | Luxmana (Radiance) | Pyromana (Judgment) | Divine strikes, banishment of unholy entities, purifying flames |
-| **Oracle** | Base Mana (Divination) | Luxmana (Clarity) | Prophecy, divine guidance, truth revelation |
-| **Exorcist** | Luxmana (Banishment) | Umbramana (Shadow Binding) | Spirit cleansing, demon banishing, undead turning |
-| **Ritualist** | Base Mana (Sanctification) | Aeromana (Connection) | Blessing ceremonies, consecration, divine summoning |
+| **Healer** (치유사) | Luxmana (복원) | Hydromana (정화) | 상처 치료, 질병 치료, 영적 정화 |
+| **Protector** (보호자) | Base Mana (장벽) | Terramana (강화) | 신성한 방패, 악으로부터의 보호, 성역 창조 |
+| **Smiter** (응징자) | Luxmana (광휘) | Pyromana (심판) | 신성한 타격, 불경한 존재의 추방, 정화의 불꽃 |
+| **Oracle** (신탁) | Base Mana (점술) | Luxmana (명료함) | 예언, 신성한 인도, 진실 계시 |
+| **Exorcist** (엑소시스트) | Luxmana (추방) | Umbramana (그림자 속박) | 영혼 정화, 악마 추방, 언데드 퇴치 |
+| **Ritualist** (의식주의자) | Base Mana (신성화) | Aeromana (연결) | 축복 의식, 봉헌, 신성한 소환 |
 
-Clerics typically achieve 60-80% specialization efficiency with their primary affinities, reflecting their focused channeling of divine power. Their ability to purify mana to higher degrees makes them particularly effective at complex divine manifestations that require refined magical energy.
+Clerics (클레릭)는 일반적으로 주요 친화력에서 60-80%의 전문화 효율성을 달성하며, 이는 신성한 힘의 집중적인 채널링을 반영합니다. 그들의 마나를 더 높은 수준으로 정화하는 능력은 정제된 마법 에너지를 필요로 하는 복잡한 신성한 발현에 특히 효과적입니다.
 
-### Species-Specific Variations
+### Species-Specific Variations (종족별 변형)
 
-Different species show varying natural inclinations toward the cleric class:
+다른 종족은 클레릭 클래스에 대한 다양한 자연적 성향을 보입니다.
 
-- **Humans** (25-40% Exanthis, 35-50% Soul, 25-40% Mana Capacity): Their adaptability and spiritual flexibility makes them versatile clerics capable of serving diverse divinities.
-- **Dwarves** (30-45% Exanthis, 40-55% Soul, 15-30% Mana Capacity): Their strong ancestral connections and unwavering resolve make them powerful protectors and ritualists.
-- **Aasimar** (20-35% Exanthis, 40-55% Soul, 30-45% Mana Capacity): Their celestial heritage creates natural affinity for divine channeling, especially with light and healing.
-- **Elves** (20-35% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their longevity and connection to natural cycles make them exceptional oracles and ritualists.
-- **Dragonborn** (30-45% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their inherent connection to primal forces makes them powerful smiters and protectors.
+- **Humans** (인간) (25-40% Exanthis, 35-50% Soul (영혼), 25-40% Mana Capacity (마나 용량)): 그들의 적응력과 영적 유연성은 다양한 신을 섬길 수 있는 다재다능한 클레릭을 만듭니다.
+- **Dwarves** (드워프) (30-45% Exanthis, 40-55% Soul (영혼), 15-30% Mana Capacity (마나 용량)): 그들의 강력한 조상 연결과 흔들리지 않는 결의는 그들을 강력한 보호자이자 의식주의자로 만듭니다.
+- **Aasimar** (아시마르) (20-35% Exanthis, 40-55% Soul (영혼), 30-45% Mana Capacity (마나 용량)): 그들의 천상의 유산은 특히 빛과 치유와 함께 신성한 채널링에 대한 자연스러운 친화력을 만듭니다.
+- **Elves** (엘프) (20-35% Exanthis, 35-50% Soul (영혼), 30-45% Mana Capacity (마나 용량)): 그들의 장수와 자연 순환과의 연결은 그들을 뛰어난 신탁이자 의식주의자로 만듭니다.
+- **Dragonborn** (드래곤본) (30-45% Exanthis, 30-45% Soul (영혼), 25-40% Mana Capacity (마나 용량)): 그들의 원초적인 힘과의 고유한 연결은 그들을 강력한 응징자이자 보호자로 만듭니다.
 
-## Physical Characteristics
+## Physical Characteristics (물리적 특징)
 
-**Clerics** are known for their divine focus and faithful nature:
-- Balanced build with graceful movements, like a conductor's precise gestures
-- Eyes that reflect inner faith, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the gestures of divine magic, like a musician who has perfected the art of the harp
-- Presence that exudes divine authority, like a powerful chord that resonates through a room
-- Stance that emphasizes dignity and reverence, like a performer poised to begin a sacred piece
+**Clerics** (클레릭)는 그들의 신성한 집중과 충실한 성격으로 알려져 있습니다.
+- 지휘자의 정확한 몸짓과 같은 우아한 움직임과 균형 잡힌 체격
+- [**Soul** (영혼)](/codex/Basic/Soul.md)과의 연결을 보여주는 내면의 믿음을 반영하는 눈
+- 하프의 예술을 완성한 음악가처럼 신성한 마법의 몸짓을 숙달한 손
+- 방을 통해 울려 퍼지는 강력한 화음처럼 신성한 권위를 풍기는 존재
+- 신성한 곡을 시작할 준비가 된 연주자처럼 존엄과 경외심을 강조하는 자세
 
-## Divine Affinity
+## Divine Affinity (신성 친화력)
 
-**Clerics** demonstrate exceptional proficiency in divine magic, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel divine power with extraordinary precision, like conductors leading a sacred choir
-- Heal wounds and cure ailments, like artists restoring damaged masterpieces
-- Protect themselves and others with divine blessings, like guardians shielding their charges
+**Clerics** (클레릭)는 마치 악기를 숙달한 거장 음악가처럼 신성한 마법에 뛰어난 숙련도를 보여줍니다. 그들의 구성은 그들이 다음을 수행할 수 있게 합니다.
+- 마치 신성한 합창단을 이끄는 지휘자처럼 뛰어난 정확성으로 신성한 힘을 전달합니다.
+- 마치 손상된 걸작을 복원하는 예술가처럼 상처를 치유하고 질병을 치료합니다.
+- 마치 보호자가 책임을 보호하는 것처럼 신성한 축복으로 자신과 다른 사람들을 보호합니다.
 
-This specialization makes **clerics** capable of achieving the highest levels of proficiency in their chosen divine disciplines, though they may struggle with tasks requiring physical strength or combat prowess, like a delicate instrument that produces beautiful sounds but cannot match the power of a drum.
+이 전문화는 **clerics** (클레릭)가 선택한 신성한 분야에서 최고 수준의 숙련도를 달성할 수 있게 하지만, 아름다운 소리를 내지만 드럼의 힘에는 미치지 못하는 섬세한 악기처럼 물리적 힘이나 전투 능력이 필요한 작업에는 어려움을 겪을 수 있습니다.
 
-## Training and Development
+## Training and Development (훈련 및 개발)
 
-The path of a **cleric** involves rigorous divine study and spiritual discipline:
-- Daily prayer and meditation, like musicians practicing their sacred pieces
-- Study of divine texts and religious teachings, like learning the theory behind sacred music
-- Service to their divine patrons and communities, like performers sharing their gifts with others
-- Practice in healing and protective magic, like artists mastering the art of restoration
+**cleric** (클레릭)의 길은 엄격한 신성 연구와 영적 수련을 포함합니다.
+- 마치 음악가가 신성한 곡을 연습하는 것처럼 매일 기도와 명상
+- 마치 신성한 음악의 이론을 배우는 것처럼 신성한 텍스트와 종교적 가르침 연구
+- 마치 연주자가 자신의 재능을 다른 사람들과 공유하는 것처럼 신성한 후원자와 공동체에 대한 봉사
+- 마치 예술가가 복원의 기술을 숙달하는 것처럼 치유 및 보호 마법 연습
 
-## Equipment and Gear
+## Equipment and Gear (장비)
 
-**Clerics** rely on various divine equipment to enhance their magical abilities:
-- Holy symbols and relics that focus divine power, like different instruments for different performances
-- Vestments and ceremonial garb that enhance divine connection, like a well-fitted case for a precious instrument
-- Divine accessories such as prayer beads, censers, and holy water, like accessories that enhance an instrument's capabilities
+**Clerics** (클레릭)는 마법 능력을 향상시키기 위해 다양한 신성한 장비에 의존합니다.
+- 마치 다른 공연을 위한 다른 악기처럼 신성한 힘을 집중시키는 성스러운 상징과 유물
+- 마치 귀중한 악기를 위한 잘 맞는 케이스처럼 신성한 연결을 강화하는 예복 및 의례용 복장
+- 마치 악기의 기능을 향상시키는 액세서리처럼 묵주, 향로, 성수와 같은 신성한 액세서리
 
-## Subclasses
+## Subclasses (서브클래스)
 
-**Clerics** can specialize in various divine disciplines and roles:
+**Clerics** (클레릭)는 다양한 신성한 분야와 역할로 전문화할 수 있습니다.
 
-### [**Healer**](/codex/Classes/Cleric/Healer.md)
+### [**Healer** (치유사)](/codex/Classes/Cleric/Healer.md)
 
-Healers focus on restorative magic and healing, emphasizing the restoration of health and vitality. They excel at:
-- Curing wounds and diseases
-- Restoring vitality and energy
-- Protecting against harmful effects
+Healers (치유사)는 건강과 활력 회복을 강조하면서 회복 마법과 치유에 집중합니다. 그들은 다음에서 뛰어납니다.
+- 상처와 질병 치료
+- 활력과 에너지 회복
+- 유해한 영향으로부터 보호
 
-### [**Paladin**](/codex/Classes/Cleric/Paladin.md)
+### [**Paladin** (팔라딘)](/codex/Classes/Cleric/Paladin.md)
 
-Paladins focus on combining divine magic with combat, emphasizing the role of the holy warrior. They excel at:
-- Wielding divine power in combat
-- Protecting others with divine blessings
-- Leading others with divine authority
+Paladins (팔라딘)는 신성한 마법과 전투의 결합에 집중하여 신성한 전사의 역할을 강조합니다. 그들은 다음에서 뛰어납니다.
+- 전투에서 신성한 힘 휘두르기
+- 신성한 축복으로 다른 사람 보호
+- 신성한 권위로 다른 사람 인도
 
-### [**Oracle**](/codex/Classes/Cleric/Oracle.md)
+### [**Oracle** (신탁)](/codex/Classes/Cleric/Oracle.md)
 
-Oracles focus on receiving divine visions and prophecies, emphasizing the role of the divine messenger. They excel at:
-- Receiving divine guidance and visions
-- Interpreting divine signs and omens
-- Sharing divine wisdom with others
+Oracles (신탁)는 신성한 환상과 예언을 받는 데 집중하여 신성한 메신저의 역할을 강조합니다. 그들은 다음에서 뛰어납니다.
+- 신성한 인도와 환상 받기
+- 신성한 징조와 전조 해석
+- 신성한 지혜를 다른 사람들과 공유
 
-### [**Inquisitor**](/codex/Classes/Cleric/Inquisitor.md)
+### [**Inquisitor** (종교 재판관)](/codex/Classes/Cleric/Inquisitor.md)
 
-Inquisitors focus on hunting heretics and supernatural threats, emphasizing the role of the divine enforcer. They excel at:
-- Detecting and combating supernatural threats
-- Interrogating and judging heretics
-- Protecting the faithful from corruption
+Inquisitors (종교 재판관)는 이단자와 초자연적 위협을 사냥하는 데 집중하여 신성한 집행자의 역할을 강조합니다. 그들은 다음에서 뛰어납니다.
+- 초자연적 위협 감지 및 퇴치
+- 이단자 심문 및 심판
+- 타락으로부터 신자 보호
 
-### [**Shaman**](/codex/Classes/Cleric/Shaman.md)
+### [**Shaman** (샤먼)](/codex/Classes/Cleric/Shaman.md)
 
-Shamans focus on communicating with nature spirits and ancestors, emphasizing the role of the divine intermediary. They excel at:
-- Communicating with nature spirits and ancestors
-- Performing rituals involving natural forces
-- Healing through natural and spiritual means
+Shamans (샤먼)은 자연 정령 및 조상과 소통하는 데 집중하여 신성한 중재자의 역할을 강조합니다. 그들은 다음에서 뛰어납니다.
+- 자연 정령 및 조상과 소통
+- 자연의 힘과 관련된 의식 수행
+- 자연적 및 영적 수단을 통한 치유
 
-## Notable Cleric Traits
+## Notable Cleric Traits (주목할 만한 클레릭 특징)
 
-- **Divine Mastery**: Clerics excel in divine magic, often specializing in specific divine disciplines
-- **Faith**: Clerics have a deep connection to their divine patrons
-- **Healing**: Clerics develop exceptional healing abilities through divine study
-- **Protection**: Clerics can protect themselves and others with divine blessings
-- **Discipline**: Clerics maintain rigorous spiritual regimens to maintain their divine connection
+- **Divine Mastery** (신성 숙달): Clerics (클레릭)는 신성한 마법에 뛰어나며 종종 특정 신성 분야를 전문으로 합니다.
+- **Faith** (믿음): Clerics (클레릭)는 신성한 후원자와 깊은 연결을 맺고 있습니다.
+- **Healing** (치유): Clerics (클레릭)는 신성한 연구를 통해 뛰어난 치유 능력을 개발합니다.
+- **Protection** (보호): Clerics (클레릭)는 신성한 축복으로 자신과 다른 사람들을 보호할 수 있습니다.
+- **Discipline** (수련): Clerics (클레릭)는 신성한 연결을 유지하기 위해 엄격한 영적 수련을 유지합니다.
 
-## Cleric Orders
+## Cleric Orders (클레릭 교단)
 
-Cleric society is organized into numerous orders, each with its own specialties and techniques:
+클레릭 사회는 수많은 교단으로 조직되어 있으며, 각 교단은 자체적인 전문 분야와 기술을 가지고 있습니다.
 
-| Order | Specialty | Territory | Notable Traits |
+| Order (교단) | Specialty (전문 분야) | Territory (영역) | Notable Traits (주목할 만한 특징) |
 |---------|---------------|---------|-------------------|
-| **Healing Hands** | Healing, restoration | Hospitals and temples | Healing magic, restoration |
-| **Divine Warriors** | Combat, protection | Military units | Combat magic, divine protection |
-| **Vision Seekers** | Divination, prophecy | Temples and shrines | Divination, prophecy |
-| **Truth Seekers** | Investigation, judgment | Courts and tribunals | Investigation, judgment |
-| **Spirit Walkers** | Spirit communication, rituals | Natural places | Spirit communication, rituals |
-| **Light Bearers** | Illumination, guidance | Various locations | Illumination, guidance |
+| **Healing Hands** (치유의 손길) | 치유, 복원 | 병원 및 사원 | 치유 마법, 복원 |
+| **Divine Warriors** (신성한 전사) | 전투, 보호 | 군부대 | 전투 마법, 신성한 보호 |
+| **Vision Seekers** (환상 추구자) | 점술, 예언 | 사원 및 성지 | 점술, 예언 |
+| **Truth Seekers** (진실 추구자) | 조사, 심판 | 법원 및 재판소 | 조사, 심판 |
+| **Spirit Walkers** (영혼 방랑자) | 영혼 소통, 의식 | 자연 지역 | 영혼 소통, 의식 |
+| **Light Bearers** (빛의 운반자) | 조명, 인도 | 다양한 위치 | 조명, 인도 |
 
-Understanding the nature of **clerics** provides insight into the divine aspects of the world of **OpenFantasy**, like listening to the sacred harmonies that bridge the mortal and divine realms. 
+**clerics** (클레릭)의 본질을 이해하는 것은 필멸의 영역과 신성한 영역을 연결하는 신성한 조화를 듣는 것처럼 **OpenFantasy** 세계의 신성한 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

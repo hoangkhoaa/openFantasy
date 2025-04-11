@@ -1,105 +1,109 @@
-# **Beastfolk**: The Wild Spirits of Nature
+# **Beastfolk** (수인족): 자연의 야생 정신
 
-[**Beastfolk**](/codex/Creatures/Beastfolk.md) are the wild spirits of nature, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a drum that echoes the heartbeat of the earth, they embody physical prowess and natural instincts, creating a unique melody of existence that emphasizes strength, agility, and connection to the natural world.
+[**Beastfolk**](/codex/Creatures/Beastfolk.md) (수인족)은 자연의 야생 정신이며, 그들의 몸은 [**Exanthis**](/codex/Basic/Exanthis.md) (엑잔티스), [**Souls**](/codex/Basic/Soul.md) (영혼), **Mana Capacity** (마나 용량)의 조화로운 혼합물입니다. 마치 땅의 심장 박동을 울리는 드럼처럼, 그들은 뛰어난 신체적 기량과 타고난 본능을 구현하여 힘, 민첩성, 자연과의 연결을 강조하는 독특한 존재의 멜로디를 만들어냅니다.
 
-## Elemental Composition
+## Elemental Composition (원소 구성)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **beastfolk** forms a harmony that favors physical prowess:
+[Creatures](/codex/Creatures/Creatures.md) (생물)에 자세히 설명된 것처럼, **beastfolk** (수인족)의 일반적인 비율은 신체적 기량을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| Element (원소) | Range (범위) | Function (기능) |
 |---------|------------|----------|
-| **Exanthis** | 45-70% | The crystalline heart that provides exceptional physical strength and agility |
-| **Soul** | 10-25% | The ethereal essence that shapes an instinct-driven consciousness |
-| **Mana Capacity** | 15-40% | The bridge between worlds that enables primal magical adaptability |
+| **Exanthis** (엑잔티스) | 45-70% | 뛰어난 신체적 힘과 민첩성을 제공하는 결정질 심장 |
+| **Soul** (영혼) | 10-25% | 본능에 기반한 의식을 형성하는 무형의 정수 |
+| **Mana Capacity** (마나 용량) | 15-40% | 원초적인 마법 적응력을 가능하게 하는 세계 간의 다리 |
 
-This composition grants **beastfolk** their characteristic physical abilities but typically limits their magical adaptability compared to other species, like a powerful drum that produces strong rhythms but cannot play complex melodies.
+이 구성은 **beastfolk** (수인족)에게 특징적인 신체 능력을 부여하지만, 강력한 리듬을 만들어내지만 복잡한 멜로디를 연주할 수 없는 강력한 드럼처럼 다른 종족에 비해 마법적 적응력을 제한합니다.
 
-### Individual Variations
+### Individual Variations (개별 변형)
 
-While the model composition represents the typical beastfolk, individual variations exist:
+모델 구성은 일반적인 수인족을 나타내지만, 개별적인 변형이 존재합니다.
 
-- **Alpha Specimens**: Some beastfolk possess Exanthis levels as high as 75%, making them among the physically strongest beings in existence, though often with minimal magical ability (10% Mana Capacity).
-- **Spirit Walkers**: Those with higher Soul percentages (up to 30%) develop exceptional connection to the spiritual realm and animal spirits, often becoming powerful shamans or spirit guides.
-- **Wild Mages**: Rare individuals have Mana Capacity approaching 45%, allowing them to channel primal magic with surprising effectiveness, though they may be less physically imposing (40% Exanthis).
-- **Balanced Beastfolk**: Some maintain a more balanced composition (45% Exanthis, 20% Soul, 35% Mana Capacity), allowing them to adapt to various roles within beastfolk society.
-- **Beast Champions**: A specialized composition of (60% Exanthis, 15% Soul, 25% Mana Capacity) creates beastfolk who can channel limited magic to enhance their already formidable physical abilities.
+- **Alpha Specimens** (우두머리 개체): 일부 수인족은 엑잔티스 수준이 75%에 달하여 물리적으로 가장 강력한 존재 중 하나이지만, 마법 능력은 최소 (10% 마나 용량)인 경우가 많습니다.
+- **Spirit Walkers** (영혼 방랑자): 더 높은 영혼 비율 (최대 30%)을 가진 사람들은 영적 영역 및 동물 영혼과의 뛰어난 연결을 개발하여 강력한 샤먼 또는 영혼 안내자가 되는 경우가 많습니다.
+- **Wild Mages** (야생 마법사): 드문 경우로 마나 용량이 45%에 가까운 개인은 놀라운 효과로 원초적인 마법을 사용할 수 있지만 신체적으로는 덜 강할 수 있습니다 (40% 엑잔티스).
+- **Balanced Beastfolk** (균형 잡힌 수인족): 일부는 보다 균형 잡힌 구성 (45% 엑잔티스, 20% 영혼, 35% 마나 용량)을 유지하여 수인족 사회 내에서 다양한 역할에 적응할 수 있습니다.
+- **Beast Champions** (짐승 투사): (60% 엑잔티스, 15% 영혼, 25% 마나 용량)의 특수한 구성은 제한된 마법을 사용하여 이미 강력한 신체 능력을 향상시킬 수 있는 수인족을 만들어냅니다.
 
-## Physical Characteristics
+## Physical Characteristics (신체적 특징)
 
-**Beastfolk** are known for their diverse forms and animalistic features:
-- Humanoid bodies with animal characteristics specific to their lineage
-- Enhanced senses that far surpass those of [**humans**](/codex/Creatures/Human.md)
-- Natural weapons such as claws, fangs, or horns
-- Fur, scales, or feathers that provide natural protection
-- Tails that express emotion and aid in balance
+**Beastfolk** (수인족)은 다양한 형태와 동물적 특징으로 유명합니다.
+- 혈통에 특정한 동물 특징을 가진 인간형 몸체
+- [**humans**](/codex/Creatures/Human.md) (인간)의 감각을 훨씬 뛰어넘는 강화된 감각
+- 발톱, 송곳니, 뿔과 같은 자연적인 무기
+- 자연스러운 보호를 제공하는 털, 비늘 또는 깃털
+- 감정을 표현하고 균형을 돕는 꼬리
 
-The specific animal traits vary widely among different beastfolk lineages, creating a rich tapestry of forms that reflect the diversity of the natural world.
+특정 동물 특징은 다양한 수인족 혈통마다 크게 다르며 자연 세계의 다양성을 반영하는 풍부한 형태의 태피스트리를 만듭니다.
 
-## Physical Affinity
+## Physical Affinity (신체적 친화력)
 
-**Beastfolk** demonstrate exceptional proficiency in physical abilities, like virtuoso athletes who have mastered their bodies. Their composition allows them to:
-- Develop extraordinary strength, speed, and agility, like the finest specimens of their animal kin
-- Enhance their natural senses to superhuman levels, like predators honed by evolution
-- Adapt to various environments with remarkable efficiency, like creatures perfectly suited to their habitats
+**Beastfolk** (수인족)은 마치 몸을 완전히 숙달한 거장 운동선수처럼 뛰어난 신체 능력을 보여줍니다. 그들의 구성은 그들이 다음을 가능하게 합니다.
+- 동물 친족의 가장 훌륭한 표본처럼 비범한 힘, 속도 및 민첩성을 개발합니다.
+- 진화에 의해 연마된 포식자처럼 자연적인 감각을 초인적인 수준으로 향상시킵니다.
+- 서식지에 완벽하게 적응된 생물처럼 놀라운 효율성으로 다양한 환경에 적응합니다.
 
-This physical prowess makes **beastfolk** capable of achieving feats that other species can only dream of, though they may struggle with tasks requiring fine manipulation or complex thought, like a powerful singer who cannot read music.
+이러한 신체적 기량은 **beastfolk** (수인족)이 다른 종족이 꿈꿀 수밖에 없는 위업을 달성할 수 있게 하지만, 강력한 가수이지만 악보를 읽을 수 없는 것처럼 정교한 조작이나 복잡한 사고를 요구하는 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (수명과 영혼 부패)
 
-The **soul decay** timeline for **beastfolk**, from birth to complete decay, is approximately 200 years, like a torch burning steadily through the night. This moderate lifespan allows them to:
-- Develop deep connections to their territories and animal kin
-- Form stable societies with strong traditions
-- Pass down knowledge through generations
+**beastfolk** (수인족)의 출생부터 완전한 부패까지의 **soul decay** (영혼 부패) 타임라인은 밤새도록 꾸준히 타오르는 횃불처럼 약 200년입니다. 이 적당한 수명은 그들이 다음을 가능하게 합니다.
+- 자신의 영토와 동물 친족과의 깊은 연결을 개발합니다.
+- 강력한 전통을 가진 안정적인 사회를 형성합니다.
+- 세대를 통해 지식을 전달합니다.
 
-However, their moderate soul decay also means they must balance the need for immediate action with long-term planning, like a musician who must both feel the rhythm and plan the performance.
+그러나 적당한 영혼 부패는 또한 리듬을 느끼고 연주를 계획해야 하는 음악가처럼 즉각적인 행동의 필요성과 장기적인 계획의 균형을 맞춰야 함을 의미합니다.
 
-## Habitat and Distribution
+## Habitat and Distribution (서식지와 분포)
 
-**Beastfolk** primarily inhabit:
-- Wild territories and untamed lands, where their natural abilities are most advantageous
-- Diverse environments ranging from forests to deserts, each lineage adapted to its specific habitat
-- Border regions between civilization and wilderness, where they can maintain their independence
+**Beastfolk** (수인족)은 주로 다음에 서식합니다.
+- 야생 영토와 길들여지지 않은 땅, 그곳에서 그들의 타고난 능력이 가장 유리합니다.
+- 숲에서 사막까지 다양한 환경, 각 혈통은 특정 서식지에 적응합니다.
+- 문명과 황무지 사이의 경계 지역, 그곳에서 독립을 유지할 수 있습니다.
 
-These locations provide ideal environments for physical development and connection to nature, like a stage perfectly suited to their performance.
+이러한 위치는 공연에 완벽하게 적합한 무대처럼 신체 발달과 자연과의 연결에 이상적인 환경을 제공합니다.
 
-## Cultural Impact
+## Cultural Impact (문화적 영향)
 
-In the world of **OpenFantasy**, **beastfolk** play a crucial role in maintaining the balance between civilization and nature, like guardians of the wild melodies. Their societies are centers of:
-- Physical prowess and martial skill
-- Environmental harmony and natural wisdom
-- Tribal traditions and communal bonds
+**OpenFantasy** (OpenFantasy) 세계에서 **beastfolk** (수인족)은 마치 야생 멜로디의 수호자처럼 문명과 자연 사이의 균형을 유지하는 데 중요한 역할을 합니다. 그들의 사회는 다음의 중심지입니다.
+- 신체적 기량과 무술
+- 환경적 조화와 자연의 지혜
+- 부족 전통과 공동체 유대
 
-The connection to their animal kin has shaped beastfolk culture around respect for strength, courage, and loyalty, creating a society where physical ability and honor are highly valued.
+동물 친족과의 연결은 힘, 용기, 충성심에 대한 존중을 중심으로 수인족 문화를 형성하여 신체 능력과 명예가 높이 평가되는 사회를 만들었습니다.
 
-## Relationship with Other Species
+## Relationship with Other Species (다른 종족과의 관계)
 
-**Beastfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their disconnect from nature
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and honor
-- With **Fae**: A wary relationship, as beastfolk are less susceptible to fae enchantments
+**Beastfolk** (수인족)은 다른 종족과 복잡한 관계를 유지합니다.
+- [**Humans**](/codex/Creatures/Human.md) (인간)과의 관계: 그들의 적응력에 대한 존경과 자연과의 단절에 대한 불만이 혼합되어 있습니다.
+- **Elves** (엘프)와의 관계: 그들의 마법적 기량을 인정하지만 그들의 방식이 이상하다고 생각하며 존중하는 거리를 유지합니다.
+- **Dwarves** (드워프)와의 관계: 힘과 명예에 대한 상호 존중을 기반으로 한 실용적인 동맹입니다.
+- **Fae** (요정)와의 관계: 수인족은 요정의 마법에 덜 민감하기 때문에 조심스러운 관계입니다.
 
-These relationships are often characterized by a sense of pride in their physical abilities and connection to nature, as **beastfolk** view themselves as the true children of the wild.
+이러한 관계는 **beastfolk** (수인족)이 자신을 야생의 진정한 자녀로 여기기 때문에 신체 능력과 자연과의 연결에 대한 자부심으로 특징지어지는 경우가 많습니다.
 
-## Notable Beastfolk Traits
+## Notable Beastfolk Traits (주목할 만한 수인족 특징)
 
-- **Physical Mastery**: Beastfolk excel in physical abilities, often surpassing other species in strength, speed, and agility
-- **Environmental Adaptation**: Each lineage is perfectly adapted to its specific habitat
-- **Enhanced Senses**: Beastfolk possess senses that far exceed those of other humanoid species
-- **Natural Weapons**: Many beastfolk possess natural weapons that make them formidable even without tools
-- **Animal Kinship**: Beastfolk share a deep connection with their animal kin, often able to communicate with them
+- **Physical Mastery** (신체 숙달): 수인족은 신체 능력이 뛰어나 종종 힘, 속도, 민첩성에서 다른 종족을 능가합니다.
+- **Environmental Adaptation** (환경 적응): 각 혈통은 특정 서식지에 완벽하게 적응합니다.
+- **Enhanced Senses** (강화된 감각): 수인족은 다른 인간형 종족의 감각을 훨씬 뛰어넘는 감각을 가지고 있습니다.
+- **Natural Weapons** (자연 무기): 많은 수인족은 도구 없이도 강력하게 만드는 자연 무기를 가지고 있습니다.
+- **Animal Kinship** (동물 친족): 수인족은 동물 친족과 깊은 연결을 공유하며 종종 그들과 소통할 수 있습니다.
 
-## Beastfolk Lineages
+## Beastfolk Lineages (수인족 혈통)
 
-The term "beastfolk" encompasses numerous lineages, each with its own unique characteristics:
+"beastfolk" (수인족)이라는 용어는 고유한 특징을 가진 수많은 혈통을 포함합니다.
 
-| Lineage | Animal Traits | Habitat | Notable Abilities |
+| Lineage (혈통) | Animal Traits (동물 특징) | Habitat (서식지) | Notable Abilities (주목할 만한 능력) |
 |---------|---------------|---------|-------------------|
-| **Wolfkin** | Wolf features, enhanced smell | Forests, tundras | Pack tactics, tracking |
-| **Catfolk** | Cat features, enhanced night vision | Jungles, urban areas | Stealth, agility |
-| **Bearfolk** | Bear features, immense strength | Mountains, forests | Raw power, intimidation |
-| **Birdfolk** | Bird features, hollow bones | Mountains, coastal cliffs | Flight, keen eyesight |
-| **Lizardfolk** | Reptile features, scales | Deserts, swamps | Heat resistance, regeneration |
-| **Fishfolk** | Fish features, gills | Oceans, lakes | Underwater breathing, swimming |
+| **Wolfkin** (늑대인간) | 늑대 특징, 강화된 후각 | 숲, 툰드라 | 팩 전술, 추적 |
+| **Catfolk** (고양이인간) | 고양이 특징, 강화된 야간 시력 | 정글, 도시 지역 | 은신, 민첩성 |
+| **Bearfolk** (곰인간) | 곰 특징, 엄청난 힘 | 산, 숲 | 순수한 힘, 위협 |
+| **Birdfolk** (새인간) | 새 특징, 속이 빈 뼈 | 산, 해안 절벽 | 비행, 날카로운 시력 |
+| **Lizardfolk** (도마뱀인간) | 파충류 특징, 비늘 | 사막, 늪 | 내열성, 재생 |
+| **Fishfolk** (물고기인간) | 물고기 특징, 아가미 | 바다, 호수 | 수중 호흡, 수영 |
 
-Understanding the nature of **beastfolk** provides insight into the physical aspects of the world of **OpenFantasy**, like feeling the primal rhythms that pulse through the wild places of the world. 
+**beastfolk** (수인족)의 본질을 이해하는 것은 마치 세계의 야생 장소를 통해 맥동하는 원초적인 리듬을 느끼는 것처럼 **OpenFantasy** (OpenFantasy) 세계의 물리적 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

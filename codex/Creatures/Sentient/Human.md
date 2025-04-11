@@ -1,162 +1,166 @@
-# **Humans**: The Adaptable Symphony
+# **Humans** (인간): 적응 가능한 교향곡
 
-[**Humans**](/codex/Creatures/Human.md) embody the principle of adaptation, their elemental composition a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Soul**](/codex/Basic/Soul.md), and **Mana Capacity**. Like versatile musicians who can play many instruments with competence, they create a unique melody of existence that emphasizes versatility, innovation, and determination.
+[**Humans**](/codex/Creatures/Human.md) (인간)은 적응의 원칙을 구현하며, 그들의 원소 구성은 [**Exanthis**](/codex/Basic/Exanthis.md) (엑산티스), [**Soul**](/codex/Basic/Soul.md) (영혼) 및 **Mana Capacity** (마나 용량)의 조화로운 조화입니다. 다양한 악기를 능숙하게 연주할 수 있는 다재다능한 음악가처럼, 그들은 다재다능함, 혁신 및 결단력을 강조하는 독특한 존재의 멜로디를 창조합니다.
 
-## Elemental Composition
+## Elemental Composition (원소 구성)
 
-**Humans** possess a balanced elemental composition that varies widely between individuals:
+**Humans** (인간)은 개인 간에 매우 다양한 균형 잡힌 원소 구성을 가지고 있습니다.
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis (엑산티스) | Soul (영혼) | Mana Capacity (마나 용량) | Representative Type (대표 유형) |
 |----------|------|---------------|---------------------|
-| 20-55% | 15-45% | 15-60% | Standard range for the species |
-| 45-55% | 15-25% | 20-30% | **Warriors** with physical prowess and endurance |
-| 30-40% | 30-45% | 20-30% | **Diplomats** with enhanced empathy and insight |
-| 20-30% | 15-25% | 50-60% | Naturally gifted **mages** whose souls dance with **Mana** like leaves in the wind |
+| 20-55% | 15-45% | 15-60% | 종의 표준 범위 |
+| 45-55% | 15-25% | 20-30% | 물리적 기량과 지구력을 가진 **Warriors** (전사) |
+| 30-40% | 30-45% | 20-30% | 향상된 공감 능력과 통찰력을 가진 **Diplomats** (외교관) |
+| 20-30% | 15-25% | 50-60% | 마치 바람에 흩날리는 낙엽처럼 **Mana** (마나)와 함께 영혼이 춤추는 천부적인 **mages** (마법사) |
 
-### Individual Variations
+### Individual Variations (개인적 변이)
 
-The wide range in human elemental composition leads to remarkable diversity within the species, allowing for specialists in nearly every field:
+인간의 원소 구성의 넓은 범위는 종 내에서 놀라운 다양성을 가져오며, 거의 모든 분야의 전문가를 가능하게 합니다.
 
-- **High Exanthis humans** excel in physical pursuits, from combat to athletics to crafting
-- **High Soul humans** demonstrate exceptional creativity, leadership, and adaptability
-- **High Mana Capacity humans** show natural aptitude for magical arts and spiritual pursuits
+- **High Exanthis humans** (높은 엑산티스 인간)은 전투에서 운동, 공예에 이르기까지 물리적 추구에서 뛰어납니다.
+- **High Soul humans** (높은 영혼 인간)은 뛰어난 창의성, 리더십 및 적응력을 보여줍니다.
+- **High Mana Capacity humans** (높은 마나 용량 인간)은 마법 예술 및 영적 추구에 대한 타고난 재능을 보여줍니다.
 
-This diversity is the cornerstone of human society, allowing for complex civilizations with highly specialized roles.
+이러한 다양성은 인간 사회의 초석이며, 고도로 전문화된 역할을 가진 복잡한 문명을 가능하게 합니다.
 
-## Physical Characteristics
+## Physical Characteristics (신체적 특징)
 
-**Humans** exhibit diverse physical characteristics that reflect their varied elemental composition:
+**Humans** (인간)은 다양한 원소 구성을 반영하는 다양한 신체적 특징을 나타냅니다.
 
-- Heights ranging from 5'0" to 6'6" (152-198 cm)
-- Weight typically between 100-250 lbs (45-113 kg)
-- Skin tones spanning the full spectrum from pale to dark
-- Hair and eye colors in various natural shades
-- Lifespans of approximately 80-100 years
-- Remarkable adaptability to different climates and environments
+- 키는 5'0"에서 6'6" (152-198 cm) 범위입니다.
+- 체중은 일반적으로 100-250 lbs (45-113 kg) 사이입니다.
+- 피부색은 창백한 색에서 어두운 색까지 전체 스펙트럼에 걸쳐 있습니다.
+- 머리카락과 눈 색깔은 다양한 자연스러운 색조입니다.
+- 수명은 약 80-100년입니다.
+- 다양한 기후와 환경에 대한 놀라운 적응력
 
-### Notable Traits
+### Notable Traits (주목할 만한 특징)
 
-- Eyes that show remarkable expressiveness, reflecting their soul vibrance
-- Hands capable of fine manipulation, perfect for crafting and tool use
-- Highly adaptable physiology that can acclimate to diverse environments
+- 영혼의 활력을 반영하는 놀라운 표현력을 보여주는 눈
+- 정교한 조작이 가능한 손, 공예 및 도구 사용에 적합합니다.
+- 다양한 환경에 적응할 수 있는 고도로 적응 가능한 생리학
 
-## Magical Affinity
+## Magical Affinity (마법적 친화력)
 
-**Humans** demonstrate moderate proficiency in manipulating **Mana**, like skilled musicians who can play many instruments. Their balanced composition allows them to:
+**Humans** (인간)은 마치 다양한 악기를 연주할 수 있는 숙련된 음악가처럼 **Mana** (마나)를 조작하는 데 적당한 숙련도를 보여줍니다. 그들의 균형 잡힌 구성은 다음과 같은 것들을 가능하게 합니다.
 
-- Store moderate amounts of **Mana** within their mana reservoirs, like vessels holding liquid light
-- Adapt their magical approach to various schools and traditions with relative ease
-- Master a broader range of magical disciplines than most species, though perhaps with less depth
-- Innovate new magical techniques through creative experimentation
+- 액체 빛을 담는 용기처럼 마나 저장소에 적당량의 **Mana** (마나)를 저장합니다.
+- 마법적 접근 방식을 다양한 학파 및 전통에 비교적 쉽게 적용합니다.
+- 대부분의 종보다 더 넓은 범위의 마법 분야를 마스터하지만 깊이는 덜할 수 있습니다.
+- 창의적인 실험을 통해 새로운 마법 기술을 혁신합니다.
 
-### Magical Specializations
+### Magical Specializations (마법 전문 분야)
 
-While humans can practice any form of magic, they often excel in:
+인간은 어떤 형태의 마법도 수행할 수 있지만 종종 다음과 같은 분야에서 뛰어납니다.
 
-- **Practical Magic**: Spells with immediate, tangible effects
-- **Adaptive Casting**: Modifying spells on the fly to suit changing circumstances
-- **Ritual Magic**: Complex ceremonies that leverage preparation over raw power
-- **Technological Magic**: Combining magical principles with mechanical innovation
+- **Practical Magic** (실용 마법): 즉각적이고 유형적인 효과가 있는 주문
+- **Adaptive Casting** (적응형 시전): 변화하는 상황에 맞게 즉석에서 주문을 수정
+- **Ritual Magic** (의식 마법): 원시적인 힘보다 준비를 활용하는 복잡한 의식
+- **Technological Magic** (기술 마법): 마법 원리를 기계적 혁신과 결합
 
-## Habitat and Distribution
+## Habitat and Distribution (서식지 및 분포)
 
-**Humans** have established settlements across nearly every habitable region of the world, demonstrating their remarkable adaptability:
+**Humans** (인간)은 놀라운 적응력을 보여주며 세계의 거의 모든 거주 가능한 지역에 정착지를 세웠습니다.
 
-- **Eastern Veldrassil**: Agricultural communities and magical academies
-- **Western Veldrassil**: Mining towns and military outposts
-- **Central Plains**: Vast cities and trading hubs
-- **Coastal Regions**: Fishing villages and merchant ports
-- **Mountain Valleys**: Self-sufficient townships and monasteries
-- **Island Chains**: Seafaring colonies and trading posts
+- **Eastern Veldrassil** (동부 벨드라실): 농업 공동체 및 마법 아카데미
+- **Western Veldrassil** (서부 벨드라실): 광산 마을 및 군사 전초 기지
+- **Central Plains** (중앙 평원): 광대한 도시 및 무역 중심지
+- **Coastal Regions** (해안 지역): 어촌 마을 및 상인 항구
+- **Mountain Valleys** (산악 계곡): 자급 자족 마을 및 수도원
+- **Island Chains** (섬 사슬): 항해 식민지 및 무역 기지
 
-This widespread distribution has led to tremendous cultural and phenotypical diversity among human populations.
+이러한 광범위한 분포로 인해 인간 인구 간에 엄청난 문화적, 표현형적 다양성이 생겨났습니다.
 
-## Cultural Impact
+## Cultural Impact (문화적 영향)
 
-The adaptability and innovation of **Humans** have made them influential across numerous domains:
+**Humans** (인간)의 적응력과 혁신은 수많은 영역에서 영향력을 행사하게 했습니다.
 
-- **Technological Advancement**: Humans constantly develop new tools and techniques
-- **Cultural Exchange**: Human societies readily adopt and adapt practices from other species
-- **Magical Innovation**: While not the most naturally gifted mages, humans often pioneer new applications
-- **Artistic Expression**: Human art forms evolve rapidly, producing novel styles and mediums
-- **Political Systems**: Human governments range from monarchies to republics to complex democracies
+- **Technological Advancement** (기술 발전): 인간은 끊임없이 새로운 도구와 기술을 개발합니다.
+- **Cultural Exchange** (문화 교류): 인간 사회는 다른 종의 관행을 쉽게 채택하고 적용합니다.
+- **Magical Innovation** (마법 혁신): 인간은 가장 자연스럽게 마법에 재능이 있는 것은 아니지만 종종 새로운 응용 분야를 개척합니다.
+- **Artistic Expression** (예술적 표현): 인간 예술 형식은 빠르게 진화하여 새로운 스타일과 매체를 만들어냅니다.
+- **Political Systems** (정치 시스템): 인간 정부는 군주제에서 공화제, 복잡한 민주주의에 이르기까지 다양합니다.
 
-### Core Values
+### Core Values (핵심 가치)
 
-Despite their diversity, most human cultures share certain common values:
+다양성에도 불구하고 대부분의 인간 문화는 특정 공통 가치를 공유합니다.
 
-- **Progress**: Striving for improvement and advancement
-- **Adaptability**: Embracing change rather than resisting it
-- **Community**: Forming strong social bonds and networks
-- **Ambition**: Setting and pursuing goals beyond immediate needs
-- **Legacy**: Creating works and institutions that outlast individual lives
+- **Progress** (진보): 개선과 발전을 위해 노력
+- **Adaptability** (적응력): 변화에 저항하기보다 포용
+- **Community** (공동체): 강력한 사회적 유대와 네트워크 형성
+- **Ambition** (야망): 즉각적인 필요를 넘어 목표를 설정하고 추구
+- **Legacy** (유산): 개인의 삶보다 오래 지속되는 작품과 기관 만들기
 
-## Relationships with Other Species
+## Relationships with Other Species (다른 종과의 관계)
 
-**Humans** interact extensively with all other species, typically forming complex relationships:
+**Humans** (인간)은 다른 모든 종과 광범위하게 상호 작용하며 일반적으로 복잡한 관계를 형성합니다.
 
-- **Elves**: Mix of admiration for elven culture and frustration with their perceived condescension
-- **Dwarves**: Strong trade partnerships and mutual respect for craftsmanship
-- **Beastfolk**: Varied relationships ranging from close alliances to territorial conflicts
-- **Dragonkin**: Cautious respect and occasional apprenticeship for magical knowledge
-- **Fae**: Fascination tempered by wariness of fae capriciousness
-- **Shadowfolk**: Uneasy coexistence with occasional cultural exchange
-- **Giants**: Respectful distance with established trading protocols
+- **Elves** (엘프): 엘프 문화에 대한 존경과 그들의 거만함에 대한 좌절감의 혼합
+- **Dwarves** (드워프): 강력한 무역 파트너십과 장인 정신에 대한 상호 존중
+- **Beastfolk** (수인): 긴밀한 동맹에서 영토 분쟁에 이르기까지 다양한 관계
+- **Dragonkin** (드래곤킨): 마법 지식에 대한 신중한 존중과 때때로 도제 관계
+- **Fae** (페): 페의 변덕스러움에 대한 경계심으로 완화된 매혹
+- **Shadowfolk** (그림자 종족): 때때로 문화 교류가 있는 불안한 공존
+- **Giants** (거인): 확립된 무역 프로토콜을 통한 존중하는 거리 유지
 
-### Diplomatic Approach
+### Diplomatic Approach (외교적 접근)
 
-Human diplomatic approaches typically emphasize:
+인간의 외교적 접근 방식은 일반적으로 다음을 강조합니다.
 
-- **Flexibility**: Adapting negotiation styles to suit different species
-- **Pragmatism**: Focusing on mutually beneficial outcomes
-- **Cultural Exchange**: Offering human innovations in return for knowledge and resources
-- **Alliance Building**: Creating networks of relationships rather than isolated agreements
+- **Flexibility** (유연성): 다른 종에 맞게 협상 스타일 조정
+- **Pragmatism** (실용주의): 상호 이익이 되는 결과에 집중
+- **Cultural Exchange** (문화 교류): 지식과 자원에 대한 대가로 인간 혁신 제공
+- **Alliance Building** (동맹 구축): 고립된 합의보다는 관계 네트워크 구축
 
-## Notable Traits
+## Notable Traits (주목할 만한 특징)
 
-**Humans** are characterized by several distinctive traits that set them apart:
+**Humans** (인간)은 그들을 차별화하는 몇 가지 독특한 특징으로 특징지어집니다.
 
-- **Adaptability**: Unmatched ability to adjust to new circumstances and environments
-- **Innovation**: Constant creation of new tools, techniques, and social structures
-- **Ambition**: Driving desire to improve their condition and leave their mark
-- **Curiosity**: Innate desire to explore, understand, and categorize the world
-- **Resilience**: Remarkable ability to recover from setbacks and disasters
-- **Community Formation**: Skill at creating complex social organizations
-- **Spiritual Diversity**: Wide range of religious and philosophical traditions
+- **Adaptability** (적응력): 새로운 상황과 환경에 적응하는 비교할 수 없는 능력
+- **Innovation** (혁신): 새로운 도구, 기술 및 사회 구조의 끊임없는 창조
+- **Ambition** (야망): 그들의 상태를 개선하고 흔적을 남기려는 욕망
+- **Curiosity** (호기심): 세상을 탐험하고, 이해하고, 분류하려는 타고난 욕망
+- **Resilience** (회복력): 좌절과 재난으로부터 회복하는 놀라운 능력
+- **Community Formation** (공동체 형성): 복잡한 사회 조직을 만드는 기술
+- **Spiritual Diversity** (영적 다양성): 광범위한 종교적 및 철학적 전통
 
-### Weaknesses
+### Weaknesses (약점)
 
-These strengths are balanced by certain limitations:
+이러한 강점은 특정 제한 사항에 의해 균형을 이룹니다.
 
-- **Short Lifespan**: Briefer lives compared to many other intelligent species
-- **Physical Limitations**: Less specialized physical capabilities than many species
-- **Cultural Myopia**: Tendency to assume human perspectives are universal
-- **Factional Conflict**: Propensity for internal strife and division
-- **Resource Consumption**: Often unsustainable use of environmental resources
+- **Short Lifespan** (짧은 수명): 다른 많은 지능적인 종에 비해 더 짧은 수명
+- **Physical Limitations** (신체적 한계): 다른 많은 종보다 덜 전문화된 신체적 능력
+- **Cultural Myopia** (문화적 근시): 인간의 관점이 보편적이라고 가정하는 경향
+- **Factional Conflict** (분파적 갈등): 내부 분쟁과 분열에 대한 성향
+- **Resource Consumption** (자원 소비): 종종 환경 자원의 지속 불가능한 사용
 
-## Human Society
+## Human Society (인간 사회)
 
-Human society is characterized by its complexity, specialization, and continuous evolution:
+인간 사회는 복잡성, 전문성 및 지속적인 진화로 특징지어집니다.
 
-### Social Structure
+### Social Structure (사회 구조)
 
-Most human societies feature:
+대부분의 인간 사회는 다음을 특징으로 합니다.
 
-- **Social Mobility**: Ability to change status through achievement
-- **Specialized Roles**: Division of labor and expertise
-- **Formal Education**: Systems for knowledge transfer and skill development
-- **Cultural Institutions**: Organizations dedicated to preserving and advancing culture
-- **Technological Infrastructure**: Networks of roads, communication systems, and utilities
+- **Social Mobility** (사회 이동성): 성취를 통해 지위를 변경하는 능력
+- **Specialized Roles** (특화된 역할): 노동 및 전문 지식 분배
+- **Formal Education** (정규 교육): 지식 전달 및 기술 개발 시스템
+- **Cultural Institutions** (문화 기관): 문화를 보존하고 발전시키는 데 전념하는 조직
+- **Technological Infrastructure** (기술 인프라): 도로, 통신 시스템 및 유틸리티 네트워크
 
-### Common Occupations
+### Common Occupations (일반적인 직업)
 
-Popular professions among humans include:
+인간들 사이에서 인기 있는 직업은 다음과 같습니다.
 
-- **Artificers**: Creating magical tools and devices
-- **Merchants**: Facilitating trade between communities and species
-- **Scholars**: Documenting and expanding knowledge
-- **Explorers**: Mapping unknown territories
-- **Diplomats**: Negotiating relationships with other communities and species
-- **Innovators**: Developing new techniques and technologies
+- **Artificers** (기술공): 마법 도구 및 장치 만들기
+- **Merchants** (상인): 공동체와 종 간의 무역 촉진
+- **Scholars** (학자): 지식 문서화 및 확장
+- **Explorers** (탐험가): 미지의 영역 매핑
+- **Diplomats** (외교관): 다른 공동체 및 종과의 관계 협상
+- **Innovators** (혁신가): 새로운 기술 및 기술 개발
 
-Understanding the **Human** species provides insight into the adaptable heart of civilization in the world of **OpenFantasy**, like appreciating a versatile musician who can play many instruments with skill. Their balanced elemental composition creates a melody of existence that continuously evolves, adapts, and innovates, shaping the world through determination and creativity. 
+**Human** (인간) 종을 이해하는 것은 마치 많은 악기를 능숙하게 연주할 수 있는 다재다능한 음악가를 감상하는 것처럼 **OpenFantasy** 세계 문명의 적응 가능한 심장에 대한 통찰력을 제공합니다. 그들의 균형 잡힌 원소 구성은 결단력과 창의성을 통해 끊임없이 진화하고, 적응하고, 혁신하며 세상을 만들어가는 존재의 멜로디를 창조합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

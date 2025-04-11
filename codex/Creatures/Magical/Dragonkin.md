@@ -1,104 +1,108 @@
-# **Dragonkin**: The Ancient Children of Power
+# **Dragonkin** (드래곤킨): 힘의 고대 자손
 
-[**Dragonkin**](/codex/Creatures/Dragonkin.md) are the ancient children of power, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a timpani that commands attention with its powerful presence, they embody strength and elemental might, creating a unique melody of existence that emphasizes power, pride, and connection to the elements.
+[**Dragonkin**](/codex/Creatures/Dragonkin.md) (드래곤킨)은 힘의 고대 자손이며, 그들의 몸은 [**Exanthis**](/codex/Basic/Exanthis.md) (엑산티스), [**Souls**](/codex/Basic/Soul.md) (영혼), 그리고 **Mana Capacity** (마나 용량)의 조화로운 혼합체입니다. 마치 강력한 존재감으로 시선을 사로잡는 팀파니처럼, 그들은 힘과 원소의 힘을 구현하여 힘, 자부심, 그리고 원소와의 연결을 강조하는 독특한 존재의 멜로디를 만들어냅니다.
 
-## Elemental Composition
+## Elemental Composition (원소 구성)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dragonkin** forms a harmony that favors physical might:
+[Creatures](/codex/Creatures/Creatures.md) (생물)에 자세히 설명된 바와 같이, **dragonkin** (드래곤킨)의 일반적인 비율은 물리적인 힘을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| Element (원소) | Range (범위) | Function (기능) |
 |---------|------------|----------|
-| **Exanthis** | 55-75% | The crystalline heart that provides extraordinary physical strength and durability |
-| **Soul** | 5-15% | The ethereal essence that shapes a proud and territorial consciousness |
-| **Mana Capacity** | 20-35% | The bridge between worlds that enables elemental magical potential |
+| **Exanthis** (엑산티스) | 55-75% | 탁월한 물리적 힘과 내구성을 제공하는 결정체의 심장 |
+| **Soul** (영혼) | 5-15% | 자랑스럽고 영역적인 의식을 형성하는 미묘한 본질 |
+| **Mana Capacity** (마나 용량) | 20-35% | 원소 마법 잠재력을 가능하게 하는 세계 간의 다리 |
 
-This composition grants **dragonkin** their characteristic physical might but limits their adaptability compared to other species, like a powerful instrument that produces commanding sounds but cannot play subtle melodies.
+이러한 구성은 **dragonkin** (드래곤킨)에게 특징적인 물리적 힘을 부여하지만, 강력한 소리를 내지만 미묘한 멜로디를 연주할 수 없는 강력한 악기처럼 다른 종에 비해 적응력을 제한합니다.
 
-### Individual Variations
+### Individual Variations (개별 변이)
 
-While the model composition represents the typical dragonkin, individual variations exist:
+모델 구성이 일반적인 드래곤킨을 나타내는 반면, 개별적인 변이도 존재합니다.
 
-- **Titan Dragons**: Some dragonkin possess Exanthis levels as high as 80%, making them among the physically strongest beings in existence, with immense durability but minimal magical ability (10% Mana Capacity).
-- **Dragon Mystics**: Rare individuals have Mana Capacity approaching 45%, allowing them to channel elemental magic with extraordinary power, though they typically have reduced physical might (45% Exanthis).
-- **Soul Dragons**: Those with higher Soul percentages (up to 20%) develop exceptional wisdom and leadership abilities, often becoming powerful clan leaders or spiritual guides to their kind.
-- **Elemental Incarnates**: Specialized dragonkin with composition of (60% Exanthis, 5% Soul, 35% Mana Capacity) can completely embody a specific elemental force, becoming living manifestations of fire, lightning, frost, or other elements.
-- **Drake Sentinels**: A balanced variant with (50% Exanthis, 15% Soul, 35% Mana Capacity) combines physical prowess with significant magical ability, making them versatile guardians of dragonkin territories.
+- **Titan Dragons** (타이탄 드래곤): 일부 드래곤킨은 엑산티스 수치가 80%에 달하여 극심한 내구성과 함께 물리적으로 가장 강력한 존재 중 하나이지만, 마법 능력은 최소화됩니다(10% 마나 용량).
+- **Dragon Mystics** (드래곤 신비주의자): 드문 경우로 마나 용량이 45%에 가까워 원소 마법을 특별한 힘으로 사용할 수 있지만, 일반적으로 물리적 힘은 감소합니다(45% 엑산티스).
+- **Soul Dragons** (소울 드래곤): 더 높은 영혼 비율(최대 20%)을 가진 사람들은 뛰어난 지혜와 리더십 능력을 개발하여 종종 강력한 씨족 지도자나 그들의 종족의 영적 안내자가 됩니다.
+- **Elemental Incarnates** (원소 화신): (60% 엑산티스, 5% 영혼, 35% 마나 용량)의 구성으로 특화된 드래곤킨은 특정 원소의 힘을 완전히 구현하여 불, 번개, 서리 또는 기타 원소의 살아있는 발현이 될 수 있습니다.
+- **Drake Sentinels** (드레이크 센티넬): (50% 엑산티스, 15% 영혼, 35% 마나 용량)의 균형 잡힌 변종은 물리적 기량과 상당한 마법 능력을 결합하여 드래곤킨 영토의 다재다능한 수호자가 됩니다.
 
-## Physical Characteristics
+## Physical Characteristics (신체적 특징)
 
-**Dragonkin** are known for their imposing presence and draconic features:
-- Tall and muscular, with a presence that commands attention
-- Scales that provide natural armor, ranging in color from deep red to iridescent blue
-- Eyes that glow with inner fire, reflecting their connection to power
-- Horns or crests that vary in shape and size, often indicating lineage
-- Claws and fangs that serve as natural weapons
-- Wings that allow limited flight, though not as powerful as true dragons
+**Dragonkin** (드래곤킨)은 웅장한 존재감과 용의 특징으로 유명합니다.
+- 키가 크고 근육질이며, 시선을 사로잡는 존재감
+- 깊은 빨간색에서 무지갯빛 파란색까지 다양한 색상의 천연 갑옷을 제공하는 비늘
+- 힘과의 연결을 반영하는 내면의 불로 빛나는 눈
+- 모양과 크기가 다양하며 종종 혈통을 나타내는 뿔 또는 볏
+- 자연 무기로 사용되는 발톱과 송곳니
+- 진정한 용만큼 강력하지는 않지만 제한된 비행을 허용하는 날개
 
-## Physical and Magical Affinity
+## Physical and Magical Affinity (물리적 및 마법적 친화력)
 
-**Dragonkin** demonstrate exceptional proficiency in physical might and elemental magic, like virtuoso performers who excel in power and intensity. Their composition allows them to:
-- Develop extraordinary strength and resilience, like living embodiments of power
-- Channel elemental energies with moderate proficiency, particularly fire and lightning
-- Resist magical effects through their high **Exanthis** content, like a mountain standing against a storm
+**Dragonkin** (드래곤킨)은 힘과 강렬함에 뛰어난 비르투오소 연주자처럼 물리적 힘과 원소 마법에 탁월한 숙련도를 보여줍니다. 그들의 구성은 그들이 다음과 같은 능력을 갖도록 합니다.
+- 힘의 살아있는 구현처럼 특별한 힘과 탄력성을 개발합니다.
+- 특히 불과 번개와 같은 원소 에너지를 적당한 숙련도로 사용합니다.
+- 폭풍에 맞서는 산처럼 높은 **Exanthis** (엑산티스) 함량을 통해 마법 효과에 저항합니다.
 
-This power makes **dragonkin** capable of achieving feats of strength that few other species can match, though they may struggle with tasks requiring subtlety or adaptability, like a powerful instrument that can only play at full volume.
+이러한 힘은 **dragonkin** (드래곤킨)이 다른 종족이 따라올 수 없는 힘의 위업을 달성할 수 있게 하지만, 풀 볼륨으로만 연주할 수 있는 강력한 악기처럼 섬세함이나 적응력을 요구하는 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (수명과 영혼 부패)
 
-The **soul decay** timeline for **dragonkin**, from birth to complete decay, is approximately 500 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate power and knowledge over centuries
-- Develop deep connections to their territories and lineages
-- Form powerful societies with strong hierarchical structures
+**dragonkin** (드래곤킨)의 **soul decay** (영혼 부패) 타임라인은 탄생부터 완전한 부패까지 약 500년이며, 시대를 밝히는 천천히 타오르는 불꽃과 같습니다. 이 연장된 수명을 통해 그들은 다음을 수행할 수 있습니다.
+- 수세기 동안 힘과 지식을 축적합니다.
+- 그들의 영토 및 혈통과 깊은 관계를 개발합니다.
+- 강력한 계층 구조를 가진 강력한 사회를 형성합니다.
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains powerful but unchanging through the ages.
+그러나 그들의 최소 영혼 비율은 또한 그들이 매우 느리게 변화하고 적응한다는 것을 의미하며, 시대를 거쳐 강력하지만 변하지 않는 멜로디와 같습니다.
 
-## Habitat and Distribution
+## Habitat and Distribution (서식지와 분포)
 
-**Dragonkin** primarily inhabit:
-- Remote mountain ranges and volcanic regions, where they can be closest to elemental power
-- Territories that provide natural defenses and resources
-- Strategic locations that allow them to maintain their independence
+**Dragonkin** (드래곤킨)은 주로 다음 지역에 서식합니다.
+- 원소의 힘에 가장 가까울 수 있는 외딴 산맥과 화산 지역
+- 자연 방어와 자원을 제공하는 영토
+- 독립성을 유지할 수 있는 전략적 위치
 
-These locations provide ideal environments for the development of power and the practice of elemental magic, like a stage perfectly suited to their performance.
+이러한 위치는 힘의 개발과 원소 마법의 연습에 이상적인 환경을 제공하며, 공연에 완벽하게 적합한 무대와 같습니다.
 
-## Cultural Impact
+## Cultural Impact (문화적 영향)
 
-In the world of **OpenFantasy**, **dragonkin** play a crucial role in maintaining the balance of power, like conductors of the grand symphony of strength. Their societies are centers of:
-- Martial prowess and military might
-- Elemental magic and power
-- Hierarchical structures and lineage pride
+**OpenFantasy** (OpenFantasy) 세계에서 **dragonkin** (드래곤킨)은 힘의 균형을 유지하는 데 중요한 역할을 하며, 웅장한 힘의 교향곡의 지휘자와 같습니다. 그들의 사회는 다음의 중심지입니다.
+- 무술의 기량과 군사력
+- 원소 마법과 힘
+- 계층 구조와 혈통의 자부심
 
-The connection to power has shaped dragonkin culture around respect for strength, lineage, and dominance, creating a society where might makes right.
+힘과의 연결은 힘, 혈통, 지배에 대한 존중을 중심으로 드래곤킨 문화를 형성하여 힘이 정의를 만드는 사회를 만들었습니다.
 
-## Relationship with Other Species
+## Relationship with Other Species (다른 종과의 관계)
 
-**Dragonkin** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **True Dragons**: A complex relationship of reverence and rivalry
+**Dragonkin** (드래곤킨)은 다른 종들과 복잡한 관계를 유지합니다.
+- [**Humans**](/codex/Creatures/Human.md) (인간)과: 그들의 적응력에 대한 존경과 그들의 약점에 대한 좌절감이 혼합되어 있습니다.
+- **Elves** (엘프)와: 그들의 마법적 기량을 인정하지만 그들의 방식을 이상하게 여기는 경계심 많은 존경
+- **Dwarves** (드워프)와: 힘과 장인 정신에 대한 상호 존중을 기반으로 한 실용적인 동맹
+- **True Dragons** (진정한 용)과: 숭배와 경쟁의 복잡한 관계
 
-These relationships are often characterized by a sense of superiority, as **dragonkin** view themselves as the true heirs to draconic power.
+이러한 관계는 종종 우월감으로 특징지어지는데, **dragonkin** (드래곤킨)은 자신을 용의 힘의 진정한 상속자로 여기기 때문입니다.
 
-## Notable Dragonkin Traits
+## Notable Dragonkin Traits (주목할 만한 드래곤킨 특징)
 
-- **Physical Might**: Dragonkin excel in strength and resilience, often surpassing other species in raw power
-- **Elemental Affinity**: Dragonkin have a natural connection to elemental magic, particularly fire and lightning
-- **Limited Adaptability**: Their minimal soul ratio makes it difficult for dragonkin to change or adapt
-- **Lineage Pride**: Dragonkin place great emphasis on their draconic heritage and lineage
-- **Territorial Nature**: Dragonkin are fiercely protective of their territories and resources
+- **Physical Might** (물리적 힘): 드래곤킨은 힘과 탄력성이 뛰어나 종종 순수한 힘에서 다른 종족을 능가합니다.
+- **Elemental Affinity** (원소 친화력): 드래곤킨은 특히 불과 번개와 같은 원소 마법과 자연스러운 연결을 가지고 있습니다.
+- **Limited Adaptability** (제한된 적응력): 그들의 최소 영혼 비율은 드래곤킨이 변화하거나 적응하는 것을 어렵게 만듭니다.
+- **Lineage Pride** (혈통의 자부심): 드래곤킨은 용의 유산과 혈통을 매우 중요하게 생각합니다.
+- **Territorial Nature** (영역적인 본성): 드래곤킨은 자신의 영토와 자원을 맹렬히 보호합니다.
 
-## Dragonkin Lineages
+## Dragonkin Lineages (드래곤킨 혈통)
 
-Dragonkin society is organized around powerful lineages, each tracing its heritage to a specific type of dragon:
+드래곤킨 사회는 강력한 혈통을 중심으로 조직되어 있으며, 각 혈통은 특정 유형의 용에 대한 유산을 추적합니다.
 
-| Lineage | Elemental Affinity | Territory | Notable Traits |
+| Lineage (혈통) | Elemental Affinity (원소 친화력) | Territory (영토) | Notable Traits (주목할 만한 특징) |
 |---------|---------------|---------|-------------------|
-| **Fireblood** | Fire | Volcanic regions | Intense passion, destructive power |
-| **Stormwing** | Lightning | Mountain peaks | Swift action, electrical mastery |
-| **Frostscale** | Ice | Arctic regions | Patient strategy, cold precision |
-| **Earthclaw** | Earth | Mountain ranges | Steadfast defense, geological control |
-| **Windrider** | Air | Cloud islands | Swift movement, aerial dominance |
-| **Tidecaller** | Water | Coastal regions | Fluid adaptation, aquatic mastery |
+| **Fireblood** (파이어블러드) | 불 | 화산 지역 | 강렬한 열정, 파괴적인 힘 |
+| **Stormwing** (스톰윙) | 번개 | 산봉우리 | 신속한 행동, 전기 숙달 |
+| **Frostscale** (프로스트스케일) | 얼음 | 북극 지역 | 참을성 있는 전략, 차가운 정밀성 |
+| **Earthclaw** (어스클로) | 땅 | 산맥 | 확고한 방어, 지질 통제 |
+| **Windrider** (윈드라이더) | 공기 | 구름 섬 | 신속한 이동, 공중 우위 |
+| **Tidecaller** (타이드콜러) | 물 | 해안 지역 | 유연한 적응, 수중 숙달 |
 
-Understanding the nature of **dragonkin** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the mountains and skies. 
+**dragonkin** (드래곤킨)의 본질을 이해하는 것은 산과 하늘을 통해 맥동하는 우레와 같은 리듬을 느끼는 것처럼 **OpenFantasy** (OpenFantasy) 세계의 힘의 역학에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

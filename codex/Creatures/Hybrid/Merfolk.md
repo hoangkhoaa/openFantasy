@@ -1,105 +1,109 @@
-# **Merfolk**: The Guardians of the Deep
+# **Merfolk** (인어): 심해의 수호자
 
-[**Merfolk**](/codex/Creatures/Merfolk.md) are the guardians of the deep, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a deep bassoon, they resonate with the currents of the ocean, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+[**Merfolk**](/codex/Creatures/Merfolk.md) (인어)는 심해의 수호자이며, 그들의 몸은 [**Exanthis**](/codex/Basic/Exanthis.md) (엑산티스), [**Souls**](/codex/Basic/Soul.md) (영혼), 그리고 **Mana Capacity** (마나 용량)의 유동적인 조화입니다. 깊은 바순처럼, 그들은 바다의 흐름과 공명하여 수중 세계와 육상 세계를 잇는 독특한 존재의 멜로디를 창조합니다.
 
-## Elemental Composition
+## Elemental Composition (원소 구성)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **merfolk** forms a harmony that favors physical grace:
+[Creatures](/codex/Creatures/Creatures.md) (생물)에서 자세히 설명된 바와 같이, **merfolk** (인어)의 일반적인 비율은 물리적인 우아함을 선호하는 조화를 이룹니다:
 
-| Element | Range | Function |
+| Element (원소) | Range (범위) | Function (기능) |
 |---------|------------|----------|
-| **Exanthis** | 30-50% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-40% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 20-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** (엑산티스) | 30-50% | 적당한 물리적 힘과 우아함을 제공하는 결정질의 심장 |
+| **Soul** (영혼) | 25-40% | 유동적이고 적응력 있는 의식을 형성하는 무형의 본질 |
+| **Mana Capacity** (마나 용량) | 20-40% | 적당한 마법 잠재력을 가능하게 하는 세계 간의 다리 |
 
-This composition grants **merfolk** their characteristic grace and adaptability but typically moderates their magical potential compared to other species, like a versatile instrument that can play many notes but lacks the power of a full orchestra.
+이러한 구성은 **merfolk** (인어)에게 그들의 특징적인 우아함과 적응력을 부여하지만, 일반적으로 여러 음을 연주할 수 있지만 완전한 오케스트라의 힘이 부족한 다재다능한 악기처럼, 다른 종에 비해 마법 잠재력을 완화시킵니다.
 
-### Individual Variations
+### Individual Variations (개별 변이)
 
-While the model composition represents the typical merfolk, individual variations exist based on their tribal lineage:
+모델 구성은 일반적인 인어를 나타내지만, 부족 혈통에 따라 개별적인 변이가 존재합니다:
 
-- **Depth Divers**: Some merfolk, particularly from the Deepswimmer tribe, possess enhanced Exanthis levels (up to 55%) that allow them to withstand the crushing pressures of the deepest ocean trenches.
-- **Tide Mages**: Specialized variants with higher Mana Capacity (up to 45%) excel at water magic, becoming powerful spellcasters who can control currents, weather, and even blood in living creatures.
-- **Ocean Sages**: Those with higher Soul percentages (up to 45%) develop extraordinary empathy and wisdom, often becoming tribal leaders, healers, or diplomats who bridge the gap between merfolk and other species.
-- **Reef Guardians**: A balanced variant (40% Exanthis, 30% Soul, 30% Mana Capacity) specializes in protecting coral reef ecosystems, developing unique magical abilities that nurture and restore damaged aquatic environments.
-- **Storm Callers**: Some merfolk develop a unique composition (35% Exanthis, 25% Soul, 40% Mana Capacity) that allows them to sense and manipulate weather patterns above the ocean, creating or dispersing storms that might threaten their territories.
+- **Depth Divers** (심해 잠수부): 일부 인어, 특히 Deepswimmer (심해 수영자) 부족 출신은 향상된 엑산티스 수치(최대 55%)를 보유하여 가장 깊은 해구의 엄청난 압력을 견딜 수 있습니다.
+- **Tide Mages** (조수 마법사): 더 높은 마나 용량(최대 45%)을 가진 특수한 변종은 물 마법에 능숙하며, 해류, 날씨, 심지어 살아있는 생물의 혈액까지 제어할 수 있는 강력한 주문 시전자가 됩니다.
+- **Ocean Sages** (바다 현자): 더 높은 영혼 비율(최대 45%)을 가진 사람들은 비범한 공감 능력과 지혜를 개발하여 종종 부족 지도자, 치료사 또는 인어와 다른 종 사이의 간극을 잇는 외교관이 됩니다.
+- **Reef Guardians** (산호초 수호자): 균형 잡힌 변종(엑산티스 40%, 영혼 30%, 마나 용량 30%)은 산호초 생태계를 보호하는 데 특화되어 손상된 수중 환경을 육성하고 복원하는 독특한 마법 능력을 개발합니다.
+- **Storm Callers** (폭풍 소환사): 일부 인어는 독특한 구성(엑산티스 35%, 영혼 25%, 마나 용량 40%)을 개발하여 바다 위의 날씨 패턴을 감지하고 조작하여 영토를 위협할 수 있는 폭풍을 만들거나 흩어지게 할 수 있습니다.
 
-## Physical Characteristics
+## Physical Characteristics (신체적 특징)
 
-**Merfolk** are known for their aquatic adaptations and graceful nature:
-- Humanoid upper bodies with fish-like lower bodies, allowing for efficient swimming
-- Eyes that are adapted to see clearly in the depths, often with a slight luminescence
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep green
-- Fins and webbed appendages that aid in swimming and balance
-- Ability to change the color of their scales for camouflage or communication
+**Merfolk** (인어)는 그들의 수생 적응과 우아한 본성으로 알려져 있습니다:
+- 효율적인 수영을 가능하게 하는 물고기 같은 하반신을 가진 인간형 상반신
+- 종종 약간의 발광을 띠며, 깊이에서 명확하게 볼 수 있도록 조정된 눈
+- 바다에 맞춰진 섬세한 악기처럼, 수중에서 숨을 쉴 수 있게 해주는 아가미
+- 무지갯빛 파란색부터 짙은 녹색까지 다양한 색상의 천연 보호 및 아름다움을 제공하는 비늘
+- 수영과 균형을 돕는 지느러미와 물갈퀴가 달린 부속 기관
+- 위장 또는 의사 소통을 위해 비늘의 색상을 변경하는 능력
 
-## Physical and Magical Affinity
+## Physical and Magical Affinity (물리적 및 마법적 친화력)
 
-**Merfolk** demonstrate exceptional proficiency in swimming and aquatic combat, like virtuoso performers who have mastered their environment. Their composition allows them to:
-- Move through water with extraordinary grace and speed, like dancers in a liquid ballet
-- Channel water magic with moderate proficiency, like conductors of the ocean's symphony
-- Adapt to various aquatic environments, from shallow reefs to the deepest trenches
+**Merfolk** (인어)는 그들의 환경을 마스터한 거장 연주자처럼, 수영과 수중 전투에서 뛰어난 숙련도를 보여줍니다. 그들의 구성은 그들이 다음을 할 수 있도록 합니다:
+- 액체 발레의 무용수처럼, 뛰어난 우아함과 속도로 물 속을 이동합니다.
+- 바다 교향곡의 지휘자처럼, 적당한 숙련도로 물 마법을 사용합니다.
+- 얕은 암초에서 가장 깊은 해구에 이르기까지 다양한 수생 환경에 적응합니다.
 
-This specialization makes **merfolk** capable of achieving feats of aquatic prowess that few other species can match, though they may struggle with tasks requiring complex magical abilities, like an instrument that can play many notes but lacks the complexity of a full orchestra.
+이러한 전문화는 **merfolk** (인어)가 다른 종이 따라올 수 없는 수생 기량을 달성할 수 있게 하지만, 여러 음을 연주할 수 있지만 완전한 오케스트라의 복잡성이 부족한 악기처럼, 복잡한 마법 능력을 요구하는 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (수명 및 영혼 소멸)
 
-The **soul decay** timeline for **merfolk**, from birth to complete decay, is approximately 300 years, like a steady flame that illuminates the depths. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to specific places and traditions
-- Form stable societies with strong communal bonds
+**merfolk** (인어)의 **soul decay** (영혼 소멸) 타임라인은 탄생부터 완전한 소멸까지 약 300년이며, 깊이를 밝히는 꾸준한 불꽃과 같습니다. 이러한 적당한 수명은 그들이 다음을 할 수 있도록 합니다:
+- 여러 세대에 걸쳐 지식과 지혜를 축적합니다.
+- 특정 장소 및 전통과 깊은 관계를 발전시킵니다.
+- 강한 공동체적 유대를 가진 안정적인 사회를 형성합니다.
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the tides.
+그러나 그들의 적당한 영혼 비율은 또한 그들이 조수와 함께 진화하는 멜로디처럼, 적당한 속도로 변화하고 적응한다는 것을 의미합니다.
 
-## Habitat and Distribution
+## Habitat and Distribution (서식지 및 분포)
 
-**Merfolk** primarily inhabit:
-- Ocean depths and underwater cities, where they can be closest to the currents
-- Coral reefs and kelp forests, where they can find shelter and resources
-- Coastal regions and estuaries, where they can interact with terrestrial species
-- Strategic locations that provide access to both aquatic and terrestrial resources
+**Merfolk** (인어)는 주로 다음 장소에 서식합니다:
+- 해류에 가장 가까이 있을 수 있는 해양 심해 및 수중 도시
+- 피난처와 자원을 찾을 수 있는 산호초와 다시마 숲
+- 육상 종과 상호 작용할 수 있는 해안 지역 및 하구
+- 수생 및 육상 자원에 모두 접근할 수 있는 전략적 위치
 
-These locations provide ideal environments for the development of aquatic societies and the practice of water magic, like stages perfectly suited to their performance.
+이러한 위치는 그들의 공연에 완벽하게 적합한 무대처럼, 수생 사회의 발전과 물 마법 수행에 이상적인 환경을 제공합니다.
 
-## Cultural Impact
+## Cultural Impact (문화적 영향)
 
-In the world of **OpenFantasy**, **merfolk** play a crucial role in maintaining the balance of aquatic ecosystems and preserving ancient traditions, like the steady bass notes that provide foundation to a symphony. Their societies are centers of:
-- Aquatic craftsmanship and architecture
-- Water magic and environmental preservation
-- Communal living and shared resources
+**OpenFantasy** (OpenFantasy) 세계에서 **merfolk** (인어)는 교향곡의 기초를 제공하는 꾸준한 저음처럼, 수생 생태계의 균형을 유지하고 고대 전통을 보존하는 데 중요한 역할을 합니다. 그들의 사회는 다음의 중심지입니다:
+- 수생 공예 및 건축
+- 물 마법 및 환경 보존
+- 공동체 생활 및 공유 자원
 
-The connection to the ocean has shaped merfolk culture around respect for the sea, community, and tradition, creating a society where harmony with nature is highly valued.
+바다와의 연결은 바다, 공동체 및 전통에 대한 존중을 중심으로 인어 문화를 형성하여 자연과의 조화가 매우 중요시되는 사회를 창조했습니다.
 
-## Relationship with Other Species
+## Relationship with Other Species (다른 종과의 관계)
 
-**Merfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of curiosity and caution, often leading to limited interactions
-- With **Sirens**: A deep connection based on shared aquatic heritage but different magical affinities
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and resources
+**Merfolk** (인어)는 다른 종과 복잡한 관계를 유지합니다:
+- [**Humans**](/codex/Creatures/Human.md) (인간)과: 호기심과 주의가 혼합되어 종종 제한적인 상호 작용으로 이어집니다.
+- **Sirens** (세이렌)과: 공유된 수생 유산을 기반으로 하지만 다른 마법적 친화력을 가진 깊은 연결
+- **Elves** (엘프)와: 그들의 마법적 기량을 인정하지만 그들의 방식을 이상하게 여기는 존중하는 거리
+- **Dwarves** (드워프)와: 공예 기술과 자원에 대한 상호 존중을 기반으로 한 실용적인 동맹
 
-These relationships are often characterized by a sense of environmental stewardship, as **merfolk** view themselves as the true guardians of the oceans.
+이러한 관계는 종종 환경 관리 의식으로 특징지어지며, **merfolk** (인어)는 자신을 바다의 진정한 수호자로 여깁니다.
 
-## Notable Merfolk Traits
+## Notable Merfolk Traits (주목할만한 인어 특징)
 
-- **Aquatic Grace**: Merfolk excel in swimming and aquatic movement, often surpassing other species in their ability to navigate water
-- **Environmental Sensitivity**: Merfolk are deeply attuned to their aquatic surroundings, able to sense changes in currents and water quality
-- **Communal Living**: Merfolk place great emphasis on community and shared resources, creating strong social bonds
-- **Water Magic**: Merfolk have a natural connection to water magic, allowing them to manipulate this element with moderate proficiency
-- **Adaptability**: Merfolk can thrive in various aquatic environments, from shallow reefs to the deepest trenches
+- **Aquatic Grace** (수생 우아함): 인어는 수영과 수생 이동에 뛰어나 종종 물을 탐색하는 능력에서 다른 종을 능가합니다.
+- **Environmental Sensitivity** (환경적 민감성): 인어는 수생 환경에 깊이 조율되어 해류와 수질의 변화를 감지할 수 있습니다.
+- **Communal Living** (공동체 생활): 인어는 공동체와 공유 자원을 매우 중요하게 생각하여 강력한 사회적 유대를 만듭니다.
+- **Water Magic** (물 마법): 인어는 물 마법과 자연스러운 연결을 가지고 있어 적당한 숙련도로 이 원소를 조작할 수 있습니다.
+- **Adaptability** (적응성): 인어는 얕은 암초에서 가장 깊은 해구에 이르기까지 다양한 수생 환경에서 번성할 수 있습니다.
 
-## Merfolk Tribes
+## Merfolk Tribes (인어 부족)
 
-Merfolk society is organized into numerous tribes, each with its own specialties and traditions:
+인어 사회는 수많은 부족으로 구성되어 있으며, 각 부족은 고유한 전문 분야와 전통을 가지고 있습니다:
 
-| Tribe | Specialty | Territory | Notable Traits |
+| Tribe (부족) | Specialty (전문 분야) | Territory (영토) | Notable Traits (주목할만한 특징) |
 |---------|---------------|---------|-------------------|
-| **Reefdwellers** | Craftsmanship, community | Coral reefs | Crafting abilities, communal living |
-| **Deepswimmers** | Exploration, knowledge | Ocean depths | Exploration abilities, ancient knowledge |
-| **Tidecallers** | Water magic, communication | Coastal regions | Communication abilities, water manipulation |
-| **Stormriders** | Combat, protection | Open ocean | Combat abilities, protective magic |
-| **Coralcrafters** | Art, architecture | Kelp forests | Artistic abilities, architectural innovation |
-| **Estuaryguardians** | Diplomacy, trade | Estuaries | Diplomatic skills, trading expertise |
+| **Reefdwellers** (암초 거주자) | Craftsmanship, community (공예, 공동체) | Coral reefs (산호초) | Crafting abilities, communal living (공예 능력, 공동체 생활) |
+| **Deepswimmers** (심해 수영자) | Exploration, knowledge (탐험, 지식) | Ocean depths (해양 심해) | Exploration abilities, ancient knowledge (탐험 능력, 고대 지식) |
+| **Tidecallers** (조류 소환사) | Water magic, communication (물 마법, 통신) | Coastal regions (해안 지역) | Communication abilities, water manipulation (통신 능력, 물 조작) |
+| **Stormriders** (폭풍 기수) | Combat, protection (전투, 보호) | Open ocean (대양) | Combat abilities, protective magic (전투 능력, 보호 마법) |
+| **Coralcrafters** (산호 공예가) | Art, architecture (예술, 건축) | Kelp forests (다시마 숲) | Artistic abilities, architectural innovation (예술적 능력, 건축 혁신) |
+| **Estuaryguardians** (하구 수호자) | Diplomacy, trade (외교, 무역) | Estuaries (하구) | Diplomatic skills, trading expertise (외교 기술, 무역 전문성) |
 
-Understanding the nature of **merfolk** provides insight into the aquatic aspects of the world of **OpenFantasy**, like listening to the deep, resonant melodies that echo through the oceans. 
+**merfolk** (인어)의 본성을 이해하는 것은 바다를 통해 울려 퍼지는 깊고 울림있는 멜로디를 듣는 것처럼, **OpenFantasy** (OpenFantasy) 세계의 수생 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

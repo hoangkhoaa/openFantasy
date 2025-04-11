@@ -1,123 +1,127 @@
-# Inspire Courage
+# 용기를 북돋우다 (Inspire Courage)
 
-> *"When fear grips the heart, a single melody can rekindle the flame of bravery."*  
-> — Jalavar Swiftstrings, Battle-Bard of the Western Front
+> *"두려움이 마음을 옭아맬 때, 단 하나의 멜로디가 용기의 불꽃을 다시 지필 수 있다."*
+> — Jalavar Swiftstrings (잘라바르 스위프트스트링), 서부 전선의 전투 음유시인 (Battle-Bard of the Western Front)
 
-## Quick Reference
+## 빠른 참조 (Quick Reference)
 
-- **Casting Time:** 6 seconds (performance action)
-- **Duration:** 30 seconds to 2 minutes
-- **Range:** 9 meters radius (centered on bard)
-- **Components:** Verbal, Somatic, Instrumental (optional but enhances effect)
-- **School:** Enchantment (Courage-Weaving)
-- **Classification:** Support/Enhancement
-- **Difficulty:** Intermediate
-- **Purity Required:** Basic (20-30%)
-- **Minimum Mana Capacity:** 20% (Higher capacity extends duration and radius)
+- **시전 시간 (Casting Time):** 6초 (연주 행동)
+- **지속 시간 (Duration):** 30초 ~ 2분
+- **범위 (Range):** 9미터 반경 (음유시인 (bard) 중심)
+- **구성 요소 (Components):** 언어, 신체, 악기 (선택 사항이지만 효과를 향상시킴)
+- **학파 (School):** 마법 부여 (용기 직조) (Enchantment (Courage-Weaving))
+- **분류 (Classification):** 지원/강화
+- **난이도 (Difficulty):** 중급
+- **순수성 요구 (Purity Required):** 기본 (20-30%)
+- **최소 마나 용량 (Minimum Mana Capacity):** 20% (높은 용량은 지속 시간과 반경을 확장합니다)
 
-## Technical Details
+## 기술적 세부 사항 (Technical Details)
 
-Inspire Courage creates a mana-harmonic field that resonates with allies' courage centers in both mind and spirit. The spell weaves a pattern of enchantment energy that directly counters fear responses while enhancing confidence and resolute action.
+용기를 북돋우다 (Inspire Courage)는 아군 정신과 영혼 속 용기의 중심과 공명하는 마나-하모닉 필드를 생성합니다. 이 주문은 자신감과 단호한 행동을 강화하는 동시에 두려움 반응을 직접적으로 상쇄하는 마법 에너지 패턴을 엮어냅니다.
 
-### Mana Composition
-- **Primary:** Base Mana (Inspiration) 50-65%
-- **Secondary:** Mentimana 25-35%
-- **Tertiary:** Vitomana 10-15%
+### 마나 구성 (Mana Composition)
+- **주요 (Primary):** 기본 마나 (Inspiration (영감)) 50-65%
+- **보조 (Secondary):** 멘티마나 (Mentimana) 25-35%
+- **3차 (Tertiary):** 비토마나 (Vitomana) 10-15%
 
-### Purity Influence on Effect
-- **15-20% Purity:** Minimal effect, provides resistance to fear effects but little combat enhancement
-- **20-30% Purity:** Standard effect, grants both fear resistance and moderate combat enhancement
-- **30-45% Purity:** Enhanced effect, stronger combat bonuses and complete immunity to minor fear effects
-- **45%+ Purity:** Master effect, extends duration significantly and provides partial resistance even to magical dread effects
+### 효과에 대한 순수성의 영향 (Purity Influence on Effect)
+- **15-20% 순수성 (Purity):** 최소한의 효과, 두려움 효과에 대한 저항력을 제공하지만 전투 강화는 거의 없음
+- **20-30% 순수성 (Purity):** 표준 효과, 두려움 저항과 적당한 전투 강화 모두 제공
+- **30-45% 순수성 (Purity):** 강화된 효과, 더 강력한 전투 보너스와 경미한 두려움 효과에 대한 완전한 면역
+- **45%+ 순수성 (Purity):** 마스터 효과, 지속 시간이 크게 연장되고 마법적인 공포 효과에 대해서도 부분적인 저항력을 제공
 
-### Harmonic Pattern
-The spell follows a rising melodic pattern that creates resonance points within allies' mana networks. These resonance points generate counter-frequencies to fear-inducing stimuli while amplifying natural courage responses.
+### 하모닉 패턴 (Harmonic Pattern)
+이 주문은 아군 마나 네트워크 내에 공명점을 생성하는 상승하는 멜로디 패턴을 따릅니다. 이러한 공명점은 자연적인 용기 반응을 증폭시키는 동시에 두려움을 유발하는 자극에 대한 반대 주파수를 생성합니다.
 
-## Practical Effects
+## 실제 효과 (Practical Effects)
 
-When successfully cast, Inspire Courage produces the following effects on allies within range:
+성공적으로 시전되면 용기를 북돋우다 (Inspire Courage)는 범위 내 아군에게 다음과 같은 효과를 줍니다.
 
-1. **Courage Enhancement:** Recipients experience a noticeable reduction in fear response, both natural and magical. Their threshold for fear-inducing stimuli increases by 30-60% depending on casting purity.
+1. **용기 강화 (Courage Enhancement):** 받는 사람은 자연적 및 마법적 두려움 반응 모두에서 눈에 띄는 감소를 경험합니다. 두려움을 유발하는 자극에 대한 역치가 시전 순도에 따라 30-60% 증가합니다.
 
-2. **Combat Prowess:** The harmonic resonance enhances physical performance by 10-25% through the reduction of hesitation and doubt. This manifests as improved reaction time, strike precision, and force application.
+2. **전투 기량 (Combat Prowess):** 조화 공명은 망설임과 의심을 줄여 물리적 성능을 10-25% 향상시킵니다. 이는 반응 시간, 타격 정확도 및 힘 적용의 개선으로 나타납니다.
 
-3. **Pain Resilience:** Recipients can withstand 15-30% more pain before performance degradation, allowing them to fight effectively despite injuries that would normally impair function.
+3. **고통 회복력 (Pain Resilience):** 받는 사람은 일반적으로 기능을 손상시키는 부상에도 불구하고 효과적으로 싸울 수 있도록 성능 저하 전에 15-30% 더 많은 고통을 견딜 수 있습니다.
 
-4. **Morale Stability:** The group experiences a collective resilience against demoralization, creating a feedback loop where individual courage reinforces group courage.
+4. **사기 안정 (Morale Stability):** 그룹은 사기 저하에 대한 집단적 회복력을 경험하여 개인의 용기가 그룹의 용기를 강화하는 피드백 루프를 생성합니다.
 
-## Casting Process
+## 시전 과정 (Casting Process)
 
-The bard channels mana through emotional expression focused on themes of courage, victory, or heroism. The casting follows a specific progression:
+음유시인 (bard)은 용기, 승리 또는 영웅주의를 주제로 한 감정 표현을 통해 마나를 집중시킵니다. 시전은 특정 진행 단계를 따릅니다.
 
-1. **Initiation:** The bard begins a performance (instrumental, vocal, or both) with an uplifting motif that serves as the spell's foundation.
+1. **개시 (Initiation):** 음유시인 (bard)은 주문의 기반 역할을 하는 고양되는 모티프로 연주 (악기, 보컬 또는 둘 다)를 시작합니다.
 
-2. **Mana Infusion:** As the performance continues, the bard infuses the sound waves with mana, creating a resonant enchantment field.
+2. **마나 주입 (Mana Infusion):** 연주가 계속됨에 따라 음유시인 (bard)은 음파에 마나를 주입하여 공명 마법 필드를 생성합니다.
 
-3. **Harmonic Expansion:** The mana-infused performance expands outward, seeking compatible mana signatures of allies.
+3. **하모닉 확장 (Harmonic Expansion):** 마나가 주입된 연주는 바깥쪽으로 확장되어 아군의 호환 가능한 마나 서명을 찾습니다.
 
-4. **Connection Establishment:** When the spell connects with an ally, a momentary flash of golden light may appear at the point of connection (visible only to those with magical sight).
+4. **연결 설정 (Connection Establishment):** 주문이 아군과 연결되면 연결 지점에 순간적인 금빛 섬광이 나타날 수 있습니다 (마법의 시력을 가진 사람만 볼 수 있음).
 
-5. **Maintenance:** The bard must maintain at least a subtle performance to sustain the effect for its duration.
+5. **유지 (Maintenance):** 음유시인 (bard)은 효과 지속 시간 동안 효과를 유지하기 위해 최소한 미묘한 연주를 유지해야 합니다.
 
-## Common Applications
+## 일반적인 응용 (Common Applications)
 
-- **Pre-Battle Inspiration:** Most commonly used before engaging in combat to prepare allies mentally and emotionally
-- **Fear Resistance:** Particularly effective against creatures that use fear as a weapon
-- **Morale Recovery:** Can reverse a deteriorating battlefield situation by restoring group confidence
-- **Performance Enhancement:** Used in non-combat situations to help allies perform under pressure
-- **Training Aid:** Helps novices overcome fear during intense training scenarios
+- **전투 전 영감 (Pre-Battle Inspiration):** 아군을 정신적, 감정적으로 준비시키기 위해 전투에 참여하기 전에 가장 일반적으로 사용됩니다.
+- **두려움 저항 (Fear Resistance):** 두려움을 무기로 사용하는 생물에게 특히 효과적입니다.
+- **사기 회복 (Morale Recovery):** 그룹의 자신감을 회복하여 악화되는 전장 상황을 반전시킬 수 있습니다.
+- **성능 향상 (Performance Enhancement):** 비전투 상황에서 아군이 압박 속에서 수행하는 데 도움을 주기 위해 사용됩니다.
+- **훈련 보조 (Training Aid):** 초보자가 강렬한 훈련 시나리오에서 두려움을 극복하는 데 도움이 됩니다.
 
-## Variations
+## 변형 (Variations)
 
-### Battle Anthem
-A more martially-focused version that enhances physical prowess at the expense of fear resistance.
-- **Mana Composition:** Shifts to 60% Base Mana, 15% Mentimana, 25% Vitomana
-- **Purity Required:** 25-35%
-- **Effect:** Combat enhancement increases to 20-35%, fear resistance reduced to 15-25%
+### 전투 찬가 (Battle Anthem)
+두려움 저항을 희생하여 물리적 기량을 향상시키는 보다 전투에 초점을 맞춘 버전입니다.
+- **마나 구성 (Mana Composition):** 기본 마나 60%, 멘티마나 15%, 비토마나 25%로 변경됩니다.
+- **순수성 요구 (Purity Required):** 25-35%
+- **효과 (Effect):** 전투 강화는 20-35%로 증가하고 두려움 저항은 15-25%로 감소합니다.
 
-### Heroic Resonance
-A sustained version that creates a longer-lasting but more subtle effect.
-- **Casting Time:** 30 seconds
-- **Duration:** Up to 1 hour
-- **Purity Required:** 35-45%
-- **Effect:** Provides 50% of standard combat enhancement but maintains fear resistance at full strength
+### 영웅적 공명 (Heroic Resonance)
+더 오래 지속되지만 더 미묘한 효과를 생성하는 지속적인 버전입니다.
+- **시전 시간 (Casting Time):** 30초
+- **지속 시간 (Duration):** 최대 1시간
+- **순수성 요구 (Purity Required):** 35-45%
+- **효과 (Effect):** 표준 전투 강화의 50%를 제공하지만 두려움 저항은 최대한으로 유지합니다.
 
-### Silent Valor
-A version that can be cast without audible components, relying on subtle body language and direct mana projection.
-- **Components:** Somatic only
-- **Range:** Reduced to 5 meters
-- **Purity Required:** 40-50%
-- **Effect:** Standard effects but more difficult to maintain and detect
+### 침묵의 용맹 (Silent Valor)
+미묘한 신체 언어와 직접적인 마나 투영에 의존하여 가청 구성 요소 없이 시전할 수 있는 버전입니다.
+- **구성 요소 (Components):** 신체만 해당
+- **범위 (Range):** 5미터로 감소
+- **순수성 요구 (Purity Required):** 40-50%
+- **효과 (Effect):** 표준 효과이지만 유지하고 감지하기가 더 어렵습니다.
 
-## Risks and Miscast Effects
+## 위험 및 시전 실패 효과 (Risks and Miscast Effects)
 
-### Overconfidence
-Insufficient control (purity below 20%) can cause recipients to become recklessly overconfident, leading them to underestimate dangers.
+### 과신 (Overconfidence)
+불충분한 제어 (순수성 20% 미만)로 인해 받는 사람이 무모하게 과신하게 되어 위험을 과소평가할 수 있습니다.
 
-### Emotional Dependency
-If the spell is maintained too long (beyond 10 minutes) or cast repeatedly within a short timeframe, recipients may develop temporary dependency, experiencing heightened fear when the effect ends.
+### 감정적 의존성 (Emotional Dependency)
+주문이 너무 오래 (10분 이상) 유지되거나 짧은 시간 내에 반복적으로 시전되면 받는 사람은 일시적인 의존성을 개발하여 효과가 끝나면 고조된 두려움을 경험할 수 있습니다.
 
-### Resonance Backlash
-Critical failure (purity below 15%) can create a reverse effect, momentarily amplifying fear responses instead of suppressing them.
+### 공명 반발 (Resonance Backlash)
+심각한 실패 (순수성 15% 미만)는 역효과를 일으켜 두려움 반응을 억제하는 대신 순간적으로 증폭시킬 수 있습니다.
 
-### Performance Pressure
-If the bard becomes the target of significant attacks while maintaining the spell, concentration checks are required to prevent premature termination of the effect.
+### 연주 압박 (Performance Pressure)
+음유시인 (bard)이 주문을 유지하는 동안 상당한 공격의 대상이 되면 효과의 조기 종료를 방지하기 위해 집중력 점검이 필요합니다.
 
-## Musical Analogy
+## 음악적 비유 (Musical Analogy)
 
-Casting Inspire Courage is like performing a military march that gradually shifts to a heroic anthem. The percussive elements establish rhythm (the spell's structure), while brass elements provide power (the courage enhancement) and melodic components create emotional resonance (the fear resistance). The performer must maintain the driving tempo while ensuring harmonies remain uplifting rather than aggressive.
+용기를 북돋우다 (Inspire Courage)를 시전하는 것은 점차 영웅적인 찬가로 바뀌는 군대 행진곡을 연주하는 것과 같습니다. 타악기 요소는 리듬 (주문의 구조)을 확립하고, 금관 악기 요소는 힘 (용기 강화)을 제공하고, 멜로디 구성 요소는 감정적 공명 (두려움 저항)을 만듭니다. 연주자는 조화가 공격적이기보다는 고양되도록 보장하면서 추진력 있는 템포를 유지해야 합니다.
 
-## Learning Progression
+## 학습 진행 (Learning Progression)
 
-| Stage | Description | Typical Timeline |
+| 단계 (Stage) | 설명 (Description) | 일반적인 시간 (Typical Timeline) |
 |-------|-------------|------------------|
-| **Novice** | Basic single-target version with minimal combat enhancement | 6-8 weeks of practice |
-| **Apprentice** | Small group effect (3-4 targets) with moderate enhancement | 4-6 months of practice |
-| **Adept** | Standard version affecting up to 10 allies with full effects | 1-2 years of practice |
-| **Master** | Extended range and duration with enhanced effects | 3-5 years of refinement |
+| **초보 (Novice)** | 최소한의 전투 강화를 통한 기본 단일 대상 버전 | 6-8주 연습 |
+| **견습생 (Apprentice)** | 적당한 강화를 통한 소규모 그룹 효과 (3-4 대상) | 4-6개월 연습 |
+| **숙련자 (Adept)** | 완전한 효과로 최대 10명의 아군에게 영향을 미치는 표준 버전 | 1-2년 연습 |
+| **달인 (Master)** | 향상된 효과로 확장된 범위 및 지속 시간 | 3-5년 연마 |
 
-## Historical Note
+## 역사적 참고 (Historical Note)
 
-Inspire Courage was first formalized by the Battle-Bards of the Crimson Legion during the Moonfall War. These specialized bards developed techniques to maintain morale against the unnatural fear induced by shadow-tainted creatures. The spell has been refined over generations, with each major bardic college adding its own variations and enhancements to the core technique.
+용기를 북돋우다 (Inspire Courage)는 Moonfall War (달빛 몰락 전쟁) 동안 Crimson Legion (진홍 군단)의 Battle-Bards (전투 음유시인)에 의해 처음 공식화되었습니다. 이 전문 음유시인 (bards)은 그림자 오염된 생물이 유발하는 부자연스러운 두려움에 맞서 사기를 유지하는 기술을 개발했습니다. 이 주문은 여러 세대에 걸쳐 개선되었으며, 각 주요 음유시인 (bardic) 대학은 핵심 기술에 자체 변형 및 개선 사항을 추가했습니다.
 
-The most famous recorded use was by Malian Silvervoice at the Battle of Thornvale Pass, where her performance allowed a force of 300 defenders to stand against over 2,000 attackers for three days until reinforcements arrived. 
+가장 유명한 기록은 Battle of Thornvale Pass (쏜베일 고개 전투)에서 Malian Silvervoice (말리안 실버보이스)가 연주한 것으로, 그녀의 연주는 300명의 수비군이 2,000명이 넘는 공격군에 맞서 증원군이 도착할 때까지 3일 동안 버틸 수 있게 했습니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
