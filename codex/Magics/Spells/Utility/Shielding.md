@@ -1,196 +1,200 @@
-# **Shielding**
+# **보호막**
 
-> *"The first lesson of magical defense is not to strengthen your walls, but to understand that protection flows from within—like music, a shield is not merely a barrier, but a resonance that redirects the hostile symphony around you."*  
-> — Sentinel Ilyra Swiftshield, Arcane Defense Master
+> *"마법 방어의 첫 번째 교훈은 벽을 강화하는 것이 아니라 보호가 내면에서 흘러나온다는 것을 이해하는 것입니다. 마치 음악처럼, 보호막은 단순한 장벽이 아니라 적대적인 교향곡을 당신 주위로 방향을 바꾸는 공명입니다."*  
+> — 센티넬 일리라 스위프트실드, 아케인 방어 마스터
 
-## Casting Information
-- **Difficulty**: Novice to Expert (depending on variant)
-- **Casting Time**: 1 second (basic shield), 2-3 seconds (advanced variants)
-- **Duration**: Concentration, up to 10 minutes (or until broken)
-- **Range**: Self or up to 30 feet (dependent on variant)
-- **Components**: Somatic, Verbal (optional enhancement)
+## 시전 정보
+- **난이도**: 초보자 ~ 전문가 (변형에 따라 다름)
+- **시전 시간**: 1초 (기본 보호막), 2-3초 (고급 변형)
+- **지속 시간**: 집중, 최대 10분 (또는 파괴될 때까지)
+- **범위**: 자신 또는 최대 30피트 (변형에 따라 다름)
+- **구성 요소**: 신체, 언어 (선택적 강화)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 70%, Terramana 20% (stability), Aeromana 10% (flexibility)
-- **Purity Required**: Basic (20-35%) for personal shield, Refined (35-55%) for advanced variants
-- **Minimum Mana Capacity**: 15% (larger/stronger shields require greater capacity)
-- **Pattern Complexity**: Low to High (2-tier for basic shield, up to 5-tier for specialized variants)
-- **Resonance Frequency**: Defensive harmonic in the mid-protective spectrum
+## 기술 세부 사항
+- **마나 유형 분포**: 기본 마나 70%, 테라마나 20% (안정성), 에어로마나 10% (유연성)
+- **요구되는 순도**: 개인 보호막의 경우 기본 (20-35%), 고급 변형의 경우 정제 (35-55%)
+- **최소 마나 용량**: 15% (더 크고 강한 보호막에는 더 큰 용량이 필요함)
+- **패턴 복잡성**: 낮음 ~ 높음 (기본 보호막의 경우 2단계, 특수 변형의 경우 최대 5단계)
+- **공명 주파수**: 중간 보호 스펙트럼의 방어적 하모닉
 
-## Core Principles
+## 핵심 원리
 
-Shielding converts mana into a semi-tangible protective field that deflects, absorbs, or nullifies incoming threats. Unlike purely physical barriers, magical shields operate through a resonance principle, creating a counter-frequency to disrupt hostile energies while allowing benign forces to pass through.
+보호막은 마나를 들어오는 위협을 굴절, 흡수 또는 무효화하는 반-실질적인 보호 필드로 변환합니다. 순전히 물리적인 장벽과는 달리 마법 보호막은 공명 원리를 통해 작동하여 유해한 에너지를 방해하는 반대 주파수를 생성하는 동시에 양성적인 힘이 통과하도록 합니다.
 
-The foundational pattern establishes:
+기초 패턴은 다음을 확립합니다.
 
-1. **Barrier Matrix**: The core protective field structure
-2. **Resonance Layer**: The component that identifies and counters threats
-3. **Stability Framework**: The support structure maintaining shield integrity
-4. **Energy Distribution Network**: The system dispersing impact forces
-5. **Permeability Control**: The optional component allowing selective filtering
+1. **장벽 매트릭스**: 핵심 보호 필드 구조
+2. **공명 레이어**: 위협을 식별하고 대응하는 구성 요소
+3. **안정성 프레임워크**: 보호막의 무결성을 유지하는 지원 구조
+4. **에너지 분배 네트워크**: 충격력을 분산시키는 시스템
+5. **투과성 제어**: 선택적 필터링을 허용하는 선택적 구성 요소
 
-## Standard Variants
+## 표준 변형
 
-### Personal Shield
-The fundamental protective barrier around the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (20-30%)
-- **Effect**: Creates a barrier absorbing physical and magical damage
-- **Typical Users**: All magic practitioners
-- **Applications**: Personal defense, training safety, emergency protection
+### 개인 보호막
+시전자 주위의 기본적인 보호 장벽:
+- **난이도**: 초보자
+- **순도 요구 사항**: 기본 (20-30%)
+- **효과**: 물리적 및 마법적 피해를 흡수하는 장벽 생성
+- **일반 사용자**: 모든 마법 사용자
+- **응용 분야**: 개인 방어, 훈련 안전, 비상 보호
 
-### Directed Shield
-A flat shield projected away from the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Creates a movable plane of protection to block specific threats
-- **Typical Users**: Battle Mages, Tactical Casters, Support Specialists
-- **Applications**: Protecting allies, blocking passages, deflecting projectiles
+### 지향성 보호막
+시전자로부터 투사되는 평평한 보호막:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (35-45%)
+- **효과**: 특정 위협을 막기 위해 움직일 수 있는 보호 평면 생성
+- **일반 사용자**: 전투 마법사, 전술 시전자, 지원 전문가
+- **응용 분야**: 아군 보호, 통로 막기, 발사체 굴절
 
-### Bubble Shield
-Expands protection to cover multiple individuals:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (40-50%)
-- **Effect**: Creates dome or sphere protecting several targets
-- **Typical Users**: Group Leaders, Defensive Specialists, Protectors
-- **Applications**: Group protection, safe zones, mobile coverage during retreats
+### 버블 보호막
+여러 개인을 덮도록 보호를 확장합니다:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (40-50%)
+- **효과**: 여러 대상을 보호하는 돔 또는 구체 생성
+- **일반 사용자**: 그룹 리더, 방어 전문가, 보호자
+- **응용 분야**: 그룹 보호, 안전 지대, 퇴각 중 모바일 커버리지
 
-## Advanced Variants
+## 고급 변형
 
-### Selective Filter Shield
-Allows specific elements or energies to pass through:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (55-65%)
-- **Effect**: Creates barriers permeable to chosen forces
-- **Typical Users**: Elemental Specialists, Advanced Practitioners
-- **Applications**: Allowing allies to attack through shields, environmental protection, selective filtering
+### 선택적 필터 보호막
+특정 요소 또는 에너지가 통과하도록 허용합니다:
+- **난이도**: 전문가
+- **순도 요구 사항**: 완벽 (55-65%)
+- **효과**: 선택된 힘에 투과성 있는 장벽 생성
+- **일반 사용자**: 원소 전문가, 고급 사용자
+- **응용 분야**: 아군이 보호막을 통해 공격하도록 허용, 환경 보호, 선택적 필터링
 
-### Reactive Shield
-Adapts to incoming threats automatically:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Shield analyzes and adapts to counter specific attacks
-- **Typical Users**: Duelists, Master Defenders, Elite Guards
-- **Applications**: Unknown threat protection, adaptive defense, magical counteraction
+### 반응형 보호막
+들어오는 위협에 자동으로 적응합니다:
+- **난이도**: 전문가
+- **순도 요구 사항**: 완벽 (60-70%)
+- **효과**: 보호막이 특정 공격에 대응하기 위해 분석하고 적응합니다.
+- **일반 사용자**: 결투가, 마스터 디펜더, 엘리트 가드
+- **응용 분야**: 알려지지 않은 위협 보호, 적응형 방어, 마법적 반격
 
-### Reflective Shield
-Returns energy to its source:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Redirects a portion of incoming energy back at attacker
-- **Typical Users**: Advanced Battle Mages, Specialist Defenders
-- **Applications**: Counterattack, energy conservation, deterrence
+### 반사형 보호막
+에너지를 소스로 되돌립니다:
+- **난이도**: 마스터
+- **순도 요구 사항**: 완벽 (65-75%)
+- **효과**: 들어오는 에너지의 일부를 공격자에게 다시 보냅니다.
+- **일반 사용자**: 고급 전투 마법사, 전문 방어자
+- **응용 분야**: 반격, 에너지 보존, 억제
 
-## Purity Influence on Effect
+## 효과에 미치는 순도 영향
 
-Mana purity directly affects shield strength, duration, and special properties:
+마나 순도는 보호막 강도, 지속 시간 및 특수 속성에 직접적인 영향을 미칩니다.
 
-| Purity Level | Shield Strength | Absorption Capacity | Special Properties | Duration |
+| 순도 레벨 | 보호막 강도 | 흡수 용량 | 특수 속성 | 지속 시간 |
 |--------------|----------------|---------------------|-------------------|----------|
-| 20-35% | Basic protection, visible shield | 25-40% damage reduction | None | 1-3 minutes |
-| 35-55% | Enhanced durability, less visible | 40-60% damage reduction | Basic filtering, limited mobility | 3-5 minutes |
-| 55-70% | High resilience, nearly invisible | 60-80% damage reduction | Advanced filtering, reactive properties | 5-8 minutes |
-| 70%+ | Superior protection, completely invisible | 80-95% damage reduction | Full reflection capabilities, adaptation | 8-10+ minutes |
+| 20-35% | 기본 보호, 보이는 보호막 | 25-40% 데미지 감소 | 없음 | 1-3 분 |
+| 35-55% | 내구성 향상, 덜 보임 | 40-60% 데미지 감소 | 기본 필터링, 제한된 이동성 | 3-5 분 |
+| 55-70% | 높은 탄성, 거의 보이지 않음 | 60-80% 데미지 감소 | 고급 필터링, 반응성 속성 | 5-8 분 |
+| 70%+ | 뛰어난 보호, 완전히 보이지 않음 | 80-95% 데미지 감소 | 완전한 반사 기능, 적응 | 8-10+ 분 |
 
-## Class-Specific Applications
+## 클래스별 응용 분야
 
-### Warrior Class
-- **Combat Shell**: Tight-fitting shield enhancing armor protection
-- **Breach Shield**: Forward-focused protection for charges
-- **Weapon Guard**: Selective shield protecting weapons from damage or tampering
-- **Footing Anchor**: Lower-body shield stabilizing position during combat
+### 전사 클래스
+- **전투 쉘**: 갑옷 보호를 강화하는 꽉 끼는 보호막
+- **돌파 보호막**: 돌격을 위한 전방 집중 보호
+- **무기 가드**: 손상 또는 변조로부터 무기를 보호하는 선택적 보호막
+- **발판 앵커**: 전투 중 자세를 안정시키는 하체 보호막
 
-### Rogue/Assassin Class
-- **Shadow Cloak**: Barely visible shield masking magical signature
-- **Impact Dampener**: Shield reducing sound and physical impacts
-- **Trace Obscurer**: Shield dispersing magical residue from activities
-- **Selective Barrier**: Allows weapons out but blocks incoming attacks
+### 도적/암살자 클래스
+- **그림자 망토**: 마법 서명을 가리는 거의 보이지 않는 보호막
+- **충격 완화 장치**: 소리 및 물리적 충격을 줄이는 보호막
+- **흔적 은폐기**: 활동으로 인한 마법적 잔류물을 분산시키는 보호막
+- **선택적 장벽**: 무기가 밖으로 나갈 수 있지만 들어오는 공격은 막습니다.
 
-### Ranger Class
-- **Environmental Buffer**: Shield protecting from terrain hazards
-- **Arrow Screen**: Specialized shield allowing outgoing projectiles while blocking incoming ones
-- **Companion Guard**: Projectable shield to protect animal companions
-- **Sensory Shield**: Protection against sensory overload or manipulation
+### 레인저 클래스
+- **환경 버퍼**: 지형 위험으로부터 보호하는 보호막
+- **화살 스크린**: 들어오는 발사체를 막으면서 나가는 발사체를 허용하는 특수 보호막
+- **동반자 가드**: 동물 동반자를 보호하는 투사 가능한 보호막
+- **감각 보호막**: 감각 과부하 또는 조작으로부터 보호
 
-### Mage Class
-- **Concentration Sphere**: Shield blocking distractions during complex casting
-- **Spell Containment**: Barrier keeping volatile magic effects controlled
-- **Mana Conservation Bubble**: Shield recycling leaked mana back to caster
-- **Layered Defense**: Multiple specialized shields for comprehensive protection
+### 마법사 클래스
+- **집중 구체**: 복잡한 시전 중 방해를 막는 보호막
+- **주문 격리**: 휘발성 마법 효과를 제어하는 장벽
+- **마나 보존 버블**: 누출된 마나를 시전자에게 다시 재활용하는 보호막
+- **계층화된 방어**: 포괄적인 보호를 위한 여러 개의 특수 보호막
 
-## Training Progression
+## 훈련 진행
 
-### Fundamental Shielding
-- Energy projection and containment exercises
-- Barrier visualization and manifestation
-- Basic impact absorption techniques
-- Shield maintenance under minor stress
+### 기본 보호막
+- 에너지 투사 및 격리 연습
+- 장벽 시각화 및 발현
+- 기본 충격 흡수 기술
+- 약한 스트레스 하에서의 보호막 유지 관리
 
-### Intermediate Applications
-- Moving and repositioning shields while maintaining integrity
-- Extending protection to others
-- Shaping shields for specific tactical situations
-- Efficiency training for reduced mana consumption
+### 중간 응용 분야
+- 무결성을 유지하면서 보호막 이동 및 재배치
+- 다른 사람에게 보호 확대
+- 특정 전술 상황에 맞게 보호막 모양 만들기
+- 마나 소비 감소를 위한 효율성 훈련
 
-### Advanced Mastery
-- Reactive shield programming
-- Multi-layer shield construction
-- Energy reflection and redirection
-- Integrating shields with other magical effects
+### 고급 숙달
+- 반응형 보호막 프로그래밍
+- 다중 레이어 보호막 구성
+- 에너지 반사 및 방향 전환
+- 다른 마법 효과와 보호막 통합
 
-## Risk Factors
+## 위험 요소
 
-### Common Mishaps
-- **Shield Inversion**: Protection directed inward, trapping the caster
-- **Resonance Cascade**: Shield amplifying rather than blocking energy
-- **Pattern Collapse**: Sudden shield failure under stress
-- **Mana Drain Spiral**: Excessive energy consumption depleting caster
-- **Brittleness**: Shield shattering rather than absorbing impact
+### 일반적인 실수
+- **보호막 반전**: 보호가 안쪽으로 향하여 시전자 가두기
+- **공명 폭포**: 에너지를 막는 대신 증폭시키는 보호막
+- **패턴 붕괴**: 스트레스 하에서 갑작스러운 보호막 실패
+- **마나 드레인 스파이럴**: 과도한 에너지 소비로 시전자 고갈
+- **취약성**: 충격을 흡수하기보다는 부서지는 보호막
 
-### Safety Practices
-- Regular shield strength testing under controlled conditions
-- Practicing emergency shield dissolution techniques
-- Developing shield layers with independent failure points
-- Training with gradually increasing threat levels
-- Establishing personal shield limitations
+### 안전 수칙
+- 통제된 조건 하에서 정기적인 보호막 강도 테스트
+- 비상 보호막 용해 기술 연습
+- 독립적인 실패 지점이 있는 보호막 레이어 개발
+- 점진적으로 증가하는 위협 수준으로 훈련
+- 개인 보호막 제한 설정
 
-## Shield Variations by Threat Type
+## 위협 유형별 보호막 변형
 
-### Physical Protection
-Shields specialized against material threats:
-- **Impact Shields**: Absorb kinetic energy from blunt force
-- **Penetration Barriers**: Resist piercing from arrows, blades
-- **Friction Dampeners**: Reduce damage from abrasive forces
-- **Pressure Equalizers**: Protect against crushing or explosive forces
+### 물리적 보호
+물질적 위협에 특화된 보호막:
+- **충격 보호막**: 둔력에서 운동 에너지 흡수
+- **침투 장벽**: 화살, 칼날의 관통 저항
+- **마찰 댐퍼**: 연마력으로 인한 손상 감소
+- **압력 이퀄라이저**: 파괴 또는 폭발력으로부터 보호
 
-### Energy Defense
-Shields tailored to magical and elemental threats:
-- **Thermal Barriers**: Insulate against heat and cold
-- **Arcane Dispersal Fields**: Diffuse magical energy attacks
-- **Elemental Filters**: Specialized protection against specific elements
-- **Harmonic Dampeners**: Neutralize sound-based or vibrational attacks
+### 에너지 방어
+마법 및 원소 위협에 맞춘 보호막:
+- **열 장벽**: 열과 추위로부터 절연
+- **신비 분산 필드**: 마법 에너지 공격 확산
+- **원소 필터**: 특정 요소에 대한 전문 보호
+- **고조파 댐퍼**: 소리 기반 또는 진동 공격 무력화
 
-### Status Protection
-Shields against non-damaging magical effects:
-- **Mind Wards**: Protect against mental intrusion or influence
-- **Curse Barriers**: Repel malicious enchantments
-- **Transmutation Inhibitors**: Prevent unwanted transformative effects
-- **Temporal Stabilizers**: Shield against time manipulation
+### 상태 보호
+손상되지 않는 마법 효과에 대한 보호막:
+- **정신 방벽**: 정신적 침입 또는 영향으로부터 보호
+- **저주 장벽**: 악의적인 마법 거부
+- **변환 억제제**: 원치 않는 변환 효과 방지
+- **시간 안정 장치**: 시간 조작으로부터 보호
 
-## Historical Development
+## 역사적 발전
 
-Shielding magic represents one of the oldest and most fundamental protective arts, dating back to the Dawn Era when early mages sought defense against both natural and supernatural threats. The Arcane Sentinels of the Second Age formalized the art into distinct disciplines, establishing the foundational patterns still used today.
+보호막 마법은 초기 마법사가 자연적 및 초자연적 위협으로부터 방어를 추구했을 때 새벽 시대로 거슬러 올라가는 가장 오래되고 가장 기본적인 보호 예술 중 하나입니다. 2시대의 아케인 센티넬은 이 예술을 뚜렷한 분야로 공식화하여 오늘날에도 여전히 사용되는 기초 패턴을 확립했습니다.
 
-The Mage Wars saw explosive development in shielding techniques as practitioners sought ever more effective defenses against increasingly powerful offensive magic. Modern shielding draws heavily from the innovations of Ilyra Swiftshield, whose revolutionary understanding of resonance patterns transformed shields from mere barriers into dynamic, responsive defenses.
+마법사 전쟁은 실무자들이 점점 더 강력한 공격 마법에 대한 더 효과적인 방어를 추구하면서 보호막 기술의 폭발적인 발전을 보았습니다. 현대 보호막은 공명 패턴에 대한 혁신적인 이해가 단순한 장벽에서 역동적이고 반응적인 방어로 보호막을 변형시킨 일리라 스위프트실드의 혁신에서 크게 비롯됩니다.
 
-> *"A novice creates a wall. An adept creates a filter. A master creates a conversation between energies—the shield does not fight the incoming force, but rather invites it to flow elsewhere."* — From "Dialogues on Defense," Ilyra Swiftshield's premier text
+> *"초심자는 벽을 만듭니다. 숙련자는 필터를 만듭니다. 마스터는 에너지 간의 대화를 만듭니다. 보호막은 들어오는 힘과 싸우는 것이 아니라 다른 곳으로 흐르도록 초대합니다."* — 일리라 스위프트실드의 대표적인 텍스트인 "방어에 대한 대화"에서 발췌
 
-## Practical Notes
+## 실용적인 참고 사항
 
-Shield spells are often among the first defensive magic taught to novices, as even imperfect shields provide valuable protection during training. Many practitioners develop highly personalized shielding techniques, adapting the basic patterns to their specific needs and mana characteristics.
+보호막 주문은 종종 초보자에게 가르치는 첫 번째 방어 마법 중 하나이며, 불완전한 보호막조차도 훈련 중에 귀중한 보호를 제공합니다. 많은 실무자들이 특정 요구 사항 및 마나 특성에 맞게 기본 패턴을 조정하여 고도로 개인화된 보호막 기술을 개발합니다.
 
-The most advanced shield masters can maintain multiple layered defenses simultaneously, each calibrated to different threat types, creating a comprehensive protective system that approaches true invulnerability—though at significant mana cost.
+가장 진보된 보호막 마스터는 동시에 여러 개의 계층화된 방어를 유지할 수 있으며, 각 방어는 다양한 위협 유형에 맞게 보정되어 진정한 무적에 가까운 포괄적인 보호 시스템을 만듭니다. 물론 상당한 마나 비용이 들지만요.
 
 ---
 
-*See also: [Barrier Magic](/codex/Magics/Schools/Abjuration.md), [Defensive Fundamentals](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Combat Countermeasures](/codex/Magics/Spells/Combat/CombatCountermeasures.md)* 
+*참조: [장벽 마법](/codex/Magics/Schools/Abjuration.md), [방어 기본 사항](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [전투 대응책](/codex/Magics/Spells/Combat/CombatCountermeasures.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

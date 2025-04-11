@@ -1,222 +1,226 @@
-# **Gravity Field**
+# **중력장 (Gravity Field)**
 
-> *"Gravity is not a mere force but a relationship between mass and space—understanding this principle allows us not to defy it, but to reinterpret it."*  
-> — Magister Theia Voidwalker, Gravity Arts Pioneer
+> *"중력은 단순한 힘이 아니라 질량과 공간의 관계이다. 이 원리를 이해하면 중력을 거스르는 것이 아니라 재해석할 수 있다."*
+> — 중력 예술 개척자, 마기스터 테이아 보이드워커
 
-## Casting Information
-- **Difficulty**: Intermediate to Expert
-- **Casting Time**: 3-8 seconds
-- **Duration**: Concentration, up to 3 minutes
-- **Range**: Self-centered sphere, 5-20 foot radius
-- **Components**: Somatic, Verbal, Focus (for advanced applications)
+## 시전 정보
+- **난이도**: 중급 ~ 숙련
+- **시전 시간**: 3-8초
+- **지속 시간**: 집중, 최대 3분
+- **범위**: 자기 중심 구체, 반경 5-20피트
+- **구성 요소**: 신체, 언어, 집중 (고급 응용)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 65%, Terramana 20%, Aeromana 15%
-- **Primary Factor**: Training and Technical Execution (more significant than purity)
-- **Minimum Mana Capacity**: 25% (Higher capacity extends radius and duration)
-- **Pattern Complexity**: Moderate to Complex (5-tier nested gravity matrix)
-- **Resonance Frequency**: Ultra-low frequency physical spectrum
-- **Roaming Mana Utilization**: Very High (Optimized to operate at regeneration threshold)
+## 기술 세부 사항
+- **마나 유형 분포**: 기본 마나 65%, 테라마나 20%, 에어로마나 15%
+- **주요 요인**: 훈련 및 기술적 실행 (순도보다 더 중요)
+- **최소 마나 용량**: 25% (더 높은 용량은 반경 및 지속 시간을 연장함)
+- **패턴 복잡성**: 중간 ~ 복잡 (5단계 중첩 중력 매트릭스)
+- **공명 주파수**: 초저주파 물리 스펙트럼
+- **로밍 마나 활용**: 매우 높음 (재생 임계값에서 작동하도록 최적화됨)
 
-## Core Principles
+## 핵심 원리
 
-Gravity Field manipulates the fundamental force of gravity within a defined area. Unlike simpler directional force spells, Gravity Field creates a persistent area where gravity's strength and direction can be altered. This makes it particularly useful for area control, mobility enhancement, and environmental manipulation.
+중력장 (Gravity Field)은 정의된 영역 내에서 중력의 근본적인 힘을 조작합니다. 더 간단한 방향 힘 주문과는 달리 중력장 (Gravity Field)은 중력의 강도와 방향을 변경할 수 있는 지속적인 영역을 만듭니다. 따라서 영역 제어, 이동성 향상 및 환경 조작에 특히 유용합니다.
 
-The spell functions through a complex pattern that establishes:
+이 주문은 다음을 설정하는 복잡한 패턴을 통해 작동합니다.
 
-1. **Field Boundary**: The defined sphere of influence
-2. **Gravitational Constant Modifier**: The amplification or reduction factor applied to normal gravity
-3. **Directional Matrix**: The optional reorientation of gravitational pull
-4. **Stability Framework**: The pattern elements maintaining field coherence
-5. **Selectivity Filter**: The optional component allowing selective application to specific targets
+1. **필드 경계**: 정의된 영향권
+2. **중력 상수 수정자**: 일반 중력에 적용되는 증폭 또는 감소 계수
+3. **방향 매트릭스**: 중력 당김의 선택적 방향 전환
+4. **안정성 프레임워크**: 필드 일관성을 유지하는 패턴 요소
+5. **선택성 필터**: 특정 대상에 선택적으로 적용할 수 있는 선택적 구성 요소
 
-What distinguishes Gravity Field from many other combat spells is its reliance on technical execution rather than mana purity. While quality mana certainly helps, masters of this discipline focus primarily on precise pattern manipulation and field stability techniques. This allows practitioners with only moderate purity levels to achieve remarkable effects through dedicated training and applied understanding of gravitational principles.
+중력장 (Gravity Field)이 다른 많은 전투 주문과 구별되는 점은 마나 순도보다는 기술적 실행에 대한 의존성입니다. 양질의 마나가 확실히 도움이 되지만, 이 분야의 마스터는 주로 정확한 패턴 조작 및 필드 안정화 기술에 집중합니다. 이를 통해 적당한 순도 수준만 가진 수행자도 헌신적인 훈련과 중력 원리에 대한 적용된 이해를 통해 놀라운 효과를 달성할 수 있습니다.
 
-## Standard Variants
+## 표준 변형
 
-### Gravity Reduction Field
-Creates an area of reduced gravity, ideal for group mobility:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Reduces gravity by 30-70% for all objects and beings in the area
-- **Typical Users**: Battle Mages, Scouts, Infiltration Teams
-- **Applications**: Group enhanced jumping, fall damage reduction, weight reduction for crossing unstable terrain
+### 중력 감소 필드 (Gravity Reduction Field)
+그룹 이동성에 이상적인 중력 감소 영역을 생성합니다.
+- **난이도**: 중급
+- **순도 요구 사항**: 정제됨 (30-40%)
+- **효과**: 해당 영역의 모든 물체와 존재에 대해 중력을 30-70% 감소시킵니다.
+- **일반 사용자**: 전투 마법사, 정찰병, 침투 팀
+- **응용**: 그룹 점프 향상, 낙하 피해 감소, 불안정한 지형 횡단을 위한 무게 감소
 
-### Gravity Enhancement Field
-Increases gravitational pull in the target area:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%) 
-- **Effect**: Increases effective gravity by 50-200% within area
-- **Typical Users**: Battle Mages, Tactical Casters, Defenders
-- **Applications**: Slowing enemy movement, preventing jumps/flight, securing loose objects
+### 중력 강화 필드 (Gravity Enhancement Field)
+대상 영역에서 중력 당김을 증가시킵니다.
+- **난이도**: 중급
+- **순도 요구 사항**: 정제됨 (35-45%)
+- **효과**: 해당 영역 내에서 유효 중력을 50-200% 증가시킵니다.
+- **일반 사용자**: 전투 마법사, 전술 캐스터, 수비수
+- **응용**: 적의 이동 속도 저하, 점프/비행 방지, 느슨한 물체 고정
 
-### Gravity Direction Shift
-Alters the direction of gravitational pull:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Changes which direction is "down" within the field
-- **Typical Users**: Elite Mages, Special Forces
-- **Applications**: Creating walking surfaces on walls/ceilings, redirecting projectiles, disorienting enemies
+### 중력 방향 전환 (Gravity Direction Shift)
+중력 당김의 방향을 변경합니다.
+- **난이도**: 고급
+- **순도 요구 사항**: 정제됨 ~ 완벽 (45-65%)
+- **효과**: 필드 내에서 "아래" 방향을 변경합니다.
+- **일반 사용자**: 엘리트 마법사, 특수 부대
+- **응용**: 벽/천장에 걷는 표면 만들기, 발사체 방향 전환, 적군 혼란
 
-## Advanced Variants
+## 고급 변형
 
-### Selective Gravity Field
-Affects only specified targets within the area:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Applies gravity effects only to selected targets
-- **Typical Users**: Master Battle Mages, Elite Controllers
-- **Applications**: Immobilizing specific enemies while allies move freely, targeted equipment disruption
+### 선택적 중력장 (Selective Gravity Field)
+영역 내에서 지정된 대상에만 영향을 줍니다.
+- **난이도**: 숙련
+- **순도 요구 사항**: 완벽 (65-75%)
+- **효과**: 선택된 대상에만 중력 효과를 적용합니다.
+- **일반 사용자**: 마스터 전투 마법사, 엘리트 컨트롤러
+- **응용**: 아군이 자유롭게 이동하는 동안 특정 적을 고정, 표적 장비 파괴
 
-### Gravity Singularity
-Creates a central point of intense gravitational attraction:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-85%)
-- **Effect**: Generates powerful inward pull toward field center
-- **Typical Users**: Master Mages, Elite Specialists
-- **Applications**: Pulling enemies together, collecting scattered objects, creating defensive perimeter
+### 중력 특이점 (Gravity Singularity)
+강렬한 중력 인력의 중심점을 만듭니다.
+- **난이도**: 마스터
+- **순도 요구 사항**: 완벽 (70-85%)
+- **효과**: 필드 중심으로 강력한 안쪽 당김을 생성합니다.
+- **일반 사용자**: 마스터 마법사, 엘리트 전문가
+- **응용**: 적을 한데 모으기, 흩어진 물건 모으기, 방어 경계 만들기
 
-### Zero Gravity Bubble
-Creates a perfect gravity-null environment:
-- **Difficulty**: Grandmaster
-- **Purity Requirement**: Perfect (80-90%)
-- **Effect**: Completely negates gravitational forces within field
-- **Typical Users**: Archmages, Theoretical Specialists
-- **Applications**: True flight, perfect weightlessness, delicate operation environments for crafting
+### 제로 중력 버블 (Zero Gravity Bubble)
+완벽한 중력 널 (null) 환경을 만듭니다.
+- **난이도**: 그랜드마스터
+- **순도 요구 사항**: 완벽 (80-90%)
+- **효과**: 필드 내에서 중력을 완전히 무효화합니다.
+- **일반 사용자**: 대마법사, 이론 전문가
+- **응용**: 진정한 비행, 완벽한 무중력, 제작을 위한 섬세한 작업 환경
 
-## Purity Influence on Effect
+## 효과에 미치는 순도 영향
 
-Mana purity significantly impacts field stability, control, and scale:
+마나 순도는 필드 안정성, 제어 및 규모에 큰 영향을 미칩니다.
 
-| Purity Level | Field Stability | Control Level | Maximum Field Radius | Duration |
+| 순도 레벨 | 필드 안정성 | 제어 레벨 | 최대 필드 반경 | 지속 시간 |
 |--------------|----------------|---------------|----------------------|----------|
-| 30-40% | Fluctuating, minor inconsistencies | Basic alteration | 5-10 feet | Up to 1 minute |
-| 40-60% | Stable with defined boundary | Precise adjustment, directional control | 10-15 feet | Up to 2 minutes |
-| 60-80% | Highly stable with crisp boundary | Fine-tuned control, selective application | 15-20 feet | Up to 3 minutes |
-| 80%+ | Perfect stability with manipulable boundary | Complete mastery, dynamic adjustments | 20-30 feet | Up to 5 minutes |
+| 30-40% | 변동, 사소한 불일치 | 기본 변경 | 5-10 피트 | 최대 1분 |
+| 40-60% | 정의된 경계가 있는 안정적 | 정밀 조정, 방향 제어 | 10-15 피트 | 최대 2분 |
+| 60-80% | 선명한 경계가 있는 매우 안정적 | 미세 조정 제어, 선택적 적용 | 15-20 피트 | 최대 3분 |
+| 80%+ | 조작 가능한 경계를 가진 완벽한 안정성 | 완전한 숙달, 동적 조정 | 20-30 피트 | 최대 5분 |
 
-## Class-Specific Applications
+## 클래스별 응용
 
-### Warrior Class
-- **Gravity Armor**: Localized field reducing weight of heavy armor
-- **Ground Slam**: Enhanced downward force during leaping attacks
-- **Gravity Anchor**: Increased stability during defensive maneuvers
-- **Pursuit Enhancement**: Reduced gravity for closing distance to fleeing targets
+### 전사 클래스
+- **중력 갑옷 (Gravity Armor)**: 무거운 갑옷의 무게를 줄이는 국소화된 필드
+- **지면 강타 (Ground Slam)**: 도약 공격 중 강화된 하향력
+- **중력 닻 (Gravity Anchor)**: 방어 기동 중 안정성 증가
+- **추격 강화 (Pursuit Enhancement)**: 도망치는 대상과의 거리를 좁히기 위해 중력 감소
 
-### Rogue/Assassin Class
-- **Wall Runner**: Shifting gravity to enable movement along vertical surfaces
-- **Featherfall**: Emergency gravity reduction to avoid fall damage
-- **Silent Approach**: Weight reduction for stealth movement
-- **Gravity Pocket**: Local field for increasing thrown weapon impact
+### 도적/암살자 클래스
+- **벽 달리기 (Wall Runner)**: 수직 표면을 따라 이동할 수 있도록 중력 이동
+- **깃털 낙하 (Featherfall)**: 낙하 피해를 피하기 위한 비상 중력 감소
+- **조용한 접근 (Silent Approach)**: 은신 이동을 위한 무게 감소
+- **중력 주머니 (Gravity Pocket)**: 던져진 무기의 충격을 증가시키는 국소 필드
 
-### Ranger Class
-- **Tactical Reposition**: Enhanced mobility in natural environments
-- **Canopy Traversal**: Gravity manipulation for tree-to-tree movement
-- **Arrow Storm Control**: Selective gravity to guide multiple projectiles
-- **Beast Master Aid**: Assisting animal companions with difficult terrain
+### 레인저 클래스
+- **전술적 재배치 (Tactical Reposition)**: 자연 환경에서 이동성 향상
+- **캐노피 횡단 (Canopy Traversal)**: 나무에서 나무로 이동하기 위한 중력 조작
+- **화살 폭풍 제어 (Arrow Storm Control)**: 여러 발사체를 유도하는 선택적 중력
+- **야수 마스터 지원 (Beast Master Aid)**: 어려운 지형에서 동물 동반자를 돕기
 
-### Mage Class
-- **Levitation Field**: Group floating for crossing hazardous ground
-- **Laboratory Environment**: Controlled gravity for delicate arcane experiments
-- **Defensive Orbit**: Floating protective objects around caster
-- **Ritual Enhancement**: Manipulating components in three dimensions
+### 마법사 클래스
+- **공중 부양 필드 (Levitation Field)**: 위험한 지면을 가로지르는 그룹 부유
+- **실험실 환경 (Laboratory Environment)**: 섬세한 비전 실험을 위해 제어된 중력
+- **방어 궤도 (Defensive Orbit)**: 시전자 주위에 떠다니는 보호 물체
+- **의식 강화 (Ritual Enhancement)**: 3차원으로 구성 요소 조작
 
-## Technical Mastery and Effect
+## 기술 숙달 및 효과
 
-Unlike many complex spells, Gravity Field depends more on technique and training than on mana purity:
+많은 복잡한 주문과 달리 중력장 (Gravity Field)은 마나 순도보다 기술과 훈련에 더 의존합니다.
 
-| Training Level | Field Control | Area Coverage | Effect Intensity | Sustainability |
+| 훈련 레벨 | 필드 제어 | 영역 범위 | 효과 강도 | 지속 가능성 |
 |----------------|---------------|---------------|------------------|----------------|
-| Novice | Basic uniform gravity change | 5-foot radius | 30-50% gravity modification | High energy cost, brief duration |
-| Intermediate | Stable field with consistent boundary | 5-10 foot radius | 50-100% gravity modification | Moderate efficiency, short durations |
-| Advanced | Field shaping and directional control | 10-15 foot radius | 50-200% gravity modification | Efficient use, combat-viable duration |
-| Master | Selective targeting and gradient effects | 15-25 foot radius | 25-300% gravity modification | Optimized for regeneration equilibrium |
+| 초보 | 기본 균일 중력 변화 | 반경 5피트 | 30-50% 중력 수정 | 높은 에너지 비용, 짧은 지속 시간 |
+| 중급 | 일관된 경계를 가진 안정적인 필드 | 반경 5-10피트 | 50-100% 중력 수정 | 적당한 효율성, 짧은 지속 시간 |
+| 고급 | 필드 형성 및 방향 제어 | 반경 10-15피트 | 50-200% 중력 수정 | 효율적인 사용, 전투 가능한 지속 시간 |
+| 마스터 | 선택적 타겟팅 및 그라데이션 효과 | 반경 15-25피트 | 25-300% 중력 수정 | 재생 평형에 최적화됨 |
 
-Gravity Field practitioners develop specialized techniques to utilize ambient roaming mana, allowing them to maintain effects at the threshold of their natural mana regeneration. By establishing an energy equilibrium, expert users can sustain fields for extended periods, limited primarily by concentration rather than mana depletion.
+중력장 (Gravity Field) 수행자는 주변 로밍 마나를 활용하는 특수 기술을 개발하여 자연 마나 재생의 임계값에서 효과를 유지할 수 있습니다. 에너지 평형을 설정함으로써 숙련된 사용자는 마나 고갈보다는 주로 집중력에 의해 제한되는 필드를 장기간 유지할 수 있습니다.
 
-## Mana Capacity and Field Relationship
+## 마나 용량 및 필드 관계
 
-The primary limiting factor in Gravity Field manipulation is the relationship between mana capacity and field size/strength:
+중력장 (Gravity Field) 조작의 주요 제한 요인은 마나 용량과 필드 크기/강도 간의 관계입니다.
 
-| Mana Capacity | Maximum Sustainable Radius | Maximum Intensity | Duration at Maximum Exertion |
+| 마나 용량 | 최대 지속 가능한 반경 | 최대 강도 | 최대 노력 시 지속 시간 |
 |---------------|----------------------------|-------------------|------------------------------|
-| 25-35% | 5-10 foot radius | ±100% gravity | 1-2 minutes (sustainable) |
-| 36-50% | 10-15 foot radius | ±150% gravity | 1-2 minutes (sustainable) |
-| 51-65% | 15-20 foot radius | ±200% gravity | 30-60 seconds (approaching regeneration limit) |
-| 66-80% | 20-25 foot radius | ±250% gravity | 15-30 seconds (exceeds regeneration) |
-| 81%+ | 25-30 foot radius | ±300% gravity | Brief tactical use only (rapidly depletes reserves) |
+| 25-35% | 반경 5-10피트 | ±100% 중력 | 1-2분 (지속 가능) |
+| 36-50% | 반경 10-15피트 | ±150% 중력 | 1-2분 (지속 가능) |
+| 51-65% | 반경 15-20피트 | ±200% 중력 | 30-60초 (재생 한계에 접근) |
+| 66-80% | 반경 20-25피트 | ±250% 중력 | 15-30초 (재생 초과) |
+| 81%+ | 반경 25-30피트 | ±300% 중력 | 짧은 전술적 용도만 (매우 빠르게 저장량 고갈) |
 
-Experienced practitioners typically operate at 75-85% of their maximum capacity, creating a balance between tactical effectiveness and sustainable duration. Some develop specialized techniques to periodically pulse stronger effects then return to sustainable levels, creating rhythm-based combat styles.
+숙련된 수행자는 일반적으로 최대 용량의 75-85%에서 작동하여 전술적 효과와 지속 가능한 지속 시간 간의 균형을 만듭니다. 일부는 더 강력한 효과를 주기적으로 펄스한 다음 지속 가능한 수준으로 돌아가는 특수 기술을 개발하여 리듬 기반 전투 스타일을 만듭니다.
 
-## Training Progression
+## 훈련 진행
 
-### Basic Understanding
-- Mastering the foundational gravity reduction technique
-- Learning to maintain field boundaries
-- Practicing personal weight adjustment
-- Simple area effect generation
-- Roaming mana sensitivity development
+### 기본 이해
+- 기본적인 중력 감소 기술 습득
+- 필드 경계 유지 학습
+- 개인 체중 조절 연습
+- 간단한 영역 효과 생성
+- 로밍 마나 감도 개발
 
-### Intermediate Control
-- Developing field stability under stressful conditions
-- Learning to modulate gravity strength dynamically
-- Beginning direction control exercises
-- Expanding field radius while maintaining stability
-- Regeneration synchronization techniques
+### 중간 제어
+- 스트레스가 많은 조건에서 필드 안정성 개발
+- 중력 강도를 동적으로 조절하는 방법 학습
+- 방향 제어 운동 시작
+- 안정성을 유지하면서 필드 반경 확장
+- 재생 동기화 기술
 
-### Advanced Manipulation
-- Mastering directional control
-- Developing selective targeting within field
-- Practicing field shape alteration
-- Combining with other spell systems
-- Ambient mana harvesting optimization
+### 고급 조작
+- 방향 제어 숙달
+- 필드 내에서 선택적 타겟팅 개발
+- 필드 모양 변경 연습
+- 다른 주문 시스템과 결합
+- 주변 마나 수확 최적화
 
-### Master Techniques
-- Gravity gradient creation
-- Multi-zone field establishment
-- Pulsed effect timing systems
-- Sustainable field rotation
-- Combat movement integration
+### 마스터 기술
+- 중력 그라데이션 생성
+- 다중 영역 필드 구축
+- 펄스 효과 타이밍 시스템
+- 지속 가능한 필드 회전
+- 전투 동작 통합
 
-## Technical Considerations
+## 기술 고려 사항
 
-- **Regeneration Equilibrium**: Finding the balance point between field strength and natural mana recovery
-- **Ambient Energy Integration**: Methods to supplement personal reserves with environmental mana
-- **Field Boundary Efficiency**: Minimizing energy loss at the edges of the gravity field
-- **Pattern Compression**: Techniques to reduce unnecessary complexity in field matrices
-- **Momentum Conservation**: Understanding how changes in gravitational force affect energy requirements
-- **Cyclic Reinforcement**: Creating field patterns that partially self-sustain through gravitational feedback
+- **재생 평형**: 필드 강도와 자연 마나 회복 사이의 균형점 찾기
+- **주변 에너지 통합**: 환경 마나로 개인 저장량을 보충하는 방법
+- **필드 경계 효율성**: 중력장 가장자리에서의 에너지 손실 최소화
+- **패턴 압축**: 필드 매트릭스의 불필요한 복잡성을 줄이는 기술
+- **운동량 보존**: 중력 변화가 에너지 요구 사항에 미치는 영향 이해
+- **주기적 강화**: 중력 피드백을 통해 부분적으로 자급자족하는 필드 패턴 생성
 
-## Risk Factors
+## 위험 요소
 
-### Common Mishaps
-- **Field Collapse**: Sudden return to normal gravity causing falls or crashes
-- **Inversion Feedback**: Unintended reversal of gravitational direction
-- **Boundary Instability**: Erratic field edge causing unpredictable effects
-- **Casting Disorientation**: Spatial confusion affecting the caster's balance
-- **Singularity Formation**: Unintended central gravity well forming within field
+### 일반적인 사고
+- **필드 붕괴**: 갑작스러운 정상 중력으로의 복귀로 인한 낙상 또는 충돌
+- **반전 피드백**: 의도하지 않은 중력 방향 역전
+- **경계 불안정**: 예측할 수 없는 효과를 유발하는 불규칙한 필드 가장자리
+- **시전 방향 감각 상실**: 시전자의 균형에 영향을 미치는 공간적 혼란
+- **특이점 형성**: 필드 내에서 형성되는 의도하지 않은 중심 중력 우물
 
-### Safety Practices
-- Training in controlled environments with safety equipment
-- Practicing with lightweight objects before self-application
-- Gradual field expansion technique to maintain control
-- Emergency field dissolution technique
-- Maintaining grounding anchor point awareness
+### 안전 수칙
+- 안전 장비를 갖춘 제어된 환경에서 훈련
+- 자가 적용 전에 경량 물체로 연습
+- 제어를 유지하기 위한 점진적인 필드 확장 기술
+- 비상 필드 해체 기술
+- 접지 앵커 포인트 인식 유지
 
-## Historical Development
+## 역사적 개발
 
-Gravity Field manipulation emerged during the late Second Age when theoretical mages began exploring the fundamental forces beyond elemental magic. The pioneering work of the Orbital Circle, a secretive mage society, established the core principles still used today.
+중력장 (Gravity Field) 조작은 이론적 마법사가 원소 마법을 넘어 근본적인 힘을 탐구하기 시작한 제2시대 후기에 등장했습니다. 비밀 마법사 협회인 오비탈 서클의 선구적인 작업은 오늘날에도 여전히 사용되는 핵심 원칙을 확립했습니다.
 
-Early application of the art was limited by the prevailing belief that only those with exceptional mana purity could achieve meaningful gravitational effects. This changed dramatically when Theia Voidwalker, a battle mage with only moderate purity levels, demonstrated the superiority of technical execution over raw magical quality. Her revolutionary "Technique Over Purity" doctrine transformed gravitational magic from an esoteric scholarly pursuit into a practical combat discipline accessible to warriors with basic magical training.
+이 기술의 초기 적용은 뛰어난 마나 순도를 가진 사람만이 의미 있는 중력 효과를 달성할 수 있다는 지배적인 믿음에 의해 제한되었습니다. 이는 적당한 순도 수준을 가진 전투 마법사인 테이아 보이드워커가 원시 마법 품질보다 기술적 실행의 우월성을 입증했을 때 극적으로 바뀌었습니다. 그녀의 혁신적인 "순도보다 기술" 교리는 기본적인 마법 훈련을 받은 전사들이 접근할 수 있는 난해한 학문적 추구에서 실용적인 전투 분야로 중력 마법을 변화시켰습니다.
 
-> *"The key insight that revolutionized gravity manipulation was not a breakthrough in purification, but in technique. When we stopped trying to overwhelm gravity with pure power and instead learned to dance with it through precise application, we achieved what generations of high-purity theorists could not."* — From the combat journals of Theia Voidwalker
+> *"중력 조작에 혁명을 일으킨 핵심 통찰력은 정화의 돌파구가 아니라 기술에 있었습니다. 우리가 순수한 힘으로 중력을 압도하려고 노력하는 것을 멈추고 대신 정확한 적용을 통해 중력과 함께 춤추는 법을 배웠을 때, 우리는 고순도 이론가의 세대가 할 수 없었던 것을 달성했습니다."* — 테이아 보이드워커의 전투 저널에서
 
-## Practical Notes
+## 실용적인 노트
 
-Gravity Field is particularly mana-intensive to maintain over longer periods. Efficient casters often establish anchor points to reduce the ongoing concentration requirement. The spell interacts complexly with other force-based magic, sometimes creating unexpected resonance effects that skilled casters can exploit.
+중력장 (Gravity Field)은 장기간 유지하는 데 특히 마나가 많이 듭니다. 효율적인 시전자는 종종 앵커 포인트를 설정하여 지속적인 집중 요구 사항을 줄입니다. 이 주문은 다른 힘 기반 마법과 복잡하게 상호 작용하여 숙련된 시전자가 악용할 수 있는 예상치 못한 공명 효과를 생성하기도 합니다.
 
-For novice practitioners, the greatest challenge is often not the initial field generation but maintaining consistent effect throughout the field area while working within their regeneration limits—a skill that comes only with dedicated practice and spatial awareness training.
+초보 수행자에게 가장 큰 어려움은 초기 필드 생성뿐만 아니라 재생 한도 내에서 작업하는 동안 필드 영역 전체에서 일관된 효과를 유지하는 것입니다. 이는 헌신적인 연습과 공간 인식 훈련을 통해서만 얻을 수 있는 기술입니다.
 
 ---
 
-*See also: [Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Movement Enhancement](/codex/Magics/Spells/Utility/MovementEnhancement.md), [Advanced Battle Magic](/codex/Magics/Spells/Combat/BattleMagicPrinciples.md)* 
+*참조 항목: [힘 벡터](/codex/Magics/Spells/Utility/ForceVector.md), [이동 강화](/codex/Magics/Spells/Utility/MovementEnhancement.md), [고급 전투 마법](/codex/Magics/Spells/Combat/BattleMagicPrinciples.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

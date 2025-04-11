@@ -1,73 +1,77 @@
-# **Advanced Magical Concepts**
+# **고급 마법 개념**
 
-> *"When you have mastered the fundamentals, you begin to realize they were merely the first notes of a much grander symphony."* — Archmage Elara Starweaver
+> *"기본을 숙달했을 때, 그것들이 훨씬 더 웅장한 교향곡의 첫 음표에 불과했다는 것을 깨닫기 시작합니다."* — 대마법사 엘라라 스타위버
 
-## Overview
+## 개요
 
-The Advanced section contains documentation on master-level magical concepts that build upon the fundamental principles of magic. These topics represent specialized knowledge typically accessible only to experienced practitioners who have mastered basic and intermediate magical techniques.
+고급 섹션에는 마법의 기본 원리를 기반으로 하는 마스터 레벨의 마법 개념에 대한 문서가 포함되어 있습니다. 이러한 주제는 일반적으로 기본 및 중급 마법 기술을 숙달한 숙련된 실무자만이 접근할 수 있는 전문 지식을 나타냅니다.
 
-## Directory Structure
+## 디렉토리 구조
 
 ```
 Advanced/
-├── Rituals/               # Complex multi-caster magic
-├── MagicalCreation/       # Creating magical objects and beings
-├── SoulMagic/             # Working with spiritual essence
-└── Metaphysics/           # Theoretical magical principles
+├── Rituals/               # 복잡한 멀티 캐스터 마법
+├── MagicalCreation/       # 마법 물체 및 존재 창조
+├── SoulMagic/             # 영적 본질 다루기
+└── Metaphysics/           # 이론적 마법 원리
 ```
 
-## Section Contents
+## 섹션 내용
 
-### Rituals
+### 의식
 
-Advanced ceremonies that typically require multiple casters working in harmony to achieve effects beyond the capability of individual mages.
+일반적으로 개별 마법사의 능력을 넘어서는 효과를 달성하기 위해 조화롭게 작업하는 여러 캐스터가 필요한 고급 의식입니다.
 
-- Group harmonics and resonance
-- Astronomical alignment and timing
-- Circle casting and maintenance
-- Power distribution and management
-- Marathon casting techniques
+- 그룹 하모닉 및 공명
+- 천문 정렬 및 타이밍
+- 서클 캐스팅 및 유지 관리
+- 전력 분배 및 관리
+- 마라톤 캐스팅 기술
 
-### Magical Creation
+### 마법 창조
 
-The art of imbuing objects, locations, or beings with persistent magical properties.
+지속적인 마법 속성을 가진 물체, 위치 또는 존재에 불어넣는 기술입니다.
 
-- Enchantment theory and application
-- Artifact creation and binding
-- Golem crafting and animation
-- Living spell weaving
-- Magical architecture
+- 인챈트 이론 및 적용
+- 유물 창조 및 바인딩
+- 골렘 제작 및 애니메이션
+- 살아있는 주문 직조
+- 마법 건축
 
-### Soul Magic
+### 영혼 마법
 
-The delicate and often controversial manipulation of the soul's energy and structure.
+영혼의 에너지와 구조를 섬세하고 종종 논쟁의 여지가 있는 조작입니다.
 
-- Soul theory and mapping
-- Essence transfer and preservation
-- Afterlife interactions
-- Identity binding
-- Exanthis manipulation
+- 영혼 이론 및 매핑
+- 본질 이전 및 보존
+- 사후 세계 상호 작용
+- 정체성 바인딩
+- 엑산티스 조작
 
-### Metaphysics
+### 형이상학
 
-Theoretical frameworks that explain the underlying nature of magic and reality.
+마법과 현실의 근본적인 본질을 설명하는 이론적 프레임워크입니다.
 
-- Magical dimensionality
-- Planar theory
-- Reality harmonics
-- Magical constants
-- Thaumaturgical mathematics
+- 마법 차원성
+- 평면 이론
+- 현실 하모닉
+- 마법 상수
+- 기적 수학
 
-## Prerequisites
+## 전제 조건
 
-Readers should be familiar with the following concepts before exploring advanced topics:
+고급 주제를 탐구하기 전에 독자는 다음 개념에 익숙해야 합니다.
 
-- [Basic magical theory](/codex/Magics/Core/Magic.md)
-- [Mana mechanics](/codex/Magics/Core/ManaMechanics.md)
-- [Spellcasting processes](/codex/Magics/Core/MagicCasting.md)
-- [Elemental forces](/codex/Magics/Elements/ElementalMagic.md)
-- [Major magical schools](/codex/Magics/Schools/)
+- [기본 마법 이론](/codex/Magics/Core/Magic.md)
+- [마나 역학](/codex/Magics/Core/ManaMechanics.md)
+- [주문 시전 프로세스](/codex/Magics/Core/MagicCasting.md)
+- [원소 힘](/codex/Magics/Elements/ElementalMagic.md)
+- [주요 마법 학교](/codex/Magics/Schools/)
 
-## Warning
+## 경고
 
-Many advanced magical concepts involve significant risk when put into practice. These documents are provided for educational purposes and should not be applied without proper training and supervision from a qualified archmage. 
+많은 고급 마법 개념은 실제로 적용할 때 상당한 위험을 수반합니다. 이 문서는 교육 목적으로 제공되며 자격을 갖춘 대마법사의 적절한 훈련 및 감독 없이는 적용해서는 안 됩니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

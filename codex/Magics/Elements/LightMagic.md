@@ -1,203 +1,206 @@
-# **Light Magic**: The Art of Illumination and Radiance
+# **빛 마법**: 조명과 광채의 예술
 
-> *"Light reveals truth, banishes darkness, and guides the way. It is not merely brightness, but clarity—the manifestation of understanding itself."* — Archluminomancer Elinor Dawnseeker
+> *"빛은 진실을 드러내고, 어둠을 몰아내고, 길을 인도합니다. 그것은 단순한 밝기가 아니라 명료함, 즉 이해 그 자체의 발현입니다."* — 대광휘술사 엘리너 던시커
 
-## Quick Reference
-- [Properties of Luxmana](#properties-of-luxmana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 빠른 참조
+- [룩스마나의 속성](#properties-of-luxmana)
+- [조작 기술](#manipulation-techniques)
+- [일반적인 주문](#common-spells)
+- [친화력 개발](#affinity-development)
+- [위험 및 안전 장치](#risks-and-safeguards)
+- [문화적 중요성](#cultural-significance)
 
-## Properties of Luxmana
+## 룩스마나의 속성
 
-Luxmana, the elemental mana of light, is characterized by:
+빛의 원소 마나인 룩스마나는 다음과 같은 특징을 가집니다.
 
-- **Appearance**: Golden, white, and prismatic hues; brilliant, radiant patterns that emanate outward
-- **Sensation**: Feels warm, clarifying, and energizing when channeled; creates a sense of weightlessness and focus
-- **Resonance**: High-frequency, pure vibration patterns with harmonic clarity
-- **Purification Challenge**: Already naturally pure but sensitive to emotional impurities; can become blinding if overpurified
-- **Opposite Element**: Shadow (creates twilight when forced together, ultimately dispels shadow)
-- **Complementary Elements**: Air (creates radiance), Fire (creates radiant flame)
-- **Musical Analogy**: Major key melodies, particularly stringed instruments; clear, resonant tones
+- **외관**: 황금색, 흰색 및 프리즘 색조; 바깥쪽으로 발산되는 밝고 빛나는 패턴
+- **감각**: 통로를 통해 흐를 때 따뜻하고 명료하며 활력을 주는 느낌; 무중력감과 집중력을 생성
+- **공명**: 조화로운 명료성을 가진 고주파, 순수한 진동 패턴
+- **정화 과제**: 이미 자연적으로 순수하지만 감정적 불순물에 민감함; 과도하게 정화하면 눈이 멀게 될 수 있음
+- **반대 원소**: 그림자 (함께 강제로 작용하면 황혼을 만들고 궁극적으로 그림자를 흩어지게 함)
+- **상보적 원소**: 공기 (광채를 생성), 불 (빛나는 불꽃을 생성)
+- **음악적 비유**: 장조 멜로디, 특히 현악기; 맑고 공명하는 음색
 
-## Manipulation Techniques
+## 조작 기술
 
-### Basic Techniques
+### 기본 기술
 
-#### Illumination
-The foundational technique of creating and directing light:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Generates controlled light from magical energy
-- **Training Focus**: Brightness control and directional casting
-- **Applications**: Creating light sources, signal flares, revealing hidden writing
+#### 조명
+빛을 만들고 지시하는 기본 기술:
+- **난이도**: 초보
+- **순도 요구 사항**: 기본 (15-25%)
+- **효과**: 마법 에너지로부터 제어된 빛 생성
+- **훈련 초점**: 밝기 제어 및 방향 캐스팅
+- **응용 분야**: 광원 생성, 신호탄, 숨겨진 글씨 드러내기
 
-#### Chromatic Manipulation
-Altering the color and quality of light:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Changes the wavelength and properties of light
-- **Training Focus**: Spectral selection and color purity
-- **Applications**: Color changing, mood enhancement, plant growth stimulation
+#### 색채 조작
+빛의 색상과 품질 변경:
+- **난이도**: 초보에서 중급
+- **순도 요구 사항**: 기본에서 정제 (20-40%)
+- **효과**: 빛의 파장 및 속성 변경
+- **훈련 초점**: 스펙트럼 선택 및 색상 순도
+- **응용 분야**: 색상 변경, 분위기 향상, 식물 성장 자극
 
-#### Revelation
-Using light to reveal hidden information:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Illuminates magical effects, spiritual entities, or concealed objects
-- **Training Focus**: Light penetration and interaction with different energies
-- **Applications**: Detecting illusions, revealing enchantments, finding hidden objects
+#### 계시
+숨겨진 정보를 드러내기 위해 빛 사용:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (35-50%)
+- **효과**: 마법 효과, 영적 존재 또는 숨겨진 물체 조명
+- **훈련 초점**: 빛의 침투 및 다양한 에너지와의 상호 작용
+- **응용 분야**: 환영 감지, 마법 부여 드러내기, 숨겨진 물체 찾기
 
-### Advanced Techniques
+### 고급 기술
 
-#### Photomantic Sculpting
-Creating and maintaining complex light structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms persistent light constructs with physical properties
-- **Training Focus**: Light solidification and structural integrity
-- **Applications**: Light bridges, defensive barriers, illuminated architecture
+#### 광자 조형
+복잡한 빛 구조 생성 및 유지:
+- **난이도**: 고급
+- **순도 요구 사항**: 정제에서 완벽 (45-70%)
+- **효과**: 물리적 속성을 가진 지속적인 빛 구조 형성
+- **훈련 초점**: 빛의 응고 및 구조적 무결성
+- **응용 분야**: 빛의 다리, 방어 장벽, 조명된 건축물
 
-#### Purification Radiance
-Using light to cleanse and purify:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Dispels negative energies, corruptions, and certain enchantments
-- **Training Focus**: Resonant harmony and dissonance cancellation
-- **Applications**: Consecration, curse removal, purifying corrupted areas
+#### 정화 광채
+정화 및 깨끗하게 하기 위해 빛 사용:
+- **난이도**: 전문가
+- **순도 요구 사항**: 완벽 (65-85%)
+- **효과**: 부정적인 에너지, 부패 및 특정 마법 부여 해소
+- **훈련 초점**: 공명 조화 및 불협화음 상쇄
+- **응용 분야**: 성별, 저주 제거, 부패한 지역 정화
 
-#### Light Embodiment
-Transforming physical matter into light:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (80-95%)
-- **Effect**: Converts matter (including the caster) partially into light energy
-- **Training Focus**: Matter-energy transition states
-- **Applications**: Rapid travel, passing through barriers, defensive phasing
+#### 빛의 구현
+물리적 물질을 빛으로 변환:
+- **난이도**: 마스터
+- **순도 요구 사항**: 완벽 (80-95%)
+- **효과**: 물질 (시전자를 포함)을 빛 에너지로 부분적으로 변환
+- **훈련 초점**: 물질-에너지 전환 상태
+- **응용 분야**: 빠른 이동, 장벽 통과, 방어 위상
 
-## Common Spells
+## 일반적인 주문
 
-### Novice Spells
+### 초보 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Light Orb** | Creates a floating sphere of illumination | Somatic | 1 second | 1 hour |
-| **Color Shift** | Changes the color of an existing light source | Somatic | 2 seconds | 10 minutes |
-| **Flash** | Creates a sudden burst of bright light | Somatic, Verbal | 1 second | Instantaneous |
-| **Light Script** | Creates glowing text in the air | Somatic, Verbal | 5 seconds | 30 minutes |
+| **빛 구체** | 떠다니는 조명 구체 생성 | 신체 | 1초 | 1시간 |
+| **색상 전환** | 기존 광원의 색상 변경 | 신체 | 2초 | 10분 |
+| **섬광** | 갑작스러운 밝은 빛 폭발 생성 | 신체, 언어 | 1초 | 즉시 |
+| **빛 스크립트** | 공중에 빛나는 텍스트 생성 | 신체, 언어 | 5초 | 30분 |
 
-### Intermediate Spells
+### 중급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Revealing Light** | Illuminates invisible objects or beings | Somatic, Verbal, Focus | 5 seconds | 10 minutes |
-| **Light Shield** | Creates a protective barrier of solid light | Somatic, Verbal | 3 seconds | Concentration |
-| **Prismatic Ray** | Projects a beam of light that can be adjusted to different colors | Somatic, Focus | 2 seconds | Concentration |
-| **Purifying Glow** | Cleanses a small area or object of minor corruption | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
+| **드러내는 빛** | 보이지 않는 물체 또는 존재 조명 | 신체, 언어, 집중 | 5초 | 10분 |
+| **빛 방패** | 단단한 빛의 보호 장벽 생성 | 신체, 언어 | 3초 | 집중 |
+| **프리즘 광선** | 다른 색상으로 조정할 수 있는 빛의 광선 투사 | 신체, 집중 | 2초 | 집중 |
+| **정화 빛** | 작은 영역 또는 물체에서 사소한 부패 정화 | 신체, 언어, 집중 | 30초 | 즉시 |
 
-### Advanced Spells
+### 고급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Daylight** | Creates intense natural-seeming light over a large area | Somatic, Verbal, Focus | 10 seconds | 1 hour |
-| **Light Construct** | Forms a semi-autonomous light entity | Somatic, Verbal, Focus | 1 minute | 30 minutes |
-| **Radiant Burst** | Releases a powerful flash of purifying energy | Somatic, Verbal, Focus | 5 seconds | Instantaneous |
-| **Photokinetic Leap** | Transforms caster briefly into light for rapid movement | Somatic, Verbal, Focus | 5 seconds | 3 seconds |
+| **햇빛** | 넓은 영역에 걸쳐 강렬한 자연스러운 빛 생성 | 신체, 언어, 집중 | 10초 | 1시간 |
+| **빛 구조** | 반 자율적 빛 개체 형성 | 신체, 언어, 집중 | 1분 | 30분 |
+| **빛나는 폭발** | 정화 에너지의 강력한 섬광 방출 | 신체, 언어, 집중 | 5초 | 즉시 |
+| **광운동 도약** | 시전자를 빠른 움직임을 위해 잠시 빛으로 변환 | 신체, 언어, 집중 | 5초 | 3초 |
 
-## Affinity Development
+## 친화력 개발
 
-Light affinity progresses through several distinctive stages:
+빛 친화력은 여러 독특한 단계를 거쳐 진행됩니다.
 
-### Inner Spark
-The foundational relationship with light that most beginners possess:
-- **Manifestation**: Enhanced visual acuity, intuitive understanding of light conditions
-- **Physical Signs**: Slightly luminous eyes in darkness, minor light refraction around fingers
-- **Enhancement Method**: Regular meditation during dawn or dusk, particularly at solstices
+### 내면의 불꽃
+대부분의 초보자가 소유하는 빛과의 기초적인 관계:
+- **발현**: 향상된 시력, 빛 조건에 대한 직관적인 이해
+- **신체적 징후**: 어둠 속에서 약간 빛나는 눈, 손가락 주위의 약간의 빛 굴절
+- **향상 방법**: 특히 지점 기간 동안 새벽 또는 황혼 동안 정기적인 명상
 
-### Illuminated Mind
-The intermediate stage where light responds more readily to the mage's will:
-- **Manifestation**: Light bends subtly around the caster, enhanced color perception
-- **Physical Signs**: Skin develops a subtle glow during casting, hair captures and reflects light unusually well
-- **Enhancement Method**: Prism meditation, light sourcing exercises in varied conditions
+### 빛나는 마음
+마법사의 의지에 빛이 더 쉽게 반응하는 중간 단계:
+- **발현**: 빛이 시전자 주위로 미묘하게 굴절, 향상된 색상 인식
+- **신체적 징후**: 시전 중 피부가 미묘하게 빛나고, 머리카락이 빛을 비정상적으로 잘 포착하고 반사
+- **향상 방법**: 프리즘 명상, 다양한 조건에서 빛 소싱 연습
 
-### Radiant Harmony
-Advanced practitioners achieve a deep resonance with light's properties:
-- **Manifestation**: Emotions influence ambient light, ability to see magical auras naturally
-- **Physical Signs**: Eyes shift color based on magical activity, shadow cast may contain light patterns
-- **Enhancement Method**: Extended communion at sites of natural light phenomena or celestial importance
+### 빛나는 조화
+고급 수행자는 빛의 속성과 깊은 공명을 이룹니다:
+- **발현**: 감정이 주변 광에 영향을 미치고, 마법의 기운을 자연스럽게 볼 수 있음
+- **신체적 징후**: 눈이 마법 활동에 따라 색상이 바뀌고, 그림자가 빛 패턴을 포함할 수 있음
+- **향상 방법**: 자연광 현상 또는 천체 중요성이 있는 장소에서 확장된 교감
 
-### Luminous Unity
-Master photomancers who have achieved profound connection with light:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of light without formal casting
-- **Physical Signs**: Body naturally emits soft light in darkness, blood appears to contain tiny luminous particles
-- **Enhancement Method**: Deep communion at ley line intersections with strong light resonance
+### 빛나는 통합
+빛과의 심오한 연결을 이룬 마스터 광휘술사:
+- **발현**: 부분 변환 능력, 공식적인 시전 없이도 빛을 직관적으로 조작
+- **신체적 징후**: 몸이 어둠 속에서 자연적으로 부드러운 빛을 내고, 혈액에 작은 빛나는 입자가 포함된 것으로 보임
+- **향상 방법**: 강한 빛 공명이 있는 레이 라인 교차점에서의 깊은 교감
 
-## Risks and Safeguards
+## 위험 및 안전 장치
 
-### Common Risks
+### 일반적인 위험
 
-- **Visual Overstimulation**: Damage to vision from excessive or improper light creation
-- **Perception Distortion**: Altered color perception or visual processing
-- **Energy Depletion**: Rapid exhaustion due to light's high energy requirements
-- **Photosensitivity**: Developing hypersensitivity to natural light
-- **Phase Instability**: Partial physical conversion to light during advanced techniques
+- **시각 과자극**: 과도하거나 부적절한 빛 생성으로 인한 시력 손상
+- **인식 왜곡**: 변경된 색상 인식 또는 시각 처리
+- **에너지 고갈**: 빛의 높은 에너지 요구량으로 인한 빠른 소모
+- **광과민성**: 자연광에 대한 과민증 발달
+- **위상 불안정**: 고급 기술 중 빛으로의 부분적인 물리적 변환
 
-### Miscast Effects
+### 잘못 시전된 효과
 
-| Severity | Effect | Recovery |
+| 심각도 | 효과 | 회복 |
 |----------|--------|----------|
-| **Minor** | Temporary afterimages, color blindness, excessive pupil dilation | Hours |
-| **Moderate** | Persistent light emission from skin, solar sensitivity, vision shifts | Days |
-| **Severe** | Sporadic transparency, intense light emissions, retinal damage | Weeks |
-| **Critical** | Uncontrolled phasing between material and light states, cellular instability | Months |
+| **경미** | 일시적인 잔상, 색맹, 과도한 동공 확장 | 시간 |
+| **보통** | 피부에서 지속적인 빛 방출, 태양 민감성, 시력 변화 | 일 |
+| **심각** | 산발적인 투명성, 강렬한 빛 방출, 망막 손상 | 주 |
+| **위험** | 물질 상태와 빛 상태 간의 제어되지 않는 위상 전환, 세포 불안정 | 월 |
 
-### Safety Practices
+### 안전 수칙
 
-- **Visual Protection**: Specialized eyewear during practice and high-intensity casting
-- **Perception Grounding**: Regular exercises to maintain normal visual processing
-- **Energy Conservation**: Measured casting and appropriate rest between major workings
-- **Darkness Balance**: Regular exposure to darkness to offset light immersion
-- **Phase Anchoring**: Physical grounding techniques to maintain material form
+- **시각 보호**: 연습 및 고강도 시전 중 특수 안경 착용
+- **인식 접지**: 정상적인 시각 처리를 유지하기 위한 정기적인 운동
+- **에너지 보존**: 주요 작업 간의 측정된 시전 및 적절한 휴식
+- **어둠 균형**: 빛 몰입을 상쇄하기 위한 어둠에 대한 규칙적인 노출
+- **위상 고정**: 물질 형태를 유지하기 위한 물리적 접지 기술
 
-## Cultural Significance
+## 문화적 중요성
 
-### Historical Development
+### 역사적 발전
 
-Light magic emerged early in human development, initially tied to solar worship and celestial observation. The development of photomancy followed three primary historical phases:
+빛 마법은 인간 발전 초기에 나타났으며, 처음에는 태양 숭배 및 천체 관측과 관련이 있었습니다. 광휘술의 발전은 세 가지 주요 역사적 단계를 따랐습니다.
 
-1. **Celestial Connection**: Cultures developing light magic through observation of sun, moon, and stars
-2. **Symbolic Illumination**: Religious and philosophical traditions connecting light to knowledge and revelation
-3. **Technical Manipulation**: Scientific advancement leading to understanding of light's properties and potential
+1. **천체 연결**: 태양, 달, 별 관측을 통해 빛 마법을 개발하는 문화
+2. **상징적 조명**: 지식과 계시에 빛을 연결하는 종교적 및 철학적 전통
+3. **기술적 조작**: 빛의 속성 및 잠재력에 대한 이해로 이어지는 과학적 발전
 
-### Regional Variations
+### 지역적 변동
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 문화 | 초점 | 대표 기술 | 철학 |
 |---------|-------|---------------------|------------|
-| **Sun Kingdoms** | Solar magic, healing | Sun channeling, blessing rays | Light as the universal life-giver |
-| **Mountainfolk** | Clarity, revelation | Crystal focusing, snow illumination | Light as the revealer of truth |
-| **Forest Cultures** | Dappled light, growth | Leaf filtering, photosynthesis enhancement | Light as the nurturer of life |
-| **Desert Societies** | Heat management, water finding | Mirage creation, light filtration | Light as the balancer of extremes |
+| **태양 왕국** | 태양 마법, 치유 | 태양 채널링, 축복 광선 | 빛은 보편적인 생명 제공자 |
+| **산악 민족** | 명료성, 계시 | 수정 집중, 눈 조명 | 빛은 진실을 드러내는 자 |
+| **숲 문화** | 얼룩덜룩한 빛, 성장 | 잎 필터링, 광합성 향상 | 빛은 생명을 키우는 자 |
+| **사막 사회** | 열 관리, 물 찾기 | 신기루 창조, 빛 필터링 | 빛은 극단의 균형을 맞추는 자 |
 
-### Ceremonial Uses
+### 의례적 용도
 
-Light magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young photomancers creating their first independent light source
-- **Solstice Celebrations**: Major light workings during solar astronomical events
-- **Blessing Ceremonies**: Light purification for new homes, children, or ventures
-- **Funeral Rites**: "Path illumination" rituals to guide departing souls
+빛 마법은 많은 문화 의식에서 두드러지게 나타납니다.
+- **성년 의례**: 젊은 광휘술사가 처음으로 독립적인 광원을 만드는 의식
+- **지점 축제**: 태양 천문학적 사건 동안 주요 빛 작업
+- **축복 의식**: 새로운 집, 어린이 또는 사업을 위한 빛 정화
+- **장례 의식**: 떠나는 영혼을 안내하는 "길 조명" 의식
 
-### Contemporary Applications
+### 현대적 응용
 
-Beyond combat and utility applications, light magic serves important societal functions:
-- **Medical Practice**: Healing applications, particularly for mental and emotional disorders
-- **Agriculture**: Crop growth enhancement and seasonal extension
-- **Architecture**: Permanent illumination of public spaces and buildings
-- **Communications**: Signal systems and information transmission
-- **Art and Entertainment**: Spectacular visual displays and performances
+전투 및 유틸리티 응용 외에도 빛 마법은 중요한 사회적 기능을 수행합니다.
+- **의료 행위**: 특히 정신 및 정서 장애에 대한 치유 응용
+- **농업**: 작물 성장 향상 및 계절 연장
+- **건축**: 공공 장소 및 건물의 영구 조명
+- **통신**: 신호 시스템 및 정보 전송
+- **예술 및 엔터테인먼트**: 장엄한 시각적 디스플레이 및 공연
 
-> *"The student of light must remember that true illumination comes not from merely banishing darkness, but from revealing what was always there—merely waiting to be seen."* — The Photomancer's Codex
+> *"빛을 연구하는 학생은 진정한 조명이 단순히 어둠을 몰아내는 것이 아니라 항상 거기에 있었고 단지 보여지기를 기다리고 있었던 것을 드러내는 데서 비롯된다는 것을 기억해야 합니다."* — 광휘술사의 코덱스
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Shadow Magic](/codex/Magics/Elements/ShadowMagic.md)* 
+*참조: [원소 마법](/codex/Magics/Elements/ElementalMagic.md), [불 마법](/codex/Magics/Elements/FireMagic.md), [그림자 마법](/codex/Magics/Elements/ShadowMagic.md)*
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

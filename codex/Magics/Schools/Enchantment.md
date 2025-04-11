@@ -1,220 +1,224 @@
-# **The School of Enchantment**
+# **마법 부여 학교**
 
-> *"To enchant is to weave your will into the fabric of reality itself—to create a bridge between intention and manifestation that persists beyond your presence."*  
-> — Lady Seraphina Moonweaver, Grandmaster of Persistent Magic
+> *"마법을 부여하는 것은 당신의 의지를 현실의 구조 속으로 짜 넣는 것과 같습니다. 당신의 존재를 넘어 지속되는 의도와 발현 사이의 다리를 만드는 것이죠."*
+> — 레이디 세라피나 문위버, 지속 마법의 그랜드마스터
 
-## Overview
+## 개요
 
-Enchantment is the school of magic dedicated to imbuing objects, creatures, or places with persistent magical effects. Unlike temporary spells, enchantments create lasting changes in the magical properties of their targets, allowing effects to continue without the caster's ongoing attention. This school encompasses everything from creating magical items and protective wards to influencing minds and altering behavioral patterns. Enchantment is distinguished by its focus on durability and self-sustaining magical circuits that continue functioning independently.
+마법 부여는 사물, 생물 또는 장소에 지속적인 마법 효과를 불어넣는 데 전념하는 마법 학교입니다. 일시적인 주문과 달리, 마법 부여는 대상의 마법적 속성에 지속적인 변화를 일으켜 시전자의 지속적인 주의 없이도 효과가 계속되도록 합니다. 이 학교는 마법 아이템과 보호 결계를 만드는 것부터 마음을 조종하고 행동 패턴을 바꾸는 것까지 모든 것을 포함합니다. 마법 부여는 내구성과 독립적으로 계속 작동하는 자가 유지 마법 회로에 중점을 둡니다.
 
-## Fundamental Principles
+## 기본 원리
 
-### The Principle of Persistent Resonance
+### 지속 공명의 원리
 
-The foundation of enchantment is the Principle of Persistent Resonance, which states that magical energy can be bound into patterns that continuously resonate with their surroundings, creating self-sustaining magical effects. This requires the creation of closed magical circuits within the target that can maintain energy flow without constant external input.
+마법 부여의 기초는 지속 공명의 원리이며, 이는 마법 에너지가 주변 환경과 지속적으로 공명하는 패턴으로 묶여 자가 유지 마법 효과를 생성할 수 있다고 명시합니다. 이를 위해서는 지속적인 외부 입력 없이 에너지 흐름을 유지할 수 있는 대상 내에 폐쇄된 마법 회로를 만들어야 합니다.
 
-### Primary Components
+### 주요 구성 요소
 
-All enchantment spells incorporate several fundamental components:
+모든 마법 부여 주문은 다음과 같은 몇 가지 기본 구성 요소를 통합합니다.
 
-1. **Pattern Foundation**: Establishing the base magical structure within the target
-2. **Energy Binding**: Securing magical energy into self-sustaining circuits
-3. **Resonance Stabilization**: Ensuring the enchantment maintains consistent effects
-4. **Trigger Mechanism**: Defining conditions for activation and deactivation
+1. **패턴 기초**: 대상 내에 기본 마법 구조 설정
+2. **에너지 결속**: 마법 에너지를 자가 유지 회로에 고정
+3. **공명 안정화**: 마법 부여가 일관된 효과를 유지하는지 확인
+4. **트리거 메커니즘**: 활성화 및 비활성화 조건 정의
 
-More complex enchantments include additional components:
+더 복잡한 마법 부여에는 추가 구성 요소가 포함됩니다.
 
-5. **Power Regulation**: Controlling the strength and intensity of the magical effect
-6. **Pattern Integration**: Harmonizing the enchantment with the target's natural properties
-7. **Conditional Variance**: Creating adaptable responses to different circumstances
-8. **Temporal Anchoring**: Securing the enchantment against degradation over time
+5. **전력 조절**: 마법 효과의 강도 및 강도 제어
+6. **패턴 통합**: 마법 부여를 대상의 자연적 속성과 조화
+7. **조건부 분산**: 다양한 상황에 대한 적응 가능한 응답 생성
+8. **시간 고정**: 시간 경과에 따른 저하로부터 마법 부여 보호
 
-### Mana Requirements
+### 마나 요구 사항
 
-Enchantment requires specific combinations of mana types, with varying levels of purity based on complexity and duration:
+마법 부여에는 마나 유형의 특정 조합이 필요하며, 복잡성과 지속 시간에 따라 다양한 수준의 순도가 필요합니다.
 
-| Enchantment Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| 마법 부여 유형 | 주요 마나 | 보조 마나 | 3차 마나 | 목적 |
 |-----------------|-------------|----------------|---------------|---------|
-| Temporary (1-7 days) | Base Mana (25-35%) | Effect-specific (15-25%) | N/A | Short-duration effects |
-| Standard (1-12 months) | Base Mana (35-45%) | Effect-specific (25-35%) | Stability mana (10-20%) | Common magical items |
-| Extended (1-10 years) | Base Mana (45-55%) | Effect-specific (35-45%) | Stability mana (20-30%) | Quality enchanted objects |
-| Semi-Permanent (10-100 years) | Base Mana (55-65%) | Effect-specific (45-55%) | Stability mana (30-40%) | Heirloom items, wards |
-| Permanent (100+ years) | Base Mana (65-75%) | Effect-specific (55-65%) | Stability mana (40-50%) | Artifacts, ancient sites |
+| 일시적 (1-7일) | 기본 마나 (25-35%) | 효과별 (15-25%) | 해당 없음 | 짧은 지속 시간 효과 |
+| 표준 (1-12개월) | 기본 마나 (35-45%) | 효과별 (25-35%) | 안정성 마나 (10-20%) | 일반적인 마법 아이템 |
+| 연장 (1-10년) | 기본 마나 (45-55%) | 효과별 (35-45%) | 안정성 마나 (20-30%) | 양질의 마법 부여된 물체 |
+| 준영구 (10-100년) | 기본 마나 (55-65%) | 효과별 (45-55%) | 안정성 마나 (30-40%) | 가보 아이템, 결계 |
+| 영구 (100+년) | 기본 마나 (65-75%) | 효과별 (55-65%) | 안정성 마나 (40-50%) | 유물, 고대 유적 |
 
-### Wild Mana Response
+### 야생 마나 반응
 
-Enchantment magic has a complex relationship with Wild Mana, which can both strengthen and destabilize existing enchantments:
+마법 부여 마법은 야생 마나와 복잡한 관계를 맺고 있으며, 기존 마법 부여를 강화하고 불안정하게 만들 수 있습니다.
 
-- **Power Amplification**: Increasing the strength or range of enchanted effects
-- **Duration Extension**: Prolonging the lifespan of temporary enchantments
-- **Spontaneous Activation**: Triggering dormant enchantments without normal conditions
-- **Effect Evolution**: Causing enchantments to develop new or enhanced capabilities
+- **전력 증폭**: 마법 부여된 효과의 강도 또는 범위 증가
+- **지속 시간 연장**: 일시적인 마법 부여의 수명 연장
+- **자발적 활성화**: 정상적인 조건 없이 휴면 마법 부여 트리거
+- **효과 진화**: 마법 부여가 새로운 또는 향상된 기능 개발
 
-However, these potential benefits carry substantial risks:
+그러나 이러한 잠재적 이점에는 상당한 위험이 따릅니다.
 
-- **Pattern Destabilization**: Enchantments becoming erratic or unpredictable
-- **Effect Warping**: Original enchantment purpose becoming distorted
-- **Resonance Cascade**: Multiple enchantments interfering with each other
-- **Binding Dissolution**: Complete breakdown of the magical binding
+- **패턴 불안정화**: 마법 부여가 불규칙하거나 예측 불가능해짐
+- **효과 왜곡**: 원래 마법 부여 목적이 왜곡됨
+- **공명 캐스케이드**: 여러 마법 부여가 서로 간섭
+- **결속 해소**: 마법 결속의 완전한 붕괴
 
-## Mana Purification for Enchantment
+## 마법 부여를 위한 마나 정화
 
-The longevity and stability of enchantments depend directly on mana purity:
+마법 부여의 수명과 안정성은 마나 순도에 직접적으로 좌우됩니다.
 
-| Purification Level | Enchantment Capability |
+| 정화 수준 | 마법 부여 능력 |
 |--------------------|------------------------|
-| Basic (15-25%) | Temporary enchantments lasting days to weeks |
-| Intermediate (30-45%) | Standard enchantments lasting months to a few years |
-| Advanced (50-65%) | Extended enchantments lasting years to decades |
-| Master (70-80%) | Semi-permanent enchantments lasting generations |
-| Grandmaster (85%+) | Permanent enchantments with potential to last centuries |
+| 기본 (15-25%) | 며칠에서 몇 주 동안 지속되는 일시적인 마법 부여 |
+| 중간 (30-45%) | 몇 달에서 몇 년 동안 지속되는 표준 마법 부여 |
+| 고급 (50-65%) | 몇 년에서 수십 년 동안 지속되는 연장된 마법 부여 |
+| 마스터 (70-80%) | 여러 세대에 걸쳐 지속되는 준영구 마법 부여 |
+| 그랜드마스터 (85% 이상) | 수세기 동안 지속될 잠재력이 있는 영구 마법 부여 |
 
-Insufficient purity in enchantment typically results in "fading"—enchantments that gradually weaken over time until they eventually dissipate completely, often with unpredictable effects during the degradation process.
+마법 부여의 불충분한 순도는 일반적으로 "퇴색"으로 이어집니다. 시간이 지남에 따라 점차 약해져 결국 완전히 소멸되는 마법 부여로, 저하 과정에서 예측할 수 없는 효과가 발생할 수 있습니다.
 
-## The Enchanter's Harmony
+## 마법 부여가의 조화
 
-Enchantment magic is conceptualized as a sustained musical composition, with each enchantment creating an ongoing magical melody:
+마법 부여 마법은 지속적인 음악 구성으로 개념화되며, 각 마법 부여는 지속적인 마법 멜로디를 만듭니다.
 
-- **Ostinato**: The repeating base pattern that maintains the enchantment's core function
-- **Harmony**: The relationship between the enchantment and its physical vessel
-- **Dynamics**: The variation in power and effect under different conditions
-- **Crescendo and Diminuendo**: The activation and deactivation phases of the enchantment
-- **Counterpoint**: The interplay between multiple enchantments within a single object
+- **오스티나토**: 마법 부여의 핵심 기능을 유지하는 반복적인 기본 패턴
+- **조화**: 마법 부여와 물리적 용기 간의 관계
+- **역학**: 다양한 조건에서 전력 및 효과의 변화
+- **크레셴도 및 디미누엔도**: 마법 부여의 활성화 및 비활성화 단계
+- **대위법**: 단일 개체 내에서 여러 마법 부여 간의 상호 작용
 
-Master enchanters describe their work as "composing eternal melodies that play whether or not the musician remains."
+마스터 마법 부여가는 그들의 작업을 "음악가가 남아 있든 없든 연주되는 영원한 멜로디를 작곡하는 것"으로 설명합니다.
 
-## Specialized Disciplines
+## 전문 분야
 
-### Artificing
+### 아티피싱
 
-The creation of magical items and tools with practical functions. Practitioners are known as Artificers.
+실용적인 기능을 가진 마법 아이템 및 도구 제작. 실무자는 아티피서로 알려져 있습니다.
 
-### Wardcraft
+### 워드크래프트
 
-Focused on protective and boundary enchantments for locations and objects. Masters are called Wardmasters.
+위치 및 객체를 위한 보호 및 경계 마법 부여에 중점. 마스터는 워드마스터라고 합니다.
 
-### Runesmithing
+### 룬스미싱
 
-Specialized in the use of symbolic language to encode and stabilize enchantments. Practitioners are called Runesmiths.
+상징적 언어를 사용하여 마법 부여를 인코딩하고 안정화하는 전문 분야. 실무자는 룬스미스라고 합니다.
 
-### Mindweaving
+### 마인드위빙
 
-The enchantment of consciousness and thought patterns. Masters are known as Mindweavers.
+의식과 사고 패턴의 마법 부여. 마스터는 마인드위버로 알려져 있습니다.
 
-### Ambienturgy
+### 앰비엔터지
 
-Creation of atmospheric and environmental enchantments affecting areas. Practitioners are called Ambienturges.
+영향을 미치는 대기 및 환경 마법 부여 생성. 실무자는 앰비엔터지로 불립니다.
 
-### Soulbinding
+### 소울바인딩
 
-The controversial practice of binding spiritual essences to objects or locations. Masters are known as Soulbinders.
+영적인 본질을 물체 또는 위치에 묶는 논란의 여지가 있는 관행. 마스터는 소울바인더로 알려져 있습니다.
 
-### Enchanted Architecture
+### 마법 부여된 건축
 
-The integration of enchantments into buildings and structures. Practitioners are called Arcane Architects.
+건물 및 구조물에 마법 부여를 통합. 실무자는 아케인 아키텍트라고 합니다.
 
-## Training Methodology
+## 훈련 방법론
 
-Enchantment training follows a structured progression:
+마법 부여 훈련은 구조화된 진행을 따릅니다.
 
-1. **Theoretical Foundations**: Understanding magical circuits and resonant patterns
-2. **Material Affinity Study**: Learning which substances best hold various enchantments
-3. **Temporary Enchanting**: Creating short-duration effects to master basic techniques
-4. **Circuit Design**: Developing efficient energy patterns for self-sustaining magic
-5. **Duration Extension**: Techniques for increasing enchantment longevity
-6. **Stability Enhancement**: Methods to protect enchantments from deterioration
-7. **Multiple Effect Integration**: Combining different magical functions harmoniously
-8. **Conditional Programming**: Creating enchantments that respond to specific triggers
+1. **이론적 기초**: 마법 회로 및 공명 패턴 이해
+2. **물질 친화도 연구**: 어떤 물질이 다양한 마법 부여를 가장 잘 유지하는지 학습
+3. **일시적인 마법 부여**: 기본 기술을 마스터하기 위해 짧은 지속 시간 효과 생성
+4. **회로 설계**: 자가 유지 마법을 위한 효율적인 에너지 패턴 개발
+5. **지속 시간 연장**: 마법 부여 수명을 늘리는 기술
+6. **안정성 향상**: 마법 부여를 악화로부터 보호하는 방법
+7. **다중 효과 통합**: 다양한 마법 기능을 조화롭게 결합
+8. **조건부 프로그래밍**: 특정 트리거에 반응하는 마법 부여 생성
 
-Training emphasizes patience, precision, and meticulous attention to detail. Most enchantment students spend years mastering each level before progressing to the next.
+훈련은 인내, 정확성 및 세심한 주의를 강조합니다. 대부분의 마법 부여 학생들은 다음 단계로 진행하기 전에 각 레벨을 마스터하는 데 수년을 보냅니다.
 
-## Enchantment in Practice
+## 실제 마법 부여
 
-The process of creating an enchantment follows distinct phases:
+마법 부여를 만드는 과정은 뚜렷한 단계를 따릅니다.
 
-1. **Material Selection**: Choosing appropriate substances to hold the enchantment
-2. **Preparation Rituals**: Cleansing and preparing the target to receive magic
-3. **Mana Purification**: Achieving necessary purity for the desired duration
-4. **Circuit Inscription**: Creating the magical pathways within the target
-5. **Energy Infusion**: Charging the circuits with appropriate magical energy
-6. **Pattern Stabilization**: Securing the enchantment against degradation
-7. **Function Testing**: Verifying the enchantment works as intended
-8. **Final Sealing**: Closing the enchantment against external interference
+1. **재료 선택**: 마법 부여를 유지할 적절한 물질 선택
+2. **준비 의식**: 마법을 받기 위해 대상 정화 및 준비
+3. **마나 정화**: 원하는 지속 시간에 필요한 순도 달성
+4. **회로 비문**: 대상 내에 마법 경로 생성
+5. **에너지 주입**: 적절한 마법 에너지로 회로 충전
+6. **패턴 안정화**: 마법 부여를 저하로부터 보호
+7. **기능 테스트**: 마법 부여가 의도한 대로 작동하는지 확인
+8. **최종 봉인**: 외부 간섭으로부터 마법 부여 봉인
 
-For emergency or field enchantment, these steps may be condensed, though with significant sacrifices to duration and stability.
+비상 또는 현장 마법 부여의 경우 이러한 단계를 압축할 수 있지만 지속 시간과 안정성에 큰 희생이 따릅니다.
 
-## Practical Applications
+## 실제 적용
 
-Enchantment serves numerous practical functions in magical society:
+마법 부여는 마법 사회에서 수많은 실용적인 기능을 제공합니다.
 
-- **Daily Convenience**: Self-cleaning objects, never-cold cups, ever-sharp blades
-- **Protection**: Wards against theft, fire, or magical attack
-- **Communication**: Message-carrying objects, distance-speaking devices
-- **Transportation**: Enhanced vehicles, flying carpets, seven-league boots
-- **Agriculture**: Weather-influencing tools, soil-enriching stones
-- **Medicine**: Healing amulets, pain-relieving charms, diagnostic instruments
-- **Architecture**: Self-repairing structures, temperature-regulating buildings
-- **Entertainment**: Toys, games, and recreational devices with magical properties
+- **일상적인 편의**: 자동 청소 물체, 차가워지지 않는 컵, 항상 날카로운 칼날
+- **보호**: 도난, 화재 또는 마법 공격으로부터 보호하는 결계
+- **통신**: 메시지 전달 물체, 원거리 통화 장치
+- **교통**: 강화된 차량, 나는 양탄자, 7 리그 부츠
+- **농업**: 날씨에 영향을 미치는 도구, 토양을 풍요롭게 하는 돌
+- **의학**: 치유 부적, 통증 완화 부적, 진단 도구
+- **건축**: 자가 수리 구조, 온도 조절 건물
+- **엔터테인먼트**: 마법 속성을 가진 장난감, 게임 및 레크리에이션 장치
 
-## Ethical Considerations
+## 윤리적 고려 사항
 
-Enchantment raises significant ethical questions:
+마법 부여는 다음과 같은 중요한 윤리적 문제를 제기합니다.
 
-- **Consent in Mind-Affecting Enchantments**: Boundaries of acceptable influence
-- **Dependency Issues**: Societies becoming reliant on enchanted solutions
-- **Knowledge Gatekeeping**: Access to enchantment techniques and materials
-- **Planned Obsolescence**: Creating enchantments designed to fail after certain periods
-- **Environmental Impact**: Effects of abandoned or failed enchantments on surrounding areas
-- **Cultural Preservation**: Traditional crafts displaced by enchanted alternatives
+- **마음에 영향을 미치는 마법 부여의 동의**: 허용 가능한 영향의 경계
+- **종속성 문제**: 마법 부여된 솔루션에 의존하게 되는 사회
+- **지식 게이트키핑**: 마법 부여 기술 및 재료에 대한 접근
+- **계획된 노후화**: 특정 기간 후 실패하도록 설계된 마법 부여 생성
+- **환경 영향**: 버려지거나 실패한 마법 부여가 주변 지역에 미치는 영향
+- **문화 보존**: 마법 부여된 대안으로 대체되는 전통 공예
 
-Most enchantment academies enforce strict ethical codes governing mind-affecting enchantments and potentially dangerous creations.
+대부분의 마법 부여 아카데미는 마음에 영향을 미치는 마법 부여 및 잠재적으로 위험한 창조물을 통제하는 엄격한 윤리 강령을 시행합니다.
 
-## Limitations and Weaknesses
+## 한계 및 약점
 
-Despite its power, enchantment has inherent limitations:
+그 힘에도 불구하고 마법 부여에는 고유한 한계가 있습니다.
 
-- **Material Compatibility**: Not all substances accept enchantments equally well
-- **Energy Capacity**: Objects can only hold finite amounts of magical energy
-- **Interference Patterns**: Multiple enchantments may conflict or cancel each other
-- **Environmental Sensitivity**: Some enchantments degrade in specific conditions
-- **Resonance Drift**: Long-term enchantments may slowly shift in effect over time
-- **Recharge Requirements**: Many enchantments require periodic energy renewal
+- **재료 호환성**: 모든 물질이 동일하게 마법 부여를 받아들이는 것은 아닙니다.
+- **에너지 용량**: 물체는 유한한 양의 마법 에너지 만 보유할 수 있습니다.
+- **간섭 패턴**: 여러 마법 부여가 충돌하거나 서로 취소될 수 있습니다.
+- **환경 민감도**: 특정 조건에서 일부 마법 부여가 저하됩니다.
+- **공명 드리프트**: 장기적인 마법 부여는 시간이 지남에 따라 효과가 서서히 바뀔 수 있습니다.
+- **재충전 요구 사항**: 많은 마법 부여에는 주기적인 에너지 갱신이 필요합니다.
 
-Common countermeasures against enchantment include:
+마법 부여에 대한 일반적인 대응책은 다음과 같습니다.
 
-- **Disenchantment Spells**: Magic specifically designed to break enchantments
-- **Material Treatments**: Substances that resist magical binding
-- **Resonance Disruption**: Fields that interfere with enchantment functioning
-- **Thaumic Grounding**: Techniques to drain enchanted objects of power
-- **Detection Amulets**: Items that reveal the presence of hidden enchantments
+- **마법 해제 주문**: 마법 부여를 깨뜨리도록 특별히 설계된 마법
+- **재료 처리**: 마법 결속에 저항하는 물질
+- **공명 교란**: 마법 부여 기능을 방해하는 필드
+- **타우믹 접지**: 마법 부여된 물체의 힘을 빼앗는 기술
+- **탐지 부적**: 숨겨진 마법 부여의 존재를 드러내는 아이템
 
-## Musical Analogy
+## 음악적 비유
 
-In the musical framework of magic, enchantment represents stringed instruments—creating resonant tones that continue vibrating long after the initial pluck. The enchanter is like a harpist, setting up strings of magic that continue to play their melody independently.
+마법의 음악적 틀에서 마법 부여는 현악기를 나타냅니다. 처음 뜯은 후에도 오랫동안 계속 진동하는 공명음을 생성합니다. 마법 부여가는 하프 연주자와 같아서 독립적으로 멜로디를 계속 연주하는 마법의 현을 설정합니다.
 
-Enchantment spells are described in terms of "resonance" and "harmony," with each successful enchantment requiring perfect tuning to its material vessel. Master enchanters can create "symphonies" of multiple interconnected enchantments that respond to each other like sections of an orchestra.
+마법 부여 주문은 "공명"과 "조화"의 관점에서 설명되며, 각 성공적인 마법 부여에는 재료 용기에 대한 완벽한 튜닝이 필요합니다. 마스터 마법 부여가는 오케스트라의 섹션처럼 서로 반응하는 여러 개의 상호 연결된 마법 부여의 "교향곡"을 만들 수 있습니다.
 
-## Notable Practitioners
+## 주목할만한 실무자
 
-- **Seraphina Moonweaver**: Architect of modern enchantment theory and creator of the Perpetual Resonance Principle
-- **Thaddeus Runehand**: Legendary runesmith who developed the Integrated Circuit System of enchantment
-- **Lydia Soulstring**: Pioneer in ethical mindweaving and emotional enchantment
-- **Galen Wardwright**: Creator of the Concentric Defense system for layered protective enchantments
-- **Vasilisa Everforge**: Master artificer known for creating enchanted items that grow stronger with use
+- **세라피나 문위버**: 현대 마법 부여 이론의 건축가이자 영구 공명 원리 창시자
+- **태디어스 룬핸드**: 마법 부여의 통합 회로 시스템을 개발한 전설적인 룬스미스
+- **리디아 소울스트링**: 윤리적 마인드위빙 및 감정적 마법 부여의 선구자
+- **갈렌 워드라이트**: 레이어드 보호 마법 부여를 위한 동심 방어 시스템 창시자
+- **바실리사 에버포지**: 사용하면 강해지는 마법 부여된 아이템을 만드는 것으로 유명한 마스터 아티피서
 
-## Safety Protocols
+## 안전 프로토콜
 
-Due to the potential dangers of enchantment, standardized safety measures include:
+마법 부여의 잠재적 위험으로 인해 표준화된 안전 조치에는 다음이 포함됩니다.
 
-- **Containment Circles**: Magical boundaries that limit effect spread during creation
-- **Resonance Dampeners**: Tools to slow or halt unstable enchantment processes
-- **Disenchantment Keys**: Built-in methods to safely deactivate enchantments
-- **Stability Monitors**: Devices that track enchantment integrity during creation
-- **Energy Limiters**: Safeguards preventing power overload in enchanted items
-- **Isolation Chambers**: Specialized rooms for testing potentially unstable enchantments
+- **봉쇄 원**: 창조 중에 효과 확산을 제한하는 마법 경계
+- **공명 감쇠기**: 불안정한 마법 부여 프로세스를 늦추거나 중단하는 도구
+- **마법 해제 키**: 마법 부여를 안전하게 비활성화하는 내장 방법
+- **안정성 모니터**: 생성 중에 마법 부여 무결성을 추적하는 장치
+- **에너지 제한기**: 마법 부여된 아이템의 전력 과부하를 방지하는 안전 장치
+- **격리 챔버**: 잠재적으로 불안정한 마법 부여를 테스트하기 위한 특수 룸
 
-The Enchanter's Oath, taken by all certified practitioners, includes the promise to "bind with purpose, not permanence; to enchant with foresight, not just desire; and to unmake what proves harmful, regardless of the cost or challenge."
+모든 인증된 실무자가 사용하는 마법 부여가의 맹세에는 "목적을 가지고 결속하고 영구적으로 결속하지 않으며, 욕망이 아닌 예지력을 가지고 마법을 부여하고, 비용이나 도전에 관계없이 해로운 것으로 판명된 것을 해체하겠다"는 약속이 포함되어 있습니다.
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Harmonic Theory](/codex/Magics/HarmonicTheory.md)* 
+*참조: [마나 정화](/codex/Magics/ManaMechanics.md), [야생 마나](/codex/Magics/WildMana.md), [조화 이론](/codex/Magics/HarmonicTheory.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

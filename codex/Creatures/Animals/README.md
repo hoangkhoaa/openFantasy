@@ -1,121 +1,124 @@
-# Animals of OpenFantasy
+# OpenFantasy의 동물들
 
-> *"From the smallest songbird to the mightiest leviathan, the animal kingdom provides the vibrant backdrop against which all stories unfold."*
+> *"가장 작은 울새부터 가장 강력한 리바이어던에 이르기까지, 동물계는 모든 이야기가 펼쳐지는 생생한 배경을 제공합니다."*
 
-## Overview
+## 개요
 
-Animals in OpenFantasy represent the diverse non-sentient fauna that inhabit the world's ecosystems. While they lack the advanced reasoning and civilization-building capabilities of sentient species, animals possess varying degrees of intelligence, instinct, and in some cases, innate magical properties.
+OpenFantasy의 동물들은 세계 생태계에 서식하는 다양한 비지성 생명체를 나타냅니다. 그들은 지성 종족의 고등 사고력과 문명 건설 능력은 부족하지만, 다양한 수준의 지능, 본능, 그리고 경우에 따라선 타고난 마법적 속성을 가지고 있습니다.
 
-Unlike the purely magical beings or constructed creatures, animals evolved naturally within the world's ecosystems, though some have been influenced by magical environments or selective breeding by sentient species.
+순수한 마법적 존재나 인공 생물과는 달리, 동물들은 세계 생태계 내에서 자연적으로 진화했지만, 일부는 마법적 환경이나 지성 종족의 선택적 번식에 영향을 받았습니다.
 
-## Elemental Composition
+## 원소 구성
 
-Animals typically have a higher proportion of Exanthis (physical form) compared to Soul and Mana Capacity, with some notable exceptions:
+동물들은 일반적으로 영혼과 마나 용량에 비해 엑산티스(물리적 형태)의 비율이 높으며, 몇 가지 주목할 만한 예외가 있습니다.
 
-| Animal Category | Typical Elemental Ratio | Notes |
+| 동물 분류 | 일반적인 원소 비율 | 비고 |
 |-----------------|-------------------------|-------|
-| Common Mundane | E: 75-90%, S: 8-20%, M: 2-5% | Most standard wildlife |
-| Companion Animals | E: 65-85%, S: 12-25%, M: 3-10% | Domesticated species with higher intelligence |
-| Apex Predators | E: 70-85%, S: 10-20%, M: 5-15% | Evolved for hunting efficiency |
-| Magical Animals | E: 50-75%, S: 5-15%, M: 15-45% | Species with innate magical properties |
+| 일반적인 동물 | E: 75-90%, S: 8-20%, M: 2-5% | 대부분의 일반적인 야생 동물 |
+| 반려동물 | E: 65-85%, S: 12-25%, M: 3-10% | 지능이 높은 가축화된 종 |
+| 최상위 포식자 | E: 70-85%, S: 10-20%, M: 5-15% | 사냥 효율성을 위해 진화 |
+| 마법 동물 | E: 50-75%, S: 5-15%, M: 15-45% | 타고난 마법적 속성을 가진 종 |
 
-## Animal Classifications
+## 동물 분류
 
-### Domesticated Animals
+### 가축
 
-Species that have been selectively bred by sentient races for specific purposes:
+특정 목적을 위해 지성 종족에 의해 선택적으로 번식된 종:
 
-| Category | Examples | Primary Uses |
+| 분류 | 예시 | 주요 용도 |
 |----------|----------|--------------|
-| **Working Animals** | Horses, oxen, pack mules | Transportation, agriculture, labor |
-| **Companion Animals** | Dogs, cats, small birds | Emotional bonding, protection, pest control |
-| **Livestock** | Cattle, sheep, poultry | Food production, materials (wool, leather) |
-| **Guardian Beasts** | Wardogs, sentinel falcons | Security, perimeter control |
+| **노동 동물** | 말, 소, 노새 | 운송, 농업, 노동 |
+| **반려동물** | 개, 고양이, 작은 새 | 정서적 유대감, 보호, 해충 방제 |
+| **가축** | 소, 양, 가금류 | 식량 생산, 재료 (양모, 가죽) |
+| **수호 동물** | 경비견, 감시 매 | 보안, 경계 통제 |
 
-→ See [Domesticated Animals](Domesticated.md) for detailed information.
+→ 자세한 내용은 [가축](Domesticated.md)을 참조하십시오.
 
-### Wild Animals
+### 야생 동물
 
-Creatures that exist independently in natural ecosystems:
+자연 생태계에서 독립적으로 존재하는 생물:
 
-| Category | Examples | Ecological Role |
+| 분류 | 예시 | 생태적 역할 |
 |----------|----------|----------------|
-| **Herbivores** | Deer, rabbits, grazing beasts | Primary consumers, seed dispersal |
-| **Predators** | Wolves, large cats, birds of prey | Population control, ecosystem balance |
-| **Scavengers** | Vultures, carrion beetles | Decomposition, disease prevention |
-| **Pollinators** | Bees, butterflies, hummingbirds | Plant reproduction, ecosystem sustainability |
+| **초식 동물** | 사슴, 토끼, 초식 짐승 | 1차 소비자, 종자 확산 |
+| **포식자** | 늑대, 대형 고양이, 맹금류 | 개체 수 조절, 생태계 균형 |
+| **청소 동물** | 독수리, 송장 딱정벌레 | 부패, 질병 예방 |
+| **수분 매개자** | 벌, 나비, 벌새 | 식물 번식, 생태계 지속 가능성 |
 
-→ See [Wild Animals](Wild.md) for detailed information.
+→ 자세한 내용은 [야생 동물](Wild.md)을 참조하십시오.
 
-### Aquatic Creatures
+### 수생 생물
 
-Beings adapted to life in water environments:
+물 환경에 적응한 생물:
 
-| Category | Examples | Habitat |
+| 분류 | 예시 | 서식지 |
 |----------|----------|---------|
-| **Marine Mammals** | Whales, dolphins, seals | Oceans, coastal waters |
-| **Fish Species** | Trout, sharks, deep-sea species | Rivers, lakes, oceans |
-| **Crustaceans & Mollusks** | Crabs, octopi, giant squid | Ocean floors, tidal zones |
-| **Amphibious** | Frogs, newts, transitional species | Wetlands, shorelines |
+| **해양 포유류** | 고래, 돌고래, 물개 | 대양, 연안 해역 |
+| **어류 종** | 송어, 상어, 심해 종 | 강, 호수, 대양 |
+| **갑각류 및 연체 동물** | 게, 문어, 거대 오징어 | 해저, 조간대 |
+| **양서류** | 개구리, 도롱뇽, 과도기적 종 | 습지, 해안선 |
 
-→ See [Aquatic Animals](Aquatic.md) for detailed information.
+→ 자세한 내용은 [수생 동물](Aquatic.md)을 참조하십시오.
 
-### Magical Animals
+### 마법 동물
 
-Creatures with innate magical properties, evolved in areas with high mana concentration:
+마나 농도가 높은 지역에서 진화한, 타고난 마법적 속성을 가진 생물:
 
-| Category | Examples | Magical Properties |
+| 분류 | 예시 | 마법적 속성 |
 |----------|----------|-------------------|
-| **Elemental Aligned** | Phoenixes, frost wolves | Manifestation of elemental energies |
-| **Mythical Beasts** | Griffins, unicorns, manticores | Complex magical anatomies |
-| **Mana Sensitives** | Arcane ravens, spell hounds | Detection and interaction with magical energies |
-| **Transmuted Species** | Crystal butterflies, glowfish | Permanently altered by magical environments |
+| **원소 정렬** | 불사조, 서리 늑대 | 원소 에너지의 발현 |
+| **신화 속 야수** | 그리핀, 유니콘, 만티코어 | 복잡한 마법적 해부학 |
+| **마나 감지 동물** | 마법 까마귀, 주문 사냥개 | 마법 에너지 감지 및 상호 작용 |
+| **변형된 종** | 수정 나비, 발광 물고기 | 마법 환경에 의해 영구적으로 변경됨 |
 
-→ See [Magical Animals](Magical.md) for detailed information.
+→ 자세한 내용은 [마법 동물](Magical.md)을 참조하십시오.
 
-## Ecological Significance
+## 생태적 중요성
 
-Animals play crucial roles in maintaining the ecological balance of OpenFantasy:
+동물들은 OpenFantasy의 생태적 균형을 유지하는 데 중요한 역할을 합니다.
 
-### Natural Cycles
+### 자연 순환
 
-- **Food Webs**: Complex interdependent relationships between species
-- **Material Cycles**: Contribution to nutrient cycling through consumption and decomposition
-- **Environmental Shaping**: Landscape modification through grazing, burrowing, and other behaviors
-- **Magical Energy Distribution**: Some species serve as natural conduits or regulators of magical energy
+- **먹이 사슬**: 종 간의 복잡한 상호 의존적 관계
+- **물질 순환**: 섭취 및 분해를 통한 영양소 순환에 기여
+- **환경 형성**: 방목, 굴착 및 기타 행동을 통한 경관 수정
+- **마법 에너지 분배**: 일부 종은 마법 에너지의 자연적 도관 또는 조절기 역할을 합니다.
 
-### Interactions with Sentient Species
+### 지성 종과의 상호 작용
 
-- **Resource Provision**: Food, materials, labor, and transportation
-- **Companionship**: Emotional bonds between animals and sentient beings
-- **Magical Assistance**: Familiars, magical detection, spell components
-- **Cultural Significance**: Symbolism, spiritual importance, artistic inspiration
+- **자원 제공**: 식량, 재료, 노동 및 운송
+- **동반 관계**: 동물과 지성 생물 간의 정서적 유대감
+- **마법적 지원**: 패밀리어, 마법 감지, 주문 구성 요소
+- **문화적 중요성**: 상징, 영적 중요성, 예술적 영감
 
-## Mana Interaction
+## 마나 상호 작용
 
-While most animals cannot consciously manipulate mana as sentient species do, their relationship with magical energy takes various forms:
+대부분의 동물은 지성 종족처럼 의식적으로 마나를 조작할 수 없지만, 마법 에너지와의 관계는 다양한 형태로 나타납니다.
 
-| Interaction Type | Manifestation | Examples |
+| 상호 작용 유형 | 발현 | 예시 |
 |------------------|---------------|----------|
-| **Passive Absorption** | Accumulation of ambient magical energy | Animals in mana-rich environments gradually developing magical traits |
-| **Instinctive Channeling** | Natural, non-conscious use of magical abilities | A phoenix's rebirth cycle, a unicorn's purification abilities |
-| **Environmental Adaptation** | Physical changes in response to magical surroundings | Creatures in wild magic zones developing protective adaptations |
-| **Familiar Bonds** | Enhanced magical capabilities through connection with mages | Wizard's familiar gaining intelligence and magical resistance |
+| **수동적 흡수** | 주변 마법 에너지의 축적 | 마나가 풍부한 환경의 동물이 점차적으로 마법적 특성을 개발합니다. |
+| **본능적 통로** | 마법 능력의 자연적, 무의식적 사용 | 불사조의 부활 주기, 유니콘의 정화 능력 |
+| **환경 적응** | 마법 환경에 대한 반응으로 인한 물리적 변화 | 야생 마법 지대의 생물이 보호 적응을 개발합니다. |
+| **패밀리어 결속** | 마법사와의 연결을 통해 향상된 마법 능력 | 마법사의 패밀리어가 지능과 마법 저항력을 얻습니다. |
 
-## Ecological Zones and Endemic Species
+## 생태 구역 및 고유 종
 
-OpenFantasy features diverse biomes, each with specialized animal adaptations:
+OpenFantasy는 다양한 생물 군계를 특징으로 하며, 각 군계에는 특화된 동물 적응이 있습니다.
 
-| Biome | Notable Species | Special Adaptations |
+| 생물 군계 | 주목할 만한 종 | 특별한 적응 |
 |-------|-----------------|---------------------|
-| **Frostwilds** | Snow lions, glacier bears, frost eagles | Cold resistance, seasonal camouflage |
-| **Verdant Plains** | Thunderhooves (bison), prairie wolves, hawk swarms | Herd behaviors, endurance migration |
-| **Ancient Forests** | Shadowbears, treestriders, whispermoths | Magical camouflage, connection to forest spirits |
-| **Desert Expanse** | Sand wyrms, heat scorpions, mirage gazelles | Water conservation, heat regulation |
-| **Enchanted Marshes** | Glowtoads, spell leeches, mist cranes | Mana filtration, magical detoxification |
-| **Crystal Mountains** | Stone eagles, echo goats, geomite swarms | Mineral metabolism, navigation in magnetic fields |
-| **Abyssal Depths** | Pressure sharks, luminfin anglers, void eels | Extreme pressure adaptation, bioluminescence |
+| **서리 황무지** | 눈 사자, 빙하 곰, 서리 독수리 | 추위 저항, 계절적 위장 |
+| **푸른 평원** | 천둥발굽 (들소), 대초원 늑대, 매 떼 | 무리 행동, 지구력 이동 |
+| **고대 숲** | 그림자 곰, 나무 거인, 속삭임 나방 | 마법적 위장, 숲의 정령과의 연결 |
+| **사막 팽창** | 모래 와이번, 열 스콜피온, 신기루 가젤 | 물 보존, 열 조절 |
+| **마법에 걸린 늪지대** | 발광 두꺼비, 주문 거머리, 안개 두루미 | 마나 여과, 마법 해독 |
+| **수정 산** | 돌 독수리, 메아리 염소, 지오마이트 떼 | 미네랄 대사, 자기장에서의 탐색 |
+| **심연 해저** | 압력 상어, 루민핀 아귀, 공허 뱀장어 | 극단적인 압력 적응, 생물 발광 |
 
 ---
 
-> *"To understand a land, one must first understand its creatures—for they are the living expression of the environment itself."* — Naturalist Elara Greenmantle 
+> *"땅을 이해하려면 먼저 그 생물을 이해해야 합니다. 왜냐하면 그것들은 환경 자체의 살아있는 표현이기 때문입니다."* — 박물학자 엘라라 그린맨틀
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

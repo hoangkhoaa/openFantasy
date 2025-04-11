@@ -1,250 +1,254 @@
-# **Enhancement Buffs**: The Amplifiers of Magical Potential
+# **강화 버프**: 마법 잠재력의 증폭기
 
-[**Enhancement Buffs**](/codex/Magics/EnhancementBuffs.md) are specialized spells designed to temporarily augment a practitioner's natural magical capabilities. Like amplifiers and resonance chambers that enhance a musical instrument's sound, these buffs strengthen specific aspects of a caster's magical ability, allowing them to perform beyond their natural limitations.
+[**강화 버프**](/codex/Magics/EnhancementBuffs.md)는 시전자의 타고난 마법 능력을 일시적으로 증강시키도록 설계된 특수한 마법입니다. 마치 악기의 소리를 증폭시키는 증폭기나 공명실처럼, 이러한 버프는 시전자의 마법 능력의 특정 측면을 강화하여 자연적인 한계를 초월하는 능력을 발휘할 수 있게 합니다.
 
-## Fundamentals of Enhancement Buffs
+## 강화 버프의 기본 원리
 
-Enhancement buffs operate by temporarily altering the caster's elemental composition or magical resonance:
+강화 버프는 시전자의 원소 구성 또는 마법 공명을 일시적으로 변경하여 작동합니다.
 
-| Buff Type | Effect | Duration | Limitations |
+| 버프 유형 | 효과 | 지속 시간 | 제한 사항 |
 |---------|------------|---------|----------|
-| **Mana Amplification** | Increases total mana capacity | Short to medium | Strain on physical body |
-| **Purification Enhancement** | Improves mana purification ability | Medium | Mental fatigue |
-| **Pattern Stability** | Enhances ability to maintain complex patterns | Short | Soul wear |
-| **Resonance Attunement** | Strengthens connection to specific frequencies | Medium to long | Reduced flexibility |
+| **마나 증폭** | 총 마나 용량 증가 | 짧음 ~ 중간 | 신체에 부담 |
+| **정화 강화** | 마나 정화 능력 향상 | 중간 | 정신적 피로 |
+| **패턴 안정성** | 복잡한 패턴 유지 능력 향상 | 짧음 | 영혼 소모 |
+| **공명 조율** | 특정 주파수와의 연결 강화 | 중간 ~ 김 | 유연성 감소 |
 
-All enhancement buffs share common characteristics:
-- **Temporary Nature**: Effects fade after a specific duration
-- **Diminishing Returns**: Multiple applications become less effective
-- **Recovery Period**: A necessary rest period after buff expiration
-- **Balance Principle**: Enhancement of one aspect often reduces others
+모든 강화 버프는 다음과 같은 공통적인 특징을 공유합니다.
+- **일시적인 성격**: 효과는 특정 지속 시간 후에 사라집니다.
+- **수확 체감**: 여러 번 적용할수록 효과가 감소합니다.
+- **회복 기간**: 버프 만료 후 필요한 휴식 기간
+- **균형의 원리**: 한 측면의 강화는 종종 다른 측면의 감소를 초래합니다.
 
-## Wild Mana and Enhancement Buffs
+## 야생 마나와 강화 버프
 
-The relationship between [**Wild Mana**](/codex/Magics/WildMana.md) and enhancement buffs is complex and potentially volatile. While Wild Mana can provide unpredictable boosts to buff potency, it introduces significant risks:
+[**야생 마나**](/codex/Magics/WildMana.md)와 강화 버프 간의 관계는 복잡하고 잠재적으로 불안정합니다. 야생 마나가 버프 효능에 예측 불가능한 부스트를 제공할 수 있지만 상당한 위험을 수반합니다.
 
-### Wild Mana Amplification
+### 야생 마나 증폭
 
-Some practitioners deliberately introduce controlled amounts of Wild Mana into enhancement buffs:
+일부 시전자는 의도적으로 제어된 양의 야생 마나를 강화 버프에 도입합니다.
 
-| Technique | Potential Benefit | Risk Factor | Risk Description |
+| 기술 | 잠재적 이점 | 위험 요인 | 위험 설명 |
 |-----------|-------------------|-------------|------------------|
-| **Chaos Infusion** | 25-50% increased buff potency | Very High | Unpredictable side effects, duration fluctuations |
-| **Edge Harmonics** | Extended buff duration | High | Potential buff collapse, rebound effects |
-| **Wild Resonance** | Enhanced magical sensitivity | Extreme | Sensory overload, magical signature disruption |
-| **Primal Drawing** | Access to raw magical potential | Critical | Wild Mana contamination, elemental corruption |
+| **카오스 주입** | 버프 효능 25-50% 증가 | 매우 높음 | 예측 불가능한 부작용, 지속 시간 변동 |
+| **엣지 하모닉스** | 버프 지속 시간 연장 | 높음 | 잠재적 버프 붕괴, 반동 효과 |
+| **야생 공명** | 향상된 마법 감도 | 극심함 | 감각 과부하, 마법 서명 붕괴 |
+| **원초적 끌어당김** | 원시 마법 잠재력에 접근 | 치명적 | 야생 마나 오염, 원소 부패 |
 
-> *"Wild Mana doesn't simply enhance your buffs—it transforms them into something neither you nor any text can predict. Those who embrace this path walk a line between unprecedented power and becoming the very chaos they sought to harness."* — Magister Thorne, Specialist in Experimental Enhancements
+> *"야생 마나는 단순히 버프를 강화하는 것이 아니라, 당신이나 어떤 텍스트도 예측할 수 없는 무언가로 변화시킵니다. 이 길을 택한 사람들은 전례 없는 힘과 그들이 길들이려고 했던 혼돈 그 자체가 되는 것 사이의 경계를 걷습니다."* — 메지스터 Thorne, 실험적 강화 전문가
 
-### Instability Factors
+### 불안정 요인
 
-The stability of Wild Mana-enhanced buffs depends on several factors:
+야생 마나로 강화된 버프의 안정성은 여러 요인에 따라 달라집니다.
 
-- **Practitioner's Experience**: More experienced mages can contain greater Wild Mana ratios
-- **Environmental Conditions**: Magical stability of the casting location
-- **Buff Complexity**: Simpler buffs tolerate more Wild Mana
-- **Personal Resonance**: Individual magical signatures respond differently to Wild Mana
-- **Preparation Time**: Proper containment structures reduce instability
+- **시전자의 경험**: 숙련된 마법사는 더 높은 야생 마나 비율을 억제할 수 있습니다.
+- **환경 조건**: 시전 위치의 마법적 안정성
+- **버프 복잡성**: 단순한 버프는 더 많은 야생 마나를 견딜 수 있습니다.
+- **개인 공명**: 개인의 마법 서명은 야생 마나에 다르게 반응합니다.
+- **준비 시간**: 적절한 억제 구조는 불안정성을 줄입니다.
 
-### Wild Enhancement Protocols
+### 야생 강화 프로토콜
 
-Academies that teach Wild Enhancement techniques enforce strict protocols:
+야생 강화 기술을 가르치는 아카데미는 엄격한 프로토콜을 시행합니다.
 
-1. **Calibration Testing**: Determining a practitioner's personal Wild Mana tolerance
-2. **Containment Training**: Techniques to isolate Wild Mana effects
-3. **Emergency Dispersion**: Methods to safely discharge unstable enhancements
-4. **Incremental Exposure**: Gradually increasing Wild Mana ratios through controlled practice
-5. **Harmonic Stabilization**: Techniques to partially order Wild Mana through resonance
+1. **교정 테스트**: 시전자의 개인적인 야생 마나 내성 결정
+2. **억제 훈련**: 야생 마나 효과를 격리하는 기술
+3. **비상 분산**: 불안정한 강화를 안전하게 방출하는 방법
+4. **점진적 노출**: 제어된 연습을 통해 야생 마나 비율을 점진적으로 증가
+5. **조화 안정화**: 공명을 통해 야생 마나를 부분적으로 정렬하는 기술
 
-Most reputable magical institutions consider Wild Enhancement techniques experimental and potentially dangerous, requiring special permits and supervision for their practice.
+대부분의 평판이 좋은 마법 기관은 야생 강화 기술을 실험적이고 잠재적으로 위험한 것으로 간주하여 그 실습에 특별 허가 및 감독을 요구합니다.
 
-## Purification Enhancement Buffs
+## 정화 강화 버프
 
-These buffs specifically enhance a caster's ability to purify raw mana, enabling higher levels of magical precision and efficiency.
+이러한 버프는 특히 시전자의 원시 마나 정화 능력을 향상시켜 더 높은 수준의 마법 정확성과 효율성을 가능하게 합니다.
 
-### Crystal Clarity
+### 수정 명료성
 
-A fundamental purification enhancement that sharpens mental focus:
+정신 집중을 강화하는 기본적인 정화 강화:
 
-- **Effect**: Increases purification efficiency by 30-50%
-- **Duration**: 1-2 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Clear quartz, pure water
-- **Musical Analogy**: Tuning a string to perfect pitch
-- **Side Effects**: Slight sensory hypersensitivity
+- **효과**: 정화 효율성 30-50% 증가
+- **지속 시간**: 1-2시간
+- **시전 복잡성**: 보통 (복합 패턴)
+- **필요 구성 요소**: 투명 석영, 순수한 물
+- **음악적 비유**: 현을 완벽한 피치로 조율
+- **부작용**: 약간의 감각 과민성
 
-### Harmonic Filter
+### 조화 필터
 
-Creates a secondary resonance field that automatically filters mana:
+마나를 자동으로 필터링하는 보조 공명 필드 생성:
 
-- **Effect**: Allows automatic purification to Standard level without mental focus
-- **Duration**: 3-4 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Resonating crystal tuned to the caster's frequency
-- **Musical Analogy**: Acoustic filter that removes unwanted frequencies
-- **Side Effects**: Reduced sensitivity to ambient mana
+- **효과**: 정신 집중 없이 표준 수준으로 자동 정화 가능
+- **지속 시간**: 3-4시간
+- **시전 복잡성**: 높음 (복잡한 패턴)
+- **필요 구성 요소**: 시전자의 주파수에 맞춰 조율된 공명 수정
+- **음악적 비유**: 원치 않는 주파수를 제거하는 음향 필터
+- **부작용**: 주변 마나에 대한 감도 감소
 
-### Purification Cascade
+### 정화 캐스케이드
 
-Advanced buff that creates a self-sustaining purification cycle:
+자체 유지 정화 사이클을 생성하는 고급 버프:
 
-- **Effect**: Purification becomes 75% more efficient and continues without constant attention
-- **Duration**: 30-45 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Purified mana crystal, silver dust
-- **Musical Analogy**: Perfect acoustics that enhance every note
-- **Side Effects**: Mental exhaustion after expiration
+- **효과**: 정화가 75% 더 효율적으로 이루어지며 지속적인 주의 없이 계속됩니다.
+- **지속 시간**: 30-45분
+- **시전 복잡성**: 매우 높음 (복잡한 패턴)
+- **필요 구성 요소**: 정화된 마나 수정, 은 가루
+- **음악적 비유**: 모든 음을 향상시키는 완벽한 음향
+- **부작용**: 만료 후 정신적 피로
 
-### Crystalline Mind
+### 수정 정신
 
-Elite buff that transforms mental processes to achieve perfect mana filtering:
+완벽한 마나 필터링을 달성하기 위해 정신 과정을 변환하는 엘리트 버프:
 
-- **Effect**: Allows achievement of Perfect purity level with minimal effort
-- **Duration**: 10-15 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Diamond dust, essence of clarity
-- **Musical Analogy**: Crystal glass resonating at perfect frequency
-- **Side Effects**: Temporary loss of emotional access, risk of mental strain
+- **효과**: 최소한의 노력으로 완벽한 순도 수준 달성 가능
+- **지속 시간**: 10-15분
+- **시전 복잡성**: 극심함 (그랜드 패턴)
+- **필요 구성 요소**: 다이아몬드 가루, 명료성의 정수
+- **음악적 비유**: 완벽한 주파수로 공명하는 수정 유리
+- **부작용**: 일시적인 감정 접근 상실, 정신적 부담 위험
 
-## Mana Capacity Enhancement Buffs
+## 마나 용량 강화 버프
 
-These buffs focus on increasing the total amount of mana a caster can hold and channel, functioning like expanded reservoirs.
+이러한 버프는 시전자가 보유하고 전달할 수 있는 총 마나 양을 늘리는 데 중점을 두며, 확장된 저수지와 같은 역할을 합니다.
 
-### Mana Well
+### 마나 우물
 
-Basic enhancement that expands internal mana reservoirs:
+내부 마나 저장소를 확장하는 기본 강화:
 
-- **Effect**: Increases mana capacity by 25-40%
-- **Duration**: 2-3 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Blue sapphire, night dew
-- **Musical Analogy**: Expanding a drum's resonance chamber
-- **Side Effects**: Slight physical weariness
+- **효과**: 마나 용량 25-40% 증가
+- **지속 시간**: 2-3시간
+- **시전 복잡성**: 보통 (복합 패턴)
+- **필요 구성 요소**: 청사파이어, 밤 이슬
+- **음악적 비유**: 드럼의 공명실 확장
+- **부작용**: 약간의 신체적 피로감
 
-### Ethereal Vessel
+### 에테르 용기
 
-Creates a secondary mana pool connected to the caster's natural reserves:
+시전자의 자연 보유량에 연결된 보조 마나 풀 생성:
 
-- **Effect**: Adds a separate mana reserve equal to 50% of natural capacity
-- **Duration**: 1-2 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Enchanted vessel, liquid starlight
-- **Musical Analogy**: Adding an echo chamber to an instrument
-- **Side Effects**: Feeling of weightlessness, minor dissociation
+- **효과**: 자연 용량의 50%에 해당하는 별도의 마나 보유량 추가
+- **지속 시간**: 1-2시간
+- **시전 복잡성**: 높음 (복잡한 패턴)
+- **필요 구성 요소**: 마법이 부여된 용기, 액체 별빛
+- **음악적 비유**: 악기에 에코 챔버 추가
+- **부작용**: 무중력 느낌, 경미한 해리감
 
-### Mana Cascade
+### 마나 캐스케이드
 
-Establishes a constant flow between the caster and ambient mana:
+시전자와 주변 마나 사이에 지속적인 흐름 확립:
 
-- **Effect**: Continuous mana regeneration at 3x normal rate
-- **Duration**: 30-60 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Conductor metal, essence of flow
-- **Musical Analogy**: Continuous bellows providing air to a wind instrument
-- **Side Effects**: Heightened body temperature, magical aura
+- **효과**: 정상 속도의 3배로 지속적인 마나 재생
+- **지속 시간**: 30-60분
+- **시전 복잡성**: 매우 높음 (복잡한 패턴)
+- **필요 구성 요소**: 전도체 금속, 흐름의 정수
+- **음악적 비유**: 관악기에 공기를 제공하는 지속적인 풀무
+- **부작용**: 체온 상승, 마법 오라
 
-### Soul Resonance
+### 영혼 공명
 
-Elite buff that temporarily reconfigures elemental composition:
+원소 구성을 일시적으로 재구성하는 엘리트 버프:
 
-- **Effect**: Doubles mana capacity by converting a portion of Exanthis to Mana Capacity
-- **Duration**: 5-10 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Soul resonator, essence of potential
-- **Musical Analogy**: Completely reconfiguring an instrument for maximum volume
-- **Side Effects**: Physical weakness, accelerated soul decay
+- **효과**: Exanthis의 일부를 마나 용량으로 변환하여 마나 용량 2배 증가
+- **지속 시간**: 5-10분
+- **시전 복잡성**: 극심함 (그랜드 패턴)
+- **필요 구성 요소**: 영혼 공명기, 잠재력의 정수
+- **음악적 비유**: 최대 볼륨을 위해 악기를 완전히 재구성
+- **부작용**: 신체적 쇠약, 영혼 부패 가속화
 
-## Combined Enhancement Buffs
+## 결합된 강화 버프
 
-Advanced practitioners can implement buffs that enhance both purification and capacity simultaneously.
+숙련된 시전자는 정화와 용량을 동시에 향상시키는 버프를 구현할 수 있습니다.
 
-### Mage's Ascension
+### 메이지의 승천
 
-A balanced enhancement of core magical abilities:
+핵심 마법 능력의 균형 잡힌 강화:
 
-- **Effect**: 30% increase to both purification efficiency and mana capacity
-- **Duration**: 1 hour
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Mage's crystal, essence of harmony
-- **Musical Analogy**: Perfect instrument played in perfect acoustics
-- **Side Effects**: Moderate fatigue after expiration
+- **효과**: 정화 효율성과 마나 용량 모두 30% 증가
+- **지속 시간**: 1시간
+- **시전 복잡성**: 매우 높음 (복잡한 패턴)
+- **필요 구성 요소**: 메이지의 수정, 조화의 정수
+- **음악적 비유**: 완벽한 음향으로 연주되는 완벽한 악기
+- **부작용**: 만료 후 적당한 피로
 
-### Archmage's Mantle
+### 아크메이지의 망토
 
-Elite buff used by master mages for critical magical working:
+주요 마법 작업에 마스터 메이지가 사용하는 엘리트 버프:
 
-- **Effect**: 60% increase to purification efficiency, 75% increase to mana capacity
-- **Duration**: 15-20 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Perfect focus crystal, essence of mastery
-- **Musical Analogy**: Master instrument with amplification in a perfect concert hall
-- **Side Effects**: Significant physical and mental fatigue, temporary elemental imbalance
+- **효과**: 정화 효율성 60% 증가, 마나 용량 75% 증가
+- **지속 시간**: 15-20분
+- **시전 복잡성**: 극심함 (그랜드 패턴)
+- **필요 구성 요소**: 완벽한 집중 수정, 숙달의 정수
+- **음악적 비유**: 완벽한 콘서트홀에서 증폭된 마스터 악기
+- **부작용**: 심각한 신체적 및 정신적 피로, 일시적인 원소 불균형
 
-### Ethereal Resonance
+### 에테르 공명
 
-Legendary buff that creates perfect harmony between all aspects of spellcasting:
+주문 시전의 모든 측면 간에 완벽한 조화를 이루는 전설적인 버프:
 
-- **Effect**: Doubles purification efficiency, increases mana capacity by 100%, enhances resonance by 50%
-- **Duration**: 5 minutes
-- **Casting Complexity**: Legendary (Grand Pattern with multiple anchors)
-- **Components Required**: Philosopher's crystal, essence of perfection, harmonic metal
-- **Musical Analogy**: Perfect symphony with ideal instruments, acoustics, and performers
-- **Side Effects**: Complete exhaustion, temporary inability to cast after expiration, soul wear
+- **효과**: 정화 효율성 2배, 마나 용량 100% 증가, 공명 50% 향상
+- **지속 시간**: 5분
+- **시전 복잡성**: 전설적 (여러 앵커가 있는 그랜드 패턴)
+- **필요 구성 요소**: 철학자의 수정, 완벽의 정수, 조화 금속
+- **음악적 비유**: 이상적인 악기, 음향 및 연주자와 함께하는 완벽한 교향곡
+- **부작용**: 완전한 소진, 만료 후 일시적인 시전 불가능, 영혼 소모
 
-## Buff Application Techniques
+## 버프 적용 기술
 
-The method of applying enhancement buffs affects their potency and duration:
+강화 버프 적용 방법은 효능과 지속 시간에 영향을 미칩니다.
 
-### Self-Buffing
+### 자가 버프
 
-Applying enhancements to oneself:
-- **Advantage**: Perfect attunement to personal magical signature
-- **Disadvantage**: Divides concentration between buff maintenance and spellcasting
-- **Best For**: Mages working alone on complex but non-urgent tasks
+자신에게 강화를 적용하는 방법:
+- **장점**: 개인 마법 서명에 대한 완벽한 조율
+- **단점**: 버프 유지 관리와 주문 시전 간에 집중력 분산
+- **최적 대상**: 복잡하지만 긴급하지 않은 작업을 혼자 수행하는 마법사
 
-### Partner Buffing
+### 파트너 버프
 
-Having another caster apply the buff:
-- **Advantage**: Allows full concentration on primary spellcasting
-- **Disadvantage**: Requires compatible magical signatures
-- **Best For**: Paired mages performing complex ritual magic
+다른 시전자에게 버프를 적용받는 방법:
+- **장점**: 주요 주문 시전에 완전히 집중 가능
+- **단점**: 호환 가능한 마법 서명 필요
+- **최적 대상**: 복잡한 의식 마법을 수행하는 짝을 이룬 마법사
 
-### Ritual Circle Buffing
+### 의식 서클 버프
 
-Using a prepared ritual circle to apply and maintain buffs:
-- **Advantage**: Extended duration, more stable effects
-- **Disadvantage**: Limited to specific locations
-- **Best For**: Planned magical operations with preparation time
+준비된 의식 서클을 사용하여 버프를 적용하고 유지하는 방법:
+- **장점**: 지속 시간 연장, 더 안정적인 효과
+- **단점**: 특정 위치로 제한
+- **최적 대상**: 준비 시간이 있는 계획된 마법 작업
 
-### Artifact Buffing
+### 아티팩트 버프
 
-Using magical artifacts to apply enhancement buffs:
-- **Advantage**: Consistent effects, no casting required
-- **Disadvantage**: Limited customization, dependency on artifacts
-- **Best For**: Emergencies or situations requiring reliability
+마법 아티팩트를 사용하여 강화 버프를 적용하는 방법:
+- **장점**: 일관된 효과, 시전 불필요
+- **단점**: 제한적인 사용자 지정, 아티팩트에 대한 의존성
+- **최적 대상**: 비상 상황 또는 신뢰성이 필요한 상황
 
-## Risks and Limitations
+## 위험 및 제한 사항
 
-Enhancement buffs carry significant risks when misused:
+강화 버프는 오용 시 상당한 위험을 수반합니다.
 
-### Elemental Imbalance
-- **Cause**: Excessive alteration of elemental composition
-- **Symptoms**: Unpredictable magic, physical symptoms matching the imbalanced element
-- **Treatment**: Elemental rebalancing rituals, rest in harmonically neutral environments
+### 원소 불균형
+- **원인**: 원소 구성의 과도한 변경
+- **증상**: 예측 불가능한 마법, 불균형한 원소와 일치하는 신체 증상
+- **치료**: 원소 재조정 의식, 조화롭게 중립적인 환경에서의 휴식
 
-### Arcane Addiction
-- **Cause**: Overreliance on enhancement buffs
-- **Symptoms**: Diminished natural capabilities, dependency on buffs for normal casting
-- **Treatment**: Magical detoxification, gradual reduction in buff potency
+### 비전 중독
+- **원인**: 강화 버프에 대한 과도한 의존
+- **증상**: 타고난 능력 감소, 정상적인 시전을 위한 버프에 대한 의존
+- **치료**: 마법 해독, 버프 효능의 점진적인 감소
 
-### Resonance Scarring
-- **Cause**: Repeated use of resonance-altering buffs
-- **Symptoms**: Difficulty achieving natural resonance, dissonant casting
-- **Treatment**: Harmonic therapy, extended abstention from magical practice
+### 공명 흉터
+- **원인**: 공명 변경 버프의 반복적인 사용
+- **증상**: 자연 공명 달성의 어려움, 부조화 시전
+- **치료**: 조화 치료, 마법 수련으로부터의 장기간 금지
 
-### Soul Fracturing
-- **Cause**: Extreme buffs that strain the soul's connection to mana
-- **Symptoms**: Personality changes, erratic magic, accelerated soul decay
-- **Treatment**: Soul mending rituals, specialized healing
+### 영혼 균열
+- **원인**: 영혼과 마나의 연결에 부담을 주는 극단적인 버프
+- **증상**: 성격 변화, 변덕스러운 마법, 영혼 부패 가속화
+- **치료**: 영혼 치유 의식, 특수 치료
 
-Understanding the proper use of **Enhancement Buffs** provides practitioners with powerful tools to temporarily exceed their natural limitations, like musicians using acoustic enhancements to achieve sounds beyond their instruments' natural capabilities. When used wisely, these buffs can transform a competent mage into an extraordinary force of magical potential - but always at a cost that must be carefully weighed. 
+**강화 버프**의 올바른 사용법을 이해하면 시전자는 자연적인 한계를 일시적으로 초월할 수 있는 강력한 도구를 얻을 수 있으며, 이는 마치 음악가가 음향적 향상을 사용하여 악기의 자연적인 능력을 뛰어넘는 소리를 달성하는 것과 같습니다. 현명하게 사용하면 이러한 버프는 유능한 마법사를 특별한 마법 잠재력으로 바꾸어 놓을 수 있지만, 항상 신중하게 고려해야 할 대가가 따릅니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

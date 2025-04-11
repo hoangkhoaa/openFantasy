@@ -1,184 +1,187 @@
-# **The Elemental Mana Spectrum**: From Base to Specialized Forms
+# **엘리멘탈 마나 스펙트럼**: 기본 형태부터 특수 형태까지
 
-> *"As white light contains all colors, so does Base Mana contain all elements, awaiting the prism of will to separate and reveal them."* — Archmage Elyssian Prismheart
+> *"흰 빛이 모든 색을 포함하듯이, 기본 마나는 모든 원소를 담고 있으며, 의지의 프리즘이 분리하여 드러내기를 기다린다."* - 대마법사 엘리시안 프리즘하트
 
-## Quick Reference
-- [Spectrum Overview](#spectrum-overview)
-- [Primary Elements](#primary-elements)
-- [Secondary Elements](#secondary-elements)
-- [Tertiary Combinations](#tertiary-combinations)
-- [Elemental Oppositions](#elemental-oppositions)
-- [Practical Applications](#practical-applications)
+## 빠른 참조
+- [스펙트럼 개요](#스펙트럼-개요)
+- [기본 원소](#기본-원소)
+- [2차 원소](#2차-원소)
+- [3차 조합](#3차-조합)
+- [원소 간의 대립](#원소-간의-대립)
+- [실용적인 응용](#실용적인-응용)
 
-## Spectrum Overview
+## 스펙트럼 개요
 
-The Elemental Mana Spectrum represents the complete range of specialized mana types that can be derived from neutral [Base Mana](/codex/Magics/Core/BaseMana.md) through the process of [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md). This spectrum follows specific patterns and relationships that determine how elemental energies interact, combine, and oppose one another. Understanding these relationships is essential for advanced spellcasting, particularly when working with multiple elements simultaneously.
+엘리멘탈 마나 스펙트럼은 [마나 전문화](/codex/Magics/Core/ManaSpecialization.md) 과정을 통해 중립적인 [기본 마나](/codex/Magics/Core/BaseMana.md)에서 파생될 수 있는 특수 마나 유형의 전체 범위를 나타냅니다. 이 스펙트럼은 원소 에너지가 상호 작용하고, 결합하고, 서로 대립하는 방식을 결정하는 특정 패턴과 관계를 따릅니다. 이러한 관계를 이해하는 것은 특히 여러 원소를 동시에 다룰 때 고급 주문 시전에 필수적입니다.
 
-### Visualization of the Spectrum
+### 스펙트럼 시각화
 
-The Elemental Spectrum can be visualized in several ways:
+엘리멘탈 스펙트럼은 여러 가지 방법으로 시각화할 수 있습니다.
 
-1. **The Chromatic Circle**: A circular arrangement showing elemental transitions and oppositions
-2. **The Harmonic Scale**: A linear representation emphasizing resonance relationships
-3. **The Three-Dimensional Matrix**: A spatial model revealing complex interaction potentials
-4. **The Wavelength Continuum**: A representation of elements as varying frequencies of Base Mana
+1. **색상환**: 원소 전환과 대립을 보여주는 원형 배열
+2. **조화로운 음계**: 공명 관계를 강조하는 선형 표현
+3. **3차원 매트릭스**: 복잡한 상호 작용 잠재력을 드러내는 공간 모델
+4. **파장 연속체**: 기본 마나의 다양한 주파수로 원소를 나타내는 표현
 
-Each visualization offers different insights into elemental relationships.
+각 시각화는 원소 관계에 대한 다양한 통찰력을 제공합니다.
 
-### The Specialization Gradient
+### 전문화 기울기
 
-The transition from Base Mana to fully specialized elemental forms is not binary but occurs along a gradient:
+기본 마나에서 완전히 전문화된 원소 형태로의 전환은 이진법이 아니라 기울기를 따라 발생합니다.
 
-| Specialization Level | Base Mana Content | Elemental Character | Typical Application |
+| 전문화 수준 | 기본 마나 함량 | 원소 특성 | 일반적인 응용 |
 |----------------------|-------------------|---------------------|---------------------|
-| 0% (Pure Base) | 100% | None | Structural foundations, force effects |
-| 1-25% | 75-99% | Subtle influence | Gentle effects, broad-spectrum magic |
-| 25-50% | 50-75% | Clear influence | Standard magical workings |
-| 50-75% | 25-50% | Dominant character | Element-focused spellcasting |
-| 75-90% | 10-25% | Very strong expression | Specialized elemental magic |
-| 90-100% | 0-10% | Pure elemental form | Elemental manifestations, summonings |
+| 0% (순수 기본) | 100% | 없음 | 구조적 기초, 힘 효과 |
+| 1-25% | 75-99% | 미묘한 영향 | 부드러운 효과, 광범위한 마법 |
+| 25-50% | 50-75% | 명확한 영향 | 표준 마법 작업 |
+| 50-75% | 25-50% | 지배적인 특성 | 원소 중심 주문 시전 |
+| 75-90% | 10-25% | 매우 강한 표현 | 전문화된 원소 마법 |
+| 90-100% | 0-10% | 순수한 원소 형태 | 원소 현현, 소환 |
 
-This gradient explains why many spells require specific proportions of Base Mana and elemental types rather than pure forms.
+이 기울기는 많은 주문이 순수한 형태가 아닌 특정 비율의 기본 마나와 원소 유형을 필요로 하는 이유를 설명합니다.
 
-## Primary Elements
+## 기본 원소
 
-The foundation of the elemental spectrum consists of ten primary elements, each representing fundamental aspects of reality:
+엘리멘탈 스펙트럼의 기초는 10개의 기본 원소로 구성되며, 각 원소는 현실의 기본적인 측면을 나타냅니다.
 
-### The Four Classical Elements
+### 4대 고전 원소
 
-| Element | Mana Type | Core Essence | Primary Domain | Associated Emotion |
+| 원소 | 마나 유형 | 핵심 본질 | 주요 영역 | 관련 감정 |
 |---------|-----------|--------------|----------------|---------------------|
-| **Fire** | Pyromana | Energy and transformation | Heat, light, consumption | Passion, anger, enthusiasm |
-| **Water** | Aquamana | Flow and adaptation | Liquids, purification, change | Calm, flexibility, empathy |
-| **Earth** | Terramana | Stability and substance | Solidity, endurance, growth | Steadfastness, stubbornness, patience |
-| **Air** | Aeromana | Movement and freedom | Gases, communication, space | Intellect, curiosity, whimsy |
+| **불** | 파이로마나 | 에너지 및 변환 | 열, 빛, 소비 | 열정, 분노, 열의 |
+| **물** | 아쿠아마나 | 흐름 및 적응 | 액체, 정화, 변화 | 평온, 유연성, 공감 |
+| **땅** | 테라마나 | 안정성 및 물질 | 견고함, 인내, 성장 | 확고함, 완고함, 인내심 |
+| **공기** | 에어로마나 | 움직임 및 자유 | 기체, 통신, 공간 | 지성, 호기심, 변덕 |
 
-### The Three Celestial Elements
+### 3대 천상 원소
 
-| Element | Mana Type | Core Essence | Primary Domain | Associated Emotion |
+| 원소 | 마나 유형 | 핵심 본질 | 주요 영역 | 관련 감정 |
 |---------|-----------|--------------|----------------|---------------------|
-| **Light** | Luxmana | Illumination and truth | Radiance, revelation, purification | Hope, clarity, optimism |
-| **Shadow** | Umbramana | Concealment and mystery | Darkness, secrets, conservation | Introspection, caution, fear |
-| **Aether** | Aetheramana | Possibility and void | Space, potential, connection | Wonder, uncertainty, imagination |
+| **빛** | 룩스마나 | 조명 및 진실 | 광채, 계시, 정화 | 희망, 명확성, 낙관주의 |
+| **그림자** | 움브라마나 | 은폐 및 신비 | 어둠, 비밀, 보존 | 자기 성찰, 주의, 두려움 |
+| **에테르** | 에테르마나 | 가능성 및 공허 | 공간, 잠재력, 연결 | 경이로움, 불확실성, 상상력 |
 
-### The Three Vital Elements
+### 3대 생명 원소
 
-| Element | Mana Type | Core Essence | Primary Domain | Associated Emotion |
+| 원소 | 마나 유형 | 핵심 본질 | 주요 영역 | 관련 감정 |
 |---------|-----------|--------------|----------------|---------------------|
-| **Life** | Vitamana | Growth and vitality | Creation, healing, flourishing | Joy, love, compassion |
-| **Death** | Mortismana | Decay and transition | Ending, transformation, recycling | Acceptance, grief, resignation |
-| **Time** | Chronomana | Sequence and duration | Progression, preservation, memory | Anticipation, nostalgia, regret |
+| **생명** | 비타마나 | 성장 및 활력 | 창조, 치유, 번성 | 기쁨, 사랑, 연민 |
+| **죽음** | 모르티스마나 | 부패 및 전환 | 끝, 변형, 재활용 | 수용, 슬픔, 체념 |
+| **시간** | 크로노마나 | 순서 및 지속 시간 | 진행, 보존, 기억 | 기대, 향수, 후회 |
 
-## Secondary Elements
+## 2차 원소
 
-Through the combination of primary elements, the following secondary elements emerge:
+기본 원소의 조합을 통해 다음과 같은 2차 원소가 나타납니다.
 
-| Secondary Element | Component Elements | Mana Designation | Key Properties | Common Applications |
+| 2차 원소 | 구성 원소 | 마나 지정 | 주요 속성 | 일반적인 응용 |
 |-------------------|-------------------|------------------|----------------|---------------------|
-| **Lightning** | Fire + Air | Fulgumana | Sudden energy, conductivity | Electricity manipulation, rapid effects |
-| **Ice** | Water + Air | Glacimana | Preservation, stillness | Cooling, slowing, crystallization |
-| **Metal** | Earth + Fire | Metallimana | Refinement, conductivity | Strengthening, forging, enhancing |
-| **Wood** | Earth + Water | Lignimana | Growth, flexibility | Plant manipulation, organic structures |
-| **Steam** | Water + Fire | Vapormana | Transformation, permeation | Purification, dispersion, cleansing |
-| **Sand** | Earth + Air | Arenimana | Division, erosion | Abrasion, dispersion, shifting |
-| **Crystal** | Earth + Light | Crystmana | Structure, amplification | Energy storage, resonance, clarity |
-| **Mist** | Water + Shadow | Nebulmana | Obscuration, boundary blurring | Concealment, confusion, transition |
-| **Sunlight** | Fire + Light | Solmana | Vivification, illumination | Growth acceleration, purification |
-| **Moonlight** | Shadow + Light | Lunarmana | Reflection, subtle influence | Subtle transformations, divination |
+| **번개** | 불 + 공기 | 풀구마나 | 갑작스러운 에너지, 전도성 | 전기 조작, 빠른 효과 |
+| **얼음** | 물 + 공기 | 글라시마나 | 보존, 고요함 | 냉각, 감속, 결정화 |
+| **금속** | 땅 + 불 | 메탈리마나 | 정제, 전도성 | 강화, 단조, 향상 |
+| **나무** | 땅 + 물 | 리그니마나 | 성장, 유연성 | 식물 조작, 유기 구조 |
+| **증기** | 물 + 불 | 베이포마나 | 변환, 침투 | 정화, 분산, 청소 |
+| **모래** | 땅 + 공기 | 아레니마나 | 분할, 침식 | 연마, 분산, 이동 |
+| **결정** | 땅 + 빛 | 크리스타마나 | 구조, 증폭 | 에너지 저장, 공명, 명확성 |
+| **안개** | 물 + 그림자 | 네불마나 | 은폐, 경계 흐림 | 은폐, 혼란, 전환 |
+| **햇빛** | 불 + 빛 | 솔마나 | 활성화, 조명 | 성장 가속, 정화 |
+| **달빛** | 그림자 + 빛 | 루나마나 | 반사, 미묘한 영향 | 미묘한 변환, 점술 |
 
-## Tertiary Combinations
+## 3차 조합
 
-Complex combinations of three or more elements create tertiary forms with highly specialized applications:
+3개 이상의 원소의 복잡한 조합은 고도로 전문화된 응용 프로그램을 가진 3차 형태를 만듭니다.
 
-| Tertiary Element | Component Elements | Properties | Applications |
+| 3차 원소 | 구성 원소 | 속성 | 응용 |
 |------------------|-------------------|------------|--------------|
-| **Storm** | Air + Water + Lightning | Chaotic energy, weather patterns | Weather manipulation, combined elemental force |
-| **Magma** | Earth + Fire + Shadow | Destructive transformation, primordial force | Creation through destruction, fundamental change |
-| **Spirit** | Life + Death + Aether | Consciousness, transcendence | Soul magic, consciousness manipulation |
-| **Radiance** | Light + Fire + Life | Pure creative energy, divine essence | Healing, purification, manifestation |
-| **Void** | Shadow + Death + Aether | Absence, negation, antimatter | Nullification, banishment, creating absolute emptiness |
-| **Bloom** | Water + Earth + Life | Fertility, complex growth systems | Ecosystem creation, complex organic manipulation |
+| **폭풍** | 공기 + 물 + 번개 | 혼돈스러운 에너지, 날씨 패턴 | 날씨 조작, 결합된 원소 힘 |
+| **마그마** | 땅 + 불 + 그림자 | 파괴적인 변환, 원시적인 힘 | 파괴를 통한 창조, 근본적인 변화 |
+| **정신** | 생명 + 죽음 + 에테르 | 의식, 초월 | 영혼 마법, 의식 조작 |
+| **광휘** | 빛 + 불 + 생명 | 순수한 창조 에너지, 신성한 본질 | 치유, 정화, 현현 |
+| **공허** | 그림자 + 죽음 + 에테르 | 부재, 부정, 반물질 | 무효화, 추방, 절대적인 공허 생성 |
+| **개화** | 물 + 땅 + 생명 | 비옥함, 복잡한 성장 시스템 | 생태계 창조, 복잡한 유기 조작 |
 
-## Elemental Oppositions
+## 원소 간의 대립
 
-Elements exist in oppositional pairs that create tension when combined:
+원소는 결합될 때 긴장을 생성하는 대립 쌍으로 존재합니다.
 
-### Primary Oppositions
+### 기본 대립
 
-| Element | Opposed By | Interaction Effect | Specialized Application |
+| 원소 | 대립 | 상호 작용 효과 | 전문화된 응용 |
 |---------|------------|-------------------|-------------------------|
-| Fire | Water | Energy dampening, steam creation | Phase transition magic |
-| Earth | Air | Force nullification, dust creation | Erosion and particulate magic |
-| Light | Shadow | Visual neutralization, twilight creation | Boundary magic, transitions |
-| Life | Death | Cycle regulation, transformation | Metamorphosis magic |
-| Aether | Time | Space-time manipulation | Dimensional magic, temporal dilation |
+| 불 | 물 | 에너지 감쇠, 증기 생성 | 상 변화 마법 |
+| 땅 | 공기 | 힘 무효화, 먼지 생성 | 침식 및 미립자 마법 |
+| 빛 | 그림자 | 시각적 중화, 황혼 생성 | 경계 마법, 전환 |
+| 생명 | 죽음 | 주기 조절, 변환 | 변태 마법 |
+| 에테르 | 시간 | 시공간 조작 | 차원 마법, 시간 지연 |
 
-### The Opposition Principle
+### 대립 원리
 
-When oppositional elements are combined:
+대립 원소가 결합될 때:
 
-1. **Energy Requirement**: Substantially higher mana requirement (typically 2-3× normal)
-2. **Instability**: More difficult to maintain stable spell patterns
-3. **Volatility**: Greater risk of spell failure or unintended effects
-4. **Powerful Effects**: Successfully combining opposites creates powerful, specialized magic
-5. **Neutralization**: At perfect balance, opposed elements can neutralize each other
+1. **에너지 요구 사항**: 상당히 높은 마나 요구 사항 (일반적으로 2-3배)
+2. **불안정성**: 안정적인 주문 패턴을 유지하기가 더 어려움
+3. **휘발성**: 주문 실패 또는 의도하지 않은 효과의 위험 증가
+4. **강력한 효과**: 반대되는 것을 성공적으로 결합하면 강력하고 전문화된 마법이 생성됨
+5. **중화**: 완벽한 균형에서 반대되는 원소는 서로를 중화시킬 수 있음
 
-> *"True mastery is not avoiding elemental opposition but harnessing the creative tension between opposing forces."* — Balancier Equilibrium, Master of Harmonic Magic
+> *"진정한 숙달은 원소 대립을 피하는 것이 아니라 반대되는 힘 사이의 창조적인 긴장을 활용하는 것입니다."* - 조화 마법의 달인, 균형 조절자 이퀼리브리엄
 
-## Elemental Resonance Frequencies
+## 원소 공명 주파수
 
-Each elemental type vibrates at specific frequencies derived from Base Mana:
+각 원소 유형은 기본 마나에서 파생된 특정 주파수로 진동합니다.
 
-| Element | Relative Frequency | Harmonic Character | Resonant Materials |
+| 원소 | 상대 주파수 | 조화 특성 | 공명 재료 |
 |---------|-------------------|-------------------|---------------------|
-| Base Mana | 1.0 (Reference) | Pure fundamental | Clear quartz, silver |
-| Fire | 2.7-3.2 | Sharp, crackling | Ruby, brass, charcoal |
-| Water | 0.3-0.7 | Flowing, soothing | Sapphire, copper, shells |
-| Earth | 0.1-0.4 | Deep, steady | Emerald, iron, clay |
-| Air | 1.8-2.2 | Light, variable | Opal, tin, feathers |
-| Light | 3.0-3.5 | Bright, penetrating | Diamond, gold, mirror glass |
-| Shadow | 0.2-0.5 | Muffled, absorbent | Onyx, lead, black velvet |
-| Life | 1.2-1.6 | Pulsing, rhythmic | Amber, living wood, bone |
-| Death | 0.4-0.8 | Slow, consuming | Jet, cold iron, ash |
-| Time | 1.5-2.0 | Regular, precise | Amethyst, mercury, clockwork |
-| Aether | 2.5-3.0 | Ethereal, distant | Celestite, platinum, void glass |
+| 기본 마나 | 1.0 (기준) | 순수한 기본 | 투명한 석영, 은 |
+| 불 | 2.7-3.2 | 날카롭고, 딱딱거리는 소리 | 루비, 황동, 숯 |
+| 물 | 0.3-0.7 | 흐르고, 부드러움 | 사파이어, 구리, 조개 |
+| 땅 | 0.1-0.4 | 깊고, 꾸준함 | 에메랄드, 철, 점토 |
+| 공기 | 1.8-2.2 | 가볍고, 가변적 | 오팔, 주석, 깃털 |
+| 빛 | 3.0-3.5 | 밝고, 관통력 있음 | 다이아몬드, 금, 거울 유리 |
+| 그림자 | 0.2-0.5 | 둔탁하고, 흡수성 | 오닉스, 납, 검은 벨벳 |
+| 생명 | 1.2-1.6 | 고동치고, 규칙적 | 호박, 살아있는 나무, 뼈 |
+| 죽음 | 0.4-0.8 | 느리고, 소모적 | 제트, 차가운 철, 재 |
+| 시간 | 1.5-2.0 | 규칙적이고, 정확함 | 자수정, 수은, 시계 장치 |
+| 에테르 | 2.5-3.0 | 덧없고, 멀리 떨어져 있음 | 천청석, 백금, 공허 유리 |
 
-These frequencies explain why certain materials serve as better conduits for specific elemental magics.
+이러한 주파수는 특정 재료가 특정 원소 마법에 더 나은 도체 역할을 하는 이유를 설명합니다.
 
-## Practical Applications
+## 실용적인 응용
 
-### Elemental Balancing
+### 원소 균형
 
-The practical application of the elemental spectrum involves:
+엘리멘탈 스펙트럼의 실용적인 응용에는 다음이 포함됩니다.
 
-- **Spell Composition**: Selecting appropriate elemental ratios for desired effects
-- **Opposition Management**: Techniques for working with opposed elements
-- **Harmonic Spellcraft**: Creating spell patterns that leverage natural resonance
-- **Conversion Efficiency**: Optimizing the specialization process for specific elements
+- **주문 구성**: 원하는 효과를 위해 적절한 원소 비율 선택
+- **대립 관리**: 대립 원소를 다루는 기술
+- **조화로운 주문 제작**: 자연 공명을 활용하는 주문 패턴 생성
+- **변환 효율**: 특정 원소에 대한 전문화 프로세스 최적화
 
-### Spell Design Principles
+### 주문 디자인 원칙
 
-1. **Elemental Core**: Identify the primary element most aligned with the desired effect
-2. **Complementary Support**: Add supporting elements that enhance the primary effect
-3. **Base Mana Framework**: Determine the appropriate Base Mana proportion for stability
-4. **Opposition Avoidance**: Structure the spell to minimize oppositional interactions unless specifically required
-5. **Resonance Optimization**: Adjust patterns to maximize natural harmonic relationships
+1. **원소 핵심**: 원하는 효과와 가장 일치하는 기본 원소 식별
+2. **보완 지원**: 기본 효과를 향상시키는 지원 원소 추가
+3. **기본 마나 프레임워크**: 안정성을 위해 적절한 기본 마나 비율 결정
+4. **대립 방지**: 특별히 필요하지 않은 경우 대립 상호 작용을 최소화하도록 주문 구조화
+5. **공명 최적화**: 자연스러운 조화 관계를 최대화하도록 패턴 조정
 
-### Elemental Affinities and Training
+### 원소 친화력 및 훈련
 
-Most casters have natural affinities for certain elements and resistance to others. Training typically progresses in this sequence:
+대부분의 시전자는 특정 원소에 대한 자연적인 친화력과 다른 원소에 대한 저항력을 가지고 있습니다. 훈련은 일반적으로 다음 순서로 진행됩니다.
 
-1. **Affinity Element**: Beginning with one's strongest natural elemental connection
-2. **Adjacent Elements**: Moving to elements with harmonic compatibility
-3. **Complementary Elements**: Learning elements that enhance one's affinity
-4. **Neutral Elements**: Practicing with elements having neither strong affinity nor resistance
-5. **Resistant Elements**: Gradually developing skill with difficult elements
-6. **Opposed Elements**: Finally attempting one's natural opposition
+1. **친화 원소**: 가장 강력한 자연 원소 연결로 시작
+2. **인접 원소**: 조화로운 호환성을 가진 원소로 이동
+3. **보완 원소**: 자신의 친화력을 향상시키는 원소 학습
+4. **중립 원소**: 강한 친화력도 저항력도 없는 원소로 연습
+5. **저항 원소**: 어려운 원소로 점진적으로 기술 개발
+6. **대립 원소**: 마지막으로 자신의 자연적인 대립 시도
 
-> *"The spectrum of elements is like a painter's palette. Base Mana is the canvas, elements are the colors, and the mage is the artist who brings them together in creation."* — Chromastus the Vivid, Master of Elemental Artistry
+> *"원소의 스펙트럼은 화가의 팔레트와 같습니다. 기본 마나는 캔버스이고, 원소는 색상이며, 마법사는 창조로 함께 가져오는 예술가입니다."* - 엘리멘탈 예술의 달인, 생생한 크로마스투스
 
-## Conclusion
+## 결론
 
-The Elemental Mana Spectrum represents one of the most fundamental organizing principles in magical theory. By understanding how Base Mana differentiates into specialized forms, how these forms relate to one another, and how they can be combined and manipulated, spellcasters gain access to the full range of magical possibilities. Whether creating simple single-element spells or complex multi-elemental workings, knowledge of the spectrum provides the theoretical foundation for effective spellcraft.
+엘리멘탈 마나 스펙트럼은 마법 이론에서 가장 기본적인 조직 원리 중 하나를 나타냅니다. 기본 마나가 어떻게 전문화된 형태로 분화되는지, 이러한 형태가 서로 어떻게 관련되는지, 그리고 어떻게 결합하고 조작할 수 있는지를 이해함으로써 주문 시전자는 마법적 가능성의 전체 범위에 액세스할 수 있습니다. 간단한 단일 원소 주문을 만들든 복잡한 다중 원소 작업을 수행하든 스펙트럼에 대한 지식은 효과적인 주문 제작을 위한 이론적 토대를 제공합니다.
 
-> *"At the beginning and end of all elemental work lies Base Mana—the alpha and omega of the magical spectrum. From neutrality springs infinite variety, and to neutrality all eventually returns."* — The Final Theorem of Archmage Prismatica 
+> *"모든 원소 작업의 시작과 끝에는 기본 마나가 있습니다. 마법 스펙트럼의 알파이자 오메가입니다. 중립성에서 무한한 다양성이 생겨나고, 모든 것은 결국 중립성으로 돌아갑니다."* - 대마법사 프리즈마티카의 최종 정리
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

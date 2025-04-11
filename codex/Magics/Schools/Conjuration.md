@@ -1,213 +1,217 @@
-# **The School of Conjuration**
+# **소환술 학교**
 
-> *"To conjure is to reach across the veil of possibility and draw forth that which exists elsewhere. It is not creation, but connection—a bridge between realms."*  
-> — Archconjurer Thaddeus Voidcaller, Master of the Summoning Circle
+> *"소환이란 가능성의 장막을 가로질러 다른 곳에 존재하는 것을 불러오는 행위입니다. 창조가 아닌 연결, 즉 영역 간의 다리입니다."*
+> — 대소환사 타데우스 보이드콜러, 소환 마법진의 대가
 
-## Overview
+## 개요
 
-Conjuration is the school of magic focused on calling forth matter, energy, or entities from elsewhere—whether from another location in the material world, elemental planes, or even other dimensions. Unlike illusion that creates sensory deception or evocation that generates effects from raw magical energy, conjuration involves the transportation, manifestation, or binding of pre-existing elements. It is considered one of the most potentially dangerous magical disciplines due to its interaction with forces and entities beyond the caster's native realm.
+소환술은 물질, 에너지 또는 개체를 다른 곳에서—물질 세계의 다른 위치, 정령계 또는 다른 차원에서—불러오는 데 집중하는 마법 학교입니다. 감각적인 기만을 창조하는 환영 마법이나 순수한 마법 에너지로부터 효과를 생성하는 기원 마법과는 달리, 소환술은 이미 존재하는 요소의 이동, 현현 또는 결속을 포함합니다. 시전자의 고유 영역을 넘어선 힘과 개체와의 상호 작용으로 인해 잠재적으로 가장 위험한 마법 분야 중 하나로 간주됩니다.
 
-## Fundamental Principles
+## 기본 원리
 
-### The Correspondence Axiom
+### 상응의 공리
 
-The foundation of conjuration theory is the Correspondence Axiom, which states that all things that exist share fundamental resonant patterns that can be leveraged to create connections across space, time, and dimensional boundaries. By replicating these patterns, conjurers can establish temporary or permanent links between distant points.
+소환술 이론의 기초는 상응의 공리입니다. 이 공리는 존재하는 모든 것은 공간, 시간 및 차원 경계를 가로질러 연결을 생성하는 데 활용될 수 있는 근본적인 공명 패턴을 공유한다고 명시합니다. 이러한 패턴을 복제함으로써 소환사는 먼 지점 사이에 일시적 또는 영구적 연결을 설정할 수 있습니다.
 
-### Primary Components
+### 주요 구성 요소
 
-All conjuration spells incorporate three fundamental components:
+모든 소환 주문은 세 가지 기본 구성 요소를 통합합니다.
 
-1. **Pattern Recognition**: Identifying the specific resonant signature of the target
-2. **Spatial Bridging**: Creating a connection between the caster's location and the target's location
-3. **Manifestation Control**: Guiding and containing the conjured element upon arrival
+1. **패턴 인식**: 대상의 특정 공명 신호 식별
+2. **공간 연결**: 시전자의 위치와 대상의 위치 간의 연결 생성
+3. **현현 제어**: 도착 시 소환된 요소를 안내하고 억제
 
-More complex conjurations add additional components:
+더 복잡한 소환에는 추가 구성 요소가 추가됩니다.
 
-4. **Binding Frameworks**: Establishing control over conjured entities
-5. **Duration Anchoring**: Extending the manifestation period beyond immediate casting
-6. **Return Protocols**: Methods for dismissing or returning conjured elements
+4. **결속 프레임워크**: 소환된 개체에 대한 제어 확립
+5. **지속 시간 고정**: 즉각적인 시전을 넘어 현현 기간 연장
+6. **귀환 프로토콜**: 소환된 요소를 해제하거나 되돌리는 방법
 
-### Mana Requirements
+### 마나 요구 사항
 
-Conjuration requires specific combinations of mana types, with purity levels that increase with the complexity and distance of the conjuration:
+소환에는 특정 마나 유형의 조합이 필요하며, 순도 수준은 소환의 복잡성과 거리에 따라 증가합니다.
 
-| Conjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
-|------------------|-------------|----------------|---------------|---------|
-| Object Summoning | Base Mana (40-50%) | Terramana (20-30%) | N/A | Material objects |
-| Elemental Calling | Base Mana (50-60%) | Elemental type (30-40%) | N/A | Elemental forces |
-| Entity Summoning | Base Mana (60-70%) | Varies by entity | Aetheramana (10-20%) | Living beings |
-| Teleportation | Base Mana (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Self/object movement |
-| Extradimensional Space | Base Mana (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Pocket dimensions |
-| Planar Gateway | Base Mana (70-80%) | Aetheramana (40-50%) | Varies by plane | Interplanar travel |
+| 소환 유형      | 주요 마나          | 보조 마나           | 3차 마나         | 목적             |
+|--------------|-------------------|-------------------|----------------|----------------|
+| 물체 소환      | 기본 마나 (40-50%) | 테라마나 (20-30%)  | 해당 없음        | 물질적 물체        |
+| 정령 소환      | 기본 마나 (50-60%) | 정령 유형 (30-40%) | 해당 없음        | 정령의 힘         |
+| 개체 소환      | 기본 마나 (60-70%) | 개체별로 다름      | 에테르마나 (10-20%) | 살아있는 존재       |
+| 순간 이동      | 기본 마나 (50-60%) | 크로노스마나 (20-30%) | 에테르마나 (10-20%) | 자신/물체 이동     |
+| 초차원 공간     | 기본 마나 (60-70%) | 에테르마나 (20-30%) | 크로노스마나 (10-20%) | 주머니 차원         |
+| 차원 관문      | 기본 마나 (70-80%) | 에테르마나 (40-50%) | 차원별로 다름     | 차원 간 이동       |
 
-### Wild Mana Response
+### 야생 마나 반응
 
-Conjuration magic has a complex relationship with Wild Mana. While controlled conjuration requires precise patterns, Wild Mana can actually enhance certain types of summoning by:
+소환 마법은 야생 마나와 복잡한 관계를 맺고 있습니다. 제어된 소환에는 정확한 패턴이 필요하지만, 야생 마나는 실제로 다음과 같은 방식으로 특정 유형의 소환을 향상시킬 수 있습니다.
 
-- **Boundary Weakening**: Making it easier to reach across planar boundaries
-- **Manifestation Boosting**: Providing additional energy for materialization
-- **Pattern Expansion**: Allowing for less exact correspondent patterns to succeed
+- **경계 약화**: 차원 경계를 가로지르기가 더 쉬워짐
+- **현현 부스팅**: 물질화를 위한 추가 에너지 제공
+- **패턴 확장**: 덜 정확한 상응 패턴이 성공하도록 허용
 
-However, these benefits come with significant risks:
+그러나 이러한 이점에는 상당한 위험이 따릅니다.
 
-- **Location Drift**: Conjured elements may arrive from unexpected sources
-- **Partial Manifestation**: Incomplete or distorted summoning results
-- **Binding Failure**: Loss of control over conjured entities or elements
-- **Reverse Flow**: The caster being pulled toward the target rather than vice versa
+- **위치 표류**: 소환된 요소가 예상치 못한 출처에서 도착할 수 있음
+- **부분적 현현**: 불완전하거나 왜곡된 소환 결과
+- **결속 실패**: 소환된 개체 또는 요소에 대한 제어력 상실
+- **역류**: 시전자가 타겟으로 당겨지는 현상
 
-## Mana Purification for Conjuration
+## 소환을 위한 마나 정화
 
-Conjuration requires high mana purity for precise targeting and control:
+소환에는 정확한 타겟팅 및 제어를 위해 높은 마나 순도가 필요합니다.
 
-| Purification Level | Conjuration Capability |
-|--------------------|------------------------|
-| Basic (15-25%) | Simple object summoning from visible locations |
-| Intermediate (30-45%) | Elemental calling and teleportation of small objects over moderate distances |
-| Advanced (50-65%) | Entity summoning, personal teleportation, and minor extradimensional spaces |
-| Master (70-80%) | Complex entity binding, group teleportation, and stable pocket dimensions |
-| Grandmaster (85%+) | Planar gateways and permanent extradimensional constructs |
+| 정화 수준       | 소환 능력                                       |
+|--------------|---------------------------------------------|
+| 기본 (15-25%) | 보이는 위치에서 간단한 물체 소환                               |
+| 중간 (30-45%) | 정령 소환 및 중간 거리에서 작은 물체 순간 이동                         |
+| 고급 (50-65%) | 개체 소환, 개인 순간 이동 및 작은 초차원 공간                         |
+| 숙련 (70-80%) | 복잡한 개체 결속, 그룹 순간 이동 및 안정적인 주머니 차원                     |
+| 대가 (85%+)   | 차원 관문 및 영구적인 초차원 구조물                               |
 
-Insufficient purity in conjuration often results in material or spatial distortion—objects arriving damaged, locations being slightly misaligned, or entities appearing with altered properties.
+소환의 순도가 불충분하면 종종 물질적 또는 공간적 왜곡이 발생합니다. 즉, 물체가 손상된 채로 도착하거나, 위치가 약간 정렬되지 않거나, 개체가 변경된 속성으로 나타납니다.
 
-## The Conjurer's Harmony
+## 소환사의 조화
 
-Conjuration magic is conceptualized through musical counterpoint, with each spell creating harmonic relationships between source and destination:
+소환 마법은 음표 대위법을 통해 개념화되며, 각 주문은 소스와 목적지 간에 조화로운 관계를 만듭니다.
 
-- **Unison**: Direct transportation with minimal change
-- **Octave Shift**: Scaling effects (enlarging or diminishing the conjured element)
-- **Harmonization**: Adapting the conjured element to its new environment
-- **Dissonant Conjuring**: Forcing incompatible elements into manifestation
-- **Resonant Summoning**: Enhanced manifestation through matching harmonics
+- **유니슨**: 최소한의 변경으로 직접적인 전송
+- **옥타브 이동**: 효과 크기 조정 (소환된 요소 확대 또는 축소)
+- **조화**: 소환된 요소를 새로운 환경에 적응
+- **불협화음 소환**: 호환되지 않는 요소를 억지로 현현
+- **공명 소환**: 조화 일치를 통한 향상된 현현
 
-Master conjurers speak of "conducting" multiple simultaneous manifestations, maintaining distinct harmonic relationships with each conjured element.
+숙련된 소환사는 여러 동시 현현을 "지휘"하여 각 소환된 요소와 고유한 조화 관계를 유지한다고 말합니다.
 
-## Specialized Disciplines
+## 전문 분야
 
-### Summoning
+### 소환
 
-The calling of entities, whether elemental, spiritual, or organic. Practitioners are known as Summoners.
+정령, 영적 존재 또는 유기체를 포함한 개체를 불러오는 행위. 실무자는 소환사로 알려져 있습니다.
 
-### Material Conjuration
+### 물질 소환
 
-Focused on manifesting non-living objects and substances. Masters are called Materializers.
+살아있지 않은 물체 및 물질을 현현하는 데 집중합니다. 달인은 물질화자라고 합니다.
 
-### Spatial Manipulation
+### 공간 조작
 
-Specialized in teleportation and dimensional pockets. Practitioners are called Spatials.
+순간 이동 및 차원 주머니를 전문으로 합니다. 실무자는 공간사라고 합니다.
 
-### Binding
+### 결속
 
-The control and constraint of conjured entities. Masters are known as Binders.
+소환된 개체의 제어 및 제약. 달인은 결속사로 알려져 있습니다.
 
-### Gateway Creation
+### 관문 생성
 
-Establishing permanent or semi-permanent connections between locations. Practitioners are called Gateweavers.
+위치 간의 영구적 또는 반영구적 연결을 설정합니다. 실무자는 관문엮음사라고 합니다.
 
-### Dismissal
+### 해제
 
-Specialized in returning conjured elements to their origin. Masters are known as Banishers.
+소환된 요소를 원래 위치로 되돌리는 것을 전문으로 합니다. 달인은 추방사로 알려져 있습니다.
 
-### Planar Exploration
+### 차원 탐험
 
-The study and access of other planes of existence. Practitioners are called Planeswalkers.
+다른 존재 차원의 연구 및 접근. 실무자는 차원 방랑자라고 합니다.
 
-## Training Methodology
+## 훈련 방법론
 
-Conjuration training follows a structured progression:
+소환 훈련은 구조화된 진행 과정을 따릅니다.
 
-1. **Theoretical Foundations**: Understanding cross-spatial relationships and correspondence
-2. **Local Manifestation**: Practicing with objects in visual range
-3. **Distance Expansion**: Gradually increasing the range of conjuration
-4. **Elemental Work**: Summoning the more predictable elemental forces
-5. **Dimensional Theory**: Study of other planes and dimensions
-6. **Entity Protocols**: Safe summoning and binding of sentient beings
-7. **Self-Translation**: Personal teleportation techniques
-8. **Combined Operations**: Managing multiple conjurations simultaneously
+1. **이론적 기초**: 교차 공간 관계 및 상응 이해
+2. **지역 현현**: 시각적 범위 내의 물체로 연습
+3. **거리 확장**: 소환 범위 점진적 증가
+4. **정령 작업**: 더 예측 가능한 정령의 힘 소환
+5. **차원 이론**: 다른 차원 연구
+6. **개체 프로토콜**: 지각 있는 존재의 안전한 소환 및 결속
+7. **자기 변환**: 개인 순간 이동 기술
+8. **결합된 작업**: 여러 소환을 동시에 관리
 
-Training emphasizes control and containment above all else, with rigorous safety protocols developed from centuries of sometimes catastrophic failures.
+훈련은 무엇보다도 제어 및 억제를 강조하며, 때로는 파국적인 실패에서 비롯된 수 세기에 걸친 엄격한 안전 프로토콜을 개발합니다.
 
-## Conjuration in Practice
+## 실제 소환
 
-The process of casting conjuration magic follows distinct phases:
+소환 마법을 시전하는 과정은 뚜렷한 단계를 따릅니다.
 
-1. **Target Identification**: Determining the specific element to be conjured
-2. **Pattern Matching**: Establishing the resonant link to the target
-3. **Mana Purification**: Achieving the necessary purity for stable connections
-4. **Boundary Thinning**: Creating the spatial or dimensional pathway
-5. **Draw or Push**: Pulling the target to the caster or moving the caster to the target
-6. **Manifestation Stabilization**: Anchoring the conjured element in its new location
-7. **Binding (if needed)**: Establishing control over conjured entities
-8. **Dismissal Preparation**: Setting conditions for ending the conjuration
+1. **타겟 식별**: 소환할 특정 요소 결정
+2. **패턴 일치**: 타겟에 대한 공명 링크 설정
+3. **마나 정화**: 안정적인 연결에 필요한 순도 달성
+4. **경계 희석**: 공간 또는 차원 경로 생성
+5. **당기기 또는 밀기**: 타겟을 시전자에게 당기거나 시전자를 타겟으로 이동
+6. **현현 안정화**: 소환된 요소를 새로운 위치에 고정
+7. **결속 (필요한 경우)**: 소환된 개체에 대한 제어 확립
+8. **해제 준비**: 소환 종료 조건 설정
 
-For emergency conjuration, these steps may be compressed into rapid casting, while complex summonings often involve elaborate ritual circles and extended preparation.
+응급 소환의 경우 이러한 단계는 빠른 시전에 압축될 수 있지만, 복잡한 소환에는 종종 정교한 의식 마법진과 확장된 준비가 포함됩니다.
 
-## Practical Applications
+## 실제 응용 분야
 
-Conjuration serves numerous practical functions in magical society:
+소환은 마법 사회에서 수많은 실제 기능을 수행합니다.
 
-- **Transportation**: Personal and group teleportation networks, item delivery systems
-- **Resource Acquisition**: Summoning rare materials from distant locations
-- **Space Optimization**: Extradimensional storage for homes, businesses, and archives
-- **Emergency Services**: Rapid response through teleportation, summoning water for firefighting
-- **Construction**: Conjuring building materials directly at construction sites
-- **Military**: Strategic troop deployment, supply line maintenance, battlefield control
-- **Entertainment**: Conjuration performances featuring exotic entities or spectacular manifestations
+- **운송**: 개인 및 그룹 순간 이동 네트워크, 품목 배송 시스템
+- **자원 획득**: 먼 위치에서 희귀 물질 소환
+- **공간 최적화**: 주택, 사업체 및 기록 보관소를 위한 초차원 저장 공간
+- **응급 서비스**: 순간 이동을 통한 신속한 대응, 화재 진압을 위한 물 소환
+- **건설**: 건설 현장에서 건축 자재 직접 소환
+- **군사**: 전략적 부대 배치, 보급선 유지 관리, 전장 통제
+- **엔터테인먼트**: 이국적인 개체 또는 화려한 현현을 특징으로 하는 소환 공연
 
-## Ethical Considerations
+## 윤리적 고려 사항
 
-Conjuration raises significant ethical questions:
+소환은 다음과 같은 중요한 윤리적 질문을 제기합니다.
 
-- **Entity Rights**: The moral implications of summoning and binding sentient beings
-- **Ecosystem Impact**: Consequences of removing elements from their native environments
-- **Dimensional Stability**: Potential harm from weakening planar boundaries
-- **Informed Consent**: Whether entities understand or agree to being summoned
-- **Environmental Exploitation**: Using conjuration to extract resources from vulnerable regions
-- **Secure Transport**: Privacy and security concerns with teleportation networks
+- **개체 권리**: 지각 있는 존재를 소환하고 결속하는 것의 도덕적 의미
+- **생태계 영향**: 원래 환경에서 요소를 제거하는 것의 결과
+- **차원 안정성**: 차원 경계를 약화시키는 것에서 발생할 수 있는 잠재적 해악
+- **정보에 입각한 동의**: 개체가 소환되는 것을 이해하거나 동의하는지 여부
+- **환경 착취**: 취약한 지역에서 자원을 추출하기 위해 소환 사용
+- **안전한 운송**: 순간 이동 네트워크의 개인 정보 보호 및 보안 문제
 
-Most conjuration academies enforce strict ethical codes governing entity summoning and extradimensional access.
+대부분의 소환 아카데미는 개체 소환 및 초차원 접근을 규제하는 엄격한 윤리 강령을 시행합니다.
 
-## Limitations and Weaknesses
+## 한계 및 약점
 
-Despite its power, conjuration has inherent limitations:
+소환은 강력함에도 불구하고 고유한 한계가 있습니다.
 
-- **Conservation Principles**: Matter and energy can be moved but not created from nothing
-- **Correspondence Requirements**: Conjurers must have some connection to or knowledge of their target
-- **Distance Factors**: Energy requirements increase exponentially with distance or dimensional separation
-- **Unwilling Resistance**: Sentient targets can resist summoning or teleportation
-- **Planar Compatibility**: Some elements cannot exist in environments too different from their origin
-- **Dimensional Rejection**: Repeated conjuration to the same location can create instability
+- **보존 원칙**: 물질과 에너지는 이동할 수 있지만 무에서 창조할 수는 없음
+- **상응 요구 사항**: 소환사는 타겟에 대한 연결 또는 지식을 가지고 있어야 함
+- **거리 요인**: 에너지 요구 사항은 거리 또는 차원 분리에 따라 기하급수적으로 증가
+- **저항 의지**: 지각 있는 타겟은 소환 또는 순간 이동에 저항할 수 있음
+- **차원 호환성**: 일부 요소는 원래 환경과 너무 다른 환경에서 존재할 수 없음
+- **차원 거부**: 동일한 위치로 반복적인 소환은 불안정성을 초래할 수 있음
 
-Common countermeasures against conjuration include:
+소환에 대한 일반적인 대응책은 다음과 같습니다.
 
-- **Anchor Wards**: Magical protections that prevent teleportation or summoning
-- **Pattern Obscuring**: Techniques to hide one's resonant signature from would-be summoners
-- **Dimensional Shielding**: Barriers that block access from other planes
-- **Binding Severing**: Methods to break control over summoned entities
-- **Return Forcing**: Compelling conjured elements to return to their origin prematurely
+- **고정 방어구**: 순간 이동 또는 소환을 방지하는 마법 보호
+- **패턴 가리기**: 소환자가 자신의 공명 신호를 숨기는 기술
+- **차원 보호막**: 다른 차원에서 접근을 차단하는 장벽
+- **결속 끊기**: 소환된 개체에 대한 제어력을 끊는 방법
+- **귀환 강제**: 소환된 요소가 조기에 원래 위치로 돌아가도록 강요
 
-## Musical Analogy
+## 음악적 비유
 
-In the musical framework of magic, conjuration represents string instruments—creating connections that vibrate across distances, pulling disparate elements into harmony. The conjurer is like a harpist, plucking the strings that connect different points in the multiverse.
+마법의 음악적 프레임워크에서 소환은 현악기를 나타냅니다. 거리를 가로질러 진동하는 연결을 만들어 분리된 요소를 조화롭게 당깁니다. 소환사는 다원 우주의 다른 지점을 연결하는 현을 튕기는 하프 연주자와 같습니다.
 
-Conjuration spells are described in terms of "resonance" and "harmonics," with each successful manifestation requiring perfect tuning between the caster and target. Master conjurers can maintain complex "chords" of multiple connections simultaneously, drawing elements from various sources into carefully orchestrated combinations.
+소환 주문은 "공명" 및 "화성" 측면에서 설명되며, 각 성공적인 현현에는 시전자와 타겟 간의 완벽한 조율이 필요합니다. 숙련된 소환사는 여러 소스에서 요소를 끌어들여 신중하게 조율된 조합으로 만드는 동시에 여러 연결의 복잡한 "화음"을 유지할 수 있습니다.
 
-## Notable Practitioners
+## 주목할 만한 실무자
 
-- **Thaddeus Voidcaller**: Pioneer of safe entity summoning protocols and creator of the Sevenfold Binding Circle
-- **Lydia Gateheart**: Established the first permanent teleportation network spanning the continent
-- **Corvus Dimensionum**: Legendary explorer of pocket dimensions and creator of the Pocket Academy
-- **Elara Quicksilver**: Master of combat teleportation and developer of the Spatial Combat System
-- **Malachi Netherbridge**: Controversial researcher who established first contact with the Far Realms
+- **타데우스 보이드콜러**: 안전한 개체 소환 프로토콜의 개척자이자 칠중 결속 마법진의 창시자
+- **리디아 관문심장**: 대륙을 가로지르는 최초의 영구 순간 이동 네트워크 구축
+- **코르부스 디멘시오눔**: 주머니 차원의 전설적인 탐험가이자 주머니 아카데미 창시자
+- **엘라라 퀵실버**: 전투 순간 이동의 달인이자 공간 전투 시스템 개발자
+- **말라키 네더브리지**: 극외계와의 최초 접촉을 수립한 논란이 많은 연구원
 
-## Safety Protocols
+## 안전 프로토콜
 
-Due to the inherent dangers of conjuration, standardized safety measures include:
+소환의 내재적 위험성으로 인해 표준화된 안전 조치에는 다음이 포함됩니다.
 
-- **Containment Circles**: Mandatory for all entity summoning
-- **Pattern Verification**: Double-checking correspondences before casting
-- **Emergency Dismissal Words**: Universal phrases taught to instantly end conjurations
-- **Planar Anchoring**: Methods to prevent unwanted dimensional drift
-- **Entity Contracts**: Formal agreements with regularly summoned beings
-- **Observation Partners**: Required second casters for monitoring complex conjurations
+- **억제 마법진**: 모든 개체 소환에 필수
+- **패턴 검증**: 시전하기 전에 상응 관계를 이중 점검
+- **응급 해제 단어**: 소환을 즉시 종료하기 위해 가르치는 보편적인 문구
+- **차원 고정**: 원치 않는 차원 표류를 방지하는 방법
+- **개체 계약**: 정기적으로 소환되는 존재와의 공식적인 계약
+- **관찰 파트너**: 복잡한 소환을 모니터링하기 위해 필요한 두 번째 시전자
 
-The Conjurer's Oath, taken by all certified practitioners, includes the promise to "never call what cannot be dismissed, never bind what cannot be controlled, and never open doors that cannot be closed." 
+모든 공인 실무자가 취하는 소환사의 맹세에는 "해제할 수 없는 것을 불러내지 않고, 제어할 수 없는 것을 결속하지 않으며, 닫을 수 없는 문을 열지 않겠다"는 약속이 포함됩니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

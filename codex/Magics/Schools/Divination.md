@@ -1,151 +1,155 @@
-# **The School of Divination**
+# **점술 학교**
 
-> *"To see beyond sight is to understand that time and space are but suggestions to those who know how to listen."*  
-> — Archmage Thalindra Starwhisper, Oracle of the Seventh Veil
+> *"시야 너머를 보는 것은 시간과 공간이 듣는 법을 아는 자들에게는 그저 제안일 뿐이라는 것을 이해하는 것이다."*
+> — 대마법사 탈린드라 스타위스퍼, 일곱 베일의 신탁
 
-## Overview
+## 개요
 
-Divination magic focuses on gaining insight, knowledge, and understanding beyond ordinary perception. Unlike illusion magic which creates false perceptions, divination enhances and extends perception to reveal hidden truths about the past, present, and possible futures. Divination is considered one of the most subtle and complex magical arts, requiring exceptional mana control and mental discipline.
+점술 마법은 통상적인 지각을 넘어선 통찰력, 지식, 이해를 얻는 데 초점을 맞춥니다. 거짓된 지각을 만들어내는 환영 마법과는 달리, 점술은 지각을 향상시키고 확장하여 과거, 현재, 그리고 가능한 미래에 대한 숨겨진 진실을 드러냅니다. 점술은 가장 미묘하고 복잡한 마법 예술 중 하나로 여겨지며, 뛰어난 마나 제어와 정신적 수련을 필요로 합니다.
 
-## Fundamental Principles
+## 기본 원리
 
-### The Threads of Fate
+### 운명의 실
 
-Divination operates on the principle that all events, objects, and beings are connected by invisible threads of causality and resonance. These "Threads of Fate" contain information about their connections, origins, and potential futures. Divination magic allows practitioners to perceive and interpret these threads.
+점술은 모든 사건, 대상, 존재가 보이지 않는 인과 관계와 공명의 실로 연결되어 있다는 원칙에 따라 작동합니다. 이 "운명의 실"에는 연결, 기원, 잠재적 미래에 대한 정보가 담겨 있습니다. 점술 마법은 시전자들이 이 실들을 인식하고 해석할 수 있게 해줍니다.
 
-The four fundamental aspects of divinatory perception are:
+점술적 지각의 네 가지 기본 측면은 다음과 같습니다.
 
-1. **Temporal Echoes**: Residual information from past events
-2. **Spatial Connections**: Links between related objects, places, and beings
-3. **Causal Patterns**: The web of cause and effect that shapes events
-4. **Potential Futures**: Probability streams of what may come to pass
+1. **시간적 메아리**: 과거 사건에서 남은 잔류 정보
+2. **공간적 연결**: 관련된 물체, 장소, 존재 간의 연결
+3. **인과 패턴**: 사건을 형성하는 인과 관계의 그물
+4. **잠재적 미래**: 일어날 수 있는 일의 확률 흐름
 
-### Mana Requirements
+### 마나 요구 사항
 
-Divination magic requires precise mana composition:
+점술 마법은 정확한 마나 구성을 필요로 합니다.
 
-| Divinatory Focus | Primary Mana | Secondary Mana | Purpose |
+| 점술적 초점 | 주요 마나 | 보조 마나 | 목적 |
 |------------------|-------------|----------------|---------|
-| Present Sensing | Base Mana (50-70%) | Varies by target | Foundation for perception extension |
-| Past Viewing | Chronomana (40-60%) | Base Mana (30-40%) | Accessing temporal echoes |
-| Future Glimpsing | Chronomana (60-80%) | Umbramana (10-20%) | Probability stream navigation |
-| Object Reading | Base Mana (40-60%) | Terramana (30-40%) | Material memory extraction |
-| Life Reading | Base Mana (30-50%) | Floramana/Faunamana (40-50%) | Biological connection tracing |
-| Distant Viewing | Aeromana (50-70%) | Base Mana (20-30%) | Spatial perception extension |
+| 현재 감지 | 기본 마나 (50-70%) | 대상에 따라 다름 | 지각 확장 기반 |
+| 과거 보기 | 크로노마나 (40-60%) | 기본 마나 (30-40%) | 시간적 메아리 접근 |
+| 미래 엿보기 | 크로노마나 (60-80%) | 움브라마나 (10-20%) | 확률 흐름 탐색 |
+| 물체 읽기 | 기본 마나 (40-60%) | 테라마나 (30-40%) | 물질 기억 추출 |
+| 생명 읽기 | 기본 마나 (30-50%) | 플로라마나/파우나마나 (40-50%) | 생물학적 연결 추적 |
+| 원격 보기 | 에어로마나 (50-70%) | 기본 마나 (20-30%) | 공간적 지각 확장 |
 
-More powerful divination spells often require complex harmonization of multiple mana types, with precise ratios that must be maintained throughout the casting process.
+더 강력한 점술 주문은 종종 여러 마나 유형의 복잡한 조화를 필요로 하며, 시전 과정 내내 유지해야 하는 정확한 비율을 요구합니다.
 
-### Wild Mana Interference
+### 야생 마나 간섭
 
-Divination is extraordinarily vulnerable to Wild Mana contamination. The unpatterned nature of Wild Mana creates "false threads" that can lead to inaccurate readings or dangerous misinterpretations. Effects include:
+점술은 야생 마나 오염에 극도로 취약합니다. 야생 마나의 무패턴 특성은 부정확한 판독 또는 위험한 오해로 이어질 수 있는 "가짜 실"을 만듭니다. 영향은 다음과 같습니다.
 
-- **Temporal Distortion**: Viewing events from incorrect time periods
-- **False Positives**: Seeing connections that don't actually exist
-- **Probability Cascade**: Overwhelming the caster with multiple conflicting futures
-- **Perceptual Anchoring**: The caster becoming trapped in a divinatory vision
+- **시간 왜곡**: 잘못된 시간대의 사건 보기
+- **거짓 양성**: 실제로 존재하지 않는 연결 보기
+- **확률 폭포**: 시전자에게 여러 충돌하는 미래로 압도
+- **지각 고정**: 시전자가 점술적 환상에 갇히게 됨
 
-Advanced practitioners develop specialized Wild Mana filtering techniques to minimize these risks.
+숙련된 시전자들은 이러한 위험을 최소화하기 위해 특화된 야생 마나 필터링 기술을 개발합니다.
 
-## Mana Purification for Divination
+## 점술을 위한 마나 정화
 
-Divination requires exceptionally high mana purity due to the subtle nature of the information being accessed. The purification process focuses on achieving "Perceptual Clarity" - a state where the mana is refined to eliminate any elements that would create false perceptions.
+점술은 접근하는 정보의 미묘한 특성 때문에 예외적으로 높은 마나 순도를 요구합니다. 정화 과정은 "지각적 명확성"을 달성하는 데 초점을 맞추는데, 이는 마나가 거짓된 지각을 만들 수 있는 모든 요소를 제거하도록 정제되는 상태입니다.
 
-| Purification Level | Divination Capability |
+| 정화 수준 | 점술 능력 |
 |--------------------|----------------------|
-| Basic (20-30%) | Simple object reading and magical detection |
-| Intermediate (35-50%) | Short-range scrying and basic past viewing |
-| Advanced (55-70%) | Reliable future glimpsing and detailed past viewing |
-| Master (75-85%) | Long-range viewing with high accuracy and clarity |
-| Grandmaster (90%+) | Multi-temporal perception and probability manipulation |
+| 기본 (20-30%) | 간단한 물체 읽기 및 마법 감지 |
+| 중간 (35-50%) | 단거리 투시 및 기본적인 과거 보기 |
+| 고급 (55-70%) | 신뢰할 수 있는 미래 엿보기 및 자세한 과거 보기 |
+| 마스터 (75-85%) | 높은 정확도와 선명도로 장거리 보기 |
+| 그랜드마스터 (90%+) | 다중 시간적 지각 및 확률 조작 |
 
-## Magical Resonance in Divination
+## 점술의 마법 공명
 
-Divination exhibits unique resonance patterns described as "harmonic perception" - where the mana pattern synchronizes with the information being sought, allowing it to be perceived and interpreted by the caster.
+점술은 "조화로운 지각"이라고 설명되는 고유한 공명 패턴을 나타냅니다. 여기서 마나 패턴은 찾고 있는 정보와 동기화되어 시전자가 인식하고 해석할 수 있도록 합니다.
 
-This resonance is highly personal, which is why divination results can vary between practitioners even when viewing the same target. Each diviner develops a unique "perceptual signature" that colors their interpretation of divinatory information.
+이 공명은 매우 개인적이므로 동일한 대상을 보더라도 시전자마다 점술 결과가 다를 수 있습니다. 각 점술가는 점술 정보의 해석에 색을 입히는 고유한 "지각 서명"을 개발합니다.
 
-## Specialized Disciplines
+## 전문 분야
 
-### Chronomancy
+### 크로노맨시
 
-Focused on viewing events across time, particularly the past and possible futures. Practitioners are known as Chronoseers.
+시간, 특히 과거와 가능한 미래에 걸쳐 사건을 보는 데 초점을 맞춥니다. 수행자는 크로노시어라고 알려져 있습니다.
 
-### Psychometry
+### 사이코메트리
 
-The art of reading objects to perceive information about their history, owners, and significance. Masters are called Memoryreaders.
+물체의 역사를 읽어 역사, 소유자, 중요성에 대한 정보를 인식하는 기술입니다. 마스터는 메모리리더라고 불립니다.
 
-### Spatial Scrying
+### 공간 투시
 
-Specializes in viewing distant locations in the present moment. Practitioners are known as Farseers.
+현재 순간에 먼 위치를 보는 데 특화되어 있습니다. 수행자는 파시어라고 알려져 있습니다.
 
-### Auramancy
+### 오라맨시
 
-The discipline of perceiving and interpreting the magical and life energies that surround beings. Practitioners are called Aurasights.
+존재를 둘러싼 마법 및 생명 에너지를 인식하고 해석하는 학문입니다. 수행자는 오라사이트라고 불립니다.
 
-### Probability Mapping
+### 확률 매핑
 
-Advanced discipline focused on identifying and navigating potential futures. Masters are known as Fateweavers.
+잠재적 미래를 식별하고 탐색하는 데 초점을 맞춘 고급 학문입니다. 마스터는 페이트위버라고 알려져 있습니다.
 
-## Training Methodology
+## 훈련 방법론
 
-Divination training follows a methodical progression:
+점술 훈련은 체계적인 진행을 따릅니다.
 
-1. **Perceptual Expansion**: Learning to extend awareness beyond physical senses
-2. **Signal Isolation**: Developing the ability to focus on specific information threads
-3. **Wild Mana Filtering**: Techniques for eliminating perceptual contamination
-4. **Temporal Navigation**: Methods for shifting perceptual focus through time
-5. **Interpretation Rigor**: Developing systematic approaches to analyzing divinatory information
-6. **Multi-Threading**: Advanced techniques for following multiple information streams
-7. **Anchoring Practices**: Methods to maintain connection to present reality during deep divination
+1. **지각 확장**: 물리적 감각을 넘어 의식을 확장하는 법 배우기
+2. **신호 격리**: 특정 정보 스레드에 집중하는 능력 개발
+3. **야생 마나 필터링**: 지각 오염을 제거하는 기술
+4. **시간 탐색**: 시간을 통해 지각적 초점을 이동하는 방법
+5. **해석 엄격성**: 점술 정보를 분석하기 위한 체계적인 접근 방식 개발
+6. **다중 스레딩**: 여러 정보 스트림을 따르는 고급 기술
+7. **고정 실습**: 심층 점술 중에 현재 현실에 대한 연결을 유지하는 방법
 
-## Ethical Considerations
+## 윤리적 고려 사항
 
-Divination raises significant ethical concerns regarding privacy, free will, and responsibility:
+점술은 사생활, 자유 의지, 책임과 관련된 중요한 윤리적 문제를 제기합니다.
 
-- **Perceptual Consent**: The question of whether viewing others without permission violates their autonomy
-- **Future Knowledge**: The ethical implications of acting on knowledge of potential futures
-- **Intervention Responsibility**: Whether diviners have an obligation to prevent foreseen harms
-- **Truth Disclosure**: Guidelines about sharing potentially harmful divinatory information
+- **지각 동의**: 허가 없이 다른 사람을 보는 것이 자율성을 침해하는지에 대한 질문
+- **미래 지식**: 잠재적 미래에 대한 지식에 따라 행동하는 것의 윤리적 의미
+- **개입 책임**: 점술가가 예견된 해악을 방지해야 할 의무가 있는지 여부
+- **진실 공개**: 잠재적으로 해로운 점술 정보를 공유하는 것에 대한 지침
 
-Most reputable magical institutions enforce strict codes of conduct for diviners, including restrictions on divining private moments and requirements to report certain categories of foreseen threats.
+대부분의 평판이 좋은 마법 기관은 사적인 순간을 점치는 것을 제한하고 특정 범주의 예견된 위협을 보고하도록 요구하는 것을 포함하여 점술가에 대한 엄격한 행동 강령을 시행합니다.
 
-## Limitations and Countermeasures
+## 제한 사항 및 대응책
 
-Despite its power, divination has inherent limitations:
+점술은 그 힘에도 불구하고 고유한 제한 사항이 있습니다.
 
-- **Probability Flux**: Future events exist as probability streams that can shift based on choices
-- **Perceptual Filters**: The diviner's own biases can affect interpretation
-- **Energy Requirements**: Powerful divination requires significant mana and mental focus
-- **Temporal Distance**: Greater temporal or spatial distance increases difficulty and reduces accuracy
+- **확률 변동**: 미래 사건은 선택에 따라 바뀔 수 있는 확률 흐름으로 존재
+- **지각 필터**: 점술가의 편견이 해석에 영향을 미칠 수 있음
+- **에너지 요구 사항**: 강력한 점술은 상당한 마나와 정신적 집중 필요
+- **시간적 거리**: 더 큰 시간적 또는 공간적 거리는 어려움을 증가시키고 정확도를 감소시킴
 
-Common countermeasures against unwanted divination include:
+원치 않는 점술에 대한 일반적인 대응책은 다음과 같습니다.
 
-- **Veiling**: Spells that obscure objects or beings from divinatory perception
-- **Thread Severing**: Techniques that break connections that diviners might follow
-- **Pattern Disruption**: Methods that create confusing or misleading information patterns
-- **Wild Mana Saturation**: Creating local concentrations of Wild Mana to introduce false signals
+- **베일링**: 점술적 지각으로부터 물체 또는 존재를 가리는 주문
+- **스레드 절단**: 점술가가 따라갈 수 있는 연결을 끊는 기술
+- **패턴 붕괴**: 혼란스럽거나 오해의 소지가 있는 정보 패턴을 만드는 방법
+- **야생 마나 포화**: 가짜 신호를 도입하기 위해 야생 마나의 국소적 농도 생성
 
-## Musical Analogy
+## 음악적 비유
 
-In the musical framework of magic, divination is akin to active listening - the art of discerning specific instruments, harmonies, and melodies within a complex orchestration. The diviner must tune their perception to the specific "frequency" of the information they seek, filtering out background noise.
+마법의 음악적 틀에서 점술은 능동적 듣기와 유사합니다. 즉, 복잡한 오케스트레이션 내에서 특정 악기, 화음, 멜로디를 식별하는 기술입니다. 점술가는 배경 소음을 걸러내고 찾고 있는 정보의 특정 "주파수"에 지각을 맞춰야 합니다.
 
-Master diviners describe their craft as finding the silent spaces between notes, where the future and past whisper their secrets. Like a conductor who can hear a single out-of-tune instrument in a full orchestra, the skilled diviner can identify the specific thread of information they seek amidst the countless connections that bind reality together.
+마스터 점술가들은 자신의 기술을 미래와 과거가 비밀을 속삭이는 음표 사이의 조용한 공간을 찾는 것으로 묘사합니다. 전체 오케스트라에서 음정이 맞지 않는 단일 악기를 들을 수 있는 지휘자처럼 숙련된 점술가는 현실을 묶는 수많은 연결 속에서 찾고 있는 특정 정보 스레드를 식별할 수 있습니다.
 
-## Notable Practitioners
+## 주목할 만한 수행자
 
-- **Thalindra Starwhisper**: Developer of the Stellar Divination system and author of "Voices Beyond Time"
-- **Eldrin Truthseeker**: Creator of the Magic Sense spell and pioneer of magical energy detection
-- **Sylarion Fatecaller**: Master of Probability Mapping who accurately predicted the Fall of Caelum
-- **Moira Veilwalker**: Renowned for developing Wild Mana filtering techniques for divination
+- **탈린드라 스타위스퍼**: 스텔라 점술 시스템 개발자이자 "시간 너머의 목소리"의 저자
+- **엘드린 트루스시커**: 매직 센스 주문의 창시자이자 마법 에너지 감지의 선구자
+- **사일라리온 페이트콜러**: 카엘룸의 몰락을 정확하게 예측한 확률 매핑의 마스터
+- **모이라 베일워커**: 점술을 위한 야생 마나 필터링 기술 개발로 유명
 
-## Historical Development
+## 역사적 발전
 
-Divination is one of the oldest magical disciplines, with evidence of formalized practice dating to the First Age. Early divination focused primarily on weather prediction, hunting success, and tribal fate, developing from shamanic traditions.
+점술은 가장 오래된 마법 학문 중 하나이며, 공식화된 실천의 증거는 제1시대까지 거슬러 올라갑니다. 초기 점술은 주로 날씨 예측, 사냥 성공, 부족의 운명에 초점을 맞추었으며, 샤머니즘 전통에서 발전했습니다.
 
-The Second Age saw the emergence of systematic divination theory with the writing of "The Threads That Bind" by Archseer Elindor. This established the fundamental conceptual framework still used in modern practice.
+제2시대에는 아치시어 엘린도르의 "묶는 실" 작성과 함께 체계적인 점술 이론의 출현을 보았습니다. 이것은 현대 실천에서 여전히 사용되는 기본적인 개념적 틀을 확립했습니다.
 
-The Third Age brought technological and theoretical advances, particularly in the area of Wild Mana filtering and probability navigation. Modern divination continues to evolve, with increasing integration with other magical disciplines such as enchantment and warding.
+제3시대에는 특히 야생 마나 필터링 및 확률 탐색 분야에서 기술적 및 이론적 발전이 있었습니다. 현대 점술은 지속적으로 발전하고 있으며, 마법 부여 및 보호와 같은 다른 마법 학문과의 통합이 증가하고 있습니다.
 
 ---
 
-*See also: [Magic Sense](/codex/Magics/Spells/Divination/MagicSense.md), [Temporal Magic](/codex/Magics/Domains/Temporal.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*참조: [매직 센스](/codex/Magics/Spells/Divination/MagicSense.md), [시간 마법](/codex/Magics/Domains/Temporal.md), [마나 정화](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

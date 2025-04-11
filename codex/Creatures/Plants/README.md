@@ -1,158 +1,162 @@
-# Plants of OpenFantasy
+# OpenFantasy의 식물
 
-> *"In the quiet language of root and leaf is written the oldest magic of our world."*
+> *"뿌리와 잎의 조용한 언어에는 우리 세계의 가장 오래된 마법이 기록되어 있습니다."*
 
-## Overview
+## 개요
 
-The plant life of OpenFantasy represents a diverse and vital aspect of the world's ecosystem. From common crops that sustain civilizations to mystical flora with extraordinary properties, plants embody the subtle magic that permeates all living things.
+OpenFantasy의 식물 생명은 세계 생태계의 다양하고 중요한 측면을 나타냅니다. 문명을 유지하는 일반적인 작물부터 특별한 속성을 가진 신비로운 식물에 이르기까지 식물은 모든 생명체에 스며드는 미묘한 마법을 구현합니다.
 
-Unlike the animal kingdom, plants typically possess minimal Soul component and vary widely in their Mana Capacity, with some species evolving to channel and store magical energy in unique ways. The elemental composition of plants—particularly their Mana component—directly influences their properties, growth patterns, and magical potential.
+동물계와 달리 식물은 일반적으로 최소한의 영혼(Soul) 구성 요소를 가지며 마나 수용량(Mana Capacity)이 크게 다릅니다. 일부 종은 독특한 방식으로 마법 에너지를 전달하고 저장하도록 진화했습니다. 식물의 원소 구성, 특히 마나 구성 요소는 그 속성, 성장 패턴 및 마법 잠재력에 직접적인 영향을 미칩니다.
 
-## Elemental Composition
+## 원소 구성
 
-Plants generally exhibit the following elemental composition ranges:
+식물은 일반적으로 다음과 같은 원소 구성 범위를 나타냅니다.
 
-| Plant Category | Exanthis | Soul | Mana Capacity | Notes |
+| 식물 범주 | Exanthis | Soul | Mana Capacity | 참고 |
 |----------------|----------|------|---------------|-------|
-| Common Plants | 85-95% | 0-2% | 5-15% | Most standard flora |
-| Medicinal Plants | 75-85% | 1-3% | 15-25% | Natural healing properties |
-| Magical Plants | 60-80% | 1-5% | 20-40% | Innate magical attributes |
-| Sentient Plants | 70-85% | 5-15% | 10-25% | Conscious plant entities |
+| 일반 식물 | 85-95% | 0-2% | 5-15% | 대부분의 표준 식물 |
+| 약용 식물 | 75-85% | 1-3% | 15-25% | 자연 치유 속성 |
+| 마법 식물 | 60-80% | 1-5% | 20-40% | 고유한 마법 속성 |
+| 지각 식물 | 70-85% | 5-15% | 10-25% | 의식적인 식물 개체 |
 
-## Plant Classifications
+## 식물 분류
 
-### Mundane Flora
+### 평범한 식물상 (Mundane Flora)
 
-Common plants with limited or no magical properties that form the foundation of ecosystems:
+생태계의 기반을 형성하는 마법 속성이 제한적이거나 없는 일반적인 식물:
 
-| Category | Examples | Primary Uses |
+| 범주 | 예시 | 주요 용도 |
 |----------|----------|--------------|
-| **Agricultural** | Wheat, corn, fruit trees | Food production, materials |
-| **Forest Flora** | Oaks, pines, ferns | Ecosystems, building materials |
-| **Prairie Plants** | Grasses, wildflowers | Ground cover, animal fodder |
-| **Aquatic Plants** | Seaweed, lily pads, reeds | Water filtration, aquatic habitats |
+| **농업용** | 밀, 옥수수, 과일 나무 | 식량 생산, 재료 |
+| **숲 식물상** | 참나무, 소나무, 고사리 | 생태계, 건축 자재 |
+| **초원 식물** | 풀, 야생화 | 지표면 덮개, 동물 사료 |
+| **수생 식물** | 해초, 수련, 갈대 | 물 여과, 수생 서식지 |
 
-→ See [Mundane Plants](Mundane.md) for detailed information.
+→ 자세한 내용은 [Mundane Plants](Mundane.md)를 참조하십시오.
 
-### Medicinal Plants
+### 약용 식물 (Medicinal Plants)
 
-Species with natural healing or beneficial properties:
+자연 치유 또는 유익한 속성을 가진 종:
 
-| Category | Examples | Primary Effects |
+| 범주 | 예시 | 주요 효과 |
 |----------|----------|----------------|
-| **Healing Herbs** | Healer's root, bloodstop moss | Wound treatment, infection prevention |
-| **Restorative Plants** | Vitality flowers, stamina caps | Energy restoration, fatigue relief |
-| **Antidote Sources** | Venom cleansers, toxin lilies | Poison neutralization, toxin absorption |
-| **Mental Remedies** | Clarity mint, dream shade | Focus enhancement, sleep aids |
+| **치유 허브** | 치료사의 뿌리, 지혈 이끼 | 상처 치료, 감염 예방 |
+| **회복 식물** | 활력 꽃, 스테미나 캡 | 에너지 회복, 피로 완화 |
+| **해독제 공급원** | 독 클렌저, 독성 백합 | 독 중화, 독소 흡수 |
+| **정신 치료제** | 명료 민트, 꿈 그늘 | 집중력 향상, 수면 보조 |
 
-→ See [Medicinal Plants](Medicinal.md) for detailed information.
+→ 자세한 내용은 [Medicinal Plants](Medicinal.md)를 참조하십시오.
 
-### Magical Plants
+### 마법 식물 (Magical Plants)
 
-Flora with innate magical properties or the ability to interact with magical forces:
+고유한 마법 속성을 가지거나 마법의 힘과 상호 작용할 수 있는 식물상:
 
-| Category | Examples | Magical Properties |
+| 범주 | 예시 | 마법 속성 |
 |----------|----------|-------------------|
-| **Elemental Flora** | Emberblooms, frost lichen | Manifestation of elemental energies |
-| **Mana Conductors** | Spellvines, arcane mushrooms | Capture and channel magical energy |
-| **Transmutative Species** | Shapeleaf, form tubers | Physical transformation properties |
-| **Enchantment Enhancers** | Binding moss, runic ferns | Amplify or stabilize enchantments |
+| **원소 식물상** | 엠버블룸, 서리 이끼 | 원소 에너지의 발현 |
+| **마나 전도체** | 주문 덩굴, 신비로운 버섯 | 마법 에너지 포획 및 전달 |
+| **변형 종** | 모양 잎, 형태 괴경 | 물리적 변형 속성 |
+| **마법 부여 강화제** | 결속 이끼, 룬 고사리 | 마법 부여 증폭 또는 안정화 |
 
-→ See [Magical Plants](Magical.md) for detailed information.
+→ 자세한 내용은 [Magical Plants](Magical.md)를 참조하십시오.
 
-### Poisonous and Dangerous Flora
+### 유독하고 위험한 식물상 (Poisonous and Dangerous Flora)
 
-Plants with toxic or harmful properties:
+독성 또는 유해한 속성을 가진 식물:
 
-| Category | Examples | Dangerous Effects |
+| 범주 | 예시 | 위험한 효과 |
 |----------|----------|------------------|
-| **Toxic Plants** | Deathcap, voidroot | Severe poisoning, organ failure |
-| **Carnivorous Flora** | Snaptrap, digestive vines | Animal/humanoid consumption |
-| **Mind-Affecting** | Delusion caps, madness pollen | Hallucinations, confusion, insanity |
-| **Parasitic Species** | Life-drainers, energy siphons | Extract nutrients or energy from hosts |
+| **독성 식물** | 데스캡, 공허 뿌리 | 심각한 중독, 장기 부전 |
+| **육식 식물** | 스냅트랩, 소화 덩굴 | 동물/인간형 소비 |
+| **정신에 영향을 미치는** | 망상 캡, 광기 꽃가루 | 환각, 혼란, 정신 이상 |
+| **기생 종** | 생명 흡수자, 에너지 사이펀 | 숙주로부터 영양분 또는 에너지 추출 |
 
-→ See [Poisonous Plants](Poisonous.md) for detailed information.
+→ 자세한 내용은 [Poisonous Plants](Poisonous.md)를 참조하십시오.
 
-### Sentient Plant Species
+### 지각 식물 종 (Sentient Plant Species)
 
-Plants with consciousness and often mobility:
+의식과 종종 이동성을 가진 식물:
 
-| Category | Examples | Key Characteristics |
+| 범주 | 예시 | 주요 특징 |
 |----------|----------|---------------------|
-| **Treants** | Ancient oaks, guardian pines | Tree-like humanoids, forest protectors |
-| **Fungal Consciousness** | Myconids, thought fungi | Collective awareness, spore communication |
-| **Ambulatory Flora** | Tumbleweed sentinels, walking vines | Independent movement, reactive behavior |
-| **Hive Mind Plants** | Colony ferns, neural root networks | Shared consciousness across multiple plants |
+| **트렌트** | 고대 참나무, 수호 소나무 | 나무 같은 인간형, 숲 보호자 |
+| **균류 의식** | 마이코니드, 생각 버섯 | 집단적 인식, 포자 통신 |
+| **보행 식물상** | 회전초 파수꾼, 걸어 다니는 덩굴 | 독립적인 움직임, 반응적 행동 |
+| **하이브 마인드 식물** | 콜로니 고사리, 신경 뿌리 네트워크 | 여러 식물에 걸친 공유 의식 |
 
-→ See [Sentient Plants](Sentient.md) for detailed information.
+→ 자세한 내용은 [Sentient Plants](Sentient.md)를 참조하십시오.
 
-## Magical Interactions
+## 마법적 상호 작용
 
-Plants interact with mana in various significant ways:
+식물은 다양한 중요한 방식으로 마나와 상호 작용합니다.
 
-### Mana Cycling
+### 마나 순환 (Mana Cycling)
 
-Many plants participate in the natural circulation of magical energy:
+많은 식물이 마법 에너지의 자연 순환에 참여합니다.
 
-- **Absorption**: Drawing mana from soil and atmosphere
-- **Transformation**: Converting raw mana into specialized magical compounds
-- **Release**: Returning processed mana to the environment through various mechanisms
-- **Storage**: Accumulating magical energy in specialized tissues
+- **흡수**: 토양과 대기에서 마나를 끌어옴
+- **변환**: 원시 마나를 특수 마법 화합물로 변환
+- **방출**: 다양한 메커니즘을 통해 가공된 마나를 환경으로 되돌림
+- **저장**: 특수 조직에 마법 에너지 축적
 
-### Cultivation and Harvesting
+### 재배 및 수확 (Cultivation and Harvesting)
 
-Proper techniques are essential for preserving magical properties:
+마법 속성을 보존하려면 적절한 기술이 필수적입니다.
 
-| Plant Type | Harvesting Method | Timing Considerations |
+| 식물 유형 | 수확 방법 | 시기 고려 사항 |
 |------------|------------------|------------------------|
-| **Healing Herbs** | Clean cuts with silver tools | Dawn or dusk, avoiding full moon |
-| **Magical Fungi** | Gentle separation from substrate | During appropriate lunar phase |
-| **Elemental Flora** | Element-attuned implements | During element's ascendant period |
-| **Enchanted Trees** | Ritualistic branch collection | Seasonal equinox or solstice |
+| **치유 허브** | 은 도구로 깨끗하게 자름 | 새벽 또는 황혼, 보름달 피하기 |
+| **마법 버섯** | 기질에서 부드럽게 분리 | 적절한 달의 위상 동안 |
+| **원소 식물상** | 원소 조정 도구 | 원소의 상승기 동안 |
+| **마법에 걸린 나무** | 의례적인 가지 수집 | 계절의 춘분 또는 동지 |
 
-## Ecological Significance
+## 생태적 중요성
 
-Plants serve vital functions in OpenFantasy's ecosystems:
+식물은 OpenFantasy의 생태계에서 중요한 기능을 수행합니다.
 
-### Magical Stabilization
+### 마법 안정화 (Magical Stabilization)
 
-- **Ley Line Anchoring**: Certain species grow along and stabilize magical energy currents
-- **Wild Magic Mitigation**: Some plants absorb and neutralize chaotic magical discharges
-- **Elemental Balancing**: Flora that maintains equilibrium between elemental forces
-- **Planar Boundary Reinforcement**: Plants that strengthen the barriers between realms
+- **레이 라인 고정**: 특정 종은 마법 에너지 흐름을 따라 자라며 안정화
+- **야생 마법 완화**: 일부 식물은 혼란스러운 마법 방전을 흡수하고 중화
+- **원소 균형**: 원소 힘 사이의 균형을 유지하는 식물상
+- **평면 경계 강화**: 영역 간의 장벽을 강화하는 식물
 
-### Habitat Creation
+### 서식지 생성 (Habitat Creation)
 
-- **Magical Microclimates**: Plants creating zones of specialized magical conditions
-- **Extradimensional Spaces**: Flora that generates pockets of expanded or altered space
-- **Protective Enclaves**: Plant communities that shield areas from magical contamination
-- **Sentient Sanctuaries**: Conscious plant networks that selectively welcome or exclude visitors
+- **마법 미기후**: 특수한 마법 조건의 구역을 생성하는 식물
+- **초차원 공간**: 확장되거나 변경된 공간의 주머니를 생성하는 식물
+- **보호 구역**: 마법 오염으로부터 지역을 보호하는 식물 군집
+- **지각 성역**: 방문자를 선택적으로 환영하거나 배제하는 의식적인 식물 네트워크
 
-## Cultural Significance
+## 문화적 중요성
 
-Plants hold important places in the cultures and practices of sentient species:
+식물은 지각 종의 문화와 관행에서 중요한 위치를 차지합니다.
 
-| Culture | Plant Relationship | Notable Traditions |
+| 문화 | 식물 관계 | 주목할 만한 전통 |
 |---------|-------------------|-------------------|
-| **Elven** | Symbiotic gardening, tree dwelling | Living architecture, growth singing |
-| **Human** | Agricultural development, herbal medicine | Harvest festivals, medicinal traditions |
-| **Druidic** | Plant communication, forest guardianship | Grove sanctification, plant bond rituals |
-| **Fae** | Magical enhancement, plant transformation | Bloom dances, growth manipulation |
-| **Dwarven** | Subterranean cultivation, fungal specialization | Mushroom brewing, cave gardens |
+| **엘프** | 공생 정원 가꾸기, 나무 거주 | 살아있는 건축, 성장 노래 |
+| **인간** | 농업 개발, 약초 | 추수 축제, 약용 전통 |
+| **드루이드** | 식물 통신, 숲 보호 | 숲 성역화, 식물 결속 의식 |
+| **페이** | 마법 강화, 식물 변형 | 꽃춤, 성장 조작 |
+| **드워프** | 지하 재배, 균류 전문화 | 버섯 양조, 동굴 정원 |
 
-## Regions and Endemic Flora
+## 지역 및 고유 식물상
 
-Different regions feature specialized plant adaptations:
+여러 지역에서 특화된 식물 적응이 나타납니다.
 
-| Biome | Notable Flora | Special Adaptations |
+| 생물 군계 | 주목할 만한 식물상 | 특별한 적응 |
 |-------|--------------|---------------------|
-| **Arcane Forests** | Spellwood trees, mana flowers | Direct mana incorporation, magical fruit production |
-| **Elemental Plains** | Essence grasses, primordial shrubs | Element absorption, rapid adaptation |
-| **Shadow Realms** | Voidferns, umbral roses | Light absorption, shadow manifestation |
-| **Fae Wilds** | Whimsy blooms, changeberry bushes | Reality alteration, temporal manipulation |
-| **Ancient Mountains** | Stone flowers, crystal lichens | Mineral integration, extreme longevity |
-| **Enchanted Marshes** | Spellbog reeds, illusion lilies | Magic filtration, sensory effects |
+| **신비로운 숲** | 주문 나무, 마나 꽃 | 직접적인 마나 통합, 마법 과일 생산 |
+| **원소 평원** | 에센스 풀, 원시 관목 | 원소 흡수, 빠른 적응 |
+| **그림자 영역** | 공허 고사리, 어둠 장미 | 빛 흡수, 그림자 발현 |
+| **페이 황무지** | 변덕 꽃, 변화 열매 덤불 | 현실 변경, 시간 조작 |
+| **고대 산** | 돌 꽃, 수정 이끼 | 광물 통합, 극단적인 장수 |
+| **마법 늪** | 주문 늪 갈대, 환상 백합 | 마법 여과, 감각 효과 |
 
 ---
 
-> *"A garden is more than beauty; it is power, knowledge, and life itself. Cultivate accordingly."* — Lady Thorne, Master Botanist and Royal Gardener 
+> *"정원은 아름다움 그 이상입니다. 그것은 힘, 지식, 그리고 삶 자체입니다. 그에 따라 경작하십시오."* — 레이디 손, 수석 식물학자 및 왕립 정원사
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

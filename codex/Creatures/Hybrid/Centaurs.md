@@ -1,105 +1,109 @@
-# **Centaurs**: The Swift Riders of the Plains
+# **Centaurs**: 평원의 신속한 기수들
 
-[**Centaurs**](/codex/Creatures/Centaurs.md) are the swift riders of the plains, their bodies a powerful harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a galloping percussion section, they resonate with the rhythm of the land, creating a unique melody of existence that bridges the human and equine realms.
+[**Centaurs**](/codex/Creatures/Centaurs.md)는 평원의 신속한 기수들이며, 그들의 몸은 [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), 그리고 **Mana Capacity**의 강력한 조화입니다. 마치 갤럽하는 타악기 섹션처럼, 그들은 땅의 리듬과 공명하여 인간과 말의 영역을 잇는 독특한 존재의 선율을 만들어냅니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **centaurs** forms a harmony that favors physical prowess:
+[Creatures](/codex/Creatures/Creatures.md)에 자세히 설명되어 있듯이, **켄타우로스**의 일반적인 비율은 물리적인 힘을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that grants exceptional strength and speed |
-| **Soul** | 20-30% | The ethereal essence that shapes a balanced and adaptable consciousness |
-| **Mana Capacity** | 10-25% | The bridge between worlds that enables limited magical potential |
+| **Exanthis** | 50-70% | 뛰어난 힘과 속도를 부여하는 결정 심장 |
+| **Soul** | 20-30% | 균형 잡힌 적응력 있는 의식을 형성하는 에테르 본질 |
+| **Mana Capacity** | 10-25% | 제한적인 마법 잠재력을 가능하게 하는 세계 사이의 다리 |
 
-This composition grants **centaurs** their characteristic speed and strength but typically limits their magical potential compared to other species, like a powerful instrument that can play with great intensity but lacks the subtlety of a full orchestra.
+이 구성은 **켄타우로스**에게 특징적인 속도와 힘을 부여하지만, 강력한 악기가 큰 강도로 연주할 수 있지만 완전한 오케스트라의 미묘함이 부족한 것처럼, 다른 종에 비해 마법 잠재력을 제한합니다.
 
-### Individual Variations
+### 개별 변형
 
-While the model composition represents the typical centaur, individual variations exist based on their clan lineage:
+모델 구성은 일반적인 켄타우로스를 나타내지만, 각 부족의 혈통에 따라 개별적인 변형이 존재합니다.
 
-- **Wind Champions**: Some centaurs, particularly from the Windrider clan, possess Exanthis levels as high as 75%, giving them extraordinary speed and endurance that allows them to run for days without rest, though with reduced magical abilities (10% Mana Capacity).
-- **Earth Seers**: Rarer centaurs with enhanced Mana Capacity (up to 30%) can manipulate earth magic with impressive skill, particularly for tracking, healing, and strengthening clan territories.
-- **Star Prophets**: Those with higher Soul percentages (up to 35%) become wise leaders and prophets, often developing divination abilities based on celestial observations.
-- **Forest Shadows**: A specialized variant with balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity) develops extraordinary stealth abilities despite their size, becoming master hunters and scouts.
-- **Thunder Hooves**: Some centaurs develop a unique composition (65% Exanthis, 20% Soul, 15% Mana Capacity) that allows them to channel their physical energy into combat techniques that generate thunderous impacts with each strike.
+- **Wind Champions**: 일부 켄타우로스, 특히 Windrider 부족 출신은 Exanthis 수준이 75%까지 높아 뛰어난 속도와 지구력을 갖추어 며칠 동안 쉬지 않고 달릴 수 있지만 마법 능력은 감소합니다 (10% Mana Capacity).
+- **Earth Seers**: 더 희귀한 켄타우로스는 향상된 Mana Capacity (최대 30%)로 인상적인 기술로 대지 마법을 조작할 수 있으며, 특히 추적, 치유, 부족 영토 강화에 사용됩니다.
+- **Star Prophets**: 더 높은 Soul 비율 (최대 35%)을 가진 사람들은 현명한 지도자와 예언자가 되며, 종종 천체의 관찰을 기반으로 한 점술 능력을 개발합니다.
+- **Forest Shadows**: 균형 잡힌 구성 (50% Exanthis, 25% Soul, 25% Mana Capacity)을 가진 특수한 변종은 크기에도 불구하고 뛰어난 은신 능력을 개발하여 숙련된 사냥꾼과 정찰병이 됩니다.
+- **Thunder Hooves**: 일부 켄타우로스는 독특한 구성 (65% Exanthis, 20% Soul, 15% Mana Capacity)을 개발하여 물리적 에너지를 전투 기술로 전환하여 각 타격마다 천둥 같은 충격을 생성할 수 있습니다.
 
-## Physical Characteristics
+## 신체적 특징
 
-**Centaurs** are known for their powerful build and equine grace:
-- Humanoid upper bodies seamlessly joined to horse-like lower bodies
-- Height ranging from 7 to 9 feet at the shoulder, depending on their lineage
-- Muscular build with dense muscle and bone structure, like living embodiments of power
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair and manes that are often intricately braided with symbols of clan and status
-- Natural resistance to fatigue and endurance, like the endless plains they call home
+**켄타우로스**는 강력한 체격과 말의 우아함으로 유명합니다.
+- 인간형 상체는 말과 같은 하체와 매끄럽게 연결됩니다.
+- 키는 혈통에 따라 어깨에서 7피트에서 9피트 사이입니다.
+- 살아있는 힘의 구현과 같은 조밀한 근육과 뼈 구조를 가진 근육질 체격
+- [**Exanthis**](/codex/Basic/Exanthis.md)와의 연결을 반영하는 내면의 빛으로 빛나는 눈
+- 부족과 지위의 상징으로 복잡하게 땋은 머리카락과 갈기
+- 고향이라고 부르는 끝없는 평원처럼 피로와 지구력에 대한 자연적인 저항력
 
-## Physical and Magical Affinity
+## 물리적 및 마법적 친화력
 
-**Centaurs** demonstrate exceptional proficiency in speed and endurance, like virtuoso performers who excel in power and rhythm. Their composition allows them to:
-- Develop extraordinary speed and stamina, like living embodiments of the wind
-- Channel earth magic with minimal proficiency, particularly for navigation and tracking
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+**켄타우로스**는 속도와 지구력에서 뛰어난 숙련도를 보여줍니다. 마치 힘과 리듬에 뛰어난 비르투오소 연주자와 같습니다. 그들의 구성은 다음과 같은 능력을 가능하게 합니다.
+- 바람의 살아있는 구현과 같은 뛰어난 속도와 체력을 개발합니다.
+- 특히 탐색 및 추적을 위해 최소한의 숙련도로 대지 마법을 사용합니다.
+- 마법 연못의 표면을 깨는 돌처럼 높은 **Exanthis** 함량을 통해 마법 효과에 저항합니다.
 
-This power makes **centaurs** capable of achieving feats of speed and endurance that few other species can match, though they may struggle with tasks requiring complex magical abilities, like a powerful instrument that can play with great intensity but lacks the complexity of a full orchestra.
+이러한 힘으로 인해 **켄타우로스**는 다른 종이 따라올 수 없는 속도와 지구력의 위업을 달성할 수 있지만, 강력한 악기가 큰 강도로 연주할 수 있지만 완전한 오케스트라의 복잡성이 부족한 것처럼 복잡한 마법 능력을 요구하는 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## 수명과 영혼 쇠퇴
 
-The **soul decay** timeline for **centaurs**, from birth to complete decay, is approximately 200 years, like a steady flame that illuminates the plains. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to their territories and traditions
-- Form stable societies with strong hierarchical structures
+출생부터 완전한 쇠퇴까지 **켄타우로스**의 **영혼 쇠퇴** 타임라인은 평원을 밝히는 꾸준한 불꽃처럼 약 200년입니다. 이 적당한 수명은 다음과 같은 능력을 부여합니다.
+- 세대에 걸쳐 지식과 지혜를 축적합니다.
+- 자신의 영토와 전통에 깊은 유대감을 형성합니다.
+- 강력한 계층 구조를 가진 안정적인 사회를 형성합니다.
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the seasons.
+그러나 적당한 영혼 비율은 계절에 따라 진화하는 선율처럼 적당한 속도로 변화하고 적응한다는 의미이기도 합니다.
 
-## Habitat and Distribution
+## 서식지 및 분포
 
-**Centaurs** primarily inhabit:
-- Vast grasslands and plains, where they can run freely and hunt
-- Rolling hills and savannas, where they can maintain their herds
-- Strategic locations that provide access to water and resources
-- Nomadic territories that allow them to follow the migrations of game
+**켄타우로스**는 주로 다음과 같은 곳에 서식합니다.
+- 자유롭게 달리고 사냥할 수 있는 광활한 초원과 평원
+- 자신의 무리를 유지할 수 있는 완만한 언덕과 사바나
+- 물과 자원에 접근할 수 있는 전략적 위치
+- 게임의 이동을 따라갈 수 있는 유목민 영토
 
-These locations provide ideal environments for the development of speed and the practice of earth magic, like stages perfectly suited to their performance.
+이러한 위치는 속도 개발과 대지 마법 연습에 이상적인 환경을 제공하며, 마치 자신의 공연에 완벽하게 맞는 무대와 같습니다.
 
-## Cultural Impact
+## 문화적 영향
 
-In the world of **OpenFantasy**, **centaurs** play a crucial role in maintaining the balance of the plains, like conductors of the grand symphony of speed. Their societies are centers of:
-- Martial prowess and hunting skills
-- Earth magic and navigation
-- Hierarchical structures and clan pride
+**OpenFantasy** 세계에서 **켄타우로스**는 평형의 균형을 유지하는 데 중요한 역할을 수행합니다. 마치 웅장한 속도의 교향곡의 지휘자와 같습니다. 그들의 사회는 다음과 같은 중심지입니다.
+- 무술 기량 및 사냥 기술
+- 대지 마법 및 탐색
+- 계층 구조 및 부족 자부심
 
-The connection to the land has shaped centaur culture around respect for speed, strength, and tradition, creating a society where might and skill are highly valued.
+땅과의 연결은 속도, 힘, 전통에 대한 존중을 중심으로 켄타우로스 문화를 형성하여 힘과 기술이 높이 평가되는 사회를 만들었습니다.
 
-## Relationship with Other Species
+## 다른 종과의 관계
 
-**Centaurs** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **Beastfolk**: A deep connection based on shared appreciation for physical prowess and connection to nature
+**켄타우로스**는 다른 종과 복잡한 관계를 유지합니다.
+- [**Humans**](/codex/Creatures/Human.md)와: 적응력에 대한 존경과 약점에 대한 좌절감이 혼합되어 있습니다.
+- **Elves**와: 마법 능력을 인정하지만 그들의 방식이 이상하다고 생각하며 경계하는 존경심을 가지고 있습니다.
+- **Dwarves**와: 힘과 장인 정신에 대한 상호 존중에 기반한 실용적인 동맹을 맺습니다.
+- **Beastfolk**와: 물리적 기량과 자연과의 연결에 대한 공유된 감상에 기반한 깊은 유대감을 가지고 있습니다.
 
-These relationships are often characterized by a sense of superiority, as **centaurs** view themselves as the true children of the plains.
+이러한 관계는 종종 우월감으로 특징지어지는데, **켄타우로스**는 자신을 평원의 진정한 자녀로 간주하기 때문입니다.
 
-## Notable Centaur Traits
+## 주목할만한 켄타우로스 특징
 
-- **Physical Might**: Centaurs excel in speed and endurance, often surpassing other species in their ability to travel long distances
-- **Earth Affinity**: Centaurs have a natural connection to earth magic, allowing them to navigate and track with ease
-- **Limited Adaptability**: Their minimal mana capacity makes it difficult for centaurs to master complex magical abilities
-- **Clan Pride**: Centaurs place great emphasis on their clan heritage and traditions
-- **Territorial Nature**: Centaurs are fiercely protective of their territories and resources
+- **Physical Might**: 켄타우로스는 속도와 지구력이 뛰어나 종종 다른 종보다 장거리를 이동하는 능력이 뛰어납니다.
+- **Earth Affinity**: 켄타우로스는 대지 마법과 자연스러운 연결 고리를 가지고 있어 쉽게 탐색하고 추적할 수 있습니다.
+- **Limited Adaptability**: 최소한의 마나 용량으로 인해 켄타우로스가 복잡한 마법 능력을 마스터하는 데 어려움이 있습니다.
+- **Clan Pride**: 켄타우로스는 부족 유산과 전통을 매우 강조합니다.
+- **Territorial Nature**: 켄타우로스는 자신의 영토와 자원을 맹렬하게 보호합니다.
 
-## Centaur Clans
+## 켄타우로스 부족
 
-Centaur society is organized into numerous clans, each with its own specialties and traditions:
+켄타우로스 사회는 수많은 부족으로 조직되어 있으며 각 부족은 고유한 전문 분야와 전통을 가지고 있습니다.
 
-| Clan | Specialty | Territory | Notable Traits |
+| 부족 | 전문 분야 | 영토 | 주목할만한 특징 |
 |---------|---------------|---------|-------------------|
-| **Windriders** | Speed, hunting | Open plains | Swift action, hunting mastery |
-| **Earthshakers** | Strength, combat | Rocky hills | Combat abilities, earth manipulation |
-| **Starseekers** | Navigation, wisdom | Star-lit plains | Navigation abilities, astronomical knowledge |
-| **Riverwatchers** | Water magic, fishing | River valleys | Water magic, fishing expertise |
-| **Firebrands** | Passion, leadership | Volcanic regions | Leadership abilities, fire resistance |
-| **Forestwardens** | Stealth, tracking | Forest edges | Stealth abilities, tracking expertise |
+| **Windriders** | 속도, 사냥 | 탁 트인 평원 | 신속한 행동, 사냥 숙달 |
+| **Earthshakers** | 힘, 전투 | 바위 언덕 | 전투 능력, 대지 조작 |
+| **Starseekers** | 탐색, 지혜 | 별빛 평원 | 탐색 능력, 천문학 지식 |
+| **Riverwatchers** | 물 마법, 낚시 | 강 계곡 | 물 마법, 낚시 전문성 |
+| **Firebrands** | 열정, 리더십 | 화산 지역 | 리더십 능력, 화재 저항 |
+| **Forestwardens** | 은신, 추적 | 숲 가장자리 | 은신 능력, 추적 전문성 |
 
-Understanding the nature of **centaurs** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the plains and skies. 
+**켄타우로스**의 본성을 이해하면 평원과 하늘을 통해 맥동하는 천둥 같은 리듬을 느끼는 것처럼 **OpenFantasy** 세계의 힘의 역학에 대한 통찰력을 얻을 수 있습니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,42 +1,46 @@
-# **Warlock**: Wielders of Pact-Bound Magic
+# **워락**: 계약으로 묶인 마법의 사용자
 
-[**Warlocks**](/codex/Classes/Warlock/Warlock.md) are spellcasters who derive their magical abilities from pacts with powerful otherworldly entities. Unlike wizards who study or sorcerers with innate power, warlocks receive magic through direct patronage, shaping their abilities based on their patron's nature and domain.
+[**워락**](/codex/Classes/Warlock/Warlock.md)은 강력한 이계 존재와의 계약을 통해 마법 능력을 얻는 주문 시전자입니다. 연구하는 위저드나 타고난 힘을 가진 소서러와 달리 워락은 직접적인 후원을 통해 마법을 받으며, 후원자의 본성과 영역에 따라 능력을 형성합니다.
 
-## Elemental Composition
+## 원소 구성
 
-The typical elemental ratio for **warlocks** reflects their unique connection to patron entities:
+**워락**의 일반적인 원소 비율은 후원 개체와의 고유한 연결을 반영합니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Physical vessel modified by patron influence |
-| **Soul** | 30-45% | Spiritual anchor for the pact, reinforced to withstand external power |
-| **Mana Capacity** | 30-50% | Channel structure for patron-sourced power rather than personal reserves |
+| **엑산티스** | 15-30% | 후원자의 영향으로 수정된 물리적 용기 |
+| **영혼** | 30-45% | 외부 힘을 견딜 수 있도록 강화된 계약의 영적 닻 |
+| **마나 용량** | 30-50% | 개인 비축량보다는 후원자로부터 공급되는 힘의 채널 구조 |
 
-This composition makes **warlocks** fundamentally different from other spellcasters. Their magic doesn't stem primarily from personal reserves but flows through specially adapted channels from their patron. This external sourcing creates distinctive magical signatures and often manifests physical or spiritual modifications reflecting their patron's nature.
+이러한 구성은 **워락**을 다른 주문 시전자와 근본적으로 다르게 만듭니다. 그들의 마법은 주로 개인 비축량에서 비롯되는 것이 아니라 후원자로부터 특별히 적응된 채널을 통해 흐릅니다. 이러한 외부 공급은 독특한 마법적 특징을 만들고 종종 후원자의 본성을 반영하는 물리적 또는 영적 변형을 나타냅니다.
 
-### Magical Affinity Profile
+### 마법적 친화력 프로필
 
-Warlocks develop specific affinities based on their patron's nature:
+워락은 후원자의 본성에 따라 특정 친화력을 개발합니다.
 
-| Patron Type | Primary Affinities | Secondary Affinities | Typical Application |
+| 후원자 유형 | 주요 친화력 | 보조 친화력 | 일반적인 응용 |
 |--------------|-------------------|---------------------|---------------------|
-| **Archfey** | Naturemana | Mentimana | Enchantment, emotional manipulation, nature influence |
-| **Fiend** | Pyromana | Umbramana | Destructive magic, soul manipulation, corruption |
-| **Great Old One** | Mentimana | Umbramana | Mind-affecting spells, forbidden knowledge, reality distortion |
-| **Celestial** | Luxmana | Base Mana (Healing) | Radiant damage, healing, purification |
-| **Hexblade** | Umbramana | Base Mana (Binding) | Weapon enhancement, curses, soul binding |
-| **Genie** | Elemental (varies by genie type) | Base Mana (Spatial) | Elemental control, wishes, dimensional magic |
+| **아치페이** | 네이처마나 | 멘티마나 | 인챈트먼트, 감정 조작, 자연 영향 |
+| **핀드** | 파이로마나 | 움브라마나 | 파괴적인 마법, 영혼 조작, 부패 |
+| **위대한 고대 존재** | 멘티마나 | 움브라마나 | 정신에 영향을 미치는 주문, 금지된 지식, 현실 왜곡 |
+| **셀레스티얼** | 룩스마나 | 기본 마나 (치유) | 빛나는 피해, 치유, 정화 |
+| **헥스블레이드** | 움브라마나 | 기본 마나 (결속) | 무기 강화, 저주, 영혼 결속 |
+| **지니** | 원소 (지니 유형에 따라 다름) | 기본 마나 (공간) | 원소 제어, 소원, 차원 마법 |
 
-Warlocks typically achieve 70-90% resonance with their patron's primary affinity elements, as these energies are directly channeled rather than personally generated. Their connection to patron sources allows for high purity magical energy (40-70%) without the extensive training required by wizards, though this power comes with external dependency and potential influence.
+워락은 일반적으로 후원자의 주요 친화력 원소와 70-90%의 공명도를 달성합니다. 이러한 에너지는 개인적으로 생성되는 것이 아니라 직접적으로 채널되기 때문입니다. 후원자 원천과의 연결을 통해 위저드가 요구하는 광범위한 훈련 없이도 높은 순도의 마법 에너지 (40-70%)를 얻을 수 있지만, 이러한 힘에는 외부 의존성과 잠재적인 영향이 따릅니다.
 
-### Species-Specific Variations
+### 종족별 변형
 
-Different species show varying natural inclinations toward the warlock class:
+다양한 종족이 워락 클래스에 대한 다양한 자연적 경향을 보입니다.
 
-- **Humans** (15-30% Exanthis, 30-45% Soul, 30-50% Mana Capacity): Their adaptability allows for diverse pact connections and easier accommodation of patron influence.
-- **Tieflings** (15-30% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their infernal heritage creates natural resonance with fiendish patrons and resistance to corrupting influences.
-- **Half-Elves** (15-25% Exanthis, 30-45% Soul, 35-55% Mana Capacity): Their mixed heritage offers flexible spiritual anchoring for diverse pact types.
-- **Aasimar** (15-25% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their celestial connection creates natural affinity for divine patrons with enhanced luxmana channeling.
-- **Genasi** (20-35% Exanthis, 25-40% Soul, 30-50% Mana Capacity): Their elemental heritage forms natural channels for corresponding elemental patrons.
+- **인간** (15-30% 엑산티스, 30-45% 영혼, 30-50% 마나 용량): 그들의 적응력은 다양한 계약 연결을 허용하고 후원자의 영향을 더 쉽게 수용할 수 있게 합니다.
+- **티플링** (15-30% 엑산티스, 35-50% 영혼, 30-45% 마나 용량): 그들의 지옥 혈통은 악마 후원자와 자연스러운 공명을 만들고 부패시키는 영향에 대한 저항력을 만듭니다.
+- **하프엘프** (15-25% 엑산티스, 30-45% 영혼, 35-55% 마나 용량): 그들의 혼혈 혈통은 다양한 계약 유형에 대한 유연한 영적 닻을 제공합니다.
+- **아시마르** (15-25% 엑산티스, 35-50% 영혼, 30-45% 마나 용량): 그들의 천상의 연결은 향상된 룩스마나 채널링을 통해 신성한 후원자에 대한 자연스러운 친화력을 만듭니다.
+- **제나시** (20-35% 엑산티스, 25-40% 영혼, 30-50% 마나 용량): 그들의 원소 혈통은 해당 원소 후원자를 위한 자연스러운 채널을 형성합니다.
 
-// ... rest of the file remains unchanged ... 
+// ... 나머지 파일은 변경되지 않습니다 ...
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

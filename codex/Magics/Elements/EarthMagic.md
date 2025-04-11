@@ -1,202 +1,206 @@
-# **Earth Magic**: The Art of Stone, Crystal, and Soil
+# **대지 마법**: 돌, 수정, 흙의 예술
 
-> *"The wisdom of earth lies in its patience. Mountains are not raised in a day, nor valleys carved in a moment. True strength comes from endurance, not force."* — Archgeomancer Doran Stoneheart
+> *"대지의 지혜는 인내심에 있다. 산은 하루아침에 세워지지 않고, 계곡은 한순간에 깎이지 않는다. 진정한 힘은 억압이 아닌 인내에서 나온다."* — 대지 현자 도란 스톤하트
 
-## Quick Reference
-- [Properties of Terramana](#properties-of-terramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 빠른 참조
+- [테라마나의 속성](#테라마나의-속성)
+- [조작 기술](#조작-기술)
+- [일반적인 주문](#일반적인-주문)
+- [친화도 개발](#친화도-개발)
+- [위험 및 안전 장치](#위험-및-안전-장치)
+- [문화적 중요성](#문화적-중요성)
 
-## Properties of Terramana
+## 테라마나의 속성
 
-Terramana, the elemental mana of earth, is characterized by:
+대지의 원소 마나인 테라마나는 다음과 같은 특징을 갖습니다.
 
-- **Appearance**: Deep browns, greens, and amber; crystalline structure with geometric patterns
-- **Sensation**: Feels heavy, grounding, and solid when channeled; creates a sense of weight and stability
-- **Resonance**: Low-frequency, stable vibration patterns with strong harmonic undertones
-- **Purification Challenge**: Slow to purify but maintains purity once achieved; tends to accumulate sedimentary impurities
-- **Opposite Element**: Air (creates dust when forced together, ultimately eroded by air)
-- **Complementary Elements**: Fire (creates magma/lava), Life (creates growth and fertility)
-- **Musical Analogy**: Bass instruments, particularly double bass; foundation notes that provide structure
+- **외형**: 짙은 갈색, 녹색 및 호박색; 기하학적 패턴의 결정 구조
+- **감각**: 채널링 시 무겁고, 접지되며, 단단한 느낌; 무게감과 안정감을 조성
+- **공명**: 강력한 고조파 톤을 가진 저주파, 안정적인 진동 패턴
+- **정화 과제**: 정화하는 데 느리지만 일단 달성하면 순도를 유지함; 퇴적 불순물이 축적되는 경향이 있음
+- **반대되는 원소**: 공기 (억지로 합쳐지면 먼지를 생성하고, 궁극적으로 공기에 의해 침식됨)
+- **보완적인 원소**: 불 (마그마/용암을 생성), 생명 (성장과 비옥함을 생성)
+- **음악적 비유**: 베이스 악기, 특히 더블 베이스; 구조를 제공하는 기초 음표
 
-## Manipulation Techniques
+## 조작 기술
 
-### Basic Techniques
+### 기본 기술
 
-#### Terrakinesis
-The foundational technique of moving and directing earth and stone:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-30%)
-- **Effect**: Shifts, lifts, or compresses earth, sand, or loose stone
-- **Training Focus**: Force direction and mass distribution
-- **Applications**: Creating mounds, digging trenches, stabilizing unstable ground
+#### 테라키네시스
+흙과 돌을 움직이고 조종하는 기본 기술:
+- **난이도**: 초보
+- **순도 요구 사항**: 기본 (15-30%)
+- **효과**: 흙, 모래 또는 느슨한 돌을 이동, 들어 올리거나 압축
+- **훈련 초점**: 힘의 방향과 질량 분포
+- **응용 분야**: 언덕 만들기, 참호 파기, 불안정한 지반 안정화
 
-#### Material Densification
-Increasing or decreasing the density and hardness of earth materials:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-45%)
-- **Effect**: Changes the physical properties of earth without changing its form
-- **Training Focus**: Molecular compression and structural integrity
-- **Applications**: Hardening mud into clay or stone, softening rock, creating paths through difficult terrain
+#### 물질 밀도화
+흙 물질의 밀도와 경도를 증가시키거나 감소시키는 것:
+- **난이도**: 초보 ~ 중급
+- **순도 요구 사항**: 기본 ~ 정제 (20-45%)
+- **효과**: 형태를 바꾸지 않고 흙의 물리적 속성을 변경
+- **훈련 초점**: 분자 압축 및 구조적 완전성
+- **응용 분야**: 진흙을 점토나 돌로 경화, 암석 연화, 어려운 지형을 가로지르는 길 만들기
 
-#### Seismic Sensing
-Detecting vibrations and structures through earth:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Extends awareness through connected earth materials
-- **Training Focus**: Vibrational interpretation and filtering
-- **Applications**: Finding caverns, detecting movement, locating water or mineral deposits
+#### 지진 감지
+흙을 통해 진동과 구조를 감지하는 것:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (35-50%)
+- **효과**: 연결된 흙 물질을 통해 인식을 확장
+- **훈련 초점**: 진동 해석 및 필터링
+- **응용 분야**: 동굴 찾기, 움직임 감지, 물 또는 광물 매장지 찾기
 
-### Advanced Techniques
+### 고급 기술
 
-#### Crystalline Formation
-Creating and manipulating mineral structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms crystalline structures with specific properties and geometric patterns
-- **Training Focus**: Molecular arrangement and growth control
-- **Applications**: Creating gemstones, reinforcing structures, developing crystalline tools
+#### 결정 형성
+광물 구조를 만들고 조작하는 것:
+- **난이도**: 고급
+- **순도 요구 사항**: 정제 ~ 완벽 (45-70%)
+- **효과**: 특정 속성과 기하학적 패턴을 가진 결정 구조를 형성
+- **훈련 초점**: 분자 배열 및 성장 제어
+- **응용 분야**: 보석 만들기, 구조 강화, 결정 도구 개발
 
-#### Terra Transmutation
-Changing one earth material into another:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Transforms the elemental composition of earth materials
-- **Training Focus**: Molecular deconstruction and reassembly
-- **Applications**: Creating precious metals, purifying ores, transforming sand to glass
+#### 테라 변환
+하나의 흙 물질을 다른 것으로 바꾸는 것:
+- **난이도**: 전문가
+- **순도 요구 사항**: 완벽 (65-85%)
+- **효과**: 흙 물질의 원소 구성을 변환
+- **훈련 초점**: 분자 해체 및 재조립
+- **응용 분야**: 귀금속 만들기, 광석 정화, 모래를 유리로 변환
 
-#### Tectonic Manipulation
-Influencing the movement of large earth masses:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Creates controlled movement in bedrock and underground structures
-- **Training Focus**: Force multiplication and geological understanding
-- **Applications**: Creating passages through mountains, stabilizing earthquake-prone regions, raising small landforms
+#### 지각 조작
+큰 흙 덩어리의 움직임에 영향을 미치는 것:
+- **난이도**: 달인
+- **순도 요구 사항**: 완벽 (75-95%)
+- **효과**: 기반암 및 지하 구조에서 제어된 움직임을 생성
+- **훈련 초점**: 힘의 증폭 및 지질학적 이해
+- **응용 분야**: 산을 통과하는 통로 만들기, 지진 발생 가능성이 높은 지역 안정화, 작은 지형 만들기
 
-## Common Spells
+## 일반적인 주문
 
-### Novice Spells
+### 초보 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Stone Lift** | Raises a small mass of earth or stone | Somatic, Earth contact | 3 seconds | Instantaneous |
-| **Soil Shift** | Moves loose earth from one location to another | Somatic, Earth contact | 5 seconds | Instantaneous |
-| **Terra Firma** | Stabilizes unstable ground | Somatic, Verbal | 10 seconds | 1 hour |
-| **Dust Cloud** | Creates a cloud of fine particles for concealment | Somatic, Earth material | 2 seconds | 5 minutes |
+| **돌 들어올리기** | 작은 흙 또는 돌 덩어리를 들어올림 | 신체, 흙 접촉 | 3초 | 즉시 |
+| **흙 옮기기** | 느슨한 흙을 한 위치에서 다른 위치로 옮김 | 신체, 흙 접촉 | 5초 | 즉시 |
+| **테라 퍼머** | 불안정한 땅을 안정화 | 신체, 언어 | 10초 | 1시간 |
+| **먼지 구름** | 숨기기 위해 미세 입자의 구름을 생성 | 신체, 흙 물질 | 2초 | 5분 |
 
-### Intermediate Spells
+### 중급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Stone Shield** | Creates a protective barrier of hardened earth | Somatic, Verbal, Earth | 5 seconds | 30 minutes |
-| **Crystal Lens** | Forms a crystal that enhances vision or focuses light | Somatic, Mineral focus | 30 seconds | 1 day |
-| **Earth Merge** | Allows partial merging with stone or earth | Somatic, Verbal, Earth | 10 seconds | 10 minutes |
-| **Metal Finding** | Reveals nearby metal deposits | Somatic, Mineral focus | 30 seconds | Instantaneous |
+| **돌 방패** | 경화된 흙의 보호 장벽을 생성 | 신체, 언어, 흙 | 5초 | 30분 |
+| **수정 렌즈** | 시력을 향상시키거나 빛을 모으는 수정을 형성 | 신체, 광물 초점 | 30초 | 1일 |
+| **흙 융합** | 돌이나 흙과 부분적으로 융합 가능 | 신체, 언어, 흙 | 10초 | 10분 |
+| **금속 찾기** | 근처의 금속 매장지를 드러냄 | 신체, 광물 초점 | 30초 | 즉시 |
 
-### Advanced Spells
+### 고급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Earthquake** | Creates localized seismic activity | Somatic, Verbal, Focus | 15 seconds | Instantaneous |
-| **Terra Construct** | Forms a semi-autonomous earth elemental | Somatic, Verbal, Focus, Earth | 1 minute | 1 hour |
-| **Crystalline Prison** | Encases target in crystal growth | Somatic, Verbal, Minerals | 10 seconds | 1 hour |
-| **Mountain's Strength** | Grants incredible durability to target | Somatic, Verbal, Stone dust | 30 seconds | 10 minutes |
+| **지진** | 국지적인 지진 활동을 생성 | 신체, 언어, 초점 | 15초 | 즉시 |
+| **테라 컨스트럭트** | 반자율적인 흙 원소를 형성 | 신체, 언어, 초점, 흙 | 1분 | 1시간 |
+| **결정 감옥** | 목표물을 결정 성장에 가둠 | 신체, 언어, 광물 | 10초 | 1시간 |
+| **산의 힘** | 목표물에 엄청난 내구성을 부여 | 신체, 언어, 돌 먼지 | 30초 | 10분 |
 
-## Affinity Development
+## 친화도 개발
 
-Earth affinity progresses through several distinctive stages:
+대지 친화도는 여러 단계로 발전합니다.
 
-### Grounded Connection
-The foundational relationship with earth that most beginners possess:
-- **Manifestation**: Intuitive sense of stability, minor influence over soil and sand
-- **Physical Signs**: Slightly roughened skin, strong sense of direction underground
-- **Enhancement Method**: Regular meditation while in direct contact with bare earth
+### 접지된 연결
+대부분의 초보자가 가지고 있는 흙과의 기본적인 관계:
+- **표현**: 직관적인 안정감, 흙과 모래에 대한 약간의 영향력
+- **신체 징후**: 약간 거칠어진 피부, 지하에서 강한 방향 감각
+- **향상 방법**: 맨땅과 직접 접촉하는 동안 정기적인 명상
 
-### Material Mastery
-The intermediate stage where earth responds more readily to the mage's will:
-- **Manifestation**: Stone and earth move with less effort, sensing abilities expand
-- **Physical Signs**: Nails and hair take on mineral-like properties, skin develops subtle crystal patterns
-- **Enhancement Method**: Handling and studying different types of stone, soil, and crystal
+### 물질 숙달
+흙이 마법사의 의지에 더 쉽게 반응하는 중간 단계:
+- **표현**: 돌과 흙이 더 적은 노력으로 움직임, 감지 능력이 확장
+- **신체 징후**: 손톱과 머리카락이 광물과 같은 속성을 가짐, 피부에 미묘한 결정 패턴이 생김
+- **향상 방법**: 다양한 종류의 돌, 흙, 수정을 다루고 연구
 
-### Bedrock Harmony
-Advanced practitioners achieve a deep resonance with earth's structural properties:
-- **Manifestation**: Earth seems to respond intuitively, minerals form naturally around the caster
-- **Physical Signs**: Increased body density, earth-toned skin patterns appear during casting
-- **Enhancement Method**: Extended communion at sites of geological interest or power
+### 기반암 조화
+숙련된 실무자는 흙의 구조적 속성과 깊은 공명을 얻음:
+- **표현**: 흙이 직관적으로 반응하는 것처럼 보임, 미네랄이 시전자 주위에 자연적으로 형성
+- **신체 징후**: 신체 밀도 증가, 시전 중에 흙 색조의 피부 패턴이 나타남
+- **향상 방법**: 지질학적 관심 또는 힘이 있는 장소에서 확장된 교감
 
-### Tectonic Unity
-Master geomancers who have achieved profound connection with earth:
-- **Manifestation**: Partial transformation abilities, influence over terrain without direct contact
-- **Physical Signs**: Eyes develop crystalline patterns, blood contains mineral compounds
-- **Enhancement Method**: Deep communion at ley line intersections with strong earth resonance
+### 지각 통합
+대지와의 심오한 연결을 이룬 달인 지형 마법사:
+- **표현**: 부분적인 변환 능력, 직접적인 접촉 없이 지형에 영향을 미침
+- **신체 징후**: 눈에 결정 패턴이 생김, 혈액에 광물 화합물이 포함됨
+- **향상 방법**: 강한 대지 공명을 가진 레이 라인 교차점에서 깊은 교감
 
-## Risks and Safeguards
+## 위험 및 안전 장치
 
-### Common Risks
+### 일반적인 위험
 
-- **Immobility**: Becoming too attuned to earth's stillness, resulting in slowed movement
-- **Crystal Growth**: Unintended crystallization in the caster's body tissues
-- **Mass Overload**: Attempting to manipulate earth masses beyond one's strength
-- **Burial Potential**: Loss of control leading to self-burial or cave-ins
-- **Molecular Disruption**: Improper transmutation affecting the caster's own body composition
+- **부동성**: 흙의 정지에 너무 익숙해져서 움직임이 느려짐
+- **결정 성장**: 시전자의 신체 조직에서 의도치 않은 결정화
+- **질량 과부하**: 자신의 힘을 넘어서는 흙 덩어리를 조작하려는 시도
+- **매장 가능성**: 통제력 상실로 인한 자가 매장 또는 동굴 붕괴
+- **분자 파괴**: 부적절한 변환이 시전자의 신체 구성에 영향
 
-### Miscast Effects
+### 시전 실패 효과
 
-| Severity | Effect | Recovery |
+| 심각도 | 효과 | 회복 |
 |----------|--------|----------|
-| **Minor** | Temporary stiffening of joints, skin abrasions, sensory dulling | Hours |
-| **Moderate** | Partial petrification of extremities, internal mineral deposits, weight increase | Days |
-| **Severe** | Major joint crystallization, organ calcification, structural integrity damage | Weeks |
-| **Critical** | Progressive petrification, catastrophic molecular restructuring, skeletal reinforcement | Months to permanent |
+| **경미** | 일시적인 관절 경직, 피부 찰과상, 감각 둔화 | 시간 |
+| **보통** | 사지 부분 석화, 내부 광물 침전물, 체중 증가 | 일 |
+| **심각** | 주요 관절 결정화, 장기 석회화, 구조적 완전성 손상 | 주 |
+| **위험** | 점진적인 석화, 파국적인 분자 재구성, 골격 강화 | 개월 ~ 영구적 |
 
-### Safety Practices
+### 안전 수칙
 
-- **Grounding Rituals**: Regular release of accumulated earth energies
-- **Flexibility Maintenance**: Counterbalancing exercises to prevent stiffening
-- **Mass Calculation**: Careful assessment of earth volume before manipulation
-- **Material Isolation**: Using external earth sources rather than biological minerals
-- **Environmental Awareness**: Assessing geological stability before major workings
+- **접지 의식**: 축적된 흙 에너지를 정기적으로 방출
+- **유연성 유지**: 경직을 방지하기 위한 균형 운동
+- **질량 계산**: 조작 전에 흙 부피를 신중하게 평가
+- **물질 격리**: 생물학적 미네랄이 아닌 외부 흙 소스 사용
+- **환경 인식**: 주요 작업 전에 지질학적 안정성을 평가
 
-## Cultural Significance
+## 문화적 중요성
 
-### Historical Development
+### 역사적 발전
 
-Earth magic represents one of the oldest and most universally practiced forms of elemental manipulation. The development of geomancy followed three primary historical paths:
+대지 마법은 가장 오래되고 보편적으로 실행되는 원소 조작 형태 중 하나입니다. 지형 마법의 발전은 세 가지 주요 역사적 경로를 따랐습니다.
 
-1. **Agricultural Foundation**: Early tribal practitioners using earth magic for cultivation and shelter
-2. **Structural Engineering**: Ancient civilizations developing earth manipulation for architecture and infrastructure
-3. **Mineral Crafting**: Advanced societies discovering crystal and metal manipulation
+1. **농업 기반**: 재배 및 피난처를 위해 대지 마법을 사용하는 초기 부족 실무자
+2. **구조 공학**: 건축 및 기반 시설을 위해 흙 조작을 개발하는 고대 문명
+3. **광물 공예**: 수정 및 금속 조작을 발견하는 고급 사회
 
-### Regional Variations
+### 지역적 변형
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 문화 | 초점 | 대표 기술 | 철학 |
 |---------|-------|---------------------|------------|
-| **Mountain Clans** | Stone manipulation, tunneling | Living stone, cave singing | Earth as the eternal foundation |
-| **Plains Peoples** | Soil fertility, agricultural enhancement | Growth blessing, soil enrichment | Earth as the nurturing provider |
-| **Desert Dwellers** | Crystal formation, finding water | Crystal dowsing, sand walking | Earth as the hidden treasure keeper |
-| **Forest Tribes** | Root systems, natural structures | Living architecture, wood strengthening | Earth as the connected network |
+| **산악 부족** | 돌 조작, 터널링 | 살아있는 돌, 동굴 노래 | 영원한 기초로서의 대지 |
+| **평원 사람들** | 토양 비옥도, 농업 개선 | 성장 축복, 토양 농축 | 양육 제공자로서의 대지 |
+| **사막 거주자** | 수정 형성, 물 찾기 | 수정 다우징, 모래 걷기 | 숨겨진 보물 창고로서의 대지 |
+| **숲 부족** | 뿌리 시스템, 자연 구조 | 살아있는 건축, 목재 강화 | 연결된 네트워크로서의 대지 |
 
-### Ceremonial Uses
+### 의례적 용도
 
-Earth magic features prominently in many cultural ceremonies:
-- **Foundation Rituals**: Blessing new structures and settlements
-- **Harvest Ceremonies**: Thanksgiving and renewal of soil fertility
-- **Rite of Passage**: Young geomancers demonstrating their ability to shape stone
-- **Burial Customs**: Earth magic often used in funeral practices and memorials
+대지 마법은 많은 문화 의식에서 두드러지게 나타납니다.
+- **기초 의식**: 새로운 구조 및 정착지 축복
+- **수확 의식**: 토양 비옥도에 대한 감사와 갱신
+- **통과 의례**: 어린 지형 마법사가 돌을 조형하는 능력을 시연
+- **장례 풍습**: 대지 마법은 종종 장례 관행 및 기념관에서 사용
 
-### Contemporary Applications
+### 현대적 응용
 
-Beyond combat and utility applications, earth magic serves essential societal functions:
-- **Construction**: Reinforcing buildings, creating roads, excavating foundations
-- **Mining**: Locating and extracting valuable minerals safely
-- **Agriculture**: Soil enhancement and management
-- **Environmental Protection**: Containing erosion, stabilizing landscapes, managing sinkholes
+전투 및 유틸리티 응용 외에도 대지 마법은 필수적인 사회적 기능을 수행합니다.
+- **건설**: 건물 강화, 도로 건설, 기초 굴착
+- **광업**: 귀중한 광물을 안전하게 찾고 추출
+- **농업**: 토양 개선 및 관리
+- **환경 보호**: 침식 방지, 경관 안정화, 싱크홀 관리
 
-> *"The student of earth must understand that true strength lies not in hardness alone, but in the balance between rigidity and flexibility—like the mountain that stands for eons yet slowly changes its shape."* — The Geomantic Principles
+> *"대지를 공부하는 학생은 진정한 힘은 단단함에만 있는 것이 아니라 강성과 유연성 사이의 균형에 있다는 것을 이해해야 합니다. 영원히 서 있지만 천천히 모양을 바꾸는 산과 같이 말입니다."* — 지형학적 원리
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Metal Magic](/codex/Magics/Advanced/Combinations/MetalMagic.md)* 
+*참조 항목: [원소 마법](/codex/Magics/Elements/ElementalMagic.md), [불 마법](/codex/Magics/Elements/FireMagic.md), [금속 마법](/codex/Magics/Advanced/Combinations/MetalMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

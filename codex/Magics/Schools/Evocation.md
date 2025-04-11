@@ -1,188 +1,192 @@
-# **The School of Evocation**
+# **소환술 학파**
 
-> *"To evoke is to call power from within and without, to shape raw force through will and voice. Not a request, but a demand that the elements answer."*  
-> — Arch-Evoker Ragnarr Stormcaller, Grand Master of the Crimson Tower
+> *"소환은 내면과 외부로부터 힘을 불러일으키고, 의지와 목소리를 통해 날 것의 힘을 빚어내는 것이다. 요청이 아닌, 원소들이 응답해야 한다는 요구이다."*
+> — 대 소환술사 라그나르 스톰콜러, 크림슨 타워의 그랜드 마스터
 
-## Overview
+## 개요
 
-Evocation is the direct manipulation of magical energy to create powerful, often spectacular effects. It is the most visibly impressive school of magic, channeling raw elemental forces into existence through sheer will and precise mana manipulation. Evocation spells typically produce immediate, dramatic results - from conjuring destructive elemental forces to creating shields of pure magical energy.
+소환술은 마법 에너지를 직접 조작하여 강력하고, 종종 화려한 효과를 만들어내는 것이다. 마법 학파 중 가장 눈에 띄게 인상적이며, 순수한 의지와 정확한 마나 조작을 통해 날 것의 원소의 힘을 존재하도록 이끌어낸다. 소환 주문은 일반적으로 파괴적인 원소의 힘을 소환하는 것부터 순수한 마법 에너지의 방패를 만드는 것까지 즉각적이고 극적인 결과를 만들어낸다.
 
-## Fundamental Principles
+## 기본 원리
 
-### The Voice of Command
+### 명령의 목소리
 
-Evocation operates on the principle that elemental forces can be commanded through proper mana resonance and authoritative will. Unlike enchantment which persuades or illusion which deceives, evocation directly calls forth power, demanding that it manifest in specific ways. This school requires strong mental discipline and exceptional mana projection capabilities.
+소환술은 원소의 힘이 적절한 마나 공명과 권위 있는 의지를 통해 명령될 수 있다는 원칙에 따라 작동한다. 설득하는 마법 부여나 속이는 환상과는 달리, 소환은 직접적으로 힘을 불러내고 특정한 방식으로 나타나도록 요구한다. 이 학파는 강력한 정신 훈련과 뛰어난 마나 투사 능력을 필요로 한다.
 
-### Primary Components
+### 주요 구성 요소
 
-All evocation spells incorporate three fundamental components:
+모든 소환 주문은 세 가지 기본 구성 요소를 포함한다:
 
-1. **Mana Condensation**: Gathering and concentrating magical energy
-2. **Elemental Affinity**: Aligning the mana with specific elemental properties
-3. **Force Projection**: Directing the manifested energy with precision and control
+1. **마나 응축**: 마법 에너지를 모으고 집중시키는 것
+2. **원소 친화력**: 특정 원소 속성에 맞게 마나를 정렬하는 것
+3. **힘 투사**: 발현된 에너지를 정확하고 제어적으로 지시하는 것
 
-### Mana Requirements
+### 마나 요구 사항
 
-Evocation typically requires large quantities of mana with compositions heavily weighted toward the relevant elemental types:
+소환술은 일반적으로 관련 원소 유형으로 크게 가중된 조성을 가진 많은 양의 마나를 필요로 한다:
 
-| Evocation Focus | Primary Mana | Secondary Mana | Purpose |
+| 소환 집중 | 주 마나 | 보조 마나 | 목적 |
 |-----------------|-------------|----------------|---------|
-| Fire Evocation | Ignamana (60-80%) | Base Mana (10-30%) | Heat and combustion manifestation |
-| Water Evocation | Aquamana (60-80%) | Base Mana (10-30%) | Liquid manipulation and pressure control |
-| Earth Evocation | Terramana (60-80%) | Base Mana (10-30%) | Density manipulation and stability |
-| Air Evocation | Aeromana (60-80%) | Base Mana (10-30%) | Movement and pressure differential |
-| Lightning Evocation | Aeromana (40-60%) | Ignamana (30-50%) | Electrical charge generation |
-| Force Evocation | Base Mana (70-90%) | Varies by effect | Pure kinetic energy manipulation |
-| Light Evocation | Luxmana (60-80%) | Base Mana (10-30%) | Visible spectrum manifestation |
-| Shadow Evocation | Umbramana (60-80%) | Base Mana (10-30%) | Absence of light manipulation |
+| 화염 소환 | 이그나마나 (60-80%) | 기본 마나 (10-30%) | 열 및 연소 발현 |
+| 물 소환 | 아쿠아마나 (60-80%) | 기본 마나 (10-30%) | 액체 조작 및 압력 제어 |
+| 대지 소환 | 테라마나 (60-80%) | 기본 마나 (10-30%) | 밀도 조작 및 안정성 |
+| 공기 소환 | 에어로마나 (60-80%) | 기본 마나 (10-30%) | 운동 및 압력 차이 |
+| 번개 소환 | 에어로마나 (40-60%) | 이그나마나 (30-50%) | 전기 충전 생성 |
+| 힘 소환 | 기본 마나 (70-90%) | 효과에 따라 다름 | 순수한 운동 에너지 조작 |
+| 빛 소환 | 룩스마나 (60-80%) | 기본 마나 (10-30%) | 가시 스펙트럼 발현 |
+| 그림자 소환 | 움브라마나 (60-80%) | 기본 마나 (10-30%) | 빛의 부재 조작 |
 
-### Wild Mana Interference
+### 야생 마나 간섭
 
-Evocation has a complex relationship with Wild Mana. While wild energy can amplify the raw power of evocation spells, it introduces significant control problems:
+소환술은 야생 마나와 복잡한 관계를 맺고 있다. 야생 에너지는 소환 주문의 원시적인 힘을 증폭시킬 수 있지만 상당한 제어 문제를 야기한다:
 
-- **Power Surge**: Uncontrolled amplification of spell effects
-- **Elemental Contamination**: Introduction of unintended elemental properties
-- **Directional Instability**: Loss of precision in targeting
-- **Feedback Loops**: Dangerous energy cycling back to the caster
+- **힘의 급증**: 주문 효과의 통제되지 않은 증폭
+- **원소 오염**: 의도하지 않은 원소 속성의 도입
+- **방향 불안정**: 대상 지정의 정확성 상실
+- **피드백 루프**: 시전자에게 되돌아가는 위험한 에너지 순환
 
-Paradoxically, some battle evokers deliberately introduce controlled amounts of Wild Mana to create more unpredictable and therefore harder-to-counter effects, though this practice is considered extremely dangerous.
+역설적이게도 일부 전투 소환술사들은 더 예측 불가능하고 따라서 대응하기 어려운 효과를 만들기 위해 의도적으로 제어된 양의 야생 마나를 도입하지만, 이 관행은 극히 위험한 것으로 간주된다.
 
-## Mana Purification for Evocation
+## 소환을 위한 마나 정화
 
-Evocation requires a balance between quantity and quality of mana. While the raw power of evocation benefits from large mana reserves, insufficient purity results in unstable and potentially dangerous effects.
+소환술은 마나의 양과 질 사이의 균형을 필요로 한다. 소환의 원시적인 힘은 많은 마나 저장량으로부터 이익을 얻지만, 불충분한 순도는 불안정하고 잠재적으로 위험한 결과를 초래한다.
 
-| Purification Level | Evocation Capability |
+| 정화 수준 | 소환 능력 |
 |--------------------|----------------------|
-| Basic (15-25%) | Simple elemental manifestations with limited control |
-| Intermediate (30-45%) | Reliable elemental effects with moderate power and accuracy |
-| Advanced (50-65%) | Complex evocations with precise control and significant force |
-| Master (70-80%) | Multi-elemental combinations and exceptional power-to-control ratio |
-| Grandmaster (85%+) | Perfect elemental harmony with maximum efficiency and minimal waste |
+| 기본 (15-25%) | 제한된 제어를 갖는 단순한 원소 발현 |
+| 중간 (30-45%) | 적당한 힘과 정확도를 갖는 신뢰할 수 있는 원소 효과 |
+| 고급 (50-65%) | 정밀한 제어와 상당한 힘을 갖는 복잡한 소환 |
+| 숙달 (70-80%) | 뛰어난 힘-제어 비율을 갖는 다중 원소 조합 |
+| 그랜드마스터 (85%+) | 최대 효율과 최소한의 낭비를 갖는 완벽한 원소 조화 |
 
-## The Elemental Octave in Evocation
+## 소환에서의 원소 옥타브
 
-Evocation particularly relies on understanding the Elemental Octave, as combining complementary elements creates harmonious and efficient spells, while opposing elements can create destructive interference or even spell failure.
+소환은 특히 원소 옥타브에 대한 이해에 의존하는데, 상호 보완적인 원소를 결합하면 조화롭고 효율적인 주문을 만들 수 있는 반면, 반대되는 원소는 파괴적인 간섭 또는 주문 실패까지 초래할 수 있기 때문이다.
 
-The elemental relationships in evocation follow the standard Elemental Wheel, but with particular attention to:
+소환에서의 원소 관계는 표준 원소 바퀴를 따르지만, 특히 다음 사항에 주의한다:
 
-- **Harmonic Pairs**: Fire-Air, Water-Earth, Light-Life, Shadow-Death
-- **Dissonant Pairs**: Fire-Water, Air-Earth, Light-Shadow, Life-Death
-- **Constructive Triads**: Fire-Earth-Light, Water-Air-Shadow, etc.
+- **조화로운 쌍**: 불-공기, 물-대지, 빛-생명, 그림자-죽음
+- **부조화로운 쌍**: 불-물, 공기-대지, 빛-그림자, 생명-죽음
+- **건설적인 삼조**: 불-대지-빛, 물-공기-그림자 등
 
-Master evokers learn to "play" the elemental harmonies like musical instruments, creating complex "chords" of elemental forces that produce effects greater than the sum of their parts.
+숙달된 소환술사들은 원소의 조화를 악기처럼 "연주"하는 법을 배워, 그 합보다 더 큰 효과를 만들어내는 원소 힘의 복잡한 "코드"를 만들어낸다.
 
-## Specialized Disciplines
+## 전문 분야
 
-### Pyromancy
+### 화염술
 
-Focused on fire manipulation, from controlled flames to explosive conflagrations. Practitioners are known as Pyromancers.
+제어된 화염부터 폭발적인 대화재에 이르기까지 화염 조작에 집중한다. 시전자들은 화염술사로 알려져 있다.
 
-### Hydromancy
+### 수력술
 
-The art of water control, including mist, ice, and steam manipulation. Masters are called Tidesingers.
+안개, 얼음, 증기 조작을 포함한 물 제어 기술. 숙련자들은 조수노래꾼이라고 불린다.
 
-### Geomancy
+### 지력술
 
-Specializes in earth and stone manipulation. Practitioners are known as Stoneshapers.
+흙과 돌 조작을 전문으로 한다. 시전자들은 돌조각사로 알려져 있다.
 
-### Aeromancy
+### 기력술
 
-The discipline of air and wind control. Practitioners are called Windweavers.
+공기와 바람 제어의 학문. 시전자들은 바람직조꾼이라고 불린다.
 
-### Electromancy
+### 전력술
 
-Advanced discipline focused on lightning and electrical energy. Masters are known as Stormcallers.
+번개와 전기 에너지에 초점을 맞춘 고급 학문. 숙련자들은 폭풍소환사로 알려져 있다.
 
-### Umbramancy
+### 암흑술
 
-The manipulation of shadow and darkness. Practitioners are called Shadowcasters.
+그림자와 어둠의 조작. 시전자들은 그림자시전가라고 불린다.
 
-### Luxomancy
+### 광명술
 
-Specializes in light manipulation beyond simple illumination. Masters are known as Lightbringers.
+단순한 조명 이상의 빛 조작을 전문으로 한다. 숙련자들은 빛전달자라고 알려져 있다.
 
-### Force Manipulation
+### 힘 조작
 
-The advanced discipline of pure kinetic energy control. Practitioners are called Forceshapers.
+순수한 운동 에너지 제어의 고급 학문. 시전자들은 힘조각사라고 불린다.
 
-## Training Methodology
+## 훈련 방법론
 
-Evocation training follows a distinct progression:
+소환술 훈련은 뚜렷한 진행 과정을 따른다:
 
-1. **Elemental Affinity Discovery**: Identifying a student's natural elemental connections
-2. **Power Control Exercises**: Learning to regulate mana output and projection
-3. **Single-Element Mastery**: Developing expertise with one primary element
-4. **Precision Training**: Exercises focused on accuracy and fine control
-5. **Secondary Element Introduction**: Expanding capabilities to complementary elements
-6. **Combat Applications**: Tactical uses of evocation in controlled scenarios
-7. **Elemental Harmonization**: Advanced techniques for combining multiple elements
-8. **Efficiency Refinement**: Reducing mana costs while maintaining effect potency
+1. **원소 친화력 발견**: 학생의 자연적인 원소 연결 식별
+2. **힘 제어 연습**: 마나 출력 및 투사 조절 학습
+3. **단일 원소 숙달**: 하나의 주요 원소에 대한 전문 지식 개발
+4. **정밀 훈련**: 정확성과 미세 제어에 초점을 맞춘 연습
+5. **보조 원소 도입**: 상호 보완적인 원소로 능력 확장
+6. **전투 적용**: 제어된 시나리오에서 소환의 전술적 사용
+7. **원소 조화**: 여러 원소를 결합하는 고급 기술
+8. **효율성 개선**: 효과 효능을 유지하면서 마나 비용 절감
 
-Evocation training often involves more physical components than other magical disciplines, as projecting force frequently requires corresponding physical movements and gestures.
+힘을 투사하려면 종종 해당 물리적 움직임과 제스처가 필요하므로 소환술 훈련은 종종 다른 마법 분야보다 더 많은 물리적 구성 요소를 포함한다.
 
-## Practical Applications
+## 실제 응용
 
-Beyond its obvious combat applications, evocation serves many practical purposes:
+명백한 전투 응용 외에도 소환술은 많은 실제 목적에 기여한다:
 
-- **Construction**: Moving heavy materials and shaping elements for building
-- **Agriculture**: Controlling rainfall, temperature, and soil conditions
-- **Transportation**: Propelling vessels or creating pathways
-- **Industry**: Providing heat, pressure, and other forces for manufacturing
-- **Environmental Management**: Controlling natural disasters or extreme weather
-- **Entertainment**: Creating spectacular displays and sensory experiences
+- **건설**: 무거운 재료를 이동하고 건물을 위한 원소 형성
+- **농업**: 강우량, 온도 및 토양 조건 제어
+- **운송**: 선박 추진 또는 통로 생성
+- **산업**: 제조를 위한 열, 압력 및 기타 힘 제공
+- **환경 관리**: 자연 재해 또는 극심한 기상 조건 제어
+- **엔터테인먼트**: 화려한 전시 및 감각적 경험 창출
 
-## Safety Protocols
+## 안전 프로토콜
 
-Due to its potentially destructive nature, evocation is typically subject to strict safety regulations:
+잠재적으로 파괴적인 성격으로 인해 소환술은 일반적으로 엄격한 안전 규정을 준수한다:
 
-- **Licensing Requirements**: Legal certification based on demonstrated control
-- **Containment Spaces**: Designated areas with protective wards for training
-- **Energy Dispersal Systems**: Emergency measures to safely dissipate magical energy
-- **Practice Limitations**: Restrictions on specific high-risk evocations
-- **Mandatory Supervision**: Requirements for oversight during advanced training
+- **면허 요구 사항**: 입증된 제어를 기반으로 한 법적 인증
+- **격리 공간**: 훈련을 위한 보호 결계가 있는 지정된 구역
+- **에너지 분산 시스템**: 마법 에너지를 안전하게 소멸시키는 비상 조치
+- **연습 제한**: 특정 고위험 소환에 대한 제한
+- **필수 감독**: 고급 훈련 중 감독 요구 사항
 
-## Limitations and Countermeasures
+## 한계 및 대응책
 
-Evocation has several inherent limitations:
+소환술에는 여러 가지 고유한 한계가 있다:
 
-- **Energy Cost**: High mana consumption limiting sustained use
-- **Control Difficulty**: Increasing complexity with scale and power
-- **Elemental Resistance**: Limited effectiveness against targets with matching elemental properties
-- **Environmental Dependence**: Some evocations require existing elements to amplify
-- **Predictability**: Visible energy signatures that can be anticipated
+- **에너지 비용**: 지속적인 사용을 제한하는 높은 마나 소비
+- **제어 난이도**: 규모와 힘에 따라 복잡성 증가
+- **원소 저항**: 일치하는 원소 속성을 가진 대상에 대한 제한된 효과
+- **환경 의존성**: 일부 소환은 증폭시키기 위해 기존 원소를 필요로 함
+- **예측 가능성**: 예측할 수 있는 눈에 보이는 에너지 서명
 
-Common countermeasures against evocation include:
+소환에 대한 일반적인 대응책은 다음과 같다:
 
-- **Elemental Absorption**: Wards that consume or redirect elemental energy
-- **Force Dispersion**: Spreading impact across larger areas to reduce effectiveness
-- **Reflection Barriers**: Surfaces that bounce evocation energy back toward casters
-- **Elemental Opposition**: Using contrary elements to neutralize effects
-- **Disruption Fields**: Areas of Wild Mana that interfere with evocation control
+- **원소 흡수**: 원소 에너지를 소비하거나 리디렉션하는 결계
+- **힘 분산**: 효과를 줄이기 위해 더 넓은 영역으로 충격을 분산
+- **반사 장벽**: 소환 에너지를 시전자에게 되돌려주는 표면
+- **원소 반대**: 효과를 중화하기 위해 반대되는 원소 사용
+- **교란장**: 소환 제어를 방해하는 야생 마나 영역
 
-## Musical Analogy
+## 음악적 비유
 
-In the musical framework of magic, evocation represents percussion and brass - bold, direct, and attention-commanding. The evoker is like a drummer establishing rhythm through decisive, powerful movements, or a trumpet player projecting clear notes through space.
+마법의 음악적 틀에서 소환은 타악기와 금관악기를 나타낸다 - 대담하고, 직접적이며, 주의를 끈다. 소환사는 결정적이고 강력한 움직임을 통해 리듬을 확립하는 드러머나 공간을 통해 명확한 음표를 투사하는 트럼펫 연주자와 같다.
 
-Master evokers describe their work as "conducting the elemental orchestra," bringing forth each element with precise timing and intensity. The most impressive evocations are like symphonic climaxes - multiple elements working in harmony to create overwhelming sensory experiences.
+숙련된 소환사들은 그들의 작업을 "원소 오케스트라를 지휘하는 것"으로 묘사하며, 정확한 타이밍과 강도로 각 원소를 불러낸다. 가장 인상적인 소환은 교향곡의 절정과 같다 - 압도적인 감각적 경험을 창출하기 위해 조화롭게 작동하는 여러 원소.
 
-## Notable Practitioners
+## 주목할 만한 시전자
 
-- **Ragnarr Stormcaller**: Legendary battle-mage famous for calling lightning storms in cloudless skies
-- **Lysandra Flameheart**: Creator of the Dancing Ember spell and pioneer of controlled fire evocation
-- **Terran Stonevoice**: Master geomancer who developed battlefield terrain manipulation techniques
-- **Aria Galewind**: Renowned aeromancer known for developing sustainable wind energy systems
-- **Umbra Nightshade**: Controversial shadowcaster who expanded the understanding of darkness as substance
+- **라그나르 스톰콜러**: 구름 한 점 없는 하늘에 번개 폭풍을 일으키는 것으로 유명한 전설적인 전투 마법사
+- **리산드라 플레임하트**: 춤추는 불씨 주문의 창시자이자 제어된 화염 소환의 개척자
+- **테란 스톤보이스**: 전장 지형 조작 기술을 개발한 숙련된 지력술사
+- **아리아 게일윈드**: 지속 가능한 풍력 에너지 시스템 개발로 유명한 유명한 기력술사
+- **움브라 나이트셰이드**: 어둠을 물질로 이해하는 것을 확장시킨 논란이 많은 그림자시전가
 
-## Historical Development
+## 역사적 발전
 
-Evocation is among the earliest documented forms of magic, with primitive versions appearing in the earliest tribal cultures as weather control and fire manipulation. The primal appeal and immediate utility of evocation made it widespread.
+소환은 가장 초기에 기록된 형태의 마법 중 하나로, 초기 부족 문화에서 날씨 제어와 화염 조작으로 나타났다. 소환의 원시적인 매력과 즉각적인 유용성으로 인해 널리 퍼졌다.
 
-The Second Age saw the systematization of evocation theory with the writing of "The Elemental Voice" by Arch-Evoker Ignis. This established the fundamental classifications and safety protocols still used today.
+제2시대에는 대 소환술사 이그니스가 "원소의 목소리"를 저술하여 소환 이론이 체계화되었다. 이는 오늘날에도 여전히 사용되는 기본 분류 및 안전 프로토콜을 확립했다.
 
-The Third Age brought significant advances in precision and efficiency, moving evocation beyond merely destructive applications toward more nuanced uses. The founding of the Elemental Harmony Academy marked a turning point, where evocation began to be studied as an art form rather than simply a weapon.
+제3시대에는 정밀도와 효율성이 크게 향상되어 소환은 단순히 파괴적인 응용에서 벗어나 보다 미묘한 용도로 이동했다. 원소 조화 아카데미의 설립은 소환이 단순한 무기가 아닌 예술 형태로 연구되기 시작한 전환점이 되었다.
 
-Modern evocation continues to evolve, with current research focused on micro-evocation (extremely precise small-scale effects) and harmonic evocation (complex multiple-element combinations).
+현대 소환은 계속 진화하고 있으며, 현재 연구는 미세 소환(매우 정밀한 소규모 효과)과 조화 소환(복잡한 다중 원소 조합)에 초점을 맞추고 있다.
 
 ---
 
-*See also: [Dancing Ember](/codex/Magics/Spells/Elemental/DancingEmber.md), [Elemental Magic](/codex/Magics/ElementalMagic.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*참조: [춤추는 불씨](/codex/Magics/Spells/Elemental/DancingEmber.md), [원소 마법](/codex/Magics/ElementalMagic.md), [마나 정화](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

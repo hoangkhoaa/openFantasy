@@ -1,211 +1,215 @@
-# **Mana Blights**: Corrupted Manifestations of Wild Magical Energy
+# **마나 블라이트**: 야생 마법 에너지의 타락한 현현
 
-> *"Where magic festers and grows unchecked, the Blights arise—wounds in reality given hunger and malevolent purpose."* — Magister Thorne, Warden of the Magical Containment Division
+> *"마법이 곪아 터지고 제어되지 않은 채 성장하는 곳에서 블라이트가 발생합니다. 굶주림과 악의적인 목적이 주어진 현실의 상처입니다."* — 매지스터 손, 마법 봉쇄 부서 감시관
 
-## Quick Navigation
+## 빠른 탐색
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Formation](#habitat-and-formation)
-- [Behavioral Patterns](#behavioral-patterns)
-- [Containment and Countermeasures](#containment-and-countermeasures)
+- [원소 구성](#원소-구성)
+- [물리적 특징](#물리적-특징)
+- [마법 친화도](#마법-친화도)
+- [서식지 및 형성](#서식지-및-형성)
+- [행동 패턴](#행동-패턴)
+- [봉쇄 및 대응책](#봉쇄-및-대응책)
 
-## Overview
+## 개요
 
-Mana Blights are dangerous manifestations of corrupted magical energy, occurring when Wild Mana becomes severely contaminated and unstable. Unlike [Mana Wisps](/codex/Creatures/Magical/ManaWisps.md), which represent the harmonious potential of magical energy, Blights embody magic's destructive capacity when left uncontrolled or deliberately corrupted. They form in areas of magical catastrophe, failed ritual sites, or places where the natural flow of magic has been severely disrupted. Constantly hungry for more energy to sustain their unstable existence, Blights represent one of the most significant hazards in areas of high magical activity.
+마나 블라이트는 야생 마나가 심하게 오염되고 불안정해질 때 발생하는 타락한 마법 에너지의 위험한 현현입니다. 마법 에너지의 조화로운 잠재력을 나타내는 [마나 위습](/codex/Creatures/Magical/ManaWisps.md)과 달리, 블라이트는 제어되지 않거나 의도적으로 타락했을 때 마법의 파괴적인 능력을 구체화합니다. 그들은 마법 재앙, 실패한 의식 장소, 또는 마법의 자연스러운 흐름이 심하게 파괴된 장소에서 형성됩니다. 그들의 불안정한 존재를 유지하기 위해 더 많은 에너지를 끊임없이 갈망하는 블라이트는 높은 마법 활동 지역에서 가장 중요한 위험 중 하나입니다.
 
-## Elemental Composition
+## 원소 구성
 
-**Mana Blights** possess a dangerously imbalanced elemental composition:
+**마나 블라이트**는 위험하게 불균형한 원소 구성을 가지고 있습니다.
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Soul | 마나 용량 | 대표 유형 |
 |----------|------|---------------|---------------------|
-| 15-25% | 0-5% | 70-85% | Standard Blight |
-| 30-40% | 0-2% | 60-70% | **Crystalline Blight** with partial physical manifestation |
-| 10-15% | 5-10% | 75-85% | **Sentient Blight** with rudimentary consciousness |
-| 5-15% | 0-5% | 80-95% | **Void Blight** with extreme magical instability |
+| 15-25% | 0-5% | 70-85% | 표준 블라이트 |
+| 30-40% | 0-2% | 60-70% | 부분적인 물리적 현현을 가진 **결정 블라이트** |
+| 10-15% | 5-10% | 75-85% | 초보적인 의식을 가진 **지각 블라이트** |
+| 5-15% | 0-5% | 80-95% | 극도의 마법적 불안정성을 가진 **공허 블라이트** |
 
-### Distinctive Composition
+### 독특한 구성
 
-Unlike most creatures, Mana Blights possess a fundamentally unstable elemental balance. Their abnormally high Mana Capacity contains almost entirely unprocessed Wild Mana rather than Base Mana, creating a constantly fluctuating energy state. Their Exanthis component consists primarily of magical residue and environmental matter absorbed during formation rather than biological tissue. Most Blights possess negligible Soul components, though particularly old specimens may develop rudimentary consciousness through extended existence.
+대부분의 생물과 달리, 마나 블라이트는 근본적으로 불안정한 원소 균형을 가지고 있습니다. 그들의 비정상적으로 높은 마나 용량은 베이스 마나보다는 거의 완전히 가공되지 않은 야생 마나를 포함하여 끊임없이 변동하는 에너지 상태를 만듭니다. 그들의 Exanthis 구성 요소는 생물학적 조직보다는 형성 중에 흡수된 마법 잔류물과 환경 물질로 주로 구성됩니다. 대부분의 블라이트는 무시할 정도의 소울 구성 요소를 가지고 있지만, 특히 오래된 표본은 장기간 존재를 통해 초보적인 의식을 개발할 수 있습니다.
 
-## Physical Characteristics
+## 물리적 특징
 
-**Mana Blights** exhibit disturbing physical traits:
+**마나 블라이트**는 불안한 물리적 특징을 나타냅니다.
 
-| Characteristic | Description |
+| 특징 | 설명 |
 |----------------|-------------|
-| **Size** | Highly variable; typically 2-8 feet in diameter but can grow substantially larger |
-| **Weight** | 30-200 pounds depending on absorbed material |
-| **Lifespan** | Typically 1-5 years until energy dissolution or containment |
-| **Physical Maturity** | Reach full power within 2-4 weeks of formation |
-| **Notable Features** | Dark, swirling core with chaotic energy patterns and often incorporated environmental debris |
+| **크기** | 매우 가변적입니다. 일반적으로 직경 2-8피트이지만 실질적으로 더 크게 성장할 수 있습니다. |
+| **무게** | 흡수된 물질에 따라 30-200파운드 |
+| **수명** | 에너지 용해 또는 봉쇄까지 일반적으로 1-5년 |
+| **물리적 성숙** | 형성 후 2-4주 이내에 최대 전력에 도달합니다. |
+| **주목할만한 특징** | 혼돈스러운 에너지 패턴과 종종 통합된 환경 파편이 있는 어둡고 소용돌이치는 코어 |
 
-### Appearance
+### 외관
 
-- **Anti-Luminescence**: Often absorb rather than emit light, creating shadow-like distortions
-- **Unstable Boundaries**: Edges constantly shift and pulse with erratic energy discharges
-- **Environmental Incorporation**: Absorb and integrate nearby materials into their form
-- **Chromatic Distortion**: Display unnatural color patterns that strain the observer's vision
-- **Spatial Warping**: Create minor distortions in space around their immediate vicinity
+- **반발광**: 종종 빛을 방출하기보다는 흡수하여 그림자 같은 왜곡을 생성합니다.
+- **불안정한 경계**: 가장자리가 끊임없이 바뀌고 불규칙한 에너지 방출로 맥동합니다.
+- **환경 통합**: 주변 물질을 흡수하여 자신의 형태로 통합합니다.
+- **색채 왜곡**: 관찰자의 시력을 압박하는 부자연스러운 색상 패턴을 표시합니다.
+- **공간 왜곡**: 주변 공간에서 약간의 왜곡을 만듭니다.
 
-## Magical Affinity
+## 마법 친화도
 
-**Mana Blights** represent a dangerous perversion of normal magical energy:
+**마나 블라이트**는 정상적인 마법 에너지의 위험한 왜곡을 나타냅니다.
 
-| Aspect | Capability |
+| 양상 | 능력 |
 |--------|------------|
-| **Mana Storage** | Abnormal (capable of containing high concentrations of Wild Mana) |
-| **Purification** | Inverse (actively corrupt Base Mana into Wild Mana) |
-| **Specialization Pattern** | Chaotic (unpredictable, uncontrolled elemental manifestations) |
-| **Natural Affinity** | Wild Mana primarily; often demonstrate erratic elemental discharges |
+| **마나 저장** | 비정상 (높은 농도의 야생 마나를 포함할 수 있습니다) |
+| **정화** | 역 (베이스 마나를 야생 마나로 적극적으로 타락시킵니다) |
+| **특화 패턴** | 혼돈 (예측 불가능하고 제어되지 않은 원소 현현) |
+| **자연 친화도** | 주로 야생 마나, 종종 불규칙한 원소 방출을 보여줍니다. |
 
-### Magical Disruptions
+### 마법적 혼란
 
-Mana Blights create several magical anomalies in their vicinity:
+마나 블라이트는 주변에 여러 가지 마법적 이상 현상을 만듭니다.
 
-- **Phase 1 Interference**: Disrupt the Wild Mana to Base Mana conversion process in living beings
-- **Pattern Dissolution**: Erode established magical patterns like wards, enchantments, and ongoing spells
-- **Resonance Contamination**: Corrupt the harmonic frequencies used in specialization
-- **Energy Absorption**: Drain ambient magical energy to fuel their own unstable existence
+- **1단계 간섭**: 생물체의 야생 마나에서 베이스 마나로의 변환 과정을 방해합니다.
+- **패턴 해소**: 보호막, 마법 부여, 진행 중인 주문과 같은 확립된 마법 패턴을 침식시킵니다.
+- **공명 오염**: 특화에 사용되는 조화 주파수를 타락시킵니다.
+- **에너지 흡수**: 불안정한 존재를 유지하기 위해 주변 마법 에너지를 고갈시킵니다.
 
-### Dangerous Magical Traits
+### 위험한 마법적 특성
 
-- **Wild Surge Generation**: Produce unpredictable bursts of untamed magical energy
-- **Base Mana Corruption**: Convert stable Base Mana into chaotic Wild Mana on contact
-- **Resonance Disruption**: Interfere with spellcasting within their proximity (10-100 foot radius)
-- **Pattern Interference**: Cause established magical patterns to degrade or fail
+- **야생 서지 생성**: 길들여지지 않은 마법 에너지의 예측할 수 없는 분출을 생성합니다.
+- **베이스 마나 타락**: 안정적인 베이스 마나를 접촉 시 혼돈스러운 야생 마나로 변환합니다.
+- **공명 파괴**: 근접성 내에서 주문 시전을 방해합니다 (반경 10-100피트).
+- **패턴 간섭**: 확립된 마법 패턴이 저하되거나 실패하게 만듭니다.
 
-## Habitat and Formation
+## 서식지 및 형성
 
-**Mana Blights** form in areas where magical energy has been corrupted or disrupted:
+**마나 블라이트**는 마법 에너지가 타락하거나 파괴된 지역에서 형성됩니다.
 
-| Formation Site | Blight Type | Formation Trigger |
+| 형성 장소 | 블라이트 유형 | 형성 트리거 |
 |----------------|-------------|-------------------|
-| **Failed Ritual Sites** | Complex Blights | Catastrophic spell failure |
-| **Magical Waste Areas** | Toxic Blights | Accumulation of magical byproducts |
-| **Planar Breach Points** | Void Blights | Improper interdimensional contact |
-| **Ley Line Ruptures** | Elemental Blights | Natural magical upheaval |
+| **실패한 의식 장소** | 복잡한 블라이트 | 파괴적인 주문 실패 |
+| **마법 폐기물 지역** | 독성 블라이트 | 마법 부산물의 축적 |
+| **차원 침범 지점** | 공허 블라이트 | 부적절한 차원 간 접촉 |
+| **레이 라인 파열** | 원소 블라이트 | 자연적인 마법적 격변 |
 
-### Formation Process
+### 형성 과정
 
-1. **Magical Disruption**: Initial event creates unstable Wild Mana concentration
-2. **Energy Accumulation**: Wild Mana begins to coalesce and attract more energy
-3. **Pattern Corruption**: Emergence of anti-harmonious resonance patterns
-4. **Matter Incorporation**: Absorption of physical material to create quasi-stable form
-5. **Consciousness Development**: In rare cases, emergence of primitive awareness
+1. **마법적 파괴**: 초기 이벤트는 불안정한 야생 마나 농도를 만듭니다.
+2. **에너지 축적**: 야생 마나가 융합되기 시작하고 더 많은 에너지를 끌어들입니다.
+3. **패턴 타락**: 반조화 공명 패턴의 출현
+4. **물질 통합**: 준 안정적인 형태를 만들기 위해 물리적 물질 흡수
+5. **의식 발달**: 드문 경우, 원시적 인식의 출현
 
-## Behavioral Patterns
+## 행동 패턴
 
-Despite generally lacking true consciousness, Mana Blights display consistent behavioral tendencies:
+일반적으로 진정한 의식이 부족함에도 불구하고, 마나 블라이트는 일관된 행동 경향을 보입니다.
 
-### Instinctive Behaviors
+### 본능적 행동
 
-- **Energy Hunger**: Constant drive to absorb additional magical energy
-- **Territorial Expansion**: Gradual spreading from point of origin
-- **Pattern Erasure**: Seem to specifically target and degrade organized magical structures
-- **Environmental Corruption**: Convert surrounding area to match their chaotic resonance
+- **에너지 굶주림**: 추가 마법 에너지를 흡수하려는 끊임없는 동기
+- **영토 확장**: 시작점에서 점진적인 확산
+- **패턴 삭제**: 조직화된 마법 구조를 구체적으로 표적으로 삼아 저하시키는 것으로 보입니다.
+- **환경 타락**: 주변 지역을 혼돈스러운 공명에 맞게 변환
 
-### Environmental Impact
+### 환경 영향
 
-Mana Blights create progressively worsening magical contamination zones:
+마나 블라이트는 점진적으로 악화되는 마법 오염 지대를 만듭니다.
 
-| Zone Range | Effects | Duration After Removal |
+| 영역 범위 | 효과 | 제거 후 지속 시간 |
 |------------|---------|------------------------|
-| Inner Zone (0-30ft) | Complete magical disruption, physical corruption | 1-5 years |
-| Middle Zone (30-100ft) | Spell failure, resonance distortion, Wild Mana saturation | 3-12 months |
-| Outer Zone (100-300ft) | Reduced spell effectiveness, increased Wild Mana content | 1-4 weeks |
-| Fringe Zone (300-1000ft) | Subtle magical interference, enhanced Wild Mana presence | 1-7 days |
+| 내부 영역 (0-30피트) | 완전한 마법적 파괴, 물리적 타락 | 1-5년 |
+| 중간 영역 (30-100피트) | 주문 실패, 공명 왜곡, 야생 마나 포화 | 3-12개월 |
+| 외부 영역 (100-300피트) | 주문 효과 감소, 야생 마나 함량 증가 | 1-4주 |
+| 주변 영역 (300-1000피트) | 미묘한 마법적 간섭, 야생 마나 존재 강화 | 1-7일 |
 
-### Growth and Expansion
+### 성장 및 확장
 
-Without containment, Blights follow a predictable growth pattern:
+봉쇄가 없으면 블라이트는 예측 가능한 성장 패턴을 따릅니다.
 
-1. **Nascent Stage**: Small, relatively stable, limited radius of effect
-2. **Feeding Stage**: Rapid energy absorption, increasing size and instability
-3. **Expansion Stage**: Territory growth, development of stronger disruption fields
-4. **Critical Mass**: Eventually reaching unstable size leading to catastrophic discharge or collapse
+1. **초기 단계**: 작고 상대적으로 안정적이며 제한된 효과 반경
+2. **먹이 단계**: 빠른 에너지 흡수, 크기 및 불안정성 증가
+3. **확장 단계**: 영토 성장, 더 강한 파괴 필드 개발
+4. **임계 질량**: 궁극적으로 파괴적인 방전 또는 붕괴로 이어지는 불안정한 크기에 도달
 
-## Containment and Countermeasures
+## 봉쇄 및 대응책
 
-Magical authorities have developed specific protocols for dealing with Mana Blights:
+마법 당국은 마나 블라이트를 다루기 위한 특정 프로토콜을 개발했습니다.
 
-### Detection Methods
+### 감지 방법
 
-- **Specialized Divination**: Modified detection spells that identify resonance distortions
-- **Elemental Reactions**: Certain purified elemental substances react visibly to Blight presence
-- **Familiar Response**: Trained magical familiars can sense Blights at great distances
-- **Symptom Recognition**: Environmental changes and spell behavior anomalies
+- **특수 점술**: 공명 왜곡을 식별하는 수정된 감지 주문
+- **원소 반응**: 특정 정제된 원소 물질은 블라이트 존재에 눈에 띄게 반응합니다.
+- **패밀리어 응답**: 훈련된 마법 패밀리어는 먼 거리에서 블라이트를 감지할 수 있습니다.
+- **증상 인식**: 환경 변화 및 주문 행동 이상
 
-### Containment Techniques
+### 봉쇄 기술
 
-| Method | Effectiveness | Limitations |
+| 방법 | 효과 | 제한 사항 |
 |--------|--------------|-------------|
-| **Harmonic Barrier** | High for small/medium Blights | Requires constant maintenance |
-| **Purification Circle** | Moderate | Works only on newer formations |
-| **Mana Siphoning** | Variable | Dangerous to practitioners |
-| **Resonance Inversion** | Very High | Requires master-level skill |
+| **조화 장벽** | 소형/중형 블라이트에 높은 효과 | 지속적인 유지 보수가 필요합니다. |
+| **정화 원** | 보통 | 새로운 형성에만 작동합니다. |
+| **마나 사이펀** | 가변적 | 시술자에게 위험합니다. |
+| **공명 반전** | 매우 높음 | 마스터 레벨 기술이 필요합니다. |
 
-### Neutralization Procedures
+### 무력화 절차
 
-The most effective approaches to eliminating Mana Blights include:
+마나 블라이트를 제거하는 가장 효과적인 접근 방식은 다음과 같습니다.
 
-1. **Containment**: Establishing barriers to prevent expansion
-2. **Isolation**: Separating the Blight from external energy sources
-3. **Purification**: Controlled conversion of Wild Mana to Base Mana
-4. **Dissipation**: Careful dispersion of the energy concentration
-5. **Transmutation**: In extreme cases, converting the entire energy mass into another form
+1. **봉쇄**: 확장을 방지하기 위해 장벽을 설정합니다.
+2. **고립**: 외부 에너지 원에서 블라이트를 분리합니다.
+3. **정화**: 야생 마나에서 베이스 마나로의 제어된 변환
+4. **분산**: 에너지 농도의 신중한 분산
+5. **변환**: 극단적인 경우, 전체 에너지 질량을 다른 형태로 변환
 
-## Classification System
+## 분류 시스템
 
-The Arcane Containment Authority classifies Mana Blights by threat level:
+아케인 봉쇄 기관은 위협 수준별로 마나 블라이트를 분류합니다.
 
-| Class | Characteristics | Containment Protocol | Response Team |
+| 등급 | 특징 | 봉쇄 프로토콜 | 대응 팀 |
 |-------|----------------|----------------------|---------------|
-| **Alpha** | Nascent, under 2ft diameter | Standard containment | Local mages |
-| **Beta** | Established, 2-5ft diameter | Active purification | Regional specialists |
-| **Gamma** | Mature, 5-10ft diameter | Full containment team | Authority response unit |
-| **Delta** | Critical, 10ft+ diameter | Emergency protocol | Master mage intervention |
-| **Omega** | Catastrophic, regional threat | Evacuation and isolation | Multiple master mages |
+| **알파** | 초기, 직경 2피트 미만 | 표준 봉쇄 | 지역 마법사 |
+| **베타** | 확립됨, 직경 2-5피트 | 적극적인 정화 | 지역 전문가 |
+| **감마** | 성숙함, 직경 5-10피트 | 전체 봉쇄 팀 | 당국 대응 부대 |
+| **델타** | 임계, 직경 10피트 이상 | 비상 프로토콜 | 마스터 마법사 개입 |
+| **오메가** | 파괴적, 지역적 위협 | 대피 및 고립 | 여러 마스터 마법사 |
 
-## Magical Mechanics Analysis
+## 마법 역학 분석
 
-Mana Blights provide key insights into magical theory through their abnormal properties:
+마나 블라이트는 비정상적인 속성을 통해 마법 이론에 대한 중요한 통찰력을 제공합니다.
 
-### Mana Purification Inversion
+### 마나 정화 반전
 
-While normal magical beings convert Wild Mana into stable Base Mana, Blights demonstrate the reverse process:
+정상적인 마법 존재는 야생 마나를 안정적인 베이스 마나로 변환하지만, 블라이트는 역과정을 보여줍니다.
 
-- **Purity Degradation**: Convert purified mana back to chaotic Wild Mana state
-- **Harmonic Disruption**: Create dissonant frequencies that interfere with stable resonance
-- **Pattern Corruption**: Introduce errors and instability into organized magical structures
+- **순도 저하**: 정제된 마나를 혼돈스러운 야생 마나 상태로 되돌립니다.
+- **조화 파괴**: 안정적인 공명을 방해하는 불협화음 주파수를 만듭니다.
+- **패턴 타락**: 조직화된 마법 구조에 오류와 불안정성을 도입합니다.
 
-### Phase Transition Impact
+### 위상 전환 영향
 
-Blights disrupt both phases of the standard mana conversion process:
+블라이트는 표준 마나 변환 과정의 두 단계 모두를 파괴합니다.
 
-- **Phase 1 Interference**: Prevent efficient absorption and conversion of Wild Mana
-- **Phase 2 Corruption**: Destabilize Base Mana undergoing elemental specialization
+- **1단계 간섭**: 야생 마나의 효율적인 흡수 및 변환을 방지합니다.
+- **2단계 타락**: 원소 특화를 거치는 베이스 마나를 불안정하게 만듭니다.
 
-### Resonance Manifestations
+### 공명 현현
 
-The chaotic resonance patterns of Blights manifest in observable phenomena:
+블라이트의 혼돈스러운 공명 패턴은 관찰 가능한 현상으로 나타납니다.
 
-- **Visual Distortions**: Light bends unpredictably near Blight boundaries
-- **Auditory Anomalies**: Witnesses report discordant sounds at the edge of hearing
-- **Thermal Fluctuations**: Erratic temperature changes in the vicinity
-- **Temporal Inconsistencies**: Minor time flow variations within the contamination zone
+- **시각적 왜곡**: 빛이 블라이트 경계 근처에서 예측할 수 없이 구부러집니다.
+- **청각적 이상**: 목격자들은 청력 가장자리에서 불협화음을 보고합니다.
+- **열 변동**: 주변 지역에서 불규칙한 온도 변화
+- **시간적 불일치**: 오염 구역 내에서 약간의 시간 흐름 변화
 
-## Historical Incidents
+## 역사적 사건
 
-Several notable Mana Blight incidents have been documented:
+몇 가지 주목할만한 마나 블라이트 사건이 문서화되었습니다.
 
-- **The Azurefall Catastrophe**: Formation of a Delta-class Blight following an experimental teleportation ritual failure
-- **Westmarch Academy Incident**: Beta-class Blight containment breach resulting in the loss of an entire research wing
-- **Silverlake Anomaly**: Naturally occurring Gamma-class Blight from a ley line rupture, now a permanent research site
-- **Thornwood Corruption**: Ongoing Omega-class Blight that has transformed an entire forest into a magical dead zone
+- **애저폴 대재앙**: 실험적인 순간이동 의식 실패 후 델타 등급 블라이트 형성
+- **웨스트마치 아카데미 사건**: 베타 등급 블라이트 봉쇄 위반으로 전체 연구 동 손실
+- **실버레이크 변칙**: 레이 라인 파열로 인한 자연 발생적인 감마 등급 블라이트, 현재 영구 연구 장소
+- **손우드 타락**: 전체 숲을 마법적 데드 존으로 변환시킨 진행 중인 오메가 등급 블라이트
 
 ---
 
-> Understanding **Mana Blights** provides crucial insight into the dangers of uncontrolled magical energy and the importance of proper magical practice. As much as they are threats to be contained, they also serve as powerful reminders of magic's capacity for chaos when the fundamental principles of harmonious resonance are violated. 
+> **마나 블라이트**를 이해하는 것은 제어되지 않은 마법 에너지의 위험과 적절한 마법 실행의 중요성에 대한 중요한 통찰력을 제공합니다. 봉쇄되어야 할 위협만큼이나 조화 공명의 기본 원칙이 위반되었을 때 마법의 혼돈 능력에 대한 강력한 알림 역할을 합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

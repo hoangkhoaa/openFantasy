@@ -1,97 +1,101 @@
-# **Mending Touch**
+# **수선 마법 (Mending Touch)**
 
-A practical utility spell that repairs minor damage to small objects. Widely taught to apprentices across various magical disciplines, this spell demonstrates the principles of pattern restoration and material manipulation.
+작은 물체의 경미한 손상을 수리하는 실용적인 유틸리티 주문입니다. 다양한 마법 분야의 견습생들에게 널리 가르쳐지는 이 주문은 패턴 복원 및 물질 조작의 원리를 보여줍니다.
 
-## Casting Information
+## 시전 정보
 
-| Aspect | Details |
+| 속성 | 세부 정보 |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | 30 seconds |
-| **Duration** | Instantaneous (repairs are permanent) |
-| **Range** | Touch |
-| **Components** | Somatic (tracing the break with fingers), Verbal (short phrase), Material (trace of the object's primary material) |
+| **난이도** | 초급 |
+| **시전 시간** | 30초 |
+| **지속 시간** | 즉시 (수리는 영구적임) |
+| **범위** | 접촉 |
+| **구성 요소** | 신체 (손가락으로 파손 부위를 따라 그림), 언어 (짧은 구절), 물질 (물체의 주 재료의 흔적) |
 
-## Technical Details
+## 기술적 세부 사항
 
-| Aspect | Details |
+| 속성 | 세부 정보 |
 |--------|---------|
-| **Mana Type** | Base Mana (60%), Terramana (30%), Vitaemana (10%) |
-| **Purity Required** | Basic (15-30%) |
-| **Pattern Complexity** | Simple (4 elements) |
-| **Resonance Frequency** | Restoration/Cohesion spectrum |
-| **Minimum Mana Capacity** | 20% (Higher capacity allows repair of more complex objects) |
+| **마나 유형** | 기본 마나 (60%), 대지 마나 (30%), 생명 마나 (10%) |
+| **순도 요구 사항** | 기본 (15-30%) |
+| **패턴 복잡성** | 단순 (4 요소) |
+| **공명 주파수** | 복원/응집 스펙트럼 |
+| **최소 마나 용량** | 20% (용량이 높을수록 더 복잡한 물체 수리 가능) |
 
-## Pattern Structure
+## 패턴 구조
 
-The Mending Touch pattern consists of four primary elements:
-1. **Memory Node**: Captures the object's "memory" of its undamaged state
-2. **Structure Web**: Analyzes and stabilizes the existing structure
-3. **Material Flow**: Directs material elements to return to their proper configuration
-4. **Binding Seal**: Permanently fixes the restored configuration in place
+수선 마법 패턴은 네 가지 주요 요소로 구성됩니다.
+1. **기억 노드**: 손상되지 않은 상태의 물체 "기억"을 캡처합니다.
+2. **구조 웹**: 기존 구조를 분석하고 안정화합니다.
+3. **재료 흐름**: 재료 요소를 올바른 구성으로 되돌리도록 지시합니다.
+4. **결합 봉인**: 복원된 구성을 영구적으로 고정합니다.
 
-These elements form a diamond-shaped pattern that flows from the caster's hands into the damaged object.
+이러한 요소는 시전자의 손에서 손상된 물체로 흐르는 다이아몬드 모양의 패턴을 형성합니다.
 
-## Practical Effect
+## 실제 효과
 
-When successfully cast, the spell:
-- Reconnects broken pieces that are in contact with each other
-- Seals small cracks and fissures
-- Restores minor surface damage (scratches, scuffs, small chips)
-- Returns the object to functional condition, though often with visible repair lines
+성공적으로 시전되면 주문은 다음을 수행합니다.
+- 서로 접촉하는 깨진 조각을 다시 연결합니다.
+- 작은 균열과 틈새를 봉합니다.
+- 경미한 표면 손상 (스크래치, 긁힘, 작은 칩)을 복원합니다.
+- 물체를 기능적 상태로 되돌리지만 종종 눈에 보이는 수리선이 있습니다.
 
-## Limitations
+## 제한 사항
 
-- Works only on non-magical, non-living objects smaller than a breadbox
-- Cannot restore missing pieces (all fragments must be present)
-- Does not restore magical properties if the object once had them
-- Not suitable for extremely complex or intricate mechanisms
-- Visible "seams" remain at repair points, becoming less noticeable with caster skill
+- 빵 상자보다 작은 비 마법적, 비 생명체 물체에만 작동합니다.
+- 누락된 조각은 복원할 수 없습니다 (모든 파편이 있어야 함).
+- 물체가 한때 가지고 있었다면 마법적 속성을 복원하지 않습니다.
+- 매우 복잡하거나 복잡한 메커니즘에는 적합하지 않습니다.
+- 수리 지점에 눈에 보이는 "이음새"가 남아 있으며, 시전자의 숙련도에 따라 덜 눈에 띄게 됩니다.
 
-## Common Applications
+## 일반적인 응용
 
-- Repairing broken dishes, cups, and glassware
-- Fixing torn pages in books
-- Mending torn clothing or simple accessories
-- Restoring broken tools to working condition
-- Reattaching handles, knobs, or small decorative elements
+- 깨진 접시, 컵 및 유리 제품 수리
+- 책의 찢어진 페이지 수정
+- 찢어진 옷이나 간단한 액세서리 수선
+- 고장난 도구를 작동 상태로 복원
+- 손잡이, 손잡이 또는 작은 장식 요소 재부착
 
-## Variations
+## 변형
 
-- **Seamless Mending**: An advanced variation that leaves no visible repair marks (Expert difficulty, 65-75% purity)
-- **Swift Mend**: A faster version with reduced effectiveness (15 seconds casting, less durable repairs)
-- **Remote Mending**: Allows repair without direct touch (Adept difficulty, 40-50% purity, requires clear line of sight)
-- **Material Focus**: Specialized versions optimized for specific materials (wood, cloth, ceramic, etc.)
+- **매끄러운 수선**: 눈에 보이는 수리 흔적을 남기지 않는 고급 변형 (전문가 난이도, 65-75% 순도)
+- **신속한 수선**: 효과가 감소된 더 빠른 버전 (15초 시전, 내구성이 약한 수리)
+- **원격 수선**: 직접 접촉없이 수리 가능 (숙련자 난이도, 40-50% 순도, 명확한 시야 필요)
+- **재료 집중**: 특정 재료 (나무, 천, 세라믹 등)에 최적화된 특수 버전
 
-## Risks and Miscast Effects
+## 위험 및 시전 오류 효과
 
-- **False Joining**: Pieces fuse incorrectly, resulting in a warped or unusable object
-- **Temporary Repair**: Poor casting or insufficient purity (below 15%) creates a repair that holds for only a few hours before failing
-- **Surface Marring**: Failed casting leaves discoloration or texture changes on the object
-- **Material Stress**: Creates invisible weaknesses that may cause the object to break again under strain
-- **Pattern Rebound**: Critical purity shortage (below 10%) may cause the broken pieces to repel each other, potentially causing minor injuries
+- **잘못된 결합**: 조각이 잘못 융합되어 뒤틀리거나 사용할 수 없는 물체가 됩니다.
+- **임시 수리**: 시전 불량 또는 불충분한 순도 (15% 미만)는 몇 시간 후에 실패하는 수리를 만듭니다.
+- **표면 손상**: 시전 실패는 물체에 변색 또는 질감 변화를 남깁니다.
+- **재료 응력**: 눈에 보이지 않는 약점을 만들어 물체가 하중을 받으면 다시 파손될 수 있습니다.
+- **패턴 반동**: 심각한 순도 부족 (10% 미만)은 깨진 조각이 서로 반발하여 경미한 부상을 입힐 수 있습니다.
 
-## Purity Influence on Effect
+## 효과에 대한 순도 영향
 
-| Purity Level | Effect Enhancement |
+| 순도 레벨 | 효과 향상 |
 |--------------|---------------------|
-| 10-15% | Temporary repairs that last hours to days at most |
-| 15-30% | Standard effect as described above, visible repair lines |
-| 30-50% | Less visible repair lines, stronger bonds, can fix slightly more complex objects |
-| 50%+ | Nearly invisible repair seams, can restore minor missing material (chips, etc.) |
+| 10-15% | 최대 몇 시간에서 며칠 동안 지속되는 임시 수리 |
+| 15-30% | 위에 설명된 표준 효과, 눈에 보이는 수리선 |
+| 30-50% | 덜 눈에 띄는 수리선, 더 강력한 결합, 약간 더 복잡한 물체 수정 가능 |
+| 50%+ | 거의 보이지 않는 수리 이음새, 약간의 누락된 재료 복원 가능 (칩 등) |
 
-## Musical Analogy
+## 음악적 비유
 
-Mending Touch is like tuning an instrument that has gone slightly out of tune. The caster must identify the proper "note" (the object's undamaged state) and carefully adjust the "strings" (material structure) until they once again produce harmony. Just as a precisely tuned instrument resonates with clarity, a properly mended object regains its structural integrity.
+수선 마법은 약간 음정이 맞지 않는 악기를 조율하는 것과 같습니다. 시전자는 적절한 "음표" (손상되지 않은 물체의 상태)를 식별하고 "현" (재료 구조)이 다시 조화를 이루도록 신중하게 조정해야 합니다. 정확하게 조율된 악기가 명확하게 공명하는 것처럼, 적절하게 수리된 물체는 구조적 완전성을 되찾습니다.
 
-## Learning Progression
+## 학습 진행
 
-Most students master this spell through practice on increasingly challenging materials:
-1. **Paper and Fabrics**: Simple, forgiving materials
-2. **Wood and Ceramics**: More structure, requiring greater precision
-3. **Glass and Stone**: Dense materials that resist magical influence
-4. **Complex Objects**: Items with multiple materials or moving parts
+대부분의 학생들은 점점 더 어려운 재료에 대한 연습을 통해 이 주문을 숙달합니다.
+1. **종이 및 직물**: 단순하고 관대한 재료
+2. **나무 및 세라믹**: 더 많은 구조, 더 큰 정밀도 필요
+3. **유리 및 석재**: 마법적 영향을 저항하는 밀집된 재료
+4. **복잡한 물체**: 여러 재료 또는 움직이는 부품이 있는 항목
 
-## Historical Note
+## 역사적 참고
 
-The first standardized version of Mending Touch was developed by Elven household mages of the Third Era who sought to create a practical spell accessible to those with minimal magical training. Initially dismissed by "serious" magical academics as mere housekeeping magic, the spell's elegant efficiency and practical utility eventually earned it a place in standard magical curricula. Today, it is often cited as a perfect example of magical design principles: maximum utility with minimal complexity. 
+수선 마법의 첫 번째 표준화된 버전은 최소한의 마법 훈련을 받은 사람들이 접근할 수 있는 실용적인 주문을 만들고자 했던 제 3시대 엘프 가사 마법사에 의해 개발되었습니다. 처음에는 "진지한" 마법 학자들에 의해 단순한 가정 마법으로 묵살되었지만, 주문의 우아한 효율성과 실용적인 유용성은 결국 표준 마법 커리큘럼에서 자리를 잡았습니다. 오늘날, 그것은 종종 마법 디자인 원칙의 완벽한 예로 인용됩니다. 최소한의 복잡성으로 최대한의 유용성을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

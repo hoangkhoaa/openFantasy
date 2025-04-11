@@ -1,104 +1,108 @@
-# **Giants**: The Colossal Forces of Nature
+# **자이언트**: 자연의 거대한 힘
 
-[**Giants**](/codex/Creatures/Giants.md) are the colossal forces of nature, their bodies a massive harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a thunderous tuba, they resonate with raw power, creating a unique melody of existence that bridges the mortal and divine realms.
+[**자이언트**](/codex/Creatures/Giants.md)는 자연의 거대한 힘이며, 그들의 몸은 [**엑산티스**](/codex/Basic/Exanthis.md), [**소울**](/codex/Basic/Soul.md), 그리고 **마나 용량**의 거대한 조화입니다. 웅장한 튜바처럼, 그들은 순수한 힘으로 공명하며 필멸의 영역과 신성한 영역을 잇는 독특한 존재의 멜로디를 창조합니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **giants** forms a harmony that favors physical might:
+[크리처](/codex/Creatures/Creatures.md)에 자세히 설명되어 있듯이, **자이언트**의 일반적인 비율은 육체적 힘을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 65-85% | The crystalline heart that grants extraordinary strength and resilience |
-| **Soul** | 10-20% | The ethereal essence that shapes a focused but limited consciousness |
-| **Mana Capacity** | 5-20% | The bridge between worlds that enables minimal magical potential |
+| **엑산티스** | 65-85% | 뛰어난 힘과 회복력을 부여하는 결정체의 심장 |
+| **소울** | 10-20% | 집중되었지만 제한된 의식을 형성하는 에테르 본질 |
+| **마나 용량** | 5-20% | 최소한의 마법 잠재력을 가능하게 하는 세계 사이의 다리 |
 
-This composition grants **giants** their characteristic power but typically limits their adaptability compared to other species, like a powerful instrument that can only play a limited range of notes.
+이러한 구성은 **자이언트**에게 그들의 특징적인 힘을 부여하지만, 제한된 범위의 음표만 연주할 수 있는 강력한 악기처럼 다른 종에 비해 적응력을 제한합니다.
 
-### Individual Variations
+### 개별 변형
 
-While the model composition represents the typical giant, individual variations exist based on their lineage:
+모델 구성은 일반적인 자이언트를 나타내지만, 혈통에 따라 개별적인 변형이 존재합니다.
 
-- **Primal Giants**: Ancient giant bloodlines possess Exanthis levels approaching 90%, making them nearly invulnerable with immense strength, though with greatly reduced consciousness (5% Soul) and magical ability (5% Mana Capacity).
-- **Storm Lords**: Giants from the Stormgiant lineage often have enhanced Mana Capacity (up to 25%), allowing them to channel lightning with devastating effect, though with slightly reduced physical mass (60% Exanthis).
-- **Ancient Sages**: Rare giants with higher Soul percentages (up to 25%) and moderate Mana Capacity (15%) become wisdom-keepers and leaders, preserving the ancient knowledge of giantkind.
-- **Elemental Monarchs**: Specialized giants with composition of (70% Exanthis, 10% Soul, 20% Mana Capacity) can embody and command entire elemental forces, becoming living manifestations of mountains, volcanoes, or glaciers.
-- **Hybrid Giants**: Giants with mixed ancestry may have more balanced compositions (60% Exanthis, 20% Soul, 20% Mana Capacity), combining substantial physical might with greater adaptability and magical potential.
+- **원시 자이언트**: 고대 자이언트 혈통은 엑산티스 레벨이 90%에 육박하여 엄청난 힘으로 거의 무적이 되지만, 의식(5% 소울)과 마법 능력(5% 마나 용량)은 크게 감소합니다.
+- **폭풍 군주**: 스톰자이언트 혈통의 자이언트는 종종 강화된 마나 용량(최대 25%)을 가지고 있어 파괴적인 효과로 번개를 조종할 수 있지만, 약간 감소된 물리적 질량(60% 엑산티스)을 가집니다.
+- **고대 현자**: 더 높은 소울 비율(최대 25%)과 적당한 마나 용량(15%)을 가진 희귀한 자이언트는 지혜를 지키고 지도자가 되어 자이언트 종족의 고대 지식을 보존합니다.
+- **원소 군주**: (70% 엑산티스, 10% 소울, 20% 마나 용량)의 구성으로 특화된 자이언트는 전체 원소 힘을 구현하고 지휘할 수 있으며, 산, 화산 또는 빙하의 살아있는 현현이 됩니다.
+- **하이브리드 자이언트**: 혼합된 혈통의 자이언트는 보다 균형 잡힌 구성(60% 엑산티스, 20% 소울, 20% 마나 용량)을 가질 수 있으며, 상당한 물리적 힘과 더 큰 적응력 및 마법 잠재력을 결합합니다.
 
-## Physical Characteristics
+## 물리적 특징
 
-**Giants** are known for their immense size and strength:
-- Towering height, ranging from 15 to 30 feet tall, depending on their lineage
-- Massive build with dense muscle and bone structure, like living mountains
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair and beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+**자이언트**는 거대한 크기와 힘으로 유명합니다.
+- 혈통에 따라 15피트에서 30피트까지 솟아오르는 키
+- 살아있는 산과 같은 조밀한 근육과 뼈 구조를 가진 거대한 체구
+- 살아있는 돌과 같은 자연적인 보호를 제공하는 두꺼운 피부
+- [**엑산티스**](/codex/Basic/Exanthis.md)와의 연결을 반영하는 내면의 빛으로 빛나는 눈
+- 종종 부족과 지위의 상징으로 복잡하게 땋은 머리카락과 수염
+- 폭풍우를 견디는 산처럼 독과 질병에 대한 자연적인 저항력
 
-## Physical and Magical Affinity
+## 물리적 및 마법적 친화력
 
-**Giants** demonstrate exceptional proficiency in physical might and resilience, like virtuoso performers who excel in power and intensity. Their composition allows them to:
-- Develop extraordinary strength and resilience, like living embodiments of power
-- Channel elemental energies with minimal proficiency, particularly earth and fire
-- Resist magical effects through their high **Exanthis** content, like a mountain standing against a storm
+**자이언트**는 힘과 강렬함에서 뛰어난 기교 연주자처럼 물리적 힘과 회복력에서 뛰어난 숙련도를 보여줍니다. 그들의 구성은 다음과 같은 능력을 부여합니다.
+- 힘의 살아있는 구현처럼 뛰어난 힘과 회복력을 개발
+- 특히 땅과 불과 같은 원소 에너지를 최소한의 숙련도로 조종
+- 폭풍에 맞서는 산처럼 높은 **엑산티스** 함량을 통해 마법 효과에 저항
 
-This power makes **giants** capable of achieving feats of strength that few other species can match, though they may struggle with tasks requiring subtlety or adaptability, like a powerful instrument that can only play at full volume.
+이러한 힘으로 인해 **자이언트**는 다른 종족이 따라올 수 없는 위업을 달성할 수 있지만, 큰 소리로만 연주할 수 있는 강력한 악기처럼 섬세함이나 적응력이 필요한 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## 수명 및 소울 쇠퇴
 
-The **soul decay** timeline for **giants**, from birth to complete decay, is approximately 800 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate power and knowledge over centuries
-- Develop deep connections to their territories and lineages
-- Form powerful societies with strong hierarchical structures
+**자이언트**의 **소울 쇠퇴** 타임라인은 탄생부터 완전한 쇠퇴까지 약 800년이며, 시대를 밝히는 천천히 타오르는 불꽃과 같습니다. 이 연장된 수명을 통해 그들은 다음과 같은 능력을 갖게 됩니다.
+- 수세기에 걸쳐 힘과 지식을 축적
+- 그들의 영토와 혈통에 대한 깊은 연결을 개발
+- 강력한 계층 구조를 가진 강력한 사회를 형성
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains powerful but unchanging through the ages.
+그러나 그들의 최소한의 소울 비율은 또한 그들이 매우 느리게 변화하고 적응한다는 것을 의미합니다. 마치 시대를 통해 강력하지만 변하지 않는 멜로디와 같습니다.
 
-## Habitat and Distribution
+## 서식지 및 분포
 
-**Giants** primarily inhabit:
-- Remote mountain ranges and volcanic regions, where they can be closest to elemental power
-- Territories that provide natural defenses and resources
-- Strategic locations that allow them to maintain their independence
+**자이언트**는 주로 다음 지역에 서식합니다.
+- 원소의 힘에 가장 가까울 수 있는 외딴 산맥과 화산 지역
+- 자연적인 방어와 자원을 제공하는 영토
+- 독립성을 유지할 수 있는 전략적 위치
 
-These locations provide ideal environments for the development of power and the practice of elemental magic, like a stage perfectly suited to their performance.
+이러한 위치는 그들의 연주에 완벽하게 적합한 무대처럼 힘의 개발과 원소 마법 수련을 위한 이상적인 환경을 제공합니다.
 
-## Cultural Impact
+## 문화적 영향
 
-In the world of **OpenFantasy**, **giants** play a crucial role in maintaining the balance of power, like conductors of the grand symphony of strength. Their societies are centers of:
-- Martial prowess and military might
-- Elemental magic and power
-- Hierarchical structures and lineage pride
+**OpenFantasy**의 세계에서 **자이언트**는 힘의 균형을 유지하는 데 중요한 역할을 합니다. 마치 웅장한 힘의 교향곡을 지휘하는 지휘자와 같습니다. 그들의 사회는 다음과 같은 중심지입니다.
+- 무술의 기량과 군사력
+- 원소 마법과 힘
+- 계층 구조와 혈통 자부심
 
-The connection to power has shaped giant culture around respect for strength, lineage, and dominance, creating a society where might makes right.
+힘과의 연결은 힘에 대한 존중, 혈통 및 지배를 중심으로 자이언트 문화를 형성했으며, 힘이 정의를 만드는 사회를 만들었습니다.
 
-## Relationship with Other Species
+## 다른 종과의 관계
 
-**Giants** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **Dragonkin**: A complex relationship of reverence and rivalry
+**자이언트**는 다른 종과 복잡한 관계를 유지합니다.
+- [**인간**](/codex/Creatures/Human.md)과: 그들의 적응력에 대한 존중과 그들의 약점에 대한 좌절의 혼합
+- **엘프**와: 그들의 마법적 기량을 인정하지만 그들의 방식이 이상하다고 생각하는 경계심 있는 존경
+- **드워프**와: 힘과 장인 정신에 대한 상호 존중을 바탕으로 한 실용적인 동맹
+- **드래곤킨**과: 숭배와 경쟁의 복잡한 관계
 
-These relationships are often characterized by a sense of superiority, as **giants** view themselves as the true heirs to divine power.
+이러한 관계는 종종 **자이언트**가 스스로를 신성한 힘의 진정한 상속자로 여기기 때문에 우월감으로 특징지어집니다.
 
-## Notable Giant Traits
+## 주목할만한 자이언트 특징
 
-- **Physical Might**: Giants excel in strength and resilience, often surpassing other species in raw power
-- **Elemental Affinity**: Giants have a natural connection to elemental magic, particularly earth and fire
-- **Limited Adaptability**: Their minimal soul ratio makes it difficult for giants to change or adapt
-- **Lineage Pride**: Giants place great emphasis on their divine heritage and lineage
-- **Territorial Nature**: Giants are fiercely protective of their territories and resources
+- **물리적 힘**: 자이언트는 힘과 회복력에서 뛰어나며 종종 순수한 힘에서 다른 종을 능가합니다.
+- **원소 친화력**: 자이언트는 특히 땅과 불과 같은 원소 마법과의 자연적인 연결을 가지고 있습니다.
+- **제한된 적응력**: 그들의 최소한의 소울 비율로 인해 자이언트가 변화하거나 적응하는 것이 어렵습니다.
+- **혈통 자부심**: 자이언트는 그들의 신성한 유산과 혈통을 매우 중요하게 생각합니다.
+- **영토적 본성**: 자이언트는 자신의 영토와 자원을 맹렬히 보호합니다.
 
-## Giant Lineages
+## 자이언트 혈통
 
-Giant society is organized around powerful lineages, each tracing its heritage to a specific divine ancestor:
+자이언트 사회는 특정 신성한 조상에게서 유래한 강력한 혈통을 중심으로 조직됩니다.
 
-| Lineage | Elemental Affinity | Territory | Notable Traits |
+| 혈통 | 원소 친화력 | 영토 | 주목할만한 특징 |
 |---------|---------------|---------|-------------------|
-| **Stormgiants** | Lightning | Mountain peaks | Swift action, electrical mastery |
-| **Firegiants** | Fire | Volcanic regions | Intense passion, destructive power |
-| **Frostgiants** | Ice | Arctic regions | Patient strategy, cold precision |
-| **Stonegiants** | Earth | Mountain ranges | Steadfast defense, geological control |
-| **Cloudgiants** | Air | Cloud islands | Swift movement, aerial dominance |
-| **Hillgiants** | Nature | Rolling hills | Connection to nature, agricultural mastery |
+| **스톰자이언트** | 번개 | 산봉우리 | 빠른 행동, 전기 마스터리 |
+| **파이어자이언트** | 불 | 화산 지역 | 강렬한 열정, 파괴적인 힘 |
+| **프로스트자이언트** | 얼음 | 북극 지역 | 참을성 있는 전략, 차가운 정확성 |
+| **스톤자이언트** | 땅 | 산맥 | 확고한 방어, 지질학적 통제 |
+| **클라우드자이언트** | 공기 | 구름 섬 | 빠른 움직임, 공중 지배 |
+| **힐자이언트** | 자연 | 구릉 | 자연과의 연결, 농업 마스터리 |
 
-Understanding the nature of **giants** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the mountains and skies. 
+**자이언트**의 본성을 이해하는 것은 산과 하늘을 통해 맥동하는 우레와 같은 리듬을 느끼는 것처럼 **OpenFantasy** 세계의 힘의 역학에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

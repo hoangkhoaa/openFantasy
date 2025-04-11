@@ -1,233 +1,237 @@
-# **Mana Specialization**: Transforming Base to Elemental
+# **마나 특성**: 기본 마나를 원소 마나로 변환하기
 
-> *"The true art of magic lies not in gathering power, but in shaping it. As a sculptor reveals form from shapeless clay, so does the mage reveal specific magical effects from neutral Base Mana."* — Archmagister Thalian Everwinter
+> *"진정한 마법의 예술은 힘을 모으는 데 있는 것이 아니라, 힘을 다듬는 데 있다. 조각가가 형태 없는 흙에서 형상을 드러내듯이, 마법사는 중립적인 기본 마나에서 특정한 마법 효과를 드러낸다."* — 대마법사 탈리안 에버윈터
 
-## Quick Reference
-- [The Specialization Process](#the-specialization-process)
-- [Elemental Mana Types](#elemental-mana-types)
-- [Specialization Techniques](#specialization-techniques)
-- [Affinities and Resistance](#affinities-and-resistance)
-- [Multi-Element Spellwork](#multi-element-spellwork)
-- [Common Challenges](#common-challenges)
+## 빠른 참조
+- [특성 과정](#the-specialization-process)
+- [원소 마나 유형](#elemental-mana-types)
+- [특성 기법](#specialization-techniques)
+- [친화력과 저항력](#affinities-and-resistance)
+- [다중 원소 주문 시전](#multi-element-spellwork)
+- [일반적인 어려움](#common-challenges)
 
-## Overview
+## 개요
 
-Mana Specialization refers to the conscious, technical process by which casters transform neutral [Base Mana](/codex/Magics/Core/BaseMana.md) into specific Elemental Mana types suitable for spellcasting. This transformation represents Phase 2 of the magical energy conversion continuum and is the defining skill that separates trained spellcasters from those with mere magical potential. Unlike the largely biological process of Wild Mana conversion (Phase 1), specialization is a learned skill requiring precision, focus, and understanding of elemental resonances.
+마나 특성은 시전자가 중립적인 [기본 마나](/codex/Magics/Core/BaseMana.md)를 주문 시전에 적합한 특정 원소 마나 유형으로 의식적이고 기술적으로 변환하는 과정을 말합니다. 이 변환은 마법 에너지 변환 연속체의 2단계를 나타내며, 훈련된 주문 시전자를 단순한 마법 잠재력을 가진 자와 구분하는 핵심 기술입니다. 야생 마나 변환(1단계)의 상당 부분이 생물학적 과정인 것과 달리, 특성은 정밀성, 집중력, 원소 공명에 대한 이해를 필요로 하는 습득된 기술입니다.
 
-## The Specialization Process
+## 특성 과정
 
-### Core Transformation Sequence
+### 핵심 변환 순서
 
-The transformation of Base Mana into specialized forms follows a distinct sequence:
+기본 마나를 특성화된 형태로 변환하는 과정은 다음과 같은 뚜렷한 순서를 따릅니다.
 
-1. **Intention Formation**: The caster clearly conceptualizes the desired effect
-2. **Energy Drawing**: Base Mana is pulled from internal reserves into active consciousness
-3. **Resonance Induction**: The caster's will impresses specific vibrational patterns onto the mana
-4. **Specialization**: Base Mana shifts into the corresponding elemental form
-5. **Pattern Integration**: Specialized mana is woven into the spell's structure
+1. **의도 형성**: 시전자는 원하는 효과를 명확하게 개념화합니다.
+2. **에너지 끌어오기**: 기본 마나가 내부 저장소에서 능동적인 의식으로 끌어당겨집니다.
+3. **공명 유도**: 시전자의 의지가 마나에 특정한 진동 패턴을 각인시킵니다.
+4. **특성**: 기본 마나가 해당 원소 형태로 전환됩니다.
+5. **패턴 통합**: 특성화된 마나가 주문의 구조에 짜여집니다.
 
-### Technical Mechanisms
+### 기술적 메커니즘
 
-At a technical level, specialization involves several simultaneous processes:
+기술적 수준에서 특성은 다음과 같은 여러 동시적인 프로세스를 포함합니다.
 
-- **Frequency Modulation**: Altering the fundamental resonance frequency of Base Mana
-- **Harmonic Amplification**: Enhancing specific harmonic overtones within the Base Mana
-- **Pattern Imprinting**: Imposing elemental patterns onto the neutral substrate
-- **Energy Densification**: Concentrating energy along specific channels and nodes
+- **주파수 변조**: 기본 마나의 기본 공명 주파수를 변경합니다.
+- **고조파 증폭**: 기본 마나 내의 특정 고조파 배음을 강화합니다.
+- **패턴 각인**: 중립적인 기질에 원소 패턴을 부과합니다.
+- **에너지 밀도화**: 특정 채널과 노드를 따라 에너지를 집중합니다.
 
-### Mathematical Model
+### 수학적 모델
 
-The transformation can be mathematically represented as:
+변환은 다음과 같이 수학적으로 표현할 수 있습니다.
 
 ```
 E = B × (Rf + Ia) × (1 - Wr)
 ```
 
-Where:
-- E = Resulting Elemental Mana
-- B = Base Mana input
-- Rf = Resonance frequency modifier
-- Ia = Intention amplification factor
-- Wr = Wild Mana residual percentage
+여기서:
+- E = 결과적인 원소 마나
+- B = 기본 마나 입력
+- Rf = 공명 주파수 수정자
+- Ia = 의도 증폭 계수
+- Wr = 야생 마나 잔류 백분율
 
-### Specialization Efficiency
+### 특성 효율성
 
-Not all Base Mana is successfully transformed during specialization attempts:
+특성 시도 중에 모든 기본 마나가 성공적으로 변환되는 것은 아닙니다.
 
-| Experience Level | Typical Efficiency | Base Mana Required |
+| 경험 수준 | 일반적인 효율성 | 필요한 기본 마나 |
 |------------------|-------------------|---------------------|
-| Novice | 40-60% | 1.7-2.5× the target output |
-| Adept | 60-75% | 1.3-1.7× the target output |
-| Expert | 75-85% | 1.2-1.3× the target output |
-| Master | 85-95% | 1.05-1.2× the target output |
-| Legendary | 95%+ | Nearly 1:1 conversion |
+| 초심자 | 40-60% | 목표 출력의 1.7-2.5배 |
+| 숙련자 | 60-75% | 목표 출력의 1.3-1.7배 |
+| 전문가 | 75-85% | 목표 출력의 1.2-1.3배 |
+| 달인 | 85-95% | 목표 출력의 1.05-1.2배 |
+| 전설 | 95%+ | 거의 1:1 변환 |
 
-This inefficiency explains why spellcasting depletes mana reserves more quickly than the theoretical minimum.
+이 비효율성은 주문 시전이 이론적인 최소값보다 더 빨리 마나 저장소를 고갈시키는 이유를 설명합니다.
 
-## Elemental Mana Types
+## 원소 마나 유형
 
-### Primary Elements
+### 주요 원소
 
-The fundamental elemental mana types derived from Base Mana include:
+기본 마나에서 파생된 기본적인 원소 마나 유형은 다음과 같습니다.
 
-| Elemental Mana | Core Attribute | Primary Applications | Opposed By |
+| 원소 마나 | 핵심 속성 | 주요 응용 분야 | 반대되는 원소 |
 |----------------|----------------|----------------------|------------|
-| **Pyromana** | Heat and energy | Fire, light, passion | Aquamana |
-| **Aquamana** | Fluidity and adaptation | Water, healing, change | Pyromana |
-| **Terramana** | Stability and solidity | Earth, protection, strength | Aeromana |
-| **Aeromana** | Movement and freedom | Air, communication, travel | Terramana |
-| **Luxmana** | Illumination and truth | Light, divination, purification | Umbramana |
-| **Umbramana** | Concealment and mystery | Shadow, illusion, secrecy | Luxmana |
-| **Vitamana** | Growth and vitality | Life, healing, nature | Mortismana |
-| **Mortismana** | Decay and transition | Death, transformation, cycles | Vitamana |
-| **Chronomana** | Sequence and duration | Time, divination, persistence | Aetheramana |
-| **Aetheramana** | Potential and space | Void, teleportation, possibility | Chronomana |
+| **파이로마나(Pyromana)** | 열과 에너지 | 불, 빛, 열정 | 아쿠아마나(Aquamana) |
+| **아쿠아마나(Aquamana)** | 유동성과 적응력 | 물, 치유, 변화 | 파이로마나(Pyromana) |
+| **테라마나(Terramana)** | 안정성과 견고함 | 땅, 보호, 힘 | 에어로마나(Aeromana) |
+| **에어로마나(Aeromana)** | 움직임과 자유 | 공기, 통신, 여행 | 테라마나(Terramana) |
+| **룩스마나(Luxmana)** | 조명과 진실 | 빛, 점술, 정화 | 움브라마나(Umbramana) |
+| **움브라마나(Umbramana)** | 은폐와 신비 | 그림자, 환상, 비밀 | 룩스마나(Luxmana) |
+| **비타마나(Vitamana)** | 성장과 활력 | 생명, 치유, 자연 | 모티스마나(Mortismana) |
+| **모티스마나(Mortismana)** | 쇠퇴와 전환 | 죽음, 변형, 순환 | 비타마나(Vitamana) |
+| **크로노마나(Chronomana)** | 순서와 지속 시간 | 시간, 점술, 지속성 | 에테르마나(Aetheramana) |
+| **에테르마나(Aetheramana)** | 잠재력과 공간 | 공허, 순간 이동, 가능성 | 크로노마나(Chronomana) |
 
-For detailed information on each element, see the respective elemental codices.
+각 원소에 대한 자세한 내용은 해당 원소 코덱을 참조하십시오.
 
-### Hybrid Specializations
+### 하이브리드 특성
 
-Through advanced specialization techniques, casters can create hybrid elemental forms:
+고급 특성 기법을 통해 시전자는 하이브리드 원소 형태를 만들 수 있습니다.
 
-| Hybrid Form | Component Elements | Properties | Common Applications |
+| 하이브리드 형태 | 구성 원소 | 속성 | 일반적인 응용 분야 |
 |-------------|-------------------|------------|---------------------|
-| **Stormmana** | Aeromana + Aquamana + Pyromana | Volatile, dynamic | Weather manipulation, electricity |
-| **Crystalmana** | Terramana + Luxmana | Structured, resonant | Enchantment, information storage |
-| **Mistmana** | Aeromana + Aquamana + Umbramana | Diffuse, concealing | Stealth, boundary manipulation |
-| **Forgemana** | Pyromana + Terramana | Transformative, durable | Creation, metallurgy, enhancement |
-| **Bloomana** | Vitamana + Aquamana + Terramana | Nurturing, cyclical | Growth acceleration, ecosystem manipulation |
+| **스톰마나(Stormmana)** | 에어로마나(Aeromana) + 아쿠아마나(Aquamana) + 파이로마나(Pyromana) | 휘발성, 역동적 | 날씨 조작, 전기 |
+| **크리스탈마나(Crystalmana)** | 테라마나(Terramana) + 룩스마나(Luxmana) | 구조화, 공명 | 마법 부여, 정보 저장 |
+| **미스트마나(Mistmana)** | 에어로마나(Aeromana) + 아쿠아마나(Aquamana) + 움브라마나(Umbramana) | 확산, 은폐 | 은신, 경계 조작 |
+| **포지마나(Forgemana)** | 파이로마나(Pyromana) + 테라마나(Terramana) | 변형, 내구성 | 창조, 야금, 강화 |
+| **블루마나(Bloomana)** | 비타마나(Vitamana) + 아쿠아마나(Aquamana) + 테라마나(Terramana) | 육성, 순환 | 성장 가속화, 생태계 조작 |
 
-The creation of hybrid forms requires greater skill and precision than single-element specialization.
+하이브리드 형태의 생성은 단일 원소 특성보다 더 높은 기술과 정밀성을 요구합니다.
 
-## Specialization Techniques
+## 특성 기법
 
-### Focus Methods
+### 집중 방법
 
-Different traditions employ various techniques to achieve specialization:
+다양한 전통에서 특성을 달성하기 위해 다양한 기법을 사용합니다.
 
-#### Visualization Approaches
-- **Elemental Imagery**: Mentally picturing the element in its purest form
-- **Symbolic Representation**: Using abstract symbols associated with the element
-- **Sensory Immersion**: Recalling all sensations associated with the element
-- **Process Envisioning**: Visualizing the transformation sequence itself
+#### 시각화 접근 방식
+- **원소 이미지**: 원소를 가장 순수한 형태로 정신적으로 그림
+- **상징적 표현**: 원소와 관련된 추상적인 기호 사용
+- **감각적 몰입**: 원소와 관련된 모든 감각을 회상
+- **프로세스 시각화**: 변환 순서 자체를 시각화
 
-#### Physical Techniques
-- **Gesture Systems**: Specific hand movements that catalyze specialization
-- **Vocal Modulation**: Sounds and tones that resonate with specific elements
-- **Breath Control**: Breathing patterns that enhance elemental alignment
-- **Somatic Positioning**: Body postures that facilitate energy flow
+#### 물리적 기법
+- **제스처 시스템**: 특성을 촉매하는 특정 손 움직임
+- **음성 변조**: 특정 원소와 공명하는 소리와 음색
+- **호흡 조절**: 원소 정렬을 향상시키는 호흡 패턴
+- **신체 자세**: 에너지 흐름을 촉진하는 신체 자세
 
-#### Tool-Assisted Methods
-- **Focal Instruments**: Wands, staffs, or orbs that enhance specialization efficiency
-- **Elemental Materials**: Physical representations of elements that serve as templates
-- **Resonant Chambers**: Devices that amplify specific elemental frequencies
-- **Pattern Matrices**: Tools inscribed with designs that guide the transformation
+#### 도구 지원 방법
+- **초점 악기**: 특성 효율성을 향상시키는 지팡이, 스태프 또는 오브
+- **원소 재료**: 템플릿 역할을 하는 원소의 물리적 표현
+- **공명 챔버**: 특정 원소 주파수를 증폭시키는 장치
+- **패턴 매트릭스**: 변환을 안내하는 디자인이 새겨진 도구
 
-### Training Progression
+### 훈련 진행
 
-The development of specialization skills follows a standard sequence:
+특성 기술 개발은 표준 순서를 따릅니다.
 
-1. **Single-Element Focus**: Mastering one element before attempting others
-2. **Elemental Pairs**: Working with complementary or opposed elements
-3. **Multi-Element Balance**: Maintaining several elements simultaneously
-4. **Rapid Shifting**: Quickly changing between elemental types
-5. **Hybrid Formation**: Creating stable combinations of elements
-6. **Precision Ratios**: Achieving exact proportions of different elements
+1. **단일 원소 집중**: 다른 원소를 시도하기 전에 하나의 원소 마스터하기
+2. **원소 쌍**: 보완적 또는 반대되는 원소 작업
+3. **다중 원소 균형**: 여러 원소를 동시에 유지
+4. **빠른 전환**: 원소 유형 간에 빠르게 변경
+5. **하이브리드 형성**: 원소의 안정적인 조합 생성
+6. **정밀 비율**: 서로 다른 원소의 정확한 비율 달성
 
-## Affinities and Resistance
+## 친화력과 저항력
 
-### Natural Affinities
+### 자연적 친화력
 
-Most casters have inherent predispositions toward certain elemental types:
+대부분의 시전자는 특정 원소 유형에 대한 고유한 성향을 가지고 있습니다.
 
-- **Inherent Affinities**: Elements that require minimal effort to specialize
-- **Neutral Elements**: Those with moderate difficulty of specialization
-- **Resistant Elements**: Those requiring significant effort to specialize
+- **고유한 친화력**: 특성에 최소한의 노력이 필요한 원소
+- **중립적인 원소**: 특성 난이도가 중간 정도인 원소
+- **저항적인 원소**: 특성에 상당한 노력이 필요한 원소
 
-These affinities are determined by:
-- **Hereditary Factors**: Genetic predispositions often follow familial lines
-- **Birth Circumstances**: Environmental conditions and celestial alignments
-- **Formative Experiences**: Significant early-life events involving elements
-- **Temperamental Alignment**: Natural personality resonances with elements
+이러한 친화력은 다음과 같이 결정됩니다.
+- **유전적 요인**: 유전적 성향은 종종 가족 계통을 따릅니다.
+- **출생 환경**: 환경 조건 및 천체 정렬
+- **형성 경험**: 원소가 관련된 중요한 초기 생활 사건
+- **기질 정렬**: 원소와의 자연스러운 성격 공명
 
-### Affinity Measurement Scale
+### 친화력 측정 척도
 
-| Affinity Level | Specialization Efficiency | Training Impact |
+| 친화력 수준 | 특성 효율성 | 훈련 영향 |
 |----------------|---------------------------|----------------|
-| Strong Affinity (+3) | 125-150% normal efficiency | Progress 2× faster than average |
-| Moderate Affinity (+2) | 110-125% normal efficiency | Progress 1.5× faster than average |
-| Slight Affinity (+1) | 100-110% normal efficiency | Progress 1.2× faster than average |
-| Neutral (0) | 100% normal efficiency | Standard progression rate |
-| Slight Resistance (-1) | 90-100% normal efficiency | Progress 0.8× average rate |
-| Moderate Resistance (-2) | 75-90% normal efficiency | Progress 0.5× average rate |
-| Strong Resistance (-3) | 50-75% normal efficiency | Progress at 0.25× average rate |
+| 강한 친화력 (+3) | 일반 효율성의 125-150% | 평균보다 2배 빠른 진행 |
+| 중간 친화력 (+2) | 일반 효율성의 110-125% | 평균보다 1.5배 빠른 진행 |
+| 약간의 친화력 (+1) | 일반 효율성의 100-110% | 평균보다 1.2배 빠른 진행 |
+| 중립 (0) | 일반 효율성의 100% | 표준 진행 속도 |
+| 약간의 저항력 (-1) | 일반 효율성의 90-100% | 평균 속도의 0.8배 진행 |
+| 중간 저항력 (-2) | 일반 효율성의 75-90% | 평균 속도의 0.5배 진행 |
+| 강한 저항력 (-3) | 일반 효율성의 50-75% | 평균 속도의 0.25배 진행 |
 
-### Affinity Modification
+### 친화력 수정
 
-While core affinities are largely fixed, several techniques can enhance specialization ability:
+핵심 친화력은 대부분 고정되어 있지만, 여러 기법이 특성 능력을 향상시킬 수 있습니다.
 
-- **Cross-Training**: Regular practice with resistant elements gradually improves affinity
-- **Resonant Exposure**: Extended contact with elemental sources shifts affinity
-- **Harmonic Tools**: Instruments designed to amplify specific elemental resonances
-- **Attunement Rituals**: Ceremonies that align a caster's energy with specific elements
+- **교차 훈련**: 저항적인 원소와의 규칙적인 연습은 점차 친화력을 향상시킵니다.
+- **공명 노출**: 원소 소스와의 연장된 접촉은 친화력을 변화시킵니다.
+- **고조파 도구**: 특정 원소 공명을 증폭시키도록 설계된 악기
+- **조율 의식**: 시전자의 에너지를 특정 원소와 정렬시키는 의식
 
-## Multi-Element Spellwork
+## 다중 원소 주문 시전
 
-### Elemental Interaction Principles
+### 원소 상호 작용 원리
 
-When multiple elemental types are used in a single spell, several interaction principles apply:
+단일 주문에서 여러 원소 유형이 사용되는 경우 다음과 같은 여러 상호 작용 원리가 적용됩니다.
 
-1. **Conservation of Energy**: The total mana required increases with complexity
-2. **Elemental Harmony**: Compatible elements enhance efficiency
-3. **Elemental Discord**: Opposed elements increase mana requirements
-4. **Synergistic Effects**: Certain combinations produce greater than additive results
-5. **Interference Patterns**: Elements may amplify or cancel specific aspects
+1. **에너지 보존**: 필요한 총 마나는 복잡성에 따라 증가합니다.
+2. **원소 조화**: 호환되는 원소는 효율성을 향상시킵니다.
+3. **원소 불협화음**: 반대되는 원소는 마나 요구량을 증가시킵니다.
+4. **시너지 효과**: 특정 조합은 가산적인 결과보다 더 큰 결과를 생성합니다.
+5. **간섭 패턴**: 원소는 특정 측면을 증폭하거나 상쇄할 수 있습니다.
 
-### Standard Configurations
+### 표준 구성
 
-Common multi-element spell structures include:
+일반적인 다중 원소 주문 구조는 다음과 같습니다.
 
-- **Core-Shell**: A primary element forming the core with secondary elements as modifiers
-- **Weave Pattern**: Multiple elements interlaced in specific patterns
-- **Harmonic Sequence**: Elements activated in specific order for cascading effects
-- **Layered Construction**: Distinct elements maintained in separate but connected layers
-- **Fusion Form**: Complete blending of elements into a hybrid state
+- **코어-셸**: 핵심을 형성하는 주요 원소와 수정자 역할을 하는 보조 원소
+- **엮음 패턴**: 특정 패턴으로 얽힌 여러 원소
+- **고조파 시퀀스**: 연쇄 효과를 위해 특정 순서로 활성화되는 원소
+- **계층화된 구조**: 분리되어 있지만 연결된 계층에서 유지되는 뚜렷한 원소
+- **융합 형태**: 원소의 완전한 혼합으로 하이브리드 상태
 
-### Stabilization Techniques
+### 안정화 기법
 
-Maintaining multiple elements simultaneously requires specific stabilization methods:
+여러 원소를 동시에 유지하려면 특정 안정화 방법이 필요합니다.
 
-- **Boundary Maintenance**: Keeping elements separated where needed
-- **Harmonic Balancing**: Ensuring resonance patterns don't destabilize each other
-- **Flux Control**: Managing the variable rates of energy flow between elements
-- **Pattern Reinforcement**: Strengthening the overall structure with Base Mana
+- **경계 유지**: 필요한 경우 원소를 분리 유지
+- **고조파 균형**: 공명 패턴이 서로를 불안정하게 만들지 않도록 보장
+- **플럭스 제어**: 원소 간의 가변적인 에너지 흐름 속도 관리
+- **패턴 강화**: 기본 마나로 전체 구조 강화
 
-## Common Challenges
+## 일반적인 어려움
 
-### Specialization Difficulties
+### 특성 어려움
 
-Spellcasters frequently encounter specific problems during specialization:
+주문 시전자는 특성 중에 특정 문제에 자주 직면합니다.
 
-| Challenge | Symptoms | Common Causes | Solutions |
+| 어려움 | 증상 | 일반적인 원인 | 해결책 |
 |-----------|----------|---------------|-----------|
-| **Resonance Slippage** | Element shifts to an unintended form | Poor concentration, conflicting intention | Enhanced focus techniques, clearer visualization |
-| **Pattern Collapse** | Specialized mana reverts to Base Mana | Insufficient structure, excessive Wild Mana | Stronger pattern framing, improved purity |
-| **Element Bleed** | Unintended elemental influences | Poor boundary maintenance | Better compartmentalization, stronger element isolation |
-| **Overspecialization** | Excessive elemental transformation | Zealous conversion, poor balance | Controlled conversion, Base Mana preservation |
-| **Harmonic Dissonance** | Unstable, fluctuating specialization | Incompatible element combinations | Element sequencing, buffer techniques |
+| **공명 미끄러짐** | 원소가 의도하지 않은 형태로 전환됨 | 집중력 저하, 의도 충돌 | 향상된 집중 기법, 더 명확한 시각화 |
+| **패턴 붕괴** | 특성화된 마나가 기본 마나로 되돌아감 | 불충분한 구조, 과도한 야생 마나 | 더 강력한 패턴 프레임, 향상된 순도 |
+| **원소 출혈** | 의도하지 않은 원소 영향 | 열악한 경계 유지 | 더 나은 구획화, 더 강력한 원소 격리 |
+| **과잉 특성** | 과도한 원소 변환 | 열성적인 변환, 열악한 균형 | 제어된 변환, 기본 마나 보존 |
+| **고조파 불협화음** | 불안정하고 변동하는 특성 | 호환되지 않는 원소 조합 | 원소 시퀀싱, 버퍼 기법 |
 
-### Risk Factors
+### 위험 요인
 
-Several conditions increase the difficulty of successful specialization:
+몇 가지 조건이 성공적인 특성의 어려움을 증가시킵니다.
 
-- **Mental Fatigue**: Diminishes concentration and pattern clarity
-- **Emotional Turbulence**: Introduces unintended resonance influences
-- **Environmental Interference**: External energy sources disrupt specialization
-- **Physical Depletion**: Reduces the body's ability to manage energy flow
-- **Temporal Pressure**: Rushed specialization leads to imprecise results
+- **정신적 피로**: 집중력과 패턴 명확성을 감소시킵니다.
+- **정서적 격변**: 의도하지 않은 공명 영향을 도입합니다.
+- **환경 간섭**: 외부 에너지 원이 특성을 방해합니다.
+- **신체적 고갈**: 에너지 흐름을 관리하는 신체의 능력을 감소시킵니다.
+- **시간 압박**: 서두른 특성은 부정확한 결과를 초래합니다.
 
-## Conclusion
+## 결론
 
-Mana Specialization represents the heart of the spellcaster's art. While the raw potential of Base Mana provides the foundation, it is through the precise, intentional transformation into elemental forms that actual magical effects are created. Mastery of specialization—understanding its principles, developing efficient techniques, and learning to work with multiple elements—is what separates the novice from the adept, and the adept from the master.
+마나 특성은 주문 시전자의 예술의 핵심을 나타냅니다. 기본 마나의 원시적인 잠재력이 기반을 제공하는 반면, 실제 마법 효과는 원소 형태로의 정확하고 의도적인 변환을 통해 생성됩니다. 특성의 원리를 이해하고, 효율적인 기법을 개발하고, 여러 원소와 함께 작업하는 방법을 배우는 특성 숙달은 초심자를 숙련자로, 숙련자를 달인으로 구분합니다.
 
-> *"The apprentice looks at Base Mana and asks, 'What can I do with this?' The master looks at Base Mana and asks, 'What can this become?'"* — Magister Sylvanus Brightwell, Dean of Elemental Studies 
+> *"견습생은 기본 마나를 보고 '이것으로 무엇을 할 수 있을까?'라고 묻습니다. 달인은 기본 마나를 보고 '이것은 무엇이 될 수 있을까?'라고 묻습니다."* — 실바누스 브라이트웰 학장, 원소 연구 학부 
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

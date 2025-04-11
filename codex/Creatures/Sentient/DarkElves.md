@@ -1,159 +1,163 @@
-# **Dark Elves**: The Shadowed Kin of the Elves
+# **다크 엘프**: 엘프의 그림자 친족
 
-[**Dark Elves**](/codex/Creatures/DarkElves.md) are the shadowed kin of the Elves, their bodies a dark harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a haunting cello, they resonate with the darker aspects of magic, creating a unique melody of existence that bridges the light and shadow realms.
+[**다크 엘프**](/codex/Creatures/DarkElves.md)는 엘프의 그림자 친족으로, 그들의 몸은 [**Exanthis**](/codex/Basic/Exanthis.md), [**영혼**](/codex/Basic/Soul.md), 그리고 **마나 용량**의 어두운 조화로 이루어져 있습니다. 마치 잊을 수 없는 첼로처럼, 그들은 마법의 어두운 측면과 공명하여 빛과 그림자 영역을 연결하는 독특한 존재의 멜로디를 만들어냅니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dark elves** forms a harmony that favors magical potential:
+[Creatures](/codex/Creatures/Creatures.md)에 자세히 설명된 바와 같이, **다크 엘프**의 일반적인 비율은 마법 잠재력을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 10-35% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 5-25% | The ethereal essence that shapes a focused and intense consciousness |
-| **Mana Capacity** | 50-85% | The bridge between worlds that enables extraordinary magical potential |
+| **Exanthis** | 10-35% | 적당한 물리적 힘과 우아함을 제공하는 결정질 심장 |
+| **영혼** | 5-25% | 집중되고 강렬한 의식을 형성하는 에테르적 본질 |
+| **마나 용량** | 50-85% | 특별한 마법 잠재력을 가능하게 하는 세계 사이의 다리 |
 
-This composition grants **dark elves** their characteristic magical prowess but limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+이 구성은 **다크 엘프**에게 그들의 특징적인 마법 능력을 부여하지만, 섬세한 악기가 아름다운 소리를 내지만 조심스럽게 다루어야 하는 것처럼 다른 종에 비해 물리적 회복력을 제한합니다.
 
-### Individual Variations
+### 개별 변형
 
-While the model composition represents the typical dark elf, individual variations exist:
+모델 구성은 일반적인 다크 엘프를 나타내지만, 개별 변형이 존재합니다.
 
-- **Void Mages**: Some dark elves possess Mana Capacity as high as 90%, making them among the most powerful spellcasters in existence but physically vulnerable with as little as 5% Exanthis.
-- **Shadow Warriors**: A specialized variant has Exanthis levels approaching 40%, allowing them to excel in physical combat while still maintaining significant magical abilities (45% Mana Capacity).
-- **Soul Binders**: Those with higher Soul percentages (up to 30%) develop exceptional abilities in necromancy and soul manipulation, often becoming powerful death mages or spiritual enslavers.
-- **Balanced Dark Elves**: Some individuals maintain a more balanced composition (25% Exanthis, 15% Soul, 60% Mana Capacity), allowing them to adapt to various roles within dark elf society.
-- **Shadowblades**: A specialized composition of (20% Exanthis, 10% Soul, 70% Mana Capacity) creates dark elves who can weave shadow magic into deadly combat techniques.
+- **공허 마법사**: 일부 다크 엘프는 마나 용량이 90%에 달하여 현존하는 가장 강력한 주문 시전자가 되지만 Exanthis가 5%에 불과하여 물리적으로 취약합니다.
+- **그림자 전사**: 특화된 변종은 Exanthis 수준이 40%에 가까워 물리적 전투에서 뛰어난 능력을 발휘하면서도 상당한 마법 능력을 유지합니다 (45% 마나 용량).
+- **영혼 결속자**: 영혼 비율이 더 높은 (최대 30%) 사람들은 사령술과 영혼 조작에서 뛰어난 능력을 개발하여 종종 강력한 죽음 마법사 또는 영적 노예가 됩니다.
+- **균형 잡힌 다크 엘프**: 일부 개인은 보다 균형 잡힌 구성 (25% Exanthis, 15% 영혼, 60% 마나 용량)을 유지하여 다크 엘프 사회 내에서 다양한 역할에 적응할 수 있습니다.
+- **Shadowblades**: (20% Exanthis, 10% 영혼, 70% 마나 용량)의 특화된 구성은 그림자 마법을 치명적인 전투 기술로 엮을 수 있는 다크 엘프를 만듭니다.
 
-## Physical Characteristics
+## 물리적 특징
 
-**Dark Elves** are known for their ethereal beauty and shadowy nature:
-- Tall and slender, with proportions that seem to defy reality
-- Eyes that glow with inner darkness, reflecting their connection to shadow magic
-- Skin that ranges from deep purple to obsidian black, often with subtle patterns that seem to shift
-- Hair that flows with an otherworldly grace, often in shades of silver, white, or deep purple
-- Ears that extend into elegant points, attuned to the subtle harmonies of shadow magic
-- Presence that seems to dim the light around them, like a shadow passing over the sun
+**다크 엘프**는 그들의 에테르적인 아름다움과 그림자 같은 본성으로 유명합니다.
+- 키가 크고 날씬하며, 현실을 거스르는 듯한 비율
+- 그림자 마법과의 연결을 반영하는 내면의 어둠으로 빛나는 눈
+- 짙은 보라색에서 흑요석 검은색에 이르기까지 다양하며, 종종 움직이는 듯한 미묘한 패턴
+- 은색, 흰색 또는 짙은 보라색 음영으로 흐르는 듯한 머리카락
+- 그림자 마법의 미묘한 조화에 맞춰진 우아한 포인트로 뻗은 귀
+- 태양 위를 지나가는 그림자처럼 주변의 빛을 어둡게 만드는 존재감
 
-## Magical Affinity
+## 마법 친화력
 
-**Dark Elves** demonstrate exceptional proficiency in shadow magic and necromancy, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel shadow magic with extraordinary precision, like conductors of the night's symphony
-- Manipulate the forces of death and decay with unparalleled mastery, like composers who have perfected the art of the macabre
-- Create illusions through the manipulation of light and shadow, like artists painting with darkness
+**다크 엘프**는 마치 악기를 마스터한 거장 음악가처럼 그림자 마법과 사령술에 뛰어난 숙련도를 보여줍니다. 그들의 구성은 다음과 같습니다.
+- 밤의 교향곡의 지휘자처럼 특별한 정밀도로 그림자 마법을 전달
+- 끔찍한 예술을 완성한 작곡가처럼 비교할 수 없는 숙달로 죽음과 부패의 힘을 조작
+- 어둠으로 그림을 그리는 예술가처럼 빛과 그림자의 조작을 통해 환상을 창조
 
-This specialization makes **dark elves** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+이 전문화는 **다크 엘프**가 선택한 마법 전통에서 가장 높은 수준의 숙련도를 달성할 수 있게 해주지만, 아름다운 소리를 내지만 거친 취급을 견딜 수 없는 섬세한 악기처럼 물리적 힘이나 회복력이 필요한 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## 수명 및 영혼 부패
 
-The **soul decay** timeline for **dark elves**, from birth to complete decay, is approximately 1200 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+출생부터 완전한 부패까지 **다크 엘프**의 **영혼 부패** 타임라인은 약 1200년으로, 시대를 밝히는 천천히 타오르는 불꽃과 같습니다. 이 연장된 수명을 통해 그들은 다음과 같습니다.
+- 수 세기에 걸쳐 광대한 지식과 지혜를 축적
+- 특정 장소 및 마법 전통과 깊은 연결을 개발
+- 복잡한 관습과 의식을 가진 복잡한 사회를 형성
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+그러나 그들의 느린 영혼 부패는 또한 다른 종보다 더 천천히 변하고 적응한다는 것을 의미하며, 시대가 흘러도 아름답지만 변하지 않는 멜로디와 같습니다.
 
-## Habitat and Distribution
+## 서식지 및 분포
 
-**Dark Elves** primarily inhabit:
-- Underground cities and caverns, where they can control the light
-- Dark forests and shadowy groves, where they can be closest to the shadows
-- Magical realms where the boundaries between light and dark grow thin
-- Strategic locations that provide access to both light and shadow
+**다크 엘프**는 주로 다음 장소에 서식합니다.
+- 빛을 제어할 수 있는 지하 도시 및 동굴
+- 그림자에 가장 가까이 다가갈 수 있는 어두운 숲과 그림자 숲
+- 빛과 어둠의 경계가 희미해지는 마법 영역
+- 빛과 그림자 모두에 접근할 수 있는 전략적 위치
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+이러한 위치는 교향곡에 완벽한 음향처럼 마법 연구 및 영적 명상에 이상적인 환경을 제공합니다.
 
-## Cultural Impact
+## 문화적 영향
 
-In the world of **OpenFantasy**, **dark elves** play a crucial role in preserving ancient magical traditions and maintaining the balance between light and dark, like weavers of shadowy melodies. Their societies are centers of:
-- Shadow magic and necromancy
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+**OpenFantasy**의 세계에서 **다크 엘프**는 그림자 멜로디의 직조공처럼 고대 마법 전통을 보존하고 빛과 어둠 사이의 균형을 유지하는 데 중요한 역할을 합니다. 그들의 사회는 다음과 같습니다.
+- 그림자 마법과 사령술
+- 예술적 표현과 미적 세련
+- 외교 관계 및 문화 교류
 
-The connection to shadows has shaped dark elf culture around the study and mastery of darkness, creating a society where magical ability and beauty are highly valued.
+그림자와의 연결은 어둠에 대한 연구와 숙달을 중심으로 다크 엘프 문화를 형성하여 마법 능력과 아름다움이 높이 평가되는 사회를 만들었습니다.
 
-## Relationship with Other Species
+## 다른 종과의 관계
 
-**Dark Elves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and disdain, often leading to complex interactions
-- With **Elves**: A deep rivalry based on shared heritage but opposing philosophies
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and power
-- With **Shadowfolk**: A deep connection based on shared appreciation for darkness and shadow magic
+**다크 엘프**는 다른 종들과 복잡한 관계를 유지합니다.
+- [**인간**](/codex/Creatures/Human.md)과: 매혹과 경멸이 혼합되어 종종 복잡한 상호 작용으로 이어집니다.
+- **엘프**와: 공유된 유산이지만 대립되는 철학을 바탕으로 한 깊은 경쟁
+- **드워프**와: 장인 정신과 힘에 대한 상호 존중을 바탕으로 한 실용적인 동맹
+- **그림자 민족**과: 어둠과 그림자 마법에 대한 공유된 감사에 기반한 깊은 연결
 
-These relationships are often characterized by a sense of cultural superiority, as **dark elves** view themselves as the true heirs to elven magic and beauty.
+이러한 관계는 종종 문화적 우월감으로 특징지어지는데, **다크 엘프**는 자신을 엘프 마법과 아름다움의 진정한 상속자로 봅니다.
 
-## Notable Dark Elf Traits
+## 주목할 만한 다크 엘프 특징
 
-- **Shadow Magic**: Dark elves excel in shadow magic and necromancy, often specializing in one area to the exclusion of others
-- **Ethereal Beauty**: Dark elves possess an otherworldly beauty that can be both enchanting and unsettling
-- **Environmental Sensitivity**: Dark elves are deeply attuned to their surroundings, particularly in shadowy environments
-- **Cultural Preservation**: Dark elf societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Dark elves have developed highly refined artistic and cultural traditions
+- **그림자 마법**: 다크 엘프는 그림자 마법과 사령술에 뛰어나며 종종 다른 영역을 배제하고 한 영역에 특화됩니다.
+- **에테르적인 아름다움**: 다크 엘프는 매혹적이면서도 불안정할 수 있는 다른 세상의 아름다움을 가지고 있습니다.
+- **환경 민감도**: 다크 엘프는 특히 그림자 환경에서 주변 환경에 깊이 적응합니다.
+- **문화 보존**: 다크 엘프 사회는 전통과 지식 보존에 큰 중점을 둡니다.
+- **미적 세련**: 다크 엘프는 고도로 세련된 예술적 및 문화적 전통을 발전시켰습니다.
 
-## Dark Elf Houses
+## 다크 엘프 가문
 
-Dark elf society is organized into numerous houses, each with its own specialties and traditions:
+다크 엘프 사회는 수많은 가문으로 조직되어 있으며, 각 가문은 고유한 전문 분야와 전통을 가지고 있습니다.
 
-| House | Specialty | Territory | Notable Traits |
+| 가문 | 전문 분야 | 영역 | 주목할 만한 특징 |
 |---------|---------------|---------|-------------------|
-| **Shadowweavers** | Shadow magic, illusion | Dark forests | Illusion abilities, shadow manipulation |
-| **Nightblades** | Combat, assassination | Underground cities | Combat abilities, assassination techniques |
-| **Voidcallers** | Void magic, teleportation | Magical realms | Teleportation abilities, void manipulation |
-| **Twilightseekers** | Balance, harmony | Border regions | Balance magic, harmony techniques |
-| **Shadowartists** | Art, beauty | Artistic districts | Artistic abilities, aesthetic refinement |
-| **Darkphilosophers** | Knowledge, wisdom | Ancient libraries | Philosophical wisdom, ancient knowledge |
+| **Shadowweavers** | 그림자 마법, 환상 | 어두운 숲 | 환상 능력, 그림자 조작 |
+| **Nightblades** | 전투, 암살 | 지하 도시 | 전투 능력, 암살 기술 |
+| **Voidcallers** | 공허 마법, 순간 이동 | 마법 영역 | 순간 이동 능력, 공허 조작 |
+| **Twilightseekers** | 균형, 조화 | 경계 지역 | 균형 마법, 조화 기술 |
+| **Shadowartists** | 예술, 아름다움 | 예술 지구 | 예술 능력, 미적 세련 |
+| **Darkphilosophers** | 지식, 지혜 | 고대 도서관 | 철학적 지혜, 고대 지식 |
 
-Understanding the nature of **dark elves** provides insight into the shadowy aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the darkness.
+**다크 엘프**의 본성을 이해하는 것은 어둠 속에서 울려 퍼지는 잊을 수 없는 멜로디를 듣는 것처럼 **OpenFantasy** 세계의 그림자 측면에 대한 통찰력을 제공합니다.
 
-## Physical Enhancement Variants
+## 신체 강화 변형
 
-While most **dark elves** favor magical prowess, some lineages have developed physical enhancements through selective breeding and magical experimentation. These variants maintain the dark elf's connection to shadow magic while developing superior physical capabilities, like a cello that has been modified to produce both haunting melodies and powerful bass notes.
+대부분의 **다크 엘프**는 마법 능력을 선호하지만 일부 혈통은 선택적 번식과 마법 실험을 통해 신체 강화를 발전시켰습니다. 이러한 변형은 잊을 수 없는 멜로디와 강력한 저음 음표를 모두 생성하도록 수정된 첼로처럼 우수한 신체 능력을 개발하면서 다크 엘프의 그림자 마법과의 연결을 유지합니다.
 
-### Shadow Warriors
+### 그림자 전사
 
-The most common physical enhancement variant, **Shadow Warriors** have increased **Exanthis** ratios (35-40%) at the expense of **Mana Capacity** (45-50%). This composition grants them:
-- Enhanced strength and durability, like shadows given physical form
-- Superior combat abilities, particularly in close quarters
-- Limited but focused magical abilities, specializing in combat-enhancing shadow magic
-- Natural resistance to physical damage, like armor woven from darkness itself
+가장 일반적인 신체 강화 변형인 **그림자 전사**는 **마나 용량** (45-50%)을 희생하여 **Exanthis** 비율 (35-40%)이 증가했습니다. 이 구성은 그들에게 다음과 같습니다.
+- 물리적 형태를 부여받은 그림자처럼 강화된 힘과 내구성
+- 특히 근접전에서 뛰어난 전투 능력
+- 전투 강화 그림자 마법에 특화된 제한적이지만 집중된 마법 능력
+- 어둠 자체로 엮은 갑옷처럼 물리적 손상에 대한 자연적 저항
 
-Shadow Warriors often serve as elite guards and shock troops in dark elf society, their presence striking fear into the hearts of their enemies like a sudden eclipse.
+그림자 전사는 종종 다크 엘프 사회에서 정예 경비병과 충격 부대 역할을 하며, 그들의 존재는 갑작스런 일식처럼 적의 심장에 공포를 심어줍니다.
 
 ### Night Stalkers
 
-**Night Stalkers** represent a more extreme physical enhancement, with **Exanthis** ratios reaching 45-50% and **Mana Capacity** reduced to 35-40%. These dark elves are:
-- Exceptionally fast and agile, moving like shadows in the night
-- Possess enhanced senses, particularly in low-light conditions
-- Develop natural camouflage abilities, blending seamlessly with darkness
-- Specialize in stealth and assassination techniques
+**Night Stalkers**는 **Exanthis** 비율이 45-50%에 달하고 **마나 용량**이 35-40%로 감소한 보다 극단적인 신체 강화를 나타냅니다. 이러한 다크 엘프는 다음과 같습니다.
+- 밤의 그림자처럼 움직이는 뛰어난 속도와 민첩성
+- 특히 저조도 조건에서 강화된 감각 보유
+- 어둠과 완벽하게 조화를 이루는 자연 위장 능력 개발
+- 은신 및 암살 기술 전문
 
-Night Stalkers are rare and often operate independently or in small, elite units, their presence known only by the sudden absence of their targets.
+Night Stalkers는 드물고 종종 독립적으로 또는 소규모 정예 부대에서 활동하며, 그들의 존재는 갑작스런 목표물 부재로만 알려져 있습니다.
 
 ### Void Touched
 
-The most controversial of physical enhancement variants, **Void Touched** dark elves have undergone extensive magical modification to increase both physical and magical capabilities. Their composition typically shows:
+가장 논란이 많은 신체 강화 변형인 **Void Touched** 다크 엘프는 신체적 및 마법적 능력을 모두 향상시키기 위해 광범위한 마법적 수정을 거쳤습니다. 그들의 구성은 일반적으로 다음을 보여줍니다.
 - **Exanthis**: 40-45%
-- **Soul**: 20-25%
-- **Mana Capacity**: 35-40%
+- **영혼**: 20-25%
+- **마나 용량**: 35-40%
 
-This unique balance grants them:
-- Enhanced physical capabilities while maintaining significant magical power
-- The ability to channel void magic directly through their bodies
-- Increased resistance to both physical and magical damage
-- A connection to the void that manifests in their appearance, with skin that seems to absorb light
+이 독특한 균형은 그들에게 다음과 같습니다.
+- 상당한 마법력을 유지하면서 신체 능력 강화
+- 신체를 통해 직접 공허 마법을 전달하는 능력
+- 물리적 및 마법적 손상에 대한 저항력 증가
+- 빛을 흡수하는 듯한 피부로 외모에 나타나는 공허와의 연결
 
-Void Touched dark elves are often viewed with suspicion by traditional dark elf society, their existence walking the line between power and corruption, like a melody that teeters between beauty and discord.
+Void Touched 다크 엘프는 전통적인 다크 엘프 사회에서 종종 의심의 눈초리로 여겨지며, 그들의 존재는 아름다움과 불협화음 사이에서 비틀거리는 멜로디처럼 힘과 타락 사이를 걷고 있습니다.
 
-### Physical Enhancement Techniques
+### 신체 강화 기술
 
-Dark elves employ various techniques to achieve physical enhancement:
+다크 엘프는 신체 강화를 달성하기 위해 다양한 기술을 사용합니다.
 
-| Technique | Description | Effects | Risks |
+| 기술 | 설명 | 효과 | 위험 |
 |-----------|-------------|---------|-------|
-| **Shadow Infusion** | The controlled introduction of shadow essence into the body | Increased strength and durability | Potential shadow corruption |
-| **Void Binding** | The binding of void energy to physical form | Enhanced physical and magical capabilities | Risk of void corruption |
-| **Selective Breeding** | The careful pairing of physically gifted dark elves | Gradual increase in physical capabilities | Loss of magical potential |
-| **Ritual Transformation** | Magical rituals that alter the body's composition | Immediate physical enhancement | High risk of physical or mental corruption |
+| **그림자 주입** | 신체에 그림자 본질을 제어적으로 도입 | 힘과 내구성 증가 | 잠재적 그림자 타락 |
+| **공허 결속** | 공허 에너지를 물리적 형태로 결합 | 신체적 및 마법적 능력 강화 | 공허 타락 위험 |
+| **선택적 번식** | 신체적으로 재능이 있는 다크 엘프의 신중한 결합 | 신체 능력의 점진적인 증가 | 마법 잠재력 상실 |
+| **의식 변환** | 신체 구성을 변경하는 마법 의식 | 즉각적인 신체 강화 | 신체적 또는 정신적 타락 위험 높음 |
 
-These techniques are closely guarded secrets, known only to the most trusted members of dark elf society, like rare musical compositions that are performed only for select audiences.
+이러한 기술은 신뢰할 수 있는 다크 엘프 사회 구성원에게만 알려진 엄격히 보호되는 비밀이며, 선택된 청중만을 위해 공연되는 희귀한 음악 작품과 같습니다.
 
-Understanding these physical enhancement variants provides insight into the diverse capabilities of dark elf society, like listening to the different voices that make up their dark symphony. 
+이러한 신체 강화 변형을 이해하면 다크 엘프 사회의 다양한 능력에 대한 통찰력을 얻을 수 있으며, 그들의 어두운 교향곡을 구성하는 다양한 목소리를 듣는 것과 같습니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

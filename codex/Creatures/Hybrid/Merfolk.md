@@ -1,105 +1,108 @@
-# **Merfolk**: The Guardians of the Deep
+# **Merfolk**: 깊은 곳의 수호자
 
-[**Merfolk**](/codex/Creatures/Merfolk.md) are the guardians of the deep, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a deep bassoon, they resonate with the currents of the ocean, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+[**Merfolk**](/codex/Creatures/Merfolk.md)는 깊은 곳의 수호자이며, 그들의 몸은 [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), 그리고 **Mana Capacity**의 유동적인 조화입니다. 마치 깊은 바순처럼, 그들은 바다의 흐름에 공명하여 수생과 육상 영역을 연결하는 독특한 존재의 멜로디를 만들어냅니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **merfolk** forms a harmony that favors physical grace:
+[Creatures](/codex/Creatures/Creatures.md)에 자세히 설명된 바와 같이, **머포크**의 일반적인 비율은 물리적인 우아함을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 30-50% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-40% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 20-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** | 30-50% | 적당한 물리적 힘과 우아함을 제공하는 결정체 심장 |
+| **Soul** | 25-40% | 유동적이고 적응 가능한 의식을 형성하는 영묘한 정수 |
+| **Mana Capacity** | 20-40% | 적당한 마법 잠재력을 가능하게 하는 세계 간의 다리 |
 
-This composition grants **merfolk** their characteristic grace and adaptability but typically moderates their magical potential compared to other species, like a versatile instrument that can play many notes but lacks the power of a full orchestra.
+이 구성은 **머포크**에게 그들의 특징적인 우아함과 적응성을 부여하지만, 일반적으로 모든 음을 연주할 수 있지만 풀 오케스트라의 힘은 부족한 다재다능한 악기처럼, 다른 종에 비해 마법 잠재력을 줄입니다.
 
-### Individual Variations
+### 개별 변형
 
-While the model composition represents the typical merfolk, individual variations exist based on their tribal lineage:
+모델 구성이 일반적인 머포크를 나타내지만, 그들의 부족 계통에 따라 개별 변형이 존재합니다.
 
-- **Depth Divers**: Some merfolk, particularly from the Deepswimmer tribe, possess enhanced Exanthis levels (up to 55%) that allow them to withstand the crushing pressures of the deepest ocean trenches.
-- **Tide Mages**: Specialized variants with higher Mana Capacity (up to 45%) excel at water magic, becoming powerful spellcasters who can control currents, weather, and even blood in living creatures.
-- **Ocean Sages**: Those with higher Soul percentages (up to 45%) develop extraordinary empathy and wisdom, often becoming tribal leaders, healers, or diplomats who bridge the gap between merfolk and other species.
-- **Reef Guardians**: A balanced variant (40% Exanthis, 30% Soul, 30% Mana Capacity) specializes in protecting coral reef ecosystems, developing unique magical abilities that nurture and restore damaged aquatic environments.
-- **Storm Callers**: Some merfolk develop a unique composition (35% Exanthis, 25% Soul, 40% Mana Capacity) that allows them to sense and manipulate weather patterns above the ocean, creating or dispersing storms that might threaten their territories.
+- **심해 다이버**: 일부 머포크, 특히 딥스위머 부족 출신은 가장 깊은 해저 해구의 엄청난 압력을 견딜 수 있도록 향상된 Exanthis 레벨 (최대 55%)을 가지고 있습니다.
+- **조류 마법사**: 더 높은 Mana Capacity (최대 45%)를 가진 특수 변종은 물 마법에 능숙하여 흐름, 날씨, 심지어 살아있는 생물의 피까지 조절할 수 있는 강력한 주문 시전자가 됩니다.
+- **바다 현자**: 더 높은 Soul 비율 (최대 45%)을 가진 사람들은 뛰어난 공감 능력과 지혜를 개발하여 종종 부족 지도자, 치유사 또는 머포크와 다른 종 사이의 간격을 좁히는 외교관이 됩니다.
+- **산호초 수호자**: 균형 잡힌 변종 (40% Exanthis, 30% Soul, 30% Mana Capacity)은 산호초 생태계를 보호하는 데 특화되어 손상된 수생 환경을 육성하고 복원하는 고유한 마법 능력을 개발합니다.
+- **폭풍 소환사**: 일부 머포크는 바다 위의 날씨 패턴을 감지하고 조작할 수 있는 독특한 구성 (35% Exanthis, 25% Soul, 40% Mana Capacity)을 개발하여 그들의 영토를 위협할 수 있는 폭풍을 만들거나 흩어지게 합니다.
 
-## Physical Characteristics
+## 신체적 특징
 
-**Merfolk** are known for their aquatic adaptations and graceful nature:
-- Humanoid upper bodies with fish-like lower bodies, allowing for efficient swimming
-- Eyes that are adapted to see clearly in the depths, often with a slight luminescence
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep green
-- Fins and webbed appendages that aid in swimming and balance
-- Ability to change the color of their scales for camouflage or communication
+**머포크**는 수생 적응과 우아한 본성으로 알려져 있습니다.
+- 효율적인 수영을 가능하게 하는 물고기 같은 하반신을 가진 인간형 상반신
+- 종종 약간의 발광을 띠며, 깊은 곳에서 명확하게 볼 수 있도록 조정된 눈
+- 바다에 맞춰진 섬세한 악기처럼, 수중에서 숨을 쉴 수 있게 해주는 아가미
+- 무지개 빛깔의 파란색에서 짙은 녹색에 이르기까지 자연스러운 보호와 아름다움을 제공하는 비늘
+- 수영과 균형을 돕는 지느러미와 물갈퀴가 있는 부속물
+- 위장이나 의사 소통을 위해 비늘의 색상을 변경하는 능력
 
-## Physical and Magical Affinity
+## 물리적 및 마법적 친화력
 
-**Merfolk** demonstrate exceptional proficiency in swimming and aquatic combat, like virtuoso performers who have mastered their environment. Their composition allows them to:
-- Move through water with extraordinary grace and speed, like dancers in a liquid ballet
-- Channel water magic with moderate proficiency, like conductors of the ocean's symphony
-- Adapt to various aquatic environments, from shallow reefs to the deepest trenches
+**머포크**는 마치 환경을 마스터한 거장 연주자처럼 수영과 수중 전투에서 뛰어난 숙련도를 보여줍니다. 그들의 구성은 그들이 다음과 같은 것을 할 수 있게 해줍니다.
+- 마치 액체 발레의 무용수처럼, 특별한 우아함과 속도로 물을 통과합니다.
+- 마치 바다 교향곡의 지휘자처럼, 적당한 숙련도로 물 마법을 시전합니다.
+- 얕은 암초에서 가장 깊은 해저 해구에 이르기까지 다양한 수생 환경에 적응합니다.
 
-This specialization makes **merfolk** capable of achieving feats of aquatic prowess that few other species can match, though they may struggle with tasks requiring complex magical abilities, like an instrument that can play many notes but lacks the complexity of a full orchestra.
+이 전문화를 통해 **머포크**는 다른 종이 거의 따라올 수 없는 수생 기량을 달성할 수 있지만, 모든 음을 연주할 수 있지만 풀 오케스트라의 복잡성이 부족한 악기처럼 복잡한 마법 능력을 요구하는 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## 수명과 영혼 부패
 
-The **soul decay** timeline for **merfolk**, from birth to complete decay, is approximately 300 years, like a steady flame that illuminates the depths. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to specific places and traditions
-- Form stable societies with strong communal bonds
+출생에서 완전한 부패에 이르기까지 **머포크**의 **영혼 부패** 타임라인은 약 300년으로, 깊이를 밝히는 꾸준한 불꽃과 같습니다. 이 적당한 수명은 그들이 다음과 같은 것을 할 수 있게 해줍니다.
+- 여러 세대에 걸쳐 지식과 지혜를 축적합니다.
+- 특정 장소 및 전통과 깊은 관계를 발전시킵니다.
+- 강력한 공동 유대를 가진 안정적인 사회를 형성합니다.
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the tides.
+그러나 그들의 적당한 영혼 비율은 또한 그들이 조류와 함께 진화하는 멜로디처럼 적당한 속도로 변화하고 적응한다는 것을 의미합니다.
 
-## Habitat and Distribution
+## 서식지 및 분포
 
-**Merfolk** primarily inhabit:
-- Ocean depths and underwater cities, where they can be closest to the currents
-- Coral reefs and kelp forests, where they can find shelter and resources
-- Coastal regions and estuaries, where they can interact with terrestrial species
-- Strategic locations that provide access to both aquatic and terrestrial resources
+**머포크**는 주로 다음 지역에 서식합니다.
+- 해류에 가장 가까울 수 있는 바다 깊이와 수중 도시
+- 은신처와 자원을 찾을 수 있는 산호초와 다시마 숲
+- 육상 종과 상호 작용할 수 있는 해안 지역 및 하구
+- 수생 및 육상 자원에 모두 접근할 수 있는 전략적 위치
 
-These locations provide ideal environments for the development of aquatic societies and the practice of water magic, like stages perfectly suited to their performance.
+이러한 위치는 그들의 공연에 완벽하게 적합한 무대처럼, 수생 사회의 발전과 물 마법 수행에 이상적인 환경을 제공합니다.
 
-## Cultural Impact
+## 문화적 영향
 
-In the world of **OpenFantasy**, **merfolk** play a crucial role in maintaining the balance of aquatic ecosystems and preserving ancient traditions, like the steady bass notes that provide foundation to a symphony. Their societies are centers of:
-- Aquatic craftsmanship and architecture
-- Water magic and environmental preservation
-- Communal living and shared resources
+**OpenFantasy**의 세계에서 **머포크**는 교향곡의 기초를 제공하는 꾸준한 저음처럼 수생 생태계의 균형을 유지하고 고대 전통을 보존하는 데 중요한 역할을 합니다. 그들의 사회는 다음의 중심지입니다.
+- 수생 공예 및 건축
+- 물 마법 및 환경 보존
+- 공동 생활 및 공유 자원
 
-The connection to the ocean has shaped merfolk culture around respect for the sea, community, and tradition, creating a society where harmony with nature is highly valued.
+바다와의 연결은 바다, 공동체 및 전통에 대한 존중을 중심으로 머포크 문화를 형성하여 자연과의 조화가 높이 평가되는 사회를 만들었습니다.
 
-## Relationship with Other Species
+## 다른 종과의 관계
 
-**Merfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of curiosity and caution, often leading to limited interactions
-- With **Sirens**: A deep connection based on shared aquatic heritage but different magical affinities
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and resources
+**머포크**는 다른 종과 복잡한 관계를 유지합니다.
+- [**Humans**](/codex/Creatures/Human.md)와: 호기심과 주의가 혼합되어 종종 제한된 상호 작용으로 이어집니다.
+- **Sirens**와: 공유된 수생 유산에 기반한 깊은 연결이지만, 다른 마법적 친화력을 가집니다.
+- **Elves**와: 그들의 마법적 기량을 인정하지만 그들의 방식이 이상하다고 생각하며, 존중하는 거리를 유지합니다.
+- **Dwarves**와: 공예 및 자원에 대한 상호 존중에 기반한 실용적인 동맹입니다.
 
-These relationships are often characterized by a sense of environmental stewardship, as **merfolk** view themselves as the true guardians of the oceans.
+이러한 관계는 종종 **머포크**가 자신을 바다의 진정한 수호자로 여기기 때문에 환경 관리 의식으로 특징지어집니다.
 
-## Notable Merfolk Traits
+## 주목할만한 머포크 특징
 
-- **Aquatic Grace**: Merfolk excel in swimming and aquatic movement, often surpassing other species in their ability to navigate water
-- **Environmental Sensitivity**: Merfolk are deeply attuned to their aquatic surroundings, able to sense changes in currents and water quality
-- **Communal Living**: Merfolk place great emphasis on community and shared resources, creating strong social bonds
-- **Water Magic**: Merfolk have a natural connection to water magic, allowing them to manipulate this element with moderate proficiency
-- **Adaptability**: Merfolk can thrive in various aquatic environments, from shallow reefs to the deepest trenches
+- **수생의 우아함**: 머포크는 수영과 수생 운동에 능숙하여 종종 물을 항해하는 능력에서 다른 종을 능가합니다.
+- **환경 감수성**: 머포크는 수류와 수질의 변화를 감지할 수 있는 능력을 통해 수생 환경에 깊이 적응합니다.
+- **공동 생활**: 머포크는 공동체와 공유 자원을 중시하여 강력한 사회적 유대를 형성합니다.
+- **물 마법**: 머포크는 물 마법과 자연스러운 연결이 있어 적당한 숙련도로 이 원소를 조작할 수 있습니다.
+- **적응성**: 머포크는 얕은 암초에서 가장 깊은 해저 해구에 이르기까지 다양한 수생 환경에서 번성할 수 있습니다.
 
-## Merfolk Tribes
+## 머포크 부족
 
-Merfolk society is organized into numerous tribes, each with its own specialties and traditions:
+머포크 사회는 고유한 전문 분야와 전통을 가진 수많은 부족으로 조직됩니다.
 
-| Tribe | Specialty | Territory | Notable Traits |
+| 부족 | 전문 분야 | 영토 | 주목할만한 특징 |
 |---------|---------------|---------|-------------------|
-| **Reefdwellers** | Craftsmanship, community | Coral reefs | Crafting abilities, communal living |
-| **Deepswimmers** | Exploration, knowledge | Ocean depths | Exploration abilities, ancient knowledge |
-| **Tidecallers** | Water magic, communication | Coastal regions | Communication abilities, water manipulation |
-| **Stormriders** | Combat, protection | Open ocean | Combat abilities, protective magic |
-| **Coralcrafters** | Art, architecture | Kelp forests | Artistic abilities, architectural innovation |
-| **Estuaryguardians** | Diplomacy, trade | Estuaries | Diplomatic skills, trading expertise |
+| **리프드웰러** | 공예, 공동체 | 산호초 | 제작 능력, 공동 생활 |
+| **딥스위머** | 탐험, 지식 | 바다 깊이 | 탐험 능력, 고대 지식 |
+| **타이드콜러** | 물 마법, 의사 소통 | 해안 지역 | 의사 소통 능력, 물 조작 |
+| **스톰라이더** | 전투, 보호 | 넓은 바다 | 전투 능력, 보호 마법 |
+| **코랄크래프터** | 예술, 건축 | 다시마 숲 | 예술적 능력, 건축 혁신 |
+| **에스추어리가디언** | 외교, 무역 | 하구 | 외교 기술, 무역 전문성 |
 
-Understanding the nature of **merfolk** provides insight into the aquatic aspects of the world of **OpenFantasy**, like listening to the deep, resonant melodies that echo through the oceans. 
+**머포크**의 본성을 이해하는 것은 마치 바다를 통해 울려 퍼지는 깊고 울림이 있는 멜로디를 듣는 것처럼 **OpenFantasy** 세계의 수생 측면에 대한 통찰력을 제공합니다.
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

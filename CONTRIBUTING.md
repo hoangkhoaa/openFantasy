@@ -1,74 +1,77 @@
-# Contributing to **OpenFantasy**
+# **OpenFantasy**에 기여하기
 
-Thank you for your interest in contributing to **OpenFantasy**! This document provides guidelines and information on how to participate in this open-source world-building project.
+**OpenFantasy**에 기여하는 데 관심을 가져주셔서 감사합니다! 이 문서는 이 오픈 소스 세계 구축 프로젝트에 참여하는 방법에 대한 지침과 정보를 제공합니다.
 
-## Our Vision
+## 우리의 비전
 
-**OpenFantasy** aims to create a logical, consistent framework for magical systems that storytellers, game designers, and world-builders can use as a foundation. We believe that fantasy worlds should maintain their wonder and depth without sacrificing logical consistency as stories progress.
+**OpenFantasy**는 스토리텔러, 게임 디자이너 및 세계 구축가들이 기초로 사용할 수 있는 마법 시스템을 위한 논리적이고 일관된 프레임워크를 만드는 것을 목표로 합니다. 우리는 판타지 세계가 이야기가 진행됨에 따라 논리적 일관성을 희생하지 않고 경이로움과 깊이를 유지해야 한다고 믿습니다.
 
-## Ways to Contribute
+## 기여 방법
 
-There are many ways to participate in the **OpenFantasy** project:
+**OpenFantasy** 프로젝트에 참여할 수 있는 방법은 여러 가지가 있습니다.
 
-### Content Development
-- **Expand the Codex**: Develop detailed entries on creatures, locations, artifacts, or historical events
-- **Create Stories**: Write short stories or campaign scenarios set within the **OpenFantasy** framework
-- **Develop Game Systems**: Design rule systems for tabletop RPGs or other game formats
+### 콘텐츠 개발
+- **코덱스 확장**: 생물, 위치, 유물 또는 역사적 사건에 대한 자세한 항목 개발
+- **스토리 만들기**: **OpenFantasy** 프레임워크 내에서 짧은 이야기 또는 캠페인 시나리오 작성
+- **게임 시스템 개발**: 테이블탑 RPG 또는 기타 게임 형식을 위한 규칙 시스템 설계
 
-### Technical Contributions
-- **Documentation**: Improve existing documentation for clarity and accessibility
-- **Website**: Contribute to our project website
-- **Tools**: Develop tools that help creators work with the **OpenFantasy** framework
+### 기술적 기여
+- **문서화**: 명확성과 접근성을 위해 기존 문서 개선
+- **웹사이트**: 프로젝트 웹사이트에 기여
+- **도구**: 제작자가 **OpenFantasy** 프레임워크를 사용하여 작업하는 데 도움이 되는 도구 개발
 
-### Community Support
-- **Review Submissions**: Help review and provide feedback on other contributors' work
-- **Answer Questions**: Support new contributors in our community forums
-- **Spread the Word**: Share the project with others who might be interested
+### 커뮤니티 지원
+- **제출물 검토**: 다른 기여자의 작업에 대한 검토 및 피드백 제공 지원
+- **질문에 답변**: 커뮤니티 포럼에서 새로운 기여자 지원
+- **소문내기**: 관심 있을 수 있는 다른 사람들과 프로젝트 공유
 
+### 유지해야 할 핵심 원칙
 
+1. **논리적 일관성**: 모든 기여는 **Aeromana** 및 **Exanthis**의 확립된 규칙과 세계에 미치는 영향력을 준수해야 합니다.
+2. **균형**: 대립되는 힘 사이의 자연스러운 긴장 유지
+3. **모순 없는 깊이**: 확립된 지식에 모순되지 않고 복잡성과 뉘앙스 추가
+4. **접근성**: 새로운 사용자가 개념을 이해할 수 있도록 명확하게 작성
 
-### Core Principles to Maintain
+### 콘텐츠 지침
 
-1. **Logical Consistency**: All contributions should adhere to the established rules of **Aeromana** and **Exanthis**, and their effects on the world
-2. **Balance**: Maintain the natural tension between opposing forces
-3. **Depth Without Contradiction**: Add complexity and nuance without contradicting established lore
-4. **Accessibility**: Write clearly so that newcomers can understand the concepts
+**OpenFantasy**에 대한 새로운 콘텐츠를 만들 때는 다음을 확인하십시오.
 
-### Content Guidelines
+- 당신의 작업이 확립된 비율 시스템(Exanthis, Soul, Aeromana)을 존중하는지 확인하십시오.
+- 새로운 생물, 캐릭터 또는 종족이 세계의 내부 논리를 따르는지 확인하십시오.
+- 마법 시스템 및 효과는 프레임워크 측면에서 설명되어야 합니다.
+- 지리적 요소는 **Aeromana**와 **Exanthis**의 분포를 고려해야 합니다.
 
-When creating new content for **OpenFantasy**, please ensure:
+### 제출 프로세스
 
-- Your work respects the established ratio system (Exanthis, Soul, Aeromana)
-- New creatures, characters, or races follow the internal logic of the world
-- Magical systems and effects are explained in terms of the framework
-- Geographic elements consider the distribution of **Aeromana** and **Exanthis**
+1. **리포지토리 포크**: 프로젝트의 자체 포크를 생성합니다.
+2. **브랜치 생성**: 새 브랜치에서 변경합니다.
+3. **템플릿 따르기**: 기여 유형에 적합한 템플릿을 사용합니다.
+4. **풀 리퀘스트 제출**: 기여에 대한 명확한 설명을 포함합니다.
+5. **피드백에 응답**: 검토자의 제안에 열린 자세를 취하십시오.
 
-### Submission Process
+### 서식
 
-1. **Fork the Repository**: Create your own fork of the project
-2. **Create a Branch**: Make your changes in a new branch
-3. **Follow the Template**: Use the appropriate template for your contribution type
-4. **Submit a Pull Request**: Include a clear description of your contribution
-5. **Respond to Feedback**: Be open to suggestions from reviewers
+- 모든 텍스트 문서에 Markdown 사용
+- 확립된 제목 구조 따르기
+- 처음 언급 시 주요 용어 및 개념을 **굵게** 표시
+- 리포지토리 내에서 관련 콘텐츠에 대한 적절한 링크 사용
 
-### Formatting
-- Use Markdown for all text documents
-- Follow the established heading structure
-- **Bold** key terms and concepts on first mention
-- Use appropriate links to related content within the repository
+### 어조 및 목소리
+- 명확하고 매력적인 언어로 작성
+- 학술적 설명과 이야기 감각 사이의 균형 유지
+- 지나치게 구어체적인 표현이나 속어 피하기
+- 포괄적이고 다양한 관점을 고려하십시오.
 
-### Tone and Voice
-- Write in clear, engaging language
-- Maintain a balance between academic description and narrative flair
-- Avoid overly colloquial expressions or slang
-- Be inclusive and consider diverse perspectives
+## 인정
 
-## Recognition
-
-All contributors will be acknowledged in our [CONTRIBUTORS.md](CONTRIBUTORS.md) file. Significant contributions may receive special recognition in project announcements and updates.
+모든 기여자는 [CONTRIBUTORS.md](CONTRIBUTORS.md) 파일에 명시됩니다. 중요한 기여는 프로젝트 발표 및 업데이트에서 특별한 인정을 받을 수 있습니다.
 
 ---
 
-"*Magic should make us wonder, not scratch our heads in confusion.*"
+"*마법은 우리를 궁금하게 만들어야지, 혼란스럽게 만들면 안 됩니다.*"
 
-Thank you for helping build a more logical and engaging fantasy framework! 
+더 논리적이고 매력적인 판타지 프레임워크를 구축하는 데 도움을 주셔서 감사합니다!
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

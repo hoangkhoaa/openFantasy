@@ -1,87 +1,91 @@
 # **OpenFantasy**
 
-> *"A world where magic follows logical principles, souls are measurable, and every being contributes to the grand symphony of existence."*
+> *"마법이 논리적 원리를 따르고, 영혼을 측정할 수 있으며, 모든 존재가 웅장한 존재의 교향곡에 기여하는 세계."*
 
-## Quick Navigation
+## 빠른 탐색
 
-- [Logical Framework](#a-logical-framework-for-magic-systems)
-- [Core Elements](#core-elements)
-- [World Codex](#world-codex)
-- [The Future Vision](#the-future-vision)
-- [Collaboration](#open-source-collaboration)
+- [논리적 프레임워크](#a-logical-framework-for-magic-systems)
+- [핵심 요소](#core-elements)
+- [세계 코덱스](#world-codex)
+- [미래 비전](#the-future-vision)
+- [협업](#open-source-collaboration)
 
-## Overview
+## 개요
 
-OpenFantasy is a comprehensive fantasy world framework built on consistent principles and logical systems. Unlike many fantasy settings that suffer from inconsistent rules and power creep, OpenFantasy creates a foundation where magic, species, abilities, and environments all interact according to well-defined principles.
+OpenFantasy는 일관된 원칙과 논리적 시스템을 기반으로 구축된 포괄적인 판타지 세계 프레임워크입니다. 규칙과 파워 인플레가 일관되지 않은 많은 판타지 설정과는 달리, OpenFantasy는 마법, 종, 능력 및 환경이 모두 잘 정의된 원칙에 따라 상호 작용하는 기반을 만듭니다.
 
-The world is defined by three fundamental components:
-- **Exanthis**: The physical foundation that provides structure and form
-- **Soul**: The spark of consciousness that provides will and identity
-- **Mana**: The magical energy that flows through all things
+세계는 세 가지 기본 구성 요소로 정의됩니다.
+- **Exanthis**: 구조와 형태를 제공하는 물리적 기초
+- **Soul**: 의지와 정체성을 제공하는 의식의 불꽃
+- **Mana**: 모든 것을 통해 흐르는 마법 에너지
 
-Every creature, location, spell, and artifact in OpenFantasy emerges from the interaction of these three elements, creating a rich but internally consistent world.
+OpenFantasy의 모든 생물, 위치, 주문 및 유물은 이 세 가지 요소의 상호 작용에서 비롯되어 풍부하지만 내부적으로 일관된 세계를 만듭니다.
 
-## A Logical Framework for Magic Systems
+## 마법 시스템을 위한 논리적 프레임워크
 
-Many fantasy worlds captivate us with their dreamlike qualities and depth, drawing readers into magnificent realms of wonder and adventure. However, as these stories progress, they often suffer from inconsistent magic systems that become increasingly illogical, predictable, or simply boring. Power creep sets in, rules are conveniently forgotten, and the once-enchanting world loses its coherence.
+많은 판타지 세계는 꿈결같은 퀄리티와 깊이로 우리를 사로잡아 경이와 모험의 장엄한 영역으로 독자를 끌어들입니다. 그러나 이러한 이야기가 진행됨에 따라 점점 더 비논리적이거나 예측 가능하거나 단순히 지루해지는 일관성 없는 마법 시스템으로 인해 어려움을 겪는 경우가 많습니다. 파워 인플레가 시작되고 규칙이 편리하게 잊혀지고 한때 매혹적인 세계는 일관성을 잃습니다.
 
-**OpenFantasy** addresses this fundamental problem by providing a logical framework for magical systems—a foundation built on consistent principles that creators can use to develop their worlds while maintaining internal consistency.
+**OpenFantasy**는 제작자가 내부 일관성을 유지하면서 자신의 세계를 개발하는 데 사용할 수 있는 일관된 원칙을 기반으로 구축된 마법 시스템을 위한 논리적 프레임워크를 제공하여 이 근본적인 문제를 해결합니다.
 
-## Core Elements
+## 핵심 요소
 
-At the heart of our framework lies a simple yet revolutionary understanding of two opposing forces:
+우리 프레임워크의 핵심에는 두 가지 반대되는 힘에 대한 단순하면서도 혁신적인 이해가 있습니다.
 
-| Element | Nature | Role in the World |
+| 요소 | 속성 | 세계에서의 역할 |
 |---------|--------|-------------------|
-| **Mana** | Gaseous, omnipresent magical essence | Powers spells, enchants objects, fuels arcane wonders |
-| **Exanthis** | Dense, rare mineral | Disrupts mana, creates zones where magic falters or warps |
+| **Mana** | 기체, 편재하는 마법 에센스 | 주문에 힘을 실어주고, 물체를 마법으로 걸고, 신비로운 경이로움을 고취시킴 |
+| **Exanthis** | 조밀하고 희귀한 광물 | 마나를 파괴하고, 마법이 쇠퇴하거나 왜곡되는 지역을 만듭니다. |
 
-These two forces exist in constant opposition, shaping civilizations, battles, and the very laws of magic. Their interaction creates a natural system of checks and balances, preventing any single power from dominating the world.
+이 두 힘은 끊임없이 대립하면서 문명, 전투 및 마법의 법칙을 형성합니다. 그들의 상호 작용은 자연스러운 견제와 균형 시스템을 만들어 단일 권력이 세계를 지배하는 것을 방지합니다.
 
-The third core element, **Soul**, provides consciousness and identity to beings, allowing them to harness and direct magical energies according to their will.
+세 번째 핵심 요소인 **Soul**은 존재에게 의식과 정체성을 제공하여 의지에 따라 마법 에너지를 활용하고 지시할 수 있도록 합니다.
 
-## World Codex
+## 세계 코덱스
 
-The OpenFantasy world is documented in a comprehensive codex organized into key sections:
+OpenFantasy 세계는 주요 섹션으로 구성된 포괄적인 코덱에 문서화되어 있습니다.
 
-| Section | Content | Description |
+| 섹션 | 내용 | 설명 |
 |---------|---------|-------------|
-| [**Basic**](/codex/Basic/) | Fundamental concepts | The core principles that govern the world |
-| [**Creatures**](/codex/Creatures/) | Species documentation | The diverse beings that inhabit the world |
-| [**Magics**](/codex/Magics/) | Magic systems, spells | The rules and manifestations of magical energy |
-| [**Classes**](/codex/Classes/) | Character paths | Specialized development frameworks for characters |
-| [**World**](/codex/World/) | Geography, history | The physical and cultural landscape |
-| [**Items**](/codex/Items/) | Objects, artifacts | Tools, weapons, and magical items |
+| [**기본**](/codex/Basic/) | 기본 개념 | 세계를 지배하는 핵심 원칙 |
+| [**생물**](/codex/Creatures/) | 종 문서 | 세계에 서식하는 다양한 존재 |
+| [**마법**](/codex/Magics/) | 마법 시스템, 주문 | 마법 에너지의 규칙과 표현 |
+| [**클래스**](/codex/Classes/) | 캐릭터 경로 | 캐릭터를 위한 전문화된 개발 프레임워크 |
+| [**세계**](/codex/World/) | 지리, 역사 | 물리적 및 문화적 풍경 |
+| [**아이템**](/codex/Items/) | 물건, 유물 | 도구, 무기 및 마법 아이템 |
 
-→ See the [Codex README](/codex/README.md) for detailed information about the world.
+→ 세계에 대한 자세한 내용은 [Codex README](/codex/README.md)를 참조하십시오.
 
-## The Future Vision
+## 미래 비전
 
-OpenFantasy is designed not just as a theoretical framework but as a foundation for immersive experiences. With the rapid advancement of artificial intelligence, virtual reality, and 3D generation technologies, we envision a future where this world can transcend traditional media:
+OpenFantasy는 이론적 프레임워크일 뿐만 아니라 몰입형 경험을 위한 기반으로 설계되었습니다. 인공 지능, 가상 현실 및 3D 생성 기술의 급속한 발전으로 이 세계가 전통적인 미디어를 초월할 수 있는 미래를 상상합니다.
 
-- **AI-Generated Characters**: Beings with consistent personalities based on their elemental composition
-- **Dynamic VR Environments**: Worlds where magical rules function predictably and consistently
-- **Procedural Content**: New stories, quests, and adventures that respect the established framework
-- **Interactive Storytelling**: Narratives that adapt while maintaining the world's internal logic
+- **AI 생성 캐릭터**: 원소 구성에 따라 일관된 개성을 가진 존재
+- **동적 VR 환경**: 마법 규칙이 예측 가능하고 일관되게 작동하는 세계
+- **절차적 콘텐츠**: 확립된 프레임워크를 존중하는 새로운 스토리, 퀘스트 및 모험
+- **대화형 스토리텔링**: 세계의 내부 논리를 유지하면서 적응하는 이야기
 
-As these technologies mature, the line between fiction and experience will blur, potentially bringing OpenFantasy to life as an explorable reality rather than merely a described world. The fundamental logical consistency of the framework makes it particularly well-suited for computational implementation and AI-driven development.
+이러한 기술이 발전함에 따라 허구와 경험 사이의 경계가 모호해져 OpenFantasy를 단순히 묘사된 세계가 아닌 탐험 가능한 현실로 살아나게 할 수 있습니다. 프레임워크의 기본 논리적 일관성은 계산 구현 및 AI 기반 개발에 특히 적합합니다.
 
-## Building Your World on Solid Foundations
+## 견고한 기반 위에 당신의 세계를 건설하세요
 
-By incorporating the **OpenFantasy** framework into your worldbuilding, you gain access to:
+**OpenFantasy** 프레임워크를 월드빌딩에 통합함으로써 다음을 얻을 수 있습니다.
 
-- A logical system of power growth and limitations
-- Natural geographical power distributions
-- Built-in narrative tension through opposing forces
-- Coherent explanations for different races and their abilities
-- A systematic approach to magical development
+- 파워 성장 및 제한의 논리적 시스템
+- 자연적인 지리적 파워 분포
+- 반대되는 힘을 통한 내장된 이야기 텐션
+- 다양한 종족과 그 능력에 대한 일관된 설명
+- 마법 개발에 대한 체계적인 접근 방식
 
-## Open Source Collaboration
+## 오픈 소스 협업
 
-**OpenFantasy** is an open source project, and we welcome contributions from the community. Whether you're expanding the lore, building new applications of the system, or developing stories within this framework, your input helps this world grow.
+**OpenFantasy**는 오픈 소스 프로젝트이며 커뮤니티의 기여를 환영합니다. 로어를 확장하든, 시스템의 새로운 애플리케이션을 구축하든, 이 프레임워크 내에서 스토리를 개발하든, 귀하의 의견은 이 세계를 성장시키는 데 도움이 됩니다.
 
-Join us in creating fantasy worlds where magic remains wondrous throughout the story—without sacrificing logical consistency or narrative tension.
+논리적 일관성이나 이야기 텐션을 희생하지 않고도 마법이 이야기 내내 경이롭게 유지되는 판타지 세계를 만드는 데 함께 해주세요.
 
 ---
 
-*To contribute, please see our [contribution guidelines](CONTRIBUTING.md) or join the discussion in our [community forums](https://openfantasy.forum).*
+*기여하려면 [기여 지침](CONTRIBUTING.md)을 참조하거나 [커뮤니티 포럼](https://openfantasy.forum)에서 토론에 참여하십시오.*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

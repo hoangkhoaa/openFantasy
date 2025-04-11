@@ -1,215 +1,219 @@
-# **The School of Transmutation**
+# **변환 마법 학파**
 
-> *"To transmute is to understand the deepest nature of matter and energy—to see not what is, but what could be. All substance is but patterns waiting to be rearranged."*  
-> — Archmagus Elyria Stoneweaver, First Chair of Material Studies
+> *"변환이란 물질과 에너지의 가장 깊은 본질을 이해하는 것이다. 즉, 보이는 것이 아닌, 존재할 수 있는 것을 보는 것이다. 모든 물질은 재배치되기를 기다리는 패턴일 뿐이다."*
+> — 대마법사 엘리리아 스톤위버, 물질 연구 수석 교수
 
-## Overview
+## 개요
 
-Transmutation is the school of magic devoted to the fundamental transformation of matter and energy. Unlike conjuration that summons existing elements or evocation that generates magical effects, transmutation alters the intrinsic properties, form, or structure of targets. It encompasses everything from basic material changes to complex biological alterations and is regarded as perhaps the most technically demanding school of magic due to its precision requirements and comprehensive knowledge base.
+변환 마법은 물질과 에너지의 근본적인 변형에 전념하는 마법 학파이다. 기존 요소를 소환하는 소환 마법이나 마법 효과를 생성하는 퇴마 마법과는 달리, 변환 마법은 대상의 내재적 속성, 형태 또는 구조를 변경한다. 기본적인 물질 변화부터 복잡한 생물학적 변화에 이르기까지 모든 것을 포괄하며, 정밀성 요구 사항과 포괄적인 지식 기반으로 인해 가장 기술적으로 까다로운 마법 학파로 간주된다.
 
-## Fundamental Principles
+## 기본 원리
 
-### The Principle of Malleable Essence
+### 가변적 본질의 원리
 
-The foundation of transmutation theory is the Principle of Malleable Essence, which posits that all matter and energy exists as patterns of magical resonance that can be reconfigured through proper magical application. These patterns connect physical properties to magical signatures that transmuters learn to recognize and manipulate.
+변환 이론의 기초는 가변적 본질의 원리이며, 이는 모든 물질과 에너지가 적절한 마법적 적용을 통해 재구성될 수 있는 마법적 공명의 패턴으로 존재한다고 가정한다. 이러한 패턴은 물리적 속성을 변환사가 인식하고 조작하는 방법을 배우는 마법적 서명에 연결한다.
 
-### Primary Components
+### 주요 구성 요소
 
-All transmutation spells incorporate three fundamental components:
+모든 변환 주문은 세 가지 기본 구성 요소를 통합한다.
 
-1. **Pattern Recognition**: Identifying the current structure and properties of the target
-2. **Pattern Dissolution**: Temporarily loosening the bonds of the existing form
-3. **Pattern Reconfiguration**: Imposing the desired new arrangement or properties
+1. **패턴 인식**: 대상의 현재 구조 및 속성 식별
+2. **패턴 용해**: 기존 형태의 결합을 일시적으로 느슨하게 함
+3. **패턴 재구성**: 원하는 새로운 배열 또는 속성 부과
 
-More complex transmutations add additional components:
+더 복잡한 변환에는 추가 구성 요소가 추가된다.
 
-4. **Energy Conversion**: Managing the release or absorption of energy during transformation
-5. **Temporal Anchoring**: Maintaining stability throughout the transmutation process
-6. **Selective Alteration**: Changing specific properties while preserving others
+4. **에너지 변환**: 변환 중 에너지 방출 또는 흡수 관리
+5. **시간적 고정**: 변환 과정 전반에 걸쳐 안정성 유지
+6. **선택적 변경**: 특정 속성은 유지하면서 다른 속성 변경
 
-### Mana Requirements
+### 마나 요구 사항
 
-Transmutation requires specific combinations of mana types, with purity levels that increase with the complexity of the transformation:
+변환에는 특정 마나 유형의 조합이 필요하며, 변환의 복잡성에 따라 순도 수준이 증가한다.
 
-| Transmutation Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| 변환 유형 | 주 마나 | 보조 마나 | 3차 마나 | 목적 |
 |-------------------|-------------|----------------|---------------|---------|
-| State Change | Base Mana (30-40%) | Elemental type (20-30%) | N/A | Solid to liquid, etc. |
-| Material Conversion | Base Mana (40-50%) | Terramana (30-40%) | Target element (10-20%) | Lead to gold, etc. |
-| Shape Alteration | Base Mana (35-45%) | Terramana (20-30%) | N/A | Reshaping objects |
-| Property Enhancement | Base Mana (45-55%) | Property-specific (25-35%) | N/A | Hardening, sharpening |
-| Living Transmutation | Base Mana (60-70%) | Vitamana (40-50%) | Property-specific (20-30%) | Biological changes |
-| Self-Transmutation | Base Mana (55-65%) | Vitamana (35-45%) | Property-specific (15-25%) | Physical self-alteration |
-| Essence Transmutation | Base Mana (70-80%) | Pure type (50-60%) | Aetheramana (30-40%) | Fundamental nature changes |
+| 상태 변화 | 기본 마나 (30-40%) | 원소 유형 (20-30%) | N/A | 고체에서 액체 등으로. |
+| 물질 변환 | 기본 마나 (40-50%) | 테라마나 (30-40%) | 대상 원소 (10-20%) | 납에서 금으로 등으로. |
+| 형태 변경 | 기본 마나 (35-45%) | 테라마나 (20-30%) | N/A | 물체 재형성 |
+| 속성 강화 | 기본 마나 (45-55%) | 속성 특정 (25-35%) | N/A | 경화, 연마 |
+| 생명체 변환 | 기본 마나 (60-70%) | 비타마나 (40-50%) | 속성 특정 (20-30%) | 생물학적 변화 |
+| 자가 변환 | 기본 마나 (55-65%) | 비타마나 (35-45%) | 속성 특정 (15-25%) | 물리적 자기 변경 |
+| 본질 변환 | 기본 마나 (70-80%) | 순수 유형 (50-60%) | 에테라마나 (30-40%) | 근본적인 본성 변화 |
 
-### Wild Mana Response
+### 와일드 마나 반응
 
-Transmutation magic has a particular sensitivity to Wild Mana influences. While controlled transmutation requires exacting precision, Wild Mana can introduce:
+변환 마법은 와일드 마나의 영향에 특히 민감하다. 제어된 변환에는 정확한 정밀도가 필요한 반면, 와일드 마나는 다음을 도입할 수 있다.
 
-- **Accelerated Transformation**: Speeding up the process beyond normal limits
-- **Expanded Possibility**: Allowing transformations normally considered impossible
-- **Property Blending**: Creating hybrid forms with characteristics from multiple sources
-- **Reactive Chain Effects**: Triggering cascading transmutations in surrounding materials
+- **가속화된 변환**: 정상적인 한계를 초과하여 프로세스 속도 향상
+- **확장된 가능성**: 일반적으로 불가능하다고 여겨지는 변환 허용
+- **속성 혼합**: 여러 소스의 특성을 가진 하이브리드 형태 생성
+- **반응성 연쇄 효과**: 주변 물질에서 연쇄 변환 유발
 
-However, these potential benefits carry substantial risks:
+그러나 이러한 잠재적 이점에는 상당한 위험이 따른다.
 
-- **Pattern Instability**: Transformations that shift unpredictably or revert spontaneously
-- **Property Contamination**: Unwanted characteristics appearing in the transmuted form
-- **Transformation Bleeding**: Effects spreading beyond the intended target
-- **Essence Rejection**: Violent reaction between original and transmuted forms
+- **패턴 불안정**: 예측할 수 없게 이동하거나 자발적으로 되돌아가는 변환
+- **속성 오염**: 변환된 형태에 원치 않는 특성 출현
+- **변환 유출**: 효과가 의도한 대상을 넘어 확산
+- **본질 거부**: 원래 형태와 변환된 형태 사이의 격렬한 반응
 
-## Mana Purification for Transmutation
+## 변환을 위한 마나 정화
 
-Transmutation requires exceptionally high mana purity for precision transformations:
+변환은 정밀 변환을 위해 매우 높은 마나 순도를 요구한다.
 
-| Purification Level | Transmutation Capability |
+| 정화 수준 | 변환 능력 |
 |--------------------|--------------------------|
-| Basic (15-25%) | Simple state changes (solid to liquid) and minor shape alterations |
-| Intermediate (30-45%) | Material conversions between similar substances, significant reshaping |
-| Advanced (50-65%) | Transformations across material categories, property enhancement |
-| Master (70-80%) | Limited biological transmutation, complex property manipulation |
-| Grandmaster (85%+) | Fundamental essence transmutation, perfect material conversion |
+| 기본 (15-25%) | 간단한 상태 변화 (고체에서 액체로) 및 사소한 형태 변경 |
+| 중간 (30-45%) | 유사한 물질 간의 물질 변환, 상당한 재형성 |
+| 고급 (50-65%) | 물질 범주 전반에 걸친 변환, 속성 강화 |
+| 마스터 (70-80%) | 제한된 생물학적 변환, 복잡한 속성 조작 |
+| 그랜드마스터 (85% 이상) | 근본적인 본질 변환, 완벽한 물질 변환 |
 
-Insufficient purity in transmutation typically results in incomplete transformations—objects with mixed properties, unstable forms, or imperfect conversions that revert over time.
+변환의 순도가 불충분하면 일반적으로 불완전한 변환이 발생한다. 즉, 혼합된 속성, 불안정한 형태 또는 시간이 지남에 따라 되돌아가는 불완전한 변환을 가진 물체가 생성된다.
 
-## The Transmuter's Harmony
+## 변환사의 조화
 
-Transmutation magic is conceptualized through musical modulation, with each spell creating transitions between different "keys" of material existence:
+변환 마법은 음악적 변조를 통해 개념화되며, 각 주문은 물질 존재의 다른 "키" 사이의 전환을 만든다.
 
-- **Tonic Shift**: Basic state changes maintaining fundamental composition
-- **Key Change**: Complete conversion from one material to another
-- **Tempo Alteration**: Changing the temporal properties of matter (hardening, softening)
-- **Orchestration**: Reorganizing complex systems while maintaining function
-- **Counterpoint Development**: Creating harmonious interactions between different properties
+- **토닉 이동**: 기본적인 구성을 유지하면서 기본적인 상태 변경
+- **조바꿈**: 한 물질에서 다른 물질로의 완전한 변환
+- **템포 변경**: 물질의 시간적 속성 변경 (경화, 연화)
+- **오케스트레이션**: 기능을 유지하면서 복잡한 시스템 재구성
+- **대위법 개발**: 서로 다른 속성 간의 조화로운 상호 작용 생성
 
-Master transmuters describe their work as "composing matter," guiding substances through harmonious transitions rather than forcing changes.
+마스터 변환사들은 자신의 작업을 변화를 강요하는 것이 아니라 조화로운 전환을 통해 물질을 안내하는 "물질 구성"이라고 설명한다.
 
-## Specialized Disciplines
+## 전문 분야
 
-### Alchemy
+### 연금술
 
-The transformation of materials, particularly metals and elements. Practitioners are known as Alchemists.
+특히 금속 및 원소와 같은 물질의 변환. 실무자는 연금술사로 알려져 있다.
 
-### Morphology
+### 형태학
 
-Focused on shape and structural changes without altering material composition. Masters are called Shapers.
+물질 조성을 변경하지 않고 형태 및 구조적 변화에 집중. 마스터는 조형사라고 불린다.
 
-### Enhancement
+### 강화
 
-Specialized in improving existing properties of objects or beings. Practitioners are called Enhancers.
+물체 또는 존재의 기존 속성 개선 전문. 실무자는 강화사라고 한다.
 
-### Biomancy
+### 생체마법
 
-The transmutation of living tissue and biological systems. Masters are known as Biomancers.
+살아있는 조직과 생물학적 시스템의 변환. 마스터는 생체마법사로 알려져 있다.
 
-### Essencecraft
+### 본질공예
 
-Alteration of fundamental magical properties and essence. Practitioners are called Essentialists.
+근본적인 마법적 속성 및 본질의 변경. 실무자는 본질사라고 한다.
 
-### Chronomancy
+### 시간마법
 
-Manipulation of temporal properties of matter and energy. Masters are known as Temporalists.
+물질과 에너지의 시간적 속성 조작. 마스터는 시간사로 알려져 있다.
 
-### Self-Transformation
+### 자가 변환
 
-The study and practice of altering one's own form. Practitioners are called Shifters.
+자신의 형태를 변경하는 연구 및 실천. 실무자는 변신사라고 한다.
 
-## Training Methodology
+## 훈련 방법론
 
-Transmutation training follows a structured progression:
+변환 훈련은 구조화된 진행을 따른다.
 
-1. **Theoretical Foundations**: Understanding material properties and magical correspondences
-2. **Simple State Changes**: Practicing basic transformations (solid to liquid)
-3. **Material Study**: Learning the magical signatures of various substances
-4. **Form Manipulation**: Altering shapes while preserving material properties
-5. **Property Adjustment**: Enhancing or changing specific characteristics
-6. **Energy Management**: Controlling thermal and magical energy during transmutation
-7. **Biological Theory**: Study of living systems and their transmutation requirements
-8. **Complex Integration**: Performing multi-property transformations
+1. **이론적 기초**: 물질적 속성 및 마법적 대응 이해
+2. **간단한 상태 변화**: 기본적인 변환 (고체에서 액체로) 연습
+3. **물질 연구**: 다양한 물질의 마법적 서명 학습
+4. **형태 조작**: 물질적 속성을 보존하면서 형태 변경
+5. **속성 조정**: 특정 특성 강화 또는 변경
+6. **에너지 관리**: 변환 중 열 및 마법 에너지 제어
+7. **생물학 이론**: 생명 시스템 및 변환 요구 사항 연구
+8. **복잡한 통합**: 다중 속성 변환 수행
 
-Training emphasizes precision, control, and comprehensive knowledge of materials. Transmutation students typically spend years in laboratory settings before attempting significant spellcasting.
+훈련은 정밀성, 제어 및 물질에 대한 포괄적인 지식을 강조한다. 변환 학생들은 상당한 주문 시도를 하기 전에 일반적으로 실험실 환경에서 수년을 보낸다.
 
-## Transmutation in Practice
+## 실제 변환
 
-The process of casting transmutation magic follows distinct phases:
+변환 마법 시전 과정은 뚜렷한 단계를 따른다.
 
-1. **Material Assessment**: Analyzing the target's current composition and properties
-2. **Pattern Identification**: Recognizing the magical signature of the material
-3. **Mana Purification**: Achieving the necessary purity for precise transformation
-4. **Bond Loosening**: Temporarily destabilizing the target's current form
-5. **Pattern Application**: Imposing the new desired structure or properties
-6. **Energy Balancing**: Managing energy release or absorption during change
-7. **Structural Stabilization**: Anchoring the new form into permanent stability
-8. **Quality Verification**: Ensuring the transformation is complete and stable
+1. **물질 평가**: 대상의 현재 구성 및 속성 분석
+2. **패턴 식별**: 물질의 마법적 서명 인식
+3. **마나 정화**: 정확한 변환에 필요한 순도 달성
+4. **결합 완화**: 대상의 현재 형태를 일시적으로 불안정화
+5. **패턴 적용**: 새로운 원하는 구조 또는 속성 부과
+6. **에너지 균형 조정**: 변화 중 에너지 방출 또는 흡수 관리
+7. **구조적 안정화**: 새로운 형태를 영구적인 안정성으로 고정
+8. **품질 검증**: 변환이 완료되고 안정적인지 확인
 
-For emergency transmutation, these steps may be compressed into rapid casting, though with increased risk of imperfection or instability.
+비상 변환의 경우 이러한 단계를 빠른 시전으로 압축할 수 있지만 불완전성 또는 불안정성의 위험이 증가한다.
 
-## Practical Applications
+## 실제 적용
 
-Transmutation serves numerous practical functions in magical society:
+변환은 마법 사회에서 수많은 실제 기능을 수행한다.
 
-- **Manufacturing**: Creating specialized materials, tools, and components
-- **Medicine**: Healing through tissue regeneration and pathogen neutralization
-- **Agriculture**: Enhancing crop yields through soil enrichment and plant modification
-- **Construction**: Strengthening building materials or creating architectural elements
-- **Metallurgy**: Refining and converting metals for various applications
-- **Conservation**: Purifying water, neutralizing toxins, and restoring damaged environments
-- **Logistics**: Creating temporary bridges, pathways, or containers as needed
+- **제조**: 특수 재료, 도구 및 구성 요소 생성
+- **의학**: 조직 재생 및 병원체 중화를 통한 치료
+- **농업**: 토양 비옥화 및 식물 개조를 통한 작물 수확량 증가
+- **건축**: 건축 자재 강화 또는 건축 요소 생성
+- **야금**: 다양한 용도로 금속 정제 및 변환
+- **보존**: 물 정화, 독소 중화 및 손상된 환경 복원
+- **물류**: 필요에 따라 임시 다리, 통로 또는 컨테이너 생성
 
-## Ethical Considerations
+## 윤리적 고려 사항
 
-Transmutation raises significant ethical questions:
+변환은 중요한 윤리적 문제를 제기한다.
 
-- **Material Value**: Economic implications of creating precious materials
-- **Natural Balance**: Consequences of altering natural substances and environments
-- **Consent for Change**: Ethical boundaries of transmuting living beings
-- **Reversibility**: Responsibility to ensure harmful transmutations can be undone
-- **Identity Integrity**: Psychological impact of self-transmutation or transformation by others
-- **Resource Displacement**: Effects on communities dependent on natural resources
+- **물질 가치**: 귀금속 생성의 경제적 의미
+- **자연 균형**: 자연 물질 및 환경 변경의 결과
+- **변화 동의**: 살아있는 존재를 변환하는 윤리적 경계
+- **가역성**: 유해한 변환을 되돌릴 수 있도록 보장할 책임
+- **정체성 완전성**: 자기 변환 또는 타인에 의한 변환의 심리적 영향
+- **자원 대체**: 천연 자원에 의존하는 지역 사회에 미치는 영향
 
-Most transmutation academies enforce strict ethical codes governing biological transmutation and economically sensitive material conversions.
+대부분의 변환 아카데미는 생물학적 변환과 경제적으로 민감한 물질 변환을 규제하는 엄격한 윤리 강령을 시행한다.
 
-## Limitations and Weaknesses
+## 제한 사항 및 약점
 
-Despite its power, transmutation has inherent limitations:
+변환은 그 힘에도 불구하고 고유한 제한 사항이 있다.
 
-- **Conservation Principles**: Matter cannot be created or destroyed, only transformed
-- **Complexity Barriers**: Intricate systems require proportionally greater skill and energy
-- **Material Knowledge**: Transmuters can only work effectively with substances they understand
-- **Energy Requirements**: Transformations often require significant energy input
-- **Stability Factors**: More dramatic changes tend to be less stable over time
-- **Living Resistance**: Conscious beings can resist unwanted transmutation
+- **보존 원칙**: 물질은 생성되거나 파괴될 수 없으며 변환만 가능
+- **복잡성 장벽**: 복잡한 시스템은 비례적으로 더 큰 기술과 에너지를 필요로 한다.
+- **물질 지식**: 변환사는 자신이 이해하는 물질로만 효과적으로 작업할 수 있다.
+- **에너지 요구 사항**: 변환에는 종종 상당한 에너지 입력이 필요하다.
+- **안정성 요인**: 더 극적인 변화는 시간이 지남에 따라 덜 안정적인 경향이 있다.
+- **생명 저항**: 의식이 있는 존재는 원치 않는 변환에 저항할 수 있다.
 
-Common countermeasures against transmutation include:
+변환에 대한 일반적인 대응책은 다음과 같다.
 
-- **Material Wards**: Magical protections that prevent alteration
-- **Pattern Anchoring**: Techniques to stabilize an object's current form
-- **Composition Masking**: Hiding true material nature from magical assessment
-- **Reversion Catalysts**: Substances that trigger automatic return to original form
-- **Anti-Transmission Alloys**: Materials specifically designed to resist magical alteration
+- **물질 보호막**: 변경을 방지하는 마법적 보호
+- **패턴 고정**: 물체의 현재 형태를 안정화하는 기술
+- **구성 마스킹**: 마법적 평가로부터 진정한 물질적 본성을 숨김
+- **복귀 촉매**: 원래 형태로 자동 복귀를 유발하는 물질
+- **반 변환 합금**: 마법적 변경에 저항하도록 특별히 설계된 물질
 
-## Musical Analogy
+## 음악적 비유
 
-In the musical framework of magic, transmutation represents percussion instruments—steady, transformative forces that guide material through rhythmic changes of state. The transmuter is like a drummer, setting the tempo and pattern for matter to follow.
+마법의 음악적 프레임워크에서 변환은 타악기를 나타낸다. 즉, 물질을 리드미컬한 상태 변화를 통해 안내하는 꾸준하고 변형적인 힘이다. 변환사는 드러머와 같으며 물질이 따를 템포와 패턴을 설정한다.
 
-Transmutation spells are described in terms of "resonance" and "rhythm," with each successful transformation requiring perfect timing and pressure. Master transmuters can maintain complex "polyrhythms" of multiple transformative processes simultaneously, creating intricate material symphonies.
+변환 주문은 "공명" 및 "리듬" 측면에서 설명되며, 각 성공적인 변환에는 완벽한 타이밍과 압력이 필요하다. 마스터 변환사는 여러 변형 프로세스의 복잡한 "폴리리듬"을 동시에 유지하여 복잡한 물질 교향곡을 만들 수 있다.
 
-## Notable Practitioners
+## 주목할만한 실무자
 
-- **Elyria Stoneweaver**: Pioneer of modern transmutation theory and creator of the Material Harmonic Scale
-- **Tiberius Goldhand**: Master alchemist who developed ethical frameworks for precious metal conversion
-- **Selene Fleshcrafter**: Controversial biomancer known for medical breakthroughs and questionable experiments
-- **Garrick Ironheart**: Legendary martial transmuter who specialized in combat applications
-- **Nyra Fluidform**: Master of self-transformation who documented the first complete human-animal transformation protocols
+- **엘리리아 스톤위버**: 현대 변환 이론의 개척자이자 물질 조화 척도 창시자
+- **티베리우스 골드핸드**: 귀금속 변환을 위한 윤리적 프레임워크를 개발한 마스터 연금술사
+- **셀레네 플레시크래프터**: 의학적 돌파구와 의심스러운 실험으로 알려진 논란의 여지가 있는 생체마법사
+- **개릭 아이언하트**: 전투 적용을 전문으로 하는 전설적인 무술 변환사
+- **니라 플루이드폼**: 최초의 완전한 인간-동물 변환 프로토콜을 문서화한 자기 변환의 마스터
 
-## Safety Protocols
+## 안전 프로토콜
 
-Due to the potential dangers of transmutation, standardized safety measures include:
+변환의 잠재적 위험으로 인해 표준화된 안전 조치는 다음과 같다.
 
-- **Reversion Preparations**: Ready-made counterspells for emergencies
-- **Isolation Chambers**: Contained environments for experimental transmutations
-- **Energy Sinks**: Devices to absorb excess energy from unstable reactions
-- **Transformation Limiters**: Spell components that prevent cascading effects
-- **Property Monitoring**: Constant assessment of transmuted objects for signs of instability
-- **Progressive Testing**: Staged transformation of small samples before full application
+- **복귀 준비**: 비상 상황에 대비한 즉시 사용 가능한 대응 주문
+- **격리 챔버**: 실험적 변환을 위한 밀폐된 환경
+- **에너지 싱크**: 불안정한 반응에서 과도한 에너지를 흡수하는 장치
+- **변환 제한기**: 연쇄 효과를 방지하는 주문 구성 요소
+- **속성 모니터링**: 불안정성 징후에 대한 변환된 물체의 지속적인 평가
+- **점진적 테스트**: 전체 적용 전에 작은 샘플의 단계별 변환
 
-The Transmuter's Oath, taken by all certified practitioners, includes the promise to "transform with purpose, not pride; to change with understanding, not merely power; and to restore what proves harmful, no matter the cost." 
+모든 인증된 실무자가 취하는 변환사의 맹세에는 "목적이 아닌 자부심으로 변환하지 않고, 단순한 힘이 아닌 이해로 변화시키며, 비용에 관계없이 유해한 것으로 판명된 것을 복원하겠다"는 약속이 포함된다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

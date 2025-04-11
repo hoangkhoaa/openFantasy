@@ -1,126 +1,130 @@
-# OpenFantasy Magic System
+# OpenFantasy 마법 시스템
 
-## Spells Documentation Guide
+## 주문 문서화 가이드
 
-This repository contains documentation for spells in the OpenFantasy world, following a standardized format for consistency.
+이 저장소는 OpenFantasy 세계의 주문에 대한 문서를 포함하며, 일관성을 위해 표준화된 형식을 따릅니다.
 
-## Quick Reference
+## 빠른 참조
 
-- [Spell Categories](#spell-categories)
-- [Documentation Format](#documentation-format)
-- [Mana Types](#mana-types)
-- [Purity Requirements](#purity-requirements)
-- [Character Progression](#character-progression)
+- [주문 범주](#spell-categories)
+- [문서화 형식](#documentation-format)
+- [마나 유형](#mana-types)
+- [순도 요구 사항](#purity-requirements)
+- [캐릭터 성장](#character-progression)
 
-## Spell Categories
+## 주문 범주
 
-| Category | Description |
+| 범주 | 설명 |
 |----------|-------------|
-| **Elemental** | Manipulate primary elements (Fire, Water, Earth, Air, Light, Shadow, Life, Death) |
-| **Utility** | Practical spells for everyday tasks and problem-solving |
-| **Protection** | Defensive magic that shields or counters hostile forces |
-| **Divination** | Reveal information, enhance perception, provide insight |
-| **Illusion** | Create false sensory impressions or alter perception |
-| **Enchantment** | Imbue objects or beings with magical properties |
-| **Transformation** | Change physical form or properties of targets |
-| **Summoning** | Call creatures, entities, or objects from elsewhere |
+| **원소** | 주요 원소(불, 물, 흙, 공기, 빛, 그림자, 생명, 죽음) 조작 |
+| **유틸리티** | 일상적인 작업 및 문제 해결을 위한 실용적인 주문 |
+| **보호** | 적대적인 힘을 막거나 방어하는 마법 |
+| **점술** | 정보 공개, 지각 향상, 통찰력 제공 |
+| **환상** | 거짓 감각적 인상 생성 또는 지각 변경 |
+| **마법 부여** | 물건 또는 존재에 마법적 속성 부여 |
+| **변환** | 대상의 물리적 형태 또는 속성 변경 |
+| **소환** | 다른 곳에서 생물, 존재 또는 물체 소환 |
 
-## Documentation Format
+## 문서화 형식
 
-Each spell document follows this structure:
+각 주문 문서는 다음 구조를 따릅니다.
 
-### 1. Basic Information
-- Spell name and overview
-- Casting information (difficulty, time, duration, range, components)
-- Technical details (mana types, purity requirements, complexity)
+### 1. 기본 정보
+- 주문 이름 및 개요
+- 시전 정보 (난이도, 시간, 지속 시간, 범위, 구성 요소)
+- 기술적 세부 사항 (마나 유형, 순도 요구 사항, 복잡성)
 
-### 2. Technical Details
+### 2. 기술적 세부 사항
 
-#### A. Mana Type Distribution
-Proportions of mana types (e.g., "Base Mana 60%, Umbramana 30%, Luxmana 10%")
+#### A. 마나 유형 분포
+마나 유형의 비율 (예: "기본 마나 60%, 움브라마나 30%, 룩스마나 10%")
 
-#### B. Purity Requirements
-Minimum purity level needed to cast successfully
+#### B. 순도 요구 사항
+성공적으로 시전하는 데 필요한 최소 순도 수준
 
-#### C. Pattern Structure
-Magical configuration that creates the spell effect
+#### C. 패턴 구조
+주문 효과를 생성하는 마법적 구성
 
-### 3. Practical Information
-- Effects and limitations
-- Common applications
-- Variations and adaptations
+### 3. 실용적인 정보
+- 효과 및 제한 사항
+- 일반적인 응용 분야
+- 변형 및 적응
 
-### 4. Learning and Risks
-- Risks and miscast effects
-- Learning progression
-- Historical context
+### 4. 학습 및 위험
+- 위험 및 잘못된 시전 효과
+- 학습 과정
+- 역사적 맥락
 
-## Mana Types
+## 마나 유형
 
-| Mana Type | Primary Contribution |
+| 마나 유형 | 주요 기여 |
 |-----------|----------------------|
-| **Base Mana** | Structural stability and basic magical framework |
-| **Pyromana** | Heat, energy, transformation |
-| **Hydromana** | Fluidity, adaptability, healing |
-| **Terramana** | Solidity, permanence, physical manifestation |
-| **Aeromana** | Movement, freedom, range |
-| **Luxmana** | Illumination, revelation, purification |
-| **Umbramana** | Concealment, subtlety, psychological effects |
-| **Vitaemana** | Growth, healing, enhancement |
-| **Mortismana** | Decay, negation, spiritual manipulation |
+| **기본 마나** | 구조적 안정성 및 기본 마법 프레임워크 |
+| **파이로마나** | 열, 에너지, 변환 |
+| **하이드로마나** | 유동성, 적응성, 치유 |
+| **테라마나** | 견고함, 영구성, 물리적 구현 |
+| **에어로마나** | 이동, 자유, 범위 |
+| **룩스마나** | 조명, 계시, 정화 |
+| **움브라마나** | 은폐, 미묘함, 심리적 효과 |
+| **비타에마나** | 성장, 치유, 향상 |
+| **모르티스마나** | 부패, 부정, 영적 조작 |
 
-## Purity Requirements
+## 순도 요구 사항
 
-### Purity Levels
+### 순도 수준
 
-| Category | Range | Typical Use |
+| 범주 | 범위 | 일반적인 사용 |
 |----------|-------|-------------|
-| **Crude** | 0-10% | Emergency only |
-| **Basic** | 10-35% | Novice spells |
-| **Refined** | 35-65% | Adept spells |
-| **Superior** | 65-85% | Expert spells |
-| **Perfect** | 85-100% | Master spells |
+| **조잡한** | 0-10% | 비상시에만 |
+| **기본** | 10-35% | 초보자 주문 |
+| **정제된** | 35-65% | 숙련자 주문 |
+| **최고의** | 65-85% | 전문가 주문 |
+| **완벽한** | 85-100% | 마스터 주문 |
 
-### Effects on Spellcasting
+### 주문 시전에 미치는 영향
 
-- **Below minimum**: Spell fails or produces unpredictable results
-- **At minimum**: Functions but may be less effective or stable
-- **Above minimum**: Gains enhanced effectiveness, precision, or duration
+- **최소 미만**: 주문 실패 또는 예측 불가능한 결과 발생
+- **최소 수준**: 기능하지만 효과 또는 안정성이 떨어질 수 있음
+- **최소 초과**: 향상된 효과, 정확성 또는 지속 시간 획득
 
-### Example: Purity Influence Table
+### 예: 순도 영향 테이블
 
-| Purity | Effect |
+| 순도 | 효과 |
 |--------|--------|
-| 15-20% | Minimal effectiveness, barely functional |
-| 20-35% | Standard effect as described |
-| 35-50% | Enhanced effectiveness or precision |
-| 50%+ | Maximum potential achieved |
+| 15-20% | 최소 효과, 거의 기능하지 않음 |
+| 20-35% | 설명된 대로 표준 효과 |
+| 35-50% | 향상된 효과 또는 정확성 |
+| 50%+ | 최대 잠재력 달성 |
 
-## Character Progression
+## 캐릭터 성장
 
-### Spell Mastery Path
+### 주문 숙달 경로
 
-1. **Novice**: Basic purity (10-35%), simple patterns
-2. **Adept**: Refined purity (35-65%), moderate complexity
-3. **Expert**: Superior purity (65-85%), complex patterns
-4. **Master**: Perfect purity (85%+), intricate patterns
+1. **초보자**: 기본 순도 (10-35%), 간단한 패턴
+2. **숙련자**: 정제된 순도 (35-65%), 적당한 복잡성
+3. **전문가**: 최고의 순도 (65-85%), 복잡한 패턴
+4. **마스터**: 완벽한 순도 (85%+), 복잡한 패턴
 
-### Key Development Areas
+### 주요 개발 영역
 
-- **Capacity**: Increasing mana reserves
-- **Purification**: Improving mana quality
-- **Pattern Knowledge**: Learning more complex spells
-- **Specialization**: Focusing on particular mana types
+- **용량**: 마나 저장량 증가
+- **정화**: 마나 품질 향상
+- **패턴 지식**: 더 복잡한 주문 학습
+- **특화**: 특정 마나 유형에 집중
 
-## Spell Creation
+## 주문 생성
 
-Experienced casters can develop new spells through:
+숙련된 시전자는 다음을 통해 새로운 주문을 개발할 수 있습니다.
 
-1. Researching existing patterns
-2. Experimenting with mana proportions
-3. Testing practical applications
-4. Documenting successful configurations
+1. 기존 패턴 연구
+2. 마나 비율 실험
+3. 실용적인 응용 분야 테스트
+4. 성공적인 구성 문서화
 
 ---
 
-> **Note**: For detailed information on mana purification, see [`ManaPurity.md`](/codex/Magics/ManaPurity.md) 
+> **참고**: 마나 정화에 대한 자세한 내용은 [`ManaPurity.md`](/codex/Magics/ManaPurity.md)를 참조하십시오.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

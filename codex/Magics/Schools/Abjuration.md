@@ -1,212 +1,216 @@
-# **The School of Abjuration**
+# **절제 마법 학파**
 
-> *"To abjure is not merely to say 'no' to harmful forces, but to compose a silence into which discord cannot enter."*  
-> — Grandmaster Isolde Shieldweaver, Warden of the Seven Sanctums
+> *"절제는 단순히 해로운 힘에 '아니오'라고 말하는 것이 아니라, 불화가 들어올 수 없는 침묵을 만들어내는 것이다."*  
+> — 그랜드마스터 이졸데 쉴드위버, 일곱 성소의 수호자
 
-## Overview
+## 개요
 
-Abjuration is the school of protective magic, focused on the creation of defensive barriers, the neutralization of harmful effects, and the banishment of unwanted entities. Unlike other schools that seek to create or transform, abjuration primarily prevents, protects, and preserves. It is considered one of the most technically demanding magical disciplines due to its emphasis on perfect structural integrity and flawless execution.
+절제는 방어 장벽을 만들고, 해로운 효과를 중화시키고, 원치 않는 존재를 추방하는 데 중점을 둔 보호 마법 학파입니다. 창조하거나 변형하려는 다른 학파와 달리, 절제는 주로 예방하고, 보호하고, 보존합니다. 완벽한 구조적 완전성과 완벽한 실행을 강조하기 때문에 가장 기술적으로 까다로운 마법 분야 중 하나로 간주됩니다.
 
-## Fundamental Principles
+## 기본 원리
 
-### The Barrier Theorem
+### 장벽 이론
 
-At the core of abjuration theory lies the Barrier Theorem, which states that properly structured magical energy can create boundaries that selectively filter or completely block other energies, entities, or effects. These barriers operate on the principle of harmonic opposition—creating frequencies that destructively interfere with incoming magical forces.
+절제 이론의 핵심에는 적절하게 구조화된 마법 에너지가 다른 에너지, 존재 또는 효과를 선택적으로 필터링하거나 완전히 차단하는 경계를 만들 수 있다는 장벽 이론이 있습니다. 이러한 장벽은 조화로운 반대 원리로 작동합니다. 즉, 들어오는 마법력과 파괴적으로 간섭하는 주파수를 생성합니다.
 
-### Primary Components
+### 주요 구성 요소
 
-All abjuration spells incorporate three fundamental components:
+모든 절제 마법은 세 가지 기본 구성 요소를 통합합니다.
 
-1. **Boundary Definition**: Establishing the protected space or subject
-2. **Resonant Opposition**: Creating the specific counter-frequencies to the targeted threat
-3. **Structural Integrity**: Maintaining the defensive pattern against pressure or attack
+1. **경계 정의**: 보호된 공간 또는 대상을 설정합니다.
+2. **공명 반대**: 대상 위협에 대한 특정 대응 주파수를 생성합니다.
+3. **구조적 완전성**: 압력이나 공격에 대한 방어 패턴을 유지합니다.
 
-More complex abjurations add additional components:
+더 복잡한 절제에는 추가 구성 요소가 추가됩니다.
 
-4. **Selective Permeability**: Allowing specific entities or energies to pass
-5. **Response Protocols**: Automated reactions to specific types of breach attempts
-6. **Regenerative Matrix**: Self-repair capabilities for damaged sections
+4. **선택적 투과성**: 특정 존재 또는 에너지를 통과시킵니다.
+5. **대응 프로토콜**: 특정 유형의 침입 시도에 대한 자동화된 반응입니다.
+6. **재생 매트릭스**: 손상된 부분에 대한 자가 복구 기능입니다.
 
-### Mana Requirements
+### 마나 요구 사항
 
-Abjuration requires specific combinations of mana types, with purity levels that increase with the potency of the threats being defended against:
+절제에는 특정 마나 유형의 조합이 필요하며, 방어 대상인 위협의 효능에 따라 순도 수준이 높아집니다.
 
-| Abjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
-|-----------------|-------------|----------------|---------------|---------|
-| Personal Shield | Base Mana (50-60%) | Varies by threat | N/A | Individual protection |
-| Area Warding | Base Mana (40-50%) | Terramana (20-30%) | Varies by threat | Location protection |
-| Anti-Magic Field | Base Mana (60-70%) | N/A | N/A | Magic neutralization |
-| Entity Banishment | Base Mana (50-60%) | Varies by entity | Chronosmana (10-20%) | Force removal |
-| Curse Breaking | Base Mana (60-70%) | Matching curse mana | Luxmana (10-20%) | Malefic effect removal |
-| Sanctuary | Base Mana (40-50%) | Luxmana (30-40%) | Aeromana (10-20%) | Complete safe zone |
+| 절제 유형        | 주요 마나       | 보조 마나         | 3차 마나         | 목적              |
+|-----------------|-------------|----------------|---------------|-----------------|
+| 개인 보호막       | 기본 마나 (50-60%) | 위협에 따라 다름      | 해당 없음           | 개인 보호           |
+| 지역 보호       | 기본 마나 (40-50%) | 테라마나 (20-30%) | 위협에 따라 다름      | 위치 보호           |
+| 반마법 필드      | 기본 마나 (60-70%) | 해당 없음           | 해당 없음           | 마법 무효화         |
+| 존재 추방        | 기본 마나 (50-60%) | 존재에 따라 다름      | 크로노스마나 (10-20%) | 강제 제거           |
+| 저주 해제        | 기본 마나 (60-70%) | 저주 마나와 일치    | 룩스마나 (10-20%) | 악의적 효과 제거      |
+| 성역            | 기본 마나 (40-50%) | 룩스마나 (30-40%) | 에어로마나 (10-20%) | 완전한 안전 지대       |
 
-### Wild Mana Response
+### 야생 마나 반응
 
-Abjuration magic has a unique relationship with Wild Mana. While most schools suffer unpredictable effects when exposed to Wild Mana, properly constructed abjurations can actually incorporate Wild Mana into their structure through a process called "harmonic redirection." This technique captures and channels the chaotic energy into reinforcing the barrier itself.
+절제 마법은 야생 마나와 독특한 관계를 가지고 있습니다. 대부분의 학파는 야생 마나에 노출될 때 예측할 수 없는 영향을 받지만, 적절하게 구성된 절제는 "조화로운 방향 전환"이라는 과정을 통해 실제로 야생 마나를 구조에 통합할 수 있습니다. 이 기술은 혼란스러운 에너지를 포착하여 장벽 자체를 강화하는 데 사용합니다.
 
-However, this is a delicate process that requires exceptional skill; poorly executed attempts can result in:
+그러나 이는 뛰어난 기술을 요구하는 섬세한 과정입니다. 잘못 실행된 시도는 다음과 같은 결과를 초래할 수 있습니다.
 
-- **Polarity Inversion**: The barrier repels what it should admit and admits what it should repel
-- **Fractured Containment**: Wild Mana becomes trapped within the barrier, creating unstable pockets
-- **Resonance Backlash**: The barrier amplifies rather than neutralizes incoming threats
+- **극성 반전**: 장벽이 받아들여야 할 것을 밀어내고 밀어내야 할 것을 받아들입니다.
+- **파편화된 봉쇄**: 야생 마나가 장벽 내에 갇혀 불안정한 주머니를 만듭니다.
+- **공명 반발**: 장벽이 들어오는 위협을 중화하는 대신 증폭시킵니다.
 
-## Mana Purification for Abjuration
+## 절제를 위한 마나 정화
 
-Abjuration demands exceptional mana purity due to its defensive nature—any flaw in the magical structure creates a potential vulnerability:
+절제는 방어적인 특성으로 인해 탁월한 마나 순도를 요구합니다. 마법 구조의 결함은 잠재적인 취약성을 만듭니다.
 
-| Purification Level | Abjuration Capability |
-|--------------------|------------------------|
-| Basic (15-25%) | Simple personal shields against minor physical threats |
-| Intermediate (30-45%) | Multi-layered protections against moderate magical and physical dangers |
-| Advanced (50-65%) | Complex selective barriers and wards against major threats |
-| Master (70-80%) | Impenetrable sanctuaries and banishment fields effective against legendary threats |
-| Grandmaster (85%+) | Reality-anchoring barriers that can withstand cosmic-level forces |
+| 정화 수준      | 절제 능력               |
+|-----------------|------------------------|
+| 기본 (15-25%)    | 사소한 물리적 위협에 대한 간단한 개인 보호막        |
+| 중간 (30-45%)   | 적당한 마법적 및 물리적 위험에 대한 다층 보호   |
+| 고급 (50-65%)   | 주요 위협에 대한 복잡한 선택적 장벽 및 보호 장치      |
+| 마스터 (70-80%) | 전설적인 위협에 효과적인 난공불락의 성역 및 추방 필드  |
+| 그랜드마스터 (85% 이상) | 우주적 수준의 힘을 견딜 수 있는 현실 고정 장벽       |
 
-In abjuration, purity correlates directly with both barrier strength and specificity—higher purity allows for more precisely targeted defenses against specific threats.
+절제에서 순도는 장벽 강도와 특이성 모두와 직접적으로 관련됩니다. 순도가 높을수록 특정 위협에 대한 보다 정확한 표적 방어가 가능합니다.
 
-## The Defensive Scales
+## 방어 스케일
 
-Abjuration magic is often conceptualized through musical structure, with protective spells described as "scales"—progressive sequences of notes that create complete defensive patterns:
+절제 마법은 종종 음악적 구조를 통해 개념화되며, 보호 주문은 완전한 방어 패턴을 생성하는 점진적인 음표 시퀀스인 "스케일"로 설명됩니다.
 
-- **Major Scales**: Outward-facing protections against external threats
-- **Minor Scales**: Inward-facing protections to contain or suppress
-- **Chromatic Scales**: Complex, adaptable barriers that shift in response to threats
-- **Pentatonic Scales**: Simplified, robust protections effective against a limited range of threats
-- **Counterpoint Defense**: Multiple overlapping barriers that reinforce each other
+- **장조 스케일**: 외부 위협에 대한 외부 보호
+- **단조 스케일**: 억제하거나 억제하기 위한 내부 보호
+- **반음계 스케일**: 위협에 대응하여 변화하는 복잡하고 적응 가능한 장벽
+- **5음계 스케일**: 제한된 범위의 위협에 효과적인 단순화되고 강력한 보호
+- **대위법 방어**: 서로를 강화하는 여러 겹치는 장벽
 
-Master abjurers speak of "conducting" their defenses, actively maintaining and adjusting multiple protective layers simultaneously.
+마스터 절제 마법사는 방어를 "지휘"한다고 말하며, 여러 보호 층을 동시에 유지하고 조정합니다.
 
-## Specialized Disciplines
+## 전문 분야
 
-### Wardcraft
+### 보호 마법
 
-The art of creating long-term protective fields for locations. Practitioners are known as Warders.
+위치를 위한 장기적인 보호 필드를 만드는 기술. 실무자는 보호 마법사로 알려져 있습니다.
 
-### Shielding
+### 보호막
 
-Focused on immediate, tactical barriers for combat situations. Masters are called Shieldmages.
+전투 상황에 대한 즉각적인 전술 장벽에 중점을 둡니다. 마스터는 보호막 마법사라고 불립니다.
 
-### Banishment
+### 추방
 
-Specialized in the removal of unwanted entities or energies. Practitioners are called Banishers.
+원치 않는 존재 또는 에너지의 제거에 특화되어 있습니다. 실무자는 추방자라고 불립니다.
 
-### Nullification
+### 무효화
 
-The neutralization of existing magical effects. Masters are known as Nullifiers.
+기존 마법 효과의 중화. 마스터는 무효화자로 알려져 있습니다.
 
-### Anchoring
+### 고정
 
-Securing entities, objects, or locations against magical displacement. Practitioners are called Anchors.
+마법적 변위에 대한 존재, 물체 또는 위치를 보호합니다. 실무자는 앵커라고 불립니다.
 
-### Purification
+### 정화
 
-Removal of magical contamination or corruption. Masters are known as Purifiers.
+마법적 오염 또는 부패 제거. 마스터는 정화자로 알려져 있습니다.
 
-### Sanctuary Creation
+### 성역 창조
 
-The establishment of spaces where specific magical laws apply. Practitioners are called Sanctifiers.
+특정 마법 법칙이 적용되는 공간의 설정. 실무자는 성역사라고 불립니다.
 
-### Curse Breaking
+### 저주 해제
 
-Specialized in dismantling malicious persistent effects. Masters are known as Breakers.
+악의적인 지속적인 효과를 해체하는 데 특화되어 있습니다. 마스터는 파괴자로 알려져 있습니다.
 
-## Training Methodology
+## 훈련 방법론
 
-Abjuration training follows a rigorous progression:
+절제 훈련은 엄격한 진행을 따릅니다.
 
-1. **Foundational Theory**: Understanding the principles of magical opposition and containment
-2. **Personal Shielding**: Mastering protection of the self as the fundamental skill
-3. **Threat Analysis**: Learning to identify and categorize magical and physical dangers
-4. **Barrier Construction**: Techniques for creating structurally sound protective fields
-5. **Selective Filtering**: Advanced methods for discriminating between entities and energies
-6. **Breach Response**: Protocols for handling failures and penetrations of defenses
-7. **Multiple Barrier Orchestration**: Maintaining several protective spells simultaneously
-8. **Permanent Warding**: Creation of long-term or permanent protective measures
+1. **기초 이론**: 마법적 반대 및 봉쇄 원리 이해
+2. **개인 보호막**: 자기 보호를 기본 기술로 마스터하기
+3. **위협 분석**: 마법적 및 물리적 위험 식별 및 분류 학습
+4. **장벽 건설**: 구조적으로 건전한 보호 필드 생성 기술
+5. **선택적 필터링**: 존재와 에너지를 구별하는 고급 방법
+6. **침입 대응**: 방어 실패 및 침투 처리 프로토콜
+7. **다중 장벽 오케스트레이션**: 여러 보호 주문을 동시에 유지하기
+8. **영구 보호**: 장기 또는 영구적인 보호 조치 생성
 
-Training emphasizes precision over speed, with students typically spending years mastering basic shields before progressing to more complex protections.
+훈련은 속도보다 정확성을 강조하며, 학생들은 더 복잡한 보호로 진행하기 전에 기본적인 보호막을 마스터하는 데 수년을 소비합니다.
 
-## Abjuration in Practice
+## 실제 절제
 
-The process of casting abjuration magic follows distinct phases:
+절제 마법을 시전하는 과정은 뚜렷한 단계를 따릅니다.
 
-1. **Threat Assessment**: Identifying the specific dangers to be defended against
-2. **Boundary Establishment**: Defining the protected space or subject
-3. **Mana Purification**: Achieving the necessary purity for stable protection
-4. **Pattern Formation**: Creating the specific defensive structure needed
-5. **Opposition Tuning**: Calibrating the defense to counter specific threats
-6. **Reinforcement**: Strengthening potential weak points in the structure
-7. **Activation**: Empowering the completed pattern to begin functioning
-8. **Maintenance**: Sustaining the defense through concentration or anchoring
+1. **위협 평가**: 방어해야 할 특정 위험 식별하기
+2. **경계 설정**: 보호된 공간 또는 대상 정의하기
+3. **마나 정화**: 안정적인 보호에 필요한 순도 달성하기
+4. **패턴 형성**: 필요한 특정 방어 구조 만들기
+5. **반대 조정**: 특정 위협에 대응하기 위해 방어 조정하기
+6. **강화**: 구조의 잠재적인 약점 강화하기
+7. **활성화**: 완성된 패턴에 힘을 실어 작동 시작하기
+8. **유지 관리**: 집중 또는 고정을 통해 방어 유지하기
 
-For combat abjuration, these steps must often be compressed into split-second casting, while permanent wards may involve ritual processes extending over days.
+전투 절제의 경우 이러한 단계를 종종 순식간에 시전해야 하는 반면, 영구적인 보호는 며칠에 걸쳐 확장되는 의식적 과정을 포함할 수 있습니다.
 
-## Practical Applications
+## 실제 응용 프로그램
 
-Abjuration serves vital protective functions across society:
+절제는 사회 전반에 걸쳐 중요한 보호 기능을 제공합니다.
 
-- **Personal Safety**: Combat shields, environmental protection, privacy barriers
-- **Domestic Security**: Home wards, fire suppression fields, theft prevention
-- **Infrastructure**: Public building protections, bridge reinforcement, disaster containment
-- **Medicine**: Quarantine fields, stabilization chambers, surgical protection
-- **Transportation**: Vehicle safety systems, cargo protection, pathfinding security
-- **Research**: Containment for dangerous materials or entities, experiment isolation
-- **Cultural Preservation**: Protection of historical sites, artifact conservation, legacy maintenance
+- **개인 안전**: 전투 보호막, 환경 보호, 개인 정보 보호 장벽
+- **가정 보안**: 가정 보호, 화재 진압 필드, 도난 방지
+- **인프라**: 공공 건물 보호, 교량 강화, 재해 봉쇄
+- **의료**: 격리 필드, 안정화실, 수술 보호
+- **교통**: 차량 안전 시스템, 화물 보호, 경로 찾기 보안
+- **연구**: 위험 물질 또는 존재에 대한 봉쇄, 실험 격리
+- **문화 유산 보존**: 역사 유적지 보호, 유물 보존, 유산 유지
 
-## Ethical Considerations
+## 윤리적 고려 사항
 
-Abjuration raises several distinct ethical questions:
+절제는 몇 가지 뚜렷한 윤리적 질문을 제기합니다.
 
-- **Isolation Ethics**: The moral implications of creating completely isolated spaces
-- **Discriminatory Protection**: Selective barriers that admit some but not others
-- **Defensive Aggression**: Wards designed to harm those who breach them
-- **Autonomy Concerns**: Protections that restrict the protected individual's freedom
-- **Resource Allocation**: Prioritizing who or what receives limited protective resources
-- **False Security**: The ethics of providing protections known to be inadequate
+- **고립 윤리**: 완전히 고립된 공간을 만드는 것의 도덕적 의미
+- **차별적 보호**: 일부는 허용하지만 다른 일부는 허용하지 않는 선택적 장벽
+- **방어적 공격성**: 침입자를 해치도록 설계된 보호
+- **자율성 문제**: 보호 대상 개인의 자유를 제한하는 보호
+- **자원 할당**: 제한된 보호 자원을 누가 또는 무엇이 받는지 우선 순위 지정
+- **거짓 보안**: 부적절한 것으로 알려진 보호를 제공하는 윤리
 
-Most abjuration academies teach a code of protective ethics based on proportionality and informed consent.
+대부분의 절제 아카데미는 비례성과 정보에 입각한 동의에 기반한 보호 윤리 강령을 가르칩니다.
 
-## Limitations and Weaknesses
+## 제한 사항 및 약점
 
-Despite its strength, abjuration has inherent limitations:
+강점에도 불구하고 절제에는 고유한 제한 사항이 있습니다.
 
-- **Energy Cost**: Stronger threats require exponentially more energy to repel
-- **Specificity Trade-Off**: Broad-spectrum defenses are weaker than specifically targeted ones
-- **Concentration Dependency**: Many barriers require ongoing attention to maintain
-- **Adaptation Lag**: Defenses may fail against novel or rapidly changing threats
-- **Indirect Vulnerability**: Physical anchors or focus points can be targeted
-- **Resonance Counters**: Every defense has a specific resonance that can be exploited
+- **에너지 비용**: 강한 위협을 격퇴하려면 기하급수적으로 더 많은 에너지가 필요합니다.
+- **특이성 절충**: 광범위한 방어는 특별히 표적화된 방어보다 약합니다.
+- **집중 의존성**: 많은 장벽은 유지하기 위해 지속적인 주의가 필요합니다.
+- **적응 지연**: 방어가 새롭거나 빠르게 변화하는 위협에 실패할 수 있습니다.
+- **간접적 취약성**: 물리적 앵커 또는 초점 지점을 표적으로 삼을 수 있습니다.
+- **공명 카운터**: 모든 방어에는 악용될 수 있는 특정 공명이 있습니다.
 
-Common methods for overcoming abjuration include:
+절제를 극복하는 일반적인 방법은 다음과 같습니다.
 
-- **Frequency Matching**: Tuning offensive magic to the exact counter-frequency of a barrier
-- **Threshold Flooding**: Overwhelming defenses with massive energy surges
-- **Sequential Probing**: Finding and exploiting weak points in the barrier structure
-- **Anchor Targeting**: Destroying the physical components supporting a ward
-- **Patient Erosion**: Sustained low-level pressure that gradually weakens defenses
-- **Harmonic Infiltration**: Using complementary rather than opposing frequencies to pass through
+- **주파수 일치**: 장벽의 정확한 대응 주파수에 맞춰 공격 마법 조정
+- **임계값 넘침**: 엄청난 에너지 서지로 방어 압도하기
+- **순차적 탐사**: 장벽 구조의 약점 찾아서 악용하기
+- **앵커 표적화**: 보호 장치를 지원하는 물리적 구성 요소 파괴하기
+- **지속적인 침식**: 방어를 점차적으로 약화시키는 지속적인 낮은 수준의 압력
+- **조화로운 침투**: 통과하기 위해 반대 주파수 대신 상보적 주파수 사용
 
-## Musical Analogy
+## 음악적 비유
 
-In the musical framework of magic, abjuration represents percussion instruments—creating rhythm and structure that frames and constrains other magical elements. The abjurer is like a drummer, maintaining the boundaries within which other musicians can safely operate.
+마법의 음악적 프레임워크에서 절제는 타악기를 나타냅니다. 다른 마법 요소를 구성하고 제약하는 리듬과 구조를 만듭니다. 절제는 드러머와 같아서 다른 음악가가 안전하게 작동할 수 있는 경계를 유지합니다.
 
-Defensive spells are described in terms of "tempos" and "measures," with each protective layer adding a beat to the complex rhythm of a complete defense. Master abjurers can maintain multiple independent "time signatures" simultaneously, creating complex polyrhythmic defenses that are extraordinarily difficult to breach.
+방어 주문은 "템포"와 "마디"로 설명되며, 각 보호 층은 완전한 방어의 복잡한 리듬에 비트를 추가합니다. 마스터 절제 마법사는 여러 개의 독립적인 "박자표"를 동시에 유지하여 침입하기 극도로 어려운 복잡한 폴리리듬 방어를 만들 수 있습니다.
 
-## Notable Practitioners
+## 주목할만한 실무자
 
-- **Isolde Shieldweaver**: Creator of the Seven-Fold Sanctuary technique used in highest-security magical facilities
-- **Dorian Wardwright**: Legendary warder who established the continent-spanning Great Boundary after the Rift War
-- **Castiel Banebane**: Pioneer of curse-breaking methodologies now standard in medical abjuration
-- **Amalthea Stillhaven**: Developer of the Silent Sanctuary, a completely magic-null environment
-- **Thaddeus Ironward**: Master of combat abjuration and creator of the Reactive Shield System
+- **이졸데 쉴드위버**: 최고 보안 마법 시설에서 사용되는 7겹 성역 기술의 창시자
+- **도리안 워드라이트**: 리프트 전쟁 후 대륙에 걸친 대경계를 세운 전설적인 보호 마법사
+- **카스티엘 베인베인**: 현재 의료 절제에서 표준인 저주 해제 방법론의 개척자
+- **아말테아 스틸헤이븐**: 완전히 마법이 없는 환경인 사일런트 성역 개발자
+- **타데우스 아이언워드**: 전투 절제의 달인이자 반응형 보호막 시스템 창시자
 
-## Historical Development
+## 역사적 발전
 
-Abjuration emerged early in magical history, with simple wards and protections among the first spells developed by early civilizations. The formal study of abjuration as a distinct school coalesced during the Age of Strife, when defensive magic became critically important.
+절제는 마법 역사의 초기에 나타났으며, 초기 문명에서 개발한 최초의 주문 중 간단한 보호 및 보호 장치가 있었습니다. 절제에 대한 공식적인 연구는 방어 마법이 매우 중요해진 갈등 시대 동안 뚜렷한 학파로 통합되었습니다.
 
-The publication of "Principles of Magical Boundary" by Magister Elara Stoneheart in the early Second Age established the theoretical foundation for modern abjuration. The Third Age saw significant advancement with the development of selective filtering techniques by the Brotherhood of the Veil.
+마기스터 엘라라 스톤하트가 2시대 초에 발표한 "마법 경계 원리"는 현대 절제의 이론적 토대를 확립했습니다. 3시대에는 베일 형제단이 선택적 필터링 기술을 개발하면서 상당한 진전이 있었습니다.
 
-Contemporary abjuration research focuses on adaptive defense systems, energy-efficient sustainable barriers, and counter-measures for emerging magical threats. The cutting edge of the field explores dimensional anchoring—protections that remain stable across multiple planes of existence.
+현대 절제 연구는 적응형 방어 시스템, 에너지 효율적인 지속 가능한 장벽, 새로운 마법적 위협에 대한 대응 조치에 중점을 둡니다. 이 분야의 최첨단은 다차원 고정, 즉 여러 존재 평면에 걸쳐 안정적으로 유지되는 보호를 탐구합니다.
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Evocation](/codex/Magics/Schools/Evocation.md)* 
+*참조: [마나 정화](/codex/Magics/ManaMechanics.md), [야생 마나](/codex/Magics/WildMana.md), [환기](/codex/Magics/Schools/Evocation.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

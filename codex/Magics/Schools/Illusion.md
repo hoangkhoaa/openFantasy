@@ -1,202 +1,206 @@
-# **The School of Illusion**
+# **환영의 학교**
 
-> *"Reality is merely perception given form. In the space between what is and what seems to be—that is where we illusionists dance."*  
-> — Miraleth Shadowsong, Grandmaster of Illusions
+> *"현실은 그저 형태를 부여받은 인식일 뿐이다. 존재하는 것과 존재하는 것처럼 보이는 것 사이의 공간—그곳이 바로 우리 환영술사들이 춤추는 곳이다."*
+> — 미랄레스 섀도우송, 환영의 대가
 
-## Quick Reference
-- [Overview](#overview)
-- [Fundamental Principles](#fundamental-principles)
-- [Primary Components](#primary-components)
-- [Mana Requirements](#mana-requirements)
-- [Specialized Disciplines](#specialized-disciplines)
-- [Detection and Dispelling](#detection-and-dispelling)
-- [Training Methodology](#training-methodology)
-- [Applications](#applications)
-- [Ethical Considerations](#ethical-considerations)
-- [Limitations](#limitations)
-- [Notable Practitioners](#notable-practitioners)
+## 빠른 참조
+- [개요](#개요)
+- [기본 원리](#기본-원리)
+- [주요 구성 요소](#주요-구성-요소)
+- [마나 요구 사항](#마나-요구-사항)
+- [특화 분야](#특화-분야)
+- [감지 및 해제](#감지-및-해제)
+- [훈련 방법](#훈련-방법)
+- [응용](#응용)
+- [윤리적 고려 사항](#윤리적-고려-사항)
+- [제한 사항](#제한-사항)
+- [주목할 만한 실무자](#주목할-만한-실무자)
 
-## Overview
+## 개요
 
-Illusion magic specializes in manipulating sensory information to create experiences that diverge from physical reality. Unlike elemental or transmutation magic that alters the material world, illusion magic operates primarily within the realm of perception, creating effects that engage one or more senses without fundamentally changing the physical properties of the target area.
+환영 마법은 감각 정보를 조작하여 물리적 현실과 다른 경험을 만드는 데 특화되어 있습니다. 물질 세계를 변화시키는 원소 또는 변환 마법과는 달리 환영 마법은 주로 인식의 영역 내에서 작동하여 대상 영역의 물리적 속성을 근본적으로 변경하지 않고 하나 이상의 감각을 자극하는 효과를 생성합니다.
 
-The school of illusion is often misunderstood as merely "tricks" or "deception," when in fact it requires precise manipulation of mana to interface with sensory perception systems. A masterful illusion can be as technically complex as any high-level evocation spell, requiring exquisite control over mana patterning and sensory projection matrices.
+환영의 학교는 감각 지각 시스템과 인터페이스하기 위해 마나를 정밀하게 조작해야 할 때 단순히 "속임수" 또는 "기만"으로 오해되는 경우가 많습니다. 숙련된 환상은 모든 고위 소환 주문만큼 기술적으로 복잡할 수 있으며, 마나 패턴과 감각 투사 매트릭스에 대한 정교한 제어가 필요합니다.
 
-## Fundamental Principles
+## 기본 원리
 
-### The Triangle of Perception
+### 인식의 삼각형
 
-Illusion magic operates on three fundamental principles:
+환영 마법은 세 가지 기본 원리로 작동합니다.
 
-1. **Sensory Projection**: The creation and projection of artificial sensory stimuli.
-2. **Mind Resonance**: Harmonizing magical energy with the perceptual facilities of observers.
-3. **Reality Anchoring**: Tethering illusory elements to physical reality for consistency and believability.
+1. **감각 투사**: 인공 감각 자극의 생성 및 투사.
+2. **정신 공명**: 관찰자의 지각 기능과 마법 에너지를 조화시킵니다.
+3. **현실 고정**: 환상적인 요소를 물리적 현실에 묶어 일관성과 신뢰성을 확보합니다.
 
-These three aspects form what illusionists call "The Triangle of Perception"—each aspect must be balanced with the others to create a convincing illusion.
+이 세 가지 측면은 환영술사들이 "인식의 삼각형"이라고 부르는 것을 형성합니다. 설득력 있는 환상을 만들기 위해서는 각 측면이 다른 측면과 균형을 이루어야 합니다.
 
-### The Scales of Sensory Fidelity
+### 감각 충실도의 척도
 
-Illusion magic operates across multiple sensory channels, each requiring different techniques:
+환영 마법은 여러 감각 채널에서 작동하며, 각 채널은 서로 다른 기술을 필요로 합니다.
 
-| Sense | Mana Type | Complexity | Believability Factor |
+| 감각 | 마나 유형 | 복잡성 | 신뢰도 요소 |
 |-------|-----------|------------|---------------------|
-| Visual | Primary: Light, Secondary: Spiritual | High | Critical |
-| Auditory | Primary: Air, Secondary: Light | Medium | High |
-| Olfactory | Primary: Earth, Secondary: Water | Medium-Low | Moderate |
-| Tactile | Primary: Earth, Secondary: Spiritual | Very High | Very High |
-| Gustatory | Primary: Water, Secondary: Earth | High | Low (rarely used) |
+| 시각 | 주: 빛, 부: 영적 | 높음 | 매우 중요 |
+| 청각 | 주: 공기, 부: 빛 | 중간 | 높음 |
+| 후각 | 주: 흙, 부: 물 | 중간-낮음 | 보통 |
+| 촉각 | 주: 흙, 부: 영적 | 매우 높음 | 매우 높음 |
+| 미각 | 주: 물, 부: 흙 | 높음 | 낮음 (거의 사용되지 않음) |
 
-Multi-sensory illusions require harmonization between different sensory channels, increasing complexity exponentially with each additional sense incorporated.
+다중 감각 환상은 서로 다른 감각 채널 간의 조화를 필요로 하며, 추가되는 각 감각마다 복잡성이 기하급수적으로 증가합니다.
 
-## Primary Components
+## 주요 구성 요소
 
-All illusion spells, regardless of complexity, contain four essential components:
+복잡성에 관계없이 모든 환영 주문에는 네 가지 필수 구성 요소가 포함되어 있습니다.
 
-1. **Projection Matrix**: The framework determining how the illusion appears in physical space
-2. **Sensory Detail Engine**: The mechanism generating the specific sensory experiences
-3. **Observer Adaptation Circuit**: The component that adjusts the illusion based on observer perspective and interaction
-4. **Reality Interface**: The system that determines how the illusion interacts with or responds to real-world stimuli
+1. **투사 매트릭스**: 환상이 물리적 공간에 나타나는 방식을 결정하는 프레임워크
+2. **감각 세부 엔진**: 특정 감각 경험을 생성하는 메커니즘
+3. **관찰자 적응 회로**: 관찰자 관점과 상호 작용을 기반으로 환상을 조정하는 구성 요소
+4. **현실 인터페이스**: 환상이 실제 자극과 상호 작용하거나 반응하는 방식을 결정하는 시스템
 
-## Mana Requirements
+## 마나 요구 사항
 
-Illusion magic has unique mana requirements that distinguish it from other magical schools:
+환영 마법은 다른 마법 학교와 구별되는 고유한 마나 요구 사항이 있습니다.
 
-- **Distribution**: Typically requires 40-60% Light mana, 20-30% Spiritual mana, and remaining percentages divided between Air, Earth, and Water depending on the sensory channels being affected.
-- **Purity**: Most effective with higher purity levels (30%+), as impure mana creates "glitches" in the sensory experience that alert observers to the illusory nature.
-- **Flow Pattern**: Requires smooth, continuous flow rather than bursts of energy, often described as a "stream" rather than a "pulse."
-- **Stability**: Demands exceptional stability—fluctuations in mana output cause noticeable irregularities in the illusion.
+- **분포**: 일반적으로 40-60%의 빛 마나, 20-30%의 영적 마나가 필요하며, 나머지 비율은 영향을 받는 감각 채널에 따라 공기, 흙 및 물로 나뉩니다.
+- **순도**: 불순한 마나는 관찰자에게 환상적인 특성을 경고하는 감각 경험에서 "결함"을 생성하므로 더 높은 순도 수준(30% 이상)에서 가장 효과적입니다.
+- **흐름 패턴**: 에너지의 폭발보다는 매끄럽고 지속적인 흐름이 필요하며, 종종 "맥박"보다는 "흐름"으로 묘사됩니다.
+- **안정성**: 뛰어난 안정성이 요구됩니다. 마나 출력의 변동은 환상에서 눈에 띄는 불규칙성을 유발합니다.
 
-## Specialized Disciplines
+## 특화 분야
 
-Within the School of Illusion, practitioners typically specialize in one or more sub-disciplines:
+환영의 학교 내에서 실무자들은 일반적으로 하나 이상의 하위 분야를 전문으로 합니다.
 
-### Phantasm Weaving
-Creating pure visual illusions with extraordinary detail and animation capabilities.
+### 환상 직조
+뛰어난 디테일과 애니메이션 기능을 갖춘 순수한 시각적 환상을 만듭니다.
 
-### Acoustic Illusion
-Specializing in sound manipulation, from simple noises to complex symphonies or perfect voice mimicry.
+### 청각 환상
+단순한 소음부터 복잡한 교향곡 또는 완벽한 음성 모방에 이르기까지 사운드 조작을 전문으로 합니다.
 
-### Sensory Comprehensive Illusion
-Creating fully immersive illusions that engage multiple senses simultaneously.
+### 감각 포괄적 환상
+여러 감각을 동시에 자극하는 완전히 몰입적인 환상을 만듭니다.
 
-### Illusory Script
-Creating text or symbols visible only to certain viewers or under specific conditions.
+### 환상적인 스크립트
+특정 조건에서 특정 뷰어에게만 보이는 텍스트 또는 기호를 만듭니다.
 
-### Shadow Puppetry
-Manipulation of shadows and darkness, often blending illusion with minor umbral magic.
+### 그림자 인형극
+그림자와 어둠을 조작하며 종종 환상과 사소한 엄브랄 마법을 혼합합니다.
 
-### Psychoperceptive Illusion
-Advanced techniques that interact directly with the observer's mind, creating shared or targeted illusions.
+### 심리 지각 환상
+관찰자의 정신과 직접 상호 작용하여 공유되거나 대상이 지정된 환상을 만드는 고급 기술입니다.
 
-### Programmed Illusion
-Creating illusions that follow set patterns or respond to specific triggers without active control.
+### 프로그래밍된 환상
+활성 제어 없이 설정된 패턴을 따르거나 특정 트리거에 반응하는 환상을 만듭니다.
 
-## Detection and Dispelling
+## 감지 및 해제
 
-Illusions can be detected and countered through various methods:
+환상은 다양한 방법을 통해 감지하고 방지할 수 있습니다.
 
-### Detection Methods
-- **Mana Sight**: Reveals the magical nature of illusions by displaying their mana patterns.
-- **Multi-sensory Analysis**: Testing an apparent object across multiple senses often reveals inconsistencies.
-- **Pattern Disruption**: Introducing chaotic mana can cause illusions to display errors or "glitches."
-- **Reality Anchoring**: Physical interactions that should affect real objects but don't affect illusions.
+### 감지 방법
+- **마나 시력**: 마나 패턴을 표시하여 환상의 마법적 특성을 드러냅니다.
+- **다중 감각 분석**: 여러 감각에서 겉으로 보이는 물체를 테스트하면 종종 불일치가 드러납니다.
+- **패턴 파괴**: 혼란스러운 마나를 도입하면 환상이 오류 또는 "결함"을 표시할 수 있습니다.
+- **현실 고정**: 실제 물체에 영향을 미쳐야 하지만 환상에는 영향을 미치지 않는 물리적 상호 작용.
 
-### Dispelling Techniques
-- **Harmonic Cancellation**: Producing a counter-resonance that neutralizes the illusion's mana pattern.
-- **Perceptual Shield**: Creating a barrier that filters out illusory sensory inputs.
-- **Disbelief Projection**: A focused mental technique that rejects the illusion's reality framework.
-- **Pattern Unraveling**: Systematically identifying and dismantling the illusion's component patterns.
+### 해제 기술
+- **조화 취소**: 환상의 마나 패턴을 중화하는 반공명을 생성합니다.
+- **지각 방패**: 환상적인 감각 입력을 필터링하는 장벽을 만듭니다.
+- **불신 투사**: 환상의 현실 프레임워크를 거부하는 집중된 정신 기술입니다.
+- **패턴 풀기**: 환상의 구성 요소 패턴을 체계적으로 식별하고 해체합니다.
 
-## Training Methodology
+## 훈련 방법
 
-Training in illusion magic follows a structured progression:
+환영 마법 훈련은 구조화된 진행을 따릅니다.
 
-### Foundational Skills
-1. **Mana Purification**: Achieving the high purity levels required for convincing illusions.
-2. **Single-Sense Projection**: Mastering individual sensory projections before combining them.
-3. **Stability Exercises**: Maintaining consistent mana flow for extended durations.
-4. **Pattern Visualization**: Developing the mental clarity to envision complex sensory details.
+### 기본 기술
+1. **마나 정화**: 설득력 있는 환상에 필요한 높은 순도 수준을 달성합니다.
+2. **단일 감각 투사**: 개별 감각 투사를 결합하기 전에 숙달합니다.
+3. **안정성 운동**: 장기간 동안 일관된 마나 흐름을 유지합니다.
+4. **패턴 시각화**: 복잡한 감각 세부 사항을 구상할 수 있는 정신적 명확성을 개발합니다.
 
-### Intermediate Techniques
-1. **Multi-sensory Harmonization**: Blending different sensory channels coherently.
-2. **Dynamic Adaptation**: Creating illusions that respond to environmental changes.
-3. **Observer Perspective Shifting**: Maintaining consistency across multiple viewpoints.
-4. **Subtle Detail Infusion**: Adding minor imperfections for increased realism.
+### 중급 기술
+1. **다중 감각 조화**: 서로 다른 감각 채널을 일관성 있게 혼합합니다.
+2. **동적 적응**: 환경 변화에 반응하는 환상을 만듭니다.
+3. **관찰자 관점 이동**: 여러 관점에서 일관성을 유지합니다.
+4. **미묘한 디테일 주입**: 사실감 향상을 위해 사소한 불완전성을 추가합니다.
 
-### Advanced Mastery
-1. **Autonomous Illusions**: Creating self-sustaining illusions that persist without active control.
-2. **Reality Integration**: Seamlessly blending illusory and real elements.
-3. **Mass Perception Manipulation**: Affecting multiple observers with individualized experiences.
-4. **Layered Illusion Composition**: Creating illusions within illusions for complex scenarios.
+### 고급 숙달
+1. **자율 환상**: 활성 제어 없이 지속되는 자가 유지 환상을 만듭니다.
+2. **현실 통합**: 환상적인 요소와 실제 요소를 완벽하게 혼합합니다.
+3. **대량 지각 조작**: 개별화된 경험으로 여러 관찰자에게 영향을 미칩니다.
+4. **레이어드 환상 구성**: 복잡한 시나리오를 위해 환상 내에 환상을 만듭니다.
 
-## Applications
+## 응용
 
-Illusion magic finds purpose across numerous domains:
+환영 마법은 수많은 영역에서 목적을 찾습니다.
 
-### Practical Applications
-- **Communication**: Creating visual messages or information displays
-- **Entertainment**: Theatrical performances and artistic expressions
-- **Architecture**: Previsualization of structures or aesthetic enhancements
-- **Education**: Demonstrating concepts through visual representation
-- **Navigation**: Creating markers or highlighting paths
+### 실제 응용
+- **통신**: 시각적 메시지 또는 정보 디스플레이 생성
+- **엔터테인먼트**: 연극 공연 및 예술적 표현
+- **건축**: 구조의 사전 시각화 또는 미적 향상
+- **교육**: 시각적 표현을 통한 개념 시연
+- **탐색**: 마커 생성 또는 경로 강조 표시
 
-### Military Applications
-- **Camouflage**: Concealing troops, equipment, or positions
-- **Distraction**: Creating diversions to split enemy attention
-- **Deception**: Displaying false information or scenarios
-- **Psychological Operations**: Affecting morale through unsettling or confusing illusions
+### 군사적 응용
+- **위장**: 군대, 장비 또는 위치 숨기기
+- **혼란**: 적의 주의를 분산시키기 위한 전환 생성
+- **기만**: 거짓 정보 또는 시나리오 표시
+- **심리 작전**: 불안하거나 혼란스러운 환상을 통해 사기에 영향을 미침
 
-### Personal Applications
-- **Privacy**: Concealing activities or locations from observation
-- **Self-Expression**: Altering personal appearance or environment
-- **Comfort**: Creating pleasant surroundings or experiences
-- **Security**: Disguising valuable possessions or entrances
+### 개인적 응용
+- **개인 정보 보호**: 관찰로부터 활동 또는 위치 숨기기
+- **자기 표현**: 개인 외모 또는 환경 변경
+- **편안함**: 쾌적한 환경 또는 경험 생성
+- **보안**: 귀중한 소지품 또는 입구 위장
 
-## Ethical Considerations
+## 윤리적 고려 사항
 
-The School of Illusion presents unique ethical challenges:
+환영의 학교는 고유한 윤리적 문제를 제기합니다.
 
-- **Consent**: When is it appropriate to alter someone's perception without their knowledge?
-- **Truth vs. Deception**: The moral implications of creating false experiences
-- **Psychological Impact**: Potential trauma from convincing illusions, especially frightening ones
-- **Addiction Risk**: The possibility of preference for illusory experiences over reality
-- **Legal Status**: Varying regulations regarding illusion use in different regions
+- **동의**: 상대방의 지각을 알지 못한 채 변경하는 것이 적절한 시기는 언제입니까?
+- **진실 대 기만**: 거짓된 경험을 만드는 것의 도덕적 의미
+- **심리적 영향**: 설득력 있는 환상, 특히 무서운 환상으로 인한 잠재적 외상
+- **중독 위험**: 현실보다 환상적인 경험을 선호할 가능성
+- **법적 지위**: 지역에 따라 환상 사용에 대한 다양한 규정
 
-## Limitations
+## 제한 사항
 
-Despite its versatility, illusion magic faces inherent constraints:
+다재다능함에도 불구하고 환영 마법은 본질적인 제약에 직면해 있습니다.
 
-- **No Physical Impact**: Illusions cannot directly affect physical reality
-- **Belief Threshold**: Extremely implausible illusions trigger automatic disbelief
-- **Energy Requirements**: Complex illusions require significant mana to maintain
-- **Concentration Dependency**: Most illusions require some degree of ongoing attention
-- **Environmental Factors**: Extreme magical conditions can disrupt illusion patterns
-- **Dispelling Vulnerability**: Susceptibility to counter-magic specifically designed for illusions
+- **물리적 영향 없음**: 환상은 물리적 현실에 직접적인 영향을 미칠 수 없습니다.
+- **믿음 임계값**: 극도로 믿을 수 없는 환상은 자동 불신을 유발합니다.
+- **에너지 요구 사항**: 복잡한 환상을 유지하려면 상당한 마나가 필요합니다.
+- **집중 의존성**: 대부분의 환상은 어느 정도의 지속적인 주의가 필요합니다.
+- **환경 요인**: 극단적인 마법 조건은 환상 패턴을 방해할 수 있습니다.
+- **해제 취약성**: 환상을 위해 특별히 설계된 반대 마법에 대한 감수성
 
-## Notable Practitioners
+## 주목할 만한 실무자
 
-### Historical Figures
-- **Mirala Shadowweaver** (729-816): Pioneered the multi-sensory integration techniques that form the basis of modern comprehensive illusions
-- **Elindor the Veiled** (442-538): Developed the first documented techniques for autonomous illusions
-- **Thassarian Nightwhisper** (901-997): Created the Harmonic Theory of Illusory Resonance, advancing understanding of mind-illusion interactions
+### 역사적 인물
+- **미랄라 섀도우위버** (729-816): 현대 포괄적인 환상의 기초를 형성하는 다중 감각 통합 기술을 개척했습니다.
+- **엘린도르 베일** (442-538): 자율 환상에 대한 최초의 문서화된 기술을 개발했습니다.
+- **타사리안 나이트위스퍼** (901-997): 정신-환상 상호 작용에 대한 이해를 발전시킨 환상 공명의 조화 이론을 만들었습니다.
 
-### Contemporary Masters
-- **Miraleth Shadowsong**: Current Grandmaster of the Illusionist's Conclave, specializing in performance illusions
-- **Vaeril Dreamshaper**: Leading researcher in psychoperceptive illusions and reality distortion
-- **Lyrissa Truthshadow**: Pioneer in therapeutic applications of illusion magic
-- **Thalen Mistwalker**: Military specialist in large-scale battlefield illusions
+### 현대 거장
+- **미랄레스 섀도우송**: 현재 환영술사 협회의 대가이며 공연 환상을 전문으로 합니다.
+- **베릴 드림셰이퍼**: 심리 지각 환상 및 현실 왜곡 분야의 선두 연구원
+- **리리사 트루스섀도우**: 환영 마법의 치료 응용 분야의 개척자
+- **탈렌 미스트워커**: 대규모 전장 환상 분야의 군사 전문가
 
-> *"The difference between a novice and a master illusionist is not in the grandeur of their creations, but in the subtlety of their details. True mastery lies in knowing which details to emphasize and which to simply suggest."* 
-> — Vaeril Dreamshaper
+> *"초보자와 숙련된 환영술사의 차이점은 창조물의 웅장함이 아니라 디테일의 미묘함에 있습니다. 진정한 숙달은 어떤 디테일을 강조하고 어떤 디테일을 단순히 암시해야 하는지 아는 데 있습니다."*
+> — 베릴 드림셰이퍼
 
-## Historical Development
+## 역사적 발전
 
-The formal School of Illusion emerged during the Second Age, when practitioners began to systematically study the principles underlying sensory manipulation. Prior to this, illusion techniques were scattered among various magical traditions, often as adjuncts to other practices.
+공식적인 환영의 학교는 실무자들이 감각 조작의 기본 원리를 체계적으로 연구하기 시작한 제2 시대에 등장했습니다. 이전에는 환상 기술이 다양한 마법 전통에 흩어져 있었으며 종종 다른 관행에 대한 보조물로 사용되었습니다.
 
-The Third Age saw the refinement of illusion theory with the publication of Elara Duskveil's seminal work "The Perceptual Matrix," which established the fundamental framework still used today.
+제3 시대에는 엘라라 더스크베일의 획기적인 작품 "지각 매트릭스"의 출판으로 환상 이론이 개선되었으며, 이는 오늘날에도 여전히 사용되는 기본 프레임워크를 확립했습니다.
 
-Modern illusion magic continues to evolve, with increasing focus on the relationship between perception, consciousness, and reality - blurring the lines between illusion and other magical disciplines.
+현대 환영 마법은 계속 진화하고 있으며, 지각, 의식 및 현실 간의 관계에 대한 관심이 높아져 환상과 다른 마법 분야 간의 경계가 모호해지고 있습니다.
 
 ---
 
-*See also: [Minor Illusion](/codex/Magics/Spells/Illusion/MinorIllusion.md), [Perception Magic](/codex/Magics/Domains/Perception.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*참조: [사소한 환상](/codex/Magics/Spells/Illusion/MinorIllusion.md), [지각 마법](/codex/Magics/Domains/Perception.md), [마나 정화](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

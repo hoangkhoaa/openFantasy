@@ -1,135 +1,139 @@
-# **Mage**: The Masters of Magical Arts
+# **Mage**: 마법 예술의 대가
 
-[**Mages**](/codex/Classes/Mage/Mage.md) are the conductors of arcane energies, their being a finely tuned instrument for channeling and shaping the magical forces that permeate the world. Their existence resonates with the fundamental harmonies of magic, creating a symphony of spellcraft and mystical understanding.
+[**Mages**](/codex/Classes/Mage/Mage.md)는 신비로운 에너지의 지휘자이며, 세계에 퍼져 있는 마법의 힘을 전달하고 형성하기 위해 정밀하게 조정된 도구입니다. 그들의 존재는 마법의 근본적인 조화와 공명하여 주문 제작과 신비로운 이해의 교향곡을 만듭니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **mages** creates a distinctive harmony that favors magical prowess:
+[Classes](/codex/Classes/Classes.md)에 자세히 설명된 것처럼 **mages**의 일반적인 비율은 마법 능력을 선호하는 독특한 조화를 만듭니다.
 
-| Element | Range | Function |
+| 요소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Minimal physical foundation supporting a vessel capable of containing vast magical energies |
-| **Soul** | 25-40% | Enhanced consciousness supporting complex spell formulation and magical theory |
-| **Mana Capacity** | 40-60% | Exceptional magical potential allowing for powerful and diverse spell casting |
+| **Exanthis** | 15-30% | 광대한 마법 에너지를 담을 수 있는 용기를 지지하는 최소한의 물리적 기반 |
+| **Soul** | 25-40% | 복잡한 주문 공식화 및 마법 이론을 지원하는 향상된 의식 |
+| **Mana Capacity** | 40-60% | 강력하고 다양한 주문 시전을 허용하는 뛰어난 마법 잠재력 |
 
-This composition grants **mages** their characteristic magical potency at the cost of physical resilience. Their bodies are like finely crafted instruments, designed primarily to channel and manipulate magical energies rather than endure physical hardship.
+이러한 구성은 **mages**에게 물리적 탄력성을 희생하여 특징적인 마법력을 부여합니다. 그들의 몸은 육체적 어려움을 견디기보다는 주로 마법 에너지를 전달하고 조작하도록 설계된 정밀하게 제작된 도구와 같습니다.
 
-### Magical Affinity Profile
+### 마법 친화력 프로필
 
-The substantial Mana Capacity of **mages** typically develops along specialized pathways, creating distinct magical traditions:
+**mages**의 상당한 Mana Capacity는 일반적으로 특수한 경로를 따라 발전하여 뚜렷한 마법 전통을 만듭니다.
 
-| Mage Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| 마법 전통 | 주요 친화력 | 보조 친화력 | 일반적인 적용 |
 |-----------------|-------------------|---------------------|---------------------|
-| **Pyromancer** | Pyromana (Creation, Control) | Aeromana (Expansion) | Fire evocation, heat manipulation, combustion control |
-| **Hydromancer** | Aquamana (Adaptation, Fluidity) | Base Mana (Purification) | Water manipulation, healing, transmutation |
-| **Geomancer** | Terramana (Stability, Structure) | Base Mana (Foundation) | Earth shaping, fortification, crystallization |
-| **Aeromancer** | Aeromana (Freedom, Movement) | Base Mana (Distance) | Wind control, sound manipulation, levitation |
-| **Umbramancer** | Umbramana (Concealment, Density) | Pyromana (Consumption) | Shadow manipulation, void creation, energy absorption |
-| **Luxomancer** | Luxmana (Illumination, Clarity) | Base Mana (Precision) | Light creation, illusion, truth-seeing |
+| **Pyromancer** | Pyromana (창조, 제어) | Aeromana (확장) | 화염 소환, 열 조작, 연소 제어 |
+| **Hydromancer** | Aquamana (적응, 유동성) | Base Mana (정화) | 물 조작, 치유, 변환 |
+| **Geomancer** | Terramana (안정성, 구조) | Base Mana (기반) | 대지 형성, 요새화, 결정화 |
+| **Aeromancer** | Aeromana (자유, 이동) | Base Mana (거리) | 바람 제어, 소리 조작, 공중 부양 |
+| **Umbramancer** | Umbramana (은폐, 밀도) | Pyromana (소비) | 그림자 조작, 공허 생성, 에너지 흡수 |
+| **Luxomancer** | Luxmana (조명, 명확성) | Base Mana (정밀도) | 빛 창조, 환상, 진실 보기 |
 
-Mages typically achieve 70-90% specialization efficiency with their primary affinities, allowing for much deeper and more nuanced manipulation than other classes. This specialization reflects their dedicated study and natural affinity for magical arts.
+Mages는 일반적으로 주요 친화력에서 70-90%의 전문화 효율성을 달성하여 다른 클래스보다 훨씬 더 깊고 미묘한 조작이 가능합니다. 이러한 전문화는 마법 예술에 대한 헌신적인 연구와 자연스러운 친화력을 반영합니다.
 
-### Species-Specific Variations
+### 종별 변형
 
-Different species show varying natural inclinations toward the mage class:
+다른 종은 mage 클래스에 대한 다양한 자연적 경향을 보입니다.
 
-- **Humans** (15-30% Exanthis, 25-40% Soul, 40-55% Mana Capacity): Their adaptability allows them to excel in all magical traditions, though they require more dedicated study.
-- **Elves** (15-25% Exanthis, 30-45% Soul, 45-60% Mana Capacity): Their innate connection to magic makes them natural spellcasters, particularly in nature-related magic.
-- **Gnomes** (20-30% Exanthis, 35-45% Soul, 40-55% Mana Capacity): Their intellectual curiosity makes them exceptional theoretical magicians and innovators.
-- **Sylph** (10-20% Exanthis, 25-40% Soul, 50-65% Mana Capacity): Their elemental nature gives them unparalleled affinity for aeromancy.
-- **Dragonkin** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): Their ancestral connection to dragons grants them natural talent with pyromancy.
+- **Humans** (15-30% Exanthis, 25-40% Soul, 40-55% Mana Capacity): 그들의 적응력은 그들이 모든 마법 전통에서 탁월하게 수행할 수 있도록 하지만 더 헌신적인 연구가 필요합니다.
+- **Elves** (15-25% Exanthis, 30-45% Soul, 45-60% Mana Capacity): 마법과의 타고난 연결은 그들을 자연스러운 주문 시전자로 만들며, 특히 자연 관련 마법에서 그러합니다.
+- **Gnomes** (20-30% Exanthis, 35-45% Soul, 40-55% Mana Capacity): 그들의 지적 호기심은 그들을 뛰어난 이론적 마법사이자 혁신가로 만듭니다.
+- **Sylph** (10-20% Exanthis, 25-40% Soul, 50-65% Mana Capacity): 그들의 원소 본성은 그들에게 공기 마법에 대한 비할 데 없는 친화력을 부여합니다.
+- **Dragonkin** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): 용과의 조상 연결은 그들에게 화염 마법에 대한 자연스러운 재능을 부여합니다.
 
-## Physical Characteristics
+## 물리적 특징
 
-**Mages** are known for their magical focus and scholarly nature:
-- Slender build with graceful movements, like a conductor's precise gestures
-- Eyes that shimmer with inner light, showing their connection to [**Mana**](/codex/Basic/Mana.md)
-- Hands that have mastered the intricate gestures of spellcasting, like a musician who has perfected the art of the violin
-- Presence that exudes arcane power, like a powerful chord that resonates through a room
-- Stance that emphasizes focus and concentration, like a performer poised to begin a complex piece
+**Mages**는 마법에 대한 집중력과 학문적 성격으로 알려져 있습니다.
+- 지휘자의 정확한 제스처와 같은 우아한 움직임과 슬림한 체격
+- [**Mana**](/codex/Basic/Mana.md)와의 연결을 보여주는 내면의 빛으로 빛나는 눈
+- 바이올린 예술을 완성한 음악가처럼 주문 시전의 복잡한 제스처를 숙달한 손
+- 방 전체에 울려 퍼지는 강력한 화음과 같은 신비로운 힘을 발산하는 존재감
+- 복잡한 곡을 시작할 준비가 된 연주자처럼 집중력과 집중을 강조하는 자세
 
-## Magical Affinity
+## 마법 친화력
 
-**Mages** demonstrate exceptional proficiency in magical abilities, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Cast spells with extraordinary precision, like conductors leading an orchestra
-- Manipulate [**Mana**](/codex/Basic/Mana.md) with finesse and power, like artists painting with light and energy
-- Execute complex magical rituals with grace and efficiency, like dancers performing a magical ballet
+**Mages**는 악기를 숙달한 거장 음악가처럼 뛰어난 마법 능력 숙련도를 보여줍니다. 그들의 구성은 그들이 다음을 수행할 수 있도록 합니다.
+- 오케스트라를 이끄는 지휘자처럼 뛰어난 정밀도로 주문을 시전합니다.
+- 빛과 에너지로 그림을 그리는 예술가처럼 솜씨와 힘으로 [**Mana**](/codex/Basic/Mana.md)를 조작합니다.
+- 마법 발레를 공연하는 무용수처럼 우아함과 효율성으로 복잡한 마법 의식을 실행합니다.
 
-This specialization makes **mages** capable of achieving the highest levels of proficiency in their chosen magical disciplines, though they may struggle with tasks requiring physical strength or endurance, like a delicate instrument that produces beautiful sounds but cannot withstand physical stress.
+이 전문화는 **mages**가 선택한 마법 분야에서 최고 수준의 숙련도를 달성할 수 있도록 하지만, 아름다운 소리를 내지만 물리적 스트레스를 견딜 수 없는 섬세한 악기처럼 물리적 힘이나 지구력이 필요한 작업에는 어려움을 겪을 수 있습니다.
 
-## Training and Development
+## 훈련 및 개발
 
-The path of a **mage** involves rigorous magical study and mental discipline:
-- Daily spell practice and magical drills, like musicians practicing scales
-- Study of magical theory and spellcraft, like learning the theory behind musical composition
-- Meditation to develop focus and magical sensitivity, like finding the quiet center before a performance
-- Research into ancient magical texts and artifacts, like scholars studying the works of master composers
+**mage**의 길은 엄격한 마법 연구와 정신적 훈련을 포함합니다.
+- 음악가가 음계를 연습하는 것처럼 매일 주문 연습 및 마법 훈련
+- 음악 구성 이론을 배우는 것처럼 마법 이론 및 주문 제작 연구
+- 공연 전에 조용한 중심을 찾는 것처럼 집중력과 마법적 감수성을 개발하기 위한 명상
+- 마스터 작곡가의 작품을 연구하는 학자처럼 고대 마법 텍스트 및 유물에 대한 연구
 
-## Equipment and Gear
+## 장비 및 장비
 
-**Mages** rely on various magical equipment to enhance their spellcasting abilities:
-- Staves and wands that focus and amplify magical energy, like different instruments for different performances
-- Spellbooks and grimoires containing magical knowledge, like sheet music containing the notes of power
-- Magical accessories such as amulets, rings, and talismans, like accessories that enhance an instrument's capabilities
+**Mages**는 주문 시전 능력을 향상시키기 위해 다양한 마법 장비에 의존합니다.
+- 서로 다른 공연을 위한 서로 다른 악기처럼 마법 에너지를 집중시키고 증폭하는 지팡이 및 마법봉
+- 힘의 음표를 담고 있는 악보처럼 마법 지식을 담고 있는 주문책 및 마도서
+- 악기의 기능을 향상시키는 액세서리처럼 아뮬렛, 반지, 부적과 같은 마법 액세서리
 
-## Subclasses
+## 하위 클래스
 
-**Mages** can specialize in various magical disciplines and roles:
+**Mages**는 다양한 마법 분야와 역할로 전문화될 수 있습니다.
 
 ### [**Elementalist**](/codex/Classes/Mage/Elementalist.md)
 
-Elementalists focus on the manipulation of natural elements, emphasizing the control of fire, water, earth, and air. They excel at:
-- Channeling and directing elemental forces
-- Creating powerful elemental effects
-- Adapting to different elemental environments
+엘리멘탈리스트는 자연 원소의 조작에 집중하여 불, 물, 흙, 공기의 제어를 강조합니다. 그들은 다음에서 뛰어납니다.
+- 원소 힘을 전달하고 지시합니다.
+- 강력한 원소 효과를 만듭니다.
+- 다양한 원소 환경에 적응합니다.
 
 ### [**Necromancer**](/codex/Classes/Mage/Necromancer.md)
 
-Necromancers focus on death and soul magic, emphasizing the manipulation of life force and the undead. They excel at:
-- Communicating with and controlling the undead
-- Manipulating life force and soul energy
-- Performing rituals involving death and rebirth
+네크로맨서는 죽음과 영혼 마법에 집중하여 생명력과 언데드의 조작을 강조합니다. 그들은 다음에서 뛰어납니다.
+- 언데드와 소통하고 제어합니다.
+- 생명력과 영혼 에너지를 조작합니다.
+- 죽음과 부활에 관련된 의식을 수행합니다.
 
 ### [**Illusionist**](/codex/Classes/Mage/Illusionist.md)
 
-Illusionists focus on creating deceptive magical effects, emphasizing the manipulation of perception and reality. They excel at:
-- Creating convincing illusions and phantasms
-- Manipulating light and shadow
-- Deceiving the senses of others
+일루저니스트는 기만적인 마법 효과를 만드는 데 집중하여 지각과 현실의 조작을 강조합니다. 그들은 다음에서 뛰어납니다.
+- 설득력 있는 환상과 유령을 만듭니다.
+- 빛과 그림자를 조작합니다.
+- 다른 사람의 감각을 속입니다.
 
 ### [**Diviner**](/codex/Classes/Mage/Diviner.md)
 
-Diviners focus on seeking knowledge through magical means, emphasizing the discovery of hidden information. They excel at:
-- Scrying and remote viewing
-- Reading omens and portents
-- Predicting future events
+디바이너는 마법적 수단을 통해 지식을 추구하는 데 집중하여 숨겨진 정보를 발견하는 것을 강조합니다. 그들은 다음에서 뛰어납니다.
+- 스크라이잉 및 원격 보기
+- 징조와 전조를 읽습니다.
+- 미래의 사건을 예측합니다.
 
 ### [**Warlock**](/codex/Classes/Mage/Warlock.md)
 
-Warlocks focus on pacts with otherworldly entities, emphasizing the acquisition of power through bargains. They excel at:
-- Making deals with supernatural beings
-- Channeling the power of their patrons
-- Performing rituals involving otherworldly entities
+워록은 다른 세계의 존재와의 계약에 집중하여 거래를 통해 힘을 획득하는 것을 강조합니다. 그들은 다음에서 뛰어납니다.
+- 초자연적인 존재와 거래합니다.
+- 후원자의 힘을 전달합니다.
+- 다른 세계의 존재와 관련된 의식을 수행합니다.
 
-## Notable Mage Traits
+## 주목할 만한 Mage 특성
 
-- **Magical Mastery**: Mages excel in magical abilities, often specializing in specific schools of magic
-- **Knowledge Seeking**: Mages have a deep thirst for magical knowledge and understanding
-- **Analytical Mind**: Mages develop keen analytical abilities through magical study
-- **Arcane Sensitivity**: Mages are deeply attuned to the flow of magical energy
-- **Discipline**: Mages maintain rigorous study regimens to maintain their magical abilities
+- **마법 숙달**: Mages는 마법 능력에 뛰어나며 종종 특정 마법 학교를 전문으로 합니다.
+- **지식 추구**: Mages는 마법 지식과 이해에 대한 깊은 갈증을 가지고 있습니다.
+- **분석적 사고**: Mages는 마법 연구를 통해 예리한 분석 능력을 개발합니다.
+- **신비로운 감수성**: Mages는 마법 에너지 흐름에 깊이 조율되어 있습니다.
+- **훈련**: Mages는 마법 능력을 유지하기 위해 엄격한 연구 요법을 유지합니다.
 
-## Mage Traditions
+## Mage 전통
 
-Mage society is organized into numerous traditions, each with its own specialties and techniques:
+Mage 사회는 수많은 전통으로 조직되어 있으며, 각 전통은 고유한 전문 분야와 기술을 가지고 있습니다.
 
-| Tradition | Specialty | Territory | Notable Traits |
+| 전통 | 전문 분야 | 영역 | 주목할 만한 특징 |
 |---------|---------------|---------|-------------------|
-| **Arcane Scholars** | Magical research, spell development | Magical academies | Spell research, magical theory |
-| **Battle Mages** | Combat magic, battlefield control | Military units | Combat spells, battlefield control |
-| **Elemental Masters** | Elemental manipulation, natural forces | Elemental realms | Elemental control, environmental adaptation |
-| **Mystic Seekers** | Forbidden knowledge, hidden secrets | Secret libraries | Forbidden magic, hidden knowledge |
-| **Ritual Weavers** | Complex rituals, magical ceremonies | Ritual chambers | Ritual magic, ceremonial casting |
-| **Ward Crafters** | Protective magic, magical defenses | Defensive positions | Protective wards, magical barriers |
+| **Arcane Scholars** | 마법 연구, 주문 개발 | 마법 아카데미 | 주문 연구, 마법 이론 |
+| **Battle Mages** | 전투 마법, 전장 제어 | 군사 부대 | 전투 주문, 전장 제어 |
+| **Elemental Masters** | 원소 조작, 자연의 힘 | 원소 영역 | 원소 제어, 환경 적응 |
+| **Mystic Seekers** | 금지된 지식, 숨겨진 비밀 | 비밀 도서관 | 금지된 마법, 숨겨진 지식 |
+| **Ritual Weavers** | 복잡한 의식, 마법 의식 | 의식실 | 의식 마법, 의례 시전 |
+| **Ward Crafters** | 보호 마법, 마법 방어 | 방어 위치 | 보호 결계, 마법 장벽 |
 
-Understanding the nature of **mages** provides insight into the magical aspects of the world of **OpenFantasy**, like listening to the complex melodies that weave the symphony of magic. 
+**mages**의 본질을 이해하는 것은 마법 교향곡을 엮는 복잡한 멜로디를 듣는 것처럼 **OpenFantasy** 세계의 마법적 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

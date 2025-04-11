@@ -1,202 +1,205 @@
-# **Water Magic**: The Flow of Liquid and Vapor
+# **물 마법**: 액체와 증기의 흐름
 
-> *"Water does not resist; it flows. When it is blocked, it finds a new path. There is wisdom in water that even the most learned mage would do well to embrace."* — Archhydromancer Nerissa Tidesong
+> *"물은 저항하지 않는다; 흐를 뿐이다. 막히면 새로운 길을 찾는다. 가장 박식한 마법사조차 받아들여야 할 지혜가 물에는 있다."* — 대(大)수력마법사 네리사 타이드송
 
-## Quick Reference
-- [Properties of Hydromana](#properties-of-hydromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 빠른 참조
+- [하이드로마나의 속성](#하이드로마나의-속성)
+- [조작 기법](#조작-기법)
+- [일반적인 주문](#일반적인-주문)
+- [친화도 개발](#친화도-개발)
+- [위험 및 안전 장치](#위험-및-안전-장치)
+- [문화적 중요성](#문화적-중요성)
 
-## Properties of Hydromana
+## 하이드로마나의 속성
 
-Hydromana, the elemental mana of water, is characterized by:
+물의 원소 마나인 하이드로마나는 다음과 같은 특징을 갖는다.
 
-- **Appearance**: Flowing blues and cyans with silver highlights; translucent and reflective
-- **Sensation**: Feels cool, soothing, and fluid when channeled; creates a gentle pressure
-- **Resonance**: Medium-frequency, flowing vibration patterns with gentle oscillations
-- **Purification Challenge**: Absorbs impurities easily, requiring multiple filtration cycles; tends to carry and hold contamination
-- **Opposite Element**: Fire (creates steam when forced together, ultimately extinguishes fire)
-- **Complementary Elements**: Air (creates mist/fog), Death (creates ice)
-- **Musical Analogy**: Cello and flowing string instruments; sustained notes that rise and fall like waves
+- **외관**: 흐르는 듯한 청색과 청록색에 은색 하이라이트; 반투명하고 반사적임
+- **감각**: 채널링할 때 시원하고 부드러우며 유동적인 느낌; 부드러운 압력을 생성함
+- **공명**: 중간 주파수, 부드러운 진동과 함께 흐르는 진동 패턴
+- **정화 과제**: 불순물을 쉽게 흡수하여 여러 번의 여과 주기가 필요함; 오염 물질을 운반하고 유지하는 경향이 있음
+- **반대 원소**: 불 (억지로 합쳐지면 수증기를 생성하고 결국 불을 끔)
+- **상보적 원소**: 공기 (안개/흐림 생성), 죽음 (얼음 생성)
+- **음악적 비유**: 첼로 및 흐르는 듯한 현악기; 파도처럼 오르내리는 지속적인 음
 
-## Manipulation Techniques
+## 조작 기법
 
-### Basic Techniques
+### 기본 기법
 
-#### Aqueous Projection
-The foundational technique of directing and projecting water:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Manipulates existing water sources or draws moisture from the air
-- **Training Focus**: Flow control and directional precision
-- **Applications**: Moving water between containers, creating small currents, gathering scattered droplets
+#### 수성 투영
+물을 지시하고 투영하는 기본 기술:
+- **난이도**: 초보
+- **순도 요구 사항**: 기본 (15-25%)
+- **효과**: 기존 수원(水源)을 조작하거나 공기 중의 습기를 끌어모음
+- **훈련 초점**: 흐름 제어 및 방향 정밀도
+- **응용 분야**: 용기 간 물 이동, 작은 해류 생성, 흩어진 물방울 모으기
 
-#### State Transition
-Changing water between its three primary states:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (15-40%)
-- **Effect**: Transforms water between liquid, solid (ice), and gaseous (vapor) states
-- **Training Focus**: Temperature control and molecular arrangement
-- **Applications**: Creating ice shapes, generating mist, condensing water from humid air
+#### 상태 전이
+물의 세 가지 주요 상태 사이를 변경:
+- **난이도**: 초보 ~ 중급
+- **순도 요구 사항**: 기본 ~ 정제 (15-40%)
+- **효과**: 물을 액체, 고체 (얼음) 및 기체 (증기) 상태로 변환
+- **훈련 초점**: 온도 제어 및 분자 배열
+- **응용 분야**: 얼음 모양 만들기, 안개 생성, 습한 공기에서 물 응축
 
-#### Pressure Manipulation
-Controlling the pressure and force of water:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Increases or decreases water pressure and directional force
-- **Training Focus**: Force vectors and pressure gradients
-- **Applications**: Water jets, underwater breathing spheres, pressure reduction for deep diving
+#### 압력 조작
+물의 압력과 힘을 제어:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (30-45%)
+- **효과**: 수압 및 방향 힘을 증가 또는 감소시킴
+- **훈련 초점**: 힘 벡터 및 압력 구배
+- **응용 분야**: 워터 제트, 수중 호흡 구체, 심해 잠수를 위한 압력 감소
 
-### Advanced Techniques
+### 고급 기법
 
-#### Hydromantic Shaping
-Creating and maintaining complex water structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (40-75%)
-- **Effect**: Forms water into complex, self-sustaining shapes that maintain their form
-- **Training Focus**: Surface tension control and internal circulation
-- **Applications**: Water constructs, liquid barriers, floating water platforms
+#### 수력 형태 형성
+복잡한 물 구조 생성 및 유지:
+- **난이도**: 고급
+- **순도 요구 사항**: 정제 ~ 완벽 (40-75%)
+- **효과**: 물을 복잡하고 자립적인 모양으로 만들어 형태를 유지함
+- **훈련 초점**: 표면 장력 제어 및 내부 순환
+- **응용 분야**: 물 구조물, 액체 장벽, 떠 다니는 물 플랫폼
 
-#### Phased Hydromancy
-Simultaneous control of multiple water states:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Manipulates liquid, solid, and vapor forms of water simultaneously
-- **Training Focus**: Multiple-state awareness and transition boundaries
-- **Applications**: Mixed-state attacks, environmental control, complex illusions
+#### 위상 수력마법
+여러 물 상태의 동시 제어:
+- **난이도**: 전문가
+- **순도 요구 사항**: 완벽 (65-85%)
+- **효과**: 액체, 고체 및 증기 형태의 물을 동시에 조작
+- **훈련 초점**: 다중 상태 인식 및 전이 경계
+- **응용 분야**: 혼합 상태 공격, 환경 제어, 복잡한 환상
 
-#### Essence Extraction
-Drawing water from unlikely sources:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-90%)
-- **Effect**: Extracts water molecules from organic matter, minerals, or elemental compounds
-- **Training Focus**: Molecular separation and attraction
-- **Applications**: Survival in arid environments, purification, weakening waterlogged structures
+#### 본질 추출
+예상치 못한 출처에서 물을 끌어내기:
+- **난이도**: 달인
+- **순도 요구 사항**: 완벽 (70-90%)
+- **효과**: 유기물, 광물 또는 원소 화합물에서 물 분자를 추출
+- **훈련 초점**: 분자 분리 및 인력
+- **응용 분야**: 건조한 환경에서의 생존, 정화, 물에 잠긴 구조물 약화
 
-## Common Spells
+## 일반적인 주문
 
-### Novice Spells
+### 초보 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Water Stream** | Projects a continuous stream of water | Somatic, Source | 1 second | Concentration |
-| **Moisture Gathering** | Collects ambient humidity into usable water | Somatic, Verbal | 10 seconds | Instantaneous |
-| **Freeze Surface** | Creates a thin layer of ice on a water surface | Somatic, Water source | 3 seconds | 10 minutes |
-| **Fog Cloud** | Creates light mist in a small area | Somatic, Water source | 5 seconds | 5 minutes |
+| **물줄기** | 지속적인 물줄기를 투사 | 신체, 근원 | 1초 | 집중 |
+| **습기 모으기** | 주변 습도를 사용하여 사용 가능한 물로 모음 | 신체, 언어 | 10초 | 즉시 |
+| **표면 동결** | 수면 위에 얇은 얼음층 생성 | 신체, 수원 | 3초 | 10분 |
+| **안개 구름** | 작은 지역에 옅은 안개 생성 | 신체, 수원 | 5초 | 5분 |
 
-### Intermediate Spells
+### 중급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Waterbreathing** | Creates breathable water for underwater activity | Somatic, Verbal, Water | 30 seconds | 1 hour |
-| **Ice Barrier** | Forms a protective wall of ice | Somatic, Water source | 5 seconds | 30 minutes |
-| **Undercurrent** | Creates controlled movement in larger bodies of water | Somatic, Focus | 10 seconds | 15 minutes |
-| **Water Walking** | Allows walking on water surfaces | Somatic, Verbal | 5 seconds | 30 minutes |
+| **수중 호흡** | 수중 활동을 위해 호흡 가능한 물 생성 | 신체, 언어, 물 | 30초 | 1시간 |
+| **얼음 장벽** | 보호용 얼음 벽 형성 | 신체, 수원 | 5초 | 30분 |
+| **해류** | 더 큰 물줄기에서 제어된 움직임 생성 | 신체, 집중 | 10초 | 15분 |
+| **물 위 걷기** | 수면 위를 걸을 수 있게 함 | 신체, 언어 | 5초 | 30분 |
 
-### Advanced Spells
+### 고급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Tidal Surge** | Creates a powerful wave of concentrated force | Somatic, Verbal, Water | 10 seconds | Instantaneous |
-| **Hydromantic Construct** | Forms a semi-autonomous water creature | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Maelstrom** | Creates a vortex that pulls objects toward its center | Somatic, Verbal, Water | 30 seconds | 5 minutes |
-| **Winter's Grasp** | Flash-freezes a large volume of water or a target | Somatic, Verbal, Focus | 10 seconds | Varies |
+| **조수 급증** | 집중된 힘의 강력한 파도 생성 | 신체, 언어, 물 | 10초 | 즉시 |
+| **수력 구조물** | 반(半)자율적인 물 생물 형성 | 신체, 언어, 집중 | 1분 | 1시간 |
+| **회오리바람** | 물체를 중심으로 끌어들이는 소용돌이 생성 | 신체, 언어, 물 | 30초 | 5분 |
+| **겨울의 손아귀** | 큰 양의 물 또는 대상을 급속 냉동 | 신체, 언어, 집중 | 10초 | 다양함 |
 
-## Affinity Development
+## 친화도 개발
 
-Water affinity progresses through several distinctive stages:
+물 친화도는 몇 가지 뚜렷한 단계를 거쳐 발전한다.
 
-### Innate Connection
-The foundational relationship with water that most beginners possess:
-- **Manifestation**: Intuitive sense of water's presence, minor influence over small amounts
-- **Physical Signs**: Slightly dampened skin, attraction to water sources
-- **Enhancement Method**: Regular meditation near water sources, especially flowing water
+### 타고난 연결
+대부분의 초보자가 가지고 있는 물과의 기본적인 관계:
+- **발현**: 물의 존재에 대한 직관적인 감각, 소량의 물에 대한 약간의 영향력
+- **신체 징후**: 약간 축축한 피부, 수원에 대한 끌림
+- **강화 방법**: 특히 흐르는 물과 같은 수원 근처에서 정기적인 명상
 
-### Fluent Channeling
-The intermediate stage where water responds more readily to the mage's will:
-- **Manifestation**: Water moves with minimal effort, state changes occur easily
-- **Physical Signs**: Higher body fluid retention, bluish tint to fingernails when casting
-- **Enhancement Method**: Practicing in various water conditions (rain, rivers, oceans)
+### 유창한 채널링
+마법사의 의지에 물이 더 쉽게 반응하는 중간 단계:
+- **발현**: 물이 최소한의 노력으로 움직임, 상태 변화가 쉽게 발생
+- **신체 징후**: 더 높은 체액 저류, 시전 시 손톱에 푸르스름한 색조
+- **강화 방법**: 다양한 수역 조건 (비, 강, 바다)에서 연습
 
-### Tidal Harmony
-Advanced practitioners achieve a deep resonance with water's natural cycles:
-- **Manifestation**: Water seems to anticipate the mage's intentions, responds to emotional states
-- **Physical Signs**: Body temperature regulation mimics water, tears and sweat contain trace hydromana
-- **Enhancement Method**: Synchronizing magical practice with lunar cycles and tides
+### 조수의 조화
+숙련된 시전자들은 물의 자연 순환과 깊은 공명을 이룬다:
+- **발현**: 물이 마법사의 의도를 예상하는 듯 보임, 감정 상태에 반응
+- **신체 징후**: 체온 조절이 물을 모방함, 눈물과 땀에 미량의 하이드로마나 함유
+- **강화 방법**: 달의 주기와 조수와 마법 연습을 동기화
 
-### Oceanic Unity
-Master hydromancers who have achieved profound connection with water:
-- **Manifestation**: Partial transformation abilities, influence over bodies of water without direct contact
-- **Physical Signs**: Eyes reflect water's surface in strong light, blood has unusual flow patterns
-- **Enhancement Method**: Deep communion rituals at ley line intersections with water bodies
+### 해양의 통합
+물과의 깊은 연결을 이룬 숙달된 수력마법사:
+- **발현**: 부분적인 변형 능력, 직접적인 접촉 없이도 수역에 영향력 행사
+- **신체 징후**: 강한 빛에서 눈이 수면을 반사함, 혈액에 비정상적인 흐름 패턴이 나타남
+- **강화 방법**: 수역과의 레이 라인 교차점에서 깊은 교감 의식
 
-## Risks and Safeguards
+## 위험 및 안전 장치
 
-### Common Risks
+### 일반적인 위험
 
-- **Hydration Imbalance**: Drawing too much moisture from one's own body during casting
-- **Thermal Shock**: Rapid transitions between water states causing system strain
-- **Pressure Trauma**: Improper pressure manipulation damaging ears, sinuses, or lungs
-- **Drowning Resonance**: Creating breathable water with imperfect patterns, causing respiratory issues
-- **Ice Crystallization**: Improper freezing techniques causing tissue damage
+- **수분 불균형**: 시전 중 자신의 몸에서 너무 많은 수분을 끌어들이기
+- **열충격**: 물 상태 간의 급격한 전환으로 인한 시스템 부담
+- **압력 외상**: 부적절한 압력 조작으로 인한 귀, 부비강 또는 폐 손상
+- **익사 공명**: 불완전한 패턴으로 호흡 가능한 물을 만들어 호흡기 문제 발생
+- **얼음 결정화**: 부적절한 냉동 기술로 인한 조직 손상
 
-### Miscast Effects
+### 잘못 시전된 효과
 
-| Severity | Effect | Recovery |
+| 심각도 | 효과 | 회복 |
 |----------|--------|----------|
-| **Minor** | Temporary waterlogging of tissues, chills, excessive thirst | Hours |
-| **Moderate** | Impaired temperature regulation, mild hypothermia, internal moisture condensation | Days |
-| **Severe** | Fluid accumulation in lungs, dangerous body temperature drop, osmotic imbalance | Weeks |
-| **Critical** | Cellular crystallization, major osmotic shock, total hydration system failure | Months |
+| **경미** | 조직의 일시적인 물침수, 오한, 과도한 갈증 | 몇 시간 |
+| **중간** | 체온 조절 장애, 경미한 저체온증, 내부 수분 응축 | 며칠 |
+| **심각** | 폐에 액체 축적, 위험한 체온 저하, 삼투압 불균형 | 몇 주 |
+| **위기** | 세포 결정화, 주요 삼투압 충격, 전체 수분 시스템 고장 | 몇 달 |
 
-### Safety Practices
+### 안전 수칙
 
-- **Hydration Discipline**: Maintaining proper personal hydration before and after spellcasting
-- **Thermal Gradient Training**: Practicing gradual temperature transitions
-- **Pressure Equalization**: Regular breaks during underwater or pressure manipulation work
-- **Material Isolation**: Using external water sources rather than bodily fluids
-- **Seasonal Awareness**: Adjusting techniques based on environmental conditions
+- **수분 조절 훈련**: 주문 시전 전후에 적절한 개인 수분 섭취 유지
+- **열 기울기 훈련**: 점진적인 온도 전환 연습
+- **압력 균등화**: 수중 또는 압력 조작 작업 중 정기적인 휴식
+- **물질 격리**: 체액이 아닌 외부 수원 사용
+- **계절 인식**: 환경 조건에 따라 기술 조정
 
-## Cultural Significance
+## 문화적 중요성
 
-### Historical Development
+### 역사적 발전
 
-Water magic is among the oldest practiced forms of elemental manipulation, with evidence of organized techniques dating back to the earliest coastal civilizations. The development of water magic followed three distinct historical phases:
+물 마법은 가장 오래된 원소 조작 형태 중 하나이며, 조직화된 기술에 대한 증거는 초기 해안 문명으로 거슬러 올라간다. 물 마법의 발전은 세 가지 뚜렷한 역사적 단계를 거쳤다.
 
-1. **Survival Application**: Early tribal shamans using water-finding and purification techniques
-2. **Maritime Expansion**: Seafaring cultures developing navigation and weather prediction magic
-3. **Philosophical Refinement**: Formal academies exploring water's connections to life and transformation
+1. **생존 응용**: 물 찾기 및 정화 기술을 사용하는 초기 부족 샤먼
+2. **해상 확장**: 항해 및 날씨 예측 마법을 개발하는 해양 문화
+3. **철학적 개선**: 삶과 변형에 대한 물의 연관성을 탐구하는 공식 아카데미
 
-### Regional Variations
+### 지역적 변형
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 문화 | 초점 | 대표 기술 | 철학 |
 |---------|-------|---------------------|------------|
-| **Tidefolk** | Ocean manipulation, weather | Wave calling, storm sensing | Water as the eternal mother |
-| **Riverlands** | Flow and transport | Current shaping, river speaking | Water as the connector of realms |
-| **Northern Realms** | Ice and preservation | Crystalline structures, hibernation | Water as the keeper of memory |
-| **Desert Tribes** | Conservation and finding | Moisture extraction, dew gathering | Water as precious life essence |
+| **조수 부족** | 해양 조작, 날씨 | 파도 부르기, 폭풍 감지 | 영원한 어머니로서의 물 |
+| **강지대** | 흐름 및 운송 | 해류 형성, 강과의 대화 | 영역의 연결자로서의 물 |
+| **북부 지역** | 얼음 및 보존 | 결정 구조, 동면 | 기억의 수호자로서의 물 |
+| **사막 부족** | 보존 및 찾기 | 수분 추출, 이슬 모으기 | 소중한 생명 본질로서의 물 |
 
-### Ceremonial Uses
+### 의례적 사용
 
-Water magic features prominently in many cultural ceremonies:
-- **Purification Rituals**: Cleansing of spaces, objects, and people
-- **Coming-of-Age Ceremonies**: Young hydromancers demonstrating their first control
-- **Harvest Blessings**: Ensuring proper rainfall and crop irrigation
-- **Funerary Practices**: "Returning to the source" ceremonies for the deceased
+물 마법은 많은 문화 의례에서 두드러지게 나타난다:
+- **정화 의식**: 공간, 사물 및 사람의 정화
+- **성인식**: 어린 수력마법사가 처음으로 통제력을 보여주는 의식
+- **수확 축복**: 적절한 강우량 및 작물 관개 보장
+- **장례 관행**: 고인을 위한 "근원으로 돌아가기" 의식
 
-### Contemporary Applications
+### 현대적 응용
 
-Beyond combat and utility applications, water magic serves crucial societal functions:
-- **Agricultural Management**: Irrigation systems and crop hydration
-- **Urban Infrastructure**: Water purification and waste management
-- **Medical Practice**: Healing baths and hydration therapy
-- **Environmental Protection**: Watershed management and aquatic ecosystem balance
+전투 및 유틸리티 응용 외에도 물 마법은 중요한 사회적 기능을 수행한다.
+- **농업 관리**: 관개 시스템 및 작물 수분 공급
+- **도시 인프라**: 물 정화 및 폐기물 관리
+- **의료 행위**: 치유 목욕 및 수분 공급 요법
+- **환경 보호**: 유역 관리 및 수생 생태계 균형
 
-> *"The student of water learns not to overcome their obstacles, but to flow around them—a lesson that extends far beyond the casting circle."* — The Aquatic Meditations
+> *"물을 배우는 학생은 장애물을 극복하는 것이 아니라 장애물을 우회하는 법을 배운다. 이는 시전 마법진을 훨씬 뛰어넘는 교훈이다."* — 아쿠아 명상
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Weather Magic](/codex/Magics/Advanced/Combinations/WeatherMagic.md)*
+*참조 항목: [원소 마법](/codex/Magics/Elements/ElementalMagic.md), [불 마법](/codex/Magics/Elements/FireMagic.md), [날씨 마법](/codex/Magics/Advanced/Combinations/WeatherMagic.md)*
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

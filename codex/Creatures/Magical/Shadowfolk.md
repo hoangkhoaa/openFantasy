@@ -1,105 +1,109 @@
-# **Shadowfolk**: The Mysterious Dwellers of Darkness
+# **Shadowfolk**: 어둠의 신비로운 거주자
 
-[**Shadowfolk**](/codex/Creatures/Shadowfolk.md) are the mysterious dwellers of darkness, their bodies a shadowy harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a haunting bassoon, they resonate most strongly with the shadows and darkness, creating a unique melody of existence that bridges the light and dark realms.
+[**Shadowfolk**](/codex/Creatures/Shadowfolk.md)는 어둠의 신비로운 거주자이며, 그들의 몸은 [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md) 및 **Mana Capacity**의 그림자 조화입니다. 마치 잊혀지지 않는 바순처럼, 그들은 그림자와 어둠에 가장 강하게 공명하여 빛과 어둠의 영역을 잇는 독특한 존재의 멜로디를 만듭니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **shadowfolk** forms a harmony that favors magical potential:
+[Creatures](/codex/Creatures/Creatures.md)에 자세히 설명된 것처럼 **shadowfolk**의 일반적인 비율은 마법적 잠재력을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 30-50% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 30-50% | The bridge between worlds that enables significant magical potential |
+| **Exanthis** | 15-30% | 최소한의 물리적 강도와 내구성을 제공하는 결정질 심장 |
+| **Soul** | 30-50% | 유동적이고 적응 가능한 의식을 형성하는 에테르 본질 |
+| **Mana Capacity** | 30-50% | 상당한 마법적 잠재력을 가능하게 하는 세계 간의 다리 |
 
-This composition grants **shadowfolk** their characteristic shadowy abilities but typically limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+이러한 구성은 **shadowfolk**에게 그들의 특징적인 그림자 능력을 부여하지만 일반적으로 아름다운 소리를 내지만 조심스럽게 다뤄야 하는 섬세한 악기처럼 다른 종에 비해 물리적 탄력성을 제한합니다.
 
-### Individual Variations
+### 개별 변형
 
-While the model composition represents the typical shadowfolk, individual variations exist:
+모델 구성은 일반적인 shadowfolk을 나타내지만 개별 변형이 존재합니다.
 
-- **Void Walkers**: Some shadowfolk possess unusually high Mana Capacity (up to 60%) and low Exanthis (15%), allowing them to manipulate the very fabric of shadows and even travel between shadow realms.
-- **Shadow Blades**: A specialized variant with enhanced Exanthis levels (35%) serves as protectors and assassins, maintaining significant magical ability (35% Mana Capacity) while gaining physical prowess.
-- **Soul Seers**: Those with higher Soul percentages (up to 55%) develop extraordinary perception and wisdom, often becoming seers, prophets, or spiritual leaders who can glimpse truths hidden in darkness.
-- **Twilight Mediators**: Balanced shadowfolk (25% Exanthis, 40% Soul, 35% Mana Capacity) often serve as diplomats between shadowfolk clans and other species, having enough empathy to understand others while maintaining shadowy abilities.
-- **Darkness Shapers**: Specialized shadowfolk with composition of (20% Exanthis, 30% Soul, 50% Mana Capacity) are masters of shadow manipulation, able to create elaborate constructs and illusions from darkness itself.
+- **Void Walkers**: 일부 shadowfolk은 비정상적으로 높은 Mana Capacity (최대 60%)와 낮은 Exanthis (15%)를 보유하여 그림자의 구조를 조작하고 그림자 영역 사이를 이동할 수도 있습니다.
+- **Shadow Blades**: 향상된 Exanthis 수준 (35%)의 특수 변종은 보호자 및 암살자로 활동하여 상당한 마법 능력 (35% Mana Capacity)을 유지하면서 물리적 능력을 얻습니다.
+- **Soul Seers**: 더 높은 Soul 백분율 (최대 55%)을 가진 사람들은 특별한 지각력과 지혜를 개발하여 종종 어둠 속에 숨겨진 진실을 엿볼 수 있는 선견자, 예언자 또는 영적 지도자가 됩니다.
+- **Twilight Mediators**: 균형 잡힌 shadowfolk (25% Exanthis, 40% Soul, 35% Mana Capacity)은 종종 그림자 종족 클랜과 다른 종족 간의 외교관 역할을 하며, 다른 사람을 이해할 수 있는 충분한 공감을 가지면서 그림자 능력을 유지합니다.
+- **Darkness Shapers**: (20% Exanthis, 30% Soul, 50% Mana Capacity)의 구성을 가진 특수 shadowfolk은 그림자 조작의 달인으로 어둠 자체에서 정교한 구조물과 환상을 만들 수 있습니다.
 
-## Physical Characteristics
+## 물리적 특성
 
-**Shadowfolk** are known for their ethereal appearance and shadowy nature:
-- Tall and slender, with proportions that seem to defy reality
-- Eyes that glow with inner darkness, reflecting their connection to shadow magic
-- Skin that seems to absorb light, creating a shadowy aura around them
-- Hair that flows with an otherworldly grace, often in shades of black, purple, or deep blue
-- Ability to blend into shadows, making them difficult to see in low light
-- Presence that seems to dim the light around them, like a shadow passing over the sun
+**Shadowfolk**은 그들의 에테르 외모와 그림자 같은 본성으로 유명합니다.
+- 키가 크고 가늘며 현실을 거스르는 듯한 비율
+- 그림자 마법과의 연결을 반영하는 내면의 어둠으로 빛나는 눈
+- 빛을 흡수하여 주변에 그림자 기운을 만드는 피부
+- 종종 검은색, 보라색 또는 짙은 파란색 음영으로 다른 세상의 우아함으로 흐르는 머리카락
+- 그림자에 섞여 어두운 곳에서 보기 어렵게 만드는 능력
+- 마치 태양 위로 그림자가 지나가는 것처럼 주변의 빛을 흐리게 하는 존재감
 
-## Magical Affinity
+## 마법 친화력
 
-**Shadowfolk** demonstrate exceptional proficiency in shadow magic and stealth, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Manipulate shadows and darkness with extraordinary precision, like conductors of the night's symphony
-- Create illusions through the manipulation of light and shadow, like artists painting with darkness
-- Move silently and unseen through the shadows, like ghosts passing through the night
+**Shadowfolk**은 마치 악기를 마스터한 거장 음악가처럼 그림자 마법과 은신술에 뛰어난 숙련도를 보여줍니다. 그들의 구성은 그들이 다음을 수행할 수 있도록 합니다.
+- 밤의 교향곡의 지휘자처럼 그림자와 어둠을 매우 정밀하게 조작
+- 어둠으로 그림을 그리는 예술가처럼 빛과 그림자의 조작을 통해 환상 창조
+- 밤을 통과하는 유령처럼 그림자를 통해 소리 없이 보이지 않게 이동
 
-This specialization makes **shadowfolk** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+이러한 전문화는 **shadowfolk**이 선택한 마법 전통에서 최고 수준의 숙련도를 달성할 수 있게 해주지만 아름다운 소리를 내지만 거친 취급을 견딜 수 없는 섬세한 악기처럼 물리적 힘이나 탄력성이 필요한 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## 수명 및 영혼 부패
 
-The **soul decay** timeline for **shadowfolk**, from birth to complete decay, is approximately 600 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+**shadowfolk**의 탄생부터 완전한 부패까지의 **영혼 부패** 타임라인은 마치 시대를 밝히는 천천히 타는 불꽃처럼 약 600년입니다. 이 연장된 수명은 그들이 다음을 할 수 있도록 합니다.
+- 수 세기에 걸쳐 방대한 지식과 지혜를 축적
+- 특정 장소와 마법 전통에 대한 깊은 연결 개발
+- 복잡한 관습과 의식을 가진 복잡한 사회 형성
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+그러나 영혼 부패가 느리다는 것은 시대가 지나도 아름답지만 변하지 않는 멜로디처럼 다른 종보다 더 천천히 변하고 적응한다는 의미이기도 합니다.
 
-## Habitat and Distribution
+## 서식지 및 분포
 
-**Shadowfolk** primarily inhabit:
-- Dark forests and shadowy groves, where they can be closest to the shadows
-- Underground cities and caverns, where they can control the light
-- Magical realms where the boundaries between light and dark grow thin
-- Strategic locations that provide access to both light and shadow
+**Shadowfolk**은 주로 다음 장소에 거주합니다.
+- 그림자에 가장 가까이 다가갈 수 있는 어두운 숲과 그림자 수풀
+- 빛을 조절할 수 있는 지하 도시와 동굴
+- 빛과 어둠의 경계가 희미해지는 마법 영역
+- 빛과 그림자에 모두 접근할 수 있는 전략적 위치
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+이러한 위치는 교향곡을 위한 완벽한 음향처럼 마법 연구와 영적 명상을 위한 이상적인 환경을 제공합니다.
 
-## Cultural Impact
+## 문화적 영향
 
-In the world of **OpenFantasy**, **shadowfolk** play a crucial role in preserving ancient magical traditions and maintaining the balance between light and dark, like weavers of shadowy melodies. Their societies are centers of:
-- Shadow magic and stealth techniques
-- Philosophical contemplation and spiritual wisdom
-- Artistic expression and aesthetic refinement
+**OpenFantasy** 세계에서 **shadowfolk**은 그림자 멜로디의 직조공처럼 고대 마법 전통을 보존하고 빛과 어둠의 균형을 유지하는 데 중요한 역할을 합니다. 그들의 사회는 다음의 중심지입니다.
+- 그림자 마법 및 은신술 기술
+- 철학적 명상 및 영적 지혜
+- 예술적 표현 및 미적 세련미
 
-The connection to shadows has shaped shadowfolk culture around the study and mastery of darkness, creating a society where magical ability and wisdom are highly valued.
+그림자와의 연결은 어둠의 연구와 숙달을 중심으로 그림자 민족 문화를 형성하여 마법 능력과 지혜가 높이 평가되는 사회를 만들었습니다.
 
-## Relationship with Other Species
+## 다른 종과의 관계
 
-**Shadowfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and caution, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for magic and wisdom
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Fae**: A wary relationship, as shadowfolk are less susceptible to fae enchantments
+**Shadowfolk**은 다른 종과 복잡한 관계를 유지합니다.
+- [**Humans**](/codex/Creatures/Human.md)와 함께: 매혹과 경계심이 섞여 있어 종종 복잡한 상호 작용으로 이어집니다.
+- **Elves**와 함께: 마법과 지혜에 대한 공유된 감상에 기반한 깊은 연결
+- **Dwarves**와 함께: 그들의 솜씨를 인정하지만 그들의 방식을 이상하게 여기는 존중하는 거리
+- **Fae**와 함께: 그림자 종족은 페이 마법에 덜 민감하기 때문에 경계하는 관계
 
-These relationships are often characterized by a sense of cultural superiority, as **shadowfolk** view themselves as the true children of darkness and wisdom.
+이러한 관계는 종종 **shadowfolk**이 자신을 어둠과 지혜의 진정한 자녀로 여기기 때문에 문화적 우월감으로 특징지어집니다.
 
-## Notable Shadowfolk Traits
+## 주목할 만한 Shadowfolk 특징
 
-- **Shadow Manipulation**: Shadowfolk excel in controlling and manipulating shadows and darkness
-- **Stealth Abilities**: Shadowfolk can move silently and unseen through the shadows
-- **Wisdom**: Shadowfolk possess deep knowledge and understanding of the mysteries of the universe
-- **Artistic Expression**: Shadowfolk have developed highly refined artistic and cultural traditions
-- **Philosophical Contemplation**: Shadowfolk place great emphasis on understanding the nature of existence
+- **Shadow Manipulation**: Shadowfolk은 그림자와 어둠을 제어하고 조작하는 데 능숙합니다.
+- **Stealth Abilities**: Shadowfolk은 그림자를 통해 소리 없이 보이지 않게 움직일 수 있습니다.
+- **Wisdom**: Shadowfolk은 우주의 신비에 대한 깊은 지식과 이해를 가지고 있습니다.
+- **Artistic Expression**: Shadowfolk은 고도로 세련된 예술적 및 문화적 전통을 개발했습니다.
+- **Philosophical Contemplation**: Shadowfolk은 존재의 본질을 이해하는 데 큰 중요성을 둡니다.
 
-## Shadowfolk Clans
+## Shadowfolk 클랜
 
-Shadowfolk society is organized into numerous clans, each with its own specialties and traditions:
+Shadowfolk 사회는 각각 고유한 전문 분야와 전통을 가진 수많은 클랜으로 구성됩니다.
 
-| Clan | Specialty | Territory | Notable Traits |
+| 클랜 | 전문 분야 | 영토 | 주목할 만한 특징 |
 |---------|---------------|---------|-------------------|
-| **Shadowweavers** | Shadow magic, illusion | Dark forests | Illusion abilities, shadow manipulation |
-| **Nightwalkers** | Stealth, assassination | Underground cities | Stealth abilities, assassination techniques |
-| **Darkphilosophers** | Knowledge, wisdom | Ancient libraries | Philosophical wisdom, ancient knowledge |
-| **Voidcallers** | Void magic, teleportation | Magical realms | Teleportation abilities, void manipulation |
-| **Twilightseekers** | Balance, harmony | Border regions | Balance magic, harmony techniques |
-| **Shadowartists** | Art, beauty | Artistic districts | Artistic abilities, aesthetic refinement |
+| **Shadowweavers** | 그림자 마법, 환상 | 어두운 숲 | 환상 능력, 그림자 조작 |
+| **Nightwalkers** | 은신, 암살 | 지하 도시 | 은신 능력, 암살 기술 |
+| **Darkphilosophers** | 지식, 지혜 | 고대 도서관 | 철학적 지혜, 고대 지식 |
+| **Voidcallers** | 공허 마법, 순간 이동 | 마법 영역 | 순간 이동 능력, 공허 조작 |
+| **Twilightseekers** | 균형, 조화 | 국경 지역 | 균형 마법, 조화 기술 |
+| **Shadowartists** | 예술, 아름다움 | 예술 지구 | 예술 능력, 미적 세련미 |
 
-Understanding the nature of **shadowfolk** provides insight into the shadowy aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the darkness. 
+**shadowfolk**의 본성을 이해하는 것은 마치 어둠 속에서 울려 퍼지는 잊혀지지 않는 멜로디를 듣는 것처럼 **OpenFantasy** 세계의 그림자 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

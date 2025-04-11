@@ -1,176 +1,179 @@
-# OpenFantasy Creatures
+# OpenFantasy 생물
 
-> *"The living symphony of creation is composed of countless beings, each playing their unique melody in the grand orchestra of existence."*
+> *"창조의 살아있는 교향곡은 수많은 존재들로 구성되어 있으며, 각 존재는 존재의 웅장한 오케스트라에서 자신만의 독특한 멜로디를 연주합니다."*
 
-## Quick Navigation
+## 빠른 탐색
 
-- [Elemental Components](#elemental-components)
-- [Composition-Based Classification](#composition-based-classification)
-- [Individual Variations](#individual-variations)
-- [Creature Categories](#creature-categories)
-- [Magical Origins](#magical-origins)
-- [Enhancement Methods](#enhancement-methods)
+- [원소 구성 요소](#원소-구성-요소)
+- [구성 기반 분류](#구성-기반-분류)
+- [개별 변형](#개별-변형)
+- [생물 범주](#생물-범주)
+- [마법적 기원](#마법적-기원)
+- [강화 방법](#강화-방법)
 
-## Overview
+## 개요
 
-All creatures in OpenFantasy are composed of three elemental components in varying ratios: [**Exanthis**](/codex/Basic/Exanthis.md) (physical form), [**Soul**](/codex/Basic/Soul.md) (consciousness and willpower), and **Mana Capacity** (ability to manipulate [**Mana**](/codex/Basic/Mana.md)). These ratios determine their abilities, strengths, and weaknesses.
+OpenFantasy의 모든 생물은 다양한 비율의 세 가지 원소 구성 요소로 구성됩니다: [**Exanthis**](/codex/Basic/Exanthis.md) (물리적 형태), [**영혼**](/codex/Basic/Soul.md) (의식 및 의지력), 그리고 **마나 용량** ([**마나**](/codex/Basic/Mana.md)를 조작하는 능력). 이러한 비율은 능력, 강점 및 약점을 결정합니다.
 
-Different categories of beings—from sentient species to plants, from animals to monsters—each exhibit distinctive elemental compositions that influence their place in the world's ecology and society.
+지각 있는 종부터 식물, 동물부터 몬스터까지 다양한 존재 범주는 각각 세계의 생태와 사회에서 자신의 위치에 영향을 미치는 독특한 원소 구성을 나타냅니다.
 
-## Elemental Components
+## 원소 구성 요소
 
-Each living being's composition can be understood through the proportion of three fundamental components:
+각 살아있는 존재의 구성은 세 가지 기본 구성 요소의 비율을 통해 이해할 수 있습니다:
 
-| Component | Description | Metaphor |
+| 구성 요소 | 설명 | 비유 |
 |-----------|-------------|----------|
-| **Exanthis (E)** | Physical foundation providing structure and form | The body of an instrument |
-| **Soul (S)** | Spark of consciousness providing will and identity | The musician who plays the instrument |
-| **Mana Capacity (M)** | Bridge between worlds determining magical ability | The harmonies that weave everything together |
+| **Exanthis (E)** | 구조와 형태를 제공하는 물리적 토대 | 악기의 몸체 |
+| **영혼 (S)** | 의지의 불꽃을 제공하는 의식의 불꽃 | 악기를 연주하는 음악가 |
+| **마나 용량 (M)** | 마법 능력을 결정하는 세계 간의 다리 | 모든 것을 함께 엮는 화음 |
 
-### Component Effects
+### 구성 요소 효과
 
-| Component | Advantages | Limitations |
+| 구성 요소 | 장점 | 제한 사항 |
 |-----------|------------|-------------|
-| **Exanthis** | Greater physical strength, endurance, and durability | Reduced magical potential due to magnetic interference with Mana |
-| **Soul** | Enhanced consciousness, willpower, and identity | Accelerated soul decay resulting in shorter lifespans |
-| **Mana Capacity** | Higher purity and control of Mana | May result in physical frailty due to lower Exanthis |
+| **Exanthis** | 더 큰 물리적 힘, 지구력 및 내구성 | 마나와의 자기 간섭으로 인한 마법 잠재력 감소 |
+| **영혼** | 향상된 의식, 의지력 및 정체성 | 수명 단축으로 이어지는 가속화된 영혼 붕괴 |
+| **마나 용량** | 더 높은 순도와 마나 제어 | Exanthis 감소로 인한 신체적 허약 초래 가능성 |
 
-## Composition-Based Classification
+## 구성 기반 분류
 
-Creatures in OpenFantasy are classified by their elemental composition and magical nature, rather than traditional biological taxonomies:
+OpenFantasy의 생물은 전통적인 생물학적 분류법이 아닌 원소 구성과 마법적 본성에 따라 분류됩니다:
 
-| Category | Exanthis | Soul | Mana | Examples |
+| 범주 | Exanthis | 영혼 | 마나 | 예시 |
 |----------|----------|------|------|----------|
-| **Physical Dominant** | 50%+ | Varied | <25% | Dwarves, Giants, Most Animals |
-| **Soul Dominant** | <40% | 40%+ | <40% | Some Humans, Sirens, Gnomes |
-| **Mana Dominant** | <30% | <40% | 50%+ | Elves, Fae, Elementals |
-| **Balanced** | 20-50% | 20-50% | 20-50% | Humans, Some Beastfolk, Hybrid Species |
+| **물리적 우세** | 50%+ | 다양함 | <25% | 드워프, 거인, 대부분의 동물 |
+| **영혼 우세** | <40% | 40%+ | <40% | 일부 인간, 세이렌, 노움 |
+| **마나 우세** | <30% | <40% | 50%+ | 엘프, 페이, 정령 |
+| **균형** | 20-50% | 20-50% | 20-50% | 인간, 일부 수인, 혼합 종 |
 
-## Individual Variations
+## 개별 변형
 
-Within each species, individuals exhibit unique variations in their elemental composition, resulting in diverse abilities, temperaments, and aptitudes. These variations are influenced by:
+각 종 내에서 개별 개체는 원소 구성에 독특한 변형을 나타내어 다양한 능력, 기질 및 적성을 초래합니다. 이러한 변형은 다음의 영향을 받습니다:
 
-- **Heredity**: Traits passed down through ancestral lines
-- **Environment**: Environmental conditions during formative years
-- **Life Experiences**: Significant events that alter elemental balance
-- **Personal Development**: Intentional cultivation of specific elements
+- **유전**: 조상 대대로 전해지는 특성
+- **환경**: 형성기 동안의 환경 조건
+- **삶의 경험**: 원소 균형을 바꾸는 중요한 사건
+- **개인적 발전**: 특정 원소의 의도적인 배양
 
-## Creature Categories
+## 생물 범주
 
-The world of OpenFantasy features diverse beings organized into six primary categories:
+OpenFantasy 세계는 여섯 가지 주요 범주로 구성된 다양한 존재를 특징으로 합니다:
 
-### Sentient Species
+### 지각 있는 종
 
-Intelligent beings capable of forming civilizations, creating culture, and wielding magic through conscious effort:
+의식적인 노력을 통해 문명을 형성하고, 문화를 창조하고, 마법을 휘두를 수 있는 지능적인 존재:
 
-| Species | Elemental Composition | Notable Traits |
+| 종 | 원소 구성 | 주목할만한 특징 |
 |---------|----------------------|----------------|
-| [**Humans**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | Adaptability, innovation, balanced capabilities |
-| [**Elves**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | Longevity, magical aptitude, connection to nature |
-| [**Dwarves**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | Physical resilience, craftsmanship, underground mastery |
-| [**Beastfolk**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | Animal traits, heightened senses, natural instincts |
+| [**인간**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | 적응력, 혁신, 균형 잡힌 능력 |
+| [**엘프**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | 장수, 마법 적성, 자연과의 연결 |
+| [**드워프**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | 물리적 탄력성, 장인 정신, 지하 숙달 |
+| [**수인**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | 동물적 특징, 고조된 감각, 자연적 본능 |
 
-→ See [Sentient Species](/codex/Creatures/Sentient/README.md) for more detailed information.
+→ 자세한 내용은 [지각 있는 종](/codex/Creatures/Sentient/README.md)을 참조하십시오.
 
-### Magical Beings
+### 마법적 존재
 
-Creatures composed primarily of magical energy or created through magical processes:
+주로 마법 에너지로 구성되거나 마법적 과정을 통해 창조된 생물:
 
-| Being | Elemental Composition | Notable Traits |
+| 존재 | 원소 구성 | 주목할만한 특징 |
 |-------|----------------------|----------------|
-| [**Fae**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | Ethereal nature, reality manipulation, otherworldly |
-| [**Elementals**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | Embodiment of natural forces, pure magical essence |
-| [**Dragonkin**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | Ancient lineage, elemental affinity, natural power |
-| [**Golems**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | Constructed bodies, artificial souls, purpose-bound |
+| [**페이**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | 에테르적 본성, 현실 조작, 불가사의함 |
+| [**정령**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | 자연력의 구현, 순수한 마법적 본질 |
+| [**드래곤킨**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | 고대 혈통, 원소 친화력, 자연적인 힘 |
+| [**골렘**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | 구성된 몸, 인공 영혼, 목적에 묶임 |
 
-→ See [Magical Beings](/codex/Creatures/Magical/README.md) for more detailed information.
+→ 자세한 내용은 [마법적 존재](/codex/Creatures/Magical/README.md)를 참조하십시오.
 
-### Animals
+### 동물
 
-Non-sentient fauna with varying degrees of intelligence and magical affinity:
+다양한 정도의 지능과 마법적 친화력을 가진 비지각적 동물:
 
-| Category | Elemental Composition | Notable Traits |
+| 범주 | 원소 구성 | 주목할만한 특징 |
 |----------|----------------------|----------------|
-| [**Domesticated**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | Human-influenced evolution, trainability |
-| [**Wild**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | Natural instincts, ecological adaptations |
-| [**Aquatic**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | Water adaptation, specialized physiologies |
-| [**Magical**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | Innate magical abilities, supernatural traits |
+| [**가축화**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | 인간의 영향을 받은 진화, 훈련 가능성 |
+| [**야생**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | 자연적 본능, 생태적 적응 |
+| [**수생**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | 물 적응, 전문화된 생리 |
+| [**마법적**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | 타고난 마법 능력, 초자연적 특성 |
 
-→ See [Animals](/codex/Creatures/Animals/README.md) for more detailed information.
+→ 자세한 내용은 [동물](/codex/Creatures/Animals/README.md)을 참조하십시오.
 
-### Monsters
+### 몬스터
 
-Dangerous or unnatural creatures that exist outside the normal ecological balance:
+정상적인 생태 균형 밖에 존재하는 위험하거나 부자연스러운 생물:
 
-| Category | Elemental Composition | Notable Traits |
+| 범주 | 원소 구성 | 주목할만한 특징 |
 |----------|----------------------|----------------|
-| [**Aberrations**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | Unnatural anatomy, reality-warping properties |
-| [**Undead**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | Death-defying, necromantic energy, soul disruption |
-| [**Corrupted**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | Twisted forms, magical contamination, unstable |
-| [**Giants**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | Enormous size, primal strength, elemental connections |
+| [**기형**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | 부자연스러운 해부학, 현실 왜곡 속성 |
+| [**언데드**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | 죽음을 거스르는, 강령술 에너지, 영혼 붕괴 |
+| [**타락**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | 뒤틀린 형태, 마법 오염, 불안정 |
+| [**거인**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | 거대한 크기, 원초적인 힘, 원소 연결 |
 
-→ See [Monsters](/codex/Creatures/Monsters/README.md) for more detailed information.
+→ 자세한 내용은 [몬스터](/codex/Creatures/Monsters/README.md)를 참조하십시오.
 
-### Plants
+### 식물
 
-Flora with unique properties, both magical and mundane:
+마법적이고 평범한 독특한 속성을 가진 식물상:
 
-| Category | Elemental Composition | Notable Traits |
+| 범주 | 원소 구성 | 주목할만한 특징 |
 |----------|----------------------|----------------|
-| [**Mundane**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | Basic flora, ecological foundation |
-| [**Medicinal**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | Healing properties, biological potency |
-| [**Magical**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | Spell components, energy manipulation |
-| [**Sentient**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | Consciousness, mobility, communication |
+| [**평범한**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | 기본 식물상, 생태적 토대 |
+| [**약용**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | 치유 속성, 생물학적 효능 |
+| [**마법적**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | 주문 구성 요소, 에너지 조작 |
+| [**지각적**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | 의식, 이동성, 의사 소통 |
 
-→ See [Plants](/codex/Creatures/Plants/README.md) for more detailed information.
+→ 자세한 내용은 [식물](/codex/Creatures/Plants/README.md)을 참조하십시오.
 
-### Hybrid Beings
+### 혼합 존재
 
-Creatures that bridge multiple categories through unique physiologies:
+독특한 생리를 통해 여러 범주를 연결하는 생물:
 
-| Being | Elemental Composition | Notable Traits |
+| 존재 | 원소 구성 | 주목할만한 특징 |
 |-------|----------------------|----------------|
-| [**Centaurs**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | Horse-human hybrid, nature wisdom, stamina |
-| [**Merfolk**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | Aquatic adaptation, water magic, dual environment |
-| [**Sirens**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | Sound manipulation, emotional influence, beauty |
+| [**켄타우로스**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | 말-인간 혼합, 자연 지혜, 지구력 |
+| [**인어**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | 수생 적응, 물 마법, 이중 환경 |
+| [**세이렌**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | 소리 조작, 감정적 영향, 아름다움 |
 
-→ See [Hybrid Beings](/codex/Creatures/Hybrid/README.md) for more detailed information.
+→ 자세한 내용은 [혼합 존재](/codex/Creatures/Hybrid/README.md)를 참조하십시오.
 
-## Magical Origins
+## 마법적 기원
 
-The diverse beings of OpenFantasy have various origins that influence their nature and abilities:
+OpenFantasy의 다양한 존재는 자신의 본성과 능력에 영향을 미치는 다양한 기원을 가지고 있습니다:
 
-- **Primal Species**: Evolved naturally (Humans, Mundane Animals, Wild Plants)
-- **Fae-Touched**: Influenced by fae realms (Elves, Dark Elves, Certain Plants)
-- **Elemental-Infused**: Imbued with elemental power (Giants, Dragonkin, Elemental Flora)
-- **Constructed**: Artificially created (Golems, Certain Undead, Magical Hybrids)
-- **Transformed**: Changed from one form to another (Shadowfolk, Corrupted Beings)
+- **원시 종**: 자연적으로 진화 (인간, 평범한 동물, 야생 식물)
+- **페이-터치드**: 페이 영역의 영향을 받음 (엘프, 다크 엘프, 특정 식물)
+- **원소-주입**: 원소의 힘으로 주입 (거인, 드래곤킨, 원소 식물상)
+- **구성됨**: 인위적으로 창조 (골렘, 특정 언데드, 마법 혼합)
+- **변형됨**: 한 형태에서 다른 형태로 변경 (섀도우 포크, 타락한 존재)
 
-## Enhancement Methods
+## 강화 방법
 
-Various methods exist for beings to enhance specific aspects of their elemental composition:
+존재가 원소 구성의 특정 측면을 강화하기 위한 다양한 방법이 존재합니다:
 
-| Method | Enhances | Description |
+| 방법 | 강화 | 설명 |
 |--------|----------|-------------|
-| **Physical Training** | Exanthis | Increases effective Exanthis utilization through disciplined exercise |
-| **Meditation and Will Work** | Soul | Strengthens Soul connection through focused introspection |
-| **Mana Reservoir Expansion** | Mana Capacity | Enhances ability to store and purify Mana through magical exposure |
-| **Harmonization Techniques** | Balance | Improves the integration between elemental components |
-| **Environmental Attunement** | Varies | Adapts composition through prolonged exposure to specific environments |
+| **물리적 훈련** | Exanthis | 규율 있는 운동을 통해 효과적인 Exanthis 활용 증가 |
+| **명상 및 의지 작업** | 영혼 | 집중적인 자기 성찰을 통해 영혼 연결 강화 |
+| **마나 저장소 확장** | 마나 용량 | 마법 노출을 통해 마나를 저장하고 정화하는 능력 강화 |
+| **조화 기술** | 균형 | 원소 구성 요소 간의 통합 개선 |
+| **환경 조율** | 다양함 | 특정 환경에 장기간 노출을 통해 구성 적응 |
 
-## Regional Ecosystems
+## 지역 생태계
 
-Creatures tend to form complex ecological relationships within distinct regions:
+생물은 뚜렷한 지역 내에서 복잡한 생태적 관계를 형성하는 경향이 있습니다:
 
-| Region | Dominant Creatures | Ecological Features |
+| 지역 | 우세한 생물 | 생태적 특징 |
 |--------|-------------------|---------------------|
-| **Ancient Forests** | Elves, Fae, Sentient Plants | Magical symbiosis, layered habitats |
-| **Mountain Realms** | Dwarves, Giants, Stone-based Elementals | Mineral integration, vertical ecosystems |
-| **Coastal Regions** | Merfolk, Aquatic Animals, Sirens | Land-water transition zones |
-| **Wild Plains** | Humans, Beastfolk, Centaurs | Migratory patterns, seasonal variations |
-| **Shadow Lands** | Dark Elves, Shadowfolk, Void Creatures | Light-deficient adaptations, shadow energy |
-| **Magical Nexuses** | Elementals, Aberrations, Magical Plants | Energy saturation, reality distortion |
+| **고대 숲** | 엘프, 페이, 지각 있는 식물 | 마법적 공생, 층층이 쌓인 서식지 |
+| **산악 영역** | 드워프, 거인, 돌 기반 정령 | 광물 통합, 수직 생태계 |
+| **해안 지역** | 인어, 수생 동물, 세이렌 | 육지-물 전환 구역 |
+| **야생 평원** | 인간, 수인, 켄타우로스 | 이동 패턴, 계절적 변동 |
+| **그림자 땅** | 다크 엘프, 섀도우 포크, 공허 생물 | 빛 결핍 적응, 그림자 에너지 |
+| **마법적 연결체** | 정령, 기형, 마법 식물 | 에너지 포화, 현실 왜곡 |
 
 ---
 
-> Understanding these creatures and their elemental compositions provides insight into the diverse tapestry of life in OpenFantasy, like appreciating the various instruments that make up a grand orchestra, each contributing its unique voice to the symphony of existence. 
+> 이러한 생물과 그들의 원소 구성을 이해하면 OpenFantasy 삶의 다양한 태피스트리에 대한 통찰력을 얻을 수 있습니다. 마치 웅장한 오케스트라를 구성하는 다양한 악기를 감상하는 것처럼 각 악기는 존재의 교향곡에 독특한 목소리를 기여합니다.
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

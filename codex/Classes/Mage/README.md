@@ -1,83 +1,87 @@
-# Mage Class
+# 마법사 클래스
 
-> *"A mage sees the world not as it is, but as a symphony of patterns waiting to be conducted."*
+> *"마법사는 세상을 있는 그대로 보지 않고, 지휘되기를 기다리는 패턴의 교향곡으로 본다."*
 
-## Quick Navigation
+## 빠른 탐색
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Mage](#playing-a-mage)
-- [Notable Traits](#notable-traits)
+- [개요](#overview)
+- [클래스 구성](#class-composition)
+- [서브클래스](#subclasses)
+- [마법사 플레이](#playing-a-mage)
+- [주목할 만한 특징](#notable-traits)
 
-## Overview
+## 개요
 
-Mages are the weavers of arcane power, channeling their exceptional **Mana Capacity** to manipulate the fabric of reality through spellcasting. Like conductors orchestrating the elements, they shape magical energies with precision and purpose.
+마법사는 뛰어난 **마나 용량**을 활용하여 주문 시전을 통해 현실의 구조를 조작하는 신비로운 힘의 직조공입니다. 마치 원소를 지휘하는 지휘자처럼, 그들은 정밀하고 목적에 맞게 마법 에너지를 형성합니다.
 
-## Class Composition
+## 클래스 구성
 
-| Element | Typical Range | Function |
+| 요소 | 일반적인 범위 | 기능 |
 |---------|---------------|----------|
-| **Exanthis** | 10-30% | Physical foundation with limited strength and durability |
-| **Soul** | 20-40% | Consciousness that enables focused and analytical thinking |
-| **Mana Capacity** | 40-70% | Exceptional magical potential and channeling ability |
+| **Exanthis** | 10-30% | 제한된 힘과 내구성을 가진 물리적 기반 |
+| **Soul** | 20-40% | 집중적이고 분석적인 사고를 가능하게 하는 의식 |
+| **Mana Capacity** | 40-70% | 뛰어난 마법 잠재력 및 채널링 능력 |
 
-This elemental balance grants mages their characteristic magical prowess while limiting their physical capabilities.
+이러한 요소의 균형은 마법사에게 특징적인 마법 능력을 부여하는 동시에 물리적 능력을 제한합니다.
 
-## Subclasses
+## 서브클래스
 
-Mages can specialize in several distinct magical disciplines:
+마법사는 여러 가지 뚜렷한 마법 분야를 전문으로 할 수 있습니다.
 
-| Subclass | Focus | Specialty |
+| 서브클래스 | 집중 | 전문 분야 |
 |----------|-------|-----------|
-| [**Elementalist**](Elementalist.md) | Elemental manipulation | Controlling fire, water, earth, and air |
-| [**Necromancer**](Necromancer.md) | Death and soul magic | Communicating with and controlling the undead |
-| [**Illusionist**](Illusionist.md) | Perception manipulation | Creating deceptive magical effects |
-| [**Diviner**](Diviner.md) | Knowledge acquisition | Seeking hidden information through magical means |
-| [**Warlock**](Warlock.md) | Pact-based magic | Channeling power from otherworldly patrons |
+| [**Elementalist**](Elementalist.md) | 원소 조작 | 불, 물, 땅, 공기 제어 |
+| [**Necromancer**](Necromancer.md) | 죽음과 영혼 마법 | 언데드와 소통하고 제어 |
+| [**Illusionist**](Illusionist.md) | 지각 조작 | 기만적인 마법 효과 생성 |
+| [**Diviner**](Diviner.md) | 지식 습득 | 마법적 수단을 통해 숨겨진 정보 탐색 |
+| [**Warlock**](Warlock.md) | 계약 기반 마법 | 다른 세계의 후원자로부터 힘을 얻음 |
 
-## Playing a Mage
+## 마법사 플레이
 
-### Core Abilities
+### 핵심 능력
 
-- **Spellcasting**: Access to a wide variety of arcane spells
-- **Mana Manipulation**: Precise control over magical energies
-- **Magical Knowledge**: Extensive understanding of arcane principles
-- **Ritual Casting**: Ability to perform complex magical ceremonies
+- **주문 시전**: 다양한 신비로운 주문에 대한 접근
+- **마나 조작**: 마법 에너지에 대한 정확한 제어
+- **마법 지식**: 신비로운 원리에 대한 광범위한 이해
+- **의식 시전**: 복잡한 마법 의식을 수행하는 능력
 
-### Common Equipment
+### 일반적인 장비
 
-- **Staff/Wand**: Focuses magical energy for more precise spellcasting
-- **Spellbook**: Contains magical knowledge and spell patterns
-- **Magical Accessories**: Rings, amulets, and other enchanted items
-- **Ritual Components**: Materials needed for complex spellcasting
+- **지팡이/마법봉**: 더 정확한 주문 시전을 위해 마법 에너지를 집중
+- **마법책**: 마법 지식 및 주문 패턴 포함
+- **마법 액세서리**: 반지, 아뮬렛 및 기타 마법에 걸린 아이템
+- **의식 구성 요소**: 복잡한 주문 시전에 필요한 재료
 
-### Species Affinities
+### 종족 친화력
 
-| Species | Affinity | Notable Traits |
+| 종족 | 친화력 | 주목할 만한 특징 |
 |---------|----------|----------------|
-| **Elves** | High | Natural mana purification, enhanced arcane sensitivity |
-| **Humans** | Moderate | Versatile spellcasting, adaptive learning |
-| **Dark Elves** | High | Enhanced capacity for shadow and illusory magic |
-| **Dragonkin** | Moderate-High | Natural affinity for elemental magic, especially fire |
-| **Dwarves** | Low | Limited mana capacity but exceptional focus |
+| **Elves** | 높음 | 자연적인 마나 정화, 향상된 신비로운 감수성 |
+| **Humans** | 보통 | 다재다능한 주문 시전, 적응 학습 |
+| **Dark Elves** | 높음 | 그림자 및 환상 마법에 대한 향상된 능력 |
+| **Dragonkin** | 보통-높음 | 원소 마법, 특히 불에 대한 자연스러운 친화력 |
+| **Dwarves** | 낮음 | 제한된 마나 용량이지만 뛰어난 집중력 |
 
-## Notable Traits
+## 주목할 만한 특징
 
-### Strengths
+### 강점
 
-- Unparalleled magical versatility and power
-- Ability to solve problems through arcane means
-- Access to knowledge and forces beyond mortal understanding
-- Potential for continuous growth in magical ability
+- 타의 추종을 불허하는 마법의 다재다능함과 힘
+- 신비로운 수단을 통해 문제를 해결하는 능력
+- 필사자의 이해를 넘어서는 지식과 힘에 대한 접근
+- 마법 능력의 지속적인 성장 가능성
 
-### Challenges
+### 어려움
 
-- Physical vulnerability and limited combat endurance
-- Reliance on magical components and preparation
-- Susceptibility to anti-magic effects and counterspells
-- Complexity of advanced magical techniques
+- 물리적 취약성 및 제한된 전투 내구성
+- 마법 구성 요소 및 준비에 대한 의존성
+- 안티 마법 효과 및 카운터 주문에 대한 취약성
+- 고급 마법 기술의 복잡성
 
 ---
 
-> See [Mage.md](Mage.md) for detailed information about the mage class in OpenFantasy. 
+> OpenFantasy의 마법사 클래스에 대한 자세한 내용은 [Mage.md](Mage.md)를 참조하십시오.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

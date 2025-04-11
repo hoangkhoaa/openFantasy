@@ -1,225 +1,229 @@
-# **Magic**: The Harmonic Art of Reality Manipulation
+# **마법**: 현실 조작의 조화로운 예술
 
-[**Magic**](/codex/Magics/Core/Magic.md) in the world of OpenFantasy is not merely a mystical force but a fundamental aspect of reality—as natural and essential as physics or mathematics. Just as music transforms vibrations into harmony through structured patterns, magic transforms mana into effects through disciplined manipulation of universal energies.
+OpenFantasy 세계에서 [**마법**](/codex/Magics/Core/Magic.md)은 단순한 신비로운 힘이 아니라 현실의 근본적인 측면, 즉 물리학이나 수학만큼 자연스럽고 필수적인 요소입니다. 음악이 구조화된 패턴을 통해 진동을 조화로 변환하는 것처럼, 마법은 우주의 에너지를 숙련된 조작을 통해 마나를 효과로 변환합니다.
 
-## Fundamental Principles
+## 기본 원리
 
-Magic in OpenFantasy operates on three fundamental principles that form the basis of all magical theory and practice:
+OpenFantasy의 마법은 모든 마법 이론과 실천의 기초를 형성하는 세 가지 기본 원리에 따라 작동합니다.
 
-| Principle | Description | Musical Analogy |
+| 원리 | 설명 | 음악적 비유 |
 |---------|------------|----------|
-| **Purity** | The clarity and focus of magical energy | The cleanness of a musical note |
-| **Intensity** | The raw power and force of magical energy | The volume of a musical performance |
-| **Complexity** | The intricacy and sophistication of magical patterns | The complexity of a musical composition |
+| **순수성** | 마법 에너지의 명확성과 집중도 | 음악 음표의 깨끗함 |
+| **강도** | 마법 에너지의 순수한 힘과 강렬함 | 음악 공연의 볼륨 |
+| **복잡성** | 마법 패턴의 복잡성과 정교함 | 음악 작품의 복잡성 |
 
-These principles interact with a practitioner's elemental composition to determine their magical capabilities and limitations.
+이러한 원리는 시전자의 원소 구성과 상호 작용하여 마법 능력과 한계를 결정합니다.
 
-## Elemental Composition and Magic
+## 원소 구성과 마법
 
-A being's elemental composition directly influences their magical abilities:
+존재의 원소 구성은 마법 능력에 직접적인 영향을 미칩니다.
 
-- **Exanthis**: Provides the physical substrate that anchors magic in reality. Higher Exanthis grants greater resistance to magical effects but can limit magical output. Like the physical construction of an instrument that determines its durability.
+- **엑산티스 (Exanthis)**: 마법을 현실에 고정시키는 물리적 기질을 제공합니다. 엑산티스가 높을수록 마법 효과에 대한 저항력이 높아지지만 마법 출력을 제한할 수 있습니다. 악기의 내구성을 결정하는 물리적 구조와 같습니다.
 
-- **Soul**: Shapes the character and creativity of magical expression. Higher Soul percentages allow for more intuitive and adaptable spellcasting. Like a musician's interpretation that brings unique character to a performance.
+- **영혼**: 마법 표현의 특징과 창의성을 형성합니다. 영혼 비율이 높을수록 보다 직관적이고 적응력이 뛰어난 주문 시전이 가능합니다. 연주에 독특한 개성을 부여하는 음악가의 해석과 같습니다.
 
-- **Mana Capacity**: Determines the amount of magical energy a being can channel and store. Higher Mana Capacity allows for more powerful and sustained spellcasting. Like the lung capacity of a wind instrumentalist or the arm strength of a percussionist.
+- **마나 용량**: 존재가 채널링하고 저장할 수 있는 마법 에너지의 양을 결정합니다. 마나 용량이 높을수록 더 강력하고 지속적인 주문 시전이 가능합니다. 관악기 연주자의 폐활량이나 타악기 연주자의 팔 힘과 같습니다.
 
-## Key Magical Concepts
+## 주요 마법 개념
 
-### Mana
-The fundamental energy of magic, comparable to notes in music:
-- **Nature**: Universal life force present in all things
-- **Accessibility**: Can be drawn from the caster or environment
-- **Limitation**: Finite resource that must be replenished
-- **Manipulation**: Requires training to gather and control
+### 마나
+음악의 음표와 비교할 수 있는 마법의 근본적인 에너지:
+- **본질**: 모든 것에 존재하는 보편적인 생명력
+- **접근성**: 시전자 또는 환경에서 끌어올 수 있음
+- **제한**: 보충해야 하는 유한한 자원
+- **조작**: 수집하고 제어하려면 훈련이 필요함
 
-*See [**Mana Mechanics**](/codex/Magics/Core/ManaMechanics.md) for detailed information*
+*자세한 내용은 [**마나 역학**](/codex/Magics/Core/ManaMechanics.md)을 참조하십시오*
 
-### Mana Capacity
-The amount of magical energy a practitioner can hold and channel:
-- **Range**: Typically 5-85% of theoretical maximum
-- **Development**: Increases through practice and study
-- **Limitation**: Genetically influenced upper limit
-- **Expression**: Higher capacity enables larger and more complex spells
+### 마나 용량
+시전자가 보유하고 채널링할 수 있는 마법 에너지의 양:
+- **범위**: 일반적으로 이론적 최대치의 5-85%
+- **발달**: 연습과 학습을 통해 증가
+- **제한**: 유전적으로 영향을 받는 상한선
+- **표현**: 용량이 클수록 더 크고 복잡한 주문이 가능함
 
-*See [**Mana Regeneration**](/codex/Magics/Core/ManaRegeneration.md) for detailed information*
+*자세한 내용은 [**마나 재생**](/codex/Magics/Core/ManaRegeneration.md)을 참조하십시오*
 
-### Wild Mana
-Raw, unpurified magical energy permeating the environment:
-- **Nature**: Chaotic, unpredictable energy
-- **Danger**: Can contaminate spells and cause instability
-- **Utility**: Source of ambient magical power
-- **Manifestation**: Can create spontaneous magical phenomena
+### 야생 마나
+환경에 퍼져 있는 정제되지 않은 원시 마법 에너지:
+- **본질**: 혼란스럽고 예측할 수 없는 에너지
+- **위험**: 주문을 오염시키고 불안정을 유발할 수 있음
+- **유용성**: 주변 마법력의 원천
+- **발현**: 자발적인 마법 현상을 일으킬 수 있음
 
-*See [**Wild Mana**](/codex/Magics/Core/WildMana.md) and [**Wild Mana Effects**](/codex/Magics/Effects/WildManaEffects.md) for detailed information*
+*자세한 내용은 [**야생 마나**](/codex/Magics/Core/WildMana.md) 및 [**야생 마나 효과**](/codex/Magics/Effects/WildManaEffects.md)를 참조하십시오*
 
-### Purification
-The process of refining raw mana for spellcasting:
-- **Purpose**: Removes chaotic elements for precise control
-- **Methods**: Mental discipline, tool assistance, alchemical aids
-- **Levels**: Crude to Perfect based on remaining Wild Mana content
-- **Significance**: Determines spell precision and reliability
+### 정화
+주문 시전을 위해 원시 마나를 정제하는 과정:
+- **목표**: 정확한 제어를 위해 혼란스러운 요소를 제거함
+- **방법**: 정신 수련, 도구 지원, 연금술 보조제
+- **수준**: 남아있는 야생 마나 함량에 따라 조잡에서 완벽까지
+- **중요성**: 주문 정확성과 신뢰성을 결정함
 
-*See [**Mana Purity**](/codex/Magics/Core/ManaPurity.md) for detailed information*
+*자세한 내용은 [**마나 순도**](/codex/Magics/Core/ManaPurity.md)를 참조하십시오*
 
-### Spellcasting
-The practical application of magical theory:
-- **Process**: Five-stage sequence (Gathering, Purification, Patterning, Resonance, Release)
-- **Variation**: Different traditions employ unique methods
-- **Requirement**: Mental discipline, physical components, and/or tools
-- **Expression**: Ranges from simple cantrips to complex ritual magic
+### 주문 시전
+마법 이론의 실제 적용:
+- **과정**: 5단계 시퀀스 (수집, 정화, 패턴화, 공명, 방출)
+- **변형**: 서로 다른 전통에서 고유한 방법을 사용함
+- **요건**: 정신 수련, 물리적 구성 요소 및/또는 도구
+- **표현**: 단순한 주문에서 복잡한 의식 마법까지 다양함
 
-*See [**Magic Casting**](/codex/Magics/Core/MagicCasting.md) for detailed information*
+*자세한 내용은 [**마법 시전**](/codex/Magics/Core/MagicCasting.md)을 참조하십시오*
 
-### Elemental Magic
-Manipulation of fundamental forces and elements:
-- **Primary Elements**: Fire, Water, Earth, Air, Light, Shadow, Life, Death
-- **Structure**: Complementary and opposing pairings
-- **Application**: Most accessible and widely practiced form of magic
-- **Expression**: Direct manipulation or elemental byproducts
+### 원소 마법
+기본 힘과 원소의 조작:
+- **주요 원소**: 불, 물, 흙, 공기, 빛, 그림자, 생명, 죽음
+- **구조**: 상호 보완적이고 대립적인 짝
+- **응용**: 가장 접근하기 쉽고 널리 사용되는 마법 형태
+- **표현**: 직접 조작 또는 원소 부산물
 
-*See [**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) for detailed information*
+*자세한 내용은 [**원소 마법**](/codex/Magics/Elements/ElementalMagic.md)을 참조하십시오*
 
-### Magical Schools
-Specialized disciplines focusing on particular applications:
-- **Major Schools**: Evocation, Conjuration, Divination, Enchantment, Illusion, Abjuration
-- **Organization**: Systematic approaches to magical education and research
-- **Philosophy**: Unique perspectives on the nature and application of magic
-- **Methodology**: Specialized techniques for particular magical effects
+### 마법 학교
+특정 응용 분야에 초점을 맞춘 전문 분야:
+- **주요 학교**: 소환, 창조, 점술, 마법 부여, 환상, 파괴
+- **조직**: 마법 교육 및 연구에 대한 체계적인 접근 방식
+- **철학**: 마법의 본질과 적용에 대한 독특한 관점
+- **방법론**: 특정 마법 효과를 위한 전문 기술
 
-*See the [**Schools**](/codex/Magics/Schools/) directory for detailed information*
+*자세한 내용은 [**학교**](/codex/Magics/Schools/) 디렉토리를 참조하십시오*
 
-## Intensity and Magic
+## 강도와 마법
 
-Magical intensity refers to the raw power and force of magical energy. Like the volume of a musical performance, intense magic commands attention and overwhelms opposition.
+마법 강도는 마법 에너지의 순수한 힘과 강렬함을 나타냅니다. 음악 공연의 볼륨처럼 강렬한 마법은 주의를 끌고 상대를 압도합니다.
 
-### Intensity Factors
+### 강도 요소
 
-1. **Mana Volume**: The amount of magical energy a caster can channel at once. Higher Mana Capacity allows for greater intensity.
+1. **마나 볼륨**: 시전자가 한 번에 채널링할 수 있는 마법 에너지의 양. 마나 용량이 클수록 강도가 높아집니다.
 
-2. **Exanthis Conductivity**: The physical body must be able to withstand the channeling of intense magic. Higher Exanthis provides resistance but can also limit conductivity.
+2. **엑산티스 전도성**: 신체는 강렬한 마법의 채널링을 견딜 수 있어야 합니다. 엑산티스가 높을수록 저항력이 높아지지만 전도성을 제한할 수도 있습니다.
 
-3. **Emotional State**: Strong emotions can temporarily increase magical intensity at the cost of control and purity.
+3. **감정 상태**: 강한 감정은 통제력과 순수성을 희생하면서 일시적으로 마법 강도를 높일 수 있습니다.
 
-### Species and Intensity
+### 종족과 강도
 
-Different species have natural affinities for magical intensity:
+종족마다 마법 강도에 대한 타고난 친화력이 있습니다.
 
-- **Dragonkin** (55-75% Exanthis, 20-35% Mana Capacity): Channel intense elemental magic with devastating effect but limited finesse.
+- **드래곤킨**(55-75% 엑산티스, 20-35% 마나 용량): 파괴적인 효과를 가진 강렬한 원소 마법을 채널링하지만 섬세함이 부족합니다.
 
-- **Dark Elves** (15-35% Exanthis, 45-75% Mana Capacity): Achieve high intensity in shadow and void magic through specialized training.
+- **다크 엘프**(15-35% 엑산티스, 45-75% 마나 용량): 특수 훈련을 통해 그림자 및 공허 마법에서 높은 강도를 달성합니다.
 
-- **Giants** (65-85% Exanthis, 5-20% Mana Capacity): Limited magical potential but what little magic they produce tends to be intense and primal.
+- **자이언트**(65-85% 엑산티스, 5-20% 마나 용량): 마법 잠재력은 제한적이지만 생산하는 마법은 강렬하고 원시적인 경향이 있습니다.
 
-- **Humans** (20-55% Exanthis, 15-60% Mana Capacity): Capable of surprising bursts of intensity, especially when emotionally charged.
+- **인간**(20-55% 엑산티스, 15-60% 마나 용량): 특히 감정적인 충전 시 놀라운 강도를 낼 수 있습니다.
 
-### Intensity Applications
+### 강도 응용
 
-- **Combat Magic**: Higher intensity overwhelms magical defenses and produces more devastating effects.
+- **전투 마법**: 강도가 높을수록 마법 방어를 압도하고 더 파괴적인 효과를 냅니다.
 
-- **Elemental Manipulation**: Intensity determines the scale and force of elemental effects, from gentle breezes to devastating storms.
+- **원소 조작**: 강도는 부드러운 바람에서 파괴적인 폭풍에 이르기까지 원소 효과의 규모와 힘을 결정합니다.
 
-- **Warding**: Intensity determines the strength of magical barriers and their resistance to breaching attempts.
+- **결계**: 강도는 마법 장벽의 강도와 침입 시도에 대한 저항력을 결정합니다.
 
-## Complexity and Magic
+## 복잡성과 마법
 
-Magical complexity refers to the intricacy and sophistication of magical patterns. Like a complex musical composition, complex magic can achieve effects that simpler magic cannot.
+마법 복잡성은 마법 패턴의 복잡성과 정교함을 나타냅니다. 복잡한 음악 작품처럼 복잡한 마법은 단순한 마법으로는 달성할 수 없는 효과를 낼 수 있습니다.
 
-### Complexity Factors
+### 복잡성 요소
 
-1. **Mental Capacity**: The caster's ability to conceptualize and maintain complex magical patterns.
+1. **정신 능력**: 복잡한 마법 패턴을 개념화하고 유지하는 시전자의 능력.
 
-2. **Soul Flexibility**: Higher Soul percentages allow for more adaptable and creative manipulation of magical energies.
+2. **영혼 유연성**: 영혼 비율이 높을수록 마법 에너지를 더 잘 적응하고 창의적으로 조작할 수 있습니다.
 
-3. **Training and Knowledge**: Academic understanding of magical theory enables greater complexity.
+3. **훈련 및 지식**: 마법 이론에 대한 학문적 이해는 복잡성을 높입니다.
 
-### Species and Complexity
+### 종족과 복잡성
 
-Different species have natural affinities for magical complexity:
+종족마다 마법 복잡성에 대한 타고난 친화력이 있습니다.
 
-- **Gnomes** (30-50% Soul, 25-40% Mana Capacity): Excel at creating complex magical devices and combining magic with technology.
+- **놈**(30-50% 영혼, 25-40% 마나 용량): 복잡한 마법 장치를 만들고 마법과 기술을 결합하는 데 탁월합니다.
 
-- **Shadowfolk** (30-50% Soul, 30-50% Mana Capacity): Master intricate shadow patterns and complex illusions.
+- **섀도우포크**(30-50% 영혼, 30-50% 마나 용량): 복잡한 그림자 패턴과 복잡한 환상을 마스터합니다.
 
-- **Humans** (15-45% Soul, 15-60% Mana Capacity): Adapt quickly to new magical paradigms and innovations.
+- **인간**(15-45% 영혼, 15-60% 마나 용량): 새로운 마법 패러다임과 혁신에 빠르게 적응합니다.
 
-- **Merfolk** (25-40% Soul, 20-40% Mana Capacity): Create complex harmonies in water magic that affect entire ecosystems.
+- **머포크**(25-40% 영혼, 20-40% 마나 용량): 전체 생태계에 영향을 미치는 물 마법에서 복잡한 조화를 만듭니다.
 
-### Complexity Applications
+### 복잡성 응용
 
-- **Ritual Magic**: Complex rituals can achieve effects impossible through direct spellcasting.
+- **의식 마법**: 복잡한 의식은 직접적인 주문 시전으로는 불가능한 효과를 낼 수 있습니다.
 
-- **Transformation Magic**: Altering physical forms requires intricate understanding of both target and desired form.
+- **변형 마법**: 물리적 형태를 변경하려면 대상과 원하는 형태 모두에 대한 복잡한 이해가 필요합니다.
 
-- **Teleportation**: Spatial manipulation demands exceptional complexity to ensure accurate and safe transit.
+- **순간 이동**: 공간 조작은 정확하고 안전한 이동을 보장하기 위해 뛰어난 복잡성이 필요합니다.
 
-## The Mana Spectrum
+## 마나 스펙트럼
 
-When Wild Mana is purified and refined, it becomes **Base Mana** - the stable form of magical energy from which all magical effects derive. When this base mana is aligned and attuned to specific elemental resonances, it transforms into specialized elemental forms:
+야생 마나가 정화되고 정제되면 모든 마법 효과가 파생되는 마법 에너지의 안정적인 형태인 **기본 마나**가 됩니다. 이 기본 마나가 특정 원소 공명에 맞춰지고 조정되면 특수 원소 형태로 변환됩니다.
 
-| Mana Type | Properties | Natural Affinity | Musical Analogy |
+| 마나 유형 | 속성 | 타고난 친화력 | 음악적 비유 |
 |---------|------------|---------|----------|
-| **Wild Mana** | Chaotic, primordial, untamed | Creatures of chaos, natural world | Unstructured sound |
-| **Base Mana** | Neutral, adaptable, receptive | Humans, balanced beings | Unpitched percussion |
-| **Pyromana** | Intense, passionate, destructive | Dragonkin, Giants | Trumpet, high brass |
-| **Hydromana** | Flowing, healing, transformative | Merfolk, Sirens | Cello, flowing strings |
-| **Terramana** | Stable, enduring, protective | Dwarves, Centaurs | Bass, foundation notes |
-| **Aeromana** | Swift, changeable, far-reaching | Elves, Birdfolk | Flute, woodwinds |
-| **Luxmana** | Revealing, purifying, energizing | Fae, High Elves | Major key melodies |
-| **Umbramana** | Subtle, deceptive, penetrating | Shadowfolk, Dark Elves | Minor key melodies |
-| **Vitaemana** | Life-giving, growing, renewing | Beastfolk, Humans | Folk harmonies |
-| **Mortismana** | Decaying, transforming, conserving | Dark Elves, Shadowfolk | Dissonant harmonies |
+| **야생 마나** | 혼돈, 원시, 길들여지지 않음 | 혼돈의 생물, 자연 세계 | 구조화되지 않은 소리 |
+| **기본 마나** | 중립적, 적응 가능, 수용적 | 인간, 균형 잡힌 존재 | 음높이가 없는 타악기 |
+| **파이로마나** | 강렬, 열정적, 파괴적 | 드래곤킨, 자이언트 | 트럼펫, 높은 금관악기 |
+| **하이드로마나** | 흐름, 치유, 변형 | 머포크, 세이렌 | 첼로, 흐르는 현 |
+| **테라마나** | 안정적, 지속적, 보호적 | 드워프, 센타우로스 | 베이스, 기초 음표 |
+| **에어로마나** | 빠름, 가변적, 광범위함 | 엘프, 버드포크 | 플루트, 목관악기 |
+| **룩스마나** | 드러냄, 정화, 활력 | 페이, 하이 엘프 | 장조 멜로디 |
+| **움브라마나** | 미묘, 기만적, 침투적 | 섀도우포크, 다크 엘프 | 단조 멜로디 |
+| **비타에마나** | 생명 부여, 성장, 갱신 | 비스트포크, 인간 | 포크 하모니 |
+| **모티스마나** | 부패, 변형, 보존 | 다크 엘프, 섀도우포크 | 불협화음 하모니 |
 
-For detailed information on elemental mana types, see [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md).
+원소 마나 유형에 대한 자세한 내용은 [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md)를 참조하십시오.
 
-## Magical Resonance and Dissonance
+## 마법 공명과 불협화음
 
-When multiple casters work together, their magic can either resonate (amplify) or create dissonance (interfere):
+여러 시전자가 함께 작업할 때 마법은 공명(증폭)하거나 불협화음(간섭)을 일으킬 수 있습니다.
 
-### Harmonic Casting
+### 조화 시전
 
-When casters with compatible elemental compositions work together, they can achieve magical resonance:
-- Combined magical power exceeds the sum of individual contributions
-- Enhanced purity, intensity, or complexity depending on the casters' strengths
-- Extended duration and range of magical effects
+호환되는 원소 구성을 가진 시전자가 함께 작업하면 마법 공명을 달성할 수 있습니다.
+- 결합된 마법력은 개별 기여의 합을 초과합니다.
+- 시전자의 강점에 따라 순수성, 강도 또는 복잡성이 향상됩니다.
+- 마법 효과의 지속 시간과 범위가 확장됩니다.
 
-### Dissonant Casting
+### 불협화음 시전
 
-When casters with incompatible compositions attempt to combine magic:
-- Unpredictable effects and magical instability
-- Increased mana consumption with diminished results
-- Potential for magical feedback causing harm to casters
+호환되지 않는 구성을 가진 시전자가 마법을 결합하려고 시도할 때:
+- 예측할 수 없는 효과와 마법 불안정성
+- 결과가 감소한 상태에서 마나 소모 증가
+- 시전자에게 해를 끼치는 마법 피드백의 가능성
 
-## Regeneration of Magical Energy
+## 마법 에너지 재생
 
-After spellcasting depletes a practitioner's mana reserves, they must recover through rest and regeneration. The rate of regeneration depends on their Mana Capacity, training, and various environmental factors. For detailed information on regeneration techniques and methods, see [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md).
+주문 시전으로 시전자의 마나 저장량이 고갈되면 휴식과 재생을 통해 회복해야 합니다. 재생 속도는 마나 용량, 훈련 및 다양한 환경 요인에 따라 달라집니다. 재생 기술 및 방법에 대한 자세한 내용은 [ManaRegeneration.md](/codex/Magics/Core/ManaRegeneration.md)를 참조하십시오.
 
-## The Price of Magic
+## 마법의 대가
 
-All magic exacts a price from its practitioners:
+모든 마법은 시전자에게 대가를 요구합니다.
 
-1. **Mana Depletion**: Casting depletes Mana Capacity, requiring rest to replenish. Severe depletion can cause exhaustion, unconsciousness, or even death.
+1. **마나 고갈**: 시전은 마나 용량을 고갈시켜 보충하려면 휴식이 필요합니다. 심각한 고갈은 탈진, 의식 불명 또는 사망을 유발할 수 있습니다.
 
-2. **Physical Strain**: The body's Exanthis content limits how much magic can be channeled safely. Exceeding these limits causes physical damage.
+2. **신체적 부담**: 신체의 엑산티스 함량은 안전하게 채널링할 수 있는 마법의 양을 제한합니다. 이러한 제한을 초과하면 신체적 손상이 발생합니다.
 
-3. **Mental Fatigue**: Complex or prolonged spellcasting taxes the mind, causing difficulty maintaining concentration and eventually mental exhaustion.
+3. **정신적 피로**: 복잡하거나 장기간의 주문 시전은 정신에 부담을 주어 집중력을 유지하는 데 어려움을 겪게 되고 결국 정신적 탈진을 유발합니다.
 
-4. **Soul Wear**: Frequent use of powerful magic gradually accelerates soul decay, potentially shortening lifespan.
+4. **영혼 마모**: 강력한 마법을 자주 사용하면 영혼 부패가 점차적으로 가속화되어 수명을 단축할 수 있습니다.
 
-5. **Wild Mana Contamination**: Insufficient purification can lead to Wild Mana contamination, causing unpredictable magical effects and potentially harming the caster over time.
+5. **야생 마나 오염**: 불충분한 정화는 야생 마나 오염으로 이어져 예측할 수 없는 마법 효과를 일으키고 시간이 지남에 따라 시전자에게 잠재적으로 해를 끼칠 수 있습니다.
 
-## Forbidden Magics
+## 금지된 마법
 
-Some magical practices are considered forbidden due to their dangerous nature:
+일부 마법 행위는 위험한 특성으로 인해 금지된 것으로 간주됩니다.
 
-1. **Soul Manipulation**: Directly altering or extracting Soul essence causes permanent damage to both subject and practitioner.
+1. **영혼 조작**: 영혼 본질을 직접 변경하거나 추출하면 대상과 시전자 모두에게 영구적인 손상이 발생합니다.
 
-2. **Exanthis Conversion**: Transforming Exanthis into pure magical energy yields immense power but causes irreversible physical degradation.
+2. **엑산티스 전환**: 엑산티스를 순수한 마법 에너지로 변환하면 막대한 힘이 발생하지만 되돌릴 수 없는 물리적 저하를 유발합니다.
 
-3. **Void Channeling**: Drawing power from the spaces between reality creates unpredictable rifts and attracts dangerous entities.
+3. **공허 채널링**: 현실 사이의 공간에서 힘을 끌어오면 예측할 수 없는 균열이 생기고 위험한 존재가 유인됩니다.
 
-4. **Temporal Distortion**: Manipulating the flow of time creates paradoxes and weakens the fabric of reality.
+4. **시간 왜곡**: 시간의 흐름을 조작하면 역설이 생기고 현실의 구조가 약화됩니다.
 
-5. **Wild Mana Amplification**: Deliberately increasing Wild Mana content in spells to boost power at the cost of control. Can lead to catastrophic magical surges and permanent corruption.
+5. **야생 마나 증폭**: 통제력을 희생하면서 힘을 높이기 위해 주문에서 야생 마나 함량을 의도적으로 늘립니다. 재앙적인 마법 폭발과 영구적인 부패로 이어질 수 있습니다.
 
-Understanding the nature of **Magic** provides insight into the foundational forces of the world of **OpenFantasy**, like listening to the grand symphony that underlies all of creation, where each being contributes their unique part to the endless melody.
+**마법**의 본질을 이해하는 것은 모든 존재가 끝없는 멜로디에 고유한 부분을 기여하는 창조의 근간을 이루는 웅장한 교향곡을 듣는 것처럼 **OpenFantasy** 세계의 기본 힘에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

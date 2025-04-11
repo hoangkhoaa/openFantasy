@@ -1,150 +1,154 @@
-# Hybrid Beings of OpenFantasy
+# OpenFantasy의 혼종
 
-> *"In the blending of divergent natures emerges something greater than the sum of its parts—a harmony of contrasting songs played as one melody."*
+> *"서로 다른 본성의 융합 속에서 그 부분들의 합보다 더 큰 무언가가 나타난다. 상반되는 노래들이 하나의 멜로디로 연주되는 조화다."*
 
-## Overview
+## 개요
 
-Hybrid beings in OpenFantasy represent creatures that combine the characteristics of multiple species or categories of life. These unique entities possess physiological, magical, and sometimes spiritual traits from different origins, creating distinctive beings that often occupy specialized ecological or social niches.
+OpenFantasy의 혼종은 여러 종족 또는 생명체의 특성을 결합한 생물을 나타냅니다. 이러한 독특한 개체들은 서로 다른 기원에서 비롯된 생리적, 마법적, 때로는 영적인 특징을 가지고 있으며, 종종 특화된 생태적 또는 사회적 지위를 차지하는 독특한 존재를 만들어냅니다.
 
-Unlike simple crossbreeds between closely related species, true hybrids in OpenFantasy typically bridge fundamentally different categories of being—such as aquatic and terrestrial, humanoid and animal, or even material and elemental. These combinations result in unique elemental compositions and special capabilities not found in either parent category.
+밀접하게 관련된 종 간의 단순한 이종 교배와 달리, OpenFantasy의 진정한 혼종은 일반적으로 수생 및 육상, 인간형 및 동물, 심지어 물질 및 원소와 같이 근본적으로 다른 존재의 범주를 연결합니다. 이러한 조합은 어느 부모 범주에서도 찾아볼 수 없는 독특한 원소 구성과 특별한 능력을 가져옵니다.
 
-## Origins of Hybrid Beings
+## 혼종의 기원
 
-Hybrids come into existence through various means:
+혼종은 다양한 수단을 통해 존재하게 됩니다.
 
-| Origin Type | Process | Examples |
+| 기원 유형 | 과정 | 예시 |
 |-------------|---------|----------|
-| **Natural Evolution** | Adaptation to specialized environments | Merfolk evolving for coastal environments |
-| **Ancient Magic** | Deliberate magical creation or fusion | Centaurs created during the Age of Wonders |
-| **Divine Influence** | Blessing or intervention of deities | Sirens formed by ocean deity transformations |
-| **Arcane Accident** | Unintended magical transformation | Some chimeric beings resulting from wild magic |
-| **Elemental Fusion** | Merger of elemental and physical forms | Certain geomancers with partly mineral bodies |
+| **자연적 진화** | 특화된 환경에 대한 적응 | 해안 환경을 위해 진화하는 인어 |
+| **고대 마법** | 의도적인 마법 창조 또는 융합 | 경이의 시대에 창조된 켄타우로스 |
+| **신의 영향** | 신의 축복 또는 개입 | 바다 신의 변형으로 형성된 세이렌 |
+| **신비로운 사고** | 의도하지 않은 마법적 변형 | 야생 마법으로 인해 생긴 키메라 생물 |
+| **원소 융합** | 원소 형태와 물리적 형태의 합병 | 부분적으로 광물 몸체를 가진 특정 지맥술사 |
 
-## Major Hybrid Categories
+## 주요 혼종 범주
 
-### Aquatic-Terrestrial Hybrids
+### 수생-육상 혼종
 
-Beings that bridge water and land environments:
+물과 육지 환경을 잇는 존재:
 
-| Species | Composition | Key Traits | Habitat |
+| 종 | 구성 | 주요 특징 | 서식지 |
 |---------|------------|------------|----------|
-| **Merfolk** | E: 30-50%, S: 15-35%, M: 25-45% | Humanoid upper body, fish lower body, water manipulation | Coastal waters, deep sea regions |
-| **Selkies** | E: 40-60%, S: 20-30%, M: 15-35% | Shapeshifting between human and seal forms | Cold coastal areas, isolated islands |
-| **Kappa** | E: 35-55%, S: 10-25%, M: 30-45% | Turtle-humanoid features, water dependency | Freshwater lakes, slow-moving rivers |
-| **Cecaelia** | E: 35-55%, S: 15-30%, M: 25-40% | Humanoid upper body, octopus lower body | Deep ocean trenches, underwater caves |
+| **인어** | E: 30-50%, S: 15-35%, M: 25-45% | 인간형 상체, 물고기 하체, 물 조작 | 해안 해역, 심해 지역 |
+| **셀키** | E: 40-60%, S: 20-30%, M: 15-35% | 인간과 물범 형태로 변신 | 추운 해안 지역, 외딴 섬 |
+| **캇파** | E: 35-55%, S: 10-25%, M: 30-45% | 거북이-인간형 특징, 물 의존성 | 담수 호수, 느리게 흐르는 강 |
+| **세실리아** | E: 35-55%, S: 15-30%, M: 25-40% | 인간형 상체, 문어 하체 | 심해 해구, 수중 동굴 |
 
-→ See [Merfolk](Merfolk.md) for detailed information on the most common aquatic hybrid.
+→ 가장 흔한 수생 혼종에 대한 자세한 내용은 [인어](Merfolk.md)를 참조하십시오.
 
-### Musical-Physical Hybrids
+### 음악-물리 혼종
 
-Beings that embody musical or sonic energy in physical form:
+물리적 형태로 음악적 또는 음향적 에너지를 구현하는 존재:
 
-| Species | Composition | Key Traits | Habitat |
+| 종 | 구성 | 주요 특징 | 서식지 |
 |---------|------------|------------|----------|
-| **Sirens** | E: 15-30%, S: 30-45%, M: 40-60% | Enchanting voices, emotional manipulation | Coastal cliffs, island lagoons |
-| **Harpies** | E: 40-60%, S: 15-30%, M: 20-35% | Bird-humanoid features, disruptive vocals | Mountain peaks, isolated highlands |
-| **Echo Spirits** | E: 10-25%, S: 20-40%, M: 45-65% | Sound embodiment, mimicry abilities | Canyons, caves with natural acoustics |
-| **Resonants** | E: 25-40%, S: 15-35%, M: 35-50% | Living instruments, harmonic magic | Music-saturated regions, performance venues |
+| **세이렌** | E: 15-30%, S: 30-45%, M: 40-60% | 매혹적인 목소리, 감정 조작 | 해안 절벽, 섬 석호 |
+| **하피** | E: 40-60%, S: 15-30%, M: 20-35% | 새-인간형 특징, 파괴적인 보컬 | 산봉우리, 외딴 고지대 |
+| **메아리 영혼** | E: 10-25%, S: 20-40%, M: 45-65% | 소리 구현, 모방 능력 | 협곡, 자연 음향이 있는 동굴 |
+| **공명체** | E: 25-40%, S: 15-35%, M: 35-50% | 살아있는 악기, 조화로운 마법 | 음악이 가득한 지역, 공연 장소 |
 
-→ See [Sirens](Sirens.md) for detailed information on vocal enchantresses.
+→ 보컬 마녀에 대한 자세한 내용은 [세이렌](Sirens.md)을 참조하십시오.
 
-### Humanoid-Beast Hybrids
+### 인간형-짐승 혼종
 
-Beings that combine humanoid and animal characteristics:
+인간형과 동물의 특성을 결합한 존재:
 
-| Species | Composition | Key Traits | Habitat |
+| 종 | 구성 | 주요 특징 | 서식지 |
 |---------|------------|------------|----------|
-| **Centaurs** | E: 50-70%, S: 20-40%, M: 10-25% | Human upper body, horse lower body | Open plains, forests with clearings |
-| **Satyrs** | E: 45-65%, S: 20-35%, M: 15-30% | Human upper body, goat lower body | Woodland areas, vineyard regions |
-| **Minotaurs** | E: 60-80%, S: 15-25%, M: 5-20% | Human body with bovine head | Labyrinths, complex cave systems |
-| **Harpies** | E: 40-60%, S: 15-30%, M: 20-35% | Human-avian mixture, winged arms | Mountain regions, high cliffs |
+| **켄타우로스** | E: 50-70%, S: 20-40%, M: 10-25% | 인간 상체, 말 하체 | 탁 트인 평원, 빈터가 있는 숲 |
+| **사티로스** | E: 45-65%, S: 20-35%, M: 15-30% | 인간 상체, 염소 하체 | 삼림 지역, 포도원 지역 |
+| **미노타우로스** | E: 60-80%, S: 15-25%, M: 5-20% | 소 머리를 가진 인간 몸 | 미로, 복잡한 동굴 시스템 |
+| **하피** | E: 40-60%, S: 15-30%, M: 20-35% | 인간-조류 혼합, 날개 달린 팔 | 산악 지역, 높은 절벽 |
 
-→ See [Centaurs](Centaurs.md) for detailed information on horse-human hybrids.
+→ 말-인간 혼종에 대한 자세한 내용은 [켄타우로스](Centaurs.md)를 참조하십시오.
 
-### Elemental-Physical Hybrids
+### 원소-물리 혼종
 
-Beings with both physical and elemental characteristics:
+물리적 특성과 원소적 특성을 모두 가진 존재:
 
-| Species | Composition | Key Traits | Habitat |
+| 종 | 구성 | 주요 특징 | 서식지 |
 |---------|------------|------------|----------|
-| **Geomancers** | E: 55-70%, S: 10-25%, M: 15-35% | Partial stone bodies, earth manipulation | Mountain interiors, crystal caves |
-| **Flameheart** | E: 30-50%, S: 15-30%, M: 30-50% | Internal fire core, heat generation | Volcanic regions, thermal vents |
-| **Mistwalkers** | E: 20-40%, S: 10-30%, M: 40-65% | Semi-gaseous form, air/fog control | Foggy valleys, high-altitude plateaus |
-| **Tidebloods** | E: 25-45%, S: 15-35%, M: 30-55% | Fluid internal composition, water affinity | Shorelines, river confluences |
+| **지맥술사** | E: 55-70%, S: 10-25%, M: 15-35% | 부분적으로 돌 몸체, 흙 조작 | 산 내부, 수정 동굴 |
+| **불꽃심장** | E: 30-50%, S: 15-30%, M: 30-50% | 내부 화염 핵, 열 발생 | 화산 지역, 열통풍구 |
+| **안개길잡이** | E: 20-40%, S: 10-30%, M: 40-65% | 반기체 형태, 공기/안개 제어 | 안개 낀 계곡, 고지대 고원 |
+| **조수혈족** | E: 25-45%, S: 15-35%, M: 30-55% | 유체 내부 구성, 물 친화력 | 해안선, 강 합류점 |
 
-## Physiological Characteristics
+## 생리적 특성
 
-Hybrid beings often exhibit unique biological features that reflect their mixed heritage:
+혼종은 종종 혼합된 유산을 반영하는 독특한 생물학적 특징을 나타냅니다.
 
-### Adaptive Systems
+### 적응 시스템
 
-| System | Adaptation | Functional Benefit |
+| 시스템 | 적응 | 기능적 이점 |
 |--------|------------|-------------------|
-| **Respiratory** | Dual breathing systems (gills/lungs) | Environment flexibility |
-| **Locomotion** | Multiple movement types (swimming/walking/flying) | Terrain adaptability |
-| **Sensory** | Combined perception systems | Enhanced awareness |
-| **Metabolic** | Flexible energy processing | Varied diet options |
+| **호흡기** | 이중 호흡 시스템 (아가미/폐) | 환경 유연성 |
+| **운동기** | 여러 이동 유형 (수영/걷기/비행) | 지형 적응성 |
+| **감각기** | 결합된 지각 시스템 | 향상된 인식 |
+| **대사** | 유연한 에너지 처리 | 다양한 식단 옵션 |
 
-### Integration Challenges
+### 통합 과제
 
-Most hybrids face unique physiological challenges due to their mixed nature:
+대부분의 혼종은 혼합된 본성으로 인해 독특한 생리적 과제에 직면합니다.
 
-- **System Compatibility**: Internal organs from different species must function together
-- **Energy Requirements**: Often higher metabolic needs due to maintaining complex biology
-- **Developmental Stability**: Growth patterns must accommodate different tissue types
-- **Reproductive Viability**: Many hybrids have reduced fertility or specialized reproduction
+- **시스템 호환성**: 서로 다른 종의 내부 기관이 함께 기능해야 합니다.
+- **에너지 요구량**: 복잡한 생물학을 유지하기 때문에 종종 더 높은 대사 요구가 필요합니다.
+- **발달 안정성**: 성장 패턴은 다른 조직 유형을 수용해야 합니다.
+- **생식력**: 많은 혼종은 생식력이 감소하거나 특화된 생식을 합니다.
 
-## Cultural Position
+## 문화적 위치
 
-Hybrid beings occupy complex positions in OpenFantasy societies:
+혼종은 OpenFantasy 사회에서 복잡한 위치를 차지합니다.
 
-### Social Integration
+### 사회 통합
 
-| Society | Treatment of Hybrids | Notable Roles |
+| 사회 | 혼종 대우 | 주목할만한 역할 |
 |---------|----------------------|--------------|
-| **Human Kingdoms** | Varies from acceptance to suspicion | Specialized occupations, cultural mediators |
-| **Elven Realms** | Generally accepted as natural diversity | Valued for unique perspectives, artisans |
-| **Dwarven Holds** | Pragmatic acceptance based on utility | Specialized labor, unique crafting |
-| **Beast Tribes** | Acceptance varies by tribal traditions | Spiritual intermediaries, border guards |
+| **인간 왕국** | 수용에서 의심까지 다양함 | 전문 직업, 문화 중재자 |
+| **엘프 왕국** | 일반적으로 자연스러운 다양성으로 수용됨 | 독특한 관점, 장인으로 높이 평가됨 |
+| **드워프 요새** | 유용성에 기반한 실용적인 수용 | 전문 노동, 독특한 공예 |
+| **짐승 부족** | 부족 전통에 따라 수용이 다름 | 영적 중재자, 국경 경비대 |
 
-### Common Social Roles
+### 일반적인 사회적 역할
 
-Hybrid beings often find themselves in specialized societal positions:
+혼종은 종종 특화된 사회적 위치에 놓입니다.
 
-- **Cultural Intermediaries**: Bridging different societies through shared understanding
-- **Specialized Occupations**: Roles specifically suited to their unique capabilities
-- **Boundary Dwellers**: Living along the edges of different territories
-- **Magical Specialists**: Unique magical abilities stemming from their hybrid nature
+- **문화 중재자**: 공유된 이해를 통해 다른 사회를 연결합니다.
+- **전문 직업**: 자신의 독특한 능력에 특별히 적합한 역할
+- **경계 거주자**: 다른 영토의 가장자리를 따라 생활
+- **마법 전문가**: 혼종 본성에서 비롯된 독특한 마법 능력
 
-## Magical Characteristics
+## 마법적 특성
 
-The mixed nature of hybrids creates distinctive magical patterns:
+혼종의 혼합된 본성은 독특한 마법 패턴을 만듭니다.
 
-| Hybrid Type | Magical Signature | Special Capabilities |
+| 혼종 유형 | 마법 서명 | 특별한 능력 |
 |-------------|-------------------|---------------------|
-| **Merfolk** | Fluid mana circulation, water resonance | Natural hydrokinesis, weather sensing |
-| **Centaurs** | Stable mana foundation, earth connection | Heightened nature awareness, stamina enhancement |
-| **Sirens** | Oscillating mana patterns, emotional conductivity | Sound manipulation, emotional influence |
-| **Geomancers** | Crystalline mana structure, mineral resonance | Stone shaping, mineral sensing |
+| **인어** | 유체 마나 순환, 물 공명 | 자연적인 수력학, 날씨 감지 |
+| **켄타우로스** | 안정적인 마나 기반, 흙 연결 | 고양된 자연 인식, 체력 강화 |
+| **세이렌** | 진동하는 마나 패턴, 감정 전도성 | 소리 조작, 감정 영향 |
+| **지맥술사** | 결정질 마나 구조, 광물 공명 | 돌 모양 만들기, 광물 감지 |
 
-## Ethical and Philosophical Questions
+## 윤리적 및 철학적 질문
 
-The existence of hybrid beings raises important questions in OpenFantasy societies:
+혼종의 존재는 OpenFantasy 사회에서 중요한 질문을 제기합니다.
 
-- **Origin Ethics**: Debates about the ethics of magical hybridization
-- **Identity Philosophy**: Questions about the dual nature of hybrid beings
-- **Cultural Belonging**: Considerations of where hybrids fit in social structures
-- **Natural Order**: Discussions about hybrids' place in natural/magical ecosystems
+- **기원 윤리**: 마법적 혼성화의 윤리에 대한 논쟁
+- **정체성 철학**: 혼종의 이중 본성에 대한 질문
+- **문화적 소속**: 혼종이 사회 구조에 어디에 적합한지에 대한 고려
+- **자연 질서**: 자연/마법 생태계에서 혼종의 위치에 대한 토론
 
-## Notable Hybrid Communities
+## 주목할만한 혼종 커뮤니티
 
-| Community | Location | Characteristics |
+| 커뮤니티 | 위치 | 특징 |
 |-----------|----------|-----------------|
-| **Tidehaven** | Western coastal region | Merfolk-human collaborative settlement |
-| **Plainstrider Clans** | Central grasslands | Nomadic centaur societies |
-| **Siren Archipelago** | Southern island chain | Siren-dominated island culture |
-| **Boundary Enclaves** | Various border regions | Mixed communities of different hybrid types |
+| **조수항** | 서부 해안 지역 | 인어-인간 협력 정착지 |
+| **평원 보행자 씨족** | 중앙 초원 | 유목 켄타우로스 사회 |
+| **세이렌 군도** | 남부 섬 사슬 | 세이렌이 지배하는 섬 문화 |
+| **경계 거주지** | 다양한 국경 지역 | 다양한 혼종 유형의 혼합 커뮤니티 |
 
 ---
 
-> *"We stand not between worlds but as living bridges connecting them. Our dual nature is not division but synthesis."* — Chiron Stormhoof, Centaur Elder and Philosopher 
+> *"우리는 세계 사이에 서 있는 것이 아니라 그것들을 연결하는 살아있는 다리입니다. 우리의 이중 본성은 분열이 아니라 종합입니다."* — 카이론 스톰후프, 켄타우로스 장로이자 철학자
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

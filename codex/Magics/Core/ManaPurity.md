@@ -1,182 +1,185 @@
-# **Mana Purity**: The Refinement of Magical Energy
+# **마나 순도**: 마법 에너지의 정제
 
-## Overview
+## 개요
 
-Mana Purity refers to the degree of refinement and control present in magical energy used for spellcasting. It represents how thoroughly a caster has processed raw magical energy into a form that is stable, precise, and aligned with their intentions.
+마나 순도는 주문 시전에 사용되는 마법 에너지의 정제 및 제어 정도를 나타냅니다. 이는 시전자가 원시 마법 에너지를 얼마나 철저하게 처리하여 안정적이고 정확하며 의도에 부합하는 형태로 만들었는지를 나타냅니다.
 
-Purity is a core metric in determining spell effectiveness, with higher purity typically yielding more controlled and predictable results.
+순도는 주문 효과를 결정하는 핵심 지표이며, 일반적으로 순도가 높을수록 더 제어되고 예측 가능한 결과를 얻을 수 있습니다.
 
-## The Two-Phase Conversion Process
+## 2단계 변환 프로세스
 
-Magical energy undergoes two distinct phases of processing before being used in spellcasting:
+마법 에너지는 주문 시전에 사용되기 전에 두 가지 뚜렷한 처리 단계를 거칩니다.
 
-### Phase 1: Wild Mana to Base Mana Conversion
-- **Input**: Raw Wild Mana from the environment
-- **Process**: Biological absorption and initial stabilization within a creature's body
-- **Output**: Base Mana stored within the caster's internal reserves
-- **Key Metric**: Conversion Effectiveness (quantity of usable energy produced)
-- **Primary Function**: Transforms chaotic environmental energy into stable, internally stored energy
+### 1단계: 야생 마나에서 기본 마나로의 변환
+- **입력**: 환경으로부터의 원시 야생 마나
+- **프로세스**: 생물학적 흡수 및 생명체의 신체 내에서의 초기 안정화
+- **출력**: 시전자의 내부 저장소에 저장된 기본 마나
+- **핵심 지표**: 변환 효율 (생산된 사용 가능한 에너지의 양)
+- **주요 기능**: 혼란스러운 환경 에너지를 안정적인 내부 저장 에너지로 변환
 
-> **Important**: This first phase determines how efficiently a being converts Wild Mana into usable Base Mana, directly affecting their available magical reserves and regeneration rate. Most beings perform this conversion unconsciously as a natural biological function.
+> **중요**: 이 첫 번째 단계는 개체가 야생 마나를 사용 가능한 기본 마나로 얼마나 효율적으로 변환하는지를 결정하며, 이는 사용 가능한 마법 저장량과 재생 속도에 직접적인 영향을 미칩니다. 대부분의 존재는 자연적인 생물학적 기능으로 이 변환을 무의식적으로 수행합니다.
 
-### Phase 2: Base Mana to Elemental Mana Conversion
-- **Input**: Base Mana from the caster's internal reserves
-- **Process**: Intentional refinement and specialization through conscious magical technique
-- **Output**: Elemental Mana + residual Wild Mana
-- **Key Metric**: Mana Purity (quality of the resulting magical energy)
-- **Primary Function**: Transforms neutral Base Mana into specialized forms suitable for spellcasting
+### 2단계: 기본 마나에서 원소 마나로의 변환
+- **입력**: 시전자의 내부 저장소로부터의 기본 마나
+- **프로세스**: 의식적인 마법 기술을 통한 의도적인 정제 및 전문화
+- **출력**: 원소 마나 + 잔류 야생 마나
+- **핵심 지표**: 마나 순도 (결과 마법 에너지의 품질)
+- **주요 기능**: 중립적인 기본 마나를 주문 시전에 적합한 특수 형태로 변환
 
-> **Critical Understanding**: Purity percentage is calculated during this second phase as the ratio of Refined Elemental Mana to total mana (Refined Elemental Mana + Residual Wild Mana).
+> **중요한 이해**: 순도 백분율은 이 두 번째 단계에서 정제된 원소 마나의 총 마나 (정제된 원소 마나 + 잔류 야생 마나) 비율로 계산됩니다.
 
-## Measuring Purity
+## 순도 측정
 
-### Mathematical Expression
-Purity calculations follow the formula:
+### 수학적 표현
+순도 계산은 다음 공식을 따릅니다.
 ```
-Purity Percentage = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+순도 백분율 = (정제된 원소 마나) / (정제된 원소 마나 + 잔류 야생 마나) × 100%
 ```
 
-For example, if a spell contains 30 units of refined Fire Mana and 70 units of residual Wild Mana, its purity would be 30/(30+70) × 100% = 30% purity.
+예를 들어, 주문에 정제된 불 마나 30 단위와 잔류 야생 마나 70 단위가 포함되어 있다면, 순도는 30/(30+70) × 100% = 30% 순도가 됩니다.
 
-### Standard Classification
+### 표준 분류
 
-| Category | Purity Range | Description | Typical Practitioners |
+| 카테고리 | 순도 범위 | 설명 | 일반적인 시전자 |
 |----------|--------------|-------------|----------------------|
-| Critical | 0-10% | Highly unstable, unpredictable | Untrained individuals in distress |
-| Basic | 10-35% | Functional but crude | Beginners, emergency casting |
-| Standard | 35-65% | Balanced and reliable | Journeyman mages, working professionals |
-| Refined | 65-85% | Highly controlled | Master mages, specialists |
-| Perfect | 85-100% | Exceptional precision | Archmages, once-in-a-generation talents |
+| 치명적 | 0-10% | 매우 불안정하고 예측 불가능함 | 고통에 시달리는 훈련받지 않은 개인 |
+| 기본 | 10-35% | 기능적이지만 조잡함 | 초보자, 비상 시 시전 |
+| 표준 | 35-65% | 균형 잡히고 신뢰할 수 있음 | 숙련된 마법사, 전문 직업인 |
+| 정제됨 | 65-85% | 고도로 제어됨 | 마스터 마법사, 전문가 |
+| 완벽 | 85-100% | 뛰어난 정확도 | 대마법사, 일생에 한 번 나올까 말까 한 재능 |
 
-## Sources of Impurity
+## 불순물의 원인
 
-Contamination during Phase 2 conversion can occur from several sources:
+2단계 변환 중 오염은 여러 원인에서 발생할 수 있습니다.
 
-### Internal Factors
-- **Emotional Disturbance**: Strong emotions disrupt the refinement process
-- **Mental Fatigue**: Tired minds struggle to maintain control over the conversion
-- **Physical Strain**: Bodily stress can leak Wild Mana back into the refined output
-- **Insufficient Training**: Lack of proper technique leads to incomplete refinement
+### 내부 요인
+- **정서적 혼란**: 강한 감정은 정제 과정을 방해합니다.
+- **정신적 피로**: 지친 마음은 변환에 대한 통제를 유지하기 위해 고군분투합니다.
+- **신체적 부담**: 신체적 스트레스는 야생 마나를 정제된 출력으로 다시 누출시킬 수 있습니다.
+- **불충분한 훈련**: 적절한 기술 부족은 불완전한 정제로 이어집니다.
 
-### External Factors
-- **Environmental Disruption**: High ambient Wild Mana can interfere with refinement
-- **Magical Interference**: Nearby spellcasting can create ripples in the conversion process
-- **Temporal Anomalies**: Unusual time flows can destabilize the refinement timing
-- **Planar Proximity**: Thin boundaries to other realms can introduce exotic energies
+### 외부 요인
+- **환경적 혼란**: 높은 주변 야생 마나는 정제를 방해할 수 있습니다.
+- **마법적 간섭**: 주변의 주문 시전은 변환 과정에 파문을 일으킬 수 있습니다.
+- **시간적 변칙**: 비정상적인 시간 흐름은 정제 타이밍을 불안정하게 만들 수 있습니다.
+- **차원 근접성**: 다른 영역으로의 얇은 경계는 이국적인 에너지를 도입할 수 있습니다.
 
-### Technical Limitations
-- **Spell Complexity**: More complex patterns are harder to maintain at high purity
-- **Hasty Casting**: Rushing the refinement process leaves more Wild Mana residue
-- **Material Quality**: Inferior focus objects or components can reduce purity
-- **Pattern Conflicts**: Contradictory elements in a spell design can create "leaks"
+### 기술적 제한
+- **주문 복잡성**: 더 복잡한 패턴은 높은 순도를 유지하기가 더 어렵습니다.
+- **성급한 시전**: 정제 과정을 서두르면 더 많은 야생 마나 잔류물이 남습니다.
+- **재료 품질**: 열악한 집중 대상 또는 구성 요소는 순도를 감소시킬 수 있습니다.
+- **패턴 충돌**: 주문 디자인의 모순된 요소는 "누출"을 만들 수 있습니다.
 
-## The Purification Process
+## 정화 과정
 
-Transforming Base Mana into refined Elemental Mana involves several distinct stages:
+기본 마나를 정제된 원소 마나로 변환하는 것은 여러 뚜렷한 단계를 포함합니다.
 
-### 1. Internalization
-- Base Mana is drawn from the caster's internal reserves (result of Phase 1 conversion)
-- The caster brings this Base Mana into active consciousness
-- This stage establishes a connection between intent and energy
+### 1. 내면화
+- 기본 마나가 시전자의 내부 저장소에서 나옵니다 (1단계 변환의 결과).
+- 시전자는 이 기본 마나를 활성 의식으로 가져옵니다.
+- 이 단계는 의도와 에너지 사이의 연결을 설정합니다.
 
-### 2. Filtration
-- The caster separates desired components from chaotic elements
-- Mental discipline acts as a sieve for the energy
-- Focused meditation or ritual gestures enhance this stage
+### 2. 여과
+- 시전자는 혼란스러운 요소로부터 원하는 구성 요소를 분리합니다.
+- 정신적 훈련은 에너지에 대한 체 역할을 합니다.
+- 집중된 명상 또는 의례적 제스처는 이 단계를 향상시킵니다.
 
-### 3. Harmonization
-- Energy patterns are aligned to the caster's intention
-- Visualization techniques strengthen the energy's coherence
-- Personal affinity with the element improves results
+### 3. 조화
+- 에너지 패턴이 시전자의 의도에 맞춰집니다.
+- 시각화 기술은 에너지의 일관성을 강화합니다.
+- 요소와의 개인적인 친화력은 결과를 향상시킵니다.
 
-### 4. Stabilization
-- The refined energy is locked into a stable pattern
-- Spell structure creates a framework to maintain purity
-- The caster's will sustains the refined state until release
+### 4. 안정화
+- 정제된 에너지가 안정적인 패턴으로 잠깁니다.
+- 주문 구조는 순도를 유지하기 위한 프레임워크를 만듭니다.
+- 시전자의 의지는 해제될 때까지 정제된 상태를 유지합니다.
 
-## Wild Mana Concentration Levels
+## 야생 마나 농도 수준
 
-Environmental Wild Mana varies significantly across different locations, affecting the difficulty of maintaining high purity levels during Phase 2 conversion:
+환경 야생 마나는 위치에 따라 크게 다르며, 2단계 변환 동안 높은 순도 수준을 유지하는 데 어려움을 줍니다.
 
-| Environment | Wild Mana Concentration | Purification Difficulty |
+| 환경 | 야생 마나 농도 | 정화 난이도 |
 |-------------|-------------------------|-------------------------|
-| Dead Magic Zone | Negligible (0-0.5%) | Impossible (no energy to refine) |
-| Urban Center | Very Low (0.5-2%) | Easier (less contamination) |
-| Typical Rural Area | Low (2-5%) | Standard |
-| Forest/Natural Setting | Moderate (5-15%) | Moderate |
-| Ancient Grove | High (15-30%) | Challenging |
-| Ley Line Confluence | Very High (30-60%) | Very Difficult |
-| Magical Anomaly | Extreme (60-100%) | Nearly Impossible |
+| 데드 매직 존 | 무시 가능 (0-0.5%) | 불가능 (정제할 에너지 없음) |
+| 도시 중심 | 매우 낮음 (0.5-2%) | 더 쉬움 (오염 감소) |
+| 일반적인 농촌 지역 | 낮음 (2-5%) | 표준 |
+| 숲/자연 환경 | 보통 (5-15%) | 보통 |
+| 고대 숲 | 높음 (15-30%) | 어려움 |
+| 레이 라인 합류점 | 매우 높음 (30-60%) | 매우 어려움 |
+| 마법적 변칙 | 극단적 (60-100%) | 거의 불가능 |
 
-## The Relationship Between Phases
+## 단계 간의 관계
 
-Understanding the clear distinction between the two phases of mana conversion is crucial:
+마나 변환의 두 단계 사이의 명확한 구분을 이해하는 것이 중요합니다.
 
-### Primary Differences
+### 주요 차이점
 
-| Aspect | Phase 1 (Wild → Base) | Phase 2 (Base → Elemental) |
+| 측면 | 1단계 (야생 → 기본) | 2단계 (기본 → 원소) |
 |--------|------------------------|----------------------------|
-| Nature | Biological, largely unconscious | Conscious, technical process |
-| Location | Throughout the body | Primarily in mind and casting apparatus |
-| Timing | Continuous, background process | Active, during spellcasting |
-| Metric | Effectiveness (quantity) | Purity (quality) |
-| Limiting Factor | Species and capacity | Training and technique |
-| Improvement Method | Long-term development | Skill practice and focus |
+| 본질 | 생물학적, 대체로 무의식적 | 의식적, 기술적 과정 |
+| 위치 | 신체 전체 | 주로 정신 및 시전 장치 |
+| 시기 | 지속적, 배경 과정 | 활성, 주문 시전 중 |
+| 지표 | 효율 (양) | 순도 (질) |
+| 제한 요인 | 종 및 용량 | 훈련 및 기술 |
+| 개선 방법 | 장기적 개발 | 기술 연습 및 집중 |
 
-### Why Separate Phases Matter
+### 왜 별도의 단계가 중요한가
 
-1. **Specialization**: Some individuals may excel at Phase 1 (having large mana reserves) while struggling with Phase 2 (producing pure mana), or vice versa
-2. **Diagnosis**: Magical difficulties can be precisely attributed to either collection problems (Phase 1) or refinement problems (Phase 2)
-3. **Training Focus**: Different exercises target improvement in each specific phase
-4. **Tool Design**: Magical implements may be crafted to assist with either phase specifically
+1. **전문화**: 일부 개인은 1단계 (많은 마나 저장량을 가짐)에 능숙하지만 2단계 (순수한 마나 생산)에는 어려움을 겪을 수 있습니다. 또는 그 반대일 수도 있습니다.
+2. **진단**: 마법적 어려움은 수집 문제 (1단계) 또는 정제 문제 (2단계) 중 하나로 정확하게 귀착될 수 있습니다.
+3. **훈련 초점**: 서로 다른 운동은 각 특정 단계의 개선을 목표로 합니다.
+4. **도구 디자인**: 마법 도구는 특정 단계에 도움이 되도록 제작될 수 있습니다.
 
-## Direct Wild Mana Absorption Dangers
+## 직접적인 야생 마나 흡수의 위험
 
-While most magical traditions teach the two-phase process for safety, some practitioners attempt to bypass Phase 1 (biological conversion) and directly manipulate Wild Mana. This carries significant risks:
+대부분의 마법 전통에서는 안전을 위해 2단계 과정을 가르치지만 일부 시전자는 1단계 (생물학적 변환)를 우회하고 야생 마나를 직접 조작하려고 시도합니다. 이는 상당한 위험을 수반합니다.
 
-### Acute Effects
-- **Mana Burns**: Painful energy discharges through the body
-- **Sensory Overload**: Overwhelming magical perceptions
-- **Uncontrolled Manifestations**: Spontaneous spell-like effects
+### 급성 효과
+- **마나 화상**: 신체를 통한 고통스러운 에너지 방출
+- **감각 과부하**: 압도적인 마법적 지각
+- **통제되지 않은 발현**: 자발적인 주문과 유사한 효과
 
-### Chronic Conditions
-- **Pattern Scarring**: Permanent distortions in personal mana flow
-- **Wild Resonance**: Increasing vulnerability to ambient Wild Mana
-- **Elemental Imbalance**: Disruption of internal elemental harmonies
+### 만성 질환
+- **패턴 흉터**: 개인적인 마나 흐름의 영구적인 왜곡
+- **야생 공명**: 주변 야생 마나에 대한 취약성 증가
+- **원소 불균형**: 내부 원소 조화의 파괴
 
-### Catastrophic Outcomes
-- **Cascade Failure**: Complete collapse of personal mana control
-- **Wild Transformation**: Physical mutation from Wild Mana exposure
-- **Mana Rejection**: Inability to process magical energy altogether
+### 파멸적인 결과
+- **연쇄 고장**: 개인적인 마나 통제의 완전한 붕괴
+- **야생 변환**: 야생 마나 노출로 인한 신체적 돌연변이
+- **마나 거부**: 마법 에너지를 전혀 처리할 수 없음
 
-## Practical Applications
+## 실제 응용
 
-### Training Techniques
-- **Meditation Cycles**: Rhythmic breathing paired with mental focus exercises
-- **Purity Crystals**: Tools that provide visual feedback on current purity levels
-- **Pattern Weaving**: Creating increasingly complex designs with stable energy
-- **Echo Casting**: Repeating the same spell to refine the conversion process
+### 훈련 기술
+- **명상 주기**: 정신 집중 운동과 짝을 이루는 리드미컬한 호흡
+- **순도 크리스탈**: 현재 순도 수준에 대한 시각적 피드백을 제공하는 도구
+- **패턴 직조**: 안정적인 에너지로 점점 더 복잡한 디자인 만들기
+- **에코 캐스팅**: 변환 과정을 개선하기 위해 동일한 주문을 반복
 
-### Purity-Enhancing Tools
-- **Focus Objects**: Personal items that help stabilize the conversion process
-- **Purification Chambers**: Spaces designed to minimize external interference
-- **Harmonic Instruments**: Create sounds that resonate with and stabilize magical energy
-- **Purity Inks and Pigments**: Materials that help visualize and maintain pure patterns
+### 순도 향상 도구
+- **집중 대상**: 변환 과정을 안정화하는 데 도움이 되는 개인 소지품
+- **정화실**: 외부 간섭을 최소화하도록 설계된 공간
+- **조화 악기**: 마법 에너지와 공명하고 안정화하는 소리 만들기
+- **순도 잉크 및 안료**: 순수한 패턴을 시각화하고 유지하는 데 도움이 되는 재료
 
-## Cultural Perspectives
+## 문화적 관점
 
-Different magical traditions emphasize varying aspects of purity:
+서로 다른 마법 전통은 순도의 다양한 측면을 강조합니다.
 
-- **Academic Traditions**: Value extremely high purity; view Wild Mana as contamination
-- **Natural Traditions**: Accept moderate Wild Mana content as connecting magic to life force
-- **Divine Traditions**: Focus on intention purity over technical refinement
-- **Innate Casters**: Often have unique biological Phase 1 processes that affect their Phase 2 capabilities
+- **학문적 전통**: 극도로 높은 순도를 중요시함; 야생 마나를 오염으로 간주
+- **자연적 전통**: 마법을 생명력과 연결하는 것으로 중간 정도의 야생 마나 함량을 수용
+- **신성한 전통**: 기술적 정제보다 의도 순도에 초점
+- **타고난 시전자**: 종종 2단계 기능에 영향을 미치는 고유한 생물학적 1단계 과정을 가짐
 
-## Misconceptions
+## 오해
 
-- **"Higher purity always means better magic"**: Some spells actually benefit from controlled Wild Mana content
-- **"Purity is entirely about skill"**: Natural affinity and biological factors significantly impact achievable purity
-- **"Impure magic is always dangerous"**: While risks increase, many practical applications work adequately at lower purity levels
-- **"Purity can be achieved through tools alone"**: No focus object can replace proper technique and understanding
+- **"순도가 높을수록 항상 더 나은 마법을 의미한다"**: 일부 주문은 실제로 제어된 야생 마나 함량의 이점을 얻습니다.
+- **"순도는 전적으로 기술에 관한 것이다"**: 타고난 친화력과 생물학적 요인은 달성 가능한 순도에 상당한 영향을 미칩니다.
+- **"불순한 마법은 항상 위험하다"**: 위험은 증가하지만 많은 실제 응용 프로그램은 낮은 순도 수준에서 적절하게 작동합니다.
+- **"순도는 도구만으로 달성할 수 있다"**: 적절한 기술과 이해를 대체할 수 있는 집중 대상은 없습니다.
 
-> *"Think of Wild Mana as clay from the riverbank. Phase 1 is gathering the clay and removing the largest stones and debris - this is our Base Mana. Phase 2 is working the clay, removing finer impurities, and shaping it to our purpose - this gives us our Elemental Mana with varying levels of purity. Some pottery needs the finest, purest clay, while other vessels actually benefit from certain 'impurities' that give them character and strength."* — Magister Elara Tetherson, Instructor of Fundamental Energies 
+> *"야생 마나를 강둑의 점토라고 생각하십시오. 1단계는 점토를 모으고 가장 큰 돌과 파편을 제거하는 것입니다. 이것이 우리의 기본 마나입니다. 2단계는 점토를 다듬고 더 미세한 불순물을 제거하고 우리의 목적에 맞게 모양을 만드는 것입니다. 이는 다양한 수준의 순도를 가진 원소 마나를 제공합니다. 일부 도자기는 가장 훌륭하고 순수한 점토가 필요하지만 다른 용기는 실제로 그들에게 개성과 강도를 부여하는 특정 '불순물'의 이점을 얻습니다."* — 엘라라 테더슨 대법사, 기초 에너지 강사
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

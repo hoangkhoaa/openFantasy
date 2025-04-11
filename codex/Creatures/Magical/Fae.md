@@ -1,105 +1,109 @@
-# **Fae**: The Ethereal Dancers of Magic
+# **Fae**: 마법의 에테르 댄서
 
-[**Fae**](/codex/Creatures/Fae.md) are the ethereal dancers of magic, their bodies a delicate harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a shimmering harp, they resonate most strongly with the ethereal currents of [**Mana**](/codex/Basic/Mana.md), creating a unique melody of existence that bridges the material and spiritual realms.
+[**Fae**](/codex/Creatures/Fae.md)는 마법의 에테르 댄서이며, 그들의 몸은 [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), 그리고 **Mana Capacity**의 섬세한 조화입니다. 반짝이는 하프처럼, 그들은 [**Mana**](/codex/Basic/Mana.md)의 에테르 흐름과 가장 강하게 공명하여 물질 세계와 영적 세계를 잇는 독특한 존재의 멜로디를 만듭니다.
 
 ## Elemental Composition
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **fae** forms a harmony that favors magical potential:
+[Creatures](/codex/Creatures/Creatures.md)에 자세히 설명된 바와 같이, **fae**의 일반적인 비율은 마법적 잠재력을 선호하는 조화를 이룹니다.
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 5-25% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 15-35% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 50-80% | The bridge between worlds that enables extraordinary magical potential |
+| **Exanthis** | 5-25% | 최소한의 물리적 힘과 내구성을 제공하는 결정질 심장 |
+| **Soul** | 15-35% | 유동적이고 적응 가능한 의식을 형성하는 에테르 본질 |
+| **Mana Capacity** | 50-80% | 특별한 마법적 잠재력을 가능하게 하는 세계 간의 다리 |
 
-This composition grants **fae** their characteristic magical prowess but severely limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+이러한 구성은 **fae**에게 그들의 특징적인 마법적 능력을 부여하지만, 아름다운 소리를 내지만 조심스럽게 다루어야 하는 섬세한 악기처럼 다른 종에 비해 물리적 회복력을 심각하게 제한합니다.
 
 ### Individual Variations
 
-While the model composition represents the typical fae, individual variations exist:
+모델 구성은 일반적인 fae를 나타내지만, 개별적인 변형이 존재합니다.
 
-- **Arcane Fae**: Some fae possess Mana Capacity as high as 85%, making them among the most powerful spellcasters in existence, though physically fragile with as little as 5% Exanthis.
-- **Court Champions**: Rare fae have Exanthis levels approaching 30%, allowing them to serve as defenders of their courts while maintaining significant magical abilities (55% Mana Capacity).
-- **Dream Weavers**: Those with higher Soul percentages (up to 40%) develop exceptional abilities in manipulating consciousness and dreams, often becoming powerful enchanters or diplomatic emissaries.
-- **Seasonal Fae**: Specialized fae with composition tailored to their court's season (e.g., Summer Court: 15% Exanthis, 25% Soul, 60% Mana Capacity; Winter Court: 20% Exanthis, 20% Soul, 60% Mana Capacity).
-- **Twilight Dancers**: A unique composition of (10% Exanthis, 30% Soul, 60% Mana Capacity) creates fae who excel at manipulating the boundaries between worlds and realities.
+- **Arcane Fae**: 일부 fae는 Mana Capacity가 최대 85%에 달하여 현존하는 가장 강력한 주문 시전자 중 하나이지만 Exanthis가 5%에 불과하여 물리적으로는 연약합니다.
+- **Court Champions**: 희귀한 fae는 Exanthis 수준이 30%에 가까워 코트의 수호자 역할을 하면서도 상당한 마법 능력을 유지할 수 있습니다 (55% Mana Capacity).
+- **Dream Weavers**: 더 높은 Soul 비율 (최대 40%)을 가진 사람들은 의식과 꿈을 조작하는 뛰어난 능력을 개발하여 종종 강력한 마법사 또는 외교 사절이 됩니다.
+- **Seasonal Fae**: 코트의 계절에 맞춰 구성된 특수 fae (예: Summer Court: 15% Exanthis, 25% Soul, 60% Mana Capacity; Winter Court: 20% Exanthis, 20% Soul, 60% Mana Capacity).
+- **Twilight Dancers**: (10% Exanthis, 30% Soul, 60% Mana Capacity)의 독특한 구성은 세계와 현실의 경계를 조작하는 데 탁월한 fae를 만듭니다.
 
 ## Physical Characteristics
 
-**Fae** are known for their ethereal beauty and otherworldly appearance:
-- Slender and graceful, with proportions that seem to defy reality
-- Eyes that shimmer with inner light, reflecting their connection to **Mana**
-- Ears that extend into elegant points, attuned to the subtle harmonies of magic
-- Skin that seems to glow with inner light, like moonlight on water
-- Hair that flows with an otherworldly grace, often in impossible colors
-- Wings that vary in form from delicate insect-like structures to ethereal light
+**Fae**는 그들의 에테르적인 아름다움과 초자연적인 외모로 유명합니다.
+- 현실을 거스르는 듯한 비율로 가늘고 우아함
+- **Mana**와의 연결을 반영하는 내면의 빛으로 빛나는 눈
+- 마법의 미묘한 조화에 맞춰진 우아한 포인트로 뻗어 나온 귀
+- 물에 비친 달빛처럼 내면의 빛으로 빛나는 듯한 피부
+- 종종 불가능한 색깔로 초자연적인 우아함으로 흐르는 머리카락
+- 섬세한 곤충과 같은 구조에서 에테르 빛에 이르기까지 형태가 다양한 날개
 
 ## Magical Affinity
 
-**Fae** demonstrate exceptional proficiency in manipulating **Mana**, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Store vast amounts of **Mana** within their mana reservoirs, like deep wells of liquid light
-- Achieve extraordinary purity levels in spell casting, like artists painting with pure starlight
-- Specialize in enchantment and illusion magic with unparalleled mastery, like composers who have perfected the art of creating beautiful lies
+**Fae**는 악기를 마스터한 비르투오소 음악가처럼 **Mana**를 조작하는 데 뛰어난 숙련도를 보여줍니다. 그들의 구성은 그들이 다음을 할 수 있게 해줍니다.
+- 액체 빛의 깊은 우물처럼 그들의 마나 저장소 안에 막대한 양의 **Mana**를 저장
+- 순수한 별빛으로 그림을 그리는 예술가처럼 주문 시전에서 뛰어난 순도 수준을 달성
+- 아름다운 거짓말을 창조하는 기술을 완성한 작곡가처럼 비할 데 없는 숙련도로 마법 부여 및 환상 마법 전문화
 
-This specialization makes **fae** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+이러한 전문화는 **fae**가 선택한 마법 전통에서 최고 수준의 숙련도를 달성할 수 있게 해주지만, 아름다운 소리를 내지만 거친 취급을 견딜 수 없는 섬세한 악기처럼 물리적 힘이나 회복력이 필요한 작업에는 어려움을 겪을 수 있습니다.
 
 ## Lifespan and Soul Decay
 
-The **soul decay** timeline for **fae**, from birth to complete decay, is approximately 800 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+**fae**의 **soul decay** 타임라인은 출생부터 완전한 부패까지 약 800년이며, 시대를 비추는 천천히 타는 불꽃과 같습니다. 이 연장된 수명은 그들이 다음을 할 수 있게 해줍니다.
+- 수세기에 걸쳐 방대한 지식과 지혜를 축적
+- 특정 장소와 마법적 전통에 대한 깊은 연결 구축
+- 복잡한 관습과 의식을 가진 복잡한 사회 형성
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+그러나 그들의 느린 soul decay는 또한 그들이 다른 종보다 더 느리게 변하고 적응한다는 것을 의미하며, 아름답지만 시대를 통해 변하지 않는 멜로디와 같습니다.
 
 ## Habitat and Distribution
 
-**Fae** primarily inhabit:
-- **Eastern Veldrassil**, where the currents of **Mana** flow most intensely
-- Enchanted forests and magical groves, where the boundaries between worlds grow thin
-- Floating islands and crystal spires, where they can be closer to the celestial harmonies
-- Hidden realms accessible only through magical portals, like secret gardens of light
+**Fae**는 주로 다음 장소에 서식합니다.
+- **Eastern Veldrassil**, 그곳은 **Mana**의 흐름이 가장 강렬한 곳입니다.
+- 세계 간의 경계가 얇아지는 마법에 걸린 숲과 마법의 숲
+- 그들이 천상의 조화에 더 가까워질 수 있는 떠다니는 섬과 수정 첨탑
+- 마법 포털을 통해서만 접근할 수 있는 숨겨진 영역, 빛의 비밀 정원과 같습니다.
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+이러한 위치는 심포니를 위한 완벽한 음향처럼 마법 연구와 영적 명상을 위한 이상적인 환경을 제공합니다.
 
 ## Cultural Impact
 
-In the world of **OpenFantasy**, **fae** play a crucial role in preserving ancient magical traditions and enchanting the world with beauty, like weavers of ethereal melodies. Their societies are centers of:
-- Arcane research and magical innovation
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+**OpenFantasy** 세계에서 **fae**는 고대 마법 전통을 보존하고 에테르 멜로디의 직조공처럼 아름다움으로 세계를 매료시키는 데 중요한 역할을 합니다. 그들의 사회는 다음의 중심지입니다.
+- 비전 연구 및 마법 혁신
+- 예술적 표현 및 미적 정제
+- 외교 관계 및 문화 교류
 
-The proximity to the strongest currents of **Mana** has shaped fae culture around the study and mastery of magic, creating a society where magical ability and beauty are highly valued.
+가장 강한 **Mana** 흐름에 대한 근접성은 마법의 연구와 숙달을 중심으로 fae 문화를 형성하여 마법 능력과 아름다움이 높이 평가되는 사회를 만듭니다.
 
 ## Relationship with Other Species
 
-**Fae** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and amusement, often leading to complex interactions
-- With **Elves**: A deep connection based on shared magical affinities and aesthetic sensibilities
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Beastfolk**: A wary relationship, as beastfolk are less susceptible to fae enchantments
+**Fae**는 다른 종과 복잡한 관계를 유지합니다.
+- [**Humans**](/codex/Creatures/Human.md)와 함께: 매력과 재미의 혼합으로 종종 복잡한 상호 작용으로 이어집니다.
+- **Elves**와 함께: 공유된 마법적 친화력과 미적 감각에 기반한 깊은 연결
+- **Dwarves**와 함께: 그들의 장인 정신을 인정하지만 그들의 방식이 이상하다고 생각하면서 존경스러운 거리
+- **Beastfolk**와 함께: beastfolk은 fae 마법에 덜 민감하기 때문에 조심스러운 관계
 
-These relationships are often characterized by a sense of cultural superiority, as **fae** view themselves as the true children of magic and beauty.
+이러한 관계는 종종 문화적 우월감으로 특징지어지며, **fae**는 자신을 마법과 아름다움의 진정한 자녀로 봅니다.
 
 ## Notable Fae Traits
 
-- **Magical Mastery**: Fae excel in enchantment and illusion magic, often specializing in one area to the exclusion of others
-- **Ethereal Beauty**: Fae possess an otherworldly beauty that can be both enchanting and unsettling
-- **Environmental Sensitivity**: Fae are deeply attuned to their surroundings, particularly in magical environments
-- **Cultural Preservation**: Fae societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Fae have developed highly refined artistic and cultural traditions
+- **Magical Mastery**: Fae는 마법 부여 및 환상 마법에 뛰어나며 종종 다른 영역을 배제하고 한 영역을 전문화합니다.
+- **Ethereal Beauty**: Fae는 매혹적이고 불안정할 수 있는 초자연적인 아름다움을 가지고 있습니다.
+- **Environmental Sensitivity**: Fae는 특히 마법 환경에서 주변 환경에 깊이 조율되어 있습니다.
+- **Cultural Preservation**: Fae 사회는 전통과 지식을 보존하는 데 큰 중점을 둡니다.
+- **Aesthetic Refinement**: Fae는 고도로 세련된 예술적 및 문화적 전통을 개발했습니다.
 
 ## Fae Courts
 
-Fae society is organized into numerous courts, each with its own specialties and traditions:
+Fae 사회는 각각 고유한 전문성과 전통을 가진 수많은 법원으로 구성됩니다.
 
 | Court | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
-| **Summer Court** | Light magic, growth | Sunlit groves | Radiant beauty, nurturing magic |
-| **Winter Court** | Ice magic, preservation | Frost-covered realms | Cold precision, preservation magic |
-| **Spring Court** | Life magic, renewal | Blooming gardens | Fertility magic, renewal rituals |
-| **Autumn Court** | Transformation magic, harvest | Golden forests | Change magic, harvest celebrations |
-| **Twilight Court** | Shadow magic, transition | Dusk-lit realms | Transition magic, balance between light and dark |
-| **Dawn Court** | Hope magic, new beginnings | Morning-lit meadows | Hope magic, new beginning rituals |
+| **Summer Court** | 빛 마법, 성장 | 햇빛이 비치는 숲 | 빛나는 아름다움, 양육 마법 |
+| **Winter Court** | 얼음 마법, 보존 | 서리가 덮인 영역 | 차가운 정밀도, 보존 마법 |
+| **Spring Court** | 생명 마법, 갱신 | 꽃이 피는 정원 | 다산 마법, 갱신 의식 |
+| **Autumn Court** | 변환 마법, 수확 | 황금빛 숲 | 변화 마법, 수확 축제 |
+| **Twilight Court** | 그림자 마법, 전환 | 황혼이 비치는 영역 | 전환 마법, 빛과 어둠 사이의 균형 |
+| **Dawn Court** | 희망 마법, 새로운 시작 | 아침 햇살이 비치는 초원 | 희망 마법, 새로운 시작 의식 |
 
-Understanding the nature of **fae** provides insight into the magical and aesthetic aspects of the world of **OpenFantasy**, like listening to the ethereal melodies that dance through the enchanted forests and crystal spires. 
+**fae**의 본성을 이해하는 것은 마법에 걸린 숲과 수정 첨탑을 통해 춤추는 에테르 멜로디를 듣는 것처럼 **OpenFantasy** 세계의 마법적 및 미적 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

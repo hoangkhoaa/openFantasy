@@ -1,104 +1,108 @@
-# **Dwarves**: The Steadfast Guardians of Tradition
+# **드워프**: 불변하는 전통의 수호자
 
-[**Dwarves**](/codex/Creatures/Dwarves.md) are the steadfast guardians of tradition, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a bass drum that provides the foundation for an orchestra, they embody resilience and craftsmanship, creating a unique melody of existence that emphasizes durability, skill, and cultural continuity.
+[**드워프**](/codex/Creatures/Dwarves.md)는 불변하는 전통의 수호자이며, 그들의 육체는 [**엑산티스**](/codex/Basic/Exanthis.md), [**영혼**](/codex/Basic/Soul.md), 그리고 **마나 용량**의 조화로운 조합입니다. 오케스트라의 기반을 제공하는 베이스 드럼처럼, 그들은 회복력과 장인 정신을 구현하며, 내구성, 기술, 문화적 연속성을 강조하는 독특한 존재의 멜로디를 창조합니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dwarves** forms a harmony that favors physical resilience:
+[Creatures](/codex/Creatures/Creatures.md)에 자세히 설명된 바와 같이, **드워프**의 전형적인 비율은 물리적 회복력을 선호하는 조화를 이룹니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that provides exceptional physical strength and durability |
-| **Soul** | 20-35% | The ethereal essence that shapes a focused and determined consciousness |
-| **Mana Capacity** | 5-25% | The bridge between worlds that enables runic magical potential |
+| **엑산티스** | 50-70% | 탁월한 물리적 힘과 내구성을 제공하는 결정형 심장 |
+| **영혼** | 20-35% | 집중되고 결단력 있는 의식을 형성하는 미묘한 정수 |
+| **마나 용량** | 5-25% | 룬 마법 잠재력을 가능하게 하는 세계 간의 다리 |
 
-This composition grants **dwarves** their characteristic physical resilience but typically limits their magical abilities compared to other species, like a sturdy instrument that can withstand rough handling but produces a limited range of sounds.
+이 구성은 **드워프**에게 특유의 물리적 회복력을 부여하지만, 거친 취급을 견딜 수 있지만 제한된 범위의 소리를 내는 견고한 악기처럼, 일반적으로 다른 종족에 비해 마법 능력을 제한합니다.
 
-### Individual Variations
+### 개인적 변형
 
-While the model composition represents the typical dwarf, individual variations exist:
+모델 구성은 전형적인 드워프를 나타내지만, 개인적인 변형이 존재합니다.
 
-- **Mountain Kings**: Some dwarves possess Exanthis levels as high as 75%, making them among the most physically resilient beings in existence, though often with minimal magical ability (5% Mana Capacity).
-- **Soul Smiths**: Those with higher Soul percentages (up to 40%) develop exceptional craftsmanship and artistic abilities, often becoming legendary artisans or cultural leaders whose works contain a fragment of their very essence.
-- **Rune Masters**: Rare individuals have Mana Capacity approaching 30%, allowing them to create powerful runic enchantments and artifacts, though they typically maintain significant physical resilience (45% Exanthis).
-- **Balanced Dwarves**: Some maintain a more balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity), allowing them to adapt to various roles within dwarven society.
-- **Forge Guardians**: A specialized composition of (65% Exanthis, 30% Soul, 5% Mana Capacity) creates dwarves who are exceptionally resistant to heat, fire, and physical damage, perfect for the most dangerous forging work.
+- **산의 왕**: 일부 드워프는 엑산티스 수치가 75%까지 높아서, 최소한의 마법 능력(5% 마나 용량)을 가지지만, 현존하는 가장 물리적으로 회복력이 좋은 존재 중 하나입니다.
+- **영혼 대장장이**: 더 높은 영혼 비율(최대 40%)을 가진 사람들은 뛰어난 장인 정신과 예술적 능력을 개발하며, 종종 자신의 정수의 조각을 담고 있는 전설적인 장인이나 문화 지도자가 됩니다.
+- **룬 마스터**: 드물게 마나 용량이 30%에 가까워지는 사람들은 강력한 룬 마법과 유물을 만들 수 있지만, 일반적으로 상당한 물리적 회복력(45% 엑산티스)을 유지합니다.
+- **균형 잡힌 드워프**: 일부는 더 균형 잡힌 구성(50% 엑산티스, 25% 영혼, 25% 마나 용량)을 유지하여 드워프 사회 내에서 다양한 역할에 적응할 수 있습니다.
+- **대장간 수호자**: (65% 엑산티스, 30% 영혼, 5% 마나 용량)의 특수한 구성은 열, 불, 물리적 손상에 대해 매우 강한 드워프를 만들어 가장 위험한 단조 작업에 완벽합니다.
 
-## Physical Characteristics
+## 물리적 특성
 
-**Dwarves** are known for their sturdy build and connection to the earth:
-- Short and stocky, with dense muscle and bone structure
-- Broad shoulders and strong limbs, built for physical labor
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+**드워프**는 견고한 체격과 땅과의 연결로 유명합니다.
+- 키가 작고 몸집이 튼튼하며, 밀도가 높은 근육과 뼈 구조
+- 넓은 어깨와 튼튼한 팔다리, 육체 노동에 적합
+- 살아있는 돌처럼, 자연적인 보호 기능을 제공하는 두꺼운 피부
+- [**엑산티스**](/codex/Basic/Exanthis.md)와의 연결을 반영하는 내면의 빛으로 빛나는 눈
+- 종종 클랜과 지위의 상징으로 복잡하게 땋은 수염
+- 폭풍우를 견디는 산처럼, 독과 질병에 대한 자연적인 저항력
 
-## Physical and Magical Affinity
+## 물리적 및 마법적 친화력
 
-**Dwarves** demonstrate exceptional proficiency in physical resilience and craftsmanship, like master artisans who have perfected their craft. Their composition allows them to:
-- Develop extraordinary durability and strength, like living mountains
-- Create and work with materials that other species find impossible to shape
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+**드워프**는 마치 자신의 기술을 완벽하게 연마한 명장인처럼, 물리적 회복력과 장인 정신에서 뛰어난 숙련도를 보여줍니다. 그들의 구성은 다음과 같은 것들을 가능하게 합니다.
+- 살아있는 산처럼, 비범한 내구성과 힘을 개발
+- 다른 종족이 형성하기 불가능하다고 생각하는 재료를 만들고 작업
+- 마법 연못의 표면을 깨는 돌처럼, 높은 **엑산티스** 함량을 통해 마법 효과에 저항
 
-This resilience makes **dwarves** capable of achieving feats of endurance that other species can only dream of, though they may struggle with tasks requiring flexibility or magical finesse, like a solid foundation that provides stability but resists change.
+이 회복력은 **드워프**가 다른 종족이 꿈꿀 수밖에 없는 인내의 위업을 달성할 수 있게 해주지만, 안정성을 제공하지만 변화에 저항하는 견고한 기초처럼, 유연성이나 마법적 솜씨가 필요한 작업에는 어려움을 겪을 수 있습니다.
 
-## Lifespan and Soul Decay
+## 수명과 영혼 부패
 
-The **soul decay** timeline for **dwarves**, from birth to complete decay, is approximately 300 years, like a slow-burning forge that illuminates the ages. This extended lifespan allows them to:
-- Master complex crafts and techniques over generations
-- Develop deep connections to their ancestral lands and traditions
-- Form stable societies with strong cultural continuity
+**드워프**의 **영혼 부패** 시간표는 출생부터 완전한 부패까지 약 300년이며, 시대를 밝히는 느리게 타는 용광로와 같습니다. 이 연장된 수명은 그들이 다음을 가능하게 합니다.
+- 여러 세대에 걸쳐 복잡한 기술과 기법을 마스터
+- 그들의 조상 땅과 전통에 대한 깊은 연결을 개발
+- 강력한 문화적 연속성을 가진 안정적인 사회 형성
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains constant through the ages.
+그러나 그들의 느린 영혼 부패는 또한 시대에 걸쳐 변함없이 유지되는 멜로디처럼, 그들이 다른 종족보다 더 느리게 변화하고 적응한다는 것을 의미합니다.
 
-## Habitat and Distribution
+## 서식지 및 분포
 
-**Dwarves** primarily inhabit:
-- Mountain ranges and underground cities, where they can be closest to the earth
-- Regions rich in [**Exanthis**](/codex/Basic/Exanthis.md), where their natural resistance to magic is strongest
-- Strategic locations that provide natural defenses and valuable resources
+**드워프**는 주로 다음 장소에 서식합니다.
+- 그들이 땅과 가장 가까울 수 있는 산맥과 지하 도시
+- 그들의 자연적인 마법 저항력이 가장 강한 [**엑산티스**](/codex/Basic/Exanthis.md)가 풍부한 지역
+- 자연 방어와 귀중한 자원을 제공하는 전략적 위치
 
-These locations provide ideal environments for craftsmanship and defense, like a well-fortified stage for their performance.
+이러한 위치는 그들의 공연을 위한 잘 요새화된 무대처럼, 장인 정신과 방어를 위한 이상적인 환경을 제공합니다.
 
-## Cultural Impact
+## 문화적 영향
 
-In the world of **OpenFantasy**, **dwarves** play a crucial role in preserving traditional crafts and techniques, like archivists of ancient melodies. Their societies are centers of:
-- Master craftsmanship and engineering
-- Traditional wisdom and cultural continuity
-- Military strength and defensive strategy
+**OpenFantasy**의 세계에서, **드워프**는 고대 멜로디의 기록 보관자처럼, 전통적인 기술과 기법을 보존하는 데 중요한 역할을 합니다. 그들의 사회는 다음의 중심지입니다.
+- 명장인 정신과 공학
+- 전통적인 지혜와 문화적 연속성
+- 군사력과 방어 전략
 
-The connection to the earth and [**Exanthis**](/codex/Basic/Exanthis.md) has shaped dwarven culture around respect for tradition, craftsmanship, and resilience, creating a society where skill and honor are highly valued.
+땅과 [**엑산티스**](/codex/Basic/Exanthis.md)와의 연결은 기술과 명예가 높이 평가되는 사회를 만들어 전통, 장인 정신, 회복력에 대한 존경심을 중심으로 드워프 문화를 형성했습니다.
 
-## Relationship with Other Species
+## 다른 종족과의 관계
 
-**Dwarves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A pragmatic alliance based on mutual trade and defense
-- With **Elves**: A historical rivalry born from their different approaches to the world
-- With **Beastfolk**: A respectful alliance based on mutual respect for strength and honor
-- With **Giants**: A cautious relationship, as dwarves are among the few who can match giant strength with technology
+**드워프**는 다른 종족과 복잡한 관계를 유지합니다.
+- [**인간**](/codex/Creatures/Human.md)과: 상호 무역과 방어를 기반으로 한 실용적인 동맹
+- **엘프**와: 세상에 대한 다른 접근 방식에서 비롯된 역사적 라이벌 관계
+- **수인**과: 힘과 명예에 대한 상호 존중에 기반한 존경스러운 동맹
+- **거인**과: 드워프는 기술로 거인의 힘에 맞설 수 있는 몇 안 되는 종족 중 하나이므로 신중한 관계
 
-These relationships are often characterized by a sense of pride in their craftsmanship and resilience, as **dwarves** view themselves as the true children of the earth.
+이러한 관계는 종종 **드워프**가 스스로를 땅의 진정한 자녀로 여기기 때문에, 그들의 장인 정신과 회복력에 대한 자부심으로 특징지어집니다.
 
-## Notable Dwarven Traits
+## 주목할 만한 드워프의 특징
 
-- **Physical Resilience**: Dwarves excel in durability and strength, often surpassing other species in their ability to endure
-- **Master Craftsmanship**: Dwarves are renowned for their skill in crafting weapons, armor, and other items
-- **Magical Resistance**: Their high **Exanthis** content makes them naturally resistant to many magical effects
-- **Traditional Wisdom**: Dwarves place great emphasis on preserving traditional knowledge and techniques
-- **Clan Structure**: Dwarven society is organized around powerful clans, each with its own traditions and specialties
+- **물리적 회복력**: 드워프는 내구성과 힘이 뛰어나며, 종종 다른 종족의 인내력을 능가합니다.
+- **명장인 정신**: 드워프는 무기, 갑옷 및 기타 아이템 제작 기술로 유명합니다.
+- **마법 저항력**: 그들의 높은 **엑산티스** 함량은 그들을 많은 마법 효과에 자연적으로 저항하게 만듭니다.
+- **전통적인 지혜**: 드워프는 전통적인 지식과 기술을 보존하는 데 큰 중점을 둡니다.
+- **클랜 구조**: 드워프 사회는 고유한 전통과 전문 분야를 가진 강력한 클랜을 중심으로 조직됩니다.
 
-## Dwarven Clans
+## 드워프 클랜
 
-Dwarven society is organized into numerous clans, each with its own specialties and traditions:
+드워프 사회는 수많은 클랜으로 조직되어 있으며, 각 클랜은 고유한 전문 분야와 전통을 가지고 있습니다.
 
-| Clan | Specialty | Territory | Notable Traits |
+| 클랜 | 전문 분야 | 영역 | 주목할 만한 특징 |
 |---------|---------------|---------|-------------------|
-| **Ironheart** | Metalworking, weapons | Northern Mountains | Fierce warriors, master smiths |
-| **Stonefist** | Architecture, engineering | Central Range | Master builders, tunnel experts |
-| **Goldweaver** | Jewelry, fine crafts | Eastern Peaks | Wealthy traders, artistic masters |
-| **Fireforge** | Magical items, runes | Volcanic Region | Rune masters, fire magic specialists |
-| **Deepdelver** | Mining, gemcutting | Deep Caves | Expert miners, gem specialists |
-| **Stormhammer** | Naval engineering, shipbuilding | Coastal Cliffs | Master shipwrights, naval experts |
+| **아이언하트** | 금속 가공, 무기 | 북부 산맥 | 맹렬한 전사, 명장인 |
+| **스톤피스트** | 건축, 공학 | 중앙 산맥 | 마스터 빌더, 터널 전문가 |
+| **골드위버** | 보석, 고급 공예 | 동부 봉우리 | 부유한 상인, 예술적 거장 |
+| **파이어포지** | 마법 아이템, 룬 | 화산 지대 | 룬 마스터, 불 마법 전문가 |
+| **딥델버** | 광업, 보석 세공 | 깊은 동굴 | 숙련된 광부, 보석 전문가 |
+| **스톰해머** | 해군 공학, 조선 | 해안 절벽 | 마스터 조선공, 해군 전문가 |
 
-Understanding the nature of **dwarves** provides insight into the traditional aspects of the world of **OpenFantasy**, like listening to the deep, steady rhythms that pulse through the mountains and earth. 
+**드워프**의 본질을 이해하는 것은 산과 땅을 통해 맥동하는 깊고 꾸준한 리듬을 듣는 것처럼 **OpenFantasy** 세계의 전통적인 측면에 대한 통찰력을 제공합니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

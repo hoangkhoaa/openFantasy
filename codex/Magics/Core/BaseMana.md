@@ -1,184 +1,187 @@
-# **Base Mana**: The Foundation of All Magic
+# **기본 마나**: 모든 마법의 기초
 
-> *"All spells, from the simplest light to the most complex transmutation, begin with Base Mana. It is the universal clay from which all magical effects are sculpted."* — Archmage Elara Lumestriel
+> *"가장 단순한 빛에서 가장 복잡한 변환까지, 모든 주문은 기본 마나에서 시작됩니다. 그것은 모든 마법 효과가 조각되는 보편적인 점토입니다."* — 대마법사 엘라라 루메스트리엘
 
-## Quick Reference
-- [Fundamental Properties](#fundamental-properties)
-- [Generation and Storage](#generation-and-storage)
-- [Conversion to Elemental Types](#conversion-to-elemental-types)
-- [Magical Resonance](#magical-resonance)
-- [Training Techniques](#training-techniques)
-- [Historical Understanding](#historical-understanding)
+## 빠른 참조
+- [기본 속성](#기본-속성)
+- [생성 및 저장](#생성-및-저장)
+- [원소 유형으로의 변환](#원소-유형으로의-변환)
+- [마법 공명](#마법-공명)
+- [훈련 기법](#훈련-기법)
+- [역사적 이해](#역사적-이해)
 
-## Overview
+## 개요
 
-Base Mana is the fundamental, purified magical energy that forms the foundation of all spellcasting in OpenFantasy. Unlike raw [Wild Mana](/codex/Magics/Core/WildMana.md), which exists as chaotic environmental energy, Base Mana represents stabilized magical potential that has been processed through a living being's internal systems. It serves as both the structural framework for spells and the raw material from which specialized elemental mana types are derived.
+기본 마나는 OpenFantasy의 모든 주문 시전의 기초를 형성하는 근본적이고 정제된 마법 에너지입니다. 혼돈스러운 환경 에너지로 존재하는 날것의 [야생 마나](/codex/Magics/Core/WildMana.md)와는 달리, 기본 마나는 살아있는 존재의 내부 시스템을 통해 처리된 안정화된 마법 잠재력을 나타냅니다. 이것은 주문의 구조적 틀이자 특수한 원소 마나 유형이 파생되는 원료 역할을 합니다.
 
-## Fundamental Properties
+## 기본 속성
 
-### Physical Characteristics
-- **Appearance**: Translucent, silver-white energy with a subtle pulsing rhythm
-- **Sensation**: Produces a gentle, steady warmth when actively manipulated
-- **Stability**: Highly stable and predictable compared to Wild Mana
-- **Storage**: Can be safely contained within living beings indefinitely
+### 물리적 특성
+- **외형**: 미묘한 맥동 리듬이 있는 반투명한 은백색 에너지
+- **감각**: 능동적으로 조작할 때 부드럽고 꾸준한 따뜻함을 생성
+- **안정성**: 야생 마나에 비해 매우 안정적이고 예측 가능
+- **저장**: 살아있는 존재 내에 무한히 안전하게 보관 가능
 
-### Magical Attributes
-- **Neutrality**: Contains no inherent elemental alignment
-- **Adaptability**: Can be transformed into any specialized mana type
-- **Structure**: Provides the binding framework that holds spell patterns together
-- **Resonance**: Naturally responsive to caster's mental patterns and intentions
+### 마법 속성
+- **중립성**: 고유한 원소 정렬을 포함하지 않음
+- **적응성**: 모든 특수한 마나 유형으로 변환 가능
+- **구조**: 주문 패턴을 함께 유지하는 바인딩 프레임워크 제공
+- **공명**: 시전자의 정신 패턴과 의도에 자연스럽게 반응
 
-## Generation and Storage
+## 생성 및 저장
 
-### The Two-Phase Conversion Process
+### 2단계 변환 과정
 
-Base Mana occupies the crucial middle position in the magical energy conversion continuum:
+기본 마나는 마법 에너지 변환 연속체에서 중요한 중간 위치를 차지합니다.
 
-1. **Phase 1**: Wild Mana → Base Mana (biological, largely unconscious)
-   - Wild Mana from the environment is absorbed and filtered
-   - Chaotic patterns are ordered into coherent energy
-   - Resulting Base Mana is stored in the caster's internal reserves
+1. **1단계**: 야생 마나 → 기본 마나 (생물학적, 대체로 무의식적)
+   - 환경으로부터 야생 마나가 흡수되고 걸러집니다.
+   - 혼돈스러운 패턴이 일관된 에너지로 정돈됩니다.
+   - 생성된 기본 마나는 시전자의 내부 저장소에 저장됩니다.
    
-2. **Phase 2**: Base Mana → Elemental Mana (technical, conscious)
-   - Base Mana is drawn from internal reserves during spellcasting
-   - It is shaped according to the spell's pattern requirements
-   - Portions are specialized into elemental forms as needed
+2. **2단계**: 기본 마나 → 원소 마나 (기술적, 의식적)
+   - 주문 시전 중에 내부 저장소에서 기본 마나가 끌어옵니다.
+   - 주문의 패턴 요구 사항에 따라 모양이 조정됩니다.
+   - 필요에 따라 일부는 원소 형태로 전문화됩니다.
 
-> **CRITICAL**: All mana stored within living creatures exists as Base Mana, not Wild Mana or Elemental Mana. This natural neutralization is essential for biological compatibility.
+> **중요**: 살아있는 생물 내에 저장된 모든 마나는 야생 마나 또는 원소 마나가 아닌 기본 마나로 존재합니다. 이 자연적인 중화는 생물학적 호환성에 필수적입니다.
 
-### Storage Capacity
+### 저장 용량
 
-The maximum amount of Base Mana a caster can store is determined by their Mana Capacity:
+시전자가 저장할 수 있는 최대 기본 마나 양은 마나 용량에 따라 결정됩니다.
 
-| Capacity Level | Base Mana Storage | Description |
+| 용량 수준 | 기본 마나 저장 | 설명 |
 |----------------|-------------------|-------------|
-| 5-15% | Very Low | Sufficient only for the simplest spells |
-| 15-30% | Low | Adequate for basic magical practices |
-| 30-50% | Moderate | Standard for professional spellcasters |
-| 50-70% | High | Characteristic of advanced practitioners |
-| 70-85% | Very High | Typical of archmages and magical specialists |
-| 85%+ | Exceptional | Rare even among master spellcasters |
+| 5-15% | 매우 낮음 | 가장 간단한 주문에만 충분 |
+| 15-30% | 낮음 | 기본적인 마법 연습에 적합 |
+| 30-50% | 보통 | 전문 주문 시전자의 표준 |
+| 50-70% | 높음 | 고급 수행자의 특징 |
+| 70-85% | 매우 높음 | 대마법사 및 마법 전문가의 일반적인 특징 |
+| 85%+ | 예외적 | 숙련된 주문 시전자 중에서도 드뭄 |
 
-For detailed information on capacity ranges and regeneration rates, see [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md).
+용량 범위 및 재생 속도에 대한 자세한 내용은 [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md)를 참조하십시오.
 
-### Biological Factors
+### 생물학적 요인
 
-The efficiency of Wild Mana to Base Mana conversion varies widely based on:
+야생 마나에서 기본 마나로의 변환 효율성은 다음과 같은 요인에 따라 크게 달라집니다.
 
-- **Species Differences**: Some species (like Elves) naturally excel at Phase 1 conversion
-- **Individual Variation**: Each person has unique conversion effectiveness
-- **Health Status**: Physical and mental wellness affects conversion efficiency
-- **Training Level**: Conversion can be improved through specific exercises
+- **종의 차이**: 일부 종 (예: 엘프)은 자연적으로 1단계 변환에 뛰어납니다.
+- **개인차**: 각 개인은 고유한 변환 효율성을 가지고 있습니다.
+- **건강 상태**: 신체적 및 정신적 건강이 변환 효율성에 영향을 미칩니다.
+- **훈련 수준**: 특정 운동을 통해 변환을 개선할 수 있습니다.
 
-## Conversion to Elemental Types
+## 원소 유형으로의 변환
 
-### Base to Specialized Transformation
+### 기본에서 특수 변환
 
-During spellcasting, Base Mana undergoes specialization into various elemental types:
+주문 시전 중에 기본 마나는 다양한 원소 유형으로 전문화됩니다.
 
-1. **Intention Formation**: The caster visualizes the desired magical effect
-2. **Pattern Creation**: Base Mana is shaped into the spell's structural framework
-3. **Elemental Infusion**: Portions of the Base Mana are attuned to specific elements
-4. **Integration**: Specialized mana types are woven together within the Base Mana framework
+1. **의도 형성**: 시전자는 원하는 마법 효과를 시각화합니다.
+2. **패턴 생성**: 기본 마나가 주문의 구조적 프레임워크로 형성됩니다.
+3. **원소 주입**: 기본 마나의 일부가 특정 원소에 맞춰집니다.
+4. **통합**: 특수한 마나 유형이 기본 마나 프레임워크 내에서 함께 짜여집니다.
 
-### Common Conversions and Their Properties
+### 일반적인 변환 및 속성
 
-| Base Mana Percentage | Specialization Percentage | Spell Complexity | Purpose |
+| 기본 마나 비율 | 전문화 비율 | 주문 복잡성 | 목적 |
 |----------------------|---------------------------|------------------|---------|
-| 80-90% | 10-20% | Very Simple | Basic framework with minimal specialization |
-| 60-80% | 20-40% | Simple | Novice-level spells with clear elemental components |
-| 40-60% | 40-60% | Moderate | Standard professional spellwork |
-| 20-40% | 60-80% | Complex | Advanced spellcasting requiring precise ratios |
-| 10-20% | 80-90% | Very Complex | Master-level spells with highly specialized effects |
+| 80-90% | 10-20% | 매우 단순 | 최소한의 전문화를 가진 기본 프레임워크 |
+| 60-80% | 20-40% | 단순 | 명확한 원소 구성 요소를 가진 초보자 수준의 주문 |
+| 40-60% | 40-60% | 보통 | 표준 전문 주문 작업 |
+| 20-40% | 60-80% | 복잡 | 정확한 비율을 요구하는 고급 주문 시전 |
+| 10-20% | 80-90% | 매우 복잡 | 고도로 전문화된 효과를 가진 마스터 수준의 주문 |
 
-### Elemental Affinities
+### 원소 친화력
 
-Though Base Mana is neutral, individual casters often have natural affinities for converting it to specific elemental types:
+기본 마나는 중립적이지만 개별 시전자는 특정 원소 유형으로 변환하는 데 자연스러운 친화력을 갖는 경우가 많습니다.
 
-- **Natural Affinity**: Most casters find certain conversions easier than others
-- **Opposing Elements**: Converting Base Mana to elements opposed to one's affinity requires greater effort
-- **Balanced Practitioners**: Some rare individuals have equal facility with all conversions
+- **자연스러운 친화력**: 대부분의 시전자는 특정 변환이 다른 변환보다 쉽다는 것을 알게 됩니다.
+- **대립되는 원소**: 자신의 친화력에 반대되는 원소로 기본 마나를 변환하려면 더 많은 노력이 필요합니다.
+- **균형 잡힌 수행자**: 일부 드문 개인은 모든 변환에 동등한 능력을 가지고 있습니다.
 
-## Magical Resonance
+## 마법 공명
 
-### Harmonic Principles
+### 조화 원리
 
-Base Mana exhibits specific resonance patterns that follow mathematical principles:
+기본 마나는 수학적 원리를 따르는 특정 공명 패턴을 나타냅니다.
 
-1. **Fundamental Frequency**: Each caster's Base Mana resonates at a unique frequency
-2. **Harmonic Overtones**: These form the basis for elemental specialization
-3. **Consonance**: Compatible elements create harmonious spell patterns
-4. **Dissonance**: Incompatible elements create unstable spell patterns
+1. **기본 주파수**: 각 시전자의 기본 마나는 고유한 주파수로 공명합니다.
+2. **고조파 배음**: 이것은 원소 전문화의 기초를 형성합니다.
+3. **협화**: 호환되는 원소는 조화로운 주문 패턴을 만듭니다.
+4. **불협화**: 호환되지 않는 원소는 불안정한 주문 패턴을 만듭니다.
 
-### The Musical Analogy
+### 음악적 비유
 
-Base Mana can be understood through musical terminology:
+기본 마나는 음악적 용어를 통해 이해할 수 있습니다.
 
-- Base Mana is the **fundamental tone** that provides structure and stability
-- Elemental mana types are the **overtones** that give the magic its specific character
-- Spell patterns are **musical phrases** combining fundamentals and overtones
-- Casting is **performance** - bringing the composition to life
+- 기본 마나는 구조와 안정성을 제공하는 **기본음**입니다.
+- 원소 마나 유형은 마법에 특정 특성을 부여하는 **배음**입니다.
+- 주문 패턴은 기본음과 배음을 결합한 **악구**입니다.
+- 시전은 **연주**입니다. 작곡에 생명을 불어넣는 것입니다.
 
-> *"If Wild Mana is the chaotic noise of the universe, Base Mana is the first organized note in the symphony of magic."* — Melodius Harpweaver, Bardic Theorist
+> *"야생 마나가 우주의 혼돈스러운 소음이라면, 기본 마나는 마법 교향곡의 첫 번째 조직화된 음표입니다."* — 멜로디우스 하프위버, 음유시인 이론가
 
-## Training Techniques
+## 훈련 기법
 
-### Base Mana Optimization
+### 기본 마나 최적화
 
-Specific exercises can improve a caster's handling of Base Mana:
+특정 운동은 시전자의 기본 마나 처리를 개선할 수 있습니다.
 
-#### Novice Exercises
-1. **Meditation on Neutrality**: Centering mental exercises to feel the neutral state
-2. **Base Mana Visualization**: Techniques to perceive one's internal reserves
-3. **Conscious Breathing**: Methods to enhance Wild Mana absorption efficiency
-4. **Basic Circulation**: Simple movements of Base Mana through internal channels
+#### 초보자 운동
+1. **중립성에 대한 명상**: 중립 상태를 느끼기 위한 정신 집중 운동
+2. **기본 마나 시각화**: 자신의 내부 저장소를 인식하는 기법
+3. **의식적인 호흡**: 야생 마나 흡수 효율성을 향상시키는 방법
+4. **기본 순환**: 내부 채널을 통한 기본 마나의 간단한 움직임
 
-#### Intermediate Practices
-1. **Reserve Expansion**: Gradually stretching Base Mana storage capacity
-2. **Efficiency Refinement**: Improving Phase 1 conversion effectiveness
-3. **Pattern Foundations**: Creating pure Base Mana structures without specialization
-4. **Sensitivity Training**: Developing precise awareness of Base Mana levels
+#### 중급 연습
+1. **저장소 확장**: 기본 마나 저장 용량을 점진적으로 늘리기
+2. **효율성 개선**: 1단계 변환 효율성 향상
+3. **패턴 기초**: 전문화 없이 순수한 기본 마나 구조 생성
+4. **민감도 훈련**: 기본 마나 수준에 대한 정확한 인식 개발
 
-#### Advanced Techniques
-1. **Harmonic Manipulation**: Fine-tuning Base Mana's fundamental resonance
-2. **Conversion Acceleration**: Increasing the speed of Base Mana transformation
-3. **Structure Stabilization**: Maintaining complex Base Mana frameworks
-4. **Reserve Partitioning**: Creating specialized sub-reservoirs for different purposes
+#### 고급 기법
+1. **조화 조작**: 기본 마나의 기본 공명 미세 조정
+2. **변환 가속**: 기본 마나 변환 속도 증가
+3. **구조 안정화**: 복잡한 기본 마나 프레임워크 유지
+4. **저장소 분할**: 다양한 목적을 위한 특수 하위 저장소 생성
 
-## Historical Understanding
+## 역사적 이해
 
-### Evolution of Base Mana Theory
+### 기본 마나 이론의 진화
 
-The conceptualization of Base Mana has evolved throughout magical history:
+기본 마나의 개념화는 마법 역사 전반에 걸쳐 진화했습니다.
 
-| Historical Period | Base Mana Theory | Notable Contribution |
+| 역사적 시기 | 기본 마나 이론 | 주목할만한 기여 |
 |------------------|------------------|----------------------|
-| Ancient Era | "Life Essence" | Recognition of internal magical energy |
-| Classical Period | "Prima Materia" | Identification of transformation potential |
-| Medieval Studies | "Neutral Ether" | Documentation of stabilizing properties |
-| Renaissance | "Fundamental Quintessence" | Mathematical modeling of resonance |
-| Modern Theory | "Base Mana" | Complete two-phase conversion understanding |
+| 고대 시대 | "생명 본질" | 내부 마법 에너지 인식 |
+| 고전 시대 | "프리마 마테리아" | 변환 잠재력 식별 |
+| 중세 연구 | "중성 에테르" | 안정화 속성 문서화 |
+| 르네상스 | "기본 정수" | 공명의 수학적 모델링 |
+| 현대 이론 | "기본 마나" | 완전한 2단계 변환 이해 |
 
-### Cultural Variations
+### 문화적 변형
 
-Different magical traditions conceptualize Base Mana in unique ways:
+다양한 마법 전통은 기본 마나를 고유한 방식으로 개념화합니다.
 
-- **Academic Traditions**: Emphasize mathematical precision and purity
-- **Natural Traditions**: Focus on the flow and balance within living systems
-- **Spiritual Approaches**: View Base Mana as connected to the soul or life force
-- **Practical Traditions**: Concentrate on efficient conversion techniques
+- **학문적 전통**: 수학적 정밀성과 순수성을 강조합니다.
+- **자연적 전통**: 살아있는 시스템 내의 흐름과 균형에 중점을 둡니다.
+- **영적 접근 방식**: 기본 마나를 영혼 또는 생명력과 연결된 것으로 봅니다.
+- **실용적 전통**: 효율적인 변환 기술에 집중합니다.
 
-## Common Misconceptions
+## 일반적인 오해
 
-| Misconception | Reality |
+| 오해 | 현실 |
 |---------------|---------|
-| "Base Mana is the weakest form of mana" | Base Mana is neutral, not weak - it's the foundation of all magic |
-| "Pure Base Mana spells don't exist" | Some spells (particularly force effects) use almost entirely Base Mana |
-| "Base Mana can be generated through meditation" | Meditation improves conversion efficiency but doesn't create mana |
-| "High Base Mana reserves make all spells easier" | Capacity helps, but affinity and skill with specific elements matter more |
+| "기본 마나는 가장 약한 형태의 마나이다" | 기본 마나는 약한 것이 아니라 중립적입니다. 모든 마법의 기초입니다. |
+| "순수한 기본 마나 주문은 존재하지 않는다" | 일부 주문 (특히 힘 효과)은 거의 전적으로 기본 마나를 사용합니다. |
+| "기본 마나는 명상을 통해 생성될 수 있다" | 명상은 변환 효율성을 향상시키지만 마나를 생성하지는 않습니다. |
+| "높은 기본 마나 저장소는 모든 주문을 더 쉽게 만든다" | 용량이 도움이 되지만 특정 원소에 대한 친화력과 기술이 더 중요합니다. |
 
-## Conclusion
+## 결론
 
-Base Mana stands as the universal foundation upon which all magical practices are built. Understanding its properties and mastering its manipulation is essential for any serious magical practitioner. While specialized elemental mana types provide the distinctive effects in spellcasting, it is Base Mana that gives those effects structure, coherence, and stability.
+기본 마나는 모든 마법 연습이 구축되는 보편적인 기초입니다. 그 속성을 이해하고 조작을 마스터하는 것은 진지한 마법 수행자에게 필수적입니다. 특수한 원소 마나 유형은 주문 시전에서 독특한 효과를 제공하지만, 이러한 효과에 구조, 일관성 및 안정성을 부여하는 것은 기본 마나입니다.
 
-> *"In the beginning, there is only potential. Base Mana is that potential given form - the first step from chaos to creation."* — From "Fundamentals of Magical Theory" by Sage Theodorus 
+> *"처음에는 잠재력만 있습니다. 기본 마나는 형태가 주어진 잠재력입니다. 혼돈에서 창조로 가는 첫 번째 단계입니다."* — 현자 테오도루스의 "마법 이론의 기초"에서 
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

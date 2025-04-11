@@ -1,42 +1,46 @@
-# **Sorcerer**: Masters of Innate Magic
+# **Sorcerer**: 타고난 마법의 달인
 
-[**Sorcerers**](/codex/Classes/Sorcerer/Sorcerer.md) are individuals born with inherent magical abilities. Unlike wizards who study arcane formulas or warlocks who form pacts, sorcerers possess magic that manifests naturally from within, often connected to their bloodline or a significant mystical event.
+[**Sorcerer**](/codex/Classes/Sorcerer/Sorcerer.md)는 타고난 마법 능력을 가진 개인입니다. 비전 공식을 연구하는 마법사나 계약을 맺는 워록과는 달리, 소서러는 종종 혈통이나 중요한 신비로운 사건과 관련된 내부에서 자연스럽게 나타나는 마법을 소유합니다.
 
-## Elemental Composition
+## 원소 구성
 
-The typical elemental ratio for **sorcerers** represents their innate magical nature:
+**소서러**의 일반적인 원소 비율은 타고난 마법적 본성을 나타냅니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 25-40% | Physical vessel naturally attuned to channeling innate magic |
-| **Soul** | 15-30% | Source of inherent magical potential, often linked to ancestry |
-| **Mana Capacity** | 40-60% | Naturally occurring personal mana reserves that expand with experience |
+| **Exanthis** | 25-40% | 타고난 마법을 전달하는 데 자연스럽게 조율된 물리적 그릇 |
+| **Soul** | 15-30% | 종종 조상과 관련된 타고난 마법 잠재력의 원천 |
+| **Mana Capacity** | 40-60% | 경험에 따라 확장되는 자연 발생적인 개인 마나 저장량 |
 
-This composition distinguishes **sorcerers** from other spellcasters. Their magic emerges instinctively rather than being learned or granted, with mana pathways that form naturally within their physical and spiritual being. The sorcerer's Exanthis component exhibits adaptations from birth that allow for safer channeling of their innate power.
+이 구성은 다른 주문 시전자와 **소서러**를 구별합니다. 그들의 마법은 배우거나 부여받는 것이 아니라 본능적으로 나타나며, 마나 경로는 물리적, 정신적 존재 내에서 자연스럽게 형성됩니다. 소서러의 Exanthis 구성 요소는 타고난 힘을 더 안전하게 전달할 수 있도록 태어날 때부터 적응을 나타냅니다.
 
-### Magical Affinity Profile
+### 마법 친화도 프로필
 
-Sorcerers develop specific affinities based on their magical origin:
+소서러는 마법적 기원에 따라 특정 친화도를 개발합니다.
 
-| Origin Type | Primary Affinities | Secondary Affinities | Typical Application |
+| 기원 유형 | 주요 친화도 | 이차 친화도 | 일반적인 적용 |
 |--------------|-------------------|---------------------|---------------------|
-| **Draconic Bloodline** | Element matching ancestry | Base Mana (Protection) | Elemental damage, draconic resilience, intimidation |
-| **Wild Magic** | Chaos Mana | Multiple Elements | Unpredictable effects, reality manipulation, spontaneous casting |
-| **Divine Soul** | Luxmana | Base Mana (Healing) | Divine magic, healing, spiritual communion |
-| **Shadow Magic** | Umbramana | Base Mana (Illusion) | Darkness manipulation, shadow conjuration, stealth |
-| **Storm Sorcery** | Aeromana/Aquamana | Electromana | Weather control, lightning manipulation, flying |
-| **Aberrant Mind** | Mentimana | Base Mana (Psychic) | Telepathy, mind control, psychic damage |
+| **Draconic Bloodline** | 조상과 일치하는 원소 | 기본 마나 (보호) | 원소 데미지, 용족의 회복력, 위협 |
+| **Wild Magic** | 혼돈 마나 | 여러 원소 | 예측 불가능한 효과, 현실 조작, 자발적인 시전 |
+| **Divine Soul** | 룩스마나 | 기본 마나 (치유) | 신성 마법, 치유, 영적 교감 |
+| **Shadow Magic** | 움브라마나 | 기본 마나 (환상) | 어둠 조작, 그림자 창조, 은신 |
+| **Storm Sorcery** | 에어로마나/아쿠아마나 | 일렉트로마나 | 날씨 제어, 번개 조작, 비행 |
+| **Aberrant Mind** | 멘티마나 | 기본 마나 (정신) | 텔레파시, 정신 조종, 정신적 데미지 |
 
-Sorcerers typically achieve 55-75% natural resonance with their primary affinity elements without formal training. Their innate connection allows for relatively high mana purity (30-50%) even without structured purification techniques, though this varies significantly between individuals based on natural talent and origin.
+소서러는 일반적으로 정식 훈련 없이도 주요 친화 원소와 55-75%의 자연적인 공명을 달성합니다. 그들의 타고난 연결은 구조화된 정화 기술이 없어도 비교적 높은 마나 순도 (30-50%)를 허용하지만, 이는 개인의 타고난 재능과 기원에 따라 크게 다릅니다.
 
-### Species-Specific Variations
+### 종별 변형
 
-Different species show varying natural inclinations toward the sorcerer class:
+다른 종은 소서러 클래스에 대해 다양한 자연적 성향을 보입니다.
 
-- **Humans** (25-40% Exanthis, 15-30% Soul, 40-60% Mana Capacity): Their adaptable nature allows for diverse sorcerous origins, though typically requiring a magical trigger or ancestral connection.
-- **Dragonborn** (30-45% Exanthis, 15-25% Soul, 40-55% Mana Capacity): Their draconic heritage creates natural affinity for elemental magic matching their ancestry.
-- **Gnomes** (20-35% Exanthis, 20-35% Soul, 40-60% Mana Capacity): Their innate connection to illusion magic often manifests as natural sorcerous ability.
-- **Half-Elves** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): Their mixed heritage can create unusual magical resonances and spontaneous sorcerous potential.
-- **Tieflings** (25-40% Exanthis, 15-30% Soul, 45-65% Mana Capacity): Their infernal heritage often manifests as natural sorcerous ability, particularly with fire and darkness affinities.
+- **Humans** (25-40% Exanthis, 15-30% Soul, 40-60% Mana Capacity): 그들의 적응력 있는 본성은 다양한 소서러의 기원을 허용하지만, 일반적으로 마법적 방아쇠 또는 조상과의 연결이 필요합니다.
+- **Dragonborn** (30-45% Exanthis, 15-25% Soul, 40-55% Mana Capacity): 그들의 용족 유산은 조상과 일치하는 원소 마법에 대한 자연적인 친화력을 만듭니다.
+- **Gnomes** (20-35% Exanthis, 20-35% Soul, 40-60% Mana Capacity): 환상 마법에 대한 그들의 타고난 연결은 종종 자연적인 소서러 능력으로 나타납니다.
+- **Half-Elves** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): 그들의 혼합된 유산은 특이한 마법 공명과 자발적인 소서러 잠재력을 만들 수 있습니다.
+- **Tieflings** (25-40% Exanthis, 15-30% Soul, 45-65% Mana Capacity): 그들의 지옥 유산은 종종 자연적인 소서러 능력, 특히 불과 어둠의 친화력으로 나타납니다.
 
-// ... rest of the file remains unchanged ... 
+// ... 파일의 나머지 부분은 변경되지 않습니다 ...
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,172 +1,176 @@
-# **Wild Mana Effects**: Dangers and Consequences of Exposure
+# **와일드 마나 효과**: 노출의 위험과 결과
 
-> *"Unlike the disciplined notes of a well-tuned instrument, Wild Mana plays its own chaotic melody—beautiful from a distance, but potentially devastating to those caught in its performance."* — Magistrix Elara Nightwind
+> *"잘 조율된 악기의 절제된 음표와 달리, 와일드 마나는 그 자체의 혼란스러운 멜로디를 연주합니다. 멀리서 보면 아름답지만, 그 연주에 사로잡힌 사람들에게는 잠재적으로 파괴적일 수 있습니다."* — 마기스트릭스 엘라라 나이트윈드
 
-## Quick Reference
-- [Acute Effects on Spellcasters](#acute-effects-on-spellcasters)
-- [Chronic Exposure Consequences](#chronic-exposure-consequences)
-- [Environmental Impact](#environmental-impact)
-- [Treatment Methods](#treatment-methods)
-- [Protective Measures](#protective-measures)
-- [Notable Historical Incidents](#notable-historical-incidents)
+## 빠른 참조
+- [주문 시전자에게 미치는 급성 효과](#acute-effects-on-spellcasters)
+- [만성 노출 결과](#chronic-exposure-consequences)
+- [환경적 영향](#environmental-impact)
+- [치료 방법](#treatment-methods)
+- [보호 조치](#protective-measures)
+- [주목할만한 역사적 사건](#notable-historical-incidents)
 
-## Understanding Wild Mana Contamination
+## 와일드 마나 오염 이해하기
 
-Wild Mana contamination occurs when a spellcaster or environment is exposed to excessive amounts of raw, unpurified magical energy. While all magic users naturally process small amounts of Wild Mana, exposure beyond an individual's filtration capacity can lead to a spectrum of magical maladies.
+와일드 마나 오염은 주문 시전자 또는 환경이 과도한 양의 정제되지 않은 마법 에너지에 노출될 때 발생합니다. 모든 마법 사용자는 자연적으로 소량의 와일드 마나를 처리하지만, 개인의 여과 능력을 초과하는 노출은 다양한 마법 질병으로 이어질 수 있습니다.
 
-The severity of effects depends on several factors:
-- Concentration of Wild Mana
-- Duration of exposure
-- Individual's Mana Capacity
-- Previous exposure history
-- Protective measures employed
+효과의 심각도는 여러 요인에 따라 달라집니다.
+- 와일드 마나 농도
+- 노출 기간
+- 개인의 마나 용량
+- 이전 노출 이력
+- 사용된 보호 조치
 
-## Acute Effects on Spellcasters
+## 주문 시전자에게 미치는 급성 효과
 
-### Immediate Physiological Responses
+### 즉각적인 생리적 반응
 
-| Severity | Symptoms | Contamination Level | Recovery Time |
+| 심각도 | 증상 | 오염 수준 | 회복 시간 |
 |----------|----------|---------------------|---------------|
-| Minor | Tingling sensation, mild disorientation, temporary aura distortion | 10-25% | 1-2 hours |
-| Moderate | Sensory hallucinations, involuntary minor magical discharges, fever | 25-50% | 1-3 days |
-| Severe | Uncontrolled spellcasting, mana channel inflammation, magical burns | 50-75% | 1-2 weeks |
-| Critical | System shock, violent magical outbursts, temporary ability loss | 75%+ | 1-3 months |
+| 경미 | 따끔거림, 가벼운 방향 감각 상실, 일시적인 오라 왜곡 | 10-25% | 1-2시간 |
+| 중간 | 감각 환각, 비자발적인 경미한 마법 방전, 발열 | 25-50% | 1-3일 |
+| 심각 | 통제 불능 주문 시전, 마나 채널 염증, 마법 화상 | 50-75% | 1-2주 |
+| 위독 | 전신 쇼크, 격렬한 마법 폭발, 일시적인 능력 상실 | 75%+ | 1-3개월 |
 
-### Cognitive and Magical Effects
+### 인지적 및 마법적 효과
 
-- **Pattern Disruption**: Inability to form stable spell patterns
-- **Mana Stutter**: Irregular energy flow during casting attempts
-- **Sensory Overload**: Heightened and painful awareness of magical energies
-- **Resonance Shift**: Temporary change in magical affinities
-- **Wild Dreams**: Vivid, prophetic, or disturbing dreams with magical manifestations during sleep
+- **패턴 붕괴**: 안정적인 주문 패턴 형성 불능
+- **마나 더듬기**: 주문 시도 중 불규칙한 에너지 흐름
+- **감각 과부하**: 마법 에너지에 대한 고조되고 고통스러운 인식
+- **공명 변화**: 마법 친화력의 일시적인 변화
+- **와일드 드림**: 수면 중 마법적 징후를 동반한 생생하고 예언적이거나 불안한 꿈
 
-### Emergency Symptoms Requiring Immediate Treatment
+### 즉각적인 치료가 필요한 응급 증상
 
-1. **Mana Seizures**: Convulsions accompanied by uncontrolled magical discharges
-2. **Chromatic Bleeding**: Magical energy leaking from eyes, nose, or ears
-3. **Harmonic Dissociation**: Complete inability to control personal mana
-4. **Reality Anchor Loss**: Partial phasing between planes of existence
+1. **마나 발작**: 통제되지 않은 마법 방전을 동반한 경련
+2. **색채 출혈**: 눈, 코 또는 귀에서 마법 에너지가 새어 나옴
+3. **조화 해리**: 개인 마나를 완전히 제어할 수 없음
+4. **현실 고정 상실**: 존재 평면 간 부분적 단계 전환
 
-## Chronic Exposure Consequences
+## 만성 노출 결과
 
-### Long-term Physiological Changes
+### 장기적인 생리적 변화
 
-- **Wild-Touched Stigmata**: Permanent marks on the skin that glow during magical activity
-- **Harmonic Tremors**: Persistent trembling that intensifies near magical sources
-- **Channel Scarring**: Permanent damage to internal mana pathways
-- **Resonance Addiction**: Physiological dependence on Wild Mana exposure
+- **와일드 터치드 낙인**: 마법 활동 중 빛나는 피부의 영구적인 흔적
+- **조화 떨림**: 마법 소스 근처에서 심해지는 지속적인 떨림
+- **채널 흉터**: 내부 마나 경로에 대한 영구적인 손상
+- **공명 중독**: 와일드 마나 노출에 대한 생리적 의존성
 
-### Progressive Conditions
+### 진행성 질환
 
-#### Wild Mana Syndrome (WMS)
-A progressive condition with four recognized stages:
+#### 와일드 마나 증후군 (WMS)
+4단계로 인식되는 진행성 질환:
 
-1. **Initiation Stage**: Intermittent magical instability, recovery possible
-2. **Acclimation Stage**: Body adapts but spell precision decreases permanently
-3. **Transformation Stage**: Physical changes begin, such as altered eye color, luminescent bodily fluids
-4. **Integration Stage**: Complete biological adaptation to Wild Mana, fundamental change in magical nature
+1. **개시 단계**: 간헐적인 마법 불안정, 회복 가능
+2. **순응 단계**: 신체가 적응하지만 주문 정확도가 영구적으로 감소
+3. **변환 단계**: 눈 색깔 변화, 발광성 체액과 같은 신체적 변화가 시작됨
+4. **통합 단계**: 와일드 마나에 대한 완전한 생물학적 적응, 마법적 본성의 근본적인 변화
 
-#### Chaotic Resonance Disorder (CRD)
-Characterized by involuntary wild magic effects triggered by emotional states:
+#### 혼돈 공명 장애 (CRD)
+정서적 상태에 의해 유발되는 비자발적인 와일드 마법 효과가 특징입니다.
 
-| Stage | Emotional Trigger | Typical Manifestations | Control Level |
+| 단계 | 감정적 유발 요인 | 일반적인 징후 | 제어 수준 |
 |-------|-------------------|------------------------|---------------|
-| Early | Extreme emotions only | Minor environmental effects | Manageable with meditation |
-| Intermediate | Moderate emotional changes | Personal physical changes | Requires daily discipline |
-| Advanced | Subtle emotional shifts | Significant magical discharge | Minimal control possible |
-| Terminal | Constant manifestation | Complete magical instability | No control possible |
+| 초기 | 극단적인 감정만 | 경미한 환경적 효과 | 명상으로 관리 가능 |
+| 중간 | 적당한 감정 변화 | 개인의 신체적 변화 | 매일 수련 필요 |
+| 고급 | 미묘한 감정 변화 | 상당한 마법 방전 | 최소한의 제어만 가능 |
+| 말기 | 끊임없는 발현 | 완전한 마법 불안정 | 제어 불가능 |
 
-## Environmental Impact
+## 환경적 영향
 
-### Localized Effects
+### 국지적 효과
 
-- **Flora Mutation**: Altered plant growth, magical properties in normal plants
-- **Fauna Alteration**: Animals exhibiting magical abilities or physical changes
-- **Weather Disruption**: Unusual weather patterns, magical storms
-- **Terrain Transformation**: Physical changes to the landscape, floating earth, elemental manifestations
+- **식물 돌연변이**: 변형된 식물 성장, 일반 식물의 마법적 특성
+- **동물 변형**: 마법 능력이나 신체적 변화를 보이는 동물
+- **날씨 장애**: 비정상적인 날씨 패턴, 마법 폭풍
+- **지형 변형**: 풍경의 물리적 변화, 떠 다니는 흙, 원소 징후
 
-### Wild Mana Zones
+### 와일드 마나 구역
 
-| Classification | Characteristics | Danger Level | Quarantine Status |
+| 분류 | 특징 | 위험 수준 | 격리 상태 |
 |----------------|-----------------|--------------|-------------------|
-| Type I | Slightly elevated magical properties, safe for short exposure | Low | Monitoring Only |
-| Type II | Visible magical effects, strange phenomena | Moderate | Limited Access |
-| Type III | Significant reality distortion, spontaneous magical effects | High | Restricted Zone |
-| Type IV | Complete magical saturation, fundamental laws of nature altered | Extreme | Full Quarantine |
-| Type V | Reality breach, connection to other planes | Catastrophic | Military Containment |
+| 유형 I | 약간 높은 마법적 특성, 단기 노출에 안전 | 낮음 | 모니터링만 |
+| 유형 II | 눈에 보이는 마법 효과, 이상한 현상 | 중간 | 제한적 접근 |
+| 유형 III | 상당한 현실 왜곡, 자발적인 마법 효과 | 높음 | 제한 구역 |
+| 유형 IV | 완전한 마법 포화, 자연의 기본 법칙 변경 | 극단적 | 완전 격리 |
+| 유형 V | 현실 균열, 다른 평면과의 연결 | 재앙적 | 군사적 봉쇄 |
 
-### Notable Contaminated Regions
+### 주목할만한 오염 지역
 
-- **The Shimmerwood**: Forest where all plant life has developed semi-consciousness
-- **Mage's Folly**: Remnants of an experimental magical academy where Wild Mana saturated the area
-- **The Wailing Wastes**: Desert region where Wild Mana storms manifest voices of the past
-- **Flux Marshes**: Wetlands where time and space fluctuate unpredictably
+- **쉬머우드**: 모든 식물이 반의식을 개발한 숲
+- **메이지의 어리석음**: 와일드 마나가 지역을 포화시킨 실험적인 마법 아카데미의 잔해
+- **울부짖는 황무지**: 와일드 마나 폭풍이 과거의 목소리를 나타내는 사막 지역
+- **플럭스 습지**: 시간과 공간이 예측할 수 없이 변동하는 습지
 
-## Treatment Methods
+## 치료 방법
 
-### First Response
+### 첫 번째 응답
 
-1. **Isolation**: Remove from Wild Mana source immediately
-2. **Stabilization**: Apply Mana Stabilization techniques or potions
-3. **Assessment**: Determine contamination level and affected systems
-4. **Containment**: Prevent spread of Wild Mana to others or environment
+1. **격리**: 즉시 와일드 마나 소스에서 제거
+2. **안정화**: 마나 안정화 기술 또는 물약 적용
+3. **평가**: 오염 수준 및 영향을 받는 시스템 결정
+4. **봉쇄**: 와일드 마나의 다른 사람이나 환경으로의 확산 방지
 
-### Medical Interventions
+### 의료 개입
 
-- **Mana Purification Rituals**: Ceremonial cleansing of contaminated channels
-- **Harmonic Realignment**: Restoration of proper mana flow patterns
-- **Resonance Therapy**: Use of counter-frequencies to neutralize Wild Mana
-- **Extraction Procedures**: Magical removal of Wild Mana concentrations
+- **마나 정화 의식**: 오염된 채널의 의례적 정화
+- **조화 재정렬**: 적절한 마나 흐름 패턴 복원
+- **공명 요법**: 와일드 마나를 중화하기 위해 반대 주파수 사용
+- **추출 절차**: 와일드 마나 농도의 마법적 제거
 
-### Alchemical Treatments
+### 연금술적 치료
 
-| Remedy | Primary Ingredients | Effect | Treatment Duration |
+| 치료제 | 주요 성분 | 효과 | 치료 기간 |
 |--------|---------------------|--------|-------------------|
-| Purification Elixir | Crystal lotus, silver water | Accelerates natural filtration | 7-day course |
-| Stabilizing Tincture | Void moss, calming herbs | Reduces acute symptoms | Single dose, as needed |
-| Channel Repair Potion | Phoenix tears, resonant minerals | Heals damaged mana pathways | Monthly for 1 year |
-| Harmonic Draught | Musical fungi, pure water source | Restores natural resonance | Weekly for 1 month |
+| 정화 영약 | 수정 연꽃, 은수 | 자연 여과 가속화 | 7일 과정 |
+| 안정화 팅크 | 보이드 모스, 진정 허브 | 급성 증상 감소 | 필요에 따라 단일 용량 |
+| 채널 복구 포션 | 불사조 눈물, 공명 광물 | 손상된 마나 경로 치유 | 1년 동안 매월 |
+| 조화 약수 | 음악적 균류, 순수한 물 공급원 | 자연 공명 복원 | 1개월 동안 매주 |
 
-### Long-term Management
+### 장기 관리
 
-- **Adaptive Meditation**: Mental techniques to manage persistent symptoms
-- **Controlled Exposure Therapy**: Gradual reintroduction to regulated magic use
-- **Resonance Monitoring**: Regular assessment of magical stability
-- **Support Circles**: Communities of affected individuals sharing coping strategies
+- **적응 명상**: 지속적인 증상을 관리하는 정신 기술
+- **통제된 노출 요법**: 규제된 마법 사용에 대한 점진적인 재도입
+- **공명 모니터링**: 마법 안정성에 대한 정기적인 평가
+- **지원 서클**: 대처 전략을 공유하는 영향을 받는 개인의 커뮤니티
 
-## Protective Measures
+## 보호 조치
 
-### Personal Protection
+### 개인 보호
 
-- **Warding Amulets**: Jewelry inscribed with protective sigils
-- **Mana Filters**: Devices worn to purify ambient mana before it reaches the user
-- **Stabilizing Garments**: Clothing woven with enchantments to maintain personal mana stability
-- **Anchoring Techniques**: Mental practices to maintain magical integrity
+- **보호 부적**: 보호 인장이 새겨진 보석
+- **마나 필터**: 사용자에 도달하기 전에 주변 마나를 정화하기 위해 착용하는 장치
+- **안정화 의류**: 개인 마나 안정성을 유지하기 위해 마법으로 짜여진 옷
+- **고정 기술**: 마법적 무결성을 유지하기 위한 정신적 수련
 
-### Environmental Containment
+### 환경 봉쇄
 
-- **Harmonic Barriers**: Magical constructs that prevent Wild Mana spread
-- **Purification Circles**: Ritual spaces that gradually cleanse an area
-- **Channeling Rods**: Devices that draw Wild Mana away from populated areas
-- **Resonant Architecture**: Buildings designed to naturally repel or redirect Wild Mana
+- **조화 장벽**: 와일드 마나 확산을 방지하는 마법 구조물
+- **정화 서클**: 점차적으로 지역을 정화하는 의식 공간
+- **채널링 로드**: 인구가 많은 지역에서 와일드 마나를 끌어내는 장치
+- **공명 건축**: 자연적으로 와일드 마나를 격퇴하거나 방향을 바꾸도록 설계된 건물
 
-## Notable Historical Incidents
+## 주목할만한 역사적 사건
 
-### The Cerulean Catastrophe
-During the Third Age, an attempt to create a permanent portal resulted in a massive Wild Mana surge that affected an entire city. Over 80% of magical practitioners suffered acute effects, and 30% developed chronic conditions. The city remains abandoned, a Type IV contamination zone.
+### 세룰리안 재앙
+제3시대에 영구적인 포털을 만들려는 시도로 인해 도시 전체에 영향을 미치는 대규모 와일드 마나 급증이 발생했습니다. 마법 실무자의 80% 이상이 급성 효과를 겪었고 30%는 만성 질환을 앓았습니다. 도시는 버려진 채 유형 IV 오염 구역으로 남아 있습니다.
 
-### The Whispering Plague
-A subtle Wild Mana contamination that went undetected for months, causing progressive magical whispers to be heard by residents of the affected region. By the time the source was identified, over 200 people had developed Chaotic Resonance Disorder.
+### 속삭이는 역병
+영향을 받는 지역 거주자들이 점진적인 마법 속삭임을 듣게 되는 원인이 되어 몇 달 동안 탐지되지 않은 미묘한 와일드 마나 오염입니다. 출처가 확인되었을 때, 200명 이상이 혼돈 공명 장애를 앓았습니다.
 
-### The Azure Transformation
-A legendary archmage's failed immortality ritual that resulted in his complete conversion to a Wild Mana entity—neither truly alive nor dead, but a conscious manifestation of chaotic magical energy still studied by researchers today.
+### 에저 변환
+전설적인 대마법사의 실패한 불멸 의식으로 인해 그는 와일드 마나 개체로 완전히 변환되었습니다. 진정으로 살아 있지도 죽지도 않았지만 오늘날 연구자들이 여전히 연구하는 혼란스러운 마법 에너지의 의식적인 발현입니다.
 
-## Research and Future Directions
+## 연구 및 미래 방향
 
-Current research focuses on:
-- Improved detection methods for subtle contamination
-- More effective treatments for chronic conditions
-- Enhanced protective technologies
-- Potential applications of controlled Wild Mana exposure
+현재 연구는 다음 사항에 중점을 둡니다.
+- 미묘한 오염에 대한 향상된 탐지 방법
+- 만성 질환에 대한 보다 효과적인 치료법
+- 강화된 보호 기술
+- 통제된 와일드 마나 노출의 잠재적 응용
 
-> *"We cannot eliminate Wild Mana from our world, nor should we wish to—it is the primordial song from which all magic springs. But we must learn to listen from a safe distance, lest we lose ourselves in its captivating chaos."* — Thorne Wildkeeper, Specialist in Magical Contamination Studies 
+> *"우리는 와일드 마나를 우리 세계에서 제거할 수 없으며 제거해서도 안 됩니다. 그것은 모든 마법이 솟아나는 원초적인 노래입니다. 그러나 우리는 그 매혹적인 혼란 속에서 길을 잃지 않도록 안전한 거리에서 듣는 법을 배워야 합니다."* — 손 와일드키퍼, 마법 오염 연구 전문가
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

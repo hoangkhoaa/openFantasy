@@ -1,162 +1,166 @@
-# Magical Beings of OpenFantasy
+# OpenFantasy의 마법 존재
 
-> *"They are magic given form and purpose, the living embodiment of mystical forces that flow through our world."*
+> *"그들은 형태와 목적이 부여된 마법이며, 우리 세계를 흐르는 신비로운 힘의 살아있는 구현체입니다."*
 
-## Overview
+## 개요
 
-Magical beings in OpenFantasy are creatures that are fundamentally composed of, created by, or infused with magical energy. Unlike sentient species that evolved naturally and merely use magic, magical beings have magic as an intrinsic part of their existence, often with their physical forms serving primarily as vessels for magical energies.
+OpenFantasy의 마법 존재는 근본적으로 마법 에너지로 구성되거나, 마법 에너지에 의해 창조되거나, 주입된 생물입니다. 자연적으로 진화하여 단지 마법을 사용하는 지성 종족과는 달리, 마법 존재는 마법을 그들의 존재의 본질적인 부분으로 가지며, 종종 그들의 물리적 형태는 마법 에너지를 담는 용기로서 주로 기능합니다.
 
-These beings are distinguished by their unusually high Mana Capacity, which typically exceeds that of natural creatures. Many originated during periods of intense magical activity or were created through deliberate magical processes, while others represent the physical manifestation of specific magical concepts or elements.
+이러한 존재는 일반적으로 자연 생물보다 높은 Mana Capacity로 구별됩니다. 많은 수가 강렬한 마법 활동 기간 동안 기원했거나 의도적인 마법 과정을 통해 창조되었으며, 다른 존재는 특정 마법적 개념이나 요소의 물리적 표현을 나타냅니다.
 
-## Elemental Composition
+## 원소 구성
 
-Magical beings typically exhibit the following elemental composition ranges:
+마법 존재는 일반적으로 다음과 같은 원소 구성 범위를 나타냅니다.
 
-| Being Category | Exanthis | Soul | Mana Capacity | Notes |
+| 존재 범주 | Exanthis | Soul | Mana Capacity | 참고 |
 |----------------|----------|------|---------------|-------|
-| Fae | 2-10% | 15-35% | 50-80% | Almost pure magical entities |
-| Elementals | 15-30% | 5-15% | 60-85% | Embodiments of elemental forces |
-| Dragonkin | 55-75% | 5-15% | 20-35% | Ancient magical lineage |
-| Constructs | 70-90% | 5-15% | 5-15% | Artificially created beings |
-| Spiritfolk | 10-30% | 20-40% | 40-70% | Beings of manifested spiritual energy |
+| 페이 | 2-10% | 15-35% | 50-80% | 거의 순수한 마법적 존재 |
+| 정령 | 15-30% | 5-15% | 60-85% | 원소 힘의 구현체 |
+| 드래곤킨 | 55-75% | 5-15% | 20-35% | 고대 마법 혈통 |
+| 구조물 | 70-90% | 5-15% | 5-15% | 인공적으로 창조된 존재 |
+| 정령족 | 10-30% | 20-40% | 40-70% | 발현된 영적 에너지의 존재 |
 
-## Categories of Magical Beings
+## 마법 존재의 범주
 
-### Fae
+### 페이
 
-The Fae represent some of the most purely magical beings in existence, with physical forms that are often mutable and primarily composed of magical energy:
+페이는 가장 순수한 마법적 존재 중 일부를 나타내며, 물리적 형태는 종종 가변적이며 주로 마법 에너지로 구성됩니다.
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 하위 범주 | 주요 특징 | 주목할만한 예 |
 |-------------|---------------------|------------------|
-| **High Fae** | Aristocratic, immense magical power | Fae Lords, Archfey, Court Nobles |
-| **Wild Fae** | Nature-bound, seasonal powers | Dryads, Nixies, Pixies |
-| **Shadow Fae** | Darkness-aligned, deceptive | Bogies, Shadow Dancers, Night Wraiths |
-| **Trickster Fae** | Chaotic, mischievous | Pucks, Imps, Changelings |
+| **하이 페이** | 귀족적, 엄청난 마법력 | 페이 군주, 아치페이, 궁정 귀족 |
+| **와일드 페이** | 자연에 묶임, 계절적 힘 | 드라이어드, 닉시, 픽시 |
+| **섀도우 페이** | 어둠에 정렬됨, 기만적 | 보지, 섀도우 댄서, 나이트 레이스 |
+| **트릭스터 페이** | 혼란스럽고 장난기 많음 | 퍼크, 임프, 체인지링 |
 
-→ See [Fae](Fae.md) for detailed information.
+→ 자세한 내용은 [Fae](Fae.md)를 참조하십시오.
 
-### Elementals
+### 정령
 
-Beings that embody and manifest the fundamental elemental forces of the world:
+세계의 기본적인 원소 힘을 구현하고 발현하는 존재:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 하위 범주 | 주요 특징 | 주목할만한 예 |
 |-------------|---------------------|------------------|
-| **Fire Elementals** | Heat generation, volatile temperament | Flame Sprites, Magma Golems, Ember Wraiths |
-| **Water Elementals** | Fluid form, adaptability | Water Nymphs, Tidal Guardians, Ice Shapers |
-| **Earth Elementals** | Physical strength, steadfastness | Stone Sentinels, Crystal Beings, Geomancers |
-| **Air Elementals** | Mobility, unpredictability | Wind Dancers, Storm Heralds, Mist Phantoms |
-| **Composite Elementals** | Multi-element capabilities | Tempest Beings, Volcanic Spirits, Weather Lords |
+| **불의 정령** | 열 발생, 휘발성 기질 | 화염 스프라이트, 마그마 골렘, 엠버 레이스 |
+| **물의 정령** | 유동적인 형태, 적응성 | 물의 님프, 조수의 수호자, 얼음 조형사 |
+| **땅의 정령** | 물리적 힘, 확고함 | 돌 센티널, 크리스탈 존재, 지오맨서 |
+| **공기의 정령** | 이동성, 예측 불가능성 | 바람의 댄서, 폭풍의 전령, 안개 유령 |
+| **복합 정령** | 다중 원소 능력 | 폭풍 존재, 화산 정령, 날씨 군주 |
 
-→ See [Elementals](Elementals.md) for detailed information.
+→ 자세한 내용은 [Elementals](Elementals.md)를 참조하십시오.
 
-### Dragonkin
+### 드래곤킨
 
-Beings with draconic heritage or essence, representing some of the most ancient magical bloodlines:
+용의 유산이나 본질을 가진 존재로, 가장 고대의 마법 혈통 중 일부를 나타냅니다.
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 하위 범주 | 주요 특징 | 주목할만한 예 |
 |-------------|---------------------|------------------|
-| **True Dragons** | Immense power, elemental mastery | Ancient Wyrms, Dragon Lords, Serpent Kings |
-| **Lesser Dragonkin** | Draconic traits, specialized abilities | Wyverns, Drakes, Feathered Serpents |
-| **Half-Dragons** | Mixed heritage, adaptive magic | Dragon-Touched, Scale Knights, Hybrid Descendants |
-| **Dragon Spirits** | Ethereal nature, ancient knowledge | Astral Dragons, Dragon Ghosts, Essence Wyrms |
+| **진정한 드래곤** | 엄청난 힘, 원소 숙달 | 고대 와이번, 드래곤 군주, 뱀 왕 |
+| **하위 드래곤킨** | 용의 특징, 특수 능력 | 와이번, 드레이크, 깃털 달린 뱀 |
+| **하프 드래곤** | 혼합 혈통, 적응형 마법 | 드래곤 터치드, 스케일 나이트, 혼혈 후손 |
+| **드래곤 정령** | 무형의 본성, 고대 지식 | 아스트랄 드래곤, 드래곤 고스트, 에센스 와이번 |
 
-→ See [Dragonkin](Dragonkin.md) for detailed information.
+→ 자세한 내용은 [Dragonkin](Dragonkin.md)을 참조하십시오.
 
-### Constructs
+### 구조물
 
-Artificially created beings animated by magic:
+마법에 의해 생명을 얻은 인공적으로 창조된 존재:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 하위 범주 | 주요 특징 | 주목할만한 예 |
 |-------------|---------------------|------------------|
-| **Golems** | Physical power, specific purpose | Clay Golems, Stone Defenders, Iron Sentinels |
-| **Animated Objects** | Former items given consciousness | Living Statues, Awakened Weapons, Animated Furniture |
-| **Homunculi** | Small size, specific functions | Artificer's Assistants, Spell Carriers, Living Tools |
-| **Magical Automata** | Complex mechanisms with magical power | Clockwork Mages, Arcane Engines, Self-Repairing Constructs |
+| **골렘** | 물리적 힘, 특정 목적 | 점토 골렘, 돌 수호자, 철 센티널 |
+| **애니메이티드 오브젝트** | 의식이 부여된 이전 아이템 | 살아있는 조각상, 깨어난 무기, 애니메이티드 가구 |
+| **호문쿨루스** | 작은 크기, 특정 기능 | 아티피서의 조수, 주문 운반자, 살아있는 도구 |
+| **마법 오토마타** | 마법력이 있는 복잡한 메커니즘 | 시계태엽 마법사, 아케인 엔진, 자가 수리 구조물 |
 
-→ See [Golems](Golems.md) for detailed information on constructed beings.
+→ 구조된 존재에 대한 자세한 내용은 [Golems](Golems.md)를 참조하십시오.
 
-### Spiritfolk
+### 정령족
 
-Beings composed primarily of spiritual or shadow energy:
+주로 영적 또는 그림자 에너지로 구성된 존재:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 하위 범주 | 주요 특징 | 주목할만한 예 |
 |-------------|---------------------|------------------|
-| **Shadowfolk** | Shadow manipulation, light vulnerability | Umbral Walkers, Shade Dancers, Night Weavers |
-| **Ethereal Beings** | Partial incorporeality, planar shifting | Boundary Walkers, Veil Seers, Phase Dancers |
-| **Manifestations** | Embodiments of concepts or emotions | Joy Sprites, Grief Wraiths, Courage Embodiments |
-| **Bound Spirits** | Attached to locations or objects | Guardian Spirits, Hearth Entities, Vessel-Bound Souls |
+| **섀도우포크** | 그림자 조작, 빛에 취약함 | 움브랄 워커, 셰이드 댄서, 나이트 위버 |
+| **무형의 존재** | 부분적인 비물질성, 차원 이동 | 경계 워커, 베일 시어, 페이즈 댄서 |
+| **현현** | 개념이나 감정의 구현 | 기쁨 스프라이트, 슬픔 레이스, 용기 구현 |
+| **묶인 정령** | 위치 또는 객체에 부착됨 | 수호 정령, 난로 개체, 그릇에 묶인 영혼 |
 
-→ See [Shadowfolk](Shadowfolk.md) for detailed information on shadow beings.
+→ 그림자 존재에 대한 자세한 내용은 [Shadowfolk](Shadowfolk.md)를 참조하십시오.
 
-## Origin and Creation
+## 기원과 창조
 
-Magical beings come into existence through various means:
+마법 존재는 다양한 수단을 통해 존재하게 됩니다.
 
-| Origin Type | Process | Examples |
+| 기원 유형 | 과정 | 예 |
 |-------------|----------|----------|
-| **Primal Manifestation** | Spontaneous coalescing of magical energy | Elementals forming at sites of elemental power |
-| **Deliberate Creation** | Magical crafting by other beings | Golems, artificially created servants |
-| **Evolutionary Divergence** | Natural evolution in highly magical environments | Certain Fae species, magical animals |
-| **Transformation** | Magical alteration of existing beings | Shadow-transformed creatures, fae-touched beings |
-| **Conceptual Manifestation** | Physical embodiment of abstract forces | Spirits of emotions, season embodiments |
+| **원초적 현현** | 마법 에너지의 자발적인 결합 | 원소력이 있는 장소에서 형성되는 정령 |
+| **의도적인 창조** | 다른 존재에 의한 마법 제작 | 골렘, 인공적으로 창조된 종 |
+| **진화적 분기** | 마법이 강한 환경에서의 자연 진화 | 특정 페이 종, 마법 동물 |
+| **변환** | 기존 존재의 마법적 변경 | 그림자로 변형된 생물, 페이 터치드 존재 |
+| **개념적 현현** | 추상적 힘의 물리적 구현 | 감정의 정령, 계절 구현 |
 
-## Magic and Abilities
+## 마법과 능력
 
-The magical abilities of these beings differ fundamentally from those of spellcasting sentient species:
+이러한 존재의 마법 능력은 주문 시전 지성 종족의 능력과 근본적으로 다릅니다.
 
-### Innate vs. Learned Magic
+### 타고난 마법 vs. 학습된 마법
 
-| Being Type | Magic Source | Characteristics |
+| 존재 유형 | 마법 소스 | 특징 |
 |------------|--------------|-----------------|
-| **Sentient Spellcaster** | Manipulates external mana through learned patterns | Requires study, controlled, versatile |
-| **Magical Being** | Channels internal magical essence through instinct | Innate, specialized, often more powerful in specific domains |
+| **지성 주문 시전자** | 학습된 패턴을 통해 외부 마나를 조작 | 연구 필요, 제어됨, 다재다능함 |
+| **마법 존재** | 본능을 통해 내부 마법 본질을 전달 | 타고난, 전문화됨, 종종 특정 영역에서 더 강력함 |
 
-### Life Cycle and Sustainability
+### 생애 주기 및 지속 가능성
 
-Magical beings often have unique requirements to sustain their existence:
+마법 존재는 종종 그들의 존재를 유지하기 위한 독특한 요구 사항이 있습니다.
 
-| Type | Sustenance | Life Cycle |
+| 유형 | 생계 | 생애 주기 |
 |------|------------|------------|
-| **Elementals** | Connection to elemental source | May dissipate if separated from element, potentially immortal |
-| **Fae** | Emotional energy, belief, magical alignment | Extremely long-lived, bound to conceptual cycles |
-| **Constructs** | Magical maintenance, purpose fulfillment | Potentially eternal if maintained, may fade if purpose ends |
-| **Spiritfolk** | Shadow energy, spiritual resonance | Cyclical manifestation patterns, tied to natural or emotional cycles |
+| **정령** | 원소 소스와의 연결 | 원소에서 분리되면 소멸될 수 있음, 잠재적으로 불멸 |
+| **페이** | 감정 에너지, 믿음, 마법 정렬 | 매우 수명이 길고 개념적 주기에 묶여 있음 |
+| **구조물** | 마법 유지 보수, 목적 달성 | 유지 관리되면 잠재적으로 영원하며 목적이 끝나면 희미해질 수 있음 |
+| **정령족** | 그림자 에너지, 영적 공명 | 순환적 발현 패턴, 자연적 또는 감정적 주기에 묶여 있음 |
 
-## Habitats and Domains
+## 서식지와 영역
 
-Magical beings typically inhabit areas with significant magical properties:
+마법 존재는 일반적으로 상당한 마법적 속성을 가진 지역에 서식합니다.
 
-| Environment | Common Inhabitants | Notable Characteristics |
+| 환경 | 일반적인 거주자 | 주목할만한 특징 |
 |-------------|-------------------|-------------------------|
-| **Fae Wilds** | High Fae, Trickster Fae | Reality distortion, temporal fluctuations |
-| **Elemental Planes** | Pure Elementals, Elemental Hybrids | Concentrated elemental energy, hostile to non-natives |
-| **Ancient Ruins** | Constructed Guardians, Bound Spirits | Residual enchantments, magical preservation |
-| **Shadow Realms** | Shadowfolk, Dark Fae | Limited light, emotional amplification |
-| **Magical Nexuses** | Various Magical Beings | Ley line intersections, planar boundaries |
+| **페이 와일드** | 하이 페이, 트릭스터 페이 | 현실 왜곡, 시간 변동 |
+| **원소 평면** | 순수 정령, 원소 혼합 | 집중된 원소 에너지, 비원주민에게 적대적 |
+| **고대 유적** | 건설된 수호자, 묶인 정령 | 잔류 마법, 마법 보존 |
+| **그림자 영역** | 섀도우포크, 다크 페이 | 제한된 빛, 감정 증폭 |
+| **마법 넥서스** | 다양한 마법 존재 | 레이 라인 교차점, 평면 경계 |
 
-## Interactions with Other Beings
+## 다른 존재와의 상호 작용
 
-The relationship between magical beings and other creatures varies widely:
+마법 존재와 다른 생물 간의 관계는 매우 다양합니다.
 
-### Common Dynamics
+### 일반적인 역학
 
-- **Symbiotic Partnerships**: Mutually beneficial arrangements between magical beings and sentient species
-- **Service Bonds**: Magical creatures bound to serve mages or organizations
-- **Territorial Conflicts**: Competition for magically significant locations
-- **Knowledge Exchange**: Magical beings as sources of ancient wisdom or magical techniques
-- **Cultural Integration**: Societies where magical beings and sentient species coexist
+- **공생적 파트너십**: 마법 존재와 지성 종족 간의 상호 이익적인 협정
+- **봉사 계약**: 마법사 또는 조직에 봉사하도록 묶인 마법 생물
+- **영토 분쟁**: 마법적으로 중요한 위치에 대한 경쟁
+- **지식 교환**: 고대 지혜 또는 마법 기술의 원천으로서의 마법 존재
+- **문화 통합**: 마법 존재와 지성 종족이 공존하는 사회
 
-### Rules of Engagement
+### 참여 규칙
 
-Many magical beings operate according to specific metaphysical rules:
+많은 마법 존재는 특정 형이상학적 규칙에 따라 작동합니다.
 
-| Being Type | Common Rules | Impact on Interaction |
+| 존재 유형 | 일반적인 규칙 | 상호 작용에 미치는 영향 |
 |------------|--------------|----------------------|
-| **Fae** | Cannot lie but may mislead, bound by bargains | Literal interpretation of agreements, value of true names |
-| **Elementals** | Behave according to elemental nature | Predictable reactions based on elemental alignment |
-| **Constructs** | Follow creator's instructions literally | Potential for loophole exploitation, strict interpretation |
-| **Spiritfolk** | Bound by spiritual laws and cycles | Interaction changes based on moon phases, time of day, emotions |
+| **페이** | 거짓말을 할 수 없지만 오해의 소지가 있을 수 있으며 거래에 묶여 있음 | 합의의 문자 그대로의 해석, 진정한 이름의 가치 |
+| **정령** | 원소 본성에 따라 행동 | 원소 정렬에 따른 예측 가능한 반응 |
+| **구조물** | 창조자의 지시를 문자 그대로 따름 | 허점 악용 가능성, 엄격한 해석 |
+| **정령족** | 영적 법과 주기에 묶여 있음 | 달의 위상, 시간, 감정에 따라 상호 작용 변경 |
 
 ---
 
-> *"To truly understand magical beings, one must first accept that they are not simply creatures who use magic—they are magic itself, experiencing the world through forms we can comprehend."* — Archmage Thaelon, Treatise on Magical Ontology 
+> *"마법 존재를 진정으로 이해하려면 먼저 그들이 단지 마법을 사용하는 생물이 아니라 우리가 이해할 수 있는 형태로 세상을 경험하는 마법 자체임을 받아들여야 합니다."* — 대마법사 Thaelon, 마법 존재론에 관한 논문
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

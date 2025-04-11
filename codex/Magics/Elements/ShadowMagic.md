@@ -1,203 +1,207 @@
-# **Shadow Magic**: The Art of Darkness and Concealment
+# **그림자 마법**: 어둠과 은폐의 예술
 
-> *"Shadow is not the absence of light, but a subtle presence of its own—a realm of possibilities that exists between what is seen and unseen. Those who fear the dark understand neither its nature nor its gifts."* — Archumbramancer Soren Nightveil
+> *"그림자는 빛의 부재가 아니라, 그 자체로 미묘한 존재입니다. 그것은 보이는 것과 보이지 않는 것 사이에 존재하는 가능성의 영역입니다. 어둠을 두려워하는 자는 그 본질도, 그 선물도 이해하지 못합니다."* — 대마법사 소렌 나이트베일
 
-## Quick Reference
-- [Properties of Umbramana](#properties-of-umbramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 빠른 참조
+- [움브라마나의 속성](#properties-of-umbramana)
+- [조작 기술](#manipulation-techniques)
+- [일반적인 주문](#common-spells)
+- [친화력 개발](#affinity-development)
+- [위험 및 안전 장치](#risks-and-safeguards)
+- [문화적 중요성](#cultural-significance)
 
-## Properties of Umbramana
+## 움브라마나의 속성
 
-Umbramana, the elemental mana of shadow, is characterized by:
+그림자의 원소 마나인 움브라마나는 다음과 같은 특징을 가집니다:
 
-- **Appearance**: Deep purples, blues, and blacks; absorptive, flowing patterns that seem to draw in light
-- **Sensation**: Feels cool, calming, and subtly invigorating when channeled; creates a sense of depth and concealment
-- **Resonance**: Low to medium-frequency, complex vibration patterns with harmonic depth
-- **Purification Challenge**: Tends to absorb and hide impurities rather than release them; requires persistent refinement
-- **Opposite Element**: Light (creates twilight when forced together, ultimately consumed by light)
-- **Complementary Elements**: Death (creates void), Fire (creates smoke)
-- **Musical Analogy**: Minor key melodies, particularly string instruments; complex, layered harmonies
+- **외형**: 짙은 보라색, 파란색, 검은색; 빛을 빨아들이는 듯한 흡수적이고 흐르는 패턴
+- **감각**: 채널링할 때 시원하고 차분하며 미묘하게 활력을 불어넣음; 깊이와 은폐의 느낌을 조성
+- **공명**: 낮음에서 중간 주파수, 복잡한 진동 패턴과 조화로운 깊이
+- **정화 과제**: 불순물을 방출하기보다는 흡수하고 숨기는 경향이 있음; 지속적인 정제가 필요함
+- **반대 원소**: 빛 (강제로 합쳐질 때 황혼을 생성하지만, 궁극적으로 빛에 의해 소멸됨)
+- **보완 원소**: 죽음 (공허를 생성), 불 (연기를 생성)
+- **음악적 비유**: 단조 멜로디, 특히 현악기; 복잡하고 겹겹이 쌓인 화음
 
-## Manipulation Techniques
+## 조작 기술
 
-### Basic Techniques
+### 기본 기술
 
-#### Shadow Summoning
-The foundational technique of drawing forth and concentrating shadow:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Gathers ambient darkness or creates shadow where minimal light exists
-- **Training Focus**: Darkness concentration and boundary definition
-- **Applications**: Creating areas of concealment, darkening rooms, enhancing existing shadows
+#### 그림자 소환
+그림자를 불러내고 집중시키는 기초 기술:
+- **난이도**: 초심자
+- **순도 요구 사항**: 기본 (15-25%)
+- **효과**: 주변의 어둠을 모으거나 최소한의 빛이 존재하는 곳에 그림자를 생성
+- **훈련 초점**: 어둠 집중 및 경계 정의
+- **응용**: 은폐 영역 생성, 방 어둡게 하기, 기존 그림자 강화
 
-#### Umbral Shaping
-Molding and manipulating existing shadow:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Forms shadow into specific shapes and patterns
-- **Training Focus**: Shadow density and form maintenance
-- **Applications**: Simple disguises, intimidation effects, symbolic communication
+#### 움브라 형상화
+기존 그림자를 주조하고 조작하는 기술:
+- **난이도**: 초심자에서 중급
+- **순도 요구 사항**: 기본에서 정제됨 (20-40%)
+- **효과**: 그림자를 특정 모양과 패턴으로 형성
+- **훈련 초점**: 그림자 밀도 및 형태 유지
+- **응용**: 간단한 변장, 위협 효과, 상징적 의사 소통
 
-#### Perception Dimming
-Subtly affecting how others perceive the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-50%)
-- **Effect**: Reduces observers' awareness of the caster's presence
-- **Training Focus**: Attention deflection and sensory dampening
-- **Applications**: Stealth enhancement, social camouflage, avoiding unwanted attention
+#### 지각 약화
+시전자에 대한 다른 사람의 인식을 미묘하게 저하시키는 기술:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제됨 (30-50%)
+- **효과**: 관찰자가 시전자의 존재를 인지하는 것을 줄임
+- **훈련 초점**: 주의 분산 및 감각 감쇠
+- **응용**: 은신 강화, 사회적 위장, 불필요한 관심 회피
 
-### Advanced Techniques
+### 고급 기술
 
-#### Shadow Animation
-Creating semi-autonomous shadow constructs:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Infuses shadow with temporary purpose and limited intelligence
-- **Training Focus**: Intent projection and umbral persistence
-- **Applications**: Scouting, distraction, message carrying, performance art
+#### 그림자 애니메이션
+반자율적인 그림자 구조물을 생성하는 기술:
+- **난이도**: 고급
+- **순도 요구 사항**: 정제됨에서 완벽 (45-70%)
+- **효과**: 그림자에 일시적인 목적과 제한된 지능을 불어넣음
+- **훈련 초점**: 의도 투사 및 움브라 지속성
+- **응용**: 정찰, 방해, 메시지 전달, 공연 예술
 
-#### Void Pocketing
-Creating spaces between shadows:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Forms stable extra-dimensional spaces within shadow
-- **Training Focus**: Spatial folding and boundary maintenance
-- **Applications**: Concealment of objects, temporary storage, escape routes
+#### 공허 주머니 만들기
+그림자 사이에 공간을 만드는 기술:
+- **난이도**: 전문가
+- **순도 요구 사항**: 완벽 (65-85%)
+- **효과**: 그림자 내에 안정적인 차원 외 공간을 형성
+- **훈련 초점**: 공간 접기 및 경계 유지
+- **응용**: 물체 은폐, 임시 저장, 탈출 경로
 
-#### Umbral Traversal
-Using shadow as a medium for transportation:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Allows physical translation through connected shadows
-- **Training Focus**: Dimensional mapping and personal integrity maintenance
-- **Applications**: Rapid travel, infiltration, escape from physical restraints
+#### 움브라 횡단
+그림자를 운송 매체로 사용하는 기술:
+- **난이도**: 마스터
+- **순도 요구 사항**: 완벽 (75-95%)
+- **효과**: 연결된 그림자를 통해 물리적 이동을 허용
+- **훈련 초점**: 차원 매핑 및 개인 무결성 유지
+- **응용**: 빠른 이동, 침투, 물리적 구속으로부터의 탈출
 
-## Common Spells
+## 일반적인 주문
 
-### Novice Spells
+### 초심자 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Shadow Hand** | Creates a manipulable shadow appendage | Somatic | 2 seconds | Concentration |
-| **Dim** | Reduces light level in a small area | Somatic, Verbal | 3 seconds | 10 minutes |
-| **Night Eyes** | Enhances vision in darkness | Somatic, Verbal | 5 seconds | 1 hour |
-| **Shadow Mark** | Places an invisible mark visible only in darkness | Somatic, Focus | 10 seconds | 1 week |
+| **그림자 손** | 조작 가능한 그림자 부속물을 생성 | 신체 | 2초 | 집중 |
+| **희미하게 하기** | 작은 영역의 빛의 양을 줄임 | 신체, 언어 | 3초 | 10분 |
+| **밤의 눈** | 어둠 속에서 시력을 향상시킴 | 신체, 언어 | 5초 | 1시간 |
+| **그림자 표시** | 어둠 속에서만 보이는 보이지 않는 표시를 남김 | 신체, 초점 | 10초 | 1주일 |
 
-### Intermediate Spells
+### 중급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Cloak of Shadows** | Wraps the caster in concealing darkness | Somatic, Verbal | 5 seconds | 30 minutes |
-| **Shadow Puppet** | Creates a simple animated shadow figure | Somatic, Focus | 10 seconds | 10 minutes |
-| **Umbral Message** | Sends a message through connecting shadows | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
-| **Dark Mirror** | Creates a reflection of reality in shadow | Somatic, Verbal, Focus | 30 seconds | 10 minutes |
+| **그림자의 망토** | 시전자를 숨기는 어둠으로 감쌈 | 신체, 언어 | 5초 | 30분 |
+| **그림자 꼭두각시** | 간단한 애니메이션 그림자 형상을 생성 | 신체, 초점 | 10초 | 10분 |
+| **움브라 메시지** | 연결된 그림자를 통해 메시지를 보냄 | 신체, 언어, 초점 | 30초 | 즉시 |
+| **어두운 거울** | 그림자 속에서 현실의 반영을 생성 | 신체, 언어, 초점 | 30초 | 10분 |
 
-### Advanced Spells
+### 고급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Shadow Step** | Allows short-range teleportation between shadows | Somatic, Verbal, Focus | 3 seconds | Instantaneous |
-| **Umbral Entity** | Forms a semi-autonomous shadow being | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Consuming Darkness** | Creates a field of devouring shadow energy | Somatic, Verbal, Focus | 15 seconds | Concentration |
-| **Realm of Shadow** | Transforms an area into a shadow-dominant environment | Somatic, Verbal, Focus, Ritual | 10 minutes | 1 hour |
+| **그림자 걸음** | 그림자 사이의 단거리 텔레포트를 허용 | 신체, 언어, 초점 | 3초 | 즉시 |
+| **움브라 존재** | 반자율적인 그림자 존재를 형성 | 신체, 언어, 초점 | 1분 | 1시간 |
+| **삼키는 어둠** | 그림자 에너지의 삼키는 장을 생성 | 신체, 언어, 초점 | 15초 | 집중 |
+| **그림자의 영역** | 영역을 그림자가 지배하는 환경으로 변환 | 신체, 언어, 초점, 의식 | 10분 | 1시간 |
 
-## Affinity Development
+## 친화력 개발
 
-Shadow affinity progresses through several distinctive stages:
+그림자 친화력은 몇 가지 뚜렷한 단계를 거쳐 발전합니다:
 
-### Twilight Touch
-The foundational relationship with shadow that most beginners possess:
-- **Manifestation**: Enhanced perception in darkness, intuitive sense of concealed spaces
-- **Physical Signs**: Slightly darker pupils, subtle darkening around fingertips when casting
-- **Enhancement Method**: Regular meditation at twilight or in dimly lit spaces
+### 황혼의 손길
+대부분의 초보자가 소유하는 그림자와의 기초적인 관계:
+- **발현**: 어둠 속에서의 향상된 인식, 숨겨진 공간에 대한 직관적인 감각
+- **신체적 징후**: 약간 더 어두운 동공, 시전 시 손가락 끝 주변이 미묘하게 어두워짐
+- **강화 방법**: 황혼이나 어두운 공간에서 규칙적인 명상
 
-### Umbral Echo
-The intermediate stage where shadow responds more readily to the mage's will:
-- **Manifestation**: Shadows deepen around the caster, ambient light seems to dim slightly
-- **Physical Signs**: Eyes appear darker, shadow cast is slightly more pronounced than normal
-- **Enhancement Method**: Shadow immersion exercises, prolonged exposure to natural darkness
+### 움브라 메아리
+마법사의 의지에 그림자가 더 쉽게 반응하는 중간 단계:
+- **발현**: 시전자 주변의 그림자가 깊어짐, 주변 빛이 약간 어두워지는 것처럼 보임
+- **신체적 징후**: 눈이 더 어둡게 보임, 드리워진 그림자가 평소보다 약간 더 뚜렷함
+- **강화 방법**: 그림자 몰입 훈련, 자연스러운 어둠에 장시간 노출
 
-### Void Harmony
-Advanced practitioners achieve a deep resonance with shadow's properties:
-- **Manifestation**: Natural shadows seem drawn to the caster, ability to sense movement through darkness
-- **Physical Signs**: Skin develops subtle shifting patterns in dim light, voice gains resonant qualities
-- **Enhancement Method**: Deep communion at sites of natural darkness or during lunar eclipses
+### 공허 조화
+숙련된 시술자는 그림자의 속성과 깊은 공명을 이룸:
+- **발현**: 자연스러운 그림자가 시전자에게 끌리는 것처럼 보임, 어둠 속에서 움직임을 감지하는 능력
+- **신체적 징후**: 희미한 빛 속에서 피부에 미묘한 변화 패턴이 나타남, 음성에 공명적인 음질이 생김
+- **강화 방법**: 자연스러운 어둠의 장소나 월식 동안 깊은 교감
 
-### Shadow Integration
-Master umbramancers who have achieved profound connection with shadow:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of darkness
-- **Physical Signs**: Body temperature drops slightly, blood appears unusually dark, starlight reflection in eyes
-- **Enhancement Method**: Deep communion at ley line intersections with strong shadow resonance
+### 그림자 통합
+그림자와 심오한 연결을 이룬 마스터 움브라마나 사용자:
+- **발현**: 부분적인 변환 능력, 어둠의 직관적인 조작
+- **신체적 징후**: 체온이 약간 떨어짐, 혈액이 비정상적으로 어둡게 보임, 눈에 별빛 반사
+- **강화 방법**: 강한 그림자 공명을 가진 레이 라인 교차점에서 깊은 교감
 
-## Risks and Safeguards
+## 위험 및 안전 장치
 
-### Common Risks
+### 일반적인 위험
 
-- **Sensory Degradation**: Diminished visual perception in normal light
-- **Emotional Dampening**: Gradual suppression of emotional responses
-- **Umbral Dependency**: Developing discomfort in bright light or open spaces
-- **Identity Diffusion**: Loss of self-definition through excessive shadow immersion
-- **Void Contamination**: Shadow techniques accidentally accessing dangerous extraplanar spaces
+- **감각 저하**: 정상적인 빛 속에서 시각적 인식이 감소
+- **정서적 감쇠**: 정서적 반응의 점진적인 억제
+- **움브라 의존성**: 밝은 빛이나 열린 공간에서 불편함을 느끼게 됨
+- **정체성 확산**: 과도한 그림자 몰입으로 인한 자기 정의의 상실
+- **공허 오염**: 그림자 기술이 실수로 위험한 차원 외 공간에 접근
 
-### Miscast Effects
+### 잘못된 시전 효과
 
-| Severity | Effect | Recovery |
+| 심각도 | 효과 | 회복 |
 |----------|--------|----------|
-| **Minor** | Temporary night vision, heightened light sensitivity, minor shadow persistence | Hours |
-| **Moderate** | Partial transparency in bright light, shadow pooling, emotional flattening | Days |
-| **Severe** | Uncontrolled phasing into shadow, sensory darkness, loss of physical boundaries | Weeks |
-| **Critical** | Involuntary shadow transformation, void displacement, essence fragmentation | Months to permanent |
+| **미미함** | 일시적인 야간 시력, 높아진 빛에 대한 민감도, 작은 그림자 지속성 | 몇 시간 |
+| **보통** | 밝은 빛 속에서 부분적인 투명도, 그림자 웅덩이, 감정 평탄화 | 며칠 |
+| **심각함** | 그림자 속으로의 통제되지 않은 단계적 전환, 감각적 어둠, 물리적 경계의 상실 | 몇 주 |
+| **위험함** | 비자발적인 그림자 변환, 공허 변위, 본질 파편화 | 몇 달에서 영구적 |
 
-### Safety Practices
+### 안전 수칙
 
-- **Light Balancing**: Regular exposure to natural sunlight between practice sessions
-- **Identity Anchoring**: Personal focus objects and regular social interaction
-- **Boundary Rituals**: Clearly defined casting spaces with protective markings
-- **Emotional Maintenance**: Creative expression and emotional stimulation exercises
-- **Physical Grounding**: Regular physical exercise and tactile experiences
+- **빛 균형**: 훈련 세션 사이에 자연 햇빛에 규칙적으로 노출
+- **정체성 고정**: 개인 초점 물체 및 규칙적인 사회적 상호 작용
+- **경계 의식**: 보호 표시가 있는 명확하게 정의된 시전 공간
+- **정서적 유지**: 창의적인 표현 및 정서적 자극 훈련
+- **신체적 접지**: 규칙적인 신체 운동 및 촉각 경험
 
-## Cultural Significance
+## 문화적 중요성
 
-### Historical Development
+### 역사적 발전
 
-Shadow magic represents one of the most misunderstood and often maligned magical disciplines. Its development followed three distinct historical phases:
+그림자 마법은 가장 오해받고 종종 비방받는 마법 분야 중 하나입니다. 그 발전은 세 가지 뚜렷한 역사적 단계를 거쳤습니다:
 
-1. **Primal Darkness**: Early cultures developing rituals around night, caves, and the unknown
-2. **Concealment Necessity**: Development of stealth techniques during periods of magical persecution
-3. **Dimensional Exploration**: Advanced practitioners discovering shadow's connection to other planes
+1. **원시적인 어둠**: 밤, 동굴, 미지의 것에 대한 의식을 개발한 초기 문화
+2. **은폐의 필요성**: 마법 박해 기간 동안 은신 기술 개발
+3. **차원 탐사**: 그림자와 다른 차원의 연결을 발견한 고급 시술자
 
-### Regional Variations
+### 지역적 변형
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 문화 | 초점 | 대표 기술 | 철학 |
 |---------|-------|---------------------|------------|
-| **Forest Dwellers** | Concealment, camouflage | Shadow blending, dappled darkness | Shadow as the silent protector |
-| **Underground Societies** | Navigation, perception | Cave sight, echo shadowing | Shadow as the true foundation |
-| **Urban Practitioners** | Stealth, communication | Alleyway walking, urban concealment | Shadow as the unseen network |
-| **Desert Night Tribes** | Star connection, cooling | Night shrouding, heat absorption | Shadow as the night's blessing |
+| **숲 거주자** | 은폐, 위장 | 그림자 혼합, 얼룩덜룩한 어둠 | 침묵하는 보호자로서의 그림자 |
+| **지하 사회** | 항해, 인식 | 동굴 시야, 메아리 그림자 | 진정한 기초로서의 그림자 |
+| **도시 시술자** | 은신, 통신 | 골목길 걷기, 도시 은폐 | 보이지 않는 네트워크로서의 그림자 |
+| **사막 밤 부족** | 별 연결, 냉각 | 밤 장막 덮기, 열 흡수 | 밤의 축복으로서의 그림자 |
 
-### Ceremonial Uses
+### 의식적 사용
 
-Shadow magic features prominently in some cultural ceremonies:
-- **Transition Rituals**: Marking major life changes through symbolic shadow immersion
-- **Protection Ceremonies**: Creating shadow guardians for important locations
-- **Coming of Age**: Young umbramancers demonstrating their first shadow manipulation
-- **New Moon Gatherings**: Communal shadow workings during the darkest nights
+그림자 마법은 일부 문화 의식에서 두드러지게 나타납니다:
+- **전환 의식**: 상징적인 그림자 몰입을 통해 주요 삶의 변화를 표시
+- **보호 의식**: 중요한 위치에 대한 그림자 수호자 생성
+- **성년 의식**: 젊은 움브라마나 사용자가 첫 번째 그림자 조작을 시연
+- **초승달 모임**: 가장 어두운 밤 동안 공동 그림자 작업
 
-### Contemporary Applications
+### 현대적 응용
 
-Beyond stealth and intimidation, shadow magic serves important societal functions:
-- **Privacy Protection**: Creating secure spaces free from surveillance
-- **Information Security**: Shadow-marked documents that reveal content only under specific conditions
-- **Environmental Management**: Temperature control through strategic shadow creation
-- **Therapeutic Applications**: Sensory reduction environments for psychological treatment
-- **Engineering**: Testing structures for stability and integrity through shadow analysis
+은신 및 위협을 넘어 그림자 마법은 중요한 사회적 기능을 수행합니다:
+- **개인 정보 보호**: 감시로부터 자유로운 안전한 공간 만들기
+- **정보 보안**: 특정 조건에서만 내용을 드러내는 그림자 표시 문서
+- **환경 관리**: 전략적인 그림자 생성을 통한 온도 조절
+- **치료적 응용**: 심리 치료를 위한 감각 감소 환경
+- **공학**: 그림자 분석을 통한 구조의 안정성 및 무결성 테스트
 
-> *"The student of shadow must understand that darkness does not seek to consume light, but to provide balance—like silence that gives meaning to sound, or rest that gives purpose to activity."* — The Umbral Tenets
+> *"그림자의 학생은 어둠이 빛을 소모하려고 하는 것이 아니라 균형을 제공하려 한다는 것을 이해해야 합니다. 마치 소리에 의미를 부여하는 침묵처럼, 또는 활동에 목적을 부여하는 휴식처럼 말입니다."* — 움브라 신조
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Light Magic](/codex/Magics/Elements/LightMagic.md), [Void Magic](/codex/Magics/Advanced/Specializations/VoidMagic.md)* 
+*참고: [원소 마법](/codex/Magics/Elements/ElementalMagic.md), [빛 마법](/codex/Magics/Elements/LightMagic.md), [공허 마법](/codex/Magics/Advanced/Specializations/VoidMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,340 +1,344 @@
-# **Elemental Magic**: The Fundamental Harmonies of Creation
+# **엘리멘탈 마법**: 창조의 근본적인 조화
 
-[**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) represents the most primal and fundamental expression of magical energies in the world of OpenFantasy. Like the basic notes that form the foundation of all musical compositions, the elemental forces provide the building blocks from which all other magic derives its power and expression.
+[**엘리멘탈 마법**](/codex/Magics/Elements/ElementalMagic.md)은 OpenFantasy 세계에서 가장 원초적이고 기본적인 마법 에너지의 표현입니다. 모든 음악 작품의 기초를 형성하는 기본 음표처럼, 엘리멘탈 힘은 다른 모든 마법이 그 힘과 표현을 끌어내는 구성 요소를 제공합니다.
 
-## The Elemental Octave
+## 엘리멘탈 옥타브
 
-The magical world is structured around eight primary elements, each with its own distinctive resonance frequency, properties, and affinities:
+마법 세계는 고유한 공명 주파수, 속성 및 친화력을 가진 8가지 주요 엘리멘탈을 중심으로 구성됩니다.
 
-| Element | Resonance | Physical Expression | Opposed Element | Musical Analogy |
+| 엘리멘탈 | 공명 | 물리적 표현 | 대립 엘리멘탈 | 음악적 비유 |
 |---------|-----------|---------------------|-----------------|-----------------|
-| **Fire** | High-intensity, rapid vibration | Heat, flame, plasma | Water | Trumpet, high brass |
-| **Water** | Flowing, continuous, adaptive | Liquid, ice, vapor | Fire | Cello, flowing strings |
-| **Earth** | Low-frequency, stable vibration | Stone, crystal, metal | Air | Bass, foundation notes |
-| **Air** | Swift, changeable vibration | Wind, gas, breath | Earth | Flute, woodwinds |
-| **Light** | Harmonic, aligned vibration | Illumination, radiance | Shadow | Major key melodies |
-| **Shadow** | Dissonant, absorptive vibration | Darkness, absence | Light | Minor key melodies |
-| **Life** | Complex, organic patterns | Growth, healing | Death | Harmonic progressions |
-| **Death** | Entropic, decay patterns | Deterioration, transformation | Life | Diminishing chords |
+| **불** | 고강도, 빠른 진동 | 열, 불꽃, 플라스마 | 물 | 트럼펫, 고음 브라스 |
+| **물** | 흐름, 연속, 적응 | 액체, 얼음, 증기 | 불 | 첼로, 흐르는 현악 |
+| **땅** | 저주파, 안정적인 진동 | 돌, 수정, 금속 | 공기 | 베이스, 기초 음표 |
+| **공기** | 빠르고 변하기 쉬운 진동 | 바람, 가스, 숨결 | 땅 | 플루트, 목관악기 |
+| **빛** | 조화롭고 정렬된 진동 | 조명, 광채 | 그림자 | 장조 멜로디 |
+| **그림자** | 불협화음, 흡수 진동 | 어둠, 부재 | 빛 | 단조 멜로디 |
+| **생명** | 복잡하고 유기적인 패턴 | 성장, 치유 | 죽음 | 화성 진행 |
+| **죽음** | 엔트로피, 붕괴 패턴 | 악화, 변형 | 생명 | 디미니쉬 코드 |
 
-These eight elements exist in four pairs of opposing forces, creating the fundamental tensions and harmonies that drive the magical ecosystem of the world.
+이 8가지 엘리멘탈은 4쌍의 대립하는 힘으로 존재하며, 세계의 마법 생태계를 움직이는 근본적인 긴장과 조화를 만듭니다.
 
-## Wild Mana and Elemental Forces
+## 와일드 마나와 엘리멘탈 힘
 
-At the foundation of all elemental magic lies [**Wild Mana**](/codex/Magics/Core/WildMana.md), the primordial chaos from which the ordered elements emerge. Wild Mana is the raw, unfiltered energy of creation itself, containing within it the potential for all elemental expressions.
+모든 엘리멘탈 마법의 기초에는 정돈된 엘리멘탈이 나타나는 원초적인 혼돈인 [**와일드 마나**](/codex/Magics/Core/WildMana.md)가 있습니다. 와일드 마나는 모든 엘리멘탈 표현의 잠재력을 담고 있는 날것 그대로의 창조 에너지입니다.
 
-### The Shaping of Reality
+### 현실의 형상화
 
-The unpredictable nature of Wild Mana plays a crucial role in the world's formation and ongoing evolution:
+와일드 마나의 예측 불가능한 성격은 세계의 형성과 지속적인 진화에 중요한 역할을 합니다.
 
-- **Elemental Emergence**: Wild Mana naturally coalesces into elemental patterns based on environmental factors
-- **Spontaneous Manifestation**: Areas with high Wild Mana concentration often display random elemental phenomena
-- **Evolutionary Force**: Wild Mana's chaotic influence drives adaptation and change in magical ecosystems
-- **Creative Potential**: The inherent randomness of Wild Mana ensures infinite variety in elemental expressions
+- **엘리멘탈 출현**: 와일드 마나는 환경적 요인에 따라 자연스럽게 엘리멘탈 패턴으로 융합됩니다.
+- **자발적인 발현**: 와일드 마나 농도가 높은 지역에서는 종종 무작위 엘리멘탈 현상이 나타납니다.
+- **진화적 힘**: 와일드 마나의 혼란스러운 영향은 마법 생태계에서 적응과 변화를 주도합니다.
+- **창의적 잠재력**: 와일드 마나의 고유한 무작위성은 엘리멘탈 표현에 무한한 다양성을 보장합니다.
 
-### Dangers of Unfiltered Absorption
+### 여과되지 않은 흡수의 위험
 
-Spellcasters who work with elemental forces must exercise extreme caution when drawing upon Wild Mana:
+엘리멘탈 힘으로 작업하는 주문 시전자는 와일드 마나를 끌어올 때 극도의 주의를 기울여야 합니다.
 
-| Risk Level | Consequence | Recovery |
+| 위험 수준 | 결과 | 회복 |
 |------------|-------------|----------|
-| **Minor** | Elemental instability, spell unpredictability | Hours to days |
-| **Moderate** | Temporary elemental corruption, physical symptoms | Days to weeks |
-| **Severe** | Permanent elemental taint, altered magical signature | Months to years |
-| **Critical** | Elemental possession, complete loss of magical control | Potentially permanent |
+| **경미** | 엘리멘탈 불안정, 주문 예측 불가능성 | 몇 시간에서 며칠 |
+| **보통** | 일시적인 엘리멘탈 오염, 신체적 증상 | 며칠에서 몇 주 |
+| **심각** | 영구적인 엘리멘탈 변색, 변경된 마법 서명 | 몇 달에서 몇 년 |
+| **위험** | 엘리멘탈 빙의, 마법 통제력의 완전한 상실 | 잠재적으로 영구적 |
 
-#### Warning Signs of Wild Mana Contamination:
+#### 와일드 마나 오염의 경고 징후:
 
-- Unintended elemental manifestations during spellcasting
-- Elemental effects continuing after spell completion
-- Changes in the caster's elemental affinity
-- Physical mutations reflecting elemental exposure
-- Dreams dominated by elemental chaos
+- 주문 시전 중 의도하지 않은 엘리멘탈 발현
+- 주문 완료 후에도 계속되는 엘리멘탈 효과
+- 시전자 엘리멘탈 친화력의 변화
+- 엘리멘탈 노출을 반영하는 신체적 돌연변이
+- 엘리멘탈 혼돈에 지배되는 꿈
 
-> *"The careless elementalist who skips purification is like a musician who never tunes their instrument—except the discordant notes may set the theater ablaze or flood the orchestra pit."* — Archmage Elindra Winterhaven
+> *"정화 단계를 건너뛰는 부주의한 엘리멘탈리스트는 악기를 조율하지 않는 음악가와 같습니다. 다만 불협화음이 극장을 불태우거나 오케스트라 피트를 물에 잠기게 할 수 있습니다."* — 대마법사 엘린드라 윈터헤븐
 
-## Elemental Composition and Mana
+## 엘리멘탈 구성 및 마나
 
-Each of the elemental forces manifests as a specific type of mana with unique properties:
+각 엘리멘탈 힘은 고유한 속성을 가진 특정 유형의 마나로 나타납니다.
 
-### Pyromana (Fire)
-- **Appearance**: Vibrant reds, oranges, and yellows; fluid and flickering
-- **Purification Challenge**: Highly volatile, tends to "burn off" impurities but can become wild if overpurified
-- **Resonance Property**: Amplifies intensity and passion; creates heat as a byproduct
-- **Ideal Vessel**: Copper, ruby, volcanic glass
-- **Affinity Species**: Dragonkin, Giants, Fire Elves
+### 파이로마나 (불)
+- **외관**: 활기찬 빨강, 주황, 노랑; 유동적이고 흔들리는
+- **정화 과제**: 휘발성이 높고 불순물을 "태워 없애는" 경향이 있지만 과도하게 정화하면 제어 불능 상태가 될 수 있습니다.
+- **공명 속성**: 강렬함과 열정을 증폭시킵니다. 부산물로 열을 발생시킵니다.
+- **이상적인 용기**: 구리, 루비, 화산 유리
+- **친화 종족**: 드래곤킨, 자이언트, 불 엘프
 
-### Hydromana (Water)
-- **Appearance**: Blues and cyans; flowing and reflective
-- **Purification Challenge**: Absorbs impurities easily, requiring multiple filtration cycles
-- **Resonance Property**: Adapts to container, enhances fluidity and healing
-- **Ideal Vessel**: Silver, sapphire, coral
-- **Affinity Species**: Merfolk, Sirens, Water Elves
+### 하이드로마나 (물)
+- **외관**: 파란색과 청록색; 흐르고 반사하는
+- **정화 과제**: 불순물을 쉽게 흡수하므로 여러 번의 여과 주기가 필요합니다.
+- **공명 속성**: 용기에 적응하고 유동성과 치유력을 향상시킵니다.
+- **이상적인 용기**: 은, 사파이어, 산호
+- **친화 종족**: 머포크, 세이렌, 물 엘프
 
-### Terramana (Earth)
-- **Appearance**: Greens and browns; crystalline and dense
-- **Purification Challenge**: Slow to purify but maintains purity once achieved
-- **Resonance Property**: Enhances stability and persistence of spells
-- **Ideal Vessel**: Iron, emerald, granite
-- **Affinity Species**: Dwarves, Gnomes, Beastfolk
+### 테라마나 (땅)
+- **외관**: 녹색과 갈색; 결정질이고 밀도가 높은
+- **정화 과제**: 정화하는 데 시간이 오래 걸리지만 일단 정화되면 순도를 유지합니다.
+- **공명 속성**: 주문의 안정성과 지속성을 향상시킵니다.
+- **이상적인 용기**: 철, 에메랄드, 화강암
+- **친화 종족**: 드워프, 노움, 비스트포크
 
-### Aeromana (Air)
-- **Appearance**: White and pale blues; wispy and translucent
-- **Purification Challenge**: Difficult to contain during purification, but accepts purification easily
-- **Resonance Property**: Extends range and speed of magical effects
-- **Ideal Vessel**: Brass, diamond, lightweight woods
-- **Affinity Species**: Humans, Elves, Birdfolk
+### 에어로마나 (공기)
+- **외관**: 흰색과 옅은 파란색; 얇고 반투명한
+- **정화 과제**: 정화 중에는 억제하기 어렵지만 정화를 쉽게 받아들입니다.
+- **공명 속성**: 마법 효과의 범위와 속도를 확장합니다.
+- **이상적인 용기**: 놋쇠, 다이아몬드, 가벼운 목재
+- **친화 종족**: 인간, 엘프, 버드포크
 
-### Luxmana (Light)
-- **Appearance**: Gold and white; radiant and brilliant
-- **Purification Challenge**: Already naturally pure but sensitive to emotional impurities
-- **Resonance Property**: Enhances clarity, revelation, and banishing
-- **Ideal Vessel**: Gold, amber, clear crystal
-- **Affinity Species**: Fae, High Elves, Celestials
+### 룩스마나 (빛)
+- **외관**: 금색과 흰색; 빛나고 밝은
+- **정화 과제**: 이미 자연적으로 순수하지만 감정적 불순물에 민감합니다.
+- **공명 속성**: 명확성, 계시 및 추방을 향상시킵니다.
+- **이상적인 용기**: 금, 호박, 투명한 수정
+- **친화 종족**: 페이, 하이 엘프, 셀레스티얼
 
-### Umbramana (Shadow)
-- **Appearance**: Deep purples and blacks; absorptive and dense
-- **Purification Challenge**: Tends to absorb and hide impurities rather than release them
-- **Resonance Property**: Enhances concealment, illusion, and distance manipulation
-- **Ideal Vessel**: Lead, onyx, obsidian
-- **Affinity Species**: Shadowfolk, Dark Elves, Void Touched
+### 움브라마나 (그림자)
+- **외관**: 짙은 보라색과 검은색; 흡수성이 높고 밀도가 높은
+- **정화 과제**: 불순물을 방출하기보다는 흡수하고 숨기는 경향이 있습니다.
+- **공명 속성**: 은폐, 환상 및 거리 조작을 향상시킵니다.
+- **이상적인 용기**: 납, 오닉스, 흑요석
+- **친화 종족**: 섀도우포크, 다크 엘프, 보이드 터치드
 
-### Vitaemana (Life)
-- **Appearance**: Vibrant greens and pinks; pulsing and organic
-- **Purification Challenge**: Requires organic components for proper purification
-- **Resonance Property**: Enhances growth, healing, and biological processes
-- **Ideal Vessel**: Living wood, pearl, bone
-- **Affinity Species**: Humans, Beastfolk, Nature Spirits
+### 비타에마나 (생명)
+- **외관**: 활기찬 녹색과 분홍색; 맥동하고 유기적인
+- **정화 과제**: 적절한 정화를 위해 유기적 구성 요소가 필요합니다.
+- **공명 속성**: 성장, 치유 및 생물학적 과정을 향상시킵니다.
+- **이상적인 용기**: 살아있는 나무, 진주, 뼈
+- **친화 종족**: 인간, 비스트포크, 자연 정령
 
-### Mortismana (Death)
-- **Appearance**: Grays and pale blues; still and crystalline
-- **Purification Challenge**: Resists conventional purification, requires specialized techniques
-- **Resonance Property**: Enhances entropy, transformation, and preservation
-- **Ideal Vessel**: Ancient bone, black pearl, preserved tissues
-- **Affinity Species**: Dark Elves, Shadowfolk, Deathsingers
+### 모티스마나 (죽음)
+- **외관**: 회색과 옅은 파란색; 고요하고 결정질인
+- **정화 과제**: 기존의 정화에 저항하고 특수 기술이 필요합니다.
+- **공명 속성**: 엔트로피, 변형 및 보존을 향상시킵니다.
+- **이상적인 용기**: 고대 뼈, 검은 진주, 보존된 조직
+- **친화 종족**: 다크 엘프, 섀도우포크, 데스싱어
 
-## Elemental Attunement
+## 엘리멘탈 조율
 
-Spellcasters typically develop natural affinities for specific elemental energies based on their elemental composition, species, and personal temperament:
+주문 시전자는 일반적으로 엘리멘탈 구성, 종족 및 개인 기질에 따라 특정 엘리멘탈 에너지에 대한 자연적인 친화력을 개발합니다.
 
-### Attunement Levels
+### 조율 수준
 
-| Level | Description | Casting Advantage | Disadvantage |
+| 수준 | 설명 | 시전 이점 | 불이익 |
 |-------|-------------|-------------------|--------------|
-| **Resistant** | Element works against the caster | None; difficult to work with | 2x mana cost, impure results |
-| **Neutral** | No special relationship | Standard casting | No advantages or disadvantages |
-| **Attuned** | Natural affinity for the element | 20% reduced mana cost | None |
-| **Harmonized** | Deep connection with element | 40% reduced mana cost, enhanced effects | Slight resistance to opposite element |
-| **Embodied** | Caster channels element instinctively | 60% reduced mana cost, greatly enhanced effects | Strong resistance to opposite element |
+| **저항** | 엘리멘탈이 시전자에 불리하게 작용함 | 없음; 작업하기 어려움 | 마나 비용 2배, 불순한 결과 |
+| **중립** | 특별한 관계 없음 | 표준 시전 | 장점이나 단점 없음 |
+| **조율됨** | 엘리멘탈에 대한 자연스러운 친화력 | 마나 비용 20% 감소 | 없음 |
+| **조화됨** | 엘리멘탈과의 깊은 연결 | 마나 비용 40% 감소, 향상된 효과 | 반대 엘리멘탈에 대한 약간의 저항 |
+| **구체화됨** | 시전자가 엘리멘탈을 본능적으로 전달함 | 마나 비용 60% 감소, 크게 향상된 효과 | 반대 엘리멘탈에 대한 강력한 저항 |
 
-### Developing Attunement
+### 조율 개발
 
-Casters can develop and strengthen their elemental attunements through:
+시전자는 다음을 통해 엘리멘탈 조율을 개발하고 강화할 수 있습니다.
 
-1. **Elemental Meditation**: Regular communion with pure elemental sources
-2. **Affinity Rituals**: Specialized ceremonies to align one's magical signature with an element
-3. **Environmental Immersion**: Extended time spent in elementally-charged locations
-4. **Elemental Binding**: Temporarily binding a fragment of elemental essence to one's soul
-5. **Resonance Training**: Practice manipulating specific elemental frequencies
+1. **엘리멘탈 명상**: 순수한 엘리멘탈 근원과의 정기적인 교감
+2. **친화력 의식**: 자신의 마법 서명을 엘리멘탈에 맞추기 위한 특수 의식
+3. **환경 몰입**: 엘리멘탈이 충전된 장소에서 보내는 시간 연장
+4. **엘리멘탈 결속**: 엘리멘탈 정수의 조각을 일시적으로 자신의 영혼에 결속
+5. **공명 훈련**: 특정 엘리멘탈 주파수를 조작하는 연습
 
-Most mages achieve Harmonized status with one element and Attuned status with 1-2 complementary elements at the height of their powers.
+대부분의 마법사는 자신의 힘이 절정에 달했을 때 하나의 엘리멘탈과 조화된 상태를 달성하고 1-2개의 보완적인 엘리멘탈과 조율된 상태를 달성합니다.
 
-## Elemental Interactions
+## 엘리멘탈 상호 작용
 
-The elements interact in predictable ways that form the foundation of complex spellcasting:
+엘리멘탈은 복잡한 주문 시전의 기초를 형성하는 예측 가능한 방식으로 상호 작용합니다.
 
-### Complementary Elements
-Adjacent elements on the octave strengthen each other when used together:
-- Fire + Light = Radiant flame (purification, revelation)
-- Fire + Earth = Magma (creation, destruction)
-- Water + Death = Ice (preservation, stasis)
-- Water + Air = Mist (illusion, transformation)
-- Earth + Life = Growth (abundance, fertility)
-- Earth + Death = Decay (transmutation, recycling)
-- Air + Light = Radiance (inspiration, clarity)
-- Air + Life = Breath (animation, vitality)
-- Light + Life = Healing (restoration, blessing)
-- Shadow + Death = Void (nullification, banishing)
-- Shadow + Fire = Smoke (obscurement, confusion)
+### 보완적인 엘리멘탈
+옥타브에서 인접한 엘리멘탈은 함께 사용하면 서로를 강화합니다.
+- 불 + 빛 = 빛나는 불꽃 (정화, 계시)
+- 불 + 땅 = 마그마 (창조, 파괴)
+- 물 + 죽음 = 얼음 (보존, 정지)
+- 물 + 공기 = 안개 (환상, 변형)
+- 땅 + 생명 = 성장 (풍요, 다산)
+- 땅 + 죽음 = 부패 (변환, 재활용)
+- 공기 + 빛 = 광채 (영감, 명확성)
+- 공기 + 생명 = 숨결 (애니메이션, 활력)
+- 빛 + 생명 = 치유 (회복, 축복)
+- 그림자 + 죽음 = 공허 (무효화, 추방)
+- 그림자 + 불 = 연기 (흐리게 하기, 혼란)
 
-### Opposing Elements
-Opposing elements create instability when forced together:
-- Fire + Water = Steam (explosive, unpredictable)
-- Earth + Air = Dust (disintegration, scattering)
-- Light + Shadow = Twilight (liminality, transition)
-- Life + Death = Undeath (corruption, unnatural persistence)
+### 대립되는 엘리멘탈
+대립되는 엘리멘탈은 함께 강제로 결합하면 불안정을 일으킵니다.
+- 불 + 물 = 증기 (폭발적, 예측 불가능)
+- 땅 + 공기 = 먼지 (분해, 흩어짐)
+- 빛 + 그림자 = 황혼 (경계, 전환)
+- 생명 + 죽음 = 언데드 (부패, 부자연스러운 지속)
 
-### Elemental Chords
-Three harmonious elements can be combined to create "chord" effects:
-- Fire + Earth + Light = **Forge Chord** (creation, transformation)
-- Water + Air + Light = **Storm Chord** (purification, renewal)
-- Earth + Water + Life = **Growth Chord** (abundance, healing)
-- Shadow + Death + Fire = **Destruction Chord** (annihilation, consumption)
+### 엘리멘탈 코드
+세 가지 조화로운 엘리멘탈을 결합하여 "코드" 효과를 만들 수 있습니다.
+- 불 + 땅 + 빛 = **대장간 코드** (창조, 변형)
+- 물 + 공기 + 빛 = **폭풍 코드** (정화, 갱신)
+- 땅 + 물 + 생명 = **성장 코드** (풍요, 치유)
+- 그림자 + 죽음 + 불 = **파괴 코드** (전멸, 소비)
 
-### Pure Elemental Magic
+### 순수한 엘리멘탈 마법
 
-The direct manipulation of elemental forces represents the most straightforward application of magic:
+엘리멘탈 힘을 직접 조작하는 것은 마법의 가장 간단한 적용을 나타냅니다.
 
-#### Evocation
-Calling forth raw elemental energy:
-- **Complexity**: Low to Moderate
-- **Purity Requirement**: Standard
-- **Resonance Type**: Matched to element
-- **Examples**: Fireballs, water shields, stone barriers
+#### 소환
+원시 엘리멘탈 에너지를 불러옴:
+- **복잡성**: 낮음 ~ 보통
+- **순도 요구 사항**: 표준
+- **공명 유형**: 엘리멘탈에 일치
+- **예**: 불덩이, 물 방패, 돌 장벽
 
-#### Elemental Shaping
-Controlling and precisely manipulating elemental forces:
-- **Complexity**: Moderate to High
-- **Purity Requirement**: Refined
-- **Resonance Type**: Modulated to create specific forms
-- **Examples**: Fire sculptures, water constructs, animated earth
+#### 엘리멘탈 형상화
+엘리멘탈 힘을 제어하고 정확하게 조작함:
+- **복잡성**: 보통 ~ 높음
+- **순도 요구 사항**: 정제됨
+- **공명 유형**: 특정 형태를 만들기 위해 조절됨
+- **예**: 불 조각, 물 구조물, 애니메이션된 땅
 
-#### Elemental Binding
-Binding elemental energy to objects or beings:
-- **Complexity**: High
-- **Purity Requirement**: Refined to Perfect
-- **Resonance Type**: Sustained harmony between element and target
-- **Examples**: Flaming weapons, water breathing, stone skin
+#### 엘리멘탈 결속
+엘리멘탈 에너지를 물체나 존재에 결속함:
+- **복잡성**: 높음
+- **순도 요구 사항**: 정제됨 ~ 완벽함
+- **공명 유형**: 엘리멘탈과 대상 간의 지속적인 조화
+- **예**: 불타는 무기, 물 호흡, 돌 피부
 
-#### Elemental Embodiment
-Temporarily becoming one with an element:
-- **Complexity**: Very High
-- **Purity Requirement**: Perfect
-- **Resonance Type**: Complete sympathetic vibration
-- **Examples**: Fire form, water transformation, earth merging
+#### 엘리멘탈 구체화
+일시적으로 엘리멘탈과 하나가 됨:
+- **복잡성**: 매우 높음
+- **순도 요구 사항**: 완벽함
+- **공명 유형**: 완전한 공감 진동
+- **예**: 불 형태, 물 변형, 땅 합병
 
-## Applied Elemental Magic
+## 응용 엘리멘탈 마법
 
-Beyond pure elemental manipulation, the elements form the basis of applied magical disciplines:
+순수한 엘리멘탈 조작 외에도 엘리멘탈은 응용 마법 분야의 기초를 형성합니다.
 
-### Elemental Enchantment
+### 엘리멘탈 인챈트
 
-The process of binding elemental properties to items:
+엘리멘탈 속성을 아이템에 결속하는 과정:
 
-| Element | Common Enchantments | Ideal Items | Difficulty |
+| 엘리멘탈 | 일반적인 인챈트 | 이상적인 아이템 | 난이도 |
 |---------|---------------------|-------------|------------|
-| **Fire** | Heat, destruction, passion | Weapons, forges, hearths | Moderate (volatile) |
-| **Water** | Fluidity, healing, adaptation | Healing tools, flexible items | Low (receptive) |
-| **Earth** | Durability, strength, stability | Armor, foundations, shields | Low (stable) |
-| **Air** | Speed, lightness, intelligence | Vehicles, message devices | High (elusive) |
-| **Light** | Illumination, truth, purification | Revealing devices, protective amulets | Moderate (pure) |
-| **Shadow** | Concealment, misdirection, stealth | Cloaks, assassin tools | High (absorptive) |
-| **Life** | Growth, healing, empathy | Medical tools, agricultural implements | Very High (complex) |
-| **Death** | Preservation, decay, transformation | Preservative containers, weapons | Very High (resistant) |
+| **불** | 열, 파괴, 열정 | 무기, 대장간, 난로 | 보통 (휘발성) |
+| **물** | 유동성, 치유, 적응 | 치유 도구, 유연한 아이템 | 낮음 (수용적) |
+| **땅** | 내구성, 힘, 안정성 | 갑옷, 기초, 방패 | 낮음 (안정적) |
+| **공기** | 속도, 가벼움, 지능 | 차량, 메시지 장치 | 높음 (포착하기 어려움) |
+| **빛** | 조명, 진실, 정화 | 드러내는 장치, 보호 부적 | 보통 (순수) |
+| **그림자** | 은폐, 잘못된 방향, 은신 | 망토, 암살 도구 | 높음 (흡수적) |
+| **생명** | 성장, 치유, 공감 | 의료 도구, 농업 도구 | 매우 높음 (복잡함) |
+| **죽음** | 보존, 부패, 변형 | 보존 용기, 무기 | 매우 높음 (저항적) |
 
-### Elemental Alchemy
+### 엘리멘탈 연금술
 
-The transformation of substances through elemental principles:
+엘리멘탈 원리를 통한 물질의 변형:
 
-- **Calcination** (Fire): Breaking down materials to their essential components
-- **Dissolution** (Water): Dissolving and extracting properties
-- **Coagulation** (Earth): Solidifying and stabilizing properties
-- **Sublimation** (Air): Refining and purifying through elevation
-- **Illumination** (Light): Revealing hidden properties
-- **Separation** (Shadow): Dividing and isolating specific qualities
-- **Fermentation** (Life): Developing and enhancing living properties
-- **Mortification** (Death): Preserving and transforming through controlled decay
+- **하소** (불): 재료를 필수 성분으로 분해
+- **용해** (물): 속성을 용해하고 추출
+- **응고** (땅): 속성을 응고하고 안정화
+- **승화** (공기): 승격을 통한 정제 및 정화
+- **조명** (빛): 숨겨진 속성을 드러냄
+- **분리** (그림자): 특정 자질을 분할하고 분리
+- **발효** (생명): 살아있는 속성을 개발하고 강화
+- **굴욕** (죽음): 통제된 부패를 통한 보존 및 변형
 
-### Elemental Divination
+### 엘리멘탈 점술
 
-Reading patterns in elemental manifestations:
+엘리멘탈 발현의 패턴을 읽음:
 
-- **Pyromancy** (Fire): Reading flames and smoke
-- **Hydromancy** (Water): Interpreting water patterns and reflections
-- **Geomancy** (Earth): Analyzing earth formations and crystals
-- **Aeromancy** (Air): Interpreting wind patterns and cloud formations
-- **Photomancy** (Light): Reading patterns of light and shadow
-- **Sciomancy** (Shadow): Interpreting shadows and darkness
-- **Biomancy** (Life): Reading patterns in living growth
-- **Necromancy** (Death): Divining through remains and decay
+- **화점술** (불): 불꽃과 연기를 읽음
+- **수점술** (물): 물 패턴과 반사를 해석
+- **토점술** (땅): 토양 형성 및 결정을 분석
+- **풍점술** (공기): 바람 패턴과 구름 형성을 해석
+- **광점술** (빛): 빛과 그림자의 패턴을 읽음
+- **사령점술** (그림자): 그림자와 어둠을 해석
+- **생명점술** (생명): 살아있는 성장의 패턴을 읽음
+- **사령술** (죽음): 유해와 부패를 통해 점을 침
 
-## Elemental Matrix
+## 엘리멘탈 매트릭스
 
-Advanced spellcasters understand that the eight elements form an interconnected matrix that can be mapped and manipulated:
+고급 주문 시전자는 8가지 엘리멘탈이 매핑하고 조작할 수 있는 상호 연결된 매트릭스를 형성한다는 것을 이해합니다.
 
-### The Elemental Wheel
-The elements exist in a circular arrangement where adjacent elements are complementary and opposite elements are antagonistic.
+### 엘리멘탈 휠
+엘리멘탈은 인접한 엘리멘탈이 상호 보완적이고 반대되는 엘리멘탈이 적대적인 원형 배열로 존재합니다.
 
-### The Elemental Lattice
-A three-dimensional model showing how elements interconnect across multiple dimensions of resonance.
+### 엘리멘탈 격자
+여러 공명 차원에서 엘리멘탈이 어떻게 상호 연결되는지 보여주는 3차원 모델.
 
-### Elemental Nodes
-Points where pure elemental energy concentrates in the physical world:
-- Volcanic cores (Fire)
-- Deep ocean trenches (Water)
-- Mountain hearts (Earth)
-- High atmosphere vortices (Air)
-- Solar convergence points (Light)
-- Abyssal depths (Shadow)
-- Ancient forests (Life)
-- Necrotic wastes (Death)
+### 엘리멘탈 노드
+순수한 엘리멘탈 에너지가 물리적 세계에 집중되는 지점:
+- 화산 코어 (불)
+- 깊은 해저 해구 (물)
+- 산의 심장 (땅)
+- 높은 대기 소용돌이 (공기)
+- 태양 수렴 지점 (빛)
+- 심연의 깊이 (그림자)
+- 고대 숲 (생명)
+- 괴사 폐기물 (죽음)
 
-### Ley Lines
-Natural channels of elemental energy that flow through the world:
-- **Primary Lines**: Carry single-element energy
-- **Harmonic Lines**: Carry complementary elemental energies
-- **Discordant Lines**: Carry opposing elemental energies (rare and unstable)
+### 레이 라인
+세상을 통해 흐르는 엘리멘탈 에너지의 자연 채널:
+- **기본 라인**: 단일 엘리멘탈 에너지를 운반
+- **조화 라인**: 보완적인 엘리멘탈 에너지를 운반
+- **불협화음 라인**: 대립되는 엘리멘탈 에너지를 운반 (드물고 불안정함)
 
-## Elemental Specialization
+## 엘리멘탈 전문화
 
-Most mages specialize in one or two elements that align with their natural affinities:
+대부분의 마법사는 자신의 자연스러운 친화력에 맞는 하나 또는 두 개의 엘리멘탈을 전문으로 합니다.
 
-### Elementalists
-Mages who focus exclusively on mastering one element:
-- **Pyromancers** (Fire): Destructive power, passion enhancement
-- **Hydromancers** (Water): Healing, divination, adaptation
-- **Geomancers** (Earth): Protection, stability, strength
-- **Aeromancers** (Air): Movement, communication, weather
-- **Photomancers** (Light): Revelation, purification, guidance
-- **Umbramancers** (Shadow): Concealment, illusion, transportation
-- **Biomancers** (Life): Growth, healing, enhancement
-- **Mortimancers** (Death): Preservation, transformation, entropy
+### 엘리멘탈리스트
+하나의 엘리멘탈 마스터에만 집중하는 마법사:
+- **파이로맨서** (불): 파괴적인 힘, 열정 강화
+- **하이드로맨서** (물): 치유, 점술, 적응
+- **지오맨서** (땅): 보호, 안정성, 힘
+- **에어로맨서** (공기): 이동, 통신, 날씨
+- **포토맨서** (빛): 계시, 정화, 안내
+- **움브라맨서** (그림자): 은폐, 환상, 이동
+- **바이오맨서** (생명): 성장, 치유, 향상
+- **모티맨서** (죽음): 보존, 변형, 엔트로피
 
-### Multi-Elementalists
-Mages who work with multiple complementary elements:
-- **Storm Mages** (Air + Water): Weather manipulation, emotion influence
-- **Forge Mages** (Fire + Earth): Creation, crafting, transformation
-- **Nature Mages** (Earth + Life): Growth, animal communication
-- **Twilight Mages** (Light + Shadow): Duality, transitions, balance
+### 다중 엘리멘탈리스트
+여러 개의 상호 보완적인 엘리멘탈로 작업하는 마법사:
+- **폭풍 마법사** (공기 + 물): 날씨 조작, 감정 영향
+- **대장간 마법사** (불 + 땅): 창조, 공예, 변형
+- **자연 마법사** (땅 + 생명): 성장, 동물 통신
+- **황혼 마법사** (빛 + 그림자): 이중성, 전환, 균형
 
-## Fundamental Elemental Techniques
+## 기본적인 엘리멘탈 기술
 
-All elemental practitioners learn several foundational techniques:
+모든 엘리멘탈 실무자는 몇 가지 기초 기술을 배웁니다.
 
-### Elemental Sensing
-The ability to detect the presence and purity of elemental energies:
-- **Complexity**: Low
-- **Purity Requirement**: Standard
-- **Training Period**: 1-3 months
+### 엘리멘탈 감지
+엘리멘탈 에너지의 존재와 순도를 감지하는 능력:
+- **복잡성**: 낮음
+- **순도 요구 사항**: 표준
+- **훈련 기간**: 1-3개월
 
-### Elemental Calling
-Drawing elemental energy from the environment:
-- **Complexity**: Low to Moderate
-- **Purity Requirement**: Standard
-- **Training Period**: 3-6 months
+### 엘리멘탈 호출
+환경에서 엘리멘탈 에너지를 끌어옴:
+- **복잡성**: 낮음 ~ 보통
+- **순도 요구 사항**: 표준
+- **훈련 기간**: 3-6개월
 
-### Elemental Shaping
-Basic manipulation of elemental forms:
-- **Complexity**: Moderate
-- **Purity Requirement**: Standard to Refined
-- **Training Period**: 6-12 months
+### 엘리멘탈 형상화
+엘리멘탈 형태의 기본 조작:
+- **복잡성**: 보통
+- **순도 요구 사항**: 표준 ~ 정제됨
+- **훈련 기간**: 6-12개월
 
-### Elemental Binding
-Temporarily bonding elemental energy to objects:
-- **Complexity**: Moderate to High
-- **Purity Requirement**: Refined
-- **Training Period**: 1-2 years
+### 엘리멘탈 결속
+일시적으로 엘리멘탈 에너지를 물체에 결합:
+- **복잡성**: 보통 ~ 높음
+- **순도 요구 사항**: 정제됨
+- **훈련 기간**: 1-2년
 
-### Elemental Harmonization
-Achieving resonance with an element to enhance one's connection:
-- **Complexity**: High
-- **Purity Requirement**: Refined to Perfect
-- **Training Period**: 5-10 years
+### 엘리멘탈 조화
+자신의 연결을 강화하기 위해 엘리멘탈과 공명 달성:
+- **복잡성**: 높음
+- **순도 요구 사항**: 정제됨 ~ 완벽함
+- **훈련 기간**: 5-10년
 
-### Elemental Embodiment
-Temporarily becoming one with an element:
-- **Complexity**: Very High
-- **Purity Requirement**: Perfect
-- **Training Period**: 10+ years
+### 엘리멘탈 구체화
+일시적으로 엘리멘탈과 하나가 됨:
+- **복잡성**: 매우 높음
+- **순도 요구 사항**: 완벽함
+- **훈련 기간**: 10년 이상
 
-Understanding **Elemental Magic** provides insight into the fundamental building blocks of all magical practices in the world of **OpenFantasy**, like mastering the basic notes that form the foundation of all music. By combining these elemental forces in different patterns and proportions, the seemingly infinite variety of magical effects becomes possible, each one a unique composition in the grand symphony of magical creation. 
+**엘리멘탈 마법**을 이해하면 마치 모든 음악의 기초를 형성하는 기본 음표를 마스터하는 것과 같이 **OpenFantasy** 세계의 모든 마법 연습의 기본적인 구성 요소에 대한 통찰력을 얻을 수 있습니다. 이러한 엘리멘탈 힘을 다양한 패턴과 비율로 결합함으로써 겉보기에 무한한 다양성의 마법 효과가 가능해지고, 각 효과는 마법 창조의 웅장한 교향곡에서 독특한 구성이 됩니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,306 +1,310 @@
-# **Mana Regeneration**: The Rhythmic Recovery of Magical Potential
+# **마나 재생**: 마법 잠재력의 리듬감 있는 회복
 
-> *"The wise mage knows that power is not in constant casting, but in the ebb and flow of energy—like breath between musical phrases."* — Archmage Lyria Suncrest
+> *"현명한 마법사는 힘이 끊임없는 시전에 있는 것이 아니라 에너지의 밀물과 썰물에 있다는 것을 압니다. 마치 악구 사이의 숨결과 같습니다."* — 대마법사 라이리아 선크레스트
 
-## Quick Reference
-- [Natural Regeneration](#natural-regeneration)
-- [Wild Mana Interactions](#wild-mana-interactions)
-- [Regeneration Enhancement Techniques](#regeneration-enhancement-techniques)
-- [Environmental Factors](#environmental-factors)
-- [Training Methods](#training-methods)
-- [Specialized Applications](#specialized-applications)
-- [Cultural Approaches](#cultural-approaches)
-- [Common Misconceptions](#common-misconceptions)
+## 빠른 참조
+- [자연 재생](#natural-regeneration)
+- [와일드 마나 상호작용](#wild-mana-interactions)
+- [재생 강화 기술](#regeneration-enhancement-techniques)
+- [환경적 요인](#environmental-factors)
+- [훈련 방법](#training-methods)
+- [특수 응용](#specialized-applications)
+- [문화적 접근 방식](#cultural-approaches)
+- [일반적인 오해](#common-misconceptions)
 
-## Overview
+## 개요
 
-In OpenFantasy, while a practitioner's Mana Capacity determines their maximum magical potential, their regeneration rate dictates how quickly they recover spent energy. Like a musician who must pace their breath between phrases, a mage must understand and optimize their regeneration cycle to maintain magical effectiveness.
+OpenFantasy에서 마법사의 마나 용량은 최대 마법 잠재력을 결정하지만, 재생 속도는 소비된 에너지를 얼마나 빨리 회복하는지 나타냅니다. 음악가가 악구 사이의 숨을 고르게 쉬어야 하는 것처럼, 마법사는 마법 효율성을 유지하기 위해 재생 주기를 이해하고 최적화해야 합니다.
 
-## Natural Regeneration
+## 자연 재생
 
-Without enhancement, mana regenerates according to a caster's innate Mana Capacity:
+강화 없이 마나는 시전자의 타고난 마나 용량에 따라 재생됩니다.
 
-| Mana Capacity | Regeneration Rate | Recovery Time |
+| 마나 용량 | 재생 속도 | 회복 시간 |
 |---------------|-------------------|---------------|
-| 5-15% | Very Slow | 24+ hours for full recovery |
-| 15-30% | Slow | 12-24 hours for full recovery |
-| 30-50% | Moderate | 6-12 hours for full recovery |
-| 50-70% | Fast | 3-6 hours for full recovery |
-| 70-85% | Very Fast | 1-3 hours for full recovery |
-| 85%+ | Exceptional | Under 1 hour for full recovery |
+| 5-15% | 매우 느림 | 완전 회복에 24시간 이상 |
+| 15-30% | 느림 | 완전 회복에 12-24시간 |
+| 30-50% | 보통 | 완전 회복에 6-12시간 |
+| 50-70% | 빠름 | 완전 회복에 3-6시간 |
+| 70-85% | 매우 빠름 | 완전 회복에 1-3시간 |
+| 85%+ | 매우 뛰어남 | 완전 회복에 1시간 미만 |
 
-### The Regeneration Cycle
+### 재생 주기
 
-Natural mana regeneration follows a four-phase cycle:
+자연적인 마나 재생은 4단계 주기를 따릅니다.
 
-1. **Depletion**: The expenditure of mana through spellcasting
-2. **Stabilization**: A brief period where remaining mana settles into equilibrium
-3. **Absorption**: The intake of ambient mana from surroundings
-4. **Integration**: The processing of raw mana into usable form
+1. **고갈**: 주문 시전을 통한 마나 소비
+2. **안정화**: 남은 마나가 평형 상태로 정착되는 짧은 기간
+3. **흡수**: 주변 환경에서 주변 마나를 섭취
+4. **통합**: 가공되지 않은 마나를 사용 가능한 형태로 처리
 
-### Mathematical Model
+### 수학적 모델
 
-Mana regeneration typically follows a logarithmic curve rather than a linear one:
+마나 재생은 일반적으로 선형이 아닌 로그 곡선을 따릅니다.
 
 ```
-Current Mana = Max Mana × (1 - e^(-k × t))
+현재 마나 = 최대 마나 × (1 - e^(-k × t))
 ```
 
-Where:
-- k = Regeneration coefficient based on Mana Capacity
-- t = Time elapsed since depletion
+여기서:
+- k = 마나 용량에 따른 재생 계수
+- t = 고갈 이후 경과 시간
 
-This explains why the first 50% regenerates more quickly than the final 50%.
+이것은 왜 처음 50%가 마지막 50%보다 더 빨리 재생되는지 설명합니다.
 
-## Wild Mana Interactions
+## 와일드 마나 상호작용
 
-The regeneration process inevitably involves interaction with [**Wild Mana**](/codex/Magics/WildMana.md), as casters draw ambient energy from their surroundings to replenish their reserves.
+재생 과정은 필연적으로 [**와일드 마나**](/codex/Magics/WildMana.md)와의 상호작용을 포함합니다. 시전자는 주변에서 주변 에너지를 끌어와 자신의 비축량을 보충하기 때문입니다.
 
-### Natural Wild Mana Filtering
+### 자연적인 와일드 마나 필터링
 
-During normal regeneration, a practitioner's body automatically filters Wild Mana:
+정상적인 재생 중에는 시전자의 몸이 자동으로 와일드 마나를 필터링합니다.
 
-| Filtering Efficiency | Wild Mana Absorption | Regeneration Quality | Typical Profile |
+| 필터링 효율 | 와일드 마나 흡수 | 재생 품질 | 일반적인 프로필 |
 |----------------------|----------------------|----------------------|-----------------|
-| **Poor** (0-20%) | High contamination | Unstable, unpredictable | Untrained, ill, damaged soul |
-| **Basic** (20-40%) | Moderate contamination | Functional but fluctuating | Novice practitioners |
-| **Standard** (40-60%) | Manageable contamination | Stable, predictable | Average trained mages |
-| **Advanced** (60-80%) | Minimal contamination | Efficient, consistent | Master practitioners |
-| **Perfect** (80-100%) | Trace contamination | Pristine, optimal | Archmages, natural talents |
+| **나쁨** (0-20%) | 높은 오염 | 불안정, 예측 불가능 | 훈련받지 않음, 병약함, 손상된 영혼 |
+| **기본** (20-40%) | 보통 오염 | 기능적이지만 변동 | 초보 시전자 |
+| **표준** (40-60%) | 관리 가능한 오염 | 안정적, 예측 가능 | 평균적인 훈련된 마법사 |
+| **고급** (60-80%) | 최소 오염 | 효율적, 일관적 | 숙련된 마스터 |
+| **완벽** (80-100%) | 미량 오염 | 깨끗함, 최적 | 대마법사, 타고난 재능 |
 
-### Accelerated Wild Drawing
+### 가속화된 와일드 드로잉
 
-Some practitioners deliberately draw upon Wild Mana to accelerate their regeneration:
+일부 시전자는 의도적으로 와일드 마나를 끌어와 재생을 가속화합니다.
 
-| Technique | Regeneration Boost | Risk Level | Potential Complications |
+| 기술 | 재생 부스트 | 위험 수준 | 잠재적 합병증 |
 |-----------|-------------------|------------|-------------------------|
-| **Surface Skimming** | +20-30% | Low | Minor spell instability for 1-2 hours |
-| **Deep Channel** | +40-60% | Moderate | Temporary Wild Mana sensitivity, unstable casting |
-| **Chaos Immersion** | +80-120% | High | Wild Surge potential, magical signature distortion |
-| **Primal Absorption** | +150-200% | Critical | Wild Mana poisoning, permanent alterations |
+| **표면 스키밍** | +20-30% | 낮음 | 1-2시간 동안의 약간의 주문 불안정성 |
+| **심층 채널** | +40-60% | 보통 | 일시적인 와일드 마나 민감도, 불안정한 시전 |
+| **카오스 몰입** | +80-120% | 높음 | 와일드 서지 가능성, 마법 서명 왜곡 |
+| **원초적 흡수** | +150-200% | 매우 높음 | 와일드 마나 중독, 영구적인 변경 |
 
-> *"There are no shortcuts in mana regeneration without sacrifice. Draw too deeply from the chaos, and you may recover your power quickly—only to find it is no longer entirely yours to control."* — Grandmaster Wei Shen, Arcane Conservatory
+> *"마나 재생에는 희생 없이 지름길이 없습니다. 혼돈에서 너무 깊이 끌어오면 힘을 빨리 회복할 수 있지만, 더 이상 완전히 당신의 것이 아니라는 것을 알게 될 것입니다."* — 그랜드마스터 웨이 셴, 아케인 컨서버토리
 
-### Wild Surge Potential
+### 와일드 서지 가능성
 
-Practitioners who absorb excessive Wild Mana during regeneration risk experiencing Wild Surges:
+재생 중에 과도한 와일드 마나를 흡수하는 시전자는 와일드 서지를 경험할 위험이 있습니다.
 
-| Wild Mana Load | Surge Probability | Potential Effects |
+| 와일드 마나 부하 | 서지 확률 | 잠재적 영향 |
 |----------------|-------------------|-------------------|
-| 10-25% | Very Low (5%) | Minor magical discharge, harmless visual effects |
-| 25-50% | Low (15%) | Unpredictable cantrip-level effects, temporary magical disruption |
-| 50-75% | Moderate (35%) | Spontaneous spell-like effects, potential environmental impact |
-| 75-100% | High (65%) | Major magical incidents, physical transformation, reality warping |
+| 10-25% | 매우 낮음 (5%) | 약간의 마법 방전, 무해한 시각 효과 |
+| 25-50% | 낮음 (15%) | 예측할 수 없는 칸트립 수준 효과, 일시적인 마법 교란 |
+| 50-75% | 보통 (35%) | 자발적인 주문과 같은 효과, 잠재적인 환경적 영향 |
+| 75-100% | 높음 (65%) | 주요 마법 사건, 물리적 변형, 현실 왜곡 |
 
-### Wild Mana Management Techniques
+### 와일드 마나 관리 기술
 
-Specialized methods for safely handling Wild Mana during regeneration:
+재생 중에 와일드 마나를 안전하게 처리하기 위한 특수 방법:
 
-1. **Controlled Filtration**
-   - **Process**: Progressive absorption with continuous purification
-   - **Benefit**: Allows safe use of moderate Wild Mana concentrations
-   - **Training Time**: 1-2 years to master
-   - **Effectiveness**: Reduces Wild Mana content by 40-60%
+1. **제어된 필터링**
+   - **과정**: 지속적인 정화를 통한 점진적인 흡수
+   - **이점**: 적당한 와일드 마나 농도를 안전하게 사용할 수 있습니다.
+   - **훈련 시간**: 숙달하는 데 1-2년
+   - **효과**: 와일드 마나 함량을 40-60% 줄입니다.
 
-2. **Harmonic Alignment**
-   - **Process**: Matching personal resonance to ambient Wild Mana patterns
-   - **Benefit**: Transforms some chaotic energy into aligned patterns
-   - **Training Time**: 3-5 years to master
-   - **Effectiveness**: Converts 30-50% of Wild Mana to usable forms
+2. **조화로운 정렬**
+   - **과정**: 개인 공명을 주변 와일드 마나 패턴에 맞춥니다.
+   - **이점**: 일부 혼돈 에너지를 정렬된 패턴으로 변환합니다.
+   - **훈련 시간**: 숙달하는 데 3-5년
+   - **효과**: 와일드 마나의 30-50%를 사용 가능한 형태로 변환합니다.
 
-3. **Chaos Partitioning**
-   - **Process**: Isolating Wild Mana components in separate "compartments"
-   - **Benefit**: Prevents contamination of main mana reserves
-   - **Training Time**: 5-8 years to master
-   - **Effectiveness**: Contains up to 70% of Wild Mana influence
+3. **카오스 분할**
+   - **과정**: 와일드 마나 구성 요소를 별도의 "구획"에 격리합니다.
+   - **이점**: 주요 마나 비축량의 오염을 방지합니다.
+   - **훈련 시간**: 숙달하는 데 5-8년
+   - **효과**: 와일드 마나 영향의 최대 70%를 포함합니다.
 
-4. **Transmutative Purging**
-   - **Process**: Converting Wild Mana into environmental effects rather than absorption
-   - **Benefit**: Eliminates Wild Mana without internal contamination
-   - **Training Time**: 8-10 years to master
-   - **Effectiveness**: Safely disperses up to 90% of Wild Mana
+4. **변환 정화**
+   - **과정**: 와일드 마나를 흡수하는 대신 환경 효과로 변환합니다.
+   - **이점**: 내부 오염 없이 와일드 마나를 제거합니다.
+   - **훈련 시간**: 숙달하는 데 8-10년
+   - **효과**: 와일드 마나의 최대 90%를 안전하게 분산시킵니다.
 
-## Regeneration Enhancement Techniques
+## 재생 강화 기술
 
-Practitioners can employ various techniques to accelerate their natural regeneration:
+시전자는 다양한 기술을 사용하여 자연 재생을 가속화할 수 있습니다.
 
-### Passive Techniques
+### 수동 기술
 
-These methods can be applied continuously without active concentration:
+이러한 방법은 능동적인 집중 없이 지속적으로 적용할 수 있습니다.
 
-#### Resonant Breathing
-- **Process**: Synchronized breathing pattern that matches natural mana frequency
-- **Benefit**: Increases regeneration rate by 10-20%
-- **Training Time**: 1-3 months to master
-- **Musical Analogy**: Finding the natural rhythm that allows a wind instrument to resonate
+#### 공명 호흡
+- **과정**: 자연 마나 주파수와 일치하는 동기화된 호흡 패턴
+- **이점**: 재생 속도를 10-20% 증가시킵니다.
+- **훈련 시간**: 숙달하는 데 1-3개월
+- **음악적 비유**: 관악기가 공명할 수 있도록 자연스러운 리듬을 찾습니다.
 
-#### Circulatory Positioning
-- **Process**: Body postures that optimize mana flow paths
-- **Benefit**: Increases regeneration rate by 15-25%
-- **Training Time**: 2-4 months to master
-- **Musical Analogy**: Correct posture for optimal sound production
+#### 순환 위치 지정
+- **과정**: 마나 흐름 경로를 최적화하는 신체 자세
+- **이점**: 재생 속도를 15-25% 증가시킵니다.
+- **훈련 시간**: 숙달하는 데 2-4개월
+- **음악적 비유**: 최적의 사운드 생성을 위한 올바른 자세
 
-#### Harmonic Meditation
-- **Process**: Mental state that aligns consciousness with mana currents
-- **Benefit**: Increases regeneration rate by 20-30%
-- **Training Time**: 3-6 months to master
-- **Musical Analogy**: Achieving perfect pitch awareness
+#### 조화로운 명상
+- **과정**: 의식을 마나 흐름에 맞추는 정신 상태
+- **이점**: 재생 속도를 20-30% 증가시킵니다.
+- **훈련 시간**: 숙달하는 데 3-6개월
+- **음악적 비유**: 완벽한 음높이 인식을 달성합니다.
 
-### Active Techniques
+### 능동 기술
 
-These methods require conscious effort and cannot be maintained indefinitely:
+이러한 방법은 의식적인 노력이 필요하며 무한정 유지할 수 없습니다.
 
-#### Mana Drawing
-- **Process**: Intentionally pulling ambient mana toward oneself
-- **Benefit**: Increases regeneration rate by 30-50%
-- **Limitation**: Mental fatigue after 1-2 hours
-- **Musical Analogy**: Actively drawing breath to play a sustained note
+#### 마나 드로잉
+- **과정**: 의도적으로 주변 마나를 자신에게 끌어당깁니다.
+- **이점**: 재생 속도를 30-50% 증가시킵니다.
+- **제한**: 1-2시간 후 정신적 피로
+- **음악적 비유**: 지속적인 음을 연주하기 위해 적극적으로 숨을 쉽니다.
 
-#### Cyclic Amplification
-- **Process**: Creating internal feedback loops to magnify natural regeneration
-- **Benefit**: Increases regeneration rate by 40-70%
-- **Limitation**: Requires concentration, lasts 30-60 minutes
-- **Musical Analogy**: Using resonance chambers to amplify sound
+#### 순환 증폭
+- **과정**: 내부 피드백 루프를 생성하여 자연 재생을 확대합니다.
+- **이점**: 재생 속도를 40-70% 증가시킵니다.
+- **제한**: 집중 필요, 30-60분 지속
+- **음악적 비유**: 공명 챔버를 사용하여 사운드를 증폭합니다.
 
-#### Wellspring Tapping
-- **Process**: Connecting to personal mana core to accelerate flow
-- **Benefit**: Increases regeneration rate by 60-100%
-- **Limitation**: Exhaustion after use, limited to 10-20 minutes
-- **Musical Analogy**: Playing fortissimo passages that quickly deplete energy
+#### 원천 두드리기
+- **과정**: 개인 마나 코어에 연결하여 흐름을 가속화합니다.
+- **이점**: 재생 속도를 60-100% 증가시킵니다.
+- **제한**: 사용 후 소모, 10-20분으로 제한
+- **음악적 비유**: 에너지를 빠르게 소모하는 포르티시모 패시지를 연주합니다.
 
-## Environmental Factors
+## 환경적 요인
 
-The environment significantly impacts mana regeneration rates:
+환경은 마나 재생 속도에 상당한 영향을 미칩니다.
 
-### Enhancing Environments
+### 강화 환경
 
-| Environment | Effect on Regeneration | Reason |
+| 환경 | 재생에 미치는 영향 | 이유 |
 |-------------|------------------------|--------|
-| **Ley Line Nexus** | +75-150% | Concentrated magical currents |
-| **Ancient Groves** | +50-100% | Natural mana abundance |
-| **Crystal Caves** | +40-80% | Resonant amplification |
-| **Sacred Sites** | +30-70% | Established magical harmonies |
-| **High Altitude** | +20-40% | Reduced elemental interference |
-| **Natural Springs** | +15-30% | Purified elemental energy |
+| **레이 라인 넥서스** | +75-150% | 집중된 마법 전류 |
+| **고대 숲** | +50-100% | 자연적인 마나 풍부 |
+| **크리스탈 동굴** | +40-80% | 공명 증폭 |
+| **신성한 장소** | +30-70% | 확립된 마법 조화 |
+| **고지대** | +20-40% | 감소된 원소 간섭 |
+| **자연 샘** | +15-30% | 정화된 원소 에너지 |
 
-### Hindering Environments
+### 방해 환경
 
-| Environment | Effect on Regeneration | Reason |
+| 환경 | 재생에 미치는 영향 | 이유 |
 |-------------|------------------------|--------|
-| **High Exanthis Areas** | -40-80% | Magical resistance |
-| **Corrupted Lands** | -30-60% | Dissonant energies |
-| **Urban Centers** | -20-40% | Magical congestion |
-| **Battlefields** | -15-30% | Residual magical noise |
-| **Underground** | -10-25% | Disconnection from celestial energy |
-| **Extreme Weather** | -5-20% | Elemental disturbance |
+| **높은 엑산티스 지역** | -40-80% | 마법 저항 |
+| **오염된 땅** | -30-60% | 불협화음 에너지 |
+| **도시 중심** | -20-40% | 마법 정체 |
+| **전장** | -15-30% | 잔여 마법 소음 |
+| **지하** | -10-25% | 천상의 에너지와의 단절 |
+| **극심한 날씨** | -5-20% | 원소 교란 |
 
-## Training Methods
+## 훈련 방법
 
-Practitioners can permanently improve their regeneration rate through dedicated training:
+시전자는 전용 훈련을 통해 재생 속도를 영구적으로 향상시킬 수 있습니다.
 
-### Novice Techniques (0-2 years training)
+### 초보 기술 (0-2년 훈련)
 
-1. **Basic Cycles**
-   - **Practice**: Daily 30-minute regeneration meditation
-   - **Improvement**: 5-10% faster regeneration
-   - **Milestone**: Conscious awareness of mana flow
+1. **기본 주기**
+   - **연습**: 매일 30분 재생 명상
+   - **개선**: 5-10% 더 빠른 재생
+   - **기념비**: 마나 흐름에 대한 의식적인 인식
 
-2. **Flow Pathways**
-   - **Practice**: Tracing internal mana channels during meditation
-   - **Improvement**: 8-15% faster regeneration
-   - **Milestone**: Ability to direct internal mana consciously
+2. **흐름 경로**
+   - **연습**: 명상 중 내부 마나 채널 추적
+   - **개선**: 8-15% 더 빠른 재생
+   - **기념비**: 내부 마나를 의식적으로 지시하는 능력
 
-### Intermediate Techniques (2-5 years training)
+### 중급 기술 (2-5년 훈련)
 
-1. **Resonance Matching**
-   - **Practice**: Attune internal frequency to environmental mana
-   - **Improvement**: 15-25% faster regeneration
-   - **Milestone**: Seamless synchronization with ambient mana
+1. **공명 매칭**
+   - **연습**: 내부 주파수를 환경 마나에 맞춥니다.
+   - **개선**: 15-25% 더 빠른 재생
+   - **기념비**: 주변 마나와의 원활한 동기화
 
-2. **Efficient Integration**
-   - **Practice**: Exercises to process raw mana more quickly
-   - **Improvement**: 20-30% faster regeneration
-   - **Milestone**: Reduced "lag time" between absorption and usability
+2. **효율적인 통합**
+   - **연습**: 가공되지 않은 마나를 더 빨리 처리하는 운동
+   - **개선**: 20-30% 더 빠른 재생
+   - **기념비**: 흡수와 사용성 사이의 "지연 시간" 감소
 
-### Advanced Techniques (5-10 years training)
+### 고급 기술 (5-10년 훈련)
 
-1. **Multisource Drawing**
-   - **Practice**: Simultaneously drawing from multiple mana sources
-   - **Improvement**: 30-45% faster regeneration
-   - **Milestone**: Maintaining multiple mana channels
+1. **다중 소스 드로잉**
+   - **연습**: 여러 마나 소스에서 동시에 끌어당깁니다.
+   - **개선**: 30-45% 더 빠른 재생
+   - **기념비**: 여러 마나 채널 유지
 
-2. **Cyclical Expansion**
-   - **Practice**: Gradually expanding regeneration capacity
-   - **Improvement**: 40-60% faster regeneration
-   - **Milestone**: Creating internal "reservoirs" for faster filling
+2. **순환 확장**
+   - **연습**: 점진적으로 재생 용량 확장
+   - **개선**: 40-60% 더 빠른 재생
+   - **기념비**: 더 빠른 채우기를 위한 내부 "저수지" 생성
 
-### Master Techniques (10+ years training)
+### 마스터 기술 (10년 이상 훈련)
 
-1. **Perpetual Flow**
-   - **Practice**: Establishing continuous mana current even during casting
-   - **Improvement**: 60-80% faster regeneration
-   - **Milestone**: Simultaneous casting and regeneration
+1. **영구적인 흐름**
+   - **연습**: 시전 중에도 지속적인 마나 전류 확립
+   - **개선**: 60-80% 더 빠른 재생
+   - **기념비**: 동시 시전 및 재생
 
-2. **Essence Harmonization**
-   - **Practice**: Perfect alignment of personal essence with universal mana
-   - **Improvement**: 80-100% faster regeneration
-   - **Milestone**: Near-constant state of regeneration regardless of activity
+2. **본질 조화**
+   - **연습**: 개인 본질과 보편적 마나의 완벽한 정렬
+   - **개선**: 80-100% 더 빠른 재생
+   - **기념비**: 활동에 관계없이 거의 일정한 재생 상태
 
-## Specialized Applications
+## 특수 응용
 
-### Combat Regeneration
+### 전투 재생
 
-Special techniques for battlefield recovery:
+전장 회복을 위한 특수 기술:
 
-- **Pulse Recovery**: Brief, intense regeneration between spell volleys
-- **Tactical Depletion**: Calculated partial depletion to maintain optimal regeneration curve
-- **Combat Trance**: Altered state allowing for accelerated regeneration during battle
+- **펄스 회복**: 주문 연발 사이의 짧고 강렬한 재생
+- **전술적 고갈**: 최적의 재생 곡선을 유지하기 위한 계산된 부분 고갈
+- **전투 트랜스**: 전투 중 가속화된 재생을 허용하는 변경된 상태
 
-### Group Harmonics
+### 그룹 조화
 
-Collective techniques where multiple casters enhance each other's regeneration:
+여러 시전자가 서로의 재생을 향상시키는 집단 기술:
 
-- **Regeneration Circle**: Practitioners form a ring to create a shared regeneration field
-- **Harmonic Resonance**: Group chanting at specific frequencies to amplify recovery
-- **Mana Redistribution**: Voluntarily sharing regenerated mana among group members
+- **재생 서클**: 실무자가 링을 형성하여 공유 재생 필드 생성
+- **조화 공명**: 회복을 증폭하기 위해 특정 주파수에서 그룹 찬팅
+- **마나 재분배**: 그룹 구성원 간에 자발적으로 재생된 마나 공유
 
-### Ritual Enhancement
+### 의식 강화
 
-Formal ceremonies to boost regeneration rates:
+재생 속도를 높이기 위한 공식 의식:
 
-- **Celestial Alignment**: Rituals timed to astronomical events that enhance regeneration
-- **Elemental Invocation**: Calling upon elemental forces to amplify recovery
-- **Ancestral Communion**: Drawing upon lineage connections to boost regeneration
+- **천상 정렬**: 재생을 향상시키는 천문학적 사건에 맞춰진 의식
+- **원소 소환**: 회복을 증폭하기 위해 원소 힘을 호출
+- **조상과의 교감**: 혈통 연결을 활용하여 재생을 향상시킵니다.
 
-## Cultural Approaches
+## 문화적 접근 방식
 
-Different magical traditions have developed unique regeneration philosophies:
+다양한 마법 전통은 고유한 재생 철학을 개발했습니다.
 
-| Tradition | Primary Method | Unique Feature |
+| 전통 | 주요 방법 | 고유한 특징 |
 |-----------|----------------|----------------|
-| **Elven Harmonic** | Natural attunement | Connection to forest rhythms |
-| **Dwarven Forge** | Crystalline focus | Using gemstones as regeneration amplifiers |
-| **Human Academic** | Systematic practice | Methodical, teachable techniques |
-| **Fae Intuitive** | Emotional resonance | Using emotional states to enhance recovery |
-| **Draconic Primal** | Elemental drawing | Direct tapping of elemental sources |
-| **Nomadic Adaptive** | Environmental sensitivity | Techniques that adapt to changing locations |
+| **엘프 조화** | 자연스러운 조율 | 숲 리듬과의 연결 |
+| **드워프 제련** | 결정체 집중 | 보석을 재생 증폭기로 사용 |
+| **인간 학문** | 체계적인 연습 | 체계적이고 가르칠 수 있는 기술 |
+| **페어리 직관** | 감정 공명 | 감정 상태를 사용하여 회복을 향상시킵니다. |
+| **드라코닉 원시** | 원소 드로잉 | 원소 소스 직접 활용 |
+| **유목민 적응** | 환경 민감도 | 변화하는 위치에 적응하는 기술 |
 
-## Common Misconceptions
+## 일반적인 오해
 
-### Myth: Forced Regeneration Is Always Beneficial
-**Reality**: Pushing regeneration beyond natural limits can strain mana pathways, potentially causing long-term damage. Like a musician who doesn't rest properly, forced techniques without recovery periods lead to diminished capacity over time.
+### 미신: 강제 재생은 항상 유익합니다.
+**현실**: 자연적 한계를 초과하여 재생을 강요하면 마나 경로에 부담을 줄 수 있으며, 잠재적으로 장기적인 손상을 초래할 수 있습니다. 제대로 휴식을 취하지 않는 음악가처럼 회복 기간 없이 강제 기술을 사용하면 시간이 지남에 따라 용량이 줄어듭니다.
 
-### Myth: More Mana Equals Faster Regeneration
-**Reality**: While higher Mana Capacity correlates with faster regeneration, the efficiency of regeneration pathways is equally important. A practitioner with moderate capacity but highly efficient pathways may regenerate faster than one with greater capacity but undeveloped techniques.
+### 미신: 더 많은 마나는 더 빠른 재생을 의미합니다.
+**현실**: 더 높은 마나 용량은 더 빠른 재생과 관련이 있지만, 재생 경로의 효율성도 똑같이 중요합니다. 적당한 용량을 가졌지만 매우 효율적인 경로를 가진 실무자는 용량이 더 크지만 개발되지 않은 기술을 가진 실무자보다 더 빨리 재생될 수 있습니다.
 
-### Myth: Complete Depletion Improves Recovery
-**Reality**: Completely emptying mana reserves can damage regeneration systems. Optimal practice maintains a 10-15% reserve, like a musical instrument that should never be pushed beyond its safe range.
+### 미신: 완전한 고갈은 회복을 향상시킵니다.
+**현실**: 마나 비축량을 완전히 비우면 재생 시스템이 손상될 수 있습니다. 최적의 연습은 안전한 범위를 벗어나서는 안 되는 악기처럼 10-15%의 비축량을 유지하는 것입니다.
 
-### Myth: Regeneration Is Purely Passive
-**Reality**: Effective regeneration is an active process that can be consciously improved. Like a musician developing breath control, practitioners can significantly enhance their recovery through dedicated training.
+### 미신: 재생은 순전히 수동적입니다.
+**현실**: 효과적인 재생은 의식적으로 개선할 수 있는 능동적인 과정입니다. 호흡 조절을 개발하는 음악가처럼 실무자는 전용 훈련을 통해 회복을 크게 향상시킬 수 있습니다.
 
-## The Harmonic Symphony of Recovery
+## 회복의 조화로운 교향곡
 
-Mana regeneration, at its most refined level, becomes a continuous cycle rather than a distinct process—a perpetual symphony rather than individual notes. Master practitioners achieve a state where depletion and regeneration exist in perfect balance, allowing for sustained magical working with minimal interruption.
+가장 세련된 수준의 마나 재생은 뚜렷한 과정이 아닌 지속적인 주기가 됩니다. 개별 음표가 아닌 영원한 교향곡과 같습니다. 마스터 실무자는 고갈과 재생이 완벽한 균형을 이루는 상태를 달성하여 최소한의 중단으로 지속적인 마법 작업을 수행할 수 있습니다.
 
-Understanding and mastering regeneration transforms a capable mage into an exceptional one, just as breath control elevates a competent musician to a virtuoso. The pauses between notes become not limitations, but essential elements of the magical performance itself. 
+재생을 이해하고 마스터하면 유능한 마법사를 뛰어난 마법사로 변화시키는 것처럼 호흡 조절은 유능한 음악가를 거장으로 승격시킵니다. 음표 사이의 쉼표는 제한이 아니라 마법 공연 자체의 필수 요소가 됩니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

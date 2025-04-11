@@ -1,203 +1,207 @@
-# **Fire Magic**: The Art of Flame and Heat
+# **불의 마법**: 불꽃과 열의 예술
 
-> *"Fire does not merely destroy—it transforms, purifies, and illuminates. The wise pyromancer is not a destroyer, but an agent of change."* — Archmage Ignis Flameheart
+> *"불은 단순히 파괴하는 것이 아니라 변형하고, 정화하며, 빛을 비춥니다. 현명한 염화술사는 파괴자가 아니라 변화의 주체입니다."* — 대마법사 이그니스 플레임하트
 
-## Quick Reference
-- [Properties of Pyromana](#properties-of-pyromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 빠른 참조
+- [파이로마나의 속성](#파이로마나의-속성)
+- [조작 기술](#조작-기술)
+- [일반적인 주문](#일반적인-주문)
+- [친화도 개발](#친화도-개발)
+- [위험과 안전 장치](#위험과-안전-장치)
+- [문화적 중요성](#문화적-중요성)
 
-## Properties of Pyromana
+## 파이로마나의 속성
 
-Pyromana, the elemental mana of fire, is characterized by:
+불의 원소 마나인 파이로마나는 다음 특징을 가집니다.
 
-- **Appearance**: Vibrant reds, oranges, and yellows; fluid and flickering
-- **Sensation**: Feels warm, energetic, and stimulating when channeled
-- **Resonance**: High-frequency, rapid vibration patterns
-- **Purification Challenge**: Highly volatile, tends to "burn off" impurities but can become wild if overpurified
-- **Opposite Element**: Water (creates steam when forced together)
-- **Complementary Elements**: Earth (creates magma), Light (creates radiant flame)
-- **Musical Analogy**: Brass instruments, particularly trumpets
+- **외형**: 생생한 빨강, 주황, 노랑; 유동적이고 깜박임
+- **감각**: 채널링할 때 따뜻하고 활기차며 자극적인 느낌
+- **공명**: 고주파, 빠른 진동 패턴
+- **정화 과제**: 휘발성이 강하고 불순물을 "태워버리는" 경향이 있지만 과도하게 정화하면 통제 불능 상태가 될 수 있습니다.
+- **반대 원소**: 물 (억지로 합쳐지면 증기를 생성)
+- **보완 원소**: 땅 (마그마 생성), 빛 (찬란한 불꽃 생성)
+- **음악적 비유**: 금관 악기, 특히 트럼펫
 
-## Manipulation Techniques
+## 조작 기술
 
-### Basic Techniques
+### 기본 기술
 
-#### Flame Ignition
-The foundational technique of creating fire from magical energy:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Creates controlled flames from ambient materials or pure mana
-- **Training Focus**: Heat concentration and fuel conservation
-- **Applications**: Lighting fires, creating light sources, emergency warmth
+#### 불꽃 점화
+마법 에너지로부터 불을 생성하는 기초 기술:
+- **난이도**: 초보
+- **순도 요구 사항**: 기본 (15-25%)
+- **효과**: 주변 물질 또는 순수한 마나에서 제어된 불꽃 생성
+- **훈련 초점**: 열 집중 및 연료 보존
+- **응용 분야**: 불 피우기, 광원 생성, 비상 시 따뜻함 제공
 
-#### Heat Control
-Manipulating ambient temperature and thermal energy:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Increases or decreases temperature in a localized area
-- **Training Focus**: Energy distribution and temperature gradient
-- **Applications**: Warming spaces, cooking, metal softening, preventing hypothermia
+#### 열 제어
+주변 온도 및 열 에너지 조작:
+- **난이도**: 초보에서 중급
+- **순도 요구 사항**: 기본에서 정제 (20-40%)
+- **효과**: 특정 지역의 온도 증가 또는 감소
+- **훈련 초점**: 에너지 분배 및 온도 기울기
+- **응용 분야**: 공간 난방, 요리, 금속 연화, 저체온증 예방
 
-#### Flame Shaping
-Directing and molding existing flames:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Changes the size, shape, and movement of fire
-- **Training Focus**: Combustion control and pattern imposition
-- **Applications**: Signal creation, artistic displays, controlled burns, flame barrier formation
+#### 불꽃 형상화
+기존 불꽃의 방향 지정 및 성형:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (30-45%)
+- **효과**: 불의 크기, 모양, 움직임 변경
+- **훈련 초점**: 연소 제어 및 패턴 부과
+- **응용 분야**: 신호 생성, 예술적 표현, 제어된 연소, 불꽃 장벽 형성
 
-### Advanced Techniques
+### 고급 기술
 
-#### Pyrokinetic Projection
-Creating and propelling concentrated fire:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Forms directed, high-energy flame that can travel significant distances
-- **Training Focus**: Energy compression and trajectory control
-- **Applications**: Combat techniques, forge work, long-distance signaling
+#### 화염 투사
+집중된 불을 생성하고 추진:
+- **난이도**: 고급
+- **순도 요구 사항**: 정제에서 완벽 (45-65%)
+- **효과**: 상당한 거리를 이동할 수 있는 방향성, 고에너지 불꽃 형성
+- **훈련 초점**: 에너지 압축 및 궤도 제어
+- **응용 분야**: 전투 기술, 대장간 작업, 장거리 신호
 
-#### Combustion Manipulation
-Controlling the specific properties of burning:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-80%)
-- **Effect**: Alters how materials burn, including heat intensity, light emission, and smoke production
-- **Training Focus**: Molecular excitation and reaction modulation
-- **Applications**: Smokeless fires, colored flames, extreme heat sources, cold-burning flames
+#### 연소 조작
+연소의 특정 속성 제어:
+- **난이도**: 전문가
+- **순도 요구 사항**: 완벽 (65-80%)
+- **효과**: 열 강도, 빛 방출, 연기 생성을 포함하여 물질 연소 방식 변경
+- **훈련 초점**: 분자 여기 및 반응 조절
+- **응용 분야**: 무연 화재, 색깔 있는 불꽃, 극도의 열원, 냉연소 불꽃
 
-#### Fire Embodiment
-Physically incorporating flame into one's being:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Temporarily transforms portions of the caster's body into living flame
-- **Training Focus**: Self-transmutation and identity preservation
-- **Applications**: Immunity to fire, direct energy attacks, rapid movement, illumination
+#### 화염 현신
+불꽃을 자신의 존재에 물리적으로 통합:
+- **난이도**: 마스터
+- **순도 요구 사항**: 완벽 (75-95%)
+- **효과**: 시전자의 신체 일부를 일시적으로 살아있는 불꽃으로 변형
+- **훈련 초점**: 자아 변환 및 정체성 보존
+- **응용 분야**: 화염 면역, 직접 에너지 공격, 빠른 이동, 조명
 
-## Common Spells
+## 일반적인 주문
 
-### Novice Spells
+### 초보 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Ignite** | Creates a small flame on flammable material | Somatic | 1 second | Instantaneous |
-| **Warmth** | Raises temperature in a small area | Somatic, Verbal | 3 seconds | 10 minutes |
-| **Fire Dart** | Projects a small bolt of flame | Somatic, Verbal | 1 second | Instantaneous |
-| **Dancing Light** | Creates a small controllable flame | Somatic | 2 seconds | Concentration |
+| **점화** | 가연성 물질에 작은 불꽃 생성 | 신체 | 1초 | 즉시 |
+| **온기** | 작은 지역의 온도 상승 | 신체, 언어 | 3초 | 10분 |
+| **화염 다트** | 작은 불꽃 화살 투사 | 신체, 언어 | 1초 | 즉시 |
+| **춤추는 빛** | 작은 제어 가능한 불꽃 생성 | 신체 | 2초 | 집중 |
 
-### Intermediate Spells
+### 중급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Flame Shield** | Surrounds caster with protective fire | Somatic, Verbal | 3 seconds | 5 minutes |
-| **Heat Metal** | Rapidly raises temperature of metal objects | Somatic, Verbal, Focus | 5 seconds | Concentration |
-| **Fire Resistance** | Grants protection against heat and flame | Somatic, Verbal | 10 seconds | 30 minutes |
-| **Smoke Shape** | Creates and controls smoke formations | Somatic, Fire source | 5 seconds | Concentration |
+| **화염 방패** | 시전자를 보호 불꽃으로 둘러쌈 | 신체, 언어 | 3초 | 5분 |
+| **금속 가열** | 금속 물체의 온도 급격히 상승 | 신체, 언어, 집중 | 5초 | 집중 |
+| **화염 저항** | 열과 불꽃에 대한 보호 부여 | 신체, 언어 | 10초 | 30분 |
+| **연기 형상화** | 연기 형상 생성 및 제어 | 신체, 불꽃 근원 | 5초 | 집중 |
 
-### Advanced Spells
+### 고급 주문
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 주문 | 효과 | 구성 요소 | 시전 시간 | 지속 시간 |
 |-------|--------|------------|--------------|----------|
-| **Fireball** | Creates a explosive sphere of flame | Somatic, Verbal, Focus | 3 seconds | Instantaneous |
-| **Fire Elemental** | Summons a semi-autonomous fire entity | Somatic, Verbal, Focus, Fire | 1 minute | 30 minutes |
-| **Immolation** | Surrounds target in clinging flames | Somatic, Verbal, Focus | 5 seconds | Concentration |
-| **Pyroclastic Flow** | Creates a devastating wave of superheated particles | Somatic, Verbal, Focus, Earth | 10 seconds | Instantaneous |
+| **화염구** | 폭발하는 불꽃 구체 생성 | 신체, 언어, 집중 | 3초 | 즉시 |
+| **화염 정령** | 반자율적 화염 개체 소환 | 신체, 언어, 집중, 불꽃 | 1분 | 30분 |
+| **소각** | 목표물을 들러붙는 불꽃으로 둘러쌈 | 신체, 언어, 집중 | 5초 | 집중 |
+| **화쇄류** | 초고온 입자의 파괴적인 파도 생성 | 신체, 언어, 집중, 흙 | 10초 | 즉시 |
 
-## Affinity Development
+## 친화도 개발
 
-Fire affinity progresses through several distinctive stages:
+불의 친화도는 몇 가지 독특한 단계를 거쳐 진행됩니다.
 
-### Inner Spark
-The foundational relationship with fire that most beginners possess:
-- **Manifestation**: Slightly elevated body temperature, ability to light small fires with minimal effort
-- **Physical Signs**: Warm hands, occasionally steaming breath in cold weather
-- **Enhancement Method**: Regular meditation near open flames, particularly at dawn or sunset
+### 내면의 불꽃
+대부분의 초보자가 소유한 불과의 기초적인 관계:
+- **발현**: 약간 상승된 체온, 최소한의 노력으로 작은 불을 피울 수 있는 능력
+- **신체적 징후**: 따뜻한 손, 추운 날씨에 때때로 김이 나는 숨결
+- **향상 방법**: 특히 새벽이나 해질녘에 활활 타오르는 불꽃 근처에서 정기적인 명상
 
-### Flame Resonance
-The intermediate stage where fire responds more readily to the mage's will:
-- **Manifestation**: Fire grows or diminishes in response to emotions, personal resistance to cold
-- **Physical Signs**: Eyes reflect firelight unusually well, fingertips glow slightly during casting
-- **Enhancement Method**: Fire walking rituals, forge work, exposure to varied flame types
+### 화염 공명
+불이 마법사의 의지에 더 쉽게 반응하는 중간 단계:
+- **발현**: 감정에 반응하여 불이 자라거나 줄어들고, 추위에 대한 개인적인 저항력 증가
+- **신체적 징후**: 눈이 불빛을 비정상적으로 잘 반사하고, 시전 중 손가락 끝이 약간 빛남
+- **향상 방법**: 화염 위 걷기 의식, 대장간 작업, 다양한 종류의 불꽃에 노출
 
-### Combustion Harmony
-Advanced practitioners achieve a deep resonance with fire's transformative properties:
-- **Manifestation**: Can perceive heat signatures, flames bend toward the caster naturally
-- **Physical Signs**: Blood runs noticeably warm, hair develops reddish highlights
-- **Enhancement Method**: Extended communion at volcanic sites or natural hot springs
+### 연소 조화
+숙련된 시전자들은 불의 변형적인 속성과 깊은 공명을 이룸:
+- **발현**: 열 신호를 감지할 수 있고, 불꽃이 시전자 쪽으로 자연스럽게 굽어짐
+- **신체적 징후**: 혈액이 눈에 띄게 따뜻하게 흐르고, 머리카락에 붉은색 하이라이트가 생김
+- **향상 방법**: 화산 지대 또는 자연 온천에서의 확장된 교감
 
-### Inferno Unity
-Master pyromancers who have achieved profound connection with fire:
-- **Manifestation**: Partial transformation abilities, influence over flame without formal casting
-- **Physical Signs**: Body emits heat visibly in cold environments, eyes develop flickering qualities
-- **Enhancement Method**: Deep communion at ley line intersections with strong fire resonance
+### 지옥불 통일
+불과 심오한 연결을 이룬 마스터 염화술사:
+- **발현**: 부분 변형 능력, 공식적인 시전 없이 불꽃에 영향력 행사
+- **신체적 징후**: 신체가 추운 환경에서 눈에 띄게 열을 방출하고, 눈에 깜박이는 특성이 생김
+- **향상 방법**: 강력한 화염 공명을 가진 레이 라인 교차점에서 깊은 교감
 
-## Risks and Safeguards
+## 위험과 안전 장치
 
-### Common Risks
+### 일반적인 위험
 
-- **Thermal Damage**: Burns to self or unintended targets
-- **Oxygen Depletion**: Creating flames that consume available air
-- **Combustion Cascade**: Unintended spread of fire beyond controlled area
-- **Thermal Dependency**: Developing discomfort in cold environments
-- **Inner Burning**: Metabolic acceleration causing rapid calorie consumption
+- **열 손상**: 자신 또는 의도하지 않은 대상에 대한 화상
+- **산소 고갈**: 사용 가능한 공기를 소비하는 불꽃 생성
+- **연소 연쇄**: 제어된 영역을 넘어 화재가 의도치 않게 확산
+- **열 의존성**: 추운 환경에서 불편함 발생
+- **내면 연소**: 빠른 칼로리 소비를 유발하는 신진 대사 가속화
 
-### Miscast Effects
+### 잘못된 시전 효과
 
-| Severity | Effect | Recovery |
+| 심각도 | 효과 | 회복 |
 |----------|--------|----------|
-| **Minor** | Temporary burns, singed hair, excessive sweating | Hours |
-| **Moderate** | Internal heating, mild fever, spontaneous small flames on contact | Days |
-| **Severe** | Blood heating, uncontrolled fire emissions, thermal regulation failure | Weeks |
-| **Critical** | Spontaneous combustion risk, organ damage from internal heating, pyrokinetic fugue | Months |
+| **미미** | 일시적인 화상, 그을린 머리카락, 과도한 발한 | 시간 |
+| **보통** | 내부 가열, 가벼운 발열, 접촉 시 자발적인 작은 불꽃 | 날 |
+| **심각** | 혈액 가열, 통제되지 않은 화재 방출, 열 조절 실패 | 주 |
+| **위독** | 자발적인 연소 위험, 내부 가열로 인한 장기 손상, 화염 운동적 둔주 | 월 |
 
-### Safety Practices
+### 안전 수칙
 
-- **Thermal Grounding**: Regular cooling exercises and hydration
-- **Flame Containment**: Practicing with clearly defined boundaries and fireproofing
-- **Emotional Regulation**: Meditation techniques to prevent passion-triggered flare-ups
-- **Environmental Awareness**: Assessing surroundings for fire hazards before casting
-- **Material Selection**: Using appropriate fire-resistant clothing and equipment
+- **열 접지**: 규칙적인 냉각 운동 및 수분 공급
+- **화염 봉쇄**: 명확하게 정의된 경계와 방화로 연습
+- **감정 조절**: 열정으로 인한 폭발을 방지하기 위한 명상 기술
+- **환경 인식**: 시전 전에 화재 위험에 대한 주변 환경 평가
+- **재료 선택**: 적절한 내화성 의류 및 장비 사용
 
-## Cultural Significance
+## 문화적 중요성
 
-### Historical Development
+### 역사적 발전
 
-Fire magic represents humanity's first and most primal magical tradition, with evidence of organized fire rituals dating back to prehistoric times. The development of pyromancy followed three distinct phases:
+불의 마법은 선사 시대로 거슬러 올라가는 조직화된 화재 의식의 증거와 함께 인류의 최초이자 가장 원시적인 마법 전통을 대표합니다. 염화술의 발전은 세 가지 뚜렷한 단계를 거쳤습니다.
 
-1. **Survival Application**: Prehistoric peoples developing basic fire creation and control
-2. **Symbolic Purification**: Early civilizations using fire for cleansing rituals and divine communion
-3. **Martial Development**: Formation of organized fire magic traditions for warfare and protection
+1. **생존 적용**: 기본적인 화재 생성 및 제어를 개발하는 선사 시대 사람들
+2. **상징적 정화**: 정화 의식 및 신성한 교감을 위해 불을 사용하는 초기 문명
+3. **무술 발전**: 전쟁 및 보호를 위한 조직화된 불의 마법 전통 형성
 
-### Regional Variations
+### 지역적 변형
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 문화 | 초점 | 대표 기술 | 철학 |
 |---------|-------|---------------------|------------|
-| **Volcanic Islanders** | Lava manipulation, heat resistance | Magma shaping, obsidian forming | Fire as the world's creator |
-| **Desert Tribes** | Heat management, minimal fuel casting | Sand fire, heat mirage | Fire as the precious lifegiver |
-| **Northern Clans** | Warming techniques, enduring flames | Cold fire, eternal torches | Fire as the defender against darkness |
-| **Forge Cultures** | Metallurgical applications, precision heat | Crucible flames, metal singing | Fire as the great transformer |
+| **화산 섬 주민** | 용암 조작, 내열성 | 마그마 성형, 흑요석 형성 | 불은 세계의 창조자 |
+| **사막 부족** | 열 관리, 최소 연료 시전 | 모래 불, 열 신기루 | 불은 소중한 생명의 원천 |
+| **북부 씨족** | 온난화 기술, 지속적인 불꽃 | 냉기 불, 영원한 횃불 | 불은 어둠에 맞서는 수호자 |
+| **대장간 문화** | 야금 적용, 정밀 열 | 도가니 불꽃, 금속 노래 | 불은 위대한 변형자 |
 
-### Ceremonial Uses
+### 의례적 사용
 
-Fire magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young pyromancers lighting their first magical flame
-- **Purification Ceremonies**: Cleansing spaces or people through controlled fire
-- **Remembrance Vigils**: Eternal flames to honor ancestors or heroes
-- **Seasonal Festivals**: Major fire workings during solstices and harvest celebrations
+불의 마법은 많은 문화 의식에서 두드러지게 나타납니다.
+- **성인식**: 젊은 염화술사들이 처음으로 마법 불꽃을 피우는 의식
+- **정화 의식**: 제어된 불을 통해 공간이나 사람들을 정화
+- **추모 행사**: 조상이나 영웅을 기리기 위한 영원한 불꽃
+- **계절 축제**: 동지와 수확 축제 동안의 주요 화재 작업
 
-### Contemporary Applications
+### 현대적 응용
 
-Beyond combat and utility applications, fire magic serves important societal functions:
-- **Manufacturing**: Controlled heat for metallurgy, glassblowing, and crafting
-- **Agriculture**: Controlled burns for field clearing and pest management
-- **Energy Production**: Sustainable heat sources for power generation
-- **Medicine**: Cauterization, sterilization, and thermal therapy
-- **Culinary Arts**: Specialized cooking techniques using magical flames
+전투 및 유틸리티 응용 외에도 불의 마법은 중요한 사회적 기능을 수행합니다.
+- **제조**: 야금, 유리 불기, 공예를 위한 제어된 열
+- **농업**: 밭 정리 및 해충 관리를 위한 제어된 연소
+- **에너지 생산**: 발전용 지속 가능한 열원
+- **의학**: 소작, 살균 및 열 치료
+- **요리 예술**: 마법 불꽃을 사용하는 전문 요리 기술
 
-> *"The student of fire must remember that the same flame that destroys a forest nurtures new growth. Master not just the power of the flame, but the wisdom to know when to kindle and when to extinguish."* — The Pyromancer's Credo
+> *"불을 배우는 학생은 숲을 파괴하는 것과 같은 불꽃이 새로운 성장을 육성한다는 것을 기억해야 합니다. 불꽃의 힘뿐만 아니라 언제 불을 지피고 언제 꺼야 하는지 아는 지혜를 마스터하십시오."* — 염화술사의 신조
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Water Magic](/codex/Magics/Elements/WaterMagic.md), [Light Magic](/codex/Magics/Elements/LightMagic.md)* 
+*참조 항목: [원소 마법](/codex/Magics/Elements/ElementalMagic.md), [물의 마법](/codex/Magics/Elements/WaterMagic.md), [빛의 마법](/codex/Magics/Elements/LightMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

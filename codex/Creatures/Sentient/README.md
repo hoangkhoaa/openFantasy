@@ -1,95 +1,98 @@
-# Sentient Species of OpenFantasy
+# OpenFantasy의 지각 있는 종족
 
-> *"Consciousness shapes the world as much as the world shapes consciousness."*
+> *"의식은 세계를 빚는 만큼 세계도 의식을 빚는다."*
 
-## Overview
+## 개요
 
-Sentient species in OpenFantasy are beings with advanced intelligence, self-awareness, and the capacity to form complex societies. They possess the ability to communicate through sophisticated language, create culture, develop technologies, and manipulate magic through conscious effort rather than instinct alone.
+OpenFantasy의 지각 있는 종족은 고도의 지능, 자아 인식, 복잡한 사회를 형성할 수 있는 존재입니다. 그들은 정교한 언어를 통해 소통하고, 문화를 창조하고, 기술을 개발하고, 본능만이 아닌 의식적인 노력을 통해 마법을 조작할 수 있습니다.
 
-What distinguishes sentient species from other creatures is their high soul component, which enables abstract thought, moral reasoning, and the formation of civilizations. Each sentient species has evolved unique adaptations and societal structures based on their elemental composition and the environments they inhabit.
+지각 있는 종족을 다른 생물과 구별하는 것은 추상적인 사고, 도덕적 추론, 문명 형성을 가능하게 하는 높은 영혼 성분입니다. 각 지각 있는 종족은 그들의 원소 구성과 그들이 서식하는 환경에 기반하여 독특한 적응과 사회 구조를 발전시켜 왔습니다.
 
-## Core Characteristics
+## 핵심 특징
 
-All sentient species share certain fundamental traits:
+모든 지각 있는 종족은 다음과 같은 특정한 기본 특성을 공유합니다.
 
-- **Linguistic Capacity**: The ability to develop and use complex language systems
-- **Cultural Formation**: Creation of art, music, literature, and social traditions
-- **Technological Innovation**: Development of tools and techniques to reshape their environment
-- **Magical Awareness**: Conscious understanding and manipulation of mana
-- **Social Organization**: Formation of complex societies with diverse roles and hierarchies
-- **Historical Awareness**: Recording and passing down knowledge across generations
+- **언어적 능력**: 복잡한 언어 시스템을 개발하고 사용할 수 있는 능력
+- **문화 형성**: 예술, 음악, 문학 및 사회적 전통 창조
+- **기술 혁신**: 환경을 재형성하기 위한 도구 및 기술 개발
+- **마법적 인식**: 마나에 대한 의식적인 이해 및 조작
+- **사회 조직**: 다양한 역할과 계층을 가진 복잡한 사회 형성
+- **역사적 인식**: 지식을 기록하고 세대를 거쳐 전달
 
-## Sentient Species Categories
+## 지각 있는 종족 분류
 
-### Primary Civilizers
+### 주요 문명 건설자
 
-Species that have established widespread, stable civilizations across multiple regions:
+여러 지역에 걸쳐 광범위하고 안정적인 문명을 건설한 종족:
 
-| Species | Elemental Balance | Key Traits | Cultural Significance |
+| 종족 | 원소 균형 | 주요 특징 | 문화적 중요성 |
 |---------|-------------------|------------|----------------------|
-| [Humans](Humans.md) | Balanced (E: 20-55%, S: 15-45%, M: 15-60%) | Adaptability, innovation, rapid cultural evolution | Widespread, diverse societies with varying traditions |
-| [Elves](Elves.md) | Mana-dominant (E: 5-25%, S: 5-15%, M: 50-80%) | Longevity, magical aptitude, tradition | Ancient magical traditions, art preservation |
-| [Dwarves](Dwarves.md) | Exanthis-dominant (E: 50-70%, S: 20-35%, M: 5-25%) | Physical resilience, craftsmanship, clan loyalty | Mining, metallurgy, engineering, ancestral halls |
+| [인간](Humans.md) | 균형 잡힘 (E: 20-55%, S: 15-45%, M: 15-60%) | 적응력, 혁신, 빠른 문화적 진화 | 광범위하고 다양한 전통을 가진 사회 |
+| [엘프](Elves.md) | 마나 우세 (E: 5-25%, S: 5-15%, M: 50-80%) | 장수, 마법적 재능, 전통 | 고대 마법 전통, 예술 보존 |
+| [드워프](Dwarves.md) | 엑산티스 우세 (E: 50-70%, S: 20-35%, M: 5-25%) | 물리적 회복력, 장인 정신, 씨족 충성심 | 광업, 야금, 공학, 조상의 홀 |
 
-### Specialized Adaptations
+### 특수 적응
 
-Species that have developed unique physiological or magical adaptations:
+독특한 생리적 또는 마법적 적응을 개발한 종족:
 
-| Species | Elemental Balance | Key Traits | Cultural Significance |
+| 종족 | 원소 균형 | 주요 특징 | 문화적 중요성 |
 |---------|-------------------|------------|----------------------|
-| [Dark Elves](DarkElves.md) | Shadow-attuned (E: 5-25%, S: 10-20%, M: 50-80%) | Shadow manipulation, night vision, magical focus | Complex underground societies, shadow-based crafts |
-| [Beastfolk](Beastfolk.md) | Varied (E: 35-70%, S: 15-35%, M: 15-40%) | Diverse animal traits, heightened senses, tribal organization | Close connection to natural world, oral histories |
-| [Gnomes](Gnomes.md) | Soul-heavy (E: 30-50%, S: 30-50%, M: 15-30%) | Small stature, inventiveness, curiosity | Innovation, magical technology, complex mechanisms |
+| [다크 엘프](DarkElves.md) | 그림자 조율 (E: 5-25%, S: 10-20%, M: 50-80%) | 그림자 조작, 야간 시력, 마법 집중 | 복잡한 지하 사회, 그림자 기반 공예 |
+| [수인](Beastfolk.md) | 다양함 (E: 35-70%, S: 15-35%, M: 15-40%) | 다양한 동물 특징, 강화된 감각, 부족 조직 | 자연 세계와의 긴밀한 연결, 구전 역사 |
+| [놈](Gnomes.md) | 영혼 과다 (E: 30-50%, S: 30-50%, M: 15-30%) | 작은 키, 독창성, 호기심 | 혁신, 마법 기술, 복잡한 메커니즘 |
 
-### Regional Civilizers
+### 지역 문명 건설자
 
-Species whose societies are limited to specific geographical regions:
+사회가 특정 지리적 지역에 제한된 종족:
 
-| Species | Notable Regions | Key Cultural Elements |
+| 종족 | 주목할 만한 지역 | 주요 문화 요소 |
 |---------|----------------|------------------------|
-| [Dragonkin](../Magical/Dragonkin.md) | Mountain ranges, volcanic regions | Ancestral worship, elemental mastery, wealth accumulation |
-| [Merfolk](../Hybrid/Merfolk.md) | Coastal areas, deep seas | Marine resource management, underwater architecture, song-based histories |
-| [Giants](../Monsters/Giants.md) | Highland territories, ancient strongholds | Stone crafting, elemental communion, ancestral traditions |
+| [드래곤킨](../Magical/Dragonkin.md) | 산맥, 화산 지역 | 조상 숭배, 원소 숙달, 부의 축적 |
+| [인어](../Hybrid/Merfolk.md) | 해안 지역, 심해 | 해양 자원 관리, 수중 건축, 노래 기반 역사 |
+| [거인](../Monsters/Giants.md) | 고지대, 고대 요새 | 석조 공예, 원소 교감, 조상 전통 |
 
-## Interspecies Dynamics
+## 종족 간 역학
 
-The relationships between sentient species form complex social, political, and economic webs. Each species brings unique strengths and perspectives to these interactions:
+지각 있는 종족 간의 관계는 복잡한 사회적, 정치적, 경제적 망을 형성합니다. 각 종족은 이러한 상호 작용에 독특한 강점과 관점을 제공합니다.
 
-### Common Alliance Patterns
+### 일반적인 동맹 패턴
 
-- **Elven-Human Partnerships**: Combining human adaptability with elven magical knowledge
-- **Dwarven-Gnomish Collaborations**: Merging dwarven craftsmanship with gnomish innovation
-- **Human-Beastfolk Frontier Settlements**: Blending diverse skills for survival in challenging regions
+- **엘프-인간 파트너십**: 인간의 적응력과 엘프의 마법 지식 결합
+- **드워프-놈 협력**: 드워프의 장인 정신과 놈의 혁신 융합
+- **인간-수인 변경 정착지**: 도전적인 지역에서의 생존을 위한 다양한 기술 융합
 
-### Historical Conflicts
+### 역사적 갈등
 
-- **Dark Elf-Surface Elf Tensions**: Ancient schisms based on philosophical and magical differences
-- **Giant-Dwarven Territorial Disputes**: Competition for mineral-rich mountain territories
-- **Human-Beastfolk Expansion Conflicts**: Disagreements over land use and natural resources
+- **다크 엘프-지상 엘프 긴장**: 철학적, 마법적 차이에 기반한 고대 분열
+- **거인-드워프 영토 분쟁**: 광물이 풍부한 산악 영토 경쟁
+- **인간-수인 확장 갈등**: 토지 사용 및 천연 자원에 대한 의견 불일치
 
-## Elemental Influence on Society
+## 사회에 대한 원소 영향
 
-The elemental composition of a species significantly influences their societal development:
+종족의 원소 구성은 사회 발전에 큰 영향을 미칩니다.
 
-| Dominant Element | Societal Impact | Examples |
+| 우세한 원소 | 사회적 영향 | 예시 |
 |------------------|----------------|----------|
-| **Exanthis** | Physical infrastructure, resource utilization, martial traditions | Dwarven strongholds, Giant monuments |
-| **Soul** | Philosophical development, arts, education systems | Human universities, Gnomish think-tanks |
-| **Mana** | Magical innovation, energy manipulation, metaphysical exploration | Elven spell-forests, Dark Elf shadow citadels |
+| **엑산티스** | 물리적 기반 시설, 자원 활용, 무술 전통 | 드워프 요새, 거인 기념물 |
+| **영혼** | 철학적 발전, 예술, 교육 시스템 | 인간 대학, 놈 싱크탱크 |
+| **마나** | 마법 혁신, 에너지 조작, 형이상학적 탐구 | 엘프 주문 숲, 다크 엘프 그림자 성채 |
 
-## Evolutionary Adaptations
+## 진화적 적응
 
-Sentient species have evolved unique adaptations to their environments and elemental compositions:
+지각 있는 종족은 환경 및 원소 구성에 대한 독특한 적응을 진화시켜 왔습니다.
 
-| Species | Key Adaptations | Evolutionary Advantage |
+| 종족 | 주요 적응 | 진화적 이점 |
 |---------|----------------|------------------------|
-| **Humans** | Generalized physiology, rapid learning | Adaptability to diverse environments |
-| **Elves** | Enhanced magical channels, extended lifespan | Deep magical understanding, knowledge preservation |
-| **Dwarves** | Dense bone structure, efficient metabolism | Survival in harsh mountain conditions |
-| **Dark Elves** | Enhanced night vision, shadow resonance | Thriving in underground environments |
-| **Beastfolk** | Species-specific traits (varies widely) | Specialized environmental advantages |
-| **Gnomes** | Compact neural density, enhanced dexterity | Efficiency in limited physical space |
+| **인간** | 일반화된 생리, 빠른 학습 | 다양한 환경에 대한 적응력 |
+| **엘프** | 강화된 마법 채널, 확장된 수명 | 심오한 마법 이해, 지식 보존 |
+| **드워프** | 조밀한 뼈 구조, 효율적인 신진 대사 | 험난한 산악 환경에서의 생존 |
+| **다크 엘프** | 강화된 야간 시력, 그림자 공명 | 지하 환경에서 번성 |
+| **수인** | 종 특이적 특징 (매우 다양함) | 특화된 환경적 이점 |
+| **놈** | 조밀한 신경 밀도, 향상된 손재주 | 제한된 물리적 공간에서의 효율성 |
 
 ---
 
-> *"In the diversity of thinking minds lies the true wealth of our world."* — Scholar Tiberius Windfall, Comparative Species Studies 
+> *"생각하는 마음의 다양성 속에 우리 세계의 진정한 부가 있다."* — 학자 티베리우스 윈드폴, 종 비교 연구
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

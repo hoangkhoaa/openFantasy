@@ -1,152 +1,156 @@
-# **Wild Mana**: The Primordial Energy
+# **와일드 마나**: 원초적인 에너지
 
-## Overview
+## 개요
 
-Wild Mana is the primordial, untamed form of magical energy that permeates the natural environment of OpenFantasy. Unlike the refined mana types used in spellcasting, Wild Mana exists in its raw, unprocessed state—chaotic, unpredictable, and fundamentally connected to the world's life force.
+와일드 마나는 OpenFantasy의 자연 환경에 스며들어 있는 마법 에너지의 원초적이고 정제되지 않은 형태입니다. 주문 시전에 사용되는 정제된 마나 유형과는 달리, 와일드 마나는 혼돈스럽고 예측할 수 없으며 근본적으로 세계의 생명력과 연결되어 있는 원시적이고 가공되지 않은 상태로 존재합니다.
 
-## Properties of Wild Mana
+## 와일드 마나의 속성
 
-### Physical Characteristics
-- **Appearance**: Shimmering, erratic energy with constantly shifting colors
-- **Behavior**: Flows along natural currents, concentrates around living things and magical locations
-- **Sensation**: Produces tingling, vibrant sensations when encountered in high concentrations
+### 물리적 특징
+- **외형**: 끊임없이 변화하는 색상으로 반짝이는 불규칙적인 에너지
+- **행동**: 자연적인 흐름을 따라 흐르고, 생물과 마법적인 위치 주변에 집중됨
+- **감각**: 고농도에서 마주칠 때 따끔거리는 듯한 생생한 감각을 생성함
 
-### Magical Attributes
-- **Versatility**: Contains the potential for all specialized mana types
-- **Instability**: Difficult to control directly due to chaotic nature
-- **Resonance**: Naturally responds to and amplifies emotional states
+### 마법적 속성
+- **다재다능함**: 모든 전문 마나 유형의 잠재력을 포함함
+- **불안정성**: 혼돈스러운 성질로 인해 직접적으로 제어하기 어려움
+- **공명**: 자연적으로 감정 상태에 반응하고 증폭시킴
 
-## The Mana Conversion Process
+## 마나 변환 과정
 
-### Environmental Presence
-Wild Mana forms the foundation of the magical ecosystem, functioning similarly to how air, water, and nutrients sustain physical life:
+### 환경적 존재
+와일드 마나는 마법 생태계의 기초를 형성하며, 공기, 물, 영양분이 물리적 생명을 유지하는 방식과 유사하게 작동합니다.
 
-1. **Generation**: Continuously produced by the world itself, particularly at ley line nodes
-2. **Flow**: Moves through natural channels (ley lines) and disperses through the atmosphere
-3. **Concentration**: Gathers around living beings, magical creatures, and places of power
-4. **Presence**: Exists in varying concentrations throughout the environment
+1. **생성**: 특히 레이 라인 노드에서 세계 자체에 의해 지속적으로 생성됨
+2. **흐름**: 자연적인 통로(레이 라인)를 통해 이동하고 대기를 통해 분산됨
+3. **농도**: 생물, 마법 생물, 힘의 장소 주변에 모임
+4. **존재**: 환경 전체에 걸쳐 다양한 농도로 존재함
 
-### Fundamental Two-Phase Conversion
+### 기본적인 2단계 변환
 
-The transformation of magical energy follows a strictly defined two-phase process that is essential to understanding all magical practice:
+마법 에너지의 변환은 모든 마법 수련을 이해하는 데 필수적인 엄격하게 정의된 2단계 과정을 따릅니다.
 
-#### Phase 1: Wild Mana to Base Mana Conversion
-This is primarily a biological process that occurs in all magical beings:
+#### 1단계: 와일드 마나에서 기본 마나 변환
+이것은 주로 모든 마법적 존재에서 발생하는 생물학적 과정입니다.
 
-1. **Absorption**: Beings draw in Wild Mana from their surroundings
-2. **Filtration**: Internal biological processes separate usable energy from chaotic elements
-3. **Stabilization**: Chaotic patterns are ordered into coherent Base Mana energy
-4. **Storage**: The energy is stored within the being's internal reserves as Base Mana
+1. **흡수**: 존재는 주변에서 와일드 마나를 끌어들임
+2. **여과**: 내부 생물학적 과정은 혼돈스러운 요소에서 사용 가능한 에너지를 분리함
+3. **안정화**: 혼돈스러운 패턴이 일관된 기본 마나 에너지로 정렬됨
+4. **저장**: 에너지는 존재의 내부 저장소에 기본 마나로 저장됨
 
-> **CRITICAL**: Effectiveness is calculated at this phase, measuring how efficiently a being converts Wild Mana to Base Mana. This determines the quantity of magical energy available to a caster.
+> **중요**: 유효성은 이 단계에서 계산되며, 존재가 와일드 마나를 기본 마나로 얼마나 효율적으로 변환하는지를 측정합니다. 이것은 시전자가 사용할 수 있는 마법 에너지의 양을 결정합니다.
 
-#### Phase 2: Base Mana to Elemental Mana Conversion
-This is a conscious process that occurs during spellcasting:
+#### 2단계: 기본 마나에서 원소 마나 변환
+이것은 주문 시전 중에 발생하는 의식적인 과정입니다.
 
-1. **Drawing**: Base Mana is pulled from internal reserves into active consciousness
-2. **Specialization**: Base Mana is attuned to specific elemental resonances
-3. **Transformation**: The energy shifts into specialized forms (Elemental Mana)
-4. **Result**: The final mixture contains both specialized Elemental Mana and residual Wild Mana
+1. **끌어오기**: 기본 마나가 내부 저장소에서 활성 의식으로 당겨짐
+2. **특수화**: 기본 마나가 특정 원소 공명에 맞춰짐
+3. **변환**: 에너지가 전문화된 형태(원소 마나)로 전환됨
+4. **결과**: 최종 혼합물은 전문화된 원소 마나와 잔류 와일드 마나를 모두 포함함
 
-> **CRITICAL**: Purity is calculated at this phase, measuring the ratio of refined Elemental Mana to residual Wild Mana. This determines the quality and control of the resulting magical effect.
+> **중요**: 순도는 이 단계에서 계산되며, 정제된 원소 마나와 잔류 와일드 마나의 비율을 측정합니다. 이것은 결과 마법 효과의 품질과 제어를 결정합니다.
 
-### Base Mana: The Internal Energy Form
+### 기본 마나: 내부 에너지 형태
 
-**All mana stored within living creatures exists as Base Mana**, not Wild Mana or Elemental Mana. This is a crucial distinction that explains several fundamental aspects of magic:
+**살아있는 생물체 내부에 저장된 모든 마나는 와일드 마나 또는 원소 마나가 아닌 기본 마나로 존재합니다**. 이것은 마법의 몇 가지 기본적인 측면을 설명하는 중요한 구별입니다.
 
-- Base Mana is stable, neutralized, and can be safely contained within biological systems
-- Direct storage of Wild Mana within a being would cause severe magical trauma
-- Long-term storage of Elemental Mana within a being would cause elemental imbalances
-- All spellcasting begins by drawing from this internal Base Mana reservoir
+- 기본 마나는 안정적이고 중화되어 있으며 생물학적 시스템 내에 안전하게 보관할 수 있습니다.
+- 존재 내부에 와일드 마나를 직접 저장하면 심각한 마법적 외상을 유발할 수 있습니다.
+- 존재 내부에 원소 마나를 장기간 저장하면 원소 불균형을 유발할 수 있습니다.
+- 모든 주문 시전은 이 내부 기본 마나 저장소에서 끌어오는 것으로 시작됩니다.
 
-This Base Mana serves as both:
-- The magical "battery" that determines a being's overall magical capacity
-- The foundation material that will be refined into specialized forms during spellcasting
+이 기본 마나는 다음과 같은 역할을 합니다.
+- 존재의 전반적인 마법 용량을 결정하는 마법 "배터리"
+- 주문 시전 중에 전문화된 형태로 정제될 기초 재료
 
-## Conversion Effectiveness and Purity
+## 변환 유효성과 순도
 
-### Phase 1: Effectiveness (Wild → Base)
-The effectiveness of Phase 1 conversion determines:
+### 1단계: 유효성 (와일드 → 기본)
+1단계 변환의 유효성은 다음을 결정합니다.
 
-- How much of the absorbed Wild Mana becomes usable Base Mana
-- How quickly a being can replenish their internal mana reserves
-- The efficiency of mana extraction from the environment
+- 흡수된 와일드 마나 중 얼마나 많은 양이 사용 가능한 기본 마나가 되는가
+- 존재가 내부 마나 저장소를 얼마나 빨리 보충할 수 있는가
+- 환경에서 마나 추출의 효율성
 
-Factors affecting effectiveness include:
-- Species and inherent biological processes
-- Training and practiced techniques
-- Current health and energy levels
-- Environmental Wild Mana concentration
+유효성에 영향을 미치는 요인은 다음과 같습니다.
+- 종과 고유한 생물학적 과정
+- 훈련과 숙련된 기술
+- 현재 건강 및 에너지 수준
+- 환경 와일드 마나 농도
 
-### Phase 2: Purity (Base → Elemental)
-The purity achieved during Phase 2 conversion determines:
+### 2단계: 순도 (기본 → 원소)
+2단계 변환 중에 달성된 순도는 다음을 결정합니다.
 
-- How much precision and control a spell exhibits
-- The stability and predictability of magical effects
-- The efficiency of mana usage during spellcasting
+- 주문이 얼마나 정확하고 제어력을 발휘하는가
+- 마법 효과의 안정성과 예측 가능성
+- 주문 시전 중 마나 사용의 효율성
 
-Factors affecting purity include:
-- Training and magical education
-- Concentration and mental clarity
-- Compatible elemental affinities
-- Quality of focusing tools or components
+순도에 영향을 미치는 요인은 다음과 같습니다.
+- 훈련 및 마법 교육
+- 집중력과 정신적 명료성
+- 호환 가능한 원소 친화력
+- 초점 도구 또는 구성 요소의 품질
 
-### Mathematical Expressions
+### 수학적 표현
 
-**Phase 1 (Effectiveness):**
+**1단계 (유효성):**
 ```
-Effectiveness Percentage = (Base Mana Produced) / (Wild Mana Consumed) × 100%
-```
-
-**Phase 2 (Purity):**
-```
-Purity Percentage = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+유효성 백분율 = (생성된 기본 마나) / (소비된 와일드 마나) × 100%
 ```
 
-### Visualization of Purification Levels
+**2단계 (순도):**
+```
+순도 백분율 = (정제된 원소 마나) / (정제된 원소 마나 + 잔류 와일드 마나) × 100%
+```
 
-| Purity Level | Wild Mana Content | Description | Typical Application |
+### 정제 수준 시각화
+
+| 순도 수준 | 와일드 마나 함량 | 설명 | 일반적인 적용 |
 |--------------|-------------------|-------------|---------------------|
-| 0-10% | 90-100% | Almost entirely Wild Mana | Unusable for most controlled magic |
-| 10-35% | 65-90% | Basic refinement | Suitable for simple, forgiving spells |
-| 35-65% | 35-65% | Standard refinement | Everyday professional magic use |
-| 65-85% | 15-35% | Advanced refinement | Complex or precision spellcasting |
-| 85-100% | 0-15% | Master-level refinement | Highest tier magical works |
+| 0-10% | 90-100% | 거의 전적으로 와일드 마나 | 대부분의 제어된 마법에 사용할 수 없음 |
+| 10-35% | 65-90% | 기본 정제 | 간단하고 관대한 주문에 적합 |
+| 35-65% | 35-65% | 표준 정제 | 일상적인 전문 마법 사용 |
+| 65-85% | 15-35% | 고급 정제 | 복잡하거나 정밀한 주문 시전 |
+| 85-100% | 0-15% | 마스터 레벨 정제 | 최고 수준의 마법 작품 |
 
-## Different Approaches to Wild Mana
+## 와일드 마나에 대한 다양한 접근 방식
 
-Various magical traditions have developed different relationships with Wild Mana:
+다양한 마법 전통은 와일드 마나와 다른 관계를 발전시켜 왔습니다.
 
-### Academic Traditions
-- **Philosophy**: Wild Mana is an impurity to be eliminated
-- **Practice**: Focus on maximizing purity during Phase 2
-- **Strength**: Precise, predictable magical effects
-- **Weakness**: May be less adaptable to changing conditions
+### 학문적 전통
+- **철학**: 와일드 마나는 제거해야 할 불순물임
+- **수련**: 2단계에서 순도를 극대화하는 데 집중
+- **강점**: 정확하고 예측 가능한 마법 효과
+- **약점**: 변화하는 조건에 덜 적응할 수 있음
 
-### Natural Traditions
-- **Philosophy**: Wild Mana is a vital connection to natural forces
-- **Practice**: Intentionally maintain some Wild Mana content in spells
-- **Strength**: More dynamic and adaptable magic
-- **Weakness**: Less precise control over effects
+### 자연적 전통
+- **철학**: 와일드 마나는 자연의 힘과의 중요한 연결 고리임
+- **수련**: 의도적으로 주문에 약간의 와일드 마나 함량을 유지
+- **강점**: 더 역동적이고 적응력이 뛰어난 마법
+- **약점**: 효과에 대한 제어가 덜 정밀함
 
-### Innate Casters
-- **Philosophy**: Magic is an inherent gift rather than learned technique
-- **Practice**: Often have unique biological Phase 1 processes
-- **Strength**: May achieve unusual effectiveness or specialized effects
-- **Weakness**: Often less consistent than trained practitioners
+### 타고난 시전자
+- **철학**: 마법은 학습된 기술이라기보다 고유한 선물임
+- **수련**: 종종 고유한 생물학적 1단계 과정이 있음
+- **강점**: 비정상적인 유효성 또는 전문화된 효과를 달성할 수 있음
+- **약점**: 훈련된 시전자보다 일관성이 떨어지는 경우가 많음
 
-## Wild Mana Training Techniques
+## 와일드 마나 훈련 기술
 
-### Phase 1 (Effectiveness) Training
-1. **Absorption Meditation**: Improving the intake of Wild Mana
-2. **Channel Clearing**: Removing blockages in internal mana pathways
-3. **Conversion Rituals**: Practicing efficient transformation techniques
-4. **Reserve Expansion**: Gradually increasing Base Mana storage capacity
+### 1단계 (유효성) 훈련
+1. **흡수 명상**: 와일드 마나 섭취량 개선
+2. **채널 청소**: 내부 마나 통로의 막힘 제거
+3. **변환 의식**: 효율적인 변환 기술 연습
+4. **저장소 확장**: 기본 마나 저장 용량 점진적으로 증가
 
-### Phase 2 (Purity) Training
-1. **Filtration Exercises**: Mental disciplines for removing Wild Mana contamination
-2. **Pattern Stabilization**: Maintaining clear magical intentions
-3. **Elemental Alignment**: Strengthening affinity with specific elements
-4. **Precision Casting**: Practicing fine control of mana manipulation
+### 2단계 (순도) 훈련
+1. **여과 운동**: 와일드 마나 오염 제거를 위한 정신 수련
+2. **패턴 안정화**: 명확한 마법적 의도 유지
+3. **원소 정렬**: 특정 원소와의 친화력 강화
+4. **정밀 주조**: 마나 조작의 미세한 제어 연습
 
-> *"Wild Mana is neither good nor evil, neither completely hostile nor completely benign. It simply is—the raw stuff of possibility from which all other magic derives. Learn to respect it, not fear it."* — Elowen Wildroot, Archdruid of the Emerald Circle 
+> *"와일드 마나는 선도 악도 아니며, 완전히 적대적이지도 완전히 우호적이지도 않습니다. 그것은 단순히 존재하는 것, 즉 모든 다른 마법이 파생되는 가능성의 원료입니다. 두려워하지 말고 존중하는 법을 배우십시오."* — 에메랄드 서클의 아치드루이드, 엘로웬 와일드루트
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

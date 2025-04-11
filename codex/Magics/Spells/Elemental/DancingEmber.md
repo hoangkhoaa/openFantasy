@@ -1,89 +1,93 @@
-# **Dancing Ember**
+# **춤추는 불씨 (Dancing Ember)**
 
-A fundamental fire manipulation spell that creates a small, controlled flame that dances and moves according to the caster's will. This spell serves as both a practical light source and a foundational training exercise for aspiring pyromancers.
+시전자의 의지에 따라 춤추고 움직이는 작은, 제어된 불꽃을 생성하는 기본적인 화염 조작 주문입니다. 이 주문은 실용적인 광원일 뿐만 아니라 야심 찬 화염술사들을 위한 기본적인 훈련 연습이기도 합니다.
 
-## Casting Information
+## 시전 정보
 
-| Aspect | Details |
+| 측면 | 세부 정보 |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | Instant (1-2 seconds) |
-| **Duration** | Concentration (up to 1 hour) |
-| **Range** | Close (within 10 feet of caster) |
-| **Components** | Somatic (simple finger gesture), Verbal (soft whisper) |
+| **난이도** | 초급 |
+| **시전 시간** | 즉시 (1-2초) |
+| **지속 시간** | 집중 (최대 1시간) |
+| **범위** | 근거리 (시전자로부터 10피트 이내) |
+| **구성 요소** | 신체 (간단한 손가락 제스처), 언어 (부드러운 속삭임) |
 
-## Technical Details
+## 기술적 세부 사항
 
-| Aspect | Details |
+| 측면 | 세부 정보 |
 |--------|---------|
-| **Mana Type** | Pyromana (75%), Base Mana (25%) |
-| **Purity Required** | Basic (15-25%) |
-| **Pattern Complexity** | Simple (3 elements) |
-| **Resonance Frequency** | Warm/Bright spectrum |
-| **Minimum Mana Capacity** | 15% (Higher capacity extends possible duration) |
+| **마나 유형** | 파이로마나 (75%), 기본 마나 (25%) |
+| **순도 요구 사항** | 기본 (15-25%) |
+| **패턴 복잡성** | 단순 (3개의 요소) |
+| **공명 주파수** | 따뜻함/밝음 스펙트럼 |
+| **최소 마나 용량** | 15% (더 높은 용량은 가능한 지속 시간을 연장합니다) |
 
-## Pattern Structure
+## 패턴 구조
 
-The Dancing Ember pattern consists of three primary elements:
-1. **Ignition Node**: The central formation that generates heat and initiates combustion
-2. **Sustenance Loop**: A circular flow that maintains the flame without fuel
-3. **Direction Thread**: A fine connection to the caster's will that allows control of movement
+춤추는 불씨 패턴은 세 가지 주요 요소로 구성됩니다.
+1. **점화 노드**: 열을 생성하고 연소를 시작하는 중앙 형성
+2. **유지 루프**: 연료 없이 화염을 유지하는 원형 흐름
+3. **방향 스레드**: 시전자의 의지에 대한 미세한 연결로 움직임을 제어할 수 있습니다.
 
-These elements are arranged in a simple triangular formation that novice mages can easily visualize and maintain.
+이러한 요소는 초보 마법사가 쉽게 시각화하고 유지할 수 있는 간단한 삼각형 형태로 배열됩니다.
 
-## Practical Effect
+## 실제 효과
 
-When successfully cast, a flame approximately the size of a candle flame manifests in the air at the designated location. Unlike a natural flame, it:
-- Requires no fuel
-- Emits minimal heat (enough to feel warm, not enough to burn unless deliberately directed)
-- Moves according to the caster's mental direction within the spell's range
-- Can change color slightly based on the caster's concentration (yellows, oranges, and reds)
-- Illuminates an area approximately 15 feet in diameter with soft light
+성공적으로 시전하면 양초 불꽃 크기의 불꽃이 지정된 위치의 공중에 나타납니다. 자연적인 불꽃과는 달리 다음과 같은 특징이 있습니다.
+- 연료가 필요하지 않음
+- 최소한의 열을 방출 (따뜻하게 느껴질 정도, 의도적으로 향하지 않는 한 화상을 입을 정도는 아님)
+- 주문 범위 내에서 시전자의 정신적 방향에 따라 움직임
+- 시전자의 집중력에 따라 색상이 약간 변경될 수 있음 (노란색, 주황색, 빨간색)
+- 직경 약 15피트 영역을 부드러운 빛으로 비춤
 
-## Common Applications
+## 일반적인 응용
 
-- Providing light in dark environments
-- Serving as a focusing tool for meditation
-- Creating simple displays for entertainment
-- Igniting prepared materials (kindling, candles, etc.)
-- Basic training for temperature and flame control
+- 어두운 환경에서 빛 제공
+- 명상을 위한 집중 도구 역할
+- 엔터테인먼트를 위한 간단한 디스플레이 생성
+- 준비된 재료 점화 (장작, 양초 등)
+- 온도 및 화염 제어를 위한 기본 훈련
 
-## Variations
+## 변형
 
-- **Steady Flame**: A modification that reduces mobility but increases stability and duration
-- **Ember Cluster**: Creates multiple smaller flames instead of one larger one
-- **Colored Ember**: Incorporates trace elements to produce specific flame colors
-- **Silent Cast**: Removes the verbal component at the cost of increased concentration and purity (25-30%)
+- **안정된 불꽃**: 이동성을 줄이지만 안정성과 지속 시간을 늘리는 수정
+- **불씨 클러스터**: 더 큰 불꽃 하나 대신 여러 개의 작은 불꽃 생성
+- **색깔 있는 불씨**: 특정 불꽃 색상을 생성하기 위해 미량 원소 통합
+- **침묵 시전**: 집중력과 순도를 높이는 대가로 언어적 구성 요소 제거 (25-30%)
 
-## Risks and Miscast Effects
+## 위험 및 오발동 효과
 
-- **Flame Dispersal**: Loss of concentration causes the flame to harmlessly dissipate
-- **Uncontrolled Growth**: Poor pattern formation may cause the flame to briefly flare before extinguishing
-- **Color Instability**: Impure mana (below 15%) can cause the flame to fluctuate in color and intensity
-- **Premature Extinguishing**: Insufficient mana input causes the spell to fail within seconds
-- **Pattern Collapse**: Critical purity shortage (below 10%) may cause minor burns to the caster's fingertips
+- **화염 분산**: 집중력 상실로 인해 화염이 무해하게 소멸됨
+- **통제되지 않은 성장**: 잘못된 패턴 형성으로 인해 화염이 소멸되기 전에 잠시 타오를 수 있음
+- **색상 불안정**: 불순한 마나 (15% 미만)는 화염의 색상과 강도를 변동시킬 수 있음
+- **조기 소멸**: 불충분한 마나 입력으로 인해 주문이 몇 초 안에 실패함
+- **패턴 붕괴**: 심각한 순도 부족 (10% 미만)으로 인해 시전자의 손가락 끝에 경미한 화상을 입을 수 있음
 
-## Purity Influence on Effect
+## 효과에 대한 순도 영향
 
-| Purity Level | Effect Enhancement |
+| 순도 수준 | 효과 향상 |
 |--------------|---------------------|
-| 10-15% | Flame is dim and unstable, requiring constant attention |
-| 15-25% | Standard effect as described above |
-| 25-35% | Brighter flame with more precise movement control |
-| 35%+ | Multiple color options, finer control over heat output, and extended duration |
+| 10-15% | 화염이 희미하고 불안정하여 지속적인 주의가 필요함 |
+| 15-25% | 위에서 설명한 표준 효과 |
+| 25-35% | 더 밝은 화염과 더 정확한 움직임 제어 |
+| 35%+ | 여러 가지 색상 옵션, 열 출력에 대한 더 미세한 제어 및 지속 시간 연장 |
 
-## Musical Analogy
+## 음악적 비유
 
-Dancing Ember is like learning to play a single pure note and sustain it. The caster must maintain proper "pitch" (heat intensity) and "volume" (size) while learning to "bend" the note (controlling movement). Just as a beginning musician might practice a single note until it becomes second nature, novice pyromancers often practice this spell until they can cast it without conscious thought.
+춤추는 불씨는 단일 순수한 음표를 연주하고 유지하는 방법을 배우는 것과 같습니다. 시전자는 "음높이" (열 강도)와 "볼륨" (크기)을 적절하게 유지하면서 음표를 "구부리는" (움직임 제어) 방법을 배워야 합니다. 초보 음악가가 하나의 음표를 자연스러워질 때까지 연습하는 것처럼 초보 화염술사는 종종 의식적인 생각 없이 시전할 수 있을 때까지 이 주문을 연습합니다.
 
-## Learning Progression
+## 학습 진행
 
-Most students master this spell in the following stages:
-1. **Creation**: Simply manifesting the flame briefly
-2. **Sustenance**: Maintaining the flame for progressively longer periods
-3. **Movement**: Learning to direct the flame's position
-4. **Refinement**: Controlling color, size, and heat with precision
+대부분의 학생들은 다음 단계에서 이 주문을 마스터합니다.
+1. **생성**: 간단히 화염을 잠시 나타나게 함
+2. **유지**: 화염을 점진적으로 더 오래 유지함
+3. **움직임**: 화염의 위치를 ​​지시하는 방법을 배움
+4. **정제**: 색상, 크기 및 열을 정밀하게 제어함
 
-## Historical Note
+## 역사적 참고
 
-Dancing Ember was formalized as a teaching spell by the renowned pyromancer Ignis Lumina, who recognized that many apprentices were injuring themselves attempting more complex fire magic without proper foundation. She designed this spell specifically to teach control before power, a philosophy summarized in her famous quote: "Learn to dance with a single ember before you attempt to conduct a symphony of flames." 
+춤추는 불씨는 유명한 화염술사 Ignis Lumina에 의해 가르침 주문으로 공식화되었으며, 많은 견습생이 적절한 기초 없이 더 복잡한 화염 마법을 시도하여 부상을 입고 있음을 인식했습니다. 그녀는 힘보다 제어를 가르치기 위해 이 주문을 특별히 설계했으며, 그녀의 유명한 인용구 "불꽃의 교향곡을 지휘하기 전에 하나의 불씨와 춤추는 법을 배우십시오"에 요약되어 있습니다.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,93 +1,97 @@
-# College of Lore
+# 로어 칼리지
 
-> *"Knowledge is power, but stories are magic."*
+> *"지식은 힘이지만, 이야기는 마법이다."*
 
-## Overview
+## 개요
 
-The [College of Lore](/codex/Classes/Bard/Colleges/Lore.md) represents bards who focus on accumulating and leveraging knowledge from across disciplines, cultures, and magical traditions. These scholar-performers excel at collecting and utilizing information to enhance their magical versatility and problem-solving capabilities.
+[로어 칼리지](/codex/Classes/Bard/Colleges/Lore.md)는 다양한 분야, 문화, 마법 전통에서 지식을 축적하고 활용하는 데 집중하는 바드를 나타냅니다. 이 학자-연기자들은 정보를 수집하고 활용하여 마법적 다재다능함과 문제 해결 능력을 향상시키는 데 탁월합니다.
 
-## Magical Affinity Profile
+## 마법적 친화도 프로필
 
-Lore bards develop a unique affinity profile that reflects their knowledge-focused approach:
+로어 바드는 지식 중심적 접근 방식을 반영하는 고유한 친화도 프로필을 개발합니다.
 
-| Element | Primary Range | Function |
+| 요소 | 기본 범위 | 기능 |
 |---------|--------------|----------|
-| Base Mana (Knowledge) | 40-60% | Foundation for information-gathering and magical adaptation |
-| Chronimana | 25-40% | Connection to historical patterns and temporal understanding |
-| Mentimana | 20-35% | Mental processing and memory enhancement |
+| 기본 마나 (지식) | 40-60% | 정보 수집 및 마법 적응을 위한 기반 |
+| 크로니마나 | 25-40% | 역사적 패턴 및 시간적 이해와의 연결 |
+| 멘티마나 | 20-35% | 정신 처리 및 기억력 향상 |
 
-This combination allows Lore bards to access a broader range of magical traditions than other bard colleges, borrowing techniques from wizards, clerics, and other spellcasting classes.
+이러한 조합을 통해 로어 바드는 다른 바드 칼리지보다 더 넓은 범위의 마법 전통에 접근할 수 있으며, 마법사, 성직자 및 기타 주문 시전자 클래스의 기술을 빌릴 수 있습니다.
 
-## Core Abilities
+## 핵심 능력
 
-### Expanded Knowledge
-Lore bards can learn and integrate spells from any spellcasting tradition, requiring:
-- 5-10% higher mana purity than the spell's original class requirement
-- Adaptation period of 1-3 weeks per borrowed spell
-- Thorough understanding of the spell's theoretical framework
+### 확장된 지식
+로어 바드는 모든 주문 시전 전통에서 주문을 배우고 통합할 수 있으며, 다음이 필요합니다.
+- 주문의 원래 클래스 요구 사항보다 5-10% 더 높은 마나 순도
+- 빌린 주문 당 1-3주의 적응 기간
+- 주문의 이론적 프레임워크에 대한 철저한 이해
 
-Advanced practitioners can maintain 3-7 borrowed spells simultaneously, depending on their mana capacity and purification abilities.
+고급 실무자는 마나 용량 및 정화 능력에 따라 3-7개의 빌린 주문을 동시에 유지할 수 있습니다.
 
-### Cutting Words
-By weaving critiques into their performances, Lore bards can:
-- Create counterharmonic vibrations that interfere with an opponent's actions
-- Require 30-45% mana purity for effective application
-- Maintain effect for 2-5 seconds per application
-- Produce penalties proportional to the bard's performance skill
+### 끊는 말
+공연에 비판을 엮어 로어 바드는 다음을 수행할 수 있습니다.
+- 상대방의 행동을 방해하는 반조화 진동을 생성합니다.
+- 효과적인 적용을 위해 30-45%의 마나 순도가 필요합니다.
+- 적용 당 2-5초 동안 효과를 유지합니다.
+- 바드의 공연 기술에 비례하여 불이익을 생성합니다.
 
-This ability operates by creating magical dissonance that temporarily disrupts an opponent's natural magical field.
+이 능력은 상대방의 자연스러운 마법 필드를 일시적으로 방해하는 마법적 불협화음을 생성하여 작동합니다.
 
-### Peerless Skill
-Through perfect execution of learned techniques, Lore bards can:
-- Magnify their proficiency in specific areas through harmonic resonance
-- Require 35-50% mana purity for optimal results
-- Apply enhancement to any trained skill or ability
-- Draw on collective knowledge stored in their expanded repertoire
+### 비길 데 없는 기술
+학습된 기술의 완벽한 실행을 통해 로어 바드는 다음을 수행할 수 있습니다.
+- 조화 공명을 통해 특정 영역에서의 숙련도를 확대합니다.
+- 최적의 결과를 위해 35-50%의 마나 순도가 필요합니다.
+- 훈련된 기술 또는 능력에 향상을 적용합니다.
+- 확장된 레퍼토리에 저장된 집단적 지식을 활용합니다.
 
-This represents the culmination of collected techniques applied with masterful precision.
+이는 숙달된 정밀도로 적용된 수집된 기술의 절정을 나타냅니다.
 
-## Training and Development
+## 훈련 및 개발
 
-Lore bards progress through a unique educational pathway:
+로어 바드는 독특한 교육 경로를 통해 발전합니다.
 
-| Stage | Focus | Typical Duration | Achievements |
+| 단계 | 집중 | 일반적인 기간 | 업적 |
 |-------|-------|------------------|--------------|
-| **Collector** | Gathering diverse knowledge | 1-3 years | Basic repertoire expansion, 20-30% mana purity |
-| **Chronicler** | Organizing and applying knowledge | 3-7 years | Cutting Words technique, 30-45% mana purity |
-| **Sage** | Synthesizing knowledge across traditions | 7-15 years | Advanced borrowing, 45-60% mana purity |
-| **Lorekeeper** | Creating new connections between traditions | 15+ years | Peerless Skill mastery, 60-75% mana purity |
+| **수집가** | 다양한 지식 수집 | 1-3년 | 기본 레퍼토리 확장, 20-30% 마나 순도 |
+| **연대기 작가** | 지식 구성 및 적용 | 3-7년 | 끊는 말 기술, 30-45% 마나 순도 |
+| **현자** | 전통 간 지식 종합 | 7-15년 | 고급 차용, 45-60% 마나 순도 |
+| **지식 보관자** | 전통 간 새로운 연결 생성 | 15+년 | 비길 데 없는 기술 숙달, 60-75% 마나 순도 |
 
-Advanced training often involves extensive travel, collection of rare texts, and apprenticeship under masters from various magical disciplines.
+고급 훈련에는 종종 광범위한 여행, 희귀한 텍스트 수집, 다양한 마법 분야의 거장 밑에서의 견습이 포함됩니다.
 
-## Musical Expression
+## 음악적 표현
 
-Lore bards typically favor complex, layered compositions that incorporate elements from multiple cultural traditions:
+로어 바드는 일반적으로 여러 문화적 전통의 요소를 통합하는 복잡하고 계층화된 작곡을 선호합니다.
 
-- **Preferred Instruments**: String instruments with extensive range (harps, lutes with additional strings), instruments that can produce multiple tones simultaneously
-- **Performance Style**: Often includes spoken narration interwoven with musical passages, creating a tapestry of sound and story
-- **Magical Resonance**: Performances create mathematical harmonics that mimic the structural patterns of different magical traditions
+- **선호하는 악기**: 광범위한 음역을 가진 현악기 (하프, 추가 현이 있는 류트), 여러 음색을 동시에 생성할 수 있는 악기
+- **공연 스타일**: 종종 음악 구절과 얽힌 구두 내레이션을 포함하여 소리와 이야기의 태피스트리를 만듭니다.
+- **마법 공명**: 공연은 다양한 마법 전통의 구조적 패턴을 모방하는 수학적 고조파를 생성합니다.
 
-Their performances often incorporate subtle variations that only other scholars would recognize as references to obscure magical theories or historical events.
+그들의 공연은 종종 다른 학자들만이 모호한 마법 이론 또는 역사적 사건에 대한 참조로 인식할 수 있는 미묘한 변형을 통합합니다.
 
-## Notable Practitioners
+## 주목할만한 실무자
 
-- **Eldrin Whisperbrook** - Compiled the "Compendium of Forgotten Cantrips," preserving over 300 minor spells from extinct traditions
-- **Lyra Goldenharp** - First developed the harmonic theory that allows Lore bards to borrow spells across traditions
-- **The Seven Sages** - A collective of Lore bards who maintain the largest oral archive of pre-Cataclysm magical knowledge
-- **Master Thalion** - Created the "Symphony of the Spheres," a performance technique that allows simultaneous casting of complementary spells
-- **Aria Truthsong** - Pioneered techniques for using bardic performance to detect magical falsehoods and illusions
+- **엘드린 위스퍼브룩** - 멸종된 전통에서 300개 이상의 작은 주문을 보존하여 "잊혀진 주문의 개요"를 편집했습니다.
+- **리라 골든하프** - 로어 바드가 전통 간 주문을 차용할 수 있도록 하는 조화 이론을 처음 개발했습니다.
+- **세븐 세이지** - 대재앙 이전의 마법 지식에 대한 가장 큰 구두 기록 보관소를 유지하는 로어 바드 집단입니다.
+- **마스터 탈리온** - 상호 보완적인 주문을 동시에 시전할 수 있는 공연 기술인 "구체 교향곡"을 만들었습니다.
+- **아리아 트루송** - 마법적 허위와 환상을 탐지하기 위해 바드 공연을 사용하는 기술을 개척했습니다.
 
-## Cultural Significance
+## 문화적 중요성
 
-Lore bards serve vital roles in many societies:
-- **Historians** preserving knowledge that might otherwise be lost
-- **Teachers** transmitting complex magical theories in accessible forms
-- **Cultural ambassadors** who can bridge different magical traditions
-- **Problem-solvers** with unique perspectives drawn from diverse knowledge
-- **Archivists** who maintain records of magical breakthroughs and historical events
+로어 바드는 많은 사회에서 중요한 역할을 수행합니다.
+- 그렇지 않으면 잃어버릴 수 있는 지식을 보존하는 **역사가**
+- 복잡한 마법 이론을 접근 가능한 형태로 전달하는 **교사**
+- 서로 다른 마법 전통을 연결할 수 있는 **문화 대사**
+- 다양한 지식에서 얻은 독특한 관점을 가진 **문제 해결사**
+- 마법적 혁신과 역사적 사건에 대한 기록을 유지하는 **기록 보관인**
 
-Their multidisciplinary approach makes them valuable advisors to rulers, magical institutions, and adventuring parties alike.
+그들의 학제간 접근 방식은 그들을 통치자, 마법 기관, 모험 파티 모두에게 귀중한 조언자로 만듭니다.
 
 ---
 
-*"Truth becomes most powerful when woven into song. Facts inform, but stories transform."* - Lyra Goldenharp, Archlorekeeper of the Celestial College 
+*"진실은 노래로 짜여질 때 가장 강력해진다. 사실은 정보를 제공하지만, 이야기는 변화시킨다."* - 리라 골든하프, 천상의 칼리지 아치로어키퍼
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

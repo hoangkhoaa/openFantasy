@@ -1,233 +1,237 @@
-# **Weapon Control**
+# **무기 제어**
 
-> *"The unbound blade dances at your command, not bound by the limitations of flesh, but guided by the precision of will."*  
-> — Swordmaster Arlan Vostel, Founder of the Orbiting Blade Technique
+> *"속박되지 않은 칼날은 육체의 한계에 얽매이지 않고 의지의 정밀함에 따라 움직입니다."*
+> — 궤도 칼날 기법의 창시자, 검성 아를란 보스텔
 
-## Casting Information
-- **Difficulty**: Intermediate to Expert
-- **Casting Time**: 1-3 seconds (initial control), instantaneous (subsequent directions)
-- **Duration**: Concentration, up to 1 minute
-- **Range**: 30 feet (standard), up to 60 feet (mastery)
-- **Components**: Somatic, Focus (weapon or projectile)
+## 시전 정보
+- **난이도**: 중급 ~ 숙련
+- **시전 시간**: 1-3초 (초기 제어), 즉시 (이후 방향 전환)
+- **지속 시간**: 집중, 최대 1분
+- **범위**: 30피트 (표준), 최대 60피트 (달인)
+- **구성 요소**: 신체, 집중 (무기 또는 투사체)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 75%, Aeromana 15%, Terramana 10%
-- **Primary Factor**: Technical Mastery and Training (more significant than purity)
-- **Minimum Mana Capacity**: 20% (Higher capacity allows controlling heavier/more objects)
-- **Pattern Complexity**: Moderate (4-tier control matrix with targeting subpattern)
-- **Resonance Frequency**: Mid-range physical spectrum with harmonic oscillation
-- **Roaming Mana Utilization**: High (Typically operates at sustainable regeneration limits)
+## 기술 상세 정보
+- **마나 유형 분포**: 기본 마나 75%, 에어로마나 15%, 테라마나 10%
+- **주요 요인**: 기술 숙련도 및 훈련 (순도보다 중요)
+- **최소 마나 용량**: 20% (용량이 높을수록 더 무겁거나 더 많은 물체를 제어할 수 있음)
+- **패턴 복잡성**: 중간 (타겟팅 하위 패턴이 있는 4단계 제어 매트릭스)
+- **공명 주파수**: 고조파 진동을 갖는 중대역 물리 스펙트럼
+- **방랑 마나 활용**: 높음 (일반적으로 지속 가능한 재생 한계에서 작동)
 
-## Core Principles
+## 핵심 원리
 
-Weapon Control enables the magical manipulation of weapons, projectiles, or other combat implements without physical contact. The spell creates a resonant connection between the caster's mana and the target objects, allowing for precise control of movement, trajectory, and impact force.
+무기 제어는 물리적 접촉 없이 무기, 투사체 또는 기타 전투 도구를 마법으로 조작할 수 있게 합니다. 이 주문은 시전자의 마나와 대상 물체 사이에 공명 연결을 생성하여 이동, 궤적 및 충격력을 정밀하게 제어할 수 있도록 합니다.
 
-Unlike simpler force vector spells, Weapon Control maintains a persistent connection that permits ongoing manipulation and direction changes. The core pattern establishes:
+더 간단한 힘 벡터 주문과 달리 무기 제어는 지속적인 조작 및 방향 변경을 허용하는 지속적인 연결을 유지합니다. 핵심 패턴은 다음을 확립합니다.
 
-1. **Connection Tether**: The resonant link between caster and weapon
-2. **Momentum Matrix**: The control system for speed and directional change
-3. **Balance Stabilizer**: The component maintaining weapon orientation
-4. **Target Acquisition**: The optional component enabling guided strikes
-5. **Force Amplifier**: The energy transfer mechanism for impact
+1. **연결 테더**: 시전자와 무기 사이의 공명 링크
+2. **운동량 매트릭스**: 속도 및 방향 변화를 위한 제어 시스템
+3. **균형 안정 장치**: 무기 방향을 유지하는 구성 요소
+4. **대상 획득**: 유도 공격을 가능하게 하는 선택적 구성 요소
+5. **힘 증폭기**: 충격을 위한 에너지 전달 메커니즘
 
-While many combat spells require high purity levels, Weapon Control is distinct in its emphasis on technical proficiency over raw mana quality. Masters of this art often possess only moderate purity levels but have developed exceptional precision in their technique through thousands of hours of disciplined practice.
+많은 전투 주문이 높은 순도 수준을 요구하지만, 무기 제어는 원시 마나 품질보다 기술 숙련도를 강조한다는 점에서 구별됩니다. 이 기술의 달인은 종종 중간 정도의 순도 수준만 가지고 있지만 수천 시간의 규율 있는 연습을 통해 기술에서 뛰어난 정밀도를 개발했습니다.
 
-## Standard Variants
+## 표준 변형
 
-### Single Weapon Control
-The foundational application for manipulating one weapon:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Complete control over one weapon's movement
-- **Typical Users**: Duelists, Battle Mages, Elite Warriors
-- **Applications**: Extended attack range, surprise angles, reaching inaccessible targets
+### 단일 무기 제어
+하나의 무기를 조작하기 위한 기본 응용 프로그램:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (30-40%)
+- **효과**: 하나의 무기의 움직임을 완전 제어
+- **일반적인 사용자**: 결투사, 전투 마법사, 엘리트 전사
+- **응용**: 확장된 공격 범위, 예상치 못한 각도, 접근 불가능한 목표물 도달
 
-### Projectile Guidance
-Influences the flight path of thrown weapons or arrows:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Adjusts trajectory of projectiles after release
-- **Typical Users**: Rangers, Scouts, Specialist Archers
-- **Applications**: Curving shots around obstacles, extending effective range, compensating for wind
+### 투사체 유도
+투척 무기 또는 화살의 비행 경로에 영향을 줍니다.
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (35-45%)
+- **효과**: 발사 후 투사체의 궤적 조정
+- **일반적인 사용자**: 레인저, 스카우트, 전문 궁수
+- **응용**: 장애물 주위를 휘어 날리는 사격, 유효 범위 확장, 바람 보정
 
-### Weapon Retrieval
-Specialized variant focused on returning weapons to the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Pulls a weapon back to the caster's hand
-- **Typical Users**: Weapon Specialists, Close Combat Fighters
-- **Applications**: Recovering thrown weapons, disarm countering, tactical repositioning
+### 무기 회수
+무기를 시전자에게 돌려주는 데 중점을 둔 특수 변형:
+- **난이도**: 중급
+- **순도 요구 사항**: 정제 (30-40%)
+- **효과**: 무기를 시전자의 손으로 당겨옴
+- **일반적인 사용자**: 무기 전문가, 근접 전투가
+- **응용**: 던진 무기 회수, 무장 해제 대응, 전술적 재배치
 
-## Advanced Variants
+## 고급 변형
 
-### Multiple Weapon Orchestra
-Controls several weapons simultaneously:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Manipulates 2-5 weapons independently
-- **Typical Users**: Blade Dancers, Master Battle Mages
-- **Applications**: Multi-directional attacks, defensive screens, coordinated patterns
+### 다중 무기 오케스트라
+여러 무기를 동시에 제어합니다.
+- **난이도**: 숙련
+- **순도 요구 사항**: 완벽 (60-70%)
+- **효과**: 2-5개의 무기를 독립적으로 조작
+- **일반적인 사용자**: 블레이드 댄서, 마스터 배틀 메이지
+- **응용**: 다방향 공격, 방어막, 조율된 패턴
 
-### Precision Strike
-Enhances accuracy and penetrating power:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Guides weapons with surgical precision to vulnerable points
-- **Typical Users**: Assassins, Elite Rangers, Precision Specialists
-- **Applications**: Targeting weak points in armor, striking vital areas, threading narrow gaps
+### 정밀 타격
+정확성과 관통력을 향상시킵니다.
+- **난이도**: 숙련
+- **순도 요구 사항**: 완벽 (65-75%)
+- **효과**: 수술적 정밀도로 무기를 취약한 지점으로 유도
+- **일반적인 사용자**: 암살자, 엘리트 레인저, 정밀 전문가
+- **응용**: 갑옷의 약점 타겟팅, 생명 유지 영역 공격, 좁은 간격 통과
 
-### Combat Swarm
-Controls numerous small projectiles as a coordinated group:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-80%)
-- **Effect**: Manipulates 10-30 small objects (darts, needles, shards)
-- **Typical Users**: Specialized Mages, Elite Assassins
-- **Applications**: Area denial, multiple target engagement, distraction tactics
+### 전투 군집
+수많은 작은 투사체를 조율된 그룹으로 제어합니다.
+- **난이도**: 달인
+- **순도 요구 사항**: 완벽 (70-80%)
+- **효과**: 10-30개의 작은 물체 (다트, 바늘, 파편)를 조작
+- **일반적인 사용자**: 전문 마법사, 엘리트 암살자
+- **응용**: 영역 거부, 다중 대상 교전, 주의 분산 전술
 
-## Technique Influence on Effect
+## 효과에 대한 기술의 영향
 
-Unlike many complex spells, Weapon Control effectiveness is determined more by training and technique than by mana purity:
+많은 복잡한 주문과 달리 무기 제어 효과는 마나 순도보다 훈련과 기술에 의해 더 많이 결정됩니다.
 
-| Training Level | Control Precision | Maximum Weight | Sustainability |
+| 훈련 수준 | 제어 정확도 | 최대 무게 | 지속 가능성 |
 |----------------|-------------------|----------------|----------------|
-| Novice | Basic directional control, simple movements | Single light weapon (up to 3 lbs) | High energy cost, brief duration |
-| Intermediate | Smooth trajectories, controlled speed | Medium weapons (up to 8 lbs) | Moderate efficiency, operates within regeneration |
-| Advanced | Complex maneuvers, accurate targeting | Heavy weapons (up to 15 lbs) | Efficient use, sustainable for combat duration |
-| Master | Intricate patterns, perfect balance, combat integration | Multiple weapons or very heavy implements (20+ lbs) | Optimized for regeneration equilibrium |
+| 초심자 | 기본 방향 제어, 간단한 움직임 | 단일 경량 무기 (최대 3lbs) | 높은 에너지 비용, 짧은 지속 시간 |
+| 중급 | 부드러운 궤적, 제어된 속도 | 중간 무기 (최대 8lbs) | 적당한 효율성, 재생 내에서 작동 |
+| 고급 | 복잡한 기동, 정확한 타겟팅 | 무거운 무기 (최대 15lbs) | 효율적인 사용, 전투 지속 시간 동안 지속 가능 |
+| 달인 | 복잡한 패턴, 완벽한 균형, 전투 통합 | 여러 무기 또는 매우 무거운 도구 (20+ lbs) | 재생 평형에 최적화됨 |
 
-Practitioners train to utilize ambient roaming mana to supplement their personal reserves, allowing them to maintain control for extended periods. The most skilled users establish an energy equilibrium where they expend only as much mana as they naturally regenerate, creating theoretically indefinite control periods.
+실무자는 주변 방랑 마나를 활용하여 개인 보유량을 보충하여 장기간 제어를 유지할 수 있도록 훈련합니다. 가장 숙련된 사용자는 자연적으로 재생하는 만큼의 마나만 소비하는 에너지 평형을 확립하여 이론적으로 무기한 제어 기간을 만듭니다.
 
-## Mana Capacity and Object Relationship
+## 마나 용량과 객체 관계
 
-The primary limiting factor in Weapon Control is the relationship between mana capacity and controlled object mass:
+무기 제어의 주요 제한 요소는 마나 용량과 제어된 객체 질량 간의 관계입니다.
 
-| Mana Capacity | Maximum Sustainable Weight | Number of Objects | Duration at Maximum Load |
+| 마나 용량 | 최대 지속 가능 무게 | 개체 수 | 최대 부하 시 지속 시간 |
 |---------------|----------------------------|-------------------|--------------------------|
-| 20-30% | Up to 10 pounds total | 1-2 objects | Combat duration (sustainable) |
-| 31-45% | Up to 25 pounds total | 2-3 objects | Combat duration (sustainable) |
-| 46-60% | Up to 50 pounds total | 3-5 objects | Limited combat (approaching regeneration limit) |
-| 61-75% | Up to 100 pounds total | 5-8 objects | Brief periods (exceeds regeneration) |
-| 76%+ | 100+ pounds total | 8+ objects | Tactical moments only (rapidly depletes reserves) |
+| 20-30% | 총 10파운드까지 | 1-2개체 | 전투 지속 시간 (지속 가능) |
+| 31-45% | 총 25파운드까지 | 2-3개체 | 전투 지속 시간 (지속 가능) |
+| 46-60% | 총 50파운드까지 | 3-5개체 | 제한된 전투 (재생 한계에 접근) |
+| 61-75% | 총 100파운드까지 | 5-8개체 | 짧은 기간 (재생 초과) |
+| 76%+ | 총 100+파운드 | 8+개체 | 전술적 순간만 (보유량 급격히 고갈) |
 
-Experienced practitioners typically operate at 70-85% of their maximum capacity to maintain combat effectiveness while ensuring sustainable mana expenditure.
+경험이 풍부한 실무자는 일반적으로 최대 용량의 70-85%에서 작동하여 지속 가능한 마나 소비를 보장하면서 전투 효율성을 유지합니다.
 
-## Class-Specific Applications
+## 클래스별 응용
 
-### Warrior Class
-- **Orbital Shield**: Circling weapon providing mobile defense
-- **Extended Reach**: Attacking beyond normal melee range
-- **Flanking Strike**: Attacking from unexpected angles
-- **Weapon Swap**: Quickly exchanging wielded and controlled weapons
+### 전사 클래스
+- **궤도 방패**: 이동식 방어를 제공하는 회전 무기
+- **확장된 범위**: 일반적인 근접 공격 범위를 넘어 공격
+- **측면 공격**: 예상치 못한 각도에서 공격
+- **무기 교환**: 휘두르는 무기와 제어된 무기를 빠르게 교환
 
-### Rogue/Assassin Class
-- **Silent Strike**: Weapon attacks without revealing caster position
-- **Needle Storm**: Controlling multiple poisoned projectiles
-- **Distraction Array**: Creating diversions with controlled objects
-- **Lock Manipulation**: Controlling lockpicks or small tools remotely
+### 도적/암살자 클래스
+- **조용한 타격**: 시전자의 위치를 밝히지 않고 무기 공격
+- **바늘 폭풍**: 여러 개의 독이 든 투사체 제어
+- **주의 분산 배열**: 제어된 물체로 주의를 분산
+- **잠금 장치 조작**: 원격으로 잠금 장치 따개 또는 작은 도구 제어
 
-### Ranger Class
-- **Arrow Guidance**: Steering arrows around obstacles after firing
-- **Multi-Shot Control**: Guiding several arrows to different targets
-- **Retrieval Hunt**: Recovering valuable or special arrows
-- **Signal Arrows**: Complex flight paths for communication signals
+### 레인저 클래스
+- **화살 유도**: 발사 후 장애물 주위로 화살을 조종
+- **다중 사격 제어**: 여러 화살을 다른 대상으로 유도
+- **회수 사냥**: 귀중하거나 특별한 화살 회수
+- **신호 화살**: 통신 신호를 위한 복잡한 비행 경로
 
-### Mage Class
-- **Arcane Defender**: Orbiting weapon while casting other spells
-- **Focus Control**: Manipulating magical implements without physical touch
-- **Material Manipulation**: Precise control of ritual components
-- **Spell Conduit**: Using controlled weapons as delivery systems for touch spells
+### 마법사 클래스
+- **신비한 수호자**: 다른 주문을 시전하는 동안 무기 회전
+- **집중 제어**: 물리적 접촉 없이 마법 도구 조작
+- **재료 조작**: 의식 구성 요소의 정밀한 제어
+- **주문 도관**: 제어된 무기를 터치 주문 전달 시스템으로 사용
 
-## Training Progression
+## 훈련 진행
 
-### Fundamental Control
-- Connection establishment exercises
-- Basic directional control drills
-- Weight and balance adaptation
-- Simple patterns and movements
+### 기본 제어
+- 연결 설정 연습
+- 기본 방향 제어 훈련
+- 무게 및 균형 적응
+- 간단한 패턴 및 움직임
 
-### Intermediate Mastery
-- Sustained control during caster movement
-- Precise targeting and impact control
-- Transitioning between different movement patterns
-- Multi-object awareness development
-- Roaming mana harvesting techniques
+### 중급 숙달
+- 시전자 이동 중 지속적인 제어
+- 정확한 타겟팅 및 충격 제어
+- 다른 움직임 패턴 간 전환
+- 다중 객체 인식 개발
+- 방랑 마나 수집 기술
 
-### Advanced Techniques
-- Independent object movement coordination
-- Combat integration with physical attacks
-- Environmental interaction and obstacle navigation
-- Specialized applications for different weapon types
-- Regeneration-synchronized control rhythms
+### 고급 기술
+- 독립적인 객체 움직임 조정
+- 물리적 공격과의 전투 통합
+- 환경 상호 작용 및 장애물 탐색
+- 다양한 무기 유형에 대한 특수 응용 프로그램
+- 재생 동기화 제어 리듬
 
-### Master Level Training
-- Combat flow state achievement
-- Mana efficiency optimization
-- Weight-to-distance ratio mastery
-- Simultaneous ranged and melee control
-- Defensive and offensive pattern integration
+### 달인 수준 훈련
+- 전투 흐름 상태 달성
+- 마나 효율성 최적화
+- 무게-거리 비율 숙달
+- 동시 원거리 및 근접 제어
+- 방어 및 공격 패턴 통합
 
-## Technical Considerations
+## 기술적 고려 사항
 
-- **Regeneration Synchronization**: Techniques to match mana expenditure with natural recovery rate
-- **Ambient Mana Harvesting**: Methods to supplement personal reserves with environmental energy
-- **Connection Efficiency**: Minimizing energy loss in the control tether
-- **Weight Distribution Analysis**: Understanding how a weapon's balance affects control requirements
-- **Pattern Streamlining**: Eliminating unnecessary complexity in control matrices
-- **Energy Circuit Optimization**: Creating closed loops that recycle portions of expended mana
+- **재생 동기화**: 마나 소비를 자연 회복 속도와 일치시키는 기술
+- **주변 마나 수집**: 환경 에너지로 개인 보유량을 보충하는 방법
+- **연결 효율성**: 제어 테더의 에너지 손실 최소화
+- **무게 분포 분석**: 무기의 균형이 제어 요구 사항에 미치는 영향 이해
+- **패턴 간소화**: 제어 매트릭스의 불필요한 복잡성 제거
+- **에너지 회로 최적화**: 소비된 마나의 일부를 재활용하는 폐쇄 루프 생성
 
-## Risk Factors
+## 위험 요소
 
-### Common Mishaps
-- **Control Inversion**: Weapon movement opposite to intended direction
-- **Oscillation Cascade**: Uncontrollable wobbling or vibration
-- **Tether Snap**: Sudden loss of connection during crucial moments
-- **Rebound Effect**: Weapon unexpectedly returning toward caster
-- **Pattern Interference**: Multiple controlled objects colliding
+### 일반적인 사고
+- **제어 반전**: 의도한 방향과 반대 방향으로 무기 움직임
+- **진동 캐스케이드**: 통제할 수 없는 흔들림 또는 진동
+- **테더 끊김**: 중요한 순간에 연결이 갑자기 끊김
+- **반동 효과**: 무기가 예기치 않게 시전자에게 되돌아옴
+- **패턴 간섭**: 여러 제어 객체가 충돌
 
-### Safety Practices
-- Training with blunted or weighted practice weapons
-- Establishing emergency release protocol
-- Practicing in spaces with adequate clearance
-- Developing muscle memory for standard movement patterns
-- Regular connection refresh during extended control periods
+### 안전 수칙
+- 무딘 또는 무게가 있는 연습용 무기로 훈련
+- 비상 릴리스 프로토콜 설정
+- 적절한 간격이 있는 공간에서 연습
+- 표준 움직임 패턴에 대한 근육 기억 개발
+- 확장된 제어 기간 동안 정기적인 연결 새로 고침
 
-## Specific Weapon Considerations
+## 특정 무기 고려 사항
 
-### Bladed Weapons
-Offer excellent control characteristics due to balance and aerodynamics:
-- **Daggers**: Highest precision, ideal for beginners
-- **Swords**: Good balance of reach and maneuverability
-- **Axes**: Require special attention to rotational momentum
-- **Polearms**: Excellent reach but challenging rotational control
+### 날붙이 무기
+균형 및 공기 역학으로 인해 우수한 제어 특성을 제공합니다.
+- **단검**: 최고의 정밀도, 초보자에게 이상적
+- **검**: 사거리와 기동성의 균형이 좋습니다.
+- **도끼**: 회전 운동량에 특별한 주의가 필요합니다.
+- **장병기**: 사거리가 뛰어나지만 회전 제어가 어렵습니다.
 
-### Projectile Weapons
-Particularly suited for guidance rather than full control:
-- **Arrows**: Respond well to minor course corrections
-- **Throwing Knives**: Balance makes them ideal for controlled returns
-- **Darts/Needles**: Perfect for swarm techniques but limited individual impact
-- **Javelins**: Excellent distance but require higher purity for effective guidance
+### 투사 무기
+완전한 제어보다는 유도에 특히 적합합니다.
+- **화살**: 약간의 코스 수정에 잘 반응합니다.
+- **던지기 칼**: 균형 덕분에 제어된 반환에 이상적입니다.
+- **다트/바늘**: 군집 기술에 적합하지만 개별 충격은 제한적입니다.
+- **창**: 거리가 뛰어나지만 효과적인 유도를 위해서는 더 높은 순도가 필요합니다.
 
-### Specialty Applications
-Unusual but effective implementations:
-- **Chain Weapons**: Complex but devastating when mastered
-- **Shrapnel Control**: Directing fragments after explosive impacts
-- **Dust/Powder**: Fine control creates blinding or poisonous clouds
-- **Liquid Projectiles**: Advanced technique for controlling thrown potions or alchemical substances
+### 특수 응용
+특이하지만 효과적인 구현:
+- **사슬 무기**: 복잡하지만 숙달되면 파괴적입니다.
+- **파편 제어**: 폭발적인 충격 후 파편을 지시
+- **먼지/가루**: 미세한 제어로 눈을 멀게 하거나 독성이 있는 구름 생성
+- **액체 투사체**: 던진 물약 또는 연금술 물질을 제어하는 고급 기술
 
-## Historical Development
+## 역사적 발전
 
-Weapon Control magic emerged during the early Third Age from martial traditions seeking to extend combat capabilities. The Vostel Academy of Kinetic Arts formalized the first comprehensive curriculum, but the spell's true potential was realized during the Mage Wars when resource limitations forced innovative applications of simple spells.
+무기 제어 마법은 전투 능력을 확장하려는 무술 전통에서 초기 제3시대에 등장했습니다. 보스텔 운동 예술 아카데미는 최초의 포괄적인 커리큘럼을 공식화했지만, 주문의 진정한 잠재력은 자원 제한으로 인해 간단한 주문의 혁신적인 응용이 강요되었던 마법사 전쟁 중에 실현되었습니다.
 
-What differentiated Weapon Control from other combat magics was its focus on applied technique rather than theoretical mastery. Warriors with only basic magical talent could achieve remarkable results through disciplined practice, establishing it as the premier combat system for those who lacked the capacity or inclination for high-purity spellcasting. This accessibility revolutionized battlefield tactics by providing enhanced capabilities to fighters rather than limiting advanced magical combat to dedicated mages.
+무기 제어가 다른 전투 마법과 차별화된 점은 이론적 숙달보다는 응용 기술에 초점을 맞춘 것입니다. 기본적인 마법 재능만 가진 전사도 규율 있는 연습을 통해 놀라운 결과를 얻을 수 있었으며, 이는 고순도 주문 시전 능력이나 의향이 없는 사람들을 위한 최고의 전투 시스템으로 자리 잡았습니다. 이러한 접근성은 고급 마법 전투를 전담 마법사에게만 제한하는 대신 전투기에게 향상된 기능을 제공함으로써 전장 전술에 혁명을 일으켰습니다.
 
-> *"Purity is a scholar's concern. In the crucible of battle, it is technique that divides the living from the dead. I have seen novices with perfect mana fail where veterans with practiced hands prevail."* — From "The Floating Edge," Arlan Vostel's training manual
+> *"순도는 학자의 관심사입니다. 전투의 도가니에서는 기술이 살아있는 자와 죽은 자를 가릅니다. 나는 완벽한 마나를 가진 초보자가 숙련된 손으로 승리하는 베테랑에게 실패하는 것을 보았습니다."* — 아를란 보스텔의 훈련 매뉴얼 "떠 다니는 칼날"에서
 
-## Practical Notes
+## 실용적인 메모
 
-Weapon Control is particularly synergistic with weapons specially designed or enchanted for magical manipulation. Such weapons often feature balanced construction, resonant materials, or specific enchantments that reduce the mana cost of control.
+무기 제어는 마법 조작을 위해 특별히 설계되거나 마법이 부여된 무기와 특히 시너지 효과를 냅니다. 이러한 무기는 종종 균형 잡힌 구조, 공명 물질 또는 제어의 마나 비용을 줄이는 특정 마법 부여를 특징으로 합니다.
 
-Many practitioners develop personalized movement patterns or "forms" that their controlled weapons follow, allowing for rapid deployment of complex maneuvers with minimal additional concentration once the base pattern is established.
+많은 실무자는 제어된 무기가 따르는 개인화된 움직임 패턴 또는 "형태"를 개발하여 기본 패턴이 설정되면 최소한의 추가 집중으로 복잡한 기동을 빠르게 배치할 수 있습니다.
 
 ---
 
-*See also: [Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Combat Magic Fundamentals](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [Telekinetic Applications](/codex/Magics/Spells/Utility/TelekineticApplications.md)* 
+*참조: [힘 벡터](/codex/Magics/Spells/Utility/ForceVector.md), [전투 마법 기초](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [텔레키네시스 응용](/codex/Magics/Spells/Utility/TelekineticApplications.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

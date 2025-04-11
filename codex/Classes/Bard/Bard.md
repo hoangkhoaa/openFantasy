@@ -1,118 +1,122 @@
-# **Bard**: Virtuosos of Magical Harmony
+# **Bard**: 마법적 조화의 거장
 
-[**Bards**](/codex/Classes/Bard/Bard.md) are versatile spellcasters who channel arcane energy through artistic expression, primarily music. They weave magic into their performances, creating effects that inspire allies, manipulate emotions, and harm enemies through the resonance between artistic expression and the fundamental harmonies of reality.
+[**Bard**](/codex/Classes/Bard/Bard.md)는 주로 음악을 통해 예술적 표현으로 신비로운 에너지를 전달하는 다재다능한 주문 시전자입니다. 그들은 예술적 표현과 현실의 기본적인 조화 사이의 공명을 통해 아군에게 영감을 주고, 감정을 조작하며, 적에게 해를 끼치는 효과를 만들어내며, 마법을 그들의 공연에 짜 넣습니다.
 
-## Elemental Composition
+## 원소 구성
 
-The typical elemental ratio for **bards** reflects their artistic approach to magic:
+**바드**의 일반적인 원소 비율은 마법에 대한 그들의 예술적 접근 방식을 반영합니다.
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 20-35% | Physical vessel trained in artistic techniques and precise performance |
-| **Soul** | 35-55% | Emotional framework capable of authentic expression and magical resonance |
-| **Mana Capacity** | 20-40% | Naturally flowing mana reserves with intuitive harmonic control |
+| **엑산티스 (Exanthis)** | 20-35% | 예술적 기법과 정확한 공연으로 훈련된 물리적 그릇 |
+| **영혼 (Soul)** | 35-55% | 진정한 표현과 마법적 공명이 가능한 감정적 틀 |
+| **마나 용량 (Mana Capacity)** | 20-40% | 직관적인 조화 제어 기능이 있는 자연스럽게 흐르는 마나 저장량 |
 
-This composition distinguishes **bards** from other spellcasters through their emphasis on emotional resonance over academic understanding. Bards develop specialized neural pathways that connect artistic expression directly to magical manipulation, creating a unique system that translates performance into magical effects. Their physical forms are trained to execute precise artistic techniques while simultaneously channeling magical energies.
+이 구성은 학문적 이해보다 감정적 공명을 강조함으로써 다른 주문 시전자와 **바드**를 구별합니다. 바드는 예술적 표현을 마법적 조작과 직접 연결하는 전문적인 신경 경로를 개발하여 공연을 마법적 효과로 변환하는 고유한 시스템을 만듭니다. 그들의 물리적 형태는 마법 에너지를 동시에 전달하면서 정확한 예술적 기법을 실행하도록 훈련됩니다.
 
-### Magical Affinity Profile
+### 마법적 친화력 프로필
 
-Bards develop specific affinities based on their college of specialization:
+바드는 전문 대학에 따라 특정 친화력을 개발합니다.
 
-| College | Primary Affinities | Secondary Affinities | Typical Application |
+| 대학 | 주요 친화력 | 이차 친화력 | 일반적인 응용 |
 |--------------|-------------------|---------------------|---------------------|
-| **Eloquence** | Mentimana | Base Mana (Influence) | Persuasion, social manipulation, linguistic mastery |
-| **Glamour** | Base Mana (Sensory) | Mentimana | Fascination, enchantment, illusory beauty |
-| **Lore** | Base Mana (Knowledge) | Chronimana | Information gathering, spell versatility, secrets |
-| **Spirits** | Spiritumana | Base Mana (Connection) | Spirit communication, supernatural insight |
-| **Swords** | Base Mana (Enhancement) | Elemental (varies) | Combat prowess, weapon infusion, battle magic |
-| **Valor** | Base Mana (Inspiration) | Vitomana | Combat support, protective inspiration, courage |
-| **Whispers** | Mentimana | Shadow Mana | Fear manipulation, secret extraction, psychic attacks |
-| **Creation** | Base Mana (Manifestation) | Elemental (varies) | Materializing art, performance enhancing, creative magic |
+| **웅변 (Eloquence)** | 멘티마나 (Mentimana) | 기본 마나 (영향) | 설득, 사회적 조작, 언어 숙달 |
+| **매혹 (Glamour)** | 기본 마나 (감각) | 멘티마나 | 매혹, 매혹, 환상적인 아름다움 |
+| **지식 (Lore)** | 기본 마나 (지식) | 크로니마나 (Chronimana) | 정보 수집, 주문 다재다능성, 비밀 |
+| **영혼 (Spirits)** | 스피리투마나 (Spiritumana) | 기본 마나 (연결) | 영혼 소통, 초자연적 통찰력 |
+| **검 (Swords)** | 기본 마나 (강화) | 원소 (다양함) | 전투 능력, 무기 주입, 전투 마법 |
+| **용맹 (Valor)** | 기본 마나 (영감) | 비토마나 (Vitomana) | 전투 지원, 보호 영감, 용기 |
+| **속삭임 (Whispers)** | 멘티마나 | 그림자 마나 (Shadow Mana) | 공포 조작, 비밀 추출, 심리 공격 |
+| **창조 (Creation)** | 기본 마나 (현현) | 원소 (다양함) | 예술 구체화, 공연 향상, 창의적 마법 |
 
-Bards typically achieve 45-65% resonance with their specialized college's elements, with years of dedicated performance potentially raising this to 70-80% in their areas of expertise. Their intuitive approach enables them to achieve moderate mana purity (35-55%) through emotional connectivity and artistic discipline, with master bards reaching 65-75% purity when performing their specialized art forms.
+바드는 일반적으로 전문 대학의 원소와 45-65%의 공명을 달성하며, 수년간의 헌신적인 공연은 전문 분야에서 70-80%까지 높일 수 있습니다. 그들의 직관적인 접근 방식을 통해 감정적 연결과 예술적 규율을 통해 적당한 마나 순도 (35-55%)를 달성할 수 있으며, 마스터 바드는 전문 예술 형태를 수행할 때 65-75% 순도에 도달합니다.
 
-### Species-Specific Variations
+### 종족별 변형
 
-Different species show varying natural inclinations toward the bard class:
+다양한 종족은 바드 클래스에 대한 다양한 자연적 경향을 보여줍니다.
 
-- **Humans** (20-35% Exanthis, 35-50% Soul, 20-40% Mana Capacity): Their cultural diversity creates a broad repertoire of artistic traditions to draw upon.
-- **Half-Elves** (15-30% Exanthis, 40-55% Soul, 25-45% Mana Capacity): Their dual heritage provides unique perspective that enhances emotional expression and magical intuition.
-- **Gnomes** (20-30% Exanthis, 40-60% Soul, 15-35% Mana Capacity): Their creative spirit and joyful nature creates natural affinity for performance magic.
-- **Tabaxi** (25-40% Exanthis, 30-50% Soul, 20-35% Mana Capacity): Their natural curiosity and storytelling traditions enhance bardic traditions of lore and performance.
-- **Tieflings** (20-35% Exanthis, 40-55% Soul, 20-35% Mana Capacity): Their inherent charisma and outsider perspective provides captivating performances with unique magical resonance.
+- **인간 (Humans)** (20-35% 엑산티스, 35-50% 영혼, 20-40% 마나 용량): 그들의 문화적 다양성은 활용할 수 있는 광범위한 예술적 전통 레퍼토리를 만듭니다.
+- **하프 엘프 (Half-Elves)** (15-30% 엑산티스, 40-55% 영혼, 25-45% 마나 용량): 그들의 이중 유산은 감정 표현과 마법적 직관을 향상시키는 독특한 관점을 제공합니다.
+- **놈 (Gnomes)** (20-30% 엑산티스, 40-60% 영혼, 15-35% 마나 용량): 그들의 창의적인 정신과 즐거운 본성은 공연 마법에 대한 자연스러운 친화력을 만듭니다.
+- **타바시 (Tabaxi)** (25-40% 엑산티스, 30-50% 영혼, 20-35% 마나 용량): 그들의 자연스러운 호기심과 스토리텔링 전통은 지식과 공연의 바드 전통을 향상시킵니다.
+- **티플링 (Tieflings)** (20-35% 엑산티스, 40-55% 영혼, 20-35% 마나 용량): 그들의 고유한 카리스마와 아웃사이더 관점은 독특한 마법적 공명을 가진 매혹적인 공연을 제공합니다.
 
-## Casting Methodology
+## 시전 방법론
 
-Bards channel magic through artistic performance, using the following fundamental techniques:
+바드는 다음과 같은 기본적인 기법을 사용하여 예술적 공연을 통해 마법을 전달합니다.
 
-### Performance as Spellcasting
-Unlike wizards who rely on formulaic incantations, bards weave spells directly into their artistic expressions. The performance itself becomes the spell's framework, with each artistic element serving a specific magical function:
+### 주문 시전으로서의 공연
+공식적인 주문에 의존하는 마법사와 달리 바드는 주문을 예술적 표현에 직접 엮습니다. 공연 자체가 주문의 틀이 되며, 각 예술적 요소는 특정 마법 기능을 수행합니다.
 
-- **Rhythm** establishes the spell's tempo and structure
-- **Melody** defines the spell's purpose and direction
-- **Harmony** provides magical stability and resonance
-- **Dynamics** control the spell's power and intensity
-- **Timbre** determines the spell's quality and character
+- **리듬 (Rhythm)**은 주문의 템포와 구조를 설정합니다.
+- **멜로디 (Melody)**는 주문의 목적과 방향을 정의합니다.
+- **화음 (Harmony)**은 마법적 안정성과 공명을 제공합니다.
+- **다이내믹 (Dynamics)**은 주문의 힘과 강도를 제어합니다.
+- **음색 (Timbre)**은 주문의 품질과 특성을 결정합니다.
 
-The bardic approach allows for improvisational spellcasting that can adapt in real-time to changing circumstances, though with less precision than more rigid casting methods.
+바드의 접근 방식은 변화하는 상황에 실시간으로 적응할 수 있는 즉흥적인 주문 시전을 허용하지만, 더 엄격한 시전 방법보다 정밀도가 떨어집니다.
 
-### Instrument Resonance
-While bards can cast through pure vocal performance, most employ instruments to amplify and shape their magic:
+### 악기 공명
+바드는 순수한 보컬 공연을 통해 시전할 수 있지만, 대부분 악기를 사용하여 마법을 증폭하고 형성합니다.
 
-| Instrument Type | Magical Resonance | Spell Enhancement |
+| 악기 유형 | 마법적 공명 | 주문 강화 |
 |-----------------|-------------------|-------------------|
-| **Strings** | Emotional manipulation | Enchantment, illusion |
-| **Wind** | Breath and spirit | Divination, abjuration |
-| **Percussion** | Rhythm and force | Evocation, transmutation |
-| **Keyboard** | Complexity and harmony | Multi-effect spells, counterspell |
+| **현악기 (Strings)** | 감정 조작 | 매혹, 환상 |
+| **관악기 (Wind)** | 호흡과 정신 | 점술, 방어 |
+| **타악기 (Percussion)** | 리듬과 힘 | 소환, 변환 |
+| **건반악기 (Keyboard)** | 복잡성과 화음 | 다중 효과 주문, 카운터 주문 |
 
-Master bards often maintain multiple instruments specialized for different magical effects, though most develop primary proficiency with a signature instrument that becomes an extension of their magical identity.
+마스터 바드는 종종 다른 마법 효과를 위해 특화된 여러 악기를 유지하지만, 대부분 마법적 정체성의 확장판이 되는 대표 악기에 대한 주요 숙련도를 개발합니다.
 
-### Mana Purification Technique
-Rather than purifying mana through academic discipline, bards achieve purification through emotional authenticity and artistic mastery. This approach:
+### 마나 정화 기술
+바드는 학문적 규율을 통해 마나를 정화하는 대신 감정적 진정성과 예술적 숙달을 통해 정화를 달성합니다. 이 접근 방식은 다음과 같습니다.
 
-- Produces vibrant and emotionally resonant magical effects
-- Creates more variable but often more potent emotional impacts
-- Achieves purification through performance rather than study
-- Requires genuine artistic skill alongside magical aptitude
+- 생생하고 감정적으로 공명하는 마법 효과를 생성합니다.
+- 더 가변적이지만 종종 더 강력한 감정적 영향을 미칩니다.
+- 학습보다는 공연을 통해 정화를 달성합니다.
+- 마법적 적성과 함께 진정한 예술적 기술이 필요합니다.
 
-This method can produce rapid purification during moments of exceptional performance (30-40% purity boost during perfect performances) but may falter during emotional distress.
+이 방법은 뛰어난 공연 순간 (완벽한 공연 중 30-40% 순도 향상) 동안 빠른 정화를 생성할 수 있지만 감정적 고통 동안에는 실패할 수 있습니다.
 
-## Training and Development
+## 훈련 및 개발
 
-Bardic training balances artistic development with magical understanding:
+바드 훈련은 예술적 개발과 마법적 이해의 균형을 이룹니다.
 
-- **Novice (1-3 years)**: Foundational artistic training with basic magical theory, achieving 15-25% mana purity
-- **Apprentice (3-7 years)**: Performance refinement and magical application, reaching 25-40% purity
-- **Journeyman (7-15 years)**: College specialization and signature style development, attaining 40-55% purity
-- **Master (15+ years)**: Artistic transcendence and magical innovation, achieving 55-75% purity
+- **초심자 (Novice) (1-3년)**: 기본 마법 이론을 사용하는 기본적인 예술적 훈련, 15-25% 마나 순도 달성
+- **견습생 (Apprentice) (3-7년)**: 공연 개선 및 마법 적용, 25-40% 순도 달성
+- **장인 (Journeyman) (7-15년)**: 대학 전문화 및 대표 스타일 개발, 40-55% 순도 달성
+- **마스터 (Master) (15+년)**: 예술적 초월 및 마법적 혁신, 55-75% 순도 달성
 
-Unlike wizards who advance through academic achievement, bardic advancement requires both technical proficiency and authentic artistic expression. The most celebrated bards develop unique performance styles that produce instantly recognizable magical effects.
+학문적 성취를 통해 발전하는 마법사와 달리 바드 발전은 기술적 숙련도와 진정한 예술적 표현이 모두 필요합니다. 가장 유명한 바드는 즉시 인식할 수 있는 마법 효과를 생성하는 독특한 공연 스타일을 개발합니다.
 
-## Magical Limitations and Advantages
+## 마법적 제한 사항 및 이점
 
-The bardic approach to magic creates distinct strengths and weaknesses:
+마법에 대한 바드의 접근 방식은 뚜렷한 강점과 약점을 만듭니다.
 
-### Advantages
-- Exceptional versatility across multiple schools of magic
-- Superior emotional and social magical effects
-- Ability to cast while performing mundane activities
-- Natural talent for group magical harmonization
-- Intuitive adaptation to unexpected magical situations
+### 이점
+- 여러 마법 학교에 걸친 뛰어난 다재다능성
+- 뛰어난 감정 및 사회적 마법 효과
+- 일상적인 활동을 수행하는 동안 시전하는 능력
+- 그룹 마법 조화를 위한 타고난 재능
+- 예상치 못한 마법적 상황에 대한 직관적인 적응
 
-### Limitations
-- Reduced effectiveness when unable to perform artistically
-- Vulnerability to effects that impact emotional state
-- Diminished precision compared to academic casters
-- Performance requirements can make stealth casting difficult
-- Less effective at highly technical magical disciplines
+### 제한 사항
+- 예술적으로 공연할 수 없을 때 감소된 효과
+- 감정 상태에 영향을 미치는 효과에 대한 취약성
+- 학문적 시전자와 비교하여 감소된 정밀도
+- 공연 요구 사항으로 인해 은밀한 시전이 어려울 수 있습니다.
+- 고도로 기술적인 마법 분야에서 덜 효과적임
 
-Bardic magic thrives in settings where performance is possible and appreciated, making bards particularly effective in social contexts but potentially limited in environments requiring stealth or silence.
+바드 마법은 공연이 가능하고 높이 평가되는 환경에서 번성하여 바드를 사회적 상황에서 특히 효과적으로 만들지만 은밀함이나 침묵이 필요한 환경에서는 잠재적으로 제한될 수 있습니다.
 
-## Notable Practitioners
+## 주목할 만한 실무자
 
-- **Maestro Laranello** - Created the "Symphonic Cascade" technique that allows a single performer to create multi-layered magical effects
-- **Lady Whisperwind** - Pioneered the integration of shadow magic into bardic performances through whispered counter-melodies
-- **The Chord of Five** - Legendary bardic collective whose harmonic performances could affect entire regions
-- **Jalavar Swiftstrings** - Developed the "battle-chant" technique that allows for bardic casting while engaged in direct combat
-- **Serena Nightingale** - Creator of the "Emotional Resonance Theory" that revolutionized understanding of bardic magic 
+- **마에스트로 라라넬로 (Maestro Laranello)** - 단일 공연자가 다층 마법 효과를 만들 수 있는 "심포닉 캐스케이드 (Symphonic Cascade)" 기술을 개발했습니다.
+- **레이디 위스퍼윈드 (Lady Whisperwind)** - 속삭이는 카운터 멜로디를 통해 그림자 마법을 바드 공연에 통합하는 것을 개척했습니다.
+- **화음의 다섯 (The Chord of Five)** - 조화로운 공연이 전체 지역에 영향을 미칠 수 있는 전설적인 바드 집단
+- **잘라바르 스위프트스트링스 (Jalavar Swiftstrings)** - 직접 전투에 참여하는 동안 바드 시전을 허용하는 "전투 성가 (battle-chant)" 기술을 개발했습니다.
+- **세레나 나이팅게일 (Serena Nightingale)** - 바드 마법에 대한 이해를 혁신한 "감정 공명 이론 (Emotional Resonance Theory)"의 창시자
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

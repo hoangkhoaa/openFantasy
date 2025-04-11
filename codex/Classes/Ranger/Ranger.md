@@ -1,120 +1,123 @@
-# **Ranger**: The Voices of the Wild
+# **Ranger**: 야생의 목소리
 
-[**Rangers**](/codex/Classes/Ranger/Ranger.md) are the voices of the wild, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a woodwind that echoes the sounds of the forest, they commune with nature, creating a unique melody of existence that emphasizes survival, tracking, and the connection to the natural world.
+[**레인저**](/codex/Classes/Ranger/Ranger.md)는 야생의 목소리이며, 그들의 육체는 [**엑산티스**](/codex/Basic/Exanthis.md), [**소울**](/codex/Basic/Soul.md), 그리고 **마나 용량**의 조화로운 조화를 이룬 것입니다. 숲의 소리를 울리는 목관악기처럼, 그들은 자연과 교감하며, 생존, 추적, 그리고 자연과의 연결을 강조하는 독특한 존재의 멜로디를 창조합니다.
 
-## Elemental Composition
+## 원소 구성
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rangers** forms a harmony that favors connection to nature:
+[클래스](/codex/Classes/Classes.md)에 자세히 설명된 것처럼, **레인저**의 일반적인 비율은 자연과의 연결을 선호하는 조화를 이룹니다:
 
-| Element | Range | Function |
+| 원소 | 범위 | 기능 |
 |---------|------------|----------|
-| **Exanthis** | 35-55% | The crystalline heart that provides physical strength and agility |
-| **Soul** | 25-45% | The ethereal essence that shapes a nature-connected consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables nature magic |
+| **엑산티스** | 35-55% | 신체적 힘과 민첩성을 제공하는 결정체의 심장 |
+| **소울** | 25-45% | 자연과 연결된 의식을 형성하는 에테르적 본질 |
+| **마나 용량** | 10-30% | 자연 마법을 가능하게 하는 세계 간의 다리 |
 
-This composition grants **rangers** their characteristic connection to nature but limits their magical abilities compared to other classes, like a versatile instrument that can play many melodies but cannot match the complexity of a full orchestra.
+이 구성은 **레인저**에게 자연과의 특징적인 연결을 부여하지만, 완전한 오케스트라의 복잡성에 필적할 수 없는 많은 멜로디를 연주할 수 있는 다재다능한 악기처럼, 다른 클래스에 비해 마법 능력을 제한합니다.
 
-### Species-Specific Talents
+### 종족별 재능
 
-Different species show varying natural inclinations toward the ranger class:
+다양한 종족은 레인저 클래스에 대한 다양한 자연적 성향을 보여줍니다:
 
-- **Elves** (35% Exanthis, 25% Soul, 40% Mana Capacity): Their natural grace and connection to nature make them exceptional rangers, particularly as Wardens and Forest Singers.
-- **Beastfolk** (50% Exanthis, 30% Soul, 20% Mana Capacity): Their physical prowess and animal kinship make them natural Beastmasters and Hunters.
-- **Humans** (40% Exanthis, 35% Soul, 25% Mana Capacity): Their adaptability allows them to excel in any ranger specialization, though they rarely reach the heights of species with more specialized compositions.
-- **Dragonkin** (60% Exanthis, 20% Soul, 20% Mana Capacity): Their physical might makes them formidable Hunters, though their limited adaptability restricts their versatility.
-- **Dwarves** (55% Exanthis, 30% Soul, 15% Mana Capacity): Their endurance and resilience make them excellent Survivalists, particularly in harsh mountain environments.
+- **엘프** (35% 엑산티스, 25% 소울, 40% 마나 용량): 그들의 자연스러운 우아함과 자연과의 연결은 그들을 뛰어난 레인저, 특히 워든과 포레스트 싱어로 만듭니다.
+- **비스트포크** (50% 엑산티스, 30% 소울, 20% 마나 용량): 그들의 신체적 기량과 동물 친화력은 그들을 자연스러운 비스트마스터와 헌터로 만듭니다.
+- **인간** (40% 엑산티스, 35% 소울, 25% 마나 용량): 그들의 적응력은 그들이 모든 레인저 전문 분야에서 탁월하게 만들지만, 더 전문화된 구성을 가진 종족의 높이에 도달하는 경우는 드뭅니다.
+- **드래곤킨** (60% 엑산티스, 20% 소울, 20% 마나 용량): 그들의 신체적 힘은 그들을 강력한 헌터로 만들지만, 제한된 적응력은 그들의 다재다능함을 제한합니다.
+- **드워프** (55% 엑산티스, 30% 소울, 15% 마나 용량): 그들의 지구력과 회복력은 그들을 험준한 산악 환경에서 특히 훌륭한 서바이벌리스트로 만듭니다.
 
-## Physical Characteristics
+## 신체적 특징
 
-**Rangers** are known for their connection to nature and survival skills:
-- Athletic build with graceful movements, like a dancer's natural grace
-- Eyes that reflect awareness of surroundings, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of bows and survival tools, like a musician who has perfected the art of the woodwind
-- Presence that blends with natural surroundings, like a melody that harmonizes with the sounds of the forest
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+**레인저**는 자연과의 연결과 생존 기술로 알려져 있습니다:
+- 댄서의 자연스러운 우아함처럼, 우아한 움직임을 가진 운동적 체격
+- [**소울**](/codex/Basic/Soul.md)과의 연결을 보여주는 주변 환경에 대한 인식을 반영하는 눈
+- 목관악기의 예술을 완성한 음악가처럼, 활과 생존 도구의 사용에 능숙한 손
+- 숲의 소리와 조화를 이루는 멜로디처럼, 자연 환경과 조화를 이루는 존재감
+- 어느 방향으로든 움직일 준비가 된 연주자처럼, 균형과 준비성을 강조하는 자세
 
-## Nature Affinity
+## 자연 친화력
 
-**Rangers** demonstrate exceptional proficiency in wilderness survival and combat, like virtuoso musicians who have mastered the art of the natural world. Their composition allows them to:
-- Track and hunt with extraordinary precision, like conductors leading an orchestra through the wilderness
-- Survive in harsh environments, like artists adapting to changing conditions
-- Communicate with animals and understand natural signs, like performers harmonizing with the sounds of nature
+**레인저**는 야생 생존과 전투에서 탁월한 능력을 보여줍니다. 마치 자연 세계의 예술을 마스터한 거장 음악가와 같습니다. 그들의 구성은 다음과 같은 능력을 제공합니다:
+- 오케스트라를 황무지로 이끄는 지휘자처럼, 특별한 정확도로 추적하고 사냥
+- 변화하는 조건에 적응하는 아티스트처럼, 험난한 환경에서 생존
+- 자연의 소리와 조화를 이루는 연주자처럼, 동물과 소통하고 자연의 징후를 이해
 
-This specialization makes **rangers** capable of achieving the highest levels of proficiency in their chosen wilderness techniques, though they may struggle with tasks requiring complex magic or urban skills, like a versatile instrument that excels in natural settings but may be out of place in a formal concert hall.
+이 전문화는 **레인저**가 선택한 야생 기술에서 최고 수준의 능력을 달성할 수 있게 하지만, 다재다능한 악기가 자연 환경에서는 뛰어나지만 공식 콘서트홀에서는 어울리지 않을 수 있는 것처럼, 복잡한 마법이나 도시 기술이 필요한 작업에는 어려움을 겪을 수 있습니다.
 
-## Training and Development
+## 훈련 및 개발
 
-The path of a **ranger** involves rigorous wilderness training and mental discipline:
-- Daily practice in tracking and survival skills, like musicians practicing their natural melodies
-- Study of natural environments and animal behavior, like learning the theory behind natural harmony
-- Meditation to develop connection to nature, like finding the quiet center of the wilderness
-- Practice in combat and stealth techniques, like artists mastering the art of natural movement
+**레인저**의 길은 엄격한 야생 훈련과 정신 수양을 포함합니다:
+- 음악가가 자연스러운 멜로디를 연습하는 것처럼, 추적 및 생존 기술의 매일 연습
+- 자연 조화의 이론을 배우는 것처럼, 자연 환경 및 동물 행동 연구
+- 황무지의 조용한 중심을 찾는 것처럼, 자연과의 연결을 개발하기 위한 명상
+- 자연스러운 움직임의 예술을 마스터하는 아티스트처럼, 전투 및 은신 기술 연습
 
-## Equipment and Gear
+## 장비 및 장비
 
-**Rangers** rely on various equipment to enhance their wilderness abilities:
-- Bows and light weapons designed for precision, like different instruments for different performances
-- Survival gear such as ropes, traps, and navigation tools, like accessories that enhance an instrument's capabilities
-- Natural accessories such as animal companions, tracking dogs, and natural remedies, like specialized instruments for specific tasks
+**레인저**는 야생 능력을 향상시키기 위해 다양한 장비에 의존합니다:
+- 다양한 공연을 위한 다양한 악기처럼, 정밀성을 위해 설계된 활과 경량 무기
+- 악기의 기능을 향상시키는 액세서리처럼, 로프, 덫, 항해 도구와 같은 생존 장비
+- 특정 작업을 위한 특수 악기처럼, 동물 동반자, 추적견, 자연 치료제와 같은 자연 액세서리
 
-## Subclasses
+## 서브클래스
 
-**Rangers** can specialize in various wilderness disciplines and roles:
+**레인저**는 다양한 야생 훈련과 역할로 전문화할 수 있습니다:
 
-### [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md)
+### [**비스트마스터**](/codex/Classes/Ranger/Beastmaster.md)
 
-Beastmasters focus on forming bonds with animals, emphasizing the role of the animal companion. They excel at:
-- Training and commanding animal companions
-- Understanding animal behavior and communication
-- Fighting alongside their animal allies
+비스트마스터는 동물과의 유대 형성에 중점을 두고 동물 동반자의 역할을 강조합니다. 그들은 다음에 능숙합니다:
+- 동물 동반자 훈련 및 지휘
+- 동물 행동 및 의사 소통 이해
+- 동물 동맹과 함께 싸우기
 
-### [**Hunter**](/codex/Classes/Ranger/Hunter.md)
+### [**헌터**](/codex/Classes/Ranger/Hunter.md)
 
-Hunters focus on tracking and eliminating targets, emphasizing the role of the predator. They excel at:
-- Tracking and stalking prey
-- Setting traps and ambushes
-- Delivering precise strikes from a distance
+헌터는 목표 추적 및 제거에 중점을 두고 포식자의 역할을 강조합니다. 그들은 다음에 능숙합니다:
+- 먹이 추적 및 스토킹
+- 덫 및 매복 설치
+- 먼 거리에서 정확한 공격 전달
 
-### [**Warden**](/codex/Classes/Ranger/Warden.md)
+### [**워든**](/codex/Classes/Ranger/Warden.md)
 
-Wardens focus on protecting natural places, emphasizing the role of the guardian. They excel at:
-- Defending natural territories
-- Maintaining the balance of ecosystems
-- Communicating with nature spirits
+워든은 자연 장소 보호에 중점을 두고 수호자의 역할을 강조합니다. 그들은 다음에 능숙합니다:
+- 자연 영역 방어
+- 생태계 균형 유지
+- 자연 정령과의 소통
 
-### [**Scout**](/codex/Classes/Ranger/Scout.md)
+### [**스카우트**](/codex/Classes/Ranger/Scout.md)
 
-Scouts focus on exploring and navigating unknown territories, emphasizing the role of the explorer. They excel at:
-- Finding safe paths through dangerous areas
-- Gathering information about new territories
-- Adapting to unfamiliar environments
+스카우트는 미지의 영역 탐험 및 항해에 중점을 두고 탐험가의 역할을 강조합니다. 그들은 다음에 능숙합니다:
+- 위험 지역을 통과하는 안전한 길 찾기
+- 새로운 영역에 대한 정보 수집
+- 낯선 환경에 적응
 
-### [**Survivalist**](/codex/Classes/Ranger/Survivalist.md)
+### [**서바이벌리스트**](/codex/Classes/Ranger/Survivalist.md)
 
-Survivalists focus on thriving in harsh environments, emphasizing the role of the survivor. They excel at:
-- Finding food and water in barren places
-- Creating shelter in extreme conditions
-- Adapting to changing environmental conditions
+서바이벌리스트는 가혹한 환경에서 번성하는 데 중점을 두고 생존자의 역할을 강조합니다. 그들은 다음에 능숙합니다:
+- 불모의 장소에서 음식과 물 찾기
+- 극한 조건에서 피난처 만들기
+- 변화하는 환경 조건에 적응
 
-## Notable Ranger Traits
+## 주목할 만한 레인저 특징
 
-- **Wilderness Mastery**: Rangers excel in survival and tracking, often specializing in specific environments
-- **Animal Connection**: Rangers develop strong bonds with animals and nature
-- **Environmental Adaptation**: Rangers can thrive in various natural environments
-- **Precision Combat**: Rangers excel in combat that requires precision and timing
-- **Discipline**: Rangers maintain rigorous training regimens to maintain their wilderness abilities
+- **야생 숙달**: 레인저는 생존 및 추적에 능숙하며 특정 환경을 전문으로 하는 경우가 많습니다.
+- **동물 연결**: 레인저는 동물 및 자연과 강력한 유대를 형성합니다.
+- **환경 적응**: 레인저는 다양한 자연 환경에서 번성할 수 있습니다.
+- **정밀 전투**: 레인저는 정밀성과 타이밍이 필요한 전투에 능숙합니다.
+- **수양**: 레인저는 야생 능력을 유지하기 위해 엄격한 훈련 계획을 유지합니다.
 
-## Ranger Orders
+## 레인저 오더
 
-Ranger society is organized into numerous orders, each with its own specialties and techniques:
+레인저 사회는 수많은 오더로 조직되어 있으며 각 오더는 고유한 전문 분야와 기술을 가지고 있습니다:
 
-| Order | Specialty | Territory | Notable Traits |
+| 오더 | 전문 분야 | 영토 | 주목할 만한 특징 |
 |---------|---------------|---------|-------------------|
-| **Beast Companions** | Animal bonding, companion training | Various locations | Animal companions, beast communication |
-| **Track Masters** | Tracking, hunting | Various locations | Tracking abilities, hunting techniques |
-| **Territory Wardens** | Territory protection, ecosystem balance | Natural territories | Territory defense, ecosystem maintenance |
-| **Path Finders** | Exploration, navigation | Unknown territories | Exploration, navigation |
-| **Wild Survivors** | Survival, adaptation | Harsh environments | Survival skills, environmental adaptation |
-| **Forest Singers** | Nature communication, harmony | Forest regions | Nature communication, forest harmony |
+| **비스트 컴패니언** | 동물 유대, 동반자 훈련 | 다양한 위치 | 동물 동반자, 야수 소통 |
+| **트랙 마스터** | 추적, 사냥 | 다양한 위치 | 추적 능력, 사냥 기술 |
+| **테리토리 워든** | 영토 보호, 생태계 균형 | 자연 영역 | 영토 방어, 생태계 유지 |
+| **패스 파인더** | 탐험, 항해 | 미지의 영역 | 탐험, 항해 |
+| **와일드 서바이버** | 생존, 적응 | 가혹한 환경 | 생존 기술, 환경 적응 |
+| **포레스트 싱어** | 자연 소통, 조화 | 숲 지역 | 자연 소통, 숲 조화 |
 
-Understanding the nature of **rangers** provides insight into the natural aspects of the world of **OpenFantasy**, like listening to the wild melodies that echo through the symphony of nature. 
+**레인저**의 본질을 이해하는 것은 자연의 심포니를 통해 울려 퍼지는 야생의 멜로디를 듣는 것처럼 **OpenFantasy** 세계의 자연적인 측면에 대한 통찰력을 제공합니다.
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

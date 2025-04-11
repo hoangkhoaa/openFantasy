@@ -1,155 +1,159 @@
-# **Minor Illusion**
+# **미미한 환상**
 
-> *"Reality is but a canvas awaiting the illusion artist's touch."*  
-> — Mirala Shadowweaver, Illusion Grandmaster
+> *"현실은 환상 예술가의 손길을 기다리는 캔버스일 뿐입니다."*
+> — 미랄라 섀도위버, 환상 그랜드마스터
 
-## Casting Information
-- **Difficulty**: Novice
-- **Casting Time**: 2 seconds
-- **Duration**: Concentration, up to 5 minutes
-- **Range**: Within 15 feet
-- **Components**: Somatic, Verbal
+## 시전 정보
+- **난이도**: 초급
+- **시전 시간**: 2초
+- **지속 시간**: 집중, 최대 5분
+- **범위**: 15피트 이내
+- **구성 요소**: 신체, 언어
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 60%, Umbramana 30%, Luxmana 10%
-- **Purity Required**: Basic (15-25%)
-- **Minimum Mana Capacity**: 15% (Higher capacity extends possible duration and area)
-- **Pattern Complexity**: Simple (3-tier matrix)
-- **Resonance Frequency**: Mid-range sensory spectrum
-- **Specialization Efficiency Required**: 40%+ (Novice level)
-- **Wild Mana Tolerance**: Up to 15% residual content
+## 기술 세부 사항
+- **마나 유형 분포**: 기본 마나 60%, 움브라마나 30%, 룩스마나 10%
+- **필요한 순도**: 기본 (15-25%)
+- **최소 마나 용량**: 15% (용량이 높을수록 가능한 지속 시간 및 범위가 확장됩니다)
+- **패턴 복잡성**: 단순 (3단계 매트릭스)
+- **공명 주파수**: 중간 범위 감각 스펙트럼
+- **필요한 전문화 효율성**: 40%+ (초급 레벨)
+- **와일드 마나 내성**: 최대 15% 잔류 함량
 
-## Mana Mechanics
+## 마나 역학
 
-### Base Mana Function
-The Base Mana component (60%) provides:
-- Structural framework for the illusion pattern
-- Stability and duration maintenance
-- Connection to the caster's concentration
-- Boundary definition and spatial anchoring
+### 기본 마나 기능
+기본 마나 구성 요소 (60%)는 다음을 제공합니다.
+- 환상 패턴의 구조적 프레임워크
+- 안정성 및 지속 시간 유지 관리
+- 시전자의 집중과의 연결
+- 경계 정의 및 공간 고정
 
-### Umbramana Function
-The Shadow mana component (30%) contributes:
-- Visual/sensory obscuration capabilities
-- Reality distortion properties
-- Light/perception manipulation
-- Concealment of the magical nature of the effect
+### 움브라마나 기능
+그림자 마나 구성 요소 (30%)는 다음을 기여합니다.
+- 시각적/감각적 폐쇄 기능
+- 현실 왜곡 속성
+- 빛/인식 조작
+- 효과의 마법적 본성 은폐
 
-### Luxmana Function
-The Light mana component (10%) provides:
-- Visual clarity and detail enhancement
-- Sensory precision and definition
-- Reality mimicry qualities
-- Observer connection hooks
+### 룩스마나 기능
+빛 마나 구성 요소 (10%)는 다음을 제공합니다.
+- 시각적 선명도 및 디테일 향상
+- 감각적 정밀도 및 정의
+- 현실 모방 품질
+- 관찰자 연결 고리
 
-### Specialization Process
-The caster must successfully:
-1. Draw Base Mana from internal reserves
-2. Transform approximately 40% of this Base Mana into specialized forms
-3. Maintain the correct proportional balance (60:30:10)
-4. Establish the harmonics between opposing elements (Umbramana and Luxmana)
+### 전문화 과정
+시전자는 다음을 성공적으로 수행해야 합니다.
+1. 내부 저장소에서 기본 마나를 끌어옵니다.
+2. 이 기본 마나의 약 40%를 전문화된 형태로 변환합니다.
+3. 올바른 비례 균형 (60:30:10)을 유지합니다.
+4. 반대되는 요소 (움브라마나 및 룩스마나) 간의 조화를 설정합니다.
 
-## Pattern Structure
+## 패턴 구조
 
-The spell consists of four primary pattern elements forming a sensory projection matrix:
+주문은 감각적 투사 매트릭스를 형성하는 네 가지 주요 패턴 요소로 구성됩니다.
 
-1. **Image Seed**: The core visualization pattern that establishes the illusion's foundation
-2. **Sensory Projection**: The pattern component that projects the illusion into physical space
-3. **Boundary Frame**: Defines the spatial limitations and edges of the illusion
-4. **Perception Hook**: The subtle pattern that connects the illusion to observers' senses
+1. **이미지 씨앗**: 환상의 토대를 확립하는 핵심 시각화 패턴
+2. **감각적 투사**: 환상을 물리적 공간으로 투사하는 패턴 구성 요소
+3. **경계 프레임**: 환상의 공간적 제한 및 가장자리를 정의합니다.
+4. **인식 고리**: 환상을 관찰자의 감각에 연결하는 미묘한 패턴
 
-## Practical Effect
+## 실제 효과
 
-Minor Illusion creates a single sensory illusion within range:
-- A visual illusion no larger than a 5-foot cube
-- A sound emanating from a point in range (whisper to conversation volume)
-- A simple scent detectable within 10 feet
-- A minor tactile sensation (temperature change, light breeze, gentle touch)
+미미한 환상은 범위 내에서 단일 감각 환상을 생성합니다.
+- 5피트 큐브보다 크지 않은 시각적 환상
+- 범위 내의 지점에서 나오는 소리 (속삭임에서 대화 볼륨까지)
+- 10피트 이내에서 감지 가능한 간단한 향기
+- 미미한 촉각 (온도 변화, 가벼운 바람, 부드러운 터치)
 
-The spell can create only one type of sensory effect at a time. The illusion has no physical substance and cannot cause damage, create light that illuminates areas, or produce sound loud enough to cause damage or be heard more than 100 feet away.
+주문은 한 번에 한 가지 유형의 감각 효과만 생성할 수 있습니다. 환상에는 물리적 실체가 없으며 손상을 일으키거나, 영역을 밝히는 빛을 만들거나, 손상을 일으키거나 100피트 이상으로 들릴 만큼 큰 소리를 낼 수 없습니다.
 
-## Purity Influence on Effect
+## 효과에 대한 순도 영향
 
-The caster's mana purity directly affects the illusion's quality, believability, and stability:
+시전자의 마나 순도는 환상의 품질, 신뢰성 및 안정성에 직접적인 영향을 미칩니다.
 
-| Purity Level | Effect |
+| 순도 레벨 | 효과 |
 |--------------|--------|
-| Below 10% | Casting typically fails; any resulting illusion appears as obvious magical energy with no coherent form |
-| 10-15% | Highly unstable illusion with visible fluctuations and mana "glitches"; immediately recognizable as magical |
-| 15-25% | Standard illusion that appears realistic from a distance but lacks fine details and natural movement |
-| 25-35% | Enhanced illusion with improved details, more natural movement, and better sensory integration |
-| 35-45% | Refined illusion with convincing details that can withstand moderate scrutiny; subtle environmental interaction |
-| 50%+ | Nearly flawless illusion that can fool most observers without careful inspection; seamlessly adapts to environmental changes |
+| 10% 미만 | 일반적으로 시전이 실패합니다. 결과 환상은 일관된 형태가 없는 명백한 마법 에너지로 나타납니다. |
+| 10-15% | 눈에 띄는 변동 및 마나 "결함"이 있는 매우 불안정한 환상; 마법으로 즉시 인식 가능 |
+| 15-25% | 멀리서 보면 현실적으로 보이지만 미세한 디테일과 자연스러운 움직임이 부족한 표준 환상 |
+| 25-35% | 향상된 디테일, 더 자연스러운 움직임 및 더 나은 감각 통합을 갖춘 향상된 환상 |
+| 35-45% | 적당한 조사를 견딜 수 있는 설득력 있는 디테일을 갖춘 세련된 환상; 미묘한 환경 상호 작용 |
+| 50%+ | 주의 깊게 검사하지 않으면 대부분의 관찰자를 속일 수 있는 거의 완벽한 환상; 환경 변화에 완벽하게 적응 |
 
-Higher purity also extends potential duration, reduces concentration strain, and minimizes the risk of Wild Mana contamination which can cause unintended sensory effects to bleed into the illusion.
+순도가 높을수록 잠재적 지속 시간이 연장되고, 집중력이 줄어들며, 의도하지 않은 감각 효과가 환상에 스며들 수 있는 와일드 마나 오염 위험이 최소화됩니다.
 
-## Mana Capacity Effects
+## 마나 용량 효과
 
-The caster's Mana Capacity influences the spell in several ways:
+시전자의 마나 용량은 여러 가지 방식으로 주문에 영향을 미칩니다.
 
-| Capacity Level | Duration Effect | Size/Range Effect | Quality Effect |
+| 용량 레벨 | 지속 시간 효과 | 크기/범위 효과 | 품질 효과 |
 |----------------|-----------------|-------------------|----------------|
-| 15-25% | Basic duration (up to 5 minutes) | Standard range (15 feet) | Standard quality |
-| 25-40% | Extended duration (up to 10 minutes) | Increased range (20 feet) | Minor detail enhancement |
-| 40-60% | Long duration (up to 20 minutes) | Extended range (25 feet) | Significant detail enhancement |
-| 60%+ | Sustained duration (up to 30 minutes) | Maximum range (30 feet) | Maximum detail potential |
+| 15-25% | 기본 지속 시간 (최대 5분) | 표준 범위 (15피트) | 표준 품질 |
+| 25-40% | 연장된 지속 시간 (최대 10분) | 범위 증가 (20피트) | 약간의 디테일 향상 |
+| 40-60% | 긴 지속 시간 (최대 20분) | 범위 연장 (25피트) | 상당한 디테일 향상 |
+| 60%+ | 지속적인 지속 시간 (최대 30분) | 최대 범위 (30피트) | 최대 디테일 잠재력 |
 
-## Common Applications
+## 일반적인 응용
 
-- **Distraction**: Creating sounds or visual distractions to divert attention
-- **Concealment**: Masking small objects or features with illusory coverings
-- **Communication**: Displaying simple messages or warnings
-- **Entertainment**: Creating pleasant visuals or sounds for amusement
-- **Ambiance**: Enhancing environments with appropriate sensory elements
-- **Pranks**: Harmless tricks and surprises (heavily discouraged in academic settings)
+- **방해**: 주의를 돌리기 위해 소리 또는 시각적 방해 요소를 생성합니다.
+- **은폐**: 환상적인 덮개로 작은 물체 또는 기능을 가립니다.
+- **통신**: 간단한 메시지 또는 경고를 표시합니다.
+- **엔터테인먼트**: 즐거움을 위해 쾌적한 시각 자료 또는 소리를 만듭니다.
+- **분위기**: 적절한 감각 요소로 환경을 개선합니다.
+- **장난**: 무해한 속임수 및 놀라움 (학술 환경에서 매우 권장되지 않음)
 
-## Variations
+## 변형
 
-| Variation | Effect | Mana Requirements |
+| 변형 | 효과 | 마나 요구 사항 |
 |-----------|--------|-------------------|
-| **Silent Image** | Visual illusion only, but with enhanced detail | 65% Base Mana, 25% Umbramana, 10% Luxmana |
-| **Whisper** | Sound-only version with greater range (30 feet) | 70% Base Mana, 20% Umbramana, 10% Aeromana |
-| **Phantom Scent** | Olfactory illusion with increased intensity | 60% Base Mana, 25% Umbramana, 15% Vitamana |
-| **Ghost Touch** | Tactile illusion with more complex sensation | 55% Base Mana, 35% Umbramana, 10% Terramana |
-| **Persistent Image** | Lasts without concentration for 1 minute | 50% Base Mana, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ purity required |
-| **Dual Sense** | Combines two sensory effects simultaneously | 45% Base Mana, 35% Umbramana, 20% Luxmana; 35%+ purity and 20%+ capacity required |
+| **무음 이미지** | 시각적 환상만 있지만 디테일이 향상되었습니다. | 기본 마나 65%, 움브라마나 25%, 룩스마나 10% |
+| **속삭임** | 범위가 더 넓은 (30피트) 소리 전용 버전 | 기본 마나 70%, 움브라마나 20%, 에어로마나 10% |
+| **유령 향기** | 강도가 증가된 후각 환상 | 기본 마나 60%, 움브라마나 25%, 비타마나 15% |
+| **유령 터치** | 더 복잡한 감각을 가진 촉각 환상 | 기본 마나 55%, 움브라마나 35%, 테라마나 10% |
+| **지속적인 이미지** | 1분 동안 집중 없이 지속됩니다. | 기본 마나 50%, 움브라마나 25%, 룩스마나 15%, 크로노마나 10%; 25%+ 순도 필요 |
+| **듀얼 센스** | 두 가지 감각 효과를 동시에 결합합니다. | 기본 마나 45%, 움브라마나 35%, 룩스마나 20%; 35%+ 순도 및 20%+ 용량 필요 |
 
-## Risks and Miscast Effects
+## 위험 및 잘못 시전된 효과
 
-| Risk | Effect | Cause |
+| 위험 | 효과 | 원인 |
 |------|--------|-------|
-| **Sensory Bleed** | Unintended secondary sensory effects | Imprecise specialization, Base Mana deficiency |
-| **Pattern Collapse** | Illusion dissipates prematurely | Insufficient concentration, unstable Base Mana framework |
-| **Perception Lock** | Caster temporarily experiences the illusion as real | Wild Mana contamination above 15%, improper Umbramana balance |
-| **Sensory Echo** | Illusion repeats at random intervals after dismissal | Improper spell termination, excess Chronomana resonance |
-| **Detail Drift** | Illusion details gradually change without caster input | Purity below 15% or Wild Mana interference with Luxmana component |
-| **Reality Distortion** | Caster's perception of real sensory input becomes temporarily distorted | Critical purity shortage (below 10%), excessive Umbramana specialization |
+| **감각 블리드** | 의도하지 않은 이차적 감각 효과 | 부정확한 전문화, 기본 마나 결핍 |
+| **패턴 붕괴** | 환상이 조기에 소멸됩니다. | 불충분한 집중, 불안정한 기본 마나 프레임워크 |
+| **인식 잠금** | 시전자가 일시적으로 환상을 현실로 경험합니다. | 15% 이상의 와일드 마나 오염, 부적절한 움브라마나 균형 |
+| **감각 에코** | 해제 후 환상이 무작위 간격으로 반복됩니다. | 부적절한 주문 종료, 과도한 크로노마나 공명 |
+| **디테일 드리프트** | 환상 디테일이 시전자 입력 없이 점차적으로 변경됩니다. | 15% 미만의 순도 또는 룩스마나 구성 요소와의 와일드 마나 간섭 |
+| **현실 왜곡** | 실제 감각 입력에 대한 시전자의 인식이 일시적으로 왜곡됩니다. | 심각한 순도 부족 (10% 미만), 과도한 움브라마나 전문화 |
 
-## Elemental Interactions
+## 원소 상호 작용
 
-Minor Illusion demonstrates several important elemental principles:
+미미한 환상은 몇 가지 중요한 원소 원리를 보여줍니다.
 
-1. **Balanced Opposition**: The controlled tension between Umbramana (shadow) and Luxmana (light) creates the realistic visual quality
-2. **Base Mana Framework**: The high proportion of Base Mana (60%) provides stability for the inherently unstable combination of opposed elements
-3. **Harmonic Resonance**: The specific 60:30:10 ratio creates a resonance pattern that mimics natural sensory frequencies
-4. **Specialization Gradient**: The spell uses partially specialized Umbramana and Luxmana rather than pure forms, allowing more subtle effects
+1. **균형 잡힌 반대**: 움브라마나 (그림자)와 룩스마나 (빛) 사이의 제어된 긴장은 현실적인 시각적 품질을 만듭니다.
+2. **기본 마나 프레임워크**: 기본 마나의 높은 비율 (60%)은 본질적으로 불안정한 반대 요소 조합에 대한 안정성을 제공합니다.
+3. **조화 공명**: 특정 60:30:10 비율은 자연 감각 주파수를 모방하는 공명 패턴을 만듭니다.
+4. **전문화 기울기**: 주문은 순수한 형태가 아닌 부분적으로 전문화된 움브라마나 및 룩스마나를 사용하여 더 미묘한 효과를 허용합니다.
 
-## Musical Analogy
+## 음악적 비유
 
-Casting Minor Illusion is like playing a simple melody that listeners can perceive but not interact with. The Base Mana forms the fundamental tone or "carrier note," while the Umbramana and Luxmana create the harmonics that give the illusion its character. The caster must maintain the rhythm (concentration) to keep the melody playing, while carefully balancing the various sensory "notes" to create a convincing performance. Wild Mana contamination introduces random discordant notes that diminish the performance quality.
+미미한 환상을 시전하는 것은 청취자가 인식할 수 있지만 상호 작용할 수 없는 간단한 멜로디를 연주하는 것과 같습니다. 기본 마나는 기본 톤 또는 "운반음"을 형성하고, 움브라마나 및 룩스마나는 환상에 특징을 부여하는 고조파를 만듭니다. 시전자는 멜로디가 계속 재생되도록 리듬 (집중)을 유지하는 동시에 다양한 감각적 "음표"의 균형을 신중하게 맞춰 설득력 있는 연주를 만들어야 합니다. 와일드 마나 오염은 연주 품질을 떨어뜨리는 무작위 불협화음을 도입합니다.
 
-## Learning Progression
+## 학습 진행
 
-1. **Base Mana Structure**: Learning to create and maintain the basic illusion framework
-2. **Umbramana Specialization**: Developing skill in shadow mana conversion for reality distortion
-3. **Luxmana Integration**: Adding light mana elements for detail and clarity
-4. **Harmonic Balancing**: Achieving the precise ratio of elements for stable illusions
-5. **Sensory Precision**: Refining the illusion to appear more realistic and detailed
-6. **Sustaining Focus**: Extending the duration through improved concentration
-7. **Purification Techniques**: Methods to reduce Wild Mana contamination for clearer illusions
+1. **기본 마나 구조**: 기본 환상 프레임워크를 만들고 유지하는 방법을 배웁니다.
+2. **움브라마나 전문화**: 현실 왜곡을 위한 그림자 마나 변환 기술 개발
+3. **룩스마나 통합**: 디테일 및 선명도를 위한 빛 마나 요소 추가
+4. **조화 균형**: 안정적인 환상을 위한 요소의 정확한 비율 달성
+5. **감각 정밀도**: 환상이 더 현실적이고 상세하게 보이도록 개선
+6. **집중 유지**: 향상된 집중을 통해 지속 시간 연장
+7. **정화 기술**: 더 명확한 환상을 위해 와일드 마나 오염을 줄이는 방법
 
-## Historical Note
+## 역사적 참고 사항
 
-Minor Illusion was developed by Mirala Shadowweaver during the Second Age as a teaching tool for apprentice illusionists. The spell's simple structure makes it an ideal introduction to perception manipulation, while its limited scope prevents dangerous applications. It remains one of the most commonly taught spells in magical academies across the realm.
+미미한 환상은 제2시대에 미랄라 섀도위버가 환상가 견습생을 위한 교육 도구로 개발했습니다. 주문의 단순한 구조는 인식 조작에 대한 이상적인 입문서이며, 제한된 범위는 위험한 응용을 방지합니다. 그것은 왕국 전역의 마법 아카데미에서 가장 일반적으로 가르치는 주문 중 하나입니다.
 
-*See also: [Illusion School](/codex/Magics/Schools/Illusion.md), [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md)* 
+*참조: [환상 학파](/codex/Magics/Schools/Illusion.md), [기본 마나](/codex/Magics/Core/BaseMana.md), [마나 전문화](/codex/Magics/Core/ManaSpecialization.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

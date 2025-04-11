@@ -1,83 +1,87 @@
-# Warrior Class
+# 워리어 클래스
 
-> *"A warrior's strength lies not only in their arm, but in their resolve to stand when others fall."*
+> *"전사의 강함은 팔에만 있는 것이 아니라 다른 이들이 쓰러질 때 일어설 수 있는 결의에 있다."*
 
-## Quick Navigation
+## 빠른 탐색
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Warrior](#playing-a-warrior)
-- [Notable Traits](#notable-traits)
+- [개요](#overview)
+- [클래스 구성](#class-composition)
+- [서브클래스](#subclasses)
+- [워리어 플레이하기](#playing-a-warrior)
+- [주요 특징](#notable-traits)
 
-## Overview
+## 개요
 
-Warriors are masters of physical combat, channeling their exceptional **Exanthis** to perform feats of strength and martial prowess. Like a powerful drum driving the rhythm of battle, they provide the foundation upon which armies are built and legends are forged.
+워리어는 뛰어난 **Exanthis**를 사용하여 힘과 무술 기량을 발휘하는 물리적 전투의 달인입니다. 마치 전투의 리듬을 이끄는 강력한 드럼처럼, 그들은 군대가 세워지고 전설이 만들어지는 토대를 제공합니다.
 
-## Class Composition
+## 클래스 구성
 
-| Element | Typical Range | Function |
+| 요소 | 일반적인 범위 | 기능 |
 |---------|---------------|----------|
-| **Exanthis** | 50-70% | Physical prowess with exceptional strength and durability |
-| **Soul** | 20-40% | Consciousness that enables tactical thinking and willpower |
-| **Mana Capacity** | 5-15% | Limited magical potential but sufficient for combat enhancements |
+| **Exanthis** | 50-70% | 뛰어난 힘과 내구성을 가진 물리적 기량 |
+| **영혼 (Soul)** | 20-40% | 전술적 사고와 의지를 가능하게 하는 의식 |
+| **마나 용량 (Mana Capacity)** | 5-15% | 제한적인 마법 잠재력, 그러나 전투 강화에 충분함 |
 
-This elemental balance grants warriors their characteristic physical might while limiting their magical capabilities.
+이러한 원소 균형은 워리어에게 특징적인 물리적 힘을 부여하는 동시에 마법 능력을 제한합니다.
 
-## Subclasses
+## 서브클래스
 
-Warriors can specialize in several distinct combat disciplines:
+워리어는 여러 가지 뚜렷한 전투 분야를 전문으로 할 수 있습니다.
 
-| Subclass | Focus | Specialty |
+| 서브클래스 | 집중 | 특기 |
 |----------|-------|-----------|
-| [**Guardian**](Guardian.md) | Defense | Protecting allies and controlling battlefield space |
-| [**Berserker**](Berserker.md) | Offensive fury | Channeling rage into devastating attacks |
-| [**Duelist**](Duelist.md) | Precision combat | Excelling in one-on-one engagements |
-| [**Commander**](Commander.md) | Leadership | Coordinating allies for maximum effectiveness |
-| [**Weaponmaster**](Weaponmaster.md) | Versatility | Mastering multiple weapons and combat styles |
+| [**가디언 (Guardian)**](Guardian.md) | 방어 | 아군을 보호하고 전장 공간을 제어 |
+| [**버서커 (Berserker)**](Berserker.md) | 공격적인 분노 | 분노를 파괴적인 공격으로 전환 |
+| [**듀얼리스트 (Duelist)**](Duelist.md) | 정밀 전투 | 일대일 교전에서 뛰어남 |
+| [**커맨더 (Commander)**](Commander.md) | 리더십 | 최대 효율을 위해 아군을 지휘 |
+| [**웨폰마스터 (Weaponmaster)**](Weaponmaster.md) | 다재다능함 | 여러 무기와 전투 스타일 마스터 |
 
-## Playing a Warrior
+## 워리어 플레이하기
 
-### Core Abilities
+### 핵심 능력
 
-- **Weapon Proficiency**: Expertise with a wide range of armaments
-- **Combat Endurance**: Exceptional stamina in prolonged battles
-- **Tactical Awareness**: Understanding battlefield positioning and advantage
-- **Physical Resilience**: Resistance to injury and fatigue
+- **무기 숙련 (Weapon Proficiency)**: 광범위한 무기에 대한 전문 지식
+- **전투 지구력 (Combat Endurance)**: 장기간 전투에서 뛰어난 스태미나
+- **전술적 인식 (Tactical Awareness)**: 전장 위치와 이점 이해
+- **물리적 회복력 (Physical Resilience)**: 부상과 피로에 대한 저항력
 
-### Common Equipment
+### 일반적인 장비
 
-- **Weapons**: Diverse armaments from swords and axes to bows and spears
-- **Armor**: Protective gear ranging from light to heavy plating
-- **Shields**: Defensive implements for blocking and controlling space
-- **Battle Accessories**: Bracers, greaves, and other protective items
+- **무기 (Weapons)**: 검과 도끼에서 활과 창에 이르기까지 다양한 무기
+- **갑옷 (Armor)**: 가벼운 갑옷부터 무거운 판금 갑옷까지 보호 장비
+- **방패 (Shields)**: 공간을 막고 제어하는 ​​방어 도구
+- **전투 액세서리 (Battle Accessories)**: 팔 보호대, 각반 및 기타 보호 품목
 
-### Species Affinities
+### 종족 친화도
 
-| Species | Affinity | Notable Traits |
+| 종족 | 친화도 | 주요 특징 |
 |---------|----------|----------------|
-| **Humans** | High | Adaptable combat styles, balanced capabilities |
-| **Dwarves** | Very High | Natural durability, exceptional strength |
-| **Dragonkin** | High | Natural armor, heightened battle instincts |
-| **Beastfolk** | Moderate-High | Enhanced reflexes, natural weapon affinity |
-| **Elves** | Moderate | Precision and grace rather than raw power |
+| **인간 (Humans)** | 높음 | 적응 가능한 전투 스타일, 균형 잡힌 능력 |
+| **드워프 (Dwarves)** | 매우 높음 | 타고난 내구성, 뛰어난 힘 |
+| **드래곤킨 (Dragonkin)** | 높음 | 타고난 갑옷, 고조된 전투 본능 |
+| **비스트포크 (Beastfolk)** | 중간-높음 | 강화된 반사 신경, 타고난 무기 친화도 |
+| **엘프 (Elves)** | 중간 | 순수한 힘보다는 정확성과 우아함 |
 
-## Notable Traits
+## 주요 특징
 
-### Strengths
+### 강점
 
-- Unmatched physical combat capabilities
-- High endurance and survivability in difficult conditions
-- Ability to protect allies from physical threats
-- Effectiveness against a wide range of opponents
+- 타의 추종을 불허하는 물리적 전투 능력
+- 어려운 조건에서 높은 지구력과 생존력
+- 물리적 위협으로부터 아군을 보호하는 능력
+- 광범위한 적에 대한 효과
 
-### Challenges
+### 과제
 
-- Limited magical capabilities and countermeasures
-- Vulnerability to enchantments and illusions
-- Reliance on physical resources and equipment
-- Difficulty facing enemies that cannot be harmed by conventional weapons
+- 제한된 마법 능력과 대응책
+- 마법과 환상에 대한 취약성
+- 물리적 자원 및 장비에 대한 의존
+- 재래식 무기로 피해를 입힐 수 없는 적과의 싸움의 어려움
 
 ---
 
-> See [Warrior.md](Warrior.md) for detailed information about the warrior class in OpenFantasy. 
+> OpenFantasy의 워리어 클래스에 대한 자세한 내용은 [Warrior.md](Warrior.md)를 참조하십시오.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
