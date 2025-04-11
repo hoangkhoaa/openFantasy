@@ -1,220 +1,224 @@
-# **The School of Enchantment**
+# **Trường Phái Bùa Chú**
 
-> *"To enchant is to weave your will into the fabric of reality itself—to create a bridge between intention and manifestation that persists beyond your presence."*  
-> — Lady Seraphina Moonweaver, Grandmaster of Persistent Magic
+> *"Bùa chú là dệt ý chí của bạn vào cấu trúc của chính thực tại—tạo ra một cây cầu giữa ý định và sự biểu hiện, tồn tại vượt ra ngoài sự hiện diện của bạn."*
+> — Phu nhân Seraphina Moonweaver, Đại sư của Ma thuật Bền bỉ
 
-## Overview
+## Tổng quan
 
-Enchantment is the school of magic dedicated to imbuing objects, creatures, or places with persistent magical effects. Unlike temporary spells, enchantments create lasting changes in the magical properties of their targets, allowing effects to continue without the caster's ongoing attention. This school encompasses everything from creating magical items and protective wards to influencing minds and altering behavioral patterns. Enchantment is distinguished by its focus on durability and self-sustaining magical circuits that continue functioning independently.
+Bùa chú là trường phái ma thuật chuyên về việc thấm nhuần các vật thể, sinh vật hoặc địa điểm bằng các hiệu ứng phép thuật bền bỉ. Không giống như các phép thuật tạm thời, bùa chú tạo ra những thay đổi lâu dài trong các thuộc tính phép thuật của mục tiêu, cho phép các hiệu ứng tiếp tục mà không cần sự chú ý liên tục của người thi triển. Trường phái này bao gồm mọi thứ, từ việc tạo ra các vật phẩm ma thuật và bùa bảo vệ đến việc ảnh hưởng đến tâm trí và thay đổi các kiểu hành vi. Bùa chú được phân biệt bởi sự tập trung vào độ bền và các mạch ma thuật tự duy trì, tiếp tục hoạt động độc lập.
 
-## Fundamental Principles
+## Các Nguyên Tắc Cơ Bản
 
-### The Principle of Persistent Resonance
+### Nguyên Tắc Cộng Hưởng Bền Bỉ
 
-The foundation of enchantment is the Principle of Persistent Resonance, which states that magical energy can be bound into patterns that continuously resonate with their surroundings, creating self-sustaining magical effects. This requires the creation of closed magical circuits within the target that can maintain energy flow without constant external input.
+Nền tảng của bùa chú là Nguyên Tắc Cộng Hưởng Bền Bỉ, trong đó tuyên bố rằng năng lượng ma thuật có thể được ràng buộc thành các mẫu liên tục cộng hưởng với môi trường xung quanh, tạo ra các hiệu ứng phép thuật tự duy trì. Điều này đòi hỏi việc tạo ra các mạch ma thuật khép kín bên trong mục tiêu, có thể duy trì dòng năng lượng mà không cần đầu vào bên ngoài liên tục.
 
-### Primary Components
+### Các Thành Phần Chính
 
-All enchantment spells incorporate several fundamental components:
+Tất cả các phép thuật bùa chú đều kết hợp một số thành phần cơ bản:
 
-1. **Pattern Foundation**: Establishing the base magical structure within the target
-2. **Energy Binding**: Securing magical energy into self-sustaining circuits
-3. **Resonance Stabilization**: Ensuring the enchantment maintains consistent effects
-4. **Trigger Mechanism**: Defining conditions for activation and deactivation
+1. **Nền Tảng Mẫu**: Thiết lập cấu trúc ma thuật cơ bản bên trong mục tiêu
+2. **Ràng Buộc Năng Lượng**: Cố định năng lượng ma thuật vào các mạch tự duy trì
+3. **Ổn Định Cộng Hưởng**: Đảm bảo bùa chú duy trì các hiệu ứng nhất quán
+4. **Cơ Chế Kích Hoạt**: Xác định các điều kiện để kích hoạt và hủy kích hoạt
 
-More complex enchantments include additional components:
+Các bùa chú phức tạp hơn bao gồm các thành phần bổ sung:
 
-5. **Power Regulation**: Controlling the strength and intensity of the magical effect
-6. **Pattern Integration**: Harmonizing the enchantment with the target's natural properties
-7. **Conditional Variance**: Creating adaptable responses to different circumstances
-8. **Temporal Anchoring**: Securing the enchantment against degradation over time
+5. **Điều Chỉnh Sức Mạnh**: Kiểm soát sức mạnh và cường độ của hiệu ứng ma thuật
+6. **Tích Hợp Mẫu**: Hài hòa bùa chú với các thuộc tính tự nhiên của mục tiêu
+7. **Phương Sai Có Điều Kiện**: Tạo ra các phản ứng thích ứng với các hoàn cảnh khác nhau
+8. **Neo Đậu Thời Gian**: Bảo vệ bùa chú khỏi sự suy giảm theo thời gian
 
-### Mana Requirements
+### Yêu Cầu Mana
 
-Enchantment requires specific combinations of mana types, with varying levels of purity based on complexity and duration:
+Bùa chú yêu cầu các tổ hợp cụ thể của các loại mana, với các mức độ tinh khiết khác nhau dựa trên độ phức tạp và thời lượng:
 
-| Enchantment Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| Loại Bùa Chú | Mana Chính | Mana Thứ Cấp | Mana Bậc Ba | Mục Đích |
 |-----------------|-------------|----------------|---------------|---------|
-| Temporary (1-7 days) | Base Mana (25-35%) | Effect-specific (15-25%) | N/A | Short-duration effects |
-| Standard (1-12 months) | Base Mana (35-45%) | Effect-specific (25-35%) | Stability mana (10-20%) | Common magical items |
-| Extended (1-10 years) | Base Mana (45-55%) | Effect-specific (35-45%) | Stability mana (20-30%) | Quality enchanted objects |
-| Semi-Permanent (10-100 years) | Base Mana (55-65%) | Effect-specific (45-55%) | Stability mana (30-40%) | Heirloom items, wards |
-| Permanent (100+ years) | Base Mana (65-75%) | Effect-specific (55-65%) | Stability mana (40-50%) | Artifacts, ancient sites |
+| Tạm Thời (1-7 ngày) | Mana Gốc (25-35%) | Đặc thù hiệu ứng (15-25%) | Không áp dụng | Các hiệu ứng ngắn hạn |
+| Tiêu Chuẩn (1-12 tháng) | Mana Gốc (35-45%) | Đặc thù hiệu ứng (25-35%) | Mana ổn định (10-20%) | Vật phẩm ma thuật phổ biến |
+| Mở Rộng (1-10 năm) | Mana Gốc (45-55%) | Đặc thù hiệu ứng (35-45%) | Mana ổn định (20-30%) | Vật phẩm được bùa chú chất lượng |
+| Bán Vĩnh Viễn (10-100 năm) | Mana Gốc (55-65%) | Đặc thù hiệu ứng (45-55%) | Mana ổn định (30-40%) | Vật gia truyền, bùa hộ mệnh |
+| Vĩnh Viễn (100+ năm) | Mana Gốc (65-75%) | Đặc thù hiệu ứng (55-65%) | Mana ổn định (40-50%) | Cổ vật, địa điểm cổ đại |
 
-### Wild Mana Response
+### Phản Ứng Mana Hoang Dã
 
-Enchantment magic has a complex relationship with Wild Mana, which can both strengthen and destabilize existing enchantments:
+Ma thuật bùa chú có mối quan hệ phức tạp với Mana Hoang Dã, có thể vừa tăng cường vừa gây mất ổn định các bùa chú hiện có:
 
-- **Power Amplification**: Increasing the strength or range of enchanted effects
-- **Duration Extension**: Prolonging the lifespan of temporary enchantments
-- **Spontaneous Activation**: Triggering dormant enchantments without normal conditions
-- **Effect Evolution**: Causing enchantments to develop new or enhanced capabilities
+- **Khuếch Đại Sức Mạnh**: Tăng sức mạnh hoặc phạm vi của các hiệu ứng được bùa chú
+- **Gia Hạn Thời Lượng**: Kéo dài tuổi thọ của các bùa chú tạm thời
+- **Kích Hoạt Tự Phát**: Kích hoạt các bùa chú không hoạt động mà không có điều kiện bình thường
+- **Tiến Hóa Hiệu Ứng**: Khiến các bùa chú phát triển các khả năng mới hoặc nâng cao
 
-However, these potential benefits carry substantial risks:
+Tuy nhiên, những lợi ích tiềm năng này đi kèm với những rủi ro đáng kể:
 
-- **Pattern Destabilization**: Enchantments becoming erratic or unpredictable
-- **Effect Warping**: Original enchantment purpose becoming distorted
-- **Resonance Cascade**: Multiple enchantments interfering with each other
-- **Binding Dissolution**: Complete breakdown of the magical binding
+- **Mất Ổn Định Mẫu**: Các bùa chú trở nên thất thường hoặc khó đoán
+- **Làm Cong Hiệu Ứng**: Mục đích ban đầu của bùa chú bị bóp méo
+- **Thác Cộng Hưởng**: Nhiều bùa chú can thiệp lẫn nhau
+- **Phân Hủy Ràng Buộc**: Sự phá vỡ hoàn toàn của sự ràng buộc ma thuật
 
-## Mana Purification for Enchantment
+## Thanh Lọc Mana cho Bùa Chú
 
-The longevity and stability of enchantments depend directly on mana purity:
+Tuổi thọ và độ ổn định của bùa chú phụ thuộc trực tiếp vào độ tinh khiết của mana:
 
-| Purification Level | Enchantment Capability |
+| Mức Độ Thanh Lọc | Khả Năng Bùa Chú |
 |--------------------|------------------------|
-| Basic (15-25%) | Temporary enchantments lasting days to weeks |
-| Intermediate (30-45%) | Standard enchantments lasting months to a few years |
-| Advanced (50-65%) | Extended enchantments lasting years to decades |
-| Master (70-80%) | Semi-permanent enchantments lasting generations |
-| Grandmaster (85%+) | Permanent enchantments with potential to last centuries |
+| Cơ Bản (15-25%) | Các bùa chú tạm thời kéo dài từ vài ngày đến vài tuần |
+| Trung Cấp (30-45%) | Các bùa chú tiêu chuẩn kéo dài từ vài tháng đến vài năm |
+| Nâng Cao (50-65%) | Các bùa chú mở rộng kéo dài từ vài năm đến vài thập kỷ |
+| Bậc Thầy (70-80%) | Các bùa chú bán vĩnh viễn kéo dài qua nhiều thế hệ |
+| Đại Sư (85%+) | Các bùa chú vĩnh viễn có khả năng kéo dài hàng thế kỷ |
 
-Insufficient purity in enchantment typically results in "fading"—enchantments that gradually weaken over time until they eventually dissipate completely, often with unpredictable effects during the degradation process.
+Sự tinh khiết không đủ trong bùa chú thường dẫn đến "phai màu"—các bùa chú yếu dần theo thời gian cho đến khi chúng cuối cùng tiêu tan hoàn toàn, thường với các hiệu ứng không thể đoán trước trong quá trình suy thoái.
 
-## The Enchanter's Harmony
+## Hòa Âm của Người Bùa Chú
 
-Enchantment magic is conceptualized as a sustained musical composition, with each enchantment creating an ongoing magical melody:
+Ma thuật bùa chú được hình dung như một bản nhạc kéo dài, với mỗi bùa chú tạo ra một giai điệu ma thuật liên tục:
 
-- **Ostinato**: The repeating base pattern that maintains the enchantment's core function
-- **Harmony**: The relationship between the enchantment and its physical vessel
-- **Dynamics**: The variation in power and effect under different conditions
-- **Crescendo and Diminuendo**: The activation and deactivation phases of the enchantment
-- **Counterpoint**: The interplay between multiple enchantments within a single object
+- **Ostinato**: Mẫu cơ sở lặp đi lặp lại duy trì chức năng cốt lõi của bùa chú
+- **Hòa Âm**: Mối quan hệ giữa bùa chú và vật chứa vật lý của nó
+- **Động Lực**: Sự thay đổi về sức mạnh và hiệu ứng trong các điều kiện khác nhau
+- **Crescendo và Diminuendo**: Các giai đoạn kích hoạt và hủy kích hoạt của bùa chú
+- **Đối Âm**: Sự tương tác giữa nhiều bùa chú trong một vật thể duy nhất
 
-Master enchanters describe their work as "composing eternal melodies that play whether or not the musician remains."
+Các bậc thầy bùa chú mô tả công việc của họ là "soạn những giai điệu vĩnh cửu, phát dù người nhạc sĩ có còn ở đó hay không."
 
-## Specialized Disciplines
+## Các Ngành Chuyên Môn
 
-### Artificing
+### Tạo Tác
 
-The creation of magical items and tools with practical functions. Practitioners are known as Artificers.
+Việc tạo ra các vật phẩm và công cụ ma thuật với các chức năng thực tế. Các học viên được gọi là Người Tạo Tác.
 
-### Wardcraft
+### Bùa Hộ Mệnh
 
-Focused on protective and boundary enchantments for locations and objects. Masters are called Wardmasters.
+Tập trung vào các bùa chú bảo vệ và ranh giới cho các địa điểm và vật thể. Các bậc thầy được gọi là Bậc Thầy Bùa Hộ Mệnh.
 
-### Runesmithing
+### Rèn Chữ Rune
 
-Specialized in the use of symbolic language to encode and stabilize enchantments. Practitioners are called Runesmiths.
+Chuyên về việc sử dụng ngôn ngữ tượng trưng để mã hóa và ổn định bùa chú. Các học viên được gọi là Người Rèn Chữ Rune.
 
-### Mindweaving
+### Dệt Tâm Trí
 
-The enchantment of consciousness and thought patterns. Masters are known as Mindweavers.
+Bùa chú của ý thức và các kiểu suy nghĩ. Các bậc thầy được gọi là Người Dệt Tâm Trí.
 
 ### Ambienturgy
 
-Creation of atmospheric and environmental enchantments affecting areas. Practitioners are called Ambienturges.
+Tạo ra các bùa chú khí quyển và môi trường ảnh hưởng đến các khu vực. Các học viên được gọi là Ambienturges.
 
-### Soulbinding
+### Ràng Buộc Linh Hồn
 
-The controversial practice of binding spiritual essences to objects or locations. Masters are known as Soulbinders.
+Thực hành gây tranh cãi về việc ràng buộc các tinh chất tâm linh vào các vật thể hoặc địa điểm. Các bậc thầy được gọi là Người Ràng Buộc Linh Hồn.
 
-### Enchanted Architecture
+### Kiến Trúc Bùa Chú
 
-The integration of enchantments into buildings and structures. Practitioners are called Arcane Architects.
+Sự tích hợp của bùa chú vào các tòa nhà và công trình. Các học viên được gọi là Kiến Trúc Sư Huyền Bí.
 
-## Training Methodology
+## Phương Pháp Đào Tạo
 
-Enchantment training follows a structured progression:
+Đào tạo bùa chú tuân theo một sự tiến triển có cấu trúc:
 
-1. **Theoretical Foundations**: Understanding magical circuits and resonant patterns
-2. **Material Affinity Study**: Learning which substances best hold various enchantments
-3. **Temporary Enchanting**: Creating short-duration effects to master basic techniques
-4. **Circuit Design**: Developing efficient energy patterns for self-sustaining magic
-5. **Duration Extension**: Techniques for increasing enchantment longevity
-6. **Stability Enhancement**: Methods to protect enchantments from deterioration
-7. **Multiple Effect Integration**: Combining different magical functions harmoniously
-8. **Conditional Programming**: Creating enchantments that respond to specific triggers
+1. **Nền Tảng Lý Thuyết**: Hiểu các mạch ma thuật và các mẫu cộng hưởng
+2. **Nghiên Cứu Ái Lực Vật Chất**: Học những chất nào giữ các bùa chú khác nhau tốt nhất
+3. **Bùa Chú Tạm Thời**: Tạo ra các hiệu ứng ngắn hạn để làm chủ các kỹ thuật cơ bản
+4. **Thiết Kế Mạch**: Phát triển các mẫu năng lượng hiệu quả cho ma thuật tự duy trì
+5. **Gia Hạn Thời Lượng**: Các kỹ thuật để tăng tuổi thọ của bùa chú
+6. **Tăng Cường Ổn Định**: Các phương pháp để bảo vệ bùa chú khỏi sự suy thoái
+7. **Tích Hợp Nhiều Hiệu Ứng**: Kết hợp hài hòa các chức năng ma thuật khác nhau
+8. **Lập Trình Có Điều Kiện**: Tạo ra các bùa chú phản ứng với các kích hoạt cụ thể
 
-Training emphasizes patience, precision, and meticulous attention to detail. Most enchantment students spend years mastering each level before progressing to the next.
+Đào tạo nhấn mạnh sự kiên nhẫn, chính xác và chú ý tỉ mỉ đến chi tiết. Hầu hết sinh viên bùa chú dành nhiều năm để làm chủ mỗi cấp độ trước khi tiến lên cấp độ tiếp theo.
 
-## Enchantment in Practice
+## Bùa Chú trong Thực Tế
 
-The process of creating an enchantment follows distinct phases:
+Quá trình tạo ra một bùa chú tuân theo các giai đoạn riêng biệt:
 
-1. **Material Selection**: Choosing appropriate substances to hold the enchantment
-2. **Preparation Rituals**: Cleansing and preparing the target to receive magic
-3. **Mana Purification**: Achieving necessary purity for the desired duration
-4. **Circuit Inscription**: Creating the magical pathways within the target
-5. **Energy Infusion**: Charging the circuits with appropriate magical energy
-6. **Pattern Stabilization**: Securing the enchantment against degradation
-7. **Function Testing**: Verifying the enchantment works as intended
-8. **Final Sealing**: Closing the enchantment against external interference
+1. **Lựa Chọn Vật Liệu**: Chọn các chất thích hợp để giữ bùa chú
+2. **Nghi Lễ Chuẩn Bị**: Thanh tẩy và chuẩn bị mục tiêu để nhận ma thuật
+3. **Thanh Lọc Mana**: Đạt được độ tinh khiết cần thiết cho thời lượng mong muốn
+4. **Khắc Mạch**: Tạo ra các con đường ma thuật bên trong mục tiêu
+5. **Truyền Năng Lượng**: Nạp năng lượng ma thuật thích hợp vào các mạch
+6. **Ổn Định Mẫu**: Bảo vệ bùa chú khỏi sự suy thoái
+7. **Kiểm Tra Chức Năng**: Xác minh bùa chú hoạt động như dự định
+8. **Niêm Phong Cuối Cùng**: Đóng bùa chú chống lại sự can thiệp bên ngoài
 
-For emergency or field enchantment, these steps may be condensed, though with significant sacrifices to duration and stability.
+Đối với bùa chú khẩn cấp hoặc tại chỗ, các bước này có thể được cô đọng, mặc dù phải hy sinh đáng kể về thời lượng và độ ổn định.
 
-## Practical Applications
+## Ứng Dụng Thực Tế
 
-Enchantment serves numerous practical functions in magical society:
+Bùa chú phục vụ nhiều chức năng thực tế trong xã hội ma thuật:
 
-- **Daily Convenience**: Self-cleaning objects, never-cold cups, ever-sharp blades
-- **Protection**: Wards against theft, fire, or magical attack
-- **Communication**: Message-carrying objects, distance-speaking devices
-- **Transportation**: Enhanced vehicles, flying carpets, seven-league boots
-- **Agriculture**: Weather-influencing tools, soil-enriching stones
-- **Medicine**: Healing amulets, pain-relieving charms, diagnostic instruments
-- **Architecture**: Self-repairing structures, temperature-regulating buildings
-- **Entertainment**: Toys, games, and recreational devices with magical properties
+- **Tiện Lợi Hàng Ngày**: Các vật thể tự làm sạch, cốc không bao giờ lạnh, lưỡi dao luôn sắc bén
+- **Bảo Vệ**: Bùa hộ mệnh chống trộm cắp, hỏa hoạn hoặc tấn công ma thuật
+- **Giao Tiếp**: Các vật thể mang thông điệp, thiết bị nói chuyện từ xa
+- **Vận Chuyển**: Xe cộ nâng cao, thảm bay, ủng bảy dặm
+- **Nông Nghiệp**: Công cụ ảnh hưởng đến thời tiết, đá làm giàu đất
+- **Y Học**: Bùa hộ mệnh chữa bệnh, bùa giảm đau, dụng cụ chẩn đoán
+- **Kiến Trúc**: Các công trình tự sửa chữa, các tòa nhà điều chỉnh nhiệt độ
+- **Giải Trí**: Đồ chơi, trò chơi và thiết bị giải trí có thuộc tính ma thuật
 
-## Ethical Considerations
+## Cân Nhắc Đạo Đức
 
-Enchantment raises significant ethical questions:
+Bùa chú đặt ra những câu hỏi đạo đức quan trọng:
 
-- **Consent in Mind-Affecting Enchantments**: Boundaries of acceptable influence
-- **Dependency Issues**: Societies becoming reliant on enchanted solutions
-- **Knowledge Gatekeeping**: Access to enchantment techniques and materials
-- **Planned Obsolescence**: Creating enchantments designed to fail after certain periods
-- **Environmental Impact**: Effects of abandoned or failed enchantments on surrounding areas
-- **Cultural Preservation**: Traditional crafts displaced by enchanted alternatives
+- **Sự Đồng Thuận trong Các Bùa Chú Ảnh Hưởng Đến Tâm Trí**: Ranh giới của ảnh hưởng được chấp nhận
+- **Vấn Đề Phụ Thuộc**: Các xã hội trở nên phụ thuộc vào các giải pháp được bùa chú
+- **Kiểm Soát Tri Thức**: Tiếp cận các kỹ thuật và vật liệu bùa chú
+- **Lỗi Thời Có Kế Hoạch**: Tạo ra các bùa chú được thiết kế để thất bại sau những khoảng thời gian nhất định
+- **Tác Động Môi Trường**: Các hiệu ứng của các bùa chú bị bỏ rơi hoặc thất bại trên các khu vực xung quanh
+- **Bảo Tồn Văn Hóa**: Các nghề thủ công truyền thống bị thay thế bởi các lựa chọn thay thế được bùa chú
 
-Most enchantment academies enforce strict ethical codes governing mind-affecting enchantments and potentially dangerous creations.
+Hầu hết các học viện bùa chú thực thi các quy tắc đạo đức nghiêm ngặt chi phối các bùa chú ảnh hưởng đến tâm trí và các sáng tạo có khả năng gây nguy hiểm.
 
-## Limitations and Weaknesses
+## Hạn Chế và Điểm Yếu
 
-Despite its power, enchantment has inherent limitations:
+Mặc dù có sức mạnh, bùa chú có những hạn chế vốn có:
 
-- **Material Compatibility**: Not all substances accept enchantments equally well
-- **Energy Capacity**: Objects can only hold finite amounts of magical energy
-- **Interference Patterns**: Multiple enchantments may conflict or cancel each other
-- **Environmental Sensitivity**: Some enchantments degrade in specific conditions
-- **Resonance Drift**: Long-term enchantments may slowly shift in effect over time
-- **Recharge Requirements**: Many enchantments require periodic energy renewal
+- **Khả Năng Tương Thích Vật Liệu**: Không phải tất cả các chất đều chấp nhận bùa chú tốt như nhau
+- **Dung Lượng Năng Lượng**: Các vật thể chỉ có thể chứa một lượng năng lượng ma thuật hữu hạn
+- **Các Mẫu Giao Thoa**: Nhiều bùa chú có thể xung đột hoặc triệt tiêu lẫn nhau
+- **Độ Nhạy Môi Trường**: Một số bùa chú suy giảm trong các điều kiện cụ thể
+- **Trôi Dạt Cộng Hưởng**: Các bùa chú dài hạn có thể từ từ thay đổi hiệu ứng theo thời gian
+- **Yêu Cầu Nạp Lại**: Nhiều bùa chú yêu cầu gia hạn năng lượng định kỳ
 
-Common countermeasures against enchantment include:
+Các biện pháp đối phó phổ biến chống lại bùa chú bao gồm:
 
-- **Disenchantment Spells**: Magic specifically designed to break enchantments
-- **Material Treatments**: Substances that resist magical binding
-- **Resonance Disruption**: Fields that interfere with enchantment functioning
-- **Thaumic Grounding**: Techniques to drain enchanted objects of power
-- **Detection Amulets**: Items that reveal the presence of hidden enchantments
+- **Phép Thuật Giải Bùa**: Ma thuật được thiết kế đặc biệt để phá vỡ bùa chú
+- **Xử Lý Vật Liệu**: Các chất chống lại sự ràng buộc ma thuật
+- **Phá Vỡ Cộng Hưởng**: Các trường can thiệp vào chức năng bùa chú
+- **Tiếp Đất Thaumic**: Các kỹ thuật để rút năng lượng của các vật thể được bùa chú
+- **Bùa Phát Hiện**: Các vật phẩm tiết lộ sự hiện diện của các bùa chú ẩn
 
-## Musical Analogy
+## Phép Loại Suy Âm Nhạc
 
-In the musical framework of magic, enchantment represents stringed instruments—creating resonant tones that continue vibrating long after the initial pluck. The enchanter is like a harpist, setting up strings of magic that continue to play their melody independently.
+Trong khuôn khổ âm nhạc của ma thuật, bùa chú đại diện cho các nhạc cụ dây—tạo ra các âm sắc cộng hưởng tiếp tục rung động rất lâu sau khi gảy ban đầu. Người bùa chú giống như một người chơi đàn hạc, thiết lập các dây ma thuật tiếp tục phát giai điệu của chúng một cách độc lập.
 
-Enchantment spells are described in terms of "resonance" and "harmony," with each successful enchantment requiring perfect tuning to its material vessel. Master enchanters can create "symphonies" of multiple interconnected enchantments that respond to each other like sections of an orchestra.
+Các phép thuật bùa chú được mô tả theo các thuật ngữ "cộng hưởng" và "hòa âm", với mỗi bùa chú thành công đòi hỏi sự điều chỉnh hoàn hảo cho vật chứa vật liệu của nó. Các bậc thầy bùa chú có thể tạo ra "các bản giao hưởng" gồm nhiều bùa chú được kết nối với nhau, phản ứng với nhau như các phần của một dàn nhạc.
 
-## Notable Practitioners
+## Các Học Viên Nổi Tiếng
 
-- **Seraphina Moonweaver**: Architect of modern enchantment theory and creator of the Perpetual Resonance Principle
-- **Thaddeus Runehand**: Legendary runesmith who developed the Integrated Circuit System of enchantment
-- **Lydia Soulstring**: Pioneer in ethical mindweaving and emotional enchantment
-- **Galen Wardwright**: Creator of the Concentric Defense system for layered protective enchantments
-- **Vasilisa Everforge**: Master artificer known for creating enchanted items that grow stronger with use
+- **Seraphina Moonweaver**: Kiến trúc sư của lý thuyết bùa chú hiện đại và người tạo ra Nguyên Tắc Cộng Hưởng Vĩnh Viễn
+- **Thaddeus Runehand**: Người rèn chữ rune huyền thoại, người đã phát triển Hệ Thống Mạch Tích Hợp của bùa chú
+- **Lydia Soulstring**: Người tiên phong trong việc dệt tâm trí có đạo đức và bùa chú cảm xúc
+- **Galen Wardwright**: Người tạo ra hệ thống Phòng Thủ Đồng Tâm cho các bùa chú bảo vệ nhiều lớp
+- **Vasilisa Everforge**: Người tạo tác bậc thầy nổi tiếng với việc tạo ra các vật phẩm được bùa chú ngày càng mạnh mẽ hơn khi sử dụng
 
-## Safety Protocols
+## Giao Thức An Toàn
 
-Due to the potential dangers of enchantment, standardized safety measures include:
+Do những nguy hiểm tiềm ẩn của bùa chú, các biện pháp an toàn tiêu chuẩn bao gồm:
 
-- **Containment Circles**: Magical boundaries that limit effect spread during creation
-- **Resonance Dampeners**: Tools to slow or halt unstable enchantment processes
-- **Disenchantment Keys**: Built-in methods to safely deactivate enchantments
-- **Stability Monitors**: Devices that track enchantment integrity during creation
-- **Energy Limiters**: Safeguards preventing power overload in enchanted items
-- **Isolation Chambers**: Specialized rooms for testing potentially unstable enchantments
+- **Vòng Chứa**: Các ranh giới ma thuật hạn chế sự lan truyền hiệu ứng trong quá trình tạo
+- **Bộ Giảm Chấn Cộng Hưởng**: Các công cụ để làm chậm hoặc dừng các quá trình bùa chú không ổn định
+- **Chìa Khóa Giải Bùa**: Các phương pháp tích hợp để vô hiệu hóa bùa chú một cách an toàn
+- **Màn Hình Ổn Định**: Các thiết bị theo dõi tính toàn vẹn của bùa chú trong quá trình tạo
+- **Bộ Giới Hạn Năng Lượng**: Các biện pháp bảo vệ ngăn chặn quá tải năng lượng trong các vật phẩm được bùa chú
+- **Buồng Cách Ly**: Các phòng chuyên dụng để thử nghiệm các bùa chú có khả năng không ổn định
 
-The Enchanter's Oath, taken by all certified practitioners, includes the promise to "bind with purpose, not permanence; to enchant with foresight, not just desire; and to unmake what proves harmful, regardless of the cost or challenge."
+Lời thề của Người Bùa Chú, được thực hiện bởi tất cả các học viên được chứng nhận, bao gồm lời hứa "ràng buộc với mục đích, không phải sự vĩnh viễn; để bùa chú với sự dự đoán, không chỉ mong muốn; và để hủy bỏ những gì chứng tỏ là có hại, bất kể chi phí hay thử thách."
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Harmonic Theory](/codex/Magics/HarmonicTheory.md)* 
+*Xem thêm: [Thanh Lọc Mana](/codex/Magics/ManaMechanics.md), [Mana Hoang Dã](/codex/Magics/WildMana.md), [Lý Thuyết Điều Hòa](/codex/Magics/HarmonicTheory.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

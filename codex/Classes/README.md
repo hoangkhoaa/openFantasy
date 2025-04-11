@@ -1,86 +1,86 @@
-# OpenFantasy Character Classes
+# OpenFantasy - Lớp Nhân Vật
 
-> *"Every soul finds its own melody in the symphony of power."*
+> *"Mỗi linh hồn tìm thấy giai điệu riêng trong bản giao hưởng sức mạnh."*
 
-## Overview
+## Tổng Quan
 
-Welcome to the OpenFantasy Character Classes documentation. This repository contains comprehensive information about the various paths of power and specialization available to characters in the OpenFantasy world.
+Chào mừng đến với tài liệu về Lớp Nhân Vật của OpenFantasy. Kho lưu trữ này chứa thông tin toàn diện về các con đường sức mạnh và chuyên môn hóa khác nhau dành cho nhân vật trong thế giới OpenFantasy.
 
-## Quick Navigation
+## Điều Hướng Nhanh
 
-- [Class Fundamentals](#class-fundamentals)
-- [Primary Classes](#primary-classes)
-- [Character Progression](#character-progression)
-- [Multiclassing](#multiclassing)
-- [Species Affinities](#species-affinities)
-- [Documentation Structure](#documentation-structure)
+- [Nguyên Tắc Cơ Bản của Lớp](#class-fundamentals)
+- [Các Lớp Chính](#primary-classes)
+- [Tiến Trình Nhân Vật](#character-progression)
+- [Đa Lớp](#multiclassing)
+- [Sự Tương Thích Giữa Chủng Tộc](#species-affinities)
+- [Cấu Trúc Tài Liệu](#documentation-structure)
 
-## Class Fundamentals
+## Nguyên Tắc Cơ Bản của Lớp
 
-Classes in OpenFantasy represent specialized paths that harness and develop a character's innate abilities:
+Các lớp trong OpenFantasy đại diện cho các con đường chuyên biệt khai thác và phát triển khả năng bẩm sinh của nhân vật:
 
-| Concept | Description |
+| Khái Niệm | Mô Tả |
 |---------|-------------|
-| **Class Structure** | The organization of abilities and specializations |
-| **Elemental Composition** | The balance of Exanthis, Soul, and Mana Capacity |
-| **Subclasses** | Specialized branches of each core class |
-| **Class Progression** | The development path for class abilities |
-| **Equipment** | Tools and items that enhance class capabilities |
+| **Cấu Trúc Lớp** | Tổ chức các khả năng và chuyên môn hóa |
+| **Thành Phần Nguyên Tố** | Sự cân bằng của Exanthis, Linh Hồn và Dung Lượng Mana |
+| **Phân Lớp** | Các nhánh chuyên biệt của mỗi lớp cốt lõi |
+| **Tiến Trình Lớp** | Con đường phát triển cho các khả năng của lớp |
+| **Trang Bị** | Công cụ và vật phẩm giúp tăng cường khả năng của lớp |
 
-## Primary Classes
+## Các Lớp Chính
 
-OpenFantasy features ten primary classes, each with their own specializations:
+OpenFantasy có mười lớp chính, mỗi lớp có chuyên môn hóa riêng:
 
-| Class | Core Focus | Primary Attribute | Class Directory |
+| Lớp | Tập Trung Cốt Lõi | Thuộc Tính Chính | Thư Mục Lớp |
 |-------|------------|-------------------|----------------|
-| **Warrior** | Physical combat | Exanthis | [Warrior/](Warrior/) |
-| **Mage** | Arcane spellcasting | Mana Capacity | [Mage/](Mage/) |
-| **Rogue** | Stealth and precision | Soul | [Rogue/](Rogue/) |
-| **Cleric** | Divine magic | Soul/Mana | [Cleric/](Cleric/) |
-| **Ranger** | Wilderness and tracking | Exanthis/Soul | [Ranger/](Ranger/) |
-| **Artificer** | Magical creation | Mana Capacity | [Artificer/](Artificer/) |
-| **Bard** | Performance magic | Soul/Mana | [Bard/](Bard/) |
-| **Druid** | Nature magic | Soul/Mana | [Druid/](Druid/) |
-| **Monk** | Internal energy | Exanthis/Soul | [Monk/](Monk/) |
-| **Warlock** | Pact magic | Soul/Mana | [Warlock/](Warlock/) |
+| **Warrior** | Chiến đấu vật lý | Exanthis | [Warrior/](Warrior/) |
+| **Mage** | Triệu hồi phép thuật | Dung Lượng Mana | [Mage/](Mage/) |
+| **Rogue** | Tàng hình và chính xác | Linh Hồn | [Rogue/](Rogue/) |
+| **Cleric** | Phép thuật thần thánh | Linh Hồn/Mana | [Cleric/](Cleric/) |
+| **Ranger** | Hoang dã và theo dõi | Exanthis/Linh Hồn | [Ranger/](Ranger/) |
+| **Artificer** | Sáng tạo phép thuật | Dung Lượng Mana | [Artificer/](Artificer/) |
+| **Bard** | Phép thuật biểu diễn | Linh Hồn/Mana | [Bard/](Bard/) |
+| **Druid** | Phép thuật tự nhiên | Linh Hồn/Mana | [Druid/](Druid/) |
+| **Monk** | Năng lượng nội tại | Exanthis/Linh Hồn | [Monk/](Monk/) |
+| **Warlock** | Phép thuật giao ước | Linh Hồn/Mana | [Warlock/](Warlock/) |
 
-→ See the [Classes overview](Classes.md) for detailed information about each class.
+→ Xem [Tổng quan về các lớp](Classes.md) để biết thông tin chi tiết về từng lớp.
 
-## Character Progression
+## Tiến Trình Nhân Vật
 
-Character advancement follows a tiered progression system:
+Sự tiến bộ của nhân vật tuân theo một hệ thống tiến trình theo cấp độ:
 
-### Level Tiers
+### Các Bậc Cấp Độ
 
-| Tier | Levels | Description |
+| Bậc | Cấp Độ | Mô Tả |
 |------|--------|-------------|
-| **Novice** | 1-5 | Learning fundamentals of the class |
-| **Adept** | 6-10 | Mastering basics and developing specialization |
-| **Expert** | 11-15 | Honing abilities to a high degree |
-| **Master** | 16-20 | Achieving mastery of chosen path |
-| **Legendary** | 21+ | Transcending normal limitations |
+| **Novice** | 1-5 | Học các nguyên tắc cơ bản của lớp |
+| **Adept** | 6-10 | Nắm vững kiến thức cơ bản và phát triển chuyên môn hóa |
+| **Expert** | 11-15 | Trau dồi khả năng đến mức độ cao |
+| **Master** | 16-20 | Đạt được sự thành thạo con đường đã chọn |
+| **Legendary** | 21+ | Vượt qua các giới hạn thông thường |
 
-## Multiclassing
+## Đa Lớp
 
-Characters may pursue multiple class paths simultaneously, creating unique combinations of abilities. This versatility comes at the cost of specialized mastery in any single discipline.
+Nhân vật có thể theo đuổi nhiều con đường lớp học cùng một lúc, tạo ra sự kết hợp độc đáo của các khả năng. Tính linh hoạt này phải trả giá bằng sự thành thạo chuyên môn trong bất kỳ bộ môn đơn lẻ nào.
 
-### Common Multiclass Combinations
+### Các Tổ Hợp Đa Lớp Phổ Biến
 
-| Combination | Synergy |
+| Tổ Hợp | Hiệp Lực |
 |-------------|---------|
-| Warrior/Mage | Physical combat enhanced with magical abilities |
-| Cleric/Warrior | Divine magic with martial prowess |
-| Rogue/Ranger | Stealth combined with wilderness expertise |
-| Bard/Warlock | Performance magic enhanced with pact abilities |
-| Druid/Monk | Nature magic combined with physical discipline |
+| Warrior/Mage | Chiến đấu vật lý được tăng cường bằng khả năng phép thuật |
+| Cleric/Warrior | Phép thuật thần thánh với sức mạnh chiến đấu |
+| Rogue/Ranger | Tàng hình kết hợp với kiến thức chuyên môn về vùng hoang dã |
+| Bard/Warlock | Phép thuật biểu diễn được tăng cường bằng khả năng giao ước |
+| Druid/Monk | Phép thuật tự nhiên kết hợp với kỷ luật thể chất |
 
-## Species Affinities
+## Sự Tương Thích Giữa Chủng Tộc
 
-Different species have natural affinities for certain classes based on their elemental composition:
+Các chủng tộc khác nhau có sự tương thích tự nhiên với một số lớp nhất định dựa trên thành phần nguyên tố của chúng:
 
-| Species | Natural Class Affinities |
+| Chủng Tộc | Các Lớp Tương Thích Tự Nhiên |
 |---------|--------------------------|
-| **Humans** | Balanced affinity for all classes |
+| **Humans** | Cân bằng phù hợp với tất cả các lớp |
 | **Elves** | Mage, Ranger, Bard |
 | **Dark Elves** | Mage, Rogue, Warlock |
 | **Dwarves** | Warrior, Artificer, Cleric |
@@ -92,58 +92,62 @@ Different species have natural affinities for certain classes based on their ele
 | **Shadowfolk** | Rogue, Warlock, Mage |
 | **Giants** | Warrior, Druid |
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-Each class features a characteristic elemental composition that shapes their abilities:
+Mỗi lớp có thành phần nguyên tố đặc trưng định hình khả năng của chúng:
 
-| Class | Exanthis | Soul | Mana Capacity | Primary Magical Affinity |
+| Lớp | Exanthis | Linh Hồn | Dung Lượng Mana | Khả Năng Phép Thuật Chính |
 |-------|----------|------|---------------|--------------------------|
-| **Warrior** | 50-70% | 20-35% | 10-20% | Terramana (Stability), Base Mana (Force) |
-| **Mage** | 10-25% | 15-35% | 50-70% | Varies by specialization |
-| **Rogue** | 30-45% | 40-60% | 10-25% | Umbramana (Concealment), Aeromana (Mobility) |
-| **Cleric** | 20-35% | 30-50% | 25-45% | Luxmana (Light), Vitamana (Healing) |
-| **Ranger** | 35-55% | 30-45% | 15-30% | Vitamana (Nature), Aeromana (Movement) |
-| **Artificer** | 25-40% | 20-35% | 35-55% | Crystallmana (Structure), Terramana (Solidity) |
-| **Bard** | 15-30% | 35-55% | 25-45% | Fulgumana (Sound), Aeromana (Communication) |
-| **Druid** | 20-35% | 30-45% | 30-50% | Vitamana (Growth), Terramana (Earth) |
-| **Monk** | 40-55% | 30-50% | 10-25% | Base Mana (Internal Energy), Aeromana (Movement) |
-| **Warlock** | 15-30% | 25-40% | 40-60% | Aetheramana (Void), Varies by pact |
+| **Warrior** | 50-70% | 20-35% | 10-20% | Terramana (Ổn Định), Mana Gốc (Lực) |
+| **Mage** | 10-25% | 15-35% | 50-70% | Thay đổi theo chuyên môn hóa |
+| **Rogue** | 30-45% | 40-60% | 10-25% | Umbramana (Ẩn Mình), Aeromana (Di Chuyển) |
+| **Cleric** | 20-35% | 30-50% | 25-45% | Luxmana (Ánh Sáng), Vitamana (Chữa Lành) |
+| **Ranger** | 35-55% | 30-45% | 15-30% | Vitamana (Tự Nhiên), Aeromana (Di Chuyển) |
+| **Artificer** | 25-40% | 20-35% | 35-55% | Crystallmana (Cấu Trúc), Terramana (Độ Chắc Chắn) |
+| **Bard** | 15-30% | 35-55% | 25-45% | Fulgumana (Âm Thanh), Aeromana (Giao Tiếp) |
+| **Druid** | 20-35% | 30-45% | 30-50% | Vitamana (Tăng Trưởng), Terramana (Đất) |
+| **Monk** | 40-55% | 30-50% | 10-25% | Mana Gốc (Năng Lượng Nội Tại), Aeromana (Di Chuyển) |
+| **Warlock** | 15-30% | 25-40% | 40-60% | Aetheramana (Hư Không), Thay đổi theo giao ước |
 
-This elemental balance directly influences a class's natural affinity for certain specialized forms of magic and their overall magical capabilities:
+Sự cân bằng nguyên tố này ảnh hưởng trực tiếp đến sự phù hợp tự nhiên của một lớp với các dạng phép thuật chuyên biệt nhất định và khả năng phép thuật tổng thể của chúng:
 
-- **Specialization Efficiency**: Classes with higher Mana Capacity typically achieve better elemental specialization rates
-- **Mana Purification**: The ratio of Soul to Mana Capacity affects a class's ability to purify Wild Mana into Base Mana
-- **Magical Stamina**: Higher Exanthis provides better physical endurance but typically reduces magical efficiency
-- **Hybrid Potential**: Classes with more balanced compositions often excel at combining different elemental types
+- **Hiệu Quả Chuyên Môn Hóa**: Các lớp có Dung Lượng Mana cao hơn thường đạt được tỷ lệ chuyên môn hóa nguyên tố tốt hơn
+- **Thanh Lọc Mana**: Tỷ lệ Linh Hồn trên Dung Lượng Mana ảnh hưởng đến khả năng thanh lọc Mana Hoang dã thành Mana Gốc của một lớp
+- **Thể Lực Phép Thuật**: Exanthis cao hơn mang lại sức bền thể chất tốt hơn nhưng thường làm giảm hiệu quả phép thuật
+- **Tiềm Năng Lai**: Các lớp có thành phần cân bằng hơn thường vượt trội trong việc kết hợp các loại nguyên tố khác nhau
 
-## Documentation Structure
+## Cấu Trúc Tài Liệu
 
-The Classes directory is organized as follows:
+Thư mục Các Lớp được tổ chức như sau:
 
 ```
 codex/Classes/
-├── README.md                # This overview document
-├── Classes.md               # Main classes document with detailed descriptions
-├── template_README.md       # Template for creating class directory README files
-├── Warrior/                 # Example class directory
-│   ├── README.md            # Class-specific overview
-│   ├── Warrior.md           # Detailed class information
-│   ├── Guardian.md          # Subclass documentation
-│   ├── Berserker.md         # Subclass documentation
-│   └── ...                  # Other subclass documents
-└── ...                      # Other class directories
+├── README.md                # Tài liệu tổng quan này
+├── Classes.md               # Tài liệu lớp chính với mô tả chi tiết
+├── template_README.md       # Mẫu để tạo tệp README thư mục lớp
+├── Warrior/                 # Thư mục lớp ví dụ
+│   ├── README.md            # Tổng quan cụ thể của lớp
+│   ├── Warrior.md           # Thông tin lớp chi tiết
+│   ├── Guardian.md          # Tài liệu phân lớp
+│   ├── Berserker.md         # Tài liệu phân lớp
+│   └── ...                  # Các tài liệu phân lớp khác
+└── ...                      # Các thư mục lớp khác
 ```
 
-### Using the Template
+### Sử Dụng Mẫu
 
-To create a new class README, copy the [template_README.md](template_README.md) file and replace the placeholder values with class-specific information:
+Để tạo README lớp mới, hãy sao chép tệp [template_README.md](template_README.md) và thay thế các giá trị giữ chỗ bằng thông tin dành riêng cho lớp:
 
-1. Replace `[CLASS_NAME]` with the name of the class
-2. Fill in composition ranges and descriptions
-3. List subclasses with their focus areas and specialties
-4. Document core abilities, equipment, and species affinities
-5. Describe class strengths and challenges
+1. Thay thế `[CLASS_NAME]` bằng tên của lớp
+2. Điền vào phạm vi thành phần và mô tả
+3. Liệt kê các phân lớp với các lĩnh vực và chuyên môn hóa tập trung của chúng
+4. Ghi lại các khả năng cốt lõi, trang bị và sự tương thích giữa các chủng tộc
+5. Mô tả điểm mạnh và thách thức của lớp
 
 ---
 
-> **Repository Structure**: This documentation uses Markdown formatting optimized for viewing on Git platforms. 
+> **Cấu Trúc Kho Lưu Trữ**: Tài liệu này sử dụng định dạng Markdown được tối ưu hóa để xem trên các nền tảng Git.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

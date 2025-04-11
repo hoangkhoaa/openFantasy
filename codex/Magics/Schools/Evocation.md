@@ -1,188 +1,192 @@
-# **The School of Evocation**
+# **Trường Phái Triệu Hồi (Evocation)**
 
-> *"To evoke is to call power from within and without, to shape raw force through will and voice. Not a request, but a demand that the elements answer."*  
-> — Arch-Evoker Ragnarr Stormcaller, Grand Master of the Crimson Tower
+> *"Triệu hồi là gọi sức mạnh từ bên trong và bên ngoài, để định hình sức mạnh thô sơ thông qua ý chí và giọng nói. Không phải là một yêu cầu, mà là một mệnh lệnh để các nguyên tố đáp lại."*
+> — Arch-Evoker Ragnarr Stormcaller, Đại Sư của Tháp Crimson
 
-## Overview
+## Tổng quan
 
-Evocation is the direct manipulation of magical energy to create powerful, often spectacular effects. It is the most visibly impressive school of magic, channeling raw elemental forces into existence through sheer will and precise mana manipulation. Evocation spells typically produce immediate, dramatic results - from conjuring destructive elemental forces to creating shields of pure magical energy.
+Triệu hồi (Evocation) là sự thao túng trực tiếp năng lượng ma thuật để tạo ra các hiệu ứng mạnh mẽ, thường là ngoạn mục. Đây là trường phái ma thuật gây ấn tượng trực quan nhất, chuyển các lực lượng nguyên tố thô sơ vào sự tồn tại thông qua ý chí thuần túy và thao tác mana chính xác. Các phép thuật Triệu hồi thường tạo ra kết quả ngay lập tức, ấn tượng - từ việc triệu hồi các lực lượng nguyên tố hủy diệt đến việc tạo ra các lá chắn năng lượng ma thuật thuần túy.
 
-## Fundamental Principles
+## Các Nguyên Tắc Cơ Bản
 
-### The Voice of Command
+### Tiếng Nói Của Mệnh Lệnh
 
-Evocation operates on the principle that elemental forces can be commanded through proper mana resonance and authoritative will. Unlike enchantment which persuades or illusion which deceives, evocation directly calls forth power, demanding that it manifest in specific ways. This school requires strong mental discipline and exceptional mana projection capabilities.
+Triệu hồi hoạt động dựa trên nguyên tắc rằng các lực lượng nguyên tố có thể được ra lệnh thông qua cộng hưởng mana phù hợp và ý chí có thẩm quyền. Không giống như mê hoặc (enchantment) thuyết phục hoặc ảo ảnh (illusion) lừa dối, Triệu hồi trực tiếp kêu gọi sức mạnh, yêu cầu nó biểu hiện theo những cách cụ thể. Trường phái này đòi hỏi kỷ luật tinh thần mạnh mẽ và khả năng phóng chiếu mana đặc biệt.
 
-### Primary Components
+### Các Thành Phần Chính
 
-All evocation spells incorporate three fundamental components:
+Tất cả các phép thuật Triệu hồi kết hợp ba thành phần cơ bản:
 
-1. **Mana Condensation**: Gathering and concentrating magical energy
-2. **Elemental Affinity**: Aligning the mana with specific elemental properties
-3. **Force Projection**: Directing the manifested energy with precision and control
+1. **Ngưng Tụ Mana (Mana Condensation)**: Tập hợp và cô đặc năng lượng ma thuật
+2. **Ái Lực Nguyên Tố (Elemental Affinity)**: Căn chỉnh mana với các thuộc tính nguyên tố cụ thể
+3. **Phóng Chiếu Lực (Force Projection)**: Điều khiển năng lượng đã biểu hiện với độ chính xác và kiểm soát
 
-### Mana Requirements
+### Yêu Cầu Mana
 
-Evocation typically requires large quantities of mana with compositions heavily weighted toward the relevant elemental types:
+Triệu hồi thường đòi hỏi số lượng lớn mana với thành phần phần lớn nghiêng về các loại nguyên tố có liên quan:
 
-| Evocation Focus | Primary Mana | Secondary Mana | Purpose |
+| Tiêu Điểm Triệu Hồi (Evocation Focus) | Mana Chính (Primary Mana) | Mana Phụ (Secondary Mana) | Mục Đích (Purpose) |
 |-----------------|-------------|----------------|---------|
-| Fire Evocation | Ignamana (60-80%) | Base Mana (10-30%) | Heat and combustion manifestation |
-| Water Evocation | Aquamana (60-80%) | Base Mana (10-30%) | Liquid manipulation and pressure control |
-| Earth Evocation | Terramana (60-80%) | Base Mana (10-30%) | Density manipulation and stability |
-| Air Evocation | Aeromana (60-80%) | Base Mana (10-30%) | Movement and pressure differential |
-| Lightning Evocation | Aeromana (40-60%) | Ignamana (30-50%) | Electrical charge generation |
-| Force Evocation | Base Mana (70-90%) | Varies by effect | Pure kinetic energy manipulation |
-| Light Evocation | Luxmana (60-80%) | Base Mana (10-30%) | Visible spectrum manifestation |
-| Shadow Evocation | Umbramana (60-80%) | Base Mana (10-30%) | Absence of light manipulation |
+| Triệu Hồi Lửa (Fire Evocation) | Ignamana (60-80%) | Base Mana (10-30%) | Biểu hiện nhiệt và đốt cháy |
+| Triệu Hồi Nước (Water Evocation) | Aquamana (60-80%) | Base Mana (10-30%) | Thao tác chất lỏng và kiểm soát áp suất |
+| Triệu Hồi Đất (Earth Evocation) | Terramana (60-80%) | Base Mana (10-30%) | Thao tác mật độ và ổn định |
+| Triệu Hồi Khí (Air Evocation) | Aeromana (60-80%) | Base Mana (10-30%) | Chuyển động và sai biệt áp suất |
+| Triệu Hồi Sét (Lightning Evocation) | Aeromana (40-60%) | Ignamana (30-50%) | Tạo ra điện tích |
+| Triệu Hồi Lực (Force Evocation) | Base Mana (70-90%) | Varies by effect | Thao tác năng lượng động học thuần túy |
+| Triệu Hồi Ánh Sáng (Light Evocation) | Luxmana (60-80%) | Base Mana (10-30%) | Biểu hiện quang phổ nhìn thấy được |
+| Triệu Hồi Bóng Tối (Shadow Evocation) | Umbramana (60-80%) | Base Mana (10-30%) | Thao tác sự vắng mặt của ánh sáng |
 
-### Wild Mana Interference
+### Nhiễu Loạn bởi Mana Hoang Dã (Wild Mana Interference)
 
-Evocation has a complex relationship with Wild Mana. While wild energy can amplify the raw power of evocation spells, it introduces significant control problems:
+Triệu hồi có mối quan hệ phức tạp với Mana Hoang Dã (Wild Mana). Mặc dù năng lượng hoang dã có thể khuếch đại sức mạnh thô sơ của các phép thuật Triệu hồi, nhưng nó lại gây ra các vấn đề kiểm soát đáng kể:
 
-- **Power Surge**: Uncontrolled amplification of spell effects
-- **Elemental Contamination**: Introduction of unintended elemental properties
-- **Directional Instability**: Loss of precision in targeting
-- **Feedback Loops**: Dangerous energy cycling back to the caster
+- **Sóng Tăng Sức Mạnh (Power Surge)**: Khuếch đại không kiểm soát các hiệu ứng phép thuật
+- **Ô Nhiễm Nguyên Tố (Elemental Contamination)**: Đưa vào các thuộc tính nguyên tố không mong muốn
+- **Mất Ổn Định Hướng (Directional Instability)**: Mất độ chính xác trong việc nhắm mục tiêu
+- **Vòng Phản Hồi (Feedback Loops)**: Chu trình năng lượng nguy hiểm quay trở lại người thi triển
 
-Paradoxically, some battle evokers deliberately introduce controlled amounts of Wild Mana to create more unpredictable and therefore harder-to-counter effects, though this practice is considered extremely dangerous.
+Trớ trêu thay, một số chiến binh Triệu hồi cố ý đưa vào một lượng Mana Hoang Dã được kiểm soát để tạo ra các hiệu ứng khó đoán hơn và do đó khó chống lại hơn, mặc dù thực tế này được coi là vô cùng nguy hiểm.
 
-## Mana Purification for Evocation
+## Tinh Chế Mana cho Triệu Hồi (Mana Purification for Evocation)
 
-Evocation requires a balance between quantity and quality of mana. While the raw power of evocation benefits from large mana reserves, insufficient purity results in unstable and potentially dangerous effects.
+Triệu hồi đòi hỏi sự cân bằng giữa số lượng và chất lượng của mana. Mặc dù sức mạnh thô sơ của Triệu hồi hưởng lợi từ trữ lượng mana lớn, nhưng độ tinh khiết không đủ sẽ dẫn đến các hiệu ứng không ổn định và có khả năng gây nguy hiểm.
 
-| Purification Level | Evocation Capability |
+| Mức Độ Tinh Chế (Purification Level) | Khả Năng Triệu Hồi (Evocation Capability) |
 |--------------------|----------------------|
-| Basic (15-25%) | Simple elemental manifestations with limited control |
-| Intermediate (30-45%) | Reliable elemental effects with moderate power and accuracy |
-| Advanced (50-65%) | Complex evocations with precise control and significant force |
-| Master (70-80%) | Multi-elemental combinations and exceptional power-to-control ratio |
-| Grandmaster (85%+) | Perfect elemental harmony with maximum efficiency and minimal waste |
+| Cơ Bản (Basic) (15-25%) | Biểu hiện nguyên tố đơn giản với khả năng kiểm soát hạn chế |
+| Trung Bình (Intermediate) (30-45%) | Các hiệu ứng nguyên tố đáng tin cậy với sức mạnh và độ chính xác vừa phải |
+| Nâng Cao (Advanced) (50-65%) | Triệu hồi phức tạp với khả năng kiểm soát chính xác và lực đáng kể |
+| Bậc Thầy (Master) (70-80%) | Kết hợp đa nguyên tố và tỷ lệ sức mạnh trên khả năng kiểm soát đặc biệt |
+| Đại Sư (Grandmaster) (85%+) | Sự hài hòa nguyên tố hoàn hảo với hiệu quả tối đa và lãng phí tối thiểu |
 
-## The Elemental Octave in Evocation
+## Bát Độ Nguyên Tố trong Triệu Hồi (The Elemental Octave in Evocation)
 
-Evocation particularly relies on understanding the Elemental Octave, as combining complementary elements creates harmonious and efficient spells, while opposing elements can create destructive interference or even spell failure.
+Triệu hồi đặc biệt dựa vào việc hiểu Bát Độ Nguyên Tố (Elemental Octave), vì việc kết hợp các yếu tố bổ sung sẽ tạo ra các phép thuật hài hòa và hiệu quả, trong khi các yếu tố đối lập có thể tạo ra sự can thiệp phá hoại hoặc thậm chí thất bại phép thuật.
 
-The elemental relationships in evocation follow the standard Elemental Wheel, but with particular attention to:
+Các mối quan hệ nguyên tố trong Triệu hồi tuân theo Bánh Xe Nguyên Tố (Elemental Wheel) tiêu chuẩn, nhưng đặc biệt chú ý đến:
 
-- **Harmonic Pairs**: Fire-Air, Water-Earth, Light-Life, Shadow-Death
-- **Dissonant Pairs**: Fire-Water, Air-Earth, Light-Shadow, Life-Death
-- **Constructive Triads**: Fire-Earth-Light, Water-Air-Shadow, etc.
+- **Cặp Hài Hòa (Harmonic Pairs)**: Lửa-Khí, Nước-Đất, Ánh Sáng-Sự Sống, Bóng Tối-Cái Chết
+- **Cặp Bất Hòa (Dissonant Pairs)**: Lửa-Nước, Khí-Đất, Ánh Sáng-Bóng Tối, Sự Sống-Cái Chết
+- **Bộ Ba Xây Dựng (Constructive Triads)**: Lửa-Đất-Ánh Sáng, Nước-Khí-Bóng Tối, v.v.
 
-Master evokers learn to "play" the elemental harmonies like musical instruments, creating complex "chords" of elemental forces that produce effects greater than the sum of their parts.
+Các bậc thầy Triệu hồi học cách "chơi" các hòa âm nguyên tố như các nhạc cụ, tạo ra các "hợp âm" phức tạp của các lực lượng nguyên tố tạo ra các hiệu ứng lớn hơn tổng các bộ phận của chúng.
 
-## Specialized Disciplines
+## Các Chuyên Ngành
 
-### Pyromancy
+### Thuật Điều Khiển Lửa (Pyromancy)
 
-Focused on fire manipulation, from controlled flames to explosive conflagrations. Practitioners are known as Pyromancers.
+Tập trung vào thao tác lửa, từ ngọn lửa được kiểm soát đến những đám cháy nổ. Các học viên được gọi là Pyromancers.
 
-### Hydromancy
+### Thuật Điều Khiển Nước (Hydromancy)
 
-The art of water control, including mist, ice, and steam manipulation. Masters are called Tidesingers.
+Nghệ thuật điều khiển nước, bao gồm thao tác sương mù, băng và hơi nước. Các bậc thầy được gọi là Tidesingers.
 
-### Geomancy
+### Thuật Điều Khiển Đất (Geomancy)
 
-Specializes in earth and stone manipulation. Practitioners are known as Stoneshapers.
+Chuyên về thao tác đất và đá. Các học viên được gọi là Stoneshapers.
 
-### Aeromancy
+### Thuật Điều Khiển Khí (Aeromancy)
 
-The discipline of air and wind control. Practitioners are called Windweavers.
+Kỷ luật kiểm soát không khí và gió. Các học viên được gọi là Windweavers.
 
-### Electromancy
+### Thuật Điều Khiển Điện (Electromancy)
 
-Advanced discipline focused on lightning and electrical energy. Masters are known as Stormcallers.
+Kỷ luật nâng cao tập trung vào sét và năng lượng điện. Các bậc thầy được gọi là Stormcallers.
 
-### Umbramancy
+### Thuật Điều Khiển Bóng Tối (Umbramancy)
 
-The manipulation of shadow and darkness. Practitioners are called Shadowcasters.
+Sự thao túng bóng tối. Các học viên được gọi là Shadowcasters.
 
-### Luxomancy
+### Thuật Điều Khiển Ánh Sáng (Luxomancy)
 
-Specializes in light manipulation beyond simple illumination. Masters are known as Lightbringers.
+Chuyên về thao tác ánh sáng vượt ra ngoài chiếu sáng đơn giản. Các bậc thầy được gọi là Lightbringers.
 
-### Force Manipulation
+### Thao Tác Lực (Force Manipulation)
 
-The advanced discipline of pure kinetic energy control. Practitioners are called Forceshapers.
+Kỷ luật nâng cao về kiểm soát năng lượng động học thuần túy. Các học viên được gọi là Forceshapers.
 
-## Training Methodology
+## Phương Pháp Đào Tạo
 
-Evocation training follows a distinct progression:
+Đào tạo Triệu hồi tuân theo một trình tự riêng biệt:
 
-1. **Elemental Affinity Discovery**: Identifying a student's natural elemental connections
-2. **Power Control Exercises**: Learning to regulate mana output and projection
-3. **Single-Element Mastery**: Developing expertise with one primary element
-4. **Precision Training**: Exercises focused on accuracy and fine control
-5. **Secondary Element Introduction**: Expanding capabilities to complementary elements
-6. **Combat Applications**: Tactical uses of evocation in controlled scenarios
-7. **Elemental Harmonization**: Advanced techniques for combining multiple elements
-8. **Efficiency Refinement**: Reducing mana costs while maintaining effect potency
+1. **Khám Phá Ái Lực Nguyên Tố (Elemental Affinity Discovery)**: Xác định các kết nối nguyên tố tự nhiên của học sinh
+2. **Bài Tập Kiểm Soát Sức Mạnh (Power Control Exercises)**: Học cách điều chỉnh đầu ra và chiếu mana
+3. **Làm Chủ Một Nguyên Tố (Single-Element Mastery)**: Phát triển chuyên môn với một nguyên tố chính
+4. **Đào Tạo Độ Chính Xác (Precision Training)**: Bài tập tập trung vào độ chính xác và kiểm soát tinh vi
+5. **Giới Thiệu Nguyên Tố Thứ Cấp (Secondary Element Introduction)**: Mở rộng khả năng sang các yếu tố bổ sung
+6. **Ứng Dụng Chiến Đấu (Combat Applications)**: Sử dụng chiến thuật Triệu hồi trong các tình huống được kiểm soát
+7. **Hài Hòa Nguyên Tố (Elemental Harmonization)**: Các kỹ thuật nâng cao để kết hợp nhiều yếu tố
+8. **Tinh Chỉnh Hiệu Quả (Efficiency Refinement)**: Giảm chi phí mana trong khi duy trì hiệu lực của hiệu ứng
 
-Evocation training often involves more physical components than other magical disciplines, as projecting force frequently requires corresponding physical movements and gestures.
+Đào tạo Triệu hồi thường bao gồm nhiều thành phần vật lý hơn các môn ma thuật khác, vì việc phóng chiếu lực thường đòi hỏi các chuyển động và cử chỉ vật lý tương ứng.
 
-## Practical Applications
+## Ứng Dụng Thực Tế
 
-Beyond its obvious combat applications, evocation serves many practical purposes:
+Ngoài các ứng dụng chiến đấu rõ ràng, Triệu hồi phục vụ nhiều mục đích thực tế:
 
-- **Construction**: Moving heavy materials and shaping elements for building
-- **Agriculture**: Controlling rainfall, temperature, and soil conditions
-- **Transportation**: Propelling vessels or creating pathways
-- **Industry**: Providing heat, pressure, and other forces for manufacturing
-- **Environmental Management**: Controlling natural disasters or extreme weather
-- **Entertainment**: Creating spectacular displays and sensory experiences
+- **Xây Dựng (Construction)**: Di chuyển vật liệu nặng và định hình các yếu tố để xây dựng
+- **Nông Nghiệp (Agriculture)**: Kiểm soát lượng mưa, nhiệt độ và điều kiện đất đai
+- **Vận Tải (Transportation)**: Thúc đẩy tàu thuyền hoặc tạo đường đi
+- **Công Nghiệp (Industry)**: Cung cấp nhiệt, áp suất và các lực khác để sản xuất
+- **Quản Lý Môi Trường (Environmental Management)**: Kiểm soát thảm họa thiên nhiên hoặc thời tiết khắc nghiệt
+- **Giải Trí (Entertainment)**: Tạo ra những màn trình diễn ngoạn mục và trải nghiệm giác quan
 
-## Safety Protocols
+## Giao Thức An Toàn
 
-Due to its potentially destructive nature, evocation is typically subject to strict safety regulations:
+Do tính chất có khả năng gây hủy diệt của nó, Triệu hồi thường phải tuân theo các quy định an toàn nghiêm ngặt:
 
-- **Licensing Requirements**: Legal certification based on demonstrated control
-- **Containment Spaces**: Designated areas with protective wards for training
-- **Energy Dispersal Systems**: Emergency measures to safely dissipate magical energy
-- **Practice Limitations**: Restrictions on specific high-risk evocations
-- **Mandatory Supervision**: Requirements for oversight during advanced training
+- **Yêu Cầu Giấy Phép (Licensing Requirements)**: Chứng nhận pháp lý dựa trên khả năng kiểm soát đã được chứng minh
+- **Không Gian Chứa (Containment Spaces)**: Các khu vực được chỉ định với các phường bảo vệ để đào tạo
+- **Hệ Thống Phân Tán Năng Lượng (Energy Dispersal Systems)**: Các biện pháp khẩn cấp để tiêu tan năng lượng ma thuật một cách an toàn
+- **Hạn Chế Thực Hành (Practice Limitations)**: Hạn chế đối với các triệu hồi rủi ro cao cụ thể
+- **Giám Sát Bắt Buộc (Mandatory Supervision)**: Yêu cầu giám sát trong quá trình đào tạo nâng cao
 
-## Limitations and Countermeasures
+## Hạn Chế và Biện Pháp Đối Phó
 
-Evocation has several inherent limitations:
+Triệu hồi có một số hạn chế vốn có:
 
-- **Energy Cost**: High mana consumption limiting sustained use
-- **Control Difficulty**: Increasing complexity with scale and power
-- **Elemental Resistance**: Limited effectiveness against targets with matching elemental properties
-- **Environmental Dependence**: Some evocations require existing elements to amplify
-- **Predictability**: Visible energy signatures that can be anticipated
+- **Chi Phí Năng Lượng (Energy Cost)**: Tiêu thụ mana cao hạn chế sử dụng kéo dài
+- **Độ Khó Kiểm Soát (Control Difficulty)**: Tăng độ phức tạp với quy mô và sức mạnh
+- **Kháng Nguyên Tố (Elemental Resistance)**: Hiệu quả hạn chế đối với các mục tiêu có thuộc tính nguyên tố phù hợp
+- **Phụ Thuộc Môi Trường (Environmental Dependence)**: Một số triệu hồi yêu cầu các yếu tố hiện có để khuếch đại
+- **Khả Năng Dự Đoán (Predictability)**: Chữ ký năng lượng có thể nhìn thấy có thể được dự đoán
 
-Common countermeasures against evocation include:
+Các biện pháp đối phó phổ biến chống lại Triệu hồi bao gồm:
 
-- **Elemental Absorption**: Wards that consume or redirect elemental energy
-- **Force Dispersion**: Spreading impact across larger areas to reduce effectiveness
-- **Reflection Barriers**: Surfaces that bounce evocation energy back toward casters
-- **Elemental Opposition**: Using contrary elements to neutralize effects
-- **Disruption Fields**: Areas of Wild Mana that interfere with evocation control
+- **Hấp Thụ Nguyên Tố (Elemental Absorption)**: Các phường tiêu thụ hoặc chuyển hướng năng lượng nguyên tố
+- **Phân Tán Lực (Force Dispersion)**: Lan truyền tác động trên các khu vực lớn hơn để giảm hiệu quả
+- **Rào Cản Phản Xạ (Reflection Barriers)**: Bề mặt phản xạ năng lượng triệu hồi trở lại người thi triển
+- **Đối Lập Nguyên Tố (Elemental Opposition)**: Sử dụng các yếu tố trái ngược để vô hiệu hóa các hiệu ứng
+- **Trường Phá Vỡ (Disruption Fields)**: Các khu vực Mana Hoang Dã can thiệp vào kiểm soát Triệu hồi
 
-## Musical Analogy
+## So Sánh Âm Nhạc
 
-In the musical framework of magic, evocation represents percussion and brass - bold, direct, and attention-commanding. The evoker is like a drummer establishing rhythm through decisive, powerful movements, or a trumpet player projecting clear notes through space.
+Trong khuôn khổ âm nhạc của ma thuật, Triệu hồi đại diện cho bộ gõ và kèn đồng - táo bạo, trực tiếp và thu hút sự chú ý. Người Triệu hồi giống như một tay trống thiết lập nhịp điệu thông qua các chuyển động quyết đoán, mạnh mẽ, hoặc một người chơi kèn trumpet phóng chiếu những nốt nhạc rõ ràng xuyên không gian.
 
-Master evokers describe their work as "conducting the elemental orchestra," bringing forth each element with precise timing and intensity. The most impressive evocations are like symphonic climaxes - multiple elements working in harmony to create overwhelming sensory experiences.
+Các bậc thầy Triệu hồi mô tả công việc của họ là "điều khiển dàn nhạc nguyên tố", mang đến từng nguyên tố với thời gian và cường độ chính xác. Các triệu hồi ấn tượng nhất giống như cao trào giao hưởng - nhiều yếu tố hoạt động hài hòa để tạo ra những trải nghiệm giác quan áp đảo.
 
-## Notable Practitioners
+## Các Học Viên Nổi Tiếng
 
-- **Ragnarr Stormcaller**: Legendary battle-mage famous for calling lightning storms in cloudless skies
-- **Lysandra Flameheart**: Creator of the Dancing Ember spell and pioneer of controlled fire evocation
-- **Terran Stonevoice**: Master geomancer who developed battlefield terrain manipulation techniques
-- **Aria Galewind**: Renowned aeromancer known for developing sustainable wind energy systems
-- **Umbra Nightshade**: Controversial shadowcaster who expanded the understanding of darkness as substance
+- **Ragnarr Stormcaller**: Chiến binh pháp thuật huyền thoại nổi tiếng với việc gọi bão sét trên bầu trời không mây
+- **Lysandra Flameheart**: Người tạo ra phép Dancing Ember và là người tiên phong trong việc kiểm soát Triệu hồi lửa
+- **Terran Stonevoice**: Bậc thầy địa hình học đã phát triển các kỹ thuật thao tác địa hình chiến trường
+- **Aria Galewind**: Nhà khí động học nổi tiếng được biết đến với việc phát triển các hệ thống năng lượng gió bền vững
+- **Umbra Nightshade**: Nhà bóng tối gây tranh cãi, người đã mở rộng sự hiểu biết về bóng tối như một chất
 
-## Historical Development
+## Phát Triển Lịch Sử
 
-Evocation is among the earliest documented forms of magic, with primitive versions appearing in the earliest tribal cultures as weather control and fire manipulation. The primal appeal and immediate utility of evocation made it widespread.
+Triệu hồi là một trong những hình thức ma thuật được ghi nhận sớm nhất, với các phiên bản nguyên thủy xuất hiện trong các nền văn hóa bộ lạc đầu tiên dưới dạng kiểm soát thời tiết và thao tác lửa. Sự hấp dẫn nguyên thủy và tính hữu dụng ngay lập tức của Triệu hồi đã khiến nó lan rộng.
 
-The Second Age saw the systematization of evocation theory with the writing of "The Elemental Voice" by Arch-Evoker Ignis. This established the fundamental classifications and safety protocols still used today.
+Kỷ Nguyên Thứ Hai (Second Age) chứng kiến sự hệ thống hóa lý thuyết Triệu hồi với việc viết "The Elemental Voice" của Arch-Evoker Ignis. Điều này thiết lập các phân loại cơ bản và giao thức an toàn vẫn được sử dụng cho đến ngày nay.
 
-The Third Age brought significant advances in precision and efficiency, moving evocation beyond merely destructive applications toward more nuanced uses. The founding of the Elemental Harmony Academy marked a turning point, where evocation began to be studied as an art form rather than simply a weapon.
+Kỷ Nguyên Thứ Ba (Third Age) mang lại những tiến bộ đáng kể về độ chính xác và hiệu quả, đưa Triệu hồi vượt ra ngoài các ứng dụng đơn thuần mang tính hủy diệt để hướng tới các mục đích sắc thái hơn. Việc thành lập Học Viện Hòa Âm Nguyên Tố (Elemental Harmony Academy) đánh dấu một bước ngoặt, nơi Triệu hồi bắt đầu được nghiên cứu như một hình thức nghệ thuật hơn là chỉ đơn thuần là một vũ khí.
 
-Modern evocation continues to evolve, with current research focused on micro-evocation (extremely precise small-scale effects) and harmonic evocation (complex multiple-element combinations).
+Triệu hồi hiện đại tiếp tục phát triển, với nghiên cứu hiện tại tập trung vào micro-evocation (các hiệu ứng quy mô nhỏ cực kỳ chính xác) và harmonic evocation (kết hợp nhiều yếu tố phức tạp).
 
 ---
 
-*See also: [Dancing Ember](/codex/Magics/Spells/Elemental/DancingEmber.md), [Elemental Magic](/codex/Magics/ElementalMagic.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*Xem thêm: [Dancing Ember](/codex/Magics/Spells/Elemental/DancingEmber.md), [Elemental Magic](/codex/Magics/ElementalMagic.md), [Mana Purification](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

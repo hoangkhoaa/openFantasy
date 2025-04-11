@@ -1,212 +1,216 @@
-# **The School of Abjuration**
+# **Trường Phái Ngăn Chặn (Abjuration)**
 
-> *"To abjure is not merely to say 'no' to harmful forces, but to compose a silence into which discord cannot enter."*  
-> — Grandmaster Isolde Shieldweaver, Warden of the Seven Sanctums
+> *"Ngăn chặn không chỉ đơn thuần là nói 'không' với các thế lực gây hại, mà là tạo ra một sự im lặng mà sự bất hòa không thể xâm nhập."*
+> — Đại Sư Isolde Shieldweaver, Người Giữ Bảy Thánh Địa
 
-## Overview
+## Tổng Quan
 
-Abjuration is the school of protective magic, focused on the creation of defensive barriers, the neutralization of harmful effects, and the banishment of unwanted entities. Unlike other schools that seek to create or transform, abjuration primarily prevents, protects, and preserves. It is considered one of the most technically demanding magical disciplines due to its emphasis on perfect structural integrity and flawless execution.
+Ngăn chặn là trường phái ma thuật bảo vệ, tập trung vào việc tạo ra các rào cản phòng thủ, vô hiệu hóa các tác động gây hại và trục xuất các thực thể không mong muốn. Không giống như các trường phái khác tìm cách tạo ra hoặc biến đổi, ngăn chặn chủ yếu ngăn ngừa, bảo vệ và bảo tồn. Nó được coi là một trong những ngành ma thuật đòi hỏi kỹ thuật cao nhất do nhấn mạnh vào tính toàn vẹn cấu trúc hoàn hảo và thực thi hoàn hảo.
 
-## Fundamental Principles
+## Nguyên Tắc Cơ Bản
 
-### The Barrier Theorem
+### Định Lý Rào Cản (The Barrier Theorem)
 
-At the core of abjuration theory lies the Barrier Theorem, which states that properly structured magical energy can create boundaries that selectively filter or completely block other energies, entities, or effects. These barriers operate on the principle of harmonic opposition—creating frequencies that destructively interfere with incoming magical forces.
+Trọng tâm của lý thuyết ngăn chặn nằm ở Định Lý Rào Cản, trong đó tuyên bố rằng năng lượng ma thuật được cấu trúc đúng cách có thể tạo ra các ranh giới lọc có chọn lọc hoặc chặn hoàn toàn các năng lượng, thực thể hoặc hiệu ứng khác. Các rào cản này hoạt động dựa trên nguyên tắc đối lập hài hòa—tạo ra các tần số can thiệp phá hoại vào các lực lượng ma thuật đến.
 
-### Primary Components
+### Các Thành Phần Chính
 
-All abjuration spells incorporate three fundamental components:
+Tất cả các phép thuật ngăn chặn đều kết hợp ba thành phần cơ bản:
 
-1. **Boundary Definition**: Establishing the protected space or subject
-2. **Resonant Opposition**: Creating the specific counter-frequencies to the targeted threat
-3. **Structural Integrity**: Maintaining the defensive pattern against pressure or attack
+1. **Định Nghĩa Ranh Giới (Boundary Definition)**: Thiết lập không gian hoặc đối tượng được bảo vệ
+2. **Đối Lập Cộng Hưởng (Resonant Opposition)**: Tạo ra các tần số đối nghịch cụ thể đối với mối đe dọa mục tiêu
+3. **Tính Toàn Vẹn Cấu Trúc (Structural Integrity)**: Duy trì mô hình phòng thủ chống lại áp lực hoặc tấn công
 
-More complex abjurations add additional components:
+Các phép ngăn chặn phức tạp hơn thêm các thành phần bổ sung:
 
-4. **Selective Permeability**: Allowing specific entities or energies to pass
-5. **Response Protocols**: Automated reactions to specific types of breach attempts
-6. **Regenerative Matrix**: Self-repair capabilities for damaged sections
+4. **Tính Thấm Chọn Lọc (Selective Permeability)**: Cho phép các thực thể hoặc năng lượng cụ thể đi qua
+5. **Giao Thức Phản Ứng (Response Protocols)**: Các phản ứng tự động đối với các loại nỗ lực xâm nhập cụ thể
+6. **Ma Trận Tái Tạo (Regenerative Matrix)**: Khả năng tự sửa chữa cho các phần bị hư hại
 
-### Mana Requirements
+### Yêu Cầu Mana
 
-Abjuration requires specific combinations of mana types, with purity levels that increase with the potency of the threats being defended against:
+Ngăn chặn yêu cầu sự kết hợp cụ thể của các loại mana, với mức độ tinh khiết tăng lên cùng với sức mạnh của các mối đe dọa đang được bảo vệ:
 
-| Abjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| Loại Ngăn Chặn (Abjuration Type) | Mana Chính (Primary Mana) | Mana Phụ (Secondary Mana) | Mana Bậc Ba (Tertiary Mana) | Mục Đích (Purpose) |
 |-----------------|-------------|----------------|---------------|---------|
-| Personal Shield | Base Mana (50-60%) | Varies by threat | N/A | Individual protection |
-| Area Warding | Base Mana (40-50%) | Terramana (20-30%) | Varies by threat | Location protection |
-| Anti-Magic Field | Base Mana (60-70%) | N/A | N/A | Magic neutralization |
-| Entity Banishment | Base Mana (50-60%) | Varies by entity | Chronosmana (10-20%) | Force removal |
-| Curse Breaking | Base Mana (60-70%) | Matching curse mana | Luxmana (10-20%) | Malefic effect removal |
-| Sanctuary | Base Mana (40-50%) | Luxmana (30-40%) | Aeromana (10-20%) | Complete safe zone |
+| Lá Chắn Cá Nhân (Personal Shield) | Mana Cơ Bản (Base Mana) (50-60%) | Thay đổi theo mối đe dọa | Không có (N/A) | Bảo vệ cá nhân |
+| Bảo Vệ Khu Vực (Area Warding) | Mana Cơ Bản (Base Mana) (40-50%) | Terramana (20-30%) | Thay đổi theo mối đe dọa | Bảo vệ địa điểm |
+| Trường Chống Phép Thuật (Anti-Magic Field) | Mana Cơ Bản (Base Mana) (60-70%) | Không có (N/A) | Không có (N/A) | Vô hiệu hóa phép thuật |
+| Trục Xuất Thực Thể (Entity Banishment) | Mana Cơ Bản (Base Mana) (50-60%) | Thay đổi theo thực thể | Chronosmana (10-20%) | Loại bỏ lực lượng |
+| Phá Giải Lời Nguyền (Curse Breaking) | Mana Cơ Bản (Base Mana) (60-70%) | Mana phù hợp với lời nguyền | Luxmana (10-20%) | Loại bỏ hiệu ứng độc hại |
+| Thánh Địa (Sanctuary) | Mana Cơ Bản (Base Mana) (40-50%) | Luxmana (30-40%) | Aeromana (10-20%) | Vùng an toàn hoàn toàn |
 
-### Wild Mana Response
+### Phản Ứng Mana Hoang Dã (Wild Mana Response)
 
-Abjuration magic has a unique relationship with Wild Mana. While most schools suffer unpredictable effects when exposed to Wild Mana, properly constructed abjurations can actually incorporate Wild Mana into their structure through a process called "harmonic redirection." This technique captures and channels the chaotic energy into reinforcing the barrier itself.
+Ma thuật ngăn chặn có một mối quan hệ độc đáo với Mana Hoang Dã. Trong khi hầu hết các trường phái phải chịu các tác động khó lường khi tiếp xúc với Mana Hoang Dã, thì các phép ngăn chặn được xây dựng đúng cách thực sự có thể kết hợp Mana Hoang Dã vào cấu trúc của chúng thông qua một quá trình gọi là "chuyển hướng hài hòa". Kỹ thuật này nắm bắt và truyền năng lượng hỗn loạn vào việc củng cố chính rào cản.
 
-However, this is a delicate process that requires exceptional skill; poorly executed attempts can result in:
+Tuy nhiên, đây là một quá trình tinh tế đòi hỏi kỹ năng đặc biệt; những nỗ lực thực hiện kém có thể dẫn đến:
 
-- **Polarity Inversion**: The barrier repels what it should admit and admits what it should repel
-- **Fractured Containment**: Wild Mana becomes trapped within the barrier, creating unstable pockets
-- **Resonance Backlash**: The barrier amplifies rather than neutralizes incoming threats
+- **Đảo Ngược Phân Cực (Polarity Inversion)**: Rào cản đẩy lùi những gì nó nên cho phép và cho phép những gì nó nên đẩy lùi
+- **Hạn Chế Rạn Nứt (Fractured Containment)**: Mana Hoang Dã bị mắc kẹt bên trong rào cản, tạo ra các túi không ổn định
+- **Phản Ứng Dội Cộng Hưởng (Resonance Backlash)**: Rào cản khuếch đại thay vì vô hiệu hóa các mối đe dọa đến
 
-## Mana Purification for Abjuration
+## Thanh Lọc Mana cho Ngăn Chặn
 
-Abjuration demands exceptional mana purity due to its defensive nature—any flaw in the magical structure creates a potential vulnerability:
+Ngăn chặn đòi hỏi độ tinh khiết mana đặc biệt do bản chất phòng thủ của nó—bất kỳ sai sót nào trong cấu trúc ma thuật đều tạo ra một lỗ hổng tiềm năng:
 
-| Purification Level | Abjuration Capability |
+| Mức Độ Thanh Lọc (Purification Level) | Khả Năng Ngăn Chặn (Abjuration Capability) |
 |--------------------|------------------------|
-| Basic (15-25%) | Simple personal shields against minor physical threats |
-| Intermediate (30-45%) | Multi-layered protections against moderate magical and physical dangers |
-| Advanced (50-65%) | Complex selective barriers and wards against major threats |
-| Master (70-80%) | Impenetrable sanctuaries and banishment fields effective against legendary threats |
-| Grandmaster (85%+) | Reality-anchoring barriers that can withstand cosmic-level forces |
+| Cơ Bản (Basic) (15-25%) | Lá chắn cá nhân đơn giản chống lại các mối đe dọa vật lý nhỏ |
+| Trung Bình (Intermediate) (30-45%) | Bảo vệ nhiều lớp chống lại các nguy hiểm ma thuật và vật lý vừa phải |
+| Nâng Cao (Advanced) (50-65%) | Các rào cản và bảo vệ chọn lọc phức tạp chống lại các mối đe dọa lớn |
+| Bậc Thầy (Master) (70-80%) | Các thánh địa không thể xuyên thủng và các trường trục xuất hiệu quả chống lại các mối đe dọa huyền thoại |
+| Đại Sư (Grandmaster) (85%+) | Các rào cản neo thực tế có thể chịu được các lực lượng cấp độ vũ trụ |
 
-In abjuration, purity correlates directly with both barrier strength and specificity—higher purity allows for more precisely targeted defenses against specific threats.
+Trong ngăn chặn, độ tinh khiết tương quan trực tiếp với cả sức mạnh và tính đặc hiệu của rào cản—độ tinh khiết cao hơn cho phép phòng thủ nhắm mục tiêu chính xác hơn chống lại các mối đe dọa cụ thể.
 
-## The Defensive Scales
+## Các Thang Phòng Thủ (The Defensive Scales)
 
-Abjuration magic is often conceptualized through musical structure, with protective spells described as "scales"—progressive sequences of notes that create complete defensive patterns:
+Ma thuật ngăn chặn thường được khái niệm hóa thông qua cấu trúc âm nhạc, với các phép thuật bảo vệ được mô tả là "thang âm"—các chuỗi nốt tăng dần tạo ra các mẫu phòng thủ hoàn chỉnh:
 
-- **Major Scales**: Outward-facing protections against external threats
-- **Minor Scales**: Inward-facing protections to contain or suppress
-- **Chromatic Scales**: Complex, adaptable barriers that shift in response to threats
-- **Pentatonic Scales**: Simplified, robust protections effective against a limited range of threats
-- **Counterpoint Defense**: Multiple overlapping barriers that reinforce each other
+- **Thang Âm Trưởng (Major Scales)**: Bảo vệ hướng ra ngoài chống lại các mối đe dọa bên ngoài
+- **Thang Âm Thứ (Minor Scales)**: Bảo vệ hướng vào trong để ngăn chặn hoặc đàn áp
+- **Thang Âm Chromatic (Chromatic Scales)**: Các rào cản phức tạp, có khả năng thích ứng thay đổi để đáp ứng các mối đe dọa
+- **Thang Âm Pentatonic (Pentatonic Scales)**: Bảo vệ đơn giản, mạnh mẽ, hiệu quả chống lại một phạm vi hạn chế các mối đe dọa
+- **Phòng Thủ Đối Âm (Counterpoint Defense)**: Nhiều rào cản chồng chéo lên nhau để củng cố lẫn nhau
 
-Master abjurers speak of "conducting" their defenses, actively maintaining and adjusting multiple protective layers simultaneously.
+Các bậc thầy ngăn chặn nói về việc "chỉ huy" hàng phòng thủ của họ, chủ động duy trì và điều chỉnh nhiều lớp bảo vệ đồng thời.
 
-## Specialized Disciplines
+## Các Chuyên Ngành
 
-### Wardcraft
+### Tạo Bùa Hộ Mệnh (Wardcraft)
 
-The art of creating long-term protective fields for locations. Practitioners are known as Warders.
+Nghệ thuật tạo ra các trường bảo vệ lâu dài cho các địa điểm. Người thực hành được gọi là Warders.
 
-### Shielding
+### Tạo Lá Chắn (Shielding)
 
-Focused on immediate, tactical barriers for combat situations. Masters are called Shieldmages.
+Tập trung vào các rào cản chiến thuật, ngay lập tức cho các tình huống chiến đấu. Các bậc thầy được gọi là Shieldmages.
 
-### Banishment
+### Trục Xuất (Banishment)
 
-Specialized in the removal of unwanted entities or energies. Practitioners are called Banishers.
+Chuyên loại bỏ các thực thể hoặc năng lượng không mong muốn. Người thực hành được gọi là Banishers.
 
-### Nullification
+### Vô Hiệu Hóa (Nullification)
 
-The neutralization of existing magical effects. Masters are known as Nullifiers.
+Việc trung hòa các hiệu ứng ma thuật hiện có. Các bậc thầy được gọi là Nullifiers.
 
-### Anchoring
+### Neo Giữ (Anchoring)
 
-Securing entities, objects, or locations against magical displacement. Practitioners are called Anchors.
+Bảo đảm các thực thể, vật thể hoặc địa điểm chống lại sự dịch chuyển ma thuật. Người thực hành được gọi là Anchors.
 
-### Purification
+### Thanh Lọc (Purification)
 
-Removal of magical contamination or corruption. Masters are known as Purifiers.
+Loại bỏ sự ô nhiễm hoặc tham nhũng ma thuật. Các bậc thầy được gọi là Purifiers.
 
-### Sanctuary Creation
+### Tạo Thánh Địa (Sanctuary Creation)
 
-The establishment of spaces where specific magical laws apply. Practitioners are called Sanctifiers.
+Việc thiết lập các không gian nơi các luật ma thuật cụ thể được áp dụng. Người thực hành được gọi là Sanctifiers.
 
-### Curse Breaking
+### Phá Giải Lời Nguyền (Curse Breaking)
 
-Specialized in dismantling malicious persistent effects. Masters are known as Breakers.
+Chuyên về tháo gỡ các hiệu ứng dai dẳng độc hại. Các bậc thầy được gọi là Breakers.
 
-## Training Methodology
+## Phương Pháp Huấn Luyện
 
-Abjuration training follows a rigorous progression:
+Huấn luyện ngăn chặn tuân theo một tiến trình nghiêm ngặt:
 
-1. **Foundational Theory**: Understanding the principles of magical opposition and containment
-2. **Personal Shielding**: Mastering protection of the self as the fundamental skill
-3. **Threat Analysis**: Learning to identify and categorize magical and physical dangers
-4. **Barrier Construction**: Techniques for creating structurally sound protective fields
-5. **Selective Filtering**: Advanced methods for discriminating between entities and energies
-6. **Breach Response**: Protocols for handling failures and penetrations of defenses
-7. **Multiple Barrier Orchestration**: Maintaining several protective spells simultaneously
-8. **Permanent Warding**: Creation of long-term or permanent protective measures
+1. **Lý Thuyết Nền Tảng (Foundational Theory)**: Hiểu các nguyên tắc đối lập và ngăn chặn ma thuật
+2. **Tạo Lá Chắn Cá Nhân (Personal Shielding)**: Nắm vững việc bảo vệ bản thân như một kỹ năng cơ bản
+3. **Phân Tích Mối Đe Dọa (Threat Analysis)**: Học cách xác định và phân loại các nguy hiểm ma thuật và vật lý
+4. **Xây Dựng Rào Cản (Barrier Construction)**: Các kỹ thuật tạo ra các trường bảo vệ có cấu trúc âm thanh
+5. **Lọc Chọn Lọc (Selective Filtering)**: Các phương pháp nâng cao để phân biệt giữa các thực thể và năng lượng
+6. **Phản Ứng Xâm Phạm (Breach Response)**: Giao thức xử lý các lỗi và xâm nhập phòng thủ
+7. **Điều Phối Nhiều Rào Cản (Multiple Barrier Orchestration)**: Duy trì đồng thời một số phép thuật bảo vệ
+8. **Bảo Vệ Vĩnh Viễn (Permanent Warding)**: Tạo ra các biện pháp bảo vệ lâu dài hoặc vĩnh viễn
 
-Training emphasizes precision over speed, with students typically spending years mastering basic shields before progressing to more complex protections.
+Huấn luyện nhấn mạnh sự chính xác hơn tốc độ, với việc học sinh thường dành nhiều năm để thành thạo các lá chắn cơ bản trước khi chuyển sang các biện pháp bảo vệ phức tạp hơn.
 
-## Abjuration in Practice
+## Ngăn Chặn Trong Thực Tế
 
-The process of casting abjuration magic follows distinct phases:
+Quá trình thi triển ma thuật ngăn chặn tuân theo các giai đoạn riêng biệt:
 
-1. **Threat Assessment**: Identifying the specific dangers to be defended against
-2. **Boundary Establishment**: Defining the protected space or subject
-3. **Mana Purification**: Achieving the necessary purity for stable protection
-4. **Pattern Formation**: Creating the specific defensive structure needed
-5. **Opposition Tuning**: Calibrating the defense to counter specific threats
-6. **Reinforcement**: Strengthening potential weak points in the structure
-7. **Activation**: Empowering the completed pattern to begin functioning
-8. **Maintenance**: Sustaining the defense through concentration or anchoring
+1. **Đánh Giá Mối Đe Dọa (Threat Assessment)**: Xác định những nguy hiểm cụ thể cần được bảo vệ
+2. **Thiết Lập Ranh Giới (Boundary Establishment)**: Xác định không gian hoặc đối tượng được bảo vệ
+3. **Thanh Lọc Mana (Mana Purification)**: Đạt được độ tinh khiết cần thiết để bảo vệ ổn định
+4. **Hình Thành Mẫu (Pattern Formation)**: Tạo ra cấu trúc phòng thủ cụ thể cần thiết
+5. **Điều Chỉnh Đối Lập (Opposition Tuning)**: Điều chỉnh khả năng phòng thủ để chống lại các mối đe dọa cụ thể
+6. **Củng Cố (Reinforcement)**: Tăng cường các điểm yếu tiềm ẩn trong cấu trúc
+7. **Kích Hoạt (Activation)**: Trao quyền cho mô hình hoàn chỉnh để bắt đầu hoạt động
+8. **Duy Trì (Maintenance)**: Duy trì khả năng phòng thủ thông qua sự tập trung hoặc neo giữ
 
-For combat abjuration, these steps must often be compressed into split-second casting, while permanent wards may involve ritual processes extending over days.
+Đối với ngăn chặn chiến đấu, các bước này thường phải được nén thành việc thi triển trong tích tắc, trong khi các bùa hộ mệnh vĩnh viễn có thể liên quan đến các quy trình nghi lễ kéo dài trong nhiều ngày.
 
-## Practical Applications
+## Ứng Dụng Thực Tế
 
-Abjuration serves vital protective functions across society:
+Ngăn chặn phục vụ các chức năng bảo vệ quan trọng trong toàn xã hội:
 
-- **Personal Safety**: Combat shields, environmental protection, privacy barriers
-- **Domestic Security**: Home wards, fire suppression fields, theft prevention
-- **Infrastructure**: Public building protections, bridge reinforcement, disaster containment
-- **Medicine**: Quarantine fields, stabilization chambers, surgical protection
-- **Transportation**: Vehicle safety systems, cargo protection, pathfinding security
-- **Research**: Containment for dangerous materials or entities, experiment isolation
-- **Cultural Preservation**: Protection of historical sites, artifact conservation, legacy maintenance
+- **An Toàn Cá Nhân (Personal Safety)**: Lá chắn chiến đấu, bảo vệ môi trường, rào cản riêng tư
+- **An Ninh Gia Đình (Domestic Security)**: Bảo vệ nhà cửa, trường dập lửa, ngăn chặn trộm cắp
+- **Cơ Sở Hạ Tầng (Infrastructure)**: Bảo vệ tòa nhà công cộng, gia cố cầu, ngăn chặn thảm họa
+- **Y Học (Medicine)**: Trường cách ly, buồng ổn định, bảo vệ phẫu thuật
+- **Vận Chuyển (Transportation)**: Hệ thống an toàn xe, bảo vệ hàng hóa, an ninh tìm đường
+- **Nghiên Cứu (Research)**: Ngăn chặn các vật liệu hoặc thực thể nguy hiểm, cô lập thí nghiệm
+- **Bảo Tồn Văn Hóa (Cultural Preservation)**: Bảo vệ các di tích lịch sử, bảo tồn hiện vật, bảo trì di sản
 
-## Ethical Considerations
+## Cân Nhắc Đạo Đức
 
-Abjuration raises several distinct ethical questions:
+Ngăn chặn đặt ra một số câu hỏi đạo đức riêng biệt:
 
-- **Isolation Ethics**: The moral implications of creating completely isolated spaces
-- **Discriminatory Protection**: Selective barriers that admit some but not others
-- **Defensive Aggression**: Wards designed to harm those who breach them
-- **Autonomy Concerns**: Protections that restrict the protected individual's freedom
-- **Resource Allocation**: Prioritizing who or what receives limited protective resources
-- **False Security**: The ethics of providing protections known to be inadequate
+- **Đạo Đức Cô Lập (Isolation Ethics)**: Những hàm ý đạo đức của việc tạo ra các không gian hoàn toàn cô lập
+- **Bảo Vệ Phân Biệt Đối Xử (Discriminatory Protection)**: Các rào cản chọn lọc cho phép một số nhưng không phải những người khác
+- **Xâm Lược Phòng Thủ (Defensive Aggression)**: Phòng vệ được thiết kế để gây hại cho những người vi phạm chúng
+- **Quan Ngại Về Quyền Tự Chủ (Autonomy Concerns)**: Các biện pháp bảo vệ hạn chế quyền tự do của cá nhân được bảo vệ
+- **Phân Bổ Nguồn Lực (Resource Allocation)**: Ưu tiên ai hoặc cái gì nhận được các nguồn lực bảo vệ hạn chế
+- **An Ninh Giả Tạo (False Security)**: Đạo đức của việc cung cấp các biện pháp bảo vệ được biết là không đầy đủ
 
-Most abjuration academies teach a code of protective ethics based on proportionality and informed consent.
+Hầu hết các học viện ngăn chặn đều dạy một bộ quy tắc đạo đức bảo vệ dựa trên tính cân xứng và sự đồng ý có hiểu biết.
 
-## Limitations and Weaknesses
+## Hạn Chế và Điểm Yếu
 
-Despite its strength, abjuration has inherent limitations:
+Mặc dù có sức mạnh, ngăn chặn có những hạn chế vốn có:
 
-- **Energy Cost**: Stronger threats require exponentially more energy to repel
-- **Specificity Trade-Off**: Broad-spectrum defenses are weaker than specifically targeted ones
-- **Concentration Dependency**: Many barriers require ongoing attention to maintain
-- **Adaptation Lag**: Defenses may fail against novel or rapidly changing threats
-- **Indirect Vulnerability**: Physical anchors or focus points can be targeted
-- **Resonance Counters**: Every defense has a specific resonance that can be exploited
+- **Chi Phí Năng Lượng (Energy Cost)**: Các mối đe dọa mạnh hơn đòi hỏi năng lượng lớn hơn theo cấp số nhân để đẩy lùi
+- **Đánh Đổi Tính Đặc Hiệu (Specificity Trade-Off)**: Phòng thủ phổ rộng yếu hơn so với phòng thủ nhắm mục tiêu cụ thể
+- **Phụ Thuộc Vào Sự Tập Trung (Concentration Dependency)**: Nhiều rào cản đòi hỏi sự chú ý liên tục để duy trì
+- **Độ Trễ Thích Ứng (Adaptation Lag)**: Phòng thủ có thể thất bại trước các mối đe dọa mới hoặc thay đổi nhanh chóng
+- **Lỗ Hổng Gián Tiếp (Indirect Vulnerability)**: Neo vật lý hoặc điểm tập trung có thể bị nhắm mục tiêu
+- **Bộ Đếm Cộng Hưởng (Resonance Counters)**: Mọi hàng phòng thủ đều có một cộng hưởng cụ thể có thể bị khai thác
 
-Common methods for overcoming abjuration include:
+Các phương pháp phổ biến để vượt qua ngăn chặn bao gồm:
 
-- **Frequency Matching**: Tuning offensive magic to the exact counter-frequency of a barrier
-- **Threshold Flooding**: Overwhelming defenses with massive energy surges
-- **Sequential Probing**: Finding and exploiting weak points in the barrier structure
-- **Anchor Targeting**: Destroying the physical components supporting a ward
-- **Patient Erosion**: Sustained low-level pressure that gradually weakens defenses
-- **Harmonic Infiltration**: Using complementary rather than opposing frequencies to pass through
+- **Đối Sánh Tần Số (Frequency Matching)**: Điều chỉnh ma thuật tấn công theo tần số đối nghịch chính xác của một rào cản
+- **Lũ Quét Ngưỡng (Threshold Flooding)**: Áp đảo hàng phòng thủ bằng các đợt tăng năng lượng lớn
+- **Thăm Dò Tuần Tự (Sequential Probing)**: Tìm và khai thác các điểm yếu trong cấu trúc rào cản
+- **Nhắm Mục Tiêu Neo (Anchor Targeting)**: Phá hủy các thành phần vật lý hỗ trợ một bùa hộ mệnh
+- **Xói Mòn Kiên Nhẫn (Patient Erosion)**: Áp lực mức thấp liên tục làm suy yếu dần hàng phòng thủ
+- **Thâm Nhập Hài Hòa (Harmonic Infiltration)**: Sử dụng các tần số bổ sung thay vì đối nghịch để đi qua
 
-## Musical Analogy
+## Phép Loại Suy Âm Nhạc
 
-In the musical framework of magic, abjuration represents percussion instruments—creating rhythm and structure that frames and constrains other magical elements. The abjurer is like a drummer, maintaining the boundaries within which other musicians can safely operate.
+Trong khuôn khổ âm nhạc của ma thuật, ngăn chặn đại diện cho các nhạc cụ gõ—tạo ra nhịp điệu và cấu trúc để đóng khung và hạn chế các yếu tố ma thuật khác. Người ngăn chặn giống như một người chơi trống, duy trì ranh giới trong đó các nhạc sĩ khác có thể hoạt động một cách an toàn.
 
-Defensive spells are described in terms of "tempos" and "measures," with each protective layer adding a beat to the complex rhythm of a complete defense. Master abjurers can maintain multiple independent "time signatures" simultaneously, creating complex polyrhythmic defenses that are extraordinarily difficult to breach.
+Các phép thuật phòng thủ được mô tả theo "tốc độ" và "nhịp điệu", với mỗi lớp bảo vệ thêm một nhịp vào nhịp điệu phức tạp của một hàng phòng thủ hoàn chỉnh. Các bậc thầy ngăn chặn có thể duy trì nhiều "chữ ký thời gian" độc lập đồng thời, tạo ra các hàng phòng thủ đa nhịp điệu phức tạp cực kỳ khó xâm phạm.
 
-## Notable Practitioners
+## Các Học Viên Nổi Tiếng
 
-- **Isolde Shieldweaver**: Creator of the Seven-Fold Sanctuary technique used in highest-security magical facilities
-- **Dorian Wardwright**: Legendary warder who established the continent-spanning Great Boundary after the Rift War
-- **Castiel Banebane**: Pioneer of curse-breaking methodologies now standard in medical abjuration
-- **Amalthea Stillhaven**: Developer of the Silent Sanctuary, a completely magic-null environment
-- **Thaddeus Ironward**: Master of combat abjuration and creator of the Reactive Shield System
+- **Isolde Shieldweaver**: Người tạo ra kỹ thuật Thánh Địa Bảy Lớp được sử dụng trong các cơ sở ma thuật an ninh cao nhất
+- **Dorian Wardwright**: Người tạo bùa hộ mệnh huyền thoại đã thiết lập Đại Giới Hạn bao trùm lục địa sau Chiến Tranh Rift
+- **Castiel Banebane**: Người tiên phong về phương pháp luận phá giải lời nguyền hiện là tiêu chuẩn trong ngăn chặn y tế
+- **Amalthea Stillhaven**: Nhà phát triển của Silent Sanctuary, một môi trường hoàn toàn vô hiệu hóa ma thuật
+- **Thaddeus Ironward**: Bậc thầy về ngăn chặn chiến đấu và người tạo ra Hệ Thống Lá Chắn Phản Ứng
 
-## Historical Development
+## Phát Triển Lịch Sử
 
-Abjuration emerged early in magical history, with simple wards and protections among the first spells developed by early civilizations. The formal study of abjuration as a distinct school coalesced during the Age of Strife, when defensive magic became critically important.
+Ngăn chặn xuất hiện sớm trong lịch sử ma thuật, với các bùa hộ mệnh và bảo vệ đơn giản nằm trong số những phép thuật đầu tiên được phát triển bởi các nền văn minh ban đầu. Nghiên cứu chính thức về ngăn chặn như một trường phái riêng biệt hợp nhất trong Thời Đại Xung Đột, khi ma thuật phòng thủ trở nên cực kỳ quan trọng.
 
-The publication of "Principles of Magical Boundary" by Magister Elara Stoneheart in the early Second Age established the theoretical foundation for modern abjuration. The Third Age saw significant advancement with the development of selective filtering techniques by the Brotherhood of the Veil.
+Việc xuất bản "Nguyên Tắc Về Ranh Giới Ma Thuật" của Magister Elara Stoneheart vào đầu Kỷ Nguyên Thứ Hai đã thiết lập nền tảng lý thuyết cho ngăn chặn hiện đại. Kỷ Nguyên Thứ Ba chứng kiến sự tiến bộ đáng kể với sự phát triển của các kỹ thuật lọc chọn lọc của Brotherhood of the Veil.
 
-Contemporary abjuration research focuses on adaptive defense systems, energy-efficient sustainable barriers, and counter-measures for emerging magical threats. The cutting edge of the field explores dimensional anchoring—protections that remain stable across multiple planes of existence.
+Nghiên cứu ngăn chặn đương đại tập trung vào các hệ thống phòng thủ thích ứng, các rào cản bền vững tiết kiệm năng lượng và các biện pháp đối phó cho các mối đe dọa ma thuật mới nổi. Điểm tiên tiến của lĩnh vực này khám phá neo giữ chiều—các biện pháp bảo vệ vẫn ổn định trên nhiều mặt phẳng tồn tại.
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Evocation](/codex/Magics/Schools/Evocation.md)* 
+*Xem thêm: [Thanh Lọc Mana](/codex/Magics/ManaMechanics.md), [Mana Hoang Dã](/codex/Magics/WildMana.md), [Triệu Hồi](/codex/Magics/Schools/Evocation.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

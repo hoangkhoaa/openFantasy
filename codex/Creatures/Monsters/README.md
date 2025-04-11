@@ -1,144 +1,148 @@
-# Monsters of OpenFantasy
+# Quái Vật của OpenFantasy
 
-> *"Not all that walks beneath the moons is born of natural design. Some creatures emerge from darkness, corruption, or the fevered dreams of reality itself."*
+> *"Không phải tất cả những gì bước đi dưới ánh trăng đều sinh ra từ thiết kế tự nhiên. Một số sinh vật nổi lên từ bóng tối, sự tha hóa, hoặc những giấc mơ sốt của chính thực tại."*
 
-## Overview
+## Tổng Quan
 
-In OpenFantasy, "monsters" refers to dangerous or unnatural creatures that exist outside the normal ecological balance. Unlike animals that evolved through natural processes, monsters typically emerge through magical accidents, corruption, deliberate creation, or manifestation from other planes of existence.
+Trong OpenFantasy, "quái vật" đề cập đến những sinh vật nguy hiểm hoặc không tự nhiên tồn tại bên ngoài sự cân bằng sinh thái thông thường. Không giống như động vật tiến hóa thông qua các quá trình tự nhiên, quái vật thường xuất hiện thông qua các tai nạn ma thuật, sự tha hóa, sáng tạo có chủ ý hoặc sự biểu hiện từ các cõi tồn tại khác.
 
-Monsters often possess abilities that defy conventional understanding, making them particularly dangerous to sentient civilizations and natural ecosystems alike. While not universally malevolent, most pose significant threats due to their predatory nature, territorial aggression, or incompatibility with the natural world.
+Quái vật thường sở hữu những khả năng thách thức sự hiểu biết thông thường, khiến chúng đặc biệt nguy hiểm đối với các nền văn minh có tri giác và các hệ sinh thái tự nhiên. Mặc dù không phải tất cả đều độc ác, nhưng hầu hết đều gây ra những mối đe dọa đáng kể do bản chất săn mồi, sự hung hăng lãnh thổ hoặc không tương thích với thế giới tự nhiên.
 
-## Monster Origins
+## Nguồn Gốc Quái Vật
 
-Monsters come into being through various means, each creating distinct types of creatures:
+Quái vật xuất hiện bằng nhiều cách khác nhau, mỗi cách tạo ra các loại sinh vật riêng biệt:
 
-| Origin | Description | Examples |
+| Nguồn Gốc | Mô Tả | Ví Dụ |
 |--------|-------------|----------|
-| **Corruption** | Natural beings twisted by dark magic or contamination | Blighted wolves, tainted elementals, plague beasts |
-| **Magical Creation** | Deliberately crafted through spellcraft | Chimeras, artificial abominations, bound spirits |
-| **Planar Intrusion** | Entities that enter from other planes of existence | Void stalkers, dream haunts, dimensional anomalies |
-| **Ancient Evolution** | Primordial creatures from before current natural order | Deep terrors, prehistoric predators, living fossils |
-| **Death Perversion** | Creatures formed through interference with natural death | Undead, soul-bound husks, necromantic constructs |
+| **Tha Hóa** | Những sinh vật tự nhiên bị bóp méo bởi ma thuật đen tối hoặc sự ô nhiễm | Sói bị tàn phá, nguyên tố bị vấy bẩn, quái thú dịch bệnh |
+| **Sáng Tạo Ma Thuật** | Được chế tạo có chủ ý thông qua thuật phù phép | Chimera, dị vật nhân tạo, linh hồn bị trói buộc |
+| **Xâm Nhập Từ Cõi Khác** | Các thực thể xâm nhập từ các cõi tồn tại khác | Kẻ rình mò hư không, ám ảnh giấc mơ, dị thường chiều không gian |
+| **Tiến Hóa Cổ Xưa** | Những sinh vật nguyên thủy từ trước trật tự tự nhiên hiện tại | Nỗi kinh hoàng sâu thẳm, động vật ăn thịt tiền sử, hóa thạch sống |
+| **Sự Đồi Trụy của Cái Chết** | Những sinh vật được hình thành thông qua sự can thiệp vào cái chết tự nhiên | Xác sống, vỏ bọc ràng buộc linh hồn, công trình thuật chiêu hồn |
 
-## Monster Classifications
+## Phân Loại Quái Vật
 
-### Aberrations
+### Dị Vật
 
-Biologically impossible creatures with anatomies that defy natural law:
+Những sinh vật không thể tồn tại về mặt sinh học với giải phẫu thách thức luật tự nhiên:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Phân Loại | Đặc Điểm Chính | Ví Dụ Nổi Bật |
 |-------------|---------------------|------------------|
-| **Shapeshifters** | Malleable form, identity deception | Mimics, doppelgangers, flesh warpers |
-| **Many-Eyed** | Enhanced perception, reality distortion | Beholders, void seers, panoptic crawlers |
-| **Mind Hunters** | Psychic abilities, consciousness manipulation | Mind flayers, thought leeches, dream stalkers |
-| **Composite Horrors** | Multiple creature aspects fused together | Chimeras, fusion beasts, amalgam terrors |
+| **Biến Hình** | Hình dạng dễ uốn, lừa dối danh tính | Kẻ bắt chước, doppelganger, kẻ bóp méo thịt |
+| **Nhiều Mắt** | Nhận thức nâng cao, bóp méo thực tại | Beholder, người nhìn thấu hư không, người bò toàn cảnh |
+| **Thợ Săn Tâm Trí** | Khả năng ngoại cảm, thao túng ý thức | Mind flayer, đỉa suy nghĩ, kẻ rình mò giấc mơ |
+| **Kinh Dị Tổng Hợp** | Nhiều khía cạnh sinh vật hợp nhất với nhau | Chimera, quái thú hợp nhất, nỗi kinh hoàng hỗn hợp |
 
-→ See [Aberrations](Aberrations.md) for detailed information.
+→ Xem [Dị Vật](Aberrations.md) để biết thông tin chi tiết.
 
-### Undead
+### Xác Sống
 
-Formerly living beings animated by necromantic energy or trapped souls:
+Những sinh vật từng sống được hoạt hóa bởi năng lượng chiêu hồn hoặc linh hồn bị mắc kẹt:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Phân Loại | Đặc Điểm Chính | Ví Dụ Nổi Bật |
 |-------------|---------------------|------------------|
-| **Corporeal Undead** | Physical bodies, reduced intelligence | Zombies, ghouls, flesh constructs |
-| **Skeletal Undead** | Animated bones, magical binding | Skeletons, bone colossi, marrow mages |
-| **Spectral Undead** | Incorporeal forms, emotional anchoring | Ghosts, wraiths, phantoms, shadow walkers |
-| **Sentient Undead** | Retained intelligence, complex motivations | Vampires, liches, death knights, mummy lords |
+| **Xác Sống Thể Xác** | Cơ thể vật lý, giảm trí thông minh | Zombie, ghoul, công trình thịt |
+| **Xác Sống Xương** | Xương hoạt hình, ràng buộc ma thuật | Bộ xương, tượng đài xương, pháp sư tủy |
+| **Xác Sống Hồn Ma** | Hình thức vô hình, neo đậu cảm xúc | Ma, wraith, bóng ma, người đi trong bóng tối |
+| **Xác Sống Có Tri Giác** | Giữ lại trí thông minh, động cơ phức tạp | Ma cà rồng, lich, hiệp sĩ tử thần, lãnh chúa xác ướp |
 
-→ See [Undead](Undead.md) for detailed information.
+→ Xem [Xác Sống](Undead.md) để biết thông tin chi tiết.
 
-### Corrupted Beings
+### Sinh Vật Bị Tha Hóa
 
-Natural creatures transformed by magical contamination or dark influence:
+Những sinh vật tự nhiên bị biến đổi bởi sự ô nhiễm ma thuật hoặc ảnh hưởng đen tối:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Phân Loại | Đặc Điểm Chính | Ví Dụ Nổi Bật |
 |-------------|---------------------|------------------|
-| **Blighted Animals** | Twisted natural fauna, toxicity | Plague wolves, rot bears, venom hawks |
-| **Tainted Elementals** | Elemental beings corrupted by opposing forces | Ash elementals, pollution spirits, decay shamblers |
-| **Void-Touched** | Beings altered by exposure to cosmic emptiness | Void hunters, null beasts, star-mad predators |
-| **Curse Bearers** | Victims of powerful curses with monstrous transformations | Werewolves, harpy afflicted, stone-curse victims |
+| **Động Vật Bị Tàn Phá** | Động vật hoang dã tự nhiên bị xoắn, độc tính | Sói dịch bệnh, gấu mục nát, diều hâu nọc độc |
+| **Nguyên Tố Bị Vấy Bẩn** | Các sinh vật nguyên tố bị tha hóa bởi các lực lượng đối lập | Nguyên tố tro, linh hồn ô nhiễm, người lết bết phân hủy |
+| **Chạm Bởi Hư Không** | Những sinh vật bị thay đổi do tiếp xúc với sự trống rỗng vũ trụ | Thợ săn hư không, quái thú vô hiệu, động vật ăn thịt điên cuồng vì sao |
+| **Người Mang Lời Nguyền** | Nạn nhân của những lời nguyền mạnh mẽ với những biến đổi quái dị | Người sói, harpy bị ảnh hưởng, nạn nhân của lời nguyền đá |
 
-→ See [Corrupted](Corrupted.md) for detailed information.
+→ Xem [Bị Tha Hóa](Corrupted.md) để biết thông tin chi tiết.
 
-### Giants and Titans
+### Người Khổng Lồ và Titan
 
-Enormous beings of extraordinary strength and primal power:
+Những sinh vật khổng lồ có sức mạnh phi thường và sức mạnh nguyên thủy:
 
-| Subcategory | Key Characteristics | Notable Examples |
+| Phân Loại | Đặc Điểm Chính | Ví Dụ Nổi Bật |
 |-------------|---------------------|------------------|
-| **Elemental Giants** | Connection to fundamental forces | Frost giants, fire titans, storm colossi |
-| **Primal Giants** | Ancient lineage, territorial nature | Hill giants, mountain ogres, forest trolls |
-| **Ancient Titans** | Primordial beings of immense power | World shapers, elder titans, forgotten ones |
-| **Corrupted Giants** | Giants twisted by dark influences | Plague giants, void-touched colossi, undead titans |
+| **Người Khổng Lồ Nguyên Tố** | Kết nối với các lực lượng cơ bản | Người khổng lồ băng giá, titan lửa, tượng đài bão |
+| **Người Khổng Lồ Nguyên Thủy** | Dòng dõi cổ xưa, bản chất lãnh thổ | Người khổng lồ đồi, yêu tinh núi, troll rừng |
+| **Titan Cổ Xưa** | Những sinh vật nguyên thủy có sức mạnh to lớn | Người định hình thế giới, titan trưởng lão, những người bị lãng quên |
+| **Người Khổng Lồ Bị Tha Hóa** | Người khổng lồ bị xoắn bởi những ảnh hưởng đen tối | Người khổng lồ dịch bệnh, tượng đài chạm bởi hư không, titan xác sống |
 
-→ See [Giants](Giants.md) for detailed information.
+→ Xem [Người Khổng Lồ](Giants.md) để biết thông tin chi tiết.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-Monsters often exhibit unusual elemental composition compared to natural creatures:
+Quái vật thường thể hiện thành phần nguyên tố khác thường so với các sinh vật tự nhiên:
 
-| Monster Type | Typical Elemental Ratio | Notes |
+| Loại Quái Vật | Tỷ Lệ Nguyên Tố Tiêu Biểu | Ghi Chú |
 |--------------|-------------------------|-------|
-| Aberrations | E: 30-60%, S: 5-20%, M: 30-60% | Unstable mana patterns, reality-warping properties |
-| Undead | E: 10-30%, S: 0-10%, M: 60-90% | Necromantic energy replacing normal soul component |
-| Corrupted | E: 40-60%, S: 5-15%, M: 30-50% | Original composition distorted by corruption |
-| Giants | E: 65-85%, S: 5-15%, M: 10-25% | Exanthis-dominant with primal magical connections |
+| Dị Vật | E: 30-60%, S: 5-20%, M: 30-60% | Các mẫu mana không ổn định, đặc tính làm cong thực tại |
+| Xác Sống | E: 10-30%, S: 0-10%, M: 60-90% | Năng lượng chiêu hồn thay thế thành phần linh hồn bình thường |
+| Bị Tha Hóa | E: 40-60%, S: 5-15%, M: 30-50% | Thành phần ban đầu bị bóp méo bởi sự tha hóa |
+| Người Khổng Lồ | E: 65-85%, S: 5-15%, M: 10-25% | Exanthis chiếm ưu thế với các kết nối ma thuật nguyên thủy |
 
-## Threat Assessment
+## Đánh Giá Mối Đe Dọa
 
-The Adventurers' Guild and Royal Monster Hunters classify monsters by threat level:
+Hiệp hội Nhà Thám Hiểm và Thợ Săn Quái Vật Hoàng Gia phân loại quái vật theo mức độ đe dọa:
 
-| Threat Level | Description | Recommended Response |
+| Mức Độ Đe Dọa | Mô Tả | Phản Hồi Khuyến Nghị |
 |--------------|-------------|----------------------|
-| **Alpha** | Existential threat to entire regions | Full military response, arch-mage intervention |
-| **Beta** | Capable of destroying settlements | Veteran hunter squads, master mages |
-| **Gamma** | Dangerous to small groups | Experienced adventurers, specialized hunters |
-| **Delta** | Threatening to individuals | Trained guards, novice adventurers |
-| **Epsilon** | Nuisance-level danger | Local militia, basic countermeasures |
+| **Alpha** | Mối đe dọa hiện hữu đối với toàn bộ khu vực | Phản ứng quân sự đầy đủ, can thiệp của pháp sư tối cao |
+| **Beta** | Có khả năng phá hủy các khu định cư | Đội thợ săn kỳ cựu, pháp sư bậc thầy |
+| **Gamma** | Nguy hiểm cho các nhóm nhỏ | Nhà thám hiểm có kinh nghiệm, thợ săn chuyên biệt |
+| **Delta** | Đe dọa cá nhân | Lính canh được huấn luyện, nhà thám hiểm tập sự |
+| **Epsilon** | Mối nguy hiểm ở mức độ phiền toái | Dân quân địa phương, các biện pháp đối phó cơ bản |
 
-## Habitats and Territories
+## Môi Trường Sống và Lãnh Thổ
 
-Monsters tend to inhabit specific environments based on their nature and origins:
+Quái vật có xu hướng sinh sống ở các môi trường cụ thể dựa trên bản chất và nguồn gốc của chúng:
 
-| Environment | Common Monster Types | Notable Characteristics |
+| Môi Trường | Các Loại Quái Vật Phổ Biến | Đặc Điểm Nổi Bật |
 |-------------|----------------------|-------------------------|
-| **Blighted Lands** | Corrupted beings, disease carriers | Magical contamination, toxic atmosphere |
-| **Ancient Ruins** | Undead, guardian constructs | Magical residue, historical significance |
-| **Deep Caverns** | Aberrations, subterranean predators | Isolation, evolutionary divergence |
-| **Wild Magic Zones** | Magical hybrids, reality warpers | Unpredictable magical effects, planar thinning |
-| **Abandoned Battlefields** | War spirits, animated weapons | Emotional residue, death magic |
-| **Primordial Forests** | Ancient guardians, feral horrors | Old growth, ley line convergence |
+| **Vùng Đất Bị Tàn Phá** | Sinh vật bị tha hóa, vật mang bệnh | Ô nhiễm ma thuật, bầu không khí độc hại |
+| **Tàn Tích Cổ Xưa** | Xác sống, công trình bảo vệ | Dư lượng ma thuật, ý nghĩa lịch sử |
+| **Hang Động Sâu Thẳm** | Dị vật, động vật ăn thịt dưới lòng đất | Sự cô lập, sự phân kỳ tiến hóa |
+| **Vùng Ma Thuật Hoang Dã** | Lai ma thuật, người bóp méo thực tại | Hiệu ứng ma thuật không thể đoán trước, sự mỏng đi của mặt phẳng |
+| **Chiến Trường Bỏ Hoang** | Linh hồn chiến tranh, vũ khí hoạt hình | Dư lượng cảm xúc, ma thuật chết |
+| **Rừng Nguyên Sinh** | Người bảo vệ cổ xưa, nỗi kinh hoàng hoang dã | Sự phát triển cũ, sự hội tụ của đường ley |
 
-## Monster Hunting
+## Săn Bắt Quái Vật
 
-The pursuit and elimination of dangerous monsters has evolved into specialized professions:
+Việc theo đuổi và loại bỏ những con quái vật nguy hiểm đã phát triển thành những nghề chuyên biệt:
 
-### Professional Organizations
+### Các Tổ Chức Chuyên Nghiệp
 
-- **Royal Monster Hunters**: Government-sanctioned experts who protect settlements
-- **Adventurers' Guild**: Independent contractors who handle monster-related quests
-- **Order of the Silver Blade**: Religious organization focused on undead and fiends
-- **Arcane Containment Corps**: Specialist mages who handle magical threats
+- **Thợ Săn Quái Vật Hoàng Gia**: Các chuyên gia được chính phủ trừng phạt, những người bảo vệ các khu định cư
+- **Hiệp hội Nhà Thám Hiểm**: Các nhà thầu độc lập, những người xử lý các nhiệm vụ liên quan đến quái vật
+- **Dòng Kiếm Bạc**: Tổ chức tôn giáo tập trung vào xác sống và ác quỷ
+- **Quân Đoàn Ngăn Chặn Ma Thuật**: Các pháp sư chuyên gia xử lý các mối đe dọa ma thuật
 
-### Common Tactics
+### Các Chiến Thuật Phổ Biến
 
-| Monster Type | Effective Approaches | Specialized Equipment |
+| Loại Quái Vật | Các Phương Pháp Tiếp Cận Hiệu Quả | Thiết Bị Chuyên Dụng |
 |--------------|----------------------|----------------------|
-| **Aberrations** | Reality anchoring, pattern disruption | Stabilization runes, anti-magic implements |
-| **Undead** | Soul binding, consecrated weapons | Silver, blessed armaments, holy symbols |
-| **Corrupted** | Purification, elemental opposition | Cleansing salts, elemental focuses |
-| **Giants** | Mobility, group tactics | Specialized ballistas, immobilization devices |
+| **Dị Vật** | Neo thực tại, phá vỡ mô hình | Chữ rune ổn định, dụng cụ chống ma thuật |
+| **Xác Sống** | Ràng buộc linh hồn, vũ khí thánh hiến | Bạc, vũ khí được ban phước, biểu tượng thiêng liêng |
+| **Bị Tha Hóa** | Thanh lọc, đối lập nguyên tố | Muối tẩy rửa, tiêu điểm nguyên tố |
+| **Người Khổng Lồ** | Tính di động, chiến thuật nhóm | Nỏ chuyên dụng, thiết bị bất động |
 
-## Research and Study
+## Nghiên Cứu và Học Tập
 
-Despite their dangers, monsters provide valuable insights into magical principles and biological possibilities:
+Bất chấp những nguy hiểm của chúng, quái vật cung cấp những hiểu biết có giá trị về các nguyên tắc ma thuật và khả năng sinh học:
 
-- **Alchemical Applications**: Monster parts used in potions and magical compounds
-- **Magical Theory**: Study of unnatural creatures reveals new arcane knowledge
-- **Planar Research**: Extradimensional monsters provide insights into other realms
-- **Evolutionary Biology**: Aberrations challenge and expand biological understanding
+- **Ứng Dụng Giả Kim Thuật**: Các bộ phận của quái vật được sử dụng trong thuốc tiên và hợp chất ma thuật
+- **Lý Thuyết Ma Thuật**: Nghiên cứu về những sinh vật không tự nhiên tiết lộ kiến thức bí truyền mới
+- **Nghiên Cứu Mặt Phẳng**: Quái vật ngoài chiều cung cấp những hiểu biết về các cõi khác
+- **Sinh Học Tiến Hóa**: Dị vật thách thức và mở rộng sự hiểu biết về sinh học
 
 ---
 
-> *"The line between monster and marvel is drawn not in the creature's form, but in our understanding of its nature."* — Archsage Veldrin, Monstrology Scholar 
+> *"Ranh giới giữa quái vật và điều kỳ diệu được vẽ không phải ở hình dạng của sinh vật, mà là ở sự hiểu biết của chúng ta về bản chất của nó."* — Archsage Veldrin, Học giả Quái Vật Học
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

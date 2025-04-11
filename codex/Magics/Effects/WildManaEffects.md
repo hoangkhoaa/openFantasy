@@ -1,172 +1,176 @@
-# **Wild Mana Effects**: Dangers and Consequences of Exposure
+# **Hiệu Ứng Mana Hoang Dã**: Nguy Hiểm và Hậu Quả của Việc Tiếp Xúc
 
-> *"Unlike the disciplined notes of a well-tuned instrument, Wild Mana plays its own chaotic melody—beautiful from a distance, but potentially devastating to those caught in its performance."* — Magistrix Elara Nightwind
+> *"Không giống như những nốt nhạc kỷ luật của một nhạc cụ được điều chỉnh tốt, Mana Hoang Dã chơi giai điệu hỗn loạn của riêng nó—đẹp đẽ từ xa, nhưng có khả năng tàn phá đối với những người bị cuốn vào màn trình diễn của nó."* — Magistrix Elara Nightwind
 
-## Quick Reference
-- [Acute Effects on Spellcasters](#acute-effects-on-spellcasters)
-- [Chronic Exposure Consequences](#chronic-exposure-consequences)
-- [Environmental Impact](#environmental-impact)
-- [Treatment Methods](#treatment-methods)
-- [Protective Measures](#protective-measures)
-- [Notable Historical Incidents](#notable-historical-incidents)
+## Tham Khảo Nhanh
+- [Hiệu Ứng Cấp Tính đối với Người Sử Dụng Phép Thuật](#acute-effects-on-spellcasters)
+- [Hậu Quả của Việc Tiếp Xúc Mãn Tính](#chronic-exposure-consequences)
+- [Tác Động Đến Môi Trường](#environmental-impact)
+- [Phương Pháp Điều Trị](#treatment-methods)
+- [Biện Pháp Bảo Vệ](#protective-measures)
+- [Các Sự Cố Lịch Sử Đáng Chú Ý](#notable-historical-incidents)
 
-## Understanding Wild Mana Contamination
+## Hiểu về Ô Nhiễm Mana Hoang Dã
 
-Wild Mana contamination occurs when a spellcaster or environment is exposed to excessive amounts of raw, unpurified magical energy. While all magic users naturally process small amounts of Wild Mana, exposure beyond an individual's filtration capacity can lead to a spectrum of magical maladies.
+Ô nhiễm Mana Hoang Dã xảy ra khi một người sử dụng phép thuật hoặc môi trường tiếp xúc với một lượng lớn năng lượng ma thuật thô, chưa được tinh chế. Mặc dù tất cả người dùng phép thuật đều xử lý một lượng nhỏ Mana Hoang Dã một cách tự nhiên, nhưng việc tiếp xúc vượt quá khả năng lọc của một cá nhân có thể dẫn đến một loạt các bệnh ma thuật.
 
-The severity of effects depends on several factors:
-- Concentration of Wild Mana
-- Duration of exposure
-- Individual's Mana Capacity
-- Previous exposure history
-- Protective measures employed
+Mức độ nghiêm trọng của các hiệu ứng phụ thuộc vào một số yếu tố:
+- Nồng độ Mana Hoang Dã
+- Thời gian tiếp xúc
+- Dung lượng Mana của cá nhân
+- Lịch sử tiếp xúc trước đây
+- Các biện pháp bảo vệ đã được sử dụng
 
-## Acute Effects on Spellcasters
+## Hiệu Ứng Cấp Tính đối với Người Sử Dụng Phép Thuật
 
-### Immediate Physiological Responses
+### Phản Ứng Sinh Lý Ngay Lập Tức
 
-| Severity | Symptoms | Contamination Level | Recovery Time |
+| Mức Độ Nghiêm Trọng | Triệu Chứng | Mức Độ Ô Nhiễm | Thời Gian Phục Hồi |
 |----------|----------|---------------------|---------------|
-| Minor | Tingling sensation, mild disorientation, temporary aura distortion | 10-25% | 1-2 hours |
-| Moderate | Sensory hallucinations, involuntary minor magical discharges, fever | 25-50% | 1-3 days |
-| Severe | Uncontrolled spellcasting, mana channel inflammation, magical burns | 50-75% | 1-2 weeks |
-| Critical | System shock, violent magical outbursts, temporary ability loss | 75%+ | 1-3 months |
+| Nhẹ | Cảm giác ngứa ran, mất phương hướng nhẹ, biến dạng hào quang tạm thời | 10-25% | 1-2 giờ |
+| Vừa phải | Ảo giác giác quan, phóng điện ma thuật nhỏ không tự nguyện, sốt | 25-50% | 1-3 ngày |
+| Nghiêm trọng | Sử dụng phép thuật không kiểm soát, viêm kênh mana, bỏng ma thuật | 50-75% | 1-2 tuần |
+| Nguy kịch | Sốc hệ thống, bộc phát ma thuật dữ dội, mất khả năng tạm thời | 75%+ | 1-3 tháng |
 
-### Cognitive and Magical Effects
+### Hiệu Ứng Nhận Thức và Ma Thuật
 
-- **Pattern Disruption**: Inability to form stable spell patterns
-- **Mana Stutter**: Irregular energy flow during casting attempts
-- **Sensory Overload**: Heightened and painful awareness of magical energies
-- **Resonance Shift**: Temporary change in magical affinities
-- **Wild Dreams**: Vivid, prophetic, or disturbing dreams with magical manifestations during sleep
+- **Rối Loạn Mẫu**: Không có khả năng hình thành các mẫu phép thuật ổn định
+- **Mana Stutter**: Dòng năng lượng không đều trong các lần thử thi triển
+- **Quá Tải Cảm Giác**: Nhận thức cao và đau đớn về năng lượng ma thuật
+- **Chuyển Dịch Cộng Hưởng**: Thay đổi tạm thời trong các ái lực ma thuật
+- **Wild Dreams**: Những giấc mơ sống động, tiên tri hoặc đáng lo ngại với những biểu hiện ma thuật trong khi ngủ
 
-### Emergency Symptoms Requiring Immediate Treatment
+### Các Triệu Chứng Khẩn Cấp Yêu Cầu Điều Trị Ngay Lập Tức
 
-1. **Mana Seizures**: Convulsions accompanied by uncontrolled magical discharges
-2. **Chromatic Bleeding**: Magical energy leaking from eyes, nose, or ears
-3. **Harmonic Dissociation**: Complete inability to control personal mana
-4. **Reality Anchor Loss**: Partial phasing between planes of existence
+1. **Mana Seizures**: Co giật kèm theo phóng điện ma thuật không kiểm soát
+2. **Chromatic Bleeding**: Năng lượng ma thuật rò rỉ từ mắt, mũi hoặc tai
+3. **Harmonic Dissociation**: Hoàn toàn không có khả năng kiểm soát mana cá nhân
+4. **Reality Anchor Loss**: Phân đoạn một phần giữa các mặt phẳng tồn tại
 
-## Chronic Exposure Consequences
+## Hậu Quả của Việc Tiếp Xúc Mãn Tính
 
-### Long-term Physiological Changes
+### Thay Đổi Sinh Lý Dài Hạn
 
-- **Wild-Touched Stigmata**: Permanent marks on the skin that glow during magical activity
-- **Harmonic Tremors**: Persistent trembling that intensifies near magical sources
-- **Channel Scarring**: Permanent damage to internal mana pathways
-- **Resonance Addiction**: Physiological dependence on Wild Mana exposure
+- **Wild-Touched Stigmata**: Dấu vĩnh viễn trên da phát sáng trong quá trình hoạt động ma thuật
+- **Harmonic Tremors**: Run rẩy dai dẳng tăng cường gần các nguồn ma thuật
+- **Channel Scarring**: Tổn thương vĩnh viễn đối với các đường dẫn mana bên trong
+- **Resonance Addiction**: Sự phụ thuộc sinh lý vào việc tiếp xúc với Mana Hoang Dã
 
-### Progressive Conditions
+### Các Tình Trạng Tiến Triển
 
 #### Wild Mana Syndrome (WMS)
-A progressive condition with four recognized stages:
+Một tình trạng tiến triển với bốn giai đoạn được công nhận:
 
-1. **Initiation Stage**: Intermittent magical instability, recovery possible
-2. **Acclimation Stage**: Body adapts but spell precision decreases permanently
-3. **Transformation Stage**: Physical changes begin, such as altered eye color, luminescent bodily fluids
-4. **Integration Stage**: Complete biological adaptation to Wild Mana, fundamental change in magical nature
+1. **Initiation Stage**: Tính không ổn định ma thuật không liên tục, có thể phục hồi
+2. **Acclimation Stage**: Cơ thể thích nghi nhưng độ chính xác phép thuật giảm vĩnh viễn
+3. **Transformation Stage**: Những thay đổi về thể chất bắt đầu, chẳng hạn như thay đổi màu mắt, chất lỏng cơ thể phát quang
+4. **Integration Stage**: Hoàn thành sự thích nghi sinh học với Mana Hoang Dã, thay đổi cơ bản trong bản chất ma thuật
 
 #### Chaotic Resonance Disorder (CRD)
-Characterized by involuntary wild magic effects triggered by emotional states:
+Được đặc trưng bởi các hiệu ứng ma thuật hoang dã không tự nguyện được kích hoạt bởi trạng thái cảm xúc:
 
-| Stage | Emotional Trigger | Typical Manifestations | Control Level |
+| Giai Đoạn | Kích Hoạt Cảm Xúc | Biểu Hiện Điển Hình | Mức Độ Kiểm Soát |
 |-------|-------------------|------------------------|---------------|
-| Early | Extreme emotions only | Minor environmental effects | Manageable with meditation |
-| Intermediate | Moderate emotional changes | Personal physical changes | Requires daily discipline |
-| Advanced | Subtle emotional shifts | Significant magical discharge | Minimal control possible |
-| Terminal | Constant manifestation | Complete magical instability | No control possible |
+| Sớm | Chỉ cảm xúc cực đoan | Các hiệu ứng môi trường nhỏ | Có thể quản lý bằng thiền định |
+| Trung gian | Thay đổi cảm xúc vừa phải | Thay đổi thể chất cá nhân | Yêu cầu kỷ luật hàng ngày |
+| Nâng cao | Thay đổi cảm xúc tinh tế | Phóng điện ma thuật đáng kể | Có thể kiểm soát tối thiểu |
+| Cuối | Biểu hiện liên tục | Tính không ổn định ma thuật hoàn toàn | Không thể kiểm soát |
 
-## Environmental Impact
+## Tác Động Đến Môi Trường
 
-### Localized Effects
+### Hiệu Ứng Cục Bộ
 
-- **Flora Mutation**: Altered plant growth, magical properties in normal plants
-- **Fauna Alteration**: Animals exhibiting magical abilities or physical changes
-- **Weather Disruption**: Unusual weather patterns, magical storms
-- **Terrain Transformation**: Physical changes to the landscape, floating earth, elemental manifestations
+- **Flora Mutation**: Thay đổi sự phát triển của thực vật, đặc tính ma thuật trong thực vật bình thường
+- **Fauna Alteration**: Động vật thể hiện khả năng ma thuật hoặc thay đổi thể chất
+- **Weather Disruption**: Các kiểu thời tiết bất thường, bão ma thuật
+- **Terrain Transformation**: Thay đổi vật lý đối với cảnh quan, đất nổi, biểu hiện nguyên tố
 
 ### Wild Mana Zones
 
-| Classification | Characteristics | Danger Level | Quarantine Status |
+| Phân Loại | Đặc Điểm | Mức Độ Nguy Hiểm | Tình Trạng Kiểm Dịch |
 |----------------|-----------------|--------------|-------------------|
-| Type I | Slightly elevated magical properties, safe for short exposure | Low | Monitoring Only |
-| Type II | Visible magical effects, strange phenomena | Moderate | Limited Access |
-| Type III | Significant reality distortion, spontaneous magical effects | High | Restricted Zone |
-| Type IV | Complete magical saturation, fundamental laws of nature altered | Extreme | Full Quarantine |
-| Type V | Reality breach, connection to other planes | Catastrophic | Military Containment |
+| Loại I | Các đặc tính ma thuật tăng nhẹ, an toàn khi tiếp xúc ngắn hạn | Thấp | Chỉ Giám Sát |
+| Loại II | Hiệu ứng ma thuật có thể nhìn thấy, hiện tượng kỳ lạ | Vừa phải | Truy Cập Hạn Chế |
+| Loại III | Biến dạng thực tế đáng kể, hiệu ứng ma thuật tự phát | Cao | Vùng Hạn Chế |
+| Loại IV | Bão hòa ma thuật hoàn toàn, các quy luật cơ bản của tự nhiên bị thay đổi | Cực độ | Kiểm Dịch Toàn Diện |
+| Loại V | Vi phạm thực tế, kết nối với các mặt phẳng khác | Thảm khốc | Ngăn Chặn Quân Sự |
 
-### Notable Contaminated Regions
+### Các Khu Vực Bị Ô Nhiễm Đáng Chú Ý
 
-- **The Shimmerwood**: Forest where all plant life has developed semi-consciousness
-- **Mage's Folly**: Remnants of an experimental magical academy where Wild Mana saturated the area
-- **The Wailing Wastes**: Desert region where Wild Mana storms manifest voices of the past
-- **Flux Marshes**: Wetlands where time and space fluctuate unpredictably
+- **The Shimmerwood**: Khu rừng nơi tất cả đời sống thực vật đã phát triển bán ý thức
+- **Mage's Folly**: Tàn tích của một học viện ma thuật thử nghiệm nơi Mana Hoang Dã bão hòa khu vực
+- **The Wailing Wastes**: Vùng sa mạc nơi bão Mana Hoang Dã thể hiện tiếng nói của quá khứ
+- **Flux Marshes**: Vùng đất ngập nước nơi thời gian và không gian dao động khó lường
 
-## Treatment Methods
+## Phương Pháp Điều Trị
 
-### First Response
+### Ứng Phó Đầu Tiên
 
-1. **Isolation**: Remove from Wild Mana source immediately
-2. **Stabilization**: Apply Mana Stabilization techniques or potions
-3. **Assessment**: Determine contamination level and affected systems
-4. **Containment**: Prevent spread of Wild Mana to others or environment
+1. **Cách ly**: Loại bỏ ngay lập tức khỏi nguồn Mana Hoang Dã
+2. **Ổn định**: Áp dụng các kỹ thuật hoặc thuốc men Ổn định Mana
+3. **Đánh giá**: Xác định mức độ ô nhiễm và các hệ thống bị ảnh hưởng
+4. **Ngăn chặn**: Ngăn chặn sự lây lan của Mana Hoang Dã sang người khác hoặc môi trường
 
-### Medical Interventions
+### Can Thiệp Y Tế
 
-- **Mana Purification Rituals**: Ceremonial cleansing of contaminated channels
-- **Harmonic Realignment**: Restoration of proper mana flow patterns
-- **Resonance Therapy**: Use of counter-frequencies to neutralize Wild Mana
-- **Extraction Procedures**: Magical removal of Wild Mana concentrations
+- **Mana Purification Rituals**: Thanh tẩy theo nghi lễ các kênh bị ô nhiễm
+- **Harmonic Realignment**: Phục hồi các mẫu dòng mana thích hợp
+- **Resonance Therapy**: Sử dụng tần số đối nghịch để vô hiệu hóa Mana Hoang Dã
+- **Extraction Procedures**: Loại bỏ ma thuật nồng độ Mana Hoang Dã
 
-### Alchemical Treatments
+### Điều Trị Bằng Thuật Giả Kim
 
-| Remedy | Primary Ingredients | Effect | Treatment Duration |
+| Thuốc | Thành Phần Chính | Hiệu Quả | Thời Gian Điều Trị |
 |--------|---------------------|--------|-------------------|
-| Purification Elixir | Crystal lotus, silver water | Accelerates natural filtration | 7-day course |
-| Stabilizing Tincture | Void moss, calming herbs | Reduces acute symptoms | Single dose, as needed |
-| Channel Repair Potion | Phoenix tears, resonant minerals | Heals damaged mana pathways | Monthly for 1 year |
-| Harmonic Draught | Musical fungi, pure water source | Restores natural resonance | Weekly for 1 month |
+| Purification Elixir | Hoa sen pha lê, nước bạc | Tăng tốc độ lọc tự nhiên | Liệu trình 7 ngày |
+| Stabilizing Tincture | Rêu chân không, thảo dược làm dịu | Giảm các triệu chứng cấp tính | Một liều duy nhất, khi cần thiết |
+| Channel Repair Potion | Nước mắt phượng hoàng, khoáng chất cộng hưởng | Chữa lành các đường dẫn mana bị hư hỏng | Hàng tháng trong 1 năm |
+| Harmonic Draught | Nấm âm nhạc, nguồn nước tinh khiết | Khôi phục cộng hưởng tự nhiên | Hàng tuần trong 1 tháng |
 
-### Long-term Management
+### Quản Lý Dài Hạn
 
-- **Adaptive Meditation**: Mental techniques to manage persistent symptoms
-- **Controlled Exposure Therapy**: Gradual reintroduction to regulated magic use
-- **Resonance Monitoring**: Regular assessment of magical stability
-- **Support Circles**: Communities of affected individuals sharing coping strategies
+- **Adaptive Meditation**: Các kỹ thuật tinh thần để kiểm soát các triệu chứng dai dẳng
+- **Controlled Exposure Therapy**: Tái giới thiệu dần dần việc sử dụng ma thuật được điều chỉnh
+- **Resonance Monitoring**: Đánh giá thường xuyên về sự ổn định ma thuật
+- **Support Circles**: Cộng đồng những cá nhân bị ảnh hưởng chia sẻ các chiến lược đối phó
 
-## Protective Measures
+## Biện Pháp Bảo Vệ
 
-### Personal Protection
+### Bảo Vệ Cá Nhân
 
-- **Warding Amulets**: Jewelry inscribed with protective sigils
-- **Mana Filters**: Devices worn to purify ambient mana before it reaches the user
-- **Stabilizing Garments**: Clothing woven with enchantments to maintain personal mana stability
-- **Anchoring Techniques**: Mental practices to maintain magical integrity
+- **Warding Amulets**: Trang sức được khắc những chữ tượng hình bảo vệ
+- **Mana Filters**: Các thiết bị được đeo để thanh lọc mana xung quanh trước khi nó đến được người dùng
+- **Stabilizing Garments**: Quần áo được dệt bằng những bùa chú để duy trì sự ổn định mana cá nhân
+- **Anchoring Techniques**: Thực hành tinh thần để duy trì tính toàn vẹn ma thuật
 
-### Environmental Containment
+### Ngăn Chặn Môi Trường
 
-- **Harmonic Barriers**: Magical constructs that prevent Wild Mana spread
-- **Purification Circles**: Ritual spaces that gradually cleanse an area
-- **Channeling Rods**: Devices that draw Wild Mana away from populated areas
-- **Resonant Architecture**: Buildings designed to naturally repel or redirect Wild Mana
+- **Harmonic Barriers**: Các công trình ma thuật ngăn chặn sự lây lan của Mana Hoang Dã
+- **Purification Circles**: Không gian nghi lễ dần dần thanh lọc một khu vực
+- **Channeling Rods**: Các thiết bị hút Mana Hoang Dã ra khỏi khu vực đông dân cư
+- **Resonant Architecture**: Các tòa nhà được thiết kế để tự nhiên đẩy lùi hoặc chuyển hướng Mana Hoang Dã
 
-## Notable Historical Incidents
+## Các Sự Cố Lịch Sử Đáng Chú Ý
 
-### The Cerulean Catastrophe
-During the Third Age, an attempt to create a permanent portal resulted in a massive Wild Mana surge that affected an entire city. Over 80% of magical practitioners suffered acute effects, and 30% developed chronic conditions. The city remains abandoned, a Type IV contamination zone.
+### Thảm Họa Cerulean
+Trong Thời Đại Thứ Ba, một nỗ lực tạo ra một cổng thông tin vĩnh viễn đã dẫn đến một đợt Mana Hoang Dã khổng lồ ảnh hưởng đến toàn bộ thành phố. Hơn 80% người hành nghề ma thuật bị ảnh hưởng cấp tính và 30% phát triển các tình trạng mãn tính. Thành phố vẫn bị bỏ hoang, một khu vực ô nhiễm Loại IV.
 
-### The Whispering Plague
-A subtle Wild Mana contamination that went undetected for months, causing progressive magical whispers to be heard by residents of the affected region. By the time the source was identified, over 200 people had developed Chaotic Resonance Disorder.
+### Bệnh Dịch Thì Thầm
+Một ô nhiễm Mana Hoang Dã tinh vi không bị phát hiện trong nhiều tháng, khiến cư dân của khu vực bị ảnh hưởng nghe thấy những lời thì thầm ma thuật tiến triển. Vào thời điểm nguồn gốc được xác định, hơn 200 người đã phát triển Rối Loạn Cộng Hưởng Hỗn Loạn.
 
-### The Azure Transformation
-A legendary archmage's failed immortality ritual that resulted in his complete conversion to a Wild Mana entity—neither truly alive nor dead, but a conscious manifestation of chaotic magical energy still studied by researchers today.
+### Sự Biến Đổi Azure
+Nghi lễ bất tử thất bại của một đại pháp sư huyền thoại dẫn đến sự chuyển đổi hoàn toàn của ông ta thành một thực thể Mana Hoang Dã—không thực sự sống cũng không chết, mà là một biểu hiện có ý thức của năng lượng ma thuật hỗn loạn vẫn được các nhà nghiên cứu nghiên cứu ngày nay.
 
-## Research and Future Directions
+## Nghiên Cứu và Định Hướng Tương Lai
 
-Current research focuses on:
-- Improved detection methods for subtle contamination
-- More effective treatments for chronic conditions
-- Enhanced protective technologies
-- Potential applications of controlled Wild Mana exposure
+Nghiên cứu hiện tại tập trung vào:
+- Cải thiện các phương pháp phát hiện ô nhiễm tinh vi
+- Các phương pháp điều trị hiệu quả hơn cho các tình trạng mãn tính
+- Nâng cao công nghệ bảo vệ
+- Các ứng dụng tiềm năng của việc tiếp xúc có kiểm soát với Mana Hoang Dã
 
-> *"We cannot eliminate Wild Mana from our world, nor should we wish to—it is the primordial song from which all magic springs. But we must learn to listen from a safe distance, lest we lose ourselves in its captivating chaos."* — Thorne Wildkeeper, Specialist in Magical Contamination Studies 
+> *"Chúng ta không thể loại bỏ Mana Hoang Dã khỏi thế giới của chúng ta, chúng ta cũng không nên mong muốn như vậy—đó là bài hát nguyên thủy mà từ đó tất cả phép thuật nảy sinh. Nhưng chúng ta phải học cách lắng nghe từ một khoảng cách an toàn, kẻo chúng ta lạc lối trong sự hỗn loạn quyến rũ của nó."* — Thorne Wildkeeper, Chuyên gia Nghiên cứu về Ô nhiễm Ma thuật
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

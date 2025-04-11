@@ -1,6 +1,6 @@
 # **Mending Touch**
 
-A practical utility spell that repairs minor damage to small objects. Widely taught to apprentices across various magical disciplines, this spell demonstrates the principles of pattern restoration and material manipulation.
+Một phép thuật tiện dụng thực tế để sửa chữa những hư hỏng nhỏ cho các vật nhỏ. Được dạy rộng rãi cho các học viên trên khắp các ngành pháp thuật khác nhau, phép thuật này thể hiện các nguyên tắc phục hồi hoa văn và thao tác vật chất.
 
 ## Casting Information
 
@@ -24,74 +24,78 @@ A practical utility spell that repairs minor damage to small objects. Widely tau
 
 ## Pattern Structure
 
-The Mending Touch pattern consists of four primary elements:
-1. **Memory Node**: Captures the object's "memory" of its undamaged state
-2. **Structure Web**: Analyzes and stabilizes the existing structure
-3. **Material Flow**: Directs material elements to return to their proper configuration
-4. **Binding Seal**: Permanently fixes the restored configuration in place
+Cấu trúc hoa văn của Mending Touch bao gồm bốn yếu tố chính:
+1. **Memory Node**: Ghi lại "ký ức" của vật thể về trạng thái không bị hư hại
+2. **Structure Web**: Phân tích và ổn định cấu trúc hiện có
+3. **Material Flow**: Hướng các yếu tố vật chất trở lại cấu hình thích hợp của chúng
+4. **Binding Seal**: Cố định vĩnh viễn cấu hình đã được phục hồi
 
-These elements form a diamond-shaped pattern that flows from the caster's hands into the damaged object.
+Các yếu tố này tạo thành một hoa văn hình kim cương chảy từ tay người thi triển vào vật thể bị hư hại.
 
 ## Practical Effect
 
-When successfully cast, the spell:
-- Reconnects broken pieces that are in contact with each other
-- Seals small cracks and fissures
-- Restores minor surface damage (scratches, scuffs, small chips)
-- Returns the object to functional condition, though often with visible repair lines
+Khi được thi triển thành công, phép thuật:
+- Kết nối lại các mảnh vỡ tiếp xúc với nhau
+- Bịt kín các vết nứt nhỏ và vết nứt
+- Phục hồi các hư hỏng bề mặt nhỏ (vết trầy xước, vết xước, mảnh vỡ nhỏ)
+- Trả lại trạng thái hoạt động cho vật thể, mặc dù thường có các đường sửa chữa có thể nhìn thấy
 
 ## Limitations
 
-- Works only on non-magical, non-living objects smaller than a breadbox
-- Cannot restore missing pieces (all fragments must be present)
-- Does not restore magical properties if the object once had them
-- Not suitable for extremely complex or intricate mechanisms
-- Visible "seams" remain at repair points, becoming less noticeable with caster skill
+- Chỉ hoạt động trên các vật thể phi ma thuật, không sống có kích thước nhỏ hơn hộp bánh mì
+- Không thể phục hồi các mảnh bị thiếu (tất cả các mảnh vỡ phải có mặt)
+- Không khôi phục các thuộc tính ma thuật nếu vật thể đã từng có chúng
+- Không phù hợp cho các cơ chế cực kỳ phức tạp hoặc tinh vi
+- "Đường nối" có thể nhìn thấy vẫn còn tại các điểm sửa chữa, trở nên ít đáng chú ý hơn với kỹ năng của người thi triển
 
 ## Common Applications
 
-- Repairing broken dishes, cups, and glassware
-- Fixing torn pages in books
-- Mending torn clothing or simple accessories
-- Restoring broken tools to working condition
-- Reattaching handles, knobs, or small decorative elements
+- Sửa chữa bát đĩa, cốc và đồ thủy tinh bị vỡ
+- Sửa chữa các trang sách bị rách
+- Sửa quần áo hoặc phụ kiện đơn giản bị rách
+- Khôi phục các công cụ bị hỏng về trạng thái hoạt động
+- Gắn lại tay cầm, núm vặn hoặc các yếu tố trang trí nhỏ
 
 ## Variations
 
-- **Seamless Mending**: An advanced variation that leaves no visible repair marks (Expert difficulty, 65-75% purity)
-- **Swift Mend**: A faster version with reduced effectiveness (15 seconds casting, less durable repairs)
-- **Remote Mending**: Allows repair without direct touch (Adept difficulty, 40-50% purity, requires clear line of sight)
-- **Material Focus**: Specialized versions optimized for specific materials (wood, cloth, ceramic, etc.)
+- **Seamless Mending**: Một biến thể nâng cao không để lại dấu vết sửa chữa có thể nhìn thấy (Độ khó Chuyên gia, độ tinh khiết 65-75%)
+- **Swift Mend**: Một phiên bản nhanh hơn với hiệu quả giảm (15 giây thi triển, sửa chữa kém bền hơn)
+- **Remote Mending**: Cho phép sửa chữa mà không cần chạm trực tiếp (Độ khó Adept, độ tinh khiết 40-50%, yêu cầu tầm nhìn rõ ràng)
+- **Material Focus**: Các phiên bản chuyên biệt được tối ưu hóa cho các vật liệu cụ thể (gỗ, vải, gốm, v.v.)
 
 ## Risks and Miscast Effects
 
-- **False Joining**: Pieces fuse incorrectly, resulting in a warped or unusable object
-- **Temporary Repair**: Poor casting or insufficient purity (below 15%) creates a repair that holds for only a few hours before failing
-- **Surface Marring**: Failed casting leaves discoloration or texture changes on the object
-- **Material Stress**: Creates invisible weaknesses that may cause the object to break again under strain
-- **Pattern Rebound**: Critical purity shortage (below 10%) may cause the broken pieces to repel each other, potentially causing minor injuries
+- **False Joining**: Các mảnh vỡ hợp nhất không chính xác, dẫn đến một vật thể bị cong vênh hoặc không sử dụng được
+- **Temporary Repair**: Thi triển kém hoặc độ tinh khiết không đủ (dưới 15%) tạo ra một sửa chữa chỉ giữ được trong vài giờ trước khi hỏng
+- **Surface Marring**: Thi triển thất bại để lại sự đổi màu hoặc thay đổi kết cấu trên vật thể
+- **Material Stress**: Tạo ra những điểm yếu vô hình có thể khiến vật thể bị vỡ lại dưới tác động
+- **Pattern Rebound**: Sự thiếu hụt độ tinh khiết nghiêm trọng (dưới 10%) có thể khiến các mảnh vỡ đẩy nhau, có khả năng gây ra các thương tích nhỏ
 
 ## Purity Influence on Effect
 
 | Purity Level | Effect Enhancement |
 |--------------|---------------------|
-| 10-15% | Temporary repairs that last hours to days at most |
-| 15-30% | Standard effect as described above, visible repair lines |
-| 30-50% | Less visible repair lines, stronger bonds, can fix slightly more complex objects |
-| 50%+ | Nearly invisible repair seams, can restore minor missing material (chips, etc.) |
+| 10-15% | Sửa chữa tạm thời kéo dài từ vài giờ đến nhiều nhất là vài ngày |
+| 15-30% | Hiệu ứng tiêu chuẩn như được mô tả ở trên, các đường sửa chữa có thể nhìn thấy |
+| 30-50% | Các đường sửa chữa ít nhìn thấy hơn, liên kết mạnh hơn, có thể sửa chữa các vật thể phức tạp hơn một chút |
+| 50%+ | Các đường nối sửa chữa gần như vô hình, có thể phục hồi vật liệu bị thiếu nhỏ (mảnh vỡ, v.v.) |
 
 ## Musical Analogy
 
-Mending Touch is like tuning an instrument that has gone slightly out of tune. The caster must identify the proper "note" (the object's undamaged state) and carefully adjust the "strings" (material structure) until they once again produce harmony. Just as a precisely tuned instrument resonates with clarity, a properly mended object regains its structural integrity.
+Mending Touch giống như lên dây một nhạc cụ bị lệch nhịp một chút. Người thi triển phải xác định "nốt" thích hợp (trạng thái không bị hư hại của vật thể) và cẩn thận điều chỉnh "dây" (cấu trúc vật liệu) cho đến khi chúng lại tạo ra sự hài hòa. Giống như một nhạc cụ được lên dây chính xác cộng hưởng với sự rõ ràng, một vật thể được sửa chữa đúng cách sẽ lấy lại tính toàn vẹn cấu trúc của nó.
 
 ## Learning Progression
 
-Most students master this spell through practice on increasingly challenging materials:
-1. **Paper and Fabrics**: Simple, forgiving materials
-2. **Wood and Ceramics**: More structure, requiring greater precision
-3. **Glass and Stone**: Dense materials that resist magical influence
-4. **Complex Objects**: Items with multiple materials or moving parts
+Hầu hết sinh viên nắm vững phép thuật này thông qua thực hành trên các vật liệu ngày càng khó:
+1. **Paper and Fabrics**: Vật liệu đơn giản, dễ tha thứ
+2. **Wood and Ceramics**: Cấu trúc nhiều hơn, đòi hỏi độ chính xác cao hơn
+3. **Glass and Stone**: Vật liệu dày đặc chống lại ảnh hưởng ma thuật
+4. **Complex Objects**: Vật phẩm có nhiều vật liệu hoặc bộ phận chuyển động
 
 ## Historical Note
 
-The first standardized version of Mending Touch was developed by Elven household mages of the Third Era who sought to create a practical spell accessible to those with minimal magical training. Initially dismissed by "serious" magical academics as mere housekeeping magic, the spell's elegant efficiency and practical utility eventually earned it a place in standard magical curricula. Today, it is often cited as a perfect example of magical design principles: maximum utility with minimal complexity. 
+Phiên bản tiêu chuẩn hóa đầu tiên của Mending Touch được phát triển bởi các pháp sư gia đình Elven của Kỷ nguyên thứ ba, những người tìm cách tạo ra một phép thuật thực tế có thể truy cập được cho những người có đào tạo ma thuật tối thiểu. Ban đầu bị các học giả ma thuật "nghiêm túc" bác bỏ như một loại ma thuật dọn dẹp nhà cửa đơn thuần, tính hiệu quả trang nhã và tính hữu dụng thực tế của phép thuật cuối cùng đã mang lại cho nó một vị trí trong chương trình ma thuật tiêu chuẩn. Ngày nay, nó thường được trích dẫn như một ví dụ hoàn hảo về các nguyên tắc thiết kế ma thuật: tiện ích tối đa với độ phức tạp tối thiểu.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

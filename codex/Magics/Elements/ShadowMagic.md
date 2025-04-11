@@ -1,203 +1,207 @@
-# **Shadow Magic**: The Art of Darkness and Concealment
+# **Shadow Magic**: Nghệ thuật Bóng tối và Ẩn mình
 
-> *"Shadow is not the absence of light, but a subtle presence of its own—a realm of possibilities that exists between what is seen and unseen. Those who fear the dark understand neither its nature nor its gifts."* — Archumbramancer Soren Nightveil
+> *"Bóng tối không phải là sự vắng mặt của ánh sáng, mà là sự hiện diện tinh tế của chính nó—một vương quốc của những khả năng tồn tại giữa những gì được thấy và không được thấy. Những người sợ bóng tối không hiểu bản chất cũng như những món quà của nó."* — Archumbramancer Soren Nightveil
 
-## Quick Reference
-- [Properties of Umbramana](#properties-of-umbramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Tham khảo nhanh
+- [Thuộc tính của Umbramana](#properties-of-umbramana)
+- [Kỹ thuật thao tác](#manipulation-techniques)
+- [Phép thuật phổ biến](#common-spells)
+- [Phát triển Ái lực](#affinity-development)
+- [Rủi ro và Biện pháp bảo vệ](#risks-and-safeguards)
+- [Ý nghĩa văn hóa](#cultural-significance)
 
-## Properties of Umbramana
+## Thuộc tính của Umbramana
 
-Umbramana, the elemental mana of shadow, is characterized by:
+Umbramana, mana nguyên tố của bóng tối, được đặc trưng bởi:
 
-- **Appearance**: Deep purples, blues, and blacks; absorptive, flowing patterns that seem to draw in light
-- **Sensation**: Feels cool, calming, and subtly invigorating when channeled; creates a sense of depth and concealment
-- **Resonance**: Low to medium-frequency, complex vibration patterns with harmonic depth
-- **Purification Challenge**: Tends to absorb and hide impurities rather than release them; requires persistent refinement
-- **Opposite Element**: Light (creates twilight when forced together, ultimately consumed by light)
-- **Complementary Elements**: Death (creates void), Fire (creates smoke)
-- **Musical Analogy**: Minor key melodies, particularly string instruments; complex, layered harmonies
+- **Ngoại hình**: Màu tím đậm, xanh lam và đen; các mẫu hấp thụ, chảy dường như hút ánh sáng
+- **Cảm giác**: Cảm thấy mát mẻ, êm dịu và tiếp thêm sinh lực một cách tinh tế khi được dẫn truyền; tạo ra cảm giác về chiều sâu và sự che giấu
+- **Cộng hưởng**: Tần số thấp đến trung bình, các mẫu rung động phức tạp với độ sâu hài hòa
+- **Thử thách thanh lọc**: Có xu hướng hấp thụ và che giấu các tạp chất hơn là giải phóng chúng; đòi hỏi sự tinh lọc liên tục
+- **Nguyên tố đối lập**: Ánh sáng (tạo ra hoàng hôn khi bị ép lại với nhau, cuối cùng bị ánh sáng tiêu thụ)
+- **Nguyên tố bổ sung**: Tử thần (tạo ra khoảng không), Lửa (tạo ra khói)
+- **Tương tự âm nhạc**: Giai điệu giọng thứ, đặc biệt là nhạc cụ dây; hòa âm phức tạp, nhiều lớp
 
-## Manipulation Techniques
+## Kỹ thuật thao tác
 
-### Basic Techniques
+### Kỹ thuật cơ bản
 
-#### Shadow Summoning
-The foundational technique of drawing forth and concentrating shadow:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Gathers ambient darkness or creates shadow where minimal light exists
-- **Training Focus**: Darkness concentration and boundary definition
-- **Applications**: Creating areas of concealment, darkening rooms, enhancing existing shadows
+#### Triệu hồi bóng tối
+Kỹ thuật nền tảng của việc vẽ và tập trung bóng tối:
+- **Độ khó**: Người mới bắt đầu
+- **Yêu cầu độ tinh khiết**: Cơ bản (15-25%)
+- **Hiệu ứng**: Thu thập bóng tối xung quanh hoặc tạo bóng ở nơi có ánh sáng tối thiểu
+- **Tập trung huấn luyện**: Tập trung bóng tối và xác định ranh giới
+- **Ứng dụng**: Tạo ra các khu vực che giấu, làm tối phòng, tăng cường bóng tối hiện có
 
-#### Umbral Shaping
-Molding and manipulating existing shadow:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Forms shadow into specific shapes and patterns
-- **Training Focus**: Shadow density and form maintenance
-- **Applications**: Simple disguises, intimidation effects, symbolic communication
+#### Tạo hình Umbral
+Đúc khuôn và thao túng bóng tối hiện có:
+- **Độ khó**: Người mới bắt đầu đến Trung cấp
+- **Yêu cầu độ tinh khiết**: Cơ bản đến Tinh chế (20-40%)
+- **Hiệu ứng**: Tạo thành bóng tối thành các hình dạng và hoa văn cụ thể
+- **Tập trung huấn luyện**: Mật độ bóng tối và duy trì hình dạng
+- **Ứng dụng**: Ngụy trang đơn giản, hiệu ứng hăm dọa, giao tiếp tượng trưng
 
-#### Perception Dimming
-Subtly affecting how others perceive the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-50%)
-- **Effect**: Reduces observers' awareness of the caster's presence
-- **Training Focus**: Attention deflection and sensory dampening
-- **Applications**: Stealth enhancement, social camouflage, avoiding unwanted attention
+#### Làm mờ nhận thức
+Ảnh hưởng một cách tinh tế đến cách người khác nhận thức về người thi triển:
+- **Độ khó**: Trung cấp
+- **Yêu cầu độ tinh khiết**: Tinh chế (30-50%)
+- **Hiệu ứng**: Giảm nhận thức của người quan sát về sự hiện diện của người thi triển
+- **Tập trung huấn luyện**: Lệch hướng chú ý và giảm xóc giác quan
+- **Ứng dụng**: Tăng cường tàng hình, ngụy trang xã hội, tránh sự chú ý không mong muốn
 
-### Advanced Techniques
+### Kỹ thuật nâng cao
 
-#### Shadow Animation
-Creating semi-autonomous shadow constructs:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Infuses shadow with temporary purpose and limited intelligence
-- **Training Focus**: Intent projection and umbral persistence
-- **Applications**: Scouting, distraction, message carrying, performance art
+#### Hoạt hình bóng tối
+Tạo ra các cấu trúc bóng tối bán tự động:
+- **Độ khó**: Nâng cao
+- **Yêu cầu độ tinh khiết**: Tinh chế đến Hoàn hảo (45-70%)
+- **Hiệu ứng**: Truyền cho bóng tối mục đích tạm thời và trí thông minh hạn chế
+- **Tập trung huấn luyện**: Chiếu ý định và sự bền bỉ của umbral
+- **Ứng dụng**: Do thám, đánh lạc hướng, mang tin nhắn, nghệ thuật biểu diễn
 
-#### Void Pocketing
-Creating spaces between shadows:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Forms stable extra-dimensional spaces within shadow
-- **Training Focus**: Spatial folding and boundary maintenance
-- **Applications**: Concealment of objects, temporary storage, escape routes
+#### Bỏ túi Void
+Tạo ra không gian giữa các bóng tối:
+- **Độ khó**: Chuyên gia
+- **Yêu cầu độ tinh khiết**: Hoàn hảo (65-85%)
+- **Hiệu ứng**: Tạo thành các không gian ngoại chiều ổn định bên trong bóng tối
+- **Tập trung huấn luyện**: Gấp không gian và duy trì ranh giới
+- **Ứng dụng**: Che giấu đồ vật, lưu trữ tạm thời, đường thoát
 
-#### Umbral Traversal
-Using shadow as a medium for transportation:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Allows physical translation through connected shadows
-- **Training Focus**: Dimensional mapping and personal integrity maintenance
-- **Applications**: Rapid travel, infiltration, escape from physical restraints
+#### Di chuyển Umbral
+Sử dụng bóng tối làm môi trường để vận chuyển:
+- **Độ khó**: Bậc thầy
+- **Yêu cầu độ tinh khiết**: Hoàn hảo (75-95%)
+- **Hiệu ứng**: Cho phép dịch chuyển vật lý qua các bóng tối được kết nối
+- **Tập trung huấn luyện**: Lập bản đồ chiều và duy trì tính toàn vẹn cá nhân
+- **Ứng dụng**: Di chuyển nhanh chóng, xâm nhập, thoát khỏi các hạn chế vật lý
 
-## Common Spells
+## Phép thuật phổ biến
 
-### Novice Spells
+### Phép thuật cho người mới bắt đầu
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Phép thuật | Hiệu ứng | Thành phần | Thời gian niệm chú | Thời lượng |
 |-------|--------|------------|--------------|----------|
-| **Shadow Hand** | Creates a manipulable shadow appendage | Somatic | 2 seconds | Concentration |
-| **Dim** | Reduces light level in a small area | Somatic, Verbal | 3 seconds | 10 minutes |
-| **Night Eyes** | Enhances vision in darkness | Somatic, Verbal | 5 seconds | 1 hour |
-| **Shadow Mark** | Places an invisible mark visible only in darkness | Somatic, Focus | 10 seconds | 1 week |
+| **Bàn tay bóng tối** | Tạo ra một phần phụ bóng tối có thể điều khiển được | Thể chất | 2 giây | Tập trung |
+| **Làm mờ** | Giảm mức ánh sáng trong một khu vực nhỏ | Thể chất, Lời nói | 3 giây | 10 phút |
+| **Mắt đêm** | Tăng cường thị lực trong bóng tối | Thể chất, Lời nói | 5 giây | 1 giờ |
+| **Dấu bóng tối** | Đặt một dấu hiệu vô hình chỉ có thể nhìn thấy trong bóng tối | Thể chất, Tập trung | 10 giây | 1 tuần |
 
-### Intermediate Spells
+### Phép thuật trung cấp
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Phép thuật | Hiệu ứng | Thành phần | Thời gian niệm chú | Thời lượng |
 |-------|--------|------------|--------------|----------|
-| **Cloak of Shadows** | Wraps the caster in concealing darkness | Somatic, Verbal | 5 seconds | 30 minutes |
-| **Shadow Puppet** | Creates a simple animated shadow figure | Somatic, Focus | 10 seconds | 10 minutes |
-| **Umbral Message** | Sends a message through connecting shadows | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
-| **Dark Mirror** | Creates a reflection of reality in shadow | Somatic, Verbal, Focus | 30 seconds | 10 minutes |
+| **Áo choàng bóng tối** | Bọc người thi triển trong bóng tối che giấu | Thể chất, Lời nói | 5 giây | 30 phút |
+| **Con rối bóng tối** | Tạo ra một hình bóng hoạt hình đơn giản | Thể chất, Tập trung | 10 giây | 10 phút |
+| **Tin nhắn Umbral** | Gửi tin nhắn thông qua các bóng tối kết nối | Thể chất, Lời nói, Tập trung | 30 giây | Tức thời |
+| **Gương tối** | Tạo ra một sự phản ánh của thực tế trong bóng tối | Thể chất, Lời nói, Tập trung | 30 giây | 10 phút |
 
-### Advanced Spells
+### Phép thuật nâng cao
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Phép thuật | Hiệu ứng | Thành phần | Thời gian niệm chú | Thời lượng |
 |-------|--------|------------|--------------|----------|
-| **Shadow Step** | Allows short-range teleportation between shadows | Somatic, Verbal, Focus | 3 seconds | Instantaneous |
-| **Umbral Entity** | Forms a semi-autonomous shadow being | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Consuming Darkness** | Creates a field of devouring shadow energy | Somatic, Verbal, Focus | 15 seconds | Concentration |
-| **Realm of Shadow** | Transforms an area into a shadow-dominant environment | Somatic, Verbal, Focus, Ritual | 10 minutes | 1 hour |
+| **Bước bóng tối** | Cho phép dịch chuyển tức thời tầm ngắn giữa các bóng tối | Thể chất, Lời nói, Tập trung | 3 giây | Tức thời |
+| **Thực thể Umbral** | Hình thành một sinh vật bóng tối bán tự động | Thể chất, Lời nói, Tập trung | 1 phút | 1 giờ |
+| **Bóng tối tiêu thụ** | Tạo ra một trường năng lượng bóng tối nuốt chửng | Thể chất, Lời nói, Tập trung | 15 giây | Tập trung |
+| **Vương quốc bóng tối** | Biến một khu vực thành một môi trường thống trị bóng tối | Thể chất, Lời nói, Tập trung, Nghi lễ | 10 phút | 1 giờ |
 
-## Affinity Development
+## Phát triển Ái lực
 
-Shadow affinity progresses through several distinctive stages:
+Ái lực bóng tối tiến triển qua một số giai đoạn đặc biệt:
 
-### Twilight Touch
-The foundational relationship with shadow that most beginners possess:
-- **Manifestation**: Enhanced perception in darkness, intuitive sense of concealed spaces
-- **Physical Signs**: Slightly darker pupils, subtle darkening around fingertips when casting
-- **Enhancement Method**: Regular meditation at twilight or in dimly lit spaces
+### Chạm vào Hoàng hôn
+Mối quan hệ nền tảng với bóng tối mà hầu hết người mới bắt đầu sở hữu:
+- **Biểu hiện**: Nhận thức nâng cao trong bóng tối, cảm giác trực quan về không gian bị che giấu
+- **Dấu hiệu vật lý**: Đồng tử hơi tối hơn, hơi tối xung quanh đầu ngón tay khi niệm chú
+- **Phương pháp tăng cường**: Thiền định thường xuyên vào lúc hoàng hôn hoặc trong không gian thiếu ánh sáng
 
-### Umbral Echo
-The intermediate stage where shadow responds more readily to the mage's will:
-- **Manifestation**: Shadows deepen around the caster, ambient light seems to dim slightly
-- **Physical Signs**: Eyes appear darker, shadow cast is slightly more pronounced than normal
-- **Enhancement Method**: Shadow immersion exercises, prolonged exposure to natural darkness
+### Tiếng vọng Umbral
+Giai đoạn trung gian nơi bóng tối phản hồi dễ dàng hơn theo ý muốn của pháp sư:
+- **Biểu hiện**: Bóng tối sâu hơn xung quanh người thi triển, ánh sáng xung quanh dường như mờ đi một chút
+- **Dấu hiệu vật lý**: Mắt có vẻ tối hơn, bóng đổ rõ rệt hơn bình thường một chút
+- **Phương pháp tăng cường**: Bài tập hòa mình vào bóng tối, tiếp xúc kéo dài với bóng tối tự nhiên
 
-### Void Harmony
-Advanced practitioners achieve a deep resonance with shadow's properties:
-- **Manifestation**: Natural shadows seem drawn to the caster, ability to sense movement through darkness
-- **Physical Signs**: Skin develops subtle shifting patterns in dim light, voice gains resonant qualities
-- **Enhancement Method**: Deep communion at sites of natural darkness or during lunar eclipses
+### Hài hòa Void
+Những người thực hành nâng cao đạt được sự cộng hưởng sâu sắc với các thuộc tính của bóng tối:
+- **Biểu hiện**: Bóng tối tự nhiên dường như bị hút về phía người thi triển, khả năng cảm nhận chuyển động trong bóng tối
+- **Dấu hiệu vật lý**: Da phát triển các mẫu dịch chuyển tinh tế trong ánh sáng yếu, giọng nói có được phẩm chất cộng hưởng
+- **Phương pháp tăng cường**: Hiệp thông sâu sắc tại các địa điểm có bóng tối tự nhiên hoặc trong các đợt nguyệt thực
 
-### Shadow Integration
-Master umbramancers who have achieved profound connection with shadow:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of darkness
-- **Physical Signs**: Body temperature drops slightly, blood appears unusually dark, starlight reflection in eyes
-- **Enhancement Method**: Deep communion at ley line intersections with strong shadow resonance
+### Tích hợp bóng tối
+Các bậc thầy umbramancer đã đạt được kết nối sâu sắc với bóng tối:
+- **Biểu hiện**: Khả năng biến đổi một phần, thao túng bóng tối một cách trực quan
+- **Dấu hiệu vật lý**: Nhiệt độ cơ thể giảm nhẹ, máu có vẻ tối bất thường, phản xạ ánh sao trong mắt
+- **Phương pháp tăng cường**: Hiệp thông sâu sắc tại các giao lộ đường ley với cộng hưởng bóng tối mạnh mẽ
 
-## Risks and Safeguards
+## Rủi ro và Biện pháp bảo vệ
 
-### Common Risks
+### Rủi ro phổ biến
 
-- **Sensory Degradation**: Diminished visual perception in normal light
-- **Emotional Dampening**: Gradual suppression of emotional responses
-- **Umbral Dependency**: Developing discomfort in bright light or open spaces
-- **Identity Diffusion**: Loss of self-definition through excessive shadow immersion
-- **Void Contamination**: Shadow techniques accidentally accessing dangerous extraplanar spaces
+- **Suy giảm giác quan**: Giảm khả năng nhận biết thị giác trong ánh sáng bình thường
+- **Giảm xóc cảm xúc**: Ức chế dần dần các phản ứng cảm xúc
+- **Phụ thuộc Umbral**: Phát triển sự khó chịu trong ánh sáng mạnh hoặc không gian mở
+- **Khuếch tán danh tính**: Mất khả năng tự định nghĩa thông qua việc hòa mình quá mức vào bóng tối
+- **Ô nhiễm Void**: Các kỹ thuật bóng tối vô tình truy cập vào các không gian ngoại hình nguy hiểm
 
-### Miscast Effects
+### Hiệu ứng niệm chú sai
 
-| Severity | Effect | Recovery |
+| Mức độ nghiêm trọng | Hiệu ứng | Phục hồi |
 |----------|--------|----------|
-| **Minor** | Temporary night vision, heightened light sensitivity, minor shadow persistence | Hours |
-| **Moderate** | Partial transparency in bright light, shadow pooling, emotional flattening | Days |
-| **Severe** | Uncontrolled phasing into shadow, sensory darkness, loss of physical boundaries | Weeks |
-| **Critical** | Involuntary shadow transformation, void displacement, essence fragmentation | Months to permanent |
+| **Nhỏ** | Thị lực ban đêm tạm thời, độ nhạy ánh sáng cao, độ bền bóng tối nhỏ | Vài giờ |
+| **Vừa phải** | Độ trong suốt một phần trong ánh sáng mạnh, tập hợp bóng tối, làm phẳng cảm xúc | Vài ngày |
+| **Nghiêm trọng** | Phân giai không kiểm soát được vào bóng tối, bóng tối giác quan, mất ranh giới vật lý | Vài tuần |
+| **Quan trọng** | Biến đổi bóng tối không tự nguyện, dịch chuyển void, phân mảnh bản chất | Vài tháng đến vĩnh viễn |
 
-### Safety Practices
+### Thực hành an toàn
 
-- **Light Balancing**: Regular exposure to natural sunlight between practice sessions
-- **Identity Anchoring**: Personal focus objects and regular social interaction
-- **Boundary Rituals**: Clearly defined casting spaces with protective markings
-- **Emotional Maintenance**: Creative expression and emotional stimulation exercises
-- **Physical Grounding**: Regular physical exercise and tactile experiences
+- **Cân bằng ánh sáng**: Tiếp xúc thường xuyên với ánh sáng mặt trời tự nhiên giữa các buổi thực hành
+- **Neo danh tính**: Các đối tượng tập trung cá nhân và tương tác xã hội thường xuyên
+- **Nghi thức ranh giới**: Xác định rõ ràng không gian niệm chú với các dấu hiệu bảo vệ
+- **Duy trì cảm xúc**: Biểu hiện sáng tạo và các bài tập kích thích cảm xúc
+- **Nối đất vật lý**: Tập thể dục thường xuyên và trải nghiệm xúc giác
 
-## Cultural Significance
+## Ý nghĩa văn hóa
 
-### Historical Development
+### Phát triển lịch sử
 
-Shadow magic represents one of the most misunderstood and often maligned magical disciplines. Its development followed three distinct historical phases:
+Ma thuật bóng tối đại diện cho một trong những kỷ luật ma thuật bị hiểu lầm và thường bị phỉ báng nhất. Sự phát triển của nó tuân theo ba giai đoạn lịch sử riêng biệt:
 
-1. **Primal Darkness**: Early cultures developing rituals around night, caves, and the unknown
-2. **Concealment Necessity**: Development of stealth techniques during periods of magical persecution
-3. **Dimensional Exploration**: Advanced practitioners discovering shadow's connection to other planes
+1. **Bóng tối nguyên thủy**: Các nền văn hóa ban đầu phát triển các nghi lễ xung quanh đêm, hang động và những điều chưa biết
+2. **Sự cần thiết phải che giấu**: Phát triển các kỹ thuật tàng hình trong thời kỳ bị đàn áp ma thuật
+3. **Thăm dò chiều**: Những người thực hành nâng cao khám phá kết nối của bóng tối với các mặt phẳng khác
 
-### Regional Variations
+### Biến thể khu vực
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Văn hóa | Tập trung | Kỹ thuật đặc trưng | Triết lý |
 |---------|-------|---------------------|------------|
-| **Forest Dwellers** | Concealment, camouflage | Shadow blending, dappled darkness | Shadow as the silent protector |
-| **Underground Societies** | Navigation, perception | Cave sight, echo shadowing | Shadow as the true foundation |
-| **Urban Practitioners** | Stealth, communication | Alleyway walking, urban concealment | Shadow as the unseen network |
-| **Desert Night Tribes** | Star connection, cooling | Night shrouding, heat absorption | Shadow as the night's blessing |
+| **Người sống trong rừng** | Che giấu, ngụy trang | Pha trộn bóng tối, bóng tối lốm đốm | Bóng tối là người bảo vệ thầm lặng |
+| **Các xã hội dưới lòng đất** | Điều hướng, nhận thức | Thị lực hang động, tạo bóng tiếng vang | Bóng tối là nền tảng thực sự |
+| **Người thực hành đô thị** | Tàng hình, giao tiếp | Đi bộ trong ngõ hẻm, che giấu đô thị | Bóng tối là mạng lưới vô hình |
+| **Các bộ lạc đêm sa mạc** | Kết nối ngôi sao, làm mát | Che phủ ban đêm, hấp thụ nhiệt | Bóng tối là phước lành của đêm |
 
-### Ceremonial Uses
+### Sử dụng nghi lễ
 
-Shadow magic features prominently in some cultural ceremonies:
-- **Transition Rituals**: Marking major life changes through symbolic shadow immersion
-- **Protection Ceremonies**: Creating shadow guardians for important locations
-- **Coming of Age**: Young umbramancers demonstrating their first shadow manipulation
-- **New Moon Gatherings**: Communal shadow workings during the darkest nights
+Ma thuật bóng tối nổi bật trong một số nghi lễ văn hóa:
+- **Nghi lễ chuyển đổi**: Đánh dấu những thay đổi lớn trong cuộc sống thông qua việc hòa mình vào bóng tối tượng trưng
+- **Nghi lễ bảo vệ**: Tạo ra những người bảo vệ bóng tối cho các địa điểm quan trọng
+- **Tuổi mới lớn**: Các umbramancer trẻ tuổi chứng minh sự thao túng bóng tối đầu tiên của họ
+- **Các buổi tụ tập trăng non**: Các hoạt động bóng tối chung trong những đêm tối nhất
 
-### Contemporary Applications
+### Ứng dụng đương đại
 
-Beyond stealth and intimidation, shadow magic serves important societal functions:
-- **Privacy Protection**: Creating secure spaces free from surveillance
-- **Information Security**: Shadow-marked documents that reveal content only under specific conditions
-- **Environmental Management**: Temperature control through strategic shadow creation
-- **Therapeutic Applications**: Sensory reduction environments for psychological treatment
-- **Engineering**: Testing structures for stability and integrity through shadow analysis
+Ngoài tàng hình và hăm dọa, ma thuật bóng tối phục vụ các chức năng xã hội quan trọng:
+- **Bảo vệ quyền riêng tư**: Tạo ra không gian an toàn không bị giám sát
+- **Bảo mật thông tin**: Các tài liệu được đánh dấu bóng tối chỉ tiết lộ nội dung trong các điều kiện cụ thể
+- **Quản lý môi trường**: Kiểm soát nhiệt độ thông qua việc tạo bóng chiến lược
+- **Ứng dụng trị liệu**: Môi trường giảm cảm giác để điều trị tâm lý
+- **Kỹ thuật**: Kiểm tra cấu trúc về độ ổn định và tính toàn vẹn thông qua phân tích bóng tối
 
-> *"The student of shadow must understand that darkness does not seek to consume light, but to provide balance—like silence that gives meaning to sound, or rest that gives purpose to activity."* — The Umbral Tenets
+> *"Học viên bóng tối phải hiểu rằng bóng tối không tìm cách tiêu thụ ánh sáng, mà là để cung cấp sự cân bằng—giống như sự im lặng mang lại ý nghĩa cho âm thanh, hoặc sự nghỉ ngơi mang lại mục đích cho hoạt động."* — Các nguyên tắc Umbral
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Light Magic](/codex/Magics/Elements/LightMagic.md), [Void Magic](/codex/Magics/Advanced/Specializations/VoidMagic.md)* 
+*Xem thêm: [Ma thuật nguyên tố](/codex/Magics/Elements/ElementalMagic.md), [Ma thuật ánh sáng](/codex/Magics/Elements/LightMagic.md), [Ma thuật Void](/codex/Magics/Advanced/Specializations/VoidMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

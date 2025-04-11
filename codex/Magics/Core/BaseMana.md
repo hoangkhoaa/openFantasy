@@ -1,184 +1,188 @@
-# **Base Mana**: The Foundation of All Magic
+# **Base Mana**: Nền tảng của mọi phép thuật
 
-> *"All spells, from the simplest light to the most complex transmutation, begin with Base Mana. It is the universal clay from which all magical effects are sculpted."* — Archmage Elara Lumestriel
+> *"Tất cả các phép thuật, từ ánh sáng đơn giản nhất đến sự biến đổi phức tạp nhất, đều bắt đầu với Base Mana. Nó là đất sét phổ quát từ đó tất cả các hiệu ứng ma thuật được điêu khắc."* — Archmage Elara Lumestriel
 
-## Quick Reference
-- [Fundamental Properties](#fundamental-properties)
-- [Generation and Storage](#generation-and-storage)
-- [Conversion to Elemental Types](#conversion-to-elemental-types)
-- [Magical Resonance](#magical-resonance)
-- [Training Techniques](#training-techniques)
-- [Historical Understanding](#historical-understanding)
+## Tham khảo nhanh
+- [Thuộc tính cơ bản](#fundamental-properties)
+- [Tạo và lưu trữ](#generation-and-storage)
+- [Chuyển đổi sang các loại Elemental](#conversion-to-elemental-types)
+- [Cộng hưởng ma thuật](#magical-resonance)
+- [Kỹ thuật đào tạo](#training-techniques)
+- [Hiểu biết lịch sử](#historical-understanding)
 
-## Overview
+## Tổng quan
 
-Base Mana is the fundamental, purified magical energy that forms the foundation of all spellcasting in OpenFantasy. Unlike raw [Wild Mana](/codex/Magics/Core/WildMana.md), which exists as chaotic environmental energy, Base Mana represents stabilized magical potential that has been processed through a living being's internal systems. It serves as both the structural framework for spells and the raw material from which specialized elemental mana types are derived.
+Base Mana là năng lượng ma thuật cơ bản, tinh khiết, tạo thành nền tảng của tất cả các phép thuật trong OpenFantasy. Không giống như [Wild Mana](/codex/Magics/Core/WildMana.md) thô, tồn tại như năng lượng môi trường hỗn loạn, Base Mana đại diện cho tiềm năng ma thuật ổn định đã được xử lý thông qua hệ thống bên trong của một sinh vật sống. Nó đóng vai trò là khung cấu trúc cho các phép thuật và là nguyên liệu thô từ đó các loại mana nguyên tố chuyên biệt được lấy ra.
 
-## Fundamental Properties
+## Thuộc tính cơ bản
 
-### Physical Characteristics
-- **Appearance**: Translucent, silver-white energy with a subtle pulsing rhythm
-- **Sensation**: Produces a gentle, steady warmth when actively manipulated
-- **Stability**: Highly stable and predictable compared to Wild Mana
-- **Storage**: Can be safely contained within living beings indefinitely
+### Đặc điểm vật lý
+- **Ngoại hình**: Năng lượng trắng bạc, mờ với nhịp điệu rung động tinh tế
+- **Cảm giác**: Tạo ra sự ấm áp nhẹ nhàng, ổn định khi được thao tác tích cực
+- **Tính ổn định**: Rất ổn định và dễ dự đoán so với Wild Mana
+- **Lưu trữ**: Có thể được chứa an toàn trong các sinh vật sống vô thời hạn
 
-### Magical Attributes
-- **Neutrality**: Contains no inherent elemental alignment
-- **Adaptability**: Can be transformed into any specialized mana type
-- **Structure**: Provides the binding framework that holds spell patterns together
-- **Resonance**: Naturally responsive to caster's mental patterns and intentions
+### Thuộc tính ma thuật
+- **Tính trung lập**: Không chứa sự liên kết nguyên tố vốn có
+- **Khả năng thích ứng**: Có thể được chuyển đổi thành bất kỳ loại mana chuyên biệt nào
+- **Cấu trúc**: Cung cấp khung liên kết giữ các mẫu phép thuật lại với nhau
+- **Cộng hưởng**: Phản ứng tự nhiên với các mẫu tinh thần và ý định của người thi triển
 
-## Generation and Storage
+## Tạo và lưu trữ
 
-### The Two-Phase Conversion Process
+### Quá trình chuyển đổi hai giai đoạn
 
-Base Mana occupies the crucial middle position in the magical energy conversion continuum:
+Base Mana chiếm vị trí trung tâm quan trọng trong chuỗi chuyển đổi năng lượng ma thuật:
 
-1. **Phase 1**: Wild Mana → Base Mana (biological, largely unconscious)
-   - Wild Mana from the environment is absorbed and filtered
-   - Chaotic patterns are ordered into coherent energy
-   - Resulting Base Mana is stored in the caster's internal reserves
+1. **Giai đoạn 1**: Wild Mana → Base Mana (sinh học, phần lớn vô thức)
+   - Wild Mana từ môi trường được hấp thụ và lọc
+   - Các mẫu hỗn loạn được sắp xếp thành năng lượng mạch lạc
+   - Base Mana kết quả được lưu trữ trong dự trữ nội bộ của người thi triển
    
-2. **Phase 2**: Base Mana → Elemental Mana (technical, conscious)
-   - Base Mana is drawn from internal reserves during spellcasting
-   - It is shaped according to the spell's pattern requirements
-   - Portions are specialized into elemental forms as needed
+2. **Giai đoạn 2**: Base Mana → Elemental Mana (kỹ thuật, có ý thức)
+   - Base Mana được lấy từ dự trữ nội bộ trong quá trình thi triển phép thuật
+   - Nó được định hình theo yêu cầu mẫu của phép thuật
+   - Các phần được chuyên biệt hóa thành các dạng nguyên tố khi cần thiết
 
-> **CRITICAL**: All mana stored within living creatures exists as Base Mana, not Wild Mana or Elemental Mana. This natural neutralization is essential for biological compatibility.
+> **QUAN TRỌNG**: Tất cả mana được lưu trữ trong các sinh vật sống tồn tại dưới dạng Base Mana, không phải Wild Mana hoặc Elemental Mana. Sự trung hòa tự nhiên này là điều cần thiết cho khả năng tương thích sinh học.
 
-### Storage Capacity
+### Dung lượng lưu trữ
 
-The maximum amount of Base Mana a caster can store is determined by their Mana Capacity:
+Lượng Base Mana tối đa mà một người thi triển có thể lưu trữ được xác định bởi Mana Capacity của họ:
 
 | Capacity Level | Base Mana Storage | Description |
 |----------------|-------------------|-------------|
-| 5-15% | Very Low | Sufficient only for the simplest spells |
-| 15-30% | Low | Adequate for basic magical practices |
-| 30-50% | Moderate | Standard for professional spellcasters |
-| 50-70% | High | Characteristic of advanced practitioners |
-| 70-85% | Very High | Typical of archmages and magical specialists |
-| 85%+ | Exceptional | Rare even among master spellcasters |
+| 5-15% | Very Low | Đủ chỉ cho các phép thuật đơn giản nhất |
+| 15-30% | Low | Đủ cho các thực hành ma thuật cơ bản |
+| 30-50% | Moderate | Tiêu chuẩn cho những người thi triển phép thuật chuyên nghiệp |
+| 50-70% | High | Đặc trưng của các học viên nâng cao |
+| 70-85% | Very High | Điển hình của các archmage và chuyên gia ma thuật |
+| 85%+ | Exceptional | Hiếm ngay cả trong số các người thi triển phép thuật bậc thầy |
 
-For detailed information on capacity ranges and regeneration rates, see [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md).
+Để biết thông tin chi tiết về phạm vi dung lượng và tốc độ tái tạo, hãy xem [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md).
 
-### Biological Factors
+### Yếu tố sinh học
 
-The efficiency of Wild Mana to Base Mana conversion varies widely based on:
+Hiệu quả của quá trình chuyển đổi Wild Mana thành Base Mana khác nhau rất nhiều dựa trên:
 
-- **Species Differences**: Some species (like Elves) naturally excel at Phase 1 conversion
-- **Individual Variation**: Each person has unique conversion effectiveness
-- **Health Status**: Physical and mental wellness affects conversion efficiency
-- **Training Level**: Conversion can be improved through specific exercises
+- **Sự khác biệt giữa các loài**: Một số loài (như Elves) tự nhiên vượt trội trong việc chuyển đổi Giai đoạn 1
+- **Sự biến đổi cá nhân**: Mỗi người có hiệu quả chuyển đổi duy nhất
+- **Tình trạng sức khỏe**: Sức khỏe thể chất và tinh thần ảnh hưởng đến hiệu quả chuyển đổi
+- **Cấp độ đào tạo**: Chuyển đổi có thể được cải thiện thông qua các bài tập cụ thể
 
-## Conversion to Elemental Types
+## Chuyển đổi sang các loại Elemental
 
-### Base to Specialized Transformation
+### Chuyển đổi từ Base thành Chuyên biệt
 
-During spellcasting, Base Mana undergoes specialization into various elemental types:
+Trong quá trình thi triển phép thuật, Base Mana trải qua quá trình chuyên biệt hóa thành các loại nguyên tố khác nhau:
 
-1. **Intention Formation**: The caster visualizes the desired magical effect
-2. **Pattern Creation**: Base Mana is shaped into the spell's structural framework
-3. **Elemental Infusion**: Portions of the Base Mana are attuned to specific elements
-4. **Integration**: Specialized mana types are woven together within the Base Mana framework
+1. **Hình thành ý định**: Người thi triển hình dung hiệu ứng ma thuật mong muốn
+2. **Tạo mẫu**: Base Mana được định hình thành khung cấu trúc của phép thuật
+3. **Truyền nguyên tố**: Các phần của Base Mana được điều chỉnh theo các yếu tố cụ thể
+4. **Tích hợp**: Các loại mana chuyên biệt được dệt lại với nhau trong khung Base Mana
 
-### Common Conversions and Their Properties
+### Các chuyển đổi phổ biến và thuộc tính của chúng
 
 | Base Mana Percentage | Specialization Percentage | Spell Complexity | Purpose |
 |----------------------|---------------------------|------------------|---------|
-| 80-90% | 10-20% | Very Simple | Basic framework with minimal specialization |
-| 60-80% | 20-40% | Simple | Novice-level spells with clear elemental components |
-| 40-60% | 40-60% | Moderate | Standard professional spellwork |
-| 20-40% | 60-80% | Complex | Advanced spellcasting requiring precise ratios |
-| 10-20% | 80-90% | Very Complex | Master-level spells with highly specialized effects |
+| 80-90% | 10-20% | Very Simple | Khung cơ bản với sự chuyên biệt tối thiểu |
+| 60-80% | 20-40% | Simple | Các phép thuật cấp độ người mới bắt đầu với các thành phần nguyên tố rõ ràng |
+| 40-60% | 40-60% | Moderate | Phép thuật chuyên nghiệp tiêu chuẩn |
+| 20-40% | 60-80% | Complex | Phép thuật nâng cao đòi hỏi tỷ lệ chính xác |
+| 10-20% | 80-90% | Very Complex | Các phép thuật cấp độ bậc thầy với các hiệu ứng chuyên biệt cao |
 
-### Elemental Affinities
+### Affinity nguyên tố
 
-Though Base Mana is neutral, individual casters often have natural affinities for converting it to specific elemental types:
+Mặc dù Base Mana là trung tính, nhưng các người thi triển cá nhân thường có affinity tự nhiên để chuyển đổi nó thành các loại nguyên tố cụ thể:
 
-- **Natural Affinity**: Most casters find certain conversions easier than others
-- **Opposing Elements**: Converting Base Mana to elements opposed to one's affinity requires greater effort
-- **Balanced Practitioners**: Some rare individuals have equal facility with all conversions
+- **Affinity tự nhiên**: Hầu hết các người thi triển thấy một số chuyển đổi dễ dàng hơn những chuyển đổi khác
+- **Các nguyên tố đối lập**: Chuyển đổi Base Mana thành các nguyên tố đối lập với affinity của một người đòi hỏi nỗ lực lớn hơn
+- **Người thực hành cân bằng**: Một số cá nhân hiếm hoi có khả năng ngang bằng với tất cả các chuyển đổi
 
-## Magical Resonance
+## Cộng hưởng ma thuật
 
-### Harmonic Principles
+### Nguyên tắc hài hòa
 
-Base Mana exhibits specific resonance patterns that follow mathematical principles:
+Base Mana thể hiện các mẫu cộng hưởng cụ thể tuân theo các nguyên tắc toán học:
 
-1. **Fundamental Frequency**: Each caster's Base Mana resonates at a unique frequency
-2. **Harmonic Overtones**: These form the basis for elemental specialization
-3. **Consonance**: Compatible elements create harmonious spell patterns
-4. **Dissonance**: Incompatible elements create unstable spell patterns
+1. **Tần số cơ bản**: Base Mana của mỗi người thi triển cộng hưởng ở một tần số duy nhất
+2. **Âm bội hài hòa**: Đây là cơ sở cho sự chuyên môn hóa nguyên tố
+3. **Hòa hợp**: Các yếu tố tương thích tạo ra các mẫu phép thuật hài hòa
+4. **Bất hòa**: Các yếu tố không tương thích tạo ra các mẫu phép thuật không ổn định
 
-### The Musical Analogy
+### Phép ẩn dụ âm nhạc
 
-Base Mana can be understood through musical terminology:
+Base Mana có thể được hiểu thông qua thuật ngữ âm nhạc:
 
-- Base Mana is the **fundamental tone** that provides structure and stability
-- Elemental mana types are the **overtones** that give the magic its specific character
-- Spell patterns are **musical phrases** combining fundamentals and overtones
-- Casting is **performance** - bringing the composition to life
+- Base Mana là **âm cơ bản** cung cấp cấu trúc và sự ổn định
+- Các loại mana nguyên tố là **âm bội** mang lại cho phép thuật đặc tính cụ thể của nó
+- Các mẫu phép thuật là **cụm từ âm nhạc** kết hợp các yếu tố cơ bản và âm bội
+- Thi triển là **biểu diễn** - mang sáng tác vào cuộc sống
 
-> *"If Wild Mana is the chaotic noise of the universe, Base Mana is the first organized note in the symphony of magic."* — Melodius Harpweaver, Bardic Theorist
+> *"Nếu Wild Mana là tiếng ồn hỗn loạn của vũ trụ, thì Base Mana là nốt nhạc có tổ chức đầu tiên trong bản giao hưởng của phép thuật."* — Melodius Harpweaver, Nhà lý luận Bardic
 
-## Training Techniques
+## Kỹ thuật đào tạo
 
-### Base Mana Optimization
+### Tối ưu hóa Base Mana
 
-Specific exercises can improve a caster's handling of Base Mana:
+Các bài tập cụ thể có thể cải thiện khả năng xử lý Base Mana của người thi triển:
 
-#### Novice Exercises
-1. **Meditation on Neutrality**: Centering mental exercises to feel the neutral state
-2. **Base Mana Visualization**: Techniques to perceive one's internal reserves
-3. **Conscious Breathing**: Methods to enhance Wild Mana absorption efficiency
-4. **Basic Circulation**: Simple movements of Base Mana through internal channels
+#### Bài tập cho người mới bắt đầu
+1. **Thiền về tính trung lập**: Các bài tập tập trung tinh thần để cảm nhận trạng thái trung tính
+2. **Hình dung Base Mana**: Các kỹ thuật để nhận biết dự trữ nội bộ của một người
+3. **Thở có ý thức**: Các phương pháp để tăng cường hiệu quả hấp thụ Wild Mana
+4. **Tuần hoàn cơ bản**: Các chuyển động đơn giản của Base Mana thông qua các kênh bên trong
 
-#### Intermediate Practices
-1. **Reserve Expansion**: Gradually stretching Base Mana storage capacity
-2. **Efficiency Refinement**: Improving Phase 1 conversion effectiveness
-3. **Pattern Foundations**: Creating pure Base Mana structures without specialization
-4. **Sensitivity Training**: Developing precise awareness of Base Mana levels
+#### Thực hành trung cấp
+1. **Mở rộng dự trữ**: Dần dần kéo dài dung lượng lưu trữ Base Mana
+2. **Tinh chỉnh hiệu quả**: Cải thiện hiệu quả chuyển đổi Giai đoạn 1
+3. **Nền tảng mẫu**: Tạo các cấu trúc Base Mana thuần túy mà không cần chuyên môn hóa
+4. **Đào tạo độ nhạy**: Phát triển nhận thức chính xác về mức Base Mana
 
-#### Advanced Techniques
-1. **Harmonic Manipulation**: Fine-tuning Base Mana's fundamental resonance
-2. **Conversion Acceleration**: Increasing the speed of Base Mana transformation
-3. **Structure Stabilization**: Maintaining complex Base Mana frameworks
-4. **Reserve Partitioning**: Creating specialized sub-reservoirs for different purposes
+#### Kỹ thuật nâng cao
+1. **Thao tác hài hòa**: Điều chỉnh tần số cộng hưởng cơ bản của Base Mana
+2. **Tăng tốc chuyển đổi**: Tăng tốc độ biến đổi Base Mana
+3. **Ổn định cấu trúc**: Duy trì các khung Base Mana phức tạp
+4. **Phân vùng dự trữ**: Tạo các kho chứa phụ chuyên biệt cho các mục đích khác nhau
 
-## Historical Understanding
+## Hiểu biết lịch sử
 
-### Evolution of Base Mana Theory
+### Sự phát triển của Lý thuyết Base Mana
 
-The conceptualization of Base Mana has evolved throughout magical history:
+Khái niệm hóa về Base Mana đã phát triển trong suốt lịch sử ma thuật:
 
 | Historical Period | Base Mana Theory | Notable Contribution |
 |------------------|------------------|----------------------|
-| Ancient Era | "Life Essence" | Recognition of internal magical energy |
-| Classical Period | "Prima Materia" | Identification of transformation potential |
-| Medieval Studies | "Neutral Ether" | Documentation of stabilizing properties |
-| Renaissance | "Fundamental Quintessence" | Mathematical modeling of resonance |
-| Modern Theory | "Base Mana" | Complete two-phase conversion understanding |
+| Ancient Era | "Life Essence" | Nhận biết năng lượng ma thuật bên trong |
+| Classical Period | "Prima Materia" | Xác định tiềm năng chuyển đổi |
+| Medieval Studies | "Neutral Ether" | Tài liệu về các thuộc tính ổn định |
+| Renaissance | "Fundamental Quintessence" | Mô hình toán học về cộng hưởng |
+| Modern Theory | "Base Mana" | Hiểu biết hoàn chỉnh về chuyển đổi hai giai đoạn |
 
-### Cultural Variations
+### Biến thể văn hóa
 
-Different magical traditions conceptualize Base Mana in unique ways:
+Các truyền thống ma thuật khác nhau khái niệm hóa Base Mana theo những cách độc đáo:
 
-- **Academic Traditions**: Emphasize mathematical precision and purity
-- **Natural Traditions**: Focus on the flow and balance within living systems
-- **Spiritual Approaches**: View Base Mana as connected to the soul or life force
-- **Practical Traditions**: Concentrate on efficient conversion techniques
+- **Truyền thống học thuật**: Nhấn mạnh độ chính xác và độ tinh khiết toán học
+- **Truyền thống tự nhiên**: Tập trung vào dòng chảy và sự cân bằng trong các hệ thống sống
+- **Cách tiếp cận tâm linh**: Xem Base Mana là kết nối với linh hồn hoặc sức sống
+- **Truyền thống thực tế**: Tập trung vào các kỹ thuật chuyển đổi hiệu quả
 
-## Common Misconceptions
+## Những quan niệm sai lầm phổ biến
 
 | Misconception | Reality |
 |---------------|---------|
-| "Base Mana is the weakest form of mana" | Base Mana is neutral, not weak - it's the foundation of all magic |
-| "Pure Base Mana spells don't exist" | Some spells (particularly force effects) use almost entirely Base Mana |
-| "Base Mana can be generated through meditation" | Meditation improves conversion efficiency but doesn't create mana |
-| "High Base Mana reserves make all spells easier" | Capacity helps, but affinity and skill with specific elements matter more |
+| "Base Mana là dạng mana yếu nhất" | Base Mana là trung tính, không yếu - nó là nền tảng của tất cả phép thuật |
+| "Các phép thuật Base Mana thuần túy không tồn tại" | Một số phép thuật (đặc biệt là các hiệu ứng lực) sử dụng gần như hoàn toàn Base Mana |
+| "Base Mana có thể được tạo ra thông qua thiền định" | Thiền định cải thiện hiệu quả chuyển đổi nhưng không tạo ra mana |
+| "Dự trữ Base Mana cao giúp tất cả các phép thuật dễ dàng hơn" | Dung lượng giúp ích, nhưng affinity và kỹ năng với các nguyên tố cụ thể quan trọng hơn |
 
-## Conclusion
+## Kết luận
 
-Base Mana stands as the universal foundation upon which all magical practices are built. Understanding its properties and mastering its manipulation is essential for any serious magical practitioner. While specialized elemental mana types provide the distinctive effects in spellcasting, it is Base Mana that gives those effects structure, coherence, and stability.
+Base Mana là nền tảng phổ quát mà trên đó tất cả các thực hành ma thuật được xây dựng. Hiểu các thuộc tính của nó và làm chủ thao tác của nó là điều cần thiết cho bất kỳ người thực hành ma thuật nghiêm túc nào. Mặc dù các loại mana nguyên tố chuyên biệt cung cấp các hiệu ứng đặc biệt trong phép thuật, nhưng chính Base Mana mang lại cho các hiệu ứng đó cấu trúc, sự mạch lạc và ổn định.
 
-> *"In the beginning, there is only potential. Base Mana is that potential given form - the first step from chaos to creation."* — From "Fundamentals of Magical Theory" by Sage Theodorus 
+> *"Ban đầu, chỉ có tiềm năng. Base Mana là tiềm năng đó được hình thành - bước đầu tiên từ hỗn loạn đến sáng tạo."* — Từ "Fundamentals of Magical Theory" của Sage Theodorus
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

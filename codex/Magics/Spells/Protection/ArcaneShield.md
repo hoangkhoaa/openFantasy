@@ -1,104 +1,108 @@
 # **Arcane Shield**
 
-A fundamental defensive spell that creates a barrier of magical energy to protect the caster from physical and magical harm. This versatile protection serves as the foundation for most defensive magical techniques.
+Một phép phòng thủ cơ bản tạo ra một rào cản năng lượng ma thuật để bảo vệ người niệm phép khỏi các tổn hại vật lý và ma thuật. Sự bảo vệ linh hoạt này đóng vai trò là nền tảng cho hầu hết các kỹ thuật ma thuật phòng thủ.
 
-## Casting Information
+## Thông Tin Yểm Chú
 
 | Aspect | Details |
 |--------|---------|
-| **Difficulty** | Novice to Adept (scales with shield strength) |
-| **Casting Time** | 1-3 seconds |
-| **Duration** | Concentration (up to 10 minutes for novices, 1 hour for adepts) |
-| **Range** | Self (bubble extends 1-3 feet from caster) |
-| **Components** | Somatic (circular gesture), Verbal (short incantation) |
+| **Difficulty** | Từ Sơ Cấp đến Lão Luyện (tăng theo sức mạnh của khiên) |
+| **Casting Time** | 1-3 giây |
+| **Duration** | Tập Trung (tối đa 10 phút cho người mới, 1 giờ cho người lão luyện) |
+| **Range** | Bản Thân (bong bóng mở rộng 1-3 feet từ người niệm phép) |
+| **Components** | Somatic (cử chỉ vòng tròn), Verbal (thần chú ngắn) |
 
-## Technical Details
+## Chi Tiết Kỹ Thuật
 
 | Aspect | Details |
 |--------|---------|
 | **Mana Type** | Base Mana (70%), Terramana (20%), Luxmana (10%) |
-| **Purity Required** | Basic (20-35%) for novice version, Refined (40-60%) for adept version |
-| **Pattern Complexity** | Moderate (5 elements) |
-| **Resonance Frequency** | Protection/Boundary spectrum |
-| **Minimum Mana Capacity** | 25% for novice version, 40% for adept version |
+| **Purity Required** | Cơ Bản (20-35%) cho phiên bản sơ cấp, Tinh Chế (40-60%) cho phiên bản lão luyện |
+| **Pattern Complexity** | Vừa Phải (5 yếu tố) |
+| **Resonance Frequency** | Phổ Bảo Vệ/Ranh Giới |
+| **Minimum Mana Capacity** | 25% cho phiên bản sơ cấp, 40% cho phiên bản lão luyện |
 
-## Pattern Structure
+## Cấu Trúc Mẫu
 
-The Arcane Shield pattern consists of five primary elements:
-1. **Boundary Ring**: Defines the shield's perimeter and overall shape
-2. **Energy Matrix**: Distributes magical force evenly throughout the shield
-3. **Deflection Array**: Angles the shield's surface to divert incoming force
-4. **Filtration Web**: Selectively allows certain energies to pass through
-5. **Anchor Points**: Connects the shield to the caster's personal energy
+Mẫu Arcane Shield bao gồm năm yếu tố chính:
+1. **Boundary Ring**: Xác định chu vi và hình dạng tổng thể của khiên
+2. **Energy Matrix**: Phân phối lực ma thuật đồng đều khắp khiên
+3. **Deflection Array**: Nghiêng bề mặt của khiên để chuyển hướng lực tác động
+4. **Filtration Web**: Cho phép một cách chọn lọc một số năng lượng nhất định đi qua
+5. **Anchor Points**: Kết nối khiên với năng lượng cá nhân của người niệm phép
 
-These elements form a spherical pattern that surrounds the caster in a protective bubble.
+Các yếu tố này tạo thành một mẫu hình cầu bao quanh người niệm phép trong một bong bóng bảo vệ.
 
-## Practical Effect
+## Hiệu Ứng Thực Tế
 
-When successfully cast, the spell:
-- Creates a translucent, slightly luminous barrier around the caster
-- Deflects minor physical projectiles and attacks
-- Reduces the impact of stronger physical forces
-- Dampens harmful magical effects directed at the caster
-- Maintains breathable atmosphere within the shield
+Khi yểm chú thành công, phép thuật:
+- Tạo ra một rào cản hơi mờ, hơi phát sáng xung quanh người niệm phép
+- Làm lệch hướng các vật phóng và tấn công vật lý nhỏ
+- Giảm tác động của các lực vật lý mạnh hơn
+- Giảm thiểu các hiệu ứng ma thuật có hại nhắm vào người niệm phép
+- Duy trì bầu không khí có thể thở được bên trong khiên
 
-## Variations
+## Các Biến Thể
 
-- **Hardened Shield**: Emphasizes physical protection at the cost of magical defense
-- **Spell Ward**: Emphasizes magical protection at the cost of physical defense
-- **Shaped Shield**: Forms a flat barrier rather than a bubble (useful for specific situations)
-- **Chromatic Shield**: Specialized against a particular type of elemental energy (requires 40-50% purity)
-- **Silent Shield**: Cast without verbal components (Adept difficulty, requires 45-55% purity)
+- **Hardened Shield**: Nhấn mạnh bảo vệ vật lý với cái giá là phòng thủ ma thuật
+- **Spell Ward**: Nhấn mạnh bảo vệ ma thuật với cái giá là phòng thủ vật lý
+- **Shaped Shield**: Tạo thành một rào cản phẳng thay vì một bong bóng (hữu ích cho các tình huống cụ thể)
+- **Chromatic Shield**: Chuyên dụng chống lại một loại năng lượng nguyên tố cụ thể (yêu cầu độ tinh khiết 40-50%)
+- **Silent Shield**: Niệm mà không có thành phần verbal (Độ khó Lão Luyện, yêu cầu độ tinh khiết 45-55%)
 
-## Energy Consumption
+## Tiêu Thụ Năng Lượng
 
-The Arcane Shield requires ongoing mana expenditure to maintain:
-- **Passive Maintenance**: Low constant drain while the shield is inactive
-- **Impact Response**: Moderate to high drain when absorbing or deflecting attacks
-- **Specialized Defense**: Additional drain when filtering specific threat types
+Arcane Shield yêu cầu tiêu hao mana liên tục để duy trì:
+- **Passive Maintenance**: Tiêu hao thấp liên tục khi khiên không hoạt động
+- **Impact Response**: Tiêu hao vừa phải đến cao khi hấp thụ hoặc làm lệch hướng các cuộc tấn công
+- **Specialized Defense**: Tiêu hao thêm khi lọc các loại mối đe dọa cụ thể
 
-Most novice casters can maintain a standard shield for approximately 10 minutes before experiencing significant magical fatigue.
+Hầu hết người niệm phép sơ cấp có thể duy trì một khiên tiêu chuẩn trong khoảng 10 phút trước khi trải qua sự mệt mỏi ma thuật đáng kể.
 
-## Common Applications
+## Ứng Dụng Phổ Biến
 
-- **Combat Defense**: Basic protection during magical or physical confrontations
-- **Environmental Protection**: Shielding from harsh weather, toxic atmospheres, or magical radiation
-- **Training Tool**: Learning advanced defensive principles and mana control
-- **Emergency Response**: Quick protection during unexpected dangers
-- **Magical Containment**: Preventing one's own magical experiments from affecting surroundings
+- **Combat Defense**: Bảo vệ cơ bản trong các cuộc đối đầu ma thuật hoặc vật lý
+- **Environmental Protection**: Che chắn khỏi thời tiết khắc nghiệt, bầu không khí độc hại hoặc bức xạ ma thuật
+- **Training Tool**: Học các nguyên tắc phòng thủ nâng cao và kiểm soát mana
+- **Emergency Response**: Bảo vệ nhanh chóng trong những nguy hiểm bất ngờ
+- **Magical Containment**: Ngăn chặn các thí nghiệm ma thuật của chính mình ảnh hưởng đến môi trường xung quanh
 
-## Risks and Miscast Effects
+## Rủi Ro và Hiệu Ứng Yểm Sai
 
-- **Shield Collapse**: Unexpected failure under pressure, potentially causing magical backlash
-- **Permeability Flaws**: Formation of weak points that allow specific threats to penetrate
-- **Energy Drain**: Excessive mana consumption leading to faster than expected fatigue
-- **Feedback Loop**: Shield that reflects energy back toward the caster rather than away
-- **Attunement Lock**: Shield that becomes difficult to dismiss, trapping the caster temporarily
-- **Pattern Fracture**: Insufficient purity (below 15%) creates unstable shield that shatters upon impact
+- **Shield Collapse**: Thất bại bất ngờ dưới áp lực, có khả năng gây ra phản ứng dữ dội ma thuật
+- **Permeability Flaws**: Hình thành các điểm yếu cho phép các mối đe dọa cụ thể xâm nhập
+- **Energy Drain**: Tiêu thụ mana quá mức dẫn đến mệt mỏi nhanh hơn dự kiến
+- **Feedback Loop**: Khiên phản xạ năng lượng trở lại người niệm phép thay vì ra xa
+- **Attunement Lock**: Khiên trở nên khó giải tán, tạm thời bẫy người niệm phép
+- **Pattern Fracture**: Độ tinh khiết không đủ (dưới 15%) tạo ra khiên không ổn định, vỡ tan khi va chạm
 
-## Purity Influence on Effect
+## Ảnh Hưởng Của Độ Tinh Khiết Lên Hiệu Ứng
 
 | Purity Level | Effect Enhancement |
 |--------------|---------------------|
-| 15-25% | Basic shield with minimal protection against physical and magical threats |
-| 25-35% | Standard novice shield with moderate durability and protection |
-| 35-50% | Enhanced shield with greater durability and selective filtering |
-| 50-65% | Advanced shield with precise control over permeability and extended duration |
-| 65%+ | Master-level shield with exceptional durability and specific threat adaptations |
+| 15-25% | Khiên cơ bản với sự bảo vệ tối thiểu chống lại các mối đe dọa vật lý và ma thuật |
+| 25-35% | Khiên sơ cấp tiêu chuẩn với độ bền và bảo vệ vừa phải |
+| 35-50% | Khiên nâng cao với độ bền lớn hơn và khả năng lọc chọn lọc |
+| 50-65% | Khiên tiên tiến với khả năng kiểm soát chính xác độ thấm và thời gian kéo dài |
+| 65%+ | Khiên cấp độ bậc thầy với độ bền đặc biệt và khả năng thích ứng với các mối đe dọa cụ thể |
 
-## Musical Analogy
+## Phép Loại Suy Âm Nhạc
 
-Arcane Shield is like sustaining a consistent protective chord. The caster must maintain the proper "harmony" between the different elements of the shield pattern while adjusting "volume" (shield strength) according to incoming threats. Like a musician who must maintain a difficult note through changing conditions, the shield caster must preserve the integrity of their protective barrier despite distractions and attacks.
+Arcane Shield giống như duy trì một hợp âm bảo vệ nhất quán. Người niệm phép phải duy trì "sự hài hòa" phù hợp giữa các yếu tố khác nhau của mẫu khiên đồng thời điều chỉnh "âm lượng" (sức mạnh của khiên) theo các mối đe dọa đến. Giống như một nhạc sĩ phải duy trì một nốt khó khăn trong điều kiện thay đổi, người niệm khiên phải bảo tồn tính toàn vẹn của rào cản bảo vệ của họ bất chấp những phiền nhiễu và tấn công.
 
-## Learning Progression
+## Quá Trình Học Tập
 
-Most students master this spell through graduated challenges:
-1. **Formation**: Creating and holding the basic shield structure
-2. **Endurance**: Maintaining the shield for progressively longer periods
-3. **Stress Testing**: Defending against minor controlled attacks
-4. **Refinement**: Adjusting shield properties for specific situations
-5. **Integration**: Casting and maintaining the shield while performing other actions
+Hầu hết học sinh nắm vững phép thuật này thông qua các thử thách tăng dần:
+1. **Formation**: Tạo và giữ cấu trúc khiên cơ bản
+2. **Endurance**: Duy trì khiên trong khoảng thời gian dài hơn
+3. **Stress Testing**: Phòng thủ chống lại các cuộc tấn công được kiểm soát nhỏ
+4. **Refinement**: Điều chỉnh các thuộc tính của khiên cho các tình huống cụ thể
+5. **Integration**: Yểm chú và duy trì khiên trong khi thực hiện các hành động khác
 
-## Historical Note
+## Ghi Chú Lịch Sử
 
-The Arcane Shield is one of the oldest documented spells, with evidence of its use dating back to the First Era of magical development. Its original creator is unknown, but magical historians believe it evolved simultaneously across multiple cultures as a natural response to the dangers of early, unstable spellcasting. Despite countless attempts to improve or replace it with more complex defensive magic, the Arcane Shield's elegant efficiency and low mana requirements have kept it in active use for millennia. As the saying goes among battle mages: "Master your shield before you forge your sword." 
+Arcane Shield là một trong những phép thuật được ghi chép lâu đời nhất, với bằng chứng về việc sử dụng nó có từ Kỷ Nguyên Đầu Tiên của sự phát triển ma thuật. Người tạo ra nó ban đầu không được biết, nhưng các nhà sử học ma thuật tin rằng nó đã phát triển đồng thời ở nhiều nền văn hóa như một phản ứng tự nhiên đối với những nguy hiểm của việc yểm phép ban đầu, không ổn định. Bất chấp vô số nỗ lực để cải thiện hoặc thay thế nó bằng ma thuật phòng thủ phức tạp hơn, hiệu quả thanh lịch và yêu cầu mana thấp của Arcane Shield đã giữ cho nó được sử dụng tích cực trong hàng thiên niên kỷ. Như câu nói của các pháp sư chiến đấu: "Làm chủ chiếc khiên của bạn trước khi bạn rèn thanh kiếm của mình."
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,108 +1,112 @@
-# OpenFantasy Fundamental Concepts
+# Các Khái Niệm Cơ Bản của OpenFantasy
 
-> *"Three elements form the foundation of all existence: Exanthis gives it form, Soul gives it purpose, and Mana gives it wonder."*
+> *"Ba yếu tố tạo nên nền tảng của mọi sự tồn tại: Exanthis tạo cho nó hình dạng, Soul cho nó mục đích, và Mana cho nó sự kỳ diệu."*
 
-## Overview
+## Tổng Quan
 
-Welcome to the OpenFantasy Fundamental Concepts documentation. This section contains detailed information about the three foundational elements that define the reality of the OpenFantasy world: Exanthis, Soul, and Mana. These elements interact to create all beings, objects, and phenomena in the world.
+Chào mừng đến với tài liệu Các Khái Niệm Cơ Bản của OpenFantasy. Phần này chứa thông tin chi tiết về ba yếu tố nền tảng định nghĩa thực tế của thế giới OpenFantasy: Exanthis, Soul và Mana. Các yếu tố này tương tác để tạo ra tất cả các sinh vật, vật thể và hiện tượng trên thế giới.
 
-## Quick Navigation
+## Điều Hướng Nhanh
 
 - [Exanthis](#exanthis)
 - [Soul](#soul)
 - [Mana](#mana)
-- [Elemental Interactions](#elemental-interactions)
-- [Geographical Distribution](#geographical-distribution)
+- [Tương Tác Giữa Các Nguyên Tố](#elemental-interactions)
+- [Phân Bố Địa Lý](#geographical-distribution)
 
-## The Three Elements
+## Ba Yếu Tố
 
-Each of the three fundamental elements governs a different aspect of existence:
+Mỗi trong ba yếu tố cơ bản chi phối một khía cạnh khác nhau của sự tồn tại:
 
-| Element | Nature | Function | Document |
+| Yếu Tố | Bản Chất | Chức Năng | Tài Liệu |
 |---------|--------|----------|----------|
-| **Exanthis** | Physical, magnetic material | Creates form and structure | [Exanthis.md](Exanthis.md) |
-| **Soul** | Ethereal essence | Provides consciousness and will | [Soul.md](Soul.md) |
-| **Mana** | Magical energy | Enables magical manipulation | [Mana.md](Mana.md) |
+| **Exanthis** | Vật chất, vật liệu từ tính | Tạo hình dạng và cấu trúc | [Exanthis.md](Exanthis.md) |
+| **Soul** | Tinh chất siêu nhiên | Cung cấp ý thức và ý chí | [Soul.md](Soul.md) |
+| **Mana** | Năng lượng ma thuật | Cho phép thao túng ma thuật | [Mana.md](Mana.md) |
 
 ## Exanthis
 
-Exanthis is the foundation of physical reality, providing structure and solidity to the world:
+Exanthis là nền tảng của thực tế vật chất, cung cấp cấu trúc và sự vững chắc cho thế giới:
 
-### Key Properties
+### Các Thuộc Tính Chính
 
-- Forms the physical structure of reality
-- Generates magnetic fields that disrupt Mana
-- At 100% purity, becomes the hardest known material
-- Found in high concentrations in western regions
+- Tạo thành cấu trúc vật chất của thực tế
+- Tạo ra các trường từ tính làm gián đoạn Mana
+- Ở độ tinh khiết 100%, trở thành vật liệu cứng nhất được biết đến
+- Được tìm thấy với nồng độ cao ở các khu vực phía tây
 
-### Significance
+### Ý Nghĩa
 
-Exanthis grounds reality in material form, providing resistance to magical forces and establishing the physical laws of the world. Higher Exanthis concentration in living beings grants them greater physical strength and durability at the cost of magical potential.
+Exanthis đặt nền móng cho thực tế dưới dạng vật chất, cung cấp sức đề kháng cho các lực lượng ma thuật và thiết lập các quy luật vật lý của thế giới. Nồng độ Exanthis cao hơn trong sinh vật sống mang lại cho chúng sức mạnh và độ bền vật lý lớn hơn với cái giá là tiềm năng ma thuật.
 
 ## Soul
 
-The Soul bridges the material and spiritual realms, providing consciousness and will:
+Soul kết nối các cõi vật chất và tinh thần, cung cấp ý thức và ý chí:
 
-### Key Properties
+### Các Thuộc Tính Chính
 
-- Consists of Core Identity, Memory Matrix, and Intent Framework
-- Serves as the conduit for magical manipulation
-- Can evolve and develop throughout a lifetime
-- Persists after physical death
+- Bao gồm Bản Sắc Cốt Lõi, Ma Trận Ký Ức và Khung Ý Định
+- Đóng vai trò là ống dẫn cho thao tác ma thuật
+- Có thể tiến hóa và phát triển trong suốt cuộc đời
+- Tồn tại sau khi chết về thể xác
 
-### Significance
+### Ý Nghĩa
 
-The Soul enables beings to experience the world, form intentions, and manipulate Mana according to their will. It creates the unique identity of each individual and allows for conscious interaction with reality.
+Soul cho phép các sinh vật trải nghiệm thế giới, hình thành ý định và thao túng Mana theo ý chí của chúng. Nó tạo ra bản sắc độc đáo của mỗi cá nhân và cho phép tương tác có ý thức với thực tế.
 
 ## Mana
 
-Mana is the breath of creation itself, forming the foundation of all magical effects:
+Mana là hơi thở của chính sự sáng tạo, tạo thành nền tảng của tất cả các hiệu ứng ma thuật:
 
-### Key Properties
+### Các Thuộc Tính Chính
 
-- Permeates all things as particle-like energy
-- Flows in currents throughout the world
-- Resonates with Soul to enable magical manipulation
-- Repelled by Exanthis' magnetic field
+- Thẩm thấu mọi thứ như năng lượng dạng hạt
+- Chảy trong các dòng chảy khắp thế giới
+- Cộng hưởng với Soul để cho phép thao túng ma thuật
+- Bị đẩy lùi bởi từ trường của Exanthis
 
-### Significance
+### Ý Nghĩa
 
-Mana is the raw material of magic, enabling the transformation of intention into reality. It flows through the world in varying concentrations, creating regions of high and low magical potential.
+Mana là nguyên liệu thô của phép thuật, cho phép chuyển đổi ý định thành hiện thực. Nó chảy qua thế giới với nồng độ khác nhau, tạo ra các khu vực có tiềm năng ma thuật cao và thấp.
 
-## Elemental Interactions
+## Tương Tác Giữa Các Nguyên Tố
 
-The three elements interact in complex ways that define the nature of reality:
+Ba yếu tố tương tác theo những cách phức tạp để xác định bản chất của thực tế:
 
-### Balance and Opposition
+### Cân Bằng và Đối Lập
 
-| Interaction | Result | Effect |
+| Tương Tác | Kết Quả | Hiệu Ứng |
 |-------------|--------|--------|
-| **Exanthis + Mana** | Opposition | Exanthis disrupts and repels Mana |
-| **Soul + Mana** | Harmony | Soul directs and shapes Mana |
-| **Exanthis + Soul** | Structure | Soul animates physical form created by Exanthis |
-| **All Three** | Balance | Creates living beings with unique capabilities |
+| **Exanthis + Mana** | Đối Lập | Exanthis làm gián đoạn và đẩy lùi Mana |
+| **Soul + Mana** | Hài Hòa | Soul chỉ đạo và định hình Mana |
+| **Exanthis + Soul** | Cấu Trúc | Soul làm sống động hình dạng vật lý được tạo ra bởi Exanthis |
+| **Cả Ba** | Cân Bằng | Tạo ra sinh vật sống với những khả năng độc đáo |
 
-### In Living Beings
+### Trong Sinh Vật Sống
 
-The ratio of these elements in a living being determines their nature and abilities:
+Tỷ lệ của các yếu tố này trong một sinh vật sống xác định bản chất và khả năng của chúng:
 
-- **High Exanthis**: Greater physical strength and durability, reduced magical ability
-- **High Soul**: Enhanced consciousness and willpower, often shorter lifespan
-- **High Mana Capacity**: Enhanced magical potential, often reduced physical robustness
+- **Exanthis Cao**: Sức mạnh và độ bền vật lý lớn hơn, khả năng ma thuật giảm
+- **Soul Cao**: Ý thức và ý chí nâng cao, thường có tuổi thọ ngắn hơn
+- **Dung Lượng Mana Cao**: Tiềm năng ma thuật nâng cao, thường giảm độ bền vật lý
 
-## Geographical Distribution
+## Phân Bố Địa Lý
 
-The elements are not evenly distributed throughout the world:
+Các yếu tố không được phân bố đều trên khắp thế giới:
 
-| Region | Dominant Element | Characteristics |
+| Khu Vực | Yếu Tố Thống Trị | Đặc Điểm |
 |--------|------------------|-----------------|
-| **Eastern Veldrassil** | Mana | High magical potential, centers of arcane study |
-| **Western Veldrassil** | Exanthis | Low magical potential, centers of physical industry |
-| **Various Leylines** | Mana | Streams of concentrated magical energy |
-| **Sacred Groves** | Soul | Places of heightened spiritual connection |
+| **Đông Veldrassil** | Mana | Tiềm năng ma thuật cao, trung tâm nghiên cứu bí truyền |
+| **Tây Veldrassil** | Exanthis | Tiềm năng ma thuật thấp, trung tâm công nghiệp vật lý |
+| **Các Dòng Leylines** | Mana | Các dòng năng lượng ma thuật tập trung |
+| **Các Khu Rừng Thiêng** | Soul | Những nơi có kết nối tâm linh cao hơn |
 
-This uneven distribution creates natural zones of magical intensity and magical dead zones, influencing the development of civilizations and the distribution of species.
+Sự phân bố không đồng đều này tạo ra các vùng tự nhiên có cường độ ma thuật và các vùng chết ma thuật, ảnh hưởng đến sự phát triển của các nền văn minh và sự phân bố của các loài.
 
 ---
 
-> **Note**: Understanding these fundamental concepts is essential for comprehending all other aspects of the OpenFantasy world, from species characteristics to magical systems to technological development. 
+> **Lưu ý**: Hiểu được những khái niệm cơ bản này là điều cần thiết để hiểu tất cả các khía cạnh khác của thế giới OpenFantasy, từ đặc điểm loài đến hệ thống ma thuật đến phát triển công nghệ.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

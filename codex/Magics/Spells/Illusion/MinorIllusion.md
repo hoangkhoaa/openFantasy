@@ -1,155 +1,159 @@
-# **Minor Illusion**
+# **Ảo Ảnh Nhỏ (Minor Illusion)**
 
-> *"Reality is but a canvas awaiting the illusion artist's touch."*  
-> — Mirala Shadowweaver, Illusion Grandmaster
+> *"Thực tại chẳng khác nào một tấm toan chờ đợi sự chạm tay của nghệ sĩ ảo ảnh."*
+> — Mirala Shadowweaver, Bậc thầy Ảo Ảnh
 
-## Casting Information
-- **Difficulty**: Novice
-- **Casting Time**: 2 seconds
-- **Duration**: Concentration, up to 5 minutes
-- **Range**: Within 15 feet
-- **Components**: Somatic, Verbal
+## Thông Tin Thi Triển
+- **Độ Khó**: Sơ cấp
+- **Thời Gian Thi Triển**: 2 giây
+- **Thời Lượng**: Tập trung, lên đến 5 phút
+- **Phạm Vi**: Trong vòng 15 feet
+- **Thành Phần**: Động tác, Lời nói
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 60%, Umbramana 30%, Luxmana 10%
-- **Purity Required**: Basic (15-25%)
-- **Minimum Mana Capacity**: 15% (Higher capacity extends possible duration and area)
-- **Pattern Complexity**: Simple (3-tier matrix)
-- **Resonance Frequency**: Mid-range sensory spectrum
-- **Specialization Efficiency Required**: 40%+ (Novice level)
-- **Wild Mana Tolerance**: Up to 15% residual content
+## Chi Tiết Kỹ Thuật
+- **Phân Bố Loại Mana**: Mana Gốc 60%, Umbramana 30%, Luxmana 10%
+- **Độ Tinh Khiết Yêu Cầu**: Cơ bản (15-25%)
+- **Dung Lượng Mana Tối Thiểu**: 15% (Dung lượng cao hơn kéo dài thời lượng và diện tích)
+- **Độ Phức Tạp của Mẫu**: Đơn giản (ma trận 3 tầng)
+- **Tần Số Cộng Hưởng**: Dải quang phổ cảm giác tầm trung
+- **Hiệu Quả Chuyên Môn Hóa Yêu Cầu**: 40%+ (Cấp độ sơ cấp)
+- **Khả Năng Chịu Đựng Mana Hoang Dã**: Lên đến 15% nội dung dư thừa
 
-## Mana Mechanics
+## Cơ Chế Mana
 
-### Base Mana Function
-The Base Mana component (60%) provides:
-- Structural framework for the illusion pattern
-- Stability and duration maintenance
-- Connection to the caster's concentration
-- Boundary definition and spatial anchoring
+### Chức Năng của Mana Gốc
+Thành phần Mana Gốc (60%) cung cấp:
+- Khung cấu trúc cho mẫu ảo ảnh
+- Sự ổn định và duy trì thời lượng
+- Kết nối với sự tập trung của người thi triển
+- Định nghĩa ranh giới và neo đậu không gian
 
-### Umbramana Function
-The Shadow mana component (30%) contributes:
-- Visual/sensory obscuration capabilities
-- Reality distortion properties
-- Light/perception manipulation
-- Concealment of the magical nature of the effect
+### Chức Năng của Umbramana
+Thành phần Mana Bóng Tối (30%) đóng góp:
+- Khả năng che khuất thị giác/cảm giác
+- Thuộc tính bóp méo thực tại
+- Thao túng ánh sáng/nhận thức
+- Che giấu bản chất ma thuật của hiệu ứng
 
-### Luxmana Function
-The Light mana component (10%) provides:
-- Visual clarity and detail enhancement
-- Sensory precision and definition
-- Reality mimicry qualities
-- Observer connection hooks
+### Chức Năng của Luxmana
+Thành phần Mana Ánh Sáng (10%) cung cấp:
+- Độ rõ nét hình ảnh và tăng cường chi tiết
+- Độ chính xác và định nghĩa cảm giác
+- Phẩm chất bắt chước thực tế
+- Móc nối kết nối người quan sát
 
-### Specialization Process
-The caster must successfully:
-1. Draw Base Mana from internal reserves
-2. Transform approximately 40% of this Base Mana into specialized forms
-3. Maintain the correct proportional balance (60:30:10)
-4. Establish the harmonics between opposing elements (Umbramana and Luxmana)
+### Quy Trình Chuyên Môn Hóa
+Người thi triển phải thành công:
+1. Hút Mana Gốc từ trữ lượng bên trong
+2. Chuyển đổi khoảng 40% Mana Gốc này thành các dạng chuyên biệt
+3. Duy trì sự cân bằng tỷ lệ chính xác (60:30:10)
+4. Thiết lập sự hài hòa giữa các yếu tố đối lập (Umbramana và Luxmana)
 
-## Pattern Structure
+## Cấu Trúc Mẫu
 
-The spell consists of four primary pattern elements forming a sensory projection matrix:
+Phép thuật bao gồm bốn yếu tố mẫu chính tạo thành một ma trận chiếu cảm giác:
 
-1. **Image Seed**: The core visualization pattern that establishes the illusion's foundation
-2. **Sensory Projection**: The pattern component that projects the illusion into physical space
-3. **Boundary Frame**: Defines the spatial limitations and edges of the illusion
-4. **Perception Hook**: The subtle pattern that connects the illusion to observers' senses
+1. **Hạt Giống Hình Ảnh**: Mẫu hình dung cốt lõi thiết lập nền tảng của ảo ảnh
+2. **Chiếu Cảm Giác**: Thành phần mẫu chiếu ảo ảnh vào không gian vật lý
+3. **Khung Ranh Giới**: Xác định các giới hạn không gian và các cạnh của ảo ảnh
+4. **Móc Nhận Thức**: Mẫu tinh tế kết nối ảo ảnh với các giác quan của người quan sát
 
-## Practical Effect
+## Hiệu Ứng Thực Tế
 
-Minor Illusion creates a single sensory illusion within range:
-- A visual illusion no larger than a 5-foot cube
-- A sound emanating from a point in range (whisper to conversation volume)
-- A simple scent detectable within 10 feet
-- A minor tactile sensation (temperature change, light breeze, gentle touch)
+Ảo Ảnh Nhỏ tạo ra một ảo ảnh cảm giác duy nhất trong phạm vi:
+- Một ảo ảnh thị giác không lớn hơn một khối 5-foot
+- Một âm thanh phát ra từ một điểm trong phạm vi (tiếng thì thầm đến âm lượng cuộc trò chuyện)
+- Một mùi hương đơn giản có thể phát hiện trong vòng 10 feet
+- Một cảm giác xúc giác nhỏ (thay đổi nhiệt độ, làn gió nhẹ, chạm nhẹ)
 
-The spell can create only one type of sensory effect at a time. The illusion has no physical substance and cannot cause damage, create light that illuminates areas, or produce sound loud enough to cause damage or be heard more than 100 feet away.
+Phép thuật chỉ có thể tạo ra một loại hiệu ứng cảm giác tại một thời điểm. Ảo ảnh không có chất vật lý và không thể gây ra thiệt hại, tạo ra ánh sáng chiếu sáng khu vực hoặc tạo ra âm thanh đủ lớn để gây ra thiệt hại hoặc được nghe thấy cách xa hơn 100 feet.
 
-## Purity Influence on Effect
+## Ảnh Hưởng của Độ Tinh Khiết đến Hiệu Ứng
 
-The caster's mana purity directly affects the illusion's quality, believability, and stability:
+Độ tinh khiết mana của người thi triển ảnh hưởng trực tiếp đến chất lượng, độ tin cậy và sự ổn định của ảo ảnh:
 
-| Purity Level | Effect |
+| Mức Độ Tinh Khiết | Hiệu Ứng |
 |--------------|--------|
-| Below 10% | Casting typically fails; any resulting illusion appears as obvious magical energy with no coherent form |
-| 10-15% | Highly unstable illusion with visible fluctuations and mana "glitches"; immediately recognizable as magical |
-| 15-25% | Standard illusion that appears realistic from a distance but lacks fine details and natural movement |
-| 25-35% | Enhanced illusion with improved details, more natural movement, and better sensory integration |
-| 35-45% | Refined illusion with convincing details that can withstand moderate scrutiny; subtle environmental interaction |
-| 50%+ | Nearly flawless illusion that can fool most observers without careful inspection; seamlessly adapts to environmental changes |
+| Dưới 10% | Thi triển thường thất bại; bất kỳ ảo ảnh nào tạo ra đều xuất hiện dưới dạng năng lượng ma thuật rõ ràng không có hình dạng mạch lạc |
+| 10-15% | Ảo ảnh cực kỳ không ổn định với sự dao động có thể nhìn thấy và "lỗi" mana; ngay lập tức được nhận ra là ma thuật |
+| 15-25% | Ảo ảnh tiêu chuẩn trông thực tế từ xa nhưng thiếu các chi tiết tinh xảo và chuyển động tự nhiên |
+| 25-35% | Ảo ảnh nâng cao với các chi tiết được cải thiện, chuyển động tự nhiên hơn và tích hợp cảm giác tốt hơn |
+| 35-45% | Ảo ảnh tinh tế với các chi tiết thuyết phục có thể chịu được sự xem xét kỹ lưỡng vừa phải; tương tác môi trường tinh tế |
+| 50%+ | Ảo ảnh gần như hoàn hảo có thể đánh lừa hầu hết người quan sát mà không cần kiểm tra cẩn thận; liền mạch thích ứng với những thay đổi của môi trường |
 
-Higher purity also extends potential duration, reduces concentration strain, and minimizes the risk of Wild Mana contamination which can cause unintended sensory effects to bleed into the illusion.
+Độ tinh khiết cao hơn cũng kéo dài thời lượng tiềm năng, giảm căng thẳng tập trung và giảm thiểu nguy cơ ô nhiễm Mana Hoang Dã có thể khiến các hiệu ứng cảm giác không mong muốn xâm nhập vào ảo ảnh.
 
-## Mana Capacity Effects
+## Ảnh Hưởng của Dung Lượng Mana
 
-The caster's Mana Capacity influences the spell in several ways:
+Dung Lượng Mana của người thi triển ảnh hưởng đến phép thuật theo nhiều cách:
 
-| Capacity Level | Duration Effect | Size/Range Effect | Quality Effect |
+| Mức Dung Lượng | Ảnh Hưởng Thời Lượng | Ảnh Hưởng Kích Thước/Phạm Vi | Ảnh Hưởng Chất Lượng |
 |----------------|-----------------|-------------------|----------------|
-| 15-25% | Basic duration (up to 5 minutes) | Standard range (15 feet) | Standard quality |
-| 25-40% | Extended duration (up to 10 minutes) | Increased range (20 feet) | Minor detail enhancement |
-| 40-60% | Long duration (up to 20 minutes) | Extended range (25 feet) | Significant detail enhancement |
-| 60%+ | Sustained duration (up to 30 minutes) | Maximum range (30 feet) | Maximum detail potential |
+| 15-25% | Thời lượng cơ bản (lên đến 5 phút) | Phạm vi tiêu chuẩn (15 feet) | Chất lượng tiêu chuẩn |
+| 25-40% | Thời lượng kéo dài (lên đến 10 phút) | Phạm vi tăng lên (20 feet) | Tăng cường chi tiết nhỏ |
+| 40-60% | Thời lượng dài (lên đến 20 phút) | Phạm vi mở rộng (25 feet) | Tăng cường chi tiết đáng kể |
+| 60%+ | Thời lượng duy trì (lên đến 30 phút) | Phạm vi tối đa (30 feet) | Tiềm năng chi tiết tối đa |
 
-## Common Applications
+## Ứng Dụng Phổ Biến
 
-- **Distraction**: Creating sounds or visual distractions to divert attention
-- **Concealment**: Masking small objects or features with illusory coverings
-- **Communication**: Displaying simple messages or warnings
-- **Entertainment**: Creating pleasant visuals or sounds for amusement
-- **Ambiance**: Enhancing environments with appropriate sensory elements
-- **Pranks**: Harmless tricks and surprises (heavily discouraged in academic settings)
+- **Đánh Lạc Hướng**: Tạo ra âm thanh hoặc sự đánh lạc hướng thị giác để chuyển hướng sự chú ý
+- **Che Giấu**: Che giấu các vật thể hoặc đặc điểm nhỏ bằng các lớp phủ ảo ảnh
+- **Giao Tiếp**: Hiển thị các thông điệp hoặc cảnh báo đơn giản
+- **Giải Trí**: Tạo ra hình ảnh hoặc âm thanh dễ chịu để giải trí
+- **Không Khí**: Tăng cường môi trường với các yếu tố cảm giác phù hợp
+- **Trò Đùa**: Những trò lừa vô hại và bất ngờ (hết sức không khuyến khích trong môi trường học thuật)
 
-## Variations
+## Biến Thể
 
-| Variation | Effect | Mana Requirements |
+| Biến Thể | Hiệu Ứng | Yêu Cầu Mana |
 |-----------|--------|-------------------|
-| **Silent Image** | Visual illusion only, but with enhanced detail | 65% Base Mana, 25% Umbramana, 10% Luxmana |
-| **Whisper** | Sound-only version with greater range (30 feet) | 70% Base Mana, 20% Umbramana, 10% Aeromana |
-| **Phantom Scent** | Olfactory illusion with increased intensity | 60% Base Mana, 25% Umbramana, 15% Vitamana |
-| **Ghost Touch** | Tactile illusion with more complex sensation | 55% Base Mana, 35% Umbramana, 10% Terramana |
-| **Persistent Image** | Lasts without concentration for 1 minute | 50% Base Mana, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ purity required |
-| **Dual Sense** | Combines two sensory effects simultaneously | 45% Base Mana, 35% Umbramana, 20% Luxmana; 35%+ purity and 20%+ capacity required |
+| **Hình Ảnh Im Lặng (Silent Image)** | Chỉ ảo ảnh thị giác, nhưng với chi tiết nâng cao | 65% Mana Gốc, 25% Umbramana, 10% Luxmana |
+| **Tiếng Thì Thầm (Whisper)** | Phiên bản chỉ có âm thanh với phạm vi lớn hơn (30 feet) | 70% Mana Gốc, 20% Umbramana, 10% Aeromana |
+| **Hương Thơm Bóng Ma (Phantom Scent)** | Ảo ảnh khứu giác với cường độ tăng lên | 60% Mana Gốc, 25% Umbramana, 15% Vitamana |
+| **Chạm Ma (Ghost Touch)** | Ảo ảnh xúc giác với cảm giác phức tạp hơn | 55% Mana Gốc, 35% Umbramana, 10% Terramana |
+| **Hình Ảnh Bền Bỉ (Persistent Image)** | Kéo dài mà không cần tập trung trong 1 phút | 50% Mana Gốc, 25% Umbramana, 15% Luxmana, 10% Chronomana; yêu cầu độ tinh khiết 25%+ |
+| **Cảm Giác Kép (Dual Sense)** | Kết hợp hai hiệu ứng cảm giác đồng thời | 45% Mana Gốc, 35% Umbramana, 20% Luxmana; yêu cầu độ tinh khiết 35%+ và dung lượng 20%+ |
 
-## Risks and Miscast Effects
+## Rủi Ro và Hiệu Ứng Thi Triển Sai
 
-| Risk | Effect | Cause |
+| Rủi Ro | Hiệu Ứng | Nguyên Nhân |
 |------|--------|-------|
-| **Sensory Bleed** | Unintended secondary sensory effects | Imprecise specialization, Base Mana deficiency |
-| **Pattern Collapse** | Illusion dissipates prematurely | Insufficient concentration, unstable Base Mana framework |
-| **Perception Lock** | Caster temporarily experiences the illusion as real | Wild Mana contamination above 15%, improper Umbramana balance |
-| **Sensory Echo** | Illusion repeats at random intervals after dismissal | Improper spell termination, excess Chronomana resonance |
-| **Detail Drift** | Illusion details gradually change without caster input | Purity below 15% or Wild Mana interference with Luxmana component |
-| **Reality Distortion** | Caster's perception of real sensory input becomes temporarily distorted | Critical purity shortage (below 10%), excessive Umbramana specialization |
+| **Rò Rỉ Cảm Giác (Sensory Bleed)** | Các hiệu ứng cảm giác thứ cấp không mong muốn | Chuyên môn hóa không chính xác, thiếu hụt Mana Gốc |
+| **Sụp Đổ Mẫu (Pattern Collapse)** | Ảo ảnh tan biến sớm | Không đủ tập trung, khung Mana Gốc không ổn định |
+| **Khóa Nhận Thức (Perception Lock)** | Người thi triển tạm thời trải nghiệm ảo ảnh như thật | Ô nhiễm Mana Hoang Dã trên 15%, mất cân bằng Umbramana không đúng cách |
+| **Tiếng Vọng Cảm Giác (Sensory Echo)** | Ảo ảnh lặp lại ở các khoảng thời gian ngẫu nhiên sau khi giải trừ | Chấm dứt phép thuật không đúng cách, cộng hưởng Chronomana dư thừa |
+| **Trôi Chi Tiết (Detail Drift)** | Chi tiết ảo ảnh dần dần thay đổi mà không cần đầu vào của người thi triển | Độ tinh khiết dưới 15% hoặc sự can thiệp của Mana Hoang Dã vào thành phần Luxmana |
+| **Bóp Méo Thực Tế (Reality Distortion)** | Nhận thức của người thi triển về đầu vào cảm giác thực tế trở nên méo mó tạm thời | Thiếu hụt độ tinh khiết nghiêm trọng (dưới 10%), chuyên môn hóa Umbramana quá mức |
 
-## Elemental Interactions
+## Tương Tác Nguyên Tố
 
-Minor Illusion demonstrates several important elemental principles:
+Ảo Ảnh Nhỏ thể hiện một số nguyên tắc nguyên tố quan trọng:
 
-1. **Balanced Opposition**: The controlled tension between Umbramana (shadow) and Luxmana (light) creates the realistic visual quality
-2. **Base Mana Framework**: The high proportion of Base Mana (60%) provides stability for the inherently unstable combination of opposed elements
-3. **Harmonic Resonance**: The specific 60:30:10 ratio creates a resonance pattern that mimics natural sensory frequencies
-4. **Specialization Gradient**: The spell uses partially specialized Umbramana and Luxmana rather than pure forms, allowing more subtle effects
+1. **Đối Lập Cân Bằng**: Sự căng thẳng được kiểm soát giữa Umbramana (bóng tối) và Luxmana (ánh sáng) tạo ra chất lượng hình ảnh thực tế
+2. **Khung Mana Gốc**: Tỷ lệ cao Mana Gốc (60%) cung cấp sự ổn định cho sự kết hợp vốn không ổn định của các yếu tố đối lập
+3. **Cộng Hưởng Hài Hòa**: Tỷ lệ 60:30:10 cụ thể tạo ra một mẫu cộng hưởng bắt chước tần số cảm giác tự nhiên
+4. **Độ Dốc Chuyên Môn Hóa**: Phép thuật sử dụng Umbramana và Luxmana được chuyên môn hóa một phần thay vì các dạng tinh khiết, cho phép các hiệu ứng tinh tế hơn
 
-## Musical Analogy
+## Phép Loại Suy Âm Nhạc
 
-Casting Minor Illusion is like playing a simple melody that listeners can perceive but not interact with. The Base Mana forms the fundamental tone or "carrier note," while the Umbramana and Luxmana create the harmonics that give the illusion its character. The caster must maintain the rhythm (concentration) to keep the melody playing, while carefully balancing the various sensory "notes" to create a convincing performance. Wild Mana contamination introduces random discordant notes that diminish the performance quality.
+Thi triển Ảo Ảnh Nhỏ giống như chơi một giai điệu đơn giản mà người nghe có thể cảm nhận nhưng không thể tương tác. Mana Gốc tạo thành âm cơ bản hoặc "nốt nhạc mang," trong khi Umbramana và Luxmana tạo ra các âm bội mang lại đặc điểm cho ảo ảnh. Người thi triển phải duy trì nhịp điệu (sự tập trung) để giữ cho giai điệu tiếp tục phát, đồng thời cân bằng cẩn thận các "nốt nhạc" cảm giác khác nhau để tạo ra một màn trình diễn thuyết phục. Ô nhiễm Mana Hoang Dã giới thiệu các nốt bất hòa ngẫu nhiên làm giảm chất lượng trình diễn.
 
-## Learning Progression
+## Tiến Trình Học Tập
 
-1. **Base Mana Structure**: Learning to create and maintain the basic illusion framework
-2. **Umbramana Specialization**: Developing skill in shadow mana conversion for reality distortion
-3. **Luxmana Integration**: Adding light mana elements for detail and clarity
-4. **Harmonic Balancing**: Achieving the precise ratio of elements for stable illusions
-5. **Sensory Precision**: Refining the illusion to appear more realistic and detailed
-6. **Sustaining Focus**: Extending the duration through improved concentration
-7. **Purification Techniques**: Methods to reduce Wild Mana contamination for clearer illusions
+1. **Cấu Trúc Mana Gốc**: Học cách tạo và duy trì khung ảo ảnh cơ bản
+2. **Chuyên Môn Hóa Umbramana**: Phát triển kỹ năng chuyển đổi mana bóng tối để bóp méo thực tế
+3. **Tích Hợp Luxmana**: Thêm các yếu tố mana ánh sáng để có chi tiết và rõ ràng
+4. **Cân Bằng Hài Hòa**: Đạt được tỷ lệ chính xác của các yếu tố cho ảo ảnh ổn định
+5. **Độ Chính Xác Cảm Giác**: Tinh chỉnh ảo ảnh để xuất hiện thực tế và chi tiết hơn
+6. **Duy Trì Sự Tập Trung**: Kéo dài thời lượng thông qua cải thiện sự tập trung
+7. **Kỹ Thuật Thanh Lọc**: Các phương pháp để giảm ô nhiễm Mana Hoang Dã cho các ảo ảnh rõ ràng hơn
 
-## Historical Note
+## Ghi Chú Lịch Sử
 
-Minor Illusion was developed by Mirala Shadowweaver during the Second Age as a teaching tool for apprentice illusionists. The spell's simple structure makes it an ideal introduction to perception manipulation, while its limited scope prevents dangerous applications. It remains one of the most commonly taught spells in magical academies across the realm.
+Ảo Ảnh Nhỏ được Mirala Shadowweaver phát triển trong Kỷ Nguyên Thứ Hai như một công cụ giảng dạy cho các ảo thuật gia học việc. Cấu trúc đơn giản của phép thuật khiến nó trở thành một giới thiệu lý tưởng về thao túng nhận thức, trong khi phạm vi hạn chế của nó ngăn chặn các ứng dụng nguy hiểm. Nó vẫn là một trong những phép thuật được dạy phổ biến nhất trong các học viện ma thuật trên khắp vương quốc.
 
-*See also: [Illusion School](/codex/Magics/Schools/Illusion.md), [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md)* 
+*Xem thêm: [Trường Phái Ảo Ảnh](/codex/Magics/Schools/Illusion.md), [Mana Gốc](/codex/Magics/Core/BaseMana.md), [Chuyên Môn Hóa Mana](/codex/Magics/Core/ManaSpecialization.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

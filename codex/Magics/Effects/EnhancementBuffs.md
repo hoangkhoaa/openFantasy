@@ -1,250 +1,254 @@
-# **Enhancement Buffs**: The Amplifiers of Magical Potential
+# **Enhancement Buffs**: Bộ Khuếch Đại Tiềm Năng Ma Thuật
 
-[**Enhancement Buffs**](/codex/Magics/EnhancementBuffs.md) are specialized spells designed to temporarily augment a practitioner's natural magical capabilities. Like amplifiers and resonance chambers that enhance a musical instrument's sound, these buffs strengthen specific aspects of a caster's magical ability, allowing them to perform beyond their natural limitations.
+[**Enhancement Buffs**](/codex/Magics/EnhancementBuffs.md) là những phép thuật chuyên biệt được thiết kế để tạm thời tăng cường khả năng ma thuật tự nhiên của người thực hành. Giống như bộ khuếch đại và buồng cộng hưởng giúp tăng cường âm thanh của một nhạc cụ, những buff này củng cố các khía cạnh cụ thể trong khả năng ma thuật của người thi triển, cho phép họ thực hiện vượt quá giới hạn tự nhiên của mình.
 
-## Fundamentals of Enhancement Buffs
+## Các Nguyên Tắc Cơ Bản của Enhancement Buffs
 
-Enhancement buffs operate by temporarily altering the caster's elemental composition or magical resonance:
+Enhancement buffs hoạt động bằng cách tạm thời thay đổi thành phần nguyên tố hoặc cộng hưởng ma thuật của người thi triển:
 
-| Buff Type | Effect | Duration | Limitations |
+| Loại Buff | Hiệu Ứng | Thời Gian | Hạn Chế |
 |---------|------------|---------|----------|
-| **Mana Amplification** | Increases total mana capacity | Short to medium | Strain on physical body |
-| **Purification Enhancement** | Improves mana purification ability | Medium | Mental fatigue |
-| **Pattern Stability** | Enhances ability to maintain complex patterns | Short | Soul wear |
-| **Resonance Attunement** | Strengthens connection to specific frequencies | Medium to long | Reduced flexibility |
+| **Mana Amplification** | Tăng tổng dung lượng mana | Ngắn đến trung bình | Gây áp lực lên cơ thể vật lý |
+| **Purification Enhancement** | Cải thiện khả năng thanh lọc mana | Trung bình | Mệt mỏi tinh thần |
+| **Pattern Stability** | Tăng cường khả năng duy trì các pattern phức tạp | Ngắn | Hao mòn linh hồn |
+| **Resonance Attunement** | Tăng cường kết nối với các tần số cụ thể | Trung bình đến dài | Giảm tính linh hoạt |
 
-All enhancement buffs share common characteristics:
-- **Temporary Nature**: Effects fade after a specific duration
-- **Diminishing Returns**: Multiple applications become less effective
-- **Recovery Period**: A necessary rest period after buff expiration
-- **Balance Principle**: Enhancement of one aspect often reduces others
+Tất cả enhancement buffs đều có chung các đặc điểm:
+- **Tính Chất Tạm Thời**: Hiệu ứng phai dần sau một khoảng thời gian cụ thể
+- **Giảm Dần Hiệu Quả**: Nhiều lần áp dụng trở nên kém hiệu quả hơn
+- **Thời Gian Phục Hồi**: Một khoảng thời gian nghỉ ngơi cần thiết sau khi buff hết hạn
+- **Nguyên Tắc Cân Bằng**: Việc tăng cường một khía cạnh thường làm giảm các khía cạnh khác
 
-## Wild Mana and Enhancement Buffs
+## Wild Mana và Enhancement Buffs
 
-The relationship between [**Wild Mana**](/codex/Magics/WildMana.md) and enhancement buffs is complex and potentially volatile. While Wild Mana can provide unpredictable boosts to buff potency, it introduces significant risks:
+Mối quan hệ giữa [**Wild Mana**](/codex/Magics/WildMana.md) và enhancement buffs rất phức tạp và có khả năng biến động. Mặc dù Wild Mana có thể cung cấp những sự tăng cường khó đoán cho hiệu lực của buff, nhưng nó mang lại những rủi ro đáng kể:
 
 ### Wild Mana Amplification
 
-Some practitioners deliberately introduce controlled amounts of Wild Mana into enhancement buffs:
+Một số người thực hành cố ý đưa một lượng Wild Mana được kiểm soát vào enhancement buffs:
 
-| Technique | Potential Benefit | Risk Factor | Risk Description |
+| Kỹ Thuật | Lợi Ích Tiềm Năng | Yếu Tố Rủi Ro | Mô Tả Rủi Ro |
 |-----------|-------------------|-------------|------------------|
-| **Chaos Infusion** | 25-50% increased buff potency | Very High | Unpredictable side effects, duration fluctuations |
-| **Edge Harmonics** | Extended buff duration | High | Potential buff collapse, rebound effects |
-| **Wild Resonance** | Enhanced magical sensitivity | Extreme | Sensory overload, magical signature disruption |
-| **Primal Drawing** | Access to raw magical potential | Critical | Wild Mana contamination, elemental corruption |
+| **Chaos Infusion** | Tăng 25-50% hiệu lực buff | Rất Cao | Tác dụng phụ khó đoán, dao động thời gian |
+| **Edge Harmonics** | Kéo dài thời gian buff | Cao | Khả năng buff sụp đổ, hiệu ứng dội ngược |
+| **Wild Resonance** | Tăng cường độ nhạy ma thuật | Cực Đoan | Quá tải giác quan, phá vỡ chữ ký ma thuật |
+| **Primal Drawing** | Tiếp cận tiềm năng ma thuật thô | Nghiêm Trọng | Ô nhiễm Wild Mana, tham nhũng nguyên tố |
 
-> *"Wild Mana doesn't simply enhance your buffs—it transforms them into something neither you nor any text can predict. Those who embrace this path walk a line between unprecedented power and becoming the very chaos they sought to harness."* — Magister Thorne, Specialist in Experimental Enhancements
+> *"Wild Mana không chỉ đơn giản là tăng cường buff của bạn—nó biến chúng thành thứ mà cả bạn lẫn bất kỳ văn bản nào cũng không thể dự đoán được. Những người chấp nhận con đường này đi trên một ranh giới giữa sức mạnh chưa từng có và việc trở thành chính sự hỗn loạn mà họ tìm cách khai thác."* — Magister Thorne, Chuyên gia về Enhancement Thử Nghiệm
 
-### Instability Factors
+### Các Yếu Tố Không Ổn Định
 
-The stability of Wild Mana-enhanced buffs depends on several factors:
+Sự ổn định của các buff được tăng cường bằng Wild Mana phụ thuộc vào một số yếu tố:
 
-- **Practitioner's Experience**: More experienced mages can contain greater Wild Mana ratios
-- **Environmental Conditions**: Magical stability of the casting location
-- **Buff Complexity**: Simpler buffs tolerate more Wild Mana
-- **Personal Resonance**: Individual magical signatures respond differently to Wild Mana
-- **Preparation Time**: Proper containment structures reduce instability
+- **Kinh Nghiệm của Người Thực Hành**: Các pháp sư có kinh nghiệm hơn có thể chứa tỷ lệ Wild Mana lớn hơn
+- **Điều Kiện Môi Trường**: Sự ổn định ma thuật của địa điểm thi triển
+- **Độ Phức Tạp của Buff**: Các buff đơn giản hơn chịu đựng được nhiều Wild Mana hơn
+- **Cộng Hưởng Cá Nhân**: Các chữ ký ma thuật cá nhân phản ứng khác nhau với Wild Mana
+- **Thời Gian Chuẩn Bị**: Các cấu trúc ngăn chặn phù hợp làm giảm sự không ổn định
 
 ### Wild Enhancement Protocols
 
-Academies that teach Wild Enhancement techniques enforce strict protocols:
+Các học viện dạy kỹ thuật Wild Enhancement thực thi các giao thức nghiêm ngặt:
 
-1. **Calibration Testing**: Determining a practitioner's personal Wild Mana tolerance
-2. **Containment Training**: Techniques to isolate Wild Mana effects
-3. **Emergency Dispersion**: Methods to safely discharge unstable enhancements
-4. **Incremental Exposure**: Gradually increasing Wild Mana ratios through controlled practice
-5. **Harmonic Stabilization**: Techniques to partially order Wild Mana through resonance
+1. **Calibration Testing**: Xác định khả năng chịu đựng Wild Mana cá nhân của người thực hành
+2. **Containment Training**: Các kỹ thuật cô lập các hiệu ứng Wild Mana
+3. **Emergency Dispersion**: Các phương pháp xả an toàn các enhancement không ổn định
+4. **Incremental Exposure**: Tăng dần tỷ lệ Wild Mana thông qua thực hành được kiểm soát
+5. **Harmonic Stabilization**: Các kỹ thuật sắp xếp một phần Wild Mana thông qua cộng hưởng
 
-Most reputable magical institutions consider Wild Enhancement techniques experimental and potentially dangerous, requiring special permits and supervision for their practice.
+Hầu hết các tổ chức ma thuật có uy tín coi các kỹ thuật Wild Enhancement là thử nghiệm và có khả năng nguy hiểm, đòi hỏi giấy phép đặc biệt và sự giám sát cho việc thực hành của họ.
 
 ## Purification Enhancement Buffs
 
-These buffs specifically enhance a caster's ability to purify raw mana, enabling higher levels of magical precision and efficiency.
+Những buff này đặc biệt tăng cường khả năng thanh lọc mana thô của người thi triển, cho phép mức độ chính xác và hiệu quả ma thuật cao hơn.
 
 ### Crystal Clarity
 
-A fundamental purification enhancement that sharpens mental focus:
+Một enhancement thanh lọc cơ bản làm sắc nét sự tập trung tinh thần:
 
-- **Effect**: Increases purification efficiency by 30-50%
-- **Duration**: 1-2 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Clear quartz, pure water
-- **Musical Analogy**: Tuning a string to perfect pitch
-- **Side Effects**: Slight sensory hypersensitivity
+- **Hiệu Ứng**: Tăng hiệu quả thanh lọc lên 30-50%
+- **Thời Gian**: 1-2 giờ
+- **Độ Phức Tạp Thi Triển**: Vừa phải (Pattern Hợp Chất)
+- **Các Thành Phần Yêu Cầu**: Thạch anh trong suốt, nước tinh khiết
+- **Phép Loại Suy Âm Nhạc**: Điều chỉnh một dây đàn đến cao độ hoàn hảo
+- **Tác Dụng Phụ**: Quá mẫn cảm giác quan nhẹ
 
 ### Harmonic Filter
 
-Creates a secondary resonance field that automatically filters mana:
+Tạo ra một trường cộng hưởng thứ cấp tự động lọc mana:
 
-- **Effect**: Allows automatic purification to Standard level without mental focus
-- **Duration**: 3-4 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Resonating crystal tuned to the caster's frequency
-- **Musical Analogy**: Acoustic filter that removes unwanted frequencies
-- **Side Effects**: Reduced sensitivity to ambient mana
+- **Hiệu Ứng**: Cho phép thanh lọc tự động đến cấp độ Tiêu Chuẩn mà không cần tập trung tinh thần
+- **Thời Gian**: 3-4 giờ
+- **Độ Phức Tạp Thi Triển**: Cao (Pattern Phức Tạp)
+- **Các Thành Phần Yêu Cầu**: Tinh thể cộng hưởng được điều chỉnh theo tần số của người thi triển
+- **Phép Loại Suy Âm Nhạc**: Bộ lọc âm thanh loại bỏ các tần số không mong muốn
+- **Tác Dụng Phụ**: Giảm độ nhạy với mana xung quanh
 
 ### Purification Cascade
 
-Advanced buff that creates a self-sustaining purification cycle:
+Buff nâng cao tạo ra một chu trình thanh lọc tự duy trì:
 
-- **Effect**: Purification becomes 75% more efficient and continues without constant attention
-- **Duration**: 30-45 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Purified mana crystal, silver dust
-- **Musical Analogy**: Perfect acoustics that enhance every note
-- **Side Effects**: Mental exhaustion after expiration
+- **Hiệu Ứng**: Thanh lọc trở nên hiệu quả hơn 75% và tiếp tục mà không cần chú ý liên tục
+- **Thời Gian**: 30-45 phút
+- **Độ Phức Tạp Thi Triển**: Rất Cao (Pattern Phức Tạp)
+- **Các Thành Phần Yêu Cầu**: Tinh thể mana đã thanh lọc, bụi bạc
+- **Phép Loại Suy Âm Nhạc**: Âm thanh hoàn hảo giúp tăng cường mọi nốt nhạc
+- **Tác Dụng Phụ**: Kiệt sức tinh thần sau khi hết hạn
 
 ### Crystalline Mind
 
-Elite buff that transforms mental processes to achieve perfect mana filtering:
+Buff ưu tú biến đổi các quá trình tinh thần để đạt được lọc mana hoàn hảo:
 
-- **Effect**: Allows achievement of Perfect purity level with minimal effort
-- **Duration**: 10-15 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Diamond dust, essence of clarity
-- **Musical Analogy**: Crystal glass resonating at perfect frequency
-- **Side Effects**: Temporary loss of emotional access, risk of mental strain
+- **Hiệu Ứng**: Cho phép đạt được mức độ Tinh Khiết Hoàn Hảo với nỗ lực tối thiểu
+- **Thời Gian**: 10-15 phút
+- **Độ Phức Tạp Thi Triển**: Cực Đoan (Grand Pattern)
+- **Các Thành Phần Yêu Cầu**: Bụi kim cương, tinh chất của sự rõ ràng
+- **Phép Loại Suy Âm Nhạc**: Thủy tinh pha lê cộng hưởng ở tần số hoàn hảo
+- **Tác Dụng Phụ**: Mất tạm thời khả năng tiếp cận cảm xúc, nguy cơ căng thẳng tinh thần
 
 ## Mana Capacity Enhancement Buffs
 
-These buffs focus on increasing the total amount of mana a caster can hold and channel, functioning like expanded reservoirs.
+Những buff này tập trung vào việc tăng tổng lượng mana mà người thi triển có thể giữ và truyền, hoạt động giống như các bể chứa mở rộng.
 
 ### Mana Well
 
-Basic enhancement that expands internal mana reservoirs:
+Enhancement cơ bản mở rộng các bể chứa mana bên trong:
 
-- **Effect**: Increases mana capacity by 25-40%
-- **Duration**: 2-3 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Blue sapphire, night dew
-- **Musical Analogy**: Expanding a drum's resonance chamber
-- **Side Effects**: Slight physical weariness
+- **Hiệu Ứng**: Tăng dung lượng mana lên 25-40%
+- **Thời Gian**: 2-3 giờ
+- **Độ Phức Tạp Thi Triển**: Vừa phải (Pattern Hợp Chất)
+- **Các Thành Phần Yêu Cầu**: Sapphire xanh lam, sương đêm
+- **Phép Loại Suy Âm Nhạc**: Mở rộng buồng cộng hưởng của một chiếc trống
+- **Tác Dụng Phụ**: Mệt mỏi thể chất nhẹ
 
 ### Ethereal Vessel
 
-Creates a secondary mana pool connected to the caster's natural reserves:
+Tạo ra một bể mana thứ cấp được kết nối với các trữ lượng tự nhiên của người thi triển:
 
-- **Effect**: Adds a separate mana reserve equal to 50% of natural capacity
-- **Duration**: 1-2 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Enchanted vessel, liquid starlight
-- **Musical Analogy**: Adding an echo chamber to an instrument
-- **Side Effects**: Feeling of weightlessness, minor dissociation
+- **Hiệu Ứng**: Thêm một dự trữ mana riêng biệt bằng 50% dung lượng tự nhiên
+- **Thời Gian**: 1-2 giờ
+- **Độ Phức Tạp Thi Triển**: Cao (Pattern Phức Tạp)
+- **Các Thành Phần Yêu Cầu**: Bình chứa mê hoặc, ánh sao lỏng
+- **Phép Loại Suy Âm Nhạc**: Thêm một buồng vọng vào một nhạc cụ
+- **Tác Dụng Phụ**: Cảm giác không trọng lượng, phân ly nhẹ
 
 ### Mana Cascade
 
-Establishes a constant flow between the caster and ambient mana:
+Thiết lập một dòng chảy liên tục giữa người thi triển và mana xung quanh:
 
-- **Effect**: Continuous mana regeneration at 3x normal rate
-- **Duration**: 30-60 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Conductor metal, essence of flow
-- **Musical Analogy**: Continuous bellows providing air to a wind instrument
-- **Side Effects**: Heightened body temperature, magical aura
+- **Hiệu Ứng**: Tái tạo mana liên tục với tốc độ gấp 3 lần bình thường
+- **Thời Gian**: 30-60 phút
+- **Độ Phức Tạp Thi Triển**: Rất Cao (Pattern Phức Tạp)
+- **Các Thành Phần Yêu Cầu**: Kim loại dẫn điện, tinh chất của dòng chảy
+- **Phép Loại Suy Âm Nhạc**: Ống thổi liên tục cung cấp không khí cho một nhạc cụ hơi
+- **Tác Dụng Phụ**: Tăng nhiệt độ cơ thể, hào quang ma thuật
 
 ### Soul Resonance
 
-Elite buff that temporarily reconfigures elemental composition:
+Buff ưu tú tạm thời cấu hình lại thành phần nguyên tố:
 
-- **Effect**: Doubles mana capacity by converting a portion of Exanthis to Mana Capacity
-- **Duration**: 5-10 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Soul resonator, essence of potential
-- **Musical Analogy**: Completely reconfiguring an instrument for maximum volume
-- **Side Effects**: Physical weakness, accelerated soul decay
+- **Hiệu Ứng**: Tăng gấp đôi dung lượng mana bằng cách chuyển đổi một phần Exanthis thành Dung Lượng Mana
+- **Thời Gian**: 5-10 phút
+- **Độ Phức Tạp Thi Triển**: Cực Đoan (Grand Pattern)
+- **Các Thành Phần Yêu Cầu**: Bộ cộng hưởng linh hồn, tinh chất tiềm năng
+- **Phép Loại Suy Âm Nhạc**: Cấu hình lại hoàn toàn một nhạc cụ để có âm lượng tối đa
+- **Tác Dụng Phụ**: Yếu đuối về thể chất, phân rã linh hồn tăng tốc
 
 ## Combined Enhancement Buffs
 
-Advanced practitioners can implement buffs that enhance both purification and capacity simultaneously.
+Những người thực hành nâng cao có thể triển khai các buff giúp tăng cường cả thanh lọc và dung lượng cùng một lúc.
 
 ### Mage's Ascension
 
-A balanced enhancement of core magical abilities:
+Một sự tăng cường cân bằng các khả năng ma thuật cốt lõi:
 
-- **Effect**: 30% increase to both purification efficiency and mana capacity
-- **Duration**: 1 hour
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Mage's crystal, essence of harmony
-- **Musical Analogy**: Perfect instrument played in perfect acoustics
-- **Side Effects**: Moderate fatigue after expiration
+- **Hiệu Ứng**: Tăng 30% cả hiệu quả thanh lọc và dung lượng mana
+- **Thời Gian**: 1 giờ
+- **Độ Phức Tạp Thi Triển**: Rất Cao (Pattern Phức Tạp)
+- **Các Thành Phần Yêu Cầu**: Tinh thể của pháp sư, tinh chất của sự hài hòa
+- **Phép Loại Suy Âm Nhạc**: Nhạc cụ hoàn hảo được chơi trong âm thanh hoàn hảo
+- **Tác Dụng Phụ**: Mệt mỏi vừa phải sau khi hết hạn
 
 ### Archmage's Mantle
 
-Elite buff used by master mages for critical magical working:
+Buff ưu tú được các pháp sư bậc thầy sử dụng cho các công việc ma thuật quan trọng:
 
-- **Effect**: 60% increase to purification efficiency, 75% increase to mana capacity
-- **Duration**: 15-20 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Perfect focus crystal, essence of mastery
-- **Musical Analogy**: Master instrument with amplification in a perfect concert hall
-- **Side Effects**: Significant physical and mental fatigue, temporary elemental imbalance
+- **Hiệu Ứng**: Tăng 60% hiệu quả thanh lọc, tăng 75% dung lượng mana
+- **Thời Gian**: 15-20 phút
+- **Độ Phức Tạp Thi Triển**: Cực Đoan (Grand Pattern)
+- **Các Thành Phần Yêu Cầu**: Tinh thể tập trung hoàn hảo, tinh chất của sự thành thạo
+- **Phép Loại Suy Âm Nhạc**: Nhạc cụ bậc thầy với bộ khuếch đại trong một phòng hòa nhạc hoàn hảo
+- **Tác Dụng Phụ**: Mệt mỏi thể chất và tinh thần đáng kể, mất cân bằng nguyên tố tạm thời
 
 ### Ethereal Resonance
 
-Legendary buff that creates perfect harmony between all aspects of spellcasting:
+Buff huyền thoại tạo ra sự hài hòa hoàn hảo giữa tất cả các khía cạnh của việc thi triển phép thuật:
 
-- **Effect**: Doubles purification efficiency, increases mana capacity by 100%, enhances resonance by 50%
-- **Duration**: 5 minutes
-- **Casting Complexity**: Legendary (Grand Pattern with multiple anchors)
-- **Components Required**: Philosopher's crystal, essence of perfection, harmonic metal
-- **Musical Analogy**: Perfect symphony with ideal instruments, acoustics, and performers
-- **Side Effects**: Complete exhaustion, temporary inability to cast after expiration, soul wear
+- **Hiệu Ứng**: Tăng gấp đôi hiệu quả thanh lọc, tăng dung lượng mana lên 100%, tăng cường cộng hưởng lên 50%
+- **Thời Gian**: 5 phút
+- **Độ Phức Tạp Thi Triển**: Huyền Thoại (Grand Pattern với nhiều neo)
+- **Các Thành Phần Yêu Cầu**: Tinh thể của nhà triết học, tinh chất của sự hoàn hảo, kim loại hài hòa
+- **Phép Loại Suy Âm Nhạc**: Bản giao hưởng hoàn hảo với các nhạc cụ, âm thanh và người biểu diễn lý tưởng
+- **Tác Dụng Phụ**: Kiệt sức hoàn toàn, mất khả năng thi triển tạm thời sau khi hết hạn, hao mòn linh hồn
 
 ## Buff Application Techniques
 
-The method of applying enhancement buffs affects their potency and duration:
+Phương pháp áp dụng enhancement buffs ảnh hưởng đến hiệu lực và thời gian của chúng:
 
 ### Self-Buffing
 
-Applying enhancements to oneself:
-- **Advantage**: Perfect attunement to personal magical signature
-- **Disadvantage**: Divides concentration between buff maintenance and spellcasting
-- **Best For**: Mages working alone on complex but non-urgent tasks
+Áp dụng enhancement cho bản thân:
+- **Ưu Điểm**: Điều chỉnh hoàn hảo theo chữ ký ma thuật cá nhân
+- **Nhược Điểm**: Chia sự tập trung giữa việc duy trì buff và thi triển phép thuật
+- **Tốt Nhất Cho**: Các pháp sư làm việc một mình trong các nhiệm vụ phức tạp nhưng không khẩn cấp
 
 ### Partner Buffing
 
-Having another caster apply the buff:
-- **Advantage**: Allows full concentration on primary spellcasting
-- **Disadvantage**: Requires compatible magical signatures
-- **Best For**: Paired mages performing complex ritual magic
+Nhờ một người thi triển khác áp dụng buff:
+- **Ưu Điểm**: Cho phép tập trung hoàn toàn vào việc thi triển phép thuật chính
+- **Nhược Điểm**: Yêu cầu chữ ký ma thuật tương thích
+- **Tốt Nhất Cho**: Các pháp sư ghép đôi thực hiện ma thuật nghi lễ phức tạp
 
 ### Ritual Circle Buffing
 
-Using a prepared ritual circle to apply and maintain buffs:
-- **Advantage**: Extended duration, more stable effects
-- **Disadvantage**: Limited to specific locations
-- **Best For**: Planned magical operations with preparation time
+Sử dụng một vòng tròn nghi lễ đã chuẩn bị để áp dụng và duy trì buff:
+- **Ưu Điểm**: Thời gian kéo dài, hiệu ứng ổn định hơn
+- **Nhược Điểm**: Giới hạn ở các địa điểm cụ thể
+- **Tốt Nhất Cho**: Các hoạt động ma thuật được lên kế hoạch với thời gian chuẩn bị
 
 ### Artifact Buffing
 
-Using magical artifacts to apply enhancement buffs:
-- **Advantage**: Consistent effects, no casting required
-- **Disadvantage**: Limited customization, dependency on artifacts
-- **Best For**: Emergencies or situations requiring reliability
+Sử dụng các hiện vật ma thuật để áp dụng enhancement buffs:
+- **Ưu Điểm**: Hiệu ứng nhất quán, không cần thi triển
+- **Nhược Điểm**: Tùy biến hạn chế, phụ thuộc vào hiện vật
+- **Tốt Nhất Cho**: Các trường hợp khẩn cấp hoặc tình huống yêu cầu độ tin cậy
 
 ## Risks and Limitations
 
-Enhancement buffs carry significant risks when misused:
+Enhancement buffs mang theo những rủi ro đáng kể khi sử dụng sai cách:
 
 ### Elemental Imbalance
-- **Cause**: Excessive alteration of elemental composition
-- **Symptoms**: Unpredictable magic, physical symptoms matching the imbalanced element
-- **Treatment**: Elemental rebalancing rituals, rest in harmonically neutral environments
+- **Nguyên Nhân**: Thay đổi quá mức thành phần nguyên tố
+- **Triệu Chứng**: Ma thuật khó đoán, các triệu chứng thể chất phù hợp với nguyên tố mất cân bằng
+- **Điều Trị**: Các nghi lễ cân bằng lại nguyên tố, nghỉ ngơi trong môi trường trung hòa hài hòa
 
 ### Arcane Addiction
-- **Cause**: Overreliance on enhancement buffs
-- **Symptoms**: Diminished natural capabilities, dependency on buffs for normal casting
-- **Treatment**: Magical detoxification, gradual reduction in buff potency
+- **Nguyên Nhân**: Quá phụ thuộc vào enhancement buffs
+- **Triệu Chứng**: Giảm khả năng tự nhiên, phụ thuộc vào buff để thi triển bình thường
+- **Điều Trị**: Giải độc ma thuật, giảm dần hiệu lực buff
 
 ### Resonance Scarring
-- **Cause**: Repeated use of resonance-altering buffs
-- **Symptoms**: Difficulty achieving natural resonance, dissonant casting
-- **Treatment**: Harmonic therapy, extended abstention from magical practice
+- **Nguyên Nhân**: Sử dụng lặp đi lặp lại các buff thay đổi cộng hưởng
+- **Triệu Chứng**: Khó đạt được cộng hưởng tự nhiên, thi triển bất hòa
+- **Điều Trị**: Liệu pháp hài hòa, kiêng khem thực hành ma thuật kéo dài
 
 ### Soul Fracturing
-- **Cause**: Extreme buffs that strain the soul's connection to mana
-- **Symptoms**: Personality changes, erratic magic, accelerated soul decay
-- **Treatment**: Soul mending rituals, specialized healing
+- **Nguyên Nhân**: Các buff cực đoan làm căng thẳng mối liên kết của linh hồn với mana
+- **Triệu Chứng**: Thay đổi tính cách, ma thuật thất thường, phân rã linh hồn tăng tốc
+- **Điều Trị**: Các nghi lễ hàn gắn linh hồn, chữa bệnh chuyên biệt
 
-Understanding the proper use of **Enhancement Buffs** provides practitioners with powerful tools to temporarily exceed their natural limitations, like musicians using acoustic enhancements to achieve sounds beyond their instruments' natural capabilities. When used wisely, these buffs can transform a competent mage into an extraordinary force of magical potential - but always at a cost that must be carefully weighed. 
+Hiểu rõ cách sử dụng phù hợp **Enhancement Buffs** cung cấp cho người thực hành các công cụ mạnh mẽ để tạm thời vượt qua những giới hạn tự nhiên của họ, giống như các nhạc sĩ sử dụng các cải tiến âm thanh để đạt được những âm thanh vượt xa khả năng tự nhiên của nhạc cụ của họ. Khi được sử dụng một cách khôn ngoan, những buff này có thể biến một pháp sư có năng lực thành một lực lượng tiềm năng ma thuật phi thường - nhưng luôn phải trả một cái giá phải được cân nhắc cẩn thận.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

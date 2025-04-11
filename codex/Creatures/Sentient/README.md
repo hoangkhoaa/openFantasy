@@ -1,95 +1,99 @@
-# Sentient Species of OpenFantasy
+# Các Chủng Tộc Có Tri Giác của OpenFantasy
 
-> *"Consciousness shapes the world as much as the world shapes consciousness."*
+> *"Ý thức định hình thế giới nhiều như thế giới định hình ý thức."*
 
-## Overview
+## Tổng quan
 
-Sentient species in OpenFantasy are beings with advanced intelligence, self-awareness, and the capacity to form complex societies. They possess the ability to communicate through sophisticated language, create culture, develop technologies, and manipulate magic through conscious effort rather than instinct alone.
+Các chủng tộc có tri giác trong OpenFantasy là những sinh vật có trí thông minh cao, tự nhận thức và khả năng hình thành các xã hội phức tạp. Họ sở hữu khả năng giao tiếp thông qua ngôn ngữ phức tạp, tạo ra văn hóa, phát triển công nghệ và điều khiển phép thuật thông qua nỗ lực có ý thức chứ không chỉ bằng bản năng.
 
-What distinguishes sentient species from other creatures is their high soul component, which enables abstract thought, moral reasoning, and the formation of civilizations. Each sentient species has evolved unique adaptations and societal structures based on their elemental composition and the environments they inhabit.
+Điều phân biệt các chủng tộc có tri giác với các sinh vật khác là thành phần linh hồn cao của họ, cho phép tư duy trừu tượng, lý luận đạo đức và hình thành các nền văn minh. Mỗi chủng tộc có tri giác đã phát triển các thích nghi và cấu trúc xã hội độc đáo dựa trên thành phần nguyên tố và môi trường mà họ sinh sống.
 
-## Core Characteristics
+## Đặc Điểm Cốt Lõi
 
-All sentient species share certain fundamental traits:
+Tất cả các chủng tộc có tri giác đều có chung những đặc điểm cơ bản nhất định:
 
-- **Linguistic Capacity**: The ability to develop and use complex language systems
-- **Cultural Formation**: Creation of art, music, literature, and social traditions
-- **Technological Innovation**: Development of tools and techniques to reshape their environment
-- **Magical Awareness**: Conscious understanding and manipulation of mana
-- **Social Organization**: Formation of complex societies with diverse roles and hierarchies
-- **Historical Awareness**: Recording and passing down knowledge across generations
+- **Năng Lực Ngôn Ngữ**: Khả năng phát triển và sử dụng các hệ thống ngôn ngữ phức tạp
+- **Hình Thành Văn Hóa**: Sáng tạo nghệ thuật, âm nhạc, văn học và các truyền thống xã hội
+- **Đổi Mới Công Nghệ**: Phát triển các công cụ và kỹ thuật để định hình lại môi trường của họ
+- **Nhận Thức Ma Thuật**: Hiểu biết có ý thức và điều khiển mana
+- **Tổ Chức Xã Hội**: Hình thành các xã hội phức tạp với các vai trò và hệ thống phân cấp đa dạng
+- **Nhận Thức Lịch Sử**: Ghi lại và truyền lại kiến thức qua các thế hệ
 
-## Sentient Species Categories
+## Phân Loại Các Chủng Tộc Có Tri Giác
 
-### Primary Civilizers
+### Các Nhà Văn Minh Hóa Chính
 
-Species that have established widespread, stable civilizations across multiple regions:
+Các chủng tộc đã thiết lập các nền văn minh ổn định, lan rộng trên nhiều khu vực:
 
-| Species | Elemental Balance | Key Traits | Cultural Significance |
+| Chủng Tộc | Cân Bằng Nguyên Tố | Đặc Điểm Chính | Ý Nghĩa Văn Hóa |
 |---------|-------------------|------------|----------------------|
-| [Humans](Humans.md) | Balanced (E: 20-55%, S: 15-45%, M: 15-60%) | Adaptability, innovation, rapid cultural evolution | Widespread, diverse societies with varying traditions |
-| [Elves](Elves.md) | Mana-dominant (E: 5-25%, S: 5-15%, M: 50-80%) | Longevity, magical aptitude, tradition | Ancient magical traditions, art preservation |
-| [Dwarves](Dwarves.md) | Exanthis-dominant (E: 50-70%, S: 20-35%, M: 5-25%) | Physical resilience, craftsmanship, clan loyalty | Mining, metallurgy, engineering, ancestral halls |
+| [Humans](Humans.md) | Cân Bằng (E: 20-55%, S: 15-45%, M: 15-60%) | Khả năng thích ứng, đổi mới, tiến hóa văn hóa nhanh chóng | Xã hội đa dạng, lan rộng với các truyền thống khác nhau |
+| [Elves](Elves.md) | Mana-ưu thế (E: 5-25%, S: 5-15%, M: 50-80%) | Trường thọ, năng khiếu ma thuật, truyền thống | Truyền thống ma thuật cổ xưa, bảo tồn nghệ thuật |
+| [Dwarves](Dwarves.md) | Exanthis-ưu thế (E: 50-70%, S: 20-35%, M: 5-25%) | Khả năng phục hồi thể chất, kỹ năng thủ công, lòng trung thành với gia tộc | Khai thác mỏ, luyện kim, kỹ thuật, các sảnh đường tổ tiên |
 
-### Specialized Adaptations
+### Các Thích Nghi Chuyên Biệt
 
-Species that have developed unique physiological or magical adaptations:
+Các chủng tộc đã phát triển các thích nghi sinh lý hoặc ma thuật độc đáo:
 
-| Species | Elemental Balance | Key Traits | Cultural Significance |
+| Chủng Tộc | Cân Bằng Nguyên Tố | Đặc Điểm Chính | Ý Nghĩa Văn Hóa |
 |---------|-------------------|------------|----------------------|
-| [Dark Elves](DarkElves.md) | Shadow-attuned (E: 5-25%, S: 10-20%, M: 50-80%) | Shadow manipulation, night vision, magical focus | Complex underground societies, shadow-based crafts |
-| [Beastfolk](Beastfolk.md) | Varied (E: 35-70%, S: 15-35%, M: 15-40%) | Diverse animal traits, heightened senses, tribal organization | Close connection to natural world, oral histories |
-| [Gnomes](Gnomes.md) | Soul-heavy (E: 30-50%, S: 30-50%, M: 15-30%) | Small stature, inventiveness, curiosity | Innovation, magical technology, complex mechanisms |
+| [Dark Elves](DarkElves.md) | Điều chỉnh bóng tối (E: 5-25%, S: 10-20%, M: 50-80%) | Điều khiển bóng tối, thị lực ban đêm, tập trung ma thuật | Các xã hội ngầm phức tạp, nghề thủ công dựa trên bóng tối |
+| [Beastfolk](Beastfolk.md) | Đa dạng (E: 35-70%, S: 15-35%, M: 15-40%) | Các đặc điểm động vật đa dạng, giác quan nhạy bén, tổ chức bộ lạc | Kết nối chặt chẽ với thế giới tự nhiên, lịch sử truyền miệng |
+| [Gnomes](Gnomes.md) | Soul-nặng (E: 30-50%, S: 30-50%, M: 15-30%) | Vóc dáng nhỏ bé, tính sáng tạo, tò mò | Đổi mới, công nghệ ma thuật, các cơ chế phức tạp |
 
-### Regional Civilizers
+### Các Nhà Văn Minh Hóa Khu Vực
 
-Species whose societies are limited to specific geographical regions:
+Các chủng tộc có xã hội giới hạn ở các khu vực địa lý cụ thể:
 
-| Species | Notable Regions | Key Cultural Elements |
+| Chủng Tộc | Các Khu Vực Đáng Chú Ý | Các Yếu Tố Văn Hóa Chính |
 |---------|----------------|------------------------|
-| [Dragonkin](../Magical/Dragonkin.md) | Mountain ranges, volcanic regions | Ancestral worship, elemental mastery, wealth accumulation |
-| [Merfolk](../Hybrid/Merfolk.md) | Coastal areas, deep seas | Marine resource management, underwater architecture, song-based histories |
-| [Giants](../Monsters/Giants.md) | Highland territories, ancient strongholds | Stone crafting, elemental communion, ancestral traditions |
+| [Dragonkin](../Magical/Dragonkin.md) | Dãy núi, khu vực núi lửa | Thờ cúng tổ tiên, làm chủ nguyên tố, tích lũy của cải |
+| [Merfolk](../Hybrid/Merfolk.md) | Các khu vực ven biển, biển sâu | Quản lý tài nguyên biển, kiến trúc dưới nước, lịch sử dựa trên bài hát |
+| [Giants](../Monsters/Giants.md) | Các lãnh thổ vùng cao, các pháo đài cổ | Chế tác đá, giao cảm nguyên tố, truyền thống tổ tiên |
 
-## Interspecies Dynamics
+## Động Lực Giữa Các Chủng Tộc
 
-The relationships between sentient species form complex social, political, and economic webs. Each species brings unique strengths and perspectives to these interactions:
+Mối quan hệ giữa các chủng tộc có tri giác hình thành các mạng lưới xã hội, chính trị và kinh tế phức tạp. Mỗi chủng tộc mang lại những thế mạnh và quan điểm độc đáo cho những tương tác này:
 
-### Common Alliance Patterns
+### Các Mô Hình Liên Minh Phổ Biến
 
-- **Elven-Human Partnerships**: Combining human adaptability with elven magical knowledge
-- **Dwarven-Gnomish Collaborations**: Merging dwarven craftsmanship with gnomish innovation
-- **Human-Beastfolk Frontier Settlements**: Blending diverse skills for survival in challenging regions
+- **Quan Hệ Đối Tác Elven-Human**: Kết hợp khả năng thích ứng của con người với kiến thức ma thuật của người elf
+- **Hợp Tác Dwarven-Gnomish**: Kết hợp kỹ năng thủ công của người lùn với sự đổi mới của người gnome
+- **Các Khu Định Cư Biên Giới Human-Beastfolk**: Pha trộn các kỹ năng đa dạng để sinh tồn ở các khu vực đầy thách thức
 
-### Historical Conflicts
+### Các Xung Đột Lịch Sử
 
-- **Dark Elf-Surface Elf Tensions**: Ancient schisms based on philosophical and magical differences
-- **Giant-Dwarven Territorial Disputes**: Competition for mineral-rich mountain territories
-- **Human-Beastfolk Expansion Conflicts**: Disagreements over land use and natural resources
+- **Căng Thẳng Dark Elf-Surface Elf**: Chia rẽ cổ xưa dựa trên sự khác biệt về triết học và ma thuật
+- **Các Tranh Chấp Lãnh Thổ Giant-Dwarven**: Cạnh tranh cho các lãnh thổ núi giàu khoáng sản
+- **Các Xung Đột Mở Rộng Human-Beastfolk**: Bất đồng về sử dụng đất và tài nguyên thiên nhiên
 
-## Elemental Influence on Society
+## Ảnh Hưởng Nguyên Tố Đến Xã Hội
 
-The elemental composition of a species significantly influences their societal development:
+Thành phần nguyên tố của một chủng tộc ảnh hưởng đáng kể đến sự phát triển xã hội của họ:
 
-| Dominant Element | Societal Impact | Examples |
+| Nguyên Tố Thống Trị | Tác Động Xã Hội | Ví Dụ |
 |------------------|----------------|----------|
-| **Exanthis** | Physical infrastructure, resource utilization, martial traditions | Dwarven strongholds, Giant monuments |
-| **Soul** | Philosophical development, arts, education systems | Human universities, Gnomish think-tanks |
-| **Mana** | Magical innovation, energy manipulation, metaphysical exploration | Elven spell-forests, Dark Elf shadow citadels |
+| **Exanthis** | Cơ sở hạ tầng vật chất, sử dụng tài nguyên, truyền thống võ thuật | Pháo đài của người lùn, tượng đài của người khổng lồ |
+| **Soul** | Phát triển triết học, nghệ thuật, hệ thống giáo dục | Các trường đại học của con người, các think-tank của người gnome |
+| **Mana** | Đổi mới ma thuật, điều khiển năng lượng, khám phá siêu hình | Rừng phép thuật của người elf, các thành trì bóng tối của Dark Elf |
 
-## Evolutionary Adaptations
+## Các Thích Nghi Tiến Hóa
 
-Sentient species have evolved unique adaptations to their environments and elemental compositions:
+Các chủng tộc có tri giác đã phát triển các thích nghi độc đáo với môi trường và thành phần nguyên tố của họ:
 
-| Species | Key Adaptations | Evolutionary Advantage |
+| Chủng Tộc | Các Thích Nghi Chính | Lợi Thế Tiến Hóa |
 |---------|----------------|------------------------|
-| **Humans** | Generalized physiology, rapid learning | Adaptability to diverse environments |
-| **Elves** | Enhanced magical channels, extended lifespan | Deep magical understanding, knowledge preservation |
-| **Dwarves** | Dense bone structure, efficient metabolism | Survival in harsh mountain conditions |
-| **Dark Elves** | Enhanced night vision, shadow resonance | Thriving in underground environments |
-| **Beastfolk** | Species-specific traits (varies widely) | Specialized environmental advantages |
-| **Gnomes** | Compact neural density, enhanced dexterity | Efficiency in limited physical space |
+| **Humans** | Sinh lý học tổng quát, học tập nhanh chóng | Khả năng thích ứng với các môi trường đa dạng |
+| **Elves** | Các kênh ma thuật nâng cao, tuổi thọ kéo dài | Hiểu biết ma thuật sâu sắc, bảo tồn kiến thức |
+| **Dwarves** | Cấu trúc xương dày đặc, trao đổi chất hiệu quả | Sống sót trong điều kiện núi khắc nghiệt |
+| **Dark Elves** | Thị lực ban đêm nâng cao, cộng hưởng bóng tối | Phát triển mạnh mẽ trong môi trường ngầm |
+| **Beastfolk** | Các đặc điểm cụ thể theo loài (thay đổi rộng rãi) | Ưu điểm môi trường chuyên biệt |
+| **Gnomes** | Mật độ thần kinh nhỏ gọn, tăng cường sự khéo léo | Hiệu quả trong không gian vật lý hạn chế |
 
 ---
 
-> *"In the diversity of thinking minds lies the true wealth of our world."* — Scholar Tiberius Windfall, Comparative Species Studies 
+> *"Trong sự đa dạng của những tâm trí suy nghĩ nằm sự giàu có thực sự của thế giới chúng ta."* — Học giả Tiberius Windfall, Nghiên Cứu Các Chủng Tộc So Sánh
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

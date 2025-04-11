@@ -1,158 +1,162 @@
-# Plants of OpenFantasy
+# Thực vật của OpenFantasy
 
-> *"In the quiet language of root and leaf is written the oldest magic of our world."*
+> *"Trong ngôn ngữ tĩnh lặng của rễ và lá được viết nên phép thuật cổ xưa nhất của thế giới chúng ta."*
 
-## Overview
+## Tổng quan
 
-The plant life of OpenFantasy represents a diverse and vital aspect of the world's ecosystem. From common crops that sustain civilizations to mystical flora with extraordinary properties, plants embody the subtle magic that permeates all living things.
+Thế giới thực vật của OpenFantasy đại diện cho một khía cạnh đa dạng và quan trọng của hệ sinh thái thế giới. Từ những loại cây trồng thông thường nuôi sống các nền văn minh đến những loài thực vật thần bí với những đặc tính phi thường, thực vật thể hiện phép thuật tinh tế thấm nhuần tất cả các sinh vật sống.
 
-Unlike the animal kingdom, plants typically possess minimal Soul component and vary widely in their Mana Capacity, with some species evolving to channel and store magical energy in unique ways. The elemental composition of plants—particularly their Mana component—directly influences their properties, growth patterns, and magical potential.
+Không giống như giới động vật, thực vật thường có thành phần Linh hồn (Soul) tối thiểu và Dung lượng Mana (Mana Capacity) rất khác nhau, với một số loài tiến hóa để truyền và lưu trữ năng lượng ma thuật theo những cách độc đáo. Thành phần nguyên tố của thực vật—đặc biệt là thành phần Mana của chúng—ảnh hưởng trực tiếp đến các thuộc tính, kiểu tăng trưởng và tiềm năng ma thuật của chúng.
 
-## Elemental Composition
+## Thành phần nguyên tố
 
-Plants generally exhibit the following elemental composition ranges:
+Thực vật thường thể hiện các phạm vi thành phần nguyên tố sau:
 
-| Plant Category | Exanthis | Soul | Mana Capacity | Notes |
+| Phân loại thực vật | Exanthis | Soul | Dung lượng Mana | Ghi chú |
 |----------------|----------|------|---------------|-------|
-| Common Plants | 85-95% | 0-2% | 5-15% | Most standard flora |
-| Medicinal Plants | 75-85% | 1-3% | 15-25% | Natural healing properties |
-| Magical Plants | 60-80% | 1-5% | 20-40% | Innate magical attributes |
-| Sentient Plants | 70-85% | 5-15% | 10-25% | Conscious plant entities |
+| Thực vật thông thường | 85-95% | 0-2% | 5-15% | Hầu hết các loài thực vật tiêu chuẩn |
+| Thực vật dược liệu | 75-85% | 1-3% | 15-25% | Đặc tính chữa bệnh tự nhiên |
+| Thực vật phép thuật | 60-80% | 1-5% | 20-40% | Các thuộc tính ma thuật bẩm sinh |
+| Thực vật tri giác | 70-85% | 5-15% | 10-25% | Thực thể thực vật có ý thức |
 
-## Plant Classifications
+## Phân loại thực vật
 
-### Mundane Flora
+### Hệ thực vật trần tục
 
-Common plants with limited or no magical properties that form the foundation of ecosystems:
+Các loại cây thông thường với các thuộc tính ma thuật hạn chế hoặc không có, tạo thành nền tảng của hệ sinh thái:
 
-| Category | Examples | Primary Uses |
+| Loại | Ví dụ | Công dụng chính |
 |----------|----------|--------------|
-| **Agricultural** | Wheat, corn, fruit trees | Food production, materials |
-| **Forest Flora** | Oaks, pines, ferns | Ecosystems, building materials |
-| **Prairie Plants** | Grasses, wildflowers | Ground cover, animal fodder |
-| **Aquatic Plants** | Seaweed, lily pads, reeds | Water filtration, aquatic habitats |
+| **Nông nghiệp** | Lúa mì, ngô, cây ăn quả | Sản xuất thực phẩm, vật liệu |
+| **Hệ thực vật rừng** | Sồi, thông, dương xỉ | Hệ sinh thái, vật liệu xây dựng |
+| **Thực vật thảo nguyên** | Cỏ, hoa dại | Lớp phủ đất, thức ăn gia súc |
+| **Thực vật thủy sinh** | Rong biển, hoa súng, lau sậy | Lọc nước, môi trường sống dưới nước |
 
-→ See [Mundane Plants](Mundane.md) for detailed information.
+→ Xem [Thực vật trần tục](Mundane.md) để biết thông tin chi tiết.
 
-### Medicinal Plants
+### Thực vật dược liệu
 
-Species with natural healing or beneficial properties:
+Các loài có đặc tính chữa bệnh tự nhiên hoặc có lợi:
 
-| Category | Examples | Primary Effects |
+| Loại | Ví dụ | Tác dụng chính |
 |----------|----------|----------------|
-| **Healing Herbs** | Healer's root, bloodstop moss | Wound treatment, infection prevention |
-| **Restorative Plants** | Vitality flowers, stamina caps | Energy restoration, fatigue relief |
-| **Antidote Sources** | Venom cleansers, toxin lilies | Poison neutralization, toxin absorption |
-| **Mental Remedies** | Clarity mint, dream shade | Focus enhancement, sleep aids |
+| **Thảo dược chữa bệnh** | Rễ của người chữa bệnh, rêu cầm máu | Điều trị vết thương, phòng ngừa nhiễm trùng |
+| **Thực vật phục hồi** | Hoa sức sống, nón sức bền | Phục hồi năng lượng, giảm mệt mỏi |
+| **Nguồn thuốc giải độc** | Chất tẩy rửa nọc độc, hoa huệ độc tố | Trung hòa chất độc, hấp thụ độc tố |
+| **Phương thuốc tinh thần** | Bạc hà rõ ràng, bóng râm giấc mơ | Tăng cường sự tập trung, hỗ trợ giấc ngủ |
 
-→ See [Medicinal Plants](Medicinal.md) for detailed information.
+→ Xem [Thực vật dược liệu](Medicinal.md) để biết thông tin chi tiết.
 
-### Magical Plants
+### Thực vật phép thuật
 
-Flora with innate magical properties or the ability to interact with magical forces:
+Thực vật có đặc tính ma thuật bẩm sinh hoặc khả năng tương tác với các lực lượng ma thuật:
 
-| Category | Examples | Magical Properties |
+| Loại | Ví dụ | Thuộc tính ma thuật |
 |----------|----------|-------------------|
-| **Elemental Flora** | Emberblooms, frost lichen | Manifestation of elemental energies |
-| **Mana Conductors** | Spellvines, arcane mushrooms | Capture and channel magical energy |
-| **Transmutative Species** | Shapeleaf, form tubers | Physical transformation properties |
-| **Enchantment Enhancers** | Binding moss, runic ferns | Amplify or stabilize enchantments |
+| **Hệ thực vật nguyên tố** | Hoa lửa, địa y băng giá | Biểu hiện năng lượng nguyên tố |
+| **Chất dẫn Mana** | Dây leo phép thuật, nấm cổ xưa | Bắt và truyền năng lượng ma thuật |
+| **Các loài biến đổi** | Lá hình, củ tạo hình | Thuộc tính biến đổi vật lý |
+| **Chất tăng cường mê hoặc** | Rêu liên kết, dương xỉ rune | Khuếch đại hoặc ổn định các phép thuật |
 
-→ See [Magical Plants](Magical.md) for detailed information.
+→ Xem [Thực vật phép thuật](Magical.md) để biết thông tin chi tiết.
 
-### Poisonous and Dangerous Flora
+### Thực vật độc hại và nguy hiểm
 
-Plants with toxic or harmful properties:
+Thực vật có đặc tính độc hại hoặc có hại:
 
-| Category | Examples | Dangerous Effects |
+| Loại | Ví dụ | Tác dụng nguy hiểm |
 |----------|----------|------------------|
-| **Toxic Plants** | Deathcap, voidroot | Severe poisoning, organ failure |
-| **Carnivorous Flora** | Snaptrap, digestive vines | Animal/humanoid consumption |
-| **Mind-Affecting** | Delusion caps, madness pollen | Hallucinations, confusion, insanity |
-| **Parasitic Species** | Life-drainers, energy siphons | Extract nutrients or energy from hosts |
+| **Thực vật độc hại** | Mũ tử thần, rễ chân không | Ngộ độc nghiêm trọng, suy nội tạng |
+| **Hệ thực vật ăn thịt** | Bẫy sập, dây leo tiêu hóa | Tiêu thụ động vật/người hình người |
+| **Ảnh hưởng đến tâm trí** | Mũ ảo tưởng, phấn hoa điên cuồng | Ảo giác, nhầm lẫn, mất trí |
+| **Loài ký sinh** | Kẻ hút sự sống, ống hút năng lượng | Chiết xuất chất dinh dưỡng hoặc năng lượng từ vật chủ |
 
-→ See [Poisonous Plants](Poisonous.md) for detailed information.
+→ Xem [Thực vật độc hại](Poisonous.md) để biết thông tin chi tiết.
 
-### Sentient Plant Species
+### Các loài thực vật tri giác
 
-Plants with consciousness and often mobility:
+Thực vật có ý thức và thường có khả năng di chuyển:
 
-| Category | Examples | Key Characteristics |
+| Loại | Ví dụ | Đặc điểm chính |
 |----------|----------|---------------------|
-| **Treants** | Ancient oaks, guardian pines | Tree-like humanoids, forest protectors |
-| **Fungal Consciousness** | Myconids, thought fungi | Collective awareness, spore communication |
-| **Ambulatory Flora** | Tumbleweed sentinels, walking vines | Independent movement, reactive behavior |
-| **Hive Mind Plants** | Colony ferns, neural root networks | Shared consciousness across multiple plants |
+| **Người cây (Treants)** | Sồi cổ thụ, thông bảo vệ | Hình người giống cây, người bảo vệ rừng |
+| **Ý thức nấm** | Myconids, nấm tư duy | Nhận thức tập thể, giao tiếp bằng bào tử |
+| **Hệ thực vật di động** | Lính canh bồ công anh, dây leo đi bộ | Chuyển động độc lập, hành vi phản ứng |
+| **Thực vật trí tuệ bầy đàn** | Dương xỉ thuộc địa, mạng lưới rễ thần kinh | Ý thức chung trên nhiều cây |
 
-→ See [Sentient Plants](Sentient.md) for detailed information.
+→ Xem [Thực vật tri giác](Sentient.md) để biết thông tin chi tiết.
 
-## Magical Interactions
+## Tương tác ma thuật
 
-Plants interact with mana in various significant ways:
+Thực vật tương tác với mana theo nhiều cách quan trọng:
 
-### Mana Cycling
+### Tuần hoàn Mana
 
-Many plants participate in the natural circulation of magical energy:
+Nhiều loại cây tham gia vào quá trình tuần hoàn tự nhiên của năng lượng ma thuật:
 
-- **Absorption**: Drawing mana from soil and atmosphere
-- **Transformation**: Converting raw mana into specialized magical compounds
-- **Release**: Returning processed mana to the environment through various mechanisms
-- **Storage**: Accumulating magical energy in specialized tissues
+- **Hấp thụ**: Hút mana từ đất và khí quyển
+- **Biến đổi**: Chuyển đổi mana thô thành các hợp chất ma thuật chuyên dụng
+- **Giải phóng**: Trả lại mana đã qua xử lý cho môi trường thông qua các cơ chế khác nhau
+- **Lưu trữ**: Tích lũy năng lượng ma thuật trong các mô chuyên biệt
 
-### Cultivation and Harvesting
+### Canh tác và thu hoạch
 
-Proper techniques are essential for preserving magical properties:
+Các kỹ thuật phù hợp là rất cần thiết để bảo tồn các thuộc tính ma thuật:
 
-| Plant Type | Harvesting Method | Timing Considerations |
+| Loại cây | Phương pháp thu hoạch | Cân nhắc thời gian |
 |------------|------------------|------------------------|
-| **Healing Herbs** | Clean cuts with silver tools | Dawn or dusk, avoiding full moon |
-| **Magical Fungi** | Gentle separation from substrate | During appropriate lunar phase |
-| **Elemental Flora** | Element-attuned implements | During element's ascendant period |
-| **Enchanted Trees** | Ritualistic branch collection | Seasonal equinox or solstice |
+| **Thảo dược chữa bệnh** | Cắt sạch bằng dụng cụ bạc | Bình minh hoặc hoàng hôn, tránh trăng tròn |
+| **Nấm ma thuật** | Tách nhẹ nhàng khỏi chất nền | Trong pha mặt trăng thích hợp |
+| **Hệ thực vật nguyên tố** | Dụng cụ phù hợp với nguyên tố | Trong thời kỳ nguyên tố chiếm ưu thế |
+| **Cây cối mê hoặc** | Thu thập cành cây theo nghi lễ | Điểm phân mùa hoặc chí |
 
-## Ecological Significance
+## Ý nghĩa sinh thái
 
-Plants serve vital functions in OpenFantasy's ecosystems:
+Thực vật phục vụ các chức năng quan trọng trong hệ sinh thái của OpenFantasy:
 
-### Magical Stabilization
+### Ổn định ma thuật
 
-- **Ley Line Anchoring**: Certain species grow along and stabilize magical energy currents
-- **Wild Magic Mitigation**: Some plants absorb and neutralize chaotic magical discharges
-- **Elemental Balancing**: Flora that maintains equilibrium between elemental forces
-- **Planar Boundary Reinforcement**: Plants that strengthen the barriers between realms
+- **Neo Ley Line**: Một số loài phát triển dọc theo và ổn định các dòng năng lượng ma thuật
+- **Giảm thiểu ma thuật hoang dã**: Một số loài cây hấp thụ và trung hòa các phóng điện ma thuật hỗn loạn
+- **Cân bằng nguyên tố**: Hệ thực vật duy trì sự cân bằng giữa các lực lượng nguyên tố
+- **Gia cố ranh giới mặt phẳng**: Thực vật củng cố các rào cản giữa các cõi
 
-### Habitat Creation
+### Tạo môi trường sống
 
-- **Magical Microclimates**: Plants creating zones of specialized magical conditions
-- **Extradimensional Spaces**: Flora that generates pockets of expanded or altered space
-- **Protective Enclaves**: Plant communities that shield areas from magical contamination
-- **Sentient Sanctuaries**: Conscious plant networks that selectively welcome or exclude visitors
+- **Vi khí hậu ma thuật**: Thực vật tạo ra các vùng có điều kiện ma thuật chuyên biệt
+- **Không gian đa chiều**: Hệ thực vật tạo ra các vùng không gian mở rộng hoặc thay đổi
+- **Khu bảo tồn**: Cộng đồng thực vật che chắn các khu vực khỏi ô nhiễm ma thuật
+- **Thánh địa tri giác**: Mạng lưới thực vật có ý thức chọn lọc chào đón hoặc loại trừ khách
 
-## Cultural Significance
+## Ý nghĩa văn hóa
 
-Plants hold important places in the cultures and practices of sentient species:
+Thực vật giữ những vị trí quan trọng trong văn hóa và tập quán của các loài tri giác:
 
-| Culture | Plant Relationship | Notable Traditions |
+| Văn hóa | Mối quan hệ thực vật | Truyền thống đáng chú ý |
 |---------|-------------------|-------------------|
-| **Elven** | Symbiotic gardening, tree dwelling | Living architecture, growth singing |
-| **Human** | Agricultural development, herbal medicine | Harvest festivals, medicinal traditions |
-| **Druidic** | Plant communication, forest guardianship | Grove sanctification, plant bond rituals |
-| **Fae** | Magical enhancement, plant transformation | Bloom dances, growth manipulation |
-| **Dwarven** | Subterranean cultivation, fungal specialization | Mushroom brewing, cave gardens |
+| **Tiên tộc (Elven)** | Làm vườn cộng sinh, nhà cây | Kiến trúc sống, ca hát tăng trưởng |
+| **Nhân tộc (Human)** | Phát triển nông nghiệp, y học thảo dược | Lễ hội thu hoạch, truyền thống y học |
+| **Druid** | Giao tiếp thực vật, bảo vệ rừng | Thần thánh hóa rừng cây, nghi lễ kết nối thực vật |
+| **Fae** | Tăng cường ma thuật, biến đổi thực vật | Vũ điệu nở hoa, thao túng tăng trưởng |
+| **Người lùn (Dwarven)** | Canh tác dưới lòng đất, chuyên môn hóa nấm | Sản xuất bia nấm, vườn hang động |
 
-## Regions and Endemic Flora
+## Các vùng và hệ thực vật đặc hữu
 
-Different regions feature specialized plant adaptations:
+Các khu vực khác nhau có các đặc điểm thích nghi thực vật chuyên biệt:
 
-| Biome | Notable Flora | Special Adaptations |
+| Quần xã sinh vật | Hệ thực vật đáng chú ý | Thích nghi đặc biệt |
 |-------|--------------|---------------------|
-| **Arcane Forests** | Spellwood trees, mana flowers | Direct mana incorporation, magical fruit production |
-| **Elemental Plains** | Essence grasses, primordial shrubs | Element absorption, rapid adaptation |
-| **Shadow Realms** | Voidferns, umbral roses | Light absorption, shadow manifestation |
-| **Fae Wilds** | Whimsy blooms, changeberry bushes | Reality alteration, temporal manipulation |
-| **Ancient Mountains** | Stone flowers, crystal lichens | Mineral integration, extreme longevity |
-| **Enchanted Marshes** | Spellbog reeds, illusion lilies | Magic filtration, sensory effects |
+| **Rừng cổ xưa** | Cây gỗ phép thuật, hoa mana | Kết hợp mana trực tiếp, sản xuất trái cây ma thuật |
+| **Đồng bằng nguyên tố** | Cỏ tinh chất, cây bụi nguyên thủy | Hấp thụ nguyên tố, thích nghi nhanh chóng |
+| **Cõi bóng tối** | Dương xỉ chân không, hoa hồng bóng tối | Hấp thụ ánh sáng, biểu hiện bóng tối |
+| **Hoang dã Fae** | Hoa vui nhộn, bụi cây thay đổi quả | Thay đổi thực tế, thao túng thời gian |
+| **Núi cổ đại** | Hoa đá, địa y tinh thể | Tích hợp khoáng chất, tuổi thọ cực cao |
+| **Đầm lầy mê hoặc** | Sậy đầm lầy phép thuật, hoa huệ ảo ảnh | Lọc ma thuật, hiệu ứng giác quan |
 
 ---
 
-> *"A garden is more than beauty; it is power, knowledge, and life itself. Cultivate accordingly."* — Lady Thorne, Master Botanist and Royal Gardener 
+> *"Một khu vườn không chỉ là vẻ đẹp; nó là sức mạnh, kiến thức và chính cuộc sống. Hãy trau dồi cho phù hợp."* — Phu nhân Thorne, Bậc thầy Thực vật học và Người làm vườn Hoàng gia
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

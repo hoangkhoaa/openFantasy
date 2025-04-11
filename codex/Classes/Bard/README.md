@@ -1,89 +1,93 @@
-# Bard Class
+# Lớp Bard
 
-> *"When words fail, music speaks. When magic falters, a song can reshape reality."*
+> *"Khi lời nói không còn giá trị, âm nhạc cất lên tiếng nói. Khi phép thuật chùn bước, một bài ca có thể định hình lại thực tại."*
 
-## Quick Navigation
+## Điều Hướng Nhanh
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Bard](#playing-a-bard)
-- [Notable Traits](#notable-traits)
+- [Tổng Quan](#overview)
+- [Cấu Trúc Lớp](#class-composition)
+- [Phân Lớp](#subclasses)
+- [Nhập Vai Bard](#playing-a-bard)
+- [Đặc Điểm Nổi Bật](#notable-traits)
 
-## Overview
+## Tổng Quan
 
-Bards weave magic through artistic expression, primarily music, creating harmonies that resonate with the fabric of reality itself. They are versatile spellcasters who blend performance, social finesse, and magical knowledge into a unique style of casting that can inspire allies, manipulate emotions, and harm enemies.
+Bards dệt nên phép thuật thông qua biểu đạt nghệ thuật, chủ yếu là âm nhạc, tạo ra những hòa âm cộng hưởng với cấu trúc của chính thực tại. Họ là những người sử dụng phép thuật đa năng, kết hợp trình diễn, sự khéo léo xã hội và kiến thức phép thuật thành một phong cách sử dụng phép thuật độc đáo, có thể truyền cảm hứng cho đồng minh, thao túng cảm xúc và gây hại cho kẻ thù.
 
-## Class Composition
+## Cấu Trúc Lớp
 
-| Element | Typical Range | Function |
+| Yếu Tố | Phạm Vi Điển Hình | Chức Năng |
 |---------|---------------|----------|
-| **Exanthis** | 20-35% | Physical vessel trained in artistic techniques and precise performance |
-| **Soul** | 35-55% | Emotional framework capable of authentic expression and magical resonance |
-| **Mana Capacity** | 20-40% | Naturally flowing mana reserves with intuitive harmonic control |
+| **Exanthis** | 20-35% | Thể xác được rèn luyện trong các kỹ thuật nghệ thuật và trình diễn chính xác |
+| **Soul** | 35-55% | Khung cảm xúc có khả năng biểu đạt chân thực và cộng hưởng phép thuật |
+| **Mana Capacity** | 20-40% | Dự trữ mana tự nhiên chảy với khả năng kiểm soát hài hòa trực quan |
 
-Bards develop specialized neural pathways that connect artistic expression directly to magical manipulation, creating a unique system that translates performance into magical effects. Their approach emphasizes emotional resonance over academic understanding, allowing them to achieve magical effects through authentic artistic expression.
+Bards phát triển các đường dẫn thần kinh chuyên biệt, kết nối trực tiếp biểu đạt nghệ thuật với thao túng phép thuật, tạo ra một hệ thống độc đáo chuyển đổi trình diễn thành các hiệu ứng phép thuật. Cách tiếp cận của họ nhấn mạnh sự cộng hưởng cảm xúc hơn là hiểu biết học thuật, cho phép họ đạt được các hiệu ứng phép thuật thông qua biểu đạt nghệ thuật chân thực.
 
-## Subclasses
+## Phân Lớp
 
-Bards can specialize in several distinct colleges:
+Bards có thể chuyên về một số trường phái riêng biệt:
 
-| College | Focus | Specialty |
+| Trường Phái | Tập Trung | Chuyên Môn |
 |----------|-------|-----------|
-| [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) | Verbal Persuasion | Oratory, debate, and perfect verbal expression |
-| [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) | Fey Enchantment | Captivation, fascination, and otherworldly beauty |
-| [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) | Knowledge Collection | Secrets, versatile magic, and comprehensive knowledge |
-| [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) | Spirit Communication | Storytelling, communing with spirits, and supernatural insight |
-| [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) | Martial Performance | Blade dancing, combat magic, and physical prowess |
-| [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) | Battlefield Inspiration | Combat support, heroic tales, and martial motivation |
-| [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) | Psychological Manipulation | Secrets, fear, and subtle psychological control |
-| [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) | Manifestation | Creating physical objects from performance energy |
+| [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) | Thuyết Phục Bằng Lời | Tài hùng biện, tranh luận và biểu đạt bằng lời hoàn hảo |
+| [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) | Ma Thuật Fey | Sự quyến rũ, mê hoặc và vẻ đẹp siêu phàm |
+| [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) | Thu Thập Kiến Thức | Bí mật, phép thuật đa năng và kiến thức toàn diện |
+| [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) | Giao Tiếp Linh Hồn | Kể chuyện, giao tiếp với linh hồn và thấu hiểu siêu nhiên |
+| [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) | Trình Diễn Võ Thuật | Múa kiếm, phép thuật chiến đấu và sức mạnh thể chất |
+| [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) | Cảm Hứng Chiến Trường | Hỗ trợ chiến đấu, những câu chuyện anh hùng và động lực chiến đấu |
+| [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) | Thao Túng Tâm Lý | Bí mật, nỗi sợ hãi và kiểm soát tâm lý tinh tế |
+| [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) | Biểu Hiện | Tạo ra các vật thể vật lý từ năng lượng trình diễn |
 
-## Playing a Bard
+## Nhập Vai Bard
 
-### Core Abilities
+### Khả Năng Cốt Lõi
 
-- **Bardic Inspiration**: Channel magical energy to inspire and enhance allies' abilities
-- **Spellcasting**: Cast spells through artistic performance, drawing from a diverse spell list
-- **Jack of All Trades**: Apply partial proficiency to all skills, reflecting versatile knowledge
-- **Song of Rest**: Accelerate healing during rests through soothing performance
-- **Countercharm**: Disrupt hostile effects through pure musical expression
+- **Bardic Inspiration**: Truyền năng lượng phép thuật để truyền cảm hứng và tăng cường khả năng của đồng minh
+- **Spellcasting**: Sử dụng phép thuật thông qua trình diễn nghệ thuật, lấy từ một danh sách phép thuật đa dạng
+- **Jack of All Trades**: Áp dụng thành thạo một phần cho tất cả các kỹ năng, phản ánh kiến thức đa năng
+- **Song of Rest**: Tăng tốc độ hồi phục trong thời gian nghỉ ngơi thông qua trình diễn nhẹ nhàng
+- **Countercharm**: Phá vỡ các hiệu ứng thù địch thông qua biểu đạt âm nhạc thuần túy
 
-### Common Equipment
+### Trang Bị Phổ Biến
 
-- **Musical Instruments**: Lutes, flutes, drums or other tools of artistic expression
-- **Light Armor**: Protective gear that doesn't impede movement or performance
-- **Performance Attire**: Clothing designed to enhance stage presence
-- **Component Pouch**: Specialized materials that complement artistic spellcasting
+- **Musical Instruments**: Đàn lute, sáo, trống hoặc các công cụ biểu đạt nghệ thuật khác
+- **Light Armor**: Trang bị bảo vệ không cản trở chuyển động hoặc trình diễn
+- **Performance Attire**: Quần áo được thiết kế để nâng cao sự hiện diện trên sân khấu
+- **Component Pouch**: Vật liệu chuyên dụng bổ sung cho việc sử dụng phép thuật nghệ thuật
 
-### Species Affinities
+### Mối Quan Hệ Giữa Chủng Tộc
 
-| Species | Affinity | Notable Traits |
+| Chủng Tộc | Mức Độ Thân Thiết | Đặc Điểm Nổi Bật |
 |---------|----------|----------------|
-| **Human** | High | Adaptable performance styles, cultural versatility |
-| **Half-Elf** | Very High | Natural charisma, mixed cultural influences |
-| **Gnome** | High | Creative expression, joyful performance |
-| **Tabaxi** | High | Natural curiosity, storytelling traditions |
-| **Tiefling** | Very High | Exotic presence, innate charisma |
+| **Human** | Cao | Phong cách trình diễn dễ thích nghi, tính linh hoạt văn hóa |
+| **Half-Elf** | Rất Cao | Sức hút tự nhiên, ảnh hưởng văn hóa hỗn hợp |
+| **Gnome** | Cao | Biểu đạt sáng tạo, trình diễn vui vẻ |
+| **Tabaxi** | Cao | Sự tò mò tự nhiên, truyền thống kể chuyện |
+| **Tiefling** | Rất Cao | Sự hiện diện kỳ lạ, sức hút bẩm sinh |
 
-## Notable Traits
+## Đặc Điểm Nổi Bật
 
-### Strengths
+### Điểm Mạnh
 
-- Exceptional versatility across multiple schools of magic
-- Superior effectiveness with social and emotional magic
-- Ability to perform magic while engaged in other activities
-- Natural talent for group harmonization and collaborative casting
-- Intuitive adaptation to unexpected magical situations
+- Tính linh hoạt đặc biệt trên nhiều trường phái phép thuật
+- Hiệu quả vượt trội với phép thuật xã hội và cảm xúc
+- Khả năng sử dụng phép thuật khi tham gia vào các hoạt động khác
+- Tài năng bẩm sinh trong việc hài hòa nhóm và sử dụng phép thuật hợp tác
+- Khả năng thích ứng trực quan với các tình huống phép thuật bất ngờ
 
-### Challenges
+### Thử Thách
 
-- Reduced effectiveness when unable to perform artistically
-- Vulnerability to effects that impact emotional state
-- Less precision compared to academic casters like wizards
-- Performance requirements can make stealth casting difficult
-- Less effective with highly technical magical disciplines
+- Giảm hiệu quả khi không thể trình diễn nghệ thuật
+- Dễ bị tổn thương bởi các hiệu ứng tác động đến trạng thái cảm xúc
+- Độ chính xác kém hơn so với những người sử dụng phép thuật học thuật như pháp sư
+- Yêu cầu trình diễn có thể gây khó khăn cho việc sử dụng phép thuật lén lút
+- Kém hiệu quả hơn với các ngành phép thuật mang tính kỹ thuật cao
 
 ---
 
-> See [Bard.md](/codex/Classes/Bard/Bard.md) for detailed information about the Bard class in OpenFantasy. 
+> Xem [Bard.md](/codex/Classes/Bard/Bard.md) để biết thông tin chi tiết về lớp Bard trong OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

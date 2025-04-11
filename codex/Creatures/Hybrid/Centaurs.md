@@ -1,97 +1,97 @@
-# **Centaurs**: The Swift Riders of the Plains
+# **Centaurs**: Những Kỵ Sĩ Nhanh Nhẹn Của Đồng Bằng
 
-[**Centaurs**](/codex/Creatures/Centaurs.md) are the swift riders of the plains, their bodies a powerful harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a galloping percussion section, they resonate with the rhythm of the land, creating a unique melody of existence that bridges the human and equine realms.
+[**Centaurs**](/codex/Creatures/Centaurs.md) là những kỵ sĩ nhanh nhẹn của đồng bằng, cơ thể của họ là một sự hòa hợp mạnh mẽ của [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), và **Mana Capacity**. Giống như một bộ gõ phi nước đại, họ cộng hưởng với nhịp điệu của đất, tạo ra một giai điệu độc đáo của sự tồn tại kết nối giữa vương quốc con người và loài ngựa.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **centaurs** forms a harmony that favors physical prowess:
+Như đã trình bày chi tiết trong [Creatures](/codex/Creatures/Creatures.md), tỷ lệ điển hình cho **centaurs** tạo thành một sự hài hòa ưu ái sức mạnh thể chất:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that grants exceptional strength and speed |
-| **Soul** | 20-30% | The ethereal essence that shapes a balanced and adaptable consciousness |
-| **Mana Capacity** | 10-25% | The bridge between worlds that enables limited magical potential |
+| **Exanthis** | 50-70% | Trái tim kết tinh mang lại sức mạnh và tốc độ vượt trội |
+| **Soul** | 20-30% | Bản chất thanh tao định hình ý thức cân bằng và dễ thích nghi |
+| **Mana Capacity** | 10-25% | Cầu nối giữa các thế giới cho phép tiềm năng ma thuật hạn chế |
 
-This composition grants **centaurs** their characteristic speed and strength but typically limits their magical potential compared to other species, like a powerful instrument that can play with great intensity but lacks the subtlety of a full orchestra.
+Thành phần này ban cho **centaurs** tốc độ và sức mạnh đặc trưng của họ, nhưng thường hạn chế tiềm năng ma thuật của họ so với các loài khác, giống như một nhạc cụ mạnh mẽ có thể chơi với cường độ lớn nhưng lại thiếu sự tinh tế của một dàn nhạc đầy đủ.
 
-### Individual Variations
+### Các Biến Thể Cá Nhân
 
-While the model composition represents the typical centaur, individual variations exist based on their clan lineage:
+Mặc dù thành phần mô hình đại diện cho centaur điển hình, nhưng các biến thể cá nhân tồn tại dựa trên dòng dõi gia tộc của chúng:
 
-- **Wind Champions**: Some centaurs, particularly from the Windrider clan, possess Exanthis levels as high as 75%, giving them extraordinary speed and endurance that allows them to run for days without rest, though with reduced magical abilities (10% Mana Capacity).
-- **Earth Seers**: Rarer centaurs with enhanced Mana Capacity (up to 30%) can manipulate earth magic with impressive skill, particularly for tracking, healing, and strengthening clan territories.
-- **Star Prophets**: Those with higher Soul percentages (up to 35%) become wise leaders and prophets, often developing divination abilities based on celestial observations.
-- **Forest Shadows**: A specialized variant with balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity) develops extraordinary stealth abilities despite their size, becoming master hunters and scouts.
-- **Thunder Hooves**: Some centaurs develop a unique composition (65% Exanthis, 20% Soul, 15% Mana Capacity) that allows them to channel their physical energy into combat techniques that generate thunderous impacts with each strike.
+- **Wind Champions**: Một số centaurs, đặc biệt là từ gia tộc Windrider, sở hữu mức Exanthis cao tới 75%, mang lại cho chúng tốc độ và sức bền phi thường cho phép chúng chạy trong nhiều ngày không nghỉ, mặc dù với khả năng ma thuật giảm (10% Mana Capacity).
+- **Earth Seers**: Những centaurs hiếm hơn với Mana Capacity nâng cao (lên đến 30%) có thể thao túng ma thuật đất với kỹ năng ấn tượng, đặc biệt là để theo dõi, chữa bệnh và củng cố lãnh thổ gia tộc.
+- **Star Prophets**: Những người có tỷ lệ Soul cao hơn (lên đến 35%) trở thành những nhà lãnh đạo và nhà tiên tri khôn ngoan, thường phát triển khả năng bói toán dựa trên các quan sát thiên văn.
+- **Forest Shadows**: Một biến thể chuyên biệt với thành phần cân bằng (50% Exanthis, 25% Soul, 25% Mana Capacity) phát triển khả năng tàng hình phi thường bất chấp kích thước của chúng, trở thành những thợ săn và trinh sát bậc thầy.
+- **Thunder Hooves**: Một số centaurs phát triển một thành phần độc đáo (65% Exanthis, 20% Soul, 15% Mana Capacity) cho phép họ dồn năng lượng thể chất của mình vào các kỹ thuật chiến đấu tạo ra những tác động như sấm sét với mỗi đòn đánh.
 
-## Physical Characteristics
+## Đặc Điểm Thể Chất
 
-**Centaurs** are known for their powerful build and equine grace:
-- Humanoid upper bodies seamlessly joined to horse-like lower bodies
-- Height ranging from 7 to 9 feet at the shoulder, depending on their lineage
-- Muscular build with dense muscle and bone structure, like living embodiments of power
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair and manes that are often intricately braided with symbols of clan and status
-- Natural resistance to fatigue and endurance, like the endless plains they call home
+**Centaurs** nổi tiếng với vóc dáng mạnh mẽ và vẻ duyên dáng của loài ngựa:
+- Phần thân trên giống người được kết hợp liền mạch với phần thân dưới giống ngựa
+- Chiều cao từ 7 đến 9 feet ở vai, tùy thuộc vào dòng dõi của chúng
+- Vóc dáng cơ bắp với cấu trúc cơ và xương dày đặc, như hiện thân sống động của sức mạnh
+- Đôi mắt lấp lánh ánh sáng bên trong, phản ánh sự kết nối của chúng với [**Exanthis**](/codex/Basic/Exanthis.md)
+- Tóc và bờm thường được tết công phu với các biểu tượng của gia tộc và địa vị
+- Khả năng chống mệt mỏi và sức bền tự nhiên, giống như những đồng bằng vô tận mà chúng gọi là nhà
 
-## Physical and Magical Affinity
+## Khả Năng Thể Chất và Ma Thuật
 
-**Centaurs** demonstrate exceptional proficiency in speed and endurance, like virtuoso performers who excel in power and rhythm. Their composition allows them to:
-- Develop extraordinary speed and stamina, like living embodiments of the wind
-- Channel earth magic with minimal proficiency, particularly for navigation and tracking
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+**Centaurs** thể hiện trình độ vượt trội về tốc độ và sức bền, giống như những nghệ sĩ điêu luyện xuất sắc về sức mạnh và nhịp điệu. Thành phần của chúng cho phép chúng:
+- Phát triển tốc độ và sức chịu đựng phi thường, giống như hiện thân sống động của gió
+- Dồn ma thuật đất với trình độ tối thiểu, đặc biệt là để điều hướng và theo dõi
+- Chống lại các hiệu ứng ma thuật thông qua hàm lượng **Exanthis** cao của chúng, giống như một viên đá phá vỡ bề mặt của một cái ao ma thuật
 
-This power makes **centaurs** capable of achieving feats of speed and endurance that few other species can match, though they may struggle with tasks requiring complex magical abilities, like a powerful instrument that can play with great intensity but lacks the complexity of a full orchestra.
+Sức mạnh này giúp **centaurs** có khả năng đạt được những kỳ tích về tốc độ và sức bền mà ít loài nào khác có thể sánh được, mặc dù chúng có thể gặp khó khăn với các nhiệm vụ đòi hỏi khả năng ma thuật phức tạp, giống như một nhạc cụ mạnh mẽ có thể chơi với cường độ lớn nhưng lại thiếu sự phức tạp của một dàn nhạc đầy đủ.
 
-## Lifespan and Soul Decay
+## Tuổi Thọ và Sự Suy Thoái Linh Hồn
 
-The **soul decay** timeline for **centaurs**, from birth to complete decay, is approximately 200 years, like a steady flame that illuminates the plains. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to their territories and traditions
-- Form stable societies with strong hierarchical structures
+Dòng thời gian **suy thoái linh hồn** cho **centaurs**, từ khi sinh ra đến khi suy thoái hoàn toàn, là khoảng 200 năm, giống như một ngọn lửa ổn định chiếu sáng đồng bằng. Tuổi thọ vừa phải này cho phép chúng:
+- Tích lũy kiến thức và trí tuệ qua nhiều thế hệ
+- Phát triển mối liên hệ sâu sắc với lãnh thổ và truyền thống của chúng
+- Hình thành các xã hội ổn định với cấu trúc phân cấp mạnh mẽ
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the seasons.
+Tuy nhiên, tỷ lệ linh hồn vừa phải của chúng cũng có nghĩa là chúng thay đổi và thích nghi với tốc độ vừa phải, giống như một giai điệu phát triển theo mùa.
 
-## Habitat and Distribution
+## Môi Trường Sống và Phân Bố
 
-**Centaurs** primarily inhabit:
-- Vast grasslands and plains, where they can run freely and hunt
-- Rolling hills and savannas, where they can maintain their herds
-- Strategic locations that provide access to water and resources
-- Nomadic territories that allow them to follow the migrations of game
+**Centaurs** chủ yếu sinh sống ở:
+- Đồng cỏ và đồng bằng rộng lớn, nơi chúng có thể chạy tự do và săn bắn
+- Đồi núi nhấp nhô và thảo nguyên, nơi chúng có thể duy trì đàn gia súc của mình
+- Các vị trí chiến lược cung cấp khả năng tiếp cận nguồn nước và tài nguyên
+- Các vùng lãnh thổ du mục cho phép chúng theo dõi sự di cư của trò chơi
 
-These locations provide ideal environments for the development of speed and the practice of earth magic, like stages perfectly suited to their performance.
+Những địa điểm này cung cấp môi trường lý tưởng cho sự phát triển của tốc độ và việc thực hành ma thuật đất, giống như những sân khấu hoàn toàn phù hợp với màn trình diễn của chúng.
 
-## Cultural Impact
+## Tác Động Văn Hóa
 
-In the world of **OpenFantasy**, **centaurs** play a crucial role in maintaining the balance of the plains, like conductors of the grand symphony of speed. Their societies are centers of:
-- Martial prowess and hunting skills
-- Earth magic and navigation
-- Hierarchical structures and clan pride
+Trong thế giới của **OpenFantasy**, **centaurs** đóng một vai trò quan trọng trong việc duy trì sự cân bằng của đồng bằng, giống như những người điều khiển bản giao hưởng vĩ đại của tốc độ. Xã hội của chúng là trung tâm của:
+- Sức mạnh quân sự và kỹ năng săn bắn
+- Ma thuật đất và điều hướng
+- Cấu trúc phân cấp và niềm tự hào gia tộc
 
-The connection to the land has shaped centaur culture around respect for speed, strength, and tradition, creating a society where might and skill are highly valued.
+Mối liên hệ với đất đai đã định hình văn hóa centaur xung quanh sự tôn trọng tốc độ, sức mạnh và truyền thống, tạo ra một xã hội nơi sức mạnh và kỹ năng được đánh giá cao.
 
-## Relationship with Other Species
+## Mối Quan Hệ Với Các Loài Khác
 
-**Centaurs** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **Beastfolk**: A deep connection based on shared appreciation for physical prowess and connection to nature
+**Centaurs** duy trì mối quan hệ phức tạp với các loài khác:
+- Với [**Humans**](/codex/Creatures/Human.md): Một sự pha trộn giữa sự tôn trọng khả năng thích nghi của họ và sự thất vọng với sự yếu đuối của họ
+- Với **Elves**: Một sự tôn trọng thận trọng, thừa nhận sức mạnh ma thuật của họ nhưng lại thấy cách thức của họ kỳ lạ
+- Với **Dwarves**: Một liên minh thực dụng dựa trên sự tôn trọng lẫn nhau về sức mạnh và sự khéo léo
+- Với **Beastfolk**: Một kết nối sâu sắc dựa trên sự đánh giá cao chung về sức mạnh thể chất và kết nối với thiên nhiên
 
-These relationships are often characterized by a sense of superiority, as **centaurs** view themselves as the true children of the plains.
+Những mối quan hệ này thường được đặc trưng bởi cảm giác vượt trội, vì **centaurs** coi mình là những đứa con thực sự của đồng bằng.
 
-## Notable Centaur Traits
+## Những Đặc Điểm Nổi Bật Của Centaur
 
-- **Physical Might**: Centaurs excel in speed and endurance, often surpassing other species in their ability to travel long distances
-- **Earth Affinity**: Centaurs have a natural connection to earth magic, allowing them to navigate and track with ease
-- **Limited Adaptability**: Their minimal mana capacity makes it difficult for centaurs to master complex magical abilities
-- **Clan Pride**: Centaurs place great emphasis on their clan heritage and traditions
-- **Territorial Nature**: Centaurs are fiercely protective of their territories and resources
+- **Sức Mạnh Thể Chất**: Centaurs vượt trội về tốc độ và sức bền, thường vượt qua các loài khác về khả năng di chuyển đường dài
+- **Khả Năng Đất Đai**: Centaurs có một kết nối tự nhiên với ma thuật đất, cho phép chúng điều hướng và theo dõi một cách dễ dàng
+- **Khả Năng Thích Nghi Hạn Chế**: Khả năng mana tối thiểu của chúng khiến centaurs khó làm chủ các khả năng ma thuật phức tạp
+- **Niềm Tự Hào Gia Tộc**: Centaurs rất coi trọng di sản và truyền thống gia tộc của họ
+- **Bản Tính Lãnh Thổ**: Centaurs bảo vệ quyết liệt lãnh thổ và tài nguyên của chúng
 
-## Centaur Clans
+## Các Gia Tộc Centaur
 
-Centaur society is organized into numerous clans, each with its own specialties and traditions:
+Xã hội Centaur được tổ chức thành nhiều gia tộc, mỗi gia tộc có chuyên môn và truyền thống riêng:
 
 | Clan | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
@@ -102,4 +102,8 @@ Centaur society is organized into numerous clans, each with its own specialties 
 | **Firebrands** | Passion, leadership | Volcanic regions | Leadership abilities, fire resistance |
 | **Forestwardens** | Stealth, tracking | Forest edges | Stealth abilities, tracking expertise |
 
-Understanding the nature of **centaurs** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the plains and skies. 
+Hiểu bản chất của **centaurs** cung cấp cái nhìn sâu sắc về động lực quyền lực của thế giới **OpenFantasy**, giống như cảm nhận những nhịp điệu như sấm sét đang rung động qua đồng bằng và bầu trời.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

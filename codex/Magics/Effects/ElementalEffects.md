@@ -1,43 +1,47 @@
-# **Elemental Effects**: Consequences and Manifestations of Elemental Magic
+# **Hiệu Ứng Nguyên Tố**: Hậu Quả và Biểu Hiện của Ma Thuật Nguyên Tố
 
-> *"Every fundamental force leaves its mark on both the world and the wielder. The fire mage's hands are ever warm; the water witch's tears never dry."* — Archmage Lysander Moonshadow
+> *"Mọi lực lượng cơ bản đều để lại dấu ấn của nó lên cả thế giới và người sử dụng. Bàn tay của pháp sư lửa luôn ấm áp; nước mắt của phù thủy nước không bao giờ khô."* — Đại Pháp Sư Lysander Moonshadow
 
-## Quick Reference
-- [Physical Manifestations](#physical-manifestations)
-- [Environmental Impact](#environmental-impact)
-- [Long-Term Exposure](#long-term-exposure)
-- [Elemental Contamination](#elemental-contamination)
-- [Mitigation Techniques](#mitigation-techniques)
-- [Beneficial Applications](#beneficial-applications)
+## Tham Khảo Nhanh
+- [Biểu Hiện Vật Chất](#physical-manifestations)
+- [Tác Động Môi Trường](#environmental-impact)
+- [Tiếp Xúc Lâu Dài](#long-term-exposure)
+- [Ô Nhiễm Nguyên Tố](#elemental-contamination)
+- [Kỹ Thuật Giảm Thiểu](#mitigation-techniques)
+- [Ứng Dụng Có Lợi](#beneficial-applications)
 
-## Overview
+## Tổng Quan
 
-The manipulation of elemental forces produces both intended and unintended consequences for practitioners, subjects, and environments. This document catalogs the various effects that result from elemental magic use, from minor physical manifestations to major environmental transformations.
+Việc điều khiển các lực lượng nguyên tố tạo ra cả hậu quả dự kiến và không dự kiến cho người hành nghề, đối tượng và môi trường. Tài liệu này lập danh mục các hiệu ứng khác nhau do việc sử dụng ma thuật nguyên tố gây ra, từ các biểu hiện vật chất nhỏ đến các biến đổi môi trường lớn.
 
-## Physical Manifestations
+## Biểu Hiện Vật Chất
 
-*Detailed content coming soon...*
+*Nội dung chi tiết sẽ sớm ra mắt...*
 
-## Environmental Impact
+## Tác Động Môi Trường
 
-*Detailed content coming soon...*
+*Nội dung chi tiết sẽ sớm ra mắt...*
 
-## Long-Term Exposure
+## Tiếp Xúc Lâu Dài
 
-*Detailed content coming soon...*
+*Nội dung chi tiết sẽ sớm ra mắt...*
 
-## Elemental Contamination
+## Ô Nhiễm Nguyên Tố
 
-*Detailed content coming soon...*
+*Nội dung chi tiết sẽ sớm ra mắt...*
 
-## Mitigation Techniques
+## Kỹ Thuật Giảm Thiểu
 
-*Detailed content coming soon...*
+*Nội dung chi tiết sẽ sớm ra mắt...*
 
-## Beneficial Applications
+## Ứng Dụng Có Lợi
 
-*Detailed content coming soon...*
+*Nội dung chi tiết sẽ sớm ra mắt...*
 
 ---
 
-*This document is under development. See [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) for more information on the fundamentals of elemental forces.* 
+*Tài liệu này đang được phát triển. Xem [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) để biết thêm thông tin về các nguyên tắc cơ bản của lực lượng nguyên tố.*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

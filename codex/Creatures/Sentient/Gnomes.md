@@ -1,97 +1,97 @@
-# **Gnomes**: The Ingenious Crafters of Innovation
+# **Gnomes**: Những Người Thợ Thủ Công Tài Ba của Sự Sáng Tạo
 
-[**Gnomes**](/codex/Creatures/Gnomes.md) are the ingenious crafters of innovation, their bodies a delicate harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a complex music box, they resonate with the precision of machinery, creating a unique melody of existence that bridges the magical and technological realms.
+[**Gnomes**](/codex/Creatures/Gnomes.md) là những người thợ thủ công tài ba của sự sáng tạo, cơ thể của họ là một sự hài hòa tinh tế của [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), và **Mana Capacity**. Giống như một hộp nhạc phức tạp, họ cộng hưởng với độ chính xác của máy móc, tạo ra một giai điệu độc đáo của sự tồn tại bắc cầu giữa các cõi ma thuật và công nghệ.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **gnomes** forms a harmony that favors adaptability:
+Như được trình bày chi tiết trong [Creatures](/codex/Creatures/Creatures.md), tỷ lệ điển hình cho **gnomes** tạo thành một sự hài hòa ưu tiên khả năng thích ứng:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 20-40% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 30-50% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 25-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** | 20-40% | Trái tim kết tinh cung cấp sức mạnh thể chất và độ bền tối thiểu |
+| **Soul** | 30-50% | Tinh chất эфирной định hình ý thức linh hoạt và dễ thích ứng |
+| **Mana Capacity** | 25-40% | Cầu nối giữa các thế giới cho phép tiềm năng ma thuật vừa phải |
 
-This composition grants **gnomes** their characteristic ingenuity and adaptability but typically limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Thành phần này mang lại cho **gnomes** sự khéo léo và khả năng thích ứng đặc trưng của họ, nhưng thường hạn chế khả năng phục hồi thể chất của họ so với các loài khác, giống như một nhạc cụ tinh tế tạo ra âm thanh tuyệt đẹp nhưng phải được xử lý cẩn thận.
 
-### Individual Variations
+### Các Biến Thể Cá Nhân
 
-While the model composition represents the typical gnome, individual variations exist based on their guild affiliations:
+Mặc dù thành phần mô hình đại diện cho gnome điển hình, các biến thể cá nhân tồn tại dựa trên sự liên kết guild của họ:
 
-- **Master Tinkerers**: Some gnomes from the Tinkerguild possess enhanced Soul percentages (up to 55%) that allow them extraordinary creativity and problem-solving abilities, often at the expense of physical strength (20% Exanthis).
-- **Arcanists**: Specialized variants with higher Mana Capacity (up to 45%) excel at magical invention, creating devices that seamlessly blend technology and magic in ways other species find impossible.
-- **Durability Engineers**: Rarer gnomes with enhanced Exanthis (up to 45%) focus on developing resilient technologies and often serve as field testers for dangerous inventions.
-- **Alchemical Innovators**: A balanced variant (30% Exanthis, 40% Soul, 30% Mana Capacity) specializes in creating substances and potions that defy normal classification as either magical or technological.
-- **Artifice Savants**: Some gnomes develop a unique composition (25% Exanthis, 35% Soul, 40% Mana Capacity) that allows them to intuitively understand magical artifacts and replicate their functions through technological means.
+- **Master Tinkerers**: Một số gnomes từ Tinkerguild sở hữu tỷ lệ Soul nâng cao (lên đến 55%) cho phép họ có khả năng sáng tạo và giải quyết vấn đề phi thường, thường phải trả giá bằng sức mạnh thể chất (20% Exanthis).
+- **Arcanists**: Các biến thể chuyên biệt với Mana Capacity cao hơn (lên đến 45%) vượt trội trong phát minh ma thuật, tạo ra các thiết bị kết hợp liền mạch công nghệ và ma thuật theo những cách mà các loài khác thấy là không thể.
+- **Durability Engineers**: Gnomes hiếm hơn với Exanthis nâng cao (lên đến 45%) tập trung vào phát triển các công nghệ đàn hồi và thường đóng vai trò là người thử nghiệm thực địa cho các phát minh nguy hiểm.
+- **Alchemical Innovators**: Một biến thể cân bằng (30% Exanthis, 40% Soul, 30% Mana Capacity) chuyên tạo ra các chất và thuốc phép thách thức phân loại thông thường là ma thuật hoặc công nghệ.
+- **Artifice Savants**: Một số gnomes phát triển một thành phần độc đáo (25% Exanthis, 35% Soul, 40% Mana Capacity) cho phép họ hiểu một cách trực quan các hiện vật ma thuật và sao chép các chức năng của chúng thông qua các phương tiện công nghệ.
 
-## Physical Characteristics
+## Đặc Điểm Thể Chất
 
-**Gnomes** are known for their small size and inventive nature:
-- Height ranging from 3 to 4 feet, making them one of the smallest sentient species
-- Proportionate build with delicate features, like finely crafted miniatures
-- Eyes that sparkle with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair that is often styled in elaborate designs, showcasing their creativity
-- Hands with extra dexterity, allowing for precise manipulation of small objects
-- Natural resistance to magical effects, like a well-insulated circuit
+**Gnomes** được biết đến với kích thước nhỏ và bản chất sáng tạo:
+- Chiều cao từ 3 đến 4 feet, khiến chúng trở thành một trong những loài có tri giác nhỏ nhất
+- Cấu trúc cân đối với các đường nét tinh tế, giống như những hình thu nhỏ được chế tác tinh xảo
+- Đôi mắt lấp lánh ánh sáng bên trong, phản ánh mối liên hệ của họ với [**Exanthis**](/codex/Basic/Exanthis.md)
+- Mái tóc thường được tạo kiểu theo những thiết kế phức tạp, thể hiện sự sáng tạo của họ
+- Bàn tay với sự khéo léo vượt trội, cho phép thao tác chính xác các vật thể nhỏ
+- Khả năng kháng tự nhiên đối với các hiệu ứng ma thuật, giống như một mạch điện được cách nhiệt tốt
 
-## Magical and Technological Affinity
+## Khả Năng Thân Thuộc Ma Thuật và Công Nghệ
 
-**Gnomes** demonstrate exceptional proficiency in combining magic and technology, like virtuoso musicians who have mastered the art of harmony. Their composition allows them to:
-- Create intricate magical devices that blend technology and enchantment, like composers who have perfected the art of the symphony
-- Develop innovative solutions to complex problems, like artists who have mastered the art of improvisation
-- Adapt quickly to new situations and technologies, like instruments that can play in any key
+**Gnomes** thể hiện sự thành thạo đặc biệt trong việc kết hợp ma thuật và công nghệ, giống như những nhạc sĩ điêu luyện đã làm chủ nghệ thuật hòa âm. Thành phần của họ cho phép họ:
+- Tạo ra các thiết bị ma thuật phức tạp kết hợp công nghệ và sự mê hoặc, giống như các nhà soạn nhạc đã hoàn thiện nghệ thuật giao hưởng
+- Phát triển các giải pháp sáng tạo cho các vấn đề phức tạp, giống như các nghệ sĩ đã làm chủ nghệ thuật ứng biến
+- Thích ứng nhanh chóng với các tình huống và công nghệ mới, giống như các nhạc cụ có thể chơi ở bất kỳ khóa nào
 
-This specialization makes **gnomes** capable of achieving feats of ingenuity that few other species can match, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Sự chuyên môn hóa này giúp **gnomes** có khả năng đạt được những kỳ tích về sự khéo léo mà ít loài nào khác có thể sánh được, mặc dù họ có thể gặp khó khăn với các nhiệm vụ đòi hỏi sức mạnh thể chất hoặc khả năng phục hồi, giống như một nhạc cụ tinh tế tạo ra âm thanh tuyệt đẹp nhưng không thể chịu được sự xử lý thô bạo.
 
-## Lifespan and Soul Decay
+## Tuổi Thọ và Soul Decay
 
-The **soul decay** timeline for **gnomes**, from birth to complete decay, is approximately 500 years, like a steady flame that illuminates the workshop. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and traditions
-- Form complex societies with intricate customs and rituals
+Dòng thời gian **soul decay** cho **gnomes**, từ khi sinh ra đến khi phân rã hoàn toàn, là khoảng 500 năm, giống như một ngọn lửa ổn định chiếu sáng xưởng. Tuổi thọ kéo dài này cho phép họ:
+- Tích lũy kiến thức và trí tuệ bao la qua nhiều thế kỷ
+- Phát triển các kết nối sâu sắc với những địa điểm và truyền thống cụ thể
+- Hình thành các xã hội phức tạp với các phong tục và nghi lễ phức tạp
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Tuy nhiên, sự phân rã linh hồn chậm hơn của họ cũng có nghĩa là họ thay đổi và thích nghi chậm hơn so với các loài khác, giống như một giai điệu vẫn đẹp nhưng không thay đổi qua các thời đại.
 
-## Habitat and Distribution
+## Môi Trường Sống và Phân Bố
 
-**Gnomes** primarily inhabit:
-- Underground cities and workshops, where they can be closest to their inventions
-- Magical laboratories and research facilities, where they can study and innovate
-- Strategic locations that provide access to both magical and technological resources
-- Hidden enclaves that protect their secrets and inventions
+**Gnomes** chủ yếu sinh sống ở:
+- Các thành phố và xưởng ngầm, nơi chúng có thể ở gần các phát minh của mình nhất
+- Các phòng thí nghiệm và cơ sở nghiên cứu ma thuật, nơi chúng có thể nghiên cứu và đổi mới
+- Các vị trí chiến lược cung cấp quyền truy cập vào cả tài nguyên ma thuật và công nghệ
+- Các vùng đất được bảo vệ bí mật bảo vệ bí mật và phát minh của họ
 
-These locations provide ideal environments for magical study and technological innovation, like perfect acoustics for a symphony.
+Những địa điểm này cung cấp môi trường lý tưởng cho nghiên cứu ma thuật và đổi mới công nghệ, giống như âm thanh hoàn hảo cho một bản giao hưởng.
 
-## Cultural Impact
+## Tác Động Văn Hóa
 
-In the world of **OpenFantasy**, **gnomes** play a crucial role in advancing technology and magic, like weavers of intricate melodies. Their societies are centers of:
-- Technological innovation and magical research
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+Trong thế giới của **OpenFantasy**, **gnomes** đóng một vai trò quan trọng trong việc thúc đẩy công nghệ và ma thuật, giống như những người dệt nên những giai điệu phức tạp. Xã hội của họ là trung tâm của:
+- Đổi mới công nghệ và nghiên cứu ma thuật
+- Thể hiện nghệ thuật và tinh tế thẩm mỹ
+- Quan hệ ngoại giao và trao đổi văn hóa
 
-The connection to innovation has shaped gnomish culture around the study and mastery of technology and magic, creating a society where ingenuity and creativity are highly valued.
+Mối liên hệ với sự đổi mới đã định hình văn hóa gnome xung quanh việc nghiên cứu và làm chủ công nghệ và ma thuật, tạo ra một xã hội nơi sự khéo léo và sáng tạo được đánh giá cao.
 
-## Relationship with Other Species
+## Mối Quan Hệ với Các Loài Khác
 
-**Gnomes** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and amusement, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for magic and beauty
-- With **Dwarves**: A respectful alliance based on mutual respect for craftsmanship and innovation
-- With **Golems**: A deep connection based on shared appreciation for technology and precision
+**Gnomes** duy trì các mối quan hệ phức tạp với các loài khác:
+- Với [**Humans**](/codex/Creatures/Human.md): Một sự pha trộn giữa sự quyến rũ và thích thú, thường dẫn đến các tương tác phức tạp
+- Với **Elves**: Một kết nối sâu sắc dựa trên sự đánh giá chung về ma thuật và vẻ đẹp
+- Với **Dwarves**: Một liên minh tôn trọng dựa trên sự tôn trọng lẫn nhau đối với sự khéo léo và đổi mới
+- Với **Golems**: Một kết nối sâu sắc dựa trên sự đánh giá chung về công nghệ và độ chính xác
 
-These relationships are often characterized by a sense of cultural superiority, as **gnomes** view themselves as the true innovators of the world.
+Những mối quan hệ này thường được đặc trưng bởi một cảm giác về sự vượt trội về văn hóa, vì **gnomes** coi mình là những nhà đổi mới thực sự của thế giới.
 
-## Notable Gnome Traits
+## Các Đặc Điểm Gnome Đáng Chú Ý
 
-- **Ingenuity**: Gnomes excel in creating innovative solutions to complex problems
-- **Technological Mastery**: Gnomes have a natural talent for understanding and manipulating technology
-- **Magical Sensitivity**: Gnomes are deeply attuned to the subtle harmonies of magic
-- **Environmental Adaptation**: Gnomes can thrive in various environments, from underground cities to floating islands
-- **Artistic Expression**: Gnomes have developed highly refined artistic and cultural traditions
+- **Ingenuity**: Gnomes vượt trội trong việc tạo ra các giải pháp sáng tạo cho các vấn đề phức tạp
+- **Technological Mastery**: Gnomes có tài năng bẩm sinh trong việc hiểu và thao túng công nghệ
+- **Magical Sensitivity**: Gnomes rất hòa hợp với sự hài hòa tinh tế của ma thuật
+- **Environmental Adaptation**: Gnomes có thể phát triển mạnh mẽ trong các môi trường khác nhau, từ các thành phố dưới lòng đất đến các hòn đảo nổi
+- **Artistic Expression**: Gnomes đã phát triển các truyền thống nghệ thuật và văn hóa được tinh chỉnh cao
 
 ## Gnomish Guilds
 
-Gnome society is organized into numerous guilds, each with its own specialties and traditions:
+Xã hội Gnome được tổ chức thành nhiều guild, mỗi guild có chuyên môn và truyền thống riêng:
 
 | Guild | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
@@ -102,4 +102,8 @@ Gnome society is organized into numerous guilds, each with its own specialties a
 | **Engineerguild** | Architecture, construction | Construction sites | Architectural innovation, construction expertise |
 | **Inventorguild** | Inventions, patents | Invention halls | Invention creation, patent development |
 
-Understanding the nature of **gnomes** provides insight into the technological and magical aspects of the world of **OpenFantasy**, like listening to the intricate melodies that echo through the workshops and laboratories. 
+Hiểu bản chất của **gnomes** cung cấp cái nhìn sâu sắc về các khía cạnh công nghệ và ma thuật của thế giới **OpenFantasy**, giống như lắng nghe những giai điệu phức tạp vang vọng qua các xưởng và phòng thí nghiệm.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

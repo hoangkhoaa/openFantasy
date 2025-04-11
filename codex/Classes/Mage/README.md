@@ -1,83 +1,87 @@
-# Mage Class
+# Lớp Pháp Sư
 
-> *"A mage sees the world not as it is, but as a symphony of patterns waiting to be conducted."*
+> *"Một pháp sư không nhìn thế giới như nó vốn có, mà như một bản giao hưởng của những mô thức đang chờ được chỉ huy."*
 
-## Quick Navigation
+## Điều Hướng Nhanh
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Mage](#playing-a-mage)
-- [Notable Traits](#notable-traits)
+- [Tổng Quan](#overview)
+- [Thành Phần Lớp](#class-composition)
+- [Phân Lớp](#subclasses)
+- [Nhập Vai Pháp Sư](#playing-a-mage)
+- [Đặc Điểm Nổi Bật](#notable-traits)
 
-## Overview
+## Tổng Quan
 
-Mages are the weavers of arcane power, channeling their exceptional **Mana Capacity** to manipulate the fabric of reality through spellcasting. Like conductors orchestrating the elements, they shape magical energies with precision and purpose.
+Pháp sư là những người dệt nên sức mạnh bí ẩn, dẫn dắt **Mana Capacity** vượt trội của họ để điều khiển kết cấu thực tại thông qua việc niệm phép. Giống như những người chỉ huy dàn nhạc điều khiển các nguyên tố, họ định hình năng lượng ma thuật với độ chính xác và mục đích.
 
-## Class Composition
+## Thành Phần Lớp
 
-| Element | Typical Range | Function |
+| Yếu Tố | Phạm Vi Điển Hình | Chức Năng |
 |---------|---------------|----------|
-| **Exanthis** | 10-30% | Physical foundation with limited strength and durability |
-| **Soul** | 20-40% | Consciousness that enables focused and analytical thinking |
-| **Mana Capacity** | 40-70% | Exceptional magical potential and channeling ability |
+| **Exanthis** | 10-30% | Nền tảng thể chất với sức mạnh và độ bền hạn chế |
+| **Soul** | 20-40% | Ý thức cho phép tư duy tập trung và phân tích |
+| **Mana Capacity** | 40-70% | Tiềm năng ma thuật vượt trội và khả năng dẫn dắt |
 
-This elemental balance grants mages their characteristic magical prowess while limiting their physical capabilities.
+Sự cân bằng nguyên tố này mang lại cho pháp sư khả năng ma thuật đặc trưng của họ đồng thời hạn chế khả năng thể chất của họ.
 
-## Subclasses
+## Phân Lớp
 
-Mages can specialize in several distinct magical disciplines:
+Pháp sư có thể chuyên về một số ngành ma thuật riêng biệt:
 
-| Subclass | Focus | Specialty |
+| Phân Lớp | Tập Trung | Chuyên Môn |
 |----------|-------|-----------|
-| [**Elementalist**](Elementalist.md) | Elemental manipulation | Controlling fire, water, earth, and air |
-| [**Necromancer**](Necromancer.md) | Death and soul magic | Communicating with and controlling the undead |
-| [**Illusionist**](Illusionist.md) | Perception manipulation | Creating deceptive magical effects |
-| [**Diviner**](Diviner.md) | Knowledge acquisition | Seeking hidden information through magical means |
-| [**Warlock**](Warlock.md) | Pact-based magic | Channeling power from otherworldly patrons |
+| [**Elementalist**](Elementalist.md) | Thao túng nguyên tố | Kiểm soát lửa, nước, đất và không khí |
+| [**Necromancer**](Necromancer.md) | Ma thuật chết chóc và linh hồn | Giao tiếp và kiểm soát xác sống |
+| [**Illusionist**](Illusionist.md) | Thao túng nhận thức | Tạo ra các hiệu ứng ma thuật lừa đảo |
+| [**Diviner**](Diviner.md) | Thu thập kiến thức | Tìm kiếm thông tin ẩn giấu thông qua các phương tiện ma thuật |
+| [**Warlock**](Warlock.md) | Ma thuật dựa trên giao ước | Dẫn dắt sức mạnh từ những người bảo trợ ở thế giới khác |
 
-## Playing a Mage
+## Nhập Vai Pháp Sư
 
-### Core Abilities
+### Khả Năng Cốt Lõi
 
-- **Spellcasting**: Access to a wide variety of arcane spells
-- **Mana Manipulation**: Precise control over magical energies
-- **Magical Knowledge**: Extensive understanding of arcane principles
-- **Ritual Casting**: Ability to perform complex magical ceremonies
+- **Spellcasting**: Truy cập vào một loạt các phép thuật bí ẩn
+- **Mana Manipulation**: Kiểm soát chính xác năng lượng ma thuật
+- **Magical Knowledge**: Hiểu biết sâu rộng về các nguyên tắc bí ẩn
+- **Ritual Casting**: Khả năng thực hiện các nghi lễ ma thuật phức tạp
 
-### Common Equipment
+### Trang Bị Phổ Biến
 
-- **Staff/Wand**: Focuses magical energy for more precise spellcasting
-- **Spellbook**: Contains magical knowledge and spell patterns
-- **Magical Accessories**: Rings, amulets, and other enchanted items
-- **Ritual Components**: Materials needed for complex spellcasting
+- **Staff/Wand**: Tập trung năng lượng ma thuật để niệm phép chính xác hơn
+- **Spellbook**: Chứa kiến thức ma thuật và các mô thức phép thuật
+- **Magical Accessories**: Nhẫn, bùa hộ mệnh và các vật phẩm được yểm bùa khác
+- **Ritual Components**: Vật liệu cần thiết cho việc niệm phép phức tạp
 
-### Species Affinities
+### Mối Liên Hệ Giữa Các Loài
 
-| Species | Affinity | Notable Traits |
+| Loài | Mối Liên Hệ | Đặc Điểm Nổi Bật |
 |---------|----------|----------------|
-| **Elves** | High | Natural mana purification, enhanced arcane sensitivity |
-| **Humans** | Moderate | Versatile spellcasting, adaptive learning |
-| **Dark Elves** | High | Enhanced capacity for shadow and illusory magic |
-| **Dragonkin** | Moderate-High | Natural affinity for elemental magic, especially fire |
-| **Dwarves** | Low | Limited mana capacity but exceptional focus |
+| **Elves** | Cao | Thanh lọc mana tự nhiên, tăng cường độ nhạy cảm bí ẩn |
+| **Humans** | Vừa Phải | Niệm phép linh hoạt, học hỏi thích ứng |
+| **Dark Elves** | Cao | Nâng cao khả năng sử dụng ma thuật bóng tối và ảo ảnh |
+| **Dragonkin** | Vừa Phải-Cao | Mối liên hệ tự nhiên với ma thuật nguyên tố, đặc biệt là lửa |
+| **Dwarves** | Thấp | Mana capacity hạn chế nhưng khả năng tập trung vượt trội |
 
-## Notable Traits
+## Đặc Điểm Nổi Bật
 
-### Strengths
+### Điểm Mạnh
 
-- Unparalleled magical versatility and power
-- Ability to solve problems through arcane means
-- Access to knowledge and forces beyond mortal understanding
-- Potential for continuous growth in magical ability
+- Sức mạnh và tính linh hoạt ma thuật vô song
+- Khả năng giải quyết vấn đề thông qua các phương tiện bí ẩn
+- Tiếp cận kiến thức và các thế lực vượt xa sự hiểu biết của người phàm
+- Tiềm năng phát triển liên tục về khả năng ma thuật
 
-### Challenges
+### Thách Thức
 
-- Physical vulnerability and limited combat endurance
-- Reliance on magical components and preparation
-- Susceptibility to anti-magic effects and counterspells
-- Complexity of advanced magical techniques
+- Tính dễ bị tổn thương về thể chất và sức chịu đựng chiến đấu hạn chế
+- Phụ thuộc vào các thành phần ma thuật và sự chuẩn bị
+- Dễ bị ảnh hưởng bởi các hiệu ứng chống ma thuật và phản phép
+- Độ phức tạp của các kỹ thuật ma thuật nâng cao
 
 ---
 
-> See [Mage.md](Mage.md) for detailed information about the mage class in OpenFantasy. 
+> Xem [Mage.md](Mage.md) để biết thông tin chi tiết về lớp pháp sư trong OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

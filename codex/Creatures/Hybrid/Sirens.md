@@ -1,97 +1,97 @@
-# **Sirens**: The Enchanting Voices of the Seas
+# **Sirens**: Những Giọng Hát Mê Hoặc của Biển Cả
 
-[**Sirens**](/codex/Creatures/Sirens.md) are the enchanting voices of the seas, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a hauntingly beautiful flute, they resonate most strongly with the currents of water and sound, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+[**Sirens**](/codex/Creatures/Sirens.md) là những giọng hát mê hoặc của biển cả, cơ thể của chúng là một sự hài hòa uyển chuyển của [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), và **Mana Capacity**. Giống như một cây sáo đẹp đến ám ảnh, chúng cộng hưởng mạnh mẽ nhất với các dòng chảy của nước và âm thanh, tạo ra một giai điệu độc đáo của sự tồn tại, bắc cầu giữa các cõi thủy sinh và trên cạn.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **sirens** forms a harmony that favors magical potential:
+Như được trình bày chi tiết trong [Creatures](/codex/Creatures/Creatures.md), tỷ lệ điển hình cho **sirens** tạo thành một sự hài hòa ưu ái tiềm năng ma thuật:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 20-35% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-45% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 30-50% | The bridge between worlds that enables significant magical potential |
+| **Exanthis** | 20-35% | Trái tim kết tinh cung cấp sức mạnh thể chất và sự duyên dáng vừa phải |
+| **Soul** | 25-45% | Tinh chất thanh tao định hình một ý thức uyển chuyển và dễ thích nghi |
+| **Mana Capacity** | 30-50% | Cầu nối giữa các thế giới cho phép tiềm năng ma thuật đáng kể |
 
-This composition grants **sirens** their characteristic enchanting abilities but limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Thành phần này ban cho **sirens** khả năng mê hoặc đặc trưng của chúng nhưng hạn chế khả năng phục hồi thể chất so với các loài khác, giống như một nhạc cụ tinh tế tạo ra âm thanh tuyệt đẹp nhưng phải được xử lý cẩn thận.
 
-### Individual Variations
+### Biến Thể Cá Nhân
 
-While the model composition represents the typical siren, individual variations exist:
+Mặc dù thành phần mô hình đại diện cho siren điển hình, các biến thể cá nhân vẫn tồn tại:
 
-- **Song Weavers**: Some sirens possess Soul percentages as high as 50% and Mana Capacity of 40%, allowing them to create enchantments of extraordinary power and subtlety through their voices.
-- **Ocean Warriors**: A specialized variant with enhanced Exanthis levels approaching 40% serves as defenders of siren territories, with reduced magical ability (30% Mana Capacity) but greater physical resilience.
-- **Tide Speakers**: Those with balanced compositions (30% Exanthis, 35% Soul, 35% Mana Capacity) excel at diplomatic relations, using their voices to bridge cultural divides.
-- **Storm Callers**: Specialized sirens with composition of (25% Exanthis, 25% Soul, 50% Mana Capacity) can manipulate weather patterns over water, summoning or dispersing storms.
-- **Deep Dreamers**: Rare sirens with unique composition (20% Exanthis, 45% Soul, 35% Mana Capacity) can send their consciousness into the dreams of others, becoming powerful diviners and spiritual guides.
+- **Song Weavers**: Một số sirens sở hữu tỷ lệ Soul cao tới 50% và Mana Capacity là 40%, cho phép chúng tạo ra những phép thuật với sức mạnh và sự tinh tế phi thường thông qua giọng nói của mình.
+- **Ocean Warriors**: Một biến thể chuyên biệt với mức Exanthis tăng cường gần 40% đóng vai trò là người bảo vệ lãnh thổ của siren, với khả năng ma thuật giảm (30% Mana Capacity) nhưng khả năng phục hồi thể chất lớn hơn.
+- **Tide Speakers**: Những người có thành phần cân bằng (30% Exanthis, 35% Soul, 35% Mana Capacity) vượt trội trong quan hệ ngoại giao, sử dụng giọng nói của mình để bắc cầu các chia rẽ văn hóa.
+- **Storm Callers**: Sirens chuyên biệt với thành phần (25% Exanthis, 25% Soul, 50% Mana Capacity) có thể điều khiển các kiểu thời tiết trên mặt nước, triệu hồi hoặc giải tán bão.
+- **Deep Dreamers**: Sirens hiếm có thành phần độc đáo (20% Exanthis, 45% Soul, 35% Mana Capacity) có thể gửi ý thức của họ vào giấc mơ của người khác, trở thành những nhà tiên tri và hướng dẫn tâm linh mạnh mẽ.
 
-## Physical Characteristics
+## Đặc Điểm Thể Chất
 
-**Sirens** are known for their ethereal beauty and aquatic adaptations:
-- Humanoid upper bodies with fish-like lower bodies, allowing for both land and sea movement
-- Eyes that shimmer with inner light, reflecting their connection to water magic
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep purple
-- Voices that carry an otherworldly quality, capable of producing sounds that no other species can replicate
-- Fins and webbed appendages that aid in swimming and balance
+**Sirens** được biết đến với vẻ đẹp thanh tao và khả năng thích nghi với môi trường nước:
+- Thân trên giống người với thân dưới giống cá, cho phép di chuyển cả trên cạn và dưới biển
+- Đôi mắt lấp lánh ánh sáng bên trong, phản ánh mối liên hệ của chúng với phép thuật nước
+- Mang cho phép chúng thở dưới nước, giống như những nhạc cụ tinh tế được điều chỉnh theo biển
+- Vảy cung cấp sự bảo vệ và vẻ đẹp tự nhiên, có màu sắc từ xanh lam óng ánh đến tím đậm
+- Giọng nói mang một phẩm chất siêu phàm, có khả năng tạo ra âm thanh mà không loài nào khác có thể sao chép được
+- Vây và các phần phụ có màng giúp bơi lội và giữ thăng bằng
 
-## Magical Affinity
+## Khả Năng Ma Thuật
 
-**Sirens** demonstrate exceptional proficiency in water magic and sound manipulation, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel water magic with extraordinary precision, like conductors of the ocean's symphony
-- Manipulate sound waves to create enchanting melodies that affect the emotions and thoughts of others
-- Create illusions through the combination of water and sound, like artists painting with liquid light
+**Sirens** thể hiện sự thành thạo đặc biệt trong phép thuật nước và điều khiển âm thanh, giống như những nhạc sĩ điêu luyện đã làm chủ nhạc cụ của mình. Thành phần của chúng cho phép chúng:
+- Dẫn truyền phép thuật nước với độ chính xác phi thường, giống như người chỉ huy của bản giao hưởng đại dương
+- Thao túng sóng âm để tạo ra những giai điệu mê hoặc ảnh hưởng đến cảm xúc và suy nghĩ của người khác
+- Tạo ra ảo ảnh thông qua sự kết hợp của nước và âm thanh, giống như các nghệ sĩ vẽ bằng ánh sáng lỏng
 
-This specialization makes **sirens** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Sự chuyên môn hóa này giúp **sirens** có khả năng đạt đến trình độ cao nhất trong các truyền thống ma thuật mà chúng đã chọn, mặc dù chúng có thể gặp khó khăn với các nhiệm vụ đòi hỏi sức mạnh thể chất hoặc khả năng phục hồi, giống như một nhạc cụ tinh tế tạo ra âm thanh tuyệt đẹp nhưng không thể chịu được sự xử lý thô bạo.
 
-## Lifespan and Soul Decay
+## Tuổi Thọ và Suy Tàn Linh Hồn
 
-The **soul decay** timeline for **sirens**, from birth to complete decay, is approximately 500 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+Dòng thời gian **soul decay** cho **sirens**, từ khi sinh ra đến khi suy tàn hoàn toàn, là khoảng 500 năm, giống như một ngọn lửa cháy chậm soi sáng các thời đại. Tuổi thọ kéo dài này cho phép chúng:
+- Tích lũy kiến thức và trí tuệ bao la qua nhiều thế kỷ
+- Phát triển các mối liên kết sâu sắc với các địa điểm và truyền thống ma thuật cụ thể
+- Hình thành các xã hội phức tạp với các phong tục và nghi lễ phức tạp
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Tuy nhiên, sự suy tàn linh hồn chậm hơn của chúng cũng có nghĩa là chúng thay đổi và thích nghi chậm hơn so với các loài khác, giống như một giai điệu vẫn đẹp nhưng không thay đổi qua các thời đại.
 
-## Habitat and Distribution
+## Môi Trường Sống và Phân Bố
 
-**Sirens** primarily inhabit:
-- Coastal regions and underwater cities, where they can be closest to the ocean's currents
-- Islands and archipelagos, where they can maintain connections to both land and sea
-- Magical grottos and coral reefs, where the boundaries between worlds grow thin
-- Strategic locations that provide access to both aquatic and terrestrial resources
+**Sirens** chủ yếu sinh sống:
+- Các vùng ven biển và các thành phố dưới nước, nơi chúng có thể ở gần nhất với dòng chảy của đại dương
+- Các hòn đảo và quần đảo, nơi chúng có thể duy trì kết nối với cả đất liền và biển cả
+- Hang động ma thuật và rạn san hô, nơi ranh giới giữa các thế giới trở nên mỏng manh
+- Các vị trí chiến lược cung cấp quyền truy cập vào cả tài nguyên dưới nước và trên cạn
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Những địa điểm này cung cấp môi trường lý tưởng cho việc nghiên cứu ma thuật và chiêm nghiệm tâm linh, giống như âm thanh hoàn hảo cho một bản giao hưởng.
 
-## Cultural Impact
+## Tác Động Văn Hóa
 
-In the world of **OpenFantasy**, **sirens** play a crucial role in preserving ancient magical traditions and enchanting the world with beauty, like weavers of ethereal melodies. Their societies are centers of:
-- Musical innovation and artistic expression
-- Water magic and sound manipulation
-- Diplomatic relations and cultural exchange
+Trong thế giới **OpenFantasy**, **sirens** đóng một vai trò quan trọng trong việc bảo tồn các truyền thống ma thuật cổ xưa và mê hoặc thế giới bằng vẻ đẹp, giống như những người dệt các giai điệu thanh tao. Xã hội của họ là trung tâm của:
+- Đổi mới âm nhạc và biểu hiện nghệ thuật
+- Phép thuật nước và điều khiển âm thanh
+- Quan hệ ngoại giao và trao đổi văn hóa
 
-The connection to water and sound has shaped siren culture around the study and mastery of these elements, creating a society where artistic ability and magical prowess are highly valued.
+Mối liên hệ với nước và âm thanh đã định hình văn hóa siren xoay quanh việc nghiên cứu và làm chủ các yếu tố này, tạo ra một xã hội nơi khả năng nghệ thuật và sức mạnh ma thuật được đánh giá cao.
 
-## Relationship with Other Species
+## Mối Quan Hệ với Các Loài Khác
 
-**Sirens** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and caution, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for beauty and magic
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Fae**: A wary relationship, as sirens are less susceptible to fae enchantments
+**Sirens** duy trì các mối quan hệ phức tạp với các loài khác:
+- Với [**Humans**](/codex/Creatures/Human.md): Một sự pha trộn giữa sự quyến rũ và thận trọng, thường dẫn đến các tương tác phức tạp
+- Với **Elves**: Một kết nối sâu sắc dựa trên sự đánh giá chung về vẻ đẹp và phép thuật
+- Với **Dwarves**: Một khoảng cách tôn trọng, thừa nhận tay nghề của họ nhưng thấy cách của họ kỳ lạ
+- Với **Fae**: Một mối quan hệ thận trọng, vì sirens ít bị ảnh hưởng bởi các phép thuật fae
 
-These relationships are often characterized by a sense of cultural superiority, as **sirens** view themselves as the true children of the sea and sound.
+Những mối quan hệ này thường được đặc trưng bởi cảm giác tự tôn văn hóa, vì **sirens** coi mình là những đứa con thực sự của biển cả và âm thanh.
 
-## Notable Siren Traits
+## Đặc Điểm Nổi Bật Của Siren
 
-- **Enchanting Voice**: Sirens possess voices capable of producing sounds that affect the emotions and thoughts of others
-- **Water Affinity**: Sirens have a natural connection to water magic, allowing them to manipulate this element with ease
-- **Amphibious Nature**: Sirens can thrive in both aquatic and terrestrial environments
-- **Artistic Expression**: Sirens have developed highly refined musical and artistic traditions
-- **Diplomatic Skills**: Sirens excel in negotiation and cultural exchange, using their enchanting abilities to facilitate communication
+- **Enchanting Voice**: Sirens sở hữu giọng nói có khả năng tạo ra âm thanh ảnh hưởng đến cảm xúc và suy nghĩ của người khác
+- **Water Affinity**: Sirens có một kết nối tự nhiên với phép thuật nước, cho phép chúng thao túng yếu tố này một cách dễ dàng
+- **Amphibious Nature**: Sirens có thể phát triển mạnh mẽ trong cả môi trường nước và trên cạn
+- **Artistic Expression**: Sirens đã phát triển các truyền thống âm nhạc và nghệ thuật tinh tế
+- **Diplomatic Skills**: Sirens vượt trội trong đàm phán và trao đổi văn hóa, sử dụng khả năng mê hoặc của mình để tạo điều kiện giao tiếp
 
 ## Siren Clans
 
-Siren society is organized into numerous clans, each with its own specialties and traditions:
+Xã hội siren được tổ chức thành nhiều клан, mỗi клан có chuyên môn và truyền thống riêng:
 
 | Clan | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
@@ -102,4 +102,8 @@ Siren society is organized into numerous clans, each with its own specialties an
 | **Deepdwellers** | Knowledge, wisdom | Deep ocean trenches | Ancient knowledge, wisdom traditions |
 | **Shorewalkers** | Diplomacy, trade | Coastal cities | Diplomatic skills, trading expertise |
 
-Understanding the nature of **sirens** provides insight into the aquatic and musical aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the waves and shores. 
+Hiểu được bản chất của **sirens** cung cấp cái nhìn sâu sắc về các khía cạnh dưới nước và âm nhạc của thế giới **OpenFantasy**, giống như lắng nghe những giai điệu ám ảnh vang vọng qua những con sóng và bờ biển.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

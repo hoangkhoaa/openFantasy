@@ -1,22 +1,22 @@
-# [CLASS_NAME] Class
+# Lớp [CLASS_NAME]
 
 > *"[CLASS_QUOTE]"*
 
-## Quick Navigation
+## Điều hướng nhanh
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a [CLASS_NAME]](#playing-a-class_name)
-- [Notable Traits](#notable-traits)
+- [Tổng quan](#overview)
+- [Thành phần lớp](#class-composition)
+- [Lớp con](#subclasses)
+- [Chơi một [CLASS_NAME]](#playing-a-class_name)
+- [Đặc điểm nổi bật](#notable-traits)
 
-## Overview
+## Tổng quan
 
 [CLASS_BRIEF_DESCRIPTION]
 
-## Class Composition
+## Thành phần lớp
 
-| Element | Typical Range | Function |
+| Element | Phạm vi điển hình | Chức năng |
 |---------|---------------|----------|
 | **Exanthis** | [EXANTHIS_RANGE] | [EXANTHIS_FUNCTION] |
 | **Soul** | [SOUL_RANGE] | [SOUL_FUNCTION] |
@@ -24,11 +24,11 @@
 
 [CLASS_COMPOSITION_DESCRIPTION]
 
-## Subclasses
+## Lớp con
 
-[CLASS_NAME]s can specialize in several distinct disciplines:
+[CLASS_NAME]s có thể chuyên về một số ngành khác nhau:
 
-| Subclass | Focus | Specialty |
+| Lớp con | Tập trung | Chuyên môn |
 |----------|-------|-----------|
 | [**[SUBCLASS1_NAME]**]([SUBCLASS1_FILE]) | [SUBCLASS1_FOCUS] | [SUBCLASS1_SPECIALTY] |
 | [**[SUBCLASS2_NAME]**]([SUBCLASS2_FILE]) | [SUBCLASS2_FOCUS] | [SUBCLASS2_SPECIALTY] |
@@ -36,25 +36,25 @@
 | [**[SUBCLASS4_NAME]**]([SUBCLASS4_FILE]) | [SUBCLASS4_FOCUS] | [SUBCLASS4_SPECIALTY] |
 | [**[SUBCLASS5_NAME]**]([SUBCLASS5_FILE]) | [SUBCLASS5_FOCUS] | [SUBCLASS5_SPECIALTY] |
 
-## Playing a [CLASS_NAME]
+## Chơi một [CLASS_NAME]
 
-### Core Abilities
+### Khả năng cốt lõi
 
 - **[ABILITY1_NAME]**: [ABILITY1_DESCRIPTION]
 - **[ABILITY2_NAME]**: [ABILITY2_DESCRIPTION]
 - **[ABILITY3_NAME]**: [ABILITY3_DESCRIPTION]
 - **[ABILITY4_NAME]**: [ABILITY4_DESCRIPTION]
 
-### Common Equipment
+### Trang bị thông thường
 
 - **[EQUIPMENT1]**: [EQUIPMENT1_DESCRIPTION]
 - **[EQUIPMENT2]**: [EQUIPMENT2_DESCRIPTION]
 - **[EQUIPMENT3]**: [EQUIPMENT3_DESCRIPTION]
 - **[EQUIPMENT4]**: [EQUIPMENT4_DESCRIPTION]
 
-### Species Affinities
+### Mối quan hệ với các loài
 
-| Species | Affinity | Notable Traits |
+| Loài | Mối quan hệ | Đặc điểm nổi bật |
 |---------|----------|----------------|
 | **[SPECIES1]** | [AFFINITY1] | [TRAITS1] |
 | **[SPECIES2]** | [AFFINITY2] | [TRAITS2] |
@@ -62,16 +62,16 @@
 | **[SPECIES4]** | [AFFINITY4] | [TRAITS4] |
 | **[SPECIES5]** | [AFFINITY5] | [TRAITS5] |
 
-## Notable Traits
+## Đặc điểm nổi bật
 
-### Strengths
+### Điểm mạnh
 
 - [STRENGTH1]
 - [STRENGTH2]
 - [STRENGTH3]
 - [STRENGTH4]
 
-### Challenges
+### Thách thức
 
 - [CHALLENGE1]
 - [CHALLENGE2]
@@ -80,4 +80,8 @@
 
 ---
 
-> See [[CLASS_NAME].md]([CLASS_NAME].md) for detailed information about the [CLASS_NAME] class in OpenFantasy. 
+> Xem [[CLASS_NAME].md]([CLASS_NAME].md) để biết thông tin chi tiết về lớp [CLASS_NAME] trong OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

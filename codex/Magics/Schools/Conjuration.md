@@ -1,213 +1,217 @@
-# **The School of Conjuration**
+# **Trường Phái Triệu Hồi**
 
-> *"To conjure is to reach across the veil of possibility and draw forth that which exists elsewhere. It is not creation, but connection—a bridge between realms."*  
-> — Archconjurer Thaddeus Voidcaller, Master of the Summoning Circle
+> *"Triệu hồi là vươn qua tấm màn khả năng và lôi kéo những gì tồn tại ở nơi khác. Đó không phải là sự sáng tạo, mà là sự kết nối—một cây cầu giữa các cõi."*
+> — Đại Pháp Sư Thaddeus Voidcaller, Bậc Thầy Vòng Tròn Triệu Hồi
 
-## Overview
+## Tổng quan
 
-Conjuration is the school of magic focused on calling forth matter, energy, or entities from elsewhere—whether from another location in the material world, elemental planes, or even other dimensions. Unlike illusion that creates sensory deception or evocation that generates effects from raw magical energy, conjuration involves the transportation, manifestation, or binding of pre-existing elements. It is considered one of the most potentially dangerous magical disciplines due to its interaction with forces and entities beyond the caster's native realm.
+Triệu hồi là trường phái ma thuật tập trung vào việc gọi ra vật chất, năng lượng hoặc các thực thể từ nơi khác—cho dù từ một địa điểm khác trong thế giới vật chất, các mặt phẳng nguyên tố, hoặc thậm chí các chiều không gian khác. Không giống như ảo ảnh tạo ra sự lừa dối giác quan hoặc hô phong hoán vũ tạo ra các hiệu ứng từ năng lượng ma thuật thô, triệu hồi bao gồm việc vận chuyển, biểu hiện hoặc ràng buộc các yếu tố đã tồn tại từ trước. Nó được coi là một trong những môn pháp thuật có khả năng nguy hiểm nhất do sự tương tác của nó với các lực lượng và thực thể bên ngoài cõi bản địa của người thi triển.
 
-## Fundamental Principles
+## Nguyên Tắc Cơ Bản
 
-### The Correspondence Axiom
+### Tiên Đề Tương Ứng
 
-The foundation of conjuration theory is the Correspondence Axiom, which states that all things that exist share fundamental resonant patterns that can be leveraged to create connections across space, time, and dimensional boundaries. By replicating these patterns, conjurers can establish temporary or permanent links between distant points.
+Nền tảng của lý thuyết triệu hồi là Tiên Đề Tương Ứng, tuyên bố rằng tất cả mọi thứ tồn tại đều chia sẻ các mô hình cộng hưởng cơ bản có thể được tận dụng để tạo ra các kết nối xuyên không gian, thời gian và ranh giới chiều không gian. Bằng cách sao chép các mô hình này, các pháp sư triệu hồi có thể thiết lập các liên kết tạm thời hoặc vĩnh viễn giữa các điểm ở xa.
 
-### Primary Components
+### Thành Phần Chính
 
-All conjuration spells incorporate three fundamental components:
+Tất cả các phép triệu hồi đều kết hợp ba thành phần cơ bản:
 
-1. **Pattern Recognition**: Identifying the specific resonant signature of the target
-2. **Spatial Bridging**: Creating a connection between the caster's location and the target's location
-3. **Manifestation Control**: Guiding and containing the conjured element upon arrival
+1. **Nhận Dạng Mẫu Hình**: Xác định chữ ký cộng hưởng cụ thể của mục tiêu
+2. **Kết Nối Không Gian**: Tạo một kết nối giữa vị trí của người thi triển và vị trí của mục tiêu
+3. **Kiểm Soát Biểu Hiện**: Hướng dẫn và chứa đựng yếu tố được triệu hồi khi đến nơi
 
-More complex conjurations add additional components:
+Các phép triệu hồi phức tạp hơn thêm các thành phần bổ sung:
 
-4. **Binding Frameworks**: Establishing control over conjured entities
-5. **Duration Anchoring**: Extending the manifestation period beyond immediate casting
-6. **Return Protocols**: Methods for dismissing or returning conjured elements
+4. **Khung Ràng Buộc**: Thiết lập quyền kiểm soát đối với các thực thể được triệu hồi
+5. **Neo Giữ Thời Gian**: Kéo dài thời gian biểu hiện vượt quá thời gian thi triển ngay lập tức
+6. **Giao Thức Trả Về**: Các phương pháp để giải tán hoặc trả lại các yếu tố được triệu hồi
 
-### Mana Requirements
+### Yêu Cầu Mana
 
-Conjuration requires specific combinations of mana types, with purity levels that increase with the complexity and distance of the conjuration:
+Triệu hồi đòi hỏi các tổ hợp cụ thể của các loại mana, với mức độ tinh khiết tăng lên theo độ phức tạp và khoảng cách của việc triệu hồi:
 
-| Conjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
-|------------------|-------------|----------------|---------------|---------|
-| Object Summoning | Base Mana (40-50%) | Terramana (20-30%) | N/A | Material objects |
-| Elemental Calling | Base Mana (50-60%) | Elemental type (30-40%) | N/A | Elemental forces |
-| Entity Summoning | Base Mana (60-70%) | Varies by entity | Aetheramana (10-20%) | Living beings |
-| Teleportation | Base Mana (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Self/object movement |
-| Extradimensional Space | Base Mana (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Pocket dimensions |
-| Planar Gateway | Base Mana (70-80%) | Aetheramana (40-50%) | Varies by plane | Interplanar travel |
+| Loại Triệu Hồi     | Mana Chính      | Mana Thứ Cấp   | Mana Bậc Ba   | Mục Đích     |
+|-------------------|----------------|-----------------|---------------|-------------|
+| Triệu Hồi Vật Thể | Mana Gốc (40-50%) | Terramana (20-30%) | Không áp dụng  | Vật thể vật chất |
+| Gọi Nguyên Tố      | Mana Gốc (50-60%) | Loại Nguyên Tố (30-40%) | Không áp dụng  | Lực lượng nguyên tố |
+| Triệu Hồi Thực Thể | Mana Gốc (60-70%) | Thay đổi theo thực thể | Aetheramana (10-20%) | Sinh vật sống     |
+| Dịch Chuyển        | Mana Gốc (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Di chuyển bản thân/vật thể |
+| Không Gian Đa Chiều | Mana Gốc (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Không gian bỏ túi |
+| Cổng Mặt Phẳng     | Mana Gốc (70-80%) | Aetheramana (40-50%) | Thay đổi theo mặt phẳng | Du hành giữa các mặt phẳng |
 
-### Wild Mana Response
+### Phản Ứng Mana Hoang Dã
 
-Conjuration magic has a complex relationship with Wild Mana. While controlled conjuration requires precise patterns, Wild Mana can actually enhance certain types of summoning by:
+Ma thuật triệu hồi có một mối quan hệ phức tạp với Mana Hoang Dã. Mặc dù việc triệu hồi được kiểm soát đòi hỏi các mẫu hình chính xác, nhưng Mana Hoang Dã thực sự có thể tăng cường một số loại triệu hồi nhất định bằng cách:
 
-- **Boundary Weakening**: Making it easier to reach across planar boundaries
-- **Manifestation Boosting**: Providing additional energy for materialization
-- **Pattern Expansion**: Allowing for less exact correspondent patterns to succeed
+- **Làm Suy Yếu Ranh Giới**: Giúp dễ dàng tiếp cận các ranh giới mặt phẳng hơn
+- **Tăng Cường Biểu Hiện**: Cung cấp năng lượng bổ sung cho việc vật chất hóa
+- **Mở Rộng Mẫu Hình**: Cho phép các mẫu hình tương ứng ít chính xác hơn thành công
 
-However, these benefits come with significant risks:
+Tuy nhiên, những lợi ích này đi kèm với những rủi ro đáng kể:
 
-- **Location Drift**: Conjured elements may arrive from unexpected sources
-- **Partial Manifestation**: Incomplete or distorted summoning results
-- **Binding Failure**: Loss of control over conjured entities or elements
-- **Reverse Flow**: The caster being pulled toward the target rather than vice versa
+- **Trôi Địa Điểm**: Các yếu tố được triệu hồi có thể đến từ các nguồn không mong muốn
+- **Biểu Hiện Một Phần**: Kết quả triệu hồi không đầy đủ hoặc bị bóp méo
+- **Lỗi Ràng Buộc**: Mất kiểm soát đối với các thực thể hoặc yếu tố được triệu hồi
+- **Dòng Chảy Ngược**: Người thi triển bị kéo về phía mục tiêu thay vì ngược lại
 
-## Mana Purification for Conjuration
+## Thanh Lọc Mana Cho Triệu Hồi
 
-Conjuration requires high mana purity for precise targeting and control:
+Triệu hồi đòi hỏi độ tinh khiết mana cao để nhắm mục tiêu và kiểm soát chính xác:
 
-| Purification Level | Conjuration Capability |
-|--------------------|------------------------|
-| Basic (15-25%) | Simple object summoning from visible locations |
-| Intermediate (30-45%) | Elemental calling and teleportation of small objects over moderate distances |
-| Advanced (50-65%) | Entity summoning, personal teleportation, and minor extradimensional spaces |
-| Master (70-80%) | Complex entity binding, group teleportation, and stable pocket dimensions |
-| Grandmaster (85%+) | Planar gateways and permanent extradimensional constructs |
+| Mức Độ Thanh Lọc  | Khả Năng Triệu Hồi |
+|-------------------|------------------------|
+| Cơ Bản (15-25%)   | Triệu hồi vật thể đơn giản từ các địa điểm có thể nhìn thấy |
+| Trung Cấp (30-45%) | Gọi nguyên tố và dịch chuyển các vật thể nhỏ ở khoảng cách vừa phải |
+| Nâng Cao (50-65%)  | Triệu hồi thực thể, dịch chuyển cá nhân và không gian đa chiều nhỏ |
+| Bậc Thầy (70-80%)  | Ràng buộc thực thể phức tạp, dịch chuyển nhóm và không gian bỏ túi ổn định |
+| Đại Sư (85%+)     | Cổng mặt phẳng và các cấu trúc đa chiều vĩnh viễn |
 
-Insufficient purity in conjuration often results in material or spatial distortion—objects arriving damaged, locations being slightly misaligned, or entities appearing with altered properties.
+Độ tinh khiết không đủ trong triệu hồi thường dẫn đến sự biến dạng vật chất hoặc không gian—các vật thể đến bị hư hại, các vị trí bị lệch lạc nhẹ hoặc các thực thể xuất hiện với các thuộc tính bị thay đổi.
 
-## The Conjurer's Harmony
+## Hòa Âm Của Pháp Sư Triệu Hồi
 
-Conjuration magic is conceptualized through musical counterpoint, with each spell creating harmonic relationships between source and destination:
+Ma thuật triệu hồi được khái niệm hóa thông qua đối âm âm nhạc, với mỗi phép thuật tạo ra các mối quan hệ hài hòa giữa nguồn và đích:
 
-- **Unison**: Direct transportation with minimal change
-- **Octave Shift**: Scaling effects (enlarging or diminishing the conjured element)
-- **Harmonization**: Adapting the conjured element to its new environment
-- **Dissonant Conjuring**: Forcing incompatible elements into manifestation
-- **Resonant Summoning**: Enhanced manifestation through matching harmonics
+- **Đồng Âm**: Vận chuyển trực tiếp với sự thay đổi tối thiểu
+- **Chuyển Quãng Tám**: Các hiệu ứng mở rộng (phóng to hoặc thu nhỏ yếu tố được triệu hồi)
+- **Hài Hòa**: Thích ứng yếu tố được triệu hồi với môi trường mới của nó
+- **Triệu Hồi Dị Âm**: Ép buộc các yếu tố không tương thích vào sự biểu hiện
+- **Triệu Hồi Cộng Hưởng**: Tăng cường sự biểu hiện thông qua các sóng hài phù hợp
 
-Master conjurers speak of "conducting" multiple simultaneous manifestations, maintaining distinct harmonic relationships with each conjured element.
+Các pháp sư triệu hồi bậc thầy nói về việc "điều khiển" nhiều biểu hiện đồng thời, duy trì các mối quan hệ hài hòa riêng biệt với từng yếu tố được triệu hồi.
 
-## Specialized Disciplines
+## Các Môn Học Chuyên Biệt
 
-### Summoning
+### Triệu Hồi
 
-The calling of entities, whether elemental, spiritual, or organic. Practitioners are known as Summoners.
+Việc gọi các thực thể, cho dù là nguyên tố, tinh thần hay hữu cơ. Các học viên được gọi là Pháp Sư Triệu Hồi.
 
-### Material Conjuration
+### Triệu Hồi Vật Chất
 
-Focused on manifesting non-living objects and substances. Masters are called Materializers.
+Tập trung vào việc biểu hiện các vật thể và chất vô tri. Các bậc thầy được gọi là Người Vật Chất Hóa.
 
-### Spatial Manipulation
+### Thao Tác Không Gian
 
-Specialized in teleportation and dimensional pockets. Practitioners are called Spatials.
+Chuyên về dịch chuyển và túi chiều không gian. Các học viên được gọi là Người Không Gian.
 
-### Binding
+### Ràng Buộc
 
-The control and constraint of conjured entities. Masters are known as Binders.
+Kiểm soát và hạn chế các thực thể được triệu hồi. Các bậc thầy được gọi là Người Ràng Buộc.
 
-### Gateway Creation
+### Tạo Cổng
 
-Establishing permanent or semi-permanent connections between locations. Practitioners are called Gateweavers.
+Thiết lập các kết nối vĩnh viễn hoặc bán vĩnh viễn giữa các địa điểm. Các học viên được gọi là Người Dệt Cổng.
 
-### Dismissal
+### Giải Tán
 
-Specialized in returning conjured elements to their origin. Masters are known as Banishers.
+Chuyên về việc trả lại các yếu tố được triệu hồi về nguồn gốc của chúng. Các bậc thầy được gọi là Người Xua Đuổi.
 
-### Planar Exploration
+### Thám Hiểm Mặt Phẳng
 
-The study and access of other planes of existence. Practitioners are called Planeswalkers.
+Nghiên cứu và tiếp cận các mặt phẳng tồn tại khác. Các học viên được gọi là Người Bước Giữa Các Cõi.
 
-## Training Methodology
+## Phương Pháp Huấn Luyện
 
-Conjuration training follows a structured progression:
+Huấn luyện triệu hồi tuân theo một tiến trình có cấu trúc:
 
-1. **Theoretical Foundations**: Understanding cross-spatial relationships and correspondence
-2. **Local Manifestation**: Practicing with objects in visual range
-3. **Distance Expansion**: Gradually increasing the range of conjuration
-4. **Elemental Work**: Summoning the more predictable elemental forces
-5. **Dimensional Theory**: Study of other planes and dimensions
-6. **Entity Protocols**: Safe summoning and binding of sentient beings
-7. **Self-Translation**: Personal teleportation techniques
-8. **Combined Operations**: Managing multiple conjurations simultaneously
+1. **Nền Tảng Lý Thuyết**: Hiểu các mối quan hệ xuyên không gian và sự tương ứng
+2. **Biểu Hiện Tại Chỗ**: Thực hành với các vật thể trong phạm vi quan sát
+3. **Mở Rộng Khoảng Cách**: Tăng dần phạm vi triệu hồi
+4. **Làm Việc Với Nguyên Tố**: Triệu hồi các lực lượng nguyên tố dễ đoán hơn
+5. **Lý Thuyết Đa Chiều**: Nghiên cứu các mặt phẳng và chiều không gian khác
+6. **Giao Thức Thực Thể**: Triệu hồi và ràng buộc an toàn các sinh vật có tri giác
+7. **Tự Chuyển Đổi**: Kỹ thuật dịch chuyển cá nhân
+8. **Hoạt Động Kết Hợp**: Quản lý nhiều lần triệu hồi đồng thời
 
-Training emphasizes control and containment above all else, with rigorous safety protocols developed from centuries of sometimes catastrophic failures.
+Huấn luyện nhấn mạnh sự kiểm soát và ngăn chặn trên hết, với các giao thức an toàn nghiêm ngặt được phát triển từ nhiều thế kỷ thất bại đôi khi thảm khốc.
 
-## Conjuration in Practice
+## Triệu Hồi Trong Thực Tế
 
-The process of casting conjuration magic follows distinct phases:
+Quá trình thi triển ma thuật triệu hồi tuân theo các giai đoạn riêng biệt:
 
-1. **Target Identification**: Determining the specific element to be conjured
-2. **Pattern Matching**: Establishing the resonant link to the target
-3. **Mana Purification**: Achieving the necessary purity for stable connections
-4. **Boundary Thinning**: Creating the spatial or dimensional pathway
-5. **Draw or Push**: Pulling the target to the caster or moving the caster to the target
-6. **Manifestation Stabilization**: Anchoring the conjured element in its new location
-7. **Binding (if needed)**: Establishing control over conjured entities
-8. **Dismissal Preparation**: Setting conditions for ending the conjuration
+1. **Xác Định Mục Tiêu**: Xác định yếu tố cụ thể sẽ được triệu hồi
+2. **Đối Sánh Mẫu Hình**: Thiết lập liên kết cộng hưởng với mục tiêu
+3. **Thanh Lọc Mana**: Đạt được độ tinh khiết cần thiết cho các kết nối ổn định
+4. **Làm Mỏng Ranh Giới**: Tạo ra con đường không gian hoặc chiều không gian
+5. **Kéo Hoặc Đẩy**: Kéo mục tiêu đến người thi triển hoặc di chuyển người thi triển đến mục tiêu
+6. **Ổn Định Biểu Hiện**: Neo giữ yếu tố được triệu hồi ở vị trí mới của nó
+7. **Ràng Buộc (nếu cần)**: Thiết lập quyền kiểm soát đối với các thực thể được triệu hồi
+8. **Chuẩn Bị Giải Tán**: Đặt các điều kiện để kết thúc việc triệu hồi
 
-For emergency conjuration, these steps may be compressed into rapid casting, while complex summonings often involve elaborate ritual circles and extended preparation.
+Đối với triệu hồi khẩn cấp, các bước này có thể được nén thành thi triển nhanh chóng, trong khi các lần triệu hồi phức tạp thường liên quan đến các vòng tròn nghi lễ công phu và chuẩn bị kéo dài.
 
-## Practical Applications
+## Ứng Dụng Thực Tế
 
-Conjuration serves numerous practical functions in magical society:
+Triệu hồi phục vụ nhiều chức năng thực tế trong xã hội ma thuật:
 
-- **Transportation**: Personal and group teleportation networks, item delivery systems
-- **Resource Acquisition**: Summoning rare materials from distant locations
-- **Space Optimization**: Extradimensional storage for homes, businesses, and archives
-- **Emergency Services**: Rapid response through teleportation, summoning water for firefighting
-- **Construction**: Conjuring building materials directly at construction sites
-- **Military**: Strategic troop deployment, supply line maintenance, battlefield control
-- **Entertainment**: Conjuration performances featuring exotic entities or spectacular manifestations
+- **Vận Chuyển**: Mạng lưới dịch chuyển cá nhân và nhóm, hệ thống giao hàng vật phẩm
+- **Thu Thập Tài Nguyên**: Triệu hồi các vật liệu quý hiếm từ các địa điểm xa xôi
+- **Tối Ưu Hóa Không Gian**: Lưu trữ đa chiều cho nhà ở, doanh nghiệp và kho lưu trữ
+- **Dịch Vụ Khẩn Cấp**: Ứng phó nhanh chóng thông qua dịch chuyển, triệu hồi nước để chữa cháy
+- **Xây Dựng**: Triệu hồi vật liệu xây dựng trực tiếp tại các công trường
+- **Quân Sự**: Triển khai quân đội chiến lược, duy trì đường tiếp tế, kiểm soát chiến trường
+- **Giải Trí**: Các buổi biểu diễn triệu hồi có các thực thể kỳ lạ hoặc các biểu hiện ngoạn mục
 
-## Ethical Considerations
+## Cân Nhắc Đạo Đức
 
-Conjuration raises significant ethical questions:
+Triệu hồi đặt ra những câu hỏi đạo đức quan trọng:
 
-- **Entity Rights**: The moral implications of summoning and binding sentient beings
-- **Ecosystem Impact**: Consequences of removing elements from their native environments
-- **Dimensional Stability**: Potential harm from weakening planar boundaries
-- **Informed Consent**: Whether entities understand or agree to being summoned
-- **Environmental Exploitation**: Using conjuration to extract resources from vulnerable regions
-- **Secure Transport**: Privacy and security concerns with teleportation networks
+- **Quyền Của Thực Thể**: Hàm ý đạo đức của việc triệu hồi và ràng buộc các sinh vật có tri giác
+- **Tác Động Hệ Sinh Thái**: Hậu quả của việc loại bỏ các yếu tố khỏi môi trường bản địa của chúng
+- **Ổn Định Chiều Không Gian**: Tác hại tiềm tàng từ việc làm suy yếu các ranh giới mặt phẳng
+- **Đồng Ý Được Thông Báo**: Liệu các thực thể có hiểu hoặc đồng ý bị triệu hồi hay không
+- **Khai Thác Môi Trường**: Sử dụng triệu hồi để khai thác tài nguyên từ các khu vực dễ bị tổn thương
+- **Vận Chuyển An Toàn**: Các lo ngại về quyền riêng tư và bảo mật với mạng lưới dịch chuyển
 
-Most conjuration academies enforce strict ethical codes governing entity summoning and extradimensional access.
+Hầu hết các học viện triệu hồi đều thực thi các quy tắc đạo đức nghiêm ngặt chi phối việc triệu hồi thực thể và tiếp cận đa chiều.
 
-## Limitations and Weaknesses
+## Hạn Chế và Điểm Yếu
 
-Despite its power, conjuration has inherent limitations:
+Mặc dù có sức mạnh, triệu hồi có những hạn chế vốn có:
 
-- **Conservation Principles**: Matter and energy can be moved but not created from nothing
-- **Correspondence Requirements**: Conjurers must have some connection to or knowledge of their target
-- **Distance Factors**: Energy requirements increase exponentially with distance or dimensional separation
-- **Unwilling Resistance**: Sentient targets can resist summoning or teleportation
-- **Planar Compatibility**: Some elements cannot exist in environments too different from their origin
-- **Dimensional Rejection**: Repeated conjuration to the same location can create instability
+- **Nguyên Tắc Bảo Toàn**: Vật chất và năng lượng có thể được di chuyển nhưng không thể tạo ra từ hư vô
+- **Yêu Cầu Tương Ứng**: Các pháp sư triệu hồi phải có một số kết nối hoặc kiến thức về mục tiêu của họ
+- **Yếu Tố Khoảng Cách**: Yêu cầu năng lượng tăng theo cấp số nhân với khoảng cách hoặc sự phân tách chiều không gian
+- **Kháng Cự Miễn Cưỡng**: Các mục tiêu có tri giác có thể chống lại việc triệu hồi hoặc dịch chuyển
+- **Tính Tương Thích Mặt Phẳng**: Một số yếu tố không thể tồn tại trong môi trường quá khác biệt so với nguồn gốc của chúng
+- **Từ Chối Chiều Không Gian**: Triệu hồi lặp đi lặp lại đến cùng một địa điểm có thể tạo ra sự bất ổn
 
-Common countermeasures against conjuration include:
+Các biện pháp đối phó phổ biến chống lại triệu hồi bao gồm:
 
-- **Anchor Wards**: Magical protections that prevent teleportation or summoning
-- **Pattern Obscuring**: Techniques to hide one's resonant signature from would-be summoners
-- **Dimensional Shielding**: Barriers that block access from other planes
-- **Binding Severing**: Methods to break control over summoned entities
-- **Return Forcing**: Compelling conjured elements to return to their origin prematurely
+- **Bùa Chú Neo Giữ**: Các biện pháp bảo vệ ma thuật ngăn chặn dịch chuyển hoặc triệu hồi
+- **Làm Mờ Mẫu Hình**: Các kỹ thuật để che giấu chữ ký cộng hưởng của một người khỏi những kẻ triệu hồi đầy tham vọng
+- **Bảo Vệ Chiều Không Gian**: Các rào cản chặn quyền truy cập từ các mặt phẳng khác
+- **Cắt Đứt Ràng Buộc**: Các phương pháp để phá vỡ quyền kiểm soát đối với các thực thể được triệu hồi
+- **Ép Buộc Trả Lại**: Buộc các yếu tố được triệu hồi phải trở về nguồn gốc của chúng sớm
 
-## Musical Analogy
+## Phép Loại Suy Âm Nhạc
 
-In the musical framework of magic, conjuration represents string instruments—creating connections that vibrate across distances, pulling disparate elements into harmony. The conjurer is like a harpist, plucking the strings that connect different points in the multiverse.
+Trong khuôn khổ âm nhạc của ma thuật, triệu hồi đại diện cho các nhạc cụ dây—tạo ra các kết nối rung động trên khoảng cách, kéo các yếu tố khác nhau vào sự hài hòa. Pháp sư triệu hồi giống như một nghệ sĩ hạc cầm, gảy những sợi dây kết nối các điểm khác nhau trong đa vũ trụ.
 
-Conjuration spells are described in terms of "resonance" and "harmonics," with each successful manifestation requiring perfect tuning between the caster and target. Master conjurers can maintain complex "chords" of multiple connections simultaneously, drawing elements from various sources into carefully orchestrated combinations.
+Các phép triệu hồi được mô tả bằng các thuật ngữ "cộng hưởng" và "sóng hài", với mỗi biểu hiện thành công đòi hỏi sự điều chỉnh hoàn hảo giữa người thi triển và mục tiêu. Các pháp sư triệu hồi bậc thầy có thể duy trì các "hợp âm" phức tạp của nhiều kết nối đồng thời, rút các yếu tố từ nhiều nguồn khác nhau vào các tổ hợp được phối khí cẩn thận.
 
-## Notable Practitioners
+## Học Viên Nổi Tiếng
 
-- **Thaddeus Voidcaller**: Pioneer of safe entity summoning protocols and creator of the Sevenfold Binding Circle
-- **Lydia Gateheart**: Established the first permanent teleportation network spanning the continent
-- **Corvus Dimensionum**: Legendary explorer of pocket dimensions and creator of the Pocket Academy
-- **Elara Quicksilver**: Master of combat teleportation and developer of the Spatial Combat System
-- **Malachi Netherbridge**: Controversial researcher who established first contact with the Far Realms
+- **Thaddeus Voidcaller**: Người tiên phong trong các giao thức triệu hồi thực thể an toàn và là người tạo ra Vòng Tròn Ràng Buộc Bảy Lớp
+- **Lydia Gateheart**: Thiết lập mạng lưới dịch chuyển vĩnh viễn đầu tiên trải dài lục địa
+- **Corvus Dimensionum**: Nhà thám hiểm huyền thoại của các chiều không gian bỏ túi và là người tạo ra Học Viện Bỏ Túi
+- **Elara Quicksilver**: Bậc thầy về dịch chuyển chiến đấu và nhà phát triển Hệ Thống Chiến Đấu Không Gian
+- **Malachi Netherbridge**: Nhà nghiên cứu gây tranh cãi, người đã thiết lập liên lạc đầu tiên với Vùng Đất Xa Xôi
 
-## Safety Protocols
+## Giao Thức An Toàn
 
-Due to the inherent dangers of conjuration, standardized safety measures include:
+Do những nguy hiểm vốn có của việc triệu hồi, các biện pháp an toàn tiêu chuẩn bao gồm:
 
-- **Containment Circles**: Mandatory for all entity summoning
-- **Pattern Verification**: Double-checking correspondences before casting
-- **Emergency Dismissal Words**: Universal phrases taught to instantly end conjurations
-- **Planar Anchoring**: Methods to prevent unwanted dimensional drift
-- **Entity Contracts**: Formal agreements with regularly summoned beings
-- **Observation Partners**: Required second casters for monitoring complex conjurations
+- **Vòng Tròn Ngăn Chặn**: Bắt buộc đối với tất cả các lần triệu hồi thực thể
+- **Xác Minh Mẫu Hình**: Kiểm tra kỹ lưỡng các thư từ trước khi thi triển
+- **Từ Giải Tán Khẩn Cấp**: Các cụm từ phổ quát được dạy để kết thúc ngay lập tức các lần triệu hồi
+- **Neo Giữ Mặt Phẳng**: Các phương pháp để ngăn chặn sự trôi dạt chiều không gian không mong muốn
+- **Hợp Đồng Thực Thể**: Các thỏa thuận chính thức với các sinh vật được triệu hồi thường xuyên
+- **Đối Tác Quan Sát**: Yêu cầu pháp sư thứ hai để theo dõi các lần triệu hồi phức tạp
 
-The Conjurer's Oath, taken by all certified practitioners, includes the promise to "never call what cannot be dismissed, never bind what cannot be controlled, and never open doors that cannot be closed." 
+Lời Thề Triệu Hồi, được tất cả các học viên được chứng nhận thực hiện, bao gồm lời hứa "không bao giờ gọi những gì không thể giải tán, không bao giờ ràng buộc những gì không thể kiểm soát và không bao giờ mở những cánh cửa không thể đóng."
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

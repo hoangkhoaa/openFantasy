@@ -1,121 +1,125 @@
-# Animals of OpenFantasy
+# Động Vật của OpenFantasy
 
-> *"From the smallest songbird to the mightiest leviathan, the animal kingdom provides the vibrant backdrop against which all stories unfold."*
+> *"Từ loài chim sẻ nhỏ bé nhất đến loài thủy quái hùng mạnh nhất, vương quốc động vật cung cấp bối cảnh sống động để tất cả các câu chuyện diễn ra."*
 
-## Overview
+## Tổng Quan
 
-Animals in OpenFantasy represent the diverse non-sentient fauna that inhabit the world's ecosystems. While they lack the advanced reasoning and civilization-building capabilities of sentient species, animals possess varying degrees of intelligence, instinct, and in some cases, innate magical properties.
+Động vật trong OpenFantasy đại diện cho hệ động vật không tri giác đa dạng sinh sống trong các hệ sinh thái của thế giới. Mặc dù chúng thiếu khả năng lý luận và xây dựng nền văn minh tiên tiến của các loài tri giác, nhưng động vật sở hữu các mức độ khác nhau về trí thông minh, bản năng và trong một số trường hợp, các đặc tính ma thuật bẩm sinh.
 
-Unlike the purely magical beings or constructed creatures, animals evolved naturally within the world's ecosystems, though some have been influenced by magical environments or selective breeding by sentient species.
+Không giống như những sinh vật hoàn toàn ma thuật hoặc những sinh vật được tạo ra, động vật tiến hóa một cách tự nhiên trong các hệ sinh thái của thế giới, mặc dù một số đã bị ảnh hưởng bởi môi trường ma thuật hoặc sự chọn lọc giống nòi bởi các loài tri giác.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-Animals typically have a higher proportion of Exanthis (physical form) compared to Soul and Mana Capacity, with some notable exceptions:
+Động vật thường có tỷ lệ Exanthis (hình thái vật chất) cao hơn so với Dung Lượng Linh Hồn và Mana, với một số ngoại lệ đáng chú ý:
 
-| Animal Category | Typical Elemental Ratio | Notes |
-|-----------------|-------------------------|-------|
-| Common Mundane | E: 75-90%, S: 8-20%, M: 2-5% | Most standard wildlife |
-| Companion Animals | E: 65-85%, S: 12-25%, M: 3-10% | Domesticated species with higher intelligence |
-| Apex Predators | E: 70-85%, S: 10-20%, M: 5-15% | Evolved for hunting efficiency |
-| Magical Animals | E: 50-75%, S: 5-15%, M: 15-45% | Species with innate magical properties |
+| Loại Động Vật    | Tỷ Lệ Nguyên Tố Tiêu Biểu | Ghi Chú                                                      |
+|-----------------|-----------------------------|--------------------------------------------------------------|
+| Phổ Biến Trần Tục | E: 75-90%, S: 8-20%, M: 2-5% | Hầu hết các loài động vật hoang dã tiêu chuẩn                          |
+| Động Vật Đồng Hành | E: 65-85%, S: 12-25%, M: 3-10% | Các loài được thuần hóa có trí thông minh cao hơn                   |
+| Động Vật Ăn Thịt Đầu Bảng | E: 70-85%, S: 10-20%, M: 5-15% | Tiến hóa để săn bắn hiệu quả                                     |
+| Động Vật Ma Thuật | E: 50-75%, S: 5-15%, M: 15-45% | Các loài có đặc tính ma thuật bẩm sinh                               |
 
-## Animal Classifications
+## Phân Loại Động Vật
 
-### Domesticated Animals
+### Động Vật Thuần Hóa
 
-Species that have been selectively bred by sentient races for specific purposes:
+Các loài đã được các chủng tộc tri giác chọn lọc để phục vụ các mục đích cụ thể:
 
-| Category | Examples | Primary Uses |
-|----------|----------|--------------|
-| **Working Animals** | Horses, oxen, pack mules | Transportation, agriculture, labor |
-| **Companion Animals** | Dogs, cats, small birds | Emotional bonding, protection, pest control |
-| **Livestock** | Cattle, sheep, poultry | Food production, materials (wool, leather) |
-| **Guardian Beasts** | Wardogs, sentinel falcons | Security, perimeter control |
+| Loại                | Ví Dụ                       | Sử Dụng Chính                                                 |
+|---------------------|-----------------------------|-------------------------------------------------------------|
+| **Động Vật Lao Động** | Ngựa, bò, la thồ hàng          | Vận chuyển, nông nghiệp, lao động                               |
+| **Động Vật Đồng Hành** | Chó, mèo, chim nhỏ             | Kết nối cảm xúc, bảo vệ, kiểm soát sâu bệnh                         |
+| **Gia Súc**          | Gia súc, cừu, gia cầm        | Sản xuất thực phẩm, vật liệu (len, da)                           |
+| **Quái Vật Bảo Vệ**  | Chó canh gác, chim ưng tuần tra | An ninh, kiểm soát vành đai                                     |
 
-→ See [Domesticated Animals](Domesticated.md) for detailed information.
+→ Xem [Động Vật Thuần Hóa](Domesticated.md) để biết thông tin chi tiết.
 
-### Wild Animals
+### Động Vật Hoang Dã
 
-Creatures that exist independently in natural ecosystems:
+Các sinh vật tồn tại độc lập trong các hệ sinh thái tự nhiên:
 
-| Category | Examples | Ecological Role |
-|----------|----------|----------------|
-| **Herbivores** | Deer, rabbits, grazing beasts | Primary consumers, seed dispersal |
-| **Predators** | Wolves, large cats, birds of prey | Population control, ecosystem balance |
-| **Scavengers** | Vultures, carrion beetles | Decomposition, disease prevention |
-| **Pollinators** | Bees, butterflies, hummingbirds | Plant reproduction, ecosystem sustainability |
+| Loại        | Ví Dụ                      | Vai Trò Sinh Thái                                             |
+|-------------|----------------------------|-------------------------------------------------------------|
+| **Động Vật Ăn Cỏ** | Hươu, thỏ, thú ăn cỏ     | Người tiêu dùng chính, phát tán hạt giống                        |
+| **Động Vật Ăn Thịt** | Sói, mèo lớn, chim săn mồi | Kiểm soát dân số, cân bằng hệ sinh thái                           |
+| **Động Vật Ăn Xác Thối** | Kền kền, bọ hung ăn xác | Phân hủy, phòng ngừa dịch bệnh                                  |
+| **Động Vật Thụ Phấn** | Ong, bướm, chim ruồi      | Sinh sản thực vật, tính bền vững của hệ sinh thái                 |
 
-→ See [Wild Animals](Wild.md) for detailed information.
+→ Xem [Động Vật Hoang Dã](Wild.md) để biết thông tin chi tiết.
 
-### Aquatic Creatures
+### Sinh Vật Dưới Nước
 
-Beings adapted to life in water environments:
+Sinh vật thích nghi với cuộc sống trong môi trường nước:
 
-| Category | Examples | Habitat |
-|----------|----------|---------|
-| **Marine Mammals** | Whales, dolphins, seals | Oceans, coastal waters |
-| **Fish Species** | Trout, sharks, deep-sea species | Rivers, lakes, oceans |
-| **Crustaceans & Mollusks** | Crabs, octopi, giant squid | Ocean floors, tidal zones |
-| **Amphibious** | Frogs, newts, transitional species | Wetlands, shorelines |
+| Loại                     | Ví Dụ                         | Môi Trường Sống                 |
+|--------------------------|-------------------------------|--------------------------------|
+| **Động Vật Có Vú Dưới Biển** | Cá voi, cá heo, hải cẩu       | Đại dương, vùng biển ven bờ      |
+| **Các Loài Cá**            | Cá hồi, cá mập, loài biển sâu | Sông, hồ, đại dương               |
+| **Động Vật Giáp Xác & Thân Mềm** | Cua, bạch tuộc, mực khổng lồ | Đáy đại dương, vùng triều         |
+| **Lưỡng Cư**               | Ếch, sa giông, loài chuyển tiếp  | Vùng đất ngập nước, bờ biển     |
 
-→ See [Aquatic Animals](Aquatic.md) for detailed information.
+→ Xem [Động Vật Dưới Nước](Aquatic.md) để biết thông tin chi tiết.
 
-### Magical Animals
+### Động Vật Ma Thuật
 
-Creatures with innate magical properties, evolved in areas with high mana concentration:
+Sinh vật có đặc tính ma thuật bẩm sinh, tiến hóa ở những khu vực có nồng độ mana cao:
 
-| Category | Examples | Magical Properties |
-|----------|----------|-------------------|
-| **Elemental Aligned** | Phoenixes, frost wolves | Manifestation of elemental energies |
-| **Mythical Beasts** | Griffins, unicorns, manticores | Complex magical anatomies |
-| **Mana Sensitives** | Arcane ravens, spell hounds | Detection and interaction with magical energies |
-| **Transmuted Species** | Crystal butterflies, glowfish | Permanently altered by magical environments |
+| Loại                | Ví Dụ                       | Đặc Tính Ma Thuật                            |
+|---------------------|-----------------------------|-------------------------------------------|
+| **Liên Kết Nguyên Tố** | Phượng hoàng, sói băng      | Biểu hiện của năng lượng nguyên tố          |
+| **Quái Vật Thần Thoại** | Gryphon, kỳ lân, manticore | Giải phẫu ma thuật phức tạp                  |
+| **Nhạy Cảm Mana**     | Quạ arcane, chó săn phép thuật | Phát hiện và tương tác với năng lượng ma thuật |
+| **Loài Biến Đổi**      | Bướm pha lê, cá phát sáng | Thay đổi vĩnh viễn bởi môi trường ma thuật |
 
-→ See [Magical Animals](Magical.md) for detailed information.
+→ Xem [Động Vật Ma Thuật](Magical.md) để biết thông tin chi tiết.
 
-## Ecological Significance
+## Tầm Quan Trọng Sinh Thái
 
-Animals play crucial roles in maintaining the ecological balance of OpenFantasy:
+Động vật đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái của OpenFantasy:
 
-### Natural Cycles
+### Chu Kỳ Tự Nhiên
 
-- **Food Webs**: Complex interdependent relationships between species
-- **Material Cycles**: Contribution to nutrient cycling through consumption and decomposition
-- **Environmental Shaping**: Landscape modification through grazing, burrowing, and other behaviors
-- **Magical Energy Distribution**: Some species serve as natural conduits or regulators of magical energy
+- **Lưới Thức Ăn**: Mối quan hệ phụ thuộc lẫn nhau phức tạp giữa các loài
+- **Chu Kỳ Vật Chất**: Đóng góp vào chu trình dinh dưỡng thông qua tiêu thụ và phân hủy
+- **Định Hình Môi Trường**: Thay đổi cảnh quan thông qua chăn thả, đào hang và các hành vi khác
+- **Phân Phối Năng Lượng Ma Thuật**: Một số loài đóng vai trò là ống dẫn hoặc điều hòa năng lượng ma thuật tự nhiên
 
-### Interactions with Sentient Species
+### Tương Tác với Các Loài Tri Giác
 
-- **Resource Provision**: Food, materials, labor, and transportation
-- **Companionship**: Emotional bonds between animals and sentient beings
-- **Magical Assistance**: Familiars, magical detection, spell components
-- **Cultural Significance**: Symbolism, spiritual importance, artistic inspiration
+- **Cung Cấp Tài Nguyên**: Thực phẩm, vật liệu, lao động và vận chuyển
+- **Đồng Hành**: Mối liên kết tình cảm giữa động vật và sinh vật tri giác
+- **Hỗ Trợ Ma Thuật**: Linh vật, phát hiện ma thuật, thành phần phép thuật
+- **Ý Nghĩa Văn Hóa**: Biểu tượng, tầm quan trọng tinh thần, cảm hứng nghệ thuật
 
-## Mana Interaction
+## Tương Tác Mana
 
-While most animals cannot consciously manipulate mana as sentient species do, their relationship with magical energy takes various forms:
+Mặc dù hầu hết động vật không thể thao túng mana một cách có ý thức như các loài tri giác, nhưng mối quan hệ của chúng với năng lượng ma thuật có nhiều hình thức khác nhau:
 
-| Interaction Type | Manifestation | Examples |
-|------------------|---------------|----------|
-| **Passive Absorption** | Accumulation of ambient magical energy | Animals in mana-rich environments gradually developing magical traits |
-| **Instinctive Channeling** | Natural, non-conscious use of magical abilities | A phoenix's rebirth cycle, a unicorn's purification abilities |
-| **Environmental Adaptation** | Physical changes in response to magical surroundings | Creatures in wild magic zones developing protective adaptations |
-| **Familiar Bonds** | Enhanced magical capabilities through connection with mages | Wizard's familiar gaining intelligence and magical resistance |
+| Loại Tương Tác      | Biểu Hiện                               | Ví Dụ                                                                   |
+|----------------------|----------------------------------------|------------------------------------------------------------------------|
+| **Hấp Thụ Thụ Động**  | Tích lũy năng lượng ma thuật xung quanh | Động vật trong môi trường giàu mana dần phát triển các đặc điểm ma thuật |
+| **Truyền Tải Bản Năng** | Sử dụng khả năng ma thuật tự nhiên, không ý thức   | Chu kỳ tái sinh của phượng hoàng, khả năng thanh lọc của kỳ lân                        |
+| **Thích Nghi Môi Trường** | Thay đổi thể chất để đáp ứng với môi trường ma thuật | Sinh vật trong vùng ma thuật hoang dã phát triển các thích nghi bảo vệ               |
+| **Liên Kết Linh Vật**   | Nâng cao khả năng ma thuật thông qua kết nối với pháp sư | Linh vật của pháp sư có được trí thông minh và kháng phép                                |
 
-## Ecological Zones and Endemic Species
+## Các Vùng Sinh Thái và Các Loài Đặc Hữu
 
-OpenFantasy features diverse biomes, each with specialized animal adaptations:
+OpenFantasy có các quần xã sinh vật đa dạng, mỗi quần xã có sự thích nghi của động vật chuyên biệt:
 
-| Biome | Notable Species | Special Adaptations |
-|-------|-----------------|---------------------|
-| **Frostwilds** | Snow lions, glacier bears, frost eagles | Cold resistance, seasonal camouflage |
-| **Verdant Plains** | Thunderhooves (bison), prairie wolves, hawk swarms | Herd behaviors, endurance migration |
-| **Ancient Forests** | Shadowbears, treestriders, whispermoths | Magical camouflage, connection to forest spirits |
-| **Desert Expanse** | Sand wyrms, heat scorpions, mirage gazelles | Water conservation, heat regulation |
-| **Enchanted Marshes** | Glowtoads, spell leeches, mist cranes | Mana filtration, magical detoxification |
-| **Crystal Mountains** | Stone eagles, echo goats, geomite swarms | Mineral metabolism, navigation in magnetic fields |
-| **Abyssal Depths** | Pressure sharks, luminfin anglers, void eels | Extreme pressure adaptation, bioluminescence |
+| Quần Xã          | Loài Nổi Bật                             | Thích Nghi Đặc Biệt                           |
+|-----------------|------------------------------------------|----------------------------------------------|
+| **Vùng Đất Lạnh** | Sư tử tuyết, gấu sông băng, đại bàng băng giá | Khả năng chống lạnh, ngụy trang theo mùa         |
+| **Đồng Bằng Xanh Tươi** | Thunderhooves (bò rừng), sói đồng cỏ, đàn diều hâu | Hành vi bầy đàn, di cư bền bỉ                 |
+| **Rừng Cổ Đại**   | Gấu bóng đêm, người đi bộ trên cây, bướm đêm thì thầm | Ngụy trang ma thuật, kết nối với linh hồn rừng |
+| **Sa Mạc Bao La**  | Wyrm cát, bọ cạp nhiệt, linh dương ảo ảnh    | Bảo tồn nước, điều hòa nhiệt                 |
+| **Đầm Lầy Mê Hoặc** | Cóc phát sáng, đỉa phép thuật, sếu sương mù | Lọc mana, giải độc ma thuật                    |
+| **Núi Pha Lê**    | Đại bàng đá, dê vọng âm, bầy swarm geomite | Trao đổi chất khoáng, điều hướng trong từ trường |
+| **Vực Thẳm Vô Tận** | Cá mập áp suất, cần câu luminfin, lươn hư vô | Thích nghi với áp suất cực cao, phát quang sinh học |
 
 ---
 
-> *"To understand a land, one must first understand its creatures—for they are the living expression of the environment itself."* — Naturalist Elara Greenmantle 
+> *"Để hiểu một vùng đất, trước tiên người ta phải hiểu các sinh vật của nó—vì chúng là biểu hiện sống động của chính môi trường."* — Nhà tự nhiên học Elara Greenmantle
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

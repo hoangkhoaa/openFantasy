@@ -1,106 +1,110 @@
-# **Mana**: The Ethereal Essence of Magic
+# **Mana**: Bản Chất Siêu Nhiên của Phép Thuật
 
-> *"Mana flows like liquid starlight through the fabric of reality, waiting for a soul's touch to ignite its potential."*
+> *"Mana chảy như ánh sao lỏng qua kết cấu của thực tại, chờ đợi một linh hồn chạm vào để khơi dậy tiềm năng của nó."*
 
-## Quick Navigation
+## Điều Hướng Nhanh
 
-- [Nature and Properties](#nature-and-properties)
-- [Mana and Soul](#mana-and-soul)
-- [Geographic Distribution](#geographic-distribution)
-- [Applications](#applications)
-- [Interaction with Exanthis](#interaction-with-exanthis)
+- [Bản Chất và Thuộc Tính](#nature-and-properties)
+- [Mana và Linh Hồn](#mana-and-soul)
+- [Phân Bố Địa Lý](#geographic-distribution)
+- [Ứng Dụng](#applications)
+- [Tương Tác với Exanthis](#interaction-with-exanthis)
 
-## Nature and Properties
+## Bản Chất và Thuộc Tính
 
-**Mana** is the breath of creation itself, atomic particles smaller than ordinary atoms that dance between the realms of possibility and reality. These particles possess several unique characteristics:
+**Mana** là hơi thở của chính sự sáng tạo, các hạt nguyên tử nhỏ hơn các nguyên tử thông thường, nhảy múa giữa các cõi khả năng và thực tại. Các hạt này sở hữu một số đặc điểm độc đáo:
 
-| Property | Description |
+| Thuộc Tính | Mô Tả |
 |----------|-------------|
-| **Form** | Ethereal, particle-like energy |
-| **State** | Semi-gaseous, flowing like currents |
-| **Visibility** | Invisible to normal sight, visible to magical perception |
-| **Regeneration** | Self-replenishing within living beings at varied rates |
-| **Composition** | Pure magical energy that can be refined into elemental forms |
+| **Dạng** | Năng lượng siêu nhiên, giống hạt |
+| **Trạng Thái** | Bán khí, chảy như dòng chảy |
+| **Khả Năng Hiển Thị** | Vô hình đối với thị giác thông thường, hữu hình đối với nhận thức phép thuật |
+| **Tái Tạo** | Tự bổ sung trong sinh vật sống với tốc độ khác nhau |
+| **Thành Phần** | Năng lượng phép thuật thuần túy có thể được tinh chế thành các dạng nguyên tố |
 
-## Mana and Soul
+## Mana và Linh Hồn
 
-**Mana** resonates with the will of the [**Soul**](/codex/Basic/Soul.md), allowing beings to shape reality through conscious intent:
+**Mana** cộng hưởng với ý chí của [**Linh Hồn**](/codex/Basic/Soul.md), cho phép các sinh vật định hình thực tại thông qua ý định có ý thức:
 
-- When a living being possesses a **Soul**, **Mana** particles attach to its **Soul framework**
-- This creates a bridge between consciousness and creation
-- The being can then wield **Mana**, shaping it through sheer will
-- **Mana** regenerates naturally within a being's body at a rate determined by the **Soul's** innate capacity
-- Beings can project their own **Mana** into the environment to harmonize with external energy
+- Khi một sinh vật sống sở hữu một **Linh Hồn**, các hạt **Mana** gắn vào **khung Linh Hồn** của nó
+- Điều này tạo ra một cầu nối giữa ý thức và sự sáng tạo
+- Sinh vật sau đó có thể sử dụng **Mana**, định hình nó thông qua ý chí thuần túy
+- **Mana** tự nhiên tái tạo trong cơ thể của một sinh vật với tốc độ được xác định bởi khả năng bẩm sinh của **Linh Hồn**
+- Các sinh vật có thể chiếu **Mana** của riêng chúng vào môi trường để hài hòa với năng lượng bên ngoài
 
-### Magical Potency
+### Tiềm Năng Phép Thuật
 
-The effectiveness of magical workings depends on several factors:
+Hiệu quả của các công việc phép thuật phụ thuộc vào một số yếu tố:
 
-- The density of **Mana** in the surroundings
-- The purity of **Mana** being channeled
-- The clarity of intent from the **Soul** directing it
-- The absence of **Exanthis** interference
+- Mật độ **Mana** trong môi trường xung quanh
+- Độ tinh khiết của **Mana** đang được dẫn truyền
+- Sự rõ ràng của ý định từ **Linh Hồn** chỉ đạo nó
+- Sự vắng mặt của sự can thiệp của **Exanthis**
 
-## Geographic Distribution
+## Phân Bố Địa Lý
 
-**Mana** is not evenly distributed throughout the world:
+**Mana** không được phân bố đều khắp thế giới:
 
-| Region | Mana Concentration | Notable Features |
+| Khu Vực | Nồng Độ Mana | Đặc Điểm Nổi Bật |
 |--------|-------------------|------------------|
-| **Eastern Veldrassil** | Very High | Centers of magical study, intense magical phenomena |
-| **Central Plains** | Moderate | Balanced magical environments, stable casting conditions |
-| **Ley Lines** | Extremely High | Rivers of concentrated magical energy crossing the world |
-| **Nexus Points** | Overwhelming | Intersections of multiple ley lines, often unstable |
-| **Western Veldrassil** | Low to Very Low | Due to high **Exanthis** concentration |
+| **Đông Veldrassil** | Rất Cao | Các trung tâm nghiên cứu phép thuật, các hiện tượng phép thuật mãnh liệt |
+| **Đồng Bằng Trung Tâm** | Vừa Phải | Môi trường phép thuật cân bằng, điều kiện thi triển ổn định |
+| **Ley Lines** | Cực Kỳ Cao | Sông năng lượng phép thuật tập trung băng qua thế giới |
+| **Điểm Nexus** | Quá Sức | Giao điểm của nhiều ley line, thường không ổn định |
+| **Tây Veldrassil** | Thấp đến Rất Thấp | Do nồng độ **Exanthis** cao |
 
-### Movement Patterns
+### Mô Hình Di Chuyển
 
-**Mana** flows through the world in currents similar to atmospheric winds:
+**Mana** chảy qua thế giới trong các dòng chảy tương tự như gió khí quyển:
 
-- Creates regions of varying magical potency
-- Shifts seasonally according to cosmic cycles
-- Can be temporarily depleted by massive magical workings
-- Naturally replenishes over time from cosmic sources
+- Tạo ra các khu vực có tiềm năng phép thuật khác nhau
+- Thay đổi theo mùa theo chu kỳ vũ trụ
+- Có thể bị cạn kiệt tạm thời bởi các công việc phép thuật lớn
+- Tự nhiên bổ sung theo thời gian từ các nguồn vũ trụ
 
-## Applications
+## Ứng Dụng
 
-The manipulation of **Mana** forms the basis for all magical practices:
+Việc thao túng **Mana** tạo thành cơ sở cho tất cả các hoạt động phép thuật:
 
-### Magical Functions
+### Chức Năng Phép Thuật
 
-- **Spellcasting**: Directed manipulation of reality through structured patterns
-- **Enchantment**: Infusing objects with persistent magical properties
-- **Divination**: Perceiving information beyond normal senses
-- **Transmutation**: Altering the properties of physical matter
-- **Conjuration**: Creating temporary manifestations of matter or energy
+- **Triệu hồi phép thuật**: Thao tác có hướng vào thực tế thông qua các mẫu có cấu trúc
+- **Bùa chú**: Truyền các vật thể bằng các thuộc tính phép thuật bền bỉ
+- **Tiên tri**: Nhận biết thông tin vượt quá các giác quan bình thường
+- **Biến đổi**: Thay đổi các thuộc tính của vật chất vật lý
+- **Triệu hồi**: Tạo ra các biểu hiện tạm thời của vật chất hoặc năng lượng
 
-### Beyond Magic
+### Vượt Ra Ngoài Phép Thuật
 
-**Mana** influences more than just magical effects:
+**Mana** ảnh hưởng đến nhiều thứ hơn là chỉ các hiệu ứng phép thuật:
 
-- Enhances creativity and intuition in high-concentration regions
-- Accelerates natural processes like growth and healing
-- Creates natural phenomena like glowing flora or weather anomalies
-- Attracts extradimensional entities drawn to its energy
+- Tăng cường sự sáng tạo và trực giác ở các khu vực có nồng độ cao
+- Đẩy nhanh các quá trình tự nhiên như tăng trưởng và chữa lành
+- Tạo ra các hiện tượng tự nhiên như hệ thực vật phát sáng hoặc các dị thường thời tiết
+- Thu hút các thực thể đa chiều bị thu hút bởi năng lượng của nó
 
-## Interaction with Exanthis
+## Tương Tác với Exanthis
 
-**Mana** is repelled by the magnetic field of [**Exanthis**](/codex/Basic/Exanthis.md):
+**Mana** bị đẩy lùi bởi từ trường của [**Exanthis**](/codex/Basic/Exanthis.md):
 
-- Creates zones where magic is weakened or nullified
-- Forms natural boundaries between high and low magical regions
-- Produces unique phenomena at the interface between high **Mana** and high **Exanthis** areas
-- Can be temporarily forced through **Exanthis** barriers with sufficient power
+- Tạo ra các khu vực nơi phép thuật bị suy yếu hoặc vô hiệu
+- Hình thành các ranh giới tự nhiên giữa các khu vực phép thuật cao và thấp
+- Tạo ra các hiện tượng độc đáo tại giao diện giữa **Mana** cao và các khu vực **Exanthis** cao
+- Có thể tạm thời bị ép qua các rào cản **Exanthis** với đủ năng lượng
 
-### Balance of Forces
+### Cân Bằng Lực Lượng
 
-The opposition between **Mana** and **Exanthis** creates a natural system of checks and balances:
+Sự đối lập giữa **Mana** và **Exanthis** tạo ra một hệ thống kiểm tra và cân bằng tự nhiên:
 
-- Prevents any single power from dominating the world
-- Creates diverse environmental niches for different species
-- Establishes natural boundaries between civilizations
-- Forms the foundation for the world's magical ecology
+- Ngăn chặn bất kỳ sức mạnh đơn lẻ nào thống trị thế giới
+- Tạo ra các hốc môi trường đa dạng cho các loài khác nhau
+- Thiết lập các ranh giới tự nhiên giữa các nền văn minh
+- Hình thành nền tảng cho sinh thái phép thuật của thế giới
 
 ---
 
-> Understanding **Mana** provides insight into the magical essence that flows through all things in the world of **OpenFantasy**, like appreciating the music that fills a concert hall. It is the medium through which imagination becomes reality, the canvas upon which the **Soul** paints its intentions. 
+> Hiểu biết về **Mana** cung cấp cái nhìn sâu sắc về bản chất phép thuật chảy qua vạn vật trong thế giới **OpenFantasy**, giống như đánh giá cao âm nhạc lấp đầy một phòng hòa nhạc. Nó là phương tiện mà qua đó trí tưởng tượng trở thành hiện thực, là tấm vải mà trên đó **Linh Hồn** vẽ nên ý định của mình.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

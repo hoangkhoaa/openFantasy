@@ -2,22 +2,22 @@
 
 > *"[QUOTE_ABOUT_SPECIES]"*
 
-## Quick Navigation
+## Điều hướng nhanh
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Cultural Aspects](#cultural-aspects)
-- [Species Relationships](#species-relationships)
+- [Thành phần nguyên tố](#elemental-composition)
+- [Đặc điểm thể chất](#physical-characteristics)
+- [Khả năng phép thuật](#magical-affinity)
+- [Môi trường sống và Phân bố](#habitat-and-distribution)
+- [Khía cạnh văn hóa](#cultural-aspects)
+- [Quan hệ loài](#species-relationships)
 
-## Overview
+## Tổng quan
 
 [OVERVIEW_PARAGRAPH]
 
-## Elemental Composition
+## Thành phần nguyên tố
 
-**[SPECIES_NAME]** possess a distinctive elemental composition:
+**[SPECIES_NAME]** sở hữu một thành phần nguyên tố đặc biệt:
 
 | Exanthis | Soul | Mana Capacity | Representative Type |
 |----------|------|---------------|---------------------|
@@ -26,13 +26,13 @@
 | [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** with [SUBTYPE2_TRAITS] |
 | [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** with [SUBTYPE3_TRAITS] |
 
-### Individual Variations
+### Biến thể cá nhân
 
 [VARIATION_PARAGRAPH]
 
-## Physical Characteristics
+## Đặc điểm thể chất
 
-**[SPECIES_NAME]** exhibit distinctive physical traits:
+**[SPECIES_NAME]** thể hiện những đặc điểm thể chất riêng biệt:
 
 | Characteristic | Description |
 |----------------|-------------|
@@ -42,16 +42,16 @@
 | **Physical Maturity** | [MATURITY_AGE] |
 | **Notable Features** | [DISTINCTIVE_FEATURES] |
 
-### Appearance
+### Ngoại hình
 
 - [APPEARANCE_TRAIT1]
 - [APPEARANCE_TRAIT2]
 - [APPEARANCE_TRAIT3]
 - [APPEARANCE_TRAIT4]
 
-## Magical Affinity
+## Khả năng phép thuật
 
-**[SPECIES_NAME]** demonstrate [MAGICAL_PROFICIENCY_LEVEL] proficiency in manipulating **Mana**:
+**[SPECIES_NAME]** thể hiện trình độ [MAGICAL_PROFICIENCY_LEVEL] trong việc điều khiển **Mana**:
 
 | Aspect | Capability |
 |--------|------------|
@@ -60,17 +60,17 @@
 | **Casting Speed** | [CASTING_SPEED] |
 | **Natural Affinity** | [NATURAL_MAGIC_TYPE] |
 
-### Magical Specializations
+### Chuyên môn phép thuật
 
-While **[SPECIES_NAME]** can practice various forms of magic, they often excel in:
+Mặc dù **[SPECIES_NAME]** có thể thực hành nhiều hình thức phép thuật, họ thường vượt trội trong:
 
 - **[SPECIALIZATION1]**: [SPECIALIZATION1_DESCRIPTION]
 - **[SPECIALIZATION2]**: [SPECIALIZATION2_DESCRIPTION]
 - **[SPECIALIZATION3]**: [SPECIALIZATION3_DESCRIPTION]
 
-## Habitat and Distribution
+## Môi trường sống và Phân bố
 
-**[SPECIES_NAME]** typically inhabit [HABITAT_DESCRIPTION]:
+**[SPECIES_NAME]** thường sinh sống ở [HABITAT_DESCRIPTION]:
 
 | Region | Settlement Type | Notable Features |
 |--------|----------------|------------------|
@@ -78,15 +78,15 @@ While **[SPECIES_NAME]** can practice various forms of magic, they often excel i
 | **[REGION2]** | [SETTLEMENT_TYPE2] | [REGION2_FEATURES] |
 | **[REGION3]** | [SETTLEMENT_TYPE3] | [REGION3_FEATURES] |
 
-### Climate Adaptation
+### Thích nghi khí hậu
 
 [CLIMATE_ADAPTATION_DESCRIPTION]
 
-## Cultural Aspects
+## Khía cạnh văn hóa
 
-The culture of **[SPECIES_NAME]** is characterized by [CULTURE_OVERVIEW]:
+Văn hóa của **[SPECIES_NAME]** được đặc trưng bởi [CULTURE_OVERVIEW]:
 
-### Social Structure
+### Cấu trúc xã hội
 
 [SOCIAL_STRUCTURE_DESCRIPTION]
 
@@ -97,27 +97,27 @@ The culture of **[SPECIES_NAME]** is characterized by [CULTURE_OVERVIEW]:
 | **Leadership** | [LEADERSHIP_MODEL] |
 | **Social Mobility** | [SOCIAL_MOBILITY] |
 
-### Core Values
+### Giá trị cốt lõi
 
-Most **[SPECIES_NAME]** cultures share certain common values:
+Hầu hết các nền văn hóa **[SPECIES_NAME]** chia sẻ một số giá trị chung:
 
 - **[VALUE1]**: [VALUE1_DESCRIPTION]
 - **[VALUE2]**: [VALUE2_DESCRIPTION]
 - **[VALUE3]**: [VALUE3_DESCRIPTION]
 - **[VALUE4]**: [VALUE4_DESCRIPTION]
 
-### Common Occupations
+### Nghề nghiệp phổ biến
 
-Popular professions among **[SPECIES_NAME]** include:
+Các nghề nghiệp phổ biến trong số **[SPECIES_NAME]** bao gồm:
 
 - **[OCCUPATION1]**: [OCCUPATION1_DESCRIPTION]
 - **[OCCUPATION2]**: [OCCUPATION2_DESCRIPTION]
 - **[OCCUPATION3]**: [OCCUPATION3_DESCRIPTION]
 - **[OCCUPATION4]**: [OCCUPATION4_DESCRIPTION]
 
-## Species Relationships
+## Quan hệ loài
 
-**[SPECIES_NAME]** interact with other species in distinctive ways:
+**[SPECIES_NAME]** tương tác với các loài khác theo những cách riêng biệt:
 
 | Species | Relationship | Notable Interactions |
 |---------|--------------|----------------------|
@@ -126,26 +126,26 @@ Popular professions among **[SPECIES_NAME]** include:
 | **[RELATION_SPECIES3]** | [RELATIONSHIP_TYPE3] | [INTERACTION_DETAILS3] |
 | **[RELATION_SPECIES4]** | [RELATIONSHIP_TYPE4] | [INTERACTION_DETAILS4] |
 
-### Diplomatic Approach
+### Phương pháp ngoại giao
 
-[SPECIES_NAME] diplomatic approaches typically emphasize:
+Các phương pháp ngoại giao của [SPECIES_NAME] thường nhấn mạnh:
 
 - [DIPLOMATIC_TRAIT1]
 - [DIPLOMATIC_TRAIT2]
 - [DIPLOMATIC_TRAIT3]
 
-## Notable Traits
+## Đặc điểm nổi bật
 
-**[SPECIES_NAME]** are characterized by several distinctive traits:
+**[SPECIES_NAME]** được đặc trưng bởi một số đặc điểm riêng biệt:
 
-### Strengths
+### Điểm mạnh
 
 - **[STRENGTH1]**: [STRENGTH1_DESCRIPTION]
 - **[STRENGTH2]**: [STRENGTH2_DESCRIPTION]
 - **[STRENGTH3]**: [STRENGTH3_DESCRIPTION]
 - **[STRENGTH4]**: [STRENGTH4_DESCRIPTION]
 
-### Challenges
+### Thách thức
 
 - **[CHALLENGE1]**: [CHALLENGE1_DESCRIPTION]
 - **[CHALLENGE2]**: [CHALLENGE2_DESCRIPTION]
@@ -153,4 +153,8 @@ Popular professions among **[SPECIES_NAME]** include:
 
 ---
 
-> Understanding the **[SPECIES_NAME]** provides insight into [SPECIES_SIGNIFICANCE] in the world of **OpenFantasy**. 
+> Hiểu về **[SPECIES_NAME]** cung cấp cái nhìn sâu sắc về [SPECIES_SIGNIFICANCE] trong thế giới **OpenFantasy**.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

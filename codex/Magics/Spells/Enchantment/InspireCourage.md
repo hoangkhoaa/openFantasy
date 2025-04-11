@@ -1,123 +1,127 @@
 # Inspire Courage
 
-> *"When fear grips the heart, a single melody can rekindle the flame of bravery."*  
-> — Jalavar Swiftstrings, Battle-Bard of the Western Front
+> *"Khi nỗi sợ bóp nghẹt trái tim, một giai điệu duy nhất có thể thắp lại ngọn lửa dũng cảm."*
+> — Jalavar Swiftstrings, Battle-Bard của Mặt trận phía Tây
 
-## Quick Reference
+## Tham khảo nhanh
 
-- **Casting Time:** 6 seconds (performance action)
-- **Duration:** 30 seconds to 2 minutes
-- **Range:** 9 meters radius (centered on bard)
-- **Components:** Verbal, Somatic, Instrumental (optional but enhances effect)
-- **School:** Enchantment (Courage-Weaving)
-- **Classification:** Support/Enhancement
-- **Difficulty:** Intermediate
-- **Purity Required:** Basic (20-30%)
-- **Minimum Mana Capacity:** 20% (Higher capacity extends duration and radius)
+- **Thời gian thi triển:** 6 giây (hành động biểu diễn)
+- **Thời lượng:** 30 giây đến 2 phút
+- **Phạm vi:** Bán kính 9 mét (tập trung vào bard)
+- **Thành phần:** Verbal, Somatic, Instrumental (tùy chọn nhưng tăng cường hiệu ứng)
+- **Trường phái:** Enchantment (Courage-Weaving)
+- **Phân loại:** Hỗ trợ/Nâng cao
+- **Độ khó:** Trung bình
+- **Độ tinh khiết yêu cầu:** Cơ bản (20-30%)
+- **Dung lượng Mana tối thiểu:** 20% (Dung lượng cao hơn kéo dài thời gian và bán kính)
 
-## Technical Details
+## Chi tiết kỹ thuật
 
-Inspire Courage creates a mana-harmonic field that resonates with allies' courage centers in both mind and spirit. The spell weaves a pattern of enchantment energy that directly counters fear responses while enhancing confidence and resolute action.
+Inspire Courage tạo ra một trường mana-harmonic cộng hưởng với trung tâm dũng cảm của đồng minh trong cả tâm trí và tinh thần. Phép thuật dệt một mô hình năng lượng enchantment trực tiếp chống lại các phản ứng sợ hãi trong khi tăng cường sự tự tin và hành động kiên quyết.
 
-### Mana Composition
-- **Primary:** Base Mana (Inspiration) 50-65%
-- **Secondary:** Mentimana 25-35%
-- **Tertiary:** Vitomana 10-15%
+### Thành phần Mana
+- **Chính:** Base Mana (Inspiration) 50-65%
+- **Thứ hai:** Mentimana 25-35%
+- **Thứ ba:** Vitomana 10-15%
 
-### Purity Influence on Effect
-- **15-20% Purity:** Minimal effect, provides resistance to fear effects but little combat enhancement
-- **20-30% Purity:** Standard effect, grants both fear resistance and moderate combat enhancement
-- **30-45% Purity:** Enhanced effect, stronger combat bonuses and complete immunity to minor fear effects
-- **45%+ Purity:** Master effect, extends duration significantly and provides partial resistance even to magical dread effects
+### Ảnh hưởng của độ tinh khiết lên hiệu ứng
+- **15-20% Độ tinh khiết:** Hiệu ứng tối thiểu, cung cấp khả năng kháng các hiệu ứng sợ hãi nhưng ít tăng cường chiến đấu
+- **20-30% Độ tinh khiết:** Hiệu ứng tiêu chuẩn, cấp cả khả năng kháng sợ hãi và tăng cường chiến đấu vừa phải
+- **30-45% Độ tinh khiết:** Hiệu ứng nâng cao, tiền thưởng chiến đấu mạnh hơn và hoàn toàn miễn nhiễm với các hiệu ứng sợ hãi nhỏ
+- **45%+ Độ tinh khiết:** Hiệu ứng bậc thầy, kéo dài thời gian đáng kể và cung cấp khả năng kháng cự một phần ngay cả đối với các hiệu ứng dread phép thuật
 
-### Harmonic Pattern
-The spell follows a rising melodic pattern that creates resonance points within allies' mana networks. These resonance points generate counter-frequencies to fear-inducing stimuli while amplifying natural courage responses.
+### Mô hình hài hòa
+Phép thuật tuân theo một mô hình giai điệu tăng dần tạo ra các điểm cộng hưởng bên trong mạng lưới mana của đồng minh. Những điểm cộng hưởng này tạo ra các tần số đối nghịch với các kích thích gây sợ hãi đồng thời khuếch đại các phản ứng dũng cảm tự nhiên.
 
-## Practical Effects
+## Hiệu ứng thực tế
 
-When successfully cast, Inspire Courage produces the following effects on allies within range:
+Khi thi triển thành công, Inspire Courage tạo ra các hiệu ứng sau đây trên đồng minh trong phạm vi:
 
-1. **Courage Enhancement:** Recipients experience a noticeable reduction in fear response, both natural and magical. Their threshold for fear-inducing stimuli increases by 30-60% depending on casting purity.
+1. **Tăng cường dũng cảm:** Người nhận trải nghiệm sự giảm đáng kể phản ứng sợ hãi, cả tự nhiên và phép thuật. Ngưỡng của họ đối với các kích thích gây sợ hãi tăng từ 30-60% tùy thuộc vào độ tinh khiết khi thi triển.
 
-2. **Combat Prowess:** The harmonic resonance enhances physical performance by 10-25% through the reduction of hesitation and doubt. This manifests as improved reaction time, strike precision, and force application.
+2. **Năng lực chiến đấu:** Sự cộng hưởng hài hòa tăng cường hiệu suất thể chất từ 10-25% thông qua việc giảm do dự và nghi ngờ. Điều này thể hiện ở thời gian phản ứng được cải thiện, độ chính xác khi tấn công và ứng dụng lực.
 
-3. **Pain Resilience:** Recipients can withstand 15-30% more pain before performance degradation, allowing them to fight effectively despite injuries that would normally impair function.
+3. **Khả năng phục hồi đau đớn:** Người nhận có thể chịu đựng thêm 15-30% đau đớn trước khi hiệu suất suy giảm, cho phép họ chiến đấu hiệu quả bất chấp những vết thương mà bình thường sẽ làm suy giảm chức năng.
 
-4. **Morale Stability:** The group experiences a collective resilience against demoralization, creating a feedback loop where individual courage reinforces group courage.
+4. **Ổn định tinh thần:** Nhóm trải nghiệm khả năng phục hồi tập thể chống lại sự mất tinh thần, tạo ra một vòng phản hồi trong đó lòng dũng cảm cá nhân củng cố lòng dũng cảm của nhóm.
 
-## Casting Process
+## Quá trình thi triển
 
-The bard channels mana through emotional expression focused on themes of courage, victory, or heroism. The casting follows a specific progression:
+Bard dẫn mana thông qua biểu hiện cảm xúc tập trung vào các chủ đề về lòng dũng cảm, chiến thắng hoặc chủ nghĩa anh hùng. Việc thi triển tuân theo một tiến trình cụ thể:
 
-1. **Initiation:** The bard begins a performance (instrumental, vocal, or both) with an uplifting motif that serves as the spell's foundation.
+1. **Khởi đầu:** Bard bắt đầu một buổi biểu diễn (nhạc cụ, giọng hát hoặc cả hai) với một motif nâng cao tinh thần đóng vai trò là nền tảng của phép thuật.
 
-2. **Mana Infusion:** As the performance continues, the bard infuses the sound waves with mana, creating a resonant enchantment field.
+2. **Truyền Mana:** Khi buổi biểu diễn tiếp tục, bard truyền sóng âm với mana, tạo ra một trường enchantment cộng hưởng.
 
-3. **Harmonic Expansion:** The mana-infused performance expands outward, seeking compatible mana signatures of allies.
+3. **Mở rộng hài hòa:** Buổi biểu diễn được truyền mana mở rộng ra ngoài, tìm kiếm các chữ ký mana tương thích của đồng minh.
 
-4. **Connection Establishment:** When the spell connects with an ally, a momentary flash of golden light may appear at the point of connection (visible only to those with magical sight).
+4. **Thiết lập kết nối:** Khi phép thuật kết nối với một đồng minh, một tia sáng vàng thoáng qua có thể xuất hiện tại điểm kết nối (chỉ những người có thị lực phép thuật mới nhìn thấy được).
 
-5. **Maintenance:** The bard must maintain at least a subtle performance to sustain the effect for its duration.
+5. **Duy trì:** Bard phải duy trì ít nhất một buổi biểu diễn tinh tế để duy trì hiệu ứng trong suốt thời gian của nó.
 
-## Common Applications
+## Ứng dụng phổ biến
 
-- **Pre-Battle Inspiration:** Most commonly used before engaging in combat to prepare allies mentally and emotionally
-- **Fear Resistance:** Particularly effective against creatures that use fear as a weapon
-- **Morale Recovery:** Can reverse a deteriorating battlefield situation by restoring group confidence
-- **Performance Enhancement:** Used in non-combat situations to help allies perform under pressure
-- **Training Aid:** Helps novices overcome fear during intense training scenarios
+- **Cảm hứng trước trận chiến:** Thường được sử dụng nhất trước khi tham gia chiến đấu để chuẩn bị cho đồng minh về mặt tinh thần và cảm xúc
+- **Kháng sợ hãi:** Đặc biệt hiệu quả chống lại những sinh vật sử dụng nỗi sợ hãi làm vũ khí
+- **Phục hồi tinh thần:** Có thể đảo ngược tình hình chiến trường đang xấu đi bằng cách khôi phục sự tự tin của nhóm
+- **Nâng cao hiệu suất:** Được sử dụng trong các tình huống phi chiến đấu để giúp đồng minh thực hiện dưới áp lực
+- **Hỗ trợ huấn luyện:** Giúp người mới vượt qua nỗi sợ hãi trong các tình huống huấn luyện căng thẳng
 
-## Variations
+## Biến thể
 
 ### Battle Anthem
-A more martially-focused version that enhances physical prowess at the expense of fear resistance.
-- **Mana Composition:** Shifts to 60% Base Mana, 15% Mentimana, 25% Vitomana
-- **Purity Required:** 25-35%
-- **Effect:** Combat enhancement increases to 20-35%, fear resistance reduced to 15-25%
+Một phiên bản tập trung vào chiến đấu hơn giúp tăng cường năng lực thể chất với chi phí là khả năng kháng sợ hãi.
+- **Thành phần Mana:** Chuyển sang 60% Base Mana, 15% Mentimana, 25% Vitomana
+- **Độ tinh khiết yêu cầu:** 25-35%
+- **Hiệu ứng:** Tăng cường chiến đấu tăng lên 20-35%, khả năng kháng sợ hãi giảm xuống 15-25%
 
 ### Heroic Resonance
-A sustained version that creates a longer-lasting but more subtle effect.
-- **Casting Time:** 30 seconds
-- **Duration:** Up to 1 hour
-- **Purity Required:** 35-45%
-- **Effect:** Provides 50% of standard combat enhancement but maintains fear resistance at full strength
+Một phiên bản kéo dài tạo ra hiệu ứng lâu dài hơn nhưng tinh tế hơn.
+- **Thời gian thi triển:** 30 giây
+- **Thời lượng:** Lên đến 1 giờ
+- **Độ tinh khiết yêu cầu:** 35-45%
+- **Hiệu ứng:** Cung cấp 50% khả năng tăng cường chiến đấu tiêu chuẩn nhưng vẫn duy trì khả năng kháng sợ hãi ở toàn bộ sức mạnh
 
 ### Silent Valor
-A version that can be cast without audible components, relying on subtle body language and direct mana projection.
-- **Components:** Somatic only
-- **Range:** Reduced to 5 meters
-- **Purity Required:** 40-50%
-- **Effect:** Standard effects but more difficult to maintain and detect
+Một phiên bản có thể được thi triển mà không cần các thành phần âm thanh, dựa vào ngôn ngữ cơ thể tinh tế và chiếu mana trực tiếp.
+- **Thành phần:** Chỉ Somatic
+- **Phạm vi:** Giảm xuống 5 mét
+- **Độ tinh khiết yêu cầu:** 40-50%
+- **Hiệu ứng:** Các hiệu ứng tiêu chuẩn nhưng khó duy trì và phát hiện hơn
 
-## Risks and Miscast Effects
+## Rủi ro và hiệu ứng thi triển sai
 
-### Overconfidence
-Insufficient control (purity below 20%) can cause recipients to become recklessly overconfident, leading them to underestimate dangers.
+### Quá tự tin
+Kiểm soát không đủ (độ tinh khiết dưới 20%) có thể khiến người nhận trở nên quá tự tin một cách liều lĩnh, khiến họ đánh giá thấp những nguy hiểm.
 
-### Emotional Dependency
-If the spell is maintained too long (beyond 10 minutes) or cast repeatedly within a short timeframe, recipients may develop temporary dependency, experiencing heightened fear when the effect ends.
+### Sự phụ thuộc về cảm xúc
+Nếu phép thuật được duy trì quá lâu (hơn 10 phút) hoặc thi triển lặp đi lặp lại trong một khoảng thời gian ngắn, người nhận có thể phát triển sự phụ thuộc tạm thời, trải qua nỗi sợ hãi gia tăng khi hiệu ứng kết thúc.
 
-### Resonance Backlash
-Critical failure (purity below 15%) can create a reverse effect, momentarily amplifying fear responses instead of suppressing them.
+### Phản ứng dữ dội cộng hưởng
+Thất bại nghiêm trọng (độ tinh khiết dưới 15%) có thể tạo ra hiệu ứng ngược lại, tạm thời khuếch đại các phản ứng sợ hãi thay vì ngăn chặn chúng.
 
-### Performance Pressure
-If the bard becomes the target of significant attacks while maintaining the spell, concentration checks are required to prevent premature termination of the effect.
+### Áp lực biểu diễn
+Nếu bard trở thành mục tiêu của các cuộc tấn công đáng kể trong khi duy trì phép thuật, cần phải kiểm tra sự tập trung để ngăn chặn việc chấm dứt hiệu ứng trước thời hạn.
 
-## Musical Analogy
+## Phép ẩn dụ âm nhạc
 
-Casting Inspire Courage is like performing a military march that gradually shifts to a heroic anthem. The percussive elements establish rhythm (the spell's structure), while brass elements provide power (the courage enhancement) and melodic components create emotional resonance (the fear resistance). The performer must maintain the driving tempo while ensuring harmonies remain uplifting rather than aggressive.
+Thi triển Inspire Courage giống như biểu diễn một cuộc hành quân quân sự dần dần chuyển sang một bài quốc ca anh hùng. Các yếu tố bộ gõ thiết lập nhịp điệu (cấu trúc của phép thuật), trong khi các yếu tố kèn đồng cung cấp sức mạnh (khả năng tăng cường lòng dũng cảm) và các thành phần giai điệu tạo ra sự cộng hưởng cảm xúc (khả năng kháng sợ hãi). Người biểu diễn phải duy trì nhịp độ thúc đẩy đồng thời đảm bảo các hòa âm vẫn nâng cao tinh thần chứ không phải hung hăng.
 
-## Learning Progression
+## Tiến trình học tập
 
-| Stage | Description | Typical Timeline |
+| Giai đoạn | Mô tả | Mốc thời gian điển hình |
 |-------|-------------|------------------|
-| **Novice** | Basic single-target version with minimal combat enhancement | 6-8 weeks of practice |
-| **Apprentice** | Small group effect (3-4 targets) with moderate enhancement | 4-6 months of practice |
-| **Adept** | Standard version affecting up to 10 allies with full effects | 1-2 years of practice |
-| **Master** | Extended range and duration with enhanced effects | 3-5 years of refinement |
+| **Người mới** | Phiên bản cơ bản một mục tiêu với khả năng tăng cường chiến đấu tối thiểu | 6-8 tuần luyện tập |
+| **Học việc** | Hiệu ứng nhóm nhỏ (3-4 mục tiêu) với khả năng tăng cường vừa phải | 4-6 tháng luyện tập |
+| **Adept** | Phiên bản tiêu chuẩn ảnh hưởng đến tối đa 10 đồng minh với đầy đủ hiệu ứng | 1-2 năm luyện tập |
+| **Bậc thầy** | Phạm vi và thời lượng mở rộng với các hiệu ứng nâng cao | 3-5 năm tinh chỉnh |
 
-## Historical Note
+## Ghi chú lịch sử
 
-Inspire Courage was first formalized by the Battle-Bards of the Crimson Legion during the Moonfall War. These specialized bards developed techniques to maintain morale against the unnatural fear induced by shadow-tainted creatures. The spell has been refined over generations, with each major bardic college adding its own variations and enhancements to the core technique.
+Inspire Courage lần đầu tiên được chính thức hóa bởi Battle-Bards của Crimson Legion trong Chiến tranh Moonfall. Những bard chuyên biệt này đã phát triển các kỹ thuật để duy trì tinh thần chống lại nỗi sợ hãi bất thường do các sinh vật bị ô nhiễm bóng tối gây ra. Phép thuật đã được tinh chỉnh qua nhiều thế hệ, với mỗi trường cao đẳng bard lớn thêm các biến thể và cải tiến riêng vào kỹ thuật cốt lõi.
 
-The most famous recorded use was by Malian Silvervoice at the Battle of Thornvale Pass, where her performance allowed a force of 300 defenders to stand against over 2,000 attackers for three days until reinforcements arrived. 
+Việc sử dụng được ghi nhận nổi tiếng nhất là bởi Malian Silvervoice tại Trận chiến Thornvale Pass, nơi buổi biểu diễn của cô cho phép một lực lượng gồm 300 người bảo vệ chống lại hơn 2.000 kẻ tấn công trong ba ngày cho đến khi quân tiếp viện đến.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

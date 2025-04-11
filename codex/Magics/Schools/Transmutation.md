@@ -1,215 +1,219 @@
-# **The School of Transmutation**
+# **Trường phái Biến đổi**
 
-> *"To transmute is to understand the deepest nature of matter and energy—to see not what is, but what could be. All substance is but patterns waiting to be rearranged."*  
-> — Archmagus Elyria Stoneweaver, First Chair of Material Studies
+> *"Biến đổi là thấu hiểu bản chất sâu sắc nhất của vật chất và năng lượng—nhìn thấy không phải những gì hiện hữu, mà những gì có thể trở thành. Mọi chất đều chỉ là những khuôn mẫu chờ được sắp xếp lại."*
+> — Đại Pháp sư Elyria Stoneweaver, Chủ tịch đầu tiên của Nghiên cứu Vật chất
 
-## Overview
+## Tổng quan
 
-Transmutation is the school of magic devoted to the fundamental transformation of matter and energy. Unlike conjuration that summons existing elements or evocation that generates magical effects, transmutation alters the intrinsic properties, form, or structure of targets. It encompasses everything from basic material changes to complex biological alterations and is regarded as perhaps the most technically demanding school of magic due to its precision requirements and comprehensive knowledge base.
+Biến đổi là trường phái ma thuật chuyên về sự biến đổi cơ bản của vật chất và năng lượng. Không giống như triệu hồi tạo ra các nguyên tố đã có hoặc hô biến tạo ra các hiệu ứng ma thuật, biến đổi thay đổi các thuộc tính nội tại, hình dạng hoặc cấu trúc của mục tiêu. Nó bao gồm mọi thứ từ những thay đổi vật chất cơ bản đến những thay đổi sinh học phức tạp và được coi là có lẽ là trường phái ma thuật đòi hỏi kỹ thuật cao nhất do yêu cầu độ chính xác và kiến thức nền tảng toàn diện.
 
-## Fundamental Principles
+## Các Nguyên tắc Cơ bản
 
-### The Principle of Malleable Essence
+### Nguyên tắc Bản chất Dễ uốn
 
-The foundation of transmutation theory is the Principle of Malleable Essence, which posits that all matter and energy exists as patterns of magical resonance that can be reconfigured through proper magical application. These patterns connect physical properties to magical signatures that transmuters learn to recognize and manipulate.
+Nền tảng của lý thuyết biến đổi là Nguyên tắc Bản chất Dễ uốn, cho rằng tất cả vật chất và năng lượng tồn tại dưới dạng các khuôn mẫu cộng hưởng ma thuật có thể được cấu hình lại thông qua ứng dụng ma thuật thích hợp. Các khuôn mẫu này kết nối các thuộc tính vật lý với các dấu hiệu ma thuật mà các nhà biến đổi học để nhận biết và thao túng.
 
-### Primary Components
+### Các Thành phần Chính
 
-All transmutation spells incorporate three fundamental components:
+Tất cả các phép biến đổi đều kết hợp ba thành phần cơ bản:
 
-1. **Pattern Recognition**: Identifying the current structure and properties of the target
-2. **Pattern Dissolution**: Temporarily loosening the bonds of the existing form
-3. **Pattern Reconfiguration**: Imposing the desired new arrangement or properties
+1. **Nhận dạng Khuôn mẫu**: Xác định cấu trúc và thuộc tính hiện tại của mục tiêu
+2. **Giải thể Khuôn mẫu**: Tạm thời nới lỏng các liên kết của hình dạng hiện tại
+3. **Tái cấu hình Khuôn mẫu**: Áp đặt sự sắp xếp hoặc thuộc tính mới mong muốn
 
-More complex transmutations add additional components:
+Các phép biến đổi phức tạp hơn sẽ thêm các thành phần bổ sung:
 
-4. **Energy Conversion**: Managing the release or absorption of energy during transformation
-5. **Temporal Anchoring**: Maintaining stability throughout the transmutation process
-6. **Selective Alteration**: Changing specific properties while preserving others
+4. **Chuyển đổi Năng lượng**: Quản lý việc giải phóng hoặc hấp thụ năng lượng trong quá trình biến đổi
+5. **Neo giữ Thời gian**: Duy trì sự ổn định trong suốt quá trình biến đổi
+6. **Thay đổi Có chọn lọc**: Thay đổi các thuộc tính cụ thể trong khi bảo tồn các thuộc tính khác
 
-### Mana Requirements
+### Yêu cầu Mana
 
-Transmutation requires specific combinations of mana types, with purity levels that increase with the complexity of the transformation:
+Biến đổi đòi hỏi sự kết hợp cụ thể của các loại mana, với mức độ tinh khiết tăng lên theo độ phức tạp của sự biến đổi:
 
-| Transmutation Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| Loại Biến đổi | Mana Chính | Mana Phụ | Mana Bậc ba | Mục đích |
 |-------------------|-------------|----------------|---------------|---------|
-| State Change | Base Mana (30-40%) | Elemental type (20-30%) | N/A | Solid to liquid, etc. |
-| Material Conversion | Base Mana (40-50%) | Terramana (30-40%) | Target element (10-20%) | Lead to gold, etc. |
-| Shape Alteration | Base Mana (35-45%) | Terramana (20-30%) | N/A | Reshaping objects |
-| Property Enhancement | Base Mana (45-55%) | Property-specific (25-35%) | N/A | Hardening, sharpening |
-| Living Transmutation | Base Mana (60-70%) | Vitamana (40-50%) | Property-specific (20-30%) | Biological changes |
-| Self-Transmutation | Base Mana (55-65%) | Vitamana (35-45%) | Property-specific (15-25%) | Physical self-alteration |
-| Essence Transmutation | Base Mana (70-80%) | Pure type (50-60%) | Aetheramana (30-40%) | Fundamental nature changes |
+| Thay đổi Trạng thái | Mana Gốc (30-40%) | Loại Nguyên tố (20-30%) | Không áp dụng | Rắn sang lỏng, v.v. |
+| Chuyển đổi Vật chất | Mana Gốc (40-50%) | Terramana (30-40%) | Nguyên tố mục tiêu (10-20%) | Chì thành vàng, v.v. |
+| Thay đổi Hình dạng | Mana Gốc (35-45%) | Terramana (20-30%) | Không áp dụng | Định hình lại các đối tượng |
+| Tăng cường Thuộc tính | Mana Gốc (45-55%) | Đặc tính cụ thể (25-35%) | Không áp dụng | Làm cứng, làm sắc nét |
+| Biến đổi Sống | Mana Gốc (60-70%) | Vitamana (40-50%) | Đặc tính cụ thể (20-30%) | Thay đổi sinh học |
+| Tự Biến đổi | Mana Gốc (55-65%) | Vitamana (35-45%) | Đặc tính cụ thể (15-25%) | Tự thay đổi vật lý |
+| Biến đổi Bản chất | Mana Gốc (70-80%) | Loại Thuần khiết (50-60%) | Aetheramana (30-40%) | Thay đổi bản chất cơ bản |
 
-### Wild Mana Response
+### Phản ứng Mana Hoang dã
 
-Transmutation magic has a particular sensitivity to Wild Mana influences. While controlled transmutation requires exacting precision, Wild Mana can introduce:
+Ma thuật biến đổi có độ nhạy đặc biệt với ảnh hưởng của Mana Hoang dã. Mặc dù biến đổi có kiểm soát đòi hỏi độ chính xác cao, nhưng Mana Hoang dã có thể gây ra:
 
-- **Accelerated Transformation**: Speeding up the process beyond normal limits
-- **Expanded Possibility**: Allowing transformations normally considered impossible
-- **Property Blending**: Creating hybrid forms with characteristics from multiple sources
-- **Reactive Chain Effects**: Triggering cascading transmutations in surrounding materials
+- **Biến đổi Gia tốc**: Tăng tốc quá trình vượt quá giới hạn bình thường
+- **Khả năng Mở rộng**: Cho phép các biến đổi thường được coi là không thể
+- **Hòa trộn Thuộc tính**: Tạo ra các dạng lai có đặc điểm từ nhiều nguồn
+- **Hiệu ứng Chuỗi Phản ứng**: Kích hoạt các biến đổi xếp tầng trong các vật liệu xung quanh
 
-However, these potential benefits carry substantial risks:
+Tuy nhiên, những lợi ích tiềm năng này mang theo những rủi ro đáng kể:
 
-- **Pattern Instability**: Transformations that shift unpredictably or revert spontaneously
-- **Property Contamination**: Unwanted characteristics appearing in the transmuted form
-- **Transformation Bleeding**: Effects spreading beyond the intended target
-- **Essence Rejection**: Violent reaction between original and transmuted forms
+- **Tính Bất ổn của Khuôn mẫu**: Các biến đổi thay đổi một cách khó lường hoặc tự động trở lại trạng thái ban đầu
+- **Ô nhiễm Thuộc tính**: Các đặc điểm không mong muốn xuất hiện trong dạng biến đổi
+- **Rò rỉ Biến đổi**: Các hiệu ứng lan rộng ra ngoài mục tiêu dự định
+- **Từ chối Bản chất**: Phản ứng dữ dội giữa dạng ban đầu và dạng biến đổi
 
-## Mana Purification for Transmutation
+## Thanh lọc Mana cho Biến đổi
 
-Transmutation requires exceptionally high mana purity for precision transformations:
+Biến đổi đòi hỏi độ tinh khiết mana đặc biệt cao để biến đổi chính xác:
 
-| Purification Level | Transmutation Capability |
+| Mức độ Thanh lọc | Khả năng Biến đổi |
 |--------------------|--------------------------|
-| Basic (15-25%) | Simple state changes (solid to liquid) and minor shape alterations |
-| Intermediate (30-45%) | Material conversions between similar substances, significant reshaping |
-| Advanced (50-65%) | Transformations across material categories, property enhancement |
-| Master (70-80%) | Limited biological transmutation, complex property manipulation |
-| Grandmaster (85%+) | Fundamental essence transmutation, perfect material conversion |
+| Cơ bản (15-25%) | Thay đổi trạng thái đơn giản (rắn sang lỏng) và thay đổi hình dạng nhỏ |
+| Trung cấp (30-45%) | Chuyển đổi vật chất giữa các chất tương tự, định hình lại đáng kể |
+| Nâng cao (50-65%) | Biến đổi giữa các loại vật chất, tăng cường thuộc tính |
+| Bậc thầy (70-80%) | Biến đổi sinh học hạn chế, thao tác thuộc tính phức tạp |
+| Đại sư (85%+) | Biến đổi bản chất cơ bản, chuyển đổi vật chất hoàn hảo |
 
-Insufficient purity in transmutation typically results in incomplete transformations—objects with mixed properties, unstable forms, or imperfect conversions that revert over time.
+Độ tinh khiết không đủ trong biến đổi thường dẫn đến các biến đổi không hoàn chỉnh—các vật thể có các thuộc tính hỗn hợp, hình dạng không ổn định hoặc chuyển đổi không hoàn hảo tự động trở lại theo thời gian.
 
-## The Transmuter's Harmony
+## Sự hài hòa của Nhà Biến đổi
 
-Transmutation magic is conceptualized through musical modulation, with each spell creating transitions between different "keys" of material existence:
+Ma thuật biến đổi được khái niệm hóa thông qua điều chế âm nhạc, với mỗi phép thuật tạo ra các chuyển đổi giữa các "khóa" khác nhau của sự tồn tại vật chất:
 
-- **Tonic Shift**: Basic state changes maintaining fundamental composition
-- **Key Change**: Complete conversion from one material to another
-- **Tempo Alteration**: Changing the temporal properties of matter (hardening, softening)
-- **Orchestration**: Reorganizing complex systems while maintaining function
-- **Counterpoint Development**: Creating harmonious interactions between different properties
+- **Chuyển đổi Âm chủ**: Thay đổi trạng thái cơ bản duy trì thành phần cơ bản
+- **Thay đổi Khóa**: Chuyển đổi hoàn toàn từ một vật liệu này sang vật liệu khác
+- **Thay đổi Tốc độ**: Thay đổi các thuộc tính thời gian của vật chất (làm cứng, làm mềm)
+- **Phối khí**: Sắp xếp lại các hệ thống phức tạp trong khi duy trì chức năng
+- **Phát triển Phản âm**: Tạo ra các tương tác hài hòa giữa các thuộc tính khác nhau
 
-Master transmuters describe their work as "composing matter," guiding substances through harmonious transitions rather than forcing changes.
+Các nhà biến đổi bậc thầy mô tả công việc của họ là "sáng tác vật chất", hướng dẫn các chất thông qua các chuyển đổi hài hòa thay vì ép buộc các thay đổi.
 
-## Specialized Disciplines
+## Các Ngành Chuyên môn
 
-### Alchemy
+### Giả kim thuật
 
-The transformation of materials, particularly metals and elements. Practitioners are known as Alchemists.
+Sự biến đổi của vật liệu, đặc biệt là kim loại và nguyên tố. Các học viên được gọi là Nhà Giả kim.
 
-### Morphology
+### Hình thái học
 
-Focused on shape and structural changes without altering material composition. Masters are called Shapers.
+Tập trung vào những thay đổi về hình dạng và cấu trúc mà không thay đổi thành phần vật chất. Các bậc thầy được gọi là Nhà Định hình.
 
-### Enhancement
+### Tăng cường
 
-Specialized in improving existing properties of objects or beings. Practitioners are called Enhancers.
+Chuyên cải thiện các thuộc tính hiện có của đồ vật hoặc sinh vật. Các học viên được gọi là Nhà Tăng cường.
 
-### Biomancy
+### Sinh thuật
 
-The transmutation of living tissue and biological systems. Masters are known as Biomancers.
+Sự biến đổi của mô sống và hệ thống sinh học. Các bậc thầy được gọi là Nhà Sinh thuật.
 
-### Essencecraft
+### Bản chất thuật
 
-Alteration of fundamental magical properties and essence. Practitioners are called Essentialists.
+Thay đổi các thuộc tính và bản chất ma thuật cơ bản. Các học viên được gọi là Nhà Bản chất.
 
-### Chronomancy
+### Thời thuật
 
-Manipulation of temporal properties of matter and energy. Masters are known as Temporalists.
+Thao tác các thuộc tính thời gian của vật chất và năng lượng. Các bậc thầy được gọi là Nhà Thời gian.
 
-### Self-Transformation
+### Tự Biến đổi
 
-The study and practice of altering one's own form. Practitioners are called Shifters.
+Nghiên cứu và thực hành thay đổi hình dạng của chính mình. Các học viên được gọi là Nhà Chuyển đổi.
 
-## Training Methodology
+## Phương pháp Đào tạo
 
-Transmutation training follows a structured progression:
+Đào tạo biến đổi tuân theo một tiến trình có cấu trúc:
 
-1. **Theoretical Foundations**: Understanding material properties and magical correspondences
-2. **Simple State Changes**: Practicing basic transformations (solid to liquid)
-3. **Material Study**: Learning the magical signatures of various substances
-4. **Form Manipulation**: Altering shapes while preserving material properties
-5. **Property Adjustment**: Enhancing or changing specific characteristics
-6. **Energy Management**: Controlling thermal and magical energy during transmutation
-7. **Biological Theory**: Study of living systems and their transmutation requirements
-8. **Complex Integration**: Performing multi-property transformations
+1. **Nền tảng Lý thuyết**: Hiểu các thuộc tính vật chất và các mối tương quan ma thuật
+2. **Thay đổi Trạng thái Đơn giản**: Thực hành các biến đổi cơ bản (rắn sang lỏng)
+3. **Nghiên cứu Vật liệu**: Tìm hiểu các dấu hiệu ma thuật của các chất khác nhau
+4. **Thao tác Hình dạng**: Thay đổi hình dạng trong khi bảo tồn các thuộc tính vật chất
+5. **Điều chỉnh Thuộc tính**: Tăng cường hoặc thay đổi các đặc điểm cụ thể
+6. **Quản lý Năng lượng**: Kiểm soát năng lượng nhiệt và ma thuật trong quá trình biến đổi
+7. **Lý thuyết Sinh học**: Nghiên cứu hệ thống sống và các yêu cầu biến đổi của chúng
+8. **Tích hợp Phức tạp**: Thực hiện các biến đổi đa thuộc tính
 
-Training emphasizes precision, control, and comprehensive knowledge of materials. Transmutation students typically spend years in laboratory settings before attempting significant spellcasting.
+Đào tạo nhấn mạnh độ chính xác, kiểm soát và kiến thức toàn diện về vật liệu. Sinh viên biến đổi thường dành nhiều năm trong phòng thí nghiệm trước khi cố gắng sử dụng phép thuật đáng kể.
 
-## Transmutation in Practice
+## Biến đổi trong Thực tế
 
-The process of casting transmutation magic follows distinct phases:
+Quá trình sử dụng ma thuật biến đổi tuân theo các giai đoạn riêng biệt:
 
-1. **Material Assessment**: Analyzing the target's current composition and properties
-2. **Pattern Identification**: Recognizing the magical signature of the material
-3. **Mana Purification**: Achieving the necessary purity for precise transformation
-4. **Bond Loosening**: Temporarily destabilizing the target's current form
-5. **Pattern Application**: Imposing the new desired structure or properties
-6. **Energy Balancing**: Managing energy release or absorption during change
-7. **Structural Stabilization**: Anchoring the new form into permanent stability
-8. **Quality Verification**: Ensuring the transformation is complete and stable
+1. **Đánh giá Vật liệu**: Phân tích thành phần và thuộc tính hiện tại của mục tiêu
+2. **Xác định Khuôn mẫu**: Nhận ra dấu hiệu ma thuật của vật liệu
+3. **Thanh lọc Mana**: Đạt được độ tinh khiết cần thiết để biến đổi chính xác
+4. **Nới lỏng Liên kết**: Tạm thời làm mất ổn định hình dạng hiện tại của mục tiêu
+5. **Áp dụng Khuôn mẫu**: Áp đặt cấu trúc hoặc thuộc tính mới mong muốn
+6. **Cân bằng Năng lượng**: Quản lý việc giải phóng hoặc hấp thụ năng lượng trong quá trình thay đổi
+7. **Ổn định Cấu trúc**: Neo giữ dạng mới vào sự ổn định vĩnh viễn
+8. **Xác minh Chất lượng**: Đảm bảo quá trình biến đổi hoàn tất và ổn định
 
-For emergency transmutation, these steps may be compressed into rapid casting, though with increased risk of imperfection or instability.
+Đối với biến đổi khẩn cấp, các bước này có thể được nén thành niệm chú nhanh chóng, mặc dù có nguy cơ không hoàn hảo hoặc không ổn định cao hơn.
 
-## Practical Applications
+## Các ứng dụng Thực tế
 
-Transmutation serves numerous practical functions in magical society:
+Biến đổi phục vụ nhiều chức năng thực tế trong xã hội ma thuật:
 
-- **Manufacturing**: Creating specialized materials, tools, and components
-- **Medicine**: Healing through tissue regeneration and pathogen neutralization
-- **Agriculture**: Enhancing crop yields through soil enrichment and plant modification
-- **Construction**: Strengthening building materials or creating architectural elements
-- **Metallurgy**: Refining and converting metals for various applications
-- **Conservation**: Purifying water, neutralizing toxins, and restoring damaged environments
-- **Logistics**: Creating temporary bridges, pathways, or containers as needed
+- **Sản xuất**: Tạo ra các vật liệu, công cụ và thành phần chuyên dụng
+- **Y học**: Chữa bệnh thông qua tái tạo mô và trung hòa mầm bệnh
+- **Nông nghiệp**: Tăng năng suất cây trồng thông qua làm giàu đất và biến đổi thực vật
+- **Xây dựng**: Tăng cường vật liệu xây dựng hoặc tạo ra các yếu tố kiến trúc
+- **Luyện kim**: Tinh chế và chuyển đổi kim loại cho các ứng dụng khác nhau
+- **Bảo tồn**: Làm sạch nước, trung hòa chất độc và phục hồi môi trường bị hư hại
+- **Hậu cần**: Tạo ra các cây cầu, lối đi hoặc thùng chứa tạm thời khi cần thiết
 
-## Ethical Considerations
+## Cân nhắc về Đạo đức
 
-Transmutation raises significant ethical questions:
+Biến đổi đặt ra những câu hỏi đạo đức quan trọng:
 
-- **Material Value**: Economic implications of creating precious materials
-- **Natural Balance**: Consequences of altering natural substances and environments
-- **Consent for Change**: Ethical boundaries of transmuting living beings
-- **Reversibility**: Responsibility to ensure harmful transmutations can be undone
-- **Identity Integrity**: Psychological impact of self-transmutation or transformation by others
-- **Resource Displacement**: Effects on communities dependent on natural resources
+- **Giá trị Vật chất**: Ý nghĩa kinh tế của việc tạo ra các vật liệu quý giá
+- **Cân bằng Tự nhiên**: Hậu quả của việc thay đổi các chất và môi trường tự nhiên
+- **Đồng ý cho sự Thay đổi**: Ranh giới đạo đức của việc biến đổi sinh vật sống
+- **Khả năng Đảo ngược**: Trách nhiệm đảm bảo các biến đổi có hại có thể được hoàn tác
+- **Tính Toàn vẹn của Danh tính**: Tác động tâm lý của tự biến đổi hoặc biến đổi bởi người khác
+- **Thay thế Tài nguyên**: Ảnh hưởng đến các cộng đồng phụ thuộc vào tài nguyên thiên nhiên
 
-Most transmutation academies enforce strict ethical codes governing biological transmutation and economically sensitive material conversions.
+Hầu hết các học viện biến đổi đều thực thi các quy tắc đạo đức nghiêm ngặt chi phối biến đổi sinh học và chuyển đổi vật chất nhạy cảm về kinh tế.
 
-## Limitations and Weaknesses
+## Hạn chế và Điểm yếu
 
-Despite its power, transmutation has inherent limitations:
+Bất chấp sức mạnh của nó, biến đổi có những hạn chế vốn có:
 
-- **Conservation Principles**: Matter cannot be created or destroyed, only transformed
-- **Complexity Barriers**: Intricate systems require proportionally greater skill and energy
-- **Material Knowledge**: Transmuters can only work effectively with substances they understand
-- **Energy Requirements**: Transformations often require significant energy input
-- **Stability Factors**: More dramatic changes tend to be less stable over time
-- **Living Resistance**: Conscious beings can resist unwanted transmutation
+- **Nguyên tắc Bảo tồn**: Vật chất không thể được tạo ra hoặc phá hủy, chỉ có thể biến đổi
+- **Rào cản Phức tạp**: Các hệ thống phức tạp đòi hỏi kỹ năng và năng lượng lớn hơn tương ứng
+- **Kiến thức Vật chất**: Các nhà biến đổi chỉ có thể làm việc hiệu quả với các chất mà họ hiểu
+- **Yêu cầu Năng lượng**: Các biến đổi thường đòi hỏi đầu vào năng lượng đáng kể
+- **Các yếu tố Ổn định**: Những thay đổi mạnh mẽ hơn có xu hướng kém ổn định hơn theo thời gian
+- **Kháng cự Sống**: Sinh vật có ý thức có thể chống lại biến đổi không mong muốn
 
-Common countermeasures against transmutation include:
+Các biện pháp đối phó phổ biến chống lại biến đổi bao gồm:
 
-- **Material Wards**: Magical protections that prevent alteration
-- **Pattern Anchoring**: Techniques to stabilize an object's current form
-- **Composition Masking**: Hiding true material nature from magical assessment
-- **Reversion Catalysts**: Substances that trigger automatic return to original form
-- **Anti-Transmission Alloys**: Materials specifically designed to resist magical alteration
+- **Bùa Vật chất**: Các biện pháp bảo vệ ma thuật ngăn chặn sự thay đổi
+- **Neo giữ Khuôn mẫu**: Các kỹ thuật ổn định hình dạng hiện tại của một vật thể
+- **Che giấu Thành phần**: Che giấu bản chất vật chất thực sự khỏi đánh giá ma thuật
+- **Chất xúc tác Đảo ngược**: Các chất kích hoạt sự trở lại tự động hình dạng ban đầu
+- **Hợp kim Chống Truyền dẫn**: Vật liệu được thiết kế đặc biệt để chống lại sự thay đổi ma thuật
 
-## Musical Analogy
+## Tương tự Âm nhạc
 
-In the musical framework of magic, transmutation represents percussion instruments—steady, transformative forces that guide material through rhythmic changes of state. The transmuter is like a drummer, setting the tempo and pattern for matter to follow.
+Trong khuôn khổ âm nhạc của ma thuật, biến đổi đại diện cho các nhạc cụ bộ gõ — các lực lượng biến đổi ổn định, hướng dẫn vật chất thông qua những thay đổi nhịp nhàng về trạng thái. Nhà biến đổi giống như một người chơi trống, đặt nhịp độ và khuôn mẫu cho vật chất tuân theo.
 
-Transmutation spells are described in terms of "resonance" and "rhythm," with each successful transformation requiring perfect timing and pressure. Master transmuters can maintain complex "polyrhythms" of multiple transformative processes simultaneously, creating intricate material symphonies.
+Các phép biến đổi được mô tả về "cộng hưởng" và "nhịp điệu", với mỗi biến đổi thành công đòi hỏi thời gian và áp lực hoàn hảo. Các nhà biến đổi bậc thầy có thể duy trì các "đa nhịp điệu" phức tạp của nhiều quy trình biến đổi đồng thời, tạo ra các bản giao hưởng vật chất phức tạp.
 
-## Notable Practitioners
+## Các Học viên Nổi tiếng
 
-- **Elyria Stoneweaver**: Pioneer of modern transmutation theory and creator of the Material Harmonic Scale
-- **Tiberius Goldhand**: Master alchemist who developed ethical frameworks for precious metal conversion
-- **Selene Fleshcrafter**: Controversial biomancer known for medical breakthroughs and questionable experiments
-- **Garrick Ironheart**: Legendary martial transmuter who specialized in combat applications
-- **Nyra Fluidform**: Master of self-transformation who documented the first complete human-animal transformation protocols
+- **Elyria Stoneweaver**: Người tiên phong trong lý thuyết biến đổi hiện đại và là người tạo ra Thang Âm hài hòa Vật chất
+- **Tiberius Goldhand**: Nhà giả kim bậc thầy đã phát triển các khuôn khổ đạo đức cho việc chuyển đổi kim loại quý
+- **Selene Fleshcrafter**: Nhà sinh thuật gây tranh cãi được biết đến với những đột phá y học và những thí nghiệm đáng ngờ
+- **Garrick Ironheart**: Nhà biến đổi võ thuật huyền thoại chuyên về các ứng dụng chiến đấu
+- **Nyra Fluidform**: Bậc thầy về tự biến đổi, người đã ghi lại các giao thức biến đổi người-động vật hoàn chỉnh đầu tiên
 
-## Safety Protocols
+## Các Giao thức An toàn
 
-Due to the potential dangers of transmutation, standardized safety measures include:
+Do những nguy hiểm tiềm ẩn của biến đổi, các biện pháp an toàn tiêu chuẩn bao gồm:
 
-- **Reversion Preparations**: Ready-made counterspells for emergencies
-- **Isolation Chambers**: Contained environments for experimental transmutations
-- **Energy Sinks**: Devices to absorb excess energy from unstable reactions
-- **Transformation Limiters**: Spell components that prevent cascading effects
-- **Property Monitoring**: Constant assessment of transmuted objects for signs of instability
-- **Progressive Testing**: Staged transformation of small samples before full application
+- **Chuẩn bị Đảo ngược**: Các phép thuật phản công có sẵn để sử dụng trong trường hợp khẩn cấp
+- **Buồng Cách ly**: Môi trường kín để biến đổi thử nghiệm
+- **Bồn chứa Năng lượng**: Thiết bị hấp thụ năng lượng dư thừa từ các phản ứng không ổn định
+- **Giới hạn Biến đổi**: Các thành phần phép thuật ngăn chặn các hiệu ứng xếp tầng
+- **Giám sát Thuộc tính**: Đánh giá liên tục các vật thể biến đổi để tìm dấu hiệu không ổn định
+- **Kiểm tra Lũy tiến**: Biến đổi theo từng giai đoạn các mẫu nhỏ trước khi áp dụng đầy đủ
 
-The Transmuter's Oath, taken by all certified practitioners, includes the promise to "transform with purpose, not pride; to change with understanding, not merely power; and to restore what proves harmful, no matter the cost." 
+Lời thề của Nhà Biến đổi, được thực hiện bởi tất cả các học viên được chứng nhận, bao gồm lời hứa "biến đổi có mục đích, không kiêu hãnh; thay đổi bằng sự hiểu biết, không chỉ bằng sức mạnh; và khôi phục những gì chứng tỏ có hại, bất kể giá nào."
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

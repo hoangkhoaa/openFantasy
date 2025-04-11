@@ -1,87 +1,91 @@
 # **OpenFantasy**
 
-> *"A world where magic follows logical principles, souls are measurable, and every being contributes to the grand symphony of existence."*
+> *"Một thế giới nơi phép thuật tuân theo các nguyên tắc logic, linh hồn có thể đo lường được và mọi sinh vật đều đóng góp vào bản giao hưởng vĩ đại của sự tồn tại."*
 
-## Quick Navigation
+## Điều Hướng Nhanh
 
-- [Logical Framework](#a-logical-framework-for-magic-systems)
-- [Core Elements](#core-elements)
-- [World Codex](#world-codex)
-- [The Future Vision](#the-future-vision)
-- [Collaboration](#open-source-collaboration)
+- [Khung Logic](#khung-logic-cho-cac-he-thong-phep-thuat)
+- [Các Yếu Tố Cốt Lõi](#cac-yeu-to-cot-loi)
+- [Sách Luật Thế Giới](#sach-luat-the-gioi)
+- [Tầm Nhìn Tương Lai](#tam-nhin-tuong-lai)
+- [Hợp Tác](#hop-tac-ma-nguon-mo)
 
-## Overview
+## Tổng Quan
 
-OpenFantasy is a comprehensive fantasy world framework built on consistent principles and logical systems. Unlike many fantasy settings that suffer from inconsistent rules and power creep, OpenFantasy creates a foundation where magic, species, abilities, and environments all interact according to well-defined principles.
+OpenFantasy là một khung thế giới giả tưởng toàn diện được xây dựng trên các nguyên tắc nhất quán và hệ thống logic. Không giống như nhiều bối cảnh giả tưởng bị ảnh hưởng bởi các quy tắc không nhất quán và sức mạnh leo thang, OpenFantasy tạo ra một nền tảng nơi phép thuật, chủng loài, khả năng và môi trường đều tương tác theo các nguyên tắc được xác định rõ ràng.
 
-The world is defined by three fundamental components:
-- **Exanthis**: The physical foundation that provides structure and form
-- **Soul**: The spark of consciousness that provides will and identity
-- **Mana**: The magical energy that flows through all things
+Thế giới được xác định bởi ba thành phần cơ bản:
+- **Exanthis**: Nền tảng vật chất cung cấp cấu trúc và hình dạng
+- **Soul**: Tia ý thức cung cấp ý chí và bản sắc
+- **Mana**: Năng lượng ma thuật chảy qua mọi thứ
 
-Every creature, location, spell, and artifact in OpenFantasy emerges from the interaction of these three elements, creating a rich but internally consistent world.
+Mọi sinh vật, địa điểm, phép thuật và tạo tác trong OpenFantasy đều xuất phát từ sự tương tác của ba yếu tố này, tạo ra một thế giới phong phú nhưng nhất quán bên trong.
 
-## A Logical Framework for Magic Systems
+## Khung Logic cho Các Hệ Thống Phép Thuật
 
-Many fantasy worlds captivate us with their dreamlike qualities and depth, drawing readers into magnificent realms of wonder and adventure. However, as these stories progress, they often suffer from inconsistent magic systems that become increasingly illogical, predictable, or simply boring. Power creep sets in, rules are conveniently forgotten, and the once-enchanting world loses its coherence.
+Nhiều thế giới giả tưởng quyến rũ chúng ta bằng những phẩm chất và chiều sâu như mơ, lôi cuốn độc giả vào những cõi kỳ diệu và phiêu lưu tráng lệ. Tuy nhiên, khi những câu chuyện này tiến triển, chúng thường bị ảnh hưởng bởi các hệ thống phép thuật không nhất quán ngày càng trở nên phi logic, dễ đoán hoặc đơn giản là nhàm chán. Sức mạnh leo thang, các quy tắc bị lãng quên một cách thuận tiện và thế giới từng mê hoặc mất đi tính mạch lạc.
 
-**OpenFantasy** addresses this fundamental problem by providing a logical framework for magical systems—a foundation built on consistent principles that creators can use to develop their worlds while maintaining internal consistency.
+**OpenFantasy** giải quyết vấn đề cơ bản này bằng cách cung cấp một khung logic cho các hệ thống ma thuật—một nền tảng được xây dựng trên các nguyên tắc nhất quán mà người sáng tạo có thể sử dụng để phát triển thế giới của họ trong khi vẫn duy trì tính nhất quán bên trong.
 
-## Core Elements
+## Các Yếu Tố Cốt Lõi
 
-At the heart of our framework lies a simple yet revolutionary understanding of two opposing forces:
+Trọng tâm của khung của chúng tôi nằm ở sự hiểu biết đơn giản nhưng mang tính cách mạng về hai lực lượng đối lập:
 
 | Element | Nature | Role in the World |
 |---------|--------|-------------------|
-| **Mana** | Gaseous, omnipresent magical essence | Powers spells, enchants objects, fuels arcane wonders |
-| **Exanthis** | Dense, rare mineral | Disrupts mana, creates zones where magic falters or warps |
+| **Mana** | Dạng khí, bản chất ma thuật phổ biến | Cung cấp sức mạnh cho phép thuật, mê hoặc đồ vật, thúc đẩy những điều kỳ diệu huyền bí |
+| **Exanthis** | Khoáng chất đậm đặc, hiếm có | Phá vỡ mana, tạo ra các khu vực nơi phép thuật suy yếu hoặc biến dạng |
 
-These two forces exist in constant opposition, shaping civilizations, battles, and the very laws of magic. Their interaction creates a natural system of checks and balances, preventing any single power from dominating the world.
+Hai lực lượng này tồn tại trong sự đối lập liên tục, định hình các nền văn minh, trận chiến và chính luật pháp của phép thuật. Sự tương tác của chúng tạo ra một hệ thống tự nhiên gồm các biện pháp kiểm tra và cân bằng, ngăn chặn bất kỳ sức mạnh đơn lẻ nào thống trị thế giới.
 
-The third core element, **Soul**, provides consciousness and identity to beings, allowing them to harness and direct magical energies according to their will.
+Yếu tố cốt lõi thứ ba, **Soul**, cung cấp ý thức và bản sắc cho các sinh vật, cho phép chúng khai thác và điều khiển năng lượng ma thuật theo ý muốn của mình.
 
-## World Codex
+## Sách Luật Thế Giới
 
-The OpenFantasy world is documented in a comprehensive codex organized into key sections:
+Thế giới OpenFantasy được ghi lại trong một cuốn sách luật toàn diện được tổ chức thành các phần chính:
 
 | Section | Content | Description |
 |---------|---------|-------------|
-| [**Basic**](/codex/Basic/) | Fundamental concepts | The core principles that govern the world |
-| [**Creatures**](/codex/Creatures/) | Species documentation | The diverse beings that inhabit the world |
-| [**Magics**](/codex/Magics/) | Magic systems, spells | The rules and manifestations of magical energy |
-| [**Classes**](/codex/Classes/) | Character paths | Specialized development frameworks for characters |
-| [**World**](/codex/World/) | Geography, history | The physical and cultural landscape |
-| [**Items**](/codex/Items/) | Objects, artifacts | Tools, weapons, and magical items |
+| [**Basic**](/codex/Basic/) | Các khái niệm cơ bản | Các nguyên tắc cốt lõi chi phối thế giới |
+| [**Creatures**](/codex/Creatures/) | Tài liệu về các loài | Các sinh vật đa dạng населяющие thế giới |
+| [**Magics**](/codex/Magics/) | Hệ thống phép thuật, phép thuật | Các quy tắc và biểu hiện của năng lượng ma thuật |
+| [**Classes**](/codex/Classes/) | Các con đường nhân vật | Các khung phát triển chuyên biệt cho nhân vật |
+| [**World**](/codex/World/) | Địa lý, lịch sử | Cảnh quan vật chất và văn hóa |
+| [**Items**](/codex/Items/) | Đồ vật, tạo tác | Công cụ, vũ khí và vật phẩm ma thuật |
 
-→ See the [Codex README](/codex/README.md) for detailed information about the world.
+→ Xem [Codex README](/codex/README.md) để biết thông tin chi tiết về thế giới.
 
-## The Future Vision
+## Tầm Nhìn Tương Lai
 
-OpenFantasy is designed not just as a theoretical framework but as a foundation for immersive experiences. With the rapid advancement of artificial intelligence, virtual reality, and 3D generation technologies, we envision a future where this world can transcend traditional media:
+OpenFantasy được thiết kế không chỉ như một khung lý thuyết mà còn là một nền tảng cho những trải nghiệm sống động. Với sự tiến bộ nhanh chóng của trí tuệ nhân tạo, thực tế ảo và các công nghệ tạo 3D, chúng tôi hình dung ra một tương lai nơi thế giới này có thể vượt qua các phương tiện truyền thông truyền thống:
 
-- **AI-Generated Characters**: Beings with consistent personalities based on their elemental composition
-- **Dynamic VR Environments**: Worlds where magical rules function predictably and consistently
-- **Procedural Content**: New stories, quests, and adventures that respect the established framework
-- **Interactive Storytelling**: Narratives that adapt while maintaining the world's internal logic
+- **Nhân vật do AI tạo ra**: Những sinh vật có tính cách nhất quán dựa trên thành phần nguyên tố của chúng
+- **Môi trường VR động**: Thế giới nơi các quy tắc ma thuật hoạt động một cách có thể đoán trước và nhất quán
+- **Nội dung theo thủ tục**: Những câu chuyện, nhiệm vụ và cuộc phiêu lưu mới tôn trọng khuôn khổ đã thiết lập
+- **Kể chuyện tương tác**: Những câu chuyện thích ứng trong khi vẫn duy trì logic bên trong của thế giới
 
-As these technologies mature, the line between fiction and experience will blur, potentially bringing OpenFantasy to life as an explorable reality rather than merely a described world. The fundamental logical consistency of the framework makes it particularly well-suited for computational implementation and AI-driven development.
+Khi các công nghệ này trưởng thành, ranh giới giữa hư cấu và trải nghiệm sẽ mờ đi, có khả năng đưa OpenFantasy vào cuộc sống như một thực tế có thể khám phá chứ không chỉ là một thế giới được mô tả. Tính nhất quán logic cơ bản của khung làm cho nó đặc biệt phù hợp với việc triển khai tính toán và phát triển dựa trên AI.
 
-## Building Your World on Solid Foundations
+## Xây Dựng Thế Giới Của Bạn Trên Nền Tảng Vững Chắc
 
-By incorporating the **OpenFantasy** framework into your worldbuilding, you gain access to:
+Bằng cách kết hợp khung **OpenFantasy** vào việc xây dựng thế giới của bạn, bạn có quyền truy cập vào:
 
-- A logical system of power growth and limitations
-- Natural geographical power distributions
-- Built-in narrative tension through opposing forces
-- Coherent explanations for different races and their abilities
-- A systematic approach to magical development
+- Một hệ thống logic về tăng trưởng và hạn chế sức mạnh
+- Phân bổ sức mạnh địa lý tự nhiên
+- Sự căng thẳng kể chuyện tích hợp thông qua các lực lượng đối lập
+- Giải thích mạch lạc cho các chủng tộc khác nhau và khả năng của họ
+- Một cách tiếp cận có hệ thống để phát triển ma thuật
 
-## Open Source Collaboration
+## Hợp Tác Mã Nguồn Mở
 
-**OpenFantasy** is an open source project, and we welcome contributions from the community. Whether you're expanding the lore, building new applications of the system, or developing stories within this framework, your input helps this world grow.
+**OpenFantasy** là một dự án mã nguồn mở và chúng tôi hoan nghênh sự đóng góp từ cộng đồng. Cho dù bạn đang mở rộng kiến thức, xây dựng các ứng dụng mới của hệ thống hay phát triển các câu chuyện trong khuôn khổ này, đầu vào của bạn sẽ giúp thế giới này phát triển.
 
-Join us in creating fantasy worlds where magic remains wondrous throughout the story—without sacrificing logical consistency or narrative tension.
+Hãy tham gia cùng chúng tôi để tạo ra những thế giới giả tưởng nơi phép thuật vẫn diệu kỳ trong suốt câu chuyện—mà không phải hy sinh tính nhất quán logic hoặc sự căng thẳng trong tường thuật.
 
 ---
 
-*To contribute, please see our [contribution guidelines](CONTRIBUTING.md) or join the discussion in our [community forums](https://openfantasy.forum).*
+*Để đóng góp, vui lòng xem [hướng dẫn đóng góp](CONTRIBUTING.md) của chúng tôi hoặc tham gia thảo luận trên [diễn đàn cộng đồng](https://openfantasy.forum) của chúng tôi.*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

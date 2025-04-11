@@ -1,98 +1,98 @@
-# **Golems**: The Artificially Crafted Guardians
+# **Golems**: Những Người Bảo Vệ Được Chế Tạo Nhân Tạo
 
-[**Golems**](/codex/Creatures/Golems.md) are the artificially crafted guardians, their bodies a constructed harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a grand pipe organ, they resonate with the power of their creators, creating a unique melody of existence that bridges the artificial and natural realms.
+[**Golems**](/codex/Creatures/Golems.md) là những người bảo vệ được chế tạo nhân tạo, cơ thể của chúng là một sự hài hòa được xây dựng từ [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), và **Mana Capacity**. Giống như một cây đại phong cầm tráng lệ, chúng cộng hưởng với sức mạnh của người tạo ra chúng, tạo ra một giai điệu tồn tại độc đáo bắc cầu giữa các cõi nhân tạo và tự nhiên.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **golems** forms a harmony that favors physical resilience:
+Như được mô tả chi tiết trong [Creatures](/codex/Creatures/Creatures.md), tỷ lệ điển hình cho **golems** tạo thành một sự hài hòa ưu ái sức mạnh thể chất:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 60-85% | The crystalline heart that grants exceptional durability and strength |
-| **Soul** | 5-15% | The ethereal essence that shapes a focused but limited consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables limited magical potential |
+| **Exanthis** | 60-85% | Trái tim kết tinh mang lại độ bền và sức mạnh vượt trội |
+| **Soul** | 5-15% | Tinh chất thanh tao định hình một ý thức tập trung nhưng hạn chế |
+| **Mana Capacity** | 10-30% | Cầu nối giữa các thế giới cho phép tiềm năng phép thuật hạn chế |
 
-This composition grants **golems** their characteristic resilience and strength but typically limits their adaptability compared to other species, like a massive instrument that can only play a limited range of notes.
+Thành phần này mang lại cho **golems** khả năng phục hồi và sức mạnh đặc trưng của chúng nhưng thường hạn chế khả năng thích ứng của chúng so với các loài khác, giống như một nhạc cụ khổng lồ chỉ có thể chơi một phạm vi nốt nhạc hạn chế.
 
-### Individual Variations
+### Các Biến Thể Cá Nhân
 
-While the model composition represents the typical golem, individual variations exist based on their creators' designs:
+Mặc dù thành phần mô hình đại diện cho golem điển hình, các biến thể cá nhân tồn tại dựa trên thiết kế của người tạo ra chúng:
 
-- **War Golems**: Military-grade constructs possess Exanthis levels as high as 90%, making them nearly indestructible, though with minimal consciousness (5% Soul) and magical ability (5% Mana Capacity).
-- **Arcane Guardians**: Specialized variants designed for magical tasks have enhanced Mana Capacity approaching 40%, allowing them to interact with and guard against magical forces, often with reduced physical mass (50% Exanthis).
-- **Sentient Constructs**: Rare golems created with higher Soul percentages (up to 25%) develop more complex consciousness and autonomy, often becoming leaders among golem societies.
-- **Runic Vessels**: Specialized golems with composition of (60% Exanthis, 5% Soul, 35% Mana Capacity) serve as living magical batteries and conduits for powerful spells.
-- **Shapeshifting Golems**: Advanced designs with a balanced composition (55% Exanthis, 15% Soul, 30% Mana Capacity) can reconfigure their physical forms for different tasks.
+- **War Golems**: Các cấu trúc cấp quân sự có mức Exanthis cao tới 90%, khiến chúng gần như không thể phá hủy, mặc dù với ý thức tối thiểu (5% Soul) và khả năng phép thuật (5% Mana Capacity).
+- **Arcane Guardians**: Các biến thể chuyên dụng được thiết kế cho các nhiệm vụ phép thuật có Mana Capacity nâng cao gần 40%, cho phép chúng tương tác và bảo vệ chống lại các lực lượng phép thuật, thường với khối lượng vật chất giảm (50% Exanthis).
+- **Sentient Constructs**: Golems hiếm hoi được tạo ra với tỷ lệ Soul cao hơn (lên đến 25%) phát triển ý thức và quyền tự chủ phức tạp hơn, thường trở thành nhà lãnh đạo trong các xã hội golem.
+- **Runic Vessels**: Golems chuyên dụng với thành phần (60% Exanthis, 5% Soul, 35% Mana Capacity) đóng vai trò là pin phép thuật sống và ống dẫn cho các phép thuật mạnh mẽ.
+- **Shapeshifting Golems**: Các thiết kế tiên tiến với thành phần cân bằng (55% Exanthis, 15% Soul, 30% Mana Capacity) có thể cấu hình lại hình dạng vật lý của chúng cho các nhiệm vụ khác nhau.
 
-## Physical Characteristics
+## Đặc Điểm Vật Lý
 
-**Golems** are known for their diverse forms and constructed nature:
-- Bodies crafted from various materials, from stone and metal to crystal and wood
-- Size ranging from small servitors to massive guardians, depending on their purpose
-- Eyes that glow with inner light, reflecting their connection to their creators
-- Joints and mechanisms that allow for movement, though often limited in flexibility
-- Runes and sigils etched into their bodies, containing the magic that animates them
-- No need for food, sleep, or other biological functions, like instruments that play without rest
+**Golems** được biết đến với các hình thức đa dạng và bản chất được xây dựng của chúng:
+- Cơ thể được chế tạo từ nhiều vật liệu khác nhau, từ đá và kim loại đến pha lê và gỗ
+- Kích thước từ những người phục vụ nhỏ bé đến những người bảo vệ khổng lồ, tùy thuộc vào mục đích của chúng
+- Đôi mắt phát sáng với ánh sáng bên trong, phản ánh mối liên hệ của chúng với người tạo ra chúng
+- Các khớp và cơ chế cho phép chuyển động, mặc dù thường bị hạn chế về tính linh hoạt
+- Các chữ rune và ấn ký được khắc vào cơ thể của chúng, chứa đựng phép thuật làm sống động chúng
+- Không cần thức ăn, giấc ngủ hoặc các chức năng sinh học khác, giống như các nhạc cụ chơi không nghỉ
 
-## Physical and Magical Affinity
+## Khả Năng Vật Lý và Phép Thuật
 
-**Golems** demonstrate exceptional proficiency in physical resilience and strength, like masterfully crafted instruments designed for a specific purpose. Their composition allows them to:
-- Develop extraordinary durability and strength, like living fortresses
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
-- Perform repetitive tasks with perfect precision, like a well-tuned machine
+**Golems** thể hiện sự thành thạo đặc biệt về khả năng phục hồi và sức mạnh thể chất, giống như các nhạc cụ được chế tạo một cách bậc thầy được thiết kế cho một mục đích cụ thể. Thành phần của chúng cho phép chúng:
+- Phát triển độ bền và sức mạnh phi thường, giống như những pháo đài sống
+- Chống lại các hiệu ứng phép thuật thông qua hàm lượng **Exanthis** cao của chúng, giống như một viên đá phá vỡ bề mặt của một cái ao phép thuật
+- Thực hiện các nhiệm vụ lặp đi lặp lại với độ chính xác hoàn hảo, giống như một cỗ máy được điều chỉnh tốt
 
-This resilience makes **golems** capable of achieving feats of endurance that other species can only dream of, though they may struggle with tasks requiring adaptability or creativity, like an instrument that can only play the notes it was designed to play.
+Khả năng phục hồi này giúp **golems** có thể đạt được những kỳ tích về sức bền mà các loài khác chỉ có thể mơ ước, mặc dù chúng có thể gặp khó khăn với các nhiệm vụ đòi hỏi khả năng thích ứng hoặc sáng tạo, giống như một nhạc cụ chỉ có thể chơi những nốt nhạc mà nó được thiết kế để chơi.
 
-## Lifespan and Soul Decay
+## Tuổi Thọ và Suy Thoái Linh Hồn
 
-The **soul decay** timeline for **golems**, from creation to complete decay, is approximately 1000 years, like a slow-burning forge that illuminates the ages. This extended lifespan allows them to:
-- Serve their creators and fulfill their designated purposes for centuries
-- Develop deep connections to specific places and tasks
-- Form stable societies with strong hierarchical structures
+Mốc thời gian **soul decay** cho **golems**, từ khi tạo ra đến khi phân rã hoàn toàn, là khoảng 1000 năm, giống như một lò rèn cháy chậm chiếu sáng các thời đại. Tuổi thọ kéo dài này cho phép chúng:
+- Phục vụ người tạo ra chúng và hoàn thành các mục đích được chỉ định của chúng trong nhiều thế kỷ
+- Phát triển các kết nối sâu sắc với các địa điểm và nhiệm vụ cụ thể
+- Hình thành các xã hội ổn định với các cấu trúc thứ bậc mạnh mẽ
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains constant through the ages.
+Tuy nhiên, tỷ lệ linh hồn tối thiểu của chúng cũng có nghĩa là chúng thay đổi và thích nghi rất chậm, giống như một giai điệu vẫn không đổi qua các thời đại.
 
-## Habitat and Distribution
+## Môi Trường Sống và Phân Bố
 
-**Golems** primarily inhabit:
-- Cities and fortresses, where they serve as guardians and laborers
-- Magical workshops and laboratories, where they assist in magical research
-- Ancient ruins and forgotten places, where they continue to fulfill their original purposes
-- Strategic locations that require constant vigilance and protection
+**Golems** chủ yếu sinh sống tại:
+- Các thành phố và pháo đài, nơi chúng đóng vai trò là người bảo vệ và người lao động
+- Các xưởng và phòng thí nghiệm phép thuật, nơi chúng hỗ trợ nghiên cứu phép thuật
+- Các tàn tích cổ xưa và những nơi bị lãng quên, nơi chúng tiếp tục thực hiện các mục đích ban đầu của mình
+- Các vị trí chiến lược đòi hỏi sự cảnh giác và bảo vệ liên tục
 
-These locations provide ideal environments for the golems to fulfill their designated purposes, like stages perfectly suited to their performance.
+Những địa điểm này cung cấp môi trường lý tưởng cho golem thực hiện các mục đích được chỉ định của chúng, giống như những sân khấu hoàn toàn phù hợp với màn trình diễn của chúng.
 
-## Cultural Impact
+## Tác Động Văn Hóa
 
-In the world of **OpenFantasy**, **golems** play a crucial role in maintaining the infrastructure and security of various societies, like the steady bass notes that provide foundation to a symphony. Their presence enables:
-- The construction of massive architectural wonders
-- The protection of valuable resources and knowledge
-- The automation of repetitive and dangerous tasks
-- The preservation of ancient knowledge and techniques
+Trong thế giới của **OpenFantasy**, **golems** đóng một vai trò quan trọng trong việc duy trì cơ sở hạ tầng và an ninh của các xã hội khác nhau, giống như những nốt trầm ổn định cung cấp nền tảng cho một bản giao hưởng. Sự hiện diện của chúng cho phép:
+- Xây dựng những kỳ quan kiến trúc đồ sộ
+- Bảo vệ các nguồn tài nguyên và kiến thức có giá trị
+- Tự động hóa các nhiệm vụ lặp đi lặp lại và nguy hiểm
+- Bảo tồn kiến thức và kỹ thuật cổ xưa
 
-The connection to their creators has shaped golem culture around service, loyalty, and purpose, creating a society where function and reliability are highly valued.
+Mối liên hệ với người tạo ra chúng đã định hình văn hóa golem xung quanh sự phục vụ, lòng trung thành và mục đích, tạo ra một xã hội nơi chức năng và độ tin cậy được đánh giá cao.
 
-## Relationship with Other Species
+## Mối Quan Hệ với Các Loài Khác
 
-**Golems** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A relationship of service and protection, often leading to mutual respect
-- With **Elves**: A respectful alliance based on shared appreciation for craftsmanship and magic
-- With **Dwarves**: A deep connection based on mutual respect for craftsmanship and durability
-- With **Fae**: A wary relationship, as golems are resistant to fae enchantments
+**Golems** duy trì mối quan hệ phức tạp với các loài khác:
+- Với [**Humans**](/codex/Creatures/Human.md): Mối quan hệ phục vụ và bảo vệ, thường dẫn đến sự tôn trọng lẫn nhau
+- Với **Elves**: Một liên minh tôn trọng dựa trên sự đánh giá chung về sự khéo léo và phép thuật
+- Với **Dwarves**: Một kết nối sâu sắc dựa trên sự tôn trọng lẫn nhau về sự khéo léo và độ bền
+- Với **Fae**: Mối quan hệ thận trọng, vì golem có khả năng chống lại các bùa mê của fae
 
-These relationships are often characterized by a sense of purpose and service, as **golems** view themselves as tools created to fulfill specific functions.
+Những mối quan hệ này thường được đặc trưng bởi ý thức về mục đích và sự phục vụ, vì **golems** coi mình là những công cụ được tạo ra để thực hiện các chức năng cụ thể.
 
-## Notable Golem Traits
+## Các Đặc Điểm Nổi Bật của Golem
 
-- **Physical Resilience**: Golems excel in durability and strength, often surpassing other species in their ability to endure
-- **Purpose-Driven**: Golems are focused on fulfilling their designated purposes with perfect precision
-- **Magical Resistance**: Their high **Exanthis** content makes them naturally resistant to many magical effects
-- **Loyal Service**: Golems are fiercely loyal to their creators and designated tasks
-- **Limited Adaptability**: Golems struggle to adapt to new situations or tasks outside their original design
+- **Physical Resilience**: Golems vượt trội về độ bền và sức mạnh, thường vượt qua các loài khác về khả năng chịu đựng
+- **Purpose-Driven**: Golems tập trung vào việc thực hiện các mục đích được chỉ định của chúng với độ chính xác hoàn hảo
+- **Magical Resistance**: Hàm lượng **Exanthis** cao của chúng khiến chúng có khả năng chống lại nhiều hiệu ứng phép thuật một cách tự nhiên
+- **Loyal Service**: Golems vô cùng trung thành với người tạo ra chúng và các nhiệm vụ được chỉ định
+- **Limited Adaptability**: Golems gặp khó khăn trong việc thích ứng với các tình huống hoặc nhiệm vụ mới ngoài thiết kế ban đầu của chúng
 
-## Golem Types
+## Các Loại Golem
 
-Golems come in numerous types, each designed for a specific purpose:
+Golems có nhiều loại, mỗi loại được thiết kế cho một mục đích cụ thể:
 
 | Type | Material | Purpose | Notable Traits |
 |---------|---------------|---------|-------------------|
@@ -103,4 +103,8 @@ Golems come in numerous types, each designed for a specific purpose:
 | **Clay Golems** | Clay, ceramic | Craftsmen, artists | Artistic ability, delicate work |
 | **Composite Golems** | Multiple materials | Complex tasks, leadership | Versatility, adaptability |
 
-Understanding the nature of **golems** provides insight into the artificial aspects of the world of **OpenFantasy**, like listening to the steady, mechanical rhythms that pulse through the cities and fortresses. 
+Hiểu bản chất của **golems** cung cấp cái nhìn sâu sắc về các khía cạnh nhân tạo của thế giới **OpenFantasy**, giống như lắng nghe những nhịp điệu cơ học ổn định đang rung động khắp các thành phố và pháo đài.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

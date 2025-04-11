@@ -1,22 +1,22 @@
-# **Wizard**: Masters of Studied Arcana
+# **Wizard**: Bậc thầy của Arcana được Nghiên cứu
 
-[**Wizards**](/codex/Classes/Wizard/Wizard.md) are intellectual spellcasters who approach magic as a science to be understood, documented, and mastered through rigorous study and experimentation. Their power comes from comprehensive knowledge of arcane formulas and meticulous practice of magical techniques.
+[**Wizards**](/codex/Classes/Wizard/Wizard.md) là những người niệm chú trí tuệ, tiếp cận phép thuật như một môn khoa học để được hiểu, ghi chép và làm chủ thông qua nghiên cứu và thử nghiệm nghiêm ngặt. Sức mạnh của họ đến từ kiến thức toàn diện về các công thức arcane và thực hành tỉ mỉ các kỹ thuật phép thuật.
 
-## Elemental Composition
+## Thành phần Nguyên tố
 
-The typical elemental ratio for **wizards** emphasizes their scholarly approach to magic:
+Tỷ lệ nguyên tố điển hình cho **wizards** nhấn mạnh cách tiếp cận học thuật của họ đối với phép thuật:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Physical vessel trained to execute precise somatic components |
-| **Soul** | 35-50% | Mental framework developed to comprehend and manipulate arcane patterns |
-| **Mana Capacity** | 25-45% | Deliberately cultivated mana reserves with exceptional control systems |
+| **Exanthis** | 15-30% | Thể chất được huấn luyện để thực hiện các thành phần somatic chính xác |
+| **Soul** | 35-50% | Khung tinh thần được phát triển để hiểu và thao túng các mẫu arcane |
+| **Mana Capacity** | 25-45% | Dự trữ mana được nuôi dưỡng một cách có chủ ý với các hệ thống kiểm soát đặc biệt |
 
-This composition distinguishes **wizards** from other spellcasters through their emphasis on understanding over raw power. Wizards develop specialized neural and spiritual pathways through years of study, creating a refined system for interpreting and manipulating magical energy. Their physical forms adapt to support the cognitive demands of spellcasting rather than serving as primary channels.
+Thành phần này phân biệt **wizards** với những người niệm chú khác thông qua sự nhấn mạnh của họ về sự hiểu biết hơn là sức mạnh thô. Wizards phát triển các con đường thần kinh và tâm linh chuyên biệt thông qua nhiều năm nghiên cứu, tạo ra một hệ thống tinh vi để giải thích và thao túng năng lượng phép thuật. Hình thức vật chất của họ thích nghi để hỗ trợ nhu cầu nhận thức của việc niệm chú hơn là đóng vai trò là kênh chính.
 
-### Magical Affinity Profile
+### Hồ sơ Ái lực Phép thuật
 
-Wizards develop specific affinities based on their school of specialization:
+Wizards phát triển các ái lực cụ thể dựa trên trường phái chuyên môn của họ:
 
 | School | Primary Affinities | Secondary Affinities | Typical Application |
 |--------------|-------------------|---------------------|---------------------|
@@ -29,16 +29,20 @@ Wizards develop specific affinities based on their school of specialization:
 | **Necromancy** | Thanatomana | Base Mana (Vitality) | Animation, life force manipulation |
 | **Transmutation** | Base Mana (Transformation) | Element matching target | Matter alteration, physical law manipulation |
 
-Wizards typically achieve 40-60% resonance with their specialized school's elements, with decades of study potentially raising this to 70-85% in their areas of expertise. Their scholarly approach enables them to achieve high mana purity (45-65%) through disciplined purification techniques, with archmages reaching 75-90% purity in their specialized fields.
+Wizards thường đạt được độ cộng hưởng 40-60% với các yếu tố của trường phái chuyên môn của họ, với hàng thập kỷ nghiên cứu có khả năng nâng cao điều này lên 70-85% trong các lĩnh vực chuyên môn của họ. Cách tiếp cận học thuật của họ cho phép họ đạt được độ tinh khiết mana cao (45-65%) thông qua các kỹ thuật thanh lọc có kỷ luật, với các archmages đạt đến độ tinh khiết 75-90% trong các lĩnh vực chuyên môn của họ.
 
-### Species-Specific Variations
+### Các Biến thể Cụ thể theo Loài
 
-Different species show varying natural inclinations toward the wizard class:
+Các loài khác nhau cho thấy những khuynh hướng tự nhiên khác nhau đối với lớp wizard:
 
-- **Humans** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Their adaptability allows for comprehensive magical study across multiple disciplines, with moderate specialization potential.
-- **High Elves** (10-25% Exanthis, 40-55% Soul, 30-50% Mana Capacity): Their longevity and natural magical attunement creates exceptional retention of complex arcane formulas.
-- **Gnomes** (15-25% Exanthis, 45-60% Soul, 20-40% Mana Capacity): Their innovative thinking creates natural affinity for illusion and transmutation magic.
-- **Tieflings** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Their infernal heritage provides intuitive understanding of certain arcane concepts, particularly conjuration and evocation.
-- **Dragonborn** (20-35% Exanthis, 30-45% Soul, 25-45% Mana Capacity): Their draconic connection provides natural aptitude for evocation magic related to their ancestry.
+- **Humans** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Khả năng thích ứng của họ cho phép nghiên cứu phép thuật toàn diện trên nhiều ngành, với tiềm năng chuyên môn hóa vừa phải.
+- **High Elves** (10-25% Exanthis, 40-55% Soul, 30-50% Mana Capacity): Tuổi thọ và sự hòa hợp phép thuật tự nhiên của họ tạo ra khả năng lưu giữ đặc biệt các công thức arcane phức tạp.
+- **Gnomes** (15-25% Exanthis, 45-60% Soul, 20-40% Mana Capacity): Tư duy sáng tạo của họ tạo ra ái lực tự nhiên cho phép thuật illusion và transmutation.
+- **Tieflings** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Di sản infernal của họ cung cấp sự hiểu biết trực quan về một số khái niệm arcane, đặc biệt là conjuration và evocation.
+- **Dragonborn** (20-35% Exanthis, 30-45% Soul, 25-45% Mana Capacity): Kết nối draconic của họ cung cấp năng khiếu tự nhiên cho phép thuật evocation liên quan đến tổ tiên của họ.
 
 // ... rest of the file remains unchanged ... 
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

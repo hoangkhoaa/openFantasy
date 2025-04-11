@@ -1,233 +1,237 @@
-# **Weapon Control**
+# **Điều Khiển Vũ Khí**
 
-> *"The unbound blade dances at your command, not bound by the limitations of flesh, but guided by the precision of will."*  
-> — Swordmaster Arlan Vostel, Founder of the Orbiting Blade Technique
+> *"Lưỡi kiếm không ràng buộc khiêu vũ theo mệnh lệnh của bạn, không bị giới hạn bởi xác thịt, mà được dẫn dắt bởi sự chính xác của ý chí."*
+> — Kiếm Sư Arlan Vostel, Người sáng lập Kỹ Thuật Lưỡi Kiếm Quỹ Đạo
 
-## Casting Information
-- **Difficulty**: Intermediate to Expert
-- **Casting Time**: 1-3 seconds (initial control), instantaneous (subsequent directions)
-- **Duration**: Concentration, up to 1 minute
-- **Range**: 30 feet (standard), up to 60 feet (mastery)
-- **Components**: Somatic, Focus (weapon or projectile)
+## Thông Tin Thi triển
+- **Độ Khó**: Trung Bình đến Chuyên Gia
+- **Thời Gian Thi triển**: 1-3 giây (kiểm soát ban đầu), tức thời (chỉ dẫn tiếp theo)
+- **Thời Gian Duy Trì**: Tập trung, tối đa 1 phút
+- **Phạm Vi**: 30 feet (tiêu chuẩn), lên đến 60 feet (bậc thầy)
+- **Thành Phần**: Động tác, Tiêu Điểm (vũ khí hoặc đạn)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 75%, Aeromana 15%, Terramana 10%
-- **Primary Factor**: Technical Mastery and Training (more significant than purity)
-- **Minimum Mana Capacity**: 20% (Higher capacity allows controlling heavier/more objects)
-- **Pattern Complexity**: Moderate (4-tier control matrix with targeting subpattern)
-- **Resonance Frequency**: Mid-range physical spectrum with harmonic oscillation
-- **Roaming Mana Utilization**: High (Typically operates at sustainable regeneration limits)
+## Chi Tiết Kỹ Thuật
+- **Phân Bổ Loại Mana**: Mana Gốc 75%, Aeromana 15%, Terramana 10%
+- **Yếu Tố Chính**: Kỹ Năng Chuyên Môn và Huấn Luyện (quan trọng hơn độ tinh khiết)
+- **Dung Lượng Mana Tối Thiểu**: 20% (Dung lượng cao hơn cho phép điều khiển các vật thể nặng hơn/nhiều hơn)
+- **Độ Phức Tạp của Mẫu**: Trung Bình (ma trận điều khiển 4 tầng với mẫu con nhắm mục tiêu)
+- **Tần Số Cộng Hưởng**: Phổ vật lý tầm trung với dao động hài hòa
+- **Sử Dụng Mana Lang Thang**: Cao (Thường hoạt động ở giới hạn tái tạo bền vững)
 
-## Core Principles
+## Nguyên Tắc Cốt Lõi
 
-Weapon Control enables the magical manipulation of weapons, projectiles, or other combat implements without physical contact. The spell creates a resonant connection between the caster's mana and the target objects, allowing for precise control of movement, trajectory, and impact force.
+Điều Khiển Vũ Khí cho phép thao túng ma thuật các vũ khí, đạn, hoặc các công cụ chiến đấu khác mà không cần tiếp xúc vật lý. Phép thuật tạo ra một kết nối cộng hưởng giữa mana của người thi triển và các đối tượng mục tiêu, cho phép kiểm soát chính xác chuyển động, quỹ đạo và lực tác động.
 
-Unlike simpler force vector spells, Weapon Control maintains a persistent connection that permits ongoing manipulation and direction changes. The core pattern establishes:
+Không giống như các phép thuật véc tơ lực đơn giản hơn, Điều Khiển Vũ Khí duy trì một kết nối liên tục cho phép thao tác và thay đổi hướng liên tục. Mẫu cốt lõi thiết lập:
 
-1. **Connection Tether**: The resonant link between caster and weapon
-2. **Momentum Matrix**: The control system for speed and directional change
-3. **Balance Stabilizer**: The component maintaining weapon orientation
-4. **Target Acquisition**: The optional component enabling guided strikes
-5. **Force Amplifier**: The energy transfer mechanism for impact
+1. **Dây Neo Kết Nối**: Liên kết cộng hưởng giữa người thi triển và vũ khí
+2. **Ma Trận Động Lượng**: Hệ thống điều khiển tốc độ và thay đổi hướng
+3. **Bộ Ổn Định Cân Bằng**: Thành phần duy trì hướng của vũ khí
+4. **Nhắm Mục Tiêu**: Thành phần tùy chọn cho phép tấn công có hướng dẫn
+5. **Bộ Khuếch Đại Lực**: Cơ chế truyền năng lượng cho tác động
 
-While many combat spells require high purity levels, Weapon Control is distinct in its emphasis on technical proficiency over raw mana quality. Masters of this art often possess only moderate purity levels but have developed exceptional precision in their technique through thousands of hours of disciplined practice.
+Trong khi nhiều phép thuật chiến đấu đòi hỏi mức độ tinh khiết cao, Điều Khiển Vũ Khí khác biệt ở chỗ nó nhấn mạnh vào trình độ kỹ thuật hơn là chất lượng mana thô. Bậc thầy của nghệ thuật này thường chỉ sở hữu mức độ tinh khiết vừa phải nhưng đã phát triển độ chính xác đặc biệt trong kỹ thuật của họ thông qua hàng ngàn giờ luyện tập kỷ luật.
 
-## Standard Variants
+## Các Biến Thể Tiêu Chuẩn
 
-### Single Weapon Control
-The foundational application for manipulating one weapon:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Complete control over one weapon's movement
-- **Typical Users**: Duelists, Battle Mages, Elite Warriors
-- **Applications**: Extended attack range, surprise angles, reaching inaccessible targets
+### Điều Khiển Vũ Khí Đơn
+Ứng dụng cơ bản để thao túng một vũ khí:
+- **Độ Khó**: Trung Bình
+- **Yêu Cầu Độ Tinh Khiết**: Tinh Chế (30-40%)
+- **Hiệu Ứng**: Kiểm soát hoàn toàn chuyển động của một vũ khí
+- **Người Dùng Tiêu Biểu**: Người đấu tay đôi, Pháp Sư Chiến Đấu, Chiến Binh Ưu Tú
+- **Ứng Dụng**: Tầm tấn công mở rộng, góc tấn công bất ngờ, tiếp cận mục tiêu không thể tiếp cận
 
-### Projectile Guidance
-Influences the flight path of thrown weapons or arrows:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Adjusts trajectory of projectiles after release
-- **Typical Users**: Rangers, Scouts, Specialist Archers
-- **Applications**: Curving shots around obstacles, extending effective range, compensating for wind
+### Hướng Dẫn Đường Đạn
+Ảnh hưởng đến đường bay của vũ khí ném hoặc mũi tên:
+- **Độ Khó**: Trung Bình
+- **Yêu Cầu Độ Tinh Khiết**: Tinh Chế (35-45%)
+- **Hiệu Ứng**: Điều chỉnh quỹ đạo của đạn sau khi thả
+- **Người Dùng Tiêu Biểu**: Xạ Thủ, Trinh Sát, Cung Thủ Chuyên Nghiệp
+- **Ứng Dụng**: Bẻ cong đường bắn xung quanh chướng ngại vật, mở rộng phạm vi hiệu quả, bù trừ cho gió
 
-### Weapon Retrieval
-Specialized variant focused on returning weapons to the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Pulls a weapon back to the caster's hand
-- **Typical Users**: Weapon Specialists, Close Combat Fighters
-- **Applications**: Recovering thrown weapons, disarm countering, tactical repositioning
+### Thu Hồi Vũ Khí
+Biến thể chuyên biệt tập trung vào việc trả vũ khí về cho người thi triển:
+- **Độ Khó**: Trung Bình
+- **Yêu Cầu Độ Tinh Khiết**: Tinh Chế (30-40%)
+- **Hiệu Ứng**: Kéo một vũ khí trở lại tay người thi triển
+- **Người Dùng Tiêu Biểu**: Chuyên Gia Vũ Khí, Chiến Binh Cận Chiến
+- **Ứng Dụng**: Phục hồi vũ khí ném, phản công tước vũ khí, định vị lại chiến thuật
 
-## Advanced Variants
+## Các Biến Thể Nâng Cao
 
-### Multiple Weapon Orchestra
-Controls several weapons simultaneously:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Manipulates 2-5 weapons independently
-- **Typical Users**: Blade Dancers, Master Battle Mages
-- **Applications**: Multi-directional attacks, defensive screens, coordinated patterns
+### Hòa Nhạc Đa Vũ Khí
+Điều khiển đồng thời một số vũ khí:
+- **Độ Khó**: Chuyên Gia
+- **Yêu Cầu Độ Tinh Khiết**: Hoàn Hảo (60-70%)
+- **Hiệu Ứng**: Thao túng 2-5 vũ khí một cách độc lập
+- **Người Dùng Tiêu Biểu**: Vũ Công Lưỡi Kiếm, Pháp Sư Chiến Đấu Bậc Thầy
+- **Ứng Dụng**: Tấn công đa hướng, màn chắn phòng thủ, các mẫu phối hợp
 
-### Precision Strike
-Enhances accuracy and penetrating power:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Guides weapons with surgical precision to vulnerable points
-- **Typical Users**: Assassins, Elite Rangers, Precision Specialists
-- **Applications**: Targeting weak points in armor, striking vital areas, threading narrow gaps
+### Đòn Đánh Chính Xác
+Nâng cao độ chính xác và sức xuyên phá:
+- **Độ Khó**: Chuyên Gia
+- **Yêu Cầu Độ Tinh Khiết**: Hoàn Hảo (65-75%)
+- **Hiệu Ứng**: Dẫn đường vũ khí với độ chính xác phẫu thuật đến các điểm dễ bị tổn thương
+- **Người Dùng Tiêu Biểu**: Sát Thủ, Xạ Thủ Ưu Tú, Chuyên Gia Chính Xác
+- **Ứng Dụng**: Nhắm vào điểm yếu trong áo giáp, tấn công các khu vực quan trọng, luồn qua các khe hẹp
 
-### Combat Swarm
-Controls numerous small projectiles as a coordinated group:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-80%)
-- **Effect**: Manipulates 10-30 small objects (darts, needles, shards)
-- **Typical Users**: Specialized Mages, Elite Assassins
-- **Applications**: Area denial, multiple target engagement, distraction tactics
+### Bầy Chiến Đấu
+Điều khiển nhiều đạn nhỏ như một nhóm phối hợp:
+- **Độ Khó**: Bậc Thầy
+- **Yêu Cầu Độ Tinh Khiết**: Hoàn Hảo (70-80%)
+- **Hiệu Ứng**: Thao túng 10-30 vật thể nhỏ (phi tiêu, kim, mảnh vỡ)
+- **Người Dùng Tiêu Biểu**: Pháp Sư Chuyên Biệt, Sát Thủ Ưu Tú
+- **Ứng Dụng**: Chặn khu vực, giao chiến nhiều mục tiêu, chiến thuật đánh lạc hướng
 
-## Technique Influence on Effect
+## Ảnh Hưởng của Kỹ Thuật Đến Hiệu Ứng
 
-Unlike many complex spells, Weapon Control effectiveness is determined more by training and technique than by mana purity:
+Không giống như nhiều phép thuật phức tạp, hiệu quả của Điều Khiển Vũ Khí được quyết định nhiều hơn bởi huấn luyện và kỹ thuật hơn là độ tinh khiết của mana:
 
-| Training Level | Control Precision | Maximum Weight | Sustainability |
+| Cấp Độ Huấn Luyện | Độ Chính Xác Điều Khiển | Trọng Lượng Tối Đa | Tính Bền Vững |
 |----------------|-------------------|----------------|----------------|
-| Novice | Basic directional control, simple movements | Single light weapon (up to 3 lbs) | High energy cost, brief duration |
-| Intermediate | Smooth trajectories, controlled speed | Medium weapons (up to 8 lbs) | Moderate efficiency, operates within regeneration |
-| Advanced | Complex maneuvers, accurate targeting | Heavy weapons (up to 15 lbs) | Efficient use, sustainable for combat duration |
-| Master | Intricate patterns, perfect balance, combat integration | Multiple weapons or very heavy implements (20+ lbs) | Optimized for regeneration equilibrium |
+| Người Mới | Kiểm soát hướng cơ bản, các chuyển động đơn giản | Vũ khí nhẹ đơn (lên đến 3 lbs) | Chi phí năng lượng cao, thời gian ngắn |
+| Trung Bình | Quỹ đạo mượt mà, tốc độ được kiểm soát | Vũ khí trung bình (lên đến 8 lbs) | Hiệu quả vừa phải, hoạt động trong quá trình tái tạo |
+| Nâng Cao | Các thao tác phức tạp, nhắm mục tiêu chính xác | Vũ khí nặng (lên đến 15 lbs) | Sử dụng hiệu quả, bền vững trong thời gian chiến đấu |
+| Bậc Thầy | Các mẫu phức tạp, cân bằng hoàn hảo, tích hợp chiến đấu | Nhiều vũ khí hoặc dụng cụ rất nặng (20+ lbs) | Tối ưu hóa cho cân bằng tái tạo |
 
-Practitioners train to utilize ambient roaming mana to supplement their personal reserves, allowing them to maintain control for extended periods. The most skilled users establish an energy equilibrium where they expend only as much mana as they naturally regenerate, creating theoretically indefinite control periods.
+Người luyện tập huấn luyện để sử dụng mana lang thang xung quanh để bổ sung vào dự trữ cá nhân của họ, cho phép họ duy trì quyền kiểm soát trong thời gian dài. Những người dùng lành nghề nhất thiết lập một trạng thái cân bằng năng lượng, nơi họ chỉ tiêu tốn lượng mana bằng lượng họ tái tạo một cách tự nhiên, tạo ra thời gian kiểm soát về mặt lý thuyết là vô hạn.
 
-## Mana Capacity and Object Relationship
+## Mối Quan Hệ Giữa Dung Lượng Mana và Đối Tượng
 
-The primary limiting factor in Weapon Control is the relationship between mana capacity and controlled object mass:
+Yếu tố hạn chế chính trong Điều Khiển Vũ Khí là mối quan hệ giữa dung lượng mana và khối lượng đối tượng được điều khiển:
 
-| Mana Capacity | Maximum Sustainable Weight | Number of Objects | Duration at Maximum Load |
+| Dung Lượng Mana | Trọng Lượng Bền Vững Tối Đa | Số Lượng Đối Tượng | Thời Gian Duy Trì ở Tải Tối Đa |
 |---------------|----------------------------|-------------------|--------------------------|
-| 20-30% | Up to 10 pounds total | 1-2 objects | Combat duration (sustainable) |
-| 31-45% | Up to 25 pounds total | 2-3 objects | Combat duration (sustainable) |
-| 46-60% | Up to 50 pounds total | 3-5 objects | Limited combat (approaching regeneration limit) |
-| 61-75% | Up to 100 pounds total | 5-8 objects | Brief periods (exceeds regeneration) |
-| 76%+ | 100+ pounds total | 8+ objects | Tactical moments only (rapidly depletes reserves) |
+| 20-30% | Lên đến tổng cộng 10 pound | 1-2 đối tượng | Thời gian chiến đấu (bền vững) |
+| 31-45% | Lên đến tổng cộng 25 pound | 2-3 đối tượng | Thời gian chiến đấu (bền vững) |
+| 46-60% | Lên đến tổng cộng 50 pound | 3-5 đối tượng | Chiến đấu hạn chế (tiệm cận giới hạn tái tạo) |
+| 61-75% | Lên đến tổng cộng 100 pound | 5-8 đối tượng | Thời gian ngắn (vượt quá khả năng tái tạo) |
+| 76%+ | Tổng cộng 100+ pound | 8+ đối tượng | Chỉ những khoảnh khắc chiến thuật (cạn kiệt nhanh chóng dự trữ) |
 
-Experienced practitioners typically operate at 70-85% of their maximum capacity to maintain combat effectiveness while ensuring sustainable mana expenditure.
+Người có kinh nghiệm thường hoạt động ở mức 70-85% dung lượng tối đa của họ để duy trì hiệu quả chiến đấu đồng thời đảm bảo mức tiêu thụ mana bền vững.
 
-## Class-Specific Applications
+## Ứng Dụng Riêng cho Từng Lớp
 
-### Warrior Class
-- **Orbital Shield**: Circling weapon providing mobile defense
-- **Extended Reach**: Attacking beyond normal melee range
-- **Flanking Strike**: Attacking from unexpected angles
-- **Weapon Swap**: Quickly exchanging wielded and controlled weapons
+### Lớp Chiến Binh
+- **Khiên Quỹ Đạo**: Vũ khí xoay vòng cung cấp khả năng phòng thủ di động
+- **Tầm Vươn Mở Rộng**: Tấn công vượt quá tầm đánh cận chiến thông thường
+- **Tấn Công Bên Sườn**: Tấn công từ các góc bất ngờ
+- **Đổi Vũ Khí**: Nhanh chóng trao đổi vũ khí được cầm và vũ khí được điều khiển
 
-### Rogue/Assassin Class
-- **Silent Strike**: Weapon attacks without revealing caster position
-- **Needle Storm**: Controlling multiple poisoned projectiles
-- **Distraction Array**: Creating diversions with controlled objects
-- **Lock Manipulation**: Controlling lockpicks or small tools remotely
+### Lớp Du Côn/Sát Thủ
+- **Đòn Đánh Im Lặng**: Tấn công bằng vũ khí mà không tiết lộ vị trí người thi triển
+- **Bão Kim**: Điều khiển nhiều đạn tẩm độc
+- **Mảng Phân Tâm**: Tạo ra sự phân tâm bằng các đối tượng được điều khiển
+- **Thao Túng Ổ Khóa**: Điều khiển từ xa các dụng cụ mở khóa hoặc các công cụ nhỏ
 
-### Ranger Class
-- **Arrow Guidance**: Steering arrows around obstacles after firing
-- **Multi-Shot Control**: Guiding several arrows to different targets
-- **Retrieval Hunt**: Recovering valuable or special arrows
-- **Signal Arrows**: Complex flight paths for communication signals
+### Lớp Xạ Thủ
+- **Dẫn Đường Mũi Tên**: Điều khiển mũi tên bay vòng qua chướng ngại vật sau khi bắn
+- **Kiểm Soát Đa Tiêu**: Dẫn đường nhiều mũi tên đến các mục tiêu khác nhau
+- **Săn Thu Hồi**: Thu hồi các mũi tên quý giá hoặc đặc biệt
+- **Mũi Tên Tín Hiệu**: Đường bay phức tạp cho tín hiệu liên lạc
 
-### Mage Class
-- **Arcane Defender**: Orbiting weapon while casting other spells
-- **Focus Control**: Manipulating magical implements without physical touch
-- **Material Manipulation**: Precise control of ritual components
-- **Spell Conduit**: Using controlled weapons as delivery systems for touch spells
+### Lớp Pháp Sư
+- **Người Bảo Vệ Bí Thuật**: Vũ khí xoay vòng trong khi thi triển các phép thuật khác
+- **Kiểm Soát Tiêu Điểm**: Thao túng các công cụ ma thuật mà không cần chạm vào
+- **Thao Túng Vật Chất**: Kiểm soát chính xác các thành phần nghi lễ
+- **Ống Dẫn Phép Thuật**: Sử dụng vũ khí được điều khiển làm hệ thống phân phối cho phép thuật chạm
 
-## Training Progression
+## Tiến Trình Huấn Luyện
 
-### Fundamental Control
-- Connection establishment exercises
-- Basic directional control drills
-- Weight and balance adaptation
-- Simple patterns and movements
+### Kiểm Soát Cơ Bản
+- Các bài tập thiết lập kết nối
+- Các bài tập kiểm soát hướng cơ bản
+- Thích ứng với trọng lượng và cân bằng
+- Các mẫu và chuyển động đơn giản
 
-### Intermediate Mastery
-- Sustained control during caster movement
-- Precise targeting and impact control
-- Transitioning between different movement patterns
-- Multi-object awareness development
-- Roaming mana harvesting techniques
+### Thành Thạo Trung Bình
+- Kiểm soát bền vững trong khi người thi triển di chuyển
+- Nhắm mục tiêu chính xác và kiểm soát tác động
+- Chuyển đổi giữa các mẫu chuyển động khác nhau
+- Phát triển nhận thức đa đối tượng
+- Các kỹ thuật thu hoạch mana lang thang
 
-### Advanced Techniques
-- Independent object movement coordination
-- Combat integration with physical attacks
-- Environmental interaction and obstacle navigation
-- Specialized applications for different weapon types
-- Regeneration-synchronized control rhythms
+### Kỹ Thuật Nâng Cao
+- Phối hợp chuyển động đối tượng độc lập
+- Tích hợp chiến đấu với các cuộc tấn công vật lý
+- Tương tác với môi trường và điều hướng chướng ngại vật
+- Ứng dụng chuyên biệt cho các loại vũ khí khác nhau
+- Nhịp điệu kiểm soát đồng bộ hóa tái tạo
 
-### Master Level Training
-- Combat flow state achievement
-- Mana efficiency optimization
-- Weight-to-distance ratio mastery
-- Simultaneous ranged and melee control
-- Defensive and offensive pattern integration
+### Huấn Luyện Cấp Bậc Thầy
+- Đạt được trạng thái dòng chảy chiến đấu
+- Tối ưu hóa hiệu quả mana
+- Làm chủ tỷ lệ trọng lượng trên khoảng cách
+- Kiểm soát đồng thời tầm xa và cận chiến
+- Tích hợp mẫu phòng thủ và tấn công
 
-## Technical Considerations
+## Các Cân Nhắc Kỹ Thuật
 
-- **Regeneration Synchronization**: Techniques to match mana expenditure with natural recovery rate
-- **Ambient Mana Harvesting**: Methods to supplement personal reserves with environmental energy
-- **Connection Efficiency**: Minimizing energy loss in the control tether
-- **Weight Distribution Analysis**: Understanding how a weapon's balance affects control requirements
-- **Pattern Streamlining**: Eliminating unnecessary complexity in control matrices
-- **Energy Circuit Optimization**: Creating closed loops that recycle portions of expended mana
+- **Đồng Bộ Hóa Tái Tạo**: Các kỹ thuật để khớp mức tiêu thụ mana với tốc độ phục hồi tự nhiên
+- **Thu Hoạch Mana Xung Quanh**: Các phương pháp để bổ sung dự trữ cá nhân bằng năng lượng môi trường
+- **Hiệu Quả Kết Nối**: Giảm thiểu tổn thất năng lượng trong dây neo điều khiển
+- **Phân Tích Phân Bổ Trọng Lượng**: Hiểu cách cân bằng của vũ khí ảnh hưởng đến các yêu cầu kiểm soát
+- **Hợp Lý Hóa Mẫu**: Loại bỏ sự phức tạp không cần thiết trong ma trận điều khiển
+- **Tối Ưu Hóa Mạch Năng Lượng**: Tạo ra các vòng kín tái chế các phần mana đã tiêu
 
-## Risk Factors
+## Các Yếu Tố Rủi Ro
 
-### Common Mishaps
-- **Control Inversion**: Weapon movement opposite to intended direction
-- **Oscillation Cascade**: Uncontrollable wobbling or vibration
-- **Tether Snap**: Sudden loss of connection during crucial moments
-- **Rebound Effect**: Weapon unexpectedly returning toward caster
-- **Pattern Interference**: Multiple controlled objects colliding
+### Tai Nạn Phổ Biến
+- **Đảo Ngược Điều Khiển**: Chuyển động của vũ khí ngược lại với hướng dự định
+- **Thác Dao Động**: Sự rung lắc hoặc rung động không kiểm soát được
+- **Đứt Dây Neo**: Đột ngột mất kết nối trong những thời điểm quan trọng
+- **Hiệu Ứng Bật Lại**: Vũ khí bất ngờ quay trở lại về phía người thi triển
+- **Giao Thoa Mẫu**: Nhiều đối tượng được điều khiển va chạm
 
-### Safety Practices
-- Training with blunted or weighted practice weapons
-- Establishing emergency release protocol
-- Practicing in spaces with adequate clearance
-- Developing muscle memory for standard movement patterns
-- Regular connection refresh during extended control periods
+### Biện Pháp An Toàn
+- Huấn luyện với vũ khí thực hành cùn hoặc có trọng lượng
+- Thiết lập giao thức giải phóng khẩn cấp
+- Luyện tập trong không gian có đủ khoảng trống
+- Phát triển trí nhớ cơ bắp cho các mẫu chuyển động tiêu chuẩn
+- Làm mới kết nối thường xuyên trong thời gian kiểm soát kéo dài
 
-## Specific Weapon Considerations
+## Các Cân Nhắc Vũ Khí Cụ Thể
 
-### Bladed Weapons
-Offer excellent control characteristics due to balance and aerodynamics:
-- **Daggers**: Highest precision, ideal for beginners
-- **Swords**: Good balance of reach and maneuverability
-- **Axes**: Require special attention to rotational momentum
-- **Polearms**: Excellent reach but challenging rotational control
+### Vũ Khí Sắc Bén
+Cung cấp các đặc tính điều khiển tuyệt vời do cân bằng và khí động học:
+- **Dao Găm**: Độ chính xác cao nhất, lý tưởng cho người mới bắt đầu
+- **Kiếm**: Cân bằng tốt giữa tầm với và khả năng cơ động
+- **Rìu**: Yêu cầu đặc biệt chú ý đến động lượng quay
+- **Vũ Khí Cán Dài**: Tầm với tuyệt vời nhưng kiểm soát quay đầy thách thức
 
-### Projectile Weapons
-Particularly suited for guidance rather than full control:
-- **Arrows**: Respond well to minor course corrections
-- **Throwing Knives**: Balance makes them ideal for controlled returns
-- **Darts/Needles**: Perfect for swarm techniques but limited individual impact
-- **Javelins**: Excellent distance but require higher purity for effective guidance
+### Vũ Khí Bắn
+Đặc biệt thích hợp cho việc dẫn đường hơn là kiểm soát hoàn toàn:
+- **Mũi Tên**: Phản hồi tốt với các chỉnh sửa khóa học nhỏ
+- **Dao Ném**: Cân bằng làm cho chúng lý tưởng cho việc trả lại có kiểm soát
+- **Phi Tiêu/Kim**: Hoàn hảo cho các kỹ thuật bầy nhưng tác động cá nhân hạn chế
+- **Giáo**: Khoảng cách tuyệt vời nhưng đòi hỏi độ tinh khiết cao hơn để dẫn đường hiệu quả
 
-### Specialty Applications
-Unusual but effective implementations:
-- **Chain Weapons**: Complex but devastating when mastered
-- **Shrapnel Control**: Directing fragments after explosive impacts
-- **Dust/Powder**: Fine control creates blinding or poisonous clouds
-- **Liquid Projectiles**: Advanced technique for controlling thrown potions or alchemical substances
+### Ứng Dụng Đặc Biệt
+Triển khai khác thường nhưng hiệu quả:
+- **Vũ Khí Dây Xích**: Phức tạp nhưng tàn khốc khi thành thạo
+- **Kiểm Soát Mảnh Vụn**: Chỉ đạo các mảnh vỡ sau các tác động nổ
+- **Bụi/Bột**: Kiểm soát tốt tạo ra các đám mây mù hoặc độc hại
+- **Đạn Lỏng**: Kỹ thuật nâng cao để kiểm soát thuốc hoặc chất hóa học ném
 
-## Historical Development
+## Phát Triển Lịch Sử
 
-Weapon Control magic emerged during the early Third Age from martial traditions seeking to extend combat capabilities. The Vostel Academy of Kinetic Arts formalized the first comprehensive curriculum, but the spell's true potential was realized during the Mage Wars when resource limitations forced innovative applications of simple spells.
+Phép thuật Điều Khiển Vũ Khí xuất hiện trong Kỷ Nguyên Thứ Ba từ các truyền thống võ thuật tìm cách mở rộng khả năng chiến đấu. Học viện Nghệ thuật Động lực Vostel đã chính thức hóa chương trình giảng dạy toàn diện đầu tiên, nhưng tiềm năng thực sự của phép thuật đã được nhận ra trong Chiến Tranh Pháp Thuật khi sự hạn chế về tài nguyên buộc phải có các ứng dụng sáng tạo của các phép thuật đơn giản.
 
-What differentiated Weapon Control from other combat magics was its focus on applied technique rather than theoretical mastery. Warriors with only basic magical talent could achieve remarkable results through disciplined practice, establishing it as the premier combat system for those who lacked the capacity or inclination for high-purity spellcasting. This accessibility revolutionized battlefield tactics by providing enhanced capabilities to fighters rather than limiting advanced magical combat to dedicated mages.
+Điều phân biệt Điều Khiển Vũ Khí với các phép thuật chiến đấu khác là sự tập trung vào kỹ thuật ứng dụng hơn là làm chủ lý thuyết. Các chiến binh chỉ có tài năng ma thuật cơ bản có thể đạt được kết quả đáng chú ý thông qua luyện tập kỷ luật, thiết lập nó như hệ thống chiến đấu hàng đầu cho những người thiếu khả năng hoặc khuynh hướng thi triển phép thuật độ tinh khiết cao. Khả năng tiếp cận này đã cách mạng hóa các chiến thuật trên chiến trường bằng cách cung cấp các khả năng nâng cao cho các chiến binh thay vì giới hạn chiến đấu ma thuật nâng cao cho các pháp sư chuyên dụng.
 
-> *"Purity is a scholar's concern. In the crucible of battle, it is technique that divides the living from the dead. I have seen novices with perfect mana fail where veterans with practiced hands prevail."* — From "The Floating Edge," Arlan Vostel's training manual
+> *"Độ tinh khiết là mối quan tâm của học giả. Trong lò lửa chiến đấu, chính kỹ thuật phân chia sự sống với cái chết. Tôi đã thấy những người mới bắt đầu có mana hoàn hảo thất bại nơi những cựu chiến binh có bàn tay luyện tập thành công."* — Từ "Lưỡi Dao Nổi", sổ tay huấn luyện của Arlan Vostel
 
-## Practical Notes
+## Ghi Chú Thực Tế
 
-Weapon Control is particularly synergistic with weapons specially designed or enchanted for magical manipulation. Such weapons often feature balanced construction, resonant materials, or specific enchantments that reduce the mana cost of control.
+Điều Khiển Vũ Khí đặc biệt hiệp đồng với vũ khí được thiết kế hoặc mê hoặc đặc biệt để thao tác ma thuật. Những vũ khí như vậy thường có cấu trúc cân bằng, vật liệu cộng hưởng hoặc các bùa chú cụ thể giúp giảm chi phí mana để kiểm soát.
 
-Many practitioners develop personalized movement patterns or "forms" that their controlled weapons follow, allowing for rapid deployment of complex maneuvers with minimal additional concentration once the base pattern is established.
+Nhiều người thực hành phát triển các mẫu chuyển động hoặc "hình thức" được cá nhân hóa mà vũ khí được điều khiển của họ tuân theo, cho phép triển khai nhanh chóng các thao tác phức tạp với sự tập trung tối thiểu sau khi mẫu cơ bản được thiết lập.
 
 ---
 
-*See also: [Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Combat Magic Fundamentals](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [Telekinetic Applications](/codex/Magics/Spells/Utility/TelekineticApplications.md)* 
+*Xem thêm: [Véc Tơ Lực](/codex/Magics/Spells/Utility/ForceVector.md), [Nguyên Tắc Cơ Bản của Ma Thuật Chiến Đấu](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [Ứng Dụng Thần Giao Cách Cảm](/codex/Magics/Spells/Utility/TelekineticApplications.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

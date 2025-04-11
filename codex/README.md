@@ -1,157 +1,161 @@
 # OpenFantasy World Codex
 
-> *"A world of magic and wonder awaits, where every soul contributes to the grand symphony of existence."*
+> *"Một thế giới của phép thuật và kỳ diệu đang chờ đợi, nơi mỗi linh hồn đóng góp vào bản giao hưởng vĩ đại của sự tồn tại."*
 
-## Overview
+## Tổng quan
 
-Welcome to the OpenFantasy World Codex, a comprehensive repository of knowledge about the OpenFantasy universe. This codex contains detailed information about the world's fundamental principles, inhabitants, magic systems, locations, items, and more.
+Chào mừng đến với OpenFantasy World Codex, một kho lưu trữ kiến thức toàn diện về vũ trụ OpenFantasy. Codex này chứa thông tin chi tiết về các nguyên tắc cơ bản, cư dân, hệ thống ma thuật, địa điểm, vật phẩm và nhiều thứ khác của thế giới.
 
-## Quick Navigation
+## Điều hướng nhanh
 
-- [World Fundamentals](#world-fundamentals)
-- [Creatures and Species](#creatures-and-species)
-- [Magic System](#magic-system)
-- [Character Classes](#character-classes)
-- [World Geography](#world-geography)
-- [Items and Artifacts](#items-and-artifacts)
-- [Repository Structure](#repository-structure)
+- [Nguyên tắc cơ bản của thế giới](#world-fundamentals)
+- [Sinh vật và loài](#creatures-and-species)
+- [Hệ thống ma thuật](#magic-system)
+- [Lớp nhân vật](#character-classes)
+- [Địa lý thế giới](#world-geography)
+- [Vật phẩm và cổ vật](#items-and-artifacts)
+- [Cấu trúc kho lưu trữ](#repository-structure)
 
-## World Fundamentals
+## Nguyên tắc cơ bản của thế giới
 
-OpenFantasy is built on core principles that govern how the world functions:
+OpenFantasy được xây dựng dựa trên các nguyên tắc cốt lõi chi phối cách thế giới hoạt động:
 
-| Directory | Contents | Description |
+| Thư mục | Nội dung | Mô tả |
 |-----------|----------|-------------|
-| [Basic/](Basic/) | Fundamental concepts | The building blocks of reality in OpenFantasy |
+| [Basic/](Basic/) | Các khái niệm cơ bản | Các khối xây dựng của thực tế trong OpenFantasy |
 
-Key concepts include:
+Các khái niệm chính bao gồm:
 
-- **Exanthis**: The physical foundation that provides structure and form
-- **Soul**: The spark of consciousness that provides will and identity
-- **Mana**: The magical energy that flows through all things
-- **Elemental Balance**: The interplay between fundamental forces
+- **Exanthis**: Nền tảng vật lý cung cấp cấu trúc và hình thức
+- **Soul**: Tia lửa ý thức cung cấp ý chí và bản sắc
+- **Mana**: Năng lượng ma thuật chảy qua mọi thứ
+- **Elemental Balance**: Sự tương tác giữa các lực cơ bản
 
-## Creatures and Species
+## Sinh vật và loài
 
-The world is inhabited by diverse species with unique characteristics:
+Thế giới có nhiều loài sinh sống với các đặc điểm độc đáo:
 
-| Directory | Contents | Description |
+| Thư mục | Nội dung | Mô tả |
 |-----------|----------|-------------|
-| [Creatures/](Creatures/) | Species documentation | Information about the various beings that inhabit the world |
+| [Creatures/](Creatures/) | Tài liệu về loài | Thông tin về các sinh vật khác nhau sinh sống trên thế giới |
 
-Major species categories include:
+Các loại loài chính bao gồm:
 
 - **Primary Species**: Humans, Elves, Dwarves, Beastfolk, etc.
 - **Magical Species**: Fae, Golems, Sirens, Shadowfolk, etc.
 - **Other Notable Species**: Dark Elves, Centaurs, Gnomes, Merfolk, etc.
 
-→ See the [Creatures README](Creatures/README.md) for detailed information.
+→ Xem [Creatures README](Creatures/README.md) để biết thông tin chi tiết.
 
-## Magic System
+## Hệ thống ma thuật
 
-Magic in OpenFantasy follows systematic rules and principles:
+Ma thuật trong OpenFantasy tuân theo các quy tắc và nguyên tắc có hệ thống:
 
-| Directory | Contents | Description |
+| Thư mục | Nội dung | Mô tả |
 |-----------|----------|-------------|
-| [Magics/](Magics/) | Magic systems, spells | The rules and manifestations of magical energy |
+| [Magics/](Magics/) | Hệ thống ma thuật, phép thuật | Các quy tắc và biểu hiện của năng lượng ma thuật |
 
-Key magical concepts include:
+Các khái niệm ma thuật chính bao gồm:
 
-- **Elemental Magic**: Manipulation of the eight primary elements
-- **Mana Purity**: The refinement of magical energy
-- **Spell Structure**: The patterns that shape magical effects
-- **Enhancement Buffs**: Magical effects that enhance abilities
+- **Elemental Magic**: Thao túng tám nguyên tố chính
+- **Mana Purity**: Sự tinh chế năng lượng ma thuật
+- **Spell Structure**: Các mẫu định hình các hiệu ứng ma thuật
+- **Enhancement Buffs**: Các hiệu ứng ma thuật giúp tăng cường khả năng
 
-→ See the [Magics README](Magics/README.md) for detailed information.
+→ Xem [Magics README](Magics/README.md) để biết thông tin chi tiết.
 
-## Character Classes
+## Lớp nhân vật
 
-Characters in OpenFantasy follow specialized paths of development:
+Các nhân vật trong OpenFantasy đi theo những con đường phát triển chuyên biệt:
 
-| Directory | Contents | Description |
+| Thư mục | Nội dung | Mô tả |
 |-----------|----------|-------------|
-| [Classes/](Classes/) | Class information, specializations | The various paths of power and specialization |
+| [Classes/](Classes/) | Thông tin lớp, chuyên môn hóa | Các con đường khác nhau của sức mạnh và chuyên môn hóa |
 
-Major class categories include:
+Các loại lớp chính bao gồm:
 
 - **Martial Classes**: Warrior, Monk, Ranger
 - **Magical Classes**: Mage, Warlock, Druid
 - **Hybrid Classes**: Cleric, Bard, Artificer
 - **Specialized Classes**: Rogue and subclasses
 
-→ See the [Classes README](Classes/README.md) for detailed information.
+→ Xem [Classes README](Classes/README.md) để biết thông tin chi tiết.
 
-## World Geography
+## Địa lý thế giới
 
-The world of OpenFantasy contains diverse regions and locations:
+Thế giới của OpenFantasy chứa nhiều khu vực và địa điểm đa dạng:
 
-| Directory | Contents | Description |
+| Thư mục | Nội dung | Mô tả |
 |-----------|----------|-------------|
-| [World/](World/) | Locations, geography, history | The physical and cultural landscape of the world |
+| [World/](World/) | Địa điểm, địa lý, lịch sử | Cảnh quan vật chất và văn hóa của thế giới |
 
-Notable regions include:
+Các khu vực đáng chú ý bao gồm:
 
-- **Eastern Veldrassil**: Magical forests and academic centers
-- **Western Veldrassil**: Mountain ranges and mining operations
-- **Central Plains**: Agricultural heartlands and major cities
-- **Northern Reaches**: Frozen wastes and ancient ruins
-- **Southern Isles**: Tropical archipelagos and maritime cultures
+- **Eastern Veldrassil**: Các khu rừng ma thuật và trung tâm học thuật
+- **Western Veldrassil**: Dãy núi và hoạt động khai thác mỏ
+- **Central Plains**: Vùng đất nông nghiệp và các thành phố lớn
+- **Northern Reaches**: Vùng đất hoang tàn đóng băng và tàn tích cổ
+- **Southern Isles**: Quần đảo nhiệt đới và văn hóa hàng hải
 
-## Items and Artifacts
+## Vật phẩm và cổ vật
 
-The world contains numerous objects of power and significance:
+Thế giới chứa vô số vật thể có sức mạnh và ý nghĩa:
 
-| Directory | Contents | Description |
+| Thư mục | Nội dung | Mô tả |
 |-----------|----------|-------------|
-| [Items/](Items/) | Equipment, artifacts, materials | Objects of power and utility |
+| [Items/](Items/) | Thiết bị, cổ vật, vật liệu | Các vật thể có sức mạnh và tiện ích |
 
-Item categories include:
+Các loại vật phẩm bao gồm:
 
-- **Magical Equipment**: Weapons, armor, and accessories with magical properties
-- **Alchemical Substances**: Potions, elixirs, and magical reagents
-- **Artifacts**: Ancient objects of significant power
-- **Everyday Items**: Mundane objects with cultural significance
+- **Magical Equipment**: Vũ khí, áo giáp và phụ kiện có đặc tính ma thuật
+- **Alchemical Substances**: Thuốc, thuốc tiên và thuốc thử ma thuật
+- **Artifacts**: Các vật thể cổ xưa có sức mạnh đáng kể
+- **Everyday Items**: Vật thể trần tục có ý nghĩa văn hóa
 
-## Repository Structure
+## Cấu trúc kho lưu trữ
 
-The OpenFantasy Codex is organized with a consistent structure:
+OpenFantasy Codex được tổ chức với một cấu trúc nhất quán:
 
 ```
 codex/
-├── README.md                # This overview document
-├── Basic/                   # Fundamental concepts
-├── Creatures/               # Species documentation
-│   ├── README.md            # Creatures overview
-│   ├── Creatures.md         # General species information
-│   ├── Human.md             # Individual species document
-│   └── ...                  # Other species documents
-├── Magics/                  # Magic systems
-│   ├── README.md            # Magic overview
-│   ├── Spells/              # Spell documentation
-│   └── ...                  # Magic system documents
-├── Classes/                 # Character classes
-│   ├── README.md            # Classes overview
-│   ├── Warrior/             # Class-specific directory
-│   └── ...                  # Other class directories
-├── World/                   # Geography and locations
-│   ├── README.md            # World overview
-│   └── ...                  # Region and location documents
-└── Items/                   # Equipment and artifacts
-    ├── README.md            # Items overview
-    └── ...                  # Item category documents
+├── README.md                # Tài liệu tổng quan này
+├── Basic/                   # Các khái niệm cơ bản
+├── Creatures/               # Tài liệu về loài
+│   ├── README.md            # Tổng quan về sinh vật
+│   ├── Creatures.md         # Thông tin chung về loài
+│   ├── Human.md             # Tài liệu về từng loài
+│   └── ...                  # Tài liệu về các loài khác
+├── Magics/                  # Hệ thống ma thuật
+│   ├── README.md            # Tổng quan về ma thuật
+│   ├── Spells/              # Tài liệu về phép thuật
+│   └── ...                  # Tài liệu về hệ thống ma thuật
+├── Classes/                 # Lớp nhân vật
+│   ├── README.md            # Tổng quan về lớp
+│   ├── Warrior/             # Thư mục dành riêng cho lớp
+│   └── ...                  # Các thư mục lớp khác
+├── World/                   # Địa lý và địa điểm
+│   ├── README.md            # Tổng quan về thế giới
+│   └── ...                  # Tài liệu về khu vực và địa điểm
+└── Items/                   # Thiết bị và cổ vật
+    ├── README.md            # Tổng quan về vật phẩm
+    └── ...                  # Tài liệu về danh mục vật phẩm
 ```
 
-### Documentation Standards
+### Tiêu chuẩn tài liệu
 
-All documents in this repository follow consistent formatting:
+Tất cả các tài liệu trong kho lưu trữ này tuân theo định dạng nhất quán:
 
-- **README.md files** provide overviews and navigation
-- **Quick Reference sections** at the top of documents
-- **Tables** for comparative information
-- **Consistent headers** for similar information across documents
-- **Cross-references** to related content
-- **Git-optimized markdown** for better viewing experience
+- **README.md files** cung cấp tổng quan và điều hướng
+- **Quick Reference sections** ở đầu tài liệu
+- **Tables** cho thông tin so sánh
+- **Consistent headers** cho thông tin tương tự trên các tài liệu
+- **Cross-references** đến nội dung liên quan
+- **Git-optimized markdown** để có trải nghiệm xem tốt hơn
 
 ---
 
-> **Note**: This codex is a living document that may be expanded and refined over time. All content follows the musical metaphor that defines the OpenFantasy world. 
+> **Lưu ý**: Codex này là một tài liệu sống có thể được mở rộng và tinh chỉnh theo thời gian. Tất cả nội dung tuân theo phép ẩn dụ âm nhạc định nghĩa thế giới OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,97 +1,97 @@
-# **Merfolk**: The Guardians of the Deep
+# **Merfolk**: Những Người Bảo Vệ Vùng Biển Sâu
 
-[**Merfolk**](/codex/Creatures/Merfolk.md) are the guardians of the deep, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a deep bassoon, they resonate with the currents of the ocean, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+[**Merfolk**](/codex/Creatures/Merfolk.md) là những người bảo vệ vùng biển sâu, cơ thể họ là một sự hài hòa linh hoạt của [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), và **Mana Capacity**. Giống như một cây kèn bassoon trầm bổng, họ cộng hưởng với các dòng hải lưu của đại dương, tạo ra một giai điệu độc đáo của sự tồn tại kết nối giữa vương quốc dưới nước và trên cạn.
 
-## Elemental Composition
+## Thành Phần Nguyên Tố
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **merfolk** forms a harmony that favors physical grace:
+Như được trình bày chi tiết trong [Creatures](/codex/Creatures/Creatures.md), tỷ lệ điển hình cho **merfolk** tạo nên một sự hài hòa nghiêng về vẻ đẹp thể chất:
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 30-50% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-40% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 20-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** | 30-50% | Trái tim kết tinh cung cấp sức mạnh thể chất và vẻ đẹp vừa phải |
+| **Soul** | 25-40% | Tinh chất thanh tao định hình ý thức linh hoạt và dễ thích nghi |
+| **Mana Capacity** | 20-40% | Cầu nối giữa các thế giới cho phép tiềm năng phép thuật vừa phải |
 
-This composition grants **merfolk** their characteristic grace and adaptability but typically moderates their magical potential compared to other species, like a versatile instrument that can play many notes but lacks the power of a full orchestra.
+Thành phần này mang lại cho **merfolk** vẻ duyên dáng và khả năng thích ứng đặc trưng của họ, nhưng thường làm giảm tiềm năng phép thuật của họ so với các loài khác, giống như một nhạc cụ linh hoạt có thể chơi nhiều nốt nhạc nhưng thiếu sức mạnh của một dàn nhạc đầy đủ.
 
-### Individual Variations
+### Các Biến Thể Cá Nhân
 
-While the model composition represents the typical merfolk, individual variations exist based on their tribal lineage:
+Mặc dù thành phần mô hình đại diện cho merfolk điển hình, nhưng các biến thể cá nhân tồn tại dựa trên dòng dõi bộ lạc của họ:
 
-- **Depth Divers**: Some merfolk, particularly from the Deepswimmer tribe, possess enhanced Exanthis levels (up to 55%) that allow them to withstand the crushing pressures of the deepest ocean trenches.
-- **Tide Mages**: Specialized variants with higher Mana Capacity (up to 45%) excel at water magic, becoming powerful spellcasters who can control currents, weather, and even blood in living creatures.
-- **Ocean Sages**: Those with higher Soul percentages (up to 45%) develop extraordinary empathy and wisdom, often becoming tribal leaders, healers, or diplomats who bridge the gap between merfolk and other species.
-- **Reef Guardians**: A balanced variant (40% Exanthis, 30% Soul, 30% Mana Capacity) specializes in protecting coral reef ecosystems, developing unique magical abilities that nurture and restore damaged aquatic environments.
-- **Storm Callers**: Some merfolk develop a unique composition (35% Exanthis, 25% Soul, 40% Mana Capacity) that allows them to sense and manipulate weather patterns above the ocean, creating or dispersing storms that might threaten their territories.
+- **Depth Divers**: Một số merfolk, đặc biệt là từ bộ tộc Deepswimmer, sở hữu mức Exanthis tăng cường (lên đến 55%) cho phép họ chịu được áp lực nghiền nát của các rãnh đại dương sâu nhất.
+- **Tide Mages**: Các biến thể chuyên biệt với Mana Capacity cao hơn (lên đến 45%) vượt trội trong phép thuật nước, trở thành những pháp sư mạnh mẽ có thể điều khiển dòng hải lưu, thời tiết và thậm chí cả máu trong sinh vật sống.
+- **Ocean Sages**: Những người có tỷ lệ Soul cao hơn (lên đến 45%) phát triển sự đồng cảm và trí tuệ phi thường, thường trở thành thủ lĩnh bộ lạc, người chữa bệnh hoặc nhà ngoại giao, những người thu hẹp khoảng cách giữa merfolk và các loài khác.
+- **Reef Guardians**: Một biến thể cân bằng (40% Exanthis, 30% Soul, 30% Mana Capacity) chuyên bảo vệ các hệ sinh thái rạn san hô, phát triển các khả năng phép thuật độc đáo nuôi dưỡng và phục hồi các môi trường dưới nước bị hư hại.
+- **Storm Callers**: Một số merfolk phát triển một thành phần độc đáo (35% Exanthis, 25% Soul, 40% Mana Capacity) cho phép họ cảm nhận và thao túng các kiểu thời tiết phía trên đại dương, tạo ra hoặc phân tán các cơn bão có thể đe dọa lãnh thổ của họ.
 
-## Physical Characteristics
+## Đặc Điểm Vật Lý
 
-**Merfolk** are known for their aquatic adaptations and graceful nature:
-- Humanoid upper bodies with fish-like lower bodies, allowing for efficient swimming
-- Eyes that are adapted to see clearly in the depths, often with a slight luminescence
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep green
-- Fins and webbed appendages that aid in swimming and balance
-- Ability to change the color of their scales for camouflage or communication
+**Merfolk** được biết đến với khả năng thích nghi dưới nước và bản chất duyên dáng:
+- Phần thân trên giống người với phần thân dưới giống cá, cho phép bơi hiệu quả
+- Đôi mắt được điều chỉnh để nhìn rõ trong vùng nước sâu, thường có độ phát quang nhẹ
+- Mang cho phép họ thở dưới nước, giống như những nhạc cụ tinh tế được điều chỉnh theo biển
+- Vảy cung cấp sự bảo vệ và vẻ đẹp tự nhiên, có màu sắc từ xanh lam óng ánh đến xanh lục đậm
+- Vây và các chi có màng giúp bơi lội và giữ thăng bằng
+- Khả năng thay đổi màu vảy để ngụy trang hoặc giao tiếp
 
-## Physical and Magical Affinity
+## Khả Năng Thể Chất và Phép Thuật
 
-**Merfolk** demonstrate exceptional proficiency in swimming and aquatic combat, like virtuoso performers who have mastered their environment. Their composition allows them to:
-- Move through water with extraordinary grace and speed, like dancers in a liquid ballet
-- Channel water magic with moderate proficiency, like conductors of the ocean's symphony
-- Adapt to various aquatic environments, from shallow reefs to the deepest trenches
+**Merfolk** thể hiện khả năng đặc biệt trong bơi lội và chiến đấu dưới nước, giống như những nghệ sĩ điêu luyện đã làm chủ được môi trường của mình. Thành phần của họ cho phép họ:
+- Di chuyển trong nước với vẻ duyên dáng và tốc độ phi thường, giống như những vũ công trong một vở ba lê lỏng
+- Truyền phép thuật nước với trình độ vừa phải, giống như những người điều khiển bản giao hưởng của đại dương
+- Thích nghi với nhiều môi trường dưới nước khác nhau, từ các rạn san hô nông đến các rãnh sâu nhất
 
-This specialization makes **merfolk** capable of achieving feats of aquatic prowess that few other species can match, though they may struggle with tasks requiring complex magical abilities, like an instrument that can play many notes but lacks the complexity of a full orchestra.
+Sự chuyên môn hóa này giúp **merfolk** có khả năng đạt được những kỳ tích về sức mạnh dưới nước mà ít loài nào khác có thể sánh được, mặc dù họ có thể gặp khó khăn với những nhiệm vụ đòi hỏi khả năng phép thuật phức tạp, giống như một nhạc cụ có thể chơi nhiều nốt nhạc nhưng thiếu sự phức tạp của một dàn nhạc đầy đủ.
 
-## Lifespan and Soul Decay
+## Tuổi Thọ và Sự Suy Thoái Linh Hồn
 
-The **soul decay** timeline for **merfolk**, from birth to complete decay, is approximately 300 years, like a steady flame that illuminates the depths. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to specific places and traditions
-- Form stable societies with strong communal bonds
+Dòng thời gian **soul decay** cho **merfolk**, từ khi sinh ra đến khi phân rã hoàn toàn, là khoảng 300 năm, giống như một ngọn lửa ổn định chiếu sáng vực sâu. Tuổi thọ vừa phải này cho phép họ:
+- Tích lũy kiến thức và trí tuệ qua nhiều thế hệ
+- Phát triển kết nối sâu sắc với các địa điểm và truyền thống cụ thể
+- Hình thành các xã hội ổn định với các mối liên kết cộng đồng bền chặt
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the tides.
+Tuy nhiên, tỷ lệ linh hồn vừa phải của họ cũng có nghĩa là họ thay đổi và thích nghi với tốc độ vừa phải, giống như một giai điệu phát triển theo thủy triều.
 
-## Habitat and Distribution
+## Môi Trường Sống và Phân Bố
 
-**Merfolk** primarily inhabit:
-- Ocean depths and underwater cities, where they can be closest to the currents
-- Coral reefs and kelp forests, where they can find shelter and resources
-- Coastal regions and estuaries, where they can interact with terrestrial species
-- Strategic locations that provide access to both aquatic and terrestrial resources
+**Merfolk** chủ yếu sinh sống ở:
+- Độ sâu đại dương và các thành phố dưới nước, nơi họ có thể ở gần các dòng hải lưu nhất
+- Các rạn san hô và rừng tảo bẹ, nơi họ có thể tìm thấy nơi trú ẩn và tài nguyên
+- Các vùng ven biển và cửa sông, nơi họ có thể tương tác với các loài trên cạn
+- Các vị trí chiến lược cung cấp quyền truy cập vào cả tài nguyên dưới nước và trên cạn
 
-These locations provide ideal environments for the development of aquatic societies and the practice of water magic, like stages perfectly suited to their performance.
+Những địa điểm này cung cấp môi trường lý tưởng cho sự phát triển của các xã hội dưới nước và việc thực hành phép thuật nước, giống như những sân khấu hoàn toàn phù hợp với màn trình diễn của họ.
 
-## Cultural Impact
+## Tác Động Văn Hóa
 
-In the world of **OpenFantasy**, **merfolk** play a crucial role in maintaining the balance of aquatic ecosystems and preserving ancient traditions, like the steady bass notes that provide foundation to a symphony. Their societies are centers of:
-- Aquatic craftsmanship and architecture
-- Water magic and environmental preservation
-- Communal living and shared resources
+Trong thế giới **OpenFantasy**, **merfolk** đóng một vai trò quan trọng trong việc duy trì sự cân bằng của các hệ sinh thái dưới nước và bảo tồn các truyền thống cổ xưa, giống như những nốt bass trầm ổn cung cấp nền tảng cho một bản giao hưởng. Xã hội của họ là trung tâm của:
+- Thủ công và kiến trúc dưới nước
+- Phép thuật nước và bảo tồn môi trường
+- Cuộc sống cộng đồng và tài nguyên được chia sẻ
 
-The connection to the ocean has shaped merfolk culture around respect for the sea, community, and tradition, creating a society where harmony with nature is highly valued.
+Mối liên hệ với đại dương đã định hình văn hóa merfolk xung quanh sự tôn trọng biển cả, cộng đồng và truyền thống, tạo ra một xã hội nơi sự hài hòa với thiên nhiên được đánh giá cao.
 
-## Relationship with Other Species
+## Mối Quan Hệ Với Các Loài Khác
 
-**Merfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of curiosity and caution, often leading to limited interactions
-- With **Sirens**: A deep connection based on shared aquatic heritage but different magical affinities
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and resources
+**Merfolk** duy trì các mối quan hệ phức tạp với các loài khác:
+- Với [**Humans**](/codex/Creatures/Human.md): Một sự pha trộn giữa tò mò và thận trọng, thường dẫn đến các tương tác hạn chế
+- Với **Sirens**: Một kết nối sâu sắc dựa trên di sản dưới nước được chia sẻ nhưng các ái lực phép thuật khác nhau
+- Với **Elves**: Một khoảng cách tôn trọng, thừa nhận sức mạnh phép thuật của họ nhưng nhận thấy những cách làm của họ kỳ lạ
+- Với **Dwarves**: Một liên minh thực dụng dựa trên sự tôn trọng lẫn nhau đối với tay nghề thủ công và tài nguyên
 
-These relationships are often characterized by a sense of environmental stewardship, as **merfolk** view themselves as the true guardians of the oceans.
+Những mối quan hệ này thường được đặc trưng bởi ý thức bảo vệ môi trường, vì **merfolk** coi mình là những người bảo vệ thực sự của đại dương.
 
-## Notable Merfolk Traits
+## Đặc Điểm Nổi Bật Của Merfolk
 
-- **Aquatic Grace**: Merfolk excel in swimming and aquatic movement, often surpassing other species in their ability to navigate water
-- **Environmental Sensitivity**: Merfolk are deeply attuned to their aquatic surroundings, able to sense changes in currents and water quality
-- **Communal Living**: Merfolk place great emphasis on community and shared resources, creating strong social bonds
-- **Water Magic**: Merfolk have a natural connection to water magic, allowing them to manipulate this element with moderate proficiency
-- **Adaptability**: Merfolk can thrive in various aquatic environments, from shallow reefs to the deepest trenches
+- **Aquatic Grace**: Merfolk vượt trội trong bơi lội và di chuyển dưới nước, thường vượt qua các loài khác về khả năng di chuyển trong nước của họ
+- **Environmental Sensitivity**: Merfolk rất hòa hợp với môi trường dưới nước của họ, có thể cảm nhận những thay đổi trong dòng hải lưu và chất lượng nước
+- **Communal Living**: Merfolk rất chú trọng đến cộng đồng và tài nguyên được chia sẻ, tạo ra các mối liên kết xã hội bền chặt
+- **Water Magic**: Merfolk có mối liên hệ tự nhiên với phép thuật nước, cho phép họ thao túng yếu tố này với trình độ vừa phải
+- **Adaptability**: Merfolk có thể phát triển mạnh mẽ trong nhiều môi trường dưới nước khác nhau, từ các rạn san hô nông đến các rãnh sâu nhất
 
-## Merfolk Tribes
+## Các Bộ Lạc Merfolk
 
-Merfolk society is organized into numerous tribes, each with its own specialties and traditions:
+Xã hội Merfolk được tổ chức thành nhiều bộ lạc, mỗi bộ lạc có những đặc điểm và truyền thống riêng:
 
 | Tribe | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
@@ -102,4 +102,8 @@ Merfolk society is organized into numerous tribes, each with its own specialties
 | **Coralcrafters** | Art, architecture | Kelp forests | Artistic abilities, architectural innovation |
 | **Estuaryguardians** | Diplomacy, trade | Estuaries | Diplomatic skills, trading expertise |
 
-Understanding the nature of **merfolk** provides insight into the aquatic aspects of the world of **OpenFantasy**, like listening to the deep, resonant melodies that echo through the oceans. 
+Hiểu được bản chất của **merfolk** cung cấp cái nhìn sâu sắc về các khía cạnh dưới nước của thế giới **OpenFantasy**, giống như lắng nghe những giai điệu sâu lắng, cộng hưởng vang vọng qua các đại dương.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
