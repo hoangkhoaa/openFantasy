@@ -1,120 +1,124 @@
-# **Ranger**: The Voices of the Wild
+# **Ranger**: Les Voix de la Nature
 
-[**Rangers**](/codex/Classes/Ranger/Ranger.md) are the voices of the wild, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a woodwind that echoes the sounds of the forest, they commune with nature, creating a unique melody of existence that emphasizes survival, tracking, and the connection to the natural world.
+Les [**Rangers**](/codex/Classes/Ranger/Ranger.md) sont les voix de la nature, leurs corps un mélange harmonieux d'[**Exanthis**](/codex/Basic/Exanthis.md), d'[**Âmes**](/codex/Basic/Soul.md), et de **Capacité de Mana**. Tels une flûte qui résonne les sons de la forêt, ils communiquent avec la nature, créant une mélodie d'existence unique qui met l'accent sur la survie, le pistage, et la connexion au monde naturel.
 
-## Elemental Composition
+## Composition Élémentaire
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rangers** forms a harmony that favors connection to nature:
+Comme détaillé dans [Classes](/codex/Classes/Classes.md), le ratio typique pour les **rangers** forme une harmonie qui favorise la connexion à la nature :
 
-| Element | Range | Function |
+| Élément | Intervalle | Fonction |
 |---------|------------|----------|
-| **Exanthis** | 35-55% | The crystalline heart that provides physical strength and agility |
-| **Soul** | 25-45% | The ethereal essence that shapes a nature-connected consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables nature magic |
+| **Exanthis** | 35-55% | Le cœur cristallin qui fournit la force physique et l'agilité |
+| **Âme** | 25-45% | L'essence éthérée qui façonne une conscience connectée à la nature |
+| **Capacité de Mana** | 10-30% | Le pont entre les mondes qui permet la magie de la nature |
 
-This composition grants **rangers** their characteristic connection to nature but limits their magical abilities compared to other classes, like a versatile instrument that can play many melodies but cannot match the complexity of a full orchestra.
+Cette composition confère aux **rangers** leur connexion caractéristique à la nature, mais limite leurs capacités magiques par rapport à d'autres classes, tel un instrument polyvalent qui peut jouer de nombreuses mélodies mais ne peut égaler la complexité d'un orchestre complet.
 
-### Species-Specific Talents
+### Talents Spécifiques à l'Espèce
 
-Different species show varying natural inclinations toward the ranger class:
+Différentes espèces montrent des inclinations naturelles variées envers la classe de ranger :
 
-- **Elves** (35% Exanthis, 25% Soul, 40% Mana Capacity): Their natural grace and connection to nature make them exceptional rangers, particularly as Wardens and Forest Singers.
-- **Beastfolk** (50% Exanthis, 30% Soul, 20% Mana Capacity): Their physical prowess and animal kinship make them natural Beastmasters and Hunters.
-- **Humans** (40% Exanthis, 35% Soul, 25% Mana Capacity): Their adaptability allows them to excel in any ranger specialization, though they rarely reach the heights of species with more specialized compositions.
-- **Dragonkin** (60% Exanthis, 20% Soul, 20% Mana Capacity): Their physical might makes them formidable Hunters, though their limited adaptability restricts their versatility.
-- **Dwarves** (55% Exanthis, 30% Soul, 15% Mana Capacity): Their endurance and resilience make them excellent Survivalists, particularly in harsh mountain environments.
+- **Elfes** (35% Exanthis, 25% Âme, 40% Capacité de Mana) : Leur grâce naturelle et leur connexion à la nature font d'eux des rangers exceptionnels, particulièrement en tant que Gardiens et Chanteurs de la Forêt.
+- **Hommes-bêtes** (50% Exanthis, 30% Âme, 20% Capacité de Mana) : Leur prouesse physique et leur affinité animale font d'eux des Maîtres des Bêtes et des Chasseurs naturels.
+- **Humains** (40% Exanthis, 35% Âme, 25% Capacité de Mana) : Leur adaptabilité leur permet d'exceller dans n'importe quelle spécialisation de ranger, bien qu'ils atteignent rarement les sommets des espèces avec des compositions plus spécialisées.
+- **Draconides** (60% Exanthis, 20% Âme, 20% Capacité de Mana) : Leur puissance physique en fait des Chasseurs formidables, bien que leur adaptabilité limitée restreigne leur polyvalence.
+- **Nains** (55% Exanthis, 30% Âme, 15% Capacité de Mana) : Leur endurance et leur résilience font d'eux d'excellents Survivalistes, particulièrement dans les environnements montagneux difficiles.
 
-## Physical Characteristics
+## Caractéristiques Physiques
 
-**Rangers** are known for their connection to nature and survival skills:
-- Athletic build with graceful movements, like a dancer's natural grace
-- Eyes that reflect awareness of surroundings, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of bows and survival tools, like a musician who has perfected the art of the woodwind
-- Presence that blends with natural surroundings, like a melody that harmonizes with the sounds of the forest
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+Les **Rangers** sont connus pour leur connexion à la nature et leurs compétences de survie :
+- Corpulence athlétique avec des mouvements gracieux, comme la grâce naturelle d'un danseur
+- Yeux qui reflètent la conscience de l'environnement, montrant leur connexion à l'[**Âme**](/codex/Basic/Soul.md)
+- Mains qui ont maîtrisé l'utilisation des arcs et des outils de survie, comme un musicien qui a perfectionné l'art de la flûte
+- Présence qui se fond dans l'environnement naturel, comme une mélodie qui s'harmonise avec les sons de la forêt
+- Posture qui met l'accent sur l'équilibre et la préparation, comme un interprète prêt à se déplacer dans n'importe quelle direction
 
-## Nature Affinity
+## Affinité Naturelle
 
-**Rangers** demonstrate exceptional proficiency in wilderness survival and combat, like virtuoso musicians who have mastered the art of the natural world. Their composition allows them to:
-- Track and hunt with extraordinary precision, like conductors leading an orchestra through the wilderness
-- Survive in harsh environments, like artists adapting to changing conditions
-- Communicate with animals and understand natural signs, like performers harmonizing with the sounds of nature
+Les **Rangers** démontrent une compétence exceptionnelle dans la survie en milieu sauvage et au combat, tels des musiciens virtuoses qui ont maîtrisé l'art du monde naturel. Leur composition leur permet de :
+- Pister et chasser avec une précision extraordinaire, comme des chefs d'orchestre dirigeant un orchestre à travers la nature sauvage
+- Survivre dans des environnements difficiles, comme des artistes s'adaptant à des conditions changeantes
+- Communiquer avec les animaux et comprendre les signes naturels, comme des interprètes s'harmonisant avec les sons de la nature
 
-This specialization makes **rangers** capable of achieving the highest levels of proficiency in their chosen wilderness techniques, though they may struggle with tasks requiring complex magic or urban skills, like a versatile instrument that excels in natural settings but may be out of place in a formal concert hall.
+Cette spécialisation rend les **rangers** capables d'atteindre les plus hauts niveaux de compétence dans leurs techniques de nature sauvage choisies, bien qu'ils puissent avoir des difficultés avec les tâches nécessitant une magie complexe ou des compétences urbaines, tel un instrument polyvalent qui excelle dans les environnements naturels mais peut être déplacé dans une salle de concert formelle.
 
-## Training and Development
+## Formation et Développement
 
-The path of a **ranger** involves rigorous wilderness training and mental discipline:
-- Daily practice in tracking and survival skills, like musicians practicing their natural melodies
-- Study of natural environments and animal behavior, like learning the theory behind natural harmony
-- Meditation to develop connection to nature, like finding the quiet center of the wilderness
-- Practice in combat and stealth techniques, like artists mastering the art of natural movement
+Le chemin d'un **ranger** implique un entraînement rigoureux en milieu sauvage et une discipline mentale :
+- Pratique quotidienne des compétences de pistage et de survie, comme des musiciens pratiquant leurs mélodies naturelles
+- Étude des environnements naturels et du comportement animal, comme l'apprentissage de la théorie derrière l'harmonie naturelle
+- Méditation pour développer la connexion à la nature, comme trouver le centre calme de la nature sauvage
+- Pratique des techniques de combat et de furtivité, comme des artistes maîtrisant l'art du mouvement naturel
 
-## Equipment and Gear
+## Équipement et Matériel
 
-**Rangers** rely on various equipment to enhance their wilderness abilities:
-- Bows and light weapons designed for precision, like different instruments for different performances
-- Survival gear such as ropes, traps, and navigation tools, like accessories that enhance an instrument's capabilities
-- Natural accessories such as animal companions, tracking dogs, and natural remedies, like specialized instruments for specific tasks
+Les **Rangers** s'appuient sur divers équipements pour améliorer leurs capacités en milieu sauvage :
+- Arcs et armes légères conçus pour la précision, comme différents instruments pour différentes performances
+- Matériel de survie tel que des cordes, des pièges et des outils de navigation, comme des accessoires qui améliorent les capacités d'un instrument
+- Accessoires naturels tels que des compagnons animaux, des chiens de piste et des remèdes naturels, comme des instruments spécialisés pour des tâches spécifiques
 
-## Subclasses
+## Sous-classes
 
-**Rangers** can specialize in various wilderness disciplines and roles:
+Les **Rangers** peuvent se spécialiser dans diverses disciplines et rôles en milieu sauvage :
 
-### [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md)
+### [**Maître des Bêtes**](/codex/Classes/Ranger/Beastmaster.md)
 
-Beastmasters focus on forming bonds with animals, emphasizing the role of the animal companion. They excel at:
-- Training and commanding animal companions
-- Understanding animal behavior and communication
-- Fighting alongside their animal allies
+Les Maîtres des Bêtes se concentrent sur la formation de liens avec les animaux, en mettant l'accent sur le rôle du compagnon animal. Ils excellent à :
+- Entraîner et commander des compagnons animaux
+- Comprendre le comportement et la communication des animaux
+- Combattre aux côtés de leurs alliés animaux
 
-### [**Hunter**](/codex/Classes/Ranger/Hunter.md)
+### [**Chasseur**](/codex/Classes/Ranger/Hunter.md)
 
-Hunters focus on tracking and eliminating targets, emphasizing the role of the predator. They excel at:
-- Tracking and stalking prey
-- Setting traps and ambushes
-- Delivering precise strikes from a distance
+Les Chasseurs se concentrent sur le pistage et l'élimination des cibles, en mettant l'accent sur le rôle du prédateur. Ils excellent à :
+- Pister et traquer les proies
+- Poser des pièges et des embuscades
+- Asséner des coups précis à distance
 
-### [**Warden**](/codex/Classes/Ranger/Warden.md)
+### [**Gardien**](/codex/Classes/Ranger/Warden.md)
 
-Wardens focus on protecting natural places, emphasizing the role of the guardian. They excel at:
-- Defending natural territories
-- Maintaining the balance of ecosystems
-- Communicating with nature spirits
+Les Gardiens se concentrent sur la protection des lieux naturels, en mettant l'accent sur le rôle du gardien. Ils excellent à :
+- Défendre les territoires naturels
+- Maintenir l'équilibre des écosystèmes
+- Communiquer avec les esprits de la nature
 
-### [**Scout**](/codex/Classes/Ranger/Scout.md)
+### [**Éclaireur**](/codex/Classes/Ranger/Scout.md)
 
-Scouts focus on exploring and navigating unknown territories, emphasizing the role of the explorer. They excel at:
-- Finding safe paths through dangerous areas
-- Gathering information about new territories
-- Adapting to unfamiliar environments
+Les Éclaireurs se concentrent sur l'exploration et la navigation de territoires inconnus, en mettant l'accent sur le rôle de l'explorateur. Ils excellent à :
+- Trouver des chemins sûrs à travers des zones dangereuses
+- Rassembler des informations sur de nouveaux territoires
+- S'adapter à des environnements inconnus
 
-### [**Survivalist**](/codex/Classes/Ranger/Survivalist.md)
+### [**Survivaliste**](/codex/Classes/Ranger/Survivalist.md)
 
-Survivalists focus on thriving in harsh environments, emphasizing the role of the survivor. They excel at:
-- Finding food and water in barren places
-- Creating shelter in extreme conditions
-- Adapting to changing environmental conditions
+Les Survivalistes se concentrent sur la prospérité dans des environnements difficiles, en mettant l'accent sur le rôle du survivant. Ils excellent à :
+- Trouver de la nourriture et de l'eau dans des endroits arides
+- Créer un abri dans des conditions extrêmes
+- S'adapter aux conditions environnementales changeantes
 
-## Notable Ranger Traits
+## Traits Notables du Ranger
 
-- **Wilderness Mastery**: Rangers excel in survival and tracking, often specializing in specific environments
-- **Animal Connection**: Rangers develop strong bonds with animals and nature
-- **Environmental Adaptation**: Rangers can thrive in various natural environments
-- **Precision Combat**: Rangers excel in combat that requires precision and timing
-- **Discipline**: Rangers maintain rigorous training regimens to maintain their wilderness abilities
+- **Maîtrise de la Nature Sauvage** : Les Rangers excellent dans la survie et le pistage, se spécialisant souvent dans des environnements spécifiques
+- **Connexion Animale** : Les Rangers développent des liens forts avec les animaux et la nature
+- **Adaptation Environnementale** : Les Rangers peuvent prospérer dans divers environnements naturels
+- **Combat de Précision** : Les Rangers excellent dans le combat qui exige précision et timing
+- **Discipline** : Les Rangers maintiennent des régimes d'entraînement rigoureux pour conserver leurs capacités en milieu sauvage
 
-## Ranger Orders
+## Ordres de Rangers
 
-Ranger society is organized into numerous orders, each with its own specialties and techniques:
+La société des Rangers est organisée en de nombreux ordres, chacun ayant ses propres spécialités et techniques :
 
-| Order | Specialty | Territory | Notable Traits |
+| Ordre | Spécialité | Territoire | Traits Notables |
 |---------|---------------|---------|-------------------|
-| **Beast Companions** | Animal bonding, companion training | Various locations | Animal companions, beast communication |
-| **Track Masters** | Tracking, hunting | Various locations | Tracking abilities, hunting techniques |
-| **Territory Wardens** | Territory protection, ecosystem balance | Natural territories | Territory defense, ecosystem maintenance |
-| **Path Finders** | Exploration, navigation | Unknown territories | Exploration, navigation |
-| **Wild Survivors** | Survival, adaptation | Harsh environments | Survival skills, environmental adaptation |
-| **Forest Singers** | Nature communication, harmony | Forest regions | Nature communication, forest harmony |
+| **Compagnons des Bêtes** | Liens avec les animaux, entraînement des compagnons | Divers endroits | Compagnons animaux, communication avec les bêtes |
+| **Maîtres Pisteur** | Pistage, chasse | Divers endroits | Capacités de pistage, techniques de chasse |
+| **Gardiens de Territoire** | Protection du territoire, équilibre de l'écosystème | Territoires naturels | Défense du territoire, maintien de l'écosystème |
+| **Chercheurs de Chemin** | Exploration, navigation | Territoires inconnus | Exploration, navigation |
+| **Survivants Sauvages** | Survie, adaptation | Environnements difficiles | Compétences de survie, adaptation environnementale |
+| **Chanteurs de la Forêt** | Communication avec la nature, harmonie | Régions forestières | Communication avec la nature, harmonie forestière |
 
-Understanding the nature of **rangers** provides insight into the natural aspects of the world of **OpenFantasy**, like listening to the wild melodies that echo through the symphony of nature. 
+Comprendre la nature des **rangers** donne un aperçu des aspects naturels du monde d'**OpenFantasy**, comme écouter les mélodies sauvages qui résonnent à travers la symphonie de la nature.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,222 +1,226 @@
-# **Gravity Field**
+# **Champ Gravitationnel**
 
-> *"Gravity is not a mere force but a relationship between mass and space—understanding this principle allows us not to defy it, but to reinterpret it."*  
-> — Magister Theia Voidwalker, Gravity Arts Pioneer
+> *"La gravité n'est pas une simple force, mais une relation entre la masse et l'espace. Comprendre ce principe nous permet non pas de la défier, mais de la réinterpréter."*
+> — Magister Theia Voidwalker, Pionnière des Arts de la Gravité
 
-## Casting Information
-- **Difficulty**: Intermediate to Expert
-- **Casting Time**: 3-8 seconds
-- **Duration**: Concentration, up to 3 minutes
-- **Range**: Self-centered sphere, 5-20 foot radius
-- **Components**: Somatic, Verbal, Focus (for advanced applications)
+## Informations de lancement
+- **Difficulté** : Intermédiaire à Expert
+- **Temps d'incantation** : 3-8 secondes
+- **Durée** : Concentration, jusqu'à 3 minutes
+- **Portée** : Sphère autocentrée, rayon de 1,5 à 6 mètres
+- **Composantes** : Somatique, Verbale, Focus (pour les applications avancées)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 65%, Terramana 20%, Aeromana 15%
-- **Primary Factor**: Training and Technical Execution (more significant than purity)
-- **Minimum Mana Capacity**: 25% (Higher capacity extends radius and duration)
-- **Pattern Complexity**: Moderate to Complex (5-tier nested gravity matrix)
-- **Resonance Frequency**: Ultra-low frequency physical spectrum
-- **Roaming Mana Utilization**: Very High (Optimized to operate at regeneration threshold)
+## Détails Techniques
+- **Distribution du Type de Mana** : Mana de Base 65%, Terramana 20%, Aeromana 15%
+- **Facteur Principal** : Entraînement et Exécution Technique (plus important que la pureté)
+- **Capacité de Mana Minimale** : 25% (Une capacité plus élevée étend le rayon et la durée)
+- **Complexité du Motif** : Modérée à Complexe (matrice de gravité imbriquée à 5 niveaux)
+- **Fréquence de Résonance** : Spectre physique à très basse fréquence
+- **Utilisation du Mana Errant** : Très élevée (Optimisée pour fonctionner au seuil de régénération)
 
-## Core Principles
+## Principes Fondamentaux
 
-Gravity Field manipulates the fundamental force of gravity within a defined area. Unlike simpler directional force spells, Gravity Field creates a persistent area where gravity's strength and direction can be altered. This makes it particularly useful for area control, mobility enhancement, and environmental manipulation.
+Champ Gravitationnel manipule la force fondamentale de la gravité dans une zone définie. Contrairement aux sorts de force directionnels plus simples, Champ Gravitationnel crée une zone persistante où la force et la direction de la gravité peuvent être modifiées. Cela le rend particulièrement utile pour le contrôle de zone, l'amélioration de la mobilité et la manipulation environnementale.
 
-The spell functions through a complex pattern that establishes:
+Le sort fonctionne grâce à un motif complexe qui établit :
 
-1. **Field Boundary**: The defined sphere of influence
-2. **Gravitational Constant Modifier**: The amplification or reduction factor applied to normal gravity
-3. **Directional Matrix**: The optional reorientation of gravitational pull
-4. **Stability Framework**: The pattern elements maintaining field coherence
-5. **Selectivity Filter**: The optional component allowing selective application to specific targets
+1. **Limite du Champ** : La sphère d'influence définie
+2. **Modificateur de la Constante Gravitationnelle** : Le facteur d'amplification ou de réduction appliqué à la gravité normale
+3. **Matrice Directionnelle** : La réorientation optionnelle de l'attraction gravitationnelle
+4. **Cadre de Stabilité** : Les éléments du motif maintenant la cohérence du champ
+5. **Filtre de Sélectivité** : La composante optionnelle permettant une application sélective à des cibles spécifiques
 
-What distinguishes Gravity Field from many other combat spells is its reliance on technical execution rather than mana purity. While quality mana certainly helps, masters of this discipline focus primarily on precise pattern manipulation and field stability techniques. This allows practitioners with only moderate purity levels to achieve remarkable effects through dedicated training and applied understanding of gravitational principles.
+Ce qui distingue Champ Gravitationnel de nombreux autres sorts de combat, c'est sa dépendance à l'exécution technique plutôt qu'à la pureté du mana. Bien qu'un mana de qualité aide certainement, les maîtres de cette discipline se concentrent principalement sur la manipulation précise des motifs et les techniques de stabilité du champ. Cela permet aux praticiens avec des niveaux de pureté seulement modérés d'obtenir des effets remarquables grâce à un entraînement dévoué et une compréhension appliquée des principes gravitationnels.
 
-## Standard Variants
+## Variantes Standard
 
-### Gravity Reduction Field
-Creates an area of reduced gravity, ideal for group mobility:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Reduces gravity by 30-70% for all objects and beings in the area
-- **Typical Users**: Battle Mages, Scouts, Infiltration Teams
-- **Applications**: Group enhanced jumping, fall damage reduction, weight reduction for crossing unstable terrain
+### Champ de Réduction de Gravité
+Crée une zone de gravité réduite, idéale pour la mobilité de groupe :
+- **Difficulté** : Intermédiaire
+- **Exigence de Pureté** : Raffinée (30-40%)
+- **Effet** : Réduit la gravité de 30 à 70% pour tous les objets et êtres dans la zone
+- **Utilisateurs Typiques** : Mages de Bataille, Éclaireurs, Équipes d'Infiltration
+- **Applications** : Sauts améliorés en groupe, réduction des dégâts de chute, réduction du poids pour traverser un terrain instable
 
-### Gravity Enhancement Field
-Increases gravitational pull in the target area:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%) 
-- **Effect**: Increases effective gravity by 50-200% within area
-- **Typical Users**: Battle Mages, Tactical Casters, Defenders
-- **Applications**: Slowing enemy movement, preventing jumps/flight, securing loose objects
+### Champ d'Amélioration de Gravité
+Augmente l'attraction gravitationnelle dans la zone cible :
+- **Difficulté** : Intermédiaire
+- **Exigence de Pureté** : Raffinée (35-45%)
+- **Effet** : Augmente la gravité effective de 50 à 200% dans la zone
+- **Utilisateurs Typiques** : Mages de Bataille, Lanceurs Tactiques, Défenseurs
+- **Applications** : Ralentissement des mouvements ennemis, empêchement des sauts/vols, sécurisation des objets lâches
 
-### Gravity Direction Shift
-Alters the direction of gravitational pull:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Changes which direction is "down" within the field
-- **Typical Users**: Elite Mages, Special Forces
-- **Applications**: Creating walking surfaces on walls/ceilings, redirecting projectiles, disorienting enemies
+### Déplacement de la Direction de la Gravité
+Modifie la direction de l'attraction gravitationnelle :
+- **Difficulté** : Avancée
+- **Exigence de Pureté** : Raffinée à Parfaite (45-65%)
+- **Effet** : Change la direction qui est "en bas" dans le champ
+- **Utilisateurs Typiques** : Mages d'Élite, Forces Spéciales
+- **Applications** : Création de surfaces de marche sur les murs/plafonds, redirection des projectiles, désorientation des ennemis
 
-## Advanced Variants
+## Variantes Avancées
 
-### Selective Gravity Field
-Affects only specified targets within the area:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Applies gravity effects only to selected targets
-- **Typical Users**: Master Battle Mages, Elite Controllers
-- **Applications**: Immobilizing specific enemies while allies move freely, targeted equipment disruption
+### Champ de Gravité Sélectif
+Affecte uniquement les cibles spécifiées dans la zone :
+- **Difficulté** : Expert
+- **Exigence de Pureté** : Parfaite (65-75%)
+- **Effet** : Applique des effets de gravité uniquement aux cibles sélectionnées
+- **Utilisateurs Typiques** : Maîtres Mages de Bataille, Contrôleurs d'Élite
+- **Applications** : Immobilisation d'ennemis spécifiques pendant que les alliés se déplacent librement, perturbation ciblée de l'équipement
 
-### Gravity Singularity
-Creates a central point of intense gravitational attraction:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-85%)
-- **Effect**: Generates powerful inward pull toward field center
-- **Typical Users**: Master Mages, Elite Specialists
-- **Applications**: Pulling enemies together, collecting scattered objects, creating defensive perimeter
+### Singularité Gravitationnelle
+Crée un point central d'attraction gravitationnelle intense :
+- **Difficulté** : Maître
+- **Exigence de Pureté** : Parfaite (70-85%)
+- **Effet** : Génère une puissante attraction vers le centre du champ
+- **Utilisateurs Typiques** : Maîtres Mages, Spécialistes d'Élite
+- **Applications** : Rassemblement des ennemis, collecte d'objets dispersés, création d'un périmètre défensif
 
-### Zero Gravity Bubble
-Creates a perfect gravity-null environment:
-- **Difficulty**: Grandmaster
-- **Purity Requirement**: Perfect (80-90%)
-- **Effect**: Completely negates gravitational forces within field
-- **Typical Users**: Archmages, Theoretical Specialists
-- **Applications**: True flight, perfect weightlessness, delicate operation environments for crafting
+### Bulle de Gravité Zéro
+Crée un environnement de gravité nulle parfait :
+- **Difficulté** : Grand Maître
+- **Exigence de Pureté** : Parfaite (80-90%)
+- **Effet** : Annule complètement les forces gravitationnelles dans le champ
+- **Utilisateurs Typiques** : Archimages, Spécialistes Théoriques
+- **Applications** : Vol véritable, apesanteur parfaite, environnements d'opération délicats pour l'artisanat
 
-## Purity Influence on Effect
+## Influence de la Pureté sur l'Effet
 
-Mana purity significantly impacts field stability, control, and scale:
+La pureté du mana a un impact significatif sur la stabilité, le contrôle et l'échelle du champ :
 
-| Purity Level | Field Stability | Control Level | Maximum Field Radius | Duration |
+| Niveau de Pureté | Stabilité du Champ | Niveau de Contrôle | Rayon Maximal du Champ | Durée |
 |--------------|----------------|---------------|----------------------|----------|
-| 30-40% | Fluctuating, minor inconsistencies | Basic alteration | 5-10 feet | Up to 1 minute |
-| 40-60% | Stable with defined boundary | Precise adjustment, directional control | 10-15 feet | Up to 2 minutes |
-| 60-80% | Highly stable with crisp boundary | Fine-tuned control, selective application | 15-20 feet | Up to 3 minutes |
-| 80%+ | Perfect stability with manipulable boundary | Complete mastery, dynamic adjustments | 20-30 feet | Up to 5 minutes |
+| 30-40% | Fluctuante, incohérences mineures | Altération de base | 1,5-3 mètres | Jusqu'à 1 minute |
+| 40-60% | Stable avec une limite définie | Ajustement précis, contrôle directionnel | 3-4,5 mètres | Jusqu'à 2 minutes |
+| 60-80% | Très stable avec une limite nette | Contrôle précis, application sélective | 4,5-6 mètres | Jusqu'à 3 minutes |
+| 80%+ | Stabilité parfaite avec une limite manipulable | Maîtrise complète, ajustements dynamiques | 6-9 mètres | Jusqu'à 5 minutes |
 
-## Class-Specific Applications
+## Applications Spécifiques aux Classes
 
-### Warrior Class
-- **Gravity Armor**: Localized field reducing weight of heavy armor
-- **Ground Slam**: Enhanced downward force during leaping attacks
-- **Gravity Anchor**: Increased stability during defensive maneuvers
-- **Pursuit Enhancement**: Reduced gravity for closing distance to fleeing targets
+### Classe Guerrier
+- **Armure de Gravité** : Champ localisé réduisant le poids de l'armure lourde
+- **Coup au Sol** : Force descendante améliorée lors des attaques sautées
+- **Ancrage Gravitationnel** : Stabilité accrue lors des manœuvres défensives
+- **Amélioration de la Poursuite** : Gravité réduite pour réduire la distance avec les cibles en fuite
 
-### Rogue/Assassin Class
-- **Wall Runner**: Shifting gravity to enable movement along vertical surfaces
-- **Featherfall**: Emergency gravity reduction to avoid fall damage
-- **Silent Approach**: Weight reduction for stealth movement
-- **Gravity Pocket**: Local field for increasing thrown weapon impact
+### Classe Roublard/Assassin
+- **Coureur de Murs** : Déplacement de la gravité pour permettre le mouvement le long des surfaces verticales
+- **Chute de Plume** : Réduction d'urgence de la gravité pour éviter les dégâts de chute
+- **Approche Silencieuse** : Réduction du poids pour un mouvement furtif
+- **Poche de Gravité** : Champ local pour augmenter l'impact des armes de jet
 
-### Ranger Class
-- **Tactical Reposition**: Enhanced mobility in natural environments
-- **Canopy Traversal**: Gravity manipulation for tree-to-tree movement
-- **Arrow Storm Control**: Selective gravity to guide multiple projectiles
-- **Beast Master Aid**: Assisting animal companions with difficult terrain
+### Classe Rôdeur
+- **Repositionnement Tactique** : Mobilité améliorée dans les environnements naturels
+- **Traversée de la Canopée** : Manipulation de la gravité pour le mouvement d'arbre en arbre
+- **Contrôle de la Tempête de Flèches** : Gravité sélective pour guider plusieurs projectiles
+- **Aide au Maître des Bêtes** : Assistance aux compagnons animaux sur un terrain difficile
 
-### Mage Class
-- **Levitation Field**: Group floating for crossing hazardous ground
-- **Laboratory Environment**: Controlled gravity for delicate arcane experiments
-- **Defensive Orbit**: Floating protective objects around caster
-- **Ritual Enhancement**: Manipulating components in three dimensions
+### Classe Mage
+- **Champ de Lévitation** : Flottaison de groupe pour traverser un terrain dangereux
+- **Environnement de Laboratoire** : Gravité contrôlée pour des expériences arcaniques délicates
+- **Orbite Défensive** : Objets protecteurs flottants autour du lanceur
+- **Amélioration Rituelle** : Manipulation des composants en trois dimensions
 
-## Technical Mastery and Effect
+## Maîtrise Technique et Effet
 
-Unlike many complex spells, Gravity Field depends more on technique and training than on mana purity:
+Contrairement à de nombreux sorts complexes, Champ Gravitationnel dépend davantage de la technique et de l'entraînement que de la pureté du mana :
 
-| Training Level | Field Control | Area Coverage | Effect Intensity | Sustainability |
+| Niveau d'Entraînement | Contrôle du Champ | Couverture de la Zone | Intensité de l'Effet | Durabilité |
 |----------------|---------------|---------------|------------------|----------------|
-| Novice | Basic uniform gravity change | 5-foot radius | 30-50% gravity modification | High energy cost, brief duration |
-| Intermediate | Stable field with consistent boundary | 5-10 foot radius | 50-100% gravity modification | Moderate efficiency, short durations |
-| Advanced | Field shaping and directional control | 10-15 foot radius | 50-200% gravity modification | Efficient use, combat-viable duration |
-| Master | Selective targeting and gradient effects | 15-25 foot radius | 25-300% gravity modification | Optimized for regeneration equilibrium |
+| Novice | Changement de gravité uniforme de base | Rayon de 1,5 mètre | Modification de la gravité de 30 à 50% | Coût énergétique élevé, brève durée |
+| Intermédiaire | Champ stable avec une limite cohérente | Rayon de 1,5-3 mètres | Modification de la gravité de 50 à 100% | Efficacité modérée, courtes durées |
+| Avancé | Mise en forme du champ et contrôle directionnel | Rayon de 3-4,5 mètres | Modification de la gravité de 50 à 200% | Utilisation efficace, durée viable en combat |
+| Maître | Ciblage sélectif et effets de gradient | Rayon de 4,5-7,5 mètres | Modification de la gravité de 25 à 300% | Optimisé pour l'équilibre de la régénération |
 
-Gravity Field practitioners develop specialized techniques to utilize ambient roaming mana, allowing them to maintain effects at the threshold of their natural mana regeneration. By establishing an energy equilibrium, expert users can sustain fields for extended periods, limited primarily by concentration rather than mana depletion.
+Les praticiens de Champ Gravitationnel développent des techniques spécialisées pour utiliser le mana errant ambiant, ce qui leur permet de maintenir des effets au seuil de leur régénération naturelle de mana. En établissant un équilibre énergétique, les utilisateurs experts peuvent maintenir des champs pendant des périodes prolongées, limitées principalement par la concentration plutôt que par l'épuisement du mana.
 
-## Mana Capacity and Field Relationship
+## Capacité de Mana et Relation avec le Champ
 
-The primary limiting factor in Gravity Field manipulation is the relationship between mana capacity and field size/strength:
+Le principal facteur limitant dans la manipulation de Champ Gravitationnel est la relation entre la capacité de mana et la taille/force du champ :
 
-| Mana Capacity | Maximum Sustainable Radius | Maximum Intensity | Duration at Maximum Exertion |
+| Capacité de Mana | Rayon Maximal Soutenable | Intensité Maximale | Durée à l'Effort Maximal |
 |---------------|----------------------------|-------------------|------------------------------|
-| 25-35% | 5-10 foot radius | ±100% gravity | 1-2 minutes (sustainable) |
-| 36-50% | 10-15 foot radius | ±150% gravity | 1-2 minutes (sustainable) |
-| 51-65% | 15-20 foot radius | ±200% gravity | 30-60 seconds (approaching regeneration limit) |
-| 66-80% | 20-25 foot radius | ±250% gravity | 15-30 seconds (exceeds regeneration) |
-| 81%+ | 25-30 foot radius | ±300% gravity | Brief tactical use only (rapidly depletes reserves) |
+| 25-35% | Rayon de 1,5-3 mètres | ±100% gravité | 1-2 minutes (soutenable) |
+| 36-50% | Rayon de 3-4,5 mètres | ±150% gravité | 1-2 minutes (soutenable) |
+| 51-65% | Rayon de 4,5-6 mètres | ±200% gravité | 30-60 secondes (approche la limite de régénération) |
+| 66-80% | Rayon de 6-7,5 mètres | ±250% gravité | 15-30 secondes (dépasse la régénération) |
+| 81%+ | Rayon de 7,5-9 mètres | ±300% gravité | Brève utilisation tactique uniquement (épuise rapidement les réserves) |
 
-Experienced practitioners typically operate at 75-85% of their maximum capacity, creating a balance between tactical effectiveness and sustainable duration. Some develop specialized techniques to periodically pulse stronger effects then return to sustainable levels, creating rhythm-based combat styles.
+Les praticiens expérimentés opèrent généralement à 75-85% de leur capacité maximale, créant un équilibre entre efficacité tactique et durée soutenable. Certains développent des techniques spécialisées pour pulser périodiquement des effets plus forts, puis revenir à des niveaux soutenables, créant des styles de combat basés sur le rythme.
 
-## Training Progression
+## Progression de l'Entraînement
 
-### Basic Understanding
-- Mastering the foundational gravity reduction technique
-- Learning to maintain field boundaries
-- Practicing personal weight adjustment
-- Simple area effect generation
-- Roaming mana sensitivity development
+### Compréhension de Base
+- Maîtrise de la technique fondamentale de réduction de la gravité
+- Apprentissage du maintien des limites du champ
+- Pratique de l'ajustement personnel du poids
+- Génération d'effet de zone simple
+- Développement de la sensibilité au mana errant
 
-### Intermediate Control
-- Developing field stability under stressful conditions
-- Learning to modulate gravity strength dynamically
-- Beginning direction control exercises
-- Expanding field radius while maintaining stability
-- Regeneration synchronization techniques
+### Contrôle Intermédiaire
+- Développement de la stabilité du champ dans des conditions stressantes
+- Apprentissage de la modulation dynamique de la force de la gravité
+- Début des exercices de contrôle de la direction
+- Expansion du rayon du champ tout en maintenant la stabilité
+- Techniques de synchronisation de la régénération
 
-### Advanced Manipulation
-- Mastering directional control
-- Developing selective targeting within field
-- Practicing field shape alteration
-- Combining with other spell systems
-- Ambient mana harvesting optimization
+### Manipulation Avancée
+- Maîtrise du contrôle directionnel
+- Développement du ciblage sélectif dans le champ
+- Pratique de l'altération de la forme du champ
+- Combinaison avec d'autres systèmes de sorts
+- Optimisation de la collecte de mana ambiant
 
-### Master Techniques
-- Gravity gradient creation
-- Multi-zone field establishment
-- Pulsed effect timing systems
-- Sustainable field rotation
-- Combat movement integration
+### Techniques de Maître
+- Création de gradient de gravité
+- Établissement de champ multi-zones
+- Systèmes de synchronisation d'effets pulsés
+- Rotation de champ soutenable
+- Intégration du mouvement de combat
 
-## Technical Considerations
+## Considérations Techniques
 
-- **Regeneration Equilibrium**: Finding the balance point between field strength and natural mana recovery
-- **Ambient Energy Integration**: Methods to supplement personal reserves with environmental mana
-- **Field Boundary Efficiency**: Minimizing energy loss at the edges of the gravity field
-- **Pattern Compression**: Techniques to reduce unnecessary complexity in field matrices
-- **Momentum Conservation**: Understanding how changes in gravitational force affect energy requirements
-- **Cyclic Reinforcement**: Creating field patterns that partially self-sustain through gravitational feedback
+- **Équilibre de Régénération** : Trouver le point d'équilibre entre la force du champ et la récupération naturelle du mana
+- **Intégration de l'Énergie Ambiante** : Méthodes pour compléter les réserves personnelles avec du mana environnemental
+- **Efficacité de la Limite du Champ** : Minimisation de la perte d'énergie aux bords du champ gravitationnel
+- **Compression de Motif** : Techniques pour réduire la complexité inutile dans les matrices de champ
+- **Conservation de l'Énergie** : Comprendre comment les changements de force gravitationnelle affectent les besoins énergétiques
+- **Renforcement Cyclique** : Création de motifs de champ qui s'auto-maintiennent partiellement grâce à la rétroaction gravitationnelle
 
-## Risk Factors
+## Facteurs de Risque
 
-### Common Mishaps
-- **Field Collapse**: Sudden return to normal gravity causing falls or crashes
-- **Inversion Feedback**: Unintended reversal of gravitational direction
-- **Boundary Instability**: Erratic field edge causing unpredictable effects
-- **Casting Disorientation**: Spatial confusion affecting the caster's balance
-- **Singularity Formation**: Unintended central gravity well forming within field
+### Accidents Courants
+- **Effondrement du Champ** : Retour soudain à la gravité normale provoquant des chutes ou des accidents
+- **Rétroaction d'Inversion** : Inversion involontaire de la direction gravitationnelle
+- **Instabilité des Limites** : Bord de champ erratique provoquant des effets imprévisibles
+- **Désorientation d'Incantation** : Confusion spatiale affectant l'équilibre du lanceur
+- **Formation de Singularité** : Puits de gravité central involontaire se formant dans le champ
 
-### Safety Practices
-- Training in controlled environments with safety equipment
-- Practicing with lightweight objects before self-application
-- Gradual field expansion technique to maintain control
-- Emergency field dissolution technique
-- Maintaining grounding anchor point awareness
+### Pratiques de Sécurité
+- Entraînement dans des environnements contrôlés avec un équipement de sécurité
+- Pratique avec des objets légers avant l'auto-application
+- Technique d'expansion progressive du champ pour maintenir le contrôle
+- Technique de dissolution du champ d'urgence
+- Maintien de la conscience du point d'ancrage à la terre
 
-## Historical Development
+## Développement Historique
 
-Gravity Field manipulation emerged during the late Second Age when theoretical mages began exploring the fundamental forces beyond elemental magic. The pioneering work of the Orbital Circle, a secretive mage society, established the core principles still used today.
+La manipulation de Champ Gravitationnel a émergé à la fin du Second Âge lorsque les mages théoriques ont commencé à explorer les forces fondamentales au-delà de la magie élémentaire. Le travail pionnier du Cercle Orbital, une société de mages secrète, a établi les principes fondamentaux encore utilisés aujourd'hui.
 
-Early application of the art was limited by the prevailing belief that only those with exceptional mana purity could achieve meaningful gravitational effects. This changed dramatically when Theia Voidwalker, a battle mage with only moderate purity levels, demonstrated the superiority of technical execution over raw magical quality. Her revolutionary "Technique Over Purity" doctrine transformed gravitational magic from an esoteric scholarly pursuit into a practical combat discipline accessible to warriors with basic magical training.
+L'application précoce de l'art était limitée par la croyance dominante selon laquelle seuls ceux qui avaient une pureté de mana exceptionnelle pouvaient obtenir des effets gravitationnels significatifs. Cela a radicalement changé lorsque Theia Voidwalker, une mage de bataille avec des niveaux de pureté seulement modérés, a démontré la supériorité de l'exécution technique sur la qualité magique brute. Sa doctrine révolutionnaire "Technique Avant Pureté" a transformé la magie gravitationnelle d'une poursuite érudite ésotérique en une discipline de combat pratique accessible aux guerriers avec une formation magique de base.
 
-> *"The key insight that revolutionized gravity manipulation was not a breakthrough in purification, but in technique. When we stopped trying to overwhelm gravity with pure power and instead learned to dance with it through precise application, we achieved what generations of high-purity theorists could not."* — From the combat journals of Theia Voidwalker
+> *"La principale perspicacité qui a révolutionné la manipulation de la gravité n'était pas une percée dans la purification, mais dans la technique. Lorsque nous avons cessé d'essayer de submerger la gravité avec une puissance pure et que nous avons plutôt appris à danser avec elle grâce à une application précise, nous avons réalisé ce que des générations de théoriciens de haute pureté n'avaient pas pu."* — Extrait des journaux de combat de Theia Voidwalker
 
-## Practical Notes
+## Notes Pratiques
 
-Gravity Field is particularly mana-intensive to maintain over longer periods. Efficient casters often establish anchor points to reduce the ongoing concentration requirement. The spell interacts complexly with other force-based magic, sometimes creating unexpected resonance effects that skilled casters can exploit.
+Champ Gravitationnel est particulièrement gourmand en mana pour être maintenu sur de longues périodes. Les lanceurs efficaces établissent souvent des points d'ancrage pour réduire les besoins de concentration continue. Le sort interagit de manière complexe avec d'autres magies basées sur la force, créant parfois des effets de résonance inattendus que les lanceurs qualifiés peuvent exploiter.
 
-For novice practitioners, the greatest challenge is often not the initial field generation but maintaining consistent effect throughout the field area while working within their regeneration limits—a skill that comes only with dedicated practice and spatial awareness training.
+Pour les praticiens novices, le plus grand défi n'est souvent pas la génération initiale du champ, mais le maintien d'un effet cohérent dans toute la zone du champ tout en travaillant dans les limites de leur régénération - une compétence qui ne vient qu'avec une pratique dévouée et une formation à la conscience spatiale.
 
 ---
 
-*See also: [Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Movement Enhancement](/codex/Magics/Spells/Utility/MovementEnhancement.md), [Advanced Battle Magic](/codex/Magics/Spells/Combat/BattleMagicPrinciples.md)* 
+*Voir aussi : [Vecteur de Force](/codex/Magics/Spells/Utility/ForceVector.md), [Amélioration du Mouvement](/codex/Magics/Spells/Utility/MovementEnhancement.md), [Magie de Bataille Avancée](/codex/Magics/Spells/Combat/BattleMagicPrinciples.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,220 +1,224 @@
-# **The School of Enchantment**
+# **L'École de l'Enchantement**
 
-> *"To enchant is to weave your will into the fabric of reality itself—to create a bridge between intention and manifestation that persists beyond your presence."*  
-> — Lady Seraphina Moonweaver, Grandmaster of Persistent Magic
+> *"Enchanter, c'est tisser votre volonté dans le tissu même de la réalité — créer un pont entre l'intention et la manifestation qui persiste au-delà de votre présence."*
+> — Dame Séraphina Tisse-Lune, Grande Maîtresse de la Magie Persistante
 
-## Overview
+## Aperçu
 
-Enchantment is the school of magic dedicated to imbuing objects, creatures, or places with persistent magical effects. Unlike temporary spells, enchantments create lasting changes in the magical properties of their targets, allowing effects to continue without the caster's ongoing attention. This school encompasses everything from creating magical items and protective wards to influencing minds and altering behavioral patterns. Enchantment is distinguished by its focus on durability and self-sustaining magical circuits that continue functioning independently.
+L'Enchantement est l'école de magie dédiée à imprégner des objets, des créatures ou des lieux d'effets magiques persistants. Contrairement aux sorts temporaires, les enchantements créent des changements durables dans les propriétés magiques de leurs cibles, permettant aux effets de continuer sans l'attention continue du lanceur de sorts. Cette école englobe tout, de la création d'objets magiques et de protections protectrices à l'influence des esprits et à la modification des schémas de comportement. L'Enchantement se distingue par son attention à la durabilité et aux circuits magiques autonomes qui continuent de fonctionner indépendamment.
 
-## Fundamental Principles
+## Principes Fondamentaux
 
-### The Principle of Persistent Resonance
+### Le Principe de Résonance Persistante
 
-The foundation of enchantment is the Principle of Persistent Resonance, which states that magical energy can be bound into patterns that continuously resonate with their surroundings, creating self-sustaining magical effects. This requires the creation of closed magical circuits within the target that can maintain energy flow without constant external input.
+Le fondement de l'enchantement est le Principe de Résonance Persistante, qui stipule que l'énergie magique peut être liée dans des schémas qui résonnent continuellement avec leur environnement, créant des effets magiques autonomes. Cela nécessite la création de circuits magiques fermés à l'intérieur de la cible, capables de maintenir le flux d'énergie sans apport externe constant.
 
-### Primary Components
+### Composants Principaux
 
-All enchantment spells incorporate several fundamental components:
+Tous les sorts d'enchantement incorporent plusieurs composants fondamentaux :
 
-1. **Pattern Foundation**: Establishing the base magical structure within the target
-2. **Energy Binding**: Securing magical energy into self-sustaining circuits
-3. **Resonance Stabilization**: Ensuring the enchantment maintains consistent effects
-4. **Trigger Mechanism**: Defining conditions for activation and deactivation
+1. **Fondation du Modèle** : Établir la structure magique de base à l'intérieur de la cible
+2. **Liaison d'Énergie** : Sécuriser l'énergie magique dans des circuits autonomes
+3. **Stabilisation de la Résonance** : S'assurer que l'enchantement maintient des effets constants
+4. **Mécanisme de Déclenchement** : Définir les conditions d'activation et de désactivation
 
-More complex enchantments include additional components:
+Les enchantements plus complexes incluent des composants supplémentaires :
 
-5. **Power Regulation**: Controlling the strength and intensity of the magical effect
-6. **Pattern Integration**: Harmonizing the enchantment with the target's natural properties
-7. **Conditional Variance**: Creating adaptable responses to different circumstances
-8. **Temporal Anchoring**: Securing the enchantment against degradation over time
+5. **Régulation de la Puissance** : Contrôler la force et l'intensité de l'effet magique
+6. **Intégration du Modèle** : Harmoniser l'enchantement avec les propriétés naturelles de la cible
+7. **Variance Conditionnelle** : Créer des réponses adaptables à différentes circonstances
+8. **Ancrage Temporel** : Sécuriser l'enchantement contre la dégradation au fil du temps
 
-### Mana Requirements
+### Exigences en Mana
 
-Enchantment requires specific combinations of mana types, with varying levels of purity based on complexity and duration:
+L'enchantement nécessite des combinaisons spécifiques de types de mana, avec des niveaux de pureté variables en fonction de la complexité et de la durée :
 
-| Enchantment Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| Type d'Enchantement | Mana Primaire | Mana Secondaire | Mana Tertiaire | But |
 |-----------------|-------------|----------------|---------------|---------|
-| Temporary (1-7 days) | Base Mana (25-35%) | Effect-specific (15-25%) | N/A | Short-duration effects |
-| Standard (1-12 months) | Base Mana (35-45%) | Effect-specific (25-35%) | Stability mana (10-20%) | Common magical items |
-| Extended (1-10 years) | Base Mana (45-55%) | Effect-specific (35-45%) | Stability mana (20-30%) | Quality enchanted objects |
-| Semi-Permanent (10-100 years) | Base Mana (55-65%) | Effect-specific (45-55%) | Stability mana (30-40%) | Heirloom items, wards |
-| Permanent (100+ years) | Base Mana (65-75%) | Effect-specific (55-65%) | Stability mana (40-50%) | Artifacts, ancient sites |
+| Temporaire (1-7 jours) | Mana de Base (25-35%) | Spécifique à l'effet (15-25%) | N/A | Effets de courte durée |
+| Standard (1-12 mois) | Mana de Base (35-45%) | Spécifique à l'effet (25-35%) | Mana de Stabilité (10-20%) | Objets magiques courants |
+| Étendu (1-10 ans) | Mana de Base (45-55%) | Spécifique à l'effet (35-45%) | Mana de Stabilité (20-30%) | Objets enchantés de qualité |
+| Semi-Permanent (10-100 ans) | Mana de Base (55-65%) | Spécifique à l'effet (45-55%) | Mana de Stabilité (30-40%) | Objets de famille, protections |
+| Permanent (100+ ans) | Mana de Base (65-75%) | Spécifique à l'effet (55-65%) | Mana de Stabilité (40-50%) | Artefacts, sites anciens |
 
-### Wild Mana Response
+### Réponse du Mana Sauvage
 
-Enchantment magic has a complex relationship with Wild Mana, which can both strengthen and destabilize existing enchantments:
+La magie d'enchantement a une relation complexe avec le Mana Sauvage, qui peut à la fois renforcer et déstabiliser les enchantements existants :
 
-- **Power Amplification**: Increasing the strength or range of enchanted effects
-- **Duration Extension**: Prolonging the lifespan of temporary enchantments
-- **Spontaneous Activation**: Triggering dormant enchantments without normal conditions
-- **Effect Evolution**: Causing enchantments to develop new or enhanced capabilities
+- **Amplification de Puissance** : Augmenter la force ou la portée des effets enchantés
+- **Extension de Durée** : Prolonger la durée de vie des enchantements temporaires
+- **Activation Spontanée** : Déclencher des enchantements dormants sans conditions normales
+- **Évolution de l'Effet** : Faire évoluer les enchantements vers de nouvelles capacités améliorées
 
-However, these potential benefits carry substantial risks:
+Cependant, ces avantages potentiels comportent des risques substantiels :
 
-- **Pattern Destabilization**: Enchantments becoming erratic or unpredictable
-- **Effect Warping**: Original enchantment purpose becoming distorted
-- **Resonance Cascade**: Multiple enchantments interfering with each other
-- **Binding Dissolution**: Complete breakdown of the magical binding
+- **Déstabilisation du Modèle** : Les enchantements deviennent erratiques ou imprévisibles
+- **Distorsion de l'Effet** : Le but original de l'enchantement est déformé
+- **Cascade de Résonance** : Plusieurs enchantements interfèrent les uns avec les autres
+- **Dissolution de la Liaison** : Rupture complète de la liaison magique
 
-## Mana Purification for Enchantment
+## Purification du Mana pour l'Enchantement
 
-The longevity and stability of enchantments depend directly on mana purity:
+La longévité et la stabilité des enchantements dépendent directement de la pureté du mana :
 
-| Purification Level | Enchantment Capability |
+| Niveau de Purification | Capacité d'Enchantement |
 |--------------------|------------------------|
-| Basic (15-25%) | Temporary enchantments lasting days to weeks |
-| Intermediate (30-45%) | Standard enchantments lasting months to a few years |
-| Advanced (50-65%) | Extended enchantments lasting years to decades |
-| Master (70-80%) | Semi-permanent enchantments lasting generations |
-| Grandmaster (85%+) | Permanent enchantments with potential to last centuries |
+| Basique (15-25%) | Enchantements temporaires durant de quelques jours à quelques semaines |
+| Intermédiaire (30-45%) | Enchantements standards durant de quelques mois à quelques années |
+| Avancé (50-65%) | Enchantements étendus durant des années à des décennies |
+| Maître (70-80%) | Enchantements semi-permanents durant des générations |
+| Grand Maître (85%+) | Enchantements permanents avec un potentiel de durer des siècles |
 
-Insufficient purity in enchantment typically results in "fading"—enchantments that gradually weaken over time until they eventually dissipate completely, often with unpredictable effects during the degradation process.
+Une pureté insuffisante dans l'enchantement entraîne généralement une "décoloration" — des enchantements qui s'affaiblissent progressivement avec le temps jusqu'à ce qu'ils se dissipent complètement, souvent avec des effets imprévisibles pendant le processus de dégradation.
 
-## The Enchanter's Harmony
+## L'Harmonie de l'Enchanteur
 
-Enchantment magic is conceptualized as a sustained musical composition, with each enchantment creating an ongoing magical melody:
+La magie d'enchantement est conceptualisée comme une composition musicale soutenue, chaque enchantement créant une mélodie magique continue :
 
-- **Ostinato**: The repeating base pattern that maintains the enchantment's core function
-- **Harmony**: The relationship between the enchantment and its physical vessel
-- **Dynamics**: The variation in power and effect under different conditions
-- **Crescendo and Diminuendo**: The activation and deactivation phases of the enchantment
-- **Counterpoint**: The interplay between multiple enchantments within a single object
+- **Ostinato** : Le motif de base répétitif qui maintient la fonction principale de l'enchantement
+- **Harmonie** : La relation entre l'enchantement et son récipient physique
+- **Dynamique** : La variation de puissance et d'effet dans différentes conditions
+- **Crescendo et Diminuendo** : Les phases d'activation et de désactivation de l'enchantement
+- **Contrepoint** : L'interaction entre plusieurs enchantements au sein d'un seul objet
 
-Master enchanters describe their work as "composing eternal melodies that play whether or not the musician remains."
+Les maîtres enchanteurs décrivent leur travail comme "composant des mélodies éternelles qui jouent, que le musicien reste ou non".
 
-## Specialized Disciplines
+## Disciplines Spécialisées
 
-### Artificing
+### Artificerie
 
-The creation of magical items and tools with practical functions. Practitioners are known as Artificers.
+La création d'objets et d'outils magiques ayant des fonctions pratiques. Les praticiens sont connus sous le nom d'Artificiers.
 
-### Wardcraft
+### Art Protecteur
 
-Focused on protective and boundary enchantments for locations and objects. Masters are called Wardmasters.
+Axé sur les enchantements de protection et de délimitation pour les lieux et les objets. Les maîtres sont appelés Maîtres des Protections.
 
-### Runesmithing
+### Runemage
 
-Specialized in the use of symbolic language to encode and stabilize enchantments. Practitioners are called Runesmiths.
+Spécialisé dans l'utilisation du langage symbolique pour coder et stabiliser les enchantements. Les praticiens sont appelés Runemages.
 
-### Mindweaving
+### Tissage d'Esprit
 
-The enchantment of consciousness and thought patterns. Masters are known as Mindweavers.
+L'enchantement de la conscience et des schémas de pensée. Les maîtres sont connus sous le nom de Tisseurs d'Esprit.
 
-### Ambienturgy
+### Ambienturgie
 
-Creation of atmospheric and environmental enchantments affecting areas. Practitioners are called Ambienturges.
+Création d'enchantements atmosphériques et environnementaux affectant les zones. Les praticiens sont appelés Ambienturges.
 
-### Soulbinding
+### Liaison d'Âme
 
-The controversial practice of binding spiritual essences to objects or locations. Masters are known as Soulbinders.
+La pratique controversée consistant à lier des essences spirituelles à des objets ou à des lieux. Les maîtres sont connus sous le nom de Lieurs d'Âme.
 
-### Enchanted Architecture
+### Architecture Enchantée
 
-The integration of enchantments into buildings and structures. Practitioners are called Arcane Architects.
+L'intégration d'enchantements dans les bâtiments et les structures. Les praticiens sont appelés Architectes Arcaniques.
 
-## Training Methodology
+## Méthodologie de Formation
 
-Enchantment training follows a structured progression:
+La formation à l'enchantement suit une progression structurée :
 
-1. **Theoretical Foundations**: Understanding magical circuits and resonant patterns
-2. **Material Affinity Study**: Learning which substances best hold various enchantments
-3. **Temporary Enchanting**: Creating short-duration effects to master basic techniques
-4. **Circuit Design**: Developing efficient energy patterns for self-sustaining magic
-5. **Duration Extension**: Techniques for increasing enchantment longevity
-6. **Stability Enhancement**: Methods to protect enchantments from deterioration
-7. **Multiple Effect Integration**: Combining different magical functions harmoniously
-8. **Conditional Programming**: Creating enchantments that respond to specific triggers
+1. **Fondations Théoriques** : Comprendre les circuits magiques et les schémas résonnants
+2. **Étude de l'Affinité Matérielle** : Apprendre quelles substances retiennent le mieux divers enchantements
+3. **Enchantement Temporaire** : Créer des effets de courte durée pour maîtriser les techniques de base
+4. **Conception de Circuits** : Développer des schémas énergétiques efficaces pour une magie autonome
+5. **Extension de Durée** : Techniques pour augmenter la longévité de l'enchantement
+6. **Amélioration de la Stabilité** : Méthodes pour protéger les enchantements de la détérioration
+7. **Intégration d'Effets Multiples** : Combiner harmonieusement différentes fonctions magiques
+8. **Programmation Conditionnelle** : Créer des enchantements qui répondent à des déclencheurs spécifiques
 
-Training emphasizes patience, precision, and meticulous attention to detail. Most enchantment students spend years mastering each level before progressing to the next.
+La formation met l'accent sur la patience, la précision et une attention méticuleuse aux détails. La plupart des étudiants en enchantement passent des années à maîtriser chaque niveau avant de passer au suivant.
 
-## Enchantment in Practice
+## L'Enchantement en Pratique
 
-The process of creating an enchantment follows distinct phases:
+Le processus de création d'un enchantement suit des phases distinctes :
 
-1. **Material Selection**: Choosing appropriate substances to hold the enchantment
-2. **Preparation Rituals**: Cleansing and preparing the target to receive magic
-3. **Mana Purification**: Achieving necessary purity for the desired duration
-4. **Circuit Inscription**: Creating the magical pathways within the target
-5. **Energy Infusion**: Charging the circuits with appropriate magical energy
-6. **Pattern Stabilization**: Securing the enchantment against degradation
-7. **Function Testing**: Verifying the enchantment works as intended
-8. **Final Sealing**: Closing the enchantment against external interference
+1. **Sélection des Matériaux** : Choisir des substances appropriées pour retenir l'enchantement
+2. **Rituels de Préparation** : Nettoyer et préparer la cible à recevoir la magie
+3. **Purification du Mana** : Atteindre la pureté nécessaire pour la durée souhaitée
+4. **Inscription de Circuit** : Créer les voies magiques à l'intérieur de la cible
+5. **Infusion d'Énergie** : Charger les circuits avec l'énergie magique appropriée
+6. **Stabilisation du Modèle** : Sécuriser l'enchantement contre la dégradation
+7. **Test de Fonction** : Vérifier que l'enchantement fonctionne comme prévu
+8. **Scellement Final** : Fermer l'enchantement contre les interférences externes
 
-For emergency or field enchantment, these steps may be condensed, though with significant sacrifices to duration and stability.
+Pour l'enchantement d'urgence ou sur le terrain, ces étapes peuvent être condensées, bien qu'avec des sacrifices importants en termes de durée et de stabilité.
 
-## Practical Applications
+## Applications Pratiques
 
-Enchantment serves numerous practical functions in magical society:
+L'enchantement sert de nombreuses fonctions pratiques dans la société magique :
 
-- **Daily Convenience**: Self-cleaning objects, never-cold cups, ever-sharp blades
-- **Protection**: Wards against theft, fire, or magical attack
-- **Communication**: Message-carrying objects, distance-speaking devices
-- **Transportation**: Enhanced vehicles, flying carpets, seven-league boots
-- **Agriculture**: Weather-influencing tools, soil-enriching stones
-- **Medicine**: Healing amulets, pain-relieving charms, diagnostic instruments
-- **Architecture**: Self-repairing structures, temperature-regulating buildings
-- **Entertainment**: Toys, games, and recreational devices with magical properties
+- **Commodité Quotidienne** : Objets autonettoyants, tasses jamais froides, lames toujours tranchantes
+- **Protection** : Protections contre le vol, le feu ou les attaques magiques
+- **Communication** : Objets transportant des messages, appareils de conversation à distance
+- **Transport** : Véhicules améliorés, tapis volants, bottes de sept lieues
+- **Agriculture** : Outils influençant la météo, pierres enrichissant le sol
+- **Médecine** : Amulettes de guérison, charmes soulageant la douleur, instruments de diagnostic
+- **Architecture** : Structures autoréparatrices, bâtiments régulant la température
+- **Divertissement** : Jouets, jeux et appareils récréatifs dotés de propriétés magiques
 
-## Ethical Considerations
+## Considérations Éthiques
 
-Enchantment raises significant ethical questions:
+L'enchantement soulève d'importantes questions éthiques :
 
-- **Consent in Mind-Affecting Enchantments**: Boundaries of acceptable influence
-- **Dependency Issues**: Societies becoming reliant on enchanted solutions
-- **Knowledge Gatekeeping**: Access to enchantment techniques and materials
-- **Planned Obsolescence**: Creating enchantments designed to fail after certain periods
-- **Environmental Impact**: Effects of abandoned or failed enchantments on surrounding areas
-- **Cultural Preservation**: Traditional crafts displaced by enchanted alternatives
+- **Consentement dans les Enchantements Affectant l'Esprit** : Limites de l'influence acceptable
+- **Problèmes de Dépendance** : Les sociétés devenant dépendantes des solutions enchantées
+- **Garde du Savoir** : Accès aux techniques et aux matériaux d'enchantement
+- **Obsolescence Programmée** : Créer des enchantements conçus pour échouer après certaines périodes
+- **Impact Environnemental** : Effets des enchantements abandonnés ou ratés sur les zones environnantes
+- **Préservation Culturelle** : Artisanat traditionnel remplacé par des alternatives enchantées
 
-Most enchantment academies enforce strict ethical codes governing mind-affecting enchantments and potentially dangerous creations.
+La plupart des académies d'enchantement appliquent des codes d'éthique stricts régissant les enchantements affectant l'esprit et les créations potentiellement dangereuses.
 
-## Limitations and Weaknesses
+## Limitations et Faiblesses
 
-Despite its power, enchantment has inherent limitations:
+Malgré sa puissance, l'enchantement a des limites inhérentes :
 
-- **Material Compatibility**: Not all substances accept enchantments equally well
-- **Energy Capacity**: Objects can only hold finite amounts of magical energy
-- **Interference Patterns**: Multiple enchantments may conflict or cancel each other
-- **Environmental Sensitivity**: Some enchantments degrade in specific conditions
-- **Resonance Drift**: Long-term enchantments may slowly shift in effect over time
-- **Recharge Requirements**: Many enchantments require periodic energy renewal
+- **Compatibilité Matérielle** : Toutes les substances n'acceptent pas les enchantements aussi bien
+- **Capacité Énergétique** : Les objets ne peuvent contenir que des quantités finies d'énergie magique
+- **Schémas d'Interférence** : Plusieurs enchantements peuvent entrer en conflit ou s'annuler mutuellement
+- **Sensibilité Environnementale** : Certains enchantements se dégradent dans des conditions spécifiques
+- **Dérive de Résonance** : Les enchantements à long terme peuvent lentement changer d'effet au fil du temps
+- **Exigences de Recharge** : De nombreux enchantements nécessitent un renouvellement énergétique périodique
 
-Common countermeasures against enchantment include:
+Les contre-mesures courantes contre l'enchantement comprennent :
 
-- **Disenchantment Spells**: Magic specifically designed to break enchantments
-- **Material Treatments**: Substances that resist magical binding
-- **Resonance Disruption**: Fields that interfere with enchantment functioning
-- **Thaumic Grounding**: Techniques to drain enchanted objects of power
-- **Detection Amulets**: Items that reveal the presence of hidden enchantments
+- **Sorts de Désenchantement** : Magie spécialement conçue pour briser les enchantements
+- **Traitements Matériels** : Substances qui résistent à la liaison magique
+- **Perturbation de la Résonance** : Champs qui interfèrent avec le fonctionnement de l'enchantement
+- **Mise à la Terre Thaumique** : Techniques pour drainer les objets enchantés de leur puissance
+- **Amulettes de Détection** : Objets qui révèlent la présence d'enchantements cachés
 
-## Musical Analogy
+## Analogie Musicale
 
-In the musical framework of magic, enchantment represents stringed instruments—creating resonant tones that continue vibrating long after the initial pluck. The enchanter is like a harpist, setting up strings of magic that continue to play their melody independently.
+Dans le cadre musical de la magie, l'enchantement représente les instruments à cordes — créant des tons résonnants qui continuent de vibrer longtemps après le pincement initial. L'enchanteur est comme un harpiste, mettant en place des cordes de magie qui continuent à jouer leur mélodie indépendamment.
 
-Enchantment spells are described in terms of "resonance" and "harmony," with each successful enchantment requiring perfect tuning to its material vessel. Master enchanters can create "symphonies" of multiple interconnected enchantments that respond to each other like sections of an orchestra.
+Les sorts d'enchantement sont décrits en termes de "résonance" et d'"harmonie", chaque enchantement réussi nécessitant un accord parfait avec son récipient matériel. Les maîtres enchanteurs peuvent créer des "symphonies" de multiples enchantements interconnectés qui se répondent comme les sections d'un orchestre.
 
-## Notable Practitioners
+## Praticiens Notables
 
-- **Seraphina Moonweaver**: Architect of modern enchantment theory and creator of the Perpetual Resonance Principle
-- **Thaddeus Runehand**: Legendary runesmith who developed the Integrated Circuit System of enchantment
-- **Lydia Soulstring**: Pioneer in ethical mindweaving and emotional enchantment
-- **Galen Wardwright**: Creator of the Concentric Defense system for layered protective enchantments
-- **Vasilisa Everforge**: Master artificer known for creating enchanted items that grow stronger with use
+- **Séraphina Tisse-Lune** : Architecte de la théorie moderne de l'enchantement et créatrice du Principe de Résonance Perpétuelle
+- **Thaddée Main-de-Rune** : Runemage légendaire qui a développé le Système de Circuit Intégré d'enchantement
+- **Lydia Corde-d'Âme** : Pionnière dans le tissage éthique de l'esprit et l'enchantement émotionnel
+- **Galène Wardwright** : Créateur du système de Défense Concentrique pour les enchantements protecteurs en couches
+- **Vasilisa Everforge** : Maître artificier connu pour la création d'objets enchantés qui deviennent plus forts avec l'utilisation
 
-## Safety Protocols
+## Protocoles de Sécurité
 
-Due to the potential dangers of enchantment, standardized safety measures include:
+En raison des dangers potentiels de l'enchantement, les mesures de sécurité standardisées comprennent :
 
-- **Containment Circles**: Magical boundaries that limit effect spread during creation
-- **Resonance Dampeners**: Tools to slow or halt unstable enchantment processes
-- **Disenchantment Keys**: Built-in methods to safely deactivate enchantments
-- **Stability Monitors**: Devices that track enchantment integrity during creation
-- **Energy Limiters**: Safeguards preventing power overload in enchanted items
-- **Isolation Chambers**: Specialized rooms for testing potentially unstable enchantments
+- **Cercles de Confinement** : Limites magiques qui limitent la propagation des effets pendant la création
+- **Amortisseurs de Résonance** : Outils pour ralentir ou arrêter les processus d'enchantement instables
+- **Clés de Désenchantement** : Méthodes intégrées pour désactiver les enchantements en toute sécurité
+- **Moniteurs de Stabilité** : Appareils qui suivent l'intégrité de l'enchantement pendant la création
+- **Limiteurs d'Énergie** : Sauvegardes empêchant la surcharge de puissance dans les objets enchantés
+- **Chambres d'Isolement** : Pièces spécialisées pour tester les enchantements potentiellement instables
 
-The Enchanter's Oath, taken by all certified practitioners, includes the promise to "bind with purpose, not permanence; to enchant with foresight, not just desire; and to unmake what proves harmful, regardless of the cost or challenge."
+Le Serment de l'Enchanteur, prêté par tous les praticiens certifiés, comprend la promesse de "lier avec un but, pas avec la permanence ; d'enchanter avec prévoyance, pas seulement avec désir ; et de défaire ce qui s'avère nuisible, quels que soient le coût ou le défi".
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Harmonic Theory](/codex/Magics/HarmonicTheory.md)* 
+*Voir aussi : [Purification du Mana](/codex/Magics/ManaMechanics.md), [Mana Sauvage](/codex/Magics/WildMana.md), [Théorie Harmonique](/codex/Magics/HarmonicTheory.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

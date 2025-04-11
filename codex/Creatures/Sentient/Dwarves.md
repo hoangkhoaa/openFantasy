@@ -1,104 +1,108 @@
-# **Dwarves**: The Steadfast Guardians of Tradition
+# **Nains** : Les Gardiens Inébranlables de la Tradition
 
-[**Dwarves**](/codex/Creatures/Dwarves.md) are the steadfast guardians of tradition, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a bass drum that provides the foundation for an orchestra, they embody resilience and craftsmanship, creating a unique melody of existence that emphasizes durability, skill, and cultural continuity.
+Les [**Nains**](/codex/Creatures/Dwarves.md) sont les gardiens inébranlables de la tradition, leurs corps un mélange harmonieux d'[**Exanthis**](/codex/Basic/Exanthis.md), d'[**Âmes**](/codex/Basic/Soul.md), et de **Capacité de Mana**. Tel un tambour basse qui fournit la fondation d'un orchestre, ils incarnent la résilience et l'artisanat, créant une mélodie d'existence unique qui met l'accent sur la durabilité, la compétence et la continuité culturelle.
 
-## Elemental Composition
+## Composition Élémentaire
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dwarves** forms a harmony that favors physical resilience:
+Comme détaillé dans [Créatures](/codex/Creatures/Creatures.md), le ratio typique pour les **nains** forme une harmonie qui favorise la résilience physique :
 
-| Element | Range | Function |
+| Élément | Pourcentage | Fonction |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that provides exceptional physical strength and durability |
-| **Soul** | 20-35% | The ethereal essence that shapes a focused and determined consciousness |
-| **Mana Capacity** | 5-25% | The bridge between worlds that enables runic magical potential |
+| **Exanthis** | 50-70% | Le cœur cristallin qui fournit une force et une durabilité physiques exceptionnelles |
+| **Âme** | 20-35% | L'essence éthérée qui façonne une conscience concentrée et déterminée |
+| **Capacité de Mana** | 5-25% | Le pont entre les mondes qui permet un potentiel magique runique |
 
-This composition grants **dwarves** their characteristic physical resilience but typically limits their magical abilities compared to other species, like a sturdy instrument that can withstand rough handling but produces a limited range of sounds.
+Cette composition confère aux **nains** leur résilience physique caractéristique mais limite généralement leurs capacités magiques par rapport à d'autres espèces, comme un instrument robuste qui peut résister à une manipulation brutale mais produit une gamme de sons limitée.
 
-### Individual Variations
+### Variations Individuelles
 
-While the model composition represents the typical dwarf, individual variations exist:
+Bien que la composition modèle représente le nain typique, des variations individuelles existent :
 
-- **Mountain Kings**: Some dwarves possess Exanthis levels as high as 75%, making them among the most physically resilient beings in existence, though often with minimal magical ability (5% Mana Capacity).
-- **Soul Smiths**: Those with higher Soul percentages (up to 40%) develop exceptional craftsmanship and artistic abilities, often becoming legendary artisans or cultural leaders whose works contain a fragment of their very essence.
-- **Rune Masters**: Rare individuals have Mana Capacity approaching 30%, allowing them to create powerful runic enchantments and artifacts, though they typically maintain significant physical resilience (45% Exanthis).
-- **Balanced Dwarves**: Some maintain a more balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity), allowing them to adapt to various roles within dwarven society.
-- **Forge Guardians**: A specialized composition of (65% Exanthis, 30% Soul, 5% Mana Capacity) creates dwarves who are exceptionally resistant to heat, fire, and physical damage, perfect for the most dangerous forging work.
+- **Rois des Montagnes** : Certains nains possèdent des niveaux d'Exanthis aussi élevés que 75 %, ce qui en fait parmi les êtres les plus physiquement résilients qui soient, bien que souvent avec une capacité magique minimale (5 % de Capacité de Mana).
+- **Forgerons d'Âmes** : Ceux avec des pourcentages d'Âme plus élevés (jusqu'à 40 %) développent un artisanat et des capacités artistiques exceptionnels, devenant souvent des artisans légendaires ou des chefs culturels dont les œuvres contiennent un fragment de leur essence même.
+- **Maîtres des Runes** : De rares individus ont une Capacité de Mana approchant les 30 %, ce qui leur permet de créer de puissantes enchantements et artefacts runiques, bien qu'ils conservent généralement une résilience physique significative (45 % d'Exanthis).
+- **Nains Équilibrés** : Certains maintiennent une composition plus équilibrée (50 % d'Exanthis, 25 % d'Âme, 25 % de Capacité de Mana), ce qui leur permet de s'adapter à divers rôles au sein de la société naine.
+- **Gardiens des Forges** : Une composition spécialisée de (65 % d'Exanthis, 30 % d'Âme, 5 % de Capacité de Mana) crée des nains exceptionnellement résistants à la chaleur, au feu et aux dommages physiques, parfaits pour les travaux de forge les plus dangereux.
 
-## Physical Characteristics
+## Caractéristiques Physiques
 
-**Dwarves** are known for their sturdy build and connection to the earth:
-- Short and stocky, with dense muscle and bone structure
-- Broad shoulders and strong limbs, built for physical labor
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+Les **Nains** sont connus pour leur constitution robuste et leur connexion à la terre :
+- Courts et trapus, avec une structure musculaire et osseuse dense
+- Larges épaules et membres forts, bâtis pour le travail physique
+- Peau épaisse qui offre une protection naturelle, comme de la pierre vivante
+- Yeux qui brillent d'une lumière intérieure, reflétant leur connexion à l'[**Exanthis**](/codex/Basic/Exanthis.md)
+- Barbes souvent tressées de manière complexe avec des symboles de clan et de statut
+- Résistance naturelle aux poisons et aux maladies, comme des montagnes résistant aux tempêtes
 
-## Physical and Magical Affinity
+## Affinité Physique et Magique
 
-**Dwarves** demonstrate exceptional proficiency in physical resilience and craftsmanship, like master artisans who have perfected their craft. Their composition allows them to:
-- Develop extraordinary durability and strength, like living mountains
-- Create and work with materials that other species find impossible to shape
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+Les **Nains** démontrent une compétence exceptionnelle en matière de résilience physique et d'artisanat, comme des maîtres artisans qui ont perfectionné leur art. Leur composition leur permet de :
+- Développer une durabilité et une force extraordinaires, comme des montagnes vivantes
+- Créer et travailler avec des matériaux que d'autres espèces trouvent impossibles à façonner
+- Résister aux effets magiques grâce à leur forte teneur en **Exanthis**, comme une pierre brisant la surface d'un étang magique
 
-This resilience makes **dwarves** capable of achieving feats of endurance that other species can only dream of, though they may struggle with tasks requiring flexibility or magical finesse, like a solid foundation that provides stability but resists change.
+Cette résilience rend les **nains** capables de réaliser des exploits d'endurance dont d'autres espèces ne peuvent que rêver, bien qu'ils puissent avoir du mal avec les tâches nécessitant de la flexibilité ou de la finesse magique, comme une fondation solide qui offre une stabilité mais résiste au changement.
 
-## Lifespan and Soul Decay
+## Durée de Vie et Déclin de l'Âme
 
-The **soul decay** timeline for **dwarves**, from birth to complete decay, is approximately 300 years, like a slow-burning forge that illuminates the ages. This extended lifespan allows them to:
-- Master complex crafts and techniques over generations
-- Develop deep connections to their ancestral lands and traditions
-- Form stable societies with strong cultural continuity
+La chronologie du **déclin de l'âme** pour les **nains**, de la naissance à la décomposition complète, est d'environ 300 ans, comme une forge à combustion lente qui illumine les âges. Cette durée de vie prolongée leur permet de :
+- Maîtriser des métiers et des techniques complexes sur des générations
+- Développer des liens profonds avec leurs terres ancestrales et leurs traditions
+- Former des sociétés stables avec une forte continuité culturelle
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains constant through the ages.
+Cependant, leur déclin d'âme plus lent signifie également qu'ils changent et s'adaptent plus lentement que les autres espèces, comme une mélodie qui reste constante à travers les âges.
 
-## Habitat and Distribution
+## Habitat et Distribution
 
-**Dwarves** primarily inhabit:
-- Mountain ranges and underground cities, where they can be closest to the earth
-- Regions rich in [**Exanthis**](/codex/Basic/Exanthis.md), where their natural resistance to magic is strongest
-- Strategic locations that provide natural defenses and valuable resources
+Les **Nains** habitent principalement :
+- Les chaînes de montagnes et les villes souterraines, où ils peuvent être au plus près de la terre
+- Les régions riches en [**Exanthis**](/codex/Basic/Exanthis.md), où leur résistance naturelle à la magie est la plus forte
+- Les emplacements stratégiques qui offrent des défenses naturelles et des ressources précieuses
 
-These locations provide ideal environments for craftsmanship and defense, like a well-fortified stage for their performance.
+Ces emplacements offrent des environnements idéaux pour l'artisanat et la défense, comme une scène bien fortifiée pour leur performance.
 
-## Cultural Impact
+## Impact Culturel
 
-In the world of **OpenFantasy**, **dwarves** play a crucial role in preserving traditional crafts and techniques, like archivists of ancient melodies. Their societies are centers of:
-- Master craftsmanship and engineering
-- Traditional wisdom and cultural continuity
-- Military strength and defensive strategy
+Dans le monde d'**OpenFantasy**, les **nains** jouent un rôle crucial dans la préservation des métiers et des techniques traditionnels, comme des archivistes des anciennes mélodies. Leurs sociétés sont des centres de :
+- Maîtrise de l'artisanat et de l'ingénierie
+- Sagesse traditionnelle et continuité culturelle
+- Force militaire et stratégie défensive
 
-The connection to the earth and [**Exanthis**](/codex/Basic/Exanthis.md) has shaped dwarven culture around respect for tradition, craftsmanship, and resilience, creating a society where skill and honor are highly valued.
+La connexion à la terre et à l'[**Exanthis**](/codex/Basic/Exanthis.md) a façonné la culture naine autour du respect de la tradition, de l'artisanat et de la résilience, créant une société où la compétence et l'honneur sont très valorisés.
 
-## Relationship with Other Species
+## Relation avec les Autres Espèces
 
-**Dwarves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A pragmatic alliance based on mutual trade and defense
-- With **Elves**: A historical rivalry born from their different approaches to the world
-- With **Beastfolk**: A respectful alliance based on mutual respect for strength and honor
-- With **Giants**: A cautious relationship, as dwarves are among the few who can match giant strength with technology
+Les **Nains** entretiennent des relations complexes avec les autres espèces :
+- Avec les [**Humains**](/codex/Creatures/Human.md) : Une alliance pragmatique basée sur le commerce et la défense mutuels
+- Avec les **Elfes** : Une rivalité historique née de leurs différentes approches du monde
+- Avec les **Hommes-Bêtes** : Une alliance respectueuse basée sur le respect mutuel de la force et de l'honneur
+- Avec les **Géants** : Une relation prudente, car les nains sont parmi les rares qui peuvent rivaliser avec la force des géants grâce à la technologie
 
-These relationships are often characterized by a sense of pride in their craftsmanship and resilience, as **dwarves** view themselves as the true children of the earth.
+Ces relations sont souvent caractérisées par un sentiment de fierté de leur artisanat et de leur résilience, car les **nains** se considèrent comme les vrais enfants de la terre.
 
-## Notable Dwarven Traits
+## Traits Nains Notables
 
-- **Physical Resilience**: Dwarves excel in durability and strength, often surpassing other species in their ability to endure
-- **Master Craftsmanship**: Dwarves are renowned for their skill in crafting weapons, armor, and other items
-- **Magical Resistance**: Their high **Exanthis** content makes them naturally resistant to many magical effects
-- **Traditional Wisdom**: Dwarves place great emphasis on preserving traditional knowledge and techniques
-- **Clan Structure**: Dwarven society is organized around powerful clans, each with its own traditions and specialties
+- **Résilience Physique** : Les nains excellent en durabilité et en force, surpassant souvent les autres espèces dans leur capacité à endurer
+- **Maîtrise de l'Artisanat** : Les nains sont réputés pour leur compétence dans la fabrication d'armes, d'armures et d'autres objets
+- **Résistance Magique** : Leur forte teneur en **Exanthis** les rend naturellement résistants à de nombreux effets magiques
+- **Sagesse Traditionnelle** : Les nains accordent une grande importance à la préservation des connaissances et des techniques traditionnelles
+- **Structure Clanique** : La société naine est organisée autour de puissants clans, chacun avec ses propres traditions et spécialités
 
-## Dwarven Clans
+## Clans Nains
 
-Dwarven society is organized into numerous clans, each with its own specialties and traditions:
+La société naine est organisée en de nombreux clans, chacun avec ses propres spécialités et traditions :
 
-| Clan | Specialty | Territory | Notable Traits |
+| Clan | Spécialité | Territoire | Traits Notables |
 |---------|---------------|---------|-------------------|
-| **Ironheart** | Metalworking, weapons | Northern Mountains | Fierce warriors, master smiths |
-| **Stonefist** | Architecture, engineering | Central Range | Master builders, tunnel experts |
-| **Goldweaver** | Jewelry, fine crafts | Eastern Peaks | Wealthy traders, artistic masters |
-| **Fireforge** | Magical items, runes | Volcanic Region | Rune masters, fire magic specialists |
-| **Deepdelver** | Mining, gemcutting | Deep Caves | Expert miners, gem specialists |
-| **Stormhammer** | Naval engineering, shipbuilding | Coastal Cliffs | Master shipwrights, naval experts |
+| **Cœurdefer** | Métallurgie, armes | Montagnes du Nord | Guerriers féroces, maîtres forgerons |
+| **Poingdepierre** | Architecture, ingénierie | Chaîne Centrale | Maîtres bâtisseurs, experts en tunnels |
+| **Tisserandedor** | Bijouterie, artisanat d'art | Pics de l'Est | Commerçants riches, maîtres artistiques |
+| **Forgefeu** | Objets magiques, runes | Région Volcanique | Maîtres des runes, spécialistes de la magie du feu |
+| **Fouilleurprofond** | Extraction minière, taille de gemmes | Grottes Profondes | Mineurs experts, spécialistes des gemmes |
+| **Marteaudeorage** | Ingénierie navale, construction navale | Falaises Côtières | Maîtres charpentiers de marine, experts navals |
 
-Understanding the nature of **dwarves** provides insight into the traditional aspects of the world of **OpenFantasy**, like listening to the deep, steady rhythms that pulse through the mountains and earth. 
+Comprendre la nature des **nains** donne un aperçu des aspects traditionnels du monde d'**OpenFantasy**, comme écouter les rythmes profonds et réguliers qui pulsent à travers les montagnes et la terre.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

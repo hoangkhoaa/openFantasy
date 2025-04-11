@@ -1,162 +1,166 @@
-# **Mana Mechanics**: The Technical Foundations of Spellcasting
+# **Mécanismes de la Mana**: Les fondations techniques de la magie
 
-In the world of OpenFantasy, successful spellcasting depends on the delicate interplay between a caster's Mana Capacity, their ability to achieve sufficient Mana Purity, and the specific Mana Type requirements of a spell. This technical foundation determines which spells a practitioner can reliably cast and explains why magical training progresses through increasingly complex and demanding workings.
+Dans le monde d'OpenFantasy, le succès de la magie dépend de l'interaction délicate entre la Capacité de Mana d'un lanceur, sa capacité à atteindre une Pureté de Mana suffisante et les exigences spécifiques de Type de Mana d'un sort. Cette base technique détermine quels sorts un praticien peut lancer de manière fiable et explique pourquoi la formation magique progresse à travers des fonctionnements de plus en plus complexes et exigeants.
 
-## Mana Capacity and Spell Casting
+## Capacité de Mana et Lancement de Sorts
 
-A being's Mana Capacity represents their innate ability to hold and channel magical energy. This elemental component has several critical influences on spellcasting ability:
+La Capacité de Mana d'un être représente sa capacité innée à contenir et à canaliser l'énergie magique. Cette composante élémentaire a plusieurs influences critiques sur la capacité à lancer des sorts :
 
-### Storage Capacity
+### Capacité de Stockage
 
-| Mana Capacity | Maximum Mana Volume | Practical Effect |
+| Capacité de Mana | Volume de Mana Maximum | Effet Pratique |
 |---------------|---------------------|------------------|
-| 5-15% | Very Low | Can cast only the simplest spells, quickly depleted |
-| 15-30% | Low | Can handle basic spells and limited casting sessions |
-| 30-50% | Moderate | Can manage intermediate spells and moderate duration |
-| 50-70% | High | Can cast advanced spells and maintain multiple effects |
-| 70-85% | Very High | Can handle complex magical workings and extended sessions |
-| 85%+ | Exceptional | Can cast legendary spells and maintain persistent effects |
+| 5-15% | Très Bas | Ne peut lancer que les sorts les plus simples, rapidement épuisé |
+| 15-30% | Bas | Peut gérer des sorts basiques et des sessions de lancement limitées |
+| 30-50% | Modéré | Peut gérer des sorts intermédiaires et une durée modérée |
+| 50-70% | Élevé | Peut lancer des sorts avancés et maintenir plusieurs effets |
+| 70-85% | Très Élevé | Peut gérer des fonctionnements magiques complexes et des sessions prolongées |
+| 85%+ | Exceptionnel | Peut lancer des sorts légendaires et maintenir des effets persistants |
 
-### Regeneration Rate
+### Taux de Régénération
 
-Mana Capacity also determines how quickly a caster recovers their magical energy:
+La Capacité de Mana détermine également la vitesse à laquelle un lanceur récupère son énergie magique :
 
-| Mana Capacity | Regeneration Rate | Recovery Time |
+| Capacité de Mana | Taux de Régénération | Temps de Récupération |
 |---------------|-------------------|---------------|
-| 5-15% | Very Slow | 24+ hours for full recovery |
-| 15-30% | Slow | 12-24 hours for full recovery |
-| 30-50% | Moderate | 6-12 hours for full recovery |
-| 50-70% | Fast | 3-6 hours for full recovery |
-| 70-85% | Very Fast | 1-3 hours for full recovery |
-| 85%+ | Exceptional | Under 1 hour for full recovery |
+| 5-15% | Très Lent | 24+ heures pour une récupération complète |
+| 15-30% | Lent | 12-24 heures pour une récupération complète |
+| 30-50% | Modéré | 6-12 heures pour une récupération complète |
+| 50-70% | Rapide | 3-6 heures pour une récupération complète |
+| 70-85% | Très Rapide | 1-3 heures pour une récupération complète |
+| 85%+ | Exceptionnel | Moins de 1 heure pour une récupération complète |
 
-For more detailed information on regeneration techniques and factors, see [ManaRegeneration.md](/codex/Magics/ManaRegeneration.md).
+Pour des informations plus détaillées sur les techniques et les facteurs de régénération, voir [ManaRegeneration.md](/codex/Magics/ManaRegeneration.md).
 
-## Mana Purity and Spell Effectiveness
+## Pureté de la Mana et Efficacité des Sorts
 
-Raw [Wild Mana](/codex/Magics/WildMana.md) must be purified to be effectively used in spellcasting. Like refining ore into metal, this process transforms chaotic Wild Mana into controlled, refined mana types suitable for pattern formation.
+La [Mana Sauvage](/codex/Magics/WildMana.md) brute doit être purifiée pour être utilisée efficacement dans la magie. Tout comme l'affinage du minerai en métal, ce processus transforme la Mana Sauvage chaotique en types de mana contrôlés et raffinés, adaptés à la formation de motifs.
 
-### Purity Calculation
+### Calcul de la Pureté
 
-Purity is calculated using the formula:
+La pureté est calculée à l'aide de la formule :
 
 ```
-Purity Percentage = (Refined Mana) / (Refined Mana + Wild Mana) × 100%
+Pourcentage de Pureté = (Mana Raffinée) / (Mana Raffinée + Mana Sauvage) × 100%
 ```
 
-This mathematical relationship explains why Wild Mana content inversely affects spell effectiveness.
+Cette relation mathématique explique pourquoi la teneur en Mana Sauvage affecte inversement l'efficacité des sorts.
 
-### Purity Levels
+### Niveaux de Pureté
 
-| Purity Level | Percentage | Wild Mana Content | Difficulty to Achieve |
+| Niveau de Pureté | Pourcentage | Teneur en Mana Sauvage | Difficulté à Atteindre |
 |--------------|------------|-------------------|----------------------|
-| **Crude** | 0-10% | 90-100% | Minimal training required |
-| **Basic** | 10-35% | 65-90% | Basic training (1-2 years) |
-| **Refined** | 35-65% | 35-65% | Intermediate training (3-5 years) |
-| **Superior** | 65-85% | 15-35% | Advanced training (6-10 years) |
-| **Perfect** | 85-100% | 0-15% | Master training (10+ years) |
+| **Brut** | 0-10% | 90-100% | Formation minimale requise |
+| **Basique** | 10-35% | 65-90% | Formation basique (1-2 ans) |
+| **Raffiné** | 35-65% | 35-65% | Formation intermédiaire (3-5 ans) |
+| **Supérieur** | 65-85% | 15-35% | Formation avancée (6-10 ans) |
+| **Parfait** | 85-100% | 0-15% | Formation de maître (10+ ans) |
 
-### Mana Capacity and Maximum Achievable Purity
+### Capacité de Mana et Pureté Maximale Atteignable
 
-A caster's Mana Capacity influences the maximum purity level they can potentially achieve:
+La Capacité de Mana d'un lanceur influence le niveau de pureté maximal qu'il peut potentiellement atteindre :
 
-| Mana Capacity | Maximum Achievable Purity | Wild Mana Minimum |
+| Capacité de Mana | Pureté Maximale Atteignable | Minimum de Mana Sauvage |
 |---------------|-----------------------------|-------------------|
-| 5-15% | Basic (up to 25%) | 75%+ |
-| 15-30% | Basic to Refined (up to 40%) | 60%+ |
-| 30-50% | Refined (up to 60%) | 40%+ |
-| 50-70% | Superior (up to 80%) | 20%+ |
-| 70-85% | Perfect (up to 95%) | 5%+ |
-| 85%+ | Perfect (up to 100%) | Trace amounts |
+| 5-15% | Basique (jusqu'à 25%) | 75%+ |
+| 15-30% | Basique à Raffiné (jusqu'à 40%) | 60%+ |
+| 30-50% | Raffiné (jusqu'à 60%) | 40%+ |
+| 50-70% | Supérieur (jusqu'à 80%) | 20%+ |
+| 70-85% | Parfait (jusqu'à 95%) | 5%+ |
+| 85%+ | Parfait (jusqu'à 100%) | Traces |
 
-This limitation explains why species with naturally high Mana Capacity (such as Elves and Fae) excel at complex magic requiring high purity, while those with lower capacity (like Dwarves) typically focus on magic that requires lower purity but values stability.
+Cette limitation explique pourquoi les espèces avec une Capacité de Mana naturellement élevée (comme les Elfes et les Fées) excellent dans la magie complexe nécessitant une pureté élevée, tandis que celles avec une capacité plus faible (comme les Nains) se concentrent généralement sur la magie qui nécessite une pureté plus faible mais valorise la stabilité.
 
-## Wild Mana to Refined Mana Conversion
+## Conversion de la Mana Sauvage en Mana Raffinée
 
-The biological process of converting Wild Mana to usable forms involves:
+Le processus biologique de conversion de la Mana Sauvage en formes utilisables implique :
 
-1. **Absorption**: Drawing Wild Mana from the environment into the body
-2. **Filtration**: Separating useful energy from chaotic elements
-3. **Refinement**: Stabilizing the energy into Base Mana
-4. **Specialization**: Further converting Base Mana into elemental types
+1. **Absorption**: Tirer la Mana Sauvage de l'environnement dans le corps
+2. **Filtration**: Séparer l'énergie utile des éléments chaotiques
+3. **Raffinage**: Stabiliser l'énergie en Mana de Base
+4. **Spécialisation**: Convertir davantage la Mana de Base en types élémentaires
 
-Different species and individuals vary in their efficiency at each stage, explaining variations in magical aptitude even among those with similar Mana Capacity.
+Différentes espèces et individus varient dans leur efficacité à chaque étape, ce qui explique les variations dans l'aptitude magique, même parmi ceux qui ont une Capacité de Mana similaire.
 
-## Spell Technical Requirements
+## Exigences Techniques des Sorts
 
-Each spell has specific technical requirements that determine which casters can successfully perform it:
+Chaque sort a des exigences techniques spécifiques qui déterminent quels lanceurs peuvent l'exécuter avec succès :
 
-### Mana Type Distribution
+### Distribution du Type de Mana
 
-Spells require specific proportions of different mana types:
+Les sorts nécessitent des proportions spécifiques de différents types de mana :
 
-- **Base Mana**: The foundational energy that forms the structural framework of most spells
-- **Elemental Mana**: Specialized energies (Pyromana, Hydromana, etc.) that provide specific magical effects
-- **Combined Forms**: Complex ratios of multiple mana types for sophisticated magical effects
+- **Mana de Base**: L'énergie fondamentale qui forme le cadre structurel de la plupart des sorts
+- **Mana Élémentaire**: Énergies spécialisées (Pyromana, Hydromana, etc.) qui fournissent des effets magiques spécifiques
+- **Formes Combinées**: Rapports complexes de plusieurs types de mana pour des effets magiques sophistiqués
 
-The average proportion of Base Mana to specialized mana types correlates with spell difficulty:
+La proportion moyenne de Mana de Base aux types de mana spécialisés est corrélée à la difficulté du sort :
 
-| Spell Level | Typical Base Mana % | Specialized Mana % | Example |
+| Niveau de Sort | % Typique de Mana de Base | % de Mana Spécialisée | Exemple |
 |-------------|---------------------|---------------------|---------|
-| Novice | 60-80% | 20-40% | Dancing Ember, Mending Touch |
-| Adept | 40-60% | 40-60% | Frost Armor, Wind Message |
-| Expert | 30-50% | 50-70% | Lightning Storm, Greater Healing |
-| Master | 20-40% | 60-80% | Earthquake, Teleportation |
-| Legendary | 10-30% | 70-90% | Weather Control, Resurrection |
+| Novice | 60-80% | 20-40% | Braise Dansante, Toucher Réparateur |
+| Adepte | 40-60% | 40-60% | Armure de Givre, Message du Vent |
+| Expert | 30-50% | 50-70% | Tempête de Foudre, Soin Supérieur |
+| Maître | 20-40% | 60-80% | Tremblement de Terre, Téléportation |
+| Légendaire | 10-30% | 70-90% | Contrôle du Climat, Résurrection |
 
-### Purity Requirements
+### Exigences de Pureté
 
-Each spell has minimum purity requirements for successful casting:
+Chaque sort a des exigences de pureté minimales pour un lancement réussi :
 
-| Spell Level | Minimum Purity Required | Maximum Wild Mana Content |
+| Niveau de Sort | Pureté Minimale Requise | Teneur Maximale en Mana Sauvage |
 |-------------|--------------------------|---------------------------|
-| Novice | Basic (10-35%) | 65-90% |
-| Adept | Refined (35-65%) | 35-65% |
-| Expert | Superior (65-85%) | 15-35% |
-| Master | Perfect (85-95%) | 5-15% |
-| Legendary | Perfect (95%+) | <5% |
+| Novice | Basique (10-35%) | 65-90% |
+| Adepte | Raffiné (35-65%) | 35-65% |
+| Expert | Supérieur (65-85%) | 15-35% |
+| Maître | Parfait (85-95%) | 5-15% |
+| Légendaire | Parfait (95%+) | <5% |
 
-Attempting to cast a spell with insufficient mana purity (excessive Wild Mana content) results in various failure modes:
+Tenter de lancer un sort avec une pureté de mana insuffisante (teneur excessive en Mana Sauvage) entraîne divers modes d'échec :
 
-- **Minor Shortfall**: Spell works but with reduced effectiveness or duration
-- **Moderate Shortfall**: Spell fails to form completely, wasting magical energy
-- **Significant Shortfall**: Spell pattern destabilizes, potentially causing harmful side effects
-- **Critical Shortfall**: Pattern collapses catastrophically, potentially harming the caster
+- **Défaut Mineur**: Le sort fonctionne mais avec une efficacité ou une durée réduite
+- **Défaut Modéré**: Le sort ne se forme pas complètement, gaspillant de l'énergie magique
+- **Défaut Important**: Le motif du sort se déstabilise, causant potentiellement des effets secondaires nocifs
+- **Défaut Critique**: Le motif s'effondre de manière catastrophique, blessant potentiellement le lanceur
 
-## The Harmony of Elements
+## L'Harmonie des Éléments
 
-The relationship between a caster's Mana Capacity, their achieved purity level, and a spell's requirements can be understood through musical analogy:
+La relation entre la Capacité de Mana d'un lanceur, son niveau de pureté atteint et les exigences d'un sort peut être comprise par une analogie musicale :
 
-- **Mana Capacity** is like the range of notes a musician can play
-- **Purity Level** is like the precision with which they can hit each note
-- **Wild Mana Content** is like background noise interfering with the music
-- **Spell Requirements** are like the demands of a particular musical piece
+- **La Capacité de Mana** est comme la gamme de notes qu'un musicien peut jouer
+- **Le Niveau de Pureté** est comme la précision avec laquelle il peut frapper chaque note
+- **La Teneur en Mana Sauvage** est comme un bruit de fond interférant avec la musique
+- **Les Exigences du Sort** sont comme les exigences d'un morceau de musique particulier
 
-Just as a musician with limited range cannot play pieces requiring notes beyond their reach, a spellcaster with insufficient Mana Capacity cannot achieve the purity levels demanded by advanced spells. Similarly, even a caster with great capacity must develop the skill (purification control) to effectively minimize Wild Mana interference.
+Tout comme un musicien avec une gamme limitée ne peut pas jouer des morceaux nécessitant des notes au-delà de sa portée, un lanceur de sorts avec une Capacité de Mana insuffisante ne peut pas atteindre les niveaux de pureté exigés par les sorts avancés. De même, même un lanceur avec une grande capacité doit développer la compétence (contrôle de la purification) pour minimiser efficacement l'interférence de la Mana Sauvage.
 
-## Training Progression
+## Progression de la Formation
 
-Magical training systematically develops both capacity and purification skill:
+La formation magique développe systématiquement à la fois la capacité et la compétence de purification :
 
-1. **Fundamental Exercises**: Developing basic purification techniques and expanding capacity
-2. **Simple Spells**: Mastering basic patterns with low purity requirements
-3. **Capacity Building**: Exercises to gradually expand mana reserves
-4. **Purification Refinement**: Techniques to reduce Wild Mana content
-5. **Advanced Pattern Work**: Progressively more complex spells requiring greater purity
-6. **Specialization**: Focus on particular mana types and associated spell categories
+1. **Exercices Fondamentaux**: Développer des techniques de purification basiques et étendre la capacité
+2. **Sorts Simples**: Maîtriser les motifs basiques avec de faibles exigences de pureté
+3. **Construction de la Capacité**: Exercices pour étendre progressivement les réserves de mana
+4. **Raffinement de la Purification**: Techniques pour réduire la teneur en Mana Sauvage
+5. **Travail de Motif Avancé**: Sorts progressivement plus complexes nécessitant une plus grande pureté
+6. **Spécialisation**: Se concentrer sur des types de mana particuliers et des catégories de sorts associées
 
-Proper training recognizes the natural limitations imposed by a practitioner's Mana Capacity while maximizing their potential within those constraints. This explains the structured curriculum found in magical academies, where students progress through increasingly demanding spells as their capacity and purification skills develop.
+Une formation appropriée reconnaît les limitations naturelles imposées par la Capacité de Mana d'un praticien tout en maximisant son potentiel dans ces contraintes. Cela explique le programme structuré que l'on trouve dans les académies de magie, où les étudiants progressent à travers des sorts de plus en plus exigeants à mesure que leur capacité et leurs compétences de purification se développent.
 
-## Individual Variations
+## Variations Individuelles
 
-Natural aptitude for purification exists independently of Mana Capacity:
+L'aptitude naturelle à la purification existe indépendamment de la Capacité de Mana :
 
-- **Natural Purifiers**: Some individuals with moderate Mana Capacity achieve exceptional purity by efficiently filtering Wild Mana
-- **High-Volume Casters**: Others with great Mana Capacity but less refinement excel at power-intensive but lower-precision magic
-- **Specialists**: Those with affinity for specific elemental mana types achieve higher purity with those types
-- **Balanced Practitioners**: Those who develop equally in capacity and purification skill
-- **Wild Harmonizers**: Rare practitioners who work with rather than against Wild Mana, incorporating its chaotic nature
+- **Purificateurs Naturels**: Certains individus avec une Capacité de Mana modérée atteignent une pureté exceptionnelle en filtrant efficacement la Mana Sauvage
+- **Lanceurs à Haut Volume**: D'autres avec une grande Capacité de Mana mais moins de raffinement excellent dans la magie à forte intensité de puissance mais à faible précision
+- **Spécialistes**: Ceux qui ont une affinité pour des types de mana élémentaires spécifiques atteignent une pureté plus élevée avec ces types
+- **Praticiens Équilibrés**: Ceux qui se développent également en capacité et en compétence de purification
+- **Harmonisateurs de Mana Sauvage**: Rares praticiens qui travaillent avec plutôt que contre la Mana Sauvage, intégrant sa nature chaotique
 
-These variations explain the diverse approaches to magic found among practitioners, from the precise, efficient spellwork of some to the raw, powerful castings of others.
+Ces variations expliquent les diverses approches de la magie que l'on trouve parmi les praticiens, du travail de sorts précis et efficace de certains aux lancements bruts et puissants d'autres.
 
-Understanding these mechanical foundations provides insight into why magical training follows specific progressions, why certain species tend toward particular magical traditions, and how individual practitioners develop their unique approaches to the magical arts. 
+Comprendre ces fondations mécaniques permet de comprendre pourquoi la formation magique suit des progressions spécifiques, pourquoi certaines espèces ont tendance à adopter des traditions magiques particulières et comment les praticiens individuels développent leurs approches uniques des arts magiques.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

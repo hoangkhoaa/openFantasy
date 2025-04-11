@@ -1,105 +1,109 @@
-# **Sirens**: The Enchanting Voices of the Seas
+# **Sirènes**: Les voix enchanteresses des mers
 
-[**Sirens**](/codex/Creatures/Sirens.md) are the enchanting voices of the seas, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a hauntingly beautiful flute, they resonate most strongly with the currents of water and sound, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+Les [**Sirènes**](/codex/Creatures/Sirens.md) sont les voix enchanteresses des mers, leurs corps une harmonie fluide d'[**Exanthis**](/codex/Basic/Exanthis.md), d'[**Âmes**](/codex/Basic/Soul.md), et de **Capacité de Mana**. Telles une flûte d'une beauté envoûtante, elles résonnent le plus fortement avec les courants d'eau et de son, créant une mélodie unique d'existence qui relie les royaumes aquatiques et terrestres.
 
-## Elemental Composition
+## Composition élémentaire
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **sirens** forms a harmony that favors magical potential:
+Comme détaillé dans [Créatures](/codex/Creatures/Creatures.md), le ratio typique pour les **sirènes** forme une harmonie qui favorise le potentiel magique :
 
-| Element | Range | Function |
+| Élément | Gamme | Fonction |
 |---------|------------|----------|
-| **Exanthis** | 20-35% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-45% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 30-50% | The bridge between worlds that enables significant magical potential |
+| **Exanthis** | 20-35% | Le cœur cristallin qui fournit une force physique et une grâce modérées |
+| **Âme** | 25-45% | L'essence éthérée qui façonne une conscience fluide et adaptable |
+| **Capacité de Mana** | 30-50% | Le pont entre les mondes qui permet un potentiel magique important |
 
-This composition grants **sirens** their characteristic enchanting abilities but limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Cette composition confère aux **sirènes** leurs capacités d'enchantement caractéristiques, mais limite leur résilience physique par rapport aux autres espèces, comme un instrument délicat qui produit de beaux sons mais doit être manipulé avec soin.
 
-### Individual Variations
+### Variations individuelles
 
-While the model composition represents the typical siren, individual variations exist:
+Bien que la composition du modèle représente la sirène typique, des variations individuelles existent :
 
-- **Song Weavers**: Some sirens possess Soul percentages as high as 50% and Mana Capacity of 40%, allowing them to create enchantments of extraordinary power and subtlety through their voices.
-- **Ocean Warriors**: A specialized variant with enhanced Exanthis levels approaching 40% serves as defenders of siren territories, with reduced magical ability (30% Mana Capacity) but greater physical resilience.
-- **Tide Speakers**: Those with balanced compositions (30% Exanthis, 35% Soul, 35% Mana Capacity) excel at diplomatic relations, using their voices to bridge cultural divides.
-- **Storm Callers**: Specialized sirens with composition of (25% Exanthis, 25% Soul, 50% Mana Capacity) can manipulate weather patterns over water, summoning or dispersing storms.
-- **Deep Dreamers**: Rare sirens with unique composition (20% Exanthis, 45% Soul, 35% Mana Capacity) can send their consciousness into the dreams of others, becoming powerful diviners and spiritual guides.
+- **Tisseurs de chansons** : Certaines sirènes possèdent des pourcentages d'Âme aussi élevés que 50 % et une Capacité de Mana de 40 %, ce qui leur permet de créer des enchantements d'une puissance et d'une subtilité extraordinaires grâce à leur voix.
+- **Guerriers des océans** : Une variante spécialisée avec des niveaux d'Exanthis améliorés approchant les 40 % sert de défenseur des territoires des sirènes, avec une capacité magique réduite (30 % de Capacité de Mana) mais une plus grande résilience physique.
+- **Orateurs des marées** : Ceux qui ont des compositions équilibrées (30 % d'Exanthis, 35 % d'Âme, 35 % de Capacité de Mana) excellent dans les relations diplomatiques, utilisant leur voix pour combler les fossés culturels.
+- **Appelants de tempêtes** : Les sirènes spécialisées avec une composition de (25 % d'Exanthis, 25 % d'Âme, 50 % de Capacité de Mana) peuvent manipuler les schémas météorologiques au-dessus de l'eau, invoquant ou dispersant les tempêtes.
+- **Rêveurs profonds** : Les sirènes rares avec une composition unique (20 % d'Exanthis, 45 % d'Âme, 35 % de Capacité de Mana) peuvent envoyer leur conscience dans les rêves des autres, devenant ainsi de puissants devins et guides spirituels.
 
-## Physical Characteristics
+## Caractéristiques physiques
 
-**Sirens** are known for their ethereal beauty and aquatic adaptations:
-- Humanoid upper bodies with fish-like lower bodies, allowing for both land and sea movement
-- Eyes that shimmer with inner light, reflecting their connection to water magic
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep purple
-- Voices that carry an otherworldly quality, capable of producing sounds that no other species can replicate
-- Fins and webbed appendages that aid in swimming and balance
+Les **sirènes** sont connues pour leur beauté éthérée et leurs adaptations aquatiques :
+- Parties supérieures du corps humanoïdes avec des parties inférieures du corps ressemblant à des poissons, permettant à la fois le mouvement sur terre et en mer
+- Yeux qui scintillent d'une lumière intérieure, reflétant leur connexion à la magie de l'eau
+- Branchies qui leur permettent de respirer sous l'eau, comme des instruments délicats accordés à la mer
+- Écailles qui offrent une protection et une beauté naturelles, allant de couleurs bleu iridescent au violet foncé
+- Voix qui portent une qualité d'un autre monde, capables de produire des sons qu'aucune autre espèce ne peut reproduire
+- Nageoires et appendices palmés qui aident à la nage et à l'équilibre
 
-## Magical Affinity
+## Affinité magique
 
-**Sirens** demonstrate exceptional proficiency in water magic and sound manipulation, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel water magic with extraordinary precision, like conductors of the ocean's symphony
-- Manipulate sound waves to create enchanting melodies that affect the emotions and thoughts of others
-- Create illusions through the combination of water and sound, like artists painting with liquid light
+Les **sirènes** font preuve d'une compétence exceptionnelle dans la magie de l'eau et la manipulation du son, comme des musiciens virtuoses qui ont maîtrisé leurs instruments. Leur composition leur permet de :
+- Canaliser la magie de l'eau avec une précision extraordinaire, comme des chefs d'orchestre de la symphonie de l'océan
+- Manipuler les ondes sonores pour créer des mélodies enchanteresses qui affectent les émotions et les pensées des autres
+- Créer des illusions grâce à la combinaison de l'eau et du son, comme des artistes peignant avec de la lumière liquide
 
-This specialization makes **sirens** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Cette spécialisation permet aux **sirènes** d'atteindre les plus hauts niveaux de compétence dans leurs traditions magiques choisies, bien qu'elles puissent avoir du mal avec les tâches nécessitant une force physique ou une résilience, comme un instrument délicat qui produit de beaux sons mais ne peut pas supporter une manipulation brutale.
 
-## Lifespan and Soul Decay
+## Durée de vie et décomposition de l'âme
 
-The **soul decay** timeline for **sirens**, from birth to complete decay, is approximately 500 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+La chronologie de la **décomposition de l'âme** pour les **sirènes**, de la naissance à la décomposition complète, est d'environ 500 ans, comme une flamme lente qui illumine les âges. Cette durée de vie prolongée leur permet de :
+- Accumuler de vastes connaissances et une grande sagesse au fil des siècles
+- Développer des liens profonds avec des lieux spécifiques et des traditions magiques
+- Former des sociétés complexes avec des coutumes et des rituels complexes
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Cependant, leur décomposition de l'âme plus lente signifie également qu'elles changent et s'adaptent plus lentement que les autres espèces, comme une mélodie qui reste belle mais immuable à travers les âges.
 
-## Habitat and Distribution
+## Habitat et distribution
 
-**Sirens** primarily inhabit:
-- Coastal regions and underwater cities, where they can be closest to the ocean's currents
-- Islands and archipelagos, where they can maintain connections to both land and sea
-- Magical grottos and coral reefs, where the boundaries between worlds grow thin
-- Strategic locations that provide access to both aquatic and terrestrial resources
+Les **sirènes** habitent principalement :
+- Les régions côtières et les villes sous-marines, où elles peuvent être au plus près des courants de l'océan
+- Les îles et les archipels, où elles peuvent maintenir des liens avec la terre et la mer
+- Les grottes magiques et les récifs coralliens, où les frontières entre les mondes s'amenuisent
+- Les emplacements stratégiques qui donnent accès aux ressources aquatiques et terrestres
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Ces lieux offrent des environnements idéaux pour l'étude magique et la contemplation spirituelle, comme une acoustique parfaite pour une symphonie.
 
-## Cultural Impact
+## Impact culturel
 
-In the world of **OpenFantasy**, **sirens** play a crucial role in preserving ancient magical traditions and enchanting the world with beauty, like weavers of ethereal melodies. Their societies are centers of:
-- Musical innovation and artistic expression
-- Water magic and sound manipulation
-- Diplomatic relations and cultural exchange
+Dans le monde d'**OpenFantasy**, les **sirènes** jouent un rôle crucial dans la préservation des anciennes traditions magiques et dans l'enchantement du monde avec beauté, comme des tisseurs de mélodies éthérées. Leurs sociétés sont des centres de :
+- Innovation musicale et expression artistique
+- Magie de l'eau et manipulation du son
+- Relations diplomatiques et échanges culturels
 
-The connection to water and sound has shaped siren culture around the study and mastery of these elements, creating a society where artistic ability and magical prowess are highly valued.
+La connexion à l'eau et au son a façonné la culture des sirènes autour de l'étude et de la maîtrise de ces éléments, créant une société où les capacités artistiques et les prouesses magiques sont très valorisées.
 
-## Relationship with Other Species
+## Relations avec les autres espèces
 
-**Sirens** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and caution, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for beauty and magic
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Fae**: A wary relationship, as sirens are less susceptible to fae enchantments
+Les **sirènes** entretiennent des relations complexes avec les autres espèces :
+- Avec les [**Humains**](/codex/Creatures/Human.md) : Un mélange de fascination et de prudence, menant souvent à des interactions complexes
+- Avec les **Elfes** : Une connexion profonde basée sur une appréciation commune de la beauté et de la magie
+- Avec les **Nains** : Une distance respectueuse, reconnaissant leur artisanat mais trouvant leurs façons étranges
+- Avec les **Fées** : Une relation méfiante, car les sirènes sont moins sensibles aux enchantements des fées
 
-These relationships are often characterized by a sense of cultural superiority, as **sirens** view themselves as the true children of the sea and sound.
+Ces relations sont souvent caractérisées par un sentiment de supériorité culturelle, car les **sirènes** se considèrent comme les véritables enfants de la mer et du son.
 
-## Notable Siren Traits
+## Traits notables des sirènes
 
-- **Enchanting Voice**: Sirens possess voices capable of producing sounds that affect the emotions and thoughts of others
-- **Water Affinity**: Sirens have a natural connection to water magic, allowing them to manipulate this element with ease
-- **Amphibious Nature**: Sirens can thrive in both aquatic and terrestrial environments
-- **Artistic Expression**: Sirens have developed highly refined musical and artistic traditions
-- **Diplomatic Skills**: Sirens excel in negotiation and cultural exchange, using their enchanting abilities to facilitate communication
+- **Voix enchanteresse** : Les sirènes possèdent des voix capables de produire des sons qui affectent les émotions et les pensées des autres
+- **Affinité avec l'eau** : Les sirènes ont une connexion naturelle avec la magie de l'eau, ce qui leur permet de manipuler cet élément avec facilité
+- **Nature amphibie** : Les sirènes peuvent prospérer dans les environnements aquatiques et terrestres
+- **Expression artistique** : Les sirènes ont développé des traditions musicales et artistiques très raffinées
+- **Compétences diplomatiques** : Les sirènes excellent dans la négociation et les échanges culturels, utilisant leurs capacités d'enchantement pour faciliter la communication
 
-## Siren Clans
+## Clans de sirènes
 
-Siren society is organized into numerous clans, each with its own specialties and traditions:
+La société des sirènes est organisée en de nombreux clans, chacun ayant ses propres spécialités et traditions :
 
-| Clan | Specialty | Territory | Notable Traits |
+| Clan | Spécialité | Territoire | Traits notables |
 |---------|---------------|---------|-------------------|
-| **Waveweavers** | Water magic, healing | Coastal regions | Healing abilities, water manipulation |
-| **Tidecallers** | Sound magic, communication | Island archipelagos | Communication abilities, sound manipulation |
-| **Coralcrafters** | Art, architecture | Coral reefs | Artistic abilities, architectural innovation |
-| **Stormsingers** | Weather magic, protection | Stormy seas | Weather control, protective magic |
-| **Deepdwellers** | Knowledge, wisdom | Deep ocean trenches | Ancient knowledge, wisdom traditions |
-| **Shorewalkers** | Diplomacy, trade | Coastal cities | Diplomatic skills, trading expertise |
+| **Tisseurs de vagues** | Magie de l'eau, guérison | Régions côtières | Capacités de guérison, manipulation de l'eau |
+| **Appelants des marées** | Magie du son, communication | Archipels insulaires | Capacités de communication, manipulation du son |
+| **Artisans de coraux** | Art, architecture | Récifs coralliens | Capacités artistiques, innovation architecturale |
+| **Chanteurs de tempêtes** | Magie du climat, protection | Mers orageuses | Contrôle du climat, magie de protection |
+| **Habitants des profondeurs** | Connaissance, sagesse | Fosses océaniques profondes | Connaissance ancienne, traditions de sagesse |
+| **Marcheurs des rivages** | Diplomatie, commerce | Villes côtières | Compétences diplomatiques, expertise commerciale |
 
-Understanding the nature of **sirens** provides insight into the aquatic and musical aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the waves and shores. 
+Comprendre la nature des **sirènes** donne un aperçu des aspects aquatiques et musicaux du monde d'**OpenFantasy**, comme écouter les mélodies obsédantes qui résonnent à travers les vagues et les rivages.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

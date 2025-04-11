@@ -1,196 +1,200 @@
-# **Shielding**
+# **Bouclier**
 
-> *"The first lesson of magical defense is not to strengthen your walls, but to understand that protection flows from within—like music, a shield is not merely a barrier, but a resonance that redirects the hostile symphony around you."*  
-> — Sentinel Ilyra Swiftshield, Arcane Defense Master
+> *"La première leçon de la défense magique n'est pas de renforcer vos murs, mais de comprendre que la protection émane de l'intérieur—comme la musique, un bouclier n'est pas simplement une barrière, mais une résonance qui redirige la symphonie hostile autour de vous."*
+> — Sentinelle Ilyra Swiftshield, Maître de la Défense Arcanique
 
-## Casting Information
-- **Difficulty**: Novice to Expert (depending on variant)
-- **Casting Time**: 1 second (basic shield), 2-3 seconds (advanced variants)
-- **Duration**: Concentration, up to 10 minutes (or until broken)
-- **Range**: Self or up to 30 feet (dependent on variant)
-- **Components**: Somatic, Verbal (optional enhancement)
+## Informations de lancement
+- **Difficulté** : Novice à Expert (selon la variante)
+- **Temps de lancement** : 1 seconde (bouclier de base), 2-3 secondes (variantes avancées)
+- **Durée** : Concentration, jusqu'à 10 minutes (ou jusqu'à rupture)
+- **Portée** : Soi ou jusqu'à 30 pieds (selon la variante)
+- **Composantes** : Somatique, Verbale (amélioration optionnelle)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 70%, Terramana 20% (stability), Aeromana 10% (flexibility)
-- **Purity Required**: Basic (20-35%) for personal shield, Refined (35-55%) for advanced variants
-- **Minimum Mana Capacity**: 15% (larger/stronger shields require greater capacity)
-- **Pattern Complexity**: Low to High (2-tier for basic shield, up to 5-tier for specialized variants)
-- **Resonance Frequency**: Defensive harmonic in the mid-protective spectrum
+## Détails techniques
+- **Distribution des types de mana** : Mana de base 70 %, Terramana 20 % (stabilité), Aeromana 10 % (flexibilité)
+- **Pureté requise** : Basique (20-35 %) pour le bouclier personnel, Raffinée (35-55 %) pour les variantes avancées
+- **Capacité de mana minimale** : 15 % (les boucliers plus grands/plus forts nécessitent une plus grande capacité)
+- **Complexité du motif** : Faible à élevée (2 niveaux pour le bouclier de base, jusqu'à 5 niveaux pour les variantes spécialisées)
+- **Fréquence de résonance** : Harmonique défensive dans le spectre de protection moyen
 
-## Core Principles
+## Principes fondamentaux
 
-Shielding converts mana into a semi-tangible protective field that deflects, absorbs, or nullifies incoming threats. Unlike purely physical barriers, magical shields operate through a resonance principle, creating a counter-frequency to disrupt hostile energies while allowing benign forces to pass through.
+Le bouclier convertit le mana en un champ protecteur semi-tangible qui dévie, absorbe ou annule les menaces entrantes. Contrairement aux barrières purement physiques, les boucliers magiques fonctionnent selon un principe de résonance, créant une contre-fréquence pour perturber les énergies hostiles tout en permettant aux forces bénignes de passer à travers.
 
-The foundational pattern establishes:
+Le motif fondamental établit :
 
-1. **Barrier Matrix**: The core protective field structure
-2. **Resonance Layer**: The component that identifies and counters threats
-3. **Stability Framework**: The support structure maintaining shield integrity
-4. **Energy Distribution Network**: The system dispersing impact forces
-5. **Permeability Control**: The optional component allowing selective filtering
+1. **Matrice de barrière** : La structure du champ protecteur de base
+2. **Couche de résonance** : Le composant qui identifie et contre les menaces
+3. **Cadre de stabilité** : La structure de support maintenant l'intégrité du bouclier
+4. **Réseau de distribution d'énergie** : Le système dispersant les forces d'impact
+5. **Contrôle de la perméabilité** : Le composant optionnel permettant un filtrage sélectif
 
-## Standard Variants
+## Variantes standards
 
-### Personal Shield
-The fundamental protective barrier around the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (20-30%)
-- **Effect**: Creates a barrier absorbing physical and magical damage
-- **Typical Users**: All magic practitioners
-- **Applications**: Personal defense, training safety, emergency protection
+### Bouclier personnel
+La barrière protectrice fondamentale autour du lanceur :
+- **Difficulté** : Novice
+- **Exigence de pureté** : Basique (20-30 %)
+- **Effet** : Crée une barrière absorbant les dégâts physiques et magiques
+- **Utilisateurs typiques** : Tous les praticiens de la magie
+- **Applications** : Défense personnelle, sécurité de l'entraînement, protection d'urgence
 
-### Directed Shield
-A flat shield projected away from the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Creates a movable plane of protection to block specific threats
-- **Typical Users**: Battle Mages, Tactical Casters, Support Specialists
-- **Applications**: Protecting allies, blocking passages, deflecting projectiles
+### Bouclier dirigé
+Un bouclier plat projeté loin du lanceur :
+- **Difficulté** : Intermédiaire
+- **Exigence de pureté** : Raffinée (35-45 %)
+- **Effet** : Crée un plan de protection mobile pour bloquer des menaces spécifiques
+- **Utilisateurs typiques** : Mages de bataille, Lanceurs tactiques, Spécialistes de soutien
+- **Applications** : Protéger les alliés, bloquer les passages, dévier les projectiles
 
-### Bubble Shield
-Expands protection to cover multiple individuals:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (40-50%)
-- **Effect**: Creates dome or sphere protecting several targets
-- **Typical Users**: Group Leaders, Defensive Specialists, Protectors
-- **Applications**: Group protection, safe zones, mobile coverage during retreats
+### Bouclier bulle
+Étend la protection pour couvrir plusieurs individus :
+- **Difficulté** : Intermédiaire
+- **Exigence de pureté** : Raffinée (40-50 %)
+- **Effet** : Crée un dôme ou une sphère protégeant plusieurs cibles
+- **Utilisateurs typiques** : Chefs de groupe, Spécialistes de la défense, Protecteurs
+- **Applications** : Protection de groupe, zones de sécurité, couverture mobile pendant les retraites
 
-## Advanced Variants
+## Variantes avancées
 
-### Selective Filter Shield
-Allows specific elements or energies to pass through:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (55-65%)
-- **Effect**: Creates barriers permeable to chosen forces
-- **Typical Users**: Elemental Specialists, Advanced Practitioners
-- **Applications**: Allowing allies to attack through shields, environmental protection, selective filtering
+### Bouclier à filtre sélectif
+Permet à des éléments ou énergies spécifiques de passer à travers :
+- **Difficulté** : Expert
+- **Exigence de pureté** : Parfaite (55-65 %)
+- **Effet** : Crée des barrières perméables aux forces choisies
+- **Utilisateurs typiques** : Spécialistes élémentaires, Praticiens avancés
+- **Applications** : Permettre aux alliés d'attaquer à travers les boucliers, protection de l'environnement, filtrage sélectif
 
-### Reactive Shield
-Adapts to incoming threats automatically:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Shield analyzes and adapts to counter specific attacks
-- **Typical Users**: Duelists, Master Defenders, Elite Guards
-- **Applications**: Unknown threat protection, adaptive defense, magical counteraction
+### Bouclier réactif
+S'adapte automatiquement aux menaces entrantes :
+- **Difficulté** : Expert
+- **Exigence de pureté** : Parfaite (60-70 %)
+- **Effet** : Le bouclier analyse et s'adapte pour contrer des attaques spécifiques
+- **Utilisateurs typiques** : Duellistes, Maîtres défenseurs, Gardes d'élite
+- **Applications** : Protection contre les menaces inconnues, défense adaptative, contre-attaque magique
 
-### Reflective Shield
-Returns energy to its source:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Redirects a portion of incoming energy back at attacker
-- **Typical Users**: Advanced Battle Mages, Specialist Defenders
-- **Applications**: Counterattack, energy conservation, deterrence
+### Bouclier réfléchissant
+Renvoie l'énergie à sa source :
+- **Difficulté** : Maître
+- **Exigence de pureté** : Parfaite (65-75 %)
+- **Effet** : Redirige une partie de l'énergie entrante vers l'attaquant
+- **Utilisateurs typiques** : Mages de bataille avancés, Défenseurs spécialisés
+- **Applications** : Contre-attaque, conservation de l'énergie, dissuasion
 
-## Purity Influence on Effect
+## Influence de la pureté sur l'effet
 
-Mana purity directly affects shield strength, duration, and special properties:
+La pureté du mana affecte directement la force, la durée et les propriétés spéciales du bouclier :
 
-| Purity Level | Shield Strength | Absorption Capacity | Special Properties | Duration |
+| Niveau de pureté | Force du bouclier | Capacité d'absorption | Propriétés spéciales | Durée |
 |--------------|----------------|---------------------|-------------------|----------|
-| 20-35% | Basic protection, visible shield | 25-40% damage reduction | None | 1-3 minutes |
-| 35-55% | Enhanced durability, less visible | 40-60% damage reduction | Basic filtering, limited mobility | 3-5 minutes |
-| 55-70% | High resilience, nearly invisible | 60-80% damage reduction | Advanced filtering, reactive properties | 5-8 minutes |
-| 70%+ | Superior protection, completely invisible | 80-95% damage reduction | Full reflection capabilities, adaptation | 8-10+ minutes |
+| 20-35% | Protection de base, bouclier visible | Réduction des dégâts de 25-40 % | Aucune | 1-3 minutes |
+| 35-55% | Durabilité améliorée, moins visible | Réduction des dégâts de 40-60 % | Filtrage de base, mobilité limitée | 3-5 minutes |
+| 55-70% | Haute résilience, presque invisible | Réduction des dégâts de 60-80 % | Filtrage avancé, propriétés réactives | 5-8 minutes |
+| 70%+ | Protection supérieure, complètement invisible | Réduction des dégâts de 80-95 % | Capacités de réflexion complètes, adaptation | 8-10+ minutes |
 
-## Class-Specific Applications
+## Applications spécifiques à la classe
 
-### Warrior Class
-- **Combat Shell**: Tight-fitting shield enhancing armor protection
-- **Breach Shield**: Forward-focused protection for charges
-- **Weapon Guard**: Selective shield protecting weapons from damage or tampering
-- **Footing Anchor**: Lower-body shield stabilizing position during combat
+### Classe Guerrier
+- **Coque de combat** : Bouclier ajusté améliorant la protection de l'armure
+- **Bouclier de brèche** : Protection axée vers l'avant pour les charges
+- **Garde d'arme** : Bouclier sélectif protégeant les armes contre les dommages ou les altérations
+- **Ancrage de pied** : Bouclier du bas du corps stabilisant la position pendant le combat
 
-### Rogue/Assassin Class
-- **Shadow Cloak**: Barely visible shield masking magical signature
-- **Impact Dampener**: Shield reducing sound and physical impacts
-- **Trace Obscurer**: Shield dispersing magical residue from activities
-- **Selective Barrier**: Allows weapons out but blocks incoming attacks
+### Classe Voleur/Assassin
+- **Cape d'ombre** : Bouclier à peine visible masquant la signature magique
+- **Amortisseur d'impact** : Bouclier réduisant les impacts sonores et physiques
+- **Obscurcisseur de traces** : Bouclier dispersant les résidus magiques des activités
+- **Barrière sélective** : Permet aux armes de sortir mais bloque les attaques entrantes
 
-### Ranger Class
-- **Environmental Buffer**: Shield protecting from terrain hazards
-- **Arrow Screen**: Specialized shield allowing outgoing projectiles while blocking incoming ones
-- **Companion Guard**: Projectable shield to protect animal companions
-- **Sensory Shield**: Protection against sensory overload or manipulation
+### Classe Rôdeur
+- **Tampon environnemental** : Bouclier protégeant des dangers du terrain
+- **Écran de flèches** : Bouclier spécialisé permettant aux projectiles sortants tout en bloquant ceux qui arrivent
+- **Garde de compagnon** : Bouclier projectable pour protéger les compagnons animaux
+- **Bouclier sensoriel** : Protection contre la surcharge ou la manipulation sensorielle
 
-### Mage Class
-- **Concentration Sphere**: Shield blocking distractions during complex casting
-- **Spell Containment**: Barrier keeping volatile magic effects controlled
-- **Mana Conservation Bubble**: Shield recycling leaked mana back to caster
-- **Layered Defense**: Multiple specialized shields for comprehensive protection
+### Classe Mage
+- **Sphère de concentration** : Bouclier bloquant les distractions pendant les lancements complexes
+- **Confinement de sorts** : Barrière maintenant les effets magiques volatils sous contrôle
+- **Bulle de conservation de mana** : Bouclier recyclant le mana qui fuit vers le lanceur
+- **Défense multicouche** : Plusieurs boucliers spécialisés pour une protection complète
 
-## Training Progression
+## Progression de l'entraînement
 
-### Fundamental Shielding
-- Energy projection and containment exercises
-- Barrier visualization and manifestation
-- Basic impact absorption techniques
-- Shield maintenance under minor stress
+### Bouclier fondamental
+- Exercices de projection et de confinement d'énergie
+- Visualisation et manifestation de la barrière
+- Techniques de base d'absorption des chocs
+- Entretien du bouclier sous stress mineur
 
-### Intermediate Applications
-- Moving and repositioning shields while maintaining integrity
-- Extending protection to others
-- Shaping shields for specific tactical situations
-- Efficiency training for reduced mana consumption
+### Applications intermédiaires
+- Déplacer et repositionner les boucliers tout en maintenant l'intégrité
+- Étendre la protection aux autres
+- Façonner des boucliers pour des situations tactiques spécifiques
+- Entraînement à l'efficacité pour réduire la consommation de mana
 
-### Advanced Mastery
-- Reactive shield programming
-- Multi-layer shield construction
-- Energy reflection and redirection
-- Integrating shields with other magical effects
+### Maîtrise avancée
+- Programmation du bouclier réactif
+- Construction de boucliers multicouches
+- Réflexion et redirection de l'énergie
+- Intégration des boucliers avec d'autres effets magiques
 
-## Risk Factors
+## Facteurs de risque
 
-### Common Mishaps
-- **Shield Inversion**: Protection directed inward, trapping the caster
-- **Resonance Cascade**: Shield amplifying rather than blocking energy
-- **Pattern Collapse**: Sudden shield failure under stress
-- **Mana Drain Spiral**: Excessive energy consumption depleting caster
-- **Brittleness**: Shield shattering rather than absorbing impact
+### Accidents courants
+- **Inversion du bouclier** : Protection dirigée vers l'intérieur, piégeant le lanceur
+- **Cascade de résonance** : Bouclier amplifiant plutôt que bloquant l'énergie
+- **Effondrement du motif** : Défaillance soudaine du bouclier sous stress
+- **Spirale de vidange de mana** : Consommation excessive d'énergie épuisant le lanceur
+- **Fragilité** : Bouclier se brisant plutôt que d'absorber l'impact
 
-### Safety Practices
-- Regular shield strength testing under controlled conditions
-- Practicing emergency shield dissolution techniques
-- Developing shield layers with independent failure points
-- Training with gradually increasing threat levels
-- Establishing personal shield limitations
+### Pratiques de sécurité
+- Tests réguliers de la force du bouclier dans des conditions contrôlées
+- Pratiquer les techniques de dissolution d'urgence du bouclier
+- Développer des couches de bouclier avec des points de défaillance indépendants
+- S'entraîner avec des niveaux de menace progressivement croissants
+- Établir les limites personnelles du bouclier
 
-## Shield Variations by Threat Type
+## Variations de bouclier par type de menace
 
-### Physical Protection
-Shields specialized against material threats:
-- **Impact Shields**: Absorb kinetic energy from blunt force
-- **Penetration Barriers**: Resist piercing from arrows, blades
-- **Friction Dampeners**: Reduce damage from abrasive forces
-- **Pressure Equalizers**: Protect against crushing or explosive forces
+### Protection physique
+Boucliers spécialisés contre les menaces matérielles :
+- **Boucliers d'impact** : Absorbent l'énergie cinétique des coups contondants
+- **Barrières de pénétration** : Résistent aux perforations des flèches, des lames
+- **Amortisseurs de friction** : Réduisent les dommages causés par les forces abrasives
+- **Égaliseurs de pression** : Protègent contre les forces d'écrasement ou explosives
 
-### Energy Defense
-Shields tailored to magical and elemental threats:
-- **Thermal Barriers**: Insulate against heat and cold
-- **Arcane Dispersal Fields**: Diffuse magical energy attacks
-- **Elemental Filters**: Specialized protection against specific elements
-- **Harmonic Dampeners**: Neutralize sound-based or vibrational attacks
+### Défense énergétique
+Boucliers adaptés aux menaces magiques et élémentaires :
+- **Barrières thermiques** : Isolent contre la chaleur et le froid
+- **Champs de dispersion arcaniques** : Diffusent les attaques d'énergie magique
+- **Filtres élémentaires** : Protection spécialisée contre des éléments spécifiques
+- **Amortisseurs harmoniques** : Neutralisent les attaques sonores ou vibratoires
 
-### Status Protection
-Shields against non-damaging magical effects:
-- **Mind Wards**: Protect against mental intrusion or influence
-- **Curse Barriers**: Repel malicious enchantments
-- **Transmutation Inhibitors**: Prevent unwanted transformative effects
-- **Temporal Stabilizers**: Shield against time manipulation
+### Protection de statut
+Boucliers contre les effets magiques non dommageables :
+- **Protections mentales** : Protègent contre l'intrusion ou l'influence mentale
+- **Barrières de malédiction** : Repoussent les enchantements malveillants
+- **Inhibiteurs de transmutation** : Empêchent les effets transformatifs indésirables
+- **Stabilisateurs temporels** : Bouclier contre la manipulation du temps
 
-## Historical Development
+## Développement historique
 
-Shielding magic represents one of the oldest and most fundamental protective arts, dating back to the Dawn Era when early mages sought defense against both natural and supernatural threats. The Arcane Sentinels of the Second Age formalized the art into distinct disciplines, establishing the foundational patterns still used today.
+La magie du bouclier représente l'un des arts protecteurs les plus anciens et les plus fondamentaux, remontant à l'ère de l'aube où les premiers mages cherchaient une défense contre les menaces naturelles et surnaturelles. Les Sentinelles arcaniques du deuxième âge ont formalisé l'art en disciplines distinctes, établissant les modèles fondamentaux encore utilisés aujourd'hui.
 
-The Mage Wars saw explosive development in shielding techniques as practitioners sought ever more effective defenses against increasingly powerful offensive magic. Modern shielding draws heavily from the innovations of Ilyra Swiftshield, whose revolutionary understanding of resonance patterns transformed shields from mere barriers into dynamic, responsive defenses.
+Les Guerres des Mages ont vu un développement explosif des techniques de bouclier alors que les praticiens recherchaient des défenses toujours plus efficaces contre la magie offensive de plus en plus puissante. Le bouclier moderne s'inspire fortement des innovations d'Ilyra Swiftshield, dont la compréhension révolutionnaire des modèles de résonance a transformé les boucliers de simples barrières en défenses dynamiques et réactives.
 
-> *"A novice creates a wall. An adept creates a filter. A master creates a conversation between energies—the shield does not fight the incoming force, but rather invites it to flow elsewhere."* — From "Dialogues on Defense," Ilyra Swiftshield's premier text
+> *"Un novice crée un mur. Un adepte crée un filtre. Un maître crée une conversation entre les énergies—le bouclier ne combat pas la force entrante, mais l'invite plutôt à s'écouler ailleurs."* — Extrait de "Dialogues sur la défense," le premier texte d'Ilyra Swiftshield
 
-## Practical Notes
+## Notes pratiques
 
-Shield spells are often among the first defensive magic taught to novices, as even imperfect shields provide valuable protection during training. Many practitioners develop highly personalized shielding techniques, adapting the basic patterns to their specific needs and mana characteristics.
+Les sorts de bouclier sont souvent parmi les premières magies défensives enseignées aux novices, car même les boucliers imparfaits offrent une protection précieuse pendant l'entraînement. De nombreux praticiens développent des techniques de bouclier hautement personnalisées, adaptant les modèles de base à leurs besoins spécifiques et à leurs caractéristiques de mana.
 
-The most advanced shield masters can maintain multiple layered defenses simultaneously, each calibrated to different threat types, creating a comprehensive protective system that approaches true invulnerability—though at significant mana cost.
+Les maîtres de bouclier les plus avancés peuvent maintenir simultanément plusieurs défenses multicouches, chacune calibrée sur différents types de menaces, créant un système de protection complet qui approche la véritable invulnérabilité—bien qu'à un coût de mana important.
 
 ---
 
-*See also: [Barrier Magic](/codex/Magics/Schools/Abjuration.md), [Defensive Fundamentals](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Combat Countermeasures](/codex/Magics/Spells/Combat/CombatCountermeasures.md)* 
+*Voir aussi : [Magie des barrières](/codex/Magics/Schools/Abjuration.md), [Fondamentaux de la défense](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Contre-mesures de combat](/codex/Magics/Spells/Combat/CombatCountermeasures.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

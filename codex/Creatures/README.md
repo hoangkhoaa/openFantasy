@@ -1,155 +1,159 @@
-# OpenFantasy Creatures Codex
+# Codex des créatures d'OpenFantasy
 
-> *"The world sings with the voices of countless beings, each playing their part in the grand symphony of existence."*
+> *"Le monde chante avec les voix d'innombrables êtres, chacun jouant son rôle dans la grande symphonie de l'existence."*
 
-## Overview
+## Aperçu
 
-Welcome to the OpenFantasy Creatures documentation. This repository contains comprehensive information about the various beings that inhabit the OpenFantasy world, including sentient species, animals, monsters, plants, and other entities.
+Bienvenue dans la documentation du Codex des créatures d'OpenFantasy. Ce dépôt contient des informations complètes sur les différents êtres qui habitent le monde d'OpenFantasy, y compris les espèces conscientes, les animaux, les monstres, les plantes et autres entités.
 
-## Directory Structure
+## Structure du répertoire
 
 ```
 /Creatures
-├── README.md                # This overview document
-├── Creatures.md             # Core principles and elemental composition
-├── template_species.md      # Template for creating new species entries
-├── /Sentient                # Intelligent, civilization-forming species
-│   ├── README.md            # Overview of sentient species
+├── README.md                # Ce document de présentation
+├── Creatures.md             # Principes fondamentaux et composition élémentaire
+├── template_species.md      # Modèle pour la création de nouvelles entrées d'espèces
+├── /Sentient                # Espèces intelligentes formant des civilisations
+│   ├── README.md            # Aperçu des espèces conscientes
 │   ├── Humans.md
 │   ├── Elves.md
 │   ├── DarkElves.md
 │   ├── Dwarves.md
 │   └── ...
-├── /Magical                 # Primarily magical or fae beings
-│   ├── README.md            # Overview of magical beings
+├── /Magical                 # Êtres principalement magiques ou féériques
+│   ├── README.md            # Aperçu des êtres magiques
 │   ├── Fae.md
 │   ├── Golems.md
 │   ├── Elementals.md
 │   └── ...
-├── /Animals                 # Non-sentient natural fauna
-│   ├── README.md            # Overview of animals
+├── /Animals                 # Faune naturelle non consciente
+│   ├── README.md            # Aperçu des animaux
 │   ├── Domesticated.md
 │   ├── Wild.md
 │   ├── Aquatic.md
 │   └── ...
-├── /Monsters                # Dangerous or unnatural creatures
-│   ├── README.md            # Overview of monsters
+├── /Monsters                # Créatures dangereuses ou contre nature
+│   ├── README.md            # Aperçu des monstres
 │   ├── Aberrations.md
 │   ├── Undead.md
 │   ├── Corrupted.md
 │   └── ...
-├── /Plants                  # Flora with unique properties
-│   ├── README.md            # Overview of magical and mundane plants
+├── /Plants                  # Flore aux propriétés uniques
+│   ├── README.md            # Aperçu des plantes magiques et banales
 │   ├── Magical.md
 │   ├── Medicinal.md
 │   ├── Poisonous.md
 │   └── ...
-└── /Hybrid                  # Cross-category beings
-    ├── README.md            # Overview of hybrid creatures
+└── /Hybrid                  # Êtres inter-catégories
+    ├── README.md            # Aperçu des créatures hybrides
     ├── Centaurs.md
     ├── Merfolk.md
     └── ...
 ```
 
-## Quick Navigation
+## Navigation rapide
 
-- [Core Concepts](#core-concepts)
-- [Sentient Species](#sentient-species)
-- [Magical Beings](#magical-beings) 
-- [Animals](#animals)
-- [Monsters](#monsters)
-- [Plants](#plants)
-- [Hybrid Beings](#hybrid-beings)
+- [Concepts fondamentaux](#concepts-fondamentaux)
+- [Espèces conscientes](#espèces-conscientes)
+- [Êtres magiques](#êtres-magiques)
+- [Animaux](#animaux)
+- [Monstres](#monstres)
+- [Plantes](#plantes)
+- [Êtres hybrides](#êtres-hybrides)
 
-## Core Concepts
+## Concepts fondamentaux
 
-All creatures in OpenFantasy are composed of three fundamental elements that determine their nature and abilities:
+Toutes les créatures d'OpenFantasy sont composées de trois éléments fondamentaux qui déterminent leur nature et leurs capacités :
 
-| Component | Function | Influence |
+| Composant | Fonction | Influence |
 |-----------|----------|-----------|
-| **Exanthis** | Physical foundation | Strength, endurance, durability |
-| **Soul** | Consciousness and identity | Willpower, creativity, perception |
-| **Mana Capacity** | Magical potential | Spell capability, magical resistance, mana purification |
+| **Exanthis** | Fondation physique | Force, endurance, durabilité |
+| **Âme** | Conscience et identité | Volonté, créativité, perception |
+| **Capacité de mana** | Potentiel magique | Capacité de lancement de sorts, résistance magique, purification de mana |
 
-For detailed information on these principles, see the [Creatures overview](/codex/Creatures/Creatures.md).
+Pour des informations détaillées sur ces principes, consultez l'aperçu des [Créatures](/codex/Creatures/Creatures.md).
 
-## Sentient Species
+## Espèces conscientes
 
-Intelligent beings capable of forming civilizations, creating culture, and wielding magic through conscious effort:
+Êtres intelligents capables de former des civilisations, de créer une culture et de manier la magie par un effort conscient :
 
-| Species | Overview | Elemental Balance |
+| Espèce | Aperçu | Équilibre élémentaire |
 |---------|----------|-------------------|
-| [Humans](/codex/Creatures/Sentient/Humans.md) | Adaptable and innovative with balanced composition | E: 20-55%, S: 15-45%, M: 15-60% |
-| [Elves](/codex/Creatures/Sentient/Elves.md) | Long-lived magical adepts with high mana attunement | E: 5-25%, S: 5-15%, M: 50-80% |
-| [Dark Elves](/codex/Creatures/Sentient/DarkElves.md) | Shadow-attuned elven variant with unique abilities | E: 5-25%, S: 10-20%, M: 50-80% |
-| [Dwarves](/codex/Creatures/Sentient/Dwarves.md) | Sturdy crafters with high Exanthis concentration | E: 50-70%, S: 20-35%, M: 5-25% |
-| [Beastfolk](/codex/Creatures/Sentient/Beastfolk.md) | Diverse beings with animal-like attributes | E: 35-70%, S: 15-35%, M: 15-40% |
-| [Gnomes](/codex/Creatures/Sentient/Gnomes.md) | Small, inventive beings with technical aptitude | E: 30-50%, S: 30-50%, M: 15-30% |
+| [Humains](/codex/Creatures/Sentient/Humans.md) | Adaptables et innovants avec une composition équilibrée | E : 20-55 %, S : 15-45 %, M : 15-60 % |
+| [Elfes](/codex/Creatures/Sentient/Elves.md) | Adeptes magiques à longue durée de vie avec un accord de mana élevé | E : 5-25 %, S : 5-15 %, M : 50-80 % |
+| [Elfes noirs](/codex/Creatures/Sentient/DarkElves.md) | Variante elfique accordée à l'ombre avec des capacités uniques | E : 5-25 %, S : 10-20 %, M : 50-80 % |
+| [Nains](/codex/Creatures/Sentient/Dwarves.md) | Artisans robustes avec une concentration élevée en Exanthis | E : 50-70 %, S : 20-35 %, M : 5-25 % |
+| [Hommes-bêtes](/codex/Creatures/Sentient/Beastfolk.md) | Êtres divers avec des attributs semblables à ceux des animaux | E : 35-70 %, S : 15-35 %, M : 15-40 % |
+| [Gnomes](/codex/Creatures/Sentient/Gnomes.md) | Petits êtres inventifs avec une aptitude technique | E : 30-50 %, S : 30-50 %, M : 15-30 % |
 
-## Magical Beings
+## Êtres magiques
 
-Creatures composed primarily of magical energy or created through magical processes:
+Créatures composées principalement d'énergie magique ou créées par des processus magiques :
 
-| Being | Overview | Elemental Balance |
+| Être | Aperçu | Équilibre élémentaire |
 |-------|----------|-------------------|
-| [Fae](/codex/Creatures/Magical/Fae.md) | Ethereal beings of nearly pure magic | E: 2-10%, S: 15-35%, M: 50-80% |
-| [Golems](/codex/Creatures/Magical/Golems.md) | Constructed beings with artificial souls | E: 70-90%, S: 5-15%, M: 5-15% |
-| [Shadowfolk](/codex/Creatures/Magical/Shadowfolk.md) | Beings born of shadow with darkness manipulation | E: 10-30%, S: 20-40%, M: 40-70% |
-| [Elementals](/codex/Creatures/Magical/Elementals.md) | Pure embodiments of elemental forces | E: 15-30%, S: 5-15%, M: 60-85% |
-| [Dragonkin](/codex/Creatures/Magical/Dragonkin.md) | Descendants of dragons with natural magical affinity | E: 55-75%, S: 5-15%, M: 20-35% |
+| [Fées](/codex/Creatures/Magical/Fae.md) | Êtres éthérés de magie presque pure | E : 2-10 %, S : 15-35 %, M : 50-80 % |
+| [Golems](/codex/Creatures/Magical/Golems.md) | Êtres construits avec des âmes artificielles | E : 70-90 %, S : 5-15 %, M : 5-15 % |
+| [Peuple de l'ombre](/codex/Creatures/Magical/Shadowfolk.md) | Êtres nés de l'ombre avec manipulation des ténèbres | E : 10-30 %, S : 20-40 %, M : 40-70 % |
+| [Élémentaires](/codex/Creatures/Magical/Elementals.md) | Incarnations pures des forces élémentaires | E : 15-30 %, S : 5-15 %, M : 60-85 % |
+| [Draconides](/codex/Creatures/Magical/Dragonkin.md) | Descendants de dragons avec une affinité magique naturelle | E : 55-75 %, S : 5-15 %, M : 20-35 % |
 
-## Animals
+## Animaux
 
-Non-sentient fauna with varying degrees of intelligence and magical affinity:
+Faune non consciente avec différents degrés d'intelligence et d'affinité magique :
 
-| Category | Description | Examples |
+| Catégorie | Description | Exemples |
 |----------|-------------|----------|
-| [Domesticated](/codex/Creatures/Animals/Domesticated.md) | Animals bred for human use | Horses, cattle, dogs, cats, poultry |
-| [Wild](/codex/Creatures/Animals/Wild.md) | Natural fauna of various biomes | Wolves, bears, eagles, deer |
-| [Aquatic](/codex/Creatures/Animals/Aquatic.md) | Ocean and freshwater creatures | Fish, whales, octopi, river creatures |
-| [Magical](/codex/Creatures/Animals/Magical.md) | Animals with innate magical properties | Phoenixes, griffins, unicorns |
+| [Domestiqués](/codex/Creatures/Animals/Domesticated.md) | Animaux élevés pour l'usage humain | Chevaux, bétail, chiens, chats, volaille |
+| [Sauvages](/codex/Creatures/Animals/Wild.md) | Faune naturelle de divers biomes | Loups, ours, aigles, cerfs |
+| [Aquatiques](/codex/Creatures/Animals/Aquatic.md) | Créatures marines et d'eau douce | Poissons, baleines, pieuvres, créatures fluviales |
+| [Magiques](/codex/Creatures/Animals/Magical.md) | Animaux avec des propriétés magiques innées | Phénix, griffons, licornes |
 
-## Monsters
+## Monstres
 
-Dangerous or unnatural creatures that pose threats to civilized areas:
+Créatures dangereuses ou contre nature qui constituent une menace pour les zones civilisées :
 
-| Category | Description | Examples |
+| Catégorie | Description | Exemples |
 |----------|-------------|----------|
-| [Aberrations](/codex/Creatures/Monsters/Aberrations.md) | Unnatural creatures with bizarre anatomies | Mimics, beholders, mind flayers |
-| [Undead](/codex/Creatures/Monsters/Undead.md) | Formerly living beings animated by dark forces | Zombies, skeletons, spectres |
-| [Corrupted](/codex/Creatures/Monsters/Corrupted.md) | Beings twisted by magical corruption | Blighted animals, tainted elementals |
-| [Giants](/codex/Creatures/Monsters/Giants.md) | Massive beings with extraordinary strength | Stone giants, frost giants, ogres |
+| [Aberrations](/codex/Creatures/Monsters/Aberrations.md) | Créatures contre nature avec des anatomies bizarres | Mimiques, observateurs, flagelleurs mentaux |
+| [Morts-vivants](/codex/Creatures/Monsters/Undead.md) | Êtres autrefois vivants animés par des forces obscures | Zombies, squelettes, spectres |
+| [Corrompus](/codex/Creatures/Monsters/Corrupted.md) | Êtres déformés par la corruption magique | Animaux pervertis, élémentaires contaminés |
+| [Géants](/codex/Creatures/Monsters/Giants.md) | Êtres massifs dotés d'une force extraordinaire | Géants de pierre, géants de givre, ogres |
 
-## Plants
+## Plantes
 
-Flora with unique properties, both magical and mundane:
+Flore aux propriétés uniques, à la fois magiques et banales :
 
-| Category | Description | Examples |
+| Catégorie | Description | Exemples |
 |----------|-------------|----------|
-| [Magical](/codex/Creatures/Plants/Magical.md) | Plants with inherent magical properties | Glowroot, dreamleaf, arcane fungi |
-| [Medicinal](/codex/Creatures/Plants/Medicinal.md) | Plants with healing properties | Healer's herb, bloodstop moss, vitality flowers |
-| [Poisonous](/codex/Creatures/Plants/Poisonous.md) | Plants with toxic properties | Nightshade, death cap, venom vine |
-| [Sentient](/codex/Creatures/Plants/Sentient.md) | Plants with consciousness | Treants, whispering willows, mindmoss |
+| [Magiques](/codex/Creatures/Plants/Magical.md) | Plantes avec des propriétés magiques inhérentes | Racines lumineuses, feuilles de rêve, champignons arcaniques |
+| [Médicinales](/codex/Creatures/Plants/Medicinal.md) | Plantes aux propriétés curatives | Herbe de guérison, mousse hémostatique, fleurs de vitalité |
+| [Vénéneuses](/codex/Creatures/Plants/Poisonous.md) | Plantes aux propriétés toxiques | Belladone, amanite phalloïde, liane venimeuse |
+| [Conscientes](/codex/Creatures/Plants/Sentient.md) | Plantes avec conscience | Tréants, saules chuchoteurs, mousse pensante |
 
-## Hybrid Beings
+## Êtres hybrides
 
-Creatures that bridge multiple categories through unique physiologies:
+Créatures qui relient plusieurs catégories par des physiologies uniques :
 
-| Being | Overview | Elemental Balance |
+| Être | Aperçu | Équilibre élémentaire |
 |-------|----------|-------------------|
-| [Centaurs](/codex/Creatures/Hybrid/Centaurs.md) | Horse-humanoid hybrids with natural wisdom | E: 50-70%, S: 20-40%, M: 10-25% |
-| [Merfolk](/codex/Creatures/Hybrid/Merfolk.md) | Aquatic humanoids with water affinity | E: 30-50%, S: 15-35%, M: 25-45% |
-| [Sirens](/codex/Creatures/Hybrid/Sirens.md) | Vocal enchantresses with sound-based magic | E: 15-30%, S: 30-45%, M: 40-60% |
+| [Centaurs](/codex/Creatures/Hybrid/Centaurs.md) | Hybrides cheval-humanoïde avec sagesse naturelle | E : 50-70 %, S : 20-40 %, M : 10-25 % |
+| [Sirènes](/codex/Creatures/Hybrid/Merfolk.md) | Humanoïdes aquatiques avec affinité pour l'eau | E : 30-50 %, S : 15-35 %, M : 25-45 % |
+| [Sirènes](/codex/Creatures/Hybrid/Sirens.md) | Enchanteresses vocales avec magie basée sur le son | E : 15-30 %, S : 30-45 %, M : 40-60 % |
 
-## Contributing
+## Contribuer
 
-To add new creatures to the codex:
+Pour ajouter de nouvelles créatures au codex :
 
-1. Identify the appropriate category for the creature
-2. Use the relevant template for that category
-3. Maintain consistency with existing elemental composition principles
-4. Include cultural, historical, and ecological context where applicable
+1. Identifiez la catégorie appropriée pour la créature
+2. Utilisez le modèle approprié pour cette catégorie
+3. Maintenez la cohérence avec les principes de composition élémentaire existants
+4. Incluez le contexte culturel, historique et écologique le cas échéant
 
 ---
 
-> *"To understand the creatures of our world is to understand the world itself, for they are the living embodiment of its diverse energies."* — Archsage Lyria Thornheart 
+> *"Comprendre les créatures de notre monde, c'est comprendre le monde lui-même, car elles sont l'incarnation vivante de ses diverses énergies."* — Archimage Lyria Thornheart
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

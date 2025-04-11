@@ -1,104 +1,108 @@
-# **Arcane Shield**
+# **Bouclier Arcanique**
 
-A fundamental defensive spell that creates a barrier of magical energy to protect the caster from physical and magical harm. This versatile protection serves as the foundation for most defensive magical techniques.
+Un sort défensif fondamental qui crée une barrière d'énergie magique pour protéger le lanceur des dommages physiques et magiques. Cette protection polyvalente sert de fondation à la plupart des techniques magiques défensives.
 
-## Casting Information
+## Informations de lancement
 
-| Aspect | Details |
+| Aspect | Détails |
 |--------|---------|
-| **Difficulty** | Novice to Adept (scales with shield strength) |
-| **Casting Time** | 1-3 seconds |
-| **Duration** | Concentration (up to 10 minutes for novices, 1 hour for adepts) |
-| **Range** | Self (bubble extends 1-3 feet from caster) |
-| **Components** | Somatic (circular gesture), Verbal (short incantation) |
+| **Difficulté** | Novice à Adepte (évolue avec la force du bouclier) |
+| **Temps d'incantation** | 1-3 secondes |
+| **Durée** | Concentration (jusqu'à 10 minutes pour les novices, 1 heure pour les adeptes) |
+| **Portée** | Soi (bulle s'étendant de 30 à 90 cm du lanceur) |
+| **Composantes** | Somatique (geste circulaire), Verbale (courte incantation) |
 
-## Technical Details
+## Détails techniques
 
-| Aspect | Details |
+| Aspect | Détails |
 |--------|---------|
-| **Mana Type** | Base Mana (70%), Terramana (20%), Luxmana (10%) |
-| **Purity Required** | Basic (20-35%) for novice version, Refined (40-60%) for adept version |
-| **Pattern Complexity** | Moderate (5 elements) |
-| **Resonance Frequency** | Protection/Boundary spectrum |
-| **Minimum Mana Capacity** | 25% for novice version, 40% for adept version |
+| **Type de Mana** | Mana de Base (70%), Terramana (20%), Luxmana (10%) |
+| **Pureté requise** | Basique (20-35%) pour la version novice, Raffinée (40-60%) pour la version adepte |
+| **Complexité du motif** | Modérée (5 éléments) |
+| **Fréquence de résonance** | Spectre Protection/Frontière |
+| **Capacité de Mana minimale** | 25% pour la version novice, 40% pour la version adepte |
 
-## Pattern Structure
+## Structure du motif
 
-The Arcane Shield pattern consists of five primary elements:
-1. **Boundary Ring**: Defines the shield's perimeter and overall shape
-2. **Energy Matrix**: Distributes magical force evenly throughout the shield
-3. **Deflection Array**: Angles the shield's surface to divert incoming force
-4. **Filtration Web**: Selectively allows certain energies to pass through
-5. **Anchor Points**: Connects the shield to the caster's personal energy
+Le motif du Bouclier Arcanique se compose de cinq éléments principaux :
+1. **Anneau de Frontière**: Définit le périmètre et la forme globale du bouclier
+2. **Matrice Énergétique**: Distribue la force magique uniformément dans tout le bouclier
+3. **Tableau de Déviation**: Incline la surface du bouclier pour détourner la force entrante
+4. **Toile de Filtration**: Permet sélectivement à certaines énergies de passer à travers
+5. **Points d'Ancrage**: Connecte le bouclier à l'énergie personnelle du lanceur
 
-These elements form a spherical pattern that surrounds the caster in a protective bubble.
+Ces éléments forment un motif sphérique qui entoure le lanceur dans une bulle protectrice.
 
-## Practical Effect
+## Effet pratique
 
-When successfully cast, the spell:
-- Creates a translucent, slightly luminous barrier around the caster
-- Deflects minor physical projectiles and attacks
-- Reduces the impact of stronger physical forces
-- Dampens harmful magical effects directed at the caster
-- Maintains breathable atmosphere within the shield
+Lorsqu'il est lancé avec succès, le sort :
+- Crée une barrière translucide et légèrement lumineuse autour du lanceur
+- Détourne les projectiles et les attaques physiques mineures
+- Réduit l'impact des forces physiques plus fortes
+- Amortit les effets magiques nocifs dirigés vers le lanceur
+- Maintient une atmosphère respirable à l'intérieur du bouclier
 
 ## Variations
 
-- **Hardened Shield**: Emphasizes physical protection at the cost of magical defense
-- **Spell Ward**: Emphasizes magical protection at the cost of physical defense
-- **Shaped Shield**: Forms a flat barrier rather than a bubble (useful for specific situations)
-- **Chromatic Shield**: Specialized against a particular type of elemental energy (requires 40-50% purity)
-- **Silent Shield**: Cast without verbal components (Adept difficulty, requires 45-55% purity)
+- **Bouclier Durci**: Met l'accent sur la protection physique au détriment de la défense magique
+- **Rempart Magique**: Met l'accent sur la protection magique au détriment de la défense physique
+- **Bouclier Façonné**: Forme une barrière plate plutôt qu'une bulle (utile dans des situations spécifiques)
+- **Bouclier Chromatique**: Spécialisé contre un type particulier d'énergie élémentaire (nécessite une pureté de 40-50%)
+- **Bouclier Silencieux**: Lancé sans composantes verbales (difficulté Adepte, nécessite une pureté de 45-55%)
 
-## Energy Consumption
+## Consommation d'énergie
 
-The Arcane Shield requires ongoing mana expenditure to maintain:
-- **Passive Maintenance**: Low constant drain while the shield is inactive
-- **Impact Response**: Moderate to high drain when absorbing or deflecting attacks
-- **Specialized Defense**: Additional drain when filtering specific threat types
+Le Bouclier Arcanique nécessite une dépense continue de mana pour être maintenu :
+- **Maintenance passive**: Faible drain constant lorsque le bouclier est inactif
+- **Réponse à l'impact**: Drain modéré à élevé lors de l'absorption ou de la déviation d'attaques
+- **Défense spécialisée**: Drain supplémentaire lors du filtrage de types de menaces spécifiques
 
-Most novice casters can maintain a standard shield for approximately 10 minutes before experiencing significant magical fatigue.
+La plupart des lanceurs novices peuvent maintenir un bouclier standard pendant environ 10 minutes avant de ressentir une fatigue magique importante.
 
-## Common Applications
+## Applications courantes
 
-- **Combat Defense**: Basic protection during magical or physical confrontations
-- **Environmental Protection**: Shielding from harsh weather, toxic atmospheres, or magical radiation
-- **Training Tool**: Learning advanced defensive principles and mana control
-- **Emergency Response**: Quick protection during unexpected dangers
-- **Magical Containment**: Preventing one's own magical experiments from affecting surroundings
+- **Défense au combat**: Protection de base lors de confrontations magiques ou physiques
+- **Protection environnementale**: Protection contre les intempéries, les atmosphères toxiques ou les radiations magiques
+- **Outil d'entraînement**: Apprentissage des principes défensifs avancés et du contrôle du mana
+- **Intervention d'urgence**: Protection rapide en cas de dangers inattendus
+- **Confinement magique**: Empêcher ses propres expériences magiques d'affecter l'environnement
 
-## Risks and Miscast Effects
+## Risques et effets de lancement raté
 
-- **Shield Collapse**: Unexpected failure under pressure, potentially causing magical backlash
-- **Permeability Flaws**: Formation of weak points that allow specific threats to penetrate
-- **Energy Drain**: Excessive mana consumption leading to faster than expected fatigue
-- **Feedback Loop**: Shield that reflects energy back toward the caster rather than away
-- **Attunement Lock**: Shield that becomes difficult to dismiss, trapping the caster temporarily
-- **Pattern Fracture**: Insufficient purity (below 15%) creates unstable shield that shatters upon impact
+- **Effondrement du bouclier**: Défaillance inattendue sous pression, pouvant provoquer un contrecoup magique
+- **Défauts de perméabilité**: Formation de points faibles qui permettent à des menaces spécifiques de pénétrer
+- **Drain d'énergie**: Consommation excessive de mana entraînant une fatigue plus rapide que prévu
+- **Boucle de rétroaction**: Bouclier qui reflète l'énergie vers le lanceur plutôt qu'en s'éloignant
+- **Verrouillage d'harmonisation**: Bouclier qui devient difficile à dissiper, piégeant temporairement le lanceur
+- **Fracture du motif**: Pureté insuffisante (inférieure à 15%) crée un bouclier instable qui se brise à l'impact
 
-## Purity Influence on Effect
+## Influence de la pureté sur l'effet
 
-| Purity Level | Effect Enhancement |
+| Niveau de Pureté | Amélioration de l'effet |
 |--------------|---------------------|
-| 15-25% | Basic shield with minimal protection against physical and magical threats |
-| 25-35% | Standard novice shield with moderate durability and protection |
-| 35-50% | Enhanced shield with greater durability and selective filtering |
-| 50-65% | Advanced shield with precise control over permeability and extended duration |
-| 65%+ | Master-level shield with exceptional durability and specific threat adaptations |
+| 15-25% | Bouclier de base avec une protection minimale contre les menaces physiques et magiques |
+| 25-35% | Bouclier novice standard avec une durabilité et une protection modérées |
+| 35-50% | Bouclier amélioré avec une plus grande durabilité et un filtrage sélectif |
+| 50-65% | Bouclier avancé avec un contrôle précis de la perméabilité et une durée prolongée |
+| 65%+ | Bouclier de niveau maître avec une durabilité exceptionnelle et des adaptations spécifiques aux menaces |
 
-## Musical Analogy
+## Analogie musicale
 
-Arcane Shield is like sustaining a consistent protective chord. The caster must maintain the proper "harmony" between the different elements of the shield pattern while adjusting "volume" (shield strength) according to incoming threats. Like a musician who must maintain a difficult note through changing conditions, the shield caster must preserve the integrity of their protective barrier despite distractions and attacks.
+Le Bouclier Arcanique, c'est comme maintenir un accord protecteur constant. Le lanceur doit maintenir la bonne "harmonie" entre les différents éléments du motif du bouclier tout en ajustant le "volume" (force du bouclier) en fonction des menaces entrantes. Comme un musicien qui doit maintenir une note difficile malgré des conditions changeantes, le lanceur de bouclier doit préserver l'intégrité de sa barrière protectrice malgré les distractions et les attaques.
 
-## Learning Progression
+## Progression d'apprentissage
 
-Most students master this spell through graduated challenges:
-1. **Formation**: Creating and holding the basic shield structure
-2. **Endurance**: Maintaining the shield for progressively longer periods
-3. **Stress Testing**: Defending against minor controlled attacks
-4. **Refinement**: Adjusting shield properties for specific situations
-5. **Integration**: Casting and maintaining the shield while performing other actions
+La plupart des étudiants maîtrisent ce sort grâce à des défis gradués :
+1. **Formation**: Créer et maintenir la structure de base du bouclier
+2. **Endurance**: Maintenir le bouclier pendant des périodes de plus en plus longues
+3. **Tests de résistance**: Se défendre contre des attaques contrôlées mineures
+4. **Perfectionnement**: Ajuster les propriétés du bouclier pour des situations spécifiques
+5. **Intégration**: Lancer et maintenir le bouclier tout en effectuant d'autres actions
 
-## Historical Note
+## Note historique
 
-The Arcane Shield is one of the oldest documented spells, with evidence of its use dating back to the First Era of magical development. Its original creator is unknown, but magical historians believe it evolved simultaneously across multiple cultures as a natural response to the dangers of early, unstable spellcasting. Despite countless attempts to improve or replace it with more complex defensive magic, the Arcane Shield's elegant efficiency and low mana requirements have kept it in active use for millennia. As the saying goes among battle mages: "Master your shield before you forge your sword." 
+Le Bouclier Arcanique est l'un des sorts les plus anciens documentés, avec des preuves de son utilisation remontant à la Première Ère du développement magique. Son créateur original est inconnu, mais les historiens de la magie pensent qu'il a évolué simultanément dans plusieurs cultures comme une réponse naturelle aux dangers des premiers lancements de sorts instables. Malgré d'innombrables tentatives pour l'améliorer ou le remplacer par une magie défensive plus complexe, l'efficacité élégante et les faibles besoins en mana du Bouclier Arcanique l'ont maintenu en usage actif pendant des millénaires. Comme le dit le dicton parmi les mages de bataille : "Maîtrisez votre bouclier avant de forger votre épée."
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

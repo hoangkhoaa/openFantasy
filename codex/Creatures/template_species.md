@@ -2,150 +2,150 @@
 
 > *"[QUOTE_ABOUT_SPECIES]"*
 
-## Quick Navigation
+## Navigation Rapide
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Cultural Aspects](#cultural-aspects)
-- [Species Relationships](#species-relationships)
+- [Composition Élémentaire](#elemental-composition)
+- [Caractéristiques Physiques](#physical-characteristics)
+- [Affinité Magique](#magical-affinity)
+- [Habitat et Distribution](#habitat-and-distribution)
+- [Aspects Culturels](#cultural-aspects)
+- [Relations Inter-espèces](#species-relationships)
 
-## Overview
+## Aperçu
 
 [OVERVIEW_PARAGRAPH]
 
-## Elemental Composition
+## Composition Élémentaire
 
-**[SPECIES_NAME]** possess a distinctive elemental composition:
+Les **[SPECIES_NAME]** possèdent une composition élémentaire distinctive :
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Âme | Capacité de Mana | Type Représentatif |
 |----------|------|---------------|---------------------|
-| [E_RANGE]% | [S_RANGE]% | [M_RANGE]% | Standard range for the species |
-| [E_SUBTYPE1]% | [S_SUBTYPE1]% | [M_SUBTYPE1]% | **[SUBTYPE1]** with [SUBTYPE1_TRAITS] |
-| [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** with [SUBTYPE2_TRAITS] |
-| [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** with [SUBTYPE3_TRAITS] |
+| [E_RANGE]% | [S_RANGE]% | [M_RANGE]% | Plage standard pour l'espèce |
+| [E_SUBTYPE1]% | [S_SUBTYPE1]% | [M_SUBTYPE1]% | **[SUBTYPE1]** avec [SUBTYPE1_TRAITS] |
+| [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** avec [SUBTYPE2_TRAITS] |
+| [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** avec [SUBTYPE3_TRAITS] |
 
-### Individual Variations
+### Variations Individuelles
 
 [VARIATION_PARAGRAPH]
 
-## Physical Characteristics
+## Caractéristiques Physiques
 
-**[SPECIES_NAME]** exhibit distinctive physical traits:
+Les **[SPECIES_NAME]** présentent des traits physiques distinctifs :
 
-| Characteristic | Description |
+| Caractéristique | Description |
 |----------------|-------------|
-| **Height** | [HEIGHT_RANGE] |
-| **Weight** | [WEIGHT_RANGE] |
-| **Lifespan** | [LIFESPAN] |
-| **Physical Maturity** | [MATURITY_AGE] |
-| **Notable Features** | [DISTINCTIVE_FEATURES] |
+| **Taille** | [HEIGHT_RANGE] |
+| **Poids** | [WEIGHT_RANGE] |
+| **Espérance de vie** | [LIFESPAN] |
+| **Maturité Physique** | [MATURITY_AGE] |
+| **Caractéristiques Remarquables** | [DISTINCTIVE_FEATURES] |
 
-### Appearance
+### Apparence
 
 - [APPEARANCE_TRAIT1]
 - [APPEARANCE_TRAIT2]
 - [APPEARANCE_TRAIT3]
 - [APPEARANCE_TRAIT4]
 
-## Magical Affinity
+## Affinité Magique
 
-**[SPECIES_NAME]** demonstrate [MAGICAL_PROFICIENCY_LEVEL] proficiency in manipulating **Mana**:
+Les **[SPECIES_NAME]** démontrent une [MAGICAL_PROFICIENCY_LEVEL] compétence dans la manipulation du **Mana** :
 
-| Aspect | Capability |
+| Aspect | Capacité |
 |--------|------------|
-| **Mana Storage** | [STORAGE_CAPACITY] |
+| **Stockage de Mana** | [STORAGE_CAPACITY] |
 | **Purification** | [PURIFICATION_ABILITY] |
-| **Casting Speed** | [CASTING_SPEED] |
-| **Natural Affinity** | [NATURAL_MAGIC_TYPE] |
+| **Vitesse d'Incantation** | [CASTING_SPEED] |
+| **Affinité Naturelle** | [NATURAL_MAGIC_TYPE] |
 
-### Magical Specializations
+### Spécialisations Magiques
 
-While **[SPECIES_NAME]** can practice various forms of magic, they often excel in:
+Bien que les **[SPECIES_NAME]** puissent pratiquer diverses formes de magie, ils excellent souvent dans :
 
 - **[SPECIALIZATION1]**: [SPECIALIZATION1_DESCRIPTION]
 - **[SPECIALIZATION2]**: [SPECIALIZATION2_DESCRIPTION]
 - **[SPECIALIZATION3]**: [SPECIALIZATION3_DESCRIPTION]
 
-## Habitat and Distribution
+## Habitat et Distribution
 
-**[SPECIES_NAME]** typically inhabit [HABITAT_DESCRIPTION]:
+Les **[SPECIES_NAME]** habitent généralement [HABITAT_DESCRIPTION] :
 
-| Region | Settlement Type | Notable Features |
+| Région | Type de Peuplement | Caractéristiques Remarquables |
 |--------|----------------|------------------|
 | **[REGION1]** | [SETTLEMENT_TYPE1] | [REGION1_FEATURES] |
 | **[REGION2]** | [SETTLEMENT_TYPE2] | [REGION2_FEATURES] |
 | **[REGION3]** | [SETTLEMENT_TYPE3] | [REGION3_FEATURES] |
 
-### Climate Adaptation
+### Adaptation Climatique
 
 [CLIMATE_ADAPTATION_DESCRIPTION]
 
-## Cultural Aspects
+## Aspects Culturels
 
-The culture of **[SPECIES_NAME]** is characterized by [CULTURE_OVERVIEW]:
+La culture des **[SPECIES_NAME]** est caractérisée par [CULTURE_OVERVIEW] :
 
-### Social Structure
+### Structure Sociale
 
 [SOCIAL_STRUCTURE_DESCRIPTION]
 
-| Aspect | Details |
+| Aspect | Détails |
 |--------|---------|
-| **Government** | [GOVERNMENT_TYPE] |
-| **Family Units** | [FAMILY_STRUCTURE] |
+| **Gouvernement** | [GOVERNMENT_TYPE] |
+| **Unités Familiales** | [FAMILY_STRUCTURE] |
 | **Leadership** | [LEADERSHIP_MODEL] |
-| **Social Mobility** | [SOCIAL_MOBILITY] |
+| **Mobilité Sociale** | [SOCIAL_MOBILITY] |
 
-### Core Values
+### Valeurs Fondamentales
 
-Most **[SPECIES_NAME]** cultures share certain common values:
+La plupart des cultures **[SPECIES_NAME]** partagent certaines valeurs communes :
 
 - **[VALUE1]**: [VALUE1_DESCRIPTION]
 - **[VALUE2]**: [VALUE2_DESCRIPTION]
 - **[VALUE3]**: [VALUE3_DESCRIPTION]
 - **[VALUE4]**: [VALUE4_DESCRIPTION]
 
-### Common Occupations
+### Professions Communes
 
-Popular professions among **[SPECIES_NAME]** include:
+Les professions populaires chez les **[SPECIES_NAME]** incluent :
 
 - **[OCCUPATION1]**: [OCCUPATION1_DESCRIPTION]
 - **[OCCUPATION2]**: [OCCUPATION2_DESCRIPTION]
 - **[OCCUPATION3]**: [OCCUPATION3_DESCRIPTION]
 - **[OCCUPATION4]**: [OCCUPATION4_DESCRIPTION]
 
-## Species Relationships
+## Relations Inter-espèces
 
-**[SPECIES_NAME]** interact with other species in distinctive ways:
+Les **[SPECIES_NAME]** interagissent avec d'autres espèces de manières distinctives :
 
-| Species | Relationship | Notable Interactions |
+| Espèce | Relation | Interactions Remarquables |
 |---------|--------------|----------------------|
 | **[RELATION_SPECIES1]** | [RELATIONSHIP_TYPE1] | [INTERACTION_DETAILS1] |
 | **[RELATION_SPECIES2]** | [RELATIONSHIP_TYPE2] | [INTERACTION_DETAILS2] |
 | **[RELATION_SPECIES3]** | [RELATIONSHIP_TYPE3] | [INTERACTION_DETAILS3] |
 | **[RELATION_SPECIES4]** | [RELATIONSHIP_TYPE4] | [INTERACTION_DETAILS4] |
 
-### Diplomatic Approach
+### Approche Diplomatique
 
-[SPECIES_NAME] diplomatic approaches typically emphasize:
+Les approches diplomatiques des [SPECIES_NAME] mettent généralement l'accent sur :
 
 - [DIPLOMATIC_TRAIT1]
 - [DIPLOMATIC_TRAIT2]
 - [DIPLOMATIC_TRAIT3]
 
-## Notable Traits
+## Traits Notables
 
-**[SPECIES_NAME]** are characterized by several distinctive traits:
+Les **[SPECIES_NAME]** sont caractérisés par plusieurs traits distinctifs :
 
-### Strengths
+### Forces
 
 - **[STRENGTH1]**: [STRENGTH1_DESCRIPTION]
 - **[STRENGTH2]**: [STRENGTH2_DESCRIPTION]
 - **[STRENGTH3]**: [STRENGTH3_DESCRIPTION]
 - **[STRENGTH4]**: [STRENGTH4_DESCRIPTION]
 
-### Challenges
+### Défis
 
 - **[CHALLENGE1]**: [CHALLENGE1_DESCRIPTION]
 - **[CHALLENGE2]**: [CHALLENGE2_DESCRIPTION]
@@ -153,4 +153,8 @@ Popular professions among **[SPECIES_NAME]** include:
 
 ---
 
-> Understanding the **[SPECIES_NAME]** provides insight into [SPECIES_SIGNIFICANCE] in the world of **OpenFantasy**. 
+> Comprendre les **[SPECIES_NAME]** donne un aperçu de [SPECIES_SIGNIFICANCE] dans le monde d'**OpenFantasy**.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

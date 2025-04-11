@@ -1,190 +1,194 @@
-# **Force Vector**
+# **Vecteur de Force**
 
-> *"The secret to wielding pure force is understanding that all motion is but energy in translation—a simple truth with endless applications."*  
-> — Archmage Verik Stormhand, Battle Academy Founder
+> *"Le secret de la maîtrise de la force pure est de comprendre que tout mouvement n'est que de l'énergie en translation—une simple vérité aux applications infinies."*  
+> — Archimage Verik Main-Tempête, Fondateur de l'Académie de Bataille
 
-## Casting Information
-- **Difficulty**: Novice to Advanced (varies by application)
-- **Casting Time**: 1-5 seconds
-- **Duration**: Instantaneous to 1 minute (varies by application)
-- **Range**: Touch to 30 feet
-- **Components**: Somatic (all variants), Verbal (advanced variants)
+## Informations de lancement
+- **Difficulté**: Novice à Avancé (varie selon l'application)
+- **Temps d'incantation**: 1-5 secondes
+- **Durée**: Instantanée à 1 minute (varie selon l'application)
+- **Portée**: Contact à 30 pieds
+- **Composantes**: Somatique (toutes les variantes), Verbale (variantes avancées)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 70-90%, Aeromana 10-20%, Terramana 0-10%
-- **Primary Factor**: Technique and Training (more significant than purity)
-- **Minimum Mana Capacity**: 15% (Higher capacity allows manipulation of heavier objects)
-- **Pattern Complexity**: Simple to Moderate (3-tier interlocking force matrix)
-- **Resonance Frequency**: Low to mid-range physical spectrum
-- **Roaming Mana Utilization**: High (Often used at the limit of natural mana recovery)
+## Détails techniques
+- **Distribution des types de mana**: Mana de base 70-90%, Aéromana 10-20%, Terramana 0-10%
+- **Facteur principal**: Technique et entraînement (plus important que la pureté)
+- **Capacité de mana minimale**: 15% (Une capacité plus élevée permet la manipulation d'objets plus lourds)
+- **Complexité du motif**: Simple à Modérée (matrice de force imbriquée à 3 niveaux)
+- **Fréquence de résonance**: Spectre physique bas à moyen
+- **Utilisation du mana itinérant**: Élevée (Souvent utilisé à la limite de la récupération naturelle du mana)
 
-## Core Principles
+## Principes fondamentaux
 
-Force Vector is a fundamental utility spell that converts pure mana into directional kinetic energy. Unlike elemental spells that manifest visible effects, Force Vector creates invisible lines of force that can push, pull, lift, or manipulate objects based on the caster's intent and the specific pattern variation employed.
+Vecteur de force est un sort utilitaire fondamental qui convertit le mana pur en énergie cinétique directionnelle. Contrairement aux sorts élémentaires qui manifestent des effets visibles, Vecteur de Force crée des lignes de force invisibles qui peuvent pousser, tirer, soulever ou manipuler des objets en fonction de l'intention du lanceur et de la variation spécifique du motif utilisée.
 
-The spell works by creating a resonant connection between the caster's mana and physical matter, allowing for the transfer of kinetic energy without direct physical contact. The core pattern establishes:
+Le sort fonctionne en créant une connexion résonnante entre le mana du lanceur et la matière physique, permettant le transfert d'énergie cinétique sans contact physique direct. Le motif de base établit :
 
-1. **Force Origin Point**: The anchor from which force emanates
-2. **Vector Direction**: The precise angle and orientation of the force
-3. **Intensity Matrix**: The strength and distribution of force along the vector
-4. **Decay Function**: How quickly the force dissipates with distance
+1. **Point d'origine de la force**: L'ancre à partir de laquelle la force émane
+2. **Direction du vecteur**: L'angle et l'orientation précis de la force
+3. **Matrice d'intensité**: La force et la distribution de la force le long du vecteur
+4. **Fonction de désintégration**: La vitesse à laquelle la force se dissipe avec la distance
 
-What distinguishes Force Vector from many other spells is its reliance on proper technique rather than high mana purity. Even practitioners with moderate purity levels can achieve remarkable results through disciplined training and precise execution. This makes it particularly popular among warriors and practical mages who may not have specialized in mana purification.
+Ce qui distingue Vecteur de force de nombreux autres sorts, c'est sa dépendance à une technique appropriée plutôt qu'à une pureté de mana élevée. Même les praticiens avec des niveaux de pureté modérés peuvent obtenir des résultats remarquables grâce à un entraînement discipliné et une exécution précise. Cela le rend particulièrement populaire parmi les guerriers et les mages pratiques qui ne se sont peut-être pas spécialisés dans la purification du mana.
 
-## Standard Variants
+## Variantes standard
 
-### Force Push
-The most basic application, creating a directed push away from the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-20%)
-- **Effect**: Generates a short burst of force in a specified direction
-- **Typical Users**: Warriors, Guards, Duelists
-- **Applications**: Repelling attackers, creating distance, knocking back objects
+### Poussée de force
+L'application la plus basique, créant une poussée dirigée loin du lanceur :
+- **Difficulté**: Novice
+- **Exigence de pureté**: Basique (15-20%)
+- **Effet**: Génère une courte rafale de force dans une direction spécifiée
+- **Utilisateurs typiques**: Guerriers, Gardes, Duellistes
+- **Applications**: Repousser les attaquants, créer de la distance, repousser les objets
 
-### Force Pull
-Reverses the vector to draw objects toward the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-20%)
-- **Effect**: Creates attractive force to draw small objects to hand
-- **Typical Users**: Rangers, Duelists, Scholars
-- **Applications**: Retrieving weapons, gathering items, disarming opponents
+### Traction de force
+Inverse le vecteur pour attirer les objets vers le lanceur :
+- **Difficulté**: Novice
+- **Exigence de pureté**: Basique (15-20%)
+- **Effet**: Crée une force d'attraction pour attirer de petits objets à portée de main
+- **Utilisateurs typiques**: Rôdeurs, Duellistes, Érudits
+- **Applications**: Récupérer des armes, rassembler des objets, désarmer les adversaires
 
-### Gravity Reduction
-Manipulates the force vector counter to natural gravity:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Basic to Refined (20-35%)
-- **Effect**: Reduces effective weight of target by 30-70%
-- **Typical Users**: All classes (specialized applications)
-- **Applications**: Lightening carried equipment, enhancing jumps, enabling stealth movement
+### Réduction de la gravité
+Manipule le vecteur de force à l'opposé de la gravité naturelle :
+- **Difficulté**: Intermédiaire
+- **Exigence de pureté**: Basique à Raffinée (20-35%)
+- **Effet**: Réduit le poids effectif de la cible de 30 à 70 %
+- **Utilisateurs typiques**: Toutes les classes (applications spécialisées)
+- **Applications**: Alléger l'équipement transporté, améliorer les sauts, permettre des mouvements furtifs
 
-## Advanced Variants
+## Variantes avancées
 
-### Weapon Guidance
-Creates subtle force vectors to influence projectile trajectory:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Allows minor correction of projectile path after release
-- **Typical Users**: Rangers, Scouts, Specialist Archers
-- **Applications**: Guiding arrows around obstacles, compensating for wind, striking moving targets
+### Guidage d'arme
+Crée des vecteurs de force subtils pour influencer la trajectoire du projectile :
+- **Difficulté**: Avancé
+- **Exigence de pureté**: Raffinée (35-45 %)
+- **Effet**: Permet une correction mineure de la trajectoire du projectile après le lancement
+- **Utilisateurs typiques**: Rôdeurs, Éclaireurs, Archers Spécialistes
+- **Applications**: Guider les flèches autour des obstacles, compenser le vent, frapper des cibles en mouvement
 
-### Multiple Vector Control
-Establishes several force vectors simultaneously:
-- **Difficulty**: Expert
-- **Purity Requirement**: Refined to Perfect (45-60%)
-- **Effect**: Controls 2-5 separate objects with independent force vectors
-- **Typical Users**: Blade Dancers, Battle Mages, Duelists
-- **Applications**: Floating weapon techniques, manipulating multiple objects, complex maneuvers
+### Contrôle vectoriel multiple
+Établit plusieurs vecteurs de force simultanément :
+- **Difficulté**: Expert
+- **Exigence de pureté**: Raffinée à Parfaite (45-60 %)
+- **Effet**: Contrôle 2 à 5 objets distincts avec des vecteurs de force indépendants
+- **Utilisateurs typiques**: Danseurs de lames, Mages de bataille, Duellistes
+- **Applications**: Techniques d'arme flottante, manipulation de plusieurs objets, manœuvres complexes
 
-### Force Plane
-Creates a sustained horizontal force vector field:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (60-75%)
-- **Effect**: Generates a planar force that can support weight
-- **Typical Users**: High-level Mages, Advanced Practitioners
-- **Applications**: Creating temporary bridges, floating platforms, emergency barriers
+### Plan de force
+Crée un champ de vecteur de force horizontal soutenu :
+- **Difficulté**: Maître
+- **Exigence de pureté**: Parfaite (60-75 %)
+- **Effet**: Génère une force plane qui peut supporter du poids
+- **Utilisateurs typiques**: Mages de haut niveau, Praticiens avancés
+- **Applications**: Création de ponts temporaires, de plates-formes flottantes, de barrières d'urgence
 
-## Purity Influence on Effect
+## Influence de la pureté sur l'effet
 
-Unlike many spells, Force Vector depends more on technique and training than on mana purity. The relationship between capacity, technique, and object weight is more significant:
+Contrairement à de nombreux sorts, Vecteur de force dépend plus de la technique et de l'entraînement que de la pureté du mana. La relation entre la capacité, la technique et le poids de l'objet est plus significative :
 
-| Technique Level | Force Control | Maximum Weight | Efficiency |
+| Niveau de technique | Contrôle de la force | Poids maximum | Efficacité |
 |-----------------|---------------|----------------|------------|
-| Novice | Basic directional pushing/pulling | 5-10 pounds | Low (significant mana waste) |
-| Practiced | Precise angles and consistent force | 10-50 pounds | Moderate (sustainable use) |
-| Expert | Fine control with minimal effort | 50-200 pounds | High (approaches natural regeneration limit) |
-| Master | Complex multi-vector manipulation | 200-500+ pounds | Excellent (maximizes natural regeneration) |
+| Novice | Poussée/traction directionnelle de base | 5 à 10 livres | Faible (gaspillage de mana important) |
+| Pratiqué | Angles précis et force constante | 10 à 50 livres | Modérée (utilisation durable) |
+| Expert | Contrôle fin avec un minimum d'effort | 50 à 200 livres | Élevée (approche la limite de régénération naturelle) |
+| Maître | Manipulation complexe à vecteurs multiples | 200 à 500+ livres | Excellente (maximise la régénération naturelle) |
 
-Most practitioners learn to work within their natural mana regeneration limits, utilizing roaming mana in the environment to supplement their own energy. This creates a sustainable equilibrium where they can maintain force effects for extended periods without exhaustion, provided they don't exceed their capacity threshold.
+La plupart des praticiens apprennent à travailler dans les limites de leur régénération naturelle de mana, en utilisant le mana itinérant dans l'environnement pour compléter leur propre énergie. Cela crée un équilibre durable où ils peuvent maintenir des effets de force pendant de longues périodes sans épuisement, à condition de ne pas dépasser leur seuil de capacité.
 
-## Mana Capacity and Weight Relationship
+## Relation entre la capacité de mana et le poids
 
-The primary limiting factor in Force Vector manipulation is the relationship between mana capacity and object weight:
+Le principal facteur limitant la manipulation du vecteur de force est la relation entre la capacité de mana et le poids de l'objet :
 
-| Mana Capacity | Maximum Sustainable Weight | Duration at Maximum Weight |
+| Capacité de mana | Poids durable maximum | Durée au poids maximum |
 |---------------|----------------------------|----------------------------|
-| 15-20% | Up to 50 pounds | Minutes (sustainable) |
-| 21-30% | Up to 100 pounds | Minutes (sustainable) |
-| 31-45% | Up to 250 pounds | Brief periods (limited sustainability) |
-| 46-60% | Up to 500 pounds | Very brief (exceeds regeneration) |
-| 61%+ | 500+ pounds | Momentary (quickly depletes reserves) |
+| 15-20% | Jusqu'à 50 livres | Minutes (durable) |
+| 21-30% | Jusqu'à 100 livres | Minutes (durable) |
+| 31-45% | Jusqu'à 250 livres | Courtes périodes (durabilité limitée) |
+| 46-60% | Jusqu'à 500 livres | Très bref (dépasse la régénération) |
+| 61%+ | 500+ livres | Momentané (épuise rapidement les réserves) |
 
-Experienced users learn to operate at approximately 80-90% of their maximum capacity to maintain a balance between effectiveness and sustainability.
+Les utilisateurs expérimentés apprennent à fonctionner à environ 80 à 90 % de leur capacité maximale pour maintenir un équilibre entre efficacité et durabilité.
 
-## Class-Specific Applications
+## Applications spécifiques à la classe
 
-### Warrior Class
-- **Forceful Strike**: Enhances weapon impacts with additional force
-- **Repelling Guard**: Creates defensive force barrier on shield
-- **Ground Stomp**: Channels force into ground to unbalance opponents
-- **Weapon Recall**: Pulls disarmed weapon back to hand
+### Classe de guerrier
+- **Frappe puissante**: Améliore les impacts d'arme avec une force supplémentaire
+- **Garde répulsive**: Crée une barrière de force défensive sur le bouclier
+- **Piétinement au sol**: Canalise la force dans le sol pour déséquilibrer les adversaires
+- **Rappel d'arme**: Tire l'arme désarmée à portée de main
 
-### Rogue/Assassin Class
-- **Silent Step**: Reduces footfall weight for silent movement
-- **Pocket Pull**: Subtly extracts items from containers or pockets
-- **Needle Storm**: Controls multiple poisoned needles in combat
-- **Wall Run**: Partially negates gravity to run along vertical surfaces briefly
+### Classe de voleur/assassin
+- **Pas silencieux**: Réduit le poids des pas pour un mouvement silencieux
+- **Traction de poche**: Extrait subtilement des objets des conteneurs ou des poches
+- **Tempête d'aiguilles**: Contrôle plusieurs aiguilles empoisonnées au combat
+- **Course murale**: Annule partiellement la gravité pour courir brièvement le long des surfaces verticales
 
-### Ranger Class
-- **Arrow Guidance**: Minor course correction for arrows after firing
-- **Force Trap**: Embeds force vector in ground to trip or delay pursuers
-- **Canopy Walk**: Reduces weight to traverse tree branches safely
-- **Hunting Pull**: Retrieves small game from difficult locations
+### Classe de rôdeur
+- **Guidage de flèche**: Correction mineure de la trajectoire des flèches après le tir
+- **Piège de force**: Intègre le vecteur de force dans le sol pour faire trébucher ou retarder les poursuivants
+- **Marche dans la canopée**: Réduit le poids pour traverser les branches d'arbres en toute sécurité
+- **Traction de chasse**: Récupère le petit gibier dans des endroits difficiles
 
-### Mage Class
-- **Mana-Efficient Levitation**: Reduces body weight to float with minimal mana expenditure
-- **Object Arrangement**: Precise positioning of ritual components
-- **Tome Management**: Turns pages and manages multiple books simultaneously
-- **Arcane Assembly**: Manipulates delicate magical components during crafting
+### Classe de mage
+- **Lévitation économe en mana**: Réduit le poids corporel pour flotter avec une dépense de mana minimale
+- **Disposition des objets**: Positionnement précis des composants rituels
+- **Gestion des tomes**: Tourne les pages et gère plusieurs livres simultanément
+- **Assemblage arcanique**: Manipule des composants magiques délicats lors de la fabrication
 
-## Training Progression
+## Progression de l'entraînement
 
 ### Novice
-- Learning to generate consistent force direction
-- Single-vector control exercises
-- Weight estimation and force calibration
-- Simple push/pull applications
+- Apprendre à générer une direction de force constante
+- Exercices de contrôle à vecteur unique
+- Estimation du poids et calibrage de la force
+- Applications simples de poussée/traction
 
-### Intermediate
-- Multi-angle vector manipulation
-- Duration extension through pattern stability
-- Fine control exercises for precision targeting
-- Combining movement with vector casting
+### Intermédiaire
+- Manipulation vectorielle multi-angle
+- Extension de la durée grâce à la stabilité des motifs
+- Exercices de contrôle fin pour un ciblage de précision
+- Combinaison du mouvement avec le lancement vectoriel
 
-### Advanced
-- Multiple simultaneous vector control
-- Vector field generation and maintenance
-- Rapid vector switching techniques
-- Integration with other spell systems
+### Avancé
+- Contrôle vectoriel simultané multiple
+- Génération et maintenance de champs vectoriels
+- Techniques de commutation vectorielle rapide
+- Intégration avec d'autres systèmes de sorts
 
-## Risk Factors
+## Facteurs de risque
 
-### Common Mishaps
-- **Vector Reversal**: Force manifests in opposite intended direction
-- **Intensity Fluctuation**: Uneven force application causing object damage
-- **Pattern Collapse**: Premature dissipation of force field
-- **Feedback Loop**: Force redirects toward caster
+### Mésaventures courantes
+- **Inversion de vecteur**: La force se manifeste dans la direction opposée à celle prévue
+- **Fluctuation d'intensité**: Application de force inégale causant des dommages à l'objet
+- **Effondrement du motif**: Dissipation prématurée du champ de force
+- **Boucle de rétroaction**: La force se redirige vers le lanceur
 
-### Technical Considerations
-- **Regeneration Balance**: Finding the equilibrium between force exertion and natural mana recovery
-- **Roaming Mana Utilization**: Techniques to draw upon ambient mana to supplement personal reserves
-- **Weight Estimation**: Accurately gauging an object's mass to apply appropriate force
-- **Vector Precision**: Maintaining exact angles and directions for optimal effect
-- **Efficiency Training**: Minimizing wasted energy through refined technique
+### Considérations techniques
+- **Équilibre de régénération**: Trouver l'équilibre entre l'exercice de la force et la récupération naturelle du mana
+- **Utilisation du mana itinérant**: Techniques pour puiser dans le mana ambiant pour compléter les réserves personnelles
+- **Estimation du poids**: Évaluer avec précision la masse d'un objet pour appliquer la force appropriée
+- **Précision vectorielle**: Maintenir des angles et des directions exacts pour un effet optimal
+- **Entraînement à l'efficacité**: Minimiser le gaspillage d'énergie grâce à une technique raffinée
 
-### Safety Practices
-- Practicing with lightweight, non-fragile objects
-- Beginning with horizontal vectors before vertical (gravity-affecting) applications
-- Using clear visualization techniques for precise vector definition
-- Maintaining consistent somatic components for pattern stability
+### Pratiques de sécurité
+- S'exercer avec des objets légers et non fragiles
+- Commencer par des vecteurs horizontaux avant les applications verticales (affectant la gravité)
+- Utiliser des techniques de visualisation claires pour une définition vectorielle précise
+- Maintenir des composantes somatiques cohérentes pour la stabilité des motifs
 
-## Historical Development
+## Développement historique
 
-Force Vector magic evolved from early battlefield techniques developed during the Second Age, when warriors sought advantages without relying on destructive elemental magic. The first systematic approach was documented by Battle-Mage Korvin, who developed the foundational "Three-Node Force Triangle" that remains the basis of modern vector casting.
+La magie du vecteur de force a évolué à partir des premières techniques de champ de bataille développées au cours du deuxième âge, lorsque les guerriers recherchaient des avantages sans s'appuyer sur la magie élémentaire destructrice. La première approche systématique a été documentée par le mage de bataille Korvin, qui a développé le « Triangle de force à trois nœuds » fondamental qui reste la base du lancement vectoriel moderne.
 
-What made this spell system revolutionary was its accessibility—unlike many magical disciplines that required high purity levels and extensive theoretical study, Force Vector could be effectively taught to soldiers and practical mages through focused physical training and repetitive practice exercises. This democratization of force manipulation magic changed the landscape of battlefield tactics and eventually spread to civilian applications.
+Ce qui a rendu ce système de sorts révolutionnaire, c'est son accessibilité : contrairement à de nombreuses disciplines magiques qui nécessitaient des niveaux de pureté élevés et des études théoriques approfondies, le vecteur de force pouvait être efficacement enseigné aux soldats et aux mages pratiques grâce à un entraînement physique ciblé et à des exercices pratiques répétitifs. Cette démocratisation de la magie de manipulation de la force a changé le paysage des tactiques de champ de bataille et s'est finalement étendue aux applications civiles.
 
-> *"The brilliance of Force Vector is not in the power it demands, but in the precision it rewards. A scholar with perfect purity but poor technique will be outperformed by a practiced warrior who has mastered the form."* — Battlemaster Rynn's instruction to first-year cadets
+> *"La brillance du vecteur de force ne réside pas dans la puissance qu'il exige, mais dans la précision qu'il récompense. Un érudit avec une pureté parfaite mais une mauvaise technique sera surclassé par un guerrier entraîné qui a maîtrisé la forme."* — Instruction du maître de bataille Rynn aux cadets de première année
 
 ---
 
-*See also: [Basic Movement Spells](/codex/Magics/Spells/Utility/MovementSpells.md), [Combat Applications](/codex/Magics/Spells/Combat/ForceManipulation.md), [Mana Mechanics](/codex/Magics/Core/ManaMechanics.md)* 
+*Voir aussi : [Sorts de mouvement de base](/codex/Magics/Spells/Utility/MovementSpells.md), [Applications de combat](/codex/Magics/Spells/Combat/ForceManipulation.md), [Mécanique du mana](/codex/Magics/Core/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

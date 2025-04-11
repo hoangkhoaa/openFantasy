@@ -1,172 +1,176 @@
-# **Wild Mana Effects**: Dangers and Consequences of Exposure
+# **Effets de Mana Sauvage** : Dangers et Conséquences de l'Exposition
 
-> *"Unlike the disciplined notes of a well-tuned instrument, Wild Mana plays its own chaotic melody—beautiful from a distance, but potentially devastating to those caught in its performance."* — Magistrix Elara Nightwind
+> *"Contrairement aux notes disciplinées d'un instrument bien accordé, le Mana Sauvage joue sa propre mélodie chaotique—magnifique de loin, mais potentiellement dévastatrice pour ceux pris dans sa performance."* — Magistrix Elara Nightwind
 
-## Quick Reference
-- [Acute Effects on Spellcasters](#acute-effects-on-spellcasters)
-- [Chronic Exposure Consequences](#chronic-exposure-consequences)
-- [Environmental Impact](#environmental-impact)
-- [Treatment Methods](#treatment-methods)
-- [Protective Measures](#protective-measures)
-- [Notable Historical Incidents](#notable-historical-incidents)
+## Référence Rapide
+- [Effets Aigus sur les Lanceurs de Sorts](#acute-effects-on-spellcasters)
+- [Conséquences de l'Exposition Chronique](#chronic-exposure-consequences)
+- [Impact Environnemental](#environmental-impact)
+- [Méthodes de Traitement](#treatment-methods)
+- [Mesures de Protection](#protective-measures)
+- [Incidents Historiques Notables](#notable-historical-incidents)
 
-## Understanding Wild Mana Contamination
+## Comprendre la Contamination par le Mana Sauvage
 
-Wild Mana contamination occurs when a spellcaster or environment is exposed to excessive amounts of raw, unpurified magical energy. While all magic users naturally process small amounts of Wild Mana, exposure beyond an individual's filtration capacity can lead to a spectrum of magical maladies.
+La contamination par le Mana Sauvage survient lorsqu'un lanceur de sorts ou un environnement est exposé à des quantités excessives d'énergie magique brute et non purifiée. Bien que tous les utilisateurs de magie traitent naturellement de petites quantités de Mana Sauvage, l'exposition au-delà de la capacité de filtration d'un individu peut entraîner un éventail de maladies magiques.
 
-The severity of effects depends on several factors:
-- Concentration of Wild Mana
-- Duration of exposure
-- Individual's Mana Capacity
-- Previous exposure history
-- Protective measures employed
+La gravité des effets dépend de plusieurs facteurs :
+- Concentration de Mana Sauvage
+- Durée de l'exposition
+- Capacité de Mana de l'individu
+- Antécédents d'exposition
+- Mesures de protection employées
 
-## Acute Effects on Spellcasters
+## Effets Aigus sur les Lanceurs de Sorts
 
-### Immediate Physiological Responses
+### Réponses Physiologiques Immédiates
 
-| Severity | Symptoms | Contamination Level | Recovery Time |
+| Gravité | Symptômes | Niveau de Contamination | Temps de Récupération |
 |----------|----------|---------------------|---------------|
-| Minor | Tingling sensation, mild disorientation, temporary aura distortion | 10-25% | 1-2 hours |
-| Moderate | Sensory hallucinations, involuntary minor magical discharges, fever | 25-50% | 1-3 days |
-| Severe | Uncontrolled spellcasting, mana channel inflammation, magical burns | 50-75% | 1-2 weeks |
-| Critical | System shock, violent magical outbursts, temporary ability loss | 75%+ | 1-3 months |
+| Mineure | Sensation de picotement, légère désorientation, distorsion temporaire de l'aura | 10-25% | 1-2 heures |
+| Modérée | Hallucinations sensorielles, décharges magiques mineures involontaires, fièvre | 25-50% | 1-3 jours |
+| Sévère | Lancement de sorts incontrôlé, inflammation des canaux de mana, brûlures magiques | 50-75% | 1-2 semaines |
+| Critique | Choc systémique, violentes crises de magie, perte temporaire de capacité | 75%+ | 1-3 mois |
 
-### Cognitive and Magical Effects
+### Effets Cognitifs et Magiques
 
-- **Pattern Disruption**: Inability to form stable spell patterns
-- **Mana Stutter**: Irregular energy flow during casting attempts
-- **Sensory Overload**: Heightened and painful awareness of magical energies
-- **Resonance Shift**: Temporary change in magical affinities
-- **Wild Dreams**: Vivid, prophetic, or disturbing dreams with magical manifestations during sleep
+- **Perturbation des Schémas** : Incapacité à former des schémas de sorts stables
+- **Bégaiement de Mana** : Flux d'énergie irrégulier lors des tentatives de lancement
+- **Surcharge Sensorielle** : Conscience accrue et douloureuse des énergies magiques
+- **Déplacement de Résonance** : Changement temporaire des affinités magiques
+- **Rêves Sauvages** : Rêves vifs, prophétiques ou dérangeants avec des manifestations magiques pendant le sommeil
 
-### Emergency Symptoms Requiring Immediate Treatment
+### Symptômes d'Urgence Nécessitant un Traitement Immédiat
 
-1. **Mana Seizures**: Convulsions accompanied by uncontrolled magical discharges
-2. **Chromatic Bleeding**: Magical energy leaking from eyes, nose, or ears
-3. **Harmonic Dissociation**: Complete inability to control personal mana
-4. **Reality Anchor Loss**: Partial phasing between planes of existence
+1. **Crises de Mana** : Convulsions accompagnées de décharges magiques incontrôlées
+2. **Saignement Chromatique** : Énergie magique s'échappant des yeux, du nez ou des oreilles
+3. **Dissociation Harmonique** : Incapacité complète à contrôler le mana personnel
+4. **Perte d'Ancrage à la Réalité** : Transition partielle entre les plans d'existence
 
-## Chronic Exposure Consequences
+## Conséquences de l'Exposition Chronique
 
-### Long-term Physiological Changes
+### Changements Physiologiques à Long Terme
 
-- **Wild-Touched Stigmata**: Permanent marks on the skin that glow during magical activity
-- **Harmonic Tremors**: Persistent trembling that intensifies near magical sources
-- **Channel Scarring**: Permanent damage to internal mana pathways
-- **Resonance Addiction**: Physiological dependence on Wild Mana exposure
+- **Stigmates Touchés par le Sauvage** : Marques permanentes sur la peau qui brillent lors de l'activité magique
+- **Tremblements Harmoniques** : Tremblements persistants qui s'intensifient près des sources magiques
+- **Cicatrisation des Canaux** : Dommages permanents aux voies de mana internes
+- **Dépendance à la Résonance** : Dépendance physiologique à l'exposition au Mana Sauvage
 
-### Progressive Conditions
+### Conditions Progressives
 
-#### Wild Mana Syndrome (WMS)
-A progressive condition with four recognized stages:
+#### Syndrome du Mana Sauvage (SMS)
+Une condition progressive avec quatre étapes reconnues :
 
-1. **Initiation Stage**: Intermittent magical instability, recovery possible
-2. **Acclimation Stage**: Body adapts but spell precision decreases permanently
-3. **Transformation Stage**: Physical changes begin, such as altered eye color, luminescent bodily fluids
-4. **Integration Stage**: Complete biological adaptation to Wild Mana, fundamental change in magical nature
+1. **Phase d'Initiation** : Instabilité magique intermittente, récupération possible
+2. **Phase d'Acclimatation** : Le corps s'adapte mais la précision des sorts diminue de façon permanente
+3. **Phase de Transformation** : Des changements physiques commencent, tels que la couleur des yeux modifiée, des fluides corporels luminescents
+4. **Phase d'Intégration** : Adaptation biologique complète au Mana Sauvage, changement fondamental de la nature magique
 
-#### Chaotic Resonance Disorder (CRD)
-Characterized by involuntary wild magic effects triggered by emotional states:
+#### Trouble de Résonance Chaotique (TRC)
+Caractérisé par des effets de magie sauvage involontaires déclenchés par des états émotionnels :
 
-| Stage | Emotional Trigger | Typical Manifestations | Control Level |
+| Étape | Déclencheur Émotionnel | Manifestations Typiques | Niveau de Contrôle |
 |-------|-------------------|------------------------|---------------|
-| Early | Extreme emotions only | Minor environmental effects | Manageable with meditation |
-| Intermediate | Moderate emotional changes | Personal physical changes | Requires daily discipline |
-| Advanced | Subtle emotional shifts | Significant magical discharge | Minimal control possible |
-| Terminal | Constant manifestation | Complete magical instability | No control possible |
+| Précoce | Émotions extrêmes seulement | Effets environnementaux mineurs | Gérable avec la méditation |
+| Intermédiaire | Changements émotionnels modérés | Changements physiques personnels | Nécessite une discipline quotidienne |
+| Avancée | Changements émotionnels subtils | Décharge magique importante | Contrôle minimal possible |
+| Terminale | Manifestation constante | Instabilité magique complète | Aucun contrôle possible |
 
-## Environmental Impact
+## Impact Environnemental
 
-### Localized Effects
+### Effets Localisés
 
-- **Flora Mutation**: Altered plant growth, magical properties in normal plants
-- **Fauna Alteration**: Animals exhibiting magical abilities or physical changes
-- **Weather Disruption**: Unusual weather patterns, magical storms
-- **Terrain Transformation**: Physical changes to the landscape, floating earth, elemental manifestations
+- **Mutation de la Flore** : Croissance des plantes altérée, propriétés magiques dans les plantes normales
+- **Altération de la Faune** : Animaux présentant des capacités magiques ou des changements physiques
+- **Perturbation Météorologique** : Conditions météorologiques inhabituelles, tempêtes magiques
+- **Transformation du Terrain** : Changements physiques du paysage, terre flottante, manifestations élémentaires
 
-### Wild Mana Zones
+### Zones de Mana Sauvage
 
-| Classification | Characteristics | Danger Level | Quarantine Status |
+| Classification | Caractéristiques | Niveau de Danger | Statut de Quarantaine |
 |----------------|-----------------|--------------|-------------------|
-| Type I | Slightly elevated magical properties, safe for short exposure | Low | Monitoring Only |
-| Type II | Visible magical effects, strange phenomena | Moderate | Limited Access |
-| Type III | Significant reality distortion, spontaneous magical effects | High | Restricted Zone |
-| Type IV | Complete magical saturation, fundamental laws of nature altered | Extreme | Full Quarantine |
-| Type V | Reality breach, connection to other planes | Catastrophic | Military Containment |
+| Type I | Propriétés magiques légèrement élevées, sans danger pour une courte exposition | Faible | Surveillance Uniquement |
+| Type II | Effets magiques visibles, phénomènes étranges | Modéré | Accès Limité |
+| Type III | Distorsion significative de la réalité, effets magiques spontanés | Élevé | Zone Restreinte |
+| Type IV | Saturation magique complète, lois fondamentales de la nature altérées | Extrême | Quarantaine Totale |
+| Type V | Brèche de la réalité, connexion à d'autres plans | Catastrophique | Confinement Militaire |
 
-### Notable Contaminated Regions
+### Régions Contaminées Notables
 
-- **The Shimmerwood**: Forest where all plant life has developed semi-consciousness
-- **Mage's Folly**: Remnants of an experimental magical academy where Wild Mana saturated the area
-- **The Wailing Wastes**: Desert region where Wild Mana storms manifest voices of the past
-- **Flux Marshes**: Wetlands where time and space fluctuate unpredictably
+- **Le Bois Scintillant** : Forêt où toute la vie végétale a développé une semi-conscience
+- **La Folie du Mage** : Vestiges d'une académie magique expérimentale où le Mana Sauvage a saturé la zone
+- **Les Déchets Gémissants** : Région désertique où les tempêtes de Mana Sauvage manifestent les voix du passé
+- **Les Marais Flux** : Zones humides où le temps et l'espace fluctuent de manière imprévisible
 
-## Treatment Methods
+## Méthodes de Traitement
 
-### First Response
+### Première Réponse
 
-1. **Isolation**: Remove from Wild Mana source immediately
-2. **Stabilization**: Apply Mana Stabilization techniques or potions
-3. **Assessment**: Determine contamination level and affected systems
-4. **Containment**: Prevent spread of Wild Mana to others or environment
+1. **Isolement** : Retirer immédiatement de la source de Mana Sauvage
+2. **Stabilisation** : Appliquer des techniques ou des potions de stabilisation du Mana
+3. **Évaluation** : Déterminer le niveau de contamination et les systèmes affectés
+4. **Confinement** : Empêcher la propagation du Mana Sauvage à d'autres ou à l'environnement
 
-### Medical Interventions
+### Interventions Médicales
 
-- **Mana Purification Rituals**: Ceremonial cleansing of contaminated channels
-- **Harmonic Realignment**: Restoration of proper mana flow patterns
-- **Resonance Therapy**: Use of counter-frequencies to neutralize Wild Mana
-- **Extraction Procedures**: Magical removal of Wild Mana concentrations
+- **Rituels de Purification du Mana** : Nettoyage cérémonial des canaux contaminés
+- **Réalignement Harmonique** : Restauration des schémas de flux de mana appropriés
+- **Thérapie par Résonance** : Utilisation de contre-fréquences pour neutraliser le Mana Sauvage
+- **Procédures d'Extraction** : Élimination magique des concentrations de Mana Sauvage
 
-### Alchemical Treatments
+### Traitements Alchimiques
 
-| Remedy | Primary Ingredients | Effect | Treatment Duration |
+| Remède | Ingrédients Principaux | Effet | Durée du Traitement |
 |--------|---------------------|--------|-------------------|
-| Purification Elixir | Crystal lotus, silver water | Accelerates natural filtration | 7-day course |
-| Stabilizing Tincture | Void moss, calming herbs | Reduces acute symptoms | Single dose, as needed |
-| Channel Repair Potion | Phoenix tears, resonant minerals | Heals damaged mana pathways | Monthly for 1 year |
-| Harmonic Draught | Musical fungi, pure water source | Restores natural resonance | Weekly for 1 month |
+| Élixir de Purification | Lotus de cristal, eau d'argent | Accélère la filtration naturelle | Cure de 7 jours |
+| Teinture Stabilisatrice | Mousse du vide, herbes calmantes | Réduit les symptômes aigus | Dose unique, au besoin |
+| Potion de Réparation des Canaux | Larmes de phénix, minéraux résonants | Guérit les voies de mana endommagées | Mensuel pendant 1 an |
+| Breuvage Harmonique | Champignons musicaux, source d'eau pure | Restaure la résonance naturelle | Hebdomadaire pendant 1 mois |
 
-### Long-term Management
+### Gestion à Long Terme
 
-- **Adaptive Meditation**: Mental techniques to manage persistent symptoms
-- **Controlled Exposure Therapy**: Gradual reintroduction to regulated magic use
-- **Resonance Monitoring**: Regular assessment of magical stability
-- **Support Circles**: Communities of affected individuals sharing coping strategies
+- **Méditation Adaptative** : Techniques mentales pour gérer les symptômes persistants
+- **Thérapie d'Exposition Contrôlée** : Réintroduction progressive à l'utilisation régulée de la magie
+- **Surveillance de la Résonance** : Évaluation régulière de la stabilité magique
+- **Cercles de Soutien** : Communautés de personnes touchées partageant des stratégies d'adaptation
 
-## Protective Measures
+## Mesures de Protection
 
-### Personal Protection
+### Protection Personnelle
 
-- **Warding Amulets**: Jewelry inscribed with protective sigils
-- **Mana Filters**: Devices worn to purify ambient mana before it reaches the user
-- **Stabilizing Garments**: Clothing woven with enchantments to maintain personal mana stability
-- **Anchoring Techniques**: Mental practices to maintain magical integrity
+- **Amulettes de Protection** : Bijoux inscrits avec des sceaux protecteurs
+- **Filtres de Mana** : Appareils portés pour purifier le mana ambiant avant qu'il n'atteigne l'utilisateur
+- **Vêtements Stabilisateurs** : Vêtements tissés avec des enchantements pour maintenir la stabilité du mana personnel
+- **Techniques d'Ancrage** : Pratiques mentales pour maintenir l'intégrité magique
 
-### Environmental Containment
+### Confinement Environnemental
 
-- **Harmonic Barriers**: Magical constructs that prevent Wild Mana spread
-- **Purification Circles**: Ritual spaces that gradually cleanse an area
-- **Channeling Rods**: Devices that draw Wild Mana away from populated areas
-- **Resonant Architecture**: Buildings designed to naturally repel or redirect Wild Mana
+- **Barrières Harmoniques** : Constructions magiques qui empêchent la propagation du Mana Sauvage
+- **Cercles de Purification** : Espaces rituels qui nettoient progressivement une zone
+- **Tiges de Canalisation** : Appareils qui éloignent le Mana Sauvage des zones peuplées
+- **Architecture Résonnante** : Bâtiments conçus pour repousser ou rediriger naturellement le Mana Sauvage
 
-## Notable Historical Incidents
+## Incidents Historiques Notables
 
-### The Cerulean Catastrophe
-During the Third Age, an attempt to create a permanent portal resulted in a massive Wild Mana surge that affected an entire city. Over 80% of magical practitioners suffered acute effects, and 30% developed chronic conditions. The city remains abandoned, a Type IV contamination zone.
+### La Catastrophe Céruléenne
+Pendant le Troisième Âge, une tentative de créer un portail permanent a entraîné une vague massive de Mana Sauvage qui a affecté une ville entière. Plus de 80% des praticiens magiques ont subi des effets aigus et 30% ont développé des affections chroniques. La ville reste abandonnée, une zone de contamination de Type IV.
 
-### The Whispering Plague
-A subtle Wild Mana contamination that went undetected for months, causing progressive magical whispers to be heard by residents of the affected region. By the time the source was identified, over 200 people had developed Chaotic Resonance Disorder.
+### La Peste Murmurante
+Une subtile contamination de Mana Sauvage qui est passée inaperçue pendant des mois, provoquant des murmures magiques progressifs entendus par les habitants de la région touchée. Au moment où la source a été identifiée, plus de 200 personnes avaient développé un Trouble de Résonance Chaotique.
 
-### The Azure Transformation
-A legendary archmage's failed immortality ritual that resulted in his complete conversion to a Wild Mana entity—neither truly alive nor dead, but a conscious manifestation of chaotic magical energy still studied by researchers today.
+### La Transformation Azure
+Le rituel d'immortalité raté d'un archimage légendaire qui a abouti à sa conversion complète en une entité de Mana Sauvage—ni vraiment vivante ni morte, mais une manifestation consciente d'énergie magique chaotique encore étudiée par les chercheurs aujourd'hui.
 
-## Research and Future Directions
+## Recherche et Orientations Futures
 
-Current research focuses on:
-- Improved detection methods for subtle contamination
-- More effective treatments for chronic conditions
-- Enhanced protective technologies
-- Potential applications of controlled Wild Mana exposure
+La recherche actuelle se concentre sur :
+- Des méthodes de détection améliorées pour la contamination subtile
+- Des traitements plus efficaces pour les affections chroniques
+- Des technologies de protection améliorées
+- Les applications potentielles de l'exposition contrôlée au Mana Sauvage
 
-> *"We cannot eliminate Wild Mana from our world, nor should we wish to—it is the primordial song from which all magic springs. But we must learn to listen from a safe distance, lest we lose ourselves in its captivating chaos."* — Thorne Wildkeeper, Specialist in Magical Contamination Studies 
+> *"Nous ne pouvons pas éliminer le Mana Sauvage de notre monde, et nous ne devrions pas le souhaiter—c'est le chant primordial d'où jaillit toute magie. Mais nous devons apprendre à écouter à une distance sûre, de peur de nous perdre dans son chaos captivant."* — Thorne Wildkeeper, Spécialiste des Études sur la Contamination Magique
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

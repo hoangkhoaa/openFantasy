@@ -1,188 +1,192 @@
-# **The School of Evocation**
+# **L'École d'Évocation**
 
-> *"To evoke is to call power from within and without, to shape raw force through will and voice. Not a request, but a demand that the elements answer."*  
-> — Arch-Evoker Ragnarr Stormcaller, Grand Master of the Crimson Tower
+> *"Évoquer, c'est invoquer le pouvoir de l'intérieur et de l'extérieur, façonner la force brute par la volonté et la voix. Non pas une requête, mais une exigence à laquelle les éléments doivent répondre."*
+> — Arch-Évocateur Ragnarr Stormcaller, Grand Maître de la Tour Cramoisie
 
-## Overview
+## Aperçu
 
-Evocation is the direct manipulation of magical energy to create powerful, often spectacular effects. It is the most visibly impressive school of magic, channeling raw elemental forces into existence through sheer will and precise mana manipulation. Evocation spells typically produce immediate, dramatic results - from conjuring destructive elemental forces to creating shields of pure magical energy.
+L'évocation est la manipulation directe de l'énergie magique pour créer des effets puissants, souvent spectaculaires. C'est l'école de magie la plus visiblement impressionnante, canalisant les forces élémentaires brutes à l'existence par la seule volonté et une manipulation précise du mana. Les sorts d'évocation produisent généralement des résultats immédiats et dramatiques - de la conjuration de forces élémentaires destructrices à la création de boucliers d'énergie magique pure.
 
-## Fundamental Principles
+## Principes Fondamentaux
 
-### The Voice of Command
+### La Voix du Commandement
 
-Evocation operates on the principle that elemental forces can be commanded through proper mana resonance and authoritative will. Unlike enchantment which persuades or illusion which deceives, evocation directly calls forth power, demanding that it manifest in specific ways. This school requires strong mental discipline and exceptional mana projection capabilities.
+L'évocation fonctionne sur le principe que les forces élémentaires peuvent être commandées par une résonance de mana appropriée et une volonté autoritaire. Contrairement à l'enchantement qui persuade ou à l'illusion qui trompe, l'évocation invoque directement le pouvoir, exigeant qu'il se manifeste de manière spécifique. Cette école exige une forte discipline mentale et des capacités exceptionnelles de projection de mana.
 
-### Primary Components
+### Composants Principaux
 
-All evocation spells incorporate three fundamental components:
+Tous les sorts d'évocation intègrent trois composants fondamentaux :
 
-1. **Mana Condensation**: Gathering and concentrating magical energy
-2. **Elemental Affinity**: Aligning the mana with specific elemental properties
-3. **Force Projection**: Directing the manifested energy with precision and control
+1.  **Condensation de Mana** : Rassembler et concentrer l'énergie magique
+2.  **Affinité Élémentaire** : Aligner le mana avec des propriétés élémentaires spécifiques
+3.  **Projection de Force** : Diriger l'énergie manifestée avec précision et contrôle
 
-### Mana Requirements
+### Besoins en Mana
 
-Evocation typically requires large quantities of mana with compositions heavily weighted toward the relevant elemental types:
+L'évocation exige généralement de grandes quantités de mana avec des compositions fortement pondérées vers les types élémentaires pertinents :
 
-| Evocation Focus | Primary Mana | Secondary Mana | Purpose |
-|-----------------|-------------|----------------|---------|
-| Fire Evocation | Ignamana (60-80%) | Base Mana (10-30%) | Heat and combustion manifestation |
-| Water Evocation | Aquamana (60-80%) | Base Mana (10-30%) | Liquid manipulation and pressure control |
-| Earth Evocation | Terramana (60-80%) | Base Mana (10-30%) | Density manipulation and stability |
-| Air Evocation | Aeromana (60-80%) | Base Mana (10-30%) | Movement and pressure differential |
-| Lightning Evocation | Aeromana (40-60%) | Ignamana (30-50%) | Electrical charge generation |
-| Force Evocation | Base Mana (70-90%) | Varies by effect | Pure kinetic energy manipulation |
-| Light Evocation | Luxmana (60-80%) | Base Mana (10-30%) | Visible spectrum manifestation |
-| Shadow Evocation | Umbramana (60-80%) | Base Mana (10-30%) | Absence of light manipulation |
+| Focus d'Évocation | Mana Primaire | Mana Secondaire | But |
+|--------------------|----------------|-------------------|------------------------------------------------|
+| Évocation du Feu | Ignamana (60-80%) | Mana de Base (10-30%) | Manifestation de chaleur et de combustion |
+| Évocation de l'Eau | Aquamana (60-80%) | Mana de Base (10-30%) | Manipulation de liquide et contrôle de la pression |
+| Évocation de la Terre | Terramana (60-80%) | Mana de Base (10-30%) | Manipulation de la densité et stabilité |
+| Évocation de l'Air | Aeromana (60-80%) | Mana de Base (10-30%) | Mouvement et différentiel de pression |
+| Évocation de la Foudre | Aeromana (40-60%) | Ignamana (30-50%) | Génération de charge électrique |
+| Évocation de la Force | Mana de Base (70-90%) | Varie selon l'effet | Manipulation d'énergie cinétique pure |
+| Évocation de la Lumière | Luxmana (60-80%) | Mana de Base (10-30%) | Manifestation du spectre visible |
+| Évocation de l'Ombre | Umbramana (60-80%) | Mana de Base (10-30%) | Absence de manipulation de la lumière |
 
-### Wild Mana Interference
+### Interférence du Mana Sauvage
 
-Evocation has a complex relationship with Wild Mana. While wild energy can amplify the raw power of evocation spells, it introduces significant control problems:
+L'évocation a une relation complexe avec le Mana Sauvage. Bien que l'énergie sauvage puisse amplifier la puissance brute des sorts d'évocation, elle introduit des problèmes de contrôle importants :
 
-- **Power Surge**: Uncontrolled amplification of spell effects
-- **Elemental Contamination**: Introduction of unintended elemental properties
-- **Directional Instability**: Loss of precision in targeting
-- **Feedback Loops**: Dangerous energy cycling back to the caster
+-   **Surtension d'Énergie** : Amplification incontrôlée des effets du sort
+-   **Contamination Élémentaire** : Introduction de propriétés élémentaires non intentionnelles
+-   **Instabilité Directionnelle** : Perte de précision dans le ciblage
+-   **Boucles de Rétroaction** : Retour d'énergie dangereux vers le lanceur
 
-Paradoxically, some battle evokers deliberately introduce controlled amounts of Wild Mana to create more unpredictable and therefore harder-to-counter effects, though this practice is considered extremely dangerous.
+Paradoxalement, certains évocateurs de bataille introduisent délibérément des quantités contrôlées de Mana Sauvage pour créer des effets plus imprévisibles et donc plus difficiles à contrer, bien que cette pratique soit considérée comme extrêmement dangereuse.
 
-## Mana Purification for Evocation
+## Purification du Mana pour l'Évocation
 
-Evocation requires a balance between quantity and quality of mana. While the raw power of evocation benefits from large mana reserves, insufficient purity results in unstable and potentially dangerous effects.
+L'évocation exige un équilibre entre la quantité et la qualité du mana. Bien que la puissance brute de l'évocation bénéficie de grandes réserves de mana, une pureté insuffisante entraîne des effets instables et potentiellement dangereux.
 
-| Purification Level | Evocation Capability |
-|--------------------|----------------------|
-| Basic (15-25%) | Simple elemental manifestations with limited control |
-| Intermediate (30-45%) | Reliable elemental effects with moderate power and accuracy |
-| Advanced (50-65%) | Complex evocations with precise control and significant force |
-| Master (70-80%) | Multi-elemental combinations and exceptional power-to-control ratio |
-| Grandmaster (85%+) | Perfect elemental harmony with maximum efficiency and minimal waste |
+| Niveau de Purification | Capacité d'Évocation |
+|-------------------------|------------------------|
+| Basique (15-25%) | Manifestations élémentaires simples avec un contrôle limité |
+| Intermédiaire (30-45%) | Effets élémentaires fiables avec une puissance et une précision modérées |
+| Avancé (50-65%) | Évocations complexes avec un contrôle précis et une force significative |
+| Maître (70-80%) | Combinaisons multi-élémentaires et rapport puissance/contrôle exceptionnel |
+| Grand Maître (85%+) | Harmonie élémentaire parfaite avec une efficacité maximale et un gaspillage minimal |
 
-## The Elemental Octave in Evocation
+## L'Octave Élémentaire dans l'Évocation
 
-Evocation particularly relies on understanding the Elemental Octave, as combining complementary elements creates harmonious and efficient spells, while opposing elements can create destructive interference or even spell failure.
+L'évocation repose particulièrement sur la compréhension de l'Octave Élémentaire, car la combinaison d'éléments complémentaires crée des sorts harmonieux et efficaces, tandis que les éléments opposés peuvent créer des interférences destructrices, voire un échec du sort.
 
-The elemental relationships in evocation follow the standard Elemental Wheel, but with particular attention to:
+Les relations élémentaires dans l'évocation suivent la Roue Élémentaire standard, mais avec une attention particulière à :
 
-- **Harmonic Pairs**: Fire-Air, Water-Earth, Light-Life, Shadow-Death
-- **Dissonant Pairs**: Fire-Water, Air-Earth, Light-Shadow, Life-Death
-- **Constructive Triads**: Fire-Earth-Light, Water-Air-Shadow, etc.
+-   **Paires Harmoniques** : Feu-Air, Eau-Terre, Lumière-Vie, Ombre-Mort
+-   **Paires Dissonantes** : Feu-Eau, Air-Terre, Lumière-Ombre, Vie-Mort
+-   **Triades Constructives** : Feu-Terre-Lumière, Eau-Air-Ombre, etc.
 
-Master evokers learn to "play" the elemental harmonies like musical instruments, creating complex "chords" of elemental forces that produce effects greater than the sum of their parts.
+Les maîtres évocateurs apprennent à "jouer" les harmonies élémentaires comme des instruments de musique, créant des "accords" complexes de forces élémentaires qui produisent des effets supérieurs à la somme de leurs parties.
 
-## Specialized Disciplines
+## Disciplines Spécialisées
 
-### Pyromancy
+### Pyromancie
 
-Focused on fire manipulation, from controlled flames to explosive conflagrations. Practitioners are known as Pyromancers.
+Axé sur la manipulation du feu, des flammes contrôlées aux conflagrations explosives. Les pratiquants sont connus sous le nom de Pyromanciens.
 
-### Hydromancy
+### Hydromancie
 
-The art of water control, including mist, ice, and steam manipulation. Masters are called Tidesingers.
+L'art du contrôle de l'eau, y compris la manipulation de la brume, de la glace et de la vapeur. Les maîtres sont appelés Tidesingers.
 
-### Geomancy
+### Géomancie
 
-Specializes in earth and stone manipulation. Practitioners are known as Stoneshapers.
+Spécialisé dans la manipulation de la terre et de la pierre. Les pratiquants sont connus sous le nom de Stoneshapers.
 
-### Aeromancy
+### Aéromancie
 
-The discipline of air and wind control. Practitioners are called Windweavers.
+La discipline du contrôle de l'air et du vent. Les pratiquants sont appelés Windweavers.
 
-### Electromancy
+### Électromancie
 
-Advanced discipline focused on lightning and electrical energy. Masters are known as Stormcallers.
+Discipline avancée axée sur la foudre et l'énergie électrique. Les maîtres sont connus sous le nom de Stormcallers.
 
-### Umbramancy
+### Umbramancie
 
-The manipulation of shadow and darkness. Practitioners are called Shadowcasters.
+La manipulation de l'ombre et des ténèbres. Les pratiquants sont appelés Shadowcasters.
 
-### Luxomancy
+### Luxomancie
 
-Specializes in light manipulation beyond simple illumination. Masters are known as Lightbringers.
+Spécialisé dans la manipulation de la lumière au-delà de la simple illumination. Les maîtres sont connus sous le nom de Lightbringers.
 
-### Force Manipulation
+### Manipulation de la Force
 
-The advanced discipline of pure kinetic energy control. Practitioners are called Forceshapers.
+La discipline avancée du contrôle de l'énergie cinétique pure. Les pratiquants sont appelés Forceshapers.
 
-## Training Methodology
+## Méthodologie de Formation
 
-Evocation training follows a distinct progression:
+La formation à l'évocation suit une progression distincte :
 
-1. **Elemental Affinity Discovery**: Identifying a student's natural elemental connections
-2. **Power Control Exercises**: Learning to regulate mana output and projection
-3. **Single-Element Mastery**: Developing expertise with one primary element
-4. **Precision Training**: Exercises focused on accuracy and fine control
-5. **Secondary Element Introduction**: Expanding capabilities to complementary elements
-6. **Combat Applications**: Tactical uses of evocation in controlled scenarios
-7. **Elemental Harmonization**: Advanced techniques for combining multiple elements
-8. **Efficiency Refinement**: Reducing mana costs while maintaining effect potency
+1.  **Découverte de l'Affinité Élémentaire** : Identification des connexions élémentaires naturelles d'un étudiant
+2.  **Exercices de Contrôle de la Puissance** : Apprendre à réguler la production et la projection de mana
+3.  **Maîtrise d'un Seul Élément** : Développer une expertise avec un élément primaire
+4.  **Formation de Précision** : Exercices axés sur la précision et le contrôle fin
+5.  **Introduction d'un Élément Secondaire** : Étendre les capacités aux éléments complémentaires
+6.  **Applications de Combat** : Utilisations tactiques de l'évocation dans des scénarios contrôlés
+7.  **Harmonisation Élémentaire** : Techniques avancées pour combiner plusieurs éléments
+8.  **Affinement de l'Efficacité** : Réduire les coûts de mana tout en maintenant la puissance de l'effet
 
-Evocation training often involves more physical components than other magical disciplines, as projecting force frequently requires corresponding physical movements and gestures.
+La formation à l'évocation implique souvent plus de composantes physiques que les autres disciplines magiques, car la projection de force exige fréquemment des mouvements et des gestes physiques correspondants.
 
-## Practical Applications
+## Applications Pratiques
 
-Beyond its obvious combat applications, evocation serves many practical purposes:
+Au-delà de ses applications de combat évidentes, l'évocation sert à de nombreuses fins pratiques :
 
-- **Construction**: Moving heavy materials and shaping elements for building
-- **Agriculture**: Controlling rainfall, temperature, and soil conditions
-- **Transportation**: Propelling vessels or creating pathways
-- **Industry**: Providing heat, pressure, and other forces for manufacturing
-- **Environmental Management**: Controlling natural disasters or extreme weather
-- **Entertainment**: Creating spectacular displays and sensory experiences
+-   **Construction** : Déplacer des matériaux lourds et façonner des éléments pour la construction
+-   **Agriculture** : Contrôler les précipitations, la température et les conditions du sol
+-   **Transport** : Propulser des navires ou créer des voies d'accès
+-   **Industrie** : Fournir de la chaleur, de la pression et d'autres forces pour la fabrication
+-   **Gestion de l'Environnement** : Contrôler les catastrophes naturelles ou les conditions météorologiques extrêmes
+-   **Divertissement** : Créer des spectacles spectaculaires et des expériences sensorielles
 
-## Safety Protocols
+## Protocoles de Sécurité
 
-Due to its potentially destructive nature, evocation is typically subject to strict safety regulations:
+En raison de sa nature potentiellement destructrice, l'évocation est généralement soumise à des réglementations de sécurité strictes :
 
-- **Licensing Requirements**: Legal certification based on demonstrated control
-- **Containment Spaces**: Designated areas with protective wards for training
-- **Energy Dispersal Systems**: Emergency measures to safely dissipate magical energy
-- **Practice Limitations**: Restrictions on specific high-risk evocations
-- **Mandatory Supervision**: Requirements for oversight during advanced training
+-   **Exigences en Matière de Licence** : Certification juridique basée sur un contrôle démontré
+-   **Espaces de Confinement** : Zones désignées avec des protections pour la formation
+-   **Systèmes de Dissipation d'Énergie** : Mesures d'urgence pour dissiper en toute sécurité l'énergie magique
+-   **Limitations de la Pratique** : Restrictions sur les évocations spécifiques à haut risque
+-   **Supervision Obligatoire** : Exigences de surveillance pendant la formation avancée
 
-## Limitations and Countermeasures
+## Limitations et Contre-Mesures
 
-Evocation has several inherent limitations:
+L'évocation a plusieurs limitations inhérentes :
 
-- **Energy Cost**: High mana consumption limiting sustained use
-- **Control Difficulty**: Increasing complexity with scale and power
-- **Elemental Resistance**: Limited effectiveness against targets with matching elemental properties
-- **Environmental Dependence**: Some evocations require existing elements to amplify
-- **Predictability**: Visible energy signatures that can be anticipated
+-   **Coût Énergétique** : Consommation élevée de mana limitant l'utilisation soutenue
+-   **Difficulté de Contrôle** : Complexité croissante avec l'échelle et la puissance
+-   **Résistance Élémentaire** : Efficacité limitée contre les cibles ayant des propriétés élémentaires correspondantes
+-   **Dépendance Environnementale** : Certaines évocations nécessitent des éléments existants pour s'amplifier
+-   **Prévisibilité** : Signatures d'énergie visibles qui peuvent être anticipées
 
-Common countermeasures against evocation include:
+Les contre-mesures courantes contre l'évocation comprennent :
 
-- **Elemental Absorption**: Wards that consume or redirect elemental energy
-- **Force Dispersion**: Spreading impact across larger areas to reduce effectiveness
-- **Reflection Barriers**: Surfaces that bounce evocation energy back toward casters
-- **Elemental Opposition**: Using contrary elements to neutralize effects
-- **Disruption Fields**: Areas of Wild Mana that interfere with evocation control
+-   **Absorption Élémentaire** : Protections qui consomment ou redirigent l'énergie élémentaire
+-   **Dispersion de la Force** : Étaler l'impact sur des zones plus vastes pour réduire l'efficacité
+-   **Barrières de Réflexion** : Surfaces qui renvoient l'énergie d'évocation vers les lanceurs
+-   **Opposition Élémentaire** : Utiliser des éléments contraires pour neutraliser les effets
+-   **Champs de Perturbation** : Zones de Mana Sauvage qui interfèrent avec le contrôle de l'évocation
 
-## Musical Analogy
+## Analogie Musicale
 
-In the musical framework of magic, evocation represents percussion and brass - bold, direct, and attention-commanding. The evoker is like a drummer establishing rhythm through decisive, powerful movements, or a trumpet player projecting clear notes through space.
+Dans le cadre musical de la magie, l'évocation représente les percussions et les cuivres - audacieux, directs et captivant l'attention. L'évocateur est comme un batteur qui établit le rythme par des mouvements décisifs et puissants, ou un trompettiste qui projette des notes claires dans l'espace.
 
-Master evokers describe their work as "conducting the elemental orchestra," bringing forth each element with precise timing and intensity. The most impressive evocations are like symphonic climaxes - multiple elements working in harmony to create overwhelming sensory experiences.
+Les maîtres évocateurs décrivent leur travail comme "diriger l'orchestre élémentaire", faisant naître chaque élément avec un timing et une intensité précis. Les évocations les plus impressionnantes sont comme des apogées symphoniques - plusieurs éléments travaillant en harmonie pour créer des expériences sensorielles bouleversantes.
 
-## Notable Practitioners
+## Praticiens Notables
 
-- **Ragnarr Stormcaller**: Legendary battle-mage famous for calling lightning storms in cloudless skies
-- **Lysandra Flameheart**: Creator of the Dancing Ember spell and pioneer of controlled fire evocation
-- **Terran Stonevoice**: Master geomancer who developed battlefield terrain manipulation techniques
-- **Aria Galewind**: Renowned aeromancer known for developing sustainable wind energy systems
-- **Umbra Nightshade**: Controversial shadowcaster who expanded the understanding of darkness as substance
+-   **Ragnarr Stormcaller** : Mage de bataille légendaire, célèbre pour avoir invoqué des tempêtes de foudre dans un ciel sans nuages
+-   **Lysandra Flameheart** : Créatrice du sort Dancing Ember et pionnière de l'évocation contrôlée du feu
+-   **Terran Stonevoice** : Maître géomancien qui a développé des techniques de manipulation du terrain sur le champ de bataille
+-   **Aria Galewind** : Aéromancienne renommée, connue pour avoir développé des systèmes durables d'énergie éolienne
+-   **Umbra Nightshade** : Ombrecaster controversé qui a élargi la compréhension des ténèbres en tant que substance
 
-## Historical Development
+## Développement Historique
 
-Evocation is among the earliest documented forms of magic, with primitive versions appearing in the earliest tribal cultures as weather control and fire manipulation. The primal appeal and immediate utility of evocation made it widespread.
+L'évocation est parmi les formes de magie les plus anciennes documentées, avec des versions primitives apparaissant dans les premières cultures tribales sous forme de contrôle du temps et de manipulation du feu. L'attrait primordial et l'utilité immédiate de l'évocation l'ont rendue très répandue.
 
-The Second Age saw the systematization of evocation theory with the writing of "The Elemental Voice" by Arch-Evoker Ignis. This established the fundamental classifications and safety protocols still used today.
+Le deuxième âge a vu la systématisation de la théorie de l'évocation avec l'écriture de "The Elemental Voice" par l'Arch-Évocateur Ignis. Cela a établi les classifications fondamentales et les protocoles de sécurité encore utilisés aujourd'hui.
 
-The Third Age brought significant advances in precision and efficiency, moving evocation beyond merely destructive applications toward more nuanced uses. The founding of the Elemental Harmony Academy marked a turning point, where evocation began to be studied as an art form rather than simply a weapon.
+Le troisième âge a apporté des progrès significatifs en matière de précision et d'efficacité, faisant passer l'évocation de simples applications destructrices à des utilisations plus nuancées. La fondation de l'Elemental Harmony Academy a marqué un tournant, où l'évocation a commencé à être étudiée comme une forme d'art plutôt que simplement comme une arme.
 
-Modern evocation continues to evolve, with current research focused on micro-evocation (extremely precise small-scale effects) and harmonic evocation (complex multiple-element combinations).
+L'évocation moderne continue d'évoluer, avec des recherches actuelles axées sur la micro-évocation (effets à petite échelle extrêmement précis) et l'évocation harmonique (combinaisons complexes de plusieurs éléments).
 
 ---
 
-*See also: [Dancing Ember](/codex/Magics/Spells/Elemental/DancingEmber.md), [Elemental Magic](/codex/Magics/ElementalMagic.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*Voir aussi : [Dancing Ember](/codex/Magics/Spells/Elemental/DancingEmber.md), [Elemental Magic](/codex/Magics/ElementalMagic.md), [Mana Purification](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

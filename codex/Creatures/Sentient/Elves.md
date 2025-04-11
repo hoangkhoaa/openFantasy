@@ -1,90 +1,94 @@
-# **Elves**: The Eternal Seekers of Wisdom
+# **Elfes**: Les Éternels Chercheurs de Sagesse
 
-[**Elves**](/codex/Creatures/Elves.md) are the eternal seekers of wisdom, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a flute that plays an endless melody, they embody grace and magical prowess, creating a unique harmony of existence that emphasizes longevity, knowledge, and magical mastery.
+Les [**Elfes**](/codex/Creatures/Elves.md) sont les éternels chercheurs de sagesse, leurs corps un mélange harmonieux d'[**Exanthis**](/codex/Basic/Exanthis.md), d'[**Âmes**](/codex/Basic/Soul.md), et de **Capacité de Mana**. Tels une flûte qui joue une mélodie sans fin, ils incarnent la grâce et les prouesses magiques, créant une harmonie unique d'existence qui met l'accent sur la longévité, la connaissance, et la maîtrise magique.
 
-## Elemental Composition
+## Composition Élémentaire
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **elves** forms a harmony that favors magical prowess:
+Comme détaillé dans [Créatures](/codex/Creatures/Creatures.md), le ratio typique pour les **elfes** forme une harmonie qui favorise les prouesses magiques :
 
-| Element | Range | Function |
+| Élément | Plage | Fonction |
 |---------|------------|----------|
-| **Exanthis** | 15-40% | The crystalline heart that provides graceful physical form and moderate durability |
-| **Soul** | 5-15% | The ethereal essence that shapes a focused and analytical consciousness |
-| **Mana Capacity** | 50-80% | The bridge between worlds that enables exceptional magical potential |
+| **Exanthis** | 15-40% | Le cœur cristallin qui fournit une forme physique gracieuse et une durabilité modérée |
+| **Âme** | 5-15% | L'essence éthérée qui façonne une conscience concentrée et analytique |
+| **Capacité de Mana** | 50-80% | Le pont entre les mondes qui permet un potentiel magique exceptionnel |
 
-This composition grants **elves** their characteristic magical prowess and longevity but limits their physical strength compared to other species, like a delicate instrument that produces complex melodies but cannot match the power of a drum.
+Cette composition confère aux **elfes** leurs prouesses magiques et leur longévité caractéristiques, mais limite leur force physique par rapport aux autres espèces, comme un instrument délicat qui produit des mélodies complexes mais ne peut égaler la puissance d'un tambour.
 
-### Individual Variations
+### Variations Individuelles
 
-While the model composition represents the typical elf, individual variations exist:
+Bien que la composition modèle représente l'elfe typique, des variations individuelles existent :
 
-- **Archmages**: Some elves possess Mana Capacity as high as 85%, making them among the most powerful spellcasters in existence but physically vulnerable with as little as 10% Exanthis.
-- **Warrior Elves**: A rare subset has Exanthis levels approaching 45%, allowing them to excel in physical combat while still maintaining significant magical abilities (45% Mana Capacity).
-- **Soul Seekers**: Those with higher Soul percentages (up to 20%) develop exceptional empathy and connection to the spiritual realm, often becoming powerful healers or spiritual guides.
-- **Balanced Elves**: Some individuals maintain a more balanced composition (30% Exanthis, 10% Soul, 60% Mana Capacity), allowing them to adapt to various roles within elven society.
-- **Spell Blades**: A specialized composition of (25% Exanthis, 5% Soul, 70% Mana Capacity) creates elves who can channel powerful magic through physical combat techniques.
+- **Archimages** : Certains elfes possèdent une Capacité de Mana aussi élevée que 85 %, ce qui en fait parmi les lanceurs de sorts les plus puissants qui soient, mais physiquement vulnérables avec aussi peu que 10 % d'Exanthis.
+- **Elfes Guerriers** : Un sous-ensemble rare a des niveaux d'Exanthis approchant les 45 %, ce qui leur permet d'exceller au combat physique tout en conservant des capacités magiques importantes (45 % de Capacité de Mana).
+- **Chercheurs d'Âmes** : Ceux avec des pourcentages d'Âme plus élevés (jusqu'à 20 %) développent une empathie exceptionnelle et une connexion au royaume spirituel, devenant souvent de puissants guérisseurs ou des guides spirituels.
+- **Elfes Équilibrés** : Certains individus maintiennent une composition plus équilibrée (30 % d'Exanthis, 10 % d'Âme, 60 % de Capacité de Mana), ce qui leur permet de s'adapter à divers rôles au sein de la société elfique.
+- **Lames Magiques** : Une composition spécialisée de (25 % d'Exanthis, 5 % d'Âme, 70 % de Capacité de Mana) crée des elfes qui peuvent canaliser une puissante magie à travers des techniques de combat physique.
 
-## Physical Characteristics
+## Caractéristiques Physiques
 
-**Elves** are known for their ethereal beauty and graceful movements:
-- Tall and slender, with proportions that seem to defy gravity
-- Eyes that shimmer with inner light, reflecting their connection to **Mana**
-- Ears that extend slightly upward, attuned to the subtle harmonies of magic
-- Skin that seems to glow faintly in moonlight, like a pearl catching starlight
-- Hair that flows with an otherworldly grace, often in shades of silver, gold, or the colors of autumn
+Les **Elfes** sont connus pour leur beauté éthérée et leurs mouvements gracieux :
+- Grands et minces, avec des proportions qui semblent défier la gravité
+- Des yeux qui brillent d'une lumière intérieure, reflétant leur connexion au **Mana**
+- Des oreilles qui s'étendent légèrement vers le haut, accordées aux harmonies subtiles de la magie
+- Une peau qui semble briller faiblement au clair de lune, comme une perle captant la lumière des étoiles
+- Des cheveux qui flottent avec une grâce d'un autre monde, souvent dans des nuances d'argent, d'or, ou les couleurs de l'automne
 
-## Magical Affinity
+## Affinité Magique
 
-**Elves** demonstrate exceptional proficiency in manipulating **Mana**, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Store vast amounts of **Mana** within their mana reservoirs, like deep wells of liquid light
-- Achieve extraordinary purity levels in spell casting, like artists painting with pure starlight
-- Specialize in specific magical disciplines with unparalleled mastery, like composers who have perfected a particular style
+Les **Elfes** font preuve d'une maîtrise exceptionnelle dans la manipulation du **Mana**, tels des musiciens virtuoses qui ont maîtrisé leurs instruments. Leur composition leur permet de :
+- Stocker de vastes quantités de **Mana** dans leurs réservoirs de mana, comme des puits profonds de lumière liquide
+- Atteindre des niveaux de pureté extraordinaires dans le lancement de sorts, comme des artistes peignant avec de la pure lumière des étoiles
+- Se spécialiser dans des disciplines magiques spécifiques avec une maîtrise inégalée, comme des compositeurs qui ont perfectionné un style particulier
 
-This specialization makes **elves** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with disciplines outside their expertise, like a classical musician who cannot improvise jazz.
+Cette spécialisation rend les **elfes** capables d'atteindre les plus hauts niveaux de maîtrise dans leurs traditions magiques choisies, bien qu'ils puissent lutter avec des disciplines en dehors de leur expertise, comme un musicien classique qui ne peut pas improviser du jazz.
 
-## Lifespan and Soul Decay
+## Durée de Vie et Déclin de l'Âme
 
-The **soul decay** timeline for **elves**, from birth to complete decay, is approximately 1000 years, like a slow-burning candle that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+La chronologie du **déclin de l'âme** pour les **elfes**, de la naissance à la décomposition complète, est d'environ 1000 ans, comme une bougie qui brûle lentement et qui illumine les âges. Cette durée de vie prolongée leur permet de :
+- Accumuler de vastes connaissances et de la sagesse au fil des siècles
+- Développer des connexions profondes avec des lieux et des traditions magiques spécifiques
+- Former des sociétés complexes avec des coutumes et des rituels complexes
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Cependant, leur déclin de l'âme plus lent signifie également qu'ils changent et s'adaptent plus lentement que les autres espèces, comme une mélodie qui reste belle mais inchangée à travers les âges.
 
-## Habitat and Distribution
+## Habitat et Distribution
 
-**Elves** primarily inhabit:
-- **Eastern Veldrassil**, where the currents of **Mana** flow most intensely
-- Ancient forests and magical groves, where the boundaries between worlds grow thin
-- Floating islands and crystal spires, where they can be closer to the celestial harmonies
+Les **Elfes** habitent principalement :
+- **Veldrassil Oriental**, où les courants de **Mana** coulent le plus intensément
+- Les forêts anciennes et les bosquets magiques, où les frontières entre les mondes s'amincissent
+- Les îles flottantes et les flèches de cristal, où ils peuvent être plus proches des harmonies célestes
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Ces endroits offrent des environnements idéaux pour l'étude magique et la contemplation spirituelle, comme une acoustique parfaite pour une symphonie.
 
-## Cultural Impact
+## Impact Culturel
 
-In the world of **OpenFantasy**, **elves** play a crucial role in preserving ancient knowledge and magical traditions, like archivists of forgotten melodies. Their societies are centers of:
-- Arcane research and magical innovation
-- Spiritual wisdom and philosophical contemplation
-- Artistic expression and aesthetic refinement
+Dans le monde d'**OpenFantasy**, les **elfes** jouent un rôle crucial dans la préservation des connaissances anciennes et des traditions magiques, tels des archivistes de mélodies oubliées. Leurs sociétés sont des centres de :
+- Recherche arcanique et innovation magique
+- Sagesse spirituelle et contemplation philosophique
+- Expression artistique et raffinement esthétique
 
-The proximity to the strongest currents of **Mana** has shaped elven culture around the study and mastery of magic, creating a society where magical ability is the highest form of achievement.
+La proximité des courants de **Mana** les plus forts a façonné la culture elfique autour de l'étude et de la maîtrise de la magie, créant une société où la capacité magique est la forme la plus élevée d'accomplissement.
 
-## Relationship with Other Species
+## Relation avec les Autres Espèces
 
-**Elves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their short-sightedness
-- With **Dwarves**: A historical rivalry born from their different approaches to the world
-- With **Fae**: A deep connection based on shared magical affinities
-- With **Beastfolk**: A respectful distance, acknowledging their primal strength
+Les **Elfes** entretiennent des relations complexes avec les autres espèces :
+- Avec les [**Humains**](/codex/Creatures/Human.md) : Un mélange de respect pour leur adaptabilité et de frustration face à leur manque de clairvoyance
+- Avec les **Nains** : Une rivalité historique née de leurs approches différentes du monde
+- Avec les **Fées** : Une connexion profonde basée sur des affinités magiques partagées
+- Avec les **Hommes-Bêtes** : Une distance respectueuse, reconnaissant leur force primale
 
-These relationships are often characterized by a sense of cultural superiority, as **elves** view themselves as the guardians of ancient wisdom and magical traditions.
+Ces relations sont souvent caractérisées par un sentiment de supériorité culturelle, car les **elfes** se considèrent comme les gardiens de la sagesse ancienne et des traditions magiques.
 
-## Notable Elven Traits
+## Traits Elfiques Notables
 
-- **Magical Mastery**: Elves excel in specific magical disciplines, often specializing in one area to the exclusion of others
-- **Long Memory**: Their extended lifespans allow them to remember events and knowledge that other species have forgotten
-- **Environmental Sensitivity**: Elves are deeply attuned to their surroundings, particularly in magical environments
-- **Cultural Preservation**: Elven societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Elves have developed highly refined artistic and cultural traditions
+- **Maîtrise Magique** : Les elfes excellent dans des disciplines magiques spécifiques, se spécialisant souvent dans un domaine à l'exclusion des autres
+- **Longue Mémoire** : Leur durée de vie prolongée leur permet de se souvenir d'événements et de connaissances que d'autres espèces ont oubliés
+- **Sensibilité Environnementale** : Les elfes sont profondément accordés à leur environnement, en particulier dans les environnements magiques
+- **Préservation Culturelle** : Les sociétés elfiques accordent une grande importance à la préservation des traditions et des connaissances
+- **Raffinement Esthétique** : Les elfes ont développé des traditions artistiques et culturelles très raffinées
 
-Understanding the nature of **elves** provides insight into the magical aspects of the world of **OpenFantasy**, like listening to the ethereal melodies that echo through the ages. 
+Comprendre la nature des **elfes** donne un aperçu des aspects magiques du monde d'**OpenFantasy**, comme écouter les mélodies éthérées qui résonnent à travers les âges.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

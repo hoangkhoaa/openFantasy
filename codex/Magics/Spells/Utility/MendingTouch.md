@@ -1,97 +1,101 @@
-# **Mending Touch**
+# **Touche Réparatrice**
 
-A practical utility spell that repairs minor damage to small objects. Widely taught to apprentices across various magical disciplines, this spell demonstrates the principles of pattern restoration and material manipulation.
+Un sort utilitaire pratique qui répare les dommages mineurs sur de petits objets. Largement enseigné aux apprentis dans diverses disciplines magiques, ce sort démontre les principes de la restauration de motif et de la manipulation de matériaux.
 
-## Casting Information
+## Informations de lancement
 
-| Aspect | Details |
+| Aspect | Détails |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | 30 seconds |
-| **Duration** | Instantaneous (repairs are permanent) |
-| **Range** | Touch |
-| **Components** | Somatic (tracing the break with fingers), Verbal (short phrase), Material (trace of the object's primary material) |
+| **Difficulté** | Novice |
+| **Temps d'incantation** | 30 secondes |
+| **Durée** | Instantanée (les réparations sont permanentes) |
+| **Portée** | Contact |
+| **Composants** | Somatique (tracer la cassure avec les doigts), Verbal (courte phrase), Matériel (trace du matériau principal de l'objet) |
 
-## Technical Details
+## Détails techniques
 
-| Aspect | Details |
+| Aspect | Détails |
 |--------|---------|
-| **Mana Type** | Base Mana (60%), Terramana (30%), Vitaemana (10%) |
-| **Purity Required** | Basic (15-30%) |
-| **Pattern Complexity** | Simple (4 elements) |
-| **Resonance Frequency** | Restoration/Cohesion spectrum |
-| **Minimum Mana Capacity** | 20% (Higher capacity allows repair of more complex objects) |
+| **Type de Mana** | Mana de base (60%), Terramana (30%), Vitaemana (10%) |
+| **Pureté requise** | Basique (15-30%) |
+| **Complexité du motif** | Simple (4 éléments) |
+| **Fréquence de résonance** | Spectre Restauration/Cohésion |
+| **Capacité minimale de Mana** | 20% (Une capacité plus élevée permet la réparation d'objets plus complexes) |
 
-## Pattern Structure
+## Structure du motif
 
-The Mending Touch pattern consists of four primary elements:
-1. **Memory Node**: Captures the object's "memory" of its undamaged state
-2. **Structure Web**: Analyzes and stabilizes the existing structure
-3. **Material Flow**: Directs material elements to return to their proper configuration
-4. **Binding Seal**: Permanently fixes the restored configuration in place
+Le motif de Touche Réparatrice est composé de quatre éléments principaux :
+1. **Nœud de mémoire**: Capture la "mémoire" de l'objet de son état non endommagé
+2. **Toile structurelle**: Analyse et stabilise la structure existante
+3. **Flux de matériau**: Dirige les éléments de matériau pour qu'ils reviennent à leur configuration appropriée
+4. **Sceau de liaison**: Fixe de manière permanente la configuration restaurée en place
 
-These elements form a diamond-shaped pattern that flows from the caster's hands into the damaged object.
+Ces éléments forment un motif en forme de losange qui s'écoule des mains du lanceur dans l'objet endommagé.
 
-## Practical Effect
+## Effet pratique
 
-When successfully cast, the spell:
-- Reconnects broken pieces that are in contact with each other
-- Seals small cracks and fissures
-- Restores minor surface damage (scratches, scuffs, small chips)
-- Returns the object to functional condition, though often with visible repair lines
+Lorsqu'il est lancé avec succès, le sort :
+- Reconnecte les pièces cassées qui sont en contact les unes avec les autres
+- Scelle les petites fissures et fentes
+- Restaure les dommages mineurs à la surface (rayures, éraflures, petits éclats)
+- Restaure l'objet à son état fonctionnel, mais souvent avec des lignes de réparation visibles
 
-## Limitations
+## Limites
 
-- Works only on non-magical, non-living objects smaller than a breadbox
-- Cannot restore missing pieces (all fragments must be present)
-- Does not restore magical properties if the object once had them
-- Not suitable for extremely complex or intricate mechanisms
-- Visible "seams" remain at repair points, becoming less noticeable with caster skill
+- Ne fonctionne que sur des objets non magiques et non vivants plus petits qu'une huche à pain
+- Ne peut pas restaurer les pièces manquantes (tous les fragments doivent être présents)
+- Ne restaure pas les propriétés magiques si l'objet en avait autrefois
+- Ne convient pas aux mécanismes extrêmement complexes ou complexes
+- Les "coutures" visibles restent aux points de réparation, devenant moins visibles avec la compétence du lanceur
 
-## Common Applications
+## Applications courantes
 
-- Repairing broken dishes, cups, and glassware
-- Fixing torn pages in books
-- Mending torn clothing or simple accessories
-- Restoring broken tools to working condition
-- Reattaching handles, knobs, or small decorative elements
+- Réparer la vaisselle, les tasses et la verrerie cassées
+- Réparer les pages déchirées des livres
+- Réparer les vêtements déchirés ou les accessoires simples
+- Restaurer les outils cassés en état de marche
+- Refixer les poignées, les boutons ou les petits éléments décoratifs
 
 ## Variations
 
-- **Seamless Mending**: An advanced variation that leaves no visible repair marks (Expert difficulty, 65-75% purity)
-- **Swift Mend**: A faster version with reduced effectiveness (15 seconds casting, less durable repairs)
-- **Remote Mending**: Allows repair without direct touch (Adept difficulty, 40-50% purity, requires clear line of sight)
-- **Material Focus**: Specialized versions optimized for specific materials (wood, cloth, ceramic, etc.)
+- **Réparation sans couture**: Une variante avancée qui ne laisse aucune marque de réparation visible (Difficulté expert, pureté de 65 à 75 %)
+- **Réparation rapide**: Une version plus rapide avec une efficacité réduite (15 secondes d'incantation, réparations moins durables)
+- **Réparation à distance**: Permet la réparation sans contact direct (Difficulté d'adepte, pureté de 40 à 50 %, nécessite une ligne de vision dégagée)
+- **Focus Matériel**: Versions spécialisées optimisées pour des matériaux spécifiques (bois, tissu, céramique, etc.)
 
-## Risks and Miscast Effects
+## Risques et effets de ratés
 
-- **False Joining**: Pieces fuse incorrectly, resulting in a warped or unusable object
-- **Temporary Repair**: Poor casting or insufficient purity (below 15%) creates a repair that holds for only a few hours before failing
-- **Surface Marring**: Failed casting leaves discoloration or texture changes on the object
-- **Material Stress**: Creates invisible weaknesses that may cause the object to break again under strain
-- **Pattern Rebound**: Critical purity shortage (below 10%) may cause the broken pieces to repel each other, potentially causing minor injuries
+- **Fausse jonction**: Les pièces fusionnent incorrectement, ce qui donne un objet déformé ou inutilisable
+- **Réparation temporaire**: Une mauvaise incantation ou une pureté insuffisante (inférieure à 15 %) crée une réparation qui ne tient que quelques heures avant de céder
+- **Détérioration de la surface**: Une incantation ratée laisse une décoloration ou des changements de texture sur l'objet
+- **Contrainte du matériau**: Crée des faiblesses invisibles qui peuvent amener l'objet à se casser à nouveau sous la contrainte
+- **Rebond du motif**: Un manque critique de pureté (inférieur à 10 %) peut entraîner le rejet des pièces cassées les unes par les autres, ce qui peut entraîner des blessures mineures
 
-## Purity Influence on Effect
+## Influence de la pureté sur l'effet
 
-| Purity Level | Effect Enhancement |
+| Niveau de pureté | Amélioration de l'effet |
 |--------------|---------------------|
-| 10-15% | Temporary repairs that last hours to days at most |
-| 15-30% | Standard effect as described above, visible repair lines |
-| 30-50% | Less visible repair lines, stronger bonds, can fix slightly more complex objects |
-| 50%+ | Nearly invisible repair seams, can restore minor missing material (chips, etc.) |
+| 10-15% | Réparations temporaires qui durent au plus quelques heures à quelques jours |
+| 15-30% | Effet standard tel que décrit ci-dessus, lignes de réparation visibles |
+| 30-50% | Lignes de réparation moins visibles, liaisons plus fortes, peut réparer des objets légèrement plus complexes |
+| 50%+ | Coutures de réparation presque invisibles, peuvent restaurer des matériaux manquants mineurs (éclats, etc.) |
 
-## Musical Analogy
+## Analogie musicale
 
-Mending Touch is like tuning an instrument that has gone slightly out of tune. The caster must identify the proper "note" (the object's undamaged state) and carefully adjust the "strings" (material structure) until they once again produce harmony. Just as a precisely tuned instrument resonates with clarity, a properly mended object regains its structural integrity.
+Touche Réparatrice est comme accorder un instrument qui s'est légèrement désaccordé. Le lanceur doit identifier la "note" appropriée (l'état non endommagé de l'objet) et ajuster soigneusement les "cordes" (structure matérielle) jusqu'à ce qu'elles produisent à nouveau de l'harmonie. Tout comme un instrument accordé avec précision résonne avec clarté, un objet correctement réparé retrouve son intégrité structurelle.
 
-## Learning Progression
+## Progression de l'apprentissage
 
-Most students master this spell through practice on increasingly challenging materials:
-1. **Paper and Fabrics**: Simple, forgiving materials
-2. **Wood and Ceramics**: More structure, requiring greater precision
-3. **Glass and Stone**: Dense materials that resist magical influence
-4. **Complex Objects**: Items with multiple materials or moving parts
+La plupart des étudiants maîtrisent ce sort en s'exerçant sur des matériaux de plus en plus difficiles :
+1. **Papier et tissus**: Matériaux simples et indulgents
+2. **Bois et céramiques**: Plus de structure, nécessitant une plus grande précision
+3. **Verre et pierre**: Matériaux denses qui résistent à l'influence magique
+4. **Objets complexes**: Objets avec plusieurs matériaux ou pièces mobiles
 
-## Historical Note
+## Note historique
 
-The first standardized version of Mending Touch was developed by Elven household mages of the Third Era who sought to create a practical spell accessible to those with minimal magical training. Initially dismissed by "serious" magical academics as mere housekeeping magic, the spell's elegant efficiency and practical utility eventually earned it a place in standard magical curricula. Today, it is often cited as a perfect example of magical design principles: maximum utility with minimal complexity. 
+La première version standardisée de Touche Réparatrice a été développée par des mages elfes domestiques du Troisième Âge qui cherchaient à créer un sort pratique accessible à ceux qui avaient une formation magique minimale. Initialement rejeté par les universitaires magiques "sérieux" comme simple magie ménagère, l'efficacité élégante et l'utilité pratique du sort lui ont finalement valu une place dans les programmes magiques standard. Aujourd'hui, il est souvent cité comme un exemple parfait des principes de conception magique : utilité maximale avec une complexité minimale.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

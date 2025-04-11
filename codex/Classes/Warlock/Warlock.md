@@ -1,42 +1,46 @@
-# **Warlock**: Wielders of Pact-Bound Magic
+# **Warlock** : Détenteurs de magie liée par un pacte
 
-[**Warlocks**](/codex/Classes/Warlock/Warlock.md) are spellcasters who derive their magical abilities from pacts with powerful otherworldly entities. Unlike wizards who study or sorcerers with innate power, warlocks receive magic through direct patronage, shaping their abilities based on their patron's nature and domain.
+Les [**Warlocks**](/codex/Classes/Warlock/Warlock.md) sont des lanceurs de sorts qui tirent leurs capacités magiques de pactes avec de puissantes entités d'un autre monde. Contrairement aux magiciens qui étudient ou aux sorciers dotés d'un pouvoir inné, les warlocks reçoivent la magie grâce à un patronage direct, façonnant leurs capacités en fonction de la nature et du domaine de leur patron.
 
-## Elemental Composition
+## Composition élémentaire
 
-The typical elemental ratio for **warlocks** reflects their unique connection to patron entities:
+Le rapport élémentaire typique des **warlocks** reflète leur lien unique avec les entités patronales :
 
-| Element | Range | Function |
+| Élément | Fourchette | Fonction |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Physical vessel modified by patron influence |
-| **Soul** | 30-45% | Spiritual anchor for the pact, reinforced to withstand external power |
-| **Mana Capacity** | 30-50% | Channel structure for patron-sourced power rather than personal reserves |
+| **Exanthis** | 15-30% | Vaisseau physique modifié par l'influence du patron |
+| **Âme** | 30-45% | Ancrage spirituel pour le pacte, renforcé pour résister à la puissance externe |
+| **Capacité de Mana** | 30-50% | Structure de canalisation pour la puissance provenant du patron plutôt que les réserves personnelles |
 
-This composition makes **warlocks** fundamentally different from other spellcasters. Their magic doesn't stem primarily from personal reserves but flows through specially adapted channels from their patron. This external sourcing creates distinctive magical signatures and often manifests physical or spiritual modifications reflecting their patron's nature.
+Cette composition rend les **warlocks** fondamentalement différents des autres lanceurs de sorts. Leur magie ne découle pas principalement de réserves personnelles, mais circule à travers des canaux spécialement adaptés provenant de leur patron. Cette source externe crée des signatures magiques distinctives et manifeste souvent des modifications physiques ou spirituelles reflétant la nature de leur patron.
 
-### Magical Affinity Profile
+### Profil d'affinité magique
 
-Warlocks develop specific affinities based on their patron's nature:
+Les warlocks développent des affinités spécifiques en fonction de la nature de leur patron :
 
-| Patron Type | Primary Affinities | Secondary Affinities | Typical Application |
+| Type de Patron | Affinités primaires | Affinités secondaires | Application typique |
 |--------------|-------------------|---------------------|---------------------|
-| **Archfey** | Naturemana | Mentimana | Enchantment, emotional manipulation, nature influence |
-| **Fiend** | Pyromana | Umbramana | Destructive magic, soul manipulation, corruption |
-| **Great Old One** | Mentimana | Umbramana | Mind-affecting spells, forbidden knowledge, reality distortion |
-| **Celestial** | Luxmana | Base Mana (Healing) | Radiant damage, healing, purification |
-| **Hexblade** | Umbramana | Base Mana (Binding) | Weapon enhancement, curses, soul binding |
-| **Genie** | Elemental (varies by genie type) | Base Mana (Spatial) | Elemental control, wishes, dimensional magic |
+| **Archfée** | Naturemana | Mentimana | Enchantement, manipulation émotionnelle, influence de la nature |
+| **Diable** | Pyromana | Umbramana | Magie destructrice, manipulation d'âme, corruption |
+| **Grand Ancien** | Mentimana | Umbramana | Sorts affectant l'esprit, savoir interdit, distorsion de la réalité |
+| **Céleste** | Luxmana | Mana de base (Guérison) | Dégâts radiants, guérison, purification |
+| **Lame-sorcière** | Umbramana | Mana de base (Liaison) | Amélioration d'arme, malédictions, liaison d'âme |
+| **Génie** | Élémentaire (varie selon le type de génie) | Mana de base (Spatial) | Contrôle élémentaire, souhaits, magie dimensionnelle |
 
-Warlocks typically achieve 70-90% resonance with their patron's primary affinity elements, as these energies are directly channeled rather than personally generated. Their connection to patron sources allows for high purity magical energy (40-70%) without the extensive training required by wizards, though this power comes with external dependency and potential influence.
+Les warlocks atteignent généralement une résonance de 70 à 90 % avec les éléments d'affinité primaires de leur patron, car ces énergies sont directement canalisées plutôt que personnellement générées. Leur connexion aux sources du patron permet une énergie magique de haute pureté (40 à 70 %) sans la formation intensive requise par les magiciens, bien que cette puissance s'accompagne d'une dépendance externe et d'une influence potentielle.
 
-### Species-Specific Variations
+### Variations spécifiques à l'espèce
 
-Different species show varying natural inclinations toward the warlock class:
+Différentes espèces présentent des inclinations naturelles variables envers la classe de warlock :
 
-- **Humans** (15-30% Exanthis, 30-45% Soul, 30-50% Mana Capacity): Their adaptability allows for diverse pact connections and easier accommodation of patron influence.
-- **Tieflings** (15-30% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their infernal heritage creates natural resonance with fiendish patrons and resistance to corrupting influences.
-- **Half-Elves** (15-25% Exanthis, 30-45% Soul, 35-55% Mana Capacity): Their mixed heritage offers flexible spiritual anchoring for diverse pact types.
-- **Aasimar** (15-25% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their celestial connection creates natural affinity for divine patrons with enhanced luxmana channeling.
-- **Genasi** (20-35% Exanthis, 25-40% Soul, 30-50% Mana Capacity): Their elemental heritage forms natural channels for corresponding elemental patrons.
+- **Humains** (15-30% Exanthis, 30-45% Âme, 30-50% Capacité de Mana) : Leur adaptabilité permet des connexions de pacte diverses et une accommodation plus facile de l'influence du patron.
+- **Tieffelins** (15-30% Exanthis, 35-50% Âme, 30-45% Capacité de Mana) : Leur héritage infernal crée une résonance naturelle avec les patrons diaboliques et une résistance aux influences corruptrices.
+- **Demi-elfes** (15-25% Exanthis, 30-45% Âme, 35-55% Capacité de Mana) : Leur héritage mixte offre un ancrage spirituel flexible pour divers types de pactes.
+- **Aasimar** (15-25% Exanthis, 35-50% Âme, 30-45% Capacité de Mana) : Leur connexion céleste crée une affinité naturelle pour les patrons divins avec une canalisation luxmana améliorée.
+- **Génasi** (20-35% Exanthis, 25-40% Âme, 30-50% Capacité de Mana) : Leur héritage élémentaire forme des canaux naturels pour les patrons élémentaires correspondants.
 
-// ... rest of the file remains unchanged ... 
+// ... reste du fichier inchangé ...
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

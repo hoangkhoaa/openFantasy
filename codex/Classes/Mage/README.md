@@ -1,83 +1,87 @@
-# Mage Class
+# Classe Mage
 
-> *"A mage sees the world not as it is, but as a symphony of patterns waiting to be conducted."*
+> *"Un mage ne voit pas le monde tel qu'il est, mais comme une symphonie de motifs attendant d'être dirigés."*
 
-## Quick Navigation
+## Navigation Rapide
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Mage](#playing-a-mage)
-- [Notable Traits](#notable-traits)
+- [Aperçu](#aperçu)
+- [Composition de Classe](#composition-de-classe)
+- [Sous-classes](#sous-classes)
+- [Jouer un Mage](#jouer-un-mage)
+- [Traits Notables](#traits-notables)
 
-## Overview
+## Aperçu
 
-Mages are the weavers of arcane power, channeling their exceptional **Mana Capacity** to manipulate the fabric of reality through spellcasting. Like conductors orchestrating the elements, they shape magical energies with precision and purpose.
+Les mages sont les tisseurs de puissance arcanique, canalisant leur exceptionnelle **Capacité de Mana** pour manipuler le tissu de la réalité à travers l'incantation de sorts. Comme des chefs d'orchestre orchestrant les éléments, ils façonnent les énergies magiques avec précision et intention.
 
-## Class Composition
+## Composition de Classe
 
-| Element | Typical Range | Function |
+| Élément | Portée Typique | Fonction |
 |---------|---------------|----------|
-| **Exanthis** | 10-30% | Physical foundation with limited strength and durability |
-| **Soul** | 20-40% | Consciousness that enables focused and analytical thinking |
-| **Mana Capacity** | 40-70% | Exceptional magical potential and channeling ability |
+| **Exanthis** | 10-30% | Fondation physique avec une force et une durabilité limitées |
+| **Âme** | 20-40% | Conscience qui permet une pensée concentrée et analytique |
+| **Capacité de Mana** | 40-70% | Potentiel magique exceptionnel et capacité de canalisation |
 
-This elemental balance grants mages their characteristic magical prowess while limiting their physical capabilities.
+Cet équilibre élémentaire confère aux mages leurs prouesses magiques caractéristiques tout en limitant leurs capacités physiques.
 
-## Subclasses
+## Sous-classes
 
-Mages can specialize in several distinct magical disciplines:
+Les mages peuvent se spécialiser dans plusieurs disciplines magiques distinctes :
 
-| Subclass | Focus | Specialty |
+| Sous-classe | Focus | Spécialité |
 |----------|-------|-----------|
-| [**Elementalist**](Elementalist.md) | Elemental manipulation | Controlling fire, water, earth, and air |
-| [**Necromancer**](Necromancer.md) | Death and soul magic | Communicating with and controlling the undead |
-| [**Illusionist**](Illusionist.md) | Perception manipulation | Creating deceptive magical effects |
-| [**Diviner**](Diviner.md) | Knowledge acquisition | Seeking hidden information through magical means |
-| [**Warlock**](Warlock.md) | Pact-based magic | Channeling power from otherworldly patrons |
+| [**Elementaliste**](Elementalist.md) | Manipulation élémentaire | Contrôle du feu, de l'eau, de la terre et de l'air |
+| [**Nécromancien**](Necromancer.md) | Magie de la mort et de l'âme | Communication avec et contrôle des morts-vivants |
+| [**Illusionniste**](Illusionist.md) | Manipulation de la perception | Création d'effets magiques trompeurs |
+| [**Divinateur**](Diviner.md) | Acquisition de connaissances | Recherche d'informations cachées par des moyens magiques |
+| [**Warlock**](Warlock.md) | Magie basée sur les pactes | Canalisation de la puissance de patrons d'un autre monde |
 
-## Playing a Mage
+## Jouer un Mage
 
-### Core Abilities
+### Capacités Principales
 
-- **Spellcasting**: Access to a wide variety of arcane spells
-- **Mana Manipulation**: Precise control over magical energies
-- **Magical Knowledge**: Extensive understanding of arcane principles
-- **Ritual Casting**: Ability to perform complex magical ceremonies
+- **Incantation de Sorts** : Accès à une grande variété de sorts arcaniques
+- **Manipulation du Mana** : Contrôle précis des énergies magiques
+- **Connaissance Magique** : Vaste compréhension des principes arcaniques
+- **Incantation Rituellle** : Capacité à effectuer des cérémonies magiques complexes
 
-### Common Equipment
+### Équipement Courant
 
-- **Staff/Wand**: Focuses magical energy for more precise spellcasting
-- **Spellbook**: Contains magical knowledge and spell patterns
-- **Magical Accessories**: Rings, amulets, and other enchanted items
-- **Ritual Components**: Materials needed for complex spellcasting
+- **Bâton/Baguette** : Concentre l'énergie magique pour une incantation de sorts plus précise
+- **Grimoire** : Contient des connaissances magiques et des modèles de sorts
+- **Accessoires Magiques** : Anneaux, amulettes et autres objets enchantés
+- **Composants Rituels** : Matériaux nécessaires à l'incantation de sorts complexes
 
-### Species Affinities
+### Affinités d'Espèces
 
-| Species | Affinity | Notable Traits |
+| Espèce | Affinité | Traits Notables |
 |---------|----------|----------------|
-| **Elves** | High | Natural mana purification, enhanced arcane sensitivity |
-| **Humans** | Moderate | Versatile spellcasting, adaptive learning |
-| **Dark Elves** | High | Enhanced capacity for shadow and illusory magic |
-| **Dragonkin** | Moderate-High | Natural affinity for elemental magic, especially fire |
-| **Dwarves** | Low | Limited mana capacity but exceptional focus |
+| **Elfes** | Élevée | Purification naturelle du mana, sensibilité arcanique améliorée |
+| **Humains** | Modérée | Incantation de sorts polyvalente, apprentissage adaptatif |
+| **Elfes Noirs** | Élevée | Capacité améliorée pour la magie de l'ombre et de l'illusion |
+| **Draconides** | Modérée-Élevée | Affinité naturelle pour la magie élémentaire, en particulier le feu |
+| **Nains** | Faible | Capacité de mana limitée mais concentration exceptionnelle |
 
-## Notable Traits
+## Traits Notables
 
-### Strengths
+### Forces
 
-- Unparalleled magical versatility and power
-- Ability to solve problems through arcane means
-- Access to knowledge and forces beyond mortal understanding
-- Potential for continuous growth in magical ability
+- Polyvalence et puissance magique inégalées
+- Capacité à résoudre des problèmes par des moyens arcaniques
+- Accès à des connaissances et à des forces dépassant la compréhension mortelle
+- Potentiel de croissance continue de la capacité magique
 
-### Challenges
+### Défis
 
-- Physical vulnerability and limited combat endurance
-- Reliance on magical components and preparation
-- Susceptibility to anti-magic effects and counterspells
-- Complexity of advanced magical techniques
+- Vulnérabilité physique et endurance au combat limitée
+- Dépendance des composants magiques et de la préparation
+- Sensibilité aux effets anti-magie et aux contresorts
+- Complexité des techniques magiques avancées
 
 ---
 
-> See [Mage.md](Mage.md) for detailed information about the mage class in OpenFantasy. 
+> Voir [Mage.md](Mage.md) pour des informations détaillées sur la classe mage dans OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

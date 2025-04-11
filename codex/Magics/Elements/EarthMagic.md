@@ -1,202 +1,206 @@
-# **Earth Magic**: The Art of Stone, Crystal, and Soil
+# **Magie de la Terre** : L'art de la pierre, du cristal et du sol
 
-> *"The wisdom of earth lies in its patience. Mountains are not raised in a day, nor valleys carved in a moment. True strength comes from endurance, not force."* — Archgeomancer Doran Stoneheart
+> *"La sagesse de la terre réside dans sa patience. Les montagnes ne s'élèvent pas en un jour, ni les vallées creusées en un instant. La vraie force vient de l'endurance, pas de la force brute."* — Archéogéomancien Doran Cœur de Pierre
 
-## Quick Reference
-- [Properties of Terramana](#properties-of-terramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Référence rapide
+- [Propriétés du Terramana](#proprietes-du-terramana)
+- [Techniques de manipulation](#techniques-de-manipulation)
+- [Sorts courants](#sorts-courants)
+- [Développement d'affinité](#developpement-daffinite)
+- [Risques et précautions](#risques-et-precautions)
+- [Signification culturelle](#signification-culturelle)
 
-## Properties of Terramana
+## Propriétés du Terramana
 
-Terramana, the elemental mana of earth, is characterized by:
+Le Terramana, le mana élémentaire de la terre, est caractérisé par :
 
-- **Appearance**: Deep browns, greens, and amber; crystalline structure with geometric patterns
-- **Sensation**: Feels heavy, grounding, and solid when channeled; creates a sense of weight and stability
-- **Resonance**: Low-frequency, stable vibration patterns with strong harmonic undertones
-- **Purification Challenge**: Slow to purify but maintains purity once achieved; tends to accumulate sedimentary impurities
-- **Opposite Element**: Air (creates dust when forced together, ultimately eroded by air)
-- **Complementary Elements**: Fire (creates magma/lava), Life (creates growth and fertility)
-- **Musical Analogy**: Bass instruments, particularly double bass; foundation notes that provide structure
+- **Apparence** : Marrons profonds, verts et ambre ; structure cristalline avec des motifs géométriques
+- **Sensation** : Semble lourd, ancrant et solide lorsqu'il est canalisé ; crée une sensation de poids et de stabilité
+- **Résonance** : Motifs de vibration basse fréquence et stables avec de fortes nuances harmoniques
+- **Défi de purification** : Lent à purifier mais maintient la pureté une fois atteint ; a tendance à accumuler des impuretés sédimentaires
+- **Élément opposé** : Air (crée de la poussière lorsqu'ils sont forcés ensemble, finalement érodé par l'air)
+- **Éléments complémentaires** : Feu (crée du magma/de la lave), Vie (crée la croissance et la fertilité)
+- **Analogie musicale** : Instruments de basse, en particulier la contrebasse ; notes fondamentales qui fournissent la structure
 
-## Manipulation Techniques
+## Techniques de manipulation
 
-### Basic Techniques
+### Techniques de base
 
-#### Terrakinesis
-The foundational technique of moving and directing earth and stone:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-30%)
-- **Effect**: Shifts, lifts, or compresses earth, sand, or loose stone
-- **Training Focus**: Force direction and mass distribution
-- **Applications**: Creating mounds, digging trenches, stabilizing unstable ground
+#### Terrakinésie
+La technique fondamentale de déplacer et de diriger la terre et la pierre :
+- **Difficulté** : Novice
+- **Exigence de pureté** : Basique (15-30%)
+- **Effet** : Déplace, soulève ou comprime la terre, le sable ou les pierres détachées
+- **Concentration de l'entraînement** : Direction de la force et distribution de la masse
+- **Applications** : Créer des monticules, creuser des tranchées, stabiliser un sol instable
 
-#### Material Densification
-Increasing or decreasing the density and hardness of earth materials:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-45%)
-- **Effect**: Changes the physical properties of earth without changing its form
-- **Training Focus**: Molecular compression and structural integrity
-- **Applications**: Hardening mud into clay or stone, softening rock, creating paths through difficult terrain
+#### Densification matérielle
+Augmenter ou diminuer la densité et la dureté des matériaux terrestres :
+- **Difficulté** : Novice à Intermédiaire
+- **Exigence de pureté** : Basique à Raffinée (20-45%)
+- **Effet** : Modifie les propriétés physiques de la terre sans en modifier la forme
+- **Concentration de l'entraînement** : Compression moléculaire et intégrité structurelle
+- **Applications** : Durcir la boue en argile ou en pierre, ramollir la roche, créer des chemins à travers un terrain difficile
 
-#### Seismic Sensing
-Detecting vibrations and structures through earth:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Extends awareness through connected earth materials
-- **Training Focus**: Vibrational interpretation and filtering
-- **Applications**: Finding caverns, detecting movement, locating water or mineral deposits
+#### Détection sismique
+Détecter les vibrations et les structures à travers la terre :
+- **Difficulté** : Intermédiaire
+- **Exigence de pureté** : Raffinée (35-50%)
+- **Effet** : Étend la conscience à travers les matériaux terrestres connectés
+- **Concentration de l'entraînement** : Interprétation et filtrage des vibrations
+- **Applications** : Trouver des cavernes, détecter les mouvements, localiser l'eau ou les gisements minéraux
 
-### Advanced Techniques
+### Techniques avancées
 
-#### Crystalline Formation
-Creating and manipulating mineral structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms crystalline structures with specific properties and geometric patterns
-- **Training Focus**: Molecular arrangement and growth control
-- **Applications**: Creating gemstones, reinforcing structures, developing crystalline tools
+#### Formation cristalline
+Créer et manipuler des structures minérales :
+- **Difficulté** : Avancée
+- **Exigence de pureté** : Raffinée à Parfaite (45-70%)
+- **Effet** : Forme des structures cristallines avec des propriétés spécifiques et des motifs géométriques
+- **Concentration de l'entraînement** : Agencement moléculaire et contrôle de la croissance
+- **Applications** : Créer des pierres précieuses, renforcer des structures, développer des outils cristallins
 
-#### Terra Transmutation
-Changing one earth material into another:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Transforms the elemental composition of earth materials
-- **Training Focus**: Molecular deconstruction and reassembly
-- **Applications**: Creating precious metals, purifying ores, transforming sand to glass
+#### Transmutation terrestre
+Changer un matériau terrestre en un autre :
+- **Difficulté** : Expert
+- **Exigence de pureté** : Parfaite (65-85%)
+- **Effet** : Transforme la composition élémentaire des matériaux terrestres
+- **Concentration de l'entraînement** : Déconstruction et réassemblage moléculaires
+- **Applications** : Créer des métaux précieux, purifier les minerais, transformer le sable en verre
 
-#### Tectonic Manipulation
-Influencing the movement of large earth masses:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Creates controlled movement in bedrock and underground structures
-- **Training Focus**: Force multiplication and geological understanding
-- **Applications**: Creating passages through mountains, stabilizing earthquake-prone regions, raising small landforms
+#### Manipulation tectonique
+Influencer le mouvement de grandes masses terrestres :
+- **Difficulté** : Maître
+- **Exigence de pureté** : Parfaite (75-95%)
+- **Effet** : Crée un mouvement contrôlé dans le substratum rocheux et les structures souterraines
+- **Concentration de l'entraînement** : Multiplication de la force et compréhension géologique
+- **Applications** : Créer des passages à travers les montagnes, stabiliser les régions sujettes aux tremblements de terre, élever de petites formes de relief
 
-## Common Spells
+## Sorts courants
 
-### Novice Spells
+### Sorts de novice
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Sort | Effet | Composants | Temps d'incantation | Durée |
 |-------|--------|------------|--------------|----------|
-| **Stone Lift** | Raises a small mass of earth or stone | Somatic, Earth contact | 3 seconds | Instantaneous |
-| **Soil Shift** | Moves loose earth from one location to another | Somatic, Earth contact | 5 seconds | Instantaneous |
-| **Terra Firma** | Stabilizes unstable ground | Somatic, Verbal | 10 seconds | 1 hour |
-| **Dust Cloud** | Creates a cloud of fine particles for concealment | Somatic, Earth material | 2 seconds | 5 minutes |
+| **Soulèvement de pierre** | Soulève une petite masse de terre ou de pierre | Somatique, contact avec la Terre | 3 secondes | Instantané |
+| **Déplacement de sol** | Déplace de la terre meuble d'un endroit à un autre | Somatique, contact avec la Terre | 5 secondes | Instantané |
+| **Terra Firma** | Stabilise un sol instable | Somatique, Verbal | 10 secondes | 1 heure |
+| **Nuage de poussière** | Crée un nuage de fines particules pour la dissimulation | Somatique, matière terrestre | 2 secondes | 5 minutes |
 
-### Intermediate Spells
+### Sorts intermédiaires
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Sort | Effet | Composants | Temps d'incantation | Durée |
 |-------|--------|------------|--------------|----------|
-| **Stone Shield** | Creates a protective barrier of hardened earth | Somatic, Verbal, Earth | 5 seconds | 30 minutes |
-| **Crystal Lens** | Forms a crystal that enhances vision or focuses light | Somatic, Mineral focus | 30 seconds | 1 day |
-| **Earth Merge** | Allows partial merging with stone or earth | Somatic, Verbal, Earth | 10 seconds | 10 minutes |
-| **Metal Finding** | Reveals nearby metal deposits | Somatic, Mineral focus | 30 seconds | Instantaneous |
+| **Bouclier de pierre** | Crée une barrière protectrice de terre durcie | Somatique, Verbal, Terre | 5 secondes | 30 minutes |
+| **Lentille de cristal** | Forme un cristal qui améliore la vision ou concentre la lumière | Somatique, concentration minérale | 30 secondes | 1 jour |
+| **Fusion terrestre** | Permet une fusion partielle avec la pierre ou la terre | Somatique, Verbal, Terre | 10 secondes | 10 minutes |
+| **Découverte de métal** | Révèle les gisements de métal à proximité | Somatique, concentration minérale | 30 secondes | Instantané |
 
-### Advanced Spells
+### Sorts avancés
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Sort | Effet | Composants | Temps d'incantation | Durée |
 |-------|--------|------------|--------------|----------|
-| **Earthquake** | Creates localized seismic activity | Somatic, Verbal, Focus | 15 seconds | Instantaneous |
-| **Terra Construct** | Forms a semi-autonomous earth elemental | Somatic, Verbal, Focus, Earth | 1 minute | 1 hour |
-| **Crystalline Prison** | Encases target in crystal growth | Somatic, Verbal, Minerals | 10 seconds | 1 hour |
-| **Mountain's Strength** | Grants incredible durability to target | Somatic, Verbal, Stone dust | 30 seconds | 10 minutes |
+| **Tremblement de terre** | Crée une activité sismique localisée | Somatique, Verbal, Concentration | 15 secondes | Instantané |
+| **Construction terrestre** | Forme un élémentaire de terre semi-autonome | Somatique, Verbal, Concentration, Terre | 1 minute | 1 heure |
+| **Prison cristalline** | Enferme la cible dans une croissance cristalline | Somatique, Verbal, Minéraux | 10 secondes | 1 heure |
+| **Force de la montagne** | Accorde une durabilité incroyable à la cible | Somatique, Verbal, Poussière de pierre | 30 secondes | 10 minutes |
 
-## Affinity Development
+## Développement d'affinité
 
-Earth affinity progresses through several distinctive stages:
+L'affinité terrestre progresse à travers plusieurs étapes distinctives :
 
-### Grounded Connection
-The foundational relationship with earth that most beginners possess:
-- **Manifestation**: Intuitive sense of stability, minor influence over soil and sand
-- **Physical Signs**: Slightly roughened skin, strong sense of direction underground
-- **Enhancement Method**: Regular meditation while in direct contact with bare earth
+### Connexion ancrée
+La relation fondamentale avec la terre que possèdent la plupart des débutants :
+- **Manifestation** : Sens intuitif de la stabilité, influence mineure sur le sol et le sable
+- **Signes physiques** : Peau légèrement rugueuse, sens aigu de l'orientation sous terre
+- **Méthode d'amélioration** : Méditation régulière en contact direct avec la terre nue
 
-### Material Mastery
-The intermediate stage where earth responds more readily to the mage's will:
-- **Manifestation**: Stone and earth move with less effort, sensing abilities expand
-- **Physical Signs**: Nails and hair take on mineral-like properties, skin develops subtle crystal patterns
-- **Enhancement Method**: Handling and studying different types of stone, soil, and crystal
+### Maîtrise des matériaux
+Le stade intermédiaire où la terre répond plus facilement à la volonté du mage :
+- **Manifestation** : La pierre et la terre se déplacent avec moins d'effort, les capacités de perception s'étendent
+- **Signes physiques** : Les ongles et les cheveux acquièrent des propriétés minérales, la peau développe de subtils motifs cristallins
+- **Méthode d'amélioration** : Manipuler et étudier différents types de pierre, de sol et de cristal
 
-### Bedrock Harmony
-Advanced practitioners achieve a deep resonance with earth's structural properties:
-- **Manifestation**: Earth seems to respond intuitively, minerals form naturally around the caster
-- **Physical Signs**: Increased body density, earth-toned skin patterns appear during casting
-- **Enhancement Method**: Extended communion at sites of geological interest or power
+### Harmonie du substratum rocheux
+Les praticiens avancés atteignent une profonde résonance avec les propriétés structurelles de la terre :
+- **Manifestation** : La terre semble répondre intuitivement, les minéraux se forment naturellement autour du lanceur
+- **Signes physiques** : Augmentation de la densité corporelle, des motifs de peau aux tons terre apparaissent pendant l'incantation
+- **Méthode d'amélioration** : Communion prolongée sur des sites d'intérêt ou de pouvoir géologique
 
-### Tectonic Unity
-Master geomancers who have achieved profound connection with earth:
-- **Manifestation**: Partial transformation abilities, influence over terrain without direct contact
-- **Physical Signs**: Eyes develop crystalline patterns, blood contains mineral compounds
-- **Enhancement Method**: Deep communion at ley line intersections with strong earth resonance
+### Unité tectonique
+Les géomanciens maîtres qui ont atteint une connexion profonde avec la terre :
+- **Manifestation** : Capacités de transformation partielle, influence sur le terrain sans contact direct
+- **Signes physiques** : Les yeux développent des motifs cristallins, le sang contient des composés minéraux
+- **Méthode d'amélioration** : Communion profonde aux intersections des lignes ley avec une forte résonance terrestre
 
-## Risks and Safeguards
+## Risques et précautions
 
-### Common Risks
+### Risques courants
 
-- **Immobility**: Becoming too attuned to earth's stillness, resulting in slowed movement
-- **Crystal Growth**: Unintended crystallization in the caster's body tissues
-- **Mass Overload**: Attempting to manipulate earth masses beyond one's strength
-- **Burial Potential**: Loss of control leading to self-burial or cave-ins
-- **Molecular Disruption**: Improper transmutation affecting the caster's own body composition
+- **Immobilité** : Devenir trop à l'écoute de l'immobilité de la terre, ce qui ralentit les mouvements
+- **Croissance cristalline** : Cristallisation involontaire dans les tissus corporels du lanceur
+- **Surcharge de masse** : Tenter de manipuler des masses terrestres au-delà de sa force
+- **Potentiel d'enterrement** : Perte de contrôle conduisant à l'auto-enterrement ou à des effondrements de grottes
+- **Perturbation moléculaire** : Transmutation incorrecte affectant la propre composition corporelle du lanceur
 
-### Miscast Effects
+### Effets de ratés
 
-| Severity | Effect | Recovery |
+| Gravité | Effet | Récupération |
 |----------|--------|----------|
-| **Minor** | Temporary stiffening of joints, skin abrasions, sensory dulling | Hours |
-| **Moderate** | Partial petrification of extremities, internal mineral deposits, weight increase | Days |
-| **Severe** | Major joint crystallization, organ calcification, structural integrity damage | Weeks |
-| **Critical** | Progressive petrification, catastrophic molecular restructuring, skeletal reinforcement | Months to permanent |
+| **Mineur** | Raideur temporaire des articulations, abrasions cutanées, atténuation sensorielle | Heures |
+| **Modéré** | Pétrification partielle des extrémités, dépôts minéraux internes, augmentation du poids | Jours |
+| **Grave** | Cristallisation majeure des articulations, calcification des organes, dommages à l'intégrité structurelle | Semaines |
+| **Critique** | Pétrification progressive, restructuration moléculaire catastrophique, renforcement squelettique | Mois à permanent |
 
-### Safety Practices
+### Pratiques de sécurité
 
-- **Grounding Rituals**: Regular release of accumulated earth energies
-- **Flexibility Maintenance**: Counterbalancing exercises to prevent stiffening
-- **Mass Calculation**: Careful assessment of earth volume before manipulation
-- **Material Isolation**: Using external earth sources rather than biological minerals
-- **Environmental Awareness**: Assessing geological stability before major workings
+- **Rituels d'ancrage** : Libération régulière des énergies terrestres accumulées
+- **Maintien de la flexibilité** : Exercices de contrepoids pour prévenir la raideur
+- **Calcul de masse** : Évaluation minutieuse du volume de terre avant la manipulation
+- **Isolement des matériaux** : Utilisation de sources de terre externes plutôt que de minéraux biologiques
+- **Conscience environnementale** : Évaluation de la stabilité géologique avant des travaux majeurs
 
-## Cultural Significance
+## Signification culturelle
 
-### Historical Development
+### Développement historique
 
-Earth magic represents one of the oldest and most universally practiced forms of elemental manipulation. The development of geomancy followed three primary historical paths:
+La magie de la terre représente l'une des formes de manipulation élémentaire les plus anciennes et les plus universellement pratiquées. Le développement de la géomancie a suivi trois voies historiques principales :
 
-1. **Agricultural Foundation**: Early tribal practitioners using earth magic for cultivation and shelter
-2. **Structural Engineering**: Ancient civilizations developing earth manipulation for architecture and infrastructure
-3. **Mineral Crafting**: Advanced societies discovering crystal and metal manipulation
+1. **Fondation agricole** : Les premiers praticiens tribaux utilisant la magie de la terre pour la culture et l'abri
+2. **Ingénierie structurelle** : Les civilisations anciennes développant la manipulation de la terre pour l'architecture et l'infrastructure
+3. **Fabrication minérale** : Les sociétés avancées découvrant la manipulation des cristaux et des métaux
 
-### Regional Variations
+### Variations régionales
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Culture | Focus | Technique de signature | Philosophie |
 |---------|-------|---------------------|------------|
-| **Mountain Clans** | Stone manipulation, tunneling | Living stone, cave singing | Earth as the eternal foundation |
-| **Plains Peoples** | Soil fertility, agricultural enhancement | Growth blessing, soil enrichment | Earth as the nurturing provider |
-| **Desert Dwellers** | Crystal formation, finding water | Crystal dowsing, sand walking | Earth as the hidden treasure keeper |
-| **Forest Tribes** | Root systems, natural structures | Living architecture, wood strengthening | Earth as the connected network |
+| **Clans des montagnes** | Manipulation de la pierre, creusement de tunnels | Pierre vivante, chant des grottes | La terre comme fondation éternelle |
+| **Peuples des plaines** | Fertilité du sol, amélioration agricole | Bénédiction de croissance, enrichissement du sol | La terre comme le fournisseur nourricier |
+| **Habitants du désert** | Formation de cristaux, recherche d'eau | Radiesthésie cristalline, marche dans le sable | La terre comme le gardien du trésor caché |
+| **Tribus forestières** | Systèmes racinaires, structures naturelles | Architecture vivante, renforcement du bois | La terre comme le réseau connecté |
 
-### Ceremonial Uses
+### Utilisations cérémonielles
 
-Earth magic features prominently in many cultural ceremonies:
-- **Foundation Rituals**: Blessing new structures and settlements
-- **Harvest Ceremonies**: Thanksgiving and renewal of soil fertility
-- **Rite of Passage**: Young geomancers demonstrating their ability to shape stone
-- **Burial Customs**: Earth magic often used in funeral practices and memorials
+La magie de la terre occupe une place importante dans de nombreuses cérémonies culturelles :
+- **Rituels de fondation** : Bénédiction de nouvelles structures et colonies
+- **Cérémonies de récolte** : Action de grâce et renouvellement de la fertilité du sol
+- **Rite de passage** : Jeunes géomanciens démontrant leur capacité à façonner la pierre
+- **Coutumes funéraires** : La magie de la terre est souvent utilisée dans les pratiques funéraires et les monuments commémoratifs
 
-### Contemporary Applications
+### Applications contemporaines
 
-Beyond combat and utility applications, earth magic serves essential societal functions:
-- **Construction**: Reinforcing buildings, creating roads, excavating foundations
-- **Mining**: Locating and extracting valuable minerals safely
-- **Agriculture**: Soil enhancement and management
-- **Environmental Protection**: Containing erosion, stabilizing landscapes, managing sinkholes
+Au-delà des applications de combat et d'utilité, la magie de la terre remplit des fonctions sociétales essentielles :
+- **Construction** : Renforcer les bâtiments, créer des routes, excaver des fondations
+- **Exploitation minière** : Localiser et extraire des minéraux précieux en toute sécurité
+- **Agriculture** : Amélioration et gestion des sols
+- **Protection de l'environnement** : Contenir l'érosion, stabiliser les paysages, gérer les dolines
 
-> *"The student of earth must understand that true strength lies not in hardness alone, but in the balance between rigidity and flexibility—like the mountain that stands for eons yet slowly changes its shape."* — The Geomantic Principles
+> *"L'étudiant de la terre doit comprendre que la vraie force ne réside pas seulement dans la dureté, mais dans l'équilibre entre la rigidité et la flexibilité - comme la montagne qui se tient debout pendant des éons tout en changeant lentement de forme."* — Les principes géomantiques
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Metal Magic](/codex/Magics/Advanced/Combinations/MetalMagic.md)* 
+*Voir aussi : [Magie élémentaire](/codex/Magics/Elements/ElementalMagic.md), [Magie du feu](/codex/Magics/Elements/FireMagic.md), [Magie du métal](/codex/Magics/Advanced/Combinations/MetalMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

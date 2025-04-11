@@ -1,91 +1,95 @@
-# **Guardian**: The Shield of the Innocent
+# **Gardien** : Le Bouclier de l'Innocent
 
-[**Guardians**](/codex/Classes/Warrior/Guardian.md) are the defensive specialists of the [**Warrior**](/codex/Classes/Warrior/Warrior.md) class, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a protective barrier, they stand between danger and those they protect, creating a unique melody of existence that emphasizes defense, resilience, and sacrifice.
+Les [**Gardiens**](/codex/Classes/Warrior/Guardian.md) sont les spécialistes de la défense de la classe [**Guerrier**](/codex/Classes/Warrior/Warrior.md), leurs corps étant un mélange harmonieux d'[**Exanthis**](/codex/Basic/Exanthis.md), d'[**Âmes**](/codex/Basic/Soul.md), et de **Capacité de Mana**. Tels une barrière protectrice, ils se dressent entre le danger et ceux qu'ils protègent, créant une mélodie unique d'existence qui met l'accent sur la défense, la résilience et le sacrifice.
 
-## Elemental Composition
+## Composition Élémentaire
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **guardians** forms a harmony that favors defensive capabilities:
+Comme détaillé dans [Classes](/codex/Classes/Classes.md), le ratio typique pour les **gardiens** forme une harmonie qui favorise les capacités défensives :
 
-| Element | Percentage | Function |
+| Élément | Pourcentage | Fonction |
 |---------|------------|----------|
-| **Exanthis** | 65% | The crystalline heart that provides exceptional physical durability and resilience |
-| **Soul** | 20% | The ethereal essence that shapes a protective and selfless consciousness |
-| **Mana Capacity** | 15% | The bridge between worlds that enables limited protective magic |
+| **Exanthis** | 65% | Le cœur cristallin qui procure une durabilité et une résilience physique exceptionnelles |
+| **Âme** | 20% | L'essence éthérée qui façonne une conscience protectrice et altruiste |
+| **Capacité de Mana** | 15% | Le pont entre les mondes qui permet une magie protectrice limitée |
 
-This composition grants **guardians** their characteristic defensive prowess but limits their offensive capabilities compared to other warrior subclasses, like a shield that excels at blocking but cannot strike.
+Cette composition confère aux **gardiens** leur prouesse défensive caractéristique, mais limite leurs capacités offensives par rapport aux autres sous-classes de guerriers, comme un bouclier qui excelle à bloquer mais ne peut pas frapper.
 
-## Physical Characteristics
+## Caractéristiques Physiques
 
-**Guardians** are known for their defensive focus and protective nature:
-- Sturdy build with broad shoulders and strong legs, like a fortress built to withstand siege
-- Eyes that reflect vigilance and concern for others, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of shields and defensive weapons, like a musician who has perfected the art of the drum
-- Presence that reassures allies and intimidates enemies, like a protective wall that stands firm
-- Stance that emphasizes defense and readiness to intercept attacks, like a guardian poised to protect
+Les **gardiens** sont connus pour leur concentration sur la défense et leur nature protectrice :
+- Corpulence robuste avec de larges épaules et des jambes fortes, comme une forteresse construite pour résister à un siège
+- Des yeux qui reflètent la vigilance et la sollicitude envers les autres, montrant leur connexion à l'[**Âme**](/codex/Basic/Soul.md)
+- Des mains qui ont maîtrisé l'utilisation des boucliers et des armes défensives, comme un musicien qui a perfectionné l'art du tambour
+- Une présence qui rassure les alliés et intimide les ennemis, comme un mur protecteur qui reste ferme
+- Une posture qui met l'accent sur la défense et la préparation à intercepter les attaques, comme un gardien prêt à protéger
 
-## Defensive Affinity
+## Affinité Défensive
 
-**Guardians** demonstrate exceptional proficiency in defensive combat, like virtuoso musicians who have mastered the art of protection. Their composition allows them to:
-- Block and intercept attacks directed at allies, like a shield that stands between danger and safety
-- Create defensive formations that protect groups, like a conductor orchestrating a protective symphony
-- Endure punishment that would incapacitate others, like a fortress that weathers the storm
+Les **gardiens** font preuve d'une compétence exceptionnelle dans le combat défensif, comme des musiciens virtuoses qui ont maîtrisé l'art de la protection. Leur composition leur permet de :
+- Bloquer et intercepter les attaques dirigées vers les alliés, comme un bouclier qui se dresse entre le danger et la sécurité
+- Créer des formations défensives qui protègent les groupes, comme un chef d'orchestre orchestrant une symphonie protectrice
+- Endurer des punitions qui mettraient les autres hors d'état de nuire, comme une forteresse qui résiste à la tempête
 
-This specialization makes **guardians** capable of achieving the highest levels of proficiency in defensive techniques, though they may struggle with tasks requiring offensive power or mobility, like a shield that excels at protection but cannot strike with the same force as a sword.
+Cette spécialisation permet aux **gardiens** d'atteindre les plus hauts niveaux de compétence dans les techniques défensives, bien qu'ils puissent avoir des difficultés avec les tâches nécessitant une puissance offensive ou une mobilité, comme un bouclier qui excelle dans la protection mais ne peut pas frapper avec la même force qu'une épée.
 
-## Training and Development
+## Entraînement et Développement
 
-The path of a **guardian** involves rigorous defensive training and mental discipline:
-- Daily shield practice and defensive drills, like musicians practicing protective techniques
-- Physical conditioning to build endurance and resilience, like strengthening a fortress's walls
-- Study of defensive tactics and protective strategies, like learning the theory behind protective magic
-- Meditation to develop focus and awareness of threats, like a sentinel who never sleeps
+Le chemin d'un **gardien** implique un entraînement défensif rigoureux et une discipline mentale :
+- Pratique quotidienne du bouclier et exercices de défense, comme des musiciens pratiquant des techniques de protection
+- Conditionnement physique pour développer l'endurance et la résilience, comme le renforcement des murs d'une forteresse
+- Étude des tactiques défensives et des stratégies de protection, comme l'apprentissage de la théorie derrière la magie protectrice
+- Méditation pour développer la concentration et la conscience des menaces, comme un sentinelle qui ne dort jamais
 
-## Equipment and Gear
+## Équipement et Matériel
 
-**Guardians** rely on various defensive equipment to enhance their protective abilities:
-- Shields ranging from small bucklers to massive tower shields, like different instruments for different protective needs
-- Defensive armor that provides maximum protection, like a well-fitted case for a precious instrument
-- Defensive accessories such as bracers, greaves, and protective talismans, like accessories that enhance an instrument's protective capabilities
+Les **gardiens** s'appuient sur divers équipements défensifs pour améliorer leurs capacités de protection :
+- Des boucliers allant des petites boucles aux énormes pavois, comme différents instruments pour différents besoins de protection
+- Une armure défensive qui offre une protection maximale, comme un étui bien ajusté pour un instrument précieux
+- Des accessoires défensifs tels que des brassards, des jambières et des talismans protecteurs, comme des accessoires qui améliorent les capacités de protection d'un instrument
 
-## Guardian Techniques
+## Techniques de Gardien
 
-**Guardians** employ various techniques to protect themselves and others:
+Les **gardiens** utilisent diverses techniques pour se protéger et protéger les autres :
 
-### Shield Wall
+### Mur de Boucliers
 
-The **Shield Wall** technique allows guardians to form an impenetrable defensive line, like a wall of shields that blocks all attacks. This technique is particularly effective when multiple guardians work together, creating a defensive formation that can protect entire groups.
+La technique du **Mur de Boucliers** permet aux gardiens de former une ligne défensive impénétrable, comme un mur de boucliers qui bloque toutes les attaques. Cette technique est particulièrement efficace lorsque plusieurs gardiens travaillent ensemble, créant une formation défensive qui peut protéger des groupes entiers.
 
-### Intercept
+### Interception
 
-The **Intercept** technique allows guardians to move between an ally and an incoming attack, like a shield that leaps to protect. This technique requires exceptional timing and awareness, allowing guardians to protect allies even when they are not directly in front of them.
+La technique d'**Interception** permet aux gardiens de se déplacer entre un allié et une attaque entrante, comme un bouclier qui saute pour protéger. Cette technique nécessite un timing et une conscience exceptionnels, permettant aux gardiens de protéger les alliés même lorsqu'ils ne sont pas directement devant eux.
 
-### Defensive Stance
+### Posture Défensive
 
-The **Defensive Stance** technique allows guardians to adopt a posture that maximizes their defensive capabilities, like a fortress that stands ready to weather any storm. This technique reduces the guardian's mobility but significantly increases their ability to block and absorb attacks.
+La technique de la **Posture Défensive** permet aux gardiens d'adopter une posture qui maximise leurs capacités défensives, comme une forteresse qui se tient prête à affronter n'importe quelle tempête. Cette technique réduit la mobilité du gardien, mais augmente considérablement sa capacité à bloquer et à absorber les attaques.
 
-### Protective Aura
+### Aura Protectrice
 
-The **Protective Aura** technique allows guardians to extend their protective abilities to nearby allies, like a shield that grows to protect an entire group. This technique requires significant concentration and energy but can provide protection to multiple allies simultaneously.
+La technique d'**Aura Protectrice** permet aux gardiens d'étendre leurs capacités de protection aux alliés proches, comme un bouclier qui grandit pour protéger un groupe entier. Cette technique nécessite une concentration et une énergie importantes, mais peut fournir une protection à plusieurs alliés simultanément.
 
-## Notable Guardian Traits
+## Traits Notables des Gardiens
 
-- **Defensive Mastery**: Guardians excel in defensive combat, often specializing in specific protective techniques
-- **Physical Resilience**: Guardians can endure punishment that would incapacitate others
-- **Protective Instinct**: Guardians develop a keen sense for detecting and responding to threats
-- **Selflessness**: Many guardians develop a strong sense of duty to protect others
-- **Discipline**: Guardians maintain rigorous training regimens to maintain their defensive abilities
+- **Maîtrise Défensive** : Les gardiens excellent dans le combat défensif, se spécialisant souvent dans des techniques de protection spécifiques
+- **Résilience Physique** : Les gardiens peuvent endurer des punitions qui mettraient les autres hors d'état de nuire
+- **Instinct Protecteur** : Les gardiens développent un sens aigu pour détecter et répondre aux menaces
+- **Altruisme** : De nombreux gardiens développent un fort sens du devoir de protéger les autres
+- **Discipline** : Les gardiens maintiennent des régimes d'entraînement rigoureux pour maintenir leurs capacités défensives
 
-## Guardian Orders
+## Ordres de Gardiens
 
-Guardian society is organized into numerous orders, each with its own specialties and techniques:
+La société des gardiens est organisée en de nombreux ordres, chacun ayant ses propres spécialités et techniques :
 
-| Order | Specialty | Territory | Notable Traits |
+| Ordre | Spécialité | Territoire | Traits Notables |
 |---------|---------------|---------|-------------------|
-| **Shield Bearers** | Personal protection, bodyguards | Urban centers | Personal defense, close protection |
-| **Wall Wardens** | Group protection, formation defense | Military fortresses | Defensive formations, shield walls |
-| **Sanctuary Keepers** | Place protection, territory defense | Settlements | Territory defense, settlement protection |
-| **Light Wardens** | Magical protection, ward creation | Magical realms | Magical wards, protective enchantments |
-| **Vanguard** | Front-line defense, battle protection | Battlefields | Battle defense, front-line protection |
-| **Sentinel** | Watch protection, threat detection | Border regions | Threat detection, watch protection |
+| **Porteurs de Boucliers** | Protection personnelle, gardes du corps | Centres urbains | Défense personnelle, protection rapprochée |
+| **Gardiens des Murs** | Protection de groupe, défense de formation | Forteresses militaires | Formations défensives, murs de boucliers |
+| **Gardiens de Sanctuaire** | Protection de lieux, défense de territoire | Colonies | Défense de territoire, protection de colonie |
+| **Gardiens de la Lumière** | Protection magique, création de protections | Royaumes magiques | Protections magiques, enchantements protecteurs |
+| **Avant-garde** | Défense de première ligne, protection de bataille | Champs de bataille | Défense de bataille, protection de première ligne |
+| **Sentinelle** | Protection de guet, détection de menaces | Régions frontalières | Détection de menaces, protection de guet |
 
-Understanding the nature of **guardians** provides insight into the protective aspects of the world of **OpenFantasy**, like listening to the steady rhythms that form the foundation of the symphony of defense. 
+Comprendre la nature des **gardiens** donne un aperçu des aspects protecteurs du monde d'**OpenFantasy**, comme écouter les rythmes constants qui forment la base de la symphonie de la défense.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

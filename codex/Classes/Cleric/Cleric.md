@@ -1,135 +1,139 @@
-# **Cleric**: Divine Conduits and Healers
+# **Clerc** : Canaux Divins et Guérisseurs
 
-[**Clerics**](/codex/Classes/Cleric/Cleric.md) represent a unique harmony between the material and divine realms. They serve as vessels for divine power while maintaining their mortal perspective, creating a resonant bridge between worldly needs and celestial aid.
+Les [**Clercs**](/codex/Classes/Cleric/Cleric.md) représentent une harmonie unique entre les royaumes matériel et divin. Ils servent de vaisseaux pour le pouvoir divin tout en conservant leur perspective mortelle, créant un pont résonant entre les besoins terrestres et l'aide céleste.
 
-## Elemental Composition
+## Composition Élémentaire
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **clerics** creates a distinctive harmony that emphasizes divine channeling:
+Comme détaillé dans [Classes](/codex/Classes/Classes.md), le ratio typique pour les **clercs** crée une harmonie distinctive qui met l'accent sur la canalisation divine :
 
-| Element | Range | Function |
+| Élément | Fourchette | Fonction |
 |---------|------------|----------|
-| **Exanthis** | 25-40% | Solid physical foundation providing endurance and resilience for prolonged divine service |
-| **Soul** | 35-50% | Enhanced spiritual consciousness enabling divine connection, faith, and intuitive understanding |
-| **Mana Capacity** | 25-40% | Significant magical potential optimized for channeling, purifying, and manifesting divine energies |
+| **Exanthis** | 25-40% | Fondation physique solide fournissant endurance et résilience pour un service divin prolongé |
+| **Âme** | 35-50% | Conscience spirituelle améliorée permettant une connexion divine, la foi et une compréhension intuitive |
+| **Capacité de Mana** | 25-40% | Potentiel magique significatif optimisé pour la canalisation, la purification et la manifestation des énergies divines |
 
-This composition grants **clerics** their characteristic ability to bridge mortal and divine realms. Their elevated Soul component creates a natural resonance with divine forces, while their balanced Mana Capacity allows them to effectively manifest those forces in the physical world.
+Cette composition confère aux **clercs** leur capacité caractéristique à relier les royaumes mortel et divin. Leur composante Âme élevée crée une résonance naturelle avec les forces divines, tandis que leur Capacité de Mana équilibrée leur permet de manifester efficacement ces forces dans le monde physique.
 
-### Magical Affinity Profile
+### Profil d'Affinité Magique
 
-Clerics typically develop specific affinities that complement their divine calling and theological orientation:
+Les clercs développent généralement des affinités spécifiques qui complètent leur appel divin et leur orientation théologique :
 
-| Clerical Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Tradition Cléricale | Affinités Primaires | Affinités Secondaires | Application Typique |
 |-----------------|-------------------|---------------------|---------------------|
-| **Healer** | Luxmana (Restoration) | Hydromana (Purification) | Wound mending, disease curing, spiritual cleansing |
-| **Protector** | Base Mana (Barriers) | Terramana (Reinforcement) | Divine shields, wards against evil, sanctuary creation |
-| **Smiter** | Luxmana (Radiance) | Pyromana (Judgment) | Divine strikes, banishment of unholy entities, purifying flames |
-| **Oracle** | Base Mana (Divination) | Luxmana (Clarity) | Prophecy, divine guidance, truth revelation |
-| **Exorcist** | Luxmana (Banishment) | Umbramana (Shadow Binding) | Spirit cleansing, demon banishing, undead turning |
-| **Ritualist** | Base Mana (Sanctification) | Aeromana (Connection) | Blessing ceremonies, consecration, divine summoning |
+| **Guérisseur** | Luxmana (Restauration) | Hydromana (Purification) | Guérison des blessures, traitement des maladies, purification spirituelle |
+| **Protecteur** | Mana de Base (Barrières) | Terramana (Renforcement) | Boucliers divins, protections contre le mal, création de sanctuaires |
+| **Justicier** | Luxmana (Radiance) | Pyromana (Jugement) | Frappes divines, bannissement des entités impies, flammes purificatrices |
+| **Oracle** | Mana de Base (Divination) | Luxmana (Clarté) | Prophétie, guidance divine, révélation de la vérité |
+| **Exorciste** | Luxmana (Bannissement) | Umbramana (Liaison d'Ombre) | Purification spirituelle, bannissement de démons, retournement de morts-vivants |
+| **Ritualiste** | Mana de Base (Sanctification) | Aeromana (Connexion) | Cérémonies de bénédiction, consécration, invocation divine |
 
-Clerics typically achieve 60-80% specialization efficiency with their primary affinities, reflecting their focused channeling of divine power. Their ability to purify mana to higher degrees makes them particularly effective at complex divine manifestations that require refined magical energy.
+Les clercs atteignent généralement une efficacité de spécialisation de 60 à 80% avec leurs affinités primaires, reflétant leur canalisation ciblée du pouvoir divin. Leur capacité à purifier le mana à des degrés plus élevés les rend particulièrement efficaces dans les manifestations divines complexes qui nécessitent une énergie magique raffinée.
 
-### Species-Specific Variations
+### Variations Spécifiques à l'Espèce
 
-Different species show varying natural inclinations toward the cleric class:
+Différentes espèces montrent des inclinations naturelles variées envers la classe de clerc :
 
-- **Humans** (25-40% Exanthis, 35-50% Soul, 25-40% Mana Capacity): Their adaptability and spiritual flexibility makes them versatile clerics capable of serving diverse divinities.
-- **Dwarves** (30-45% Exanthis, 40-55% Soul, 15-30% Mana Capacity): Their strong ancestral connections and unwavering resolve make them powerful protectors and ritualists.
-- **Aasimar** (20-35% Exanthis, 40-55% Soul, 30-45% Mana Capacity): Their celestial heritage creates natural affinity for divine channeling, especially with light and healing.
-- **Elves** (20-35% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their longevity and connection to natural cycles make them exceptional oracles and ritualists.
-- **Dragonborn** (30-45% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their inherent connection to primal forces makes them powerful smiters and protectors.
+- **Humains** (25-40% Exanthis, 35-50% Âme, 25-40% Capacité de Mana) : Leur adaptabilité et leur flexibilité spirituelle en font des clercs polyvalents capables de servir diverses divinités.
+- **Nains** (30-45% Exanthis, 40-55% Âme, 15-30% Capacité de Mana) : Leurs fortes connexions ancestrales et leur détermination inébranlable en font de puissants protecteurs et ritualistes.
+- **Aasimars** (20-35% Exanthis, 40-55% Âme, 30-45% Capacité de Mana) : Leur héritage céleste crée une affinité naturelle pour la canalisation divine, en particulier avec la lumière et la guérison.
+- **Elfes** (20-35% Exanthis, 35-50% Âme, 30-45% Capacité de Mana) : Leur longévité et leur connexion aux cycles naturels en font des oracles et des ritualistes exceptionnels.
+- **Draconiques** (30-45% Exanthis, 30-45% Âme, 25-40% Capacité de Mana) : Leur connexion inhérente aux forces primaires en font de puissants justiciers et protecteurs.
 
-## Physical Characteristics
+## Caractéristiques Physiques
 
-**Clerics** are known for their divine focus and faithful nature:
-- Balanced build with graceful movements, like a conductor's precise gestures
-- Eyes that reflect inner faith, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the gestures of divine magic, like a musician who has perfected the art of the harp
-- Presence that exudes divine authority, like a powerful chord that resonates through a room
-- Stance that emphasizes dignity and reverence, like a performer poised to begin a sacred piece
+Les **clercs** sont connus pour leur concentration divine et leur nature fidèle :
+- Corpulence équilibrée avec des mouvements gracieux, comme les gestes précis d'un chef d'orchestre
+- Yeux qui reflètent la foi intérieure, montrant leur connexion à [**Âme**](/codex/Basic/Soul.md)
+- Mains qui ont maîtrisé les gestes de la magie divine, comme un musicien qui a perfectionné l'art de la harpe
+- Présence qui respire l'autorité divine, comme un accord puissant qui résonne à travers une pièce
+- Posture qui met l'accent sur la dignité et la révérence, comme un artiste sur le point de commencer un morceau sacré
 
-## Divine Affinity
+## Affinité Divine
 
-**Clerics** demonstrate exceptional proficiency in divine magic, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel divine power with extraordinary precision, like conductors leading a sacred choir
-- Heal wounds and cure ailments, like artists restoring damaged masterpieces
-- Protect themselves and others with divine blessings, like guardians shielding their charges
+Les **clercs** font preuve d'une compétence exceptionnelle en magie divine, comme des musiciens virtuoses qui ont maîtrisé leurs instruments. Leur composition leur permet de :
+- Canaliser le pouvoir divin avec une précision extraordinaire, comme des chefs d'orchestre dirigeant un chœur sacré
+- Guérir les blessures et soigner les maladies, comme des artistes restaurant des chefs-d'œuvre endommagés
+- Se protéger et protéger les autres avec des bénédictions divines, comme des gardiens protégeant leurs protégés
 
-This specialization makes **clerics** capable of achieving the highest levels of proficiency in their chosen divine disciplines, though they may struggle with tasks requiring physical strength or combat prowess, like a delicate instrument that produces beautiful sounds but cannot match the power of a drum.
+Cette spécialisation rend les **clercs** capables d'atteindre les plus hauts niveaux de compétence dans les disciplines divines qu'ils ont choisies, bien qu'ils puissent avoir du mal avec les tâches nécessitant de la force physique ou des prouesses au combat, comme un instrument délicat qui produit de beaux sons mais ne peut pas égaler la puissance d'un tambour.
 
-## Training and Development
+## Formation et Développement
 
-The path of a **cleric** involves rigorous divine study and spiritual discipline:
-- Daily prayer and meditation, like musicians practicing their sacred pieces
-- Study of divine texts and religious teachings, like learning the theory behind sacred music
-- Service to their divine patrons and communities, like performers sharing their gifts with others
-- Practice in healing and protective magic, like artists mastering the art of restoration
+Le chemin d'un **clerc** implique une étude divine rigoureuse et une discipline spirituelle :
+- Prière et méditation quotidiennes, comme des musiciens pratiquant leurs morceaux sacrés
+- Étude des textes divins et des enseignements religieux, comme l'apprentissage de la théorie derrière la musique sacrée
+- Service à leurs patrons divins et à leurs communautés, comme des artistes partageant leurs dons avec les autres
+- Pratique de la magie de guérison et de protection, comme des artistes maîtrisant l'art de la restauration
 
-## Equipment and Gear
+## Équipement et Accessoires
 
-**Clerics** rely on various divine equipment to enhance their magical abilities:
-- Holy symbols and relics that focus divine power, like different instruments for different performances
-- Vestments and ceremonial garb that enhance divine connection, like a well-fitted case for a precious instrument
-- Divine accessories such as prayer beads, censers, and holy water, like accessories that enhance an instrument's capabilities
+Les **clercs** s'appuient sur divers équipements divins pour améliorer leurs capacités magiques :
+- Symboles et reliques sacrés qui concentrent le pouvoir divin, comme différents instruments pour différentes performances
+- Vêtements et habits de cérémonie qui améliorent la connexion divine, comme un étui bien ajusté pour un instrument précieux
+- Accessoires divins tels que des chapelets, des encensoirs et de l'eau bénite, comme des accessoires qui améliorent les capacités d'un instrument
 
-## Subclasses
+## Sous-classes
 
-**Clerics** can specialize in various divine disciplines and roles:
+Les **clercs** peuvent se spécialiser dans diverses disciplines et rôles divins :
 
-### [**Healer**](/codex/Classes/Cleric/Healer.md)
+### [**Guérisseur**](/codex/Classes/Cleric/Healer.md)
 
-Healers focus on restorative magic and healing, emphasizing the restoration of health and vitality. They excel at:
-- Curing wounds and diseases
-- Restoring vitality and energy
-- Protecting against harmful effects
+Les guérisseurs se concentrent sur la magie restauratrice et la guérison, en mettant l'accent sur la restauration de la santé et de la vitalité. Ils excellent dans :
+- La guérison des blessures et des maladies
+- La restauration de la vitalité et de l'énergie
+- La protection contre les effets nocifs
 
 ### [**Paladin**](/codex/Classes/Cleric/Paladin.md)
 
-Paladins focus on combining divine magic with combat, emphasizing the role of the holy warrior. They excel at:
-- Wielding divine power in combat
-- Protecting others with divine blessings
-- Leading others with divine authority
+Les paladins se concentrent sur la combinaison de la magie divine avec le combat, en mettant l'accent sur le rôle du guerrier sacré. Ils excellent dans :
+- L'utilisation du pouvoir divin au combat
+- La protection des autres avec des bénédictions divines
+- La direction des autres avec l'autorité divine
 
 ### [**Oracle**](/codex/Classes/Cleric/Oracle.md)
 
-Oracles focus on receiving divine visions and prophecies, emphasizing the role of the divine messenger. They excel at:
-- Receiving divine guidance and visions
-- Interpreting divine signs and omens
-- Sharing divine wisdom with others
+Les oracles se concentrent sur la réception de visions et de prophéties divines, en mettant l'accent sur le rôle du messager divin. Ils excellent dans :
+- La réception de la guidance et des visions divines
+- L'interprétation des signes et des présages divins
+- Le partage de la sagesse divine avec les autres
 
-### [**Inquisitor**](/codex/Classes/Cleric/Inquisitor.md)
+### [**Inquisiteur**](/codex/Classes/Cleric/Inquisitor.md)
 
-Inquisitors focus on hunting heretics and supernatural threats, emphasizing the role of the divine enforcer. They excel at:
-- Detecting and combating supernatural threats
-- Interrogating and judging heretics
-- Protecting the faithful from corruption
+Les inquisiteurs se concentrent sur la chasse aux hérétiques et aux menaces surnaturelles, en mettant l'accent sur le rôle de l'exécuteur divin. Ils excellent dans :
+- La détection et la lutte contre les menaces surnaturelles
+- L'interrogation et le jugement des hérétiques
+- La protection des fidèles contre la corruption
 
-### [**Shaman**](/codex/Classes/Cleric/Shaman.md)
+### [**Chaman**](/codex/Classes/Cleric/Shaman.md)
 
-Shamans focus on communicating with nature spirits and ancestors, emphasizing the role of the divine intermediary. They excel at:
-- Communicating with nature spirits and ancestors
-- Performing rituals involving natural forces
-- Healing through natural and spiritual means
+Les chamans se concentrent sur la communication avec les esprits de la nature et les ancêtres, en mettant l'accent sur le rôle de l'intermédiaire divin. Ils excellent dans :
+- La communication avec les esprits de la nature et les ancêtres
+- L'exécution de rituels impliquant les forces naturelles
+- La guérison par des moyens naturels et spirituels
 
-## Notable Cleric Traits
+## Traits Notables du Clerc
 
-- **Divine Mastery**: Clerics excel in divine magic, often specializing in specific divine disciplines
-- **Faith**: Clerics have a deep connection to their divine patrons
-- **Healing**: Clerics develop exceptional healing abilities through divine study
-- **Protection**: Clerics can protect themselves and others with divine blessings
-- **Discipline**: Clerics maintain rigorous spiritual regimens to maintain their divine connection
+- **Maîtrise Divine** : Les clercs excellent dans la magie divine, se spécialisant souvent dans des disciplines divines spécifiques
+- **Foi** : Les clercs ont une connexion profonde avec leurs patrons divins
+- **Guérison** : Les clercs développent des capacités de guérison exceptionnelles grâce à l'étude divine
+- **Protection** : Les clercs peuvent se protéger et protéger les autres avec des bénédictions divines
+- **Discipline** : Les clercs maintiennent des régimes spirituels rigoureux pour maintenir leur connexion divine
 
-## Cleric Orders
+## Ordres de Clercs
 
-Cleric society is organized into numerous orders, each with its own specialties and techniques:
+La société cléricale est organisée en de nombreux ordres, chacun avec ses propres spécialités et techniques :
 
-| Order | Specialty | Territory | Notable Traits |
+| Ordre | Spécialité | Territoire | Traits Notables |
 |---------|---------------|---------|-------------------|
-| **Healing Hands** | Healing, restoration | Hospitals and temples | Healing magic, restoration |
-| **Divine Warriors** | Combat, protection | Military units | Combat magic, divine protection |
-| **Vision Seekers** | Divination, prophecy | Temples and shrines | Divination, prophecy |
-| **Truth Seekers** | Investigation, judgment | Courts and tribunals | Investigation, judgment |
-| **Spirit Walkers** | Spirit communication, rituals | Natural places | Spirit communication, rituals |
-| **Light Bearers** | Illumination, guidance | Various locations | Illumination, guidance |
+| **Mains Guérisseuses** | Guérison, restauration | Hôpitaux et temples | Magie de guérison, restauration |
+| **Guerriers Divins** | Combat, protection | Unités militaires | Magie de combat, protection divine |
+| **Chercheurs de Visions** | Divination, prophétie | Temples et sanctuaires | Divination, prophétie |
+| **Chercheurs de Vérité** | Enquête, jugement | Cours et tribunaux | Enquête, jugement |
+| **Marcheurs d'Esprits** | Communication spirituelle, rituels | Lieux naturels | Communication spirituelle, rituels |
+| **Porteurs de Lumière** | Illumination, guidance | Divers lieux | Illumination, guidance |
 
-Understanding the nature of **clerics** provides insight into the divine aspects of the world of **OpenFantasy**, like listening to the sacred harmonies that bridge the mortal and divine realms. 
+Comprendre la nature des **clercs** donne un aperçu des aspects divins du monde d'**OpenFantasy**, comme l'écoute des harmonies sacrées qui relient les royaumes mortel et divin.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

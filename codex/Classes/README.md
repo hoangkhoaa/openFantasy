@@ -1,149 +1,153 @@
-# OpenFantasy Character Classes
+# Classes de Personnages OpenFantasy
 
-> *"Every soul finds its own melody in the symphony of power."*
+> *"Chaque âme trouve sa propre mélodie dans la symphonie du pouvoir."*
 
-## Overview
+## Aperçu
 
-Welcome to the OpenFantasy Character Classes documentation. This repository contains comprehensive information about the various paths of power and specialization available to characters in the OpenFantasy world.
+Bienvenue dans la documentation des Classes de Personnages OpenFantasy. Ce dépôt contient des informations complètes sur les différentes voies de pouvoir et de spécialisation disponibles aux personnages dans le monde d'OpenFantasy.
 
-## Quick Navigation
+## Navigation rapide
 
-- [Class Fundamentals](#class-fundamentals)
-- [Primary Classes](#primary-classes)
-- [Character Progression](#character-progression)
-- [Multiclassing](#multiclassing)
-- [Species Affinities](#species-affinities)
-- [Documentation Structure](#documentation-structure)
+- [Fondamentaux des classes](#fondamentaux-des-classes)
+- [Classes primaires](#classes-primaires)
+- [Progression des personnages](#progression-des-personnages)
+- [Multiclassage](#multiclassage)
+- [Affinités d'espèce](#affinités-despèce)
+- [Structure de la documentation](#structure-de-la-documentation)
 
-## Class Fundamentals
+## Fondamentaux des classes
 
-Classes in OpenFantasy represent specialized paths that harness and develop a character's innate abilities:
+Les classes dans OpenFantasy représentent des voies spécialisées qui exploitent et développent les capacités innées d'un personnage :
 
 | Concept | Description |
 |---------|-------------|
-| **Class Structure** | The organization of abilities and specializations |
-| **Elemental Composition** | The balance of Exanthis, Soul, and Mana Capacity |
-| **Subclasses** | Specialized branches of each core class |
-| **Class Progression** | The development path for class abilities |
-| **Equipment** | Tools and items that enhance class capabilities |
+| **Structure de classe** | L'organisation des capacités et des spécialisations |
+| **Composition élémentaire** | L'équilibre d'Exanthis, d'Âme et de Capacité de Mana |
+| **Sous-classes** | Branches spécialisées de chaque classe principale |
+| **Progression de classe** | Le chemin de développement des capacités de classe |
+| **Équipement** | Outils et objets qui améliorent les capacités de classe |
 
-## Primary Classes
+## Classes primaires
 
-OpenFantasy features ten primary classes, each with their own specializations:
+OpenFantasy propose dix classes primaires, chacune avec ses propres spécialisations :
 
-| Class | Core Focus | Primary Attribute | Class Directory |
+| Classe | Orientation principale | Attribut principal | Répertoire de classe |
 |-------|------------|-------------------|----------------|
-| **Warrior** | Physical combat | Exanthis | [Warrior/](Warrior/) |
-| **Mage** | Arcane spellcasting | Mana Capacity | [Mage/](Mage/) |
-| **Rogue** | Stealth and precision | Soul | [Rogue/](Rogue/) |
-| **Cleric** | Divine magic | Soul/Mana | [Cleric/](Cleric/) |
-| **Ranger** | Wilderness and tracking | Exanthis/Soul | [Ranger/](Ranger/) |
-| **Artificer** | Magical creation | Mana Capacity | [Artificer/](Artificer/) |
-| **Bard** | Performance magic | Soul/Mana | [Bard/](Bard/) |
-| **Druid** | Nature magic | Soul/Mana | [Druid/](Druid/) |
-| **Monk** | Internal energy | Exanthis/Soul | [Monk/](Monk/) |
-| **Warlock** | Pact magic | Soul/Mana | [Warlock/](Warlock/) |
+| **Guerrier** | Combat physique | Exanthis | [Warrior/](Warrior/) |
+| **Mage** | Lancement de sorts arcaniques | Capacité de Mana | [Mage/](Mage/) |
+| **Roublard** | Furtivité et précision | Âme | [Rogue/](Rogue/) |
+| **Clerc** | Magie divine | Âme/Mana | [Cleric/](Cleric/) |
+| **Rôdeur** | Nature sauvage et pistage | Exanthis/Âme | [Ranger/](Ranger/) |
+| **Artificier** | Création magique | Capacité de Mana | [Artificer/](Artificer/) |
+| **Barde** | Magie de performance | Âme/Mana | [Bard/](Bard/) |
+| **Druide** | Magie de la nature | Âme/Mana | [Druid/](Druid/) |
+| **Moine** | Énergie interne | Exanthis/Âme | [Monk/](Monk/) |
+| **Sorcier** | Magie de pacte | Âme/Mana | [Warlock/](Warlock/) |
 
-→ See the [Classes overview](Classes.md) for detailed information about each class.
+→ Voir l'[aperçu des classes](Classes.md) pour des informations détaillées sur chaque classe.
 
-## Character Progression
+## Progression des personnages
 
-Character advancement follows a tiered progression system:
+L'avancement du personnage suit un système de progression à plusieurs niveaux :
 
-### Level Tiers
+### Niveaux
 
-| Tier | Levels | Description |
+| Niveau | Niveaux | Description |
 |------|--------|-------------|
-| **Novice** | 1-5 | Learning fundamentals of the class |
-| **Adept** | 6-10 | Mastering basics and developing specialization |
-| **Expert** | 11-15 | Honing abilities to a high degree |
-| **Master** | 16-20 | Achieving mastery of chosen path |
-| **Legendary** | 21+ | Transcending normal limitations |
+| **Novice** | 1-5 | Apprentissage des bases de la classe |
+| **Adepte** | 6-10 | Maîtrise des bases et développement de la spécialisation |
+| **Expert** | 11-15 | Affûtage des capacités à un haut degré |
+| **Maître** | 16-20 | Atteinte de la maîtrise du chemin choisi |
+| **Légendaire** | 21+ | Transcender les limitations normales |
 
-## Multiclassing
+## Multiclassage
 
-Characters may pursue multiple class paths simultaneously, creating unique combinations of abilities. This versatility comes at the cost of specialized mastery in any single discipline.
+Les personnages peuvent poursuivre simultanément plusieurs voies de classe, créant ainsi des combinaisons uniques de capacités. Cette polyvalence se fait au détriment de la maîtrise spécialisée dans une seule discipline.
 
-### Common Multiclass Combinations
+### Combinaisons de multiclassage courantes
 
-| Combination | Synergy |
+| Combinaison | Synergie |
 |-------------|---------|
-| Warrior/Mage | Physical combat enhanced with magical abilities |
-| Cleric/Warrior | Divine magic with martial prowess |
-| Rogue/Ranger | Stealth combined with wilderness expertise |
-| Bard/Warlock | Performance magic enhanced with pact abilities |
-| Druid/Monk | Nature magic combined with physical discipline |
+| Guerrier/Mage | Combat physique amélioré par des capacités magiques |
+| Clerc/Guerrier | Magie divine avec prouesses martiales |
+| Roublard/Rôdeur | Furtivité combinée à l'expertise de la nature sauvage |
+| Barde/Sorcier | Magie de performance améliorée avec des capacités de pacte |
+| Druide/Moine | Magie de la nature combinée à la discipline physique |
 
-## Species Affinities
+## Affinités d'espèce
 
-Different species have natural affinities for certain classes based on their elemental composition:
+Différentes espèces ont des affinités naturelles pour certaines classes en fonction de leur composition élémentaire :
 
-| Species | Natural Class Affinities |
+| Espèce | Affinités de classe naturelles |
 |---------|--------------------------|
-| **Humans** | Balanced affinity for all classes |
-| **Elves** | Mage, Ranger, Bard |
-| **Dark Elves** | Mage, Rogue, Warlock |
-| **Dwarves** | Warrior, Artificer, Cleric |
-| **Beastfolk** | Ranger, Druid, Warrior |
-| **Dragonkin** | Warrior, Mage, Warlock |
-| **Fae** | Bard, Druid, Mage |
-| **Golems** | Artificer, Warrior |
-| **Sirens** | Bard, Mage |
-| **Shadowfolk** | Rogue, Warlock, Mage |
-| **Giants** | Warrior, Druid |
+| **Humains** | Affinité équilibrée pour toutes les classes |
+| **Elfes** | Mage, Rôdeur, Barde |
+| **Elfes Noirs** | Mage, Roublard, Sorcier |
+| **Nains** | Guerrier, Artificier, Clerc |
+| **Hommes-bêtes** | Rôdeur, Druide, Guerrier |
+| **Draconides** | Guerrier, Mage, Sorcier |
+| **Fées** | Barde, Druide, Mage |
+| **Golems** | Artificier, Guerrier |
+| **Sirènes** | Barde, Mage |
+| **Gens de l'ombre** | Roublard, Sorcier, Mage |
+| **Géants** | Guerrier, Druide |
 
-## Elemental Composition
+## Composition élémentaire
 
-Each class features a characteristic elemental composition that shapes their abilities:
+Chaque classe présente une composition élémentaire caractéristique qui façonne ses capacités :
 
-| Class | Exanthis | Soul | Mana Capacity | Primary Magical Affinity |
+| Classe | Exanthis | Âme | Capacité de Mana | Affinité magique principale |
 |-------|----------|------|---------------|--------------------------|
-| **Warrior** | 50-70% | 20-35% | 10-20% | Terramana (Stability), Base Mana (Force) |
-| **Mage** | 10-25% | 15-35% | 50-70% | Varies by specialization |
-| **Rogue** | 30-45% | 40-60% | 10-25% | Umbramana (Concealment), Aeromana (Mobility) |
-| **Cleric** | 20-35% | 30-50% | 25-45% | Luxmana (Light), Vitamana (Healing) |
-| **Ranger** | 35-55% | 30-45% | 15-30% | Vitamana (Nature), Aeromana (Movement) |
-| **Artificer** | 25-40% | 20-35% | 35-55% | Crystallmana (Structure), Terramana (Solidity) |
-| **Bard** | 15-30% | 35-55% | 25-45% | Fulgumana (Sound), Aeromana (Communication) |
-| **Druid** | 20-35% | 30-45% | 30-50% | Vitamana (Growth), Terramana (Earth) |
-| **Monk** | 40-55% | 30-50% | 10-25% | Base Mana (Internal Energy), Aeromana (Movement) |
-| **Warlock** | 15-30% | 25-40% | 40-60% | Aetheramana (Void), Varies by pact |
+| **Guerrier** | 50-70% | 20-35% | 10-20% | Terramana (Stabilité), Base Mana (Force) |
+| **Mage** | 10-25% | 15-35% | 50-70% | Varie selon la spécialisation |
+| **Roublard** | 30-45% | 40-60% | 10-25% | Umbramana (Dissimulation), Aeromana (Mobilité) |
+| **Clerc** | 20-35% | 30-50% | 25-45% | Luxmana (Lumière), Vitamana (Guérison) |
+| **Rôdeur** | 35-55% | 30-45% | 15-30% | Vitamana (Nature), Aeromana (Mouvement) |
+| **Artificier** | 25-40% | 20-35% | 35-55% | Crystallmana (Structure), Terramana (Solidité) |
+| **Barde** | 15-30% | 35-55% | 25-45% | Fulgumana (Son), Aeromana (Communication) |
+| **Druide** | 20-35% | 30-45% | 30-50% | Vitamana (Croissance), Terramana (Terre) |
+| **Moine** | 40-55% | 30-50% | 10-25% | Base Mana (Énergie interne), Aeromana (Mouvement) |
+| **Sorcier** | 15-30% | 25-40% | 40-60% | Aetheramana (Vide), Varie selon le pacte |
 
-This elemental balance directly influences a class's natural affinity for certain specialized forms of magic and their overall magical capabilities:
+Cet équilibre élémentaire influence directement l'affinité naturelle d'une classe pour certaines formes spécialisées de magie et ses capacités magiques globales :
 
-- **Specialization Efficiency**: Classes with higher Mana Capacity typically achieve better elemental specialization rates
-- **Mana Purification**: The ratio of Soul to Mana Capacity affects a class's ability to purify Wild Mana into Base Mana
-- **Magical Stamina**: Higher Exanthis provides better physical endurance but typically reduces magical efficiency
-- **Hybrid Potential**: Classes with more balanced compositions often excel at combining different elemental types
+- **Efficacité de la spécialisation** : Les classes avec une Capacité de Mana plus élevée atteignent généralement de meilleurs taux de spécialisation élémentaire
+- **Purification du Mana** : Le ratio d'Âme sur Capacité de Mana affecte la capacité d'une classe à purifier le Mana sauvage en Mana de base
+- **Endurance magique** : Un Exanthis plus élevé offre une meilleure endurance physique, mais réduit généralement l'efficacité magique
+- **Potentiel hybride** : Les classes avec des compositions plus équilibrées excellent souvent dans la combinaison de différents types élémentaires
 
-## Documentation Structure
+## Structure de la documentation
 
-The Classes directory is organized as follows:
+Le répertoire des classes est organisé comme suit :
 
 ```
 codex/Classes/
-├── README.md                # This overview document
-├── Classes.md               # Main classes document with detailed descriptions
-├── template_README.md       # Template for creating class directory README files
-├── Warrior/                 # Example class directory
-│   ├── README.md            # Class-specific overview
-│   ├── Warrior.md           # Detailed class information
-│   ├── Guardian.md          # Subclass documentation
-│   ├── Berserker.md         # Subclass documentation
-│   └── ...                  # Other subclass documents
-└── ...                      # Other class directories
+├── README.md                # Ce document d'aperçu
+├── Classes.md               # Document principal des classes avec des descriptions détaillées
+├── template_README.md       # Modèle pour la création de fichiers README de répertoire de classe
+├── Warrior/                 # Exemple de répertoire de classe
+│   ├── README.md            # Aperçu spécifique à la classe
+│   ├── Warrior.md           # Informations détaillées sur la classe
+│   ├── Guardian.md          # Documentation de la sous-classe
+│   ├── Berserker.md         # Documentation de la sous-classe
+│   └── ...                  # Autres documents de sous-classe
+└── ...                      # Autres répertoires de classe
 ```
 
-### Using the Template
+### Utilisation du modèle
 
-To create a new class README, copy the [template_README.md](template_README.md) file and replace the placeholder values with class-specific information:
+Pour créer un nouveau fichier README de classe, copiez le fichier [template_README.md](template_README.md) et remplacez les valeurs d'espace réservé par des informations spécifiques à la classe :
 
-1. Replace `[CLASS_NAME]` with the name of the class
-2. Fill in composition ranges and descriptions
-3. List subclasses with their focus areas and specialties
-4. Document core abilities, equipment, and species affinities
-5. Describe class strengths and challenges
+1. Remplacez `[CLASS_NAME]` par le nom de la classe
+2. Remplissez les plages de composition et les descriptions
+3. Énumérez les sous-classes avec leurs domaines d'intervention et leurs spécialités
+4. Documentez les capacités de base, l'équipement et les affinités d'espèce
+5. Décrivez les forces et les défis de la classe
 
 ---
 
-> **Repository Structure**: This documentation uses Markdown formatting optimized for viewing on Git platforms. 
+> **Structure du dépôt** : Cette documentation utilise le formatage Markdown optimisé pour la visualisation sur les plateformes Git.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

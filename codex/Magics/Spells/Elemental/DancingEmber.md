@@ -1,89 +1,93 @@
-# **Dancing Ember**
+# **Braise Dansante**
 
-A fundamental fire manipulation spell that creates a small, controlled flame that dances and moves according to the caster's will. This spell serves as both a practical light source and a foundational training exercise for aspiring pyromancers.
+Un sort de manipulation du feu fondamental qui crée une petite flamme contrôlée qui danse et se déplace selon la volonté du lanceur. Ce sort sert à la fois de source de lumière pratique et d'exercice d'entraînement fondamental pour les pyromanciens en herbe.
 
-## Casting Information
+## Informations de lancement
 
-| Aspect | Details |
+| Aspect | Détails |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | Instant (1-2 seconds) |
-| **Duration** | Concentration (up to 1 hour) |
-| **Range** | Close (within 10 feet of caster) |
-| **Components** | Somatic (simple finger gesture), Verbal (soft whisper) |
+| **Difficulté** | Novice |
+| **Temps d'incantation** | Instantané (1-2 secondes) |
+| **Durée** | Concentration (jusqu'à 1 heure) |
+| **Portée** | Proche (dans les 10 pieds du lanceur) |
+| **Composantes** | Somatique (simple geste du doigt), Verbale (doux murmure) |
 
-## Technical Details
+## Détails techniques
 
-| Aspect | Details |
+| Aspect | Détails |
 |--------|---------|
-| **Mana Type** | Pyromana (75%), Base Mana (25%) |
-| **Purity Required** | Basic (15-25%) |
-| **Pattern Complexity** | Simple (3 elements) |
-| **Resonance Frequency** | Warm/Bright spectrum |
-| **Minimum Mana Capacity** | 15% (Higher capacity extends possible duration) |
+| **Type de mana** | Pyromana (75%), Mana de base (25%) |
+| **Pureté requise** | Basique (15-25%) |
+| **Complexité du motif** | Simple (3 éléments) |
+| **Fréquence de résonance** | Spectre Chaud/Lumineux |
+| **Capacité de mana minimale** | 15% (Une capacité plus élevée prolonge la durée possible) |
 
-## Pattern Structure
+## Structure du motif
 
-The Dancing Ember pattern consists of three primary elements:
-1. **Ignition Node**: The central formation that generates heat and initiates combustion
-2. **Sustenance Loop**: A circular flow that maintains the flame without fuel
-3. **Direction Thread**: A fine connection to the caster's will that allows control of movement
+Le motif de la Braise Dansante est composé de trois éléments principaux :
+1. **Nœud d'allumage** : La formation centrale qui génère de la chaleur et initie la combustion
+2. **Boucle de subsistance** : Un flux circulaire qui maintient la flamme sans carburant
+3. **Fil de direction** : Une fine connexion à la volonté du lanceur qui permet de contrôler le mouvement
 
-These elements are arranged in a simple triangular formation that novice mages can easily visualize and maintain.
+Ces éléments sont disposés en une simple formation triangulaire que les mages novices peuvent facilement visualiser et maintenir.
 
-## Practical Effect
+## Effet pratique
 
-When successfully cast, a flame approximately the size of a candle flame manifests in the air at the designated location. Unlike a natural flame, it:
-- Requires no fuel
-- Emits minimal heat (enough to feel warm, not enough to burn unless deliberately directed)
-- Moves according to the caster's mental direction within the spell's range
-- Can change color slightly based on the caster's concentration (yellows, oranges, and reds)
-- Illuminates an area approximately 15 feet in diameter with soft light
+Lorsqu'il est lancé avec succès, une flamme d'environ la taille d'une flamme de bougie se manifeste dans l'air à l'endroit désigné. Contrairement à une flamme naturelle, elle :
+- Ne nécessite aucun carburant
+- Émet une chaleur minimale (suffisante pour se sentir chaud, pas assez pour brûler sauf si elle est délibérément dirigée)
+- Se déplace selon la direction mentale du lanceur dans la portée du sort
+- Peut changer légèrement de couleur en fonction de la concentration du lanceur (jaunes, oranges et rouges)
+- Illumine une zone d'environ 15 pieds de diamètre avec une lumière douce
 
-## Common Applications
+## Applications courantes
 
-- Providing light in dark environments
-- Serving as a focusing tool for meditation
-- Creating simple displays for entertainment
-- Igniting prepared materials (kindling, candles, etc.)
-- Basic training for temperature and flame control
+- Fournir de la lumière dans les environnements sombres
+- Servir d'outil de concentration pour la méditation
+- Créer des affichages simples pour le divertissement
+- Allumer des matériaux préparés (bois d'allumage, bougies, etc.)
+- Entraînement de base pour le contrôle de la température et de la flamme
 
 ## Variations
 
-- **Steady Flame**: A modification that reduces mobility but increases stability and duration
-- **Ember Cluster**: Creates multiple smaller flames instead of one larger one
-- **Colored Ember**: Incorporates trace elements to produce specific flame colors
-- **Silent Cast**: Removes the verbal component at the cost of increased concentration and purity (25-30%)
+- **Flamme stable** : Une modification qui réduit la mobilité mais augmente la stabilité et la durée
+- **Groupe de braises** : Crée plusieurs petites flammes au lieu d'une plus grande
+- **Braise colorée** : Incorpore des oligo-éléments pour produire des couleurs de flamme spécifiques
+- **Incantation silencieuse** : Supprime la composante verbale au prix d'une concentration et d'une pureté accrues (25-30%)
 
-## Risks and Miscast Effects
+## Risques et effets de ratés
 
-- **Flame Dispersal**: Loss of concentration causes the flame to harmlessly dissipate
-- **Uncontrolled Growth**: Poor pattern formation may cause the flame to briefly flare before extinguishing
-- **Color Instability**: Impure mana (below 15%) can cause the flame to fluctuate in color and intensity
-- **Premature Extinguishing**: Insufficient mana input causes the spell to fail within seconds
-- **Pattern Collapse**: Critical purity shortage (below 10%) may cause minor burns to the caster's fingertips
+- **Dispersion de la flamme** : La perte de concentration provoque la dissipation inoffensive de la flamme
+- **Croissance incontrôlée** : Une mauvaise formation du motif peut provoquer une brève flambée de la flamme avant de s'éteindre
+- **Instabilité de la couleur** : Un mana impur (en dessous de 15%) peut provoquer des fluctuations de la couleur et de l'intensité de la flamme
+- **Extinction prématurée** : Un apport de mana insuffisant provoque l'échec du sort en quelques secondes
+- **Effondrement du motif** : Une grave pénurie de pureté (en dessous de 10%) peut provoquer des brûlures mineures au bout des doigts du lanceur
 
-## Purity Influence on Effect
+## Influence de la pureté sur l'effet
 
-| Purity Level | Effect Enhancement |
+| Niveau de pureté | Amélioration de l'effet |
 |--------------|---------------------|
-| 10-15% | Flame is dim and unstable, requiring constant attention |
-| 15-25% | Standard effect as described above |
-| 25-35% | Brighter flame with more precise movement control |
-| 35%+ | Multiple color options, finer control over heat output, and extended duration |
+| 10-15% | La flamme est faible et instable, nécessitant une attention constante |
+| 15-25% | Effet standard comme décrit ci-dessus |
+| 25-35% | Flamme plus brillante avec un contrôle plus précis du mouvement |
+| 35%+ | Plusieurs options de couleur, un contrôle plus fin du dégagement de chaleur et une durée prolongée |
 
-## Musical Analogy
+## Analogie musicale
 
-Dancing Ember is like learning to play a single pure note and sustain it. The caster must maintain proper "pitch" (heat intensity) and "volume" (size) while learning to "bend" the note (controlling movement). Just as a beginning musician might practice a single note until it becomes second nature, novice pyromancers often practice this spell until they can cast it without conscious thought.
+La Braise Dansante, c'est comme apprendre à jouer une seule note pure et à la soutenir. Le lanceur doit maintenir une "hauteur" (intensité de la chaleur) et un "volume" (taille) corrects tout en apprenant à "plier" la note (contrôle du mouvement). Tout comme un musicien débutant peut s'entraîner à jouer une seule note jusqu'à ce qu'elle devienne une seconde nature, les pyromanciens novices pratiquent souvent ce sort jusqu'à ce qu'ils puissent l'incanter sans y penser consciemment.
 
-## Learning Progression
+## Progression d'apprentissage
 
-Most students master this spell in the following stages:
-1. **Creation**: Simply manifesting the flame briefly
-2. **Sustenance**: Maintaining the flame for progressively longer periods
-3. **Movement**: Learning to direct the flame's position
-4. **Refinement**: Controlling color, size, and heat with precision
+La plupart des étudiants maîtrisent ce sort dans les étapes suivantes :
+1. **Création** : Simplement manifester brièvement la flamme
+2. **Subsistance** : Maintenir la flamme pendant des périodes de plus en plus longues
+3. **Mouvement** : Apprendre à diriger la position de la flamme
+4. **Perfectionnement** : Contrôler la couleur, la taille et la chaleur avec précision
 
-## Historical Note
+## Note historique
 
-Dancing Ember was formalized as a teaching spell by the renowned pyromancer Ignis Lumina, who recognized that many apprentices were injuring themselves attempting more complex fire magic without proper foundation. She designed this spell specifically to teach control before power, a philosophy summarized in her famous quote: "Learn to dance with a single ember before you attempt to conduct a symphony of flames." 
+La Braise Dansante a été officialisée en tant que sort d'enseignement par la célèbre pyromancienne Ignis Lumina, qui a reconnu que de nombreux apprentis se blessaient en tentant une magie du feu plus complexe sans base appropriée. Elle a conçu ce sort spécifiquement pour enseigner le contrôle avant la puissance, une philosophie résumée dans sa célèbre citation : "Apprends à danser avec une seule braise avant de tenter de diriger une symphonie de flammes."
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
