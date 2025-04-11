@@ -1,158 +1,162 @@
-# Plants of OpenFantasy
+# OpenFantasy的植物
 
-> *"In the quiet language of root and leaf is written the oldest magic of our world."*
+> *"在根和叶的静默语言中，书写着我们世界最古老的魔法。"*
 
-## Overview
+## 概述
 
-The plant life of OpenFantasy represents a diverse and vital aspect of the world's ecosystem. From common crops that sustain civilizations to mystical flora with extraordinary properties, plants embody the subtle magic that permeates all living things.
+OpenFantasy 的植物生命代表了世界生态系统的一个多样化和至关重要的方面。从维持文明的常见作物到具有非凡属性的神秘植物，植物体现了渗透所有生物的微妙魔法。
 
-Unlike the animal kingdom, plants typically possess minimal Soul component and vary widely in their Mana Capacity, with some species evolving to channel and store magical energy in unique ways. The elemental composition of plants—particularly their Mana component—directly influences their properties, growth patterns, and magical potential.
+与动物王国不同，植物通常具有最少的灵魂成分，并且法力容量差异很大，某些物种进化为以独特的方式引导和储存魔法能量。植物的元素组成——尤其是它们的法力成分——直接影响它们的特性、生长模式和魔法潜力。
 
-## Elemental Composition
+## 元素组成
 
-Plants generally exhibit the following elemental composition ranges:
+植物通常表现出以下元素组成范围：
 
-| Plant Category | Exanthis | Soul | Mana Capacity | Notes |
+| 植物类别 | Exanthis | 灵魂 | 法力容量 | 备注 |
 |----------------|----------|------|---------------|-------|
-| Common Plants | 85-95% | 0-2% | 5-15% | Most standard flora |
-| Medicinal Plants | 75-85% | 1-3% | 15-25% | Natural healing properties |
-| Magical Plants | 60-80% | 1-5% | 20-40% | Innate magical attributes |
-| Sentient Plants | 70-85% | 5-15% | 10-25% | Conscious plant entities |
+| 常见植物 | 85-95% | 0-2% | 5-15% | 大多数标准植物 |
+| 药用植物 | 75-85% | 1-3% | 15-25% | 天然疗愈特性 |
+| 魔法植物 | 60-80% | 1-5% | 20-40% | 先天的魔法属性 |
+| 有意识的植物 | 70-85% | 5-15% | 10-25% | 有意识的植物实体 |
 
-## Plant Classifications
+## 植物分类
 
-### Mundane Flora
+### 凡俗植物
 
-Common plants with limited or no magical properties that form the foundation of ecosystems:
+具有有限或没有魔法特性的常见植物，构成了生态系统的基础：
 
-| Category | Examples | Primary Uses |
+| 类别 | 例子 | 主要用途 |
 |----------|----------|--------------|
-| **Agricultural** | Wheat, corn, fruit trees | Food production, materials |
-| **Forest Flora** | Oaks, pines, ferns | Ecosystems, building materials |
-| **Prairie Plants** | Grasses, wildflowers | Ground cover, animal fodder |
-| **Aquatic Plants** | Seaweed, lily pads, reeds | Water filtration, aquatic habitats |
+| **农业植物** | 小麦，玉米，果树 | 食品生产，材料 |
+| **森林植物** | 橡树，松树，蕨类植物 | 生态系统，建筑材料 |
+| **草原植物** | 草，野花 | 地面覆盖，动物饲料 |
+| **水生植物** | 海藻，睡莲，芦苇 | 水过滤，水生栖息地 |
 
-→ See [Mundane Plants](Mundane.md) for detailed information.
+→ 参见 [凡俗植物](Mundane.md) 获取详细信息。
 
-### Medicinal Plants
+### 药用植物
 
-Species with natural healing or beneficial properties:
+具有天然疗愈或有益特性的物种：
 
-| Category | Examples | Primary Effects |
+| 类别 | 例子 | 主要效果 |
 |----------|----------|----------------|
-| **Healing Herbs** | Healer's root, bloodstop moss | Wound treatment, infection prevention |
-| **Restorative Plants** | Vitality flowers, stamina caps | Energy restoration, fatigue relief |
-| **Antidote Sources** | Venom cleansers, toxin lilies | Poison neutralization, toxin absorption |
-| **Mental Remedies** | Clarity mint, dream shade | Focus enhancement, sleep aids |
+| **疗愈草药** | 治疗者之根，止血苔藓 | 伤口处理，感染预防 |
+| **恢复植物** | 活力花朵，耐力帽 | 能量恢复，缓解疲劳 |
+| **解毒剂来源** | 毒液清洁剂，毒素百合 | 毒药中和，毒素吸收 |
+| **精神疗法** | 清晰薄荷，梦影 | 专注力增强，睡眠辅助 |
 
-→ See [Medicinal Plants](Medicinal.md) for detailed information.
+→ 参见 [药用植物](Medicinal.md) 获取详细信息。
 
-### Magical Plants
+### 魔法植物
 
-Flora with innate magical properties or the ability to interact with magical forces:
+具有先天魔法特性或与魔法力量互动能力的植物：
 
-| Category | Examples | Magical Properties |
+| 类别 | 例子 | 魔法特性 |
 |----------|----------|-------------------|
-| **Elemental Flora** | Emberblooms, frost lichen | Manifestation of elemental energies |
-| **Mana Conductors** | Spellvines, arcane mushrooms | Capture and channel magical energy |
-| **Transmutative Species** | Shapeleaf, form tubers | Physical transformation properties |
-| **Enchantment Enhancers** | Binding moss, runic ferns | Amplify or stabilize enchantments |
+| **元素植物** | 灰烬花，霜冻地衣 | 元素能量的表现 |
+| **法力导体** | 魔法藤蔓，奥术蘑菇 | 捕获和引导魔法能量 |
+| **转化物种** | 变形叶，形态块茎 | 物理转化特性 |
+| **附魔增强剂** | 绑定苔藓，符文蕨类植物 | 放大或稳定附魔 |
 
-→ See [Magical Plants](Magical.md) for detailed information.
+→ 参见 [魔法植物](Magical.md) 获取详细信息。
 
-### Poisonous and Dangerous Flora
+### 有毒和危险的植物
 
-Plants with toxic or harmful properties:
+具有毒性或有害特性的植物：
 
-| Category | Examples | Dangerous Effects |
+| 类别 | 例子 | 危险影响 |
 |----------|----------|------------------|
-| **Toxic Plants** | Deathcap, voidroot | Severe poisoning, organ failure |
-| **Carnivorous Flora** | Snaptrap, digestive vines | Animal/humanoid consumption |
-| **Mind-Affecting** | Delusion caps, madness pollen | Hallucinations, confusion, insanity |
-| **Parasitic Species** | Life-drainers, energy siphons | Extract nutrients or energy from hosts |
+| **有毒植物** | 死亡帽，虚空根 | 严重中毒，器官衰竭 |
+| **食肉植物** | 捕捉陷阱，消化藤蔓 | 动物/类人生物消耗 |
+| **影响心智的植物** | 妄想帽，疯狂花粉 | 幻觉，混乱，精神错乱 |
+| **寄生植物** | 生命吸取者，能量虹吸管 | 从宿主中提取营养或能量 |
 
-→ See [Poisonous Plants](Poisonous.md) for detailed information.
+→ 参见 [有毒植物](Poisonous.md) 获取详细信息。
 
-### Sentient Plant Species
+### 有意识的植物物种
 
-Plants with consciousness and often mobility:
+具有意识并且通常具有移动能力的植物：
 
-| Category | Examples | Key Characteristics |
+| 类别 | 例子 | 主要特征 |
 |----------|----------|---------------------|
-| **Treants** | Ancient oaks, guardian pines | Tree-like humanoids, forest protectors |
-| **Fungal Consciousness** | Myconids, thought fungi | Collective awareness, spore communication |
-| **Ambulatory Flora** | Tumbleweed sentinels, walking vines | Independent movement, reactive behavior |
-| **Hive Mind Plants** | Colony ferns, neural root networks | Shared consciousness across multiple plants |
+| **树人** | 古老的橡树，守护松树 | 类似树的人形生物，森林保护者 |
+| **真菌意识** | 菌丝体，思维真菌 | 集体意识，孢子交流 |
+| **可移动的植物** | 风滚草哨兵，行走藤蔓 | 独立移动，反应行为 |
+| **蜂巢思维植物** | 群落蕨类植物，神经根网络 | 跨多个植物共享意识 |
 
-→ See [Sentient Plants](Sentient.md) for detailed information.
+→ 参见 [有意识的植物](Sentient.md) 获取详细信息。
 
-## Magical Interactions
+## 魔法互动
 
-Plants interact with mana in various significant ways:
+植物以各种重要方式与法力互动：
 
-### Mana Cycling
+### 法力循环
 
-Many plants participate in the natural circulation of magical energy:
+许多植物参与魔法能量的自然循环：
 
-- **Absorption**: Drawing mana from soil and atmosphere
-- **Transformation**: Converting raw mana into specialized magical compounds
-- **Release**: Returning processed mana to the environment through various mechanisms
-- **Storage**: Accumulating magical energy in specialized tissues
+- **吸收**：从土壤和大气中吸收法力
+- **转化**：将原始法力转化为专门的魔法化合物
+- **释放**：通过各种机制将处理后的法力返回到环境中
+- **储存**：在专门的组织中积累魔法能量
 
-### Cultivation and Harvesting
+### 栽培和收获
 
-Proper techniques are essential for preserving magical properties:
+适当的技术对于保护魔法特性至关重要：
 
-| Plant Type | Harvesting Method | Timing Considerations |
+| 植物类型 | 收获方法 | 时间考虑 |
 |------------|------------------|------------------------|
-| **Healing Herbs** | Clean cuts with silver tools | Dawn or dusk, avoiding full moon |
-| **Magical Fungi** | Gentle separation from substrate | During appropriate lunar phase |
-| **Elemental Flora** | Element-attuned implements | During element's ascendant period |
-| **Enchanted Trees** | Ritualistic branch collection | Seasonal equinox or solstice |
+| **疗愈草药** | 用银制工具进行干净的切割 | 黎明或黄昏，避开满月 |
+| **魔法真菌** | 从基质中轻轻分离 | 在适当的月相期间 |
+| **元素植物** | 与元素协调的工具 | 在元素上升期间 |
+| **附魔树木** | 仪式性的树枝收集 | 季节性春分或夏至 |
 
-## Ecological Significance
+## 生态意义
 
-Plants serve vital functions in OpenFantasy's ecosystems:
+植物在 OpenFantasy 的生态系统中发挥着至关重要的作用：
 
-### Magical Stabilization
+### 魔法稳定
 
-- **Ley Line Anchoring**: Certain species grow along and stabilize magical energy currents
-- **Wild Magic Mitigation**: Some plants absorb and neutralize chaotic magical discharges
-- **Elemental Balancing**: Flora that maintains equilibrium between elemental forces
-- **Planar Boundary Reinforcement**: Plants that strengthen the barriers between realms
+- **地脉锚定**：某些物种沿着魔法能量流生长并稳定它们
+- **狂野魔法缓解**：一些植物吸收并中和混乱的魔法释放
+- **元素平衡**：维持元素力量之间平衡的植物
+- **位面边界加强**：加强领域之间屏障的植物
 
-### Habitat Creation
+### 栖息地创造
 
-- **Magical Microclimates**: Plants creating zones of specialized magical conditions
-- **Extradimensional Spaces**: Flora that generates pockets of expanded or altered space
-- **Protective Enclaves**: Plant communities that shield areas from magical contamination
-- **Sentient Sanctuaries**: Conscious plant networks that selectively welcome or exclude visitors
+- **魔法小气候**：植物创造专门魔法条件区
+- **超维度空间**：产生扩大或改变空间口袋的植物
+- **保护飞地**：保护区域免受魔法污染的植物群落
+- **有意识的避难所**：有选择地欢迎或排除访客的有意识植物网络
 
-## Cultural Significance
+## 文化意义
 
-Plants hold important places in the cultures and practices of sentient species:
+植物在有意识物种的文化和实践中占据重要地位：
 
-| Culture | Plant Relationship | Notable Traditions |
+| 文化 | 植物关系 | 著名传统 |
 |---------|-------------------|-------------------|
-| **Elven** | Symbiotic gardening, tree dwelling | Living architecture, growth singing |
-| **Human** | Agricultural development, herbal medicine | Harvest festivals, medicinal traditions |
-| **Druidic** | Plant communication, forest guardianship | Grove sanctification, plant bond rituals |
-| **Fae** | Magical enhancement, plant transformation | Bloom dances, growth manipulation |
-| **Dwarven** | Subterranean cultivation, fungal specialization | Mushroom brewing, cave gardens |
+| **精灵** | 共生园艺，树木居住 | 生态建筑，生长歌唱 |
+| **人类** | 农业发展，草药医学 | 收获节，医药传统 |
+| **德鲁伊** | 植物交流，森林守护 | 树林圣化，植物结合仪式 |
+| **妖精** | 魔法增强，植物转化 | 绽放舞蹈，生长操纵 |
+| **矮人** | 地下栽培，真菌专业化 | 蘑菇酿造，洞穴花园 |
 
-## Regions and Endemic Flora
+## 地区和地方性植物
 
-Different regions feature specialized plant adaptations:
+不同的地区具有专门的植物适应性：
 
-| Biome | Notable Flora | Special Adaptations |
+| 生物群落 | 著名植物 | 特殊适应性 |
 |-------|--------------|---------------------|
-| **Arcane Forests** | Spellwood trees, mana flowers | Direct mana incorporation, magical fruit production |
-| **Elemental Plains** | Essence grasses, primordial shrubs | Element absorption, rapid adaptation |
-| **Shadow Realms** | Voidferns, umbral roses | Light absorption, shadow manifestation |
-| **Fae Wilds** | Whimsy blooms, changeberry bushes | Reality alteration, temporal manipulation |
-| **Ancient Mountains** | Stone flowers, crystal lichens | Mineral integration, extreme longevity |
-| **Enchanted Marshes** | Spellbog reeds, illusion lilies | Magic filtration, sensory effects |
+| **奥术森林** | 魔法木树，法力花 | 直接法力结合，魔法水果生产 |
+| **元素平原** | 精华草，原始灌木 | 元素吸收，快速适应 |
+| **阴影领域** | 虚空蕨类植物，暗影玫瑰 | 光吸收，阴影显现 |
+| **妖精荒野** | 奇想花，改变浆果灌木 | 现实改变，时间操纵 |
+| **古代山脉** | 石头花，水晶地衣 | 矿物整合，极度长寿 |
+| **附魔沼泽** | 魔法沼泽芦苇，幻觉百合 | 魔法过滤，感官效果 |
 
 ---
 
-> *"A garden is more than beauty; it is power, knowledge, and life itself. Cultivate accordingly."* — Lady Thorne, Master Botanist and Royal Gardener 
+> *"花园不仅仅是美丽；它是力量、知识和生命本身。因此，请相应地培养它。"* — 索恩女士，植物大师兼皇家园丁
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,144 +1,148 @@
-# Monsters of OpenFantasy
+# OpenFantasy 的怪物
 
-> *"Not all that walks beneath the moons is born of natural design. Some creatures emerge from darkness, corruption, or the fevered dreams of reality itself."*
+> *"并非所有在月光下行走之物都源于自然的创造。有些生物从黑暗、腐化或现实本身狂热的梦境中诞生。"*
 
-## Overview
+## 概述
 
-In OpenFantasy, "monsters" refers to dangerous or unnatural creatures that exist outside the normal ecological balance. Unlike animals that evolved through natural processes, monsters typically emerge through magical accidents, corruption, deliberate creation, or manifestation from other planes of existence.
+在 OpenFantasy 中，“怪物”指的是存在于正常生态平衡之外的危险或不自然的生物。与通过自然过程进化的动物不同，怪物通常是通过魔法事故、腐化、刻意创造或从其他位面显现而产生的。
 
-Monsters often possess abilities that defy conventional understanding, making them particularly dangerous to sentient civilizations and natural ecosystems alike. While not universally malevolent, most pose significant threats due to their predatory nature, territorial aggression, or incompatibility with the natural world.
+怪物通常拥有违背传统理解的能力，这使得它们对有知觉的文明和自然生态系统都特别危险。虽然并非普遍具有恶意，但大多数由于其掠夺性、领土侵略性或与自然世界的不相容性而构成重大威胁。
 
-## Monster Origins
+## 怪物的起源
 
-Monsters come into being through various means, each creating distinct types of creatures:
+怪物通过各种方式产生，每种方式都会创造出不同类型的生物：
 
-| Origin | Description | Examples |
+| 起源 | 描述 | 例子 |
 |--------|-------------|----------|
-| **Corruption** | Natural beings twisted by dark magic or contamination | Blighted wolves, tainted elementals, plague beasts |
-| **Magical Creation** | Deliberately crafted through spellcraft | Chimeras, artificial abominations, bound spirits |
-| **Planar Intrusion** | Entities that enter from other planes of existence | Void stalkers, dream haunts, dimensional anomalies |
-| **Ancient Evolution** | Primordial creatures from before current natural order | Deep terrors, prehistoric predators, living fossils |
-| **Death Perversion** | Creatures formed through interference with natural death | Undead, soul-bound husks, necromantic constructs |
+| **腐化** | 被黑暗魔法或污染扭曲的自然生物 | 枯萎的狼、被污染的元素生物、瘟疫野兽 |
+| **魔法创造** | 通过法术刻意制作 | 奇美拉、人工憎恶、束缚的灵魂 |
+| **位面入侵** | 从其他位面进入的实体 | 虚空潜行者、梦魇、维度异常 |
+| **远古进化** | 当前自然秩序之前的原始生物 | 深渊恐怖、史前掠食者、活化石 |
+| **死亡扭曲** | 通过干预自然死亡形成的生物 | 不死生物、灵魂束缚的外壳、死灵构造体 |
 
-## Monster Classifications
+## 怪物的分类
 
-### Aberrations
+### 畸变体 (Aberrations)
 
-Biologically impossible creatures with anatomies that defy natural law:
+生物学上不可能的生物，其解剖结构违背自然法则：
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 子类别 | 主要特征 | 著名例子 |
 |-------------|---------------------|------------------|
-| **Shapeshifters** | Malleable form, identity deception | Mimics, doppelgangers, flesh warpers |
-| **Many-Eyed** | Enhanced perception, reality distortion | Beholders, void seers, panoptic crawlers |
-| **Mind Hunters** | Psychic abilities, consciousness manipulation | Mind flayers, thought leeches, dream stalkers |
-| **Composite Horrors** | Multiple creature aspects fused together | Chimeras, fusion beasts, amalgam terrors |
+| **变形怪 (Shapeshifters)** | 可塑形态，身份欺骗 | 拟态怪 (Mimics)、二重身 (Doppelgangers)、血肉扭曲者 (flesh warpers) |
+| **多眼怪 (Many-Eyed)** | 增强感知，现实扭曲 | 凝视者 (Beholders)、虚空先知 (void seers)、全景爬行者 (panoptic crawlers) |
+| **心灵猎手 (Mind Hunters)** | 精神能力，意识操纵 | 夺心魔 (Mind flayers)、思维水蛭 (thought leeches)、梦魇潜行者 (dream stalkers) |
+| **复合恐怖 (Composite Horrors)** | 多种生物方面的融合 | 奇美拉 (Chimeras)、融合野兽 (fusion beasts)、混合恐怖 (amalgam terrors) |
 
-→ See [Aberrations](Aberrations.md) for detailed information.
+→ 参见 [畸变体 (Aberrations.md)](Aberrations.md) 获取详细信息。
 
-### Undead
+### 不死生物 (Undead)
 
-Formerly living beings animated by necromantic energy or trapped souls:
+曾经活着的生物，被死灵能量激活或被困住的灵魂：
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 子类别 | 主要特征 | 著名例子 |
 |-------------|---------------------|------------------|
-| **Corporeal Undead** | Physical bodies, reduced intelligence | Zombies, ghouls, flesh constructs |
-| **Skeletal Undead** | Animated bones, magical binding | Skeletons, bone colossi, marrow mages |
-| **Spectral Undead** | Incorporeal forms, emotional anchoring | Ghosts, wraiths, phantoms, shadow walkers |
-| **Sentient Undead** | Retained intelligence, complex motivations | Vampires, liches, death knights, mummy lords |
+| **有形不死生物 (Corporeal Undead)** | 物理身体，智力降低 | 僵尸 (Zombies)、食尸鬼 (Ghouls)、血肉构造体 (flesh constructs) |
+| **骷髅不死生物 (Skeletal Undead)** | 动画骨骼，魔法束缚 | 骷髅 (Skeletons)、骨骼巨像 (bone colossi)、骨髓法师 (marrow mages) |
+| **幽灵不死生物 (Spectral Undead)** | 无形形式，情感锚定 | 幽灵 (Ghosts)、怨灵 (Wraiths)、幻影 (Phantoms)、阴影行者 (shadow walkers) |
+| **有知觉的不死生物 (Sentient Undead)** | 保留的智力，复杂的动机 | 吸血鬼 (Vampires)、巫妖 (Liches)、死亡骑士 (death knights)、木乃伊领主 (mummy lords) |
 
-→ See [Undead](Undead.md) for detailed information.
+→ 参见 [不死生物 (Undead.md)](Undead.md) 获取详细信息。
 
-### Corrupted Beings
+### 被腐化的生物 (Corrupted Beings)
 
-Natural creatures transformed by magical contamination or dark influence:
+被魔法污染或黑暗影响转化的自然生物：
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 子类别 | 主要特征 | 著名例子 |
 |-------------|---------------------|------------------|
-| **Blighted Animals** | Twisted natural fauna, toxicity | Plague wolves, rot bears, venom hawks |
-| **Tainted Elementals** | Elemental beings corrupted by opposing forces | Ash elementals, pollution spirits, decay shamblers |
-| **Void-Touched** | Beings altered by exposure to cosmic emptiness | Void hunters, null beasts, star-mad predators |
-| **Curse Bearers** | Victims of powerful curses with monstrous transformations | Werewolves, harpy afflicted, stone-curse victims |
+| **枯萎的动物 (Blighted Animals)** | 扭曲的自然动物群，毒性 | 瘟疫狼 (Plague wolves)、腐烂熊 (rot bears)、剧毒鹰 (venom hawks) |
+| **被污染的元素生物 (Tainted Elementals)** | 被对立力量腐化的元素生物 | 灰烬元素 (Ash elementals)、污染精灵 (pollution spirits)、腐烂蹒跚者 (decay shamblers) |
+| **虚空触碰的 (Void-Touched)** | 被暴露于宇宙空虚而改变的生物 | 虚空猎人 (Void hunters)、虚无野兽 (null beasts)、星狂掠食者 (star-mad predators) |
+| **诅咒承担者 (Curse Bearers)** | 具有怪物般转变的强大诅咒的受害者 | 狼人 (Werewolves)、受折磨的哈比 (harpy afflicted)、石化诅咒受害者 (stone-curse victims) |
 
-→ See [Corrupted](Corrupted.md) for detailed information.
+→ 参见 [被腐化的生物 (Corrupted.md)](Corrupted.md) 获取详细信息。
 
-### Giants and Titans
+### 巨人与泰坦 (Giants and Titans)
 
-Enormous beings of extraordinary strength and primal power:
+具有非凡力量和原始力量的巨大生物：
 
-| Subcategory | Key Characteristics | Notable Examples |
+| 子类别 | 主要特征 | 著名例子 |
 |-------------|---------------------|------------------|
-| **Elemental Giants** | Connection to fundamental forces | Frost giants, fire titans, storm colossi |
-| **Primal Giants** | Ancient lineage, territorial nature | Hill giants, mountain ogres, forest trolls |
-| **Ancient Titans** | Primordial beings of immense power | World shapers, elder titans, forgotten ones |
-| **Corrupted Giants** | Giants twisted by dark influences | Plague giants, void-touched colossi, undead titans |
+| **元素巨人 (Elemental Giants)** | 与基本力量的联系 | 霜巨人 (Frost giants)、火焰泰坦 (fire titans)、风暴巨像 (storm colossi) |
+| **原始巨人 (Primal Giants)** | 古老的血统，领土性质 | 山丘巨人 (Hill giants)、山地食人魔 (mountain ogres)、森林巨魔 (forest trolls) |
+| **远古泰坦 (Ancient Titans)** | 具有巨大力量的原始生物 | 世界塑造者 (World shapers)、远古泰坦 (elder titans)、被遗忘者 (forgotten ones) |
+| **被腐化的巨人 (Corrupted Giants)** | 被黑暗影响扭曲的巨人 | 瘟疫巨人 (Plague giants)、虚空触碰的巨像 (void-touched colossi)、不死泰坦 (undead titans) |
 
-→ See [Giants](Giants.md) for detailed information.
+→ 参见 [巨人 (Giants.md)](Giants.md) 获取详细信息。
 
-## Elemental Composition
+## 元素组成
 
-Monsters often exhibit unusual elemental composition compared to natural creatures:
+与自然生物相比，怪物通常表现出不寻常的元素组成：
 
-| Monster Type | Typical Elemental Ratio | Notes |
+| 怪物类型 | 典型元素比例 | 备注 |
 |--------------|-------------------------|-------|
-| Aberrations | E: 30-60%, S: 5-20%, M: 30-60% | Unstable mana patterns, reality-warping properties |
-| Undead | E: 10-30%, S: 0-10%, M: 60-90% | Necromantic energy replacing normal soul component |
-| Corrupted | E: 40-60%, S: 5-15%, M: 30-50% | Original composition distorted by corruption |
-| Giants | E: 65-85%, S: 5-15%, M: 10-25% | Exanthis-dominant with primal magical connections |
+| 畸变体 (Aberrations) | E: 30-60%, S: 5-20%, M: 30-60% | 不稳定的法力模式，现实扭曲属性 |
+| 不死生物 (Undead) | E: 10-30%, S: 0-10%, M: 60-90% | 死灵能量取代正常灵魂成分 |
+| 被腐化的 (Corrupted) | E: 40-60%, S: 5-15%, M: 30-50% | 原始组成因腐化而扭曲 |
+| 巨人 (Giants) | E: 65-85%, S: 5-15%, M: 10-25% | 埃克桑提斯 (Exanthis) 占主导地位，具有原始魔法连接 |
 
-## Threat Assessment
+## 威胁评估
 
-The Adventurers' Guild and Royal Monster Hunters classify monsters by threat level:
+冒险者公会和皇家怪物猎人按威胁级别对怪物进行分类：
 
-| Threat Level | Description | Recommended Response |
+| 威胁级别 | 描述 | 推荐响应 |
 |--------------|-------------|----------------------|
-| **Alpha** | Existential threat to entire regions | Full military response, arch-mage intervention |
-| **Beta** | Capable of destroying settlements | Veteran hunter squads, master mages |
-| **Gamma** | Dangerous to small groups | Experienced adventurers, specialized hunters |
-| **Delta** | Threatening to individuals | Trained guards, novice adventurers |
-| **Epsilon** | Nuisance-level danger | Local militia, basic countermeasures |
+| **Alpha** | 对整个区域构成生存威胁 | 全面军事响应，大法师干预 |
+| **Beta** | 能够摧毁定居点 | 资深猎人小队，大师级法师 |
+| **Gamma** | 对小团体构成危险 | 经验丰富的冒险者，专业猎人 |
+| **Delta** | 对个人构成威胁 | 受过训练的警卫，新手冒险者 |
+| **Epsilon** | 滋扰级别危险 | 当地民兵，基本应对措施 |
 
-## Habitats and Territories
+## 栖息地和领地
 
-Monsters tend to inhabit specific environments based on their nature and origins:
+怪物倾向于根据其性质和起源居住在特定环境中：
 
-| Environment | Common Monster Types | Notable Characteristics |
+| 环境 | 常见怪物类型 | 显著特征 |
 |-------------|----------------------|-------------------------|
-| **Blighted Lands** | Corrupted beings, disease carriers | Magical contamination, toxic atmosphere |
-| **Ancient Ruins** | Undead, guardian constructs | Magical residue, historical significance |
-| **Deep Caverns** | Aberrations, subterranean predators | Isolation, evolutionary divergence |
-| **Wild Magic Zones** | Magical hybrids, reality warpers | Unpredictable magical effects, planar thinning |
-| **Abandoned Battlefields** | War spirits, animated weapons | Emotional residue, death magic |
-| **Primordial Forests** | Ancient guardians, feral horrors | Old growth, ley line convergence |
+| **枯萎之地 (Blighted Lands)** | 被腐化的生物，疾病携带者 | 魔法污染，有毒大气 |
+| **古代遗迹 (Ancient Ruins)** | 不死生物，守护构造体 | 魔法残留，历史意义 |
+| **深层洞穴 (Deep Caverns)** | 畸变体，地下掠食者 | 隔离，进化分化 |
+| **狂野魔法区域 (Wild Magic Zones)** | 魔法混合体，现实扭曲者 | 不可预测的魔法效果，位面稀疏 |
+| **废弃的战场 (Abandoned Battlefields)** | 战争灵魂，动画武器 | 情感残留，死亡魔法 |
+| **原始森林 (Primordial Forests)** | 古老的守护者，野蛮的恐怖 | 古老的生长，雷线汇聚 |
 
-## Monster Hunting
+## 怪物猎杀 (Monster Hunting)
 
-The pursuit and elimination of dangerous monsters has evolved into specialized professions:
+追捕和消灭危险怪物已经演变成专门的职业：
 
-### Professional Organizations
+### 专业组织
 
-- **Royal Monster Hunters**: Government-sanctioned experts who protect settlements
-- **Adventurers' Guild**: Independent contractors who handle monster-related quests
-- **Order of the Silver Blade**: Religious organization focused on undead and fiends
-- **Arcane Containment Corps**: Specialist mages who handle magical threats
+- **皇家怪物猎人 (Royal Monster Hunters)**：政府认可的专家，负责保护定居点
+- **冒险者公会 (Adventurers' Guild)**：处理怪物相关任务的独立承包商
+- **银刃教团 (Order of the Silver Blade)**：专注于不死生物和恶魔的宗教组织
+- **奥术收容军团 (Arcane Containment Corps)**：处理魔法威胁的专业法师
 
-### Common Tactics
+### 常用战术
 
-| Monster Type | Effective Approaches | Specialized Equipment |
+| 怪物类型 | 有效方法 | 专用设备 |
 |--------------|----------------------|----------------------|
-| **Aberrations** | Reality anchoring, pattern disruption | Stabilization runes, anti-magic implements |
-| **Undead** | Soul binding, consecrated weapons | Silver, blessed armaments, holy symbols |
-| **Corrupted** | Purification, elemental opposition | Cleansing salts, elemental focuses |
-| **Giants** | Mobility, group tactics | Specialized ballistas, immobilization devices |
+| **畸变体 (Aberrations)** | 现实锚定，模式破坏 | 稳定符文，反魔法工具 |
+| **不死生物 (Undead)** | 灵魂绑定，神圣武器 | 银器，祝福军械，圣物 |
+| **被腐化的 (Corrupted)** | 净化，元素对立 | 清洁盐，元素焦点 |
+| **巨人 (Giants)** | 机动性，团体战术 | 专用弩炮，固定装置 |
 
-## Research and Study
+## 研究和学习
 
-Despite their dangers, monsters provide valuable insights into magical principles and biological possibilities:
+尽管存在危险，怪物还是为魔法原理和生物可能性提供了宝贵的见解：
 
-- **Alchemical Applications**: Monster parts used in potions and magical compounds
-- **Magical Theory**: Study of unnatural creatures reveals new arcane knowledge
-- **Planar Research**: Extradimensional monsters provide insights into other realms
-- **Evolutionary Biology**: Aberrations challenge and expand biological understanding
+- **炼金术应用 (Alchemical Applications)**：用于药水和魔法化合物的怪物部件
+- **魔法理论 (Magical Theory)**：对不自然生物的研究揭示了新的奥术知识
+- **位面研究 (Planar Research)**：异次元怪物提供了对其他领域的见解
+- **进化生物学 (Evolutionary Biology)**：畸变体挑战并扩展了生物学理解
 
 ---
 
-> *"The line between monster and marvel is drawn not in the creature's form, but in our understanding of its nature."* — Archsage Veldrin, Monstrology Scholar 
+> *"怪物与奇迹之间的界限不在于生物的形式，而在于我们对其性质的理解。"* — 大贤者维尔德林 (Veldrin)，怪物学学者
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,97 +1,97 @@
 # **Merfolk**: The Guardians of the Deep
 
-[**Merfolk**](/codex/Creatures/Merfolk.md) are the guardians of the deep, their bodies a fluid harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a deep bassoon, they resonate with the currents of the ocean, creating a unique melody of existence that bridges the aquatic and terrestrial realms.
+[**Merfolk**](/codex/Creatures/Merfolk.md) 是深海的守护者，他们的身体是 [**Exanthis**](/codex/Basic/Exanthis.md)、[**Souls**](/codex/Basic/Soul.md) 和 **Mana Capacity** 的流畅和谐。 就像深沉的巴松管一样，他们与海洋的洋流产生共鸣，创造出一种独特的存在旋律，连接着水生和陆地领域。
 
 ## Elemental Composition
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **merfolk** forms a harmony that favors physical grace:
+如 [Creatures](/codex/Creatures/Creatures.md) 中所述，**merfolk** 的典型比例形成了一种偏向于身体优雅的和谐：
 
 | Element | Range | Function |
 |---------|------------|----------|
-| **Exanthis** | 30-50% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 25-40% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 20-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** | 30-50% | 提供适度身体力量和优雅的水晶核心 |
+| **Soul** | 25-40% | 塑造流动和适应性意识的以太本质 |
+| **Mana Capacity** | 20-40% | 实现适度魔法潜力的世界之间的桥梁 |
 
-This composition grants **merfolk** their characteristic grace and adaptability but typically moderates their magical potential compared to other species, like a versatile instrument that can play many notes but lacks the power of a full orchestra.
+这种构成赋予了 **merfolk** 其特有的优雅和适应性，但通常会降低其与其他物种（例如多功能乐器，可以演奏许多音符，但缺乏完整管弦乐队的力量）相比的魔法潜力。
 
 ### Individual Variations
 
-While the model composition represents the typical merfolk, individual variations exist based on their tribal lineage:
+虽然模型构成代表了典型的 merfolk，但基于其部落血统，存在个体差异：
 
-- **Depth Divers**: Some merfolk, particularly from the Deepswimmer tribe, possess enhanced Exanthis levels (up to 55%) that allow them to withstand the crushing pressures of the deepest ocean trenches.
-- **Tide Mages**: Specialized variants with higher Mana Capacity (up to 45%) excel at water magic, becoming powerful spellcasters who can control currents, weather, and even blood in living creatures.
-- **Ocean Sages**: Those with higher Soul percentages (up to 45%) develop extraordinary empathy and wisdom, often becoming tribal leaders, healers, or diplomats who bridge the gap between merfolk and other species.
-- **Reef Guardians**: A balanced variant (40% Exanthis, 30% Soul, 30% Mana Capacity) specializes in protecting coral reef ecosystems, developing unique magical abilities that nurture and restore damaged aquatic environments.
-- **Storm Callers**: Some merfolk develop a unique composition (35% Exanthis, 25% Soul, 40% Mana Capacity) that allows them to sense and manipulate weather patterns above the ocean, creating or dispersing storms that might threaten their territories.
+- **Depth Divers**: 一些 merfolk，特别是来自 Deepswimmer 部落的 merfolk，拥有增强的 Exanthis 水平（高达 55%），这使他们能够承受最深海沟的巨大压力。
+- **Tide Mages**: 具有更高 Mana Capacity（高达 45%）的特殊变体擅长水魔法，成为强大的施法者，可以控制洋流、天气，甚至活体生物中的血液。
+- **Ocean Sages**: 那些具有较高 Soul 百分比（高达 45%）的人会发展出非凡的同理心和智慧，通常成为部落首领、治疗师或外交官，弥合 merfolk 和其他物种之间的差距。
+- **Reef Guardians**: 一种平衡的变体（40% Exanthis，30% Soul，30% Mana Capacity）专门用于保护珊瑚礁生态系统，发展出独特的魔法能力，可以培育和恢复受损的水生环境。
+- **Storm Callers**: 一些 merfolk 发展出一种独特的构成（35% Exanthis，25% Soul，40% Mana Capacity），使他们能够感知和操纵海洋上方的天气模式，从而产生或驱散可能威胁其领土的风暴。
 
 ## Physical Characteristics
 
-**Merfolk** are known for their aquatic adaptations and graceful nature:
-- Humanoid upper bodies with fish-like lower bodies, allowing for efficient swimming
-- Eyes that are adapted to see clearly in the depths, often with a slight luminescence
-- Gills that allow them to breathe underwater, like delicate instruments attuned to the sea
-- Scales that provide natural protection and beauty, ranging in color from iridescent blue to deep green
-- Fins and webbed appendages that aid in swimming and balance
-- Ability to change the color of their scales for camouflage or communication
+**Merfolk** 以其水生适应性和优雅的本性而闻名：
+- 类人上半身和鱼状下半身，可以高效游泳
+- 眼睛适应在深处清晰地看到东西，通常带有轻微的发光
+- 鳃使他们能够在水下呼吸，就像调谐到海洋的精致乐器
+- 提供自然保护和美丽鳞片，颜色从虹彩蓝色到深绿色不等
+- 有助于游泳和平衡的鳍和蹼状附肢
+- 能够改变鳞片的颜色以进行伪装或交流
 
 ## Physical and Magical Affinity
 
-**Merfolk** demonstrate exceptional proficiency in swimming and aquatic combat, like virtuoso performers who have mastered their environment. Their composition allows them to:
-- Move through water with extraordinary grace and speed, like dancers in a liquid ballet
-- Channel water magic with moderate proficiency, like conductors of the ocean's symphony
-- Adapt to various aquatic environments, from shallow reefs to the deepest trenches
+**Merfolk** 在游泳和水生战斗中表现出非凡的熟练程度，就像掌握了其环境的演奏大师一样。 他们的构成使他们能够：
+- 以非凡的优雅和速度在水中移动，就像液体芭蕾中的舞者一样
+- 以适度的熟练程度引导水魔法，就像海洋交响乐的指挥家
+- 适应各种水生环境，从浅水礁到最深的海沟
 
-This specialization makes **merfolk** capable of achieving feats of aquatic prowess that few other species can match, though they may struggle with tasks requiring complex magical abilities, like an instrument that can play many notes but lacks the complexity of a full orchestra.
+这种专业化使 **merfolk** 能够实现其他物种很少能匹敌的水生实力壮举，尽管他们可能难以完成需要复杂魔法能力的任务，就像一种可以演奏许多音符但缺乏完整管弦乐队复杂性的乐器。
 
 ## Lifespan and Soul Decay
 
-The **soul decay** timeline for **merfolk**, from birth to complete decay, is approximately 300 years, like a steady flame that illuminates the depths. This moderate lifespan allows them to:
-- Accumulate knowledge and wisdom over generations
-- Develop deep connections to specific places and traditions
-- Form stable societies with strong communal bonds
+**merfolk** 的 **soul decay** 时间线，从出生到完全衰退，大约为 300 年，就像照亮深处的稳定火焰。 这种适度的寿命使他们能够：
+- 积累世代的知识和智慧
+- 发展与特定地点和传统的深厚联系
+- 形成具有强大社区联系的稳定社会
 
-However, their moderate soul ratio also means they change and adapt at a moderate pace, like a melody that evolves with the tides.
+然而，他们适度的灵魂比例也意味着他们以适度的速度改变和适应，就像随潮汐演变的旋律。
 
 ## Habitat and Distribution
 
-**Merfolk** primarily inhabit:
-- Ocean depths and underwater cities, where they can be closest to the currents
-- Coral reefs and kelp forests, where they can find shelter and resources
-- Coastal regions and estuaries, where they can interact with terrestrial species
-- Strategic locations that provide access to both aquatic and terrestrial resources
+**Merfolk** 主要栖息于：
+- 海洋深处和水下城市，在那里他们可以最接近洋流
+- 珊瑚礁和海带森林，在那里他们可以找到庇护所和资源
+- 沿海地区和河口，在那里他们可以与陆地物种互动
+- 提供水生和陆地资源通道的战略位置
 
-These locations provide ideal environments for the development of aquatic societies and the practice of water magic, like stages perfectly suited to their performance.
+这些地点为水生社会的发展和水魔法的实践提供了理想的环境，就像完美适合他们表演的舞台。
 
 ## Cultural Impact
 
-In the world of **OpenFantasy**, **merfolk** play a crucial role in maintaining the balance of aquatic ecosystems and preserving ancient traditions, like the steady bass notes that provide foundation to a symphony. Their societies are centers of:
-- Aquatic craftsmanship and architecture
-- Water magic and environmental preservation
-- Communal living and shared resources
+在 **OpenFantasy** 的世界中，**merfolk** 在维持水生生态系统的平衡和保护古老传统方面发挥着至关重要的作用，就像为交响乐奠定基础的稳定低音符。 他们的社会是以下中心：
+- 水生工艺和建筑
+- 水魔法和环境保护
+- 公共生活和共享资源
 
-The connection to the ocean has shaped merfolk culture around respect for the sea, community, and tradition, creating a society where harmony with nature is highly valued.
+与海洋的联系使 merfolk 文化围绕着对海洋、社区和传统的尊重而形成，创造了一个与自然和谐相处受到高度重视的社会。
 
 ## Relationship with Other Species
 
-**Merfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of curiosity and caution, often leading to limited interactions
-- With **Sirens**: A deep connection based on shared aquatic heritage but different magical affinities
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and resources
+**Merfolk** 与其他物种保持着复杂的关系：
+- 与 [**Humans**](/codex/Creatures/Human.md)：好奇和谨慎的混合，通常导致有限的互动
+- 与 **Sirens**：基于共同的水生遗产但具有不同魔法亲和力的深厚联系
+- 与 **Elves**：一种尊重的距离，承认他们的魔法实力，但发现他们的生活方式很奇怪
+- 与 **Dwarves**：一种基于相互尊重工艺和资源的务实联盟
 
-These relationships are often characterized by a sense of environmental stewardship, as **merfolk** view themselves as the true guardians of the oceans.
+这些关系的特征通常是环境管理意识，因为 **merfolk** 将自己视为海洋的真正守护者。
 
 ## Notable Merfolk Traits
 
-- **Aquatic Grace**: Merfolk excel in swimming and aquatic movement, often surpassing other species in their ability to navigate water
-- **Environmental Sensitivity**: Merfolk are deeply attuned to their aquatic surroundings, able to sense changes in currents and water quality
-- **Communal Living**: Merfolk place great emphasis on community and shared resources, creating strong social bonds
-- **Water Magic**: Merfolk have a natural connection to water magic, allowing them to manipulate this element with moderate proficiency
-- **Adaptability**: Merfolk can thrive in various aquatic environments, from shallow reefs to the deepest trenches
+- **Aquatic Grace**: Merfolk 擅长游泳和水生运动，通常在水上导航能力方面超越其他物种
+- **Environmental Sensitivity**: Merfolk 与其水生环境深切协调，能够感知洋流和水质的变化
+- **Communal Living**: Merfolk 非常重视社区和共享资源，从而建立牢固的社会关系
+- **Water Magic**: Merfolk 与水魔法有着天然的联系，使他们能够以适度的熟练程度操纵这一元素
+- **Adaptability**: Merfolk 可以在各种水生环境中茁壮成长，从浅水礁到最深的海沟
 
 ## Merfolk Tribes
 
-Merfolk society is organized into numerous tribes, each with its own specialties and traditions:
+Merfolk 社会组织成许多部落，每个部落都有自己的专业和传统：
 
 | Tribe | Specialty | Territory | Notable Traits |
 |---------|---------------|---------|-------------------|
@@ -102,4 +102,8 @@ Merfolk society is organized into numerous tribes, each with its own specialties
 | **Coralcrafters** | Art, architecture | Kelp forests | Artistic abilities, architectural innovation |
 | **Estuaryguardians** | Diplomacy, trade | Estuaries | Diplomatic skills, trading expertise |
 
-Understanding the nature of **merfolk** provides insight into the aquatic aspects of the world of **OpenFantasy**, like listening to the deep, resonant melodies that echo through the oceans. 
+理解 **merfolk** 的本质可以深入了解 **OpenFantasy** 世界的水生方面，就像聆听在海洋中回荡的深沉、共鸣的旋律。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,105 +1,109 @@
-# **Gnomes**: The Ingenious Crafters of Innovation
+# **Gnomes**: 创新的巧妙工匠
 
-[**Gnomes**](/codex/Creatures/Gnomes.md) are the ingenious crafters of innovation, their bodies a delicate harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a complex music box, they resonate with the precision of machinery, creating a unique melody of existence that bridges the magical and technological realms.
+[**Gnomes**](/codex/Creatures/Gnomes.md) 是创新的巧妙工匠，他们的身体是 [**Exanthis**](/codex/Basic/Exanthis.md)、[**Souls**](/codex/Basic/Soul.md) 和 **Mana Capacity** 的微妙和谐。 就像一个复杂的音乐盒，他们以机械的精度产生共鸣，创造出一种独特的存在旋律，连接着魔法和科技领域。
 
-## Elemental Composition
+## 元素构成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **gnomes** forms a harmony that favors adaptability:
+正如 [Creatures](/codex/Creatures/Creatures.md) 中详细介绍的，**gnomes** 的典型比例形成了一种有利于适应性的和谐：
 
-| Element | Range | Function |
+| 元素 | 范围 | 功能 |
 |---------|------------|----------|
-| **Exanthis** | 20-40% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 30-50% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 25-40% | The bridge between worlds that enables moderate magical potential |
+| **Exanthis** | 20-40% | 提供最小物理强度和耐用性的结晶核心 |
+| **Soul** | 30-50% | 塑造流畅和适应性意识的以太精华 |
+| **Mana Capacity** | 25-40% | 实现适度魔法潜力的世界之间的桥梁 |
 
-This composition grants **gnomes** their characteristic ingenuity and adaptability but typically limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+这种构成赋予了 **gnomes** 其特有的聪明才智和适应性，但通常限制了它们与其他物种相比的身体韧性，就像一种精致的乐器，可以发出美妙的声音，但必须小心处理。
 
-### Individual Variations
+### 个体差异
 
-While the model composition represents the typical gnome, individual variations exist based on their guild affiliations:
+虽然模型构成代表了典型的 gnome，但个体差异基于他们的公会关系而存在：
 
-- **Master Tinkerers**: Some gnomes from the Tinkerguild possess enhanced Soul percentages (up to 55%) that allow them extraordinary creativity and problem-solving abilities, often at the expense of physical strength (20% Exanthis).
-- **Arcanists**: Specialized variants with higher Mana Capacity (up to 45%) excel at magical invention, creating devices that seamlessly blend technology and magic in ways other species find impossible.
-- **Durability Engineers**: Rarer gnomes with enhanced Exanthis (up to 45%) focus on developing resilient technologies and often serve as field testers for dangerous inventions.
-- **Alchemical Innovators**: A balanced variant (30% Exanthis, 40% Soul, 30% Mana Capacity) specializes in creating substances and potions that defy normal classification as either magical or technological.
-- **Artifice Savants**: Some gnomes develop a unique composition (25% Exanthis, 35% Soul, 40% Mana Capacity) that allows them to intuitively understand magical artifacts and replicate their functions through technological means.
+- **Master Tinkerers**: 来自 Tinkerguild 的一些 gnome 拥有增强的 Soul 百分比（高达 55%），这使他们具有非凡的创造力和解决问题的能力，通常以牺牲体力为代价（20% Exanthis）。
+- **Arcanists**: 具有更高 Mana Capacity（高达 45%）的专业变体擅长魔法发明，以其他物种认为不可能的方式无缝地融合了技术和魔法。
+- **Durability Engineers**: 具有增强的 Exanthis（高达 45%）的罕见 gnome 专注于开发有弹性的技术，并且通常充当危险发明的现场测试员。
+- **Alchemical Innovators**: 一种平衡变体（30% Exanthis、40% Soul、30% Mana Capacity）专门用于创造违反正常分类为魔法或技术的物质和药剂。
+- **Artifice Savants**: 一些 gnome 发展出一种独特的构成（25% Exanthis、35% Soul、40% Mana Capacity），使他们能够直观地理解魔法文物并通过技术手段复制其功能。
 
-## Physical Characteristics
+## 物理特征
 
-**Gnomes** are known for their small size and inventive nature:
-- Height ranging from 3 to 4 feet, making them one of the smallest sentient species
-- Proportionate build with delicate features, like finely crafted miniatures
-- Eyes that sparkle with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair that is often styled in elaborate designs, showcasing their creativity
-- Hands with extra dexterity, allowing for precise manipulation of small objects
-- Natural resistance to magical effects, like a well-insulated circuit
+**Gnomes** 以其娇小的身材和富有创造力的天性而闻名：
+- 身高范围从 3 到 4 英尺，使它们成为最小的知性物种之一
+- 比例匀称的体格，具有精致的特征，如精雕细琢的微型模型
+- 眼睛闪烁着内在的光芒，反映了他们与 [**Exanthis**](/codex/Basic/Exanthis.md) 的联系
+- 头发通常采用精心设计的方式，展示他们的创造力
+- 手部具有额外的灵活性，可以精确操作小物体
+- 对魔法效果的天然抵抗力，就像一个绝缘良好的电路
 
-## Magical and Technological Affinity
+## 魔法和科技亲和力
 
-**Gnomes** demonstrate exceptional proficiency in combining magic and technology, like virtuoso musicians who have mastered the art of harmony. Their composition allows them to:
-- Create intricate magical devices that blend technology and enchantment, like composers who have perfected the art of the symphony
-- Develop innovative solutions to complex problems, like artists who have mastered the art of improvisation
-- Adapt quickly to new situations and technologies, like instruments that can play in any key
+**Gnomes** 在结合魔法和技术方面表现出非凡的熟练程度，就像掌握了和谐艺术的音乐大师。 他们的构成使他们能够：
+- 创造融合技术和魔法的复杂魔法设备，就像完善了交响乐艺术的作曲家
+- 开发解决复杂问题的创新解决方案，就像掌握了即兴创作艺术的艺术家
+- 快速适应新的情况和技术，就像可以在任何调上演奏的乐器
 
-This specialization makes **gnomes** capable of achieving feats of ingenuity that few other species can match, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+这种专业化使 **gnomes** 能够实现其他物种无法比拟的创造壮举，尽管他们可能难以完成需要体力或韧性的任务，就像一种精致的乐器，可以发出美妙的声音，但无法承受粗暴的处理。
 
-## Lifespan and Soul Decay
+## 寿命和灵魂衰退
 
-The **soul decay** timeline for **gnomes**, from birth to complete decay, is approximately 500 years, like a steady flame that illuminates the workshop. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and traditions
-- Form complex societies with intricate customs and rituals
+**gnomes** 的 **soul decay** 时间表，从出生到完全衰退，大约是 500 年，就像照亮工作室的稳定火焰。 这种延长的寿命使他们能够：
+- 积累几个世纪的丰富知识和智慧
+- 与特定地点和传统建立深厚的联系
+- 形成具有复杂习俗和仪式的复杂社会
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+然而，他们较慢的灵魂衰退也意味着他们比其他物种变化和适应得更慢，就像一段旋律在岁月中保持美丽但不变。
 
-## Habitat and Distribution
+## 栖息地和分布
 
-**Gnomes** primarily inhabit:
-- Underground cities and workshops, where they can be closest to their inventions
-- Magical laboratories and research facilities, where they can study and innovate
-- Strategic locations that provide access to both magical and technological resources
-- Hidden enclaves that protect their secrets and inventions
+**Gnomes** 主要居住在：
+- 地下城市和工作室，在那里他们可以最接近他们的发明
+- 魔法实验室和研究机构，在那里他们可以学习和创新
+- 提供魔法和技术资源的战略位置
+- 保护他们的秘密和发明的隐藏飞地
 
-These locations provide ideal environments for magical study and technological innovation, like perfect acoustics for a symphony.
+这些地点为魔法研究和技术创新提供了理想的环境，就像交响乐的完美音响效果。
 
-## Cultural Impact
+## 文化影响
 
-In the world of **OpenFantasy**, **gnomes** play a crucial role in advancing technology and magic, like weavers of intricate melodies. Their societies are centers of:
-- Technological innovation and magical research
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+在 **OpenFantasy** 的世界里，**gnomes** 在推进技术和魔法方面发挥着至关重要的作用，就像编织复杂旋律的织布工。 他们的社会是以下方面的中心：
+- 技术创新和魔法研究
+- 艺术表达和审美提炼
+- 外交关系和文化交流
 
-The connection to innovation has shaped gnomish culture around the study and mastery of technology and magic, creating a society where ingenuity and creativity are highly valued.
+与创新的联系塑造了围绕技术和魔法的学习和掌握的 gnomish 文化，创造了一个高度重视聪明才智和创造力的社会。
 
-## Relationship with Other Species
+## 与其他物种的关系
 
-**Gnomes** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and amusement, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for magic and beauty
-- With **Dwarves**: A respectful alliance based on mutual respect for craftsmanship and innovation
-- With **Golems**: A deep connection based on shared appreciation for technology and precision
+**Gnomes** 与其他物种保持着复杂的关系：
+- 与 [**Humans**](/codex/Creatures/Human.md): 迷恋和娱乐的混合体，经常导致复杂的互动
+- 与 **Elves**: 基于对魔法和美丽的共同欣赏的深厚联系
+- 与 **Dwarves**: 基于对工艺和创新的相互尊重的尊敬联盟
+- 与 **Golems**: 基于对技术和精度的共同欣赏的深厚联系
 
-These relationships are often characterized by a sense of cultural superiority, as **gnomes** view themselves as the true innovators of the world.
+这些关系的特征通常是一种文化优越感，因为 **gnomes** 认为自己是世界真正的创新者。
 
-## Notable Gnome Traits
+## 值得注意的 Gnome 特征
 
-- **Ingenuity**: Gnomes excel in creating innovative solutions to complex problems
-- **Technological Mastery**: Gnomes have a natural talent for understanding and manipulating technology
-- **Magical Sensitivity**: Gnomes are deeply attuned to the subtle harmonies of magic
-- **Environmental Adaptation**: Gnomes can thrive in various environments, from underground cities to floating islands
-- **Artistic Expression**: Gnomes have developed highly refined artistic and cultural traditions
+- **Ingenuity**: Gnomes 擅长为复杂问题创造创新的解决方案
+- **Technological Mastery**: Gnomes 在理解和操纵技术方面具有与生俱来的天赋
+- **Magical Sensitivity**: Gnomes 深深地适应了魔法的微妙和谐
+- **Environmental Adaptation**: Gnomes 可以在各种环境中茁壮成长，从地下城市到漂浮岛屿
+- **Artistic Expression**: Gnomes 发展了高度精致的艺术和文化传统
 
 ## Gnomish Guilds
 
-Gnome society is organized into numerous guilds, each with its own specialties and traditions:
+Gnome 社会被组织成众多公会，每个公会都有自己的专业和传统：
 
-| Guild | Specialty | Territory | Notable Traits |
+| 公会 | 专业 | 领土 | 值得注意的特征 |
 |---------|---------------|---------|-------------------|
-| **Tinkerguild** | Technology, innovation | Underground workshops | Technological innovation, mechanical mastery |
-| **Arcaneguild** | Magic, research | Magical laboratories | Magical research, spell development |
-| **Artificerguild** | Artifacts, enchantment | Enchantment chambers | Artifact creation, enchantment mastery |
-| **Alchemistguild** | Potions, transmutation | Alchemical laboratories | Potion brewing, transmutation expertise |
-| **Engineerguild** | Architecture, construction | Construction sites | Architectural innovation, construction expertise |
-| **Inventorguild** | Inventions, patents | Invention halls | Invention creation, patent development |
+| **Tinkerguild** | 技术，创新 | 地下工作室 | 技术创新，机械掌握 |
+| **Arcaneguild** | 魔法，研究 | 魔法实验室 | 魔法研究，法术开发 |
+| **Artificerguild** | 文物，附魔 | 附魔室 | 文物创造，附魔掌握 |
+| **Alchemistguild** | 药剂，嬗变 | 炼金术实验室 | 药剂酿造，嬗变专业知识 |
+| **Engineerguild** | 建筑，建造 | 建筑工地 | 建筑创新，建造专业知识 |
+| **Inventorguild** | 发明，专利 | 发明大厅 | 发明创造，专利开发 |
 
-Understanding the nature of **gnomes** provides insight into the technological and magical aspects of the world of **OpenFantasy**, like listening to the intricate melodies that echo through the workshops and laboratories. 
+了解 **gnomes** 的本质可以深入了解 **OpenFantasy** 世界的技术和魔法方面，就像聆听在工作室和实验室中回荡的复杂旋律。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

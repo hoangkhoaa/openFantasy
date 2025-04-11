@@ -1,151 +1,155 @@
-# **The School of Divination**
+# **预言学院**
 
-> *"To see beyond sight is to understand that time and space are but suggestions to those who know how to listen."*  
-> — Archmage Thalindra Starwhisper, Oracle of the Seventh Veil
+> *"超越视线去看，就是去理解时间和空间对于那些懂得倾听的人来说只不过是建议。"*
+> — 大法师塔琳德拉·星语，第七面纱的先知
 
-## Overview
+## 概述
 
-Divination magic focuses on gaining insight, knowledge, and understanding beyond ordinary perception. Unlike illusion magic which creates false perceptions, divination enhances and extends perception to reveal hidden truths about the past, present, and possible futures. Divination is considered one of the most subtle and complex magical arts, requiring exceptional mana control and mental discipline.
+预言魔法专注于获得洞察力、知识和理解力，超越普通的感知。与创造虚假感知的幻术魔法不同，预言魔法增强和扩展感知，以揭示关于过去、现在和可能未来的隐藏真相。预言魔法被认为是最微妙和复杂的魔法艺术之一，需要卓越的法力控制和精神纪律。
 
-## Fundamental Principles
+## 基本原则
 
-### The Threads of Fate
+### 命运之线
 
-Divination operates on the principle that all events, objects, and beings are connected by invisible threads of causality and resonance. These "Threads of Fate" contain information about their connections, origins, and potential futures. Divination magic allows practitioners to perceive and interpret these threads.
+预言魔法基于以下原则运作：所有事件、物体和生物都通过无形的因果关系和共鸣之线连接在一起。这些“命运之线”包含关于它们的连接、起源和潜在未来的信息。预言魔法允许从业者感知和解读这些线。
 
-The four fundamental aspects of divinatory perception are:
+预言感知的四个基本方面是：
 
-1. **Temporal Echoes**: Residual information from past events
-2. **Spatial Connections**: Links between related objects, places, and beings
-3. **Causal Patterns**: The web of cause and effect that shapes events
-4. **Potential Futures**: Probability streams of what may come to pass
+1. **时间回响**: 来自过去事件的残留信息
+2. **空间连接**: 相关物体、地点和生物之间的链接
+3. **因果模式**: 塑造事件的因果关系网络
+4. **潜在未来**: 可能发生的事情的概率流
 
-### Mana Requirements
+### 法力需求
 
-Divination magic requires precise mana composition:
+预言魔法需要精确的法力构成：
 
-| Divinatory Focus | Primary Mana | Secondary Mana | Purpose |
+| 预言焦点 | 主要法力 | 次要法力 | 目的 |
 |------------------|-------------|----------------|---------|
-| Present Sensing | Base Mana (50-70%) | Varies by target | Foundation for perception extension |
-| Past Viewing | Chronomana (40-60%) | Base Mana (30-40%) | Accessing temporal echoes |
-| Future Glimpsing | Chronomana (60-80%) | Umbramana (10-20%) | Probability stream navigation |
-| Object Reading | Base Mana (40-60%) | Terramana (30-40%) | Material memory extraction |
-| Life Reading | Base Mana (30-50%) | Floramana/Faunamana (40-50%) | Biological connection tracing |
-| Distant Viewing | Aeromana (50-70%) | Base Mana (20-30%) | Spatial perception extension |
+| 当前感知 | 基础法力 (50-70%) | 因目标而异 | 感知扩展的基础 |
+| 过去观看 | 时间法力 (40-60%) | 基础法力 (30-40%) | 访问时间回响 |
+| 未来瞥视 | 时间法力 (60-80%) | 暗影法力 (10-20%) | 概率流导航 |
+| 物体阅读 | 基础法力 (40-60%) | 土之法力 (30-40%) | 提取物质记忆 |
+| 生命阅读 | 基础法力 (30-50%) | 植物法力/动物法力 (40-50%) | 生物连接追踪 |
+| 远程观看 | 空气法力 (50-70%) | 基础法力 (20-30%) | 空间感知扩展 |
 
-More powerful divination spells often require complex harmonization of multiple mana types, with precise ratios that must be maintained throughout the casting process.
+更强大的预言法术通常需要多种法力类型的复杂协调，精确的比例必须在整个施法过程中保持。
 
-### Wild Mana Interference
+### 狂野法力干扰
 
-Divination is extraordinarily vulnerable to Wild Mana contamination. The unpatterned nature of Wild Mana creates "false threads" that can lead to inaccurate readings or dangerous misinterpretations. Effects include:
+预言魔法极其容易受到狂野法力污染。狂野法力的无模式性质会产生“虚假之线”，可能导致不准确的解读或危险的误解。影响包括：
 
-- **Temporal Distortion**: Viewing events from incorrect time periods
-- **False Positives**: Seeing connections that don't actually exist
-- **Probability Cascade**: Overwhelming the caster with multiple conflicting futures
-- **Perceptual Anchoring**: The caster becoming trapped in a divinatory vision
+- **时间扭曲**: 从不正确的时间段观看事件
+- **假阳性**: 看到实际上不存在的连接
+- **概率级联**: 多个相互冲突的未来压倒施法者
+- **感知锚定**: 施法者被困在预言幻象中
 
-Advanced practitioners develop specialized Wild Mana filtering techniques to minimize these risks.
+高级从业者开发专门的狂野法力过滤技术，以最大限度地降低这些风险。
 
-## Mana Purification for Divination
+## 预言的法力净化
 
-Divination requires exceptionally high mana purity due to the subtle nature of the information being accessed. The purification process focuses on achieving "Perceptual Clarity" - a state where the mana is refined to eliminate any elements that would create false perceptions.
+由于被访问信息的微妙性，预言需要极其高的法力纯度。净化过程侧重于实现“感知清晰度” - 一种将法力提炼到消除任何可能产生错误感知的元素的状态。
 
-| Purification Level | Divination Capability |
+| 净化等级 | 预言能力 |
 |--------------------|----------------------|
-| Basic (20-30%) | Simple object reading and magical detection |
-| Intermediate (35-50%) | Short-range scrying and basic past viewing |
-| Advanced (55-70%) | Reliable future glimpsing and detailed past viewing |
-| Master (75-85%) | Long-range viewing with high accuracy and clarity |
-| Grandmaster (90%+) | Multi-temporal perception and probability manipulation |
+| 基础 (20-30%) | 简单的物体阅读和魔法检测 |
+| 中级 (35-50%) | 短程占卜和基本的过去观看 |
+| 高级 (55-70%) | 可靠的未来瞥视和详细的过去观看 |
+| 大师 (75-85%) | 远距离观看，具有高精度和清晰度 |
+| 大宗师 (90%+) | 多时态感知和概率操纵 |
 
-## Magical Resonance in Divination
+## 预言中的魔法共鸣
 
-Divination exhibits unique resonance patterns described as "harmonic perception" - where the mana pattern synchronizes with the information being sought, allowing it to be perceived and interpreted by the caster.
+预言表现出独特的共鸣模式，被称为“谐波感知” - 法力模式与所寻求的信息同步，使其能够被施法者感知和解读。
 
-This resonance is highly personal, which is why divination results can vary between practitioners even when viewing the same target. Each diviner develops a unique "perceptual signature" that colors their interpretation of divinatory information.
+这种共鸣是高度个性化的，这就是为什么即使在观看同一目标时，预言结果也会因从业者而异。每个预言者都会发展出独特的“感知签名”，这会影响他们对预言信息的解读。
 
-## Specialized Disciplines
+## 专业学科
 
-### Chronomancy
+### 时间魔法
 
-Focused on viewing events across time, particularly the past and possible futures. Practitioners are known as Chronoseers.
+专注于观看跨越时间的事件，特别是过去和可能的未来。从业者被称为时间预言家。
 
-### Psychometry
+### 灵迹术
 
-The art of reading objects to perceive information about their history, owners, and significance. Masters are called Memoryreaders.
+阅读物体以感知有关其历史、所有者和重要性的信息的艺术。大师被称为记忆阅读者。
 
-### Spatial Scrying
+### 空间占卜
 
-Specializes in viewing distant locations in the present moment. Practitioners are known as Farseers.
+专门研究在当前时刻观看遥远地点。从业者被称为远视者。
 
-### Auramancy
+### 灵气魔法
 
-The discipline of perceiving and interpreting the magical and life energies that surround beings. Practitioners are called Aurasights.
+感知和解读环绕生物的魔法和生命能量的学科。从业者被称为灵气视觉者。
 
-### Probability Mapping
+### 概率映射
 
-Advanced discipline focused on identifying and navigating potential futures. Masters are known as Fateweavers.
+专注于识别和导航潜在未来的高级学科。大师被称为命运编织者。
 
-## Training Methodology
+## 训练方法
 
-Divination training follows a methodical progression:
+预言训练遵循有条不紊的进展：
 
-1. **Perceptual Expansion**: Learning to extend awareness beyond physical senses
-2. **Signal Isolation**: Developing the ability to focus on specific information threads
-3. **Wild Mana Filtering**: Techniques for eliminating perceptual contamination
-4. **Temporal Navigation**: Methods for shifting perceptual focus through time
-5. **Interpretation Rigor**: Developing systematic approaches to analyzing divinatory information
-6. **Multi-Threading**: Advanced techniques for following multiple information streams
-7. **Anchoring Practices**: Methods to maintain connection to present reality during deep divination
+1. **感知扩展**: 学习将意识扩展到物理感官之外
+2. **信号隔离**: 培养专注于特定信息线程的能力
+3. **狂野法力过滤**: 消除感知污染的技术
+4. **时间导航**: 通过时间转移感知焦点的方法
+5. **解读严谨**: 开发分析预言信息的系统方法
+6. **多线程**: 跟踪多个信息流的高级技术
+7. **锚定实践**: 在深度预言期间保持与当前现实联系的方法
 
-## Ethical Considerations
+## 伦理考量
 
-Divination raises significant ethical concerns regarding privacy, free will, and responsibility:
+预言引发了关于隐私、自由意志和责任的重大伦理问题：
 
-- **Perceptual Consent**: The question of whether viewing others without permission violates their autonomy
-- **Future Knowledge**: The ethical implications of acting on knowledge of potential futures
-- **Intervention Responsibility**: Whether diviners have an obligation to prevent foreseen harms
-- **Truth Disclosure**: Guidelines about sharing potentially harmful divinatory information
+- **感知同意**: 未经许可观看他人是否侵犯了他们的自主权
+- **未来知识**: 根据潜在未来的知识采取行动的伦理含义
+- **干预责任**: 预言者是否有义务预防预见的危害
+- **真相披露**: 关于分享可能有害的预言信息的指导方针
 
-Most reputable magical institutions enforce strict codes of conduct for diviners, including restrictions on divining private moments and requirements to report certain categories of foreseen threats.
+大多数信誉良好的魔法机构都对预言者执行严格的行为准则，包括限制预言私人时刻，以及要求报告某些类别的预见威胁。
 
-## Limitations and Countermeasures
+## 局限性和对策
 
-Despite its power, divination has inherent limitations:
+尽管预言魔法威力强大，但它也有内在的局限性：
 
-- **Probability Flux**: Future events exist as probability streams that can shift based on choices
-- **Perceptual Filters**: The diviner's own biases can affect interpretation
-- **Energy Requirements**: Powerful divination requires significant mana and mental focus
-- **Temporal Distance**: Greater temporal or spatial distance increases difficulty and reduces accuracy
+- **概率波动**: 未来事件以概率流的形式存在，可以根据选择而改变
+- **感知过滤器**: 预言者自身的偏见会影响解读
+- **能量需求**: 强大的预言需要大量的法力和精神集中
+- **时间距离**: 更大的时间或空间距离会增加难度并降低准确性
 
-Common countermeasures against unwanted divination include:
+针对不必要的预言魔法的常见对策包括：
 
-- **Veiling**: Spells that obscure objects or beings from divinatory perception
-- **Thread Severing**: Techniques that break connections that diviners might follow
-- **Pattern Disruption**: Methods that create confusing or misleading information patterns
-- **Wild Mana Saturation**: Creating local concentrations of Wild Mana to introduce false signals
+- **遮蔽**: 阻止物体或生物被预言感知的法术
+- **断线**: 打破预言者可能追踪的连接的技术
+- **模式破坏**: 创建混乱或误导性信息模式的方法
+- **狂野法力饱和**: 创建狂野法力的局部浓度以引入虚假信号
 
-## Musical Analogy
+## 音乐类比
 
-In the musical framework of magic, divination is akin to active listening - the art of discerning specific instruments, harmonies, and melodies within a complex orchestration. The diviner must tune their perception to the specific "frequency" of the information they seek, filtering out background noise.
+在魔法的音乐框架中，预言类似于主动聆听 - 在复杂的管弦乐编排中辨别特定乐器、和声和旋律的艺术。预言者必须将他们的感知调整到他们寻求的信息的特定“频率”，过滤掉背景噪音。
 
-Master diviners describe their craft as finding the silent spaces between notes, where the future and past whisper their secrets. Like a conductor who can hear a single out-of-tune instrument in a full orchestra, the skilled diviner can identify the specific thread of information they seek amidst the countless connections that bind reality together.
+预言大师将他们的技艺描述为在音符之间的寂静空间中找到秘密，未来和过去在那里低语着他们的秘密。就像指挥家可以听到完整管弦乐队中单个音调不准的乐器一样，熟练的预言者可以在将现实联系在一起的无数连接中识别出他们寻求的特定信息线。
 
-## Notable Practitioners
+## 著名从业者
 
-- **Thalindra Starwhisper**: Developer of the Stellar Divination system and author of "Voices Beyond Time"
-- **Eldrin Truthseeker**: Creator of the Magic Sense spell and pioneer of magical energy detection
-- **Sylarion Fatecaller**: Master of Probability Mapping who accurately predicted the Fall of Caelum
-- **Moira Veilwalker**: Renowned for developing Wild Mana filtering techniques for divination
+- **塔琳德拉·星语**: 星体预言系统的开发者和《超越时间的声音》的作者
+- **埃尔德林·寻真者**: 魔法感知法术的创造者和魔法能量检测的先驱
+- **赛拉里昂·命运召唤者**: 精通概率映射，准确预测了凯鲁姆的陨落
+- **莫伊拉·面纱行者**: 以开发用于预言的狂野法力过滤技术而闻名
 
-## Historical Development
+## 历史发展
 
-Divination is one of the oldest magical disciplines, with evidence of formalized practice dating to the First Age. Early divination focused primarily on weather prediction, hunting success, and tribal fate, developing from shamanic traditions.
+预言魔法是最古老的魔法学科之一，有证据表明其正式实践可以追溯到第一时代。早期预言主要集中在天气预测、狩猎成功和部落命运上，从萨满教传统发展而来。
 
-The Second Age saw the emergence of systematic divination theory with the writing of "The Threads That Bind" by Archseer Elindor. This established the fundamental conceptual framework still used in modern practice.
+第二时代见证了系统预言理论的出现，由大预言家埃林多撰写了《连接之线》。这确立了现代实践中仍然使用的基本概念框架。
 
-The Third Age brought technological and theoretical advances, particularly in the area of Wild Mana filtering and probability navigation. Modern divination continues to evolve, with increasing integration with other magical disciplines such as enchantment and warding.
+第三时代带来了技术和理论进步，特别是在狂野法力过滤和概率导航领域。现代预言仍在不断发展，并日益与其他魔法学科（如附魔和防护）融合。
 
 ---
 
-*See also: [Magic Sense](/codex/Magics/Spells/Divination/MagicSense.md), [Temporal Magic](/codex/Magics/Domains/Temporal.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*另请参阅：[魔法感知](/codex/Magics/Spells/Divination/MagicSense.md), [时间魔法](/codex/Magics/Domains/Temporal.md), [法力净化](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

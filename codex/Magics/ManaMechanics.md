@@ -1,183 +1,187 @@
-# **Mana Mechanics**: Core Systems of Magical Energy
+# **法力机制**: 魔法能量的核心系统
 
-## Quick Reference Links
-- [Mana Capacity and Storage](#mana-capacity-and-spell-casting)
-- [Mana Purity and Spell Effectiveness](#mana-purity-and-spell-effectiveness)
-- [Two-Phase Mana Conversion](#two-phase-mana-conversion-process)
-- [Spell Technical Requirements](#spell-technical-requirements)
-- [Training Progression](#training-progression)
+## 快速参考链接
+- [法力容量和咒语施放](#mana-capacity-and-spell-casting)
+- [法力纯度和咒语效果](#mana-purity-and-spell-effectiveness)
+- [两阶段法力转换](#two-phase-mana-conversion-process)
+- [咒语技术要求](#spell-technical-requirements)
+- [训练进度](#training-progression)
 
-## Overview
+## 概述
 
-Mana mechanics govern how magical energy is gathered, stored, refined, and utilized within OpenFantasy. This document outlines the fundamental relationships between different aspects of mana manipulation.
+法力机制管控着在 OpenFantasy 中魔法能量的收集、储存、提炼和利用方式。本文档概述了法力操纵不同方面之间的基本关系。
 
-## Two-Phase Mana Conversion Process
+## 两阶段法力转换过程
 
-The foundation of all spellcasting lies in a two-phase conversion process that transforms environmental Wild Mana into usable magical energy:
+所有咒语施放的基础在于一个两阶段转换过程，它将环境中的原始法力转换为可用的魔法能量：
 
-### Phase 1: Wild Mana to Base Mana (Effectiveness-Focused)
-- **Definition**: The biological process of absorbing Wild Mana from the environment and converting it to stable Base Mana within the caster's body
-- **Key Metric**: Conversion Effectiveness (how efficiently Wild Mana becomes Base Mana)
-- **Primary Bottleneck**: Mana Capacity (internal storage limitation)
-- **Primary Function**: Creates the caster's internal magical reserves
+### 阶段 1：原始法力到基础法力 (侧重效率)
+- **定义**: 从环境中吸收原始法力的生物过程，并在施法者的身体内将其转换为稳定的基础法力。
+- **关键指标**: 转换效率 (原始法力转化为基础法力的效率)
+- **主要瓶颈**: 法力容量 (内部存储限制)
+- **主要功能**: 创建施法者的内部魔法储备
 
-> **Important Note**: All mana stored within living creatures is Base Mana. Wild Mana cannot be stored directly in biological systems without causing harm.
+> **重要提示**: 所有储存在生物体内的法力都是基础法力。原始法力不能直接储存在生物系统中，否则会造成伤害。
 
-### Phase 2: Base Mana to Elemental Mana (Purity-Focused)
-- **Definition**: The conscious, technical process of refining Base Mana into specialized Elemental Mana for spellcasting
-- **Key Metric**: Purity Percentage (ratio of refined Elemental Mana to total energies used)
-- **Primary Bottleneck**: Skill and technique (training-dependent)
-- **Primary Function**: Creates specialized magical energy suitable for spellcasting
+### 阶段 2：基础法力到元素法力 (侧重纯度)
+- **定义**: 有意识的、技术性的过程，将基础法力提炼成专门的元素法力用于咒语施放。
+- **关键指标**: 纯度百分比 (提炼后的元素法力与使用的总能量之比)
+- **主要瓶颈**: 技能和技术 (依赖于训练)
+- **主要功能**: 创建适合咒语施放的专门魔法能量
 
-These two phases operate in sequence but require different skills and aptitudes, explaining why some casters may have large reserves but poor control, or vice versa.
+这两个阶段按顺序运行，但需要不同的技能和能力，这就解释了为什么有些施法者可能拥有大量的储备但控制力较差，反之亦然。
 
-## Mana Capacity and Spell Casting
+## 法力容量和咒语施放
 
-Mana Capacity refers to the maximum amount of Base Mana a caster can store within their body after completing Phase 1 conversion. This capacity directly affects:
+法力容量指的是施法者完成阶段 1 转换后，可以储存在体内的基础法力的最大量。这个容量直接影响：
 
-1. **Storage Capacity**: Total magical reserves available for Phase 2 conversion and spellcasting
-2. **Regeneration Rate**: Speed at which depleted Base Mana is replenished through Phase 1 processes
-3. **Casting Endurance**: Ability to sustain multiple spells or prolonged magical effects
+1. **存储容量**: 可用于阶段 2 转换和咒语施放的总魔法储备
+2. **再生速率**: 通过阶段 1 过程补充耗尽的基础法力的速度
+3. **施法耐力**: 维持多个咒语或长时间魔法效果的能力
 
-### Capacity Levels and Effects
+### 容量等级和效果
 
-| Capacity Level | Base Mana Storage | Typical Regeneration | Maximum Spell Level | Representative Example |
+| 容量等级 | 基础法力存储 | 典型再生 | 最大咒语等级 | 代表性例子 |
 |----------------|-------------------|----------------------|---------------------|------------------------|
-| Minimal (5-10%) | 5-10 units | 1 unit/hour | 1 | Average non-practitioner |
-| Low (10-25%) | 10-25 units | 2 units/hour | 2 | Apprentice mage |
-| Moderate (25-40%) | 25-40 units | 3-4 units/hour | 3 | Journeyman mage |
-| High (40-60%) | 40-60 units | 5-6 units/hour | 4 | Master mage |
-| Exceptional (60-80%) | 60-80 units | 7-9 units/hour | 5 | Archmage |
-| Legendary (80-100%) | 80-100+ units | 10+ units/hour | 6+ | Once-in-a-generation talent |
+| 极低 (5-10%) | 5-10 单位 | 1 单位/小时 | 1 | 普通非魔法师 |
+| 低 (10-25%) | 10-25 单位 | 2 单位/小时 | 2 | 魔法学徒 |
+| 中等 (25-40%) | 25-40 单位 | 3-4 单位/小时 | 3 | 魔法工匠 |
+| 高 (40-60%) | 40-60 单位 | 5-6 单位/小时 | 4 | 魔法大师 |
+| 卓越 (60-80%) | 60-80 单位 | 7-9 单位/小时 | 5 | 大法师 |
+| 传奇 (80-100%) | 80-100+ 单位 | 10+ 单位/小时 | 6+ | 千载难逢的天才 |
 
-> **Note on Measurement**: While "units" are used here for conceptual clarity, magical practitioners typically use more specialized terminology based on their tradition.
+> **关于测量的说明**: 虽然这里使用 "单位" 是为了概念上的清晰，但魔法师通常会根据他们的传统使用更专业的术语。
 
-### Capacity's Impact on Maximum Achievable Purity
+### 容量对最大可达到的纯度的影响
 
-Mana Capacity indirectly affects Phase 2 conversion by providing more "working space" for refinement:
+法力容量通过为提炼提供更多 "工作空间" 间接影响阶段 2 转换：
 
-| Capacity Level | Maximum Achievable Purity | Reasoning |
+| 容量等级 | 最大可达到的纯度 | 推理 |
 |----------------|---------------------------|-----------|
-| Minimal (5-10%) | ~40% | Limited internal space creates pressure during refinement |
-| Low (10-25%) | ~55% | Some pressure still affects fine control |
-| Moderate (25-40%) | ~70% | Sufficient space for standard refinement techniques |
-| High (40-60%) | ~85% | Ample space allows for intensive refinement |
-| Exceptional (60-80%) | ~95% | Near-optimal conditions for purity |
-| Legendary (80-100%) | 95%+ | Potential for theoretical "perfect" purity |
+| 极低 (5-10%) | ~40% | 有限的内部空间在提炼过程中产生压力 |
+| 低 (10-25%) | ~55% | 一些压力仍然影响精细控制 |
+| 中等 (25-40%) | ~70% | 足够的空间用于标准提炼技术 |
+| 高 (40-60%) | ~85% | 充足的空间允许进行密集提炼 |
+| 卓越 (60-80%) | ~95% | 接近最佳的纯度条件 |
+| 传奇 (80-100%) | 95%+ | 理论上 "完美" 纯度的潜力 |
 
-## Mana Purity and Spell Effectiveness
+## 法力纯度和咒语效果
 
-Mana Purity represents the quality of magical energy after Phase 2 conversion. It indicates how much of the energy has been successfully refined from Base Mana into the specific Elemental Mana required for a spell.
+法力纯度代表阶段 2 转换后魔法能量的质量。它表明有多少能量已成功地从基础法力提炼成咒语所需的特定元素法力。
 
-### Purity as a Percentage
+### 纯度以百分比表示
 
-Purity is calculated using the formula:
+纯度使用以下公式计算：
 ```
-Purity % = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+纯度 % = (提炼的元素法力) / (提炼的元素法力 + 残余的原始法力) × 100%
 ```
 
-### Purity Levels and Difficulty
+### 纯度等级和难度
 
-| Purity Level | Percentage | Difficulty to Achieve | Typical Application |
+| 纯度等级 | 百分比 | 达成难度 | 典型应用 |
 |--------------|------------|------------------------|---------------------|
-| Critical | 0-10% | Occurs with severe mistakes | Dangerous miscasts |
-| Basic | 10-35% | Achievable by beginners | Simple utility spells |
-| Standard | 35-65% | Requires formal training | Professional magic |
-| Refined | 65-85% | Demands years of practice | Specialist applications |
-| Perfect | 85-100% | Mastery level achievement | Highest magical arts |
+| 临界 | 0-10% | 严重错误时发生 | 危险的错误施法 |
+| 基础 | 10-35% | 初学者可以达到 | 简单的实用咒语 |
+| 标准 | 35-65% | 需要正式训练 | 专业魔法 |
+| 精炼 | 65-85% | 需要多年的实践 | 专业应用 |
+| 完美 | 85-100% | 大师级成就 | 最高的魔法艺术 |
 
-Increasing purity beyond 90% requires exponentially more skill and effort, with diminishing practical returns in most applications.
+将纯度提高到 90% 以上需要呈指数级增长的技能和努力，但在大多数应用中实际回报递减。
 
-## Spell Technical Requirements
+## 咒语技术要求
 
-All spells have technical requirements that determine their viability based on the caster's capabilities in both Phase 1 (Capacity) and Phase 2 (Purity) conversion.
+所有咒语都有技术要求，根据施法者在阶段 1 (容量) 和阶段 2 (纯度) 转换中的能力确定其可行性。
 
-### Mana Type Distribution
+### 法力类型分布
 
-Spells require specific distributions of elemental energies:
+咒语需要特定的元素能量分布：
 
-| Spell Level | Fire | Water | Air | Earth | Arcane | Life | Void | Total |
+| 咒语等级 | 火 | 水 | 气 | 土 | 奥术 | 生命 | 虚空 | 总计 |
 |-------------|------|-------|-----|-------|--------|------|------|-------|
-| Novice | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 100% |
-| Basic Dual | 60% | 40% | 0% | 0% | 0% | 0% | 0% | 100% |
-| Complex | 40% | 30% | 20% | 10% | 0% | 0% | 0% | 100% |
-| Advanced | 35% | 25% | 15% | 10% | 15% | 0% | 0% | 100% |
-| Master | 25% | 20% | 15% | 10% | 20% | 5% | 5% | 100% |
+| 新手 | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 100% |
+| 基础双元素 | 60% | 40% | 0% | 0% | 0% | 0% | 0% | 100% |
+| 复杂 | 40% | 30% | 20% | 10% | 0% | 0% | 0% | 100% |
+| 高级 | 35% | 25% | 15% | 10% | 15% | 0% | 0% | 100% |
+| 大师 | 25% | 20% | 15% | 10% | 20% | 5% | 5% | 100% |
 
-This table represents a hypothetical fire-primary spell at different complexity levels.
+此表代表了不同复杂程度的假设的火系主导咒语。
 
-### Minimum Purity Requirements
+### 最低纯度要求
 
-Each spell level has minimum purity requirements for stable casting:
+每个咒语等级都有稳定的施法的最低纯度要求：
 
-| Spell Level | Minimum Purity | Optimal Purity | Effect of Low Purity |
+| 咒语等级 | 最低纯度 | 最佳纯度 | 低纯度的影响 |
 |-------------|----------------|----------------|----------------------|
-| Novice | 15% | 35%+ | Minor unpredictability |
-| Apprentice | 25% | 45%+ | Reduced effectiveness |
-| Journeyman | 35% | 55%+ | Significant instability |
-| Adept | 45% | 65%+ | Potential backfire |
-| Master | 55% | 75%+ | Dangerous failure |
-| Archmage | 65% | 85%+ | Catastrophic consequences |
+| 新手 | 15% | 35%+ | 轻微的不可预测性 |
+| 学徒 | 25% | 45%+ | 效果降低 |
+| 工匠 | 35% | 55%+ | 显著的不稳定性 |
+| 熟练 | 45% | 65%+ | 潜在的反噬 |
+| 大师 | 55% | 75%+ | 危险的失败 |
+| 大法师 | 65% | 85%+ | 灾难性后果 |
 
-Casting below minimum purity is possible but increasingly hazardous with spell complexity.
+低于最低纯度施法是可能的，但随着咒语复杂性的增加，危险性也越来越高。
 
-### Minimum Capacity Requirements
+### 最低容量要求
 
-Similarly, spells have minimum capacity thresholds:
+同样，咒语也有最低容量阈值：
 
-| Spell Level | Min. Capacity | Optimal Capacity | Effect of Low Capacity |
+| 咒语等级 | 最低容量 | 最佳容量 | 低容量的影响 |
 |-------------|---------------|------------------|------------------------|
-| Novice | 5% | 15%+ | Short duration |
-| Apprentice | 15% | 25%+ | Quick exhaustion |
-| Journeyman | 25% | 35%+ | Limited power |
-| Adept | 35% | 45%+ | Single casting only |
-| Master | 45% | 60%+ | Severe strain |
-| Archmage | 60% | 75%+ | Potential burnout |
+| 新手 | 5% | 15%+ | 持续时间短 |
+| 学徒 | 15% | 25%+ | 快速耗尽 |
+| 工匠 | 25% | 35%+ | 力量有限 |
+| 熟练 | 35% | 45%+ | 只能施放一次 |
+| 大师 | 45% | 60%+ | 严重透支 |
+| 大法师 | 60% | 75%+ | 潜在的耗竭 |
 
-## The Harmony of Elements: A Musical Analogy
+## 元素的和谐：一个音乐类比
 
-The relationship between Mana Capacity, Purity Level, and Spell Requirements can be understood through a musical analogy:
+法力容量、纯度等级和咒语要求之间的关系可以通过音乐类比来理解：
 
-- **Phase 1 (Wild → Base) is like having an instrument**: A larger instrument (higher capacity) can produce more music for longer periods.
-- **Phase 2 (Base → Elemental) is like playing technique**: Better technique (higher purity) produces clearer, more precise notes.
-- **Spellcasting is like performing a composition**: Different pieces (spells) require both an adequate instrument and sufficient playing skill.
+- **阶段 1 (原始 → 基础) 就像拥有一件乐器**: 更大的乐器 (更高的容量) 可以产生更多的音乐，持续更长的时间。
+- **阶段 2 (基础 → 元素) 就像演奏技巧**: 更好的技术 (更高的纯度) 可以产生更清晰、更精确的音符。
+- **咒语施放就像演奏一首乐曲**: 不同的作品 (咒语) 既需要足够的乐器，也需要足够的演奏技巧。
 
-A virtuoso violinist (high purity, low capacity) might perfectly play short, complex pieces but lack endurance for longer performances. Conversely, a novice with a grand piano (high capacity, low purity) has potential for volume and duration but lacks the refinement for complex compositions.
+一位技艺精湛的小提琴家 (高纯度，低容量) 可以完美地演奏简短而复杂的乐曲，但缺乏长时间演奏的耐力。相反，一位拥有三角钢琴的新手 (高容量，低纯度) 具有音量和持续时间的潜力，但缺乏复杂乐曲的精炼。
 
-## Training Progression
+## 训练进度
 
-Magical development typically follows this progression:
+魔法发展通常遵循以下进度：
 
-### 1. Capacity Building (Phase 1 Focus)
-- **Early Exercises**: Meditation, energy awareness, basic absorption techniques
-- **Progression Markers**: Increased reserves, faster recovery after casting
-- **Biological Changes**: Expansion of internal channels, increased metabolic efficiency
-- **Typical Timeline**: Steady improvements over years of consistent practice
+### 1. 容量构建 (阶段 1 侧重)
+- **早期练习**: 冥想、能量意识、基本吸收技术
+- **进度标志**: 储备增加，施法后恢复更快
+- **生物变化**: 内部通道的扩张，代谢效率的提高
+- **典型时间表**: 通过多年的持续练习稳步提升
 
-### 2. Purity Control Development (Phase 2 Focus)
-- **Core Techniques**: Filtration exercises, elemental affinity development, pattern stability
-- **Progression Markers**: Increased spell stability, reduced wild effects, finer control
-- **Mental Development**: Enhanced visualization, improved concentration, pattern recognition
-- **Typical Timeline**: Steep initial learning curve followed by plateau and breakthrough cycles
+### 2. 纯度控制开发 (阶段 2 侧重)
+- **核心技术**: 过滤练习、元素亲和力开发、模式稳定性
+- **进度标志**: 咒语稳定性提高、野生效应减少、控制更精细
+- **精神发展**: 增强可视化、提高注意力、模式识别
+- **典型时间表**: 最初的学习曲线陡峭，随后是平台期和突破周期
 
-### 3. Balanced Mastery (Integrated Phase 1 and 2)
-- **Advanced Methods**: Cyclical reinforcement, resonance harmonization, efficiency optimization
-- **Progression Markers**: Ability to cast complex spells with minimal effort, adaptive casting
-- **Holistic Changes**: Intuitive understanding of personal mana flow, environmental awareness
-- **Typical Timeline**: Decades of dedicated practice with increasing returns on investment
+### 3. 平衡掌握 (阶段 1 和 2 的集成)
+- **高级方法**: 循环强化、共振谐振、效率优化
+- **进度标志**: 能够毫不费力地施放复杂的咒语、自适应施法
+- **整体变化**: 对个人法力流的直观理解、环境意识
+- **典型时间表**: 数十年的专注练习，投资回报率不断提高
 
-## Individual Variations
+## 个体差异
 
-Practitioners exhibit natural variations in their aptitude for the two conversion phases:
+从业者在两个转换阶段的能力方面表现出自然差异：
 
-- **Capacity-Gifted**: Naturally high mana reserves but may struggle with refinement
-- **Purity-Gifted**: Exceptional control and refinement but limited reserves
-- **Balanced Aptitude**: Moderate natural talent in both aspects
-- **Specialized Affinity**: Natural talent for specific elemental conversions
-- **Adaptive Caster**: Ability to modify approach based on magical conditions
+- **容量天赋**: 天生较高的法力储备，但可能难以提炼
+- **纯度天赋**: 出色的控制和提炼，但储备有限
+- **平衡能力**: 在两个方面都具有适度的自然天赋
+- **专业亲和力**: 对特定元素转换的自然天赋
+- **自适应施法者**: 能够根据魔法条件修改方法
 
-These natural tendencies are typically apparent by adolescence and influence recommended specialization paths.
+这些自然倾向通常在青春期显现，并影响推荐的专业化路径。
 
 ---
 
-*"Understanding the two phases of mana conversion is like understanding breathing and singing as separate skills. You may have massive lung capacity but poor vocal control, or perfect pitch but limited breath support. The master vocalist develops both in harmony, just as the master mage balances capacity and purity."* — Archmage Elendra Vos, Principal of the Royal Academy 
+*"理解法力转换的两个阶段就像理解呼吸和唱歌是两种不同的技能。你可能拥有巨大的肺活量，但声乐控制力差，或者音高完美，但呼吸支持有限。大师级歌唱家以和谐的方式发展两者，就像大师级法师平衡容量和纯度一样。"* — 大法师埃伦德拉·沃斯，皇家学院院长
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

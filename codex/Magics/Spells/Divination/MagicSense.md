@@ -1,6 +1,6 @@
 # **Magic Sense**
 
-A fundamental divination spell that allows the caster to perceive magical energies in their surroundings. This perceptual enhancement serves as the foundation for magical investigation, artifact identification, and spellwork analysis.
+一种基础的占卜法术，允许施法者感知周围环境中的魔法能量。这种感知增强是魔法调查、神器鉴定和法术分析的基础。
 
 ## Casting Information
 
@@ -107,4 +107,8 @@ Most students master this spell through graduated exercises:
 
 ## Historical Note
 
-Magic Sense evolved naturally among early spellcasters as a survival mechanism, allowing them to avoid dangerous magical phenomena and identify beneficial magical resources. Its first formal codification is credited to the elven diviner Elariel Truesight, who refined the wild perceptual techniques into a controlled, teachable pattern during the Age of Awakening. Today, it is considered the first essential spell for any practitioner of divination magic and is often taught alongside basic protective magic as a fundamental safety skill for all magical disciplines. 
+Magic Sense evolved naturally among early spellcasters as a survival mechanism, allowing them to avoid dangerous magical phenomena and identify beneficial magical resources. Its first formal codification is credited to the elven diviner Elariel Truesight, who refined the wild perceptual techniques into a controlled, teachable pattern during the Age of Awakening. Today, it is considered the first essential spell for any practitioner of divination magic and is often taught alongside basic protective magic as a fundamental safety skill for all magical disciplines.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

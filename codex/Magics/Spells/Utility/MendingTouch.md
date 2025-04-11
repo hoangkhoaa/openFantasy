@@ -1,6 +1,6 @@
 # **Mending Touch**
 
-A practical utility spell that repairs minor damage to small objects. Widely taught to apprentices across various magical disciplines, this spell demonstrates the principles of pattern restoration and material manipulation.
+一种实用的实用魔法，可以修复小型物体的轻微损伤。这种魔法在各种魔法学科的学徒中被广泛教授，它展示了模式恢复和材料操纵的原理。
 
 ## Casting Information
 
@@ -94,4 +94,8 @@ Most students master this spell through practice on increasingly challenging mat
 
 ## Historical Note
 
-The first standardized version of Mending Touch was developed by Elven household mages of the Third Era who sought to create a practical spell accessible to those with minimal magical training. Initially dismissed by "serious" magical academics as mere housekeeping magic, the spell's elegant efficiency and practical utility eventually earned it a place in standard magical curricula. Today, it is often cited as a perfect example of magical design principles: maximum utility with minimal complexity. 
+The first standardized version of Mending Touch was developed by Elven household mages of the Third Era who sought to create a practical spell accessible to those with minimal magical training. Initially dismissed by "serious" magical academics as mere housekeeping magic, the spell's elegant efficiency and practical utility eventually earned it a place in standard magical curricula. Today, it is often cited as a perfect example of magical design principles: maximum utility with minimal complexity.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

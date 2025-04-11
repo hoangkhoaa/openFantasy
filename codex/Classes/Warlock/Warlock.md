@@ -1,42 +1,46 @@
-# **Warlock**: Wielders of Pact-Bound Magic
+# **术士**: 契约束缚魔法的使用者
 
-[**Warlocks**](/codex/Classes/Warlock/Warlock.md) are spellcasters who derive their magical abilities from pacts with powerful otherworldly entities. Unlike wizards who study or sorcerers with innate power, warlocks receive magic through direct patronage, shaping their abilities based on their patron's nature and domain.
+[**术士**](/codex/Classes/Warlock/Warlock.md) 是一种施法者，他们的魔法能力来源于与强大的异界实体的契约。与学习魔法的巫师或具有内在力量的术士不同，术士通过直接的庇护获得魔法，根据他们的庇护者的性质和领域塑造他们的能力。
 
-## Elemental Composition
+## 元素构成
 
-The typical elemental ratio for **warlocks** reflects their unique connection to patron entities:
+**术士** 的典型元素比例反映了他们与庇护实体的独特联系：
 
-| Element | Range | Function |
-|---------|------------|----------|
-| **Exanthis** | 15-30% | Physical vessel modified by patron influence |
-| **Soul** | 30-45% | Spiritual anchor for the pact, reinforced to withstand external power |
-| **Mana Capacity** | 30-50% | Channel structure for patron-sourced power rather than personal reserves |
+| 元素        | 范围      | 功能                                                         |
+|-------------|-----------|-------------------------------------------------------------|
+| **Exanthis** | 15-30%   | 受庇护者影响改造的物理容器                                         |
+| **灵魂**      | 30-45%   | 契约的精神锚点，被强化以承受外部力量                                       |
+| **魔力容量**  | 30-50%   | 用于引导来自庇护者的力量而不是个人储备的通道结构                               |
 
-This composition makes **warlocks** fundamentally different from other spellcasters. Their magic doesn't stem primarily from personal reserves but flows through specially adapted channels from their patron. This external sourcing creates distinctive magical signatures and often manifests physical or spiritual modifications reflecting their patron's nature.
+这种构成使得 **术士** 与其他施法者有着根本的不同。 他们的魔法主要不是源于个人储备，而是通过特殊调整的通道从他们的庇护者那里流出。这种外部来源创造了独特的魔法签名，并且经常表现出反映其庇护者性质的物理或精神上的修改。
 
-### Magical Affinity Profile
+### 魔法亲和力概况
 
-Warlocks develop specific affinities based on their patron's nature:
+术士基于他们庇护者的性质发展特定的亲和力：
 
-| Patron Type | Primary Affinities | Secondary Affinities | Typical Application |
-|--------------|-------------------|---------------------|---------------------|
-| **Archfey** | Naturemana | Mentimana | Enchantment, emotional manipulation, nature influence |
-| **Fiend** | Pyromana | Umbramana | Destructive magic, soul manipulation, corruption |
-| **Great Old One** | Mentimana | Umbramana | Mind-affecting spells, forbidden knowledge, reality distortion |
-| **Celestial** | Luxmana | Base Mana (Healing) | Radiant damage, healing, purification |
-| **Hexblade** | Umbramana | Base Mana (Binding) | Weapon enhancement, curses, soul binding |
-| **Genie** | Elemental (varies by genie type) | Base Mana (Spatial) | Elemental control, wishes, dimensional magic |
+| 庇护者类型      | 主要亲和力    | 次要亲和力    | 典型应用                                   |
+|-----------------|--------------|--------------|-------------------------------------------|
+| **精类**        | 自然魔力    | 心智魔力    | 附魔、情绪操纵、自然影响                           |
+| **邪魔**        | 火焰魔力    | 阴影魔力    | 破坏性魔法、灵魂操纵、腐化                         |
+| **古老之物**    | 心智魔力    | 阴影魔力    | 影响心灵的法术、禁忌知识、现实扭曲                     |
+| **天界生物**    | 光耀魔力    | 基础魔力（治疗） | 辐射伤害、治疗、净化                             |
+| **魔剑士**      | 阴影魔力    | 基础魔力（束缚） | 武器强化、诅咒、灵魂束缚                           |
+| **元素灵**       | 元素（因元素灵类型而异） | 基础魔力（空间） | 元素控制、愿望、维度魔法                         |
 
-Warlocks typically achieve 70-90% resonance with their patron's primary affinity elements, as these energies are directly channeled rather than personally generated. Their connection to patron sources allows for high purity magical energy (40-70%) without the extensive training required by wizards, though this power comes with external dependency and potential influence.
+术士通常与其庇护者的主要亲和力元素达到 70-90% 的共鸣，因为这些能量是直接引导而不是个人产生的。 他们与庇护者来源的联系允许高纯度的魔法能量（40-70%），而无需巫师所需的广泛训练，尽管这种力量伴随着外部依赖和潜在的影响。
 
-### Species-Specific Variations
+### 种族特异性变化
 
-Different species show varying natural inclinations toward the warlock class:
+不同的种族表现出对术士职业的不同自然倾向：
 
-- **Humans** (15-30% Exanthis, 30-45% Soul, 30-50% Mana Capacity): Their adaptability allows for diverse pact connections and easier accommodation of patron influence.
-- **Tieflings** (15-30% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their infernal heritage creates natural resonance with fiendish patrons and resistance to corrupting influences.
-- **Half-Elves** (15-25% Exanthis, 30-45% Soul, 35-55% Mana Capacity): Their mixed heritage offers flexible spiritual anchoring for diverse pact types.
-- **Aasimar** (15-25% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their celestial connection creates natural affinity for divine patrons with enhanced luxmana channeling.
-- **Genasi** (20-35% Exanthis, 25-40% Soul, 30-50% Mana Capacity): Their elemental heritage forms natural channels for corresponding elemental patrons.
+- **人类** (15-30% Exanthis, 30-45% Soul, 30-50% 魔力容量)：他们的适应性允许多样化的契约连接，并更容易适应庇护者的影响。
+- **提夫林** (15-30% Exanthis, 35-50% Soul, 30-45% 魔力容量)：他们的地狱血统创造了与邪魔庇护者的天然共鸣以及对腐化影响的抵抗力。
+- **半精灵** (15-25% Exanthis, 30-45% Soul, 35-55% 魔力容量)：他们的混合血统为多样化的契约类型提供了灵活的精神锚定。
+- **艾斯莫** (15-25% Exanthis, 35-50% Soul, 30-45% 魔力容量)：他们的天界连接创造了对神圣庇护者的天然亲和力，并增强了光耀魔力的引导。
+- **元素裔** (20-35% Exanthis, 25-40% Soul, 30-50% 魔力容量)：他们的元素血统为相应的元素庇护者形成了天然通道。
 
-// ... rest of the file remains unchanged ... 
+// ... rest of the file remains unchanged ...
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,135 +1,139 @@
-# **Warrior**: The Masters of Physical Combat
+# **战士**: 物理战斗大师
 
-[**Warriors**](/codex/Classes/Warrior/Warrior.md) are the embodiments of physical power and martial prowess, their bodies honed through rigorous training and battle experience. Their existence resonates with the material world, creating a symphony of strength, skill, and tactical expertise.
+[**战士**](/codex/Classes/Warrior/Warrior.md) 是物理力量和武术能力的化身，他们的身体通过严格的训练和战斗经验磨练而成。他们的存在与物质世界产生共鸣，创造出力量、技巧和战术专长的交响乐。
 
-## Elemental Composition
+## 元素构成
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **warriors** creates a distinctive harmony that favors physical might:
+正如 [职业](/codex/Classes/Classes/Classes.md) 中详细描述的那样，**战士** 的典型比例创造了一种独特的和谐，有利于物理力量：
 
-| Element | Range | Function |
+| 元素 | 范围 | 功能 |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | Exceptional physical foundation providing superior strength, endurance, and resilience |
-| **Soul** | 20-35% | Balanced consciousness supporting tactical awareness and combat intuition |
-| **Mana Capacity** | 10-25% | Limited magical potential typically channeled into enhancing physical capabilities |
+| **埃克萨提斯 (Exanthis)** | 50-70% | 提供卓越力量、耐力和弹性的卓越物理基础 |
+| **灵魂** | 20-35% | 平衡的意识，支持战术意识和战斗直觉 |
+| **法力容量** | 10-25% | 有限的魔法潜力，通常用于增强身体能力 |
 
-This composition grants **warriors** their characteristic physical prowess at the cost of magical versatility. Their bodies are like well-forged weapons, designed primarily for physical combat rather than arcane manipulation.
+这种构成赋予 **战士** 特有的身体力量，但代价是魔法的多功能性。他们的身体就像精心锻造的武器，主要用于物理战斗而不是奥术操纵。
 
-### Magical Affinity Profile
+### 魔法亲和性概况
 
-Despite their limited Mana Capacity, **warriors** typically develop specific affinities that complement their martial abilities:
+尽管法力容量有限，**战士** 通常会发展出特定的亲和力来补充他们的武术能力：
 
-| Warrior Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| 战士传统 | 主要亲和力 | 次要亲和力 | 典型应用 |
 |-----------------|-------------------|---------------------|---------------------|
-| **Berserker** | Pyromana (Intensity, Consumption) | Base Mana (Endurance) | Battle fury, enhanced strength, pain suppression |
-| **Guardian** | Terramana (Stability, Protection) | Base Mana (Resilience) | Damage mitigation, defensive stances, immovability |
-| **Duelist** | Aeromana (Speed, Precision) | Luxmana (Awareness) | Enhanced reflexes, precision strikes, battlefield assessment |
-| **Warlord** | Base Mana (Command) | Varies by specialty | Battlefield control, intimidation, tactical coordination |
-| **Weaponmaster** | Base Mana (Extension) | Varies by weapon | Weapon enhancement, specialized techniques, supernatural precision |
-| **Juggernaut** | Terramana (Weight, Momentum) | Pyromana (Force) | Overwhelming attacks, unstoppable charges, ground-breaking strikes |
+| **狂战士 (Berserker)** | 火炎法力 (强度，消耗) | 基础法力 (耐力) | 战斗狂怒，增强力量，抑制疼痛 |
+| **守护者 (Guardian)** | 地形法力 (稳定，保护) | 基础法力 (弹性) | 伤害减免，防御姿态，不动性 |
+| **决斗者 (Duelist)** | 气动法力 (速度，精确) | 光明法力 (意识) | 增强的反应能力，精确打击，战场评估 |
+| **军阀 (Warlord)** | 基础法力 (指挥) | 因专业而异 | 战场控制，恐吓，战术协调 |
+| **武器大师 (Weaponmaster)** | 基础法力 (延伸) | 因武器而异 | 武器增强，专业技术，超自然精度 |
+| **钢铁巨像 (Juggernaut)** | 地形法力 (重量，动量) | 火炎法力 (力量) | 压倒性的攻击，不可阻挡的冲锋，开天辟地的打击 |
 
-Warriors typically achieve 40-60% specialization efficiency with their primary affinities, focusing on practical application rather than theoretical mastery. This specialization reflects their combat-oriented training and pragmatic approach to magical energy.
+战士通常以 40-60% 的专业效率掌握他们的主要亲和力，专注于实际应用而不是理论掌握。这种专业化反映了他们以战斗为导向的训练和对魔法能量的务实态度。
 
-### Species-Specific Variations
+### 物种特定变体
 
-Different species show varying natural inclinations toward the warrior class:
+不同的物种表现出对战士职业的不同自然倾向：
 
-- **Humans** (45-65% Exanthis, 20-35% Soul, 10-25% Mana Capacity): Their adaptability allows them to develop diverse fighting styles balanced between strength and technique.
-- **Dwarves** (60-75% Exanthis, 15-25% Soul, 5-15% Mana Capacity): Their natural physical resilience makes them exceptional tanks and heavy weapon specialists.
-- **Orcs** (65-80% Exanthis, 10-20% Soul, 5-15% Mana Capacity): Their raw physical power makes them devastating front-line fighters with exceptional offensive capabilities.
-- **Minotaurs** (70-85% Exanthis, 10-20% Soul, 5-10% Mana Capacity): Their massive frames and natural strength make them unparalleled in terms of raw power and intimidation.
-- **Leonin** (55-70% Exanthis, 20-30% Soul, 10-15% Mana Capacity): Their predatory instincts grant them superior combat reflexes and tactical awareness.
+- **人类** (45-65% 埃克萨提斯, 20-35% 灵魂, 10-25% 法力容量): 他们的适应性使他们能够发展出在力量和技巧之间平衡的多样化战斗风格。
+- **矮人** (60-75% 埃克萨提斯, 15-25% 灵魂, 5-15% 法力容量): 他们天生的物理弹性使他们成为卓越的坦克和重武器专家。
+- **兽人** (65-80% 埃克萨提斯, 10-20% 灵魂, 5-15% 法力容量): 他们原始的物理力量使他们成为具有卓越攻击能力的可怕的前线战士。
+- **弥诺陶洛斯** (70-85% 埃克萨提斯, 10-20% 灵魂, 5-10% 法力容量): 他们巨大的身躯和天生的力量使他们在原始力量和恐吓方面无与伦比。
+- **莱奥宁** (55-70% 埃克萨提斯, 20-30% 灵魂, 10-15% 法力容量): 他们的掠食本能赋予他们卓越的战斗反应能力和战术意识。
 
-## Physical Characteristics
+## 身体特征
 
-**Warriors** are known for their strength and martial prowess:
-- Muscular build with well-defined physique, like a finely crafted weapon
-- Eyes that reflect determination and focus, showing their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hands calloused from years of weapon training, like a musician's fingers adapted to their instrument
-- Presence that commands attention, like a powerful chord that resonates through a room
-- Stance that exudes confidence and readiness, like a performer poised to begin
+**战士** 以其力量和武术能力而闻名：
+- 肌肉发达，体格健美，就像一件精心制作的武器
+- 眼睛反映出决心和专注，显示出他们与 [**埃克萨提斯**](/codex/Basic/Exanthis.md) 的联系
+- 双手因多年的武器训练而变得粗糙，就像音乐家的手指适应他们的乐器一样
+- 存在感引人注目，就像一个强大的和弦在房间里产生共鸣
+- 姿态散发出自信和准备就绪的气息，就像表演者准备开始一样
 
-## Combat Affinity
+## 战斗亲和力
 
-**Warriors** demonstrate exceptional proficiency in physical combat, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Wield weapons with extraordinary precision, like conductors leading an orchestra
-- Endure physical punishment that would incapacitate others, like a drum that can withstand powerful strikes
-- Execute complex combat maneuvers with grace and power, like dancers performing a martial ballet
+**战士** 在物理战斗中表现出卓越的熟练程度，就像掌握乐器的音乐大师一样。他们的构成使他们能够：
+- 以非凡的精确度挥舞武器，就像指挥家指挥管弦乐队一样
+- 忍受身体上的惩罚，否则会使其他人丧失能力，就像一个可以承受强大打击的鼓
+- 以优雅和力量执行复杂的战斗动作，就像舞者表演武术芭蕾
 
-This specialization makes **warriors** capable of achieving the highest levels of proficiency in their chosen combat styles, though they may struggle with tasks requiring subtlety or magical finesse, like a powerful instrument that produces beautiful sounds but cannot play delicate passages.
+这种专业化使 **战士** 能够在他们选择的战斗风格中达到最高水平的熟练程度，尽管他们可能难以完成需要微妙或魔法技巧的任务，就像一件强大的乐器可以发出美妙的声音，但无法演奏精致的乐段。
 
-## Training and Development
+## 训练和发展
 
-The path of a **warrior** involves rigorous physical training and mental discipline:
-- Daily weapon practice and combat drills, like musicians practicing scales
-- Physical conditioning to build strength and endurance, like tuning an instrument for optimal performance
-- Study of combat tactics and strategies, like learning the theory behind musical composition
-- Meditation to develop focus and mental clarity, like finding the quiet center before a performance
+**战士** 的道路涉及严格的身体训练和精神纪律：
+- 每日武器练习和战斗演习，就像音乐家练习音阶一样
+- 身体调理以增强力量和耐力，就像调整乐器以获得最佳性能一样
+- 学习战斗战术和策略，就像学习音乐创作背后的理论一样
+- 冥想以培养专注力和精神清晰度，就像在表演前找到安静的中心一样
 
-## Equipment and Gear
+## 装备和齿轮
 
-**Warriors** rely on various equipment to enhance their combat abilities:
-- Weapons ranging from swords and axes to spears and bows, like different instruments for different performances
-- Armor that provides protection while allowing mobility, like a well-fitted case for a precious instrument
-- Combat accessories such as shields, throwing weapons, and grappling tools, like accessories that enhance an instrument's capabilities
+**战士** 依靠各种装备来增强他们的战斗能力：
+- 从剑和斧头到长矛和弓箭的武器，就像不同表演的不同乐器一样
+- 提供保护同时允许移动的装甲，就像珍贵乐器的合适琴盒一样
+- 战斗配件，如盾牌、投掷武器和抓钩工具，就像增强乐器功能的配件一样
 
-## Subclasses
+## 子职业
 
-**Warriors** can specialize in various combat styles and roles:
+**战士** 可以专注于各种战斗风格和角色：
 
-### [**Guardian**](/codex/Classes/Warrior/Guardian.md)
+### [**守护者**](/codex/Classes/Warrior/Guardian.md)
 
-Guardians focus on defensive combat, emphasizing the protection of others. They excel at:
-- Blocking and intercepting attacks directed at allies
-- Creating defensive formations that protect groups
-- Using shields and defensive stances to maximize protection
+守护者专注于防御性战斗，强调保护他人。他们擅长：
+- 阻止和拦截针对盟友的攻击
+- 创建保护团体的防御阵型
+- 使用盾牌和防御姿势来最大化保护
 
-### [**Berserker**](/codex/Classes/Warrior/Berserker.md)
+### [**狂战士**](/codex/Classes/Warrior/Berserker.md)
 
-Berserkers enter a battle rage that enhances their combat abilities. They excel at:
-- Dealing massive damage in close combat
-- Entering a trance-like state that enhances strength and reduces pain
-- Intimidating enemies with their ferocious presence
+狂战士进入战斗狂怒状态，增强他们的战斗能力。他们擅长：
+- 在近战中造成大量伤害
+- 进入一种恍惚状态，增强力量并减轻疼痛
+- 以他们凶猛的存在恐吓敌人
 
-### [**Duelist**](/codex/Classes/Warrior/Duelist.md)
+### [**决斗者**](/codex/Classes/Warrior/Duelist.md)
 
-Duelists specialize in one-on-one combat, emphasizing precision and technique. They excel at:
-- Fencing and swordplay with light weapons
-- Reading opponents and exploiting weaknesses
-- Performing complex combat maneuvers with grace
+决斗者专注于一对一战斗，强调精确度和技巧。他们擅长：
+- 使用轻武器进行击剑和剑术
+- 阅读对手并利用弱点
+- 以优雅的方式执行复杂的战斗动作
 
-### [**Commander**](/codex/Classes/Warrior/Commander.md)
+### [**指挥官**](/codex/Classes/Warrior/Commander.md)
 
-Commanders lead groups in combat, coordinating their efforts for maximum effectiveness. They excel at:
-- Tactical planning and battlefield awareness
-- Inspiring and directing allies in combat
-- Adapting strategies to changing battlefield conditions
+指挥官带领团体进行战斗，协调他们的努力以获得最大的效率。他们擅长：
+- 战术规划和战场意识
+- 激励和指导盟友进行战斗
+- 使战略适应不断变化的战场条件
 
-### [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md)
+### [**武器大师**](/codex/Classes/Warrior/Weaponmaster.md)
 
-Weaponmasters master multiple weapons and combat styles, adapting to any situation. They excel at:
-- Proficiency with a wide variety of weapons
-- Switching between combat styles as needed
-- Combining different weapons and techniques
+武器大师掌握多种武器和战斗风格，适应任何情况。他们擅长：
+- 熟练掌握各种武器
+- 根据需要切换战斗风格
+- 结合不同的武器和技术
 
-## Notable Warrior Traits
+## 著名战士特质
 
-- **Combat Mastery**: Warriors excel in physical combat, often specializing in specific weapons or styles
-- **Physical Resilience**: Warriors can endure physical punishment that would incapacitate others
-- **Tactical Awareness**: Warriors develop keen awareness of battlefield conditions and combat dynamics
-- **Leadership**: Many warriors develop natural leadership abilities through combat experience
-- **Discipline**: Warriors maintain rigorous training regimens to maintain their combat abilities
+- **战斗大师**: 战士擅长物理战斗，通常专注于特定的武器或风格
+- **身体弹性**: 战士可以忍受身体上的惩罚，否则会使其他人丧失能力
+- **战术意识**: 战士培养对战场条件和战斗动态的敏锐意识
+- **领导力**: 许多战士通过战斗经验培养自然的领导能力
+- **纪律**: 战士保持严格的训练制度，以保持他们的战斗能力
 
-## Warrior Traditions
+## 战士传统
 
-Warrior society is organized into numerous traditions, each with its own specialties and techniques:
+战士社会被组织成许多传统，每个传统都有自己的专业和技术：
 
-| Tradition | Specialty | Territory | Notable Traits |
+| 传统 | 专业 | 领土 | 著名特质 |
 |---------|---------------|---------|-------------------|
-| **Blade Dancers** | Swordplay, grace | Urban centers | Elegant combat style, precision strikes |
-| **Iron Legion** | Heavy armor, formation fighting | Military fortresses | Defensive formations, shield walls |
-| **Wild Hunters** | Tracking, survival | Wilderness regions | Tracking abilities, survival skills |
-| **Storm Riders** | Cavalry, mounted combat | Plains and grasslands | Mounted combat, mobility |
-| **Shadow Blades** | Stealth, assassination | Urban shadows | Stealth techniques, surprise attacks |
-| **Dragon Slayers** | Monster hunting, specialized weapons | Monster territories | Monster knowledge, specialized techniques |
+| **刀锋舞者 (Blade Dancers)** | 剑术，优雅 | 城市中心 | 优雅的战斗风格，精确打击 |
+| **钢铁军团 (Iron Legion)** | 重甲，阵型战斗 | 军事要塞 | 防御阵型，盾墙 |
+| **野性猎人 (Wild Hunters)** | 追踪，生存 | 荒野地区 | 追踪能力，生存技能 |
+| **风暴骑士 (Storm Riders)** | 骑兵，骑马战斗 | 平原和草原 | 骑马战斗，机动性 |
+| **暗影之刃 (Shadow Blades)** | 隐身，暗杀 | 城市阴影 | 隐身技巧，突袭 |
+| **屠龙者 (Dragon Slayers)** | 怪物狩猎，专业武器 | 怪物领土 | 怪物知识，专业技术 |
 
-Understanding the nature of **warriors** provides insight into the martial aspects of the world of **OpenFantasy**, like listening to the powerful rhythms that drive the symphony of battle. 
+理解 **战士** 的本质可以深入了解 **开放幻想 (OpenFantasy)** 世界的军事方面，就像聆听驱动战斗交响乐的强大节奏一样。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

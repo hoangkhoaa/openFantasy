@@ -4,12 +4,12 @@
 
 ## Quick Navigation
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Cultural Aspects](#cultural-aspects)
-- [Species Relationships](#species-relationships)
+- [元素构成](#elemental-composition)
+- [物理特征](#physical-characteristics)
+- [魔法亲和](#magical-affinity)
+- [栖息地和分布](#habitat-and-distribution)
+- [文化方面](#cultural-aspects)
+- [物种关系](#species-relationships)
 
 ## Overview
 
@@ -17,14 +17,14 @@
 
 ## Elemental Composition
 
-**[SPECIES_NAME]** possess a distinctive elemental composition:
+**[SPECIES_NAME]** 拥有独特的元素构成：
 
 | Exanthis | Soul | Mana Capacity | Representative Type |
 |----------|------|---------------|---------------------|
-| [E_RANGE]% | [S_RANGE]% | [M_RANGE]% | Standard range for the species |
-| [E_SUBTYPE1]% | [S_SUBTYPE1]% | [M_SUBTYPE1]% | **[SUBTYPE1]** with [SUBTYPE1_TRAITS] |
-| [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** with [SUBTYPE2_TRAITS] |
-| [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** with [SUBTYPE3_TRAITS] |
+| [E_RANGE]% | [S_RANGE]% | [M_RANGE]% | Species 的标准范围 |
+| [E_SUBTYPE1]% | [S_SUBTYPE1]% | [M_SUBTYPE1]% | **[SUBTYPE1]** 具有 [SUBTYPE1_TRAITS] |
+| [E_SUBTYPE2]% | [S_SUBTYPE2]% | [M_SUBTYPE2]% | **[SUBTYPE2]** 具有 [SUBTYPE2_TRAITS] |
+| [E_SUBTYPE3]% | [S_SUBTYPE3]% | [M_SUBTYPE3]% | **[SUBTYPE3]** 具有 [SUBTYPE3_TRAITS] |
 
 ### Individual Variations
 
@@ -32,7 +32,7 @@
 
 ## Physical Characteristics
 
-**[SPECIES_NAME]** exhibit distinctive physical traits:
+**[SPECIES_NAME]** 表现出独特的物理特征：
 
 | Characteristic | Description |
 |----------------|-------------|
@@ -51,7 +51,7 @@
 
 ## Magical Affinity
 
-**[SPECIES_NAME]** demonstrate [MAGICAL_PROFICIENCY_LEVEL] proficiency in manipulating **Mana**:
+**[SPECIES_NAME]** 在操纵 **Mana** 方面表现出 [MAGICAL_PROFICIENCY_LEVEL] 的熟练程度：
 
 | Aspect | Capability |
 |--------|------------|
@@ -62,7 +62,7 @@
 
 ### Magical Specializations
 
-While **[SPECIES_NAME]** can practice various forms of magic, they often excel in:
+虽然 **[SPECIES_NAME]** 可以练习各种形式的魔法，但他们通常擅长于：
 
 - **[SPECIALIZATION1]**: [SPECIALIZATION1_DESCRIPTION]
 - **[SPECIALIZATION2]**: [SPECIALIZATION2_DESCRIPTION]
@@ -70,7 +70,7 @@ While **[SPECIES_NAME]** can practice various forms of magic, they often excel i
 
 ## Habitat and Distribution
 
-**[SPECIES_NAME]** typically inhabit [HABITAT_DESCRIPTION]:
+**[SPECIES_NAME]** 通常居住在 [HABITAT_DESCRIPTION]：
 
 | Region | Settlement Type | Notable Features |
 |--------|----------------|------------------|
@@ -84,7 +84,7 @@ While **[SPECIES_NAME]** can practice various forms of magic, they often excel i
 
 ## Cultural Aspects
 
-The culture of **[SPECIES_NAME]** is characterized by [CULTURE_OVERVIEW]:
+**[SPECIES_NAME]** 的文化特点是 [CULTURE_OVERVIEW]：
 
 ### Social Structure
 
@@ -99,7 +99,7 @@ The culture of **[SPECIES_NAME]** is characterized by [CULTURE_OVERVIEW]:
 
 ### Core Values
 
-Most **[SPECIES_NAME]** cultures share certain common values:
+大多数 **[SPECIES_NAME]** 文化都有一些共同的价值观：
 
 - **[VALUE1]**: [VALUE1_DESCRIPTION]
 - **[VALUE2]**: [VALUE2_DESCRIPTION]
@@ -108,7 +108,7 @@ Most **[SPECIES_NAME]** cultures share certain common values:
 
 ### Common Occupations
 
-Popular professions among **[SPECIES_NAME]** include:
+**[SPECIES_NAME]** 中流行的职业包括：
 
 - **[OCCUPATION1]**: [OCCUPATION1_DESCRIPTION]
 - **[OCCUPATION2]**: [OCCUPATION2_DESCRIPTION]
@@ -117,7 +117,7 @@ Popular professions among **[SPECIES_NAME]** include:
 
 ## Species Relationships
 
-**[SPECIES_NAME]** interact with other species in distinctive ways:
+**[SPECIES_NAME]** 与其他物种以独特的方式互动：
 
 | Species | Relationship | Notable Interactions |
 |---------|--------------|----------------------|
@@ -128,7 +128,7 @@ Popular professions among **[SPECIES_NAME]** include:
 
 ### Diplomatic Approach
 
-[SPECIES_NAME] diplomatic approaches typically emphasize:
+[SPECIES_NAME] 的外交方式通常强调：
 
 - [DIPLOMATIC_TRAIT1]
 - [DIPLOMATIC_TRAIT2]
@@ -136,7 +136,7 @@ Popular professions among **[SPECIES_NAME]** include:
 
 ## Notable Traits
 
-**[SPECIES_NAME]** are characterized by several distinctive traits:
+**[SPECIES_NAME]** 具有几个独特的特征：
 
 ### Strengths
 
@@ -153,4 +153,8 @@ Popular professions among **[SPECIES_NAME]** include:
 
 ---
 
-> Understanding the **[SPECIES_NAME]** provides insight into [SPECIES_SIGNIFICANCE] in the world of **OpenFantasy**. 
+> 了解 **[SPECIES_NAME]** 可以深入了解 **OpenFantasy** 世界中 [SPECIES_SIGNIFICANCE]。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

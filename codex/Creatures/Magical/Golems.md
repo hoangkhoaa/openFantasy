@@ -1,106 +1,110 @@
-# **Golems**: The Artificially Crafted Guardians
+# **Golems**：人工制造的守护者
 
-[**Golems**](/codex/Creatures/Golems.md) are the artificially crafted guardians, their bodies a constructed harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a grand pipe organ, they resonate with the power of their creators, creating a unique melody of existence that bridges the artificial and natural realms.
+[**Golems**](/codex/Creatures/Golems.md) 是人工制造的守护者，它们的身体由 [**Exanthis**](/codex/Basic/Exanthis.md)、[**Souls**](/codex/Basic/Soul.md) 和 **Mana Capacity** 构成的和谐统一体。 就像一架宏伟的管风琴，它们与创造者的力量产生共鸣，创造出独特的生命旋律，连接人工领域和自然领域。
 
-## Elemental Composition
+## 元素构成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **golems** forms a harmony that favors physical resilience:
+正如 [Creatures](/codex/Creatures/Creatures.md) 中详细介绍的那样，**golems** 的典型比例形成了一种偏爱物理韧性的和谐：
 
-| Element | Range | Function |
-|---------|------------|----------|
-| **Exanthis** | 60-85% | The crystalline heart that grants exceptional durability and strength |
-| **Soul** | 5-15% | The ethereal essence that shapes a focused but limited consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables limited magical potential |
+| 元素          | 范围     | 功能                                  |
+|-------------|----------|---------------------------------------|
+| **Exanthis** | 60-85%   | 赋予卓越的耐用性和力量的结晶核心                |
+| **Soul**      | 5-15%    | 塑造专注但有限意识的以太精华                  |
+| **Mana Capacity** | 10-30%  | 连接世界的桥梁，可实现有限的魔法潜力               |
 
-This composition grants **golems** their characteristic resilience and strength but typically limits their adaptability compared to other species, like a massive instrument that can only play a limited range of notes.
+这种构成赋予了 **golems** 其特有的韧性和力量，但通常限制了它们的适应性，与其他物种相比，就像一架只能演奏有限音符的大型乐器。
 
-### Individual Variations
+### 个体差异
 
-While the model composition represents the typical golem, individual variations exist based on their creators' designs:
+虽然模型构成代表了典型的 golem，但个体差异存在于它们创造者的设计中：
 
-- **War Golems**: Military-grade constructs possess Exanthis levels as high as 90%, making them nearly indestructible, though with minimal consciousness (5% Soul) and magical ability (5% Mana Capacity).
-- **Arcane Guardians**: Specialized variants designed for magical tasks have enhanced Mana Capacity approaching 40%, allowing them to interact with and guard against magical forces, often with reduced physical mass (50% Exanthis).
-- **Sentient Constructs**: Rare golems created with higher Soul percentages (up to 25%) develop more complex consciousness and autonomy, often becoming leaders among golem societies.
-- **Runic Vessels**: Specialized golems with composition of (60% Exanthis, 5% Soul, 35% Mana Capacity) serve as living magical batteries and conduits for powerful spells.
-- **Shapeshifting Golems**: Advanced designs with a balanced composition (55% Exanthis, 15% Soul, 30% Mana Capacity) can reconfigure their physical forms for different tasks.
+- **War Golems**: 军用级构造体拥有高达 90% 的 Exanthis 水平，使其几乎坚不可摧，但意识极低（5% Soul）和魔法能力（5% Mana Capacity）。
+- **Arcane Guardians**: 专门为魔法任务设计的变体具有增强的 Mana Capacity，接近 40%，使它们能够与魔法力量互动并对其进行防御，通常具有减少的物理质量（50% Exanthis）。
+- **Sentient Constructs**: 以更高的 Soul 百分比（高达 25%）创造的稀有 golem 会发展出更复杂的意识和自主性，通常成为 golem 社会的领导者。
+- **Runic Vessels**: 具有（60% Exanthis，5% Soul，35% Mana Capacity）成分的专用 golem 充当活的魔法电池和强大法术的管道。
+- **Shapeshifting Golems**: 具有平衡成分（55% Exanthis，15% Soul，30% Mana Capacity）的先进设计可以重新配置其物理形式以执行不同的任务。
 
-## Physical Characteristics
+## 物理特性
 
-**Golems** are known for their diverse forms and constructed nature:
-- Bodies crafted from various materials, from stone and metal to crystal and wood
-- Size ranging from small servitors to massive guardians, depending on their purpose
-- Eyes that glow with inner light, reflecting their connection to their creators
-- Joints and mechanisms that allow for movement, though often limited in flexibility
-- Runes and sigils etched into their bodies, containing the magic that animates them
-- No need for food, sleep, or other biological functions, like instruments that play without rest
+**Golems** 以其多样化的形式和构造性质而闻名：
+- 身体由各种材料制成，从石头和金属到水晶和木材
+- 尺寸范围从小仆从到大型守护者，具体取决于其用途
+- 眼睛闪烁着内在的光芒，反映了它们与创造者的联系
+- 允许移动的关节和机制，但通常灵活性有限
+- 蚀刻在它们身上的符文和符号，包含着使它们活跃的魔法
+- 不需要食物、睡眠或其他生物功能，就像无需休息即可演奏的乐器
 
-## Physical and Magical Affinity
+## 物理和魔法亲和力
 
-**Golems** demonstrate exceptional proficiency in physical resilience and strength, like masterfully crafted instruments designed for a specific purpose. Their composition allows them to:
-- Develop extraordinary durability and strength, like living fortresses
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
-- Perform repetitive tasks with perfect precision, like a well-tuned machine
+**Golems** 在物理弹性和力量方面表现出卓越的熟练程度，就像为特定目的而设计制作精良的乐器。 它们的构成使它们能够：
+- 发展出非凡的耐用性和力量，就像活着的堡垒
+- 通过其高 **Exanthis** 含量抵抗魔法效果，就像石头打破魔法池塘的表面
+- 以完美的精度执行重复性任务，就像一台调整良好的机器
 
-This resilience makes **golems** capable of achieving feats of endurance that other species can only dream of, though they may struggle with tasks requiring adaptability or creativity, like an instrument that can only play the notes it was designed to play.
+这种韧性使 **golems** 能够实现其他物种只能梦想的耐力壮举，但它们可能难以完成需要适应性或创造力的任务，就像一种只能演奏其设计演奏的音符的乐器。
 
-## Lifespan and Soul Decay
+## 寿命和灵魂衰减
 
-The **soul decay** timeline for **golems**, from creation to complete decay, is approximately 1000 years, like a slow-burning forge that illuminates the ages. This extended lifespan allows them to:
-- Serve their creators and fulfill their designated purposes for centuries
-- Develop deep connections to specific places and tasks
-- Form stable societies with strong hierarchical structures
+**golems** 的 **soul decay** 时间线，从创造到完全衰减，大约是 1000 年，就像一个缓慢燃烧的熔炉照亮了时代。 这种延长的寿命使它们能够：
+- 为它们的创造者服务并履行其指定的目的数个世纪
+- 与特定地点和任务建立深厚的联系
+- 形成具有强大等级结构的稳定社会
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains constant through the ages.
+然而，它们极低的灵魂比例也意味着它们变化和适应非常缓慢，就像一首在时代中保持不变的旋律。
 
-## Habitat and Distribution
+## 栖息地和分布
 
-**Golems** primarily inhabit:
-- Cities and fortresses, where they serve as guardians and laborers
-- Magical workshops and laboratories, where they assist in magical research
-- Ancient ruins and forgotten places, where they continue to fulfill their original purposes
-- Strategic locations that require constant vigilance and protection
+**Golems** 主要居住在：
+- 城市和堡垒，在那里它们充当守护者和劳动者
+- 魔法工坊和实验室，在那里它们协助魔法研究
+- 古老的废墟和被遗忘的地方，在那里它们继续履行其最初的目的
+- 需要持续警戒和保护的战略位置
 
-These locations provide ideal environments for the golems to fulfill their designated purposes, like stages perfectly suited to their performance.
+这些地点为 golems 履行其指定目的提供了理想的环境，就像完美适合其表演的舞台。
 
-## Cultural Impact
+## 文化影响
 
-In the world of **OpenFantasy**, **golems** play a crucial role in maintaining the infrastructure and security of various societies, like the steady bass notes that provide foundation to a symphony. Their presence enables:
-- The construction of massive architectural wonders
-- The protection of valuable resources and knowledge
-- The automation of repetitive and dangerous tasks
-- The preservation of ancient knowledge and techniques
+在 **OpenFantasy** 的世界中，**golems** 在维护各种社会的基础设施和安全方面发挥着至关重要的作用，就像为交响乐提供基础的稳定低音音符。 它们的存在使：
+- 大规模建筑奇迹的建造
+- 对宝贵资源和知识的保护
+- 重复性和危险任务的自动化
+- 对古代知识和技术的保存
 
-The connection to their creators has shaped golem culture around service, loyalty, and purpose, creating a society where function and reliability are highly valued.
+与创造者的联系塑造了 golem 文化，围绕着服务、忠诚和目标，创造了一个高度重视功能和可靠性的社会。
 
-## Relationship with Other Species
+## 与其他物种的关系
 
-**Golems** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A relationship of service and protection, often leading to mutual respect
-- With **Elves**: A respectful alliance based on shared appreciation for craftsmanship and magic
-- With **Dwarves**: A deep connection based on mutual respect for craftsmanship and durability
-- With **Fae**: A wary relationship, as golems are resistant to fae enchantments
+**Golems** 与其他物种保持着复杂的关系：
+- 与 [**Humans**](/codex/Creatures/Human.md)：一种服务和保护的关系，通常会导致相互尊重
+- 与 **Elves**: 基于对工艺和魔法的共同欣赏而建立的相互尊重的联盟
+- 与 **Dwarves**: 基于对工艺和耐用性的相互尊重而建立的深厚联系
+- 与 **Fae**: 一种谨慎的关系，因为 golems 对 fae 魔法具有抵抗力
 
-These relationships are often characterized by a sense of purpose and service, as **golems** view themselves as tools created to fulfill specific functions.
+这些关系的特点通常是目标感和服务感，因为 **golems** 将自己视为为履行特定功能而创造的工具。
 
-## Notable Golem Traits
+## 著名的 Golem 特征
 
-- **Physical Resilience**: Golems excel in durability and strength, often surpassing other species in their ability to endure
-- **Purpose-Driven**: Golems are focused on fulfilling their designated purposes with perfect precision
-- **Magical Resistance**: Their high **Exanthis** content makes them naturally resistant to many magical effects
-- **Loyal Service**: Golems are fiercely loyal to their creators and designated tasks
-- **Limited Adaptability**: Golems struggle to adapt to new situations or tasks outside their original design
+- **物理韧性**: Golems 在耐用性和力量方面表现出色，通常超过其他物种的承受能力
+- **目标驱动**: Golems 专注于以完美的精度完成其指定的目的
+- **魔法抗性**: 它们的高 **Exanthis** 含量使它们自然地抵抗许多魔法效果
+- **忠诚服务**: Golems 对他们的创造者和指定的任务非常忠诚
+- **有限的适应性**: Golems 难以适应原始设计之外的新情况或任务
 
-## Golem Types
+## Golem 类型
 
-Golems come in numerous types, each designed for a specific purpose:
+Golems 有许多类型，每种类型都设计用于特定的目的：
 
-| Type | Material | Purpose | Notable Traits |
-|---------|---------------|---------|-------------------|
-| **Stone Golems** | Stone, granite | Guardians, laborers | Exceptional durability, slow movement |
-| **Metal Golems** | Iron, steel | Warriors, protectors | Superior strength, resistance to damage |
-| **Crystal Golems** | Various crystals | Magical assistants, light sources | Magical sensitivity, light emission |
-| **Wood Golems** | Various woods | Gardeners, forest guardians | Natural camouflage, plant affinity |
-| **Clay Golems** | Clay, ceramic | Craftsmen, artists | Artistic ability, delicate work |
-| **Composite Golems** | Multiple materials | Complex tasks, leadership | Versatility, adaptability |
+| 类型             | 材料         | 目的           | 著名特征                 |
+|----------------|--------------|----------------|--------------------------|
+| **Stone Golems** | 石头、花岗岩     | 守护者、劳动者     | 卓越的耐用性，缓慢的移动         |
+| **Metal Golems** | 铁、钢        | 战士、保护者     | 卓越的力量，抗损伤            |
+| **Crystal Golems** | 各种晶体        | 魔法助手、光源     | 魔法敏感性，光发射           |
+| **Wood Golems**  | 各种木材        | 园丁、森林守护者   | 自然伪装，植物亲和力           |
+| **Clay Golems**  | 粘土、陶瓷       | 工匠、艺术家     | 艺术能力，精致的工作           |
+| **Composite Golems** | 多种材料       | 复杂任务、领导者   | 多功能性，适应性             |
 
-Understanding the nature of **golems** provides insight into the artificial aspects of the world of **OpenFantasy**, like listening to the steady, mechanical rhythms that pulse through the cities and fortresses. 
+了解 **golems** 的本质可以深入了解 **OpenFantasy** 世界的人工方面，就像聆听在城市和堡垒中跳动的稳定、机械的节奏。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

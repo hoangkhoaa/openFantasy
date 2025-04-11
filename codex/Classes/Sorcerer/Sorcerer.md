@@ -1,42 +1,46 @@
-# **Sorcerer**: Masters of Innate Magic
+# **Sorcerer**: 天生魔法大师
 
-[**Sorcerers**](/codex/Classes/Sorcerer/Sorcerer.md) are individuals born with inherent magical abilities. Unlike wizards who study arcane formulas or warlocks who form pacts, sorcerers possess magic that manifests naturally from within, often connected to their bloodline or a significant mystical event.
+[**Sorcerers（术士）**](/codex/Classes/Sorcerer/Sorcerer.md) 是天生拥有魔法能力的个体。与研习奥术公式的法师或缔结契约的术士不同，术士拥有自然从体内显现的魔法，通常与他们的血统或重大的神秘事件相关。
 
-## Elemental Composition
+## 元素构成
 
-The typical elemental ratio for **sorcerers** represents their innate magical nature:
+**术士**的典型元素比例代表了他们天生的魔法本质：
 
-| Element | Range | Function |
+| 元素 | 范围 | 功能 |
 |---------|------------|----------|
-| **Exanthis** | 25-40% | Physical vessel naturally attuned to channeling innate magic |
-| **Soul** | 15-30% | Source of inherent magical potential, often linked to ancestry |
-| **Mana Capacity** | 40-60% | Naturally occurring personal mana reserves that expand with experience |
+| **Exanthis** | 25-40% | 自然适应于引导天生魔法的物理容器 |
+| **Soul（灵魂）** | 15-30% | 天生魔法潜力的来源，通常与祖先相关 |
+| **Mana Capacity（法力容量）** | 40-60% | 随着经验的增长而自然扩展的个人法力储备 |
 
-This composition distinguishes **sorcerers** from other spellcasters. Their magic emerges instinctively rather than being learned or granted, with mana pathways that form naturally within their physical and spiritual being. The sorcerer's Exanthis component exhibits adaptations from birth that allow for safer channeling of their innate power.
+这种构成使**术士**与其他施法者区分开来。他们的魔法是本能地涌现的，而不是被学习或授予的，法力通路在他们的身体和精神存在中自然形成。术士的 Exanthis 组件从出生就表现出适应性，可以更安全地引导他们天生的力量。
 
-### Magical Affinity Profile
+### 魔法亲和力剖析
 
-Sorcerers develop specific affinities based on their magical origin:
+术士会根据他们的魔法起源发展出特定的亲和力：
 
-| Origin Type | Primary Affinities | Secondary Affinities | Typical Application |
+| 起源类型 | 主要亲和力 | 次要亲和力 | 典型应用 |
 |--------------|-------------------|---------------------|---------------------|
-| **Draconic Bloodline** | Element matching ancestry | Base Mana (Protection) | Elemental damage, draconic resilience, intimidation |
-| **Wild Magic** | Chaos Mana | Multiple Elements | Unpredictable effects, reality manipulation, spontaneous casting |
-| **Divine Soul** | Luxmana | Base Mana (Healing) | Divine magic, healing, spiritual communion |
-| **Shadow Magic** | Umbramana | Base Mana (Illusion) | Darkness manipulation, shadow conjuration, stealth |
-| **Storm Sorcery** | Aeromana/Aquamana | Electromana | Weather control, lightning manipulation, flying |
-| **Aberrant Mind** | Mentimana | Base Mana (Psychic) | Telepathy, mind control, psychic damage |
+| **Draconic Bloodline（龙族血脉）** | 与血统匹配的元素 | 基础法力 (防护) | 元素伤害，龙族韧性，恐吓 |
+| **Wild Magic（狂野魔法）** | Chaos Mana（混沌法力） | 多种元素 | 不可预测的效果，现实操纵，自发施法 |
+| **Divine Soul（神圣灵魂）** | Luxmana（光耀法力） | 基础法力 (治疗) | 神圣魔法，治疗，灵魂交流 |
+| **Shadow Magic（阴影魔法）** | Umbramana（暗影法力） | 基础法力 (幻术) | 黑暗操纵，阴影召唤，隐身 |
+| **Storm Sorcery（风暴术士）** | Aeromana/Aquamana（气法力/水法力） | Electromana（电法力） | 天气控制，闪电操纵，飞行 |
+| **Aberrant Mind（异怪心灵）** | Mentimana（心智法力） | 基础法力 (精神) | 心灵感应，精神控制，精神伤害 |
 
-Sorcerers typically achieve 55-75% natural resonance with their primary affinity elements without formal training. Their innate connection allows for relatively high mana purity (30-50%) even without structured purification techniques, though this varies significantly between individuals based on natural talent and origin.
+术士通常在没有正式训练的情况下，对其主要亲和力元素达到 55-75% 的自然共鸣。即使没有结构化的提纯技术，他们的先天联系也能实现相对较高的法力纯度（30-50%），尽管这在个体之间因天赋和起源而异。
 
-### Species-Specific Variations
+### 种族特定的差异
 
-Different species show varying natural inclinations toward the sorcerer class:
+不同的种族在术士职业方面表现出不同的自然倾向：
 
-- **Humans** (25-40% Exanthis, 15-30% Soul, 40-60% Mana Capacity): Their adaptable nature allows for diverse sorcerous origins, though typically requiring a magical trigger or ancestral connection.
-- **Dragonborn** (30-45% Exanthis, 15-25% Soul, 40-55% Mana Capacity): Their draconic heritage creates natural affinity for elemental magic matching their ancestry.
-- **Gnomes** (20-35% Exanthis, 20-35% Soul, 40-60% Mana Capacity): Their innate connection to illusion magic often manifests as natural sorcerous ability.
-- **Half-Elves** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): Their mixed heritage can create unusual magical resonances and spontaneous sorcerous potential.
-- **Tieflings** (25-40% Exanthis, 15-30% Soul, 45-65% Mana Capacity): Their infernal heritage often manifests as natural sorcerous ability, particularly with fire and darkness affinities.
+- **Humans（人类）** (25-40% Exanthis, 15-30% Soul, 40-60% Mana Capacity): 他们适应性强的本质允许各种术士起源，尽管通常需要魔法触发或祖先联系。
+- **Dragonborn（龙裔）** (30-45% Exanthis, 15-25% Soul, 40-55% Mana Capacity): 他们的龙族血统为匹配其祖先的元素魔法创造了天然的亲和力。
+- **Gnomes（侏儒）** (20-35% Exanthis, 20-35% Soul, 40-60% Mana Capacity): 他们与幻术魔法的先天联系通常表现为天然的术士能力。
+- **Half-Elves（半精灵）** (25-35% Exanthis, 20-35% Soul, 40-55% Mana Capacity): 他们混合的血统会产生不寻常的魔法共鸣和自发的术士潜力。
+- **Tieflings（提夫林）** (25-40% Exanthis, 15-30% Soul, 45-65% Mana Capacity): 他们的地狱血统通常表现为天然的术士能力，尤其是对火焰和黑暗的亲和力。
 
-// ... rest of the file remains unchanged ... 
+// ... 文件的其余部分保持不变 ...
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

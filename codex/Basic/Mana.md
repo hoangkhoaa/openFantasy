@@ -1,106 +1,110 @@
-# **Mana**: The Ethereal Essence of Magic
+# **Mana**: 魔法的以太本质
 
-> *"Mana flows like liquid starlight through the fabric of reality, waiting for a soul's touch to ignite its potential."*
+> *"Mana 如同液态星光般流淌在现实的结构之中，等待着灵魂的触碰来点燃它的潜力。"*
 
-## Quick Navigation
+## 快速导航
 
-- [Nature and Properties](#nature-and-properties)
-- [Mana and Soul](#mana-and-soul)
-- [Geographic Distribution](#geographic-distribution)
-- [Applications](#applications)
-- [Interaction with Exanthis](#interaction-with-exanthis)
+- [性质和属性](#nature-and-properties)
+- [Mana 与灵魂](#mana-and-soul)
+- [地理分布](#geographic-distribution)
+- [应用](#applications)
+- [与 Exanthis 的互动](#interaction-with-exanthis)
 
-## Nature and Properties
+## 性质和属性
 
-**Mana** is the breath of creation itself, atomic particles smaller than ordinary atoms that dance between the realms of possibility and reality. These particles possess several unique characteristics:
+**Mana** 是创造本身的呼吸，比普通原子更小的原子粒子，在可能性和现实的领域之间舞动。这些粒子具有几个独特的特征：
 
-| Property | Description |
+| 属性 | 描述 |
 |----------|-------------|
-| **Form** | Ethereal, particle-like energy |
-| **State** | Semi-gaseous, flowing like currents |
-| **Visibility** | Invisible to normal sight, visible to magical perception |
-| **Regeneration** | Self-replenishing within living beings at varied rates |
-| **Composition** | Pure magical energy that can be refined into elemental forms |
+| **形态** | 以太，类粒子的能量 |
+| **状态** | 半气体，像洋流一样流动 |
+| **可见性** | 普通视觉不可见，魔法感知可见 |
+| **再生** | 在生物体内以不同的速率自我补充 |
+| **组成** | 纯粹的魔法能量，可以提炼成元素形式 |
 
-## Mana and Soul
+## Mana 与灵魂
 
-**Mana** resonates with the will of the [**Soul**](/codex/Basic/Soul.md), allowing beings to shape reality through conscious intent:
+**Mana** 与 [**灵魂**](/codex/Basic/Soul.md) 的意志产生共鸣，允许生物通过有意识的意图来塑造现实：
 
-- When a living being possesses a **Soul**, **Mana** particles attach to its **Soul framework**
-- This creates a bridge between consciousness and creation
-- The being can then wield **Mana**, shaping it through sheer will
-- **Mana** regenerates naturally within a being's body at a rate determined by the **Soul's** innate capacity
-- Beings can project their own **Mana** into the environment to harmonize with external energy
+- 当一个生物拥有 **灵魂** 时，**Mana** 粒子会附着到它的 **灵魂框架** 上
+- 这在意识和创造之间建立了一座桥梁
+- 然后，该生物可以运用 **Mana**，通过纯粹的意志来塑造它
+- **Mana** 在生物体内自然再生，速率由 **灵魂** 的先天容量决定
+- 生物可以将自己的 **Mana** 投射到环境中，以与外部能量协调
 
-### Magical Potency
+### 魔法效力
 
-The effectiveness of magical workings depends on several factors:
+魔法运作的有效性取决于几个因素：
 
-- The density of **Mana** in the surroundings
-- The purity of **Mana** being channeled
-- The clarity of intent from the **Soul** directing it
-- The absence of **Exanthis** interference
+- 周围环境中 **Mana** 的密度
+- 引导的 **Mana** 的纯度
+- 指导它的 **灵魂** 的意图的清晰度
+- 没有 **Exanthis** 的干扰
 
-## Geographic Distribution
+## 地理分布
 
-**Mana** is not evenly distributed throughout the world:
+**Mana** 在世界上的分布不均匀：
 
-| Region | Mana Concentration | Notable Features |
+| 区域 | Mana 浓度 | 显著特征 |
 |--------|-------------------|------------------|
-| **Eastern Veldrassil** | Very High | Centers of magical study, intense magical phenomena |
-| **Central Plains** | Moderate | Balanced magical environments, stable casting conditions |
-| **Ley Lines** | Extremely High | Rivers of concentrated magical energy crossing the world |
-| **Nexus Points** | Overwhelming | Intersections of multiple ley lines, often unstable |
-| **Western Veldrassil** | Low to Very Low | Due to high **Exanthis** concentration |
+| **东部 Veldrassil** | 非常高 | 魔法研究中心，强烈的魔法现象 |
+| **中央平原** | 中等 | 平衡的魔法环境，稳定的施法条件 |
+| **Ley Lines (地脉)** | 极高 | 集中魔法能量流过世界的河流 |
+| **Nexus Points (枢纽点)** | 压倒性 | 多个地脉的交汇处，通常不稳定 |
+| **西部 Veldrassil** | 低到非常低 | 由于高 **Exanthis** 浓度 |
 
-### Movement Patterns
+### 移动模式
 
-**Mana** flows through the world in currents similar to atmospheric winds:
+**Mana** 在世界上的流动类似于大气风：
 
-- Creates regions of varying magical potency
-- Shifts seasonally according to cosmic cycles
-- Can be temporarily depleted by massive magical workings
-- Naturally replenishes over time from cosmic sources
+- 创造不同魔法效力的区域
+- 根据宇宙周期季节性变化
+- 可以被大规模的魔法运作暂时耗尽
+- 随着时间的推移，从宇宙来源自然补充
 
-## Applications
+## 应用
 
-The manipulation of **Mana** forms the basis for all magical practices:
+**Mana** 的操纵构成了所有魔法实践的基础：
 
-### Magical Functions
+### 魔法功能
 
-- **Spellcasting**: Directed manipulation of reality through structured patterns
-- **Enchantment**: Infusing objects with persistent magical properties
-- **Divination**: Perceiving information beyond normal senses
-- **Transmutation**: Altering the properties of physical matter
-- **Conjuration**: Creating temporary manifestations of matter or energy
+- **施法**: 通过结构化模式定向操纵现实
+- **附魔**: 将持久的魔法属性注入物体中
+- **预言**: 感知超出正常感官的信息
+- **转化**: 改变物理物质的属性
+- **召唤**: 创造物质或能量的临时表现
 
-### Beyond Magic
+### 超越魔法
 
-**Mana** influences more than just magical effects:
+**Mana** 不仅仅影响魔法效果：
 
-- Enhances creativity and intuition in high-concentration regions
-- Accelerates natural processes like growth and healing
-- Creates natural phenomena like glowing flora or weather anomalies
-- Attracts extradimensional entities drawn to its energy
+- 提高高浓度区域的创造力和直觉
+- 加速生长和治疗等自然过程
+- 创造自然现象，如发光的植物或天气异常
+- 吸引被其能量吸引的超维度实体
 
-## Interaction with Exanthis
+## 与 Exanthis 的互动
 
-**Mana** is repelled by the magnetic field of [**Exanthis**](/codex/Basic/Exanthis.md):
+**Mana** 被 [**Exanthis**](/codex/Basic/Exanthis.md) 的磁场排斥：
 
-- Creates zones where magic is weakened or nullified
-- Forms natural boundaries between high and low magical regions
-- Produces unique phenomena at the interface between high **Mana** and high **Exanthis** areas
-- Can be temporarily forced through **Exanthis** barriers with sufficient power
+- 创造魔法被削弱或无效的区域
+- 形成高魔法和低魔法区域之间的自然边界
+- 在高 **Mana** 和高 **Exanthis** 区域的界面产生独特的现象
+- 可以用足够的能量暂时强行穿过 **Exanthis** 屏障
 
-### Balance of Forces
+### 力量平衡
 
-The opposition between **Mana** and **Exanthis** creates a natural system of checks and balances:
+**Mana** 和 **Exanthis** 之间的对立创造了一个自然的制衡系统：
 
-- Prevents any single power from dominating the world
-- Creates diverse environmental niches for different species
-- Establishes natural boundaries between civilizations
-- Forms the foundation for the world's magical ecology
+- 防止任何单一力量统治世界
+- 为不同的物种创造多样化的环境生态位
+- 建立文明之间的自然边界
+- 构成世界魔法生态的基础
 
 ---
 
-> Understanding **Mana** provides insight into the magical essence that flows through all things in the world of **OpenFantasy**, like appreciating the music that fills a concert hall. It is the medium through which imagination becomes reality, the canvas upon which the **Soul** paints its intentions. 
+> 理解 **Mana** 提供了对流经 **OpenFantasy** 世界万物的魔法本质的洞察，就像欣赏充满音乐厅的音乐一样。它是想象力变为现实的媒介，是 **灵魂** 在其上描绘意图的画布。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

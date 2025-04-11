@@ -1,202 +1,206 @@
-# **Air Magic**: The Art of Wind and Breath
+# **空气魔法**: 风与呼吸的艺术
 
-> *"Air is the subtlest and most elusive of elements—invisible yet ever-present, gentle yet capable of devastating force. The wise aeromancer understands that true power comes not from domination, but from harmony with the endless sky."* — Archaeromancer Sylphia Windwhisper
+> *"空气是最微妙也最难以捉摸的元素——无形却无处不在，温柔却拥有毁灭性的力量。明智的御风者明白，真正的力量并非来自统治，而是来自与无尽天空的和谐共处。"* — 大气魔法师 希尔菲娅·风语者
 
-## Quick Reference
-- [Properties of Aeromana](#properties-of-aeromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 快速参考
+- [气源的特性](#气源的特性)
+- [操控技巧](#操控技巧)
+- [常用咒语](#常用咒语)
+- [亲和力发展](#亲和力发展)
+- [风险与保障](#风险与保障)
+- [文化意义](#文化意义)
 
-## Properties of Aeromana
+## 气源的特性
 
-Aeromana, the elemental mana of air, is characterized by:
+气源，空气的元素魔力，其特征在于：
 
-- **Appearance**: Transparent whites and pale blues; swirling, ethereal patterns that constantly shift
-- **Sensation**: Feels light, refreshing, and dynamic when channeled; creates a sense of weightlessness
-- **Resonance**: High to medium-frequency, constantly changing vibration patterns with harmonic overtones
-- **Purification Challenge**: Difficult to contain during purification, but accepts purification easily; tends to disperse rapidly
-- **Opposite Element**: Earth (creates dust when forced together, ultimately erodes earth)
-- **Complementary Elements**: Water (creates mist/fog), Light (creates radiance)
-- **Musical Analogy**: Flute and wind instruments; notes that rise and fall, creating airy melodies
+- **外观**: 透明的白色和淡蓝色；不断变化的漩涡状、空灵的图案
+- **感觉**: 当引导时感觉轻盈、清爽且充满活力；产生一种失重感
+- **共鸣**: 高到中频率，具有谐波泛音的不断变化的振动模式
+- **净化挑战**: 净化期间难以控制，但容易接受净化；倾向于迅速分散
+- **相反元素**: 土 (强行混合时产生尘埃，最终侵蚀土地)
+- **互补元素**: 水 (产生薄雾/雾气), 光 (产生光辉)
+- **音乐类比**: 长笛和管乐器；起伏的音符，创造出空灵的旋律
 
-## Manipulation Techniques
+## 操控技巧
 
-### Basic Techniques
+### 基础技巧
 
-#### Air Current Control
-The foundational technique of directing air movement:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Creates, redirects, or calms air flow
-- **Training Focus**: Pressure differential creation and flow dynamics
-- **Applications**: Creating breezes, deflecting objects, cooling areas, enhancing combustion
+#### 气流控制
+引导空气运动的基础技术：
+- **难度**: 新手
+- **纯度要求**: 基础 (15-25%)
+- **效果**: 创建、重定向或平静气流
+- **训练重点**: 压差创建和流动动力学
+- **应用**: 创造微风，偏转物体，冷却区域，增强燃烧
 
-#### Pressure Manipulation
-Altering air pressure in localized areas:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Creates pockets of high or low pressure
-- **Training Focus**: Compression dynamics and boundary maintenance
-- **Applications**: Sound amplification or dampening, creating cushioning effects, weather influence
+#### 压力操纵
+改变局部区域的气压：
+- **难度**: 新手到中级
+- **纯度要求**: 基础到精炼 (20-40%)
+- **效果**: 创造高压或低压区域
+- **训练重点**: 压缩动力学和边界维护
+- **应用**: 声音放大或抑制，创造缓冲效果，影响天气
 
-#### Breath Enhancement
-Controlling breath and respiratory efficiency:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Improves respiratory function and vocal projection
-- **Training Focus**: Fine control of air in biological systems
-- **Applications**: Extended breath holding, voice projection, filtering harmful substances
+#### 呼吸增强
+控制呼吸和呼吸效率：
+- **难度**: 中级
+- **纯度要求**: 精炼 (30-45%)
+- **效果**: 改善呼吸功能和发声投射
+- **训练重点**: 精细控制生物系统中的空气
+- **应用**: 延长屏气时间，声音投射，过滤有害物质
 
-### Advanced Techniques
+### 高级技巧
 
-#### Aerial Shaping
-Creating and maintaining complex air structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-65%)
-- **Effect**: Forms persistent air structures that maintain their shape despite natural dispersion
-- **Training Focus**: Dynamic equilibrium and constant energy input
-- **Applications**: Air barriers, floating platforms, sound-channeling tubes, stable vortices
+#### 空气塑形
+创造和维持复杂的空气结构：
+- **难度**: 高级
+- **纯度要求**: 精炼到完美 (45-65%)
+- **效果**: 形成持久的空气结构，即使在自然扩散下也能保持其形状
+- **训练重点**: 动态平衡和持续的能量输入
+- **应用**: 空气屏障，漂浮平台，导音管，稳定涡流
 
-#### Wind Communion
-Interpreting and influencing natural air currents:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-80%)
-- **Effect**: Taps into and redirects existing weather patterns and atmospheric conditions
-- **Training Focus**: Large-scale system integration
-- **Applications**: Weather prediction, storm calming, wind direction change, cloud formation
+#### 风之交流
+解读和影响自然气流：
+- **难度**: 专家
+- **纯度要求**: 完美 (60-80%)
+- **效果**: 接入并重定向现有的天气模式和大气条件
+- **训练重点**: 大规模系统集成
+- **应用**: 天气预报，风暴平息，风向改变，云层形成
 
-#### Vacuum Creation
-Removing air from a defined space:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Creates areas devoid of air
-- **Training Focus**: Negative pressure maintenance and boundary sealing
-- **Applications**: Sound elimination, fire suppression, pressure differential weapons, preservative environments
+#### 真空创造
+从定义的空间中移除空气：
+- **难度**: 大师
+- **纯度要求**: 完美 (75-95%)
+- **效果**: 创建没有空气的区域
+- **训练重点**: 负压维护和边界密封
+- **应用**: 声音消除，灭火，压差武器，防腐环境
 
-## Common Spells
+## 常用咒语
 
-### Novice Spells
+### 新手咒语
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 咒语 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Gentle Breeze** | Creates a light, directed wind | Somatic | 1 second | Concentration |
-| **Sound Carry** | Amplifies and directs sounds to specific location | Somatic, Verbal | 3 seconds | 5 minutes |
-| **Dust Devil** | Creates a small whirling vortex of air | Somatic, Focus | 5 seconds | 1 minute |
-| **Fresh Air** | Purifies air in a small area | Somatic, Verbal | 5 seconds | 10 minutes |
+| **轻柔微风** | 创造轻微、定向的风 | 体势 | 1 秒 | 专注 |
+| **声音传递** | 放大声音并将声音导向特定位置 | 体势，言语 | 3 秒 | 5 分钟 |
+| **尘卷风** | 创造一个小的旋转空气涡流 | 体势，专注 | 5 秒 | 1 分钟 |
+| **清新空气** | 净化小区域内的空气 | 体势，言语 | 5 秒 | 10 分钟 |
 
-### Intermediate Spells
+### 中级咒语
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 咒语 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Wind Wall** | Creates a vertical barrier of rushing air | Somatic, Verbal | 5 seconds | Concentration |
-| **Whisper Wind** | Sends a short message carried by the breeze | Somatic, Verbal, Focus | 10 seconds | Special |
-| **Cushioned Fall** | Slows descent by creating supportive air currents | Somatic | 1 second | 10 seconds |
-| **Fog Creation** | Forms a cloud of obscuring mist | Somatic, Verbal, Water | 10 seconds | 30 minutes |
+| **风墙** | 创造一个垂直的急流空气屏障 | 体势，言语 | 5 秒 | 专注 |
+| **低语之风** | 发送一条由微风携带的简短消息 | 体势，言语，专注 | 10 秒 | 特殊 |
+| **缓冲坠落** | 通过创造支撑气流来减缓下降速度 | 体势 | 1 秒 | 10 秒 |
+| **雾气创造** | 形成一团遮蔽视线的雾气 | 体势，言语，水 | 10 秒 | 30 分钟 |
 
-### Advanced Spells
+### 高级咒语
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 咒语 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Cyclone** | Creates a powerful rotating column of air | Somatic, Verbal, Focus | 15 seconds | Concentration |
-| **Air Elemental** | Forms a semi-autonomous air entity | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Wind Walk** | Partially transforms body into air for rapid travel | Somatic, Verbal, Focus | 30 seconds | 10 minutes |
-| **Vacuum Sphere** | Creates a sphere of airlessness | Somatic, Verbal, Focus | 10 seconds | Concentration |
+| **旋风** | 创造一个强大的旋转空气柱 | 体势，言语，专注 | 15 秒 | 专注 |
+| **空气元素** | 形成一个半自治的空气实体 | 体势，言语，专注 | 1 分钟 | 1 小时 |
+| **风行** | 将身体部分转化为空气以进行快速旅行 | 体势，言语，专注 | 30 秒 | 10 分钟 |
+| **真空球** | 创造一个无空气的球体 | 体势，言语，专注 | 10 秒 | 专注 |
 
-## Affinity Development
+## 亲和力发展
 
-Air affinity progresses through several distinctive stages:
+空气亲和力通过几个独特的阶段发展：
 
-### Breath Connection
-The foundational relationship with air that most beginners possess:
-- **Manifestation**: Enhanced breath control, intuitive sense of air currents
-- **Physical Signs**: Slightly lighter footsteps, ability to hold breath longer
-- **Enhancement Method**: Breathing exercises, particularly at high elevations or in windy areas
+### 呼吸连接
+大多数初学者拥有的与空气的基本关系：
+- **表现**: 增强呼吸控制，对气流的直觉感
+- **身体迹象**: 脚步略微轻盈，能够屏住呼吸更长时间
+- **增强方法**: 呼吸练习，尤其是在高海拔或多风地区
 
-### Breeze Harmony
-The intermediate stage where air responds more readily to the mage's will:
-- **Manifestation**: Air moves with minimal effort, atmospheric awareness expands
-- **Physical Signs**: Hair and clothing move with subtle air currents, voice carries unusually well
-- **Enhancement Method**: Meditation during storms, practice in varied atmospheric conditions
+### 微风和谐
+空气更容易响应法师意志的中间阶段：
+- **表现**: 空气以最小的努力移动，大气意识扩大
+- **身体迹象**: 头发和衣服随着微妙的气流移动，声音异常清晰
+- **增强方法**: 在暴风雨中冥想，在各种大气条件下练习
 
-### Wind Symphony
-Advanced practitioners achieve a deep resonance with air's movements:
-- **Manifestation**: Weather subtly shifts in response to emotions, air seems to part naturally
-- **Physical Signs**: Body temperature regulation mirrors air, subtle glow during deep breathing
-- **Enhancement Method**: Extended communion with high-altitude winds and atmospheric patterns
+### 风之交响
+高级从业者与空气的运动达到深刻的共鸣：
+- **表现**: 天气微妙地响应情绪，空气似乎自然地分开
+- **身体迹象**: 体温调节反映空气，深呼吸时发出微弱的光芒
+- **增强方法**: 与高海拔风和大气模式的长期交流
 
-### Sky Unity
-Master aeromancers who have achieved profound connection with air:
-- **Manifestation**: Partial transformation abilities, influence over weather without direct casting
-- **Physical Signs**: Eyes reflect sky conditions, breath becomes visible as colored mist
-- **Enhancement Method**: Deep communion at ley line intersections with strong air resonance
+### 天空统一
+已经与空气建立了深刻联系的大师级御风者：
+- **表现**: 部分转化能力，在没有直接施法的情况下影响天气
+- **身体迹象**: 眼睛反映天空状况，呼吸变得可见为彩色雾气
+- **增强方法**: 在具有强烈空气共鸣的能量线交叉处进行深度交流
 
-## Risks and Safeguards
+## 风险与保障
 
-### Common Risks
+### 常见风险
 
-- **Breath Disruption**: Loss of control over personal breathing patterns
-- **Pressure Damage**: Creating unsafe pressure differentials affecting ears, sinuses, or lungs
-- **Oxygen Deprivation**: Accidentally removing breathable air from the caster's vicinity
-- **Weather Instability**: Unintended atmospheric effects spreading beyond the intended area
-- **Dispersal Effect**: Caster's consciousness becoming too diffuse during advanced techniques
+- **呼吸中断**: 失去对个人呼吸模式的控制
+- **压力损伤**: 创造影响耳朵、鼻窦或肺部的不安全压差
+- **氧气剥夺**: 意外地从施法者附近移除可呼吸的空气
+- **天气不稳定**: 意外的大气影响蔓延到预定区域之外
+- **分散效应**: 施法者的意识在高级技巧中变得过于分散
 
-### Miscast Effects
+### 施法错误的效果
 
-| Severity | Effect | Recovery |
+| 严重程度 | 效果 | 恢复 |
 |----------|--------|----------|
-| **Minor** | Temporary breathing irregularities, light-headedness, voice changes | Hours |
-| **Moderate** | Inner ear disturbances, respiratory irritation, uncontrolled floating | Days |
-| **Severe** | Partial corporeal dispersion, lung damage, severe disorientation | Weeks |
-| **Critical** | Physical form instability, consciousness diffusion, organ disruption | Months |
+| **轻微** | 暂时性呼吸不规律，头晕，声音变化 | 小时 |
+| **中等** | 内耳紊乱，呼吸道刺激，不受控制的漂浮 | 天 |
+| **严重** | 部分肉体分散，肺损伤，严重定向障碍 | 周 |
+| **危急** | 身体形态不稳定，意识扩散，器官破坏 | 月 |
 
-### Safety Practices
+### 安全措施
 
-- **Grounding Techniques**: Regular physical contact with earth to maintain corporeal stability
-- **Pressure Equalization**: Gradual pressure changes when working with air compression
-- **Breathing Discipline**: Maintaining conscious breath control during casting
-- **Environmental Awareness**: Monitoring weather conditions before large-scale workings
-- **Pattern Anchoring**: Using physical gestures to maintain focus during complex manipulations
+- **接地技巧**: 与地球定期进行身体接触以维持肉体稳定性
+- **压力均衡**: 在进行空气压缩时逐渐改变压力
+- **呼吸训练**: 在施法过程中保持有意识的呼吸控制
+- **环境意识**: 在进行大规模工作之前监测天气状况
+- **模式锚定**: 使用身体手势来保持复杂操作期间的注意力
 
-## Cultural Significance
+## 文化意义
 
-### Historical Development
+### 历史发展
 
-Air magic emerged as a formalized practice later than earth or fire magic, but evidence suggests intuitive use dates back to early tribal shamans. The development of aeromancy followed three distinct paths:
+空气魔法作为一种正式的实践出现的时间晚于土地或火焰魔法，但有证据表明直觉的使用可以追溯到早期的部落萨满。御风术的发展遵循三个不同的路径：
 
-1. **Breath Mysticism**: Meditative traditions focusing on the connection between breath and spirit
-2. **Weather Working**: Agrarian and seafaring cultures developing techniques to predict and influence weather
-3. **Voice Enhancement**: Bardic traditions using air magic to enhance communication and performance
+1. **呼吸神秘主义**: 冥想传统，侧重于呼吸与精神之间的联系
+2. **天气工作**: 发展预测和影响天气技术的农业和航海文化
+3. **声音增强**: 使用空气魔法增强沟通和表演的吟游诗人传统
 
-### Regional Variations
+### 区域差异
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 重点 | 标志性技术 | 哲学 |
 |---------|-------|---------------------|------------|
-| **Mountain Peoples** | High-altitude adaptation, weather reading | Cloud divination, breath extension | Air as the cosmic breath |
-| **Nomadic Tribes** | Weather prediction, travel enhancement | Wind listening, dust scrying | Air as the eternal wanderer |
-| **Island Nations** | Storm control, long-distance communication | Storm calming, message winds | Air as the world connector |
-| **Sky Temples** | Spiritual communion, levitation | Meditation flights, voice projection | Air as the path to enlightenment |
+| **山地民族** | 高海拔适应，天气阅读 | 云占卜，呼吸延伸 | 空气作为宇宙呼吸 |
+| **游牧部落** | 天气预报，旅行增强 | 听风，尘埃占卜 | 空气作为永恒的漫游者 |
+| **岛屿国家** | 风暴控制，远程通信 | 风暴平息，消息风 | 空气作为世界连接器 |
+| **天空寺庙** | 精神交流，漂浮 | 冥想飞行，声音投射 | 空气作为通往启蒙的道路 |
 
-### Ceremonial Uses
+### 仪式用途
 
-Air magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young aeromancers demonstrating their first controlled breeze
-- **Funeral Rites**: "Sky burial" practices and soul-releasing ceremonies
-- **Harvest Festivals**: Weather blessing for the coming seasons
-- **Voice Competitions**: Demonstrations of air-enhanced vocal abilities
+空气魔法在许多文化仪式中占据重要地位：
+- **成年礼**: 年轻的御风者展示他们的第一次受控微风
+- **葬礼**: "天葬"习俗和灵魂释放仪式
+- **丰收节**: 为即将到来的季节祝福天气
+- **声音比赛**: 展示空气增强的歌唱能力
 
-### Contemporary Applications
+### 当代应用
 
-Beyond combat and utility applications, air magic serves important societal functions:
-- **Communication**: Message carrying, sound enhancement, signal transmission
-- **Transportation**: Wind-powered vehicles, resistance reduction for conventional transport
-- **Environmental Management**: Air purification, ventilation systems, weather moderation
-- **Artistry**: Musical enhancement, aerial dance, visual displays
+除了战斗和实用应用之外，空气魔法还服务于重要的社会功能：
+- **通讯**: 消息传递，声音增强，信号传输
+- **交通运输**: 风力驱动的车辆，减少传统交通的阻力
+- **环境管理**: 空气净化，通风系统，天气调节
+- **艺术**: 音乐增强，空中舞蹈，视觉展示
 
-> *"The student of air must learn that control comes not from force but from subtle influence—like the breeze that does not break the branch but convinces it to bend."* — The Aeromancer's Path
+> *"空气的学生必须学会，控制并非来自力量，而是来自微妙的影响——就像微风不会折断树枝，而是说服它弯曲一样。"* — 御风者的道路
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Water Magic](/codex/Magics/Elements/WaterMagic.md), [Weather Magic](/codex/Magics/Advanced/Combinations/WeatherMagic.md)* 
+*另见: [元素魔法](/codex/Magics/Elements/ElementalMagic.md), [水魔法](/codex/Magics/Elements/WaterMagic.md), [天气魔法](/codex/Magics/Advanced/Combinations/WeatherMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

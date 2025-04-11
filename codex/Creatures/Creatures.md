@@ -1,176 +1,180 @@
-# OpenFantasy Creatures
+# OpenFantasy 生物
 
-> *"The living symphony of creation is composed of countless beings, each playing their unique melody in the grand orchestra of existence."*
+> *"活生生的造物交响曲由无数的生命构成，它们在宏大的存在交响乐中演奏着各自独特的旋律。"*
 
-## Quick Navigation
+## 快速导航
 
-- [Elemental Components](#elemental-components)
-- [Composition-Based Classification](#composition-based-classification)
-- [Individual Variations](#individual-variations)
-- [Creature Categories](#creature-categories)
-- [Magical Origins](#magical-origins)
-- [Enhancement Methods](#enhancement-methods)
+- [元素组成](#elemental-components)
+- [基于组成的分类](#composition-based-classification)
+- [个体差异](#individual-variations)
+- [生物类别](#creature-categories)
+- [魔法起源](#magical-origins)
+- [增强方法](#enhancement-methods)
 
-## Overview
+## 概述
 
-All creatures in OpenFantasy are composed of three elemental components in varying ratios: [**Exanthis**](/codex/Basic/Exanthis.md) (physical form), [**Soul**](/codex/Basic/Soul.md) (consciousness and willpower), and **Mana Capacity** (ability to manipulate [**Mana**](/codex/Basic/Mana.md)). These ratios determine their abilities, strengths, and weaknesses.
+OpenFantasy 中的所有生物都由三种不同比例的元素组成：[**Exanthis**](/codex/Basic/Exanthis.md)（物质形态）、[**灵魂**](/codex/Basic/Soul.md)（意识和意志）和**魔法容量**（操纵 [**魔法**](/codex/Basic/Mana.md) 的能力）。这些比例决定了他们的能力、优势和劣势。
 
-Different categories of beings—from sentient species to plants, from animals to monsters—each exhibit distinctive elemental compositions that influence their place in the world's ecology and society.
+不同类型的生物——从有知觉的物种到植物，从动物到怪物——都表现出独特的元素构成，这些构成影响着它们在世界生态和社会中的地位。
 
-## Elemental Components
+## 元素组成
 
-Each living being's composition can be understood through the proportion of three fundamental components:
+每个生物的构成都可以通过三种基本成分的比例来理解：
 
-| Component | Description | Metaphor |
+| 成分 | 描述 | 比喻 |
 |-----------|-------------|----------|
-| **Exanthis (E)** | Physical foundation providing structure and form | The body of an instrument |
-| **Soul (S)** | Spark of consciousness providing will and identity | The musician who plays the instrument |
-| **Mana Capacity (M)** | Bridge between worlds determining magical ability | The harmonies that weave everything together |
+| **Exanthis (E)** | 提供结构和形态的物理基础 | 乐器的身体 |
+| **灵魂 (S)** | 提供意志和身份的意识火花 | 演奏乐器的音乐家 |
+| **魔法容量 (M)** | 连接世界并决定魔法能力的桥梁 | 将一切编织在一起的和声 |
 
-### Component Effects
+### 成分效应
 
-| Component | Advantages | Limitations |
+| 成分 | 优点 | 局限性 |
 |-----------|------------|-------------|
-| **Exanthis** | Greater physical strength, endurance, and durability | Reduced magical potential due to magnetic interference with Mana |
-| **Soul** | Enhanced consciousness, willpower, and identity | Accelerated soul decay resulting in shorter lifespans |
-| **Mana Capacity** | Higher purity and control of Mana | May result in physical frailty due to lower Exanthis |
+| **Exanthis** | 更强的体力、耐力和耐久性 | 由于对魔法的磁干扰，魔法潜力降低 |
+| **灵魂** | 增强的意识、意志和身份 | 导致灵魂加速衰退，寿命缩短 |
+| **魔法容量** | 更高的魔法纯度和控制力 | 由于较低的 Exanthis，可能导致身体虚弱 |
 
-## Composition-Based Classification
+## 基于组成的分类
 
-Creatures in OpenFantasy are classified by their elemental composition and magical nature, rather than traditional biological taxonomies:
+OpenFantasy 中的生物按其元素组成和魔法性质进行分类，而不是传统的生物分类法：
 
-| Category | Exanthis | Soul | Mana | Examples |
+| 类别 | Exanthis | 灵魂 | 魔法 | 例子 |
 |----------|----------|------|------|----------|
-| **Physical Dominant** | 50%+ | Varied | <25% | Dwarves, Giants, Most Animals |
-| **Soul Dominant** | <40% | 40%+ | <40% | Some Humans, Sirens, Gnomes |
-| **Mana Dominant** | <30% | <40% | 50%+ | Elves, Fae, Elementals |
-| **Balanced** | 20-50% | 20-50% | 20-50% | Humans, Some Beastfolk, Hybrid Species |
+| **物质主导** | 50%+ | 多样 | <25% | 矮人、巨人、大多数动物 |
+| **灵魂主导** | <40% | 40%+ | <40% | 一些人类、海妖、侏儒 |
+| **魔法主导** | <30% | <40% | 50%+ | 精灵、妖精、元素生物 |
+| **平衡** | 20-50% | 20-50% | 20-50% | 人类、一些兽人、混血物种 |
 
-## Individual Variations
+## 个体差异
 
-Within each species, individuals exhibit unique variations in their elemental composition, resulting in diverse abilities, temperaments, and aptitudes. These variations are influenced by:
+在每个物种中，个体在其元素构成中表现出独特的差异，从而导致不同的能力、性情和天赋。这些差异受到以下因素的影响：
 
-- **Heredity**: Traits passed down through ancestral lines
-- **Environment**: Environmental conditions during formative years
-- **Life Experiences**: Significant events that alter elemental balance
-- **Personal Development**: Intentional cultivation of specific elements
+- **遗传**：通过祖先血统传递的特征
+- **环境**：形成时期的环境条件
+- **生活经历**：改变元素平衡的重大事件
+- **个人发展**：有意识地培养特定元素
 
-## Creature Categories
+## 生物类别
 
-The world of OpenFantasy features diverse beings organized into six primary categories:
+OpenFantasy 的世界拥有多样化的生物，它们被组织成六个主要类别：
 
-### Sentient Species
+### 有知觉的物种
 
-Intelligent beings capable of forming civilizations, creating culture, and wielding magic through conscious effort:
+有智慧的生物，能够形成文明，创造文化，并通过有意识的努力运用魔法：
 
-| Species | Elemental Composition | Notable Traits |
+| 物种 | 元素组成 | 显著特征 |
 |---------|----------------------|----------------|
-| [**Humans**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | Adaptability, innovation, balanced capabilities |
-| [**Elves**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | Longevity, magical aptitude, connection to nature |
-| [**Dwarves**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | Physical resilience, craftsmanship, underground mastery |
-| [**Beastfolk**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | Animal traits, heightened senses, natural instincts |
+| [**人类**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | 适应性、创新、平衡能力 |
+| [**精灵**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | 长寿、魔法天赋、与自然的联系 |
+| [**矮人**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | 身体韧性、工艺、地下精通 |
+| [**兽人**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | 动物特征、增强的感官、自然本能 |
 
-→ See [Sentient Species](/codex/Creatures/Sentient/README.md) for more detailed information.
+→ 有关更详细的信息，请参见 [有知觉的物种](/codex/Creatures/Sentient/README.md)。
 
-### Magical Beings
+### 魔法生物
 
-Creatures composed primarily of magical energy or created through magical processes:
+主要由魔法能量组成或通过魔法过程创造的生物：
 
-| Being | Elemental Composition | Notable Traits |
+| 生物 | 元素组成 | 显著特征 |
 |-------|----------------------|----------------|
-| [**Fae**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | Ethereal nature, reality manipulation, otherworldly |
-| [**Elementals**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | Embodiment of natural forces, pure magical essence |
-| [**Dragonkin**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | Ancient lineage, elemental affinity, natural power |
-| [**Golems**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | Constructed bodies, artificial souls, purpose-bound |
+| [**妖精**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | 空灵的性质、现实操纵、超凡脱俗 |
+| [**元素生物**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | 自然力量的化身、纯粹的魔法本质 |
+| [**龙族**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | 古老的血统、元素亲和力、自然力量 |
+| [**魔像**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | 构造的身体、人工灵魂、有目的的约束 |
 
-→ See [Magical Beings](/codex/Creatures/Magical/README.md) for more detailed information.
+→ 有关更详细的信息，请参见 [魔法生物](/codex/Creatures/Magical/README.md)。
 
-### Animals
+### 动物
 
-Non-sentient fauna with varying degrees of intelligence and magical affinity:
+非知觉的动物，具有不同程度的智力和魔法亲和力：
 
-| Category | Elemental Composition | Notable Traits |
+| 类别 | 元素组成 | 显著特征 |
 |----------|----------------------|----------------|
-| [**Domesticated**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | Human-influenced evolution, trainability |
-| [**Wild**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | Natural instincts, ecological adaptations |
-| [**Aquatic**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | Water adaptation, specialized physiologies |
-| [**Magical**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | Innate magical abilities, supernatural traits |
+| [**驯养的**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | 受人类影响的进化、可训练性 |
+| [**野生的**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | 自然本能、生态适应 |
+| [**水生的**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | 水适应、专门的生理机能 |
+| [**魔法的**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | 与生俱来的魔法能力、超自然特征 |
 
-→ See [Animals](/codex/Creatures/Animals/README.md) for more detailed information.
+→ 有关更详细的信息，请参见 [动物](/codex/Creatures/Animals/README.md)。
 
-### Monsters
+### 怪物
 
-Dangerous or unnatural creatures that exist outside the normal ecological balance:
+存在于正常生态平衡之外的危险或非自然的生物：
 
-| Category | Elemental Composition | Notable Traits |
+| 类别 | 元素组成 | 显著特征 |
 |----------|----------------------|----------------|
-| [**Aberrations**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | Unnatural anatomy, reality-warping properties |
-| [**Undead**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | Death-defying, necromantic energy, soul disruption |
-| [**Corrupted**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | Twisted forms, magical contamination, unstable |
-| [**Giants**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | Enormous size, primal strength, elemental connections |
+| [**畸变体**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | 非自然的解剖结构、现实扭曲的性质 |
+| [**不死生物**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | 违抗死亡、死灵能量、灵魂扰乱 |
+| [**堕落的**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | 扭曲的形态、魔法污染、不稳定 |
+| [**巨人**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | 巨大的体型、原始的力量、元素联系 |
 
-→ See [Monsters](/codex/Creatures/Monsters/README.md) for more detailed information.
+→ 有关更详细的信息，请参见 [怪物](/codex/Creatures/Monsters/README.md)。
 
-### Plants
+### 植物
 
-Flora with unique properties, both magical and mundane:
+具有独特性质的植物，包括魔法和世俗的植物：
 
-| Category | Elemental Composition | Notable Traits |
+| 类别 | 元素组成 | 显著特征 |
 |----------|----------------------|----------------|
-| [**Mundane**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | Basic flora, ecological foundation |
-| [**Medicinal**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | Healing properties, biological potency |
-| [**Magical**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | Spell components, energy manipulation |
-| [**Sentient**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | Consciousness, mobility, communication |
+| [**世俗的**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | 基本植物群、生态基础 |
+| [**药用的**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | 治疗特性、生物效力 |
+| [**魔法的**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | 咒语成分、能量操纵 |
+| [**有知觉的**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | 意识、流动性、交流 |
 
-→ See [Plants](/codex/Creatures/Plants/README.md) for more detailed information.
+→ 有关更详细的信息，请参见 [植物](/codex/Creatures/Plants/README.md)。
 
-### Hybrid Beings
+### 混血生物
 
-Creatures that bridge multiple categories through unique physiologies:
+通过独特的生理机能连接多个类别的生物：
 
-| Being | Elemental Composition | Notable Traits |
+| 生物 | 元素组成 | 显著特征 |
 |-------|----------------------|----------------|
-| [**Centaurs**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | Horse-human hybrid, nature wisdom, stamina |
-| [**Merfolk**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | Aquatic adaptation, water magic, dual environment |
-| [**Sirens**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | Sound manipulation, emotional influence, beauty |
+| [**半人马**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | 马-人混合、自然智慧、耐力 |
+| [**美人鱼**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | 水生适应、水魔法、双重环境 |
+| [**海妖**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | 声音操纵、情绪影响、美丽 |
 
-→ See [Hybrid Beings](/codex/Creatures/Hybrid/README.md) for more detailed information.
+→ 有关更详细的信息，请参见 [混血生物](/codex/Creatures/Hybrid/README.md)。
 
-## Magical Origins
+## 魔法起源
 
-The diverse beings of OpenFantasy have various origins that influence their nature and abilities:
+OpenFantasy 的多样化生物具有不同的起源，这些起源影响着它们的性质和能力：
 
-- **Primal Species**: Evolved naturally (Humans, Mundane Animals, Wild Plants)
-- **Fae-Touched**: Influenced by fae realms (Elves, Dark Elves, Certain Plants)
-- **Elemental-Infused**: Imbued with elemental power (Giants, Dragonkin, Elemental Flora)
-- **Constructed**: Artificially created (Golems, Certain Undead, Magical Hybrids)
-- **Transformed**: Changed from one form to another (Shadowfolk, Corrupted Beings)
+- **原始物种**：自然进化（人类、世俗动物、野生植物）
+- **妖精触碰**：受妖精领域的影响（精灵、黑暗精灵、某些植物）
+- **元素注入**：注入了元素力量（巨人、龙族、元素植物）
+- **构造的**：人工创造（魔像、某些不死生物、魔法混合体）
+- **转变的**：从一种形式转变为另一种形式（影民、堕落生物）
 
-## Enhancement Methods
+## 增强方法
 
-Various methods exist for beings to enhance specific aspects of their elemental composition:
+存在各种方法来增强生物元素组成的特定方面：
 
-| Method | Enhances | Description |
+| 方法 | 增强 | 描述 |
 |--------|----------|-------------|
-| **Physical Training** | Exanthis | Increases effective Exanthis utilization through disciplined exercise |
-| **Meditation and Will Work** | Soul | Strengthens Soul connection through focused introspection |
-| **Mana Reservoir Expansion** | Mana Capacity | Enhances ability to store and purify Mana through magical exposure |
-| **Harmonization Techniques** | Balance | Improves the integration between elemental components |
-| **Environmental Attunement** | Varies | Adapts composition through prolonged exposure to specific environments |
+| **体能训练** | Exanthis | 通过严格的锻炼来提高 Exanthis 的有效利用率 |
+| **冥想和意志工作** | 灵魂 | 通过专注的内省来加强灵魂联系 |
+| **魔法储量扩展** | 魔法容量 | 通过魔法暴露来增强储存和净化魔法的能力 |
+| **和谐技术** | 平衡 | 改善元素组成之间的整合 |
+| **环境适应** | 各异 | 通过长时间暴露于特定环境来调整组成 |
 
-## Regional Ecosystems
+## 区域生态系统
 
-Creatures tend to form complex ecological relationships within distinct regions:
+生物倾向于在不同的区域内形成复杂的生态关系：
 
-| Region | Dominant Creatures | Ecological Features |
+| 区域 | 主要生物 | 生态特征 |
 |--------|-------------------|---------------------|
-| **Ancient Forests** | Elves, Fae, Sentient Plants | Magical symbiosis, layered habitats |
-| **Mountain Realms** | Dwarves, Giants, Stone-based Elementals | Mineral integration, vertical ecosystems |
-| **Coastal Regions** | Merfolk, Aquatic Animals, Sirens | Land-water transition zones |
-| **Wild Plains** | Humans, Beastfolk, Centaurs | Migratory patterns, seasonal variations |
-| **Shadow Lands** | Dark Elves, Shadowfolk, Void Creatures | Light-deficient adaptations, shadow energy |
-| **Magical Nexuses** | Elementals, Aberrations, Magical Plants | Energy saturation, reality distortion |
+| **远古森林** | 精灵、妖精、有知觉的植物 | 魔法共生、分层栖息地 |
+| **山地领域** | 矮人、巨人、基于石头的元素生物 | 矿物整合、垂直生态系统 |
+| **沿海地区** | 美人鱼、水生动物、海妖 | 陆地-水过渡区 |
+| **野生平原** | 人类、兽人、半人马 | 迁徙模式、季节性变化 |
+| **阴影之地** | 黑暗精灵、影民、虚空生物 | 缺乏光照的适应、阴影能量 |
+| **魔法枢纽** | 元素生物、畸变体、魔法植物 | 能量饱和、现实扭曲 |
 
 ---
 
-> Understanding these creatures and their elemental compositions provides insight into the diverse tapestry of life in OpenFantasy, like appreciating the various instruments that make up a grand orchestra, each contributing its unique voice to the symphony of existence. 
+> 了解这些生物及其元素组成，可以深入了解 OpenFantasy 中多样化的生命景象，就像欣赏构成宏大管弦乐的各种乐器一样，每一种都为存在的交响乐贡献着其独特的声音。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

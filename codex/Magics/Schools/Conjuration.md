@@ -1,213 +1,217 @@
-# **The School of Conjuration**
+# **塑能学派**
 
-> *"To conjure is to reach across the veil of possibility and draw forth that which exists elsewhere. It is not creation, but connection—a bridge between realms."*  
-> — Archconjurer Thaddeus Voidcaller, Master of the Summoning Circle
+> *"塑能是跨越可能性的面纱，汲取存在于他处之物。它并非创造，而是连接——是各个领域之间的桥梁。"*
+> — 大塑能师萨迪厄斯·虚空呼唤者，召唤法阵大师
 
-## Overview
+## 概述
 
-Conjuration is the school of magic focused on calling forth matter, energy, or entities from elsewhere—whether from another location in the material world, elemental planes, or even other dimensions. Unlike illusion that creates sensory deception or evocation that generates effects from raw magical energy, conjuration involves the transportation, manifestation, or binding of pre-existing elements. It is considered one of the most potentially dangerous magical disciplines due to its interaction with forces and entities beyond the caster's native realm.
+塑能是专注于从他处召唤物质、能量或实体的魔法学派——无论来自物质世界的另一个地点、元素位面，甚至是其他维度。与创造感官欺骗的幻术或从原始魔法能量中产生效果的咒法不同，塑能涉及预先存在的元素的运输、显现或束缚。由于它与施法者原生领域之外的力量和实体的互动，它被认为是潜在危险性最高的魔法学科之一。
 
-## Fundamental Principles
+## 基本原则
 
-### The Correspondence Axiom
+### 对应公理
 
-The foundation of conjuration theory is the Correspondence Axiom, which states that all things that exist share fundamental resonant patterns that can be leveraged to create connections across space, time, and dimensional boundaries. By replicating these patterns, conjurers can establish temporary or permanent links between distant points.
+塑能理论的基础是对应公理，该公理指出，所有存在的事物都共享基本共振模式，可以利用这些模式在空间、时间和维度边界之间创建连接。通过复制这些模式，塑能师可以在遥远的点之间建立临时或永久的链接。
 
-### Primary Components
+### 主要组成部分
 
-All conjuration spells incorporate three fundamental components:
+所有塑能咒语都包含三个基本组成部分：
 
-1. **Pattern Recognition**: Identifying the specific resonant signature of the target
-2. **Spatial Bridging**: Creating a connection between the caster's location and the target's location
-3. **Manifestation Control**: Guiding and containing the conjured element upon arrival
+1. **模式识别**：识别目标的特定共振特征
+2. **空间桥接**：在施法者的位置和目标的位置之间创建连接
+3. **显现控制**：引导和控制被召唤元素到达后
 
-More complex conjurations add additional components:
+更复杂的塑能会添加其他组件：
 
-4. **Binding Frameworks**: Establishing control over conjured entities
-5. **Duration Anchoring**: Extending the manifestation period beyond immediate casting
-6. **Return Protocols**: Methods for dismissing or returning conjured elements
+4. **束缚框架**：建立对被召唤实体的控制
+5. **持续时间锚定**：将显现期延长到立即施法之后
+6. **返回协议**：解除或返回被召唤元素的方法
 
-### Mana Requirements
+### 法力需求
 
-Conjuration requires specific combinations of mana types, with purity levels that increase with the complexity and distance of the conjuration:
+塑能需要特定类型的法力组合，其纯度水平随着塑能的复杂性和距离的增加而增加：
 
-| Conjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| 塑能类型 | 主要法力 | 次要法力 | 三级法力 | 目的 |
 |------------------|-------------|----------------|---------------|---------|
-| Object Summoning | Base Mana (40-50%) | Terramana (20-30%) | N/A | Material objects |
-| Elemental Calling | Base Mana (50-60%) | Elemental type (30-40%) | N/A | Elemental forces |
-| Entity Summoning | Base Mana (60-70%) | Varies by entity | Aetheramana (10-20%) | Living beings |
-| Teleportation | Base Mana (50-60%) | Chronosmana (20-30%) | Aetheramana (10-20%) | Self/object movement |
-| Extradimensional Space | Base Mana (60-70%) | Aetheramana (20-30%) | Chronosmana (10-20%) | Pocket dimensions |
-| Planar Gateway | Base Mana (70-80%) | Aetheramana (40-50%) | Varies by plane | Interplanar travel |
+| 物体召唤 | 基础法力 (40-50%) | 地缚法力 (20-30%) | N/A | 物质对象 |
+| 元素召唤 | 基础法力 (50-60%) | 元素类型 (30-40%) | N/A | 元素力量 |
+| 实体召唤 | 基础法力 (60-70%) | 因实体而异 | 以太法力 (10-20%) | 生物 |
+| 传送 | 基础法力 (50-60%) | 历时法力 (20-30%) | 以太法力 (10-20%) | 自我/物体移动 |
+| 异次元空间 | 基础法力 (60-70%) | 以太法力 (20-30%) | 历时法力 (10-20%) | 口袋维度 |
+| 位面通道 | 基础法力 (70-80%) | 以太法力 (40-50%) | 因位面而异 | 位面间旅行 |
 
-### Wild Mana Response
+### 狂野法力响应
 
-Conjuration magic has a complex relationship with Wild Mana. While controlled conjuration requires precise patterns, Wild Mana can actually enhance certain types of summoning by:
+塑能魔法与狂野法力有着复杂的关系。虽然受控塑能需要精确的模式，但狂野法力实际上可以通过以下方式增强某些类型的召唤：
 
-- **Boundary Weakening**: Making it easier to reach across planar boundaries
-- **Manifestation Boosting**: Providing additional energy for materialization
-- **Pattern Expansion**: Allowing for less exact correspondent patterns to succeed
+- **边界弱化**：更容易跨越位面边界
+- **显现增强**：为物质化提供额外的能量
+- **模式扩展**：允许不太精确的对应模式成功
 
-However, these benefits come with significant risks:
+但是，这些好处伴随着重大风险：
 
-- **Location Drift**: Conjured elements may arrive from unexpected sources
-- **Partial Manifestation**: Incomplete or distorted summoning results
-- **Binding Failure**: Loss of control over conjured entities or elements
-- **Reverse Flow**: The caster being pulled toward the target rather than vice versa
+- **位置漂移**：被召唤的元素可能来自意外来源
+- **部分显现**：不完整或扭曲的召唤结果
+- **束缚失败**：失去对被召唤实体或元素的控制
+- **反向流动**：施法者被拉向目标而不是相反
 
-## Mana Purification for Conjuration
+## 塑能的法力净化
 
-Conjuration requires high mana purity for precise targeting and control:
+塑能需要高法力纯度才能实现精确的目标和控制：
 
-| Purification Level | Conjuration Capability |
+| 净化等级 | 塑能能力 |
 |--------------------|------------------------|
-| Basic (15-25%) | Simple object summoning from visible locations |
-| Intermediate (30-45%) | Elemental calling and teleportation of small objects over moderate distances |
-| Advanced (50-65%) | Entity summoning, personal teleportation, and minor extradimensional spaces |
-| Master (70-80%) | Complex entity binding, group teleportation, and stable pocket dimensions |
-| Grandmaster (85%+) | Planar gateways and permanent extradimensional constructs |
+| 基本 (15-25%) | 从可见位置召唤简单的物体 |
+| 中级 (30-45%) | 在中等距离内召唤元素和传送小物体 |
+| 高级 (50-65%) | 实体召唤、个人传送和小型异次元空间 |
+| 大师 (70-80%) | 复杂的实体束缚、群体传送和稳定的口袋维度 |
+| 大宗师 (85%+) | 位面通道和永久性异次元结构 |
 
-Insufficient purity in conjuration often results in material or spatial distortion—objects arriving damaged, locations being slightly misaligned, or entities appearing with altered properties.
+塑能中纯度不足通常会导致物质或空间扭曲——到达的物体损坏，位置略有错位，或者出现的实体具有改变的属性。
 
-## The Conjurer's Harmony
+## 塑能师的和谐
 
-Conjuration magic is conceptualized through musical counterpoint, with each spell creating harmonic relationships between source and destination:
+塑能魔法通过音乐复调的概念化，每个咒语都在源和目的地之间建立和谐关系：
 
-- **Unison**: Direct transportation with minimal change
-- **Octave Shift**: Scaling effects (enlarging or diminishing the conjured element)
-- **Harmonization**: Adapting the conjured element to its new environment
-- **Dissonant Conjuring**: Forcing incompatible elements into manifestation
-- **Resonant Summoning**: Enhanced manifestation through matching harmonics
+- **齐奏**: 以最小的改动直接运输
+- **八度音阶移位**: 缩放效果（放大或缩小被召唤的元素）
+- **和谐化**: 使被召唤的元素适应其新环境
+- **不和谐塑能**: 强制将不兼容的元素显现出来
+- **共振召唤**: 通过匹配的谐波增强显现
 
-Master conjurers speak of "conducting" multiple simultaneous manifestations, maintaining distinct harmonic relationships with each conjured element.
+大师级塑能师谈论“指挥”多个同时显现，与每个被召唤的元素保持不同的和谐关系。
 
-## Specialized Disciplines
+## 专业学科
 
-### Summoning
+### 召唤
 
-The calling of entities, whether elemental, spiritual, or organic. Practitioners are known as Summoners.
+召唤实体，无论是元素、精神还是有机物。从业者被称为召唤师。
 
-### Material Conjuration
+### 物质塑能
 
-Focused on manifesting non-living objects and substances. Masters are called Materializers.
+专注于显现非生物物体和物质。大师被称为物质化者。
 
-### Spatial Manipulation
+### 空间操纵
 
-Specialized in teleportation and dimensional pockets. Practitioners are called Spatials.
+专门从事传送和维度口袋。从业者被称为空间师。
 
-### Binding
+### 束缚
 
-The control and constraint of conjured entities. Masters are known as Binders.
+对被召唤实体的控制和约束。大师被称为束缚者。
 
-### Gateway Creation
+### 通道创建
 
-Establishing permanent or semi-permanent connections between locations. Practitioners are called Gateweavers.
+建立位置之间的永久或半永久连接。从业者被称为通道编织者。
 
-### Dismissal
+### 解除
 
-Specialized in returning conjured elements to their origin. Masters are known as Banishers.
+专门用于将被召唤的元素返回到其起源地。大师被称为驱逐者。
 
-### Planar Exploration
+### 位面探索
 
-The study and access of other planes of existence. Practitioners are called Planeswalkers.
+对其他存在位面的研究和访问。从业者被称为位面行者。
 
-## Training Methodology
+## 培训方法
 
-Conjuration training follows a structured progression:
+塑能训练遵循结构化的进度：
 
-1. **Theoretical Foundations**: Understanding cross-spatial relationships and correspondence
-2. **Local Manifestation**: Practicing with objects in visual range
-3. **Distance Expansion**: Gradually increasing the range of conjuration
-4. **Elemental Work**: Summoning the more predictable elemental forces
-5. **Dimensional Theory**: Study of other planes and dimensions
-6. **Entity Protocols**: Safe summoning and binding of sentient beings
-7. **Self-Translation**: Personal teleportation techniques
-8. **Combined Operations**: Managing multiple conjurations simultaneously
+1. **理论基础**：理解跨空间关系和对应
+2. **本地显现**：练习可见范围内的物体
+3. **距离扩展**：逐渐增加塑能的范围
+4. **元素工作**：召唤更可预测的元素力量
+5. **维度理论**：研究其他位面和维度
+6. **实体协议**：安全召唤和束缚有知觉的生物
+7. **自我翻译**：个人传送技术
+8. **联合行动**：同时管理多个塑能
 
-Training emphasizes control and containment above all else, with rigorous safety protocols developed from centuries of sometimes catastrophic failures.
+培训最注重控制和约束，并制定了严格的安全协议，这些协议来自数百年来有时会发生灾难性失败。
 
-## Conjuration in Practice
+## 塑能实践
 
-The process of casting conjuration magic follows distinct phases:
+施放塑能魔法的过程遵循不同的阶段：
 
-1. **Target Identification**: Determining the specific element to be conjured
-2. **Pattern Matching**: Establishing the resonant link to the target
-3. **Mana Purification**: Achieving the necessary purity for stable connections
-4. **Boundary Thinning**: Creating the spatial or dimensional pathway
-5. **Draw or Push**: Pulling the target to the caster or moving the caster to the target
-6. **Manifestation Stabilization**: Anchoring the conjured element in its new location
-7. **Binding (if needed)**: Establishing control over conjured entities
-8. **Dismissal Preparation**: Setting conditions for ending the conjuration
+1. **目标识别**：确定要召唤的特定元素
+2. **模式匹配**：建立与目标的共振链接
+3. **法力净化**：实现稳定连接所需的纯度
+4. **边界变薄**：创建空间或维度通道
+5. **拉取或推送**：将被召唤的目标拉向施法者或将施法者移向目标
+6. **显现稳定**：将被召唤的元素固定在其新位置
+7. **束缚（如果需要）**：建立对被召唤实体的控制
+8. **解除准备**：设置结束塑能的条件
 
-For emergency conjuration, these steps may be compressed into rapid casting, while complex summonings often involve elaborate ritual circles and extended preparation.
+对于紧急塑能，这些步骤可以压缩为快速施法，而复杂的召唤通常涉及精心设计的仪式圈和扩展的准备工作。
 
-## Practical Applications
+## 实际应用
 
-Conjuration serves numerous practical functions in magical society:
+塑能在魔法社会中具有许多实际功能：
 
-- **Transportation**: Personal and group teleportation networks, item delivery systems
-- **Resource Acquisition**: Summoning rare materials from distant locations
-- **Space Optimization**: Extradimensional storage for homes, businesses, and archives
-- **Emergency Services**: Rapid response through teleportation, summoning water for firefighting
-- **Construction**: Conjuring building materials directly at construction sites
-- **Military**: Strategic troop deployment, supply line maintenance, battlefield control
-- **Entertainment**: Conjuration performances featuring exotic entities or spectacular manifestations
+- **交通运输**：个人和团体传送网络、物品递送系统
+- **资源获取**：从遥远的地方召唤稀有材料
+- **空间优化**：用于家庭、企业和档案馆的异次元存储
+- **紧急服务**：通过传送快速响应，召唤水进行消防
+- **建筑**：直接在建筑工地召唤建筑材料
+- **军事**：战略部队部署、补给线维护、战场控制
+- **娱乐**：以异国情调的实体或壮观的显现为特色的塑能表演
 
-## Ethical Considerations
+## 伦理考量
 
-Conjuration raises significant ethical questions:
+塑能引发了重要的伦理问题：
 
-- **Entity Rights**: The moral implications of summoning and binding sentient beings
-- **Ecosystem Impact**: Consequences of removing elements from their native environments
-- **Dimensional Stability**: Potential harm from weakening planar boundaries
-- **Informed Consent**: Whether entities understand or agree to being summoned
-- **Environmental Exploitation**: Using conjuration to extract resources from vulnerable regions
-- **Secure Transport**: Privacy and security concerns with teleportation networks
+- **实体权利**：召唤和束缚有知觉的生物的道德含义
+- **生态系统影响**：从其原生环境移除元素的后果
+- **维度稳定性**：削弱位面边界可能造成的危害
+- **知情同意**：实体是否理解或同意被召唤
+- **环境剥削**：使用塑能从脆弱地区提取资源
+- **安全运输**：传送网络的隐私和安全问题
 
-Most conjuration academies enforce strict ethical codes governing entity summoning and extradimensional access.
+大多数塑能学院都强制执行严格的道德准则，以规范实体召唤和异次元访问。
 
-## Limitations and Weaknesses
+## 局限性和弱点
 
-Despite its power, conjuration has inherent limitations:
+尽管塑能威力强大，但它具有内在的局限性：
 
-- **Conservation Principles**: Matter and energy can be moved but not created from nothing
-- **Correspondence Requirements**: Conjurers must have some connection to or knowledge of their target
-- **Distance Factors**: Energy requirements increase exponentially with distance or dimensional separation
-- **Unwilling Resistance**: Sentient targets can resist summoning or teleportation
-- **Planar Compatibility**: Some elements cannot exist in environments too different from their origin
-- **Dimensional Rejection**: Repeated conjuration to the same location can create instability
+- **守恒原理**：物质和能量可以被移动，但不能凭空创造
+- **对应要求**：塑能师必须与其目标有一些联系或了解
+- **距离因素**：能量需求随着距离或维度分离呈指数级增长
+- **不情愿的抵抗**：有知觉的目标可以抵抗召唤或传送
+- **位面兼容性**：某些元素无法存在于与其起源地过于不同的环境中
+- **维度排斥**：重复塑能到同一位置会产生不稳定
 
-Common countermeasures against conjuration include:
+对抗塑能的常见对策包括：
 
-- **Anchor Wards**: Magical protections that prevent teleportation or summoning
-- **Pattern Obscuring**: Techniques to hide one's resonant signature from would-be summoners
-- **Dimensional Shielding**: Barriers that block access from other planes
-- **Binding Severing**: Methods to break control over summoned entities
-- **Return Forcing**: Compelling conjured elements to return to their origin prematurely
+- **锚定结界**: 阻止传送或召唤的魔法保护
+- **模式模糊**: 从潜在召唤者那里隐藏自己的共振特征的技术
+- **维度屏蔽**: 阻止从其他位面访问的屏障
+- **束缚切断**: 破坏对被召唤实体的控制的方法
+- **强制返回**: 迫使被召唤的元素提前返回其起源地
 
-## Musical Analogy
+## 音乐类比
 
-In the musical framework of magic, conjuration represents string instruments—creating connections that vibrate across distances, pulling disparate elements into harmony. The conjurer is like a harpist, plucking the strings that connect different points in the multiverse.
+在魔法的音乐框架中，塑能代表弦乐器——创建跨越距离振动的连接，将不同的元素拉入和谐状态。塑能师就像一位竖琴师，拨动连接多元宇宙中不同点的琴弦。
 
-Conjuration spells are described in terms of "resonance" and "harmonics," with each successful manifestation requiring perfect tuning between the caster and target. Master conjurers can maintain complex "chords" of multiple connections simultaneously, drawing elements from various sources into carefully orchestrated combinations.
+塑能咒语被描述为“共振”和“谐波”，每次成功的显现都需要施法者和目标之间完美的调谐。大师级塑能师可以同时维持复杂的多重连接的“和弦”，将来自各种来源的元素拉入精心安排的组合中。
 
-## Notable Practitioners
+## 著名从业者
 
-- **Thaddeus Voidcaller**: Pioneer of safe entity summoning protocols and creator of the Sevenfold Binding Circle
-- **Lydia Gateheart**: Established the first permanent teleportation network spanning the continent
-- **Corvus Dimensionum**: Legendary explorer of pocket dimensions and creator of the Pocket Academy
-- **Elara Quicksilver**: Master of combat teleportation and developer of the Spatial Combat System
-- **Malachi Netherbridge**: Controversial researcher who established first contact with the Far Realms
+- **萨迪厄斯·虚空呼唤者**：安全实体召唤协议的先驱和七重束缚法阵的创造者
+- **莉迪亚·通道之心**：建立了第一个横跨大陆的永久性传送网络
+- **科尔乌斯·维度姆**：口袋维度的传奇探险家和口袋学院的创造者
+- **艾拉拉·水银**：战斗传送大师和空间战斗系统的开发者
+- **马拉基·冥河桥**：与遥远领域建立首次联系的颇具争议的研究员
 
-## Safety Protocols
+## 安全协议
 
-Due to the inherent dangers of conjuration, standardized safety measures include:
+由于塑能固有的危险性，标准化安全措施包括：
 
-- **Containment Circles**: Mandatory for all entity summoning
-- **Pattern Verification**: Double-checking correspondences before casting
-- **Emergency Dismissal Words**: Universal phrases taught to instantly end conjurations
-- **Planar Anchoring**: Methods to prevent unwanted dimensional drift
-- **Entity Contracts**: Formal agreements with regularly summoned beings
-- **Observation Partners**: Required second casters for monitoring complex conjurations
+- **封禁法阵**：所有实体召唤都必须使用
+- **模式验证**：施法前仔细检查对应关系
+- **紧急解除词**：教导用于立即结束塑能的通用短语
+- **位面锚定**：防止不希望的维度漂移的方法
+- **实体合同**：与定期召唤的生物达成的正式协议
+- **观察伙伴**：监控复杂塑能所需的第二施法者
 
-The Conjurer's Oath, taken by all certified practitioners, includes the promise to "never call what cannot be dismissed, never bind what cannot be controlled, and never open doors that cannot be closed." 
+所有经过认证的从业者都宣誓的塑能师誓言包括承诺“永不召唤无法解除之物，永不束缚无法控制之物，永不开无法关闭之门”。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

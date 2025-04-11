@@ -1,104 +1,108 @@
-# **Giants**: The Colossal Forces of Nature
+# **Giants**: 大自然的巨大力量
 
-[**Giants**](/codex/Creatures/Giants.md) are the colossal forces of nature, their bodies a massive harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a thunderous tuba, they resonate with raw power, creating a unique melody of existence that bridges the mortal and divine realms.
+[**Giants**](/codex/Creatures/Giants.md)是大自然的巨大力量，它们的身躯是[**Exanthis**](/codex/Basic/Exanthis.md)，[**Souls**](/codex/Basic/Soul.md)和**Mana Capacity**的巨大和谐体。就像一支雷鸣般的低音号，它们与原始力量产生共鸣，创造出一种独特的存在旋律，连接了凡人和神圣的领域。
 
-## Elemental Composition
+## 元素构成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **giants** forms a harmony that favors physical might:
+如[生物](/codex/Creatures/Creatures.md)中所述，**巨人**的典型比例形成了一种偏爱物理力量的和谐：
 
-| Element | Range | Function |
+| 元素 | 范围 | 功能 |
 |---------|------------|----------|
-| **Exanthis** | 65-85% | The crystalline heart that grants extraordinary strength and resilience |
-| **Soul** | 10-20% | The ethereal essence that shapes a focused but limited consciousness |
-| **Mana Capacity** | 5-20% | The bridge between worlds that enables minimal magical potential |
+| **Exanthis** | 65-85% | 赋予非凡力量和韧性的结晶核心 |
+| **Soul** | 10-20% | 塑造专注但有限意识的以太精华 |
+| **Mana Capacity** | 5-20% | 连接世界的桥梁，能够实现最小的魔法潜力 |
 
-This composition grants **giants** their characteristic power but typically limits their adaptability compared to other species, like a powerful instrument that can only play a limited range of notes.
+这种构成赋予了**巨人**他们特有的力量，但通常限制了他们与其他物种的适应性，就像一种只能演奏有限音符范围的强大乐器。
 
-### Individual Variations
+### 个体差异
 
-While the model composition represents the typical giant, individual variations exist based on their lineage:
+虽然模型构成代表了典型的巨人，但个体差异根据其血统而存在：
 
-- **Primal Giants**: Ancient giant bloodlines possess Exanthis levels approaching 90%, making them nearly invulnerable with immense strength, though with greatly reduced consciousness (5% Soul) and magical ability (5% Mana Capacity).
-- **Storm Lords**: Giants from the Stormgiant lineage often have enhanced Mana Capacity (up to 25%), allowing them to channel lightning with devastating effect, though with slightly reduced physical mass (60% Exanthis).
-- **Ancient Sages**: Rare giants with higher Soul percentages (up to 25%) and moderate Mana Capacity (15%) become wisdom-keepers and leaders, preserving the ancient knowledge of giantkind.
-- **Elemental Monarchs**: Specialized giants with composition of (70% Exanthis, 10% Soul, 20% Mana Capacity) can embody and command entire elemental forces, becoming living manifestations of mountains, volcanoes, or glaciers.
-- **Hybrid Giants**: Giants with mixed ancestry may have more balanced compositions (60% Exanthis, 20% Soul, 20% Mana Capacity), combining substantial physical might with greater adaptability and magical potential.
+- **Primal Giants**：古代巨人的血统拥有接近 90% 的 Exanthis 水平，这使得他们几乎无懈可击，拥有巨大的力量，但意识（5% Soul）和魔法能力（5% Mana Capacity）大大降低。
+- **Storm Lords**：来自 Stormgiant 血统的巨人通常具有增强的 Mana Capacity（高达 25%），这使得他们能够以毁灭性的效果引导闪电，但物理质量略有减少（60% Exanthis）。
+- **Ancient Sages**：罕见的具有较高 Soul 百分比（高达 25%）和适度 Mana Capacity（15%）的巨人成为智慧守护者和领导者，保留了巨人族的古代知识。
+- **Elemental Monarchs**：具有（70% Exanthis，10% Soul，20% Mana Capacity）组成的特殊巨人可以体现和指挥整个元素力量，成为山脉、火山或冰川的活生生体现。
+- **Hybrid Giants**：具有混合血统的巨人可能具有更平衡的组成（60% Exanthis，20% Soul，20% Mana Capacity），将强大的物理力量与更大的适应性和魔法潜力相结合。
 
-## Physical Characteristics
+## 物理特征
 
-**Giants** are known for their immense size and strength:
-- Towering height, ranging from 15 to 30 feet tall, depending on their lineage
-- Massive build with dense muscle and bone structure, like living mountains
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Hair and beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+**巨人**以其巨大的体型和力量而闻名：
+- 令人叹为观止的高度，范围从 15 到 30 英尺高，取决于他们的血统
+- 庞大的体格，具有密集的肌肉和骨骼结构，就像活生生的山脉
+- 厚实的皮肤，提供天然的保护，就像活生生的石头
+- 眼睛闪耀着内在的光芒，反映了他们与[**Exanthis**](/codex/Basic/Exanthis.md)的联系
+- 头发和胡须通常用氏族和地位的象征精心编织
+- 对毒药和疾病的天然抵抗力，就像山脉经受风暴一样
 
-## Physical and Magical Affinity
+## 物理和魔法亲和力
 
-**Giants** demonstrate exceptional proficiency in physical might and resilience, like virtuoso performers who excel in power and intensity. Their composition allows them to:
-- Develop extraordinary strength and resilience, like living embodiments of power
-- Channel elemental energies with minimal proficiency, particularly earth and fire
-- Resist magical effects through their high **Exanthis** content, like a mountain standing against a storm
+**巨人**在物理力量和韧性方面表现出非凡的精通，就像在力量和强度方面表现出色的 virtuoso 演奏者。他们的构成使他们能够：
+- 发展非凡的力量和韧性，就像力量的活生生体现
+- 以最小的熟练程度引导元素能量，尤其是地球和火焰
+- 通过他们的高 **Exanthis** 含量抵抗魔法效果，就像山脉抵御风暴一样
 
-This power makes **giants** capable of achieving feats of strength that few other species can match, though they may struggle with tasks requiring subtlety or adaptability, like a powerful instrument that can only play at full volume.
+这种力量使**巨人**能够实现其他物种无法比拟的力量壮举，尽管他们可能难以完成需要微妙或适应性的任务，就像一种只能以最大音量演奏的强大乐器。
 
-## Lifespan and Soul Decay
+## 寿命和灵魂衰变
 
-The **soul decay** timeline for **giants**, from birth to complete decay, is approximately 800 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate power and knowledge over centuries
-- Develop deep connections to their territories and lineages
-- Form powerful societies with strong hierarchical structures
+**巨人**的**灵魂衰变**时间线，从出生到完全衰变，大约为 800 年，就像照亮时代的缓慢燃烧的火焰。这种延长的寿命使他们能够：
+- 在几个世纪中积累力量和知识
+- 与他们的领土和血统建立深厚的联系
+- 形成具有强大等级结构的强大社会
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains powerful but unchanging through the ages.
+然而，他们最小的灵魂比例也意味着他们变化和适应非常缓慢，就像一种在各个时代保持强大但不变的旋律。
 
-## Habitat and Distribution
+## 栖息地和分布
 
-**Giants** primarily inhabit:
-- Remote mountain ranges and volcanic regions, where they can be closest to elemental power
-- Territories that provide natural defenses and resources
-- Strategic locations that allow them to maintain their independence
+**巨人**主要居住在：
+- 偏远的山脉和火山地区，在那里他们可以最接近元素力量
+- 提供天然防御和资源的领土
+- 允许他们保持独立的战略位置
 
-These locations provide ideal environments for the development of power and the practice of elemental magic, like a stage perfectly suited to their performance.
+这些位置为力量的发展和元素魔法的实践提供了理想的环境，就像一个非常适合他们表演的舞台。
 
-## Cultural Impact
+## 文化影响
 
-In the world of **OpenFantasy**, **giants** play a crucial role in maintaining the balance of power, like conductors of the grand symphony of strength. Their societies are centers of:
-- Martial prowess and military might
-- Elemental magic and power
-- Hierarchical structures and lineage pride
+在 **OpenFantasy** 的世界中，**巨人**在维持力量平衡方面发挥着至关重要的作用，就像伟大力量交响曲的指挥者。他们的社会是以下中心：
+- 武术实力和军事力量
+- 元素魔法和力量
+- 等级结构和血统骄傲
 
-The connection to power has shaped giant culture around respect for strength, lineage, and dominance, creating a society where might makes right.
+与力量的联系塑造了巨人文化，围绕着对力量、血统和统治的尊重，创造了一个力量至上的社会。
 
-## Relationship with Other Species
+## 与其他物种的关系
 
-**Giants** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **Dragonkin**: A complex relationship of reverence and rivalry
+**巨人**与其他物种保持复杂的关系：
+- 与[**Humans**](/codex/Creatures/Human.md)：混合了对他们适应性的尊重和对他们弱点的沮丧
+- 与 **Elves**：谨慎的尊重，承认他们的魔法力量，但发现他们的方式很奇怪
+- 与 **Dwarves**：基于对力量和工艺的相互尊重的务实联盟
+- 与 **Dragonkin**：一种崇敬和竞争的复杂关系
 
-These relationships are often characterized by a sense of superiority, as **giants** view themselves as the true heirs to divine power.
+这些关系的特征通常是一种优越感，因为 **巨人** 认为自己是神圣力量的真正继承人。
 
-## Notable Giant Traits
+## 著名的巨人特征
 
-- **Physical Might**: Giants excel in strength and resilience, often surpassing other species in raw power
-- **Elemental Affinity**: Giants have a natural connection to elemental magic, particularly earth and fire
-- **Limited Adaptability**: Their minimal soul ratio makes it difficult for giants to change or adapt
-- **Lineage Pride**: Giants place great emphasis on their divine heritage and lineage
-- **Territorial Nature**: Giants are fiercely protective of their territories and resources
+- **Physical Might**：巨人在力量和韧性方面表现出色，通常在原始力量上超过其他物种
+- **Elemental Affinity**：巨人与元素魔法有着天然的联系，特别是地球和火焰
+- **Limited Adaptability**：他们最小的灵魂比例使得巨人很难改变或适应
+- **Lineage Pride**：巨人非常重视他们神圣的血统和血统
+- **Territorial Nature**：巨人强烈保护他们的领土和资源
 
-## Giant Lineages
+## 巨人血统
 
-Giant society is organized around powerful lineages, each tracing its heritage to a specific divine ancestor:
+巨人社会围绕着强大的血统组织起来，每个血统都可以追溯到特定的神圣祖先：
 
-| Lineage | Elemental Affinity | Territory | Notable Traits |
+| 血统 | 元素亲和力 | 领土 | 显著特征 |
 |---------|---------------|---------|-------------------|
-| **Stormgiants** | Lightning | Mountain peaks | Swift action, electrical mastery |
-| **Firegiants** | Fire | Volcanic regions | Intense passion, destructive power |
-| **Frostgiants** | Ice | Arctic regions | Patient strategy, cold precision |
-| **Stonegiants** | Earth | Mountain ranges | Steadfast defense, geological control |
-| **Cloudgiants** | Air | Cloud islands | Swift movement, aerial dominance |
-| **Hillgiants** | Nature | Rolling hills | Connection to nature, agricultural mastery |
+| **Stormgiants** | 闪电 | 山峰 | 快速行动，电力掌握 |
+| **Firegiants** | 火焰 | 火山地区 | 强烈的激情，破坏性的力量 |
+| **Frostgiants** | 冰 | 北极地区 | 耐心的策略，寒冷的精确 |
+| **Stonegiants** | 地球 | 山脉 | 坚定的防御，地质控制 |
+| **Cloudgiants** | 空气 | 云岛 | 快速移动，空中优势 |
+| **Hillgiants** | 自然 | 丘陵 | 与自然的联系，农业掌握 |
 
-Understanding the nature of **giants** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the mountains and skies. 
+了解**巨人**的本质可以深入了解 **OpenFantasy** 世界的力量动态，就像感受穿过山脉和天空的雷鸣般的节奏。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,250 +1,254 @@
-# **Enhancement Buffs**: The Amplifiers of Magical Potential
+# **增益强化**: 魔法潜力的放大器
 
-[**Enhancement Buffs**](/codex/Magics/EnhancementBuffs.md) are specialized spells designed to temporarily augment a practitioner's natural magical capabilities. Like amplifiers and resonance chambers that enhance a musical instrument's sound, these buffs strengthen specific aspects of a caster's magical ability, allowing them to perform beyond their natural limitations.
+[**增益强化**](/codex/Magics/EnhancementBuffs.md)是专门设计的法术，旨在暂时增强施法者天生的魔法能力。 就像放大乐器声音的放大器和共振腔一样，这些增益可以增强施法者魔法能力的特定方面，使其能够超越自身的天生局限。
 
-## Fundamentals of Enhancement Buffs
+## 增益强化的基础
 
-Enhancement buffs operate by temporarily altering the caster's elemental composition or magical resonance:
+增益强化通过暂时改变施法者的元素构成或魔法共振来运作：
 
-| Buff Type | Effect | Duration | Limitations |
+| 增益类型 | 效果 | 持续时间 | 限制 |
 |---------|------------|---------|----------|
-| **Mana Amplification** | Increases total mana capacity | Short to medium | Strain on physical body |
-| **Purification Enhancement** | Improves mana purification ability | Medium | Mental fatigue |
-| **Pattern Stability** | Enhances ability to maintain complex patterns | Short | Soul wear |
-| **Resonance Attunement** | Strengthens connection to specific frequencies | Medium to long | Reduced flexibility |
+| **法力放大** | 增加总法力容量 | 短到中等 | 身体负担 |
+| **净化强化** | 提高法力净化能力 | 中等 | 精神疲劳 |
+| **模式稳定性** | 增强维持复杂模式的能力 | 短 | 灵魂磨损 |
+| **共振调谐** | 增强与特定频率的连接 | 中等到长 | 灵活性降低 |
 
-All enhancement buffs share common characteristics:
-- **Temporary Nature**: Effects fade after a specific duration
-- **Diminishing Returns**: Multiple applications become less effective
-- **Recovery Period**: A necessary rest period after buff expiration
-- **Balance Principle**: Enhancement of one aspect often reduces others
+所有增益强化都具有共同的特征：
+- **临时性**: 效果在特定持续时间后消退
+- **收益递减**: 多次应用效果变差
+- **恢复期**: 增益到期后需要休息
+- **平衡原则**: 增强一个方面通常会减少其他方面
 
-## Wild Mana and Enhancement Buffs
+## 狂野法力和增益强化
 
-The relationship between [**Wild Mana**](/codex/Magics/WildMana.md) and enhancement buffs is complex and potentially volatile. While Wild Mana can provide unpredictable boosts to buff potency, it introduces significant risks:
+[**狂野法力**](/codex/Magics/WildMana.md)和增益强化之间的关系复杂且可能不稳定。 虽然狂野法力可以为增益效力提供不可预测的提升，但它也带来了重大风险：
 
-### Wild Mana Amplification
+### 狂野法力放大
 
-Some practitioners deliberately introduce controlled amounts of Wild Mana into enhancement buffs:
+一些施法者故意将可控量的狂野法力引入增益强化中：
 
-| Technique | Potential Benefit | Risk Factor | Risk Description |
+| 技术 | 潜在益处 | 风险因素 | 风险描述 |
 |-----------|-------------------|-------------|------------------|
-| **Chaos Infusion** | 25-50% increased buff potency | Very High | Unpredictable side effects, duration fluctuations |
-| **Edge Harmonics** | Extended buff duration | High | Potential buff collapse, rebound effects |
-| **Wild Resonance** | Enhanced magical sensitivity | Extreme | Sensory overload, magical signature disruption |
-| **Primal Drawing** | Access to raw magical potential | Critical | Wild Mana contamination, elemental corruption |
+| **混沌注入** | 增加 25-50% 的增益效力 | 非常高 | 不可预测的副作用，持续时间波动 |
+| **边缘谐波** | 延长增益持续时间 | 高 | 潜在的增益崩溃，反弹效应 |
+| **狂野共振** | 增强魔法敏感性 | 极端 | 感官超载，魔法签名中断 |
+| **原始汲取** | 获取原始魔法潜力 | 严重 | 狂野法力污染，元素腐化 |
 
-> *"Wild Mana doesn't simply enhance your buffs—it transforms them into something neither you nor any text can predict. Those who embrace this path walk a line between unprecedented power and becoming the very chaos they sought to harness."* — Magister Thorne, Specialist in Experimental Enhancements
+> *"狂野法力不仅仅是增强你的增益——它将它们变成你和任何文本都无法预测的东西。 那些拥抱这条道路的人走在空前的力量和成为他们试图驾驭的混乱之间的界线上。"* — Magister Thorne，实验性强化专家
 
-### Instability Factors
+### 不稳定性因素
 
-The stability of Wild Mana-enhanced buffs depends on several factors:
+狂野法力增强增益的稳定性取决于以下几个因素：
 
-- **Practitioner's Experience**: More experienced mages can contain greater Wild Mana ratios
-- **Environmental Conditions**: Magical stability of the casting location
-- **Buff Complexity**: Simpler buffs tolerate more Wild Mana
-- **Personal Resonance**: Individual magical signatures respond differently to Wild Mana
-- **Preparation Time**: Proper containment structures reduce instability
+- **施法者的经验**: 经验丰富的法师可以容纳更高的狂野法力比例
+- **环境条件**: 施法位置的魔法稳定性
+- **增益复杂性**: 简单的增益可以容忍更多的狂野法力
+- **个人共振**: 个人魔法签名对狂野法力的反应不同
+- **准备时间**: 适当的遏制结构可减少不稳定性
 
-### Wild Enhancement Protocols
+### 狂野强化协议
 
-Academies that teach Wild Enhancement techniques enforce strict protocols:
+教授狂野强化技术的学院执行严格的协议：
 
-1. **Calibration Testing**: Determining a practitioner's personal Wild Mana tolerance
-2. **Containment Training**: Techniques to isolate Wild Mana effects
-3. **Emergency Dispersion**: Methods to safely discharge unstable enhancements
-4. **Incremental Exposure**: Gradually increasing Wild Mana ratios through controlled practice
-5. **Harmonic Stabilization**: Techniques to partially order Wild Mana through resonance
+1. **校准测试**: 确定施法者的个人狂野法力耐受性
+2. **遏制训练**: 隔离狂野法力效应的技术
+3. **紧急驱散**: 安全释放不稳定强化的方法
+4. **增量暴露**: 通过受控实践逐渐增加狂野法力比例
+5. **谐波稳定**: 通过共振部分排序狂野法力的技术
 
-Most reputable magical institutions consider Wild Enhancement techniques experimental and potentially dangerous, requiring special permits and supervision for their practice.
+大多数信誉良好的魔法机构认为狂野强化技术是实验性的且具有潜在危险，因此对其练习需要特殊许可和监督。
 
-## Purification Enhancement Buffs
+## 净化增益强化
 
-These buffs specifically enhance a caster's ability to purify raw mana, enabling higher levels of magical precision and efficiency.
+这些增益专门增强施法者净化原始法力的能力，从而实现更高水平的魔法精度和效率。
 
-### Crystal Clarity
+### 水晶般清晰
 
-A fundamental purification enhancement that sharpens mental focus:
+一种基本的净化强化，可增强精神集中力：
 
-- **Effect**: Increases purification efficiency by 30-50%
-- **Duration**: 1-2 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Clear quartz, pure water
-- **Musical Analogy**: Tuning a string to perfect pitch
-- **Side Effects**: Slight sensory hypersensitivity
+- **效果**: 净化效率提高 30-50%
+- **持续时间**: 1-2 小时
+- **施法复杂度**: 中等（复合模式）
+- **所需组件**: 透明石英，纯净水
+- **音乐类比**: 将琴弦调到完美的音高
+- **副作用**: 轻微的感觉过敏
 
-### Harmonic Filter
+### 谐波滤波器
 
-Creates a secondary resonance field that automatically filters mana:
+创建一个辅助共振场，自动过滤法力：
 
-- **Effect**: Allows automatic purification to Standard level without mental focus
-- **Duration**: 3-4 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Resonating crystal tuned to the caster's frequency
-- **Musical Analogy**: Acoustic filter that removes unwanted frequencies
-- **Side Effects**: Reduced sensitivity to ambient mana
+- **效果**: 允许在没有精神集中的情况下自动净化到标准水平
+- **持续时间**: 3-4 小时
+- **施法复杂度**: 高（复杂模式）
+- **所需组件**: 调谐到施法者频率的共振晶体
+- **音乐类比**: 消除不需要频率的声学滤波器
+- **副作用**: 降低对环境法力的敏感度
 
-### Purification Cascade
+### 净化级联
 
-Advanced buff that creates a self-sustaining purification cycle:
+一种先进的增益，可创建自我维持的净化循环：
 
-- **Effect**: Purification becomes 75% more efficient and continues without constant attention
-- **Duration**: 30-45 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Purified mana crystal, silver dust
-- **Musical Analogy**: Perfect acoustics that enhance every note
-- **Side Effects**: Mental exhaustion after expiration
+- **效果**: 净化效率提高 75%，并且无需持续关注即可继续进行
+- **持续时间**: 30-45 分钟
+- **施法复杂度**: 非常高（复杂模式）
+- **所需组件**: 纯化的法力晶体，银粉
+- **音乐类比**: 完美的声学效果增强了每一个音符
+- **副作用**: 到期后精神疲惫
 
-### Crystalline Mind
+### 水晶般的心智
 
-Elite buff that transforms mental processes to achieve perfect mana filtering:
+一种精英增益，可转换心理过程以实现完美的法力过滤：
 
-- **Effect**: Allows achievement of Perfect purity level with minimal effort
-- **Duration**: 10-15 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Diamond dust, essence of clarity
-- **Musical Analogy**: Crystal glass resonating at perfect frequency
-- **Side Effects**: Temporary loss of emotional access, risk of mental strain
+- **效果**: 允许以最小的努力实现完美的纯度水平
+- **持续时间**: 10-15 分钟
+- **施法复杂度**: 极端（宏大模式）
+- **所需组件**: 钻石粉末，清晰本质
+- **音乐类比**: 以完美频率共振的水晶玻璃
+- **副作用**: 暂时失去情感通道，精神紧张的风险
 
-## Mana Capacity Enhancement Buffs
+## 法力容量增益强化
 
-These buffs focus on increasing the total amount of mana a caster can hold and channel, functioning like expanded reservoirs.
+这些增益侧重于增加施法者可以容纳和引导的总法力，其作用类似于扩大的水库。
 
-### Mana Well
+### 法力之井
 
-Basic enhancement that expands internal mana reservoirs:
+扩展内部法力水库的基本强化：
 
-- **Effect**: Increases mana capacity by 25-40%
-- **Duration**: 2-3 hours
-- **Casting Complexity**: Moderate (Compound Pattern)
-- **Components Required**: Blue sapphire, night dew
-- **Musical Analogy**: Expanding a drum's resonance chamber
-- **Side Effects**: Slight physical weariness
+- **效果**: 法力容量增加 25-40%
+- **持续时间**: 2-3 小时
+- **施法复杂度**: 中等（复合模式）
+- **所需组件**: 蓝色蓝宝石，夜露
+- **音乐类比**: 扩展鼓的共振腔
+- **副作用**: 轻微的身体疲劳
 
-### Ethereal Vessel
+### 以太容器
 
-Creates a secondary mana pool connected to the caster's natural reserves:
+创建一个连接到施法者自然储备的辅助法力池：
 
-- **Effect**: Adds a separate mana reserve equal to 50% of natural capacity
-- **Duration**: 1-2 hours
-- **Casting Complexity**: High (Complex Pattern)
-- **Components Required**: Enchanted vessel, liquid starlight
-- **Musical Analogy**: Adding an echo chamber to an instrument
-- **Side Effects**: Feeling of weightlessness, minor dissociation
+- **效果**: 添加一个单独的法力储备，等于自然容量的 50%
+- **持续时间**: 1-2 小时
+- **施法复杂度**: 高（复杂模式）
+- **所需组件**: 魔法容器，液体星光
+- **音乐类比**: 向乐器添加混响室
+- **副作用**: 失重感，轻微的解离感
 
-### Mana Cascade
+### 法力级联
 
-Establishes a constant flow between the caster and ambient mana:
+在施法者和环境法力之间建立持续流动：
 
-- **Effect**: Continuous mana regeneration at 3x normal rate
-- **Duration**: 30-60 minutes
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Conductor metal, essence of flow
-- **Musical Analogy**: Continuous bellows providing air to a wind instrument
-- **Side Effects**: Heightened body temperature, magical aura
+- **效果**: 以正常速度的 3 倍持续法力再生
+- **持续时间**: 30-60 分钟
+- **施法复杂度**: 非常高（复杂模式）
+- **所需组件**: 导体金属，流动本质
+- **音乐类比**: 连续风箱为管乐器提供空气
+- **副作用**: 体温升高，魔法光环
 
-### Soul Resonance
+### 灵魂共振
 
-Elite buff that temporarily reconfigures elemental composition:
+一种精英增益，可暂时重新配置元素组成：
 
-- **Effect**: Doubles mana capacity by converting a portion of Exanthis to Mana Capacity
-- **Duration**: 5-10 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Soul resonator, essence of potential
-- **Musical Analogy**: Completely reconfiguring an instrument for maximum volume
-- **Side Effects**: Physical weakness, accelerated soul decay
+- **效果**: 通过将一部分 Exanthis 转换为法力容量来使法力容量加倍
+- **持续时间**: 5-10 分钟
+- **施法复杂度**: 极端（宏大模式）
+- **所需组件**: 灵魂谐振器，潜力本质
+- **音乐类比**: 完全重新配置乐器以获得最大音量
+- **副作用**: 身体虚弱，灵魂衰变加速
 
-## Combined Enhancement Buffs
+## 组合增益强化
 
-Advanced practitioners can implement buffs that enhance both purification and capacity simultaneously.
+高级施法者可以实施同时增强净化和容量的增益。
 
-### Mage's Ascension
+### 法师飞升
 
-A balanced enhancement of core magical abilities:
+核心魔法能力的平衡增强：
 
-- **Effect**: 30% increase to both purification efficiency and mana capacity
-- **Duration**: 1 hour
-- **Casting Complexity**: Very High (Complex Pattern)
-- **Components Required**: Mage's crystal, essence of harmony
-- **Musical Analogy**: Perfect instrument played in perfect acoustics
-- **Side Effects**: Moderate fatigue after expiration
+- **效果**: 净化效率和法力容量均提高 30%
+- **持续时间**: 1 小时
+- **施法复杂度**: 非常高（复杂模式）
+- **所需组件**: 法师晶体，和谐本质
+- **音乐类比**: 在完美的声学效果中演奏的完美乐器
+- **副作用**: 到期后中度疲劳
 
-### Archmage's Mantle
+### 大法师斗篷
 
-Elite buff used by master mages for critical magical working:
+大师级法师用于关键魔法工作的高级增益：
 
-- **Effect**: 60% increase to purification efficiency, 75% increase to mana capacity
-- **Duration**: 15-20 minutes
-- **Casting Complexity**: Extreme (Grand Pattern)
-- **Components Required**: Perfect focus crystal, essence of mastery
-- **Musical Analogy**: Master instrument with amplification in a perfect concert hall
-- **Side Effects**: Significant physical and mental fatigue, temporary elemental imbalance
+- **效果**: 净化效率提高 60%，法力容量提高 75%
+- **持续时间**: 15-20 分钟
+- **施法复杂度**: 极端（宏大模式）
+- **所需组件**: 完美聚焦晶体，精通本质
+- **音乐类比**: 在完美的音乐厅中带有放大功能的完美乐器
+- **副作用**: 明显的身体和精神疲劳，暂时的元素失衡
 
-### Ethereal Resonance
+### 以太共振
 
-Legendary buff that creates perfect harmony between all aspects of spellcasting:
+一种传奇增益，可在施法的所有方面之间创造完美的和谐：
 
-- **Effect**: Doubles purification efficiency, increases mana capacity by 100%, enhances resonance by 50%
-- **Duration**: 5 minutes
-- **Casting Complexity**: Legendary (Grand Pattern with multiple anchors)
-- **Components Required**: Philosopher's crystal, essence of perfection, harmonic metal
-- **Musical Analogy**: Perfect symphony with ideal instruments, acoustics, and performers
-- **Side Effects**: Complete exhaustion, temporary inability to cast after expiration, soul wear
+- **效果**: 净化效率提高一倍，法力容量增加 100%，共振增强 50%
+- **持续时间**: 5 分钟
+- **施法复杂度**: 传奇（带有多个锚点的宏大模式）
+- **所需组件**: 哲学家晶体，完美本质，谐波金属
+- **音乐类比**: 具有理想乐器，声学效果和表演者的完美交响乐
+- **副作用**: 完全筋疲力尽，到期后暂时无法施法，灵魂磨损
 
-## Buff Application Techniques
+## 增益应用技术
 
-The method of applying enhancement buffs affects their potency and duration:
+应用增益强化的方法会影响其效力和持续时间：
 
-### Self-Buffing
+### 自我增益
 
-Applying enhancements to oneself:
-- **Advantage**: Perfect attunement to personal magical signature
-- **Disadvantage**: Divides concentration between buff maintenance and spellcasting
-- **Best For**: Mages working alone on complex but non-urgent tasks
+对自己应用增强：
+- **优势**: 与个人魔法签名完美协调
+- **劣势**: 在增益维护和施法之间分配注意力
+- **最适合**: 独自处理复杂但非紧急任务的法师
 
-### Partner Buffing
+### 伙伴增益
 
-Having another caster apply the buff:
-- **Advantage**: Allows full concentration on primary spellcasting
-- **Disadvantage**: Requires compatible magical signatures
-- **Best For**: Paired mages performing complex ritual magic
+让另一位施法者应用增益：
+- **优势**: 允许完全专注于主要施法
+- **劣势**: 需要兼容的魔法签名
+- **最适合**: 执行复杂仪式魔法的配对法师
 
-### Ritual Circle Buffing
+### 仪式圈增益
 
-Using a prepared ritual circle to apply and maintain buffs:
-- **Advantage**: Extended duration, more stable effects
-- **Disadvantage**: Limited to specific locations
-- **Best For**: Planned magical operations with preparation time
+使用预先准备好的仪式圈来应用和维持增益：
+- **优势**: 延长持续时间，更稳定的效果
+- **劣势**: 仅限于特定位置
+- **最适合**: 计划好的魔法操作，有准备时间
 
-### Artifact Buffing
+### 人工制品增益
 
-Using magical artifacts to apply enhancement buffs:
-- **Advantage**: Consistent effects, no casting required
-- **Disadvantage**: Limited customization, dependency on artifacts
-- **Best For**: Emergencies or situations requiring reliability
+使用魔法神器来应用增益强化：
+- **优势**: 一致的效果，无需施法
+- **劣势**: 定制有限，依赖人工制品
+- **最适合**: 紧急情况或需要可靠性的情况
 
-## Risks and Limitations
+## 风险和限制
 
-Enhancement buffs carry significant risks when misused:
+滥用增益强化会带来重大风险：
 
-### Elemental Imbalance
-- **Cause**: Excessive alteration of elemental composition
-- **Symptoms**: Unpredictable magic, physical symptoms matching the imbalanced element
-- **Treatment**: Elemental rebalancing rituals, rest in harmonically neutral environments
+### 元素失衡
+- **原因**: 过度改变元素组成
+- **症状**: 不可预测的魔法，与失衡元素相匹配的身体症状
+- **治疗**: 元素再平衡仪式，在谐波中性环境中休息
 
-### Arcane Addiction
-- **Cause**: Overreliance on enhancement buffs
-- **Symptoms**: Diminished natural capabilities, dependency on buffs for normal casting
-- **Treatment**: Magical detoxification, gradual reduction in buff potency
+### 奥术成瘾
+- **原因**: 过度依赖增益强化
+- **症状**: 自然能力减弱，依赖增益进行正常施法
+- **治疗**: 魔法解毒，逐渐降低增益效力
 
-### Resonance Scarring
-- **Cause**: Repeated use of resonance-altering buffs
-- **Symptoms**: Difficulty achieving natural resonance, dissonant casting
-- **Treatment**: Harmonic therapy, extended abstention from magical practice
+### 共振疤痕
+- **原因**: 反复使用改变共振的增益
+- **症状**: 难以达到自然共振，不和谐的施法
+- **治疗**: 谐波疗法，长时间戒除魔法练习
 
-### Soul Fracturing
-- **Cause**: Extreme buffs that strain the soul's connection to mana
-- **Symptoms**: Personality changes, erratic magic, accelerated soul decay
-- **Treatment**: Soul mending rituals, specialized healing
+### 灵魂破裂
+- **原因**: 极端的增益会使灵魂与法力的连接紧张
+- **症状**: 性格变化，不稳定的魔法，加速灵魂衰变
+- **治疗**: 灵魂修复仪式，专门的治疗
 
-Understanding the proper use of **Enhancement Buffs** provides practitioners with powerful tools to temporarily exceed their natural limitations, like musicians using acoustic enhancements to achieve sounds beyond their instruments' natural capabilities. When used wisely, these buffs can transform a competent mage into an extraordinary force of magical potential - but always at a cost that must be carefully weighed. 
+理解**增益强化**的正确使用为施法者提供了强大的工具，可以暂时超越其天生的局限，就像音乐家使用声学增强来实现超越乐器自然能力的声音一样。 如果使用得当，这些增益可以将一位能干的法师变成非凡的魔法潜力力量 - 但始终要付出必须仔细权衡的代价。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

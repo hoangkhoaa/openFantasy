@@ -1,83 +1,87 @@
-# Mage Class
+# 法师职业
 
-> *"A mage sees the world not as it is, but as a symphony of patterns waiting to be conducted."*
+> *"法师看到的并非世界原本的模样，而是一曲等待指挥的模式交响乐。"*
 
-## Quick Navigation
+## 快速导航
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Mage](#playing-a-mage)
-- [Notable Traits](#notable-traits)
+- [概述](#overview)
+- [职业构成](#class-composition)
+- [子职业](#subclasses)
+- [玩法师](#playing-a-mage)
+- [显著特征](#notable-traits)
 
-## Overview
+## 概述
 
-Mages are the weavers of arcane power, channeling their exceptional **Mana Capacity** to manipulate the fabric of reality through spellcasting. Like conductors orchestrating the elements, they shape magical energies with precision and purpose.
+法师是奥术力量的编织者，他们引导其卓越的 **Mana Capacity (法力容量)**，通过施法来操纵现实的结构。 就像指挥家指挥元素一样，他们以精确的目的塑造魔法能量。
 
-## Class Composition
+## 职业构成
 
-| Element | Typical Range | Function |
+| 元素 | 典型范围 | 功能 |
 |---------|---------------|----------|
-| **Exanthis** | 10-30% | Physical foundation with limited strength and durability |
-| **Soul** | 20-40% | Consciousness that enables focused and analytical thinking |
-| **Mana Capacity** | 40-70% | Exceptional magical potential and channeling ability |
+| **Exanthis** | 10-30% | 身体基础，力量和耐久力有限 |
+| **Soul (灵魂)** | 20-40% | 赋予专注和分析思维的意识 |
+| **Mana Capacity (法力容量)** | 40-70% | 卓越的魔法潜力和引导能力 |
 
-This elemental balance grants mages their characteristic magical prowess while limiting their physical capabilities.
+这种元素平衡赋予了法师们其标志性的魔法力量，同时也限制了他们的身体能力。
 
-## Subclasses
+## 子职业
 
-Mages can specialize in several distinct magical disciplines:
+法师可以专精于几个不同的魔法学科：
 
-| Subclass | Focus | Specialty |
+| 子职业 | 专注 | 特长 |
 |----------|-------|-----------|
-| [**Elementalist**](Elementalist.md) | Elemental manipulation | Controlling fire, water, earth, and air |
-| [**Necromancer**](Necromancer.md) | Death and soul magic | Communicating with and controlling the undead |
-| [**Illusionist**](Illusionist.md) | Perception manipulation | Creating deceptive magical effects |
-| [**Diviner**](Diviner.md) | Knowledge acquisition | Seeking hidden information through magical means |
-| [**Warlock**](Warlock.md) | Pact-based magic | Channeling power from otherworldly patrons |
+| [**Elementalist (元素师)**](Elementalist.md) | 元素操纵 | 控制火焰、水、土和空气 |
+| [**Necromancer (死灵法师)**](Necromancer.md) | 死亡和灵魂魔法 | 与亡灵交流和控制亡灵 |
+| [**Illusionist (幻术师)**](Illusionist.md) | 感知操纵 | 创造欺骗性的魔法效果 |
+| [**Diviner (预言师)**](Diviner.md) | 知识获取 | 通过魔法手段寻找隐藏的信息 |
+| [**Warlock (术士)**](Warlock.md) | 基于契约的魔法 | 从异界赞助人那里引导力量 |
 
-## Playing a Mage
+## 玩法师
 
-### Core Abilities
+### 核心能力
 
-- **Spellcasting**: Access to a wide variety of arcane spells
-- **Mana Manipulation**: Precise control over magical energies
-- **Magical Knowledge**: Extensive understanding of arcane principles
-- **Ritual Casting**: Ability to perform complex magical ceremonies
+- **Spellcasting (施法)**: 访问各种奥术法术
+- **Mana Manipulation (法力操纵)**: 精确控制魔法能量
+- **Magical Knowledge (魔法知识)**: 对奥术原理的广泛理解
+- **Ritual Casting (仪式施法)**: 执行复杂魔法仪式的能力
 
-### Common Equipment
+### 常用装备
 
-- **Staff/Wand**: Focuses magical energy for more precise spellcasting
-- **Spellbook**: Contains magical knowledge and spell patterns
-- **Magical Accessories**: Rings, amulets, and other enchanted items
-- **Ritual Components**: Materials needed for complex spellcasting
+- **Staff/Wand (法杖/魔杖)**: 集中魔法能量以进行更精确的施法
+- **Spellbook (法术书)**: 包含魔法知识和法术模式
+- **Magical Accessories (魔法饰品)**: 戒指、护身符和其他附魔物品
+- **Ritual Components (仪式材料)**: 复杂施法所需的材料
 
-### Species Affinities
+### 种族亲和性
 
-| Species | Affinity | Notable Traits |
+| 种族 | 亲和性 | 显著特征 |
 |---------|----------|----------------|
-| **Elves** | High | Natural mana purification, enhanced arcane sensitivity |
-| **Humans** | Moderate | Versatile spellcasting, adaptive learning |
-| **Dark Elves** | High | Enhanced capacity for shadow and illusory magic |
-| **Dragonkin** | Moderate-High | Natural affinity for elemental magic, especially fire |
-| **Dwarves** | Low | Limited mana capacity but exceptional focus |
+| **Elves (精灵)** | 高 | 天然的法力净化，增强的奥术敏感性 |
+| **Humans (人类)** | 中等 | 通用施法，适应性学习 |
+| **Dark Elves (黑暗精灵)** | 高 | 增强的暗影和幻术魔法能力 |
+| **Dragonkin (龙裔)** | 中等-高 | 对元素魔法的天然亲和力，尤其是火焰 |
+| **Dwarves (矮人)** | 低 | 有限的法力容量但卓越的专注力 |
 
-## Notable Traits
+## 显著特征
 
-### Strengths
+### 优势
 
-- Unparalleled magical versatility and power
-- Ability to solve problems through arcane means
-- Access to knowledge and forces beyond mortal understanding
-- Potential for continuous growth in magical ability
+- 无与伦比的魔法通用性和力量
+- 通过奥术手段解决问题的能力
+- 获得超越凡人理解的知识和力量
+- 魔法能力持续增长的潜力
 
-### Challenges
+### 挑战
 
-- Physical vulnerability and limited combat endurance
-- Reliance on magical components and preparation
-- Susceptibility to anti-magic effects and counterspells
-- Complexity of advanced magical techniques
+- 身体脆弱和有限的战斗耐力
+- 依赖魔法组件和准备
+- 容易受到反魔法效果和反制法术的影响
+- 高级魔法技术的复杂性
 
 ---
 
-> See [Mage.md](Mage.md) for detailed information about the mage class in OpenFantasy. 
+> 查看 [Mage.md](Mage.md) 以获取有关 OpenFantasy 中法师职业的详细信息。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

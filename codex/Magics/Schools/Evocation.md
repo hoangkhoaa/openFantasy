@@ -1,188 +1,192 @@
-# **The School of Evocation**
+# **唤起学院**
 
-> *"To evoke is to call power from within and without, to shape raw force through will and voice. Not a request, but a demand that the elements answer."*  
-> — Arch-Evoker Ragnarr Stormcaller, Grand Master of the Crimson Tower
+> *"唤起是从内外召唤力量，通过意志和声音塑造原始力量。这不是请求，而是要求元素回应。"*
+> — 大唤起师拉格纳·暴风召唤者，深红塔的大师
 
-## Overview
+## 概述
 
-Evocation is the direct manipulation of magical energy to create powerful, often spectacular effects. It is the most visibly impressive school of magic, channeling raw elemental forces into existence through sheer will and precise mana manipulation. Evocation spells typically produce immediate, dramatic results - from conjuring destructive elemental forces to creating shields of pure magical energy.
+唤起是对魔法能量的直接操纵，以创造强大且通常壮观的效果。 它是魔法中最引人注目的学院，通过纯粹的意志和精确的法力操纵，将原始的元素力量引导成现实。 唤起法术通常会产生直接、戏剧性的结果——从召唤毁灭性的元素力量到创造纯魔法能量的屏障。
 
-## Fundamental Principles
+## 基本原则
 
-### The Voice of Command
+### 命令之声
 
-Evocation operates on the principle that elemental forces can be commanded through proper mana resonance and authoritative will. Unlike enchantment which persuades or illusion which deceives, evocation directly calls forth power, demanding that it manifest in specific ways. This school requires strong mental discipline and exceptional mana projection capabilities.
+唤起运作的原则是，可以通过适当的法力共振和权威意志来命令元素力量。 与劝说或幻术欺骗的附魔不同，唤起直接召唤力量，要求它以特定的方式显现。 这所学院需要强大的精神纪律和卓越的法力投射能力。
 
-### Primary Components
+### 主要组成部分
 
-All evocation spells incorporate three fundamental components:
+所有唤起法术都包含三个基本组成部分：
 
-1. **Mana Condensation**: Gathering and concentrating magical energy
-2. **Elemental Affinity**: Aligning the mana with specific elemental properties
-3. **Force Projection**: Directing the manifested energy with precision and control
+1. **法力凝聚**：收集和集中魔法能量
+2. **元素亲和力**：使法力与特定的元素属性对齐
+3. **力量投射**：以精确和控制来引导显现的能量
 
-### Mana Requirements
+### 法力需求
 
-Evocation typically requires large quantities of mana with compositions heavily weighted toward the relevant elemental types:
+唤起通常需要大量的法力，其成分主要侧重于相关的元素类型：
 
-| Evocation Focus | Primary Mana | Secondary Mana | Purpose |
+| 唤起焦点 | 主要法力 | 次要法力 | 目的 |
 |-----------------|-------------|----------------|---------|
-| Fire Evocation | Ignamana (60-80%) | Base Mana (10-30%) | Heat and combustion manifestation |
-| Water Evocation | Aquamana (60-80%) | Base Mana (10-30%) | Liquid manipulation and pressure control |
-| Earth Evocation | Terramana (60-80%) | Base Mana (10-30%) | Density manipulation and stability |
-| Air Evocation | Aeromana (60-80%) | Base Mana (10-30%) | Movement and pressure differential |
-| Lightning Evocation | Aeromana (40-60%) | Ignamana (30-50%) | Electrical charge generation |
-| Force Evocation | Base Mana (70-90%) | Varies by effect | Pure kinetic energy manipulation |
-| Light Evocation | Luxmana (60-80%) | Base Mana (10-30%) | Visible spectrum manifestation |
-| Shadow Evocation | Umbramana (60-80%) | Base Mana (10-30%) | Absence of light manipulation |
+| 火焰唤起 | 伊格纳法力 (60-80%) | 基础法力 (10-30%) | 热量和燃烧显现 |
+| 水流唤起 | 阿库法力 (60-80%) | 基础法力 (10-30%) | 液体操纵和压力控制 |
+| 大地唤起 | 泰拉法力 (60-80%) | 基础法力 (10-30%) | 密度操纵和稳定性 |
+| 空气唤起 | 埃罗法力 (60-80%) | 基础法力 (10-30%) | 运动和压力差 |
+| 闪电唤起 | 埃罗法力 (40-60%) | 伊格纳法力 (30-50%) | 电荷产生 |
+| 力量唤起 | 基础法力 (70-90%) | 因效果而异 | 纯粹的动能操纵 |
+| 光明唤起 | 卢克斯法力 (60-80%) | 基础法力 (10-30%) | 可见光谱显现 |
+| 阴影唤起 | 翁布拉法力 (60-80%) | 基础法力 (10-30%) | 缺少光线操纵 |
 
-### Wild Mana Interference
+### 狂野法力干扰
 
-Evocation has a complex relationship with Wild Mana. While wild energy can amplify the raw power of evocation spells, it introduces significant control problems:
+唤起与狂野法力之间存在复杂的关系。 虽然狂野能量可以放大唤起法术的原始力量，但它会引入严重的控制问题：
 
-- **Power Surge**: Uncontrolled amplification of spell effects
-- **Elemental Contamination**: Introduction of unintended elemental properties
-- **Directional Instability**: Loss of precision in targeting
-- **Feedback Loops**: Dangerous energy cycling back to the caster
+- **力量激增**：对法术效果的失控放大
+- **元素污染**：引入非预期的元素属性
+- **方向不稳定性**：目标定位的精度损失
+- **反馈循环**：危险的能量循环回到施法者
 
-Paradoxically, some battle evokers deliberately introduce controlled amounts of Wild Mana to create more unpredictable and therefore harder-to-counter effects, though this practice is considered extremely dangerous.
+矛盾的是，一些战斗唤起师会故意引入受控量的狂野法力，以创造更不可预测，因此更难反击的效果，尽管这种做法被认为极其危险。
 
-## Mana Purification for Evocation
+## 唤起的法力净化
 
-Evocation requires a balance between quantity and quality of mana. While the raw power of evocation benefits from large mana reserves, insufficient purity results in unstable and potentially dangerous effects.
+唤起需要法力的数量和质量之间的平衡。 虽然唤起的原始力量受益于大量的法力储备，但纯度不足会导致不稳定且可能危险的效果。
 
-| Purification Level | Evocation Capability |
+| 净化等级 | 唤起能力 |
 |--------------------|----------------------|
-| Basic (15-25%) | Simple elemental manifestations with limited control |
-| Intermediate (30-45%) | Reliable elemental effects with moderate power and accuracy |
-| Advanced (50-65%) | Complex evocations with precise control and significant force |
-| Master (70-80%) | Multi-elemental combinations and exceptional power-to-control ratio |
-| Grandmaster (85%+) | Perfect elemental harmony with maximum efficiency and minimal waste |
+| 基础 (15-25%) | 具有有限控制的简单元素显现 |
+| 中级 (30-45%) | 具有中等力量和准确性的可靠元素效果 |
+| 高级 (50-65%) | 具有精确控制和强大力量的复杂唤起 |
+| 大师 (70-80%) | 多元素组合和卓越的力量控制比率 |
+| 大宗师 (85%+) | 完美的元素和谐，具有最大的效率和最小的浪费 |
 
-## The Elemental Octave in Evocation
+## 唤起中的元素八度音阶
 
-Evocation particularly relies on understanding the Elemental Octave, as combining complementary elements creates harmonious and efficient spells, while opposing elements can create destructive interference or even spell failure.
+唤起特别依赖于对元素八度音阶的理解，因为结合互补的元素会产生和谐且高效的法术，而相反的元素会产生破坏性的干扰甚至法术失败。
 
-The elemental relationships in evocation follow the standard Elemental Wheel, but with particular attention to:
+唤起中的元素关系遵循标准的元素之轮，但特别关注：
 
-- **Harmonic Pairs**: Fire-Air, Water-Earth, Light-Life, Shadow-Death
-- **Dissonant Pairs**: Fire-Water, Air-Earth, Light-Shadow, Life-Death
-- **Constructive Triads**: Fire-Earth-Light, Water-Air-Shadow, etc.
+- **和谐对**：火焰-空气，水-大地，光明-生命，阴影-死亡
+- **不和谐对**：火焰-水，空气-大地，光明-阴影，生命-死亡
+- **建设性三元组**：火焰-大地-光明，水-空气-阴影等。
 
-Master evokers learn to "play" the elemental harmonies like musical instruments, creating complex "chords" of elemental forces that produce effects greater than the sum of their parts.
+大师级唤起师学会像演奏乐器一样“演奏”元素和谐，创造出复杂的元素力量“和弦”，产生大于其各部分之和的效果。
 
-## Specialized Disciplines
+## 专业学科
 
-### Pyromancy
+### 火焰术
 
-Focused on fire manipulation, from controlled flames to explosive conflagrations. Practitioners are known as Pyromancers.
+专注于火焰操纵，从受控的火焰到爆炸性的燃烧。 从业者被称为火焰术士。
 
-### Hydromancy
+### 水流术
 
-The art of water control, including mist, ice, and steam manipulation. Masters are called Tidesingers.
+控制水的艺术，包括雾、冰和蒸汽的操纵。 大师被称为潮汐吟唱者。
 
-### Geomancy
+### 大地术
 
-Specializes in earth and stone manipulation. Practitioners are known as Stoneshapers.
+专门从事泥土和石头操纵。 从业者被称为塑石师。
 
-### Aeromancy
+### 空气术
 
-The discipline of air and wind control. Practitioners are called Windweavers.
+控制空气和风的学科。 从业者被称为风织者。
 
-### Electromancy
+### 电击术
 
-Advanced discipline focused on lightning and electrical energy. Masters are known as Stormcallers.
+专注于闪电和电能的高级学科。 大师被称为风暴召唤者。
 
-### Umbramancy
+### 阴影术
 
-The manipulation of shadow and darkness. Practitioners are called Shadowcasters.
+对阴影和黑暗的操纵。 从业者被称为阴影施法者。
 
-### Luxomancy
+### 光明术
 
-Specializes in light manipulation beyond simple illumination. Masters are known as Lightbringers.
+专注于超越简单照明的光操纵。 大师被称为光明使者。
 
-### Force Manipulation
+### 力量操纵
 
-The advanced discipline of pure kinetic energy control. Practitioners are called Forceshapers.
+纯粹动能控制的高级学科。 从业者被称为力量塑造师。
 
-## Training Methodology
+## 训练方法
 
-Evocation training follows a distinct progression:
+唤起训练遵循一个独特的进展：
 
-1. **Elemental Affinity Discovery**: Identifying a student's natural elemental connections
-2. **Power Control Exercises**: Learning to regulate mana output and projection
-3. **Single-Element Mastery**: Developing expertise with one primary element
-4. **Precision Training**: Exercises focused on accuracy and fine control
-5. **Secondary Element Introduction**: Expanding capabilities to complementary elements
-6. **Combat Applications**: Tactical uses of evocation in controlled scenarios
-7. **Elemental Harmonization**: Advanced techniques for combining multiple elements
-8. **Efficiency Refinement**: Reducing mana costs while maintaining effect potency
+1. **元素亲和力发现**：识别学生天生的元素联系
+2. **力量控制练习**：学习调节法力输出和投射
+3. **单元素掌握**：培养对一种主要元素的专业知识
+4. **精确训练**：专注于准确性和精细控制的练习
+5. **引入次要元素**：将能力扩展到互补元素
+6. **战斗应用**：在受控场景中战术性地使用唤起
+7. **元素和谐化**：结合多种元素的高级技术
+8. **效率改进**：降低法力消耗，同时保持效果强度
 
-Evocation training often involves more physical components than other magical disciplines, as projecting force frequently requires corresponding physical movements and gestures.
+唤起训练通常比其他魔法学科涉及更多的身体成分，因为投射力量通常需要相应的身体运动和手势。
 
-## Practical Applications
+## 实际应用
 
-Beyond its obvious combat applications, evocation serves many practical purposes:
+除了其明显的战斗应用之外，唤起还服务于许多实际目的：
 
-- **Construction**: Moving heavy materials and shaping elements for building
-- **Agriculture**: Controlling rainfall, temperature, and soil conditions
-- **Transportation**: Propelling vessels or creating pathways
-- **Industry**: Providing heat, pressure, and other forces for manufacturing
-- **Environmental Management**: Controlling natural disasters or extreme weather
-- **Entertainment**: Creating spectacular displays and sensory experiences
+- **建造**：移动重型材料并塑造元素以进行建造
+- **农业**：控制降雨、温度和土壤条件
+- **运输**：推进船只或创造路径
+- **工业**：为制造业提供热量、压力和其他力量
+- **环境管理**：控制自然灾害或极端天气
+- **娱乐**：创造壮观的展示和感官体验
 
-## Safety Protocols
+## 安全协议
 
-Due to its potentially destructive nature, evocation is typically subject to strict safety regulations:
+由于其潜在的破坏性，唤起通常受到严格的安全法规的约束：
 
-- **Licensing Requirements**: Legal certification based on demonstrated control
-- **Containment Spaces**: Designated areas with protective wards for training
-- **Energy Dispersal Systems**: Emergency measures to safely dissipate magical energy
-- **Practice Limitations**: Restrictions on specific high-risk evocations
-- **Mandatory Supervision**: Requirements for oversight during advanced training
+- **许可要求**：基于所演示的控制的法律认证
+- **收容空间**：用于训练的带有保护结界的指定区域
+- **能量消散系统**：安全消散魔法能量的紧急措施
+- **练习限制**：对特定高风险唤起的限制
+- **强制监督**：高级训练期间的监督要求
 
-## Limitations and Countermeasures
+## 限制和对策
 
-Evocation has several inherent limitations:
+唤起有几个固有的局限性：
 
-- **Energy Cost**: High mana consumption limiting sustained use
-- **Control Difficulty**: Increasing complexity with scale and power
-- **Elemental Resistance**: Limited effectiveness against targets with matching elemental properties
-- **Environmental Dependence**: Some evocations require existing elements to amplify
-- **Predictability**: Visible energy signatures that can be anticipated
+- **能量成本**：高法力消耗限制了持续使用
+- **控制难度**：随着规模和力量的增加而增加复杂性
+- **元素抗性**：对具有匹配元素属性的目标效果有限
+- **环境依赖性**：一些唤起需要现有的元素来放大
+- **可预测性**：可以预测的可见能量特征
 
-Common countermeasures against evocation include:
+对抗唤起的常见对策包括：
 
-- **Elemental Absorption**: Wards that consume or redirect elemental energy
-- **Force Dispersion**: Spreading impact across larger areas to reduce effectiveness
-- **Reflection Barriers**: Surfaces that bounce evocation energy back toward casters
-- **Elemental Opposition**: Using contrary elements to neutralize effects
-- **Disruption Fields**: Areas of Wild Mana that interfere with evocation control
+- **元素吸收**：消耗或重定向元素能量的结界
+- **力量分散**：将冲击力分散到更大的区域以降低有效性
+- **反射屏障**：将唤起能量弹回施法者的表面
+- **元素对立**：使用相反的元素来抵消效果
+- **干扰场**：干扰唤起控制的狂野法力区域
 
-## Musical Analogy
+## 音乐类比
 
-In the musical framework of magic, evocation represents percussion and brass - bold, direct, and attention-commanding. The evoker is like a drummer establishing rhythm through decisive, powerful movements, or a trumpet player projecting clear notes through space.
+在魔法的音乐框架中，唤起代表打击乐器和铜管乐器——大胆、直接且引人注目。 唤起师就像一个鼓手，通过果断、有力的动作来建立节奏，或者像一个小号手，将清晰的音符投射到空间中。
 
-Master evokers describe their work as "conducting the elemental orchestra," bringing forth each element with precise timing and intensity. The most impressive evocations are like symphonic climaxes - multiple elements working in harmony to create overwhelming sensory experiences.
+大师级唤起师将他们的工作描述为“指挥元素交响乐团”，以精确的时间和强度带出每个元素。 最令人印象深刻的唤起就像交响乐的高潮——多个元素和谐地工作，创造出压倒性的感官体验。
 
-## Notable Practitioners
+## 著名从业者
 
-- **Ragnarr Stormcaller**: Legendary battle-mage famous for calling lightning storms in cloudless skies
-- **Lysandra Flameheart**: Creator of the Dancing Ember spell and pioneer of controlled fire evocation
-- **Terran Stonevoice**: Master geomancer who developed battlefield terrain manipulation techniques
-- **Aria Galewind**: Renowned aeromancer known for developing sustainable wind energy systems
-- **Umbra Nightshade**: Controversial shadowcaster who expanded the understanding of darkness as substance
+- **拉格纳·暴风召唤者**：传奇的战斗法师，以在晴空中召唤雷暴而闻名
+- **莱桑德拉·火焰之心**：舞动余烬法术的创造者和受控火焰唤起的先驱
+- **泰兰·石声**：开发战场地形操纵技术的大地术大师
+- **艾莉娅·风暴风**：以开发可持续风能系统而闻名的著名空气术士
+- **翁布拉·夜影**：扩展了对黑暗作为物质的理解的有争议的阴影施法者
 
-## Historical Development
+## 历史发展
 
-Evocation is among the earliest documented forms of magic, with primitive versions appearing in the earliest tribal cultures as weather control and fire manipulation. The primal appeal and immediate utility of evocation made it widespread.
+唤起是最早有记载的魔法形式之一，其原始版本出现在最早的部落文化中，表现为天气控制和火焰操纵。 唤起的原始吸引力和直接效用使其得到广泛传播。
 
-The Second Age saw the systematization of evocation theory with the writing of "The Elemental Voice" by Arch-Evoker Ignis. This established the fundamental classifications and safety protocols still used today.
+第二纪元见证了唤起理论的系统化，即大唤起师伊格尼斯撰写的《元素之声》。 这确立了今天仍然使用的基本分类和安全协议。
 
-The Third Age brought significant advances in precision and efficiency, moving evocation beyond merely destructive applications toward more nuanced uses. The founding of the Elemental Harmony Academy marked a turning point, where evocation began to be studied as an art form rather than simply a weapon.
+第三纪元带来了精度和效率的显着进步，使唤起超越了仅仅具有破坏性的应用，转向了更细微的用途。 元素和谐学院的成立标志着一个转折点，唤起开始被视为一种艺术形式，而不仅仅是一种武器。
 
-Modern evocation continues to evolve, with current research focused on micro-evocation (extremely precise small-scale effects) and harmonic evocation (complex multiple-element combinations).
+现代唤起继续发展，当前的研究重点是微唤起（极其精确的小规模效应）和和谐唤起（复杂的多元素组合）。
 
 ---
 
-*See also: [Dancing Ember](/codex/Magics/Spells/Elemental/DancingEmber.md), [Elemental Magic](/codex/Magics/ElementalMagic.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*另请参阅：[舞动余烬](/codex/Magics/Spells/Elemental/DancingEmber.md)，[元素魔法](/codex/Magics/ElementalMagic.md)，[法力净化](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

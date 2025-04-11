@@ -1,233 +1,237 @@
-# **Weapon Control**
+# **武器控制**
 
-> *"The unbound blade dances at your command, not bound by the limitations of flesh, but guided by the precision of will."*  
-> — Swordmaster Arlan Vostel, Founder of the Orbiting Blade Technique
+> *"不受肉体限制，而由意志的精确引导，未被束缚的利刃在你的命令下舞动。"*
+> ——轨道剑技的创始人，剑术大师阿兰·沃斯特尔
 
-## Casting Information
-- **Difficulty**: Intermediate to Expert
-- **Casting Time**: 1-3 seconds (initial control), instantaneous (subsequent directions)
-- **Duration**: Concentration, up to 1 minute
-- **Range**: 30 feet (standard), up to 60 feet (mastery)
-- **Components**: Somatic, Focus (weapon or projectile)
+## 施法信息
+- **难度**：中级到专家
+- **施法时间**：1-3秒（初始控制），瞬间（后续指令）
+- **持续时间**：专注，最长1分钟
+- **范围**：30英尺（标准），最长60英尺（精通）
+- **成分**：姿势，专注（武器或投射物）
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 75%, Aeromana 15%, Terramana 10%
-- **Primary Factor**: Technical Mastery and Training (more significant than purity)
-- **Minimum Mana Capacity**: 20% (Higher capacity allows controlling heavier/more objects)
-- **Pattern Complexity**: Moderate (4-tier control matrix with targeting subpattern)
-- **Resonance Frequency**: Mid-range physical spectrum with harmonic oscillation
-- **Roaming Mana Utilization**: High (Typically operates at sustainable regeneration limits)
+## 技术细节
+- **法力类型分布**：基础法力75%，气法力15%，土法力10%
+- **主要因素**：技术掌握和训练（比纯度更重要）
+- **最低法力容量**：20%（更高的容量允许控制更重/更多的物体）
+- **模式复杂度**：中等（具有目标子模式的4层控制矩阵）
+- **共振频率**：中频物理谱与谐波振荡
+- **游离法力利用率**：高（通常以可持续的再生极限运行）
 
-## Core Principles
+## 核心原则
 
-Weapon Control enables the magical manipulation of weapons, projectiles, or other combat implements without physical contact. The spell creates a resonant connection between the caster's mana and the target objects, allowing for precise control of movement, trajectory, and impact force.
+武器控制使无需物理接触即可对武器、投射物或其他战斗工具进行魔法操控。 该法术在施法者的法力和目标物体之间建立共振连接，从而可以精确控制运动、轨迹和冲击力。
 
-Unlike simpler force vector spells, Weapon Control maintains a persistent connection that permits ongoing manipulation and direction changes. The core pattern establishes:
+与更简单的力矢量法术不同，武器控制保持持久的连接，允许持续的操控和方向改变。 核心模式确立：
 
-1. **Connection Tether**: The resonant link between caster and weapon
-2. **Momentum Matrix**: The control system for speed and directional change
-3. **Balance Stabilizer**: The component maintaining weapon orientation
-4. **Target Acquisition**: The optional component enabling guided strikes
-5. **Force Amplifier**: The energy transfer mechanism for impact
+1. **连接系链**：施法者与武器之间的共振链接
+2. **动量矩阵**：速度和方向改变的控制系统
+3. **平衡稳定器**：维持武器方向的组件
+4. **目标获取**：支持引导攻击的可选组件
+5. **力量放大器**：用于冲击的能量传输机制
 
-While many combat spells require high purity levels, Weapon Control is distinct in its emphasis on technical proficiency over raw mana quality. Masters of this art often possess only moderate purity levels but have developed exceptional precision in their technique through thousands of hours of disciplined practice.
+虽然许多战斗法术需要高纯度水平，但武器控制的独特之处在于它强调技术熟练度，而不是原始的法力质量。 这门艺术的大师通常只拥有中等的纯度水平，但通过数千小时的严格练习，他们在技术上发展出了非凡的精度。
 
-## Standard Variants
+## 标准变体
 
-### Single Weapon Control
-The foundational application for manipulating one weapon:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Complete control over one weapon's movement
-- **Typical Users**: Duelists, Battle Mages, Elite Warriors
-- **Applications**: Extended attack range, surprise angles, reaching inaccessible targets
+### 单武器控制
+操控一件武器的基础应用：
+- **难度**：中级
+- **纯度要求**：精炼（30-40%）
+- **效果**：完全控制一件武器的运动
+- **典型用户**：决斗者、战斗法师、精英战士
+- **应用**：扩展攻击范围，出其不意的角度，到达难以接近的目标
 
-### Projectile Guidance
-Influences the flight path of thrown weapons or arrows:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Adjusts trajectory of projectiles after release
-- **Typical Users**: Rangers, Scouts, Specialist Archers
-- **Applications**: Curving shots around obstacles, extending effective range, compensating for wind
+### 投射物引导
+影响投掷武器或箭矢的飞行路径：
+- **难度**：中级
+- **纯度要求**：精炼（35-45%）
+- **效果**：调整投射物释放后的轨迹
+- **典型用户**：游侠、侦察兵、专业弓箭手
+- **应用**：使射击绕过障碍物，扩大有效范围，补偿风力
 
-### Weapon Retrieval
-Specialized variant focused on returning weapons to the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-40%)
-- **Effect**: Pulls a weapon back to the caster's hand
-- **Typical Users**: Weapon Specialists, Close Combat Fighters
-- **Applications**: Recovering thrown weapons, disarm countering, tactical repositioning
+### 武器回收
+专注于将武器返回施法者的专业变体：
+- **难度**：中级
+- **纯度要求**：精炼（30-40%）
+- **效果**：将武器拉回到施法者的手中
+- **典型用户**：武器专家、近战格斗家
+- **应用**：回收投掷武器、反制缴械、战术性重新定位
 
-## Advanced Variants
+## 高级变体
 
-### Multiple Weapon Orchestra
-Controls several weapons simultaneously:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Manipulates 2-5 weapons independently
-- **Typical Users**: Blade Dancers, Master Battle Mages
-- **Applications**: Multi-directional attacks, defensive screens, coordinated patterns
+### 多武器乐团
+同时控制多个武器：
+- **难度**：专家
+- **纯度要求**：完美（60-70%）
+- **效果**：独立操控2-5件武器
+- **典型用户**：刀锋舞者、大师级战斗法师
+- **应用**：多方向攻击、防御屏障、协同模式
 
-### Precision Strike
-Enhances accuracy and penetrating power:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Guides weapons with surgical precision to vulnerable points
-- **Typical Users**: Assassins, Elite Rangers, Precision Specialists
-- **Applications**: Targeting weak points in armor, striking vital areas, threading narrow gaps
+### 精准打击
+提高准确性和穿透力：
+- **难度**：专家
+- **纯度要求**：完美（65-75%）
+- **效果**：以手术般的精确度引导武器攻击脆弱点
+- **典型用户**：刺客、精英游侠、精准专家
+- **应用**：瞄准装甲的弱点，攻击要害部位，穿过狭窄的缝隙
 
-### Combat Swarm
-Controls numerous small projectiles as a coordinated group:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-80%)
-- **Effect**: Manipulates 10-30 small objects (darts, needles, shards)
-- **Typical Users**: Specialized Mages, Elite Assassins
-- **Applications**: Area denial, multiple target engagement, distraction tactics
+### 战斗蜂群
+将大量小型投射物作为一个协调的群体控制：
+- **难度**：大师
+- **纯度要求**：完美（70-80%）
+- **效果**：操控10-30个小物体（飞镖、针、碎片）
+- **典型用户**：专业法师、精英刺客
+- **应用**：区域封锁、多目标交战、分散注意力战术
 
-## Technique Influence on Effect
+## 技术对效果的影响
 
-Unlike many complex spells, Weapon Control effectiveness is determined more by training and technique than by mana purity:
+与许多复杂的法术不同，武器控制的有效性更多地取决于训练和技术，而不是法力纯度：
 
-| Training Level | Control Precision | Maximum Weight | Sustainability |
+| 训练等级 | 控制精度 | 最大重量 | 可持续性 |
 |----------------|-------------------|----------------|----------------|
-| Novice | Basic directional control, simple movements | Single light weapon (up to 3 lbs) | High energy cost, brief duration |
-| Intermediate | Smooth trajectories, controlled speed | Medium weapons (up to 8 lbs) | Moderate efficiency, operates within regeneration |
-| Advanced | Complex maneuvers, accurate targeting | Heavy weapons (up to 15 lbs) | Efficient use, sustainable for combat duration |
-| Master | Intricate patterns, perfect balance, combat integration | Multiple weapons or very heavy implements (20+ lbs) | Optimized for regeneration equilibrium |
+| 新手 | 基本方向控制，简单动作 | 单个轻型武器（最多3磅） | 能量消耗高，持续时间短 |
+| 中级 | 平滑的轨迹，受控的速度 | 中型武器（最多8磅） | 中等效率，在再生范围内运行 |
+| 高级 | 复杂的机动，精确的目标定位 | 重型武器（最多15磅） | 高效使用，可持续作战时间 |
+| 大师 | 复杂的模式，完美的平衡，战斗集成 | 多种武器或非常重的工具（20+磅） | 针对再生平衡进行优化 |
 
-Practitioners train to utilize ambient roaming mana to supplement their personal reserves, allowing them to maintain control for extended periods. The most skilled users establish an energy equilibrium where they expend only as much mana as they naturally regenerate, creating theoretically indefinite control periods.
+练习者训练利用周围的游离法力来补充他们的个人储备，使他们能够长时间保持控制。 最熟练的使用者建立了一种能量平衡，他们消耗的法力只相当于他们自然再生的法力，从而创造了理论上无限期的控制时期。
 
-## Mana Capacity and Object Relationship
+## 法力容量与物体关系
 
-The primary limiting factor in Weapon Control is the relationship between mana capacity and controlled object mass:
+武器控制的主要限制因素是法力容量与受控物体质量之间的关系：
 
-| Mana Capacity | Maximum Sustainable Weight | Number of Objects | Duration at Maximum Load |
+| 法力容量 | 最大可持续重量 | 物体数量 | 最大负载下的持续时间 |
 |---------------|----------------------------|-------------------|--------------------------|
-| 20-30% | Up to 10 pounds total | 1-2 objects | Combat duration (sustainable) |
-| 31-45% | Up to 25 pounds total | 2-3 objects | Combat duration (sustainable) |
-| 46-60% | Up to 50 pounds total | 3-5 objects | Limited combat (approaching regeneration limit) |
-| 61-75% | Up to 100 pounds total | 5-8 objects | Brief periods (exceeds regeneration) |
-| 76%+ | 100+ pounds total | 8+ objects | Tactical moments only (rapidly depletes reserves) |
+| 20-30% | 总共最多10磅 | 1-2个物体 | 作战时间（可持续） |
+| 31-45% | 总共最多25磅 | 2-3个物体 | 作战时间（可持续） |
+| 46-60% | 总共最多50磅 | 3-5个物体 | 有限的作战（接近再生极限） |
+| 61-75% | 总共最多100磅 | 5-8个物体 | 短暂的时间（超过再生） |
+| 76%+ | 总共100+磅 | 8+个物体 | 仅限战术时刻（迅速耗尽储备） |
 
-Experienced practitioners typically operate at 70-85% of their maximum capacity to maintain combat effectiveness while ensuring sustainable mana expenditure.
+经验丰富的从业者通常以其最大容量的70-85%运行，以保持作战效能，同时确保可持续的法力消耗。
 
-## Class-Specific Applications
+## 职业特定应用
 
-### Warrior Class
-- **Orbital Shield**: Circling weapon providing mobile defense
-- **Extended Reach**: Attacking beyond normal melee range
-- **Flanking Strike**: Attacking from unexpected angles
-- **Weapon Swap**: Quickly exchanging wielded and controlled weapons
+### 战士职业
+- **轨道护盾**：环绕武器提供移动防御
+- **延伸范围**：在正常的近战范围之外进行攻击
+- **侧翼攻击**：从意想不到的角度攻击
+- **武器切换**：快速更换挥舞和控制的武器
 
-### Rogue/Assassin Class
-- **Silent Strike**: Weapon attacks without revealing caster position
-- **Needle Storm**: Controlling multiple poisoned projectiles
-- **Distraction Array**: Creating diversions with controlled objects
-- **Lock Manipulation**: Controlling lockpicks or small tools remotely
+### 盗贼/刺客职业
+- **静默打击**：武器攻击而不暴露施法者的位置
+- **飞针风暴**：控制多个中毒的投射物
+- **干扰阵列**：利用受控物体制造干扰
+- **开锁操作**：远程控制撬锁器或小型工具
 
-### Ranger Class
-- **Arrow Guidance**: Steering arrows around obstacles after firing
-- **Multi-Shot Control**: Guiding several arrows to different targets
-- **Retrieval Hunt**: Recovering valuable or special arrows
-- **Signal Arrows**: Complex flight paths for communication signals
+### 游侠职业
+- **箭矢引导**：射击后引导箭矢绕过障碍物
+- **多重射击控制**：引导多支箭矢攻击不同的目标
+- **回收狩猎**：回收有价值或特殊的箭矢
+- **信号箭矢**：用于通信信号的复杂飞行路径
 
-### Mage Class
-- **Arcane Defender**: Orbiting weapon while casting other spells
-- **Focus Control**: Manipulating magical implements without physical touch
-- **Material Manipulation**: Precise control of ritual components
-- **Spell Conduit**: Using controlled weapons as delivery systems for touch spells
+### 法师职业
+- **奥术防御者**：在施放其他法术时环绕武器
+- **专注控制**：无需物理接触即可操纵魔法工具
+- **材料操纵**：精确控制仪式组件
+- **法术管道**：使用受控武器作为接触法术的传递系统
 
-## Training Progression
+## 训练进度
 
-### Fundamental Control
-- Connection establishment exercises
-- Basic directional control drills
-- Weight and balance adaptation
-- Simple patterns and movements
+### 基础控制
+- 连接建立练习
+- 基本方向控制训练
+- 重量和平衡适应
+- 简单的模式和动作
 
-### Intermediate Mastery
-- Sustained control during caster movement
-- Precise targeting and impact control
-- Transitioning between different movement patterns
-- Multi-object awareness development
-- Roaming mana harvesting techniques
+### 中级掌握
+- 在施法者移动期间保持控制
+- 精确的目标定位和冲击控制
+- 在不同运动模式之间转换
+- 多物体意识发展
+- 游离法力收集技术
 
-### Advanced Techniques
-- Independent object movement coordination
-- Combat integration with physical attacks
-- Environmental interaction and obstacle navigation
-- Specialized applications for different weapon types
-- Regeneration-synchronized control rhythms
+### 高级技巧
+- 独立物体运动协调
+- 与物理攻击的战斗集成
+- 环境互动和障碍导航
+- 针对不同武器类型的专业应用
+- 再生同步控制节奏
 
-### Master Level Training
-- Combat flow state achievement
-- Mana efficiency optimization
-- Weight-to-distance ratio mastery
-- Simultaneous ranged and melee control
-- Defensive and offensive pattern integration
+### 大师级训练
+- 战斗流程状态达成
+- 法力效率优化
+- 重量距离比率掌握
+- 同时进行远程和近战控制
+- 防御和进攻模式集成
 
-## Technical Considerations
+## 技术考量
 
-- **Regeneration Synchronization**: Techniques to match mana expenditure with natural recovery rate
-- **Ambient Mana Harvesting**: Methods to supplement personal reserves with environmental energy
-- **Connection Efficiency**: Minimizing energy loss in the control tether
-- **Weight Distribution Analysis**: Understanding how a weapon's balance affects control requirements
-- **Pattern Streamlining**: Eliminating unnecessary complexity in control matrices
-- **Energy Circuit Optimization**: Creating closed loops that recycle portions of expended mana
+- **再生同步**：将法力消耗与自然恢复率相匹配的技术
+- **环境法力收集**：用环境能量补充个人储备的方法
+- **连接效率**：最大限度地减少控制系链中的能量损失
+- **重量分布分析**：了解武器的平衡如何影响控制要求
+- **模式简化**：消除控制矩阵中不必要的复杂性
+- **能量回路优化**：创建循环利用部分消耗法力的闭环
 
-## Risk Factors
+## 风险因素
 
-### Common Mishaps
-- **Control Inversion**: Weapon movement opposite to intended direction
-- **Oscillation Cascade**: Uncontrollable wobbling or vibration
-- **Tether Snap**: Sudden loss of connection during crucial moments
-- **Rebound Effect**: Weapon unexpectedly returning toward caster
-- **Pattern Interference**: Multiple controlled objects colliding
+### 常见事故
+- **控制反转**：武器运动与预期方向相反
+- **振荡级联**：无法控制的摆动或振动
+- **系链断裂**：在关键时刻突然失去连接
+- **反弹效应**：武器意外地返回到施法者方向
+- **模式干扰**：多个受控物体碰撞
 
-### Safety Practices
-- Training with blunted or weighted practice weapons
-- Establishing emergency release protocol
-- Practicing in spaces with adequate clearance
-- Developing muscle memory for standard movement patterns
-- Regular connection refresh during extended control periods
+### 安全措施
+- 使用钝器或加重练习武器进行训练
+- 建立紧急释放协议
+- 在有足够空隙的空间内练习
+- 培养标准运动模式的肌肉记忆
+- 在延长的控制期间定期刷新连接
 
-## Specific Weapon Considerations
+## 具体武器考量
 
-### Bladed Weapons
-Offer excellent control characteristics due to balance and aerodynamics:
-- **Daggers**: Highest precision, ideal for beginners
-- **Swords**: Good balance of reach and maneuverability
-- **Axes**: Require special attention to rotational momentum
-- **Polearms**: Excellent reach but challenging rotational control
+### 刀剑武器
+由于平衡和空气动力学特性，提供出色的控制特性：
+- **匕首**：精度最高，是初学者的理想选择
+- **剑**：触及范围和机动性的良好平衡
+- **斧头**：需要特别注意旋转动量
+- **长柄武器**：极佳的触及范围，但旋转控制具有挑战性
 
-### Projectile Weapons
-Particularly suited for guidance rather than full control:
-- **Arrows**: Respond well to minor course corrections
-- **Throwing Knives**: Balance makes them ideal for controlled returns
-- **Darts/Needles**: Perfect for swarm techniques but limited individual impact
-- **Javelins**: Excellent distance but require higher purity for effective guidance
+### 投射武器
+特别适合引导，而不是完全控制：
+- **箭矢**：对细微的航向修正反应良好
+- **飞刀**：平衡性使其非常适合受控返回
+- **飞镖/针**：非常适合蜂群技术，但个体冲击力有限
+- **标枪**：极佳的距离，但需要更高的纯度才能进行有效引导
 
-### Specialty Applications
-Unusual but effective implementations:
-- **Chain Weapons**: Complex but devastating when mastered
-- **Shrapnel Control**: Directing fragments after explosive impacts
-- **Dust/Powder**: Fine control creates blinding or poisonous clouds
-- **Liquid Projectiles**: Advanced technique for controlling thrown potions or alchemical substances
+### 特殊应用
+不寻常但有效的实施：
+- **链武器**：复杂但掌握后具有毁灭性
+- **弹片控制**：在爆炸冲击后引导碎片
+- **灰尘/粉末**：精细的控制产生致盲或有毒的云雾
+- **液体投射物**：用于控制投掷药剂或炼金物质的高级技术
 
-## Historical Development
+## 历史发展
 
-Weapon Control magic emerged during the early Third Age from martial traditions seeking to extend combat capabilities. The Vostel Academy of Kinetic Arts formalized the first comprehensive curriculum, but the spell's true potential was realized during the Mage Wars when resource limitations forced innovative applications of simple spells.
+武器控制魔法出现在第三纪元的早期，源于寻求扩展作战能力的武术传统。 沃斯特尔动能艺术学院正式制定了第一份综合课程，但在法师战争期间，资源限制迫使人们创新地应用简单法术，从而实现了该法术的真正潜力。
 
-What differentiated Weapon Control from other combat magics was its focus on applied technique rather than theoretical mastery. Warriors with only basic magical talent could achieve remarkable results through disciplined practice, establishing it as the premier combat system for those who lacked the capacity or inclination for high-purity spellcasting. This accessibility revolutionized battlefield tactics by providing enhanced capabilities to fighters rather than limiting advanced magical combat to dedicated mages.
+武器控制与其他战斗魔法的不同之处在于，它侧重于应用技术而不是理论掌握。 只有基本魔法天赋的战士可以通过严格的练习取得显著的成果，从而使其成为缺乏高纯度施法能力或意愿的人的首选战斗系统。 这种可访问性通过为战士提供增强的能力，而不是将高级魔法战斗限制于专业法师，从而彻底改变了战场战术。
 
-> *"Purity is a scholar's concern. In the crucible of battle, it is technique that divides the living from the dead. I have seen novices with perfect mana fail where veterans with practiced hands prevail."* — From "The Floating Edge," Arlan Vostel's training manual
+> *"纯度是学者关心的问题。 在战斗的熔炉中，是将生者与死者分开的技术。 我见过拥有完美法力的新手失败，而经验丰富的退伍军人却通过实践的手而获胜。"* ——摘自阿兰·沃斯特尔的训练手册《漂浮的边缘》
 
-## Practical Notes
+## 实用笔记
 
-Weapon Control is particularly synergistic with weapons specially designed or enchanted for magical manipulation. Such weapons often feature balanced construction, resonant materials, or specific enchantments that reduce the mana cost of control.
+武器控制与专门设计或附魔用于魔法操控的武器特别具有协同作用。 这种武器通常具有平衡的结构、共振材料或特定的附魔，从而降低了控制的法力消耗。
 
-Many practitioners develop personalized movement patterns or "forms" that their controlled weapons follow, allowing for rapid deployment of complex maneuvers with minimal additional concentration once the base pattern is established.
+许多从业者会开发个性化的运动模式或“形式”，供其控制的武器遵循，从而可以在建立基本模式后以最少的额外注意力快速部署复杂的动作。
 
 ---
 
-*See also: [Force Vector](/codex/Magics/Spells/Utility/ForceVector.md), [Combat Magic Fundamentals](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [Telekinetic Applications](/codex/Magics/Spells/Utility/TelekineticApplications.md)* 
+*另请参阅： [力矢量](/codex/Magics/Spells/Utility/ForceVector.md), [战斗魔法基础](/codex/Magics/Spells/Combat/CombatMagicPrinciples.md), [念动应用](/codex/Magics/Spells/Utility/TelekineticApplications.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

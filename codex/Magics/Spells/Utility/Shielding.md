@@ -1,196 +1,200 @@
-# **Shielding**
+# **护盾术**
 
-> *"The first lesson of magical defense is not to strengthen your walls, but to understand that protection flows from within—like music, a shield is not merely a barrier, but a resonance that redirects the hostile symphony around you."*  
-> — Sentinel Ilyra Swiftshield, Arcane Defense Master
+> *"魔法防御的第一课不是加强你的墙壁，而是要理解保护源于内在——就像音乐一样，护盾不仅仅是一个屏障，而是一种共鸣，它会将敌意的交响乐重定向到你周围。"*
+> — 奥术防御大师，哨兵 伊莉拉·迅盾
 
-## Casting Information
-- **Difficulty**: Novice to Expert (depending on variant)
-- **Casting Time**: 1 second (basic shield), 2-3 seconds (advanced variants)
-- **Duration**: Concentration, up to 10 minutes (or until broken)
-- **Range**: Self or up to 30 feet (dependent on variant)
-- **Components**: Somatic, Verbal (optional enhancement)
+## 施法信息
+- **难度**: 新手到专家（取决于变体）
+- **施法时间**: 1秒（基础护盾），2-3秒（高级变体）
+- **持续时间**: 专注，最长10分钟（或直到破碎）
+- **范围**: 自身或最远30英尺（取决于变体）
+- **成分**: 姿势，语言（可选增强）
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 70%, Terramana 20% (stability), Aeromana 10% (flexibility)
-- **Purity Required**: Basic (20-35%) for personal shield, Refined (35-55%) for advanced variants
-- **Minimum Mana Capacity**: 15% (larger/stronger shields require greater capacity)
-- **Pattern Complexity**: Low to High (2-tier for basic shield, up to 5-tier for specialized variants)
-- **Resonance Frequency**: Defensive harmonic in the mid-protective spectrum
+## 技术细节
+- **法力类型分布**: 基础法力70%，土魔法力20%（稳定性），气魔法力10%（灵活性）
+- **纯度要求**: 基础（20-35%）用于个人护盾，精炼（35-55%）用于高级变体
+- **最低法力容量**: 15%（更大/更强的护盾需要更大的容量）
+- **模式复杂度**: 低到高（基础护盾为2层，专业变体最多为5层）
+- **共振频率**: 中等保护范围内的防御谐波
 
-## Core Principles
+## 核心原则
 
-Shielding converts mana into a semi-tangible protective field that deflects, absorbs, or nullifies incoming threats. Unlike purely physical barriers, magical shields operate through a resonance principle, creating a counter-frequency to disrupt hostile energies while allowing benign forces to pass through.
+护盾术将法力转化为半有形的保护场，可以偏转、吸收或消除来袭的威胁。与纯粹的物理屏障不同，魔法护盾通过共振原理运作，产生一种反频率，以扰乱敌对能量，同时允许良性力量通过。
 
-The foundational pattern establishes:
+基础模式建立：
 
-1. **Barrier Matrix**: The core protective field structure
-2. **Resonance Layer**: The component that identifies and counters threats
-3. **Stability Framework**: The support structure maintaining shield integrity
-4. **Energy Distribution Network**: The system dispersing impact forces
-5. **Permeability Control**: The optional component allowing selective filtering
+1. **屏障矩阵**: 核心保护场结构
+2. **共振层**: 识别和对抗威胁的组件
+3. **稳定性框架**: 维持护盾完整性的支撑结构
+4. **能量分配网络**: 分散冲击力的系统
+5. **渗透控制**: 允许选择性过滤的可选组件
 
-## Standard Variants
+## 标准变体
 
-### Personal Shield
-The fundamental protective barrier around the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (20-30%)
-- **Effect**: Creates a barrier absorbing physical and magical damage
-- **Typical Users**: All magic practitioners
-- **Applications**: Personal defense, training safety, emergency protection
+### 个人护盾
+施法者周围的基本保护屏障：
+- **难度**: 新手
+- **纯度要求**: 基础 (20-30%)
+- **效果**: 创建一个吸收物理和魔法伤害的屏障
+- **典型使用者**: 所有魔法从业者
+- **应用**: 个人防御、训练安全、紧急保护
 
-### Directed Shield
-A flat shield projected away from the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Creates a movable plane of protection to block specific threats
-- **Typical Users**: Battle Mages, Tactical Casters, Support Specialists
-- **Applications**: Protecting allies, blocking passages, deflecting projectiles
+### 定向护盾
+从施法者身上投射出的平面护盾：
+- **难度**: 中级
+- **纯度要求**: 精炼 (35-45%)
+- **效果**: 创建一个可移动的保护平面，以阻挡特定威胁
+- **典型使用者**: 战斗法师、战术施法者、支援专家
+- **应用**: 保护盟友、阻挡通道、偏转投射物
 
-### Bubble Shield
-Expands protection to cover multiple individuals:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (40-50%)
-- **Effect**: Creates dome or sphere protecting several targets
-- **Typical Users**: Group Leaders, Defensive Specialists, Protectors
-- **Applications**: Group protection, safe zones, mobile coverage during retreats
+### 气泡护盾
+扩展保护范围以覆盖多个个体：
+- **难度**: 中级
+- **纯度要求**: 精炼 (40-50%)
+- **效果**: 创建一个保护多个目标的圆顶或球体
+- **典型使用者**: 团队领袖、防御专家、保护者
+- **应用**: 团队保护、安全区、撤退期间的移动覆盖
 
-## Advanced Variants
+## 高级变体
 
-### Selective Filter Shield
-Allows specific elements or energies to pass through:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (55-65%)
-- **Effect**: Creates barriers permeable to chosen forces
-- **Typical Users**: Elemental Specialists, Advanced Practitioners
-- **Applications**: Allowing allies to attack through shields, environmental protection, selective filtering
+### 选择性过滤护盾
+允许特定元素或能量通过：
+- **难度**: 专家
+- **纯度要求**: 完美 (55-65%)
+- **效果**: 创建对选定力量可渗透的屏障
+- **典型使用者**: 元素专家、高级从业者
+- **应用**: 允许盟友通过护盾攻击、环境保护、选择性过滤
 
-### Reactive Shield
-Adapts to incoming threats automatically:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Shield analyzes and adapts to counter specific attacks
-- **Typical Users**: Duelists, Master Defenders, Elite Guards
-- **Applications**: Unknown threat protection, adaptive defense, magical counteraction
+### 反应护盾
+自动适应来袭的威胁：
+- **难度**: 专家
+- **纯度要求**: 完美 (60-70%)
+- **效果**: 护盾分析并适应以对抗特定攻击
+- **典型使用者**: 决斗者、防御大师、精英卫队
+- **应用**: 未知威胁保护、自适应防御、魔法对抗
 
-### Reflective Shield
-Returns energy to its source:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Redirects a portion of incoming energy back at attacker
-- **Typical Users**: Advanced Battle Mages, Specialist Defenders
-- **Applications**: Counterattack, energy conservation, deterrence
+### 反射护盾
+将能量返回到其来源：
+- **难度**: 大师
+- **纯度要求**: 完美 (65-75%)
+- **效果**: 将一部分来袭能量重定向回攻击者
+- **典型使用者**: 高级战斗法师、专业防御者
+- **应用**: 反击、能量守恒、威慑
 
-## Purity Influence on Effect
+## 纯度对效果的影响
 
-Mana purity directly affects shield strength, duration, and special properties:
+法力纯度直接影响护盾强度、持续时间和特殊属性：
 
-| Purity Level | Shield Strength | Absorption Capacity | Special Properties | Duration |
+| 纯度等级 | 护盾强度 | 吸收能力 | 特殊属性 | 持续时间 |
 |--------------|----------------|---------------------|-------------------|----------|
-| 20-35% | Basic protection, visible shield | 25-40% damage reduction | None | 1-3 minutes |
-| 35-55% | Enhanced durability, less visible | 40-60% damage reduction | Basic filtering, limited mobility | 3-5 minutes |
-| 55-70% | High resilience, nearly invisible | 60-80% damage reduction | Advanced filtering, reactive properties | 5-8 minutes |
-| 70%+ | Superior protection, completely invisible | 80-95% damage reduction | Full reflection capabilities, adaptation | 8-10+ minutes |
+| 20-35% | 基础保护，可见护盾 | 25-40% 伤害减免 | 无 | 1-3 分钟 |
+| 35-55% | 增强的耐用性，不太明显 | 40-60% 伤害减免 | 基础过滤，有限的移动性 | 3-5 分钟 |
+| 55-70% | 高弹性，几乎隐形 | 60-80% 伤害减免 | 高级过滤，反应属性 | 5-8 分钟 |
+| 70%+ | 卓越的保护，完全隐形 | 80-95% 伤害减免 | 完全反射能力，适应 | 8-10+ 分钟 |
 
-## Class-Specific Applications
+## 职业特定应用
 
-### Warrior Class
-- **Combat Shell**: Tight-fitting shield enhancing armor protection
-- **Breach Shield**: Forward-focused protection for charges
-- **Weapon Guard**: Selective shield protecting weapons from damage or tampering
-- **Footing Anchor**: Lower-body shield stabilizing position during combat
+### 战士职业
+- **战斗外壳**: 紧身护盾增强装甲保护
+- **突破护盾**: 前方集中的保护，用于冲锋
+- **武器守护**: 选择性护盾保护武器免受损坏或篡改
+- **立足点锚**: 下半身护盾在战斗中稳定位置
 
-### Rogue/Assassin Class
-- **Shadow Cloak**: Barely visible shield masking magical signature
-- **Impact Dampener**: Shield reducing sound and physical impacts
-- **Trace Obscurer**: Shield dispersing magical residue from activities
-- **Selective Barrier**: Allows weapons out but blocks incoming attacks
+### 盗贼/刺客职业
+- **暗影斗篷**: 几乎看不见的护盾掩盖魔法签名
+- **冲击阻尼器**: 护盾减少声音和物理冲击
+- **痕迹掩盖器**: 护盾分散活动产生的魔法残留物
+- **选择性屏障**: 允许武器外出，但阻止来袭攻击
 
-### Ranger Class
-- **Environmental Buffer**: Shield protecting from terrain hazards
-- **Arrow Screen**: Specialized shield allowing outgoing projectiles while blocking incoming ones
-- **Companion Guard**: Projectable shield to protect animal companions
-- **Sensory Shield**: Protection against sensory overload or manipulation
+### 游侠职业
+- **环境缓冲**: 保护免受地形危害的护盾
+- **箭矢屏幕**: 允许射出投射物，同时阻挡来袭投射物的专用护盾
+- **伙伴守护**: 可投射护盾以保护动物伙伴
+- **感官护盾**: 防止感官超载或操纵
 
-### Mage Class
-- **Concentration Sphere**: Shield blocking distractions during complex casting
-- **Spell Containment**: Barrier keeping volatile magic effects controlled
-- **Mana Conservation Bubble**: Shield recycling leaked mana back to caster
-- **Layered Defense**: Multiple specialized shields for comprehensive protection
+### 法师职业
+- **专注球体**: 护盾阻挡复杂施法过程中的干扰
+- **法术容器**: 屏障控制挥发性魔法效果
+- **法力守恒气泡**: 护盾将泄漏的法力回收给施法者
+- **分层防御**: 多个专用护盾用于全面保护
 
-## Training Progression
+## 训练进展
 
-### Fundamental Shielding
-- Energy projection and containment exercises
-- Barrier visualization and manifestation
-- Basic impact absorption techniques
-- Shield maintenance under minor stress
+### 基础护盾术
+- 能量投射和遏制练习
+- 屏障可视化和显现
+- 基础冲击吸收技术
+- 轻微压力下的护盾维护
 
-### Intermediate Applications
-- Moving and repositioning shields while maintaining integrity
-- Extending protection to others
-- Shaping shields for specific tactical situations
-- Efficiency training for reduced mana consumption
+### 中级应用
+- 在保持完整性的同时移动和重新定位护盾
+- 将保护范围扩大到其他人
+- 塑造护盾以适应特定的战术情况
+- 提高效率以减少法力消耗的训练
 
-### Advanced Mastery
-- Reactive shield programming
-- Multi-layer shield construction
-- Energy reflection and redirection
-- Integrating shields with other magical effects
+### 高级掌握
+- 反应护盾编程
+- 多层护盾结构
+- 能量反射和重定向
+- 将护盾与其他魔法效果整合
 
-## Risk Factors
+## 风险因素
 
-### Common Mishaps
-- **Shield Inversion**: Protection directed inward, trapping the caster
-- **Resonance Cascade**: Shield amplifying rather than blocking energy
-- **Pattern Collapse**: Sudden shield failure under stress
-- **Mana Drain Spiral**: Excessive energy consumption depleting caster
-- **Brittleness**: Shield shattering rather than absorbing impact
+### 常见事故
+- **护盾反转**: 保护向内引导，困住施法者
+- **共振级联**: 护盾放大而不是阻挡能量
+- **模式崩溃**: 压力下护盾突然失效
+- **法力消耗螺旋**: 过度的能量消耗耗尽施法者
+- **脆性**: 护盾破碎而不是吸收冲击
 
-### Safety Practices
-- Regular shield strength testing under controlled conditions
-- Practicing emergency shield dissolution techniques
-- Developing shield layers with independent failure points
-- Training with gradually increasing threat levels
-- Establishing personal shield limitations
+### 安全措施
+- 在受控条件下定期进行护盾强度测试
+- 练习紧急护盾消解技术
+- 开发具有独立故障点的护盾层
+- 以逐渐增加的威胁等级进行训练
+- 建立个人护盾限制
 
-## Shield Variations by Threat Type
+## 按威胁类型划分的护盾变体
 
-### Physical Protection
-Shields specialized against material threats:
-- **Impact Shields**: Absorb kinetic energy from blunt force
-- **Penetration Barriers**: Resist piercing from arrows, blades
-- **Friction Dampeners**: Reduce damage from abrasive forces
-- **Pressure Equalizers**: Protect against crushing or explosive forces
+### 物理保护
+专门针对物质威胁的护盾：
+- **冲击护盾**: 吸收钝力造成的动能
+- **穿透屏障**: 抵抗箭矢、刀刃的穿刺
+- **摩擦阻尼器**: 减少磨损力造成的损害
+- **压力均衡器**: 防止挤压或爆炸力
 
-### Energy Defense
-Shields tailored to magical and elemental threats:
-- **Thermal Barriers**: Insulate against heat and cold
-- **Arcane Dispersal Fields**: Diffuse magical energy attacks
-- **Elemental Filters**: Specialized protection against specific elements
-- **Harmonic Dampeners**: Neutralize sound-based or vibrational attacks
+### 能量防御
+针对魔法和元素威胁量身定制的护盾：
+- **热屏障**: 隔离热量和寒冷
+- **奥术驱散场**: 扩散魔法能量攻击
+- **元素过滤器**: 专门针对特定元素的保护
+- **谐波阻尼器**: 消除基于声音或振动的攻击
 
-### Status Protection
-Shields against non-damaging magical effects:
-- **Mind Wards**: Protect against mental intrusion or influence
-- **Curse Barriers**: Repel malicious enchantments
-- **Transmutation Inhibitors**: Prevent unwanted transformative effects
-- **Temporal Stabilizers**: Shield against time manipulation
+### 状态保护
+针对非伤害性魔法效果的护盾：
+- **心灵防护**: 防止精神入侵或影响
+- **诅咒屏障**: 击退恶意附魔
+- **转变抑制剂**: 防止不希望的转变效果
+- **时间稳定器**: 防御时间操纵
 
-## Historical Development
+## 历史发展
 
-Shielding magic represents one of the oldest and most fundamental protective arts, dating back to the Dawn Era when early mages sought defense against both natural and supernatural threats. The Arcane Sentinels of the Second Age formalized the art into distinct disciplines, establishing the foundational patterns still used today.
+护盾魔法代表最古老和最基本的保护艺术之一，可以追溯到黎明纪元，当时早期的法师寻求防御自然和超自然威胁。第二纪元的奥术哨兵将这门艺术正式化为不同的学科，建立了今天仍在使用的基础模式。
 
-The Mage Wars saw explosive development in shielding techniques as practitioners sought ever more effective defenses against increasingly powerful offensive magic. Modern shielding draws heavily from the innovations of Ilyra Swiftshield, whose revolutionary understanding of resonance patterns transformed shields from mere barriers into dynamic, responsive defenses.
+法师战争见证了护盾技术的爆炸性发展，从业者寻求针对日益强大的进攻魔法的更有效的防御。现代护盾术大量借鉴了伊莉拉·迅盾的创新，她对共振模式的革命性理解将护盾从单纯的屏障转变为动态、响应迅速的防御。
 
-> *"A novice creates a wall. An adept creates a filter. A master creates a conversation between energies—the shield does not fight the incoming force, but rather invites it to flow elsewhere."* — From "Dialogues on Defense," Ilyra Swiftshield's premier text
+> *"新手创造一堵墙。能手创造一个过滤器。大师创造能量之间的对话——护盾不会对抗来袭的力量，而是邀请它流向其他地方。"* — 来自伊莉拉·迅盾的首部著作《论防御的对话》
 
-## Practical Notes
+## 实用笔记
 
-Shield spells are often among the first defensive magic taught to novices, as even imperfect shields provide valuable protection during training. Many practitioners develop highly personalized shielding techniques, adapting the basic patterns to their specific needs and mana characteristics.
+护盾法术通常是新手学习的第一批防御魔法之一，因为即使是不完善的护盾也能在训练期间提供有价值的保护。许多从业者开发了高度个性化的护盾技术，根据他们的特定需求和法力特性调整基本模式。
 
-The most advanced shield masters can maintain multiple layered defenses simultaneously, each calibrated to different threat types, creating a comprehensive protective system that approaches true invulnerability—though at significant mana cost.
+最先进的护盾大师可以同时维持多个分层防御，每个防御都针对不同的威胁类型进行校准，从而创建一个接近真正无懈可击的综合保护系统——尽管代价是消耗大量的法力。
 
 ---
 
-*See also: [Barrier Magic](/codex/Magics/Schools/Abjuration.md), [Defensive Fundamentals](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Combat Countermeasures](/codex/Magics/Spells/Combat/CombatCountermeasures.md)* 
+*另请参见：[屏障魔法](/codex/Magics/Schools/Abjuration.md)，[防御基础](/codex/Magics/Spells/Utility/DefensiveFundamentals.md)，[战斗对策](/codex/Magics/Spells/Combat/CombatCountermeasures.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,155 +1,159 @@
-# **Minor Illusion**
+# **次级幻象**
 
-> *"Reality is but a canvas awaiting the illusion artist's touch."*  
-> — Mirala Shadowweaver, Illusion Grandmaster
+> *"现实不过是一张等待幻象艺术家润色的画布。"*
+> — 米拉拉·影织，幻象大师
 
-## Casting Information
-- **Difficulty**: Novice
-- **Casting Time**: 2 seconds
-- **Duration**: Concentration, up to 5 minutes
-- **Range**: Within 15 feet
-- **Components**: Somatic, Verbal
+## 施法信息
+- **难度**：新手
+- **施法时间**：2秒
+- **持续时间**：专注，最长5分钟
+- **范围**：15英尺内
+- **成分**：姿势，言语
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 60%, Umbramana 30%, Luxmana 10%
-- **Purity Required**: Basic (15-25%)
-- **Minimum Mana Capacity**: 15% (Higher capacity extends possible duration and area)
-- **Pattern Complexity**: Simple (3-tier matrix)
-- **Resonance Frequency**: Mid-range sensory spectrum
-- **Specialization Efficiency Required**: 40%+ (Novice level)
-- **Wild Mana Tolerance**: Up to 15% residual content
+## 技术细节
+- **魔力类型分布**：基础魔力60%，影魔力30%，光魔力10%
+- **所需纯度**：基础（15-25%）
+- **最低魔力容量**：15%（更高容量可延长持续时间和面积）
+- **模式复杂度**：简单（三层矩阵）
+- **共振频率**：中程感官频谱
+- **所需专业化效率**：40%+ (新手级别)
+- **野性魔力容忍度**：高达15%的残留含量
 
-## Mana Mechanics
+## 魔力机制
 
-### Base Mana Function
-The Base Mana component (60%) provides:
-- Structural framework for the illusion pattern
-- Stability and duration maintenance
-- Connection to the caster's concentration
-- Boundary definition and spatial anchoring
+### 基础魔力功能
+基础魔力成分（60%）提供：
+- 幻象模式的结构框架
+- 稳定性和持续时间维护
+- 与施法者的专注连接
+- 边界定义和空间锚定
 
-### Umbramana Function
-The Shadow mana component (30%) contributes:
-- Visual/sensory obscuration capabilities
-- Reality distortion properties
-- Light/perception manipulation
-- Concealment of the magical nature of the effect
+### 影魔力功能
+阴影魔力成分（30%）贡献：
+- 视觉/感官遮蔽能力
+- 现实扭曲属性
+- 光/感知操纵
+- 隐藏效果的魔法本质
 
-### Luxmana Function
-The Light mana component (10%) provides:
-- Visual clarity and detail enhancement
-- Sensory precision and definition
-- Reality mimicry qualities
-- Observer connection hooks
+### 光魔力功能
+光魔力成分（10%）提供：
+- 视觉清晰度和细节增强
+- 感官精度和定义
+- 现实模仿品质
+- 观察者连接钩
 
-### Specialization Process
-The caster must successfully:
-1. Draw Base Mana from internal reserves
-2. Transform approximately 40% of this Base Mana into specialized forms
-3. Maintain the correct proportional balance (60:30:10)
-4. Establish the harmonics between opposing elements (Umbramana and Luxmana)
+### 专业化过程
+施法者必须成功地：
+1. 从内部储备中汲取基础魔力
+2. 将大约40%的这种基础魔力转化为特殊形式
+3. 保持正确的比例平衡 (60:30:10)
+4. 建立对立元素（影魔力和光魔力）之间的谐波
 
-## Pattern Structure
+## 模式结构
 
-The spell consists of four primary pattern elements forming a sensory projection matrix:
+该法术由四个主要模式元素组成，形成一个感官投射矩阵：
 
-1. **Image Seed**: The core visualization pattern that establishes the illusion's foundation
-2. **Sensory Projection**: The pattern component that projects the illusion into physical space
-3. **Boundary Frame**: Defines the spatial limitations and edges of the illusion
-4. **Perception Hook**: The subtle pattern that connects the illusion to observers' senses
+1. **图像种子**: 建立幻象基础的核心可视化模式
+2. **感官投射**: 将幻象投射到物理空间中的模式组件
+3. **边界框架**: 定义幻象的空间限制和边缘
+4. **感知钩**: 将幻象连接到观察者感官的微妙模式
 
-## Practical Effect
+## 实际效果
 
-Minor Illusion creates a single sensory illusion within range:
-- A visual illusion no larger than a 5-foot cube
-- A sound emanating from a point in range (whisper to conversation volume)
-- A simple scent detectable within 10 feet
-- A minor tactile sensation (temperature change, light breeze, gentle touch)
+次级幻象在范围内创造一个单一的感官幻象：
+- 一个不大于5英尺立方体的视觉幻象
+- 一种从范围内一点发出的声音（耳语到对话音量）
+- 一种在10英尺内可检测到的简单气味
+- 一种轻微的触觉感觉（温度变化、微风、轻柔的触摸）
 
-The spell can create only one type of sensory effect at a time. The illusion has no physical substance and cannot cause damage, create light that illuminates areas, or produce sound loud enough to cause damage or be heard more than 100 feet away.
+该法术一次只能创造一种类型的感官效果。该幻象没有物理实体，不能造成伤害，不能产生照亮区域的光线，或者产生大到足以造成伤害或被100英尺以外的人听到的声音。
 
-## Purity Influence on Effect
+## 纯度对效果的影响
 
-The caster's mana purity directly affects the illusion's quality, believability, and stability:
+施法者的魔力纯度直接影响幻象的质量、可信度和稳定性：
 
-| Purity Level | Effect |
+| 纯度级别 | 效果 |
 |--------------|--------|
-| Below 10% | Casting typically fails; any resulting illusion appears as obvious magical energy with no coherent form |
-| 10-15% | Highly unstable illusion with visible fluctuations and mana "glitches"; immediately recognizable as magical |
-| 15-25% | Standard illusion that appears realistic from a distance but lacks fine details and natural movement |
-| 25-35% | Enhanced illusion with improved details, more natural movement, and better sensory integration |
-| 35-45% | Refined illusion with convincing details that can withstand moderate scrutiny; subtle environmental interaction |
-| 50%+ | Nearly flawless illusion that can fool most observers without careful inspection; seamlessly adapts to environmental changes |
+| 低于10% | 施法通常失败；任何产生的幻象都表现为明显的魔法能量，没有连贯的形式 |
+| 10-15% | 高度不稳定的幻象，具有可见的波动和魔力“故障”；立即被识别为魔法 |
+| 15-25% | 从远处看显得逼真，但缺乏精细细节和自然运动的标准幻象 |
+| 25-35% | 细节得到改进，运动更自然，感官集成更好的增强幻象 |
+| 35-45% | 具有令人信服的细节，可以经受住适度审查的精细幻象；微妙的环境互动 |
+| 50%+ | 几乎完美的幻象，可以在没有仔细检查的情况下愚弄大多数观察者；无缝地适应环境变化 |
 
-Higher purity also extends potential duration, reduces concentration strain, and minimizes the risk of Wild Mana contamination which can cause unintended sensory effects to bleed into the illusion.
+更高的纯度还可以延长潜在的持续时间，减少专注压力，并最大限度地降低野性魔力污染的风险，这会导致意外的感官效果渗入幻象。
 
-## Mana Capacity Effects
+## 魔力容量影响
 
-The caster's Mana Capacity influences the spell in several ways:
+施法者的魔力容量会以多种方式影响该法术：
 
-| Capacity Level | Duration Effect | Size/Range Effect | Quality Effect |
+| 容量级别 | 持续时间效果 | 大小/范围效果 | 质量效果 |
 |----------------|-----------------|-------------------|----------------|
-| 15-25% | Basic duration (up to 5 minutes) | Standard range (15 feet) | Standard quality |
-| 25-40% | Extended duration (up to 10 minutes) | Increased range (20 feet) | Minor detail enhancement |
-| 40-60% | Long duration (up to 20 minutes) | Extended range (25 feet) | Significant detail enhancement |
-| 60%+ | Sustained duration (up to 30 minutes) | Maximum range (30 feet) | Maximum detail potential |
+| 15-25% | 基本持续时间（最多5分钟） | 标准范围（15英尺） | 标准质量 |
+| 25-40% | 延长持续时间（最多10分钟） | 增加范围（20英尺） | 少量细节增强 |
+| 40-60% | 长持续时间（最多20分钟） | 延长范围（25英尺） | 显着细节增强 |
+| 60%+ | 持续持续时间（最多30分钟） | 最大范围（30英尺） | 最大细节潜力 |
 
-## Common Applications
+## 常见应用
 
-- **Distraction**: Creating sounds or visual distractions to divert attention
-- **Concealment**: Masking small objects or features with illusory coverings
-- **Communication**: Displaying simple messages or warnings
-- **Entertainment**: Creating pleasant visuals or sounds for amusement
-- **Ambiance**: Enhancing environments with appropriate sensory elements
-- **Pranks**: Harmless tricks and surprises (heavily discouraged in academic settings)
+- **分散注意力**：创造声音或视觉干扰来转移注意力
+- **隐藏**：用虚幻的覆盖物遮盖小物体或特征
+- **沟通**：显示简单的消息或警告
+- **娱乐**：创造令人愉悦的视觉效果或声音来娱乐
+- **氛围**：用适当的感官元素增强环境
+- **恶作剧**：无害的把戏和惊喜（在学术环境中强烈不鼓励）
 
-## Variations
+## 变体
 
-| Variation | Effect | Mana Requirements |
+| 变体 | 效果 | 魔力需求 |
 |-----------|--------|-------------------|
-| **Silent Image** | Visual illusion only, but with enhanced detail | 65% Base Mana, 25% Umbramana, 10% Luxmana |
-| **Whisper** | Sound-only version with greater range (30 feet) | 70% Base Mana, 20% Umbramana, 10% Aeromana |
-| **Phantom Scent** | Olfactory illusion with increased intensity | 60% Base Mana, 25% Umbramana, 15% Vitamana |
-| **Ghost Touch** | Tactile illusion with more complex sensation | 55% Base Mana, 35% Umbramana, 10% Terramana |
-| **Persistent Image** | Lasts without concentration for 1 minute | 50% Base Mana, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ purity required |
-| **Dual Sense** | Combines two sensory effects simultaneously | 45% Base Mana, 35% Umbramana, 20% Luxmana; 35%+ purity and 20%+ capacity required |
+| **无声图像** | 仅视觉幻象，但具有增强的细节 | 65% 基础魔力，25% 影魔力，10% 光魔力 |
+| **耳语** | 具有更大范围的声音版本（30英尺） | 70% 基础魔力，20% 影魔力，10% 风魔力 |
+| **幽灵气味** | 气味幻象，强度增加 | 60% 基础魔力，25% 影魔力，15% 生命魔力 |
+| **幽灵触摸** | 具有更复杂感觉的触觉幻象 | 55% 基础魔力，35% 影魔力，10% 大地魔力 |
+| **持久图像** | 没有专注的情况下持续1分钟 | 50% 基础魔力，25% 影魔力，15% 光魔力，10% 时间魔力; 需要 25%+ 纯度 |
+| **双重感官** | 同时结合两种感官效果 | 45% 基础魔力，35% 影魔力，20% 光魔力; 需要 35%+ 纯度和 20%+ 容量 |
 
-## Risks and Miscast Effects
+## 风险和施法失败的影响
 
-| Risk | Effect | Cause |
+| 风险 | 效果 | 原因 |
 |------|--------|-------|
-| **Sensory Bleed** | Unintended secondary sensory effects | Imprecise specialization, Base Mana deficiency |
-| **Pattern Collapse** | Illusion dissipates prematurely | Insufficient concentration, unstable Base Mana framework |
-| **Perception Lock** | Caster temporarily experiences the illusion as real | Wild Mana contamination above 15%, improper Umbramana balance |
-| **Sensory Echo** | Illusion repeats at random intervals after dismissal | Improper spell termination, excess Chronomana resonance |
-| **Detail Drift** | Illusion details gradually change without caster input | Purity below 15% or Wild Mana interference with Luxmana component |
-| **Reality Distortion** | Caster's perception of real sensory input becomes temporarily distorted | Critical purity shortage (below 10%), excessive Umbramana specialization |
+| **感官出血** | 意外的次要感官效果 | 不精确的专业化，基础魔力不足 |
+| **模式崩溃** | 幻象过早消散 | 专注不足，基础魔力框架不稳定 |
+| **感知锁定** | 施法者暂时将幻象体验为真实 | 野性魔力污染超过15%，影魔力平衡不当 |
+| **感官回声** | 幻象在解除后以随机间隔重复 | 不正确的法术终止，过量的时间魔力共振 |
+| **细节漂移** | 幻象细节在没有施法者输入的情况下逐渐改变 | 纯度低于15%或野性魔力干扰光魔力成分 |
+| **现实扭曲** | 施法者对真实感官输入的感知暂时扭曲 | 关键的纯度短缺（低于10%），过度的影魔力专业化 |
 
-## Elemental Interactions
+## 元素交互
 
-Minor Illusion demonstrates several important elemental principles:
+次级幻象展示了几个重要的元素原则：
 
-1. **Balanced Opposition**: The controlled tension between Umbramana (shadow) and Luxmana (light) creates the realistic visual quality
-2. **Base Mana Framework**: The high proportion of Base Mana (60%) provides stability for the inherently unstable combination of opposed elements
-3. **Harmonic Resonance**: The specific 60:30:10 ratio creates a resonance pattern that mimics natural sensory frequencies
-4. **Specialization Gradient**: The spell uses partially specialized Umbramana and Luxmana rather than pure forms, allowing more subtle effects
+1. **平衡对立**: 影魔力 (阴影) 和光魔力 (光) 之间的受控张力创造了逼真的视觉质量
+2. **基础魔力框架**: 高比例的基础魔力 (60%) 为固有不稳定对立元素组合提供稳定性
+3. **谐波共振**: 特定的 60:30:10 比例创建一个模仿自然感官频率的共振模式
+4. **专业化梯度**: 该法术使用部分专业化的影魔力和光魔力，而不是纯形式，从而允许更微妙的效果
 
-## Musical Analogy
+## 音乐类比
 
-Casting Minor Illusion is like playing a simple melody that listeners can perceive but not interact with. The Base Mana forms the fundamental tone or "carrier note," while the Umbramana and Luxmana create the harmonics that give the illusion its character. The caster must maintain the rhythm (concentration) to keep the melody playing, while carefully balancing the various sensory "notes" to create a convincing performance. Wild Mana contamination introduces random discordant notes that diminish the performance quality.
+施放次级幻象就像演奏一段听众可以感知但不能与之互动的简单旋律。 基础魔力构成了基本音调或“载波音符”，而影魔力和光魔力则创造了使幻象具有特征的谐波。 施法者必须保持节奏（专注）以使旋律继续演奏，同时仔细平衡各种感官“音符”以创造令人信服的表演。 野性魔力污染引入了随机的不和谐音符，从而降低了表演质量。
 
-## Learning Progression
+## 学习进展
 
-1. **Base Mana Structure**: Learning to create and maintain the basic illusion framework
-2. **Umbramana Specialization**: Developing skill in shadow mana conversion for reality distortion
-3. **Luxmana Integration**: Adding light mana elements for detail and clarity
-4. **Harmonic Balancing**: Achieving the precise ratio of elements for stable illusions
-5. **Sensory Precision**: Refining the illusion to appear more realistic and detailed
-6. **Sustaining Focus**: Extending the duration through improved concentration
-7. **Purification Techniques**: Methods to reduce Wild Mana contamination for clearer illusions
+1. **基础魔力结构**: 学习创建和维护基本的幻象框架
+2. **影魔力专业化**: 培养阴影魔力转换为现实扭曲的技能
+3. **光魔力整合**: 添加光魔力元素以获得细节和清晰度
+4. **谐波平衡**: 实现元素的精确比例以获得稳定的幻象
+5. **感官精度**: 改进幻象以使其看起来更逼真和详细
+6. **维持专注**: 通过改进专注来延长持续时间
+7. **净化技术**: 减少野性魔力污染以获得更清晰幻象的方法
 
-## Historical Note
+## 历史记录
 
-Minor Illusion was developed by Mirala Shadowweaver during the Second Age as a teaching tool for apprentice illusionists. The spell's simple structure makes it an ideal introduction to perception manipulation, while its limited scope prevents dangerous applications. It remains one of the most commonly taught spells in magical academies across the realm.
+次级幻象由米拉拉·影织在第二纪元开发，作为幻术学徒的教学工具。 该法术的简单结构使其成为感知操纵的理想入门，而其有限的范围则防止了危险的应用。 它仍然是整个领域魔法学院中最常教授的法术之一。
 
-*See also: [Illusion School](/codex/Magics/Schools/Illusion.md), [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md)* 
+*另请参见：[幻象学派](/codex/Magics/Schools/Illusion.md), [基础魔力](/codex/Magics/Core/BaseMana.md), [魔力专业化](/codex/Magics/Core/ManaSpecialization.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

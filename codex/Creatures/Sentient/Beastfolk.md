@@ -1,105 +1,108 @@
-# **Beastfolk**: The Wild Spirits of Nature
+# **兽人**：自然的狂野灵魂
 
-[**Beastfolk**](/codex/Creatures/Beastfolk.md) are the wild spirits of nature, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a drum that echoes the heartbeat of the earth, they embody physical prowess and natural instincts, creating a unique melody of existence that emphasizes strength, agility, and connection to the natural world.
+[**兽人**](/codex/Creatures/Beastfolk.md)是自然的狂野灵魂，他们的身体是[**Exanthis**](/codex/Basic/Exanthis.md)、[**灵魂**](/codex/Basic/Soul.md)和**法力容量**的和谐融合。 就像一面回响着大地心跳的鼓，他们体现了身体上的力量和自然的本能，创造了一种独特的存在旋律，强调力量、敏捷和与自然世界的联系。
 
-## Elemental Composition
+## 元素构成
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **beastfolk** forms a harmony that favors physical prowess:
+正如 [生物](/codex/Creatures/Creatures.md) 中详细描述的那样，**兽人**的典型比例形成了一种偏爱身体力量的和谐：
 
-| Element | Range | Function |
-|---------|------------|----------|
-| **Exanthis** | 45-70% | The crystalline heart that provides exceptional physical strength and agility |
-| **Soul** | 10-25% | The ethereal essence that shapes an instinct-driven consciousness |
-| **Mana Capacity** | 15-40% | The bridge between worlds that enables primal magical adaptability |
+| 元素     | 范围    | 功能                                                                         |
+| -------- | ------- | ---------------------------------------------------------------------------- |
+| **Exanthis** | 45-70% | 提供卓越的身体力量和敏捷性的结晶核心                                                      |
+| **灵魂**   | 10-25% | 塑造由本能驱动的意识的以太本质                                                            |
+| **法力容量** | 15-40% | 连接世界的桥梁，使原始魔法具有适应性                                                      |
 
-This composition grants **beastfolk** their characteristic physical abilities but typically limits their magical adaptability compared to other species, like a powerful drum that produces strong rhythms but cannot play complex melodies.
+这种构成赋予了**兽人**其特有的身体能力，但通常限制了他们与其他物种相比的魔法适应性，就像一面能产生强烈节奏的强大鼓，却无法演奏复杂的旋律。
 
-### Individual Variations
+### 个体差异
 
-While the model composition represents the typical beastfolk, individual variations exist:
+虽然模型构成代表了典型的兽人，但个体差异确实存在：
 
-- **Alpha Specimens**: Some beastfolk possess Exanthis levels as high as 75%, making them among the physically strongest beings in existence, though often with minimal magical ability (10% Mana Capacity).
-- **Spirit Walkers**: Those with higher Soul percentages (up to 30%) develop exceptional connection to the spiritual realm and animal spirits, often becoming powerful shamans or spirit guides.
-- **Wild Mages**: Rare individuals have Mana Capacity approaching 45%, allowing them to channel primal magic with surprising effectiveness, though they may be less physically imposing (40% Exanthis).
-- **Balanced Beastfolk**: Some maintain a more balanced composition (45% Exanthis, 20% Soul, 35% Mana Capacity), allowing them to adapt to various roles within beastfolk society.
-- **Beast Champions**: A specialized composition of (60% Exanthis, 15% Soul, 25% Mana Capacity) creates beastfolk who can channel limited magic to enhance their already formidable physical abilities.
+- **Alpha 标本**：一些兽人拥有高达 75% 的 Exanthis 水平，使他们成为现存身体上最强大的生物之一，但通常魔法能力极小（10% 法力容量）。
+- **灵魂行者**：那些灵魂百分比较高（高达 30%）的人会与精神领域和动物灵魂建立非凡的联系，通常成为强大的萨满或精神向导。
+- **狂野法师**：罕见的个体拥有接近 45% 的法力容量，使他们能够以惊人的效率引导原始魔法，尽管他们的身体可能不那么强壮（40% Exanthis）。
+- **平衡兽人**：有些人保持更平衡的构成（45% Exanthis，20% 灵魂，35% 法力容量），使他们能够适应兽人社会中的各种角色。
+- **野兽冠军**：一种专门的构成（60% Exanthis，15% 灵魂，25% 法力容量）创造了兽人，他们可以引导有限的魔法来增强他们已经非常强大的身体能力。
 
-## Physical Characteristics
+## 身体特征
 
-**Beastfolk** are known for their diverse forms and animalistic features:
-- Humanoid bodies with animal characteristics specific to their lineage
-- Enhanced senses that far surpass those of [**humans**](/codex/Creatures/Human.md)
-- Natural weapons such as claws, fangs, or horns
-- Fur, scales, or feathers that provide natural protection
-- Tails that express emotion and aid in balance
+**兽人**以其多样化的形态和动物特征而闻名：
+- 具有特定于其血统的动物特征的类人生物
+- 远远超过[**人类**](/codex/Creatures/Human.md)的增强感官
+- 天然武器，如爪子、毒牙或角
+- 提供天然保护的毛皮、鳞片或羽毛
+- 表达情感并有助于平衡的尾巴
 
-The specific animal traits vary widely among different beastfolk lineages, creating a rich tapestry of forms that reflect the diversity of the natural world.
+不同的兽人血统之间的具体动物特征差异很大，创造了一种丰富的形式挂毯，反映了自然世界的多样性。
 
-## Physical Affinity
+## 身体亲和力
 
-**Beastfolk** demonstrate exceptional proficiency in physical abilities, like virtuoso athletes who have mastered their bodies. Their composition allows them to:
-- Develop extraordinary strength, speed, and agility, like the finest specimens of their animal kin
-- Enhance their natural senses to superhuman levels, like predators honed by evolution
-- Adapt to various environments with remarkable efficiency, like creatures perfectly suited to their habitats
+**兽人**在身体能力方面表现出非凡的熟练程度，就像掌握了自己身体的技艺高超的运动员。 他们的构成使他们能够：
+- 发展出非凡的力量、速度和敏捷性，就像他们动物同类中最优秀的标本一样
+- 将他们的自然感官提升到超人水平，就像进化磨练出的掠食者一样
+- 以卓越的效率适应各种环境，就像完美适应其栖息地的生物一样
 
-This physical prowess makes **beastfolk** capable of achieving feats that other species can only dream of, though they may struggle with tasks requiring fine manipulation or complex thought, like a powerful singer who cannot read music.
+这种身体力量使**兽人**能够实现其他物种只能梦想的壮举，尽管他们可能难以完成需要精细操作或复杂思考的任务，就像一位强大的歌手无法阅读乐谱。
 
-## Lifespan and Soul Decay
+## 寿命和灵魂衰变
 
-The **soul decay** timeline for **beastfolk**, from birth to complete decay, is approximately 200 years, like a torch burning steadily through the night. This moderate lifespan allows them to:
-- Develop deep connections to their territories and animal kin
-- Form stable societies with strong traditions
-- Pass down knowledge through generations
+**兽人**的**灵魂衰变**时间线，从出生到完全衰变，大约为 200 年，就像一支在夜间稳定燃烧的火炬。 这种适度的寿命使他们能够：
+- 与他们的领地和动物同类建立深厚的联系
+- 形成具有强大传统的稳定社会
+- 将知识代代相传
 
-However, their moderate soul decay also means they must balance the need for immediate action with long-term planning, like a musician who must both feel the rhythm and plan the performance.
+然而，他们适度的灵魂衰变也意味着他们必须在立即行动的需要与长期计划之间取得平衡，就像一位音乐家必须既感受节奏又计划表演一样。
 
-## Habitat and Distribution
+## 栖息地和分布
 
-**Beastfolk** primarily inhabit:
-- Wild territories and untamed lands, where their natural abilities are most advantageous
-- Diverse environments ranging from forests to deserts, each lineage adapted to its specific habitat
-- Border regions between civilization and wilderness, where they can maintain their independence
+**兽人**主要居住在：
+- 狂野的领土和未驯服的土地，他们的自然能力最有利
+- 从森林到沙漠的各种环境，每个血统都适应其特定的栖息地
+- 文明与荒野之间的边界地区，他们可以在那里保持独立性
 
-These locations provide ideal environments for physical development and connection to nature, like a stage perfectly suited to their performance.
+这些地点为身体发展和与自然的联系提供了理想的环境，就像一个完美适合他们表演的舞台。
 
-## Cultural Impact
+## 文化影响
 
-In the world of **OpenFantasy**, **beastfolk** play a crucial role in maintaining the balance between civilization and nature, like guardians of the wild melodies. Their societies are centers of:
-- Physical prowess and martial skill
-- Environmental harmony and natural wisdom
-- Tribal traditions and communal bonds
+在 **OpenFantasy** 的世界中，**兽人**在维持文明与自然之间的平衡方面发挥着至关重要的作用，就像狂野旋律的守护者。 他们的社会是以下方面的中心：
+- 身体力量和武术技巧
+- 环境和谐与自然智慧
+- 部落传统和公共纽带
 
-The connection to their animal kin has shaped beastfolk culture around respect for strength, courage, and loyalty, creating a society where physical ability and honor are highly valued.
+与他们动物同类的联系塑造了兽人文化，围绕着对力量、勇气和忠诚的尊重，创造了一个身体能力和荣誉受到高度重视的社会。
 
-## Relationship with Other Species
+## 与其他物种的关系
 
-**Beastfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their disconnect from nature
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and honor
-- With **Fae**: A wary relationship, as beastfolk are less susceptible to fae enchantments
+**兽人**与其他物种保持着复杂的关系：
+- 与[**人类**](/codex/Creatures/Human.md)：既尊重他们的适应性，又对他们与自然的脱节感到沮丧
+- 与 **精灵**：保持着尊重的距离，承认他们的魔法力量，但觉得他们的方式很奇怪
+- 与 **矮人**：基于相互尊重力量和荣誉的务实联盟
+- 与 **妖精**：谨慎的关系，因为兽人不太容易受到妖精的魅惑
 
-These relationships are often characterized by a sense of pride in their physical abilities and connection to nature, as **beastfolk** view themselves as the true children of the wild.
+这些关系的特点通常是对他们的身体能力和与自然的联系感到自豪，因为**兽人**认为自己是真正的荒野之子。
 
-## Notable Beastfolk Traits
+## 著名的兽人特质
 
-- **Physical Mastery**: Beastfolk excel in physical abilities, often surpassing other species in strength, speed, and agility
-- **Environmental Adaptation**: Each lineage is perfectly adapted to its specific habitat
-- **Enhanced Senses**: Beastfolk possess senses that far exceed those of other humanoid species
-- **Natural Weapons**: Many beastfolk possess natural weapons that make them formidable even without tools
-- **Animal Kinship**: Beastfolk share a deep connection with their animal kin, often able to communicate with them
+- **身体精通**：兽人擅长身体能力，通常在力量、速度和敏捷性方面超过其他物种
+- **环境适应**：每个血统都完美地适应其特定的栖息地
+- **增强的感官**：兽人拥有的感官远远超过其他类人物种
+- **天然武器**：许多兽人都拥有天然武器，即使没有工具也能让他们变得强大
+- **动物亲缘关系**：兽人与他们的动物同类有着深厚的联系，通常能够与他们交流
 
-## Beastfolk Lineages
+## 兽人血统
 
-The term "beastfolk" encompasses numerous lineages, each with its own unique characteristics:
+“兽人”一词包含众多血统，每个血统都有其独特的特征：
 
-| Lineage | Animal Traits | Habitat | Notable Abilities |
-|---------|---------------|---------|-------------------|
-| **Wolfkin** | Wolf features, enhanced smell | Forests, tundras | Pack tactics, tracking |
-| **Catfolk** | Cat features, enhanced night vision | Jungles, urban areas | Stealth, agility |
-| **Bearfolk** | Bear features, immense strength | Mountains, forests | Raw power, intimidation |
-| **Birdfolk** | Bird features, hollow bones | Mountains, coastal cliffs | Flight, keen eyesight |
-| **Lizardfolk** | Reptile features, scales | Deserts, swamps | Heat resistance, regeneration |
-| **Fishfolk** | Fish features, gills | Oceans, lakes | Underwater breathing, swimming |
+| 血统    | 动物特征            | 栖息地     | 显著能力         |
+| ------- | ------------------- | -------- | ---------------- |
+| **狼族** | 狼的特征，增强的嗅觉   | 森林、苔原   | 包围战术，追踪      |
+| **猫族** | 猫的特征，增强的夜视能力 | 丛林、市区   | 隐身，敏捷        |
+| **熊族** | 熊的特征，巨大的力量   | 山脉、森林   | 原始力量，恐吓      |
+| **鸟族** | 鸟的特征，中空的骨骼   | 山脉、沿海悬崖 | 飞行，敏锐的视力    |
+| **蜥蜴人** | 爬行动物的特征，鳞片   | 沙漠、沼泽   | 耐热性，再生      |
+| **鱼人** | 鱼的特征，鳃        | 海洋、湖泊   | 水下呼吸，游泳      |
 
-Understanding the nature of **beastfolk** provides insight into the physical aspects of the world of **OpenFantasy**, like feeling the primal rhythms that pulse through the wild places of the world. 
+了解**兽人**的本质可以深入了解 **OpenFantasy** 世界的物理方面，就像感受到在世界的狂野地方跳动的原始节奏。
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

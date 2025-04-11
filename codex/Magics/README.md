@@ -1,174 +1,178 @@
-# **OpenFantasy Magic System**
+# **OpenFantasy 魔法系统**
 
-## Directory Structure
+## 目录结构
 
 ```
 codex/Magics/
-├── Core/                            # Fundamental magic concepts
-│   ├── Magic.md                     # Overview of magic system
-│   ├── MagicCasting.md              # The practical art of magical manipulation
-│   ├── ManaMechanics.md             # Technical details of mana function
-│   ├── ManaPurity.md                # Mana quality and purification
-│   ├── ManaRegeneration.md          # Recovery of magical potential
-│   └── WildMana.md                  # Primordial magical energy
+├── Core/                            # 基础魔法概念
+│   ├── Magic.md                     # 魔法系统概览
+│   ├── MagicCasting.md              # 魔法操作的实用艺术
+│   ├── ManaMechanics.md             # 玛娜功能的详细技术信息
+│   ├── ManaPurity.md                # 玛娜质量和提纯
+│   ├── ManaRegeneration.md          # 魔法潜力的恢复
+│   └── WildMana.md                  # 原始魔法能量
 │
-├── Effects/                         # Impact and consequences
-│   ├── WildManaEffects.md           # Dangers of Wild Mana exposure
-│   ├── EnhancementBuffs.md          # Amplifiers of magical potential
-│   └── ElementalEffects.md          # Elemental magic consequences
+├── Effects/                         # 影响和结果
+│   ├── WildManaEffects.md           # 暴露于原始玛娜的危险
+│   ├── EnhancementBuffs.md          # 魔法潜力的放大器
+│   └── ElementalEffects.md          # 元素魔法的后果
 │
-├── Schools/                         # Major magical disciplines
-│   ├── Evocation.md                 # Channeling energy for direct effects
-│   ├── Abjuration.md                # Protective and warding magic
-│   ├── Divination.md                # Information gathering and foresight
-│   ├── Enchantment.md               # Influencing minds and enhancing objects
-│   ├── Illusion.md                  # Manipulating perception
-│   └── Conjuration.md               # Creating and summoning
+├── Schools/                         # 主要魔法学科
+│   ├── Evocation.md                 # 引导能量以产生直接影响
+│   ├── Abjuration.md                 # 保护和守护魔法
+│   ├── Divination.md                 # 信息收集和预知
+│   ├── Enchantment.md                 # 影响思维和增强物体
+│   ├── Illusion.md                  # 操纵感知
+│   └── Conjuration.md                 # 创建和召唤
 │
-├── Elements/                        # Elemental forces
-│   ├── ElementalMagic.md            # Fundamental harmonies of creation
-│   ├── FireMagic.md                 # Flame and heat manipulation
-│   ├── WaterMagic.md                # Liquid, ice, and vapor control
-│   ├── EarthMagic.md                # Stone, crystal, and soil mastery
-│   ├── AirMagic.md                  # Wind and atmospheric command
-│   ├── LightMagic.md                # Illumination and radiance
-│   └── ShadowMagic.md               # Darkness and concealment
+├── Elements/                        # 元素力量
+│   ├── ElementalMagic.md            # 创造的基本和谐
+│   ├── FireMagic.md                 # 火焰和热量操纵
+│   ├── WaterMagic.md                # 液体、冰和蒸汽控制
+│   ├── EarthMagic.md                # 石头、水晶和土壤精通
+│   ├── AirMagic.md                  # 风和大气控制
+│   ├── LightMagic.md                # 照明和光辉
+│   └── ShadowMagic.md               # 黑暗和隐藏
 │
-├── Spells/                          # Specific spell documentation
-│   ├── README.md                    # Spell classification system
-│   ├── Elemental/                   # Element-based spells
-│   ├── Divination/                  # Information-gathering spells
-│   ├── Protection/                  # Defensive spells
-│   ├── Utility/                     # Practical everyday spells
-│   └── Illusion/                    # Perception-altering spells
+├── Spells/                          # 具体法术文档
+│   ├── README.md                    # 法术分类系统
+│   ├── Elemental/                   # 基于元素的法术
+│   ├── Divination/                  # 信息收集法术
+│   ├── Protection/                  # 防御法术
+│   ├── Utility/                     # 实用日常法术
+│   └── Illusion/                    # 感知改变法术
 │
-└── Advanced/                        # Higher-level magical concepts
-    ├── Rituals/                     # Complex multi-caster magic
-    ├── MagicalCreation/             # Creating magical objects
-    ├── SoulMagic/                   # Working with spiritual essence
-    └── Metaphysics/                 # Theoretical magical principles
+└── Advanced/                        # 高级魔法概念
+    ├── Rituals/                     # 复杂的多施法者魔法
+    ├── MagicalCreation/             # 创建魔法物品
+    ├── SoulMagic/                   # 使用灵魂本质
+    └── Metaphysics/                 # 理论魔法原理
 ```
 
-## Quick Navigation
+## 快速导航
 
-### Fundamental Concepts
-- [Magic Overview](/codex/Magics/Core/Magic.md) - Basic principles and terminology
-- [Casting Process](/codex/Magics/Core/MagicCasting.md) - How magic is performed
-- [Mana Mechanics](/codex/Magics/Core/ManaMechanics.md) - Technical aspects of magical energy
+### 基础概念
+- [魔法概览](/codex/Magics/Core/Magic.md) - 基本原理和术语
+- [施法过程](/codex/Magics/Core/MagicCasting.md) - 如何执行魔法
+- [玛娜机制](/codex/Magics/Core/ManaMechanics.md) - 魔法能量的技术方面
 
-### Practical Applications
-- [Spell Directory](/codex/Magics/Spells/README.md) - Catalog of known spells
-- [Enhancement Techniques](/codex/Magics/Effects/EnhancementBuffs.md) - Improving magical ability
-- [Elemental Manipulation](/codex/Magics/Elements/ElementalMagic.md) - Working with fundamental forces
+### 实际应用
+- [法术目录](/codex/Magics/Spells/README.md) - 已知法术的目录
+- [增强技术](/codex/Magics/Effects/EnhancementBuffs.md) - 提高魔法能力
+- [元素操纵](/codex/Magics/Elements/ElementalMagic.md) - 使用基本力量
 
-### Magical Disciplines
-- [Schools of Magic](/codex/Magics/Schools/) - Major magical traditions
-- [Elemental Forces](/codex/Magics/Elements/) - Elemental magic systems
-- [Advanced Practices](/codex/Magics/Advanced/) - Master-level magical concepts
+### 魔法学科
+- [魔法学院](/codex/Magics/Schools/) - 主要魔法传统
+- [元素力量](/codex/Magics/Elements/) - 元素魔法系统
+- [高级实践](/codex/Magics/Advanced/) - 大师级魔法概念
 
-## Magical Progression
+## 魔法进阶
 
-Practitioners typically follow this learning path:
+实践者通常遵循以下学习路径：
 
-1. **Fundamentals**: Understanding mana, basic purification, and simple patterns
-2. **Elemental Affinity**: Developing connection with elemental forces
-3. **School Specialization**: Focusing on one or more magical schools
-4. **Advanced Applications**: Combining techniques for complex effects
-5. **Mastery**: Developing unique magical expressions and innovations
+1. **基础**: 理解玛娜、基本提纯和简单模式
+2. **元素亲和**: 发展与元素力量的联系
+3. **学院专精**: 专注于一个或多个魔法学院
+4. **高级应用**: 结合技术以获得复杂效果
+5. **精通**: 发展独特的魔法表达和创新
 
-> *"Magic is not merely a collection of spells, but a living system of knowledge built upon fundamental principles that flow together like a grand symphony."* — Archmage Thalen Moonshadow
+> *"魔法不仅仅是法术的集合，而是一个建立在基本原理之上的知识生命系统，像一首宏伟的交响乐一样流动。"* — 大法师 Thalen Moonshadow
 
-## Overview
+## 概述
 
-Welcome to the OpenFantasy Magic System documentation. This repository contains a comprehensive framework for magic in the OpenFantasy world, blending systematic rules with thematic elements.
+欢迎来到 OpenFantasy 魔法系统文档。 此存储库包含 OpenFantasy 世界中魔法的综合框架，将系统规则与主题元素相结合。
 
-## Quick Navigation
+## 快速导航
 
-- [Fundamental Concepts](#fundamental-concepts)
-- [Key Documents](#key-documents)
-- [Spells](#spells)
-- [Magical Elements](#magical-elements)
-- [Enhancement and Progression](#enhancement-and-progression)
+- [基础概念](#fundamental-concepts)
+- [关键文档](#key-documents)
+- [法术](#spells)
+- [魔法元素](#magical-elements)
+- [增强和进阶](#enhancement-and-progression)
 
-## Fundamental Concepts
+## 基础概念
 
-The OpenFantasy magic system is built on these core principles:
+OpenFantasy 魔法系统建立在以下核心原则之上：
 
-| Concept | Description |
+| 概念 | 描述 |
 |---------|-------------|
-| **Mana** | The fundamental magical energy that powers all spells |
-| **Purity** | The refinement of mana, determining spell effectiveness |
-| **Capacity** | The amount of mana a caster can hold and channel |
-| **Resonance** | The harmonic properties of magical energies |
-| **Pattern** | The structured form that shapes mana into specific effects |
+| **玛娜 (Mana)** | 驱动所有法术的基本魔法能量 |
+| **纯度 (Purity)** | 玛娜的提纯，决定法术效果 |
+| **容量 (Capacity)** | 施法者可以持有和引导的玛娜量 |
+| **共鸣 (Resonance)** | 魔法能量的和谐特性 |
+| **模式 (Pattern)** | 将玛娜塑造成特定效果的结构化形式 |
 
-## Key Documents
+## 关键文档
 
-| Document | Content |
+| 文档 | 内容 |
 |----------|---------|
-| [Magic.md](/codex/Magics/Core/Magic.md) | Overview of magical theory and practice |
-| [MagicCasting.md](/codex/Magics/Core/MagicCasting.md) | Detailed explanation of the spellcasting process |
-| [ManaPurity.md](/codex/Magics/Core/ManaPurity.md) | The refinement of magical energy |
-| [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) | The eight primary elements and their properties |
-| [EnhancementBuffs.md](/codex/Magics/Effects/EnhancementBuffs.md) | Magical effects that enhance a caster's abilities |
-| [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md) | Technical details connecting capacity, purity, and spell requirements |
+| [Magic.md](/codex/Magics/Core/Magic.md) | 魔法理论与实践概述 |
+| [MagicCasting.md](/codex/Magics/Core/MagicCasting.md) | 施法过程的详细解释 |
+| [ManaPurity.md](/codex/Magics/Core/ManaPurity.md) | 魔法能量的提纯 |
+| [ElementalMagic.md](/codex/Magics/Elements/ElementalMagic.md) | 八种主要元素及其属性 |
+| [EnhancementBuffs.md](/codex/Magics/Effects/EnhancementBuffs.md) | 增强施法者能力的魔法效果 |
+| [ManaMechanics.md](/codex/Magics/Core/ManaMechanics.md) | 连接容量、纯度和法术要求的技术细节 |
 
-## Spells
+## 法术
 
-The [Spells directory](/codex/Magics/Spells/) contains documentation for specific magical effects, organized by category:
+[法术目录](/codex/Magics/Spells/) 包含特定魔法效果的文档，按类别组织：
 
-- **Elemental**: Manipulation of the eight primary elements
-- **Utility**: Practical magic for everyday tasks
-- **Protection**: Defensive and warding magic
-- **Divination**: Information-gathering and perception-enhancing magic
-- **Illusion**: Perception-altering magic
-- **Enchantment**: Object and being enhancement
-- **Transformation**: Physical alterations
-- **Summoning**: Calling entities and objects
+- **元素 (Elemental)**：操纵八种主要元素
+- **实用 (Utility)**：用于日常任务的实用魔法
+- **保护 (Protection)**：防御和守护魔法
+- **预言 (Divination)**：信息收集和感知增强魔法
+- **幻觉 (Illusion)**：感知改变魔法
+- **附魔 (Enchantment)**：物体和生命增强
+- **变形 (Transformation)**：物理改变
+- **召唤 (Summoning)**：召唤实体和物体
 
-→ See the [Spells README](/codex/Magics/Spells/README.md) for detailed information.
+→ 有关详细信息，请参见 [法术 README](/codex/Magics/Spells/README.md)。
 
-## Magical Elements
+## 魔法元素
 
-The OpenFantasy world recognizes eight primary elements arranged in complementary pairs:
+OpenFantasy 世界认可八种主要元素，以互补对形式排列：
 
-| Element | Opposed Element | Associated Mana |
+| 元素 | 相反元素 | 相关玛娜 |
 |---------|-----------------|-----------------|
-| Fire | Water | Pyromana |
-| Water | Fire | Hydromana |
-| Earth | Air | Terramana |
-| Air | Earth | Aeromana |
-| Light | Shadow | Luxmana |
-| Shadow | Light | Umbramana |
-| Life | Death | Vitaemana |
-| Death | Life | Mortismana |
+| 火 (Fire) | 水 (Water) | Pyromana |
+| 水 (Water) | 火 (Fire) | Hydromana |
+| 土 (Earth) | 气 (Air) | Terramana |
+| 气 (Air) | 土 (Earth) | Aeromana |
+| 光 (Light) | 影 (Shadow) | Luxmana |
+| 影 (Shadow) | 光 (Light) | Umbramana |
+| 生命 (Life) | 死亡 (Death) | Vitaemana |
+| 死亡 (Death) | 生命 (Life) | Mortismana |
 
-Base Mana serves as the foundation for all magical workings, with elemental mana types adding specific properties.
+基础玛娜 (Base Mana) 是所有魔法运作的基础，元素玛娜类型添加了特定属性。
 
-## Enhancement and Progression
+## 增强和进阶
 
-Character advancement in magical ability follows several paths:
+角色在魔法能力方面的提升遵循以下几种途径：
 
-1. **Capacity Development**: Increasing the amount of mana a character can hold
-2. **Purification Skill**: Improving the quality of mana a character can produce
-3. **Pattern Complexity**: Learning more intricate spell structures
-4. **Elemental Attunement**: Developing affinity with specific elements
-5. **Specialization**: Focusing on particular magical disciplines
+1. **容量发展 (Capacity Development)**：增加角色可以持有的玛娜量
+2. **提纯技能 (Purification Skill)**：提高角色可以产生的玛娜质量
+3. **模式复杂性 (Pattern Complexity)**：学习更复杂的法术结构
+4. **元素协调 (Elemental Attunement)**：发展与特定元素的亲和力
+5. **专精 (Specialization)**：专注于特定的魔法学科
 
-Enhancement buffs can temporarily boost these abilities beyond natural limits.
+增强 Buffs 可以暂时将这些能力提升到超出自然限制。
 
-## Musical Framework
+## 音乐框架
 
-Magic in OpenFantasy is conceptualized through musical analogies:
+OpenFantasy 中的魔法通过音乐类比进行概念化：
 
-- **Spellcasting** resembles playing a musical composition
-- **Mana Purification** is like tuning an instrument
-- **Multi-element magic** functions like chord progressions
-- **Ritual magic** operates as a magical orchestra
-- **Magical resonance** behaves according to harmonic principles
+- **施法 (Spellcasting)** 类似于演奏音乐作品
+- **玛娜提纯 (Mana Purification)** 就像调整乐器
+- **多元素魔法 (Multi-element magic)** 的功能类似于和弦进行
+- **仪式魔法 (Ritual magic)** 的运作就像一个魔法管弦乐队
+- **魔法共鸣 (Magical resonance)** 的行为符合谐波原理
 
-This thematic element reinforces the systematic nature of magic while providing intuitive understanding.
+这个主题元素强化了魔法的系统性，同时提供了直观的理解。
 
 ---
 
-> **Repository Structure**: This documentation uses Markdown formatting optimized for viewing on Git platforms. 
+> **存储库结构 (Repository Structure)**：此文档使用针对在 Git 平台上查看而优化的 Markdown 格式。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

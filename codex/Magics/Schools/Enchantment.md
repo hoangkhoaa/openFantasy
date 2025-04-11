@@ -1,220 +1,224 @@
-# **The School of Enchantment**
+# **附魔学院**
 
-> *"To enchant is to weave your will into the fabric of reality itself—to create a bridge between intention and manifestation that persists beyond your presence."*  
-> — Lady Seraphina Moonweaver, Grandmaster of Persistent Magic
+> *"附魔是将你的意志编织到现实的结构中——创建一个意图和显化之间的桥梁，使其持久存在于你的存在之外。"*
+> — 瑟拉菲娜·月织女士，持久魔法大师
 
-## Overview
+## 概述
 
-Enchantment is the school of magic dedicated to imbuing objects, creatures, or places with persistent magical effects. Unlike temporary spells, enchantments create lasting changes in the magical properties of their targets, allowing effects to continue without the caster's ongoing attention. This school encompasses everything from creating magical items and protective wards to influencing minds and altering behavioral patterns. Enchantment is distinguished by its focus on durability and self-sustaining magical circuits that continue functioning independently.
+附魔是致力于将持久的魔法效果注入物体、生物或地点的魔法学院。与临时法术不同，附魔在目标的魔法属性中创造持久的变化，允许效果在没有施法者持续关注的情况下继续。这所学院涵盖了从创造魔法物品和防护结界到影响心灵和改变行为模式的一切。附魔的特点在于其对耐用性和能够独立运行的自我维持魔法回路的关注。
 
-## Fundamental Principles
+## 基本原则
 
-### The Principle of Persistent Resonance
+### 持久共鸣原则
 
-The foundation of enchantment is the Principle of Persistent Resonance, which states that magical energy can be bound into patterns that continuously resonate with their surroundings, creating self-sustaining magical effects. This requires the creation of closed magical circuits within the target that can maintain energy flow without constant external input.
+附魔的基础是持久共鸣原则，该原则指出魔法能量可以被绑定到持续与其周围环境共鸣的模式中，从而产生自我维持的魔法效果。这需要在目标内部创建闭合的魔法回路，该回路可以在没有持续外部输入的情况下维持能量流动。
 
-### Primary Components
+### 主要组件
 
-All enchantment spells incorporate several fundamental components:
+所有附魔法术都包含几个基本组件：
 
-1. **Pattern Foundation**: Establishing the base magical structure within the target
-2. **Energy Binding**: Securing magical energy into self-sustaining circuits
-3. **Resonance Stabilization**: Ensuring the enchantment maintains consistent effects
-4. **Trigger Mechanism**: Defining conditions for activation and deactivation
+1. **模式基础**：在目标内建立基本的魔法结构
+2. **能量绑定**：将魔法能量固定到自我维持的回路中
+3. **共鸣稳定**：确保附魔保持一致的效果
+4. **触发机制**：定义激活和停用的条件
 
-More complex enchantments include additional components:
+更复杂的附魔包括额外的组件：
 
-5. **Power Regulation**: Controlling the strength and intensity of the magical effect
-6. **Pattern Integration**: Harmonizing the enchantment with the target's natural properties
-7. **Conditional Variance**: Creating adaptable responses to different circumstances
-8. **Temporal Anchoring**: Securing the enchantment against degradation over time
+5. **功率调节**：控制魔法效果的强度和强度
+6. **模式集成**：协调附魔与目标的自然属性
+7. **条件方差**：为不同的情况创建适应性反应
+8. **时间锚定**：保护附魔免受时间的推移而退化
 
-### Mana Requirements
+### 法力需求
 
-Enchantment requires specific combinations of mana types, with varying levels of purity based on complexity and duration:
+附魔需要特定类型的法力组合，其纯度水平因复杂性和持续时间而异：
 
-| Enchantment Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| 附魔类型 | 主要法力 | 次要法力 | 第三级法力 | 目的 |
 |-----------------|-------------|----------------|---------------|---------|
-| Temporary (1-7 days) | Base Mana (25-35%) | Effect-specific (15-25%) | N/A | Short-duration effects |
-| Standard (1-12 months) | Base Mana (35-45%) | Effect-specific (25-35%) | Stability mana (10-20%) | Common magical items |
-| Extended (1-10 years) | Base Mana (45-55%) | Effect-specific (35-45%) | Stability mana (20-30%) | Quality enchanted objects |
-| Semi-Permanent (10-100 years) | Base Mana (55-65%) | Effect-specific (45-55%) | Stability mana (30-40%) | Heirloom items, wards |
-| Permanent (100+ years) | Base Mana (65-75%) | Effect-specific (55-65%) | Stability mana (40-50%) | Artifacts, ancient sites |
+| 临时（1-7天） | 基础法力 (25-35%) | 效果特定 (15-25%) | N/A | 短期效果 |
+| 标准（1-12个月） | 基础法力 (35-45%) | 效果特定 (25-35%) | 稳定法力 (10-20%) | 常见的魔法物品 |
+| 扩展（1-10年） | 基础法力 (45-55%) | 效果特定 (35-45%) | 稳定法力 (20-30%) | 优质附魔物品 |
+| 半永久（10-100年） | 基础法力 (55-65%) | 效果特定 (45-55%) | 稳定法力 (30-40%) | 传家宝，结界 |
+| 永久（100年以上） | 基础法力 (65-75%) | 效果特定 (55-65%) | 稳定法力 (40-50%) | 艺术品，古代遗址 |
 
-### Wild Mana Response
+### 野性法力响应
 
-Enchantment magic has a complex relationship with Wild Mana, which can both strengthen and destabilize existing enchantments:
+附魔法术与野性法力有着复杂的关系，它可以加强和破坏现有的附魔：
 
-- **Power Amplification**: Increasing the strength or range of enchanted effects
-- **Duration Extension**: Prolonging the lifespan of temporary enchantments
-- **Spontaneous Activation**: Triggering dormant enchantments without normal conditions
-- **Effect Evolution**: Causing enchantments to develop new or enhanced capabilities
+- **力量放大**：增加附魔效果的强度或范围
+- **持续时间延长**：延长临时附魔的寿命
+- **自发激活**：在没有正常条件的情况下触发休眠的附魔
+- **效果进化**：导致附魔发展出新的或增强的能力
 
-However, these potential benefits carry substantial risks:
+然而，这些潜在的好处也带来相当大的风险：
 
-- **Pattern Destabilization**: Enchantments becoming erratic or unpredictable
-- **Effect Warping**: Original enchantment purpose becoming distorted
-- **Resonance Cascade**: Multiple enchantments interfering with each other
-- **Binding Dissolution**: Complete breakdown of the magical binding
+- **模式不稳定**：附魔变得不稳定或不可预测
+- **效果扭曲**：原始附魔的目的变得扭曲
+- **共鸣级联**：多个附魔相互干扰
+- **绑定溶解**：魔法绑定的完全崩溃
 
-## Mana Purification for Enchantment
+## 附魔的法力净化
 
-The longevity and stability of enchantments depend directly on mana purity:
+附魔的寿命和稳定性直接取决于法力纯度：
 
-| Purification Level | Enchantment Capability |
+| 净化等级 | 附魔能力 |
 |--------------------|------------------------|
-| Basic (15-25%) | Temporary enchantments lasting days to weeks |
-| Intermediate (30-45%) | Standard enchantments lasting months to a few years |
-| Advanced (50-65%) | Extended enchantments lasting years to decades |
-| Master (70-80%) | Semi-permanent enchantments lasting generations |
-| Grandmaster (85%+) | Permanent enchantments with potential to last centuries |
+| 基础 (15-25%) | 持续数天到数周的临时附魔 |
+| 中级 (30-45%) | 持续数月到几年的标准附魔 |
+| 高级 (50-65%) | 持续数年到数十年的扩展附魔 |
+| 大师 (70-80%) | 持续几代的半永久附魔 |
+| 大宗师 (85%+) | 有可能持续几个世纪的永久附魔 |
 
-Insufficient purity in enchantment typically results in "fading"—enchantments that gradually weaken over time until they eventually dissipate completely, often with unpredictable effects during the degradation process.
+附魔中的纯度不足通常会导致“衰退”——附魔随着时间的推移逐渐减弱，直到它们最终完全消散，通常在退化过程中会产生不可预测的影响。
 
-## The Enchanter's Harmony
+## 附魔师的和谐
 
-Enchantment magic is conceptualized as a sustained musical composition, with each enchantment creating an ongoing magical melody:
+附魔法术被概念化为持续的音乐作品，每个附魔都创造了一个持续的魔法旋律：
 
-- **Ostinato**: The repeating base pattern that maintains the enchantment's core function
-- **Harmony**: The relationship between the enchantment and its physical vessel
-- **Dynamics**: The variation in power and effect under different conditions
-- **Crescendo and Diminuendo**: The activation and deactivation phases of the enchantment
-- **Counterpoint**: The interplay between multiple enchantments within a single object
+- **固定音型 (Ostinato)**：维持附魔核心功能的重复基础模式
+- **和谐 (Harmony)**：附魔与其物理容器之间的关系
+- **动态 (Dynamics)**：不同条件下功率和效果的变化
+- **渐强和渐弱 (Crescendo and Diminuendo)**：附魔的激活和停用阶段
+- **对位 (Counterpoint)**：单个对象中多个附魔之间的相互作用
 
-Master enchanters describe their work as "composing eternal melodies that play whether or not the musician remains."
+附魔大师将他们的工作描述为“创作永恒的旋律，无论音乐家是否留下。”
 
-## Specialized Disciplines
+## 专业学科
 
-### Artificing
+### 器物制造 (Artificing)
 
-The creation of magical items and tools with practical functions. Practitioners are known as Artificers.
+创造具有实用功能的魔法物品和工具。从业者被称为器物制造师 (Artificers)。
 
-### Wardcraft
+### 结界术 (Wardcraft)
 
-Focused on protective and boundary enchantments for locations and objects. Masters are called Wardmasters.
+专注于保护性和边界附魔，用于地点和物体。大师被称为结界大师 (Wardmasters)。
 
-### Runesmithing
+### 符文锻造 (Runesmithing)
 
-Specialized in the use of symbolic language to encode and stabilize enchantments. Practitioners are called Runesmiths.
+专门使用符号语言来编码和稳定附魔。从业者被称为符文锻造师 (Runesmiths)。
 
-### Mindweaving
+### 心灵编织 (Mindweaving)
 
-The enchantment of consciousness and thought patterns. Masters are known as Mindweavers.
+意识和思维模式的附魔。大师被称为心灵编织者 (Mindweavers)。
 
-### Ambienturgy
+### 周围魔法 (Ambienturgy)
 
-Creation of atmospheric and environmental enchantments affecting areas. Practitioners are called Ambienturges.
+创造影响区域的大气和环境附魔。从业者被称为周围魔法师 (Ambienturges)。
 
-### Soulbinding
+### 灵魂绑定 (Soulbinding)
 
-The controversial practice of binding spiritual essences to objects or locations. Masters are known as Soulbinders.
+将精神本质绑定到物体或地点的有争议的实践。大师被称为灵魂绑定者 (Soulbinders)。
 
-### Enchanted Architecture
+### 附魔建筑 (Enchanted Architecture)
 
-The integration of enchantments into buildings and structures. Practitioners are called Arcane Architects.
+将附魔融入建筑物和结构中。从业者被称为奥术建筑师 (Arcane Architects)。
 
-## Training Methodology
+## 培训方法
 
-Enchantment training follows a structured progression:
+附魔培训遵循结构化的进展：
 
-1. **Theoretical Foundations**: Understanding magical circuits and resonant patterns
-2. **Material Affinity Study**: Learning which substances best hold various enchantments
-3. **Temporary Enchanting**: Creating short-duration effects to master basic techniques
-4. **Circuit Design**: Developing efficient energy patterns for self-sustaining magic
-5. **Duration Extension**: Techniques for increasing enchantment longevity
-6. **Stability Enhancement**: Methods to protect enchantments from deterioration
-7. **Multiple Effect Integration**: Combining different magical functions harmoniously
-8. **Conditional Programming**: Creating enchantments that respond to specific triggers
+1. **理论基础**：理解魔法回路和共振模式
+2. **材料亲和力研究**：了解哪些物质最能容纳各种附魔
+3. **临时附魔**：创造短时间效果来掌握基本技术
+4. **电路设计**：为自我维持的魔法开发有效的能量模式
+5. **持续时间延长**：增加附魔寿命的技术
+6. **稳定性增强**：保护附魔免受劣化的方法
+7. **多重效果集成**：和谐地结合不同的魔法功能
+8. **条件编程**：创建对特定触发器做出响应的附魔
 
-Training emphasizes patience, precision, and meticulous attention to detail. Most enchantment students spend years mastering each level before progressing to the next.
+培训强调耐心、精确和对细节的一丝不苟。大多数附魔学生在进入下一阶段之前，会花数年时间掌握每个级别。
 
-## Enchantment in Practice
+## 附魔实践
 
-The process of creating an enchantment follows distinct phases:
+创造附魔的过程遵循不同的阶段：
 
-1. **Material Selection**: Choosing appropriate substances to hold the enchantment
-2. **Preparation Rituals**: Cleansing and preparing the target to receive magic
-3. **Mana Purification**: Achieving necessary purity for the desired duration
-4. **Circuit Inscription**: Creating the magical pathways within the target
-5. **Energy Infusion**: Charging the circuits with appropriate magical energy
-6. **Pattern Stabilization**: Securing the enchantment against degradation
-7. **Function Testing**: Verifying the enchantment works as intended
-8. **Final Sealing**: Closing the enchantment against external interference
+1. **材料选择**：选择合适的物质来容纳附魔
+2. **准备仪式**：清洁和准备目标以接受魔法
+3. **法力净化**：为所需的持续时间实现必要的纯度
+4. **电路铭刻**：在目标内创建魔法路径
+5. **能量注入**：用适当的魔法能量为电路充电
+6. **模式稳定**：保护附魔免受劣化
+7. **功能测试**：验证附魔是否按预期工作
+8. **最终密封**：关闭附魔以防止外部干扰
 
-For emergency or field enchantment, these steps may be condensed, though with significant sacrifices to duration and stability.
+对于紧急或现场附魔，这些步骤可能会被压缩，但会大大牺牲持续时间和稳定性。
 
-## Practical Applications
+## 实际应用
 
-Enchantment serves numerous practical functions in magical society:
+附魔在魔法社会中具有许多实际功能：
 
-- **Daily Convenience**: Self-cleaning objects, never-cold cups, ever-sharp blades
-- **Protection**: Wards against theft, fire, or magical attack
-- **Communication**: Message-carrying objects, distance-speaking devices
-- **Transportation**: Enhanced vehicles, flying carpets, seven-league boots
-- **Agriculture**: Weather-influencing tools, soil-enriching stones
-- **Medicine**: Healing amulets, pain-relieving charms, diagnostic instruments
-- **Architecture**: Self-repairing structures, temperature-regulating buildings
-- **Entertainment**: Toys, games, and recreational devices with magical properties
+- **日常便利**：自清洁物体、永不冷却的杯子、永远锋利的刀片
+- **保护**：防止盗窃、火灾或魔法攻击的结界
+- **通信**：携带消息的物体、远距离通话设备
+- **运输**：增强型车辆、飞毯、七里格靴
+- **农业**：影响天气的工具、富饶土壤的石头
+- **医学**：治疗护身符、缓解疼痛的护符、诊断仪器
+- **建筑**：自我修复的结构、调节温度的建筑物
+- **娱乐**：具有魔法属性的玩具、游戏和娱乐设备
 
-## Ethical Considerations
+## 伦理考虑
 
-Enchantment raises significant ethical questions:
+附魔提出了重要的伦理问题：
 
-- **Consent in Mind-Affecting Enchantments**: Boundaries of acceptable influence
-- **Dependency Issues**: Societies becoming reliant on enchanted solutions
-- **Knowledge Gatekeeping**: Access to enchantment techniques and materials
-- **Planned Obsolescence**: Creating enchantments designed to fail after certain periods
-- **Environmental Impact**: Effects of abandoned or failed enchantments on surrounding areas
-- **Cultural Preservation**: Traditional crafts displaced by enchanted alternatives
+- **影响心灵的附魔中的同意**：可接受影响的界限
+- **依赖问题**：社会变得依赖附魔解决方案
+- **知识守门**：获取附魔技术和材料的途径
+- **计划报废**：创建旨在在特定时期后失效的附魔
+- **环境影响**：废弃或失败的附魔对周围地区的影响
+- **文化保护**：被附魔替代品取代的传统工艺
 
-Most enchantment academies enforce strict ethical codes governing mind-affecting enchantments and potentially dangerous creations.
+大多数附魔学院都执行严格的伦理规范，管理影响心灵的附魔和潜在危险的创造物。
 
-## Limitations and Weaknesses
+## 局限性和弱点
 
-Despite its power, enchantment has inherent limitations:
+尽管附魔具有强大的力量，但它也有固有的局限性：
 
-- **Material Compatibility**: Not all substances accept enchantments equally well
-- **Energy Capacity**: Objects can only hold finite amounts of magical energy
-- **Interference Patterns**: Multiple enchantments may conflict or cancel each other
-- **Environmental Sensitivity**: Some enchantments degrade in specific conditions
-- **Resonance Drift**: Long-term enchantments may slowly shift in effect over time
-- **Recharge Requirements**: Many enchantments require periodic energy renewal
+- **材料兼容性**：并非所有物质都能同样好地接受附魔
+- **能量容量**：物体只能容纳有限数量的魔法能量
+- **干扰模式**：多个附魔可能会冲突或相互抵消
+- **环境敏感性**：某些附魔在特定条件下会退化
+- **共鸣漂移**：长期附魔的效果可能会随着时间的推移而缓慢变化
+- **充电要求**：许多附魔需要定期能量更新
 
-Common countermeasures against enchantment include:
+常见的针对附魔的对策包括：
 
-- **Disenchantment Spells**: Magic specifically designed to break enchantments
-- **Material Treatments**: Substances that resist magical binding
-- **Resonance Disruption**: Fields that interfere with enchantment functioning
-- **Thaumic Grounding**: Techniques to drain enchanted objects of power
-- **Detection Amulets**: Items that reveal the presence of hidden enchantments
+- **解除附魔法术**：专门设计用于打破附魔的魔法
+- **材料处理**：抵抗魔法绑定的物质
+- **共鸣中断**：干扰附魔功能的场
+- **魔法接地**：耗尽附魔物体能量的技术
+- **探测护身符**：揭示隐藏附魔存在的物品
 
-## Musical Analogy
+## 音乐类比
 
-In the musical framework of magic, enchantment represents stringed instruments—creating resonant tones that continue vibrating long after the initial pluck. The enchanter is like a harpist, setting up strings of magic that continue to play their melody independently.
+在魔法的音乐框架中，附魔代表弦乐器——创造出在最初的拨动之后持续振动的共鸣音调。附魔师就像一个竖琴演奏家，设置魔法弦，持续独立地演奏他们的旋律。
 
-Enchantment spells are described in terms of "resonance" and "harmony," with each successful enchantment requiring perfect tuning to its material vessel. Master enchanters can create "symphonies" of multiple interconnected enchantments that respond to each other like sections of an orchestra.
+附魔法术以“共鸣”和“和谐”来描述，每个成功的附魔都需要对其材料容器进行完美的调谐。附魔大师可以创造“交响曲”，即多个相互连接的附魔，它们像管弦乐队的各个部分一样相互响应。
 
-## Notable Practitioners
+## 著名从业者
 
-- **Seraphina Moonweaver**: Architect of modern enchantment theory and creator of the Perpetual Resonance Principle
-- **Thaddeus Runehand**: Legendary runesmith who developed the Integrated Circuit System of enchantment
-- **Lydia Soulstring**: Pioneer in ethical mindweaving and emotional enchantment
-- **Galen Wardwright**: Creator of the Concentric Defense system for layered protective enchantments
-- **Vasilisa Everforge**: Master artificer known for creating enchanted items that grow stronger with use
+- **瑟拉菲娜·月织**：现代附魔理论的架构师和永恒共鸣原则的创造者
+- **撒迪厄斯·符文手**：传奇的符文锻造师，他开发了附魔的集成电路系统
+- **莉迪亚·灵魂弦**：道德心灵编织和情感附魔的先驱
+- **加伦·结界师**：用于分层保护附魔的同心防御系统的创造者
+- **瓦西莉莎·永锻**：以创造随着使用而变得更强大的附魔物品而闻名的器物大师
 
-## Safety Protocols
+## 安全协议
 
-Due to the potential dangers of enchantment, standardized safety measures include:
+由于附魔的潜在危险，标准化的安全措施包括：
 
-- **Containment Circles**: Magical boundaries that limit effect spread during creation
-- **Resonance Dampeners**: Tools to slow or halt unstable enchantment processes
-- **Disenchantment Keys**: Built-in methods to safely deactivate enchantments
-- **Stability Monitors**: Devices that track enchantment integrity during creation
-- **Energy Limiters**: Safeguards preventing power overload in enchanted items
-- **Isolation Chambers**: Specialized rooms for testing potentially unstable enchantments
+- **遏制圆环**：在创造过程中限制效果蔓延的魔法边界
+- **共鸣阻尼器**：减缓或停止不稳定附魔过程的工具
+- **解除附魔钥匙**：安全停用附魔的内置方法
+- **稳定性监视器**：在创造过程中跟踪附魔完整性的设备
+- **能量限制器**：防止附魔物品能量过载的安全措施
+- **隔离室**：用于测试潜在不稳定附魔的专用房间
 
-The Enchanter's Oath, taken by all certified practitioners, includes the promise to "bind with purpose, not permanence; to enchant with foresight, not just desire; and to unmake what proves harmful, regardless of the cost or challenge."
+所有认证的从业者都宣誓就职的《附魔师誓言》包括承诺“以目的而非永恒约束；以远见而非仅以欲望附魔；并取消证明有害的事物，无论代价或挑战如何。”
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Harmonic Theory](/codex/Magics/HarmonicTheory.md)* 
+*另请参见： [法力净化](/codex/Magics/ManaMechanics.md), [野性法力](/codex/Magics/WildMana.md), [谐波理论](/codex/Magics/HarmonicTheory.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

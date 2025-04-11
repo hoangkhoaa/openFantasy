@@ -1,203 +1,207 @@
-# **Light Magic**: The Art of Illumination and Radiance
+# **光之魔法**：照亮与光辉的艺术
 
-> *"Light reveals truth, banishes darkness, and guides the way. It is not merely brightness, but clarity—the manifestation of understanding itself."* — Archluminomancer Elinor Dawnseeker
+> *"光揭示真理，驱散黑暗，指引道路。它不仅仅是亮度，更是清晰——理解本身的显现。"* — 大光术士 埃莉诺·晨曦追寻者
 
-## Quick Reference
-- [Properties of Luxmana](#properties-of-luxmana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 快速参考
+- [光素的属性](#properties-of-luxmana)
+- [操控技巧](#manipulation-techniques)
+- [常用法术](#common-spells)
+- [亲和力发展](#affinity-development)
+- [风险与保障](#risks-and-safeguards)
+- [文化意义](#cultural-significance)
 
-## Properties of Luxmana
+## 光素的属性
 
-Luxmana, the elemental mana of light, is characterized by:
+光素，光之元素法力，其特征在于：
 
-- **Appearance**: Golden, white, and prismatic hues; brilliant, radiant patterns that emanate outward
-- **Sensation**: Feels warm, clarifying, and energizing when channeled; creates a sense of weightlessness and focus
-- **Resonance**: High-frequency, pure vibration patterns with harmonic clarity
-- **Purification Challenge**: Already naturally pure but sensitive to emotional impurities; can become blinding if overpurified
-- **Opposite Element**: Shadow (creates twilight when forced together, ultimately dispels shadow)
-- **Complementary Elements**: Air (creates radiance), Fire (creates radiant flame)
-- **Musical Analogy**: Major key melodies, particularly stringed instruments; clear, resonant tones
+- **外观**：金色、白色和棱柱色的色调；向外散发的明亮、光芒四射的图案
+- **感觉**：引导时感觉温暖、清晰和充满活力；产生失重感和专注感
+- **共鸣**：具有和谐清晰度的高频、纯粹的振动模式
+- **净化挑战**：天生纯净但对情感杂质敏感；如果过度净化可能会变得刺眼
+- **对立元素**：阴影（强行结合时会产生暮光，最终驱散阴影）
+- **互补元素**：空气（产生光辉），火焰（产生光辉火焰）
+- **音乐类比**：大调旋律，尤其是弦乐器；清晰、共鸣的音调
 
-## Manipulation Techniques
+## 操控技巧
 
-### Basic Techniques
+### 基础技巧
 
-#### Illumination
-The foundational technique of creating and directing light:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Generates controlled light from magical energy
-- **Training Focus**: Brightness control and directional casting
-- **Applications**: Creating light sources, signal flares, revealing hidden writing
+#### 照明
+创造和引导光的基础技巧：
+- **难度**：新手
+- **纯度要求**：基础（15-25%）
+- **效果**：从魔法能量中产生可控的光
+- **训练重点**：亮度控制和定向施法
+- **应用**：创建光源、信号弹、揭示隐藏的文字
 
-#### Chromatic Manipulation
-Altering the color and quality of light:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Changes the wavelength and properties of light
-- **Training Focus**: Spectral selection and color purity
-- **Applications**: Color changing, mood enhancement, plant growth stimulation
+#### 色彩操控
+改变光的颜色和质量：
+- **难度**：新手到中级
+- **纯度要求**：基础到精炼（20-40%）
+- **效果**：改变光的波长和属性
+- **训练重点**：光谱选择和颜色纯度
+- **应用**：颜色变化、情绪增强、植物生长刺激
 
-#### Revelation
-Using light to reveal hidden information:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Illuminates magical effects, spiritual entities, or concealed objects
-- **Training Focus**: Light penetration and interaction with different energies
-- **Applications**: Detecting illusions, revealing enchantments, finding hidden objects
+#### 启示
+利用光来揭示隐藏的信息：
+- **难度**：中级
+- **纯度要求**：精炼（35-50%）
+- **效果**：照亮魔法效果、精神实体或隐藏的物体
+- **训练重点**：光的穿透和与不同能量的相互作用
+- **应用**：检测幻觉、揭示附魔、寻找隐藏的物体
 
-### Advanced Techniques
+### 高级技巧
 
-#### Photomantic Sculpting
-Creating and maintaining complex light structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms persistent light constructs with physical properties
-- **Training Focus**: Light solidification and structural integrity
-- **Applications**: Light bridges, defensive barriers, illuminated architecture
+#### 光影塑形
+创建和维持复杂的光结构：
+- **难度**：高级
+- **纯度要求**：精炼到完美（45-70%）
+- **效果**：形成具有物理特性的持久光结构
+- **训练重点**：光固化和结构完整性
+- **应用**：光桥、防御屏障、照明建筑
 
-#### Purification Radiance
-Using light to cleanse and purify:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Dispels negative energies, corruptions, and certain enchantments
-- **Training Focus**: Resonant harmony and dissonance cancellation
-- **Applications**: Consecration, curse removal, purifying corrupted areas
+#### 净化光辉
+利用光来清洁和净化：
+- **难度**：专家
+- **纯度要求**：完美（65-85%）
+- **效果**：驱散负能量、腐败和某些附魔
+- **训练重点**：谐波共振和不谐波消除
+- **应用**：祝圣、解除诅咒、净化腐败区域
 
-#### Light Embodiment
-Transforming physical matter into light:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (80-95%)
-- **Effect**: Converts matter (including the caster) partially into light energy
-- **Training Focus**: Matter-energy transition states
-- **Applications**: Rapid travel, passing through barriers, defensive phasing
+#### 光之化身
+将物理物质转化为光：
+- **难度**：大师
+- **纯度要求**：完美（80-95%）
+- **效果**：将物质（包括施法者）部分转化为光能
+- **训练重点**：物质-能量转变状态
+- **应用**：快速旅行、穿过障碍物、防御性相位
 
-## Common Spells
+## 常用法术
 
-### Novice Spells
+### 新手法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Light Orb** | Creates a floating sphere of illumination | Somatic | 1 second | 1 hour |
-| **Color Shift** | Changes the color of an existing light source | Somatic | 2 seconds | 10 minutes |
-| **Flash** | Creates a sudden burst of bright light | Somatic, Verbal | 1 second | Instantaneous |
-| **Light Script** | Creates glowing text in the air | Somatic, Verbal | 5 seconds | 30 minutes |
+| **光球** | 创建一个漂浮的发光球体 | 体势 | 1 秒 | 1 小时 |
+| **颜色转换** | 改变现有光源的颜色 | 体势 | 2 秒 | 10 分钟 |
+| **闪光** | 创建突然爆发的强光 | 体势、言语 | 1 秒 | 瞬时 |
+| **光之文字** | 在空中创建发光的文字 | 体势、言语 | 5 秒 | 30 分钟 |
 
-### Intermediate Spells
+### 中级法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Revealing Light** | Illuminates invisible objects or beings | Somatic, Verbal, Focus | 5 seconds | 10 minutes |
-| **Light Shield** | Creates a protective barrier of solid light | Somatic, Verbal | 3 seconds | Concentration |
-| **Prismatic Ray** | Projects a beam of light that can be adjusted to different colors | Somatic, Focus | 2 seconds | Concentration |
-| **Purifying Glow** | Cleanses a small area or object of minor corruption | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
+| **显形之光** | 照亮隐形的物体或生物 | 体势、言语、专注 | 5 秒 | 10 分钟 |
+| **光之盾** | 创建一道坚固的光的保护屏障 | 体势、言语 | 3 秒 | 专注 |
+| **棱镜射线** | 投射一道可以调整为不同颜色的光束 | 体势、专注 | 2 秒 | 专注 |
+| **净化之光** | 清洁小区域或物体上的轻微腐败 | 体势、言语、专注 | 30 秒 | 瞬时 |
 
-### Advanced Spells
+### 高级法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Daylight** | Creates intense natural-seeming light over a large area | Somatic, Verbal, Focus | 10 seconds | 1 hour |
-| **Light Construct** | Forms a semi-autonomous light entity | Somatic, Verbal, Focus | 1 minute | 30 minutes |
-| **Radiant Burst** | Releases a powerful flash of purifying energy | Somatic, Verbal, Focus | 5 seconds | Instantaneous |
-| **Photokinetic Leap** | Transforms caster briefly into light for rapid movement | Somatic, Verbal, Focus | 5 seconds | 3 seconds |
+| **日光** | 在大范围内创建强烈的自然光 | 体势、言语、专注 | 10 秒 | 1 小时 |
+| **光之构造体** | 形成一个半自主的光实体 | 体势、言语、专注 | 1 分钟 | 30 分钟 |
+| **光辉爆发** | 释放一股强大的净化能量闪光 | 体势、言语、专注 | 5 秒 | 瞬时 |
+| **光动跳跃** | 将施法者短暂转化为光，以便快速移动 | 体势、言语、专注 | 5 秒 | 3 秒 |
 
-## Affinity Development
+## 亲和力发展
 
-Light affinity progresses through several distinctive stages:
+光之亲和力通过几个独特的阶段发展：
 
-### Inner Spark
-The foundational relationship with light that most beginners possess:
-- **Manifestation**: Enhanced visual acuity, intuitive understanding of light conditions
-- **Physical Signs**: Slightly luminous eyes in darkness, minor light refraction around fingers
-- **Enhancement Method**: Regular meditation during dawn or dusk, particularly at solstices
+### 内在火花
+大多数初学者拥有的与光的根本关系：
+- **表现**：增强的视力敏锐度，对光照条件的直观理解
+- **身体迹象**：在黑暗中眼睛略微发光，手指周围有轻微的光折射
+- **增强方法**：在黎明或黄昏时定期冥想，尤其是在至日
 
-### Illuminated Mind
-The intermediate stage where light responds more readily to the mage's will:
-- **Manifestation**: Light bends subtly around the caster, enhanced color perception
-- **Physical Signs**: Skin develops a subtle glow during casting, hair captures and reflects light unusually well
-- **Enhancement Method**: Prism meditation, light sourcing exercises in varied conditions
+### 光明心灵
+光对法师意志反应更快的中间阶段：
+- **表现**：光微妙地弯曲在施法者周围，增强的颜色感知
+- **身体迹象**：施法期间皮肤会产生微妙的光芒，头发能异常地捕捉和反射光线
+- **增强方法**：棱镜冥想，在不同条件下进行光源练习
 
-### Radiant Harmony
-Advanced practitioners achieve a deep resonance with light's properties:
-- **Manifestation**: Emotions influence ambient light, ability to see magical auras naturally
-- **Physical Signs**: Eyes shift color based on magical activity, shadow cast may contain light patterns
-- **Enhancement Method**: Extended communion at sites of natural light phenomena or celestial importance
+### 光辉和谐
+高级从业者实现了与光特性的深刻共鸣：
+- **表现**：情绪影响环境光，能够自然地看到魔法灵气
+- **身体迹象**：眼睛根据魔法活动改变颜色，阴影可能包含光图案
+- **增强方法**：在自然光现象或具有重要天体意义的地点进行长时间的交流
 
-### Luminous Unity
-Master photomancers who have achieved profound connection with light:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of light without formal casting
-- **Physical Signs**: Body naturally emits soft light in darkness, blood appears to contain tiny luminous particles
-- **Enhancement Method**: Deep communion at ley line intersections with strong light resonance
+### 光辉合一
+与光实现了深刻联系的大师级光术士：
+- **表现**：部分转化能力，无需正式施法即可直观地操纵光
+- **身体迹象**：身体在黑暗中自然发出柔和的光，血液似乎含有微小的发光粒子
+- **增强方法**：在具有强烈光共振的能量线交汇处进行深刻的交流
 
-## Risks and Safeguards
+## 风险与保障
 
-### Common Risks
+### 常见风险
 
-- **Visual Overstimulation**: Damage to vision from excessive or improper light creation
-- **Perception Distortion**: Altered color perception or visual processing
-- **Energy Depletion**: Rapid exhaustion due to light's high energy requirements
-- **Photosensitivity**: Developing hypersensitivity to natural light
-- **Phase Instability**: Partial physical conversion to light during advanced techniques
+- **视觉过度刺激**：因过度或不当的光创造而造成的视力损害
+- **感知扭曲**：改变的颜色感知或视觉处理
+- **能量耗尽**：由于光的高能量需求而导致的快速疲惫
+- **光敏性**：对自然光产生过敏反应
+- **相位不稳定性**：在高级技巧中部分物理转化为光
 
-### Miscast Effects
+### 施法错误的影响
 
-| Severity | Effect | Recovery |
+| 严重程度 | 效果 | 恢复 |
 |----------|--------|----------|
-| **Minor** | Temporary afterimages, color blindness, excessive pupil dilation | Hours |
-| **Moderate** | Persistent light emission from skin, solar sensitivity, vision shifts | Days |
-| **Severe** | Sporadic transparency, intense light emissions, retinal damage | Weeks |
-| **Critical** | Uncontrolled phasing between material and light states, cellular instability | Months |
+| **轻微** | 暂时残影、色盲、瞳孔过度扩张 | 数小时 |
+| **中度** | 皮肤持续发光、太阳敏感度、视力转移 | 数天 |
+| **严重** | 间歇性透明、强烈的光辐射、视网膜损伤 | 数周 |
+| **危急** | 物质状态和光状态之间的不受控制的相位转换、细胞不稳定 | 数月 |
 
-### Safety Practices
+### 安全措施
 
-- **Visual Protection**: Specialized eyewear during practice and high-intensity casting
-- **Perception Grounding**: Regular exercises to maintain normal visual processing
-- **Energy Conservation**: Measured casting and appropriate rest between major workings
-- **Darkness Balance**: Regular exposure to darkness to offset light immersion
-- **Phase Anchoring**: Physical grounding techniques to maintain material form
+- **视觉保护**：在练习和高强度施法期间佩戴专用眼镜
+- **感知稳定**：定期进行练习以维持正常的视觉处理
+- **能量节约**：适量施法并在主要工作之间适当休息
+- **黑暗平衡**：定期暴露在黑暗中以抵消光浸入
+- **相位锚定**：物理接地技术以维持物质形态
 
-## Cultural Significance
+## 文化意义
 
-### Historical Development
+### 历史发展
 
-Light magic emerged early in human development, initially tied to solar worship and celestial observation. The development of photomancy followed three primary historical phases:
+光之魔法在人类发展的早期就出现了，最初与太阳崇拜和天体观测有关。 光影术的发展经历了三个主要的历史阶段：
 
-1. **Celestial Connection**: Cultures developing light magic through observation of sun, moon, and stars
-2. **Symbolic Illumination**: Religious and philosophical traditions connecting light to knowledge and revelation
-3. **Technical Manipulation**: Scientific advancement leading to understanding of light's properties and potential
+1. **天体联系**：通过观察太阳、月亮和星星来发展光之魔法的文化
+2. **象征性照明**：将光与知识和启示联系起来的宗教和哲学传统
+3. **技术操纵**：科学进步导致对光特性和潜力的理解
 
-### Regional Variations
+### 地区差异
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 焦点 | 标志性技术 | 哲学 |
 |---------|-------|---------------------|------------|
-| **Sun Kingdoms** | Solar magic, healing | Sun channeling, blessing rays | Light as the universal life-giver |
-| **Mountainfolk** | Clarity, revelation | Crystal focusing, snow illumination | Light as the revealer of truth |
-| **Forest Cultures** | Dappled light, growth | Leaf filtering, photosynthesis enhancement | Light as the nurturer of life |
-| **Desert Societies** | Heat management, water finding | Mirage creation, light filtration | Light as the balancer of extremes |
+| **太阳王国** | 太阳魔法、治疗 | 太阳通道、祝福光线 | 光是宇宙生命给予者 |
+| **山地民族** | 清晰、启示 | 水晶聚焦、雪地照明 | 光是真理的揭示者 |
+| **森林文化** | 斑驳的光、生长 | 树叶过滤、光合作用增强 | 光是生命的滋养者 |
+| **沙漠社会** | 热量管理、寻水 | 海市蜃楼创造、光过滤 | 光是极端事物的平衡者 |
 
-### Ceremonial Uses
+### 仪式用途
 
-Light magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young photomancers creating their first independent light source
-- **Solstice Celebrations**: Major light workings during solar astronomical events
-- **Blessing Ceremonies**: Light purification for new homes, children, or ventures
-- **Funeral Rites**: "Path illumination" rituals to guide departing souls
+光之魔法在许多文化仪式中占有重要地位：
+- **成人仪式**：年轻的光术士创造他们的第一个独立光源
+- **至日庆典**：在太阳天文事件期间进行主要的光工作
+- **祝福仪式**：为新家、儿童或企业进行光净化
+- **葬礼仪式**："路径照明"仪式以引导离去的灵魂
 
-### Contemporary Applications
+### 当代应用
 
-Beyond combat and utility applications, light magic serves important societal functions:
-- **Medical Practice**: Healing applications, particularly for mental and emotional disorders
-- **Agriculture**: Crop growth enhancement and seasonal extension
-- **Architecture**: Permanent illumination of public spaces and buildings
-- **Communications**: Signal systems and information transmission
-- **Art and Entertainment**: Spectacular visual displays and performances
+除了战斗和实用应用之外，光之魔法还具有重要的社会功能：
+- **医疗实践**：治疗应用，特别是针对精神和情绪障碍
+- **农业**：作物生长增强和季节延长
+- **建筑**：公共场所和建筑物的永久照明
+- **通信**：信号系统和信息传输
+- **艺术与娱乐**：壮观的视觉展示和表演
 
-> *"The student of light must remember that true illumination comes not from merely banishing darkness, but from revealing what was always there—merely waiting to be seen."* — The Photomancer's Codex
+> *"光之学生必须记住，真正的光明不仅仅来自驱散黑暗，而是来自揭示始终存在的事物——仅仅等待被看见。"* — 光术士法典
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Shadow Magic](/codex/Magics/Elements/ShadowMagic.md)* 
+*另请参见：[元素魔法](/codex/Magics/Elements/ElementalMagic.md), [火之魔法](/codex/Magics/Elements/FireMagic.md), [阴影魔法](/codex/Magics/Elements/ShadowMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,162 +1,166 @@
-# **Mana Mechanics**: The Technical Foundations of Spellcasting
+# **法力机制**：施法的技术基础
 
-In the world of OpenFantasy, successful spellcasting depends on the delicate interplay between a caster's Mana Capacity, their ability to achieve sufficient Mana Purity, and the specific Mana Type requirements of a spell. This technical foundation determines which spells a practitioner can reliably cast and explains why magical training progresses through increasingly complex and demanding workings.
+在 OpenFantasy 的世界中，成功的施法取决于施法者的法力容量、其达到足够法力纯度的能力以及法术的特定法力类型要求之间的微妙相互作用。 这种技术基础决定了施法者可以可靠地施放哪些法术，并解释了为什么魔法训练会通过越来越复杂和苛刻的运作而进步。
 
-## Mana Capacity and Spell Casting
+## 法力容量与法术施放
 
-A being's Mana Capacity represents their innate ability to hold and channel magical energy. This elemental component has several critical influences on spellcasting ability:
+一个生物的法力容量代表了他们保持和引导魔法能量的先天能力。 这种基本组成部分对施法能力有几个关键影响：
 
-### Storage Capacity
+### 储存容量
 
-| Mana Capacity | Maximum Mana Volume | Practical Effect |
+| 法力容量 | 最大法力体积 | 实际效果 |
 |---------------|---------------------|------------------|
-| 5-15% | Very Low | Can cast only the simplest spells, quickly depleted |
-| 15-30% | Low | Can handle basic spells and limited casting sessions |
-| 30-50% | Moderate | Can manage intermediate spells and moderate duration |
-| 50-70% | High | Can cast advanced spells and maintain multiple effects |
-| 70-85% | Very High | Can handle complex magical workings and extended sessions |
-| 85%+ | Exceptional | Can cast legendary spells and maintain persistent effects |
+| 5-15% | 非常低 | 只能施放最简单的法术，很快耗尽 |
+| 15-30% | 低 | 可以处理基本的法术和有限的施法会话 |
+| 30-50% | 中等 | 可以管理中级法术和中等持续时间 |
+| 50-70% | 高 | 可以施放高级法术并维持多种效果 |
+| 70-85% | 非常高 | 可以处理复杂的魔法运作和延长的会话 |
+| 85%+ | 卓越 | 可以施放传奇法术并维持持久效果 |
 
-### Regeneration Rate
+### 再生速率
 
-Mana Capacity also determines how quickly a caster recovers their magical energy:
+法力容量也决定了施法者恢复其魔法能量的速度：
 
-| Mana Capacity | Regeneration Rate | Recovery Time |
+| 法力容量 | 再生速率 | 恢复时间 |
 |---------------|-------------------|---------------|
-| 5-15% | Very Slow | 24+ hours for full recovery |
-| 15-30% | Slow | 12-24 hours for full recovery |
-| 30-50% | Moderate | 6-12 hours for full recovery |
-| 50-70% | Fast | 3-6 hours for full recovery |
-| 70-85% | Very Fast | 1-3 hours for full recovery |
-| 85%+ | Exceptional | Under 1 hour for full recovery |
+| 5-15% | 非常慢 | 24+ 小时才能完全恢复 |
+| 15-30% | 慢 | 12-24 小时才能完全恢复 |
+| 30-50% | 中等 | 6-12 小时才能完全恢复 |
+| 50-70% | 快 | 3-6 小时才能完全恢复 |
+| 70-85% | 非常快 | 1-3 小时才能完全恢复 |
+| 85%+ | 卓越 | 1 小时内即可完全恢复 |
 
-For more detailed information on regeneration techniques and factors, see [ManaRegeneration.md](/codex/Magics/ManaRegeneration.md).
+有关再生技术和因素的更多详细信息，请参见 [ManaRegeneration.md](/codex/Magics/ManaRegeneration.md)。
 
-## Mana Purity and Spell Effectiveness
+## 法力纯度与法术效力
 
-Raw [Wild Mana](/codex/Magics/WildMana.md) must be purified to be effectively used in spellcasting. Like refining ore into metal, this process transforms chaotic Wild Mana into controlled, refined mana types suitable for pattern formation.
+原始 [狂野法力](/codex/Magics/WildMana.md) 必须经过提纯才能有效地用于施法。 就像将矿石提炼成金属一样，这个过程将混乱的狂野法力转化为受控的、精炼的法力类型，适用于模式形成。
 
-### Purity Calculation
+### 纯度计算
 
-Purity is calculated using the formula:
+纯度使用以下公式计算：
 
 ```
-Purity Percentage = (Refined Mana) / (Refined Mana + Wild Mana) × 100%
+纯度百分比 = (精炼法力) / (精炼法力 + 狂野法力) × 100%
 ```
 
-This mathematical relationship explains why Wild Mana content inversely affects spell effectiveness.
+这种数学关系解释了为什么狂野法力含量会反过来影响法术的有效性。
 
-### Purity Levels
+### 纯度等级
 
-| Purity Level | Percentage | Wild Mana Content | Difficulty to Achieve |
+| 纯度等级 | 百分比 | 狂野法力含量 | 达成难度 |
 |--------------|------------|-------------------|----------------------|
-| **Crude** | 0-10% | 90-100% | Minimal training required |
-| **Basic** | 10-35% | 65-90% | Basic training (1-2 years) |
-| **Refined** | 35-65% | 35-65% | Intermediate training (3-5 years) |
-| **Superior** | 65-85% | 15-35% | Advanced training (6-10 years) |
-| **Perfect** | 85-100% | 0-15% | Master training (10+ years) |
+| **粗糙** | 0-10% | 90-100% | 仅需最少的训练 |
+| **基本** | 10-35% | 65-90% | 基本训练 (1-2 年) |
+| **精炼** | 35-65% | 35-65% | 中级训练 (3-5 年) |
+| **优异** | 65-85% | 15-35% | 高级训练 (6-10 年) |
+| **完美** | 85-100% | 0-15% | 大师训练 (10+ 年) |
 
-### Mana Capacity and Maximum Achievable Purity
+### 法力容量与可达到的最大纯度
 
-A caster's Mana Capacity influences the maximum purity level they can potentially achieve:
+施法者的法力容量会影响他们可能达到的最大纯度等级：
 
-| Mana Capacity | Maximum Achievable Purity | Wild Mana Minimum |
+| 法力容量 | 可达到的最大纯度 | 狂野法力最小值 |
 |---------------|-----------------------------|-------------------|
-| 5-15% | Basic (up to 25%) | 75%+ |
-| 15-30% | Basic to Refined (up to 40%) | 60%+ |
-| 30-50% | Refined (up to 60%) | 40%+ |
-| 50-70% | Superior (up to 80%) | 20%+ |
-| 70-85% | Perfect (up to 95%) | 5%+ |
-| 85%+ | Perfect (up to 100%) | Trace amounts |
+| 5-15% | 基本（最高 25%） | 75%+ |
+| 15-30% | 基本到精炼（最高 40%） | 60%+ |
+| 30-50% | 精炼（最高 60%） | 40%+ |
+| 50-70% | 优异（最高 80%） | 20%+ |
+| 70-85% | 完美（最高 95%） | 5%+ |
+| 85%+ | 完美（最高 100%） | 痕量 |
 
-This limitation explains why species with naturally high Mana Capacity (such as Elves and Fae) excel at complex magic requiring high purity, while those with lower capacity (like Dwarves) typically focus on magic that requires lower purity but values stability.
+这种限制解释了为什么具有天然高法力容量的物种（例如精灵和妖精）擅长需要高纯度的复杂魔法，而那些容量较低的物种（例如矮人）通常专注于需要较低纯度但重视稳定性的魔法。
 
-## Wild Mana to Refined Mana Conversion
+## 狂野法力到精炼法力的转换
 
-The biological process of converting Wild Mana to usable forms involves:
+将狂野法力转化为可用形式的生物过程包括：
 
-1. **Absorption**: Drawing Wild Mana from the environment into the body
-2. **Filtration**: Separating useful energy from chaotic elements
-3. **Refinement**: Stabilizing the energy into Base Mana
-4. **Specialization**: Further converting Base Mana into elemental types
+1. **吸收**：从环境中将狂野法力吸入体内
+2. **过滤**：将有用的能量与混乱的元素分离
+3. **精炼**：将能量稳定为基础法力
+4. **专业化**：进一步将基础法力转化为元素类型
 
-Different species and individuals vary in their efficiency at each stage, explaining variations in magical aptitude even among those with similar Mana Capacity.
+不同的物种和个体在每个阶段的效率各不相同，即使在法力容量相似的人中，也能解释魔法能力的差异。
 
-## Spell Technical Requirements
+## 法术的技术要求
 
-Each spell has specific technical requirements that determine which casters can successfully perform it:
+每个法术都有特定的技术要求，这些要求决定了哪些施法者可以成功地执行它：
 
-### Mana Type Distribution
+### 法力类型分布
 
-Spells require specific proportions of different mana types:
+法术需要不同法力类型的特定比例：
 
-- **Base Mana**: The foundational energy that forms the structural framework of most spells
-- **Elemental Mana**: Specialized energies (Pyromana, Hydromana, etc.) that provide specific magical effects
-- **Combined Forms**: Complex ratios of multiple mana types for sophisticated magical effects
+- **基础法力**：构成大多数法术结构框架的基础能量
+- **元素法力**：提供特定魔法效果的专门能量（焰能，水能等）
+- **组合形式**：多种法力类型的复杂比率，用于复杂的魔法效果
 
-The average proportion of Base Mana to specialized mana types correlates with spell difficulty:
+基础法力与专门的法力类型的平均比例与法术难度相关：
 
-| Spell Level | Typical Base Mana % | Specialized Mana % | Example |
+| 法术等级 | 典型基础法力 % | 专门法力 % | 示例 |
 |-------------|---------------------|---------------------|---------|
-| Novice | 60-80% | 20-40% | Dancing Ember, Mending Touch |
-| Adept | 40-60% | 40-60% | Frost Armor, Wind Message |
-| Expert | 30-50% | 50-70% | Lightning Storm, Greater Healing |
-| Master | 20-40% | 60-80% | Earthquake, Teleportation |
-| Legendary | 10-30% | 70-90% | Weather Control, Resurrection |
+| 新手 | 60-80% | 20-40% | 舞动余烬，修复触碰 |
+| 精通 | 40-60% | 40-60% | 寒冰护甲，风之讯息 |
+| 专家 | 30-50% | 50-70% | 闪电风暴，高等治疗 |
+| 大师 | 20-40% | 60-80% | 地震，传送术 |
+| 传奇 | 10-30% | 70-90% | 天气控制，复活术 |
 
-### Purity Requirements
+### 纯度要求
 
-Each spell has minimum purity requirements for successful casting:
+每个法术都有成功施法的最低纯度要求：
 
-| Spell Level | Minimum Purity Required | Maximum Wild Mana Content |
+| 法术等级 | 所需最低纯度 | 最大狂野法力含量 |
 |-------------|--------------------------|---------------------------|
-| Novice | Basic (10-35%) | 65-90% |
-| Adept | Refined (35-65%) | 35-65% |
-| Expert | Superior (65-85%) | 15-35% |
-| Master | Perfect (85-95%) | 5-15% |
-| Legendary | Perfect (95%+) | <5% |
+| 新手 | 基本 (10-35%) | 65-90% |
+| 精通 | 精炼 (35-65%) | 35-65% |
+| 专家 | 优异 (65-85%) | 15-35% |
+| 大师 | 完美 (85-95%) | 5-15% |
+| 传奇 | 完美 (95%+) | <5% |
 
-Attempting to cast a spell with insufficient mana purity (excessive Wild Mana content) results in various failure modes:
+尝试施放法力纯度不足（狂野法力含量过多）的法术会导致各种故障模式：
 
-- **Minor Shortfall**: Spell works but with reduced effectiveness or duration
-- **Moderate Shortfall**: Spell fails to form completely, wasting magical energy
-- **Significant Shortfall**: Spell pattern destabilizes, potentially causing harmful side effects
-- **Critical Shortfall**: Pattern collapses catastrophically, potentially harming the caster
+- **轻微不足**：法术有效，但效果或持续时间减少
+- **中度不足**：法术无法完全形成，浪费魔法能量
+- **显著不足**：法术模式不稳定，可能导致有害的副作用
+- **严重不足**：模式灾难性崩溃，可能伤害施法者
 
-## The Harmony of Elements
+## 元素的和谐
 
-The relationship between a caster's Mana Capacity, their achieved purity level, and a spell's requirements can be understood through musical analogy:
+施法者的法力容量、他们达到的纯度等级和法术的要求之间的关系可以通过音乐类比来理解：
 
-- **Mana Capacity** is like the range of notes a musician can play
-- **Purity Level** is like the precision with which they can hit each note
-- **Wild Mana Content** is like background noise interfering with the music
-- **Spell Requirements** are like the demands of a particular musical piece
+- **法力容量**就像音乐家可以演奏的音符范围
+- **纯度等级**就像他们击中每个音符的精确度
+- **狂野法力含量**就像干扰音乐的背景噪音
+- **法术要求**就像特定乐曲的要求
 
-Just as a musician with limited range cannot play pieces requiring notes beyond their reach, a spellcaster with insufficient Mana Capacity cannot achieve the purity levels demanded by advanced spells. Similarly, even a caster with great capacity must develop the skill (purification control) to effectively minimize Wild Mana interference.
+正如音域有限的音乐家无法演奏超出其音域的乐曲一样，法力容量不足的施法者无法达到高级法术所需的纯度等级。 同样，即使是拥有巨大容量的施法者也必须发展技能（纯化控制）才能有效地最大限度地减少狂野法力的干扰。
 
-## Training Progression
+## 训练进展
 
-Magical training systematically develops both capacity and purification skill:
+魔法训练系统地发展容量和纯化技能：
 
-1. **Fundamental Exercises**: Developing basic purification techniques and expanding capacity
-2. **Simple Spells**: Mastering basic patterns with low purity requirements
-3. **Capacity Building**: Exercises to gradually expand mana reserves
-4. **Purification Refinement**: Techniques to reduce Wild Mana content
-5. **Advanced Pattern Work**: Progressively more complex spells requiring greater purity
-6. **Specialization**: Focus on particular mana types and associated spell categories
+1. **基础练习**：发展基本的纯化技术并扩大容量
+2. **简单法术**：掌握具有低纯度要求的基本模式
+3. **容量建设**：逐步扩大法力储备的练习
+4. **纯化精炼**：减少狂野法力含量的技术
+5. **高级模式工作**：逐渐复杂的法术，需要更高的纯度
+6. **专业化**：专注于特定的法力类型和相关的法术类别
 
-Proper training recognizes the natural limitations imposed by a practitioner's Mana Capacity while maximizing their potential within those constraints. This explains the structured curriculum found in magical academies, where students progress through increasingly demanding spells as their capacity and purification skills develop.
+适当的训练可以识别出施法者的法力容量所施加的自然限制，同时最大限度地发挥他们在这些限制内的潜力。 这解释了在魔法学院中发现的结构化课程，学生随着他们的能力和纯化技能的提高而逐渐通过越来越苛刻的法术。
 
-## Individual Variations
+## 个体差异
 
-Natural aptitude for purification exists independently of Mana Capacity:
+纯化的自然资质独立于法力容量而存在：
 
-- **Natural Purifiers**: Some individuals with moderate Mana Capacity achieve exceptional purity by efficiently filtering Wild Mana
-- **High-Volume Casters**: Others with great Mana Capacity but less refinement excel at power-intensive but lower-precision magic
-- **Specialists**: Those with affinity for specific elemental mana types achieve higher purity with those types
-- **Balanced Practitioners**: Those who develop equally in capacity and purification skill
-- **Wild Harmonizers**: Rare practitioners who work with rather than against Wild Mana, incorporating its chaotic nature
+- **天然纯化者**：一些具有中等法力容量的人通过有效过滤狂野法力来实现卓越的纯度
+- **高容量施法者**：另一些拥有强大的法力容量但纯化较少的人擅长于能量密集但精度较低的魔法
+- **专家**：那些对特定元素法力类型具有亲和力的人可以通过这些类型实现更高的纯度
+- **平衡修行者**：那些在容量和纯化技能方面均得到发展的人
+- **狂野协调者**：罕见的修行者，他们与狂野法力合作而不是对抗，将它的混乱性质纳入其中
 
-These variations explain the diverse approaches to magic found among practitioners, from the precise, efficient spellwork of some to the raw, powerful castings of others.
+这些差异解释了修行者中发现的多种魔法方法，从一些人精确，高效的法术到另一些人原始，强大的施法。
 
-Understanding these mechanical foundations provides insight into why magical training follows specific progressions, why certain species tend toward particular magical traditions, and how individual practitioners develop their unique approaches to the magical arts. 
+理解这些机械基础可以深入了解为什么魔法训练遵循特定的进展，为什么某些物种倾向于特定的魔法传统，以及个体修行者如何发展其独特的魔法艺术方法。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

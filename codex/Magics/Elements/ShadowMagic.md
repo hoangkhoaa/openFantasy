@@ -1,203 +1,207 @@
-# **Shadow Magic**: The Art of Darkness and Concealment
+# **暗影魔法**: 黑暗与隐匿的艺术
 
-> *"Shadow is not the absence of light, but a subtle presence of its own—a realm of possibilities that exists between what is seen and unseen. Those who fear the dark understand neither its nature nor its gifts."* — Archumbramancer Soren Nightveil
+> *"暗影并非光的缺失，而是一种微妙的存在——一个存在于可见与不可见之间的可能性领域。那些恐惧黑暗的人既不理解它的本质，也不理解它的恩赐。"* — 大奥术师索伦·夜纱
 
-## Quick Reference
-- [Properties of Umbramana](#properties-of-umbramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 快速参考
+- [影魔力的属性](#影魔力的属性)
+- [操纵技巧](#操纵技巧)
+- [常用法术](#常用法术)
+- [亲和力发展](#亲和力发展)
+- [风险与保障](#风险与保障)
+- [文化意义](#文化意义)
 
-## Properties of Umbramana
+## 影魔力的属性
 
-Umbramana, the elemental mana of shadow, is characterized by:
+影魔力，暗影的元素魔力，其特征为：
 
-- **Appearance**: Deep purples, blues, and blacks; absorptive, flowing patterns that seem to draw in light
-- **Sensation**: Feels cool, calming, and subtly invigorating when channeled; creates a sense of depth and concealment
-- **Resonance**: Low to medium-frequency, complex vibration patterns with harmonic depth
-- **Purification Challenge**: Tends to absorb and hide impurities rather than release them; requires persistent refinement
-- **Opposite Element**: Light (creates twilight when forced together, ultimately consumed by light)
-- **Complementary Elements**: Death (creates void), Fire (creates smoke)
-- **Musical Analogy**: Minor key melodies, particularly string instruments; complex, layered harmonies
+- **外观**: 深紫色、蓝色和黑色；吸收性、流动性的图案，似乎吸收光线
+- **感觉**: 引导时感觉凉爽、平静，并略带活力；产生一种深度和隐蔽感
+- **共鸣**: 低到中频，具有谐波深度的复杂振动模式
+- **净化挑战**: 倾向于吸收和隐藏杂质，而不是释放它们；需要持续的提炼
+- **相反元素**: 光 (强行结合时产生暮光，最终被光吞噬)
+- **互补元素**: 死亡 (创造虚空), 火 (创造烟雾)
+- **音乐类比**: 小调旋律，特别是弦乐器；复杂、分层的和声
 
-## Manipulation Techniques
+## 操纵技巧
 
-### Basic Techniques
+### 基本技巧
 
-#### Shadow Summoning
-The foundational technique of drawing forth and concentrating shadow:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Gathers ambient darkness or creates shadow where minimal light exists
-- **Training Focus**: Darkness concentration and boundary definition
-- **Applications**: Creating areas of concealment, darkening rooms, enhancing existing shadows
+#### 暗影召唤
+提取和集中暗影的基础技术：
+- **难度**: 新手
+- **纯度要求**: 基础 (15-25%)
+- **效果**: 聚集环境黑暗或在光线极少的地方创造暗影
+- **训练重点**: 黑暗集中和边界定义
+- **应用**: 创建隐蔽区域，使房间变暗，增强现有阴影
 
-#### Umbral Shaping
-Molding and manipulating existing shadow:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Forms shadow into specific shapes and patterns
-- **Training Focus**: Shadow density and form maintenance
-- **Applications**: Simple disguises, intimidation effects, symbolic communication
+#### 暗影塑形
+塑造和操纵现有的阴影：
+- **难度**: 新手到中级
+- **纯度要求**: 基础到精炼 (20-40%)
+- **效果**: 将阴影塑造成特定的形状和图案
+- **训练重点**: 阴影密度和形态维持
+- **应用**: 简单的伪装，恐吓效果，象征性交流
 
-#### Perception Dimming
-Subtly affecting how others perceive the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-50%)
-- **Effect**: Reduces observers' awareness of the caster's presence
-- **Training Focus**: Attention deflection and sensory dampening
-- **Applications**: Stealth enhancement, social camouflage, avoiding unwanted attention
+#### 感知削弱
+微妙地影响他人对施法者的感知：
+- **难度**: 中级
+- **纯度要求**: 精炼 (30-50%)
+- **效果**: 降低观察者对施法者存在的意识
+- **训练重点**: 注意力转移和感官抑制
+- **应用**: 隐身增强，社交伪装，避免不必要的关注
 
-### Advanced Techniques
+### 高级技巧
 
-#### Shadow Animation
-Creating semi-autonomous shadow constructs:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Infuses shadow with temporary purpose and limited intelligence
-- **Training Focus**: Intent projection and umbral persistence
-- **Applications**: Scouting, distraction, message carrying, performance art
+#### 暗影动画
+创建半自主的阴影构造体：
+- **难度**: 高级
+- **纯度要求**: 精炼到完美 (45-70%)
+- **效果**: 为阴影注入暂时的目的和有限的智能
+- **训练重点**: 意图投射和影魔力持久性
+- **应用**: 侦察，转移注意力，传递信息，表演艺术
 
-#### Void Pocketing
-Creating spaces between shadows:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Forms stable extra-dimensional spaces within shadow
-- **Training Focus**: Spatial folding and boundary maintenance
-- **Applications**: Concealment of objects, temporary storage, escape routes
+#### 虚空口袋
+在阴影之间创建空间：
+- **难度**: 专家
+- **纯度要求**: 完美 (65-85%)
+- **效果**: 在阴影中形成稳定的额外维度空间
+- **训练重点**: 空间折叠和边界维护
+- **应用**: 隐藏物体，临时存储，逃生路线
 
-#### Umbral Traversal
-Using shadow as a medium for transportation:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Allows physical translation through connected shadows
-- **Training Focus**: Dimensional mapping and personal integrity maintenance
-- **Applications**: Rapid travel, infiltration, escape from physical restraints
+#### 影界穿梭
+使用阴影作为交通媒介：
+- **难度**: 大师
+- **纯度要求**: 完美 (75-95%)
+- **效果**: 允许通过连接的阴影进行物理转换
+- **训练重点**: 维度映射和个人完整性维护
+- **应用**: 快速旅行，渗透，从物理约束中逃脱
 
-## Common Spells
+## 常用法术
 
-### Novice Spells
+### 新手法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Shadow Hand** | Creates a manipulable shadow appendage | Somatic | 2 seconds | Concentration |
-| **Dim** | Reduces light level in a small area | Somatic, Verbal | 3 seconds | 10 minutes |
-| **Night Eyes** | Enhances vision in darkness | Somatic, Verbal | 5 seconds | 1 hour |
-| **Shadow Mark** | Places an invisible mark visible only in darkness | Somatic, Focus | 10 seconds | 1 week |
+| **暗影之手** | 创建一个可操纵的阴影附属物 | 体势 | 2 秒 | 专注 |
+| **昏暗** | 降低小区域内的光线强度 | 体势, 言语 | 3 秒 | 10 分钟 |
+| **夜视之眼** | 增强在黑暗中的视觉 | 体势, 言语 | 5 秒 | 1 小时 |
+| **暗影标记** | 放置一个仅在黑暗中可见的隐形标记 | 体势, 专注 | 10 秒 | 1 周 |
 
-### Intermediate Spells
+### 中级法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Cloak of Shadows** | Wraps the caster in concealing darkness | Somatic, Verbal | 5 seconds | 30 minutes |
-| **Shadow Puppet** | Creates a simple animated shadow figure | Somatic, Focus | 10 seconds | 10 minutes |
-| **Umbral Message** | Sends a message through connecting shadows | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
-| **Dark Mirror** | Creates a reflection of reality in shadow | Somatic, Verbal, Focus | 30 seconds | 10 minutes |
+| **暗影斗篷** | 将施法者包裹在隐藏的黑暗中 | 体势, 言语 | 5 秒 | 30 分钟 |
+| **暗影傀儡** | 创建一个简单的动画阴影人物 | 体势, 专注 | 10 秒 | 10 分钟 |
+| **影界消息** | 通过连接的阴影发送消息 | 体势, 言语, 专注 | 30 秒 | 瞬时 |
+| **黑暗之镜** | 在阴影中创造现实的反射 | 体势, 言语, 专注 | 30 秒 | 10 分钟 |
 
-### Advanced Spells
+### 高级法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Shadow Step** | Allows short-range teleportation between shadows | Somatic, Verbal, Focus | 3 seconds | Instantaneous |
-| **Umbral Entity** | Forms a semi-autonomous shadow being | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Consuming Darkness** | Creates a field of devouring shadow energy | Somatic, Verbal, Focus | 15 seconds | Concentration |
-| **Realm of Shadow** | Transforms an area into a shadow-dominant environment | Somatic, Verbal, Focus, Ritual | 10 minutes | 1 hour |
+| **暗影步** | 允许在阴影之间进行短距离传送 | 体势, 言语, 专注 | 3 秒 | 瞬时 |
+| **影界实体** | 形成一个半自主的阴影生物 | 体势, 言语, 专注 | 1 分钟 | 1 小时 |
+| **吞噬黑暗** | 创建一个吞噬阴影能量的领域 | 体势, 言语, 专注 | 15 秒 | 专注 |
+| **暗影领域** | 将一个区域转化为阴影主导的环境 | 体势, 言语, 专注, 仪式 | 10 分钟 | 1 小时 |
 
-## Affinity Development
+## 亲和力发展
 
-Shadow affinity progresses through several distinctive stages:
+暗影亲和力通过几个独特的阶段发展：
 
-### Twilight Touch
-The foundational relationship with shadow that most beginners possess:
-- **Manifestation**: Enhanced perception in darkness, intuitive sense of concealed spaces
-- **Physical Signs**: Slightly darker pupils, subtle darkening around fingertips when casting
-- **Enhancement Method**: Regular meditation at twilight or in dimly lit spaces
+### 暮光之触
+大多数初学者拥有的与阴影的基础关系：
+- **表现**: 增强在黑暗中的感知，对隐藏空间有直观的感知
+- **身体迹象**: 瞳孔略微变暗，施法时指尖周围有细微的变暗
+- **增强方法**: 定期在暮光或昏暗的空间冥想
 
-### Umbral Echo
-The intermediate stage where shadow responds more readily to the mage's will:
-- **Manifestation**: Shadows deepen around the caster, ambient light seems to dim slightly
-- **Physical Signs**: Eyes appear darker, shadow cast is slightly more pronounced than normal
-- **Enhancement Method**: Shadow immersion exercises, prolonged exposure to natural darkness
+### 影界回响
+阴影更容易响应法师意志的中间阶段：
+- **表现**: 施法者周围的阴影加深，环境光线似乎略微变暗
+- **身体迹象**: 眼睛显得更黑，投射的阴影比正常情况略微明显
+- **增强方法**: 阴影沉浸练习，长时间暴露于自然黑暗中
 
-### Void Harmony
-Advanced practitioners achieve a deep resonance with shadow's properties:
-- **Manifestation**: Natural shadows seem drawn to the caster, ability to sense movement through darkness
-- **Physical Signs**: Skin develops subtle shifting patterns in dim light, voice gains resonant qualities
-- **Enhancement Method**: Deep communion at sites of natural darkness or during lunar eclipses
+### 虚空和谐
+高级从业者与阴影的属性实现了深刻的共鸣：
+- **表现**: 自然阴影似乎被施法者吸引，能够在黑暗中感知运动
+- **身体迹象**: 皮肤在昏暗的光线下会呈现出微妙的变化模式，声音具有共鸣品质
+- **增强方法**: 在自然黑暗的地方或在月食期间进行深入交流
 
-### Shadow Integration
-Master umbramancers who have achieved profound connection with shadow:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of darkness
-- **Physical Signs**: Body temperature drops slightly, blood appears unusually dark, starlight reflection in eyes
-- **Enhancement Method**: Deep communion at ley line intersections with strong shadow resonance
+### 暗影融合
+与阴影建立了深刻联系的大师级暗影法师：
+- **表现**: 部分变形能力，直观地操纵黑暗
+- **身体迹象**: 体温略有下降，血液呈现出异常的深色，星光在眼睛中反射
+- **增强方法**: 在具有强烈阴影共鸣的能量线交汇处进行深入交流
 
-## Risks and Safeguards
+## 风险与保障
 
-### Common Risks
+### 常见风险
 
-- **Sensory Degradation**: Diminished visual perception in normal light
-- **Emotional Dampening**: Gradual suppression of emotional responses
-- **Umbral Dependency**: Developing discomfort in bright light or open spaces
-- **Identity Diffusion**: Loss of self-definition through excessive shadow immersion
-- **Void Contamination**: Shadow techniques accidentally accessing dangerous extraplanar spaces
+- **感官退化**: 正常光线下视觉感知下降
+- **情感抑制**: 逐渐抑制情感反应
+- **影界依赖**: 在明亮的光线或开放空间中产生不适感
+- **身份扩散**: 通过过度沉浸在阴影中失去自我定义
+- **虚空污染**: 阴影技术意外访问危险的异位面空间
 
-### Miscast Effects
+### 误施效果
 
-| Severity | Effect | Recovery |
+| 严重程度 | 效果 | 恢复 |
 |----------|--------|----------|
-| **Minor** | Temporary night vision, heightened light sensitivity, minor shadow persistence | Hours |
-| **Moderate** | Partial transparency in bright light, shadow pooling, emotional flattening | Days |
-| **Severe** | Uncontrolled phasing into shadow, sensory darkness, loss of physical boundaries | Weeks |
-| **Critical** | Involuntary shadow transformation, void displacement, essence fragmentation | Months to permanent |
+| **轻微** | 暂时的夜视能力，光敏感度增加，轻微的阴影持久性 | 几小时 |
+| **中等** | 在明亮的光线下部分透明，阴影汇聚，情感扁平化 | 几天 |
+| **严重** | 无法控制地相变为阴影，感官黑暗，失去身体边界 | 几周 |
+| **危急** | 非自愿的阴影转化，虚空置换，本质碎片化 | 几个月到永久 |
 
-### Safety Practices
+### 安全措施
 
-- **Light Balancing**: Regular exposure to natural sunlight between practice sessions
-- **Identity Anchoring**: Personal focus objects and regular social interaction
-- **Boundary Rituals**: Clearly defined casting spaces with protective markings
-- **Emotional Maintenance**: Creative expression and emotional stimulation exercises
-- **Physical Grounding**: Regular physical exercise and tactile experiences
+- **光平衡**: 在练习课程之间定期暴露在自然阳光下
+- **身份锚定**: 个人焦点物体和定期的社交互动
+- **边界仪式**: 具有保护性标记的明确定义的施法空间
+- **情感维护**: 创造性表达和情感刺激练习
+- **身体接地**: 定期体育锻炼和触觉体验
 
-## Cultural Significance
+## 文化意义
 
-### Historical Development
+### 历史发展
 
-Shadow magic represents one of the most misunderstood and often maligned magical disciplines. Its development followed three distinct historical phases:
+暗影魔法代表着最被误解和经常被诽谤的魔法学科之一。它的发展经历了三个不同的历史阶段：
 
-1. **Primal Darkness**: Early cultures developing rituals around night, caves, and the unknown
-2. **Concealment Necessity**: Development of stealth techniques during periods of magical persecution
-3. **Dimensional Exploration**: Advanced practitioners discovering shadow's connection to other planes
+1. **原始黑暗**: 早期文化发展出围绕夜晚、洞穴和未知的仪式
+2. **隐蔽的必要性**: 在魔法迫害时期发展隐身技术
+3. **维度探索**: 高级从业者发现阴影与其他位面的联系
 
-### Regional Variations
+### 区域差异
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 重点 | 标志性技术 | 哲学 |
 |---------|-------|---------------------|------------|
-| **Forest Dwellers** | Concealment, camouflage | Shadow blending, dappled darkness | Shadow as the silent protector |
-| **Underground Societies** | Navigation, perception | Cave sight, echo shadowing | Shadow as the true foundation |
-| **Urban Practitioners** | Stealth, communication | Alleyway walking, urban concealment | Shadow as the unseen network |
-| **Desert Night Tribes** | Star connection, cooling | Night shrouding, heat absorption | Shadow as the night's blessing |
+| **森林居民** | 隐藏，伪装 | 暗影混合，斑驳的黑暗 | 阴影是沉默的保护者 |
+| **地下社会** | 导航，感知 | 洞穴视觉，回声阴影 | 阴影是真正的基础 |
+| **城市从业者** | 隐身，交流 | 小巷行走，城市隐藏 | 阴影是看不见的网络 |
+| **沙漠夜部族** | 星星连接，冷却 | 夜间覆盖，热量吸收 | 阴影是夜晚的祝福 |
 
-### Ceremonial Uses
+### 仪式用途
 
-Shadow magic features prominently in some cultural ceremonies:
-- **Transition Rituals**: Marking major life changes through symbolic shadow immersion
-- **Protection Ceremonies**: Creating shadow guardians for important locations
-- **Coming of Age**: Young umbramancers demonstrating their first shadow manipulation
-- **New Moon Gatherings**: Communal shadow workings during the darkest nights
+暗影魔法在一些文化仪式中占有重要地位：
+- **过渡仪式**: 通过象征性的阴影沉浸来标记重大的生活变化
+- **保护仪式**: 为重要地点创建暗影守护者
+- **成年礼**: 年轻的暗影法师展示他们的第一次暗影操纵
+- **新月聚会**: 在最黑暗的夜晚进行公共阴影工作
 
-### Contemporary Applications
+### 当代应用
 
-Beyond stealth and intimidation, shadow magic serves important societal functions:
-- **Privacy Protection**: Creating secure spaces free from surveillance
-- **Information Security**: Shadow-marked documents that reveal content only under specific conditions
-- **Environmental Management**: Temperature control through strategic shadow creation
-- **Therapeutic Applications**: Sensory reduction environments for psychological treatment
-- **Engineering**: Testing structures for stability and integrity through shadow analysis
+除了隐身和恐吓之外，暗影魔法还发挥着重要的社会功能：
+- **隐私保护**: 创建免受监视的安全空间
+- **信息安全**: 仅在特定条件下显示内容的暗影标记文档
+- **环境管理**: 通过战略性阴影创建进行温度控制
+- **治疗应用**: 用于心理治疗的感官减少环境
+- **工程**: 通过阴影分析测试结构的稳定性和完整性
 
-> *"The student of shadow must understand that darkness does not seek to consume light, but to provide balance—like silence that gives meaning to sound, or rest that gives purpose to activity."* — The Umbral Tenets
+> *"暗影的学生必须明白，黑暗并不寻求吞噬光，而是提供平衡——就像沉默赋予声音意义，或者休息赋予活动目的。"* — 暗影信条
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Light Magic](/codex/Magics/Elements/LightMagic.md), [Void Magic](/codex/Magics/Advanced/Specializations/VoidMagic.md)* 
+*另请参见: [元素魔法](/codex/Magics/Elements/ElementalMagic.md), [光明魔法](/codex/Magics/Elements/LightMagic.md), [虚空魔法](/codex/Magics/Advanced/Specializations/VoidMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,83 +1,87 @@
-# Warrior Class
+# 战士职业
 
-> *"A warrior's strength lies not only in their arm, but in their resolve to stand when others fall."*
+> *"战士的力量不仅在于他们的手臂，还在于他们在他人倒下时仍然站立的决心。"*
 
-## Quick Navigation
+## 快速导航
 
-- [Overview](#overview)
-- [Class Composition](#class-composition)
-- [Subclasses](#subclasses)
-- [Playing a Warrior](#playing-a-warrior)
-- [Notable Traits](#notable-traits)
+- [概述](#overview)
+- [职业组成](#class-composition)
+- [子职业](#subclasses)
+- [游玩战士](#playing-a-warrior)
+- [显著特性](#notable-traits)
 
-## Overview
+## 概述
 
-Warriors are masters of physical combat, channeling their exceptional **Exanthis** to perform feats of strength and martial prowess. Like a powerful drum driving the rhythm of battle, they provide the foundation upon which armies are built and legends are forged.
+战士是物理战斗的大师，他们引导着非凡的 **Exanthis** 来完成力量和武术技艺。 就像一个强大的鼓驱动着战斗的节奏一样，他们提供了军队赖以建立和传奇赖以铸造的基础。
 
-## Class Composition
+## 职业组成
 
-| Element | Typical Range | Function |
+| 元素 | 典型范围 | 功能 |
 |---------|---------------|----------|
-| **Exanthis** | 50-70% | Physical prowess with exceptional strength and durability |
-| **Soul** | 20-40% | Consciousness that enables tactical thinking and willpower |
-| **Mana Capacity** | 5-15% | Limited magical potential but sufficient for combat enhancements |
+| **Exanthis** | 50-70% | 卓越的力量和耐力的身体素质 |
+| **Soul** | 20-40% | 使战术思维和意志力成为可能的意识 |
+| **Mana Capacity** | 5-15% | 有限的魔法潜力，但足以进行战斗增强 |
 
-This elemental balance grants warriors their characteristic physical might while limiting their magical capabilities.
+这种元素平衡赋予了战士他们特有的物理力量，同时也限制了他们的魔法能力。
 
-## Subclasses
+## 子职业
 
-Warriors can specialize in several distinct combat disciplines:
+战士可以专注于几种不同的战斗学科：
 
-| Subclass | Focus | Specialty |
+| 子职业 | 侧重 | 专长 |
 |----------|-------|-----------|
-| [**Guardian**](Guardian.md) | Defense | Protecting allies and controlling battlefield space |
-| [**Berserker**](Berserker.md) | Offensive fury | Channeling rage into devastating attacks |
-| [**Duelist**](Duelist.md) | Precision combat | Excelling in one-on-one engagements |
-| [**Commander**](Commander.md) | Leadership | Coordinating allies for maximum effectiveness |
-| [**Weaponmaster**](Weaponmaster.md) | Versatility | Mastering multiple weapons and combat styles |
+| [**守护者**](Guardian.md) | 防御 | 保护盟友和控制战场空间 |
+| [**狂战士**](Berserker.md) | 进攻狂怒 | 将愤怒转化为毁灭性的攻击 |
+| [**决斗者**](Duelist.md) | 精准战斗 | 擅长一对一的交战 |
+| [**指挥官**](Commander.md) | 领导 | 协调盟友以获得最大效率 |
+| [**武器大师**](Weaponmaster.md) | 多才多艺 | 掌握多种武器和战斗风格 |
 
-## Playing a Warrior
+## 游玩战士
 
-### Core Abilities
+### 核心能力
 
-- **Weapon Proficiency**: Expertise with a wide range of armaments
-- **Combat Endurance**: Exceptional stamina in prolonged battles
-- **Tactical Awareness**: Understanding battlefield positioning and advantage
-- **Physical Resilience**: Resistance to injury and fatigue
+- **武器熟练度**: 精通各种武器
+- **战斗耐力**: 在持久战中拥有卓越的耐力
+- **战术意识**: 了解战场定位和优势
+- **身体弹性**: 对损伤和疲劳的抵抗力
 
-### Common Equipment
+### 常用装备
 
-- **Weapons**: Diverse armaments from swords and axes to bows and spears
-- **Armor**: Protective gear ranging from light to heavy plating
-- **Shields**: Defensive implements for blocking and controlling space
-- **Battle Accessories**: Bracers, greaves, and other protective items
+- **武器**: 从剑和斧头到弓箭和长矛的各种武器
+- **盔甲**: 从轻型到重型装甲的防护装备
+- **盾牌**: 用于阻挡和控制空间的防御工具
+- **战斗配件**: 臂甲、护胫和其他防护物品
 
-### Species Affinities
+### 种族亲和力
 
-| Species | Affinity | Notable Traits |
+| 种族 | 亲和力 | 显著特性 |
 |---------|----------|----------------|
-| **Humans** | High | Adaptable combat styles, balanced capabilities |
-| **Dwarves** | Very High | Natural durability, exceptional strength |
-| **Dragonkin** | High | Natural armor, heightened battle instincts |
-| **Beastfolk** | Moderate-High | Enhanced reflexes, natural weapon affinity |
-| **Elves** | Moderate | Precision and grace rather than raw power |
+| **人类** | 高 | 适应性强的战斗风格，均衡的能力 |
+| **矮人** | 非常高 | 天生的耐久性，卓越的力量 |
+| **龙裔** | 高 | 天生的盔甲，增强的战斗本能 |
+| **兽人** | 中等-高 | 增强的反应能力，天然的武器亲和力 |
+| **精灵** | 中等 | 精准和优雅，而不是原始力量 |
 
-## Notable Traits
+## 显著特性
 
-### Strengths
+### 优势
 
-- Unmatched physical combat capabilities
-- High endurance and survivability in difficult conditions
-- Ability to protect allies from physical threats
-- Effectiveness against a wide range of opponents
+- 无与伦比的物理战斗能力
+- 在困难条件下具有高耐力和生存能力
+- 能够保护盟友免受物理威胁
+- 对各种对手都有效
 
-### Challenges
+### 挑战
 
-- Limited magical capabilities and countermeasures
-- Vulnerability to enchantments and illusions
-- Reliance on physical resources and equipment
-- Difficulty facing enemies that cannot be harmed by conventional weapons
+- 有限的魔法能力和对策
+- 容易受到附魔和幻觉的影响
+- 依赖物理资源和设备
+- 难以面对无法被常规武器伤害的敌人
 
 ---
 
-> See [Warrior.md](Warrior.md) for detailed information about the warrior class in OpenFantasy. 
+> 有关 OpenFantasy 中战士职业的详细信息，请参阅 [Warrior.md](Warrior.md)。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

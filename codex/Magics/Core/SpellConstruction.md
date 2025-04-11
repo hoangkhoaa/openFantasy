@@ -1,259 +1,262 @@
-# **Spell Construction**: From Mana to Magical Effect
+# **法术构建**: 从魔力到魔法效果
 
-> *"A spell is not merely a pattern of energy, but a bridge between potential and manifestation, between the caster's will and the world's reality."* — Archmage Theon Patternweaver
+> *"法术不仅仅是一种能量模式，而是潜能与显现之间的桥梁，施法者的意志与世界现实之间的桥梁。"* — 大法师Theon Patternweaver
 
-## Quick Reference
-- [The Construction Process](#the-construction-process)
-- [Pattern Architecture](#pattern-architecture)
-- [Mana Component Selection](#mana-component-selection)
-- [Spell Classification](#spell-classification)
-- [Construction Challenges](#construction-challenges)
-- [Advanced Techniques](#advanced-techniques)
+## 快速参考
+- [构建过程](#the-construction-process)
+- [模式架构](#pattern-architecture)
+- [魔力成分选择](#mana-component-selection)
+- [法术分类](#spell-classification)
+- [构建挑战](#construction-challenges)
+- [高级技巧](#advanced-techniques)
 
-## Overview
+## 概述
 
-Spell Construction is the technical process by which casters transform magical energy into specific, controlled magical effects. It represents the culmination of [Wild Mana](/codex/Magics/Core/WildMana.md) absorption, conversion to [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md), and finally pattern formation. Understanding this process provides insight into how spells are created, modified, and optimized.
+法术构建是施法者将魔法能量转化为特定、受控魔法效果的技术过程。它代表了[狂野魔力](/codex/Magics/Core/WildMana.md)吸收、转化为[基础魔力](/codex/Magics/Core/BaseMana.md)、[魔力专精](/codex/Magics/Core/ManaSpecialization.md)，最终形成模式的顶峰。 理解这个过程可以深入了解法术是如何创造、修改和优化的。
 
-## The Construction Process
+## 构建过程
 
-### Fundamental Steps
+### 基本步骤
 
-All spell construction follows a sequential process:
+所有法术构建都遵循一个顺序过程：
 
-1. **Intention Formation**: Clearly defining the desired outcome
-2. **Energy Gathering**: Drawing Base Mana from internal reserves
-3. **Specialization**: Converting portions of Base Mana to required elemental types
-4. **Pattern Design**: Arranging the mana into a functional magical structure
-5. **Activation**: Initiating the pattern to generate the magical effect
-6. **Maintenance**: Sustaining the effect as required (for non-instantaneous spells)
-7. **Termination**: Controlled dissolution of the pattern
+1. **意图形成**: 明确定义期望的结果
+2. **能量收集**: 从内部储备中抽取基础魔力
+3. **专精**: 将部分基础魔力转化为所需的元素类型
+4. **模式设计**: 将魔力排列成一个功能性魔法结构
+5. **激活**: 启动模式以产生魔法效果
+6. **维护**: 根据需要维持效果（对于非瞬时法术）
+7. **终止**: 对模式进行受控解体
 
-### Technical Requirements
+### 技术要求
 
-Successful spell construction depends on several factors:
+成功的法术构建取决于几个因素：
 
-| Requirement | Function | Impact if Deficient |
+| 要求 | 功能 | 缺陷影响 |
 |-------------|----------|---------------------|
-| Sufficient Mana Capacity | Provides adequate energy for the working | Spell fails or manifests weakly |
-| Adequate Purity | Ensures controllable, predictable effect | Spell becomes unstable or distorted |
-| Specialization Skill | Creates needed elemental proportions | Incorrect elemental balance |
-| Pattern Knowledge | Guides proper energy arrangement | Inefficient or collapsed structure |
-| Concentration | Maintains pattern integrity | Premature dissolution or instability |
-| Clarity of Intent | Directs energy purpose | Diffuse or misdirected effect |
+| 足够的魔力容量 | 为工作提供足够的能量 | 法术失败或表现微弱 |
+| 足够的纯度 | 确保可控、可预测的效果 | 法术变得不稳定或扭曲 |
+| 专精技能 | 创造所需的元素比例 | 不正确的元素平衡 |
+| 模式知识 | 指导正确的能量排列 | 效率低下或结构崩溃 |
+| 集中力 | 维持模式完整性 | 过早解体或不稳定 |
+| 意图的清晰性 | 指导能量目的 | 扩散或误导的效果 |
 
-## Pattern Architecture
+## 模式架构
 
-### Core Components
+### 核心组件
 
-Every spell pattern contains specific structural elements:
+每个法术模式都包含特定的结构元素：
 
-1. **Foundation Matrix**: The Base Mana framework that holds the pattern together
-2. **Power Channels**: Pathways through which energy flows and intensifies
-3. **Effect Nodes**: Points where energy transforms into specific magical effects
-4. **Control Linkages**: Connections between the caster's will and the pattern
-5. **Stability Anchors**: Elements that prevent pattern collapse or drift
-6. **Termination Sequences**: Predetermined dissolution points for spell ending
+1. **基础矩阵**: 将模式结合在一起的基础魔力框架
+2. **能量通道**: 能量流动和增强的路径
+3. **效果节点**: 能量转化为特定魔法效果的点
+4. **控制连接**: 施法者的意志与模式之间的连接
+5. **稳定锚点**: 防止模式崩溃或漂移的元素
+6. **终止序列**: 预先确定的法术结束解体点
 
-### Pattern Geometries
+### 模式几何结构
 
-Different magical traditions utilize various pattern arrangements:
+不同的魔法传统使用各种模式排列：
 
-| Geometry | Characteristics | Common Applications | Tradition Origin |
+| 几何结构 | 特征 | 常见应用 | 传统起源 |
 |----------|-----------------|---------------------|------------------|
-| **Linear Sequences** | Straightforward energy flow, simple to construct | Direct effects, force projection | Academic Magic |
-| **Radial Patterns** | Energy emanating from central points | Area effects, environmental magic | Druidic Traditions |
-| **Recursive Loops** | Self-reinforcing energy cycles | Sustained effects, wards | Elven Spellcraft |
-| **Layered Matrices** | Multiple interacting pattern levels | Complex transformations | Dwarven Rune Magic |
-| **Spiral Configurations** | Gradually expanding/contracting energy | Growing/diminishing effects | Fae Enchantment |
-| **Fractal Structures** | Self-similar patterns at different scales | Adaptable effects, living magic | Wild Magic |
+| **线性序列** | 简单的能量流动，易于构建 | 直接效果，力量投射 | 学院魔法 |
+| **径向模式** | 从中心点发出的能量 | 区域效果，环境魔法 | 德鲁伊传统 |
+| **递归循环** | 自我加强的能量循环 | 持续效果，结界 | 精灵法术 |
+| **分层矩阵** | 多个相互作用的模式层次 | 复杂的转化 | 矮人符文魔法 |
+| **螺旋配置** | 逐渐扩展/收缩的能量 | 增长/减少效果 | 妖精魔法 |
+| **分形结构** | 不同规模的自相似模式 | 适应性效果，活魔法 | 狂野魔法 |
 
-### Dimensional Aspects
+### 维度方面
 
-Patterns exist in multiple dimensions simultaneously:
+模式同时存在于多个维度中：
 
-- **Physical Space**: Where the effect manifests in the material world
-- **Temporal Dimension**: How the pattern unfolds over time
-- **Harmonic Plane**: The resonance relationships between pattern elements
-- **Intention Field**: The connection to the caster's will and purpose
+- **物理空间**: 效果在物质世界中显现的地方
+- **时间维度**: 模式随时间推移如何展开
+- **谐波平面**: 模式元素之间的共振关系
+- **意图领域**: 与施法者的意志和目的的连接
 
-## Mana Component Selection
+## 魔力成分选择
 
-### Base Mana Requirements
+### 基础魔力需求
 
-Base Mana serves specific functions in spell construction:
+基础魔力在法术构建中起着特定的作用：
 
-- **Structural Integrity**: Provides stable framework for the pattern
-- **Pattern Cohesion**: Binds specialized elements into unified whole
-- **Will Conduction**: Transmits caster's intentions throughout the pattern
-- **Energy Regulation**: Controls flow and distribution of specialized mana
-- **Buffer Zones**: Prevents harmful interactions between opposed elements
+- **结构完整性**: 为模式提供稳定的框架
+- **模式凝聚力**: 将专业元素绑定成统一整体
+- **意志传导**: 将施法者的意图传递到整个模式
+- **能量调节**: 控制专业魔力的流动和分配
+- **缓冲区域**: 防止相反元素之间产生有害的相互作用
 
-The proportion of Base Mana correlates with spell complexity:
+基础魔力的比例与法术的复杂程度相关：
 
-| Spell Complexity | Base Mana % | Function |
+| 法术复杂性 | 基础魔力 % | 功能 |
 |------------------|-------------|----------|
-| Very Simple | 80-90% | Minimal framework with single-element specialization |
-| Simple | 60-80% | Basic structure with limited elemental interaction |
-| Moderate | 40-60% | Standard patterns with multiple elements |
-| Complex | 20-40% | Sophisticated workings with precise elemental balance |
-| Very Complex | 10-20% | Master-level spells maximizing specialization |
+| 非常简单 | 80-90% | 具有单元素专精的最小框架 |
+| 简单 | 60-80% | 具有有限元素交互的基本结构 |
+| 中等 | 40-60% | 具有多个元素的标准模式 |
+| 复杂 | 20-40% | 具有精确元素平衡的复杂运作 |
+| 非常复杂 | 10-20% | 最大化专精的大师级法术 |
 
-### Elemental Selection Principles
+### 元素选择原则
 
-The choice of elemental components follows specific principles:
+元素成分的选择遵循特定的原则：
 
-1. **Effect Alignment**: Primary elements should naturally align with desired outcome
-2. **Complementary Pairings**: Secondary elements should enhance primary elements
-3. **Oppositional Balance**: Opposing elements must be carefully counterbalanced
-4. **Resonance Harmony**: Elements should create harmonic rather than dissonant patterns
-5. **Efficiency Optimization**: Minimal elements needed for the desired effect
+1. **效果对齐**: 主要元素应与期望的结果自然对齐
+2. **互补配对**: 次要元素应增强主要元素
+3. **对立平衡**: 必须小心地平衡相反的元素
+4. **共振和谐**: 元素应创建谐波而非不和谐的模式
+5. **效率优化**: 所需效果所需的最小元素
 
-### Common Elemental Functions
+### 常见的元素功能
 
-| Magical Function | Primary Element | Supporting Elements | Example Spell |
+| 魔法功能 | 主要元素 | 支持元素 | 例子法术 |
 |------------------|-----------------|---------------------|---------------|
-| **Creation** | Vitamana | Terramana, Solmana | Growth spells |
-| **Destruction** | Pyromana | Fulgumana, Mortismana | Combat spells |
-| **Transformation** | Aquamana | Metallimana, Aetheramana | Transmutation |
-| **Protection** | Terramana | Luxmana, Crystmana | Shield spells |
-| **Movement** | Aeromana | Chronomana, Aquamana | Teleportation |
-| **Perception** | Luxmana | Umbramana, Chronomana | Divination |
-| **Concealment** | Umbramana | Nebulmana, Aetheramana | Illusion |
-| **Enhancement** | Base Mana | Element matching target | Augmentation |
-| **Communication** | Aeromana | Luxmana, Chronomana | Message spells |
-| **Binding** | Chronomana | Terramana, Crystmana | Containment |
+| **创造** | 生命魔力 (Vitamana) | 大地魔力 (Terramana), 太阳魔力 (Solmana) | 生长法术 |
+| **毁灭** | 火焰魔力 (Pyromana) | 雷电魔力 (Fulgumana), 死亡魔力 (Mortismana) | 战斗法术 |
+| **转化** | 水之魔力 (Aquamana) | 金属魔力 (Metallimana), 乙太魔力 (Aetheramana) | 炼金术 |
+| **保护** | 大地魔力 (Terramana) | 光明魔力 (Luxmana), 水晶魔力 (Crystmana) | 护盾法术 |
+| **移动** | 空气魔力 (Aeromana) | 时间魔力 (Chronomana), 水之魔力 (Aquamana) | 传送 |
+| **感知** | 光明魔力 (Luxmana) | 黑暗魔力 (Umbramana), 时间魔力 (Chronomana) | 占卜 |
+| **隐藏** | 黑暗魔力 (Umbramana) | 迷雾魔力 (Nebulmana), 乙太魔力 (Aetheramana) | 幻术 |
+| **增强** | 基础魔力 | 与目标匹配的元素 | 增强 |
+| **沟通** | 空气魔力 (Aeromana) | 光明魔力 (Luxmana), 时间魔力 (Chronomana) | 消息法术 |
+| **束缚** | 时间魔力 (Chronomana) | 大地魔力 (Terramana), 水晶魔力 (Crystmana) | 禁锢 |
 
-## Spell Classification
+## 法术分类
 
-### Complexity Scale
+### 复杂程度等级
 
-Spells are classified according to technical complexity:
+法术根据技术复杂程度进行分类：
 
-| Level | Construction Time | Components | Pattern Complexity | Typical Purity | Example |
+| 等级 | 构建时间 | 成分 | 模式复杂性 | 典型纯度 | 例子 |
 |-------|------------------|------------|-------------------|-----------------|---------|
-| **Cantrip** | Instant | Simple gesture | Single-node | 10-20% | Light, Spark |
-| **Novice** | 1-3 seconds | 1-2 components | 2-3 nodes | 15-30% | Dancing Ember |
-| **Adept** | 3-10 seconds | 2-3 components | 3-5 nodes | 30-50% | Levitation |
-| **Expert** | 10-30 seconds | 3-4 components | 5-10 nodes | 50-70% | Lightning Bolt |
-| **Master** | 30+ seconds | 4+ components | 10-20 nodes | 70-85% | Teleportation |
-| **Legendary** | Minutes to hours | Complex ritual | 20+ nodes | 85%+ | Weather Control |
+| **戏法** | 瞬间 | 简单手势 | 单节点 | 10-20% | 光，火花 |
+| **新手** | 1-3 秒 | 1-2 个成分 | 2-3 个节点 | 15-30% | 跳舞的余烬 |
+| **熟手** | 3-10 秒 | 2-3 个成分 | 3-5 个节点 | 30-50% | 漂浮 |
+| **专家** | 10-30 秒 | 3-4 个成分 | 5-10 个节点 | 50-70% | 闪电箭 |
+| **大师** | 30+ 秒 | 4+ 个成分 | 10-20 个节点 | 70-85% | 传送 |
+| **传奇** | 分钟到小时 | 复杂仪式 | 20+ 个节点 | 85%+ | 天气控制 |
 
-### Spell Duration Categories
+### 法术持续时间类别
 
-| Duration Type | Maintenance | Energy Expenditure | Pattern Design |
+| 持续时间类型 | 维护 | 能量消耗 | 模式设计 |
 |---------------|-------------|-------------------|----------------|
-| **Instantaneous** | None | Single pulse | Self-terminating pattern |
-| **Momentary** | Brief concentration | Short burn | Quick-dissolution structure |
-| **Concentration** | Active focus | Steady drain | Caster-linked pattern |
-| **Short Duration** | Initial only | Slow burn | Semi-autonomous pattern |
-| **Extended** | Periodic renewal | Incremental consumption | Reinforced structure |
-| **Permanent** | None after casting | Massive initial investment | Self-sustaining pattern |
+| **瞬时** | 无 | 单脉冲 | 自终止模式 |
+| **短暂** | 短暂的集中力 | 短暂燃烧 | 快速解体结构 |
+| **专注** | 主动聚焦 | 稳定消耗 | 与施法者链接的模式 |
+| **短时** | 仅初始 | 缓慢燃烧 | 半自主模式 |
+| **延长** | 定期更新 | 增量消耗 | 加强的结构 |
+| **永久** | 施法后无 | 大量初始投资 | 自持模式 |
 
-## Construction Challenges
+## 构建挑战
 
-### Common Difficulties
+### 常见的困难
 
-Spellcrafters frequently encounter specific challenges:
+施法者经常遇到特定的挑战：
 
-| Challenge | Description | Prevention/Solution |
+| 挑战 | 描述 | 预防/解决方案 |
 |-----------|-------------|---------------------|
-| **Pattern Instability** | Framework weakening during construction | Stronger Base Mana structure |
-| **Element Bleed** | Unintended element influence | Better component isolation |
-| **Resonance Clash** | Disharmonic frequency interaction | Frequency matching techniques |
-| **Intent Diffusion** | Unclear purpose leading to diffuse effect | Sharper visualization |
-| **Energy Bottleneck** | Restricted flow in pattern sections | Smoother channel design |
-| **Wild Mana Contamination** | Unpurified energy disrupting pattern | Higher initial purity |
-| **Node Overload** | Excessive energy concentration | Better distribution architecture |
-| **Pattern Drift** | Gradual alteration during maintenance | Stronger anchoring points |
+| **模式不稳定** | 构建过程中框架减弱 | 更强的基础魔力结构 |
+| **元素渗漏** | 意外的元素影响 | 更好的成分隔离 |
+| **共振冲突** | 不和谐的频率交互 | 频率匹配技术 |
+| **意图扩散** | 不清晰的目的导致扩散效果 | 更清晰的可视化 |
+| **能量瓶颈** | 模式部分受限的流动 | 更平滑的通道设计 |
+| **狂野魔力污染** | 未净化的能量破坏模式 | 更高的初始纯度 |
+| **节点过载** | 过度的能量集中 | 更好的分配架构 |
+| **模式漂移** | 维护期间逐渐改变 | 更强的锚定点 |
 
-### Risk Assessment
+### 风险评估
 
-Risk factors in spell construction can be quantified:
+法术构建中的风险因素可以量化：
 
 ```
-Risk Factor = (Spell Complexity × Power Level) ÷ (Caster Skill × Purity Level)
+风险因素 = (法术复杂性 × 力量等级) ÷ (施法者技能 × 纯度等级)
 ```
 
-| Risk Factor | Potential Outcome |
+| 风险因素 | 潜在结果 |
 |-------------|-------------------|
-| <0.5 | Safe casting with high reliability |
-| 0.5-1.0 | Minor imperfections but generally successful |
-| 1.0-2.0 | Significant chance of partial failure or side effects |
-| 2.0-3.0 | High probability of spell failure or backfire |
-| >3.0 | Extreme danger to caster and surroundings |
+| <0.5 | 安全施法，可靠性高 |
+| 0.5-1.0 | 轻微缺陷，但通常成功 |
+| 1.0-2.0 | 部分失败或副作用的几率很大 |
+| 2.0-3.0 | 法术失败或反噬的可能性很高 |
+| >3.0 | 对施法者和周围环境的极端危险 |
 
-## Advanced Techniques
+## 高级技巧
 
-### Pattern Optimization
+### 模式优化
 
-Master spellcrafters employ specialized techniques:
+大师级施法者采用专门的技术：
 
-- **Energy Minimization**: Reducing total mana requirements while maintaining effect
-- **Resonance Amplification**: Using harmonics to enhance effect without additional energy
-- **Pattern Compression**: Creating more efficient structures with fewer nodes
-- **Stability Enhancement**: Increasing pattern resilience while reducing Base Mana needs
-- **Multi-Effect Integration**: Combining multiple effects in single, unified patterns
-- **Adaptive Frameworks**: Creating patterns that adjust to changing conditions
+- **能量最小化**: 在保持效果的同时减少总魔力需求
+- **共振放大**: 使用谐波在不增加额外能量的情况下增强效果
+- **模式压缩**: 创建具有更少节点的更高效的结构
+- **稳定性增强**: 在降低基础魔力需求的同时提高模式弹性
+- **多效果集成**: 在单一统一模式中组合多个效果
+- **自适应框架**: 创建适应变化条件的模式
 
-### Signature Customization
+### 签名定制
 
-Experienced casters develop personal variations:
+经验丰富的施法者会开发个人变化：
 
-- **Resonance Tuning**: Adjusting the pattern's fundamental frequency
-- **Component Substitution**: Using alternative elemental combinations
-- **Efficiency Profiling**: Optimizing for personal magical strengths
-- **Pattern Stylization**: Adding distinctive geometries or sequences
-- **Output Modulation**: Customizing effect manifestation characteristics
-- **Control Interface**: Personalizing how will connects to pattern
+- **共振调谐**: 调整模式的基本频率
+- **成分替代**: 使用替代元素组合
+- **效率分析**: 针对个人魔法优势进行优化
+- **模式风格化**: 添加独特的几何结构或序列
+- **输出调制**: 自定义效果表现特征
+- **控制界面**: 个性化意志如何连接到模式
 
-### The Spell Creation Process
+### 法术创建过程
 
-Developing new spells follows a methodical progression:
+开发新的法术遵循有条不紊的进展：
 
-1. **Effect Conceptualization**: Defining the desired outcome precisely
-2. **Theoretical Modeling**: Creating mathematical or conceptual models
-3. **Component Analysis**: Determining optimal elemental proportions
-4. **Pattern Prototyping**: Designing preliminary structures
-5. **Test Casting**: Experimental implementation with safety measures
-6. **Refinement Cycles**: Iterative improvement based on results
-7. **Efficiency Optimization**: Minimizing energy requirements
-8. **Stability Testing**: Ensuring consistent, safe performance
-9. **Documentation**: Recording precise construction parameters
-10. **Teaching Adaptation**: Modifying for transmission to others
+1. **效果概念化**: 精确定义期望的结果
+2. **理论建模**: 创建数学或概念模型
+3. **成分分析**: 确定最佳元素比例
+4. **模式原型设计**: 设计初步结构
+5. **测试施法**: 通过安全措施进行实验性实施
+6. **改进周期**: 基于结果的迭代改进
+7. **效率优化**: 最小化能量需求
+8. **稳定性测试**: 确保一致、安全的性能
+9. **文档**: 记录精确的构建参数
+10. **教学改编**: 修改以便传递给他人
 
-## Practical Application Example: Fireball Spell
+## 实用应用示例：火球术
 
-### Component Analysis
-- **Primary Effect**: Heat and explosive force (Pyromana)
-- **Delivery Mechanism**: Projected energy (Aeromana)
-- **Control System**: Directed target selection (Base Mana)
-- **Containment**: Preventing premature detonation (Base Mana + Terramana)
+### 成分分析
+- **主要效果**: 热量和爆炸力 (火焰魔力 Pyromana)
+- **传递机制**: 投射能量 (空气魔力 Aeromana)
+- **控制系统**: 指向目标选择 (基础魔力)
+- **遏制**: 避免过早引爆 (基础魔力 + 大地魔力 Terramana)
 
-### Elemental Composition
-- 50% Pyromana: Primary effect generation
-- 20% Aeromana: Projection and movement
-- 10% Terramana: Containment and stability
-- 20% Base Mana: Overall structure and control
+### 元素组成
+- 50% 火焰魔力: 主要效果生成
+- 20% 空气魔力: 投射和运动
+- 10% 大地魔力: 遏制和稳定
+- 20% 基础魔力: 整体结构和控制
 
-### Pattern Structure
-1. **Core Node**: Concentrated Pyromana reservoir
-2. **Projection Channel**: Aeromana pathway for targeting
-3. **Containment Shell**: Terramana-reinforced boundary
-4. **Trigger Mechanism**: Controlled dissolution point
-5. **Guidance System**: Will-linked directional control
+### 模式结构
+1. **核心节点**: 集中火焰魔力水库
+2. **投射通道**: 用于瞄准的空气魔力通道
+3. **遏制壳**: 大地魔力加强的边界
+4. **触发机制**: 受控解体点
+5. **引导系统**: 意志链接的方向控制
 
-### Construction Sequence
-1. Form Base Mana framework
-2. Specialize central portion to Pyromana
-3. Create Terramana containment boundary
-4. Establish Aeromana projection pathway
-5. Insert controlled trigger mechanism
-6. Link to targeting will
-7. Launch when ready
+### 构建序列
+1. 形成基础魔力框架
+2. 将中心部分专门化为火焰魔力
+3. 创建大地魔力遏制边界
+4. 建立空气魔力投射通道
+5. 插入受控触发机制
+6. 链接到目标意志
+7. 准备好时启动
 
-## Conclusion
+## 结论
 
-Spell Construction represents the culmination of magical knowledge and skill, where theory becomes practice and intent becomes reality. By understanding the principles of pattern architecture, mana selection, and construction techniques, spellcasters can create, adapt, and optimize magical effects to suit their needs. From the simplest cantrip to the most complex ritual, all magic follows these fundamental principles of construction.
+法术构建代表了魔法知识和技能的顶峰，在这里，理论变为实践，意图变为现实。 通过理解模式架构、魔力选择和构建技术的原则，施法者可以创建、调整和优化魔法效果以满足他们的需求。 从最简单的戏法到最复杂的仪式，所有魔法都遵循这些基本的构建原则。
 
-> *"To construct a spell is to write poetry with pure energy, to compose music with the fundamental forces of creation, to paint with the very essence of reality itself."* — Illuminara Brightweave, Spellcraft Grandmaster 
- 
+> *"构建法术是用纯粹的能量写诗，用创造的基本力量谱写音乐，用现实的本质本身作画。"* — Illuminara Brightweave, 法术构建大师
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

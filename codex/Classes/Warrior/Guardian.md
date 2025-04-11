@@ -1,91 +1,95 @@
-# **Guardian**: The Shield of the Innocent
+# **Guardian**: 无辜者的盾牌
 
-[**Guardians**](/codex/Classes/Warrior/Guardian.md) are the defensive specialists of the [**Warrior**](/codex/Classes/Warrior/Warrior.md) class, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a protective barrier, they stand between danger and those they protect, creating a unique melody of existence that emphasizes defense, resilience, and sacrifice.
+[**守护者 (Guardian)**](/codex/Classes/Warrior/Guardian.md) 是 [**战士 (Warrior)**](/codex/Classes/Warrior/Warrior.md) 职业的防御专家，他们的身体是 [**Exanthis**](/codex/Basic/Exanthis.md)、[**灵魂 (Souls)**](/codex/Basic/Soul.md) 和 **法力容量 (Mana Capacity)** 的和谐融合。 就像一道保护屏障，他们站在危险与他们所保护的人之间，创造了一种独特的存在旋律，强调防御、韧性和牺牲。
 
-## Elemental Composition
+## 元素构成
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **guardians** forms a harmony that favors defensive capabilities:
+正如 [职业 (Classes)](/codex/Classes/Classes.md) 中详述的那样，**守护者 (guardian)** 的典型比例形成了一种有利于防御能力的和谐：
 
-| Element | Percentage | Function |
+| 元素 (Element) | 百分比 (Percentage) | 功能 (Function) |
 |---------|------------|----------|
-| **Exanthis** | 65% | The crystalline heart that provides exceptional physical durability and resilience |
-| **Soul** | 20% | The ethereal essence that shapes a protective and selfless consciousness |
-| **Mana Capacity** | 15% | The bridge between worlds that enables limited protective magic |
+| **Exanthis** | 65% | 提供卓越的物理耐久度和韧性的晶体核心 |
+| **灵魂 (Soul)** | 20% | 塑造保护性和无私意识的以太精华 |
+| **法力容量 (Mana Capacity)** | 15% | 连接世界的桥梁，能够实现有限的保护魔法 |
 
-This composition grants **guardians** their characteristic defensive prowess but limits their offensive capabilities compared to other warrior subclasses, like a shield that excels at blocking but cannot strike.
+这种构成赋予了 **守护者 (guardians)** 其特有的防御能力，但限制了他们相对于其他战士子职业的进攻能力，就像一个擅长格挡但无法攻击的盾牌。
 
-## Physical Characteristics
+## 物理特征
 
-**Guardians** are known for their defensive focus and protective nature:
-- Sturdy build with broad shoulders and strong legs, like a fortress built to withstand siege
-- Eyes that reflect vigilance and concern for others, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of shields and defensive weapons, like a musician who has perfected the art of the drum
-- Presence that reassures allies and intimidates enemies, like a protective wall that stands firm
-- Stance that emphasizes defense and readiness to intercept attacks, like a guardian poised to protect
+**守护者 (Guardians)** 以其防御重心和保护性质而闻名：
+- 坚固的体格，宽阔的肩膀和强壮的腿，就像一座为承受围攻而建造的堡垒
+- 反映警惕和对他人关心的眼睛，显示了他们与 [**灵魂 (Soul)**](/codex/Basic/Soul.md) 的联系
+- 掌握了盾牌和防御武器使用的双手，就像一位精通鼓艺的音乐家
+- 给予盟友安心，震慑敌人的存在，就像一面坚固的保护墙
+- 强调防御和拦截攻击的姿态，就像一个准备好保护的守护者
 
-## Defensive Affinity
+## 防御亲和性
 
-**Guardians** demonstrate exceptional proficiency in defensive combat, like virtuoso musicians who have mastered the art of protection. Their composition allows them to:
-- Block and intercept attacks directed at allies, like a shield that stands between danger and safety
-- Create defensive formations that protect groups, like a conductor orchestrating a protective symphony
-- Endure punishment that would incapacitate others, like a fortress that weathers the storm
+**守护者 (Guardians)** 在防御战斗中表现出卓越的熟练程度，就像精通保护艺术的 virtuoso 音乐家一样。 他们的构成使他们能够：
+- 格挡和拦截针对盟友的攻击，就像一面站在危险和安全之间的盾牌
+- 创建保护团体的防御阵型，就像一位指挥家编排一场保护交响乐
+- 承受会使其他人丧失能力的惩罚，就像一座经受风暴考验的堡垒
 
-This specialization makes **guardians** capable of achieving the highest levels of proficiency in defensive techniques, though they may struggle with tasks requiring offensive power or mobility, like a shield that excels at protection but cannot strike with the same force as a sword.
+这种专业化使 **守护者 (guardians)** 能够在防御技术中达到最高水平的熟练程度，尽管他们可能难以完成需要进攻力量或机动性的任务，就像一面擅长保护但无法像剑一样有力地攻击的盾牌。
 
-## Training and Development
+## 训练和发展
 
-The path of a **guardian** involves rigorous defensive training and mental discipline:
-- Daily shield practice and defensive drills, like musicians practicing protective techniques
-- Physical conditioning to build endurance and resilience, like strengthening a fortress's walls
-- Study of defensive tactics and protective strategies, like learning the theory behind protective magic
-- Meditation to develop focus and awareness of threats, like a sentinel who never sleeps
+**守护者 (guardian)** 的道路涉及严格的防御训练和精神纪律：
+- 每日盾牌练习和防御演习，就像音乐家练习保护技术一样
+- 身体调节以建立耐力和韧性，就像加强堡垒的墙壁一样
+- 研究防御战术和保护策略，就像学习保护魔法背后的理论一样
+- 冥想以培养注意力和对威胁的感知，就像一个永不眠的哨兵
 
-## Equipment and Gear
+## 装备和装备
 
-**Guardians** rely on various defensive equipment to enhance their protective abilities:
-- Shields ranging from small bucklers to massive tower shields, like different instruments for different protective needs
-- Defensive armor that provides maximum protection, like a well-fitted case for a precious instrument
-- Defensive accessories such as bracers, greaves, and protective talismans, like accessories that enhance an instrument's protective capabilities
+**守护者 (Guardians)** 依靠各种防御装备来增强其保护能力：
+- 盾牌的范围从小型巴克勒盾到大型塔盾，就像不同乐器满足不同的保护需求
+- 提供最大保护的防御盔甲，就像一个为珍贵乐器量身定制的盒子
+- 防御配件，例如护臂、护胫和保护护身符，就像增强乐器保护能力的配件
 
-## Guardian Techniques
+## 守护者技巧
 
-**Guardians** employ various techniques to protect themselves and others:
+**守护者 (Guardians)** 采用各种技巧来保护自己和他人：
 
-### Shield Wall
+### 盾墙 (Shield Wall)
 
-The **Shield Wall** technique allows guardians to form an impenetrable defensive line, like a wall of shields that blocks all attacks. This technique is particularly effective when multiple guardians work together, creating a defensive formation that can protect entire groups.
+**盾墙 (Shield Wall)** 技术允许守护者形成一道坚不可摧的防线，就像一道阻挡所有攻击的盾牌墙。 当多个守护者协同工作时，这种技术特别有效，创建一种可以保护整个团体的防御阵型。
 
-### Intercept
+### 拦截 (Intercept)
 
-The **Intercept** technique allows guardians to move between an ally and an incoming attack, like a shield that leaps to protect. This technique requires exceptional timing and awareness, allowing guardians to protect allies even when they are not directly in front of them.
+**拦截 (Intercept)** 技术允许守护者在盟友和来袭攻击之间移动，就像一面跃起来保护的盾牌。 这种技术需要卓越的时机和意识，使守护者即使在盟友不在他们正前方时也能保护他们。
 
-### Defensive Stance
+### 防御姿态 (Defensive Stance)
 
-The **Defensive Stance** technique allows guardians to adopt a posture that maximizes their defensive capabilities, like a fortress that stands ready to weather any storm. This technique reduces the guardian's mobility but significantly increases their ability to block and absorb attacks.
+**防御姿态 (Defensive Stance)** 技术允许守护者采取一种最大化其防御能力的姿势，就像一座准备好经受任何风暴考验的堡垒。 这种技术降低了守护者的机动性，但显着提高了他们格挡和吸收攻击的能力。
 
-### Protective Aura
+### 保护光环 (Protective Aura)
 
-The **Protective Aura** technique allows guardians to extend their protective abilities to nearby allies, like a shield that grows to protect an entire group. This technique requires significant concentration and energy but can provide protection to multiple allies simultaneously.
+**保护光环 (Protective Aura)** 技术允许守护者将其保护能力扩展到附近的盟友，就像一面增长以保护整个团体的盾牌。 这种技术需要大量的注意力和能量，但可以同时为多个盟友提供保护。
 
-## Notable Guardian Traits
+## 值得注意的守护者特质
 
-- **Defensive Mastery**: Guardians excel in defensive combat, often specializing in specific protective techniques
-- **Physical Resilience**: Guardians can endure punishment that would incapacitate others
-- **Protective Instinct**: Guardians develop a keen sense for detecting and responding to threats
-- **Selflessness**: Many guardians develop a strong sense of duty to protect others
-- **Discipline**: Guardians maintain rigorous training regimens to maintain their defensive abilities
+- **防御精通 (Defensive Mastery)**：守护者擅长防御战斗，通常专注于特定的保护技术
+- **身体韧性 (Physical Resilience)**：守护者可以承受会使其他人丧失能力的惩罚
+- **保护本能 (Protective Instinct)**：守护者培养出一种敏锐的感知和应对威胁的能力
+- **无私 (Selflessness)**：许多守护者培养出一种强烈的保护他人的责任感
+- **纪律 (Discipline)**：守护者保持严格的训练制度以维持其防御能力
 
-## Guardian Orders
+## 守护者教团
 
-Guardian society is organized into numerous orders, each with its own specialties and techniques:
+守护者社会被组织成众多教团，每个教团都有其自身的专业和技术：
 
-| Order | Specialty | Territory | Notable Traits |
+| 教团 (Order) | 专业 (Specialty) | 领地 (Territory) | 值得注意的特质 (Notable Traits) |
 |---------|---------------|---------|-------------------|
-| **Shield Bearers** | Personal protection, bodyguards | Urban centers | Personal defense, close protection |
-| **Wall Wardens** | Group protection, formation defense | Military fortresses | Defensive formations, shield walls |
-| **Sanctuary Keepers** | Place protection, territory defense | Settlements | Territory defense, settlement protection |
-| **Light Wardens** | Magical protection, ward creation | Magical realms | Magical wards, protective enchantments |
-| **Vanguard** | Front-line defense, battle protection | Battlefields | Battle defense, front-line protection |
-| **Sentinel** | Watch protection, threat detection | Border regions | Threat detection, watch protection |
+| **持盾者 (Shield Bearers)** | 个人保护，保镖 | 城市中心 | 个人防御，近身保护 |
+| **城墙守护者 (Wall Wardens)** | 团体保护，阵型防御 | 军事堡垒 | 防御阵型，盾墙 |
+| **圣所守护者 (Sanctuary Keepers)** | 地点保护，领地防御 | 定居点 | 领地防御，定居点保护 |
+| **光明守护者 (Light Wardens)** | 魔法保护，结界创造 | 魔法领域 | 魔法结界，保护附魔 |
+| **先锋 (Vanguard)** | 前线防御，战斗保护 | 战场 | 战斗防御，前线保护 |
+| **哨兵 (Sentinel)** | 观察保护，威胁检测 | 边境地区 | 威胁检测，观察保护 |
 
-Understanding the nature of **guardians** provides insight into the protective aspects of the world of **OpenFantasy**, like listening to the steady rhythms that form the foundation of the symphony of defense. 
+理解 **守护者 (guardians)** 的本质可以深入了解 **OpenFantasy** 世界的保护方面，就像聆听构成防御交响乐基础的稳定节奏一样。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

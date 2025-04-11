@@ -1,121 +1,125 @@
-# Animals of OpenFantasy
+# OpenFantasy 中的动物
 
-> *"From the smallest songbird to the mightiest leviathan, the animal kingdom provides the vibrant backdrop against which all stories unfold."*
+> *"从最小的鸣禽到最强大的利维坦，动物王国为所有故事的展开提供了充满活力的背景。"*
 
-## Overview
+## 概述
 
-Animals in OpenFantasy represent the diverse non-sentient fauna that inhabit the world's ecosystems. While they lack the advanced reasoning and civilization-building capabilities of sentient species, animals possess varying degrees of intelligence, instinct, and in some cases, innate magical properties.
+OpenFantasy 中的动物代表了栖息于世界生态系统中的各种非感知动物群。虽然它们缺乏像有知觉物种那样的先进推理和文明建设能力，但动物具有不同程度的智力、本能，在某些情况下，还具有天生的魔法属性。
 
-Unlike the purely magical beings or constructed creatures, animals evolved naturally within the world's ecosystems, though some have been influenced by magical environments or selective breeding by sentient species.
+与纯粹的魔法生物或构造生物不同，动物在世界生态系统中自然进化而来，尽管有些动物受到了魔法环境或有知觉物种选择性繁殖的影响。
 
-## Elemental Composition
+## 元素构成
 
-Animals typically have a higher proportion of Exanthis (physical form) compared to Soul and Mana Capacity, with some notable exceptions:
+与灵魂和法力容量相比，动物通常具有更高比例的 Exanthis（物理形态），但也有一些值得注意的例外：
 
-| Animal Category | Typical Elemental Ratio | Notes |
+| 动物类别 | 典型元素比例 | 备注 |
 |-----------------|-------------------------|-------|
-| Common Mundane | E: 75-90%, S: 8-20%, M: 2-5% | Most standard wildlife |
-| Companion Animals | E: 65-85%, S: 12-25%, M: 3-10% | Domesticated species with higher intelligence |
-| Apex Predators | E: 70-85%, S: 10-20%, M: 5-15% | Evolved for hunting efficiency |
-| Magical Animals | E: 50-75%, S: 5-15%, M: 15-45% | Species with innate magical properties |
+| 普通凡人 | E: 75-90%, S: 8-20%, M: 2-5% | 大多数标准野生动物 |
+| 伴侣动物 | E: 65-85%, S: 12-25%, M: 3-10% | 具有更高智力的家养物种 |
+| 顶级掠食者 | E: 70-85%, S: 10-20%, M: 5-15% | 为狩猎效率而进化 |
+| 魔法动物 | E: 50-75%, S: 5-15%, M: 15-45% | 具有天生魔法属性的物种 |
 
-## Animal Classifications
+## 动物分类
 
-### Domesticated Animals
+### 家养动物
 
-Species that have been selectively bred by sentient races for specific purposes:
+为特定目的而由有知觉种族选择性繁殖的物种：
 
-| Category | Examples | Primary Uses |
+| 类别 | 例子 | 主要用途 |
 |----------|----------|--------------|
-| **Working Animals** | Horses, oxen, pack mules | Transportation, agriculture, labor |
-| **Companion Animals** | Dogs, cats, small birds | Emotional bonding, protection, pest control |
-| **Livestock** | Cattle, sheep, poultry | Food production, materials (wool, leather) |
-| **Guardian Beasts** | Wardogs, sentinel falcons | Security, perimeter control |
+| **工作动物** | 马、牛、驮骡 | 运输、农业、劳动力 |
+| **伴侣动物** | 狗、猫、小鸟 | 情感联系、保护、害虫控制 |
+| **牲畜** | 牛、羊、家禽 | 食品生产、材料（羊毛、皮革） |
+| **守护兽** | 守卫犬、哨兵猎鹰 | 安全、周边控制 |
 
-→ See [Domesticated Animals](Domesticated.md) for detailed information.
+→ 参见 [Domesticated Animals](Domesticated.md) 以获取详细信息。
 
-### Wild Animals
+### 野生动物
 
-Creatures that exist independently in natural ecosystems:
+在自然生态系统中独立存在的生物：
 
-| Category | Examples | Ecological Role |
+| 类别 | 例子 | 生态作用 |
 |----------|----------|----------------|
-| **Herbivores** | Deer, rabbits, grazing beasts | Primary consumers, seed dispersal |
-| **Predators** | Wolves, large cats, birds of prey | Population control, ecosystem balance |
-| **Scavengers** | Vultures, carrion beetles | Decomposition, disease prevention |
-| **Pollinators** | Bees, butterflies, hummingbirds | Plant reproduction, ecosystem sustainability |
+| **食草动物** | 鹿、兔子、放牧野兽 | 一级消费者、种子传播 |
+| **掠食者** | 狼、大型猫科动物、猛禽 | 种群控制、生态系统平衡 |
+| **食腐动物** | 秃鹫、食腐甲虫 | 分解、疾病预防 |
+| **授粉者** | 蜜蜂、蝴蝶、蜂鸟 | 植物繁殖、生态系统可持续性 |
 
-→ See [Wild Animals](Wild.md) for detailed information.
+→ 参见 [Wild Animals](Wild.md) 以获取详细信息。
 
-### Aquatic Creatures
+### 水生生物
 
-Beings adapted to life in water environments:
+适应水生环境生活的生物：
 
-| Category | Examples | Habitat |
+| 类别 | 例子 | 栖息地 |
 |----------|----------|---------|
-| **Marine Mammals** | Whales, dolphins, seals | Oceans, coastal waters |
-| **Fish Species** | Trout, sharks, deep-sea species | Rivers, lakes, oceans |
-| **Crustaceans & Mollusks** | Crabs, octopi, giant squid | Ocean floors, tidal zones |
-| **Amphibious** | Frogs, newts, transitional species | Wetlands, shorelines |
+| **海洋哺乳动物** | 鲸鱼、海豚、海豹 | 海洋、沿海水域 |
+| **鱼类** | 鳟鱼、鲨鱼、深海物种 | 河流、湖泊、海洋 |
+| **甲壳类和软体动物** | 螃蟹、章鱼、巨型鱿鱼 | 海底、潮间带 |
+| **两栖动物** | 青蛙、蝾螈、过渡物种 | 湿地、海岸线 |
 
-→ See [Aquatic Animals](Aquatic.md) for detailed information.
+→ 参见 [Aquatic Animals](Aquatic.md) 以获取详细信息。
 
-### Magical Animals
+### 魔法动物
 
-Creatures with innate magical properties, evolved in areas with high mana concentration:
+具有天生魔法属性的生物，在法力浓度高的地区进化而来：
 
-| Category | Examples | Magical Properties |
+| 类别 | 例子 | 魔法属性 |
 |----------|----------|-------------------|
-| **Elemental Aligned** | Phoenixes, frost wolves | Manifestation of elemental energies |
-| **Mythical Beasts** | Griffins, unicorns, manticores | Complex magical anatomies |
-| **Mana Sensitives** | Arcane ravens, spell hounds | Detection and interaction with magical energies |
-| **Transmuted Species** | Crystal butterflies, glowfish | Permanently altered by magical environments |
+| **元素对齐** | 凤凰、霜狼 | 元素能量的显现 |
+| **神话野兽** | 格里芬、独角兽、蝎狮 | 复杂的魔法解剖结构 |
+| **法力敏感者** | 奥术乌鸦、法术猎犬 | 对魔法能量的检测和互动 |
+| **嬗变物种** | 水晶蝴蝶、发光鱼 | 被魔法环境永久改变 |
 
-→ See [Magical Animals](Magical.md) for detailed information.
+→ 参见 [Magical Animals](Magical.md) 以获取详细信息。
 
-## Ecological Significance
+## 生态意义
 
-Animals play crucial roles in maintaining the ecological balance of OpenFantasy:
+动物在维持 OpenFantasy 的生态平衡中发挥着至关重要的作用：
 
-### Natural Cycles
+### 自然循环
 
-- **Food Webs**: Complex interdependent relationships between species
-- **Material Cycles**: Contribution to nutrient cycling through consumption and decomposition
-- **Environmental Shaping**: Landscape modification through grazing, burrowing, and other behaviors
-- **Magical Energy Distribution**: Some species serve as natural conduits or regulators of magical energy
+- **食物网**: 物种之间复杂的相互依赖关系
+- **物质循环**: 通过消费和分解对养分循环的贡献
+- **环境塑造**: 通过放牧、掘穴和其他行为改变景观
+- **魔法能量分配**: 一些物种充当魔法能量的天然管道或调节器
 
-### Interactions with Sentient Species
+### 与有知觉物种的互动
 
-- **Resource Provision**: Food, materials, labor, and transportation
-- **Companionship**: Emotional bonds between animals and sentient beings
-- **Magical Assistance**: Familiars, magical detection, spell components
-- **Cultural Significance**: Symbolism, spiritual importance, artistic inspiration
+- **资源供应**: 食物、材料、劳动力和运输
+- **陪伴**: 动物与有知觉生物之间的情感纽带
+- **魔法援助**: 魔法宠物、魔法探测、法术组件
+- **文化意义**: 象征意义、精神重要性、艺术灵感
 
-## Mana Interaction
+## 法力互动
 
-While most animals cannot consciously manipulate mana as sentient species do, their relationship with magical energy takes various forms:
+虽然大多数动物不能像有知觉物种那样有意识地操纵法力，但它们与魔法能量的关系有多种形式：
 
-| Interaction Type | Manifestation | Examples |
+| 互动类型 | 表现形式 | 例子 |
 |------------------|---------------|----------|
-| **Passive Absorption** | Accumulation of ambient magical energy | Animals in mana-rich environments gradually developing magical traits |
-| **Instinctive Channeling** | Natural, non-conscious use of magical abilities | A phoenix's rebirth cycle, a unicorn's purification abilities |
-| **Environmental Adaptation** | Physical changes in response to magical surroundings | Creatures in wild magic zones developing protective adaptations |
-| **Familiar Bonds** | Enhanced magical capabilities through connection with mages | Wizard's familiar gaining intelligence and magical resistance |
+| **被动吸收** | 环境魔法能量的积累 | 法力丰富的环境中的动物逐渐发展出魔法特征 |
+| **本能通道** | 自然、非意识地使用魔法能力 | 凤凰的重生周期，独角兽的净化能力 |
+| **环境适应** | 响应魔法环境的物理变化 | 狂野魔法区中的生物发展出保护性适应 |
+| **宠物纽带** | 通过与法师的联系增强魔法能力 | 巫师的宠物获得智力和魔法抗性 |
 
-## Ecological Zones and Endemic Species
+## 生态区域和地方物种
 
-OpenFantasy features diverse biomes, each with specialized animal adaptations:
+OpenFantasy 具有多种生物群落，每个生物群落都具有专门的动物适应能力：
 
-| Biome | Notable Species | Special Adaptations |
+| 生物群落 | 著名物种 | 特殊适应 |
 |-------|-----------------|---------------------|
-| **Frostwilds** | Snow lions, glacier bears, frost eagles | Cold resistance, seasonal camouflage |
-| **Verdant Plains** | Thunderhooves (bison), prairie wolves, hawk swarms | Herd behaviors, endurance migration |
-| **Ancient Forests** | Shadowbears, treestriders, whispermoths | Magical camouflage, connection to forest spirits |
-| **Desert Expanse** | Sand wyrms, heat scorpions, mirage gazelles | Water conservation, heat regulation |
-| **Enchanted Marshes** | Glowtoads, spell leeches, mist cranes | Mana filtration, magical detoxification |
-| **Crystal Mountains** | Stone eagles, echo goats, geomite swarms | Mineral metabolism, navigation in magnetic fields |
-| **Abyssal Depths** | Pressure sharks, luminfin anglers, void eels | Extreme pressure adaptation, bioluminescence |
+| **霜冻荒野** | 雪狮、冰川熊、霜鹰 | 耐寒性、季节性伪装 |
+| **翠绿平原** | 雷蹄兽（野牛）、草原狼、鹰群 | 群体行为、耐力迁徙 |
+| **远古森林** | 影熊、树行者、低语蛾 | 魔法伪装、与森林精灵的联系 |
+| **沙漠广袤** | 沙地蠕虫、热蝎、海市蜃楼瞪羚 | 节约用水、热调节 |
+| **魔法沼泽** | 发光蟾蜍、法术水蛭、雾鹤 | 法力过滤、魔法解毒 |
+| **水晶山脉** | 石鹰、回声山羊、地脉虫群 | 矿物代谢、磁场导航 |
+| **深渊深处** | 压力鲨鱼、发光鳍琵琶鱼、虚空鳗鱼 | 极端压力适应、生物发光 |
 
 ---
 
-> *"To understand a land, one must first understand its creatures—for they are the living expression of the environment itself."* — Naturalist Elara Greenmantle 
+> *"要了解一个地方，首先必须了解它的生物——因为它们是环境本身的生动表达。"* — 自然学家 Elara Greenmantle
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

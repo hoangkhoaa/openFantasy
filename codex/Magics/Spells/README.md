@@ -1,126 +1,130 @@
-# OpenFantasy Magic System
+# OpenFantasy 魔法系统
 
-## Spells Documentation Guide
+## 咒语文档指南
 
-This repository contains documentation for spells in the OpenFantasy world, following a standardized format for consistency.
+该仓库包含了 OpenFantasy 世界中咒语的文档，遵循标准化格式以保证一致性。
 
-## Quick Reference
+## 快速参考
 
-- [Spell Categories](#spell-categories)
-- [Documentation Format](#documentation-format)
-- [Mana Types](#mana-types)
-- [Purity Requirements](#purity-requirements)
-- [Character Progression](#character-progression)
+- [咒语类别](#spell-categories)
+- [文档格式](#documentation-format)
+- [魔力类型](#mana-types)
+- [纯度要求](#purity-requirements)
+- [角色成长](#character-progression)
 
-## Spell Categories
+## 咒语类别
 
-| Category | Description |
+| 类别 | 描述 |
 |----------|-------------|
-| **Elemental** | Manipulate primary elements (Fire, Water, Earth, Air, Light, Shadow, Life, Death) |
-| **Utility** | Practical spells for everyday tasks and problem-solving |
-| **Protection** | Defensive magic that shields or counters hostile forces |
-| **Divination** | Reveal information, enhance perception, provide insight |
-| **Illusion** | Create false sensory impressions or alter perception |
-| **Enchantment** | Imbue objects or beings with magical properties |
-| **Transformation** | Change physical form or properties of targets |
-| **Summoning** | Call creatures, entities, or objects from elsewhere |
+| **元素** | 操控主要元素（火、水、土、气、光、影、生命、死亡） |
+| **实用** | 用于日常任务和解决问题的实用咒语 |
+| **防护** | 防御魔法，用于抵御或对抗敌对力量 |
+| **预言** | 揭示信息、增强感知、提供洞察力 |
+| **幻术** | 创造虚假的感官印象或改变感知 |
+| **附魔** | 为物体或生物赋予魔法属性 |
+| **变形** | 改变目标物理形态或属性 |
+| **召唤** | 从其他地方召唤生物、实体或物体 |
 
-## Documentation Format
+## 文档格式
 
-Each spell document follows this structure:
+每个咒语文档遵循以下结构：
 
-### 1. Basic Information
-- Spell name and overview
-- Casting information (difficulty, time, duration, range, components)
-- Technical details (mana types, purity requirements, complexity)
+### 1. 基本信息
+- 咒语名称和概述
+- 施法信息（难度、时间、持续时间、范围、组件）
+- 技术细节（魔力类型、纯度要求、复杂性）
 
-### 2. Technical Details
+### 2. 技术细节
 
-#### A. Mana Type Distribution
-Proportions of mana types (e.g., "Base Mana 60%, Umbramana 30%, Luxmana 10%")
+#### A. 魔力类型分布
+魔力类型的比例（例如，“基础魔力 60%，暗影魔力 30%，光明魔力 10%”）
 
-#### B. Purity Requirements
-Minimum purity level needed to cast successfully
+#### B. 纯度要求
+成功施法所需的最低纯度等级
 
-#### C. Pattern Structure
-Magical configuration that creates the spell effect
+#### C. 模式结构
+创造咒语效果的魔法配置
 
-### 3. Practical Information
-- Effects and limitations
-- Common applications
-- Variations and adaptations
+### 3. 实用信息
+- 效果和限制
+- 常见应用
+- 变体和改编
 
-### 4. Learning and Risks
-- Risks and miscast effects
-- Learning progression
-- Historical context
+### 4. 学习与风险
+- 风险和施法失败效果
+- 学习过程
+- 历史背景
 
-## Mana Types
+## 魔力类型
 
-| Mana Type | Primary Contribution |
+| 魔力类型 | 主要贡献 |
 |-----------|----------------------|
-| **Base Mana** | Structural stability and basic magical framework |
-| **Pyromana** | Heat, energy, transformation |
-| **Hydromana** | Fluidity, adaptability, healing |
-| **Terramana** | Solidity, permanence, physical manifestation |
-| **Aeromana** | Movement, freedom, range |
-| **Luxmana** | Illumination, revelation, purification |
-| **Umbramana** | Concealment, subtlety, psychological effects |
-| **Vitaemana** | Growth, healing, enhancement |
-| **Mortismana** | Decay, negation, spiritual manipulation |
+| **基础魔力** | 结构稳定性和基本魔法框架 |
+| **火焰魔力** | 热量、能量、转化 |
+| **水流魔力** | 流动性、适应性、治愈 |
+| **大地魔力** | 坚固性、持久性、物理显现 |
+| **空气魔力** | 移动、自由、范围 |
+| **光明魔力** | 照明、启示、净化 |
+| **暗影魔力** | 隐藏、微妙、心理影响 |
+| **生命魔力** | 生长、治愈、增强 |
+| **死亡魔力** | 衰败、否定、精神操纵 |
 
-## Purity Requirements
+## 纯度要求
 
-### Purity Levels
+### 纯度等级
 
-| Category | Range | Typical Use |
+| 类别 | 范围 | 典型用途 |
 |----------|-------|-------------|
-| **Crude** | 0-10% | Emergency only |
-| **Basic** | 10-35% | Novice spells |
-| **Refined** | 35-65% | Adept spells |
-| **Superior** | 65-85% | Expert spells |
-| **Perfect** | 85-100% | Master spells |
+| **粗糙** | 0-10% | 紧急情况专用 |
+| **基础** | 10-35% | 新手咒语 |
+| **精炼** | 35-65% | 熟练咒语 |
+| **高级** | 65-85% | 专家咒语 |
+| **完美** | 85-100% | 大师咒语 |
 
-### Effects on Spellcasting
+### 对施法的影响
 
-- **Below minimum**: Spell fails or produces unpredictable results
-- **At minimum**: Functions but may be less effective or stable
-- **Above minimum**: Gains enhanced effectiveness, precision, or duration
+- **低于最低**: 咒语失败或产生不可预测的结果
+- **达到最低**: 功能正常，但可能效果或稳定性较差
+- **高于最低**: 获得增强的效果、精度或持续时间
 
-### Example: Purity Influence Table
+### 示例：纯度影响表
 
-| Purity | Effect |
+| 纯度 | 效果 |
 |--------|--------|
-| 15-20% | Minimal effectiveness, barely functional |
-| 20-35% | Standard effect as described |
-| 35-50% | Enhanced effectiveness or precision |
-| 50%+ | Maximum potential achieved |
+| 15-20% | 效果极小，勉强能用 |
+| 20-35% | 效果如描述 |
+| 35-50% | 效果或精度增强 |
+| 50%+ | 达到最大潜力 |
 
-## Character Progression
+## 角色成长
 
-### Spell Mastery Path
+### 咒语精通路径
 
-1. **Novice**: Basic purity (10-35%), simple patterns
-2. **Adept**: Refined purity (35-65%), moderate complexity
-3. **Expert**: Superior purity (65-85%), complex patterns
-4. **Master**: Perfect purity (85%+), intricate patterns
+1. **新手**: 基础纯度 (10-35%)，简单模式
+2. **熟练**: 精炼纯度 (35-65%)，中等复杂性
+3. **专家**: 高级纯度 (65-85%)，复杂模式
+4. **大师**: 完美纯度 (85%+)，复杂精细模式
 
-### Key Development Areas
+### 主要发展领域
 
-- **Capacity**: Increasing mana reserves
-- **Purification**: Improving mana quality
-- **Pattern Knowledge**: Learning more complex spells
-- **Specialization**: Focusing on particular mana types
+- **容量**: 增加魔力储备
+- **纯化**: 提高魔力质量
+- **模式知识**: 学习更复杂的咒语
+- **专精**: 专注于特定的魔力类型
 
-## Spell Creation
+## 咒语创造
 
-Experienced casters can develop new spells through:
+经验丰富的施法者可以通过以下方式开发新咒语：
 
-1. Researching existing patterns
-2. Experimenting with mana proportions
-3. Testing practical applications
-4. Documenting successful configurations
+1. 研究现有的模式
+2. 试验魔力比例
+3. 测试实际应用
+4. 记录成功的配置
 
 ---
 
-> **Note**: For detailed information on mana purification, see [`ManaPurity.md`](/codex/Magics/ManaPurity.md) 
+> **注意**: 有关魔力纯化的详细信息，请参阅 [`ManaPurity.md`](/codex/Magics/ManaPurity.md)
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

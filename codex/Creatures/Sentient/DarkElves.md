@@ -156,4 +156,8 @@ Dark elves employ various techniques to achieve physical enhancement:
 
 These techniques are closely guarded secrets, known only to the most trusted members of dark elf society, like rare musical compositions that are performed only for select audiences.
 
-Understanding these physical enhancement variants provides insight into the diverse capabilities of dark elf society, like listening to the different voices that make up their dark symphony. 
+Understanding these physical enhancement variants provides insight into the diverse capabilities of dark elf society, like listening to the different voices that make up their dark symphony.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,235 +1,239 @@
-# **Resonants**: Harmonic Embodiments of Magical Symphony
+# **Resonants**: 魔法交响乐的和谐化身
 
-> *"To hear a Resonant choir is to understand the true music of magic itself—every note a perfect expression of elemental harmony."* — Melodius Harpweaver, Master Bardic Mage
+> *"聆听 Resonant 合唱团，就像理解魔法本身的真正音乐——每一个音符都是元素和谐的完美表达。"* — Melodius Harpweaver，吟游魔法大师
 
-## Quick Navigation
+## 快速导航
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Cultural Aspects](#cultural-aspects)
-- [Species Relationships](#species-relationships)
+- [元素构成](#elemental-composition)
+- [物理特征](#physical-characteristics)
+- [魔法亲和力](#magical-affinity)
+- [栖息地和分布](#habitat-and-distribution)
+- [文化方面](#cultural-aspects)
+- [物种关系](#species-relationships)
 
-## Overview
+## 概述
 
-Resonants are a rare and remarkable sentient species whose very bodies serve as living conduits for magical harmonics. Neither fully physical nor entirely magical, they exist in a state of perfect balance between material and magical realms. Their crystalline humanoid forms are composed of semi-transparent resonating tissues that naturally amplify and modulate magical energy. Born from the spontaneous coalescence of Base Mana around particularly harmonious magical frequencies, Resonants represent the living embodiment of magical theory's harmonic principles.
+Resonants 是一种罕见而卓越的智慧物种，它们的身体充当魔法谐波的活体管道。它们既非完全物质，也非完全魔法，存在于物质领域和魔法领域之间的完美平衡状态。它们的水晶人形由半透明的共振组织构成，这些组织自然地放大和调节魔法能量。Resonants 源于基础魔力在特别和谐的魔法频率周围自发凝聚，代表了魔法理论和谐原则的活生生的体现。
 
-## Elemental Composition
+## 元素构成
 
-**Resonants** possess a distinctive elemental composition unlike other sentient beings:
+**Resonants** 拥有与其他智慧生物不同的独特元素构成：
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | 灵魂 | 魔力容量 | 代表类型 |
 |----------|------|---------------|---------------------|
-| 30-40% | 30-40% | 30-40% | Standard Resonant |
-| 40-50% | 25-35% | 20-30% | **Crystal Resonant** with enhanced physical durability |
-| 25-35% | 35-45% | 25-35% | **Harmonic Resonant** with enhanced musical ability |
-| 20-30% | 25-35% | 40-50% | **Arcane Resonant** with exceptional magical prowess |
+| 30-40% | 30-40% | 30-40% | 标准 Resonant |
+| 40-50% | 25-35% | 20-30% | **水晶 Resonant**，具有增强的物理耐久性 |
+| 25-35% | 35-45% | 25-35% | **谐波 Resonant**，具有增强的音乐能力 |
+| 20-30% | 25-35% | 40-50% | **奥术 Resonant**，具有卓越的魔法实力 |
 
-### Individual Variations
+### 个体差异
 
-Unlike most beings whose elemental composition remains relatively fixed throughout life, Resonants experience fluctuations based on their environment, emotional state, and magical activities. They naturally adjust their internal elemental balance to achieve optimal resonance with their surroundings, a trait that gives them extraordinary adaptability but can also make them vulnerable to magical disruptions. Their most unique trait is the perfect triangular balance between all three elemental components, allowing them to serve as ideal conduits for magical energy.
+与大多数生物的元素构成在整个生命中保持相对固定不同，Resonants 会根据其环境、情绪状态和魔法活动经历波动。它们会自然地调整其内部元素平衡，以实现与其周围环境的最佳共振，这一特性赋予了它们非凡的适应性，但也可能使它们容易受到魔法干扰。它们最独特的特征是所有三个元素组成部分之间的完美三角形平衡，使它们能够成为魔法能量的理想导体。
 
-## Physical Characteristics
+## 物理特征
 
-**Resonants** exhibit distinctive physical traits:
+**Resonants** 表现出独特的物理特征：
 
-| Characteristic | Description |
+| 特征 | 描述 |
 |----------------|-------------|
-| **Height** | 5'6" - 6'6" (168-198 cm) |
-| **Weight** | 140-200 lbs (63-91 kg), lighter than their crystalline appearance suggests |
-| **Lifespan** | 200-300 years, with potential for extended periods of dormancy |
-| **Physical Maturity** | 25-30 years |
-| **Notable Features** | Semi-transparent crystalline body with internal luminescence, resonating chamber in chest |
+| **身高** | 5'6" - 6'6" (168-198 cm) |
+| **体重** | 140-200 lbs (63-91 kg)，比它们的水晶外观所暗示的要轻 |
+| **寿命** | 200-300 年，可能存在延长的休眠期 |
+| **身体成熟** | 25-30 年 |
+| **显著特征** | 半透明的水晶体，具有内部发光，胸腔内有共振腔 |
 
-### Appearance
+### 外观
 
-- **Crystalline Structure**: Bodies composed of translucent, faceted tissue resembling living crystal
-- **Internal Luminescence**: Soft light emanates from within, color shifting with emotional state
-- **Resonating Chambers**: Hollow spaces within chest and head that amplify magical frequencies
-- **Minimal Features**: Simplified facial features with luminous eyes and subtle expressions
-- **Harmonic Patterns**: Intricate geometric patterns that flow across their surface, representing their personal harmonic signature
+- **水晶结构**：由半透明的、类似活体水晶的刻面组织组成
+- **内部发光**：柔和的光线从内部发出，颜色随情绪状态变化
+- **共振腔**：胸部和头部内的空腔，放大魔法频率
+- **极简特征**：简化的面部特征，带有发光的眼睛和微妙的表情
+- **谐波模式**：在它们的表面流动的复杂几何图案，代表着它们个人的谐波签名
 
-## Magical Affinity
+## 魔法亲和力
 
-**Resonants** demonstrate extraordinary proficiency in manipulating **Mana**:
+**Resonants** 在操纵 **Mana** 方面表现出非凡的熟练程度：
 
-| Aspect | Capability |
+| 方面 | 能力 |
 |--------|------------|
-| **Mana Storage** | Moderate capacity but exceptional efficiency (nearly 100% utilization) |
-| **Purification** | Extraordinary (natural 90%+ purity with minimal effort) |
-| **Specialization Efficiency** | Exceptional (can achieve 95%+ elemental conversion) |
-| **Natural Affinity** | Innate understanding of magical harmonics and resonance patterns |
+| **魔力储存** | 容量适中，但效率极高（几乎 100% 的利用率） |
+| **净化** | 非凡（自然 90%+ 的纯度，几乎无需努力） |
+| **专业化效率** | 卓越（可以实现 95%+ 的元素转化） |
+| **自然亲和力** | 对魔法谐波和共振模式的先天理解 |
 
-### The Living Harmonic Model
+### 活体谐波模型
 
-Resonants physically embody the principles of magical harmonics described in [Magical Resonance](/codex/Magics/Core/BaseMana.md#magical-resonance) theory:
+Resonants 在物理上体现了 [魔法共振](/codex/Magics/Core/BaseMana.md#magical-resonance) 理论中描述的魔法谐波原理：
 
-1. **Fundamental Frequency**: Each Resonant possesses a unique personal resonance frequency
-2. **Harmonic Overtones**: Can naturally generate and manipulate precise magical harmonics
-3. **Consonance Perception**: Instinctively understand compatible elemental combinations
-4. **Dissonance Sensitivity**: Physically pained by disharmonious magical patterns
+1. **基频**：每个 Resonant 都拥有一个独特的个人共振频率
+2. **谐波泛音**：可以自然地生成和操纵精确的魔法谐波
+3. **协和感知**：本能地理解兼容的元素组合
+4. **不协和敏感性**：因不和谐的魔法模式而感到身体上的痛苦
 
-### Magical Specializations
+### 魔法专长
 
-While **Resonants** excel across all magical disciplines, they particularly thrive in:
+虽然 **Resonants** 在所有魔法学科中都表现出色，但它们在以下领域尤为擅长：
 
-- **Harmonic Spellcraft**: Creating perfectly balanced patterns for maximum magical efficiency
-- **Elemental Synthesis**: Combining different elemental energies with unprecedented precision
-- **Resonance Healing**: Using harmonic vibrations to restore natural magical balance
-- **Pattern Stabilization**: Maintaining complex spell structures with extraordinary longevity
-- **Sound-based Magic**: Unparalleled mastery of magic that utilizes sound as a component
+- **谐波法术**：创建完美平衡的模式以实现最大的魔法效率
+- **元素合成**：以前所未有的精度组合不同的元素能量
+- **共振治疗**：使用谐波振动来恢复自然的魔法平衡
+- **模式稳定化**：以非凡的寿命维持复杂的法术结构
+- **基于声音的魔法**：无与伦比地掌握了以声音为组成部分的魔法
 
-### Unique Magical Traits
+### 独特的魔法特征
 
-- **Harmonic Sight**: Perceive magical resonances visually as colors and patterns
-- **Frequency Attunement**: Can adjust their personal frequency to match environmental magic
-- **Pattern Memory**: Perfect recall of any spell pattern they have previously encountered
-- **Resonant Amplification**: Ability to magnify magical effects through bodily resonance chambers
-- **Wild Mana Harmonization**: Can temporarily stabilize Wild Mana through resonant frequencies
+- **谐波视觉**：将魔法共振视觉地感知为颜色和图案
+- **频率调谐**：可以调整其个人频率以匹配环境魔法
+- **模式记忆**：完美地回忆起他们之前遇到过的任何法术模式
+- **共振放大**：能够通过身体共振腔放大魔法效果
+- **狂野魔力和谐化**：可以通过共振频率暂时稳定狂野魔力
 
-## Habitat and Distribution
+## 栖息地和分布
 
-**Resonants** are exceedingly rare, with fewer than a thousand known to exist across the world:
+**Resonants** 极其罕见，已知全世界存在的数量不到一千个：
 
-| Region | Settlement Type | Notable Features |
+| 地区 | 定居点类型 | 显著特征 |
 |--------|----------------|------------------|
-| **Harmonic Spires** | Primary Resonant community | Crystal towers built at major ley line convergence |
-| **Resonance Academies** | Small enclaves within magical institutions | Educational and research communities |
-| **Frequency Sanctuaries** | Isolated meditation retreats | Located at sites of natural harmonic magic |
-| **Wandering Harmonists** | Solitary or small traveling groups | Nomadic Resonants studying various magical traditions |
+| **谐波尖塔** | 主要的 Resonant 社区 | 建在主要魔网汇聚处的水晶塔 |
+| **共振学院** | 魔法机构内的小型飞地 | 教育和研究社区 |
+| **频率圣殿** | 孤立的冥想静修处 | 位于自然谐波魔法的场所 |
+| **漫游的和谐者** | 孤独或小型旅行团体 | 研究各种魔法传统的游牧 Resonants |
 
-### Environment Sensitivity
+### 环境敏感性
 
-Resonants thrive in environments with stable, harmonious magical fields. They find dissonant or chaotic magical areas physically painful and can become ill when exposed to corrupted magic or [Mana Blights](/codex/Creatures/Monsters/ManaBlight.md). Conversely, they experience profound well-being in places of exceptional magical harmony, such as ancient elven forests or properly maintained ritual sites.
+Resonants 在具有稳定、和谐魔法场的环境中茁壮成长。它们发现不和谐或混乱的魔法区域在身体上令人痛苦，并且在接触到腐败的魔法或 [魔力枯萎](/codex/Creatures/Monsters/ManaBlight.md) 时会生病。相反，它们在具有非凡魔法和谐的地方（例如古老的精灵森林或维护良好的仪式场所）会体验到深刻的幸福感。
 
-## Cultural Aspects
+## 文化方面
 
-The culture of **Resonants** is characterized by their unique relationship with magical harmonics:
+**Resonants** 的文化以它们与魔法谐波的独特关系为特征：
 
-### Social Structure
+### 社会结构
 
-Resonant society is organized around harmonic compatibility rather than traditional hierarchies:
+Resonant 社会围绕谐波兼容性而非传统的等级制度组织：
 
-| Aspect | Details |
+| 方面 | 详细信息 |
 |--------|---------|
-| **Government** | Harmonic Council of complementary frequency representatives |
-| **Family Units** | Resonance Clusters of harmonically compatible individuals |
-| **Leadership** | Based on harmonic complexity and ability to synthesize diverse patterns |
-| **Social Mobility** | Determined by development of one's unique resonance signature |
+| **政府** | 互补频率代表的谐波委员会 |
+| **家庭单位** | 谐波兼容个体的共振集群 |
+| **领导力** | 基于谐波复杂性和合成多样化模式的能力 |
+| **社会流动性** | 由一个人独特共振签名的发展决定 |
 
-### Core Values
+### 核心价值观
 
-Most **Resonant** cultures share certain common values:
+大多数 **Resonant** 文化都具有某些共同价值观：
 
-- **Harmonic Balance**: Seeking perfect equilibrium between all elements and forces
-- **Pattern Integrity**: Maintaining the purity and correct structure of magical patterns
-- **Resonant Diversity**: Celebrating the unique frequency signature of each individual
-- **Knowledge Preservation**: Recording and protecting magical patterns across generations
-- **Dissonance Resolution**: Finding harmony in seemingly incompatible elements
+- **谐波平衡**：寻求所有元素和力量之间的完美平衡
+- **模式完整性**：维护魔法模式的纯度和正确结构
+- **共振多样性**：庆祝每个个体的独特频率签名
+- **知识保存**：跨代记录和保护魔法模式
+- **不协和解决**：在看似不兼容的元素中找到和谐
 
-### Resonant Music
+### Resonant 音乐
 
-At the center of Resonant culture lies their extraordinary musical tradition:
+Resonant 文化的核心在于他们非凡的音乐传统：
 
-- **Frequency Choirs**: Groups who can produce perfect magical harmonics vocally
-- **Crystal Instrumentation**: Tools that amplify and modulate their natural resonance
-- **Pattern Songs**: Musical compositions that double as functional spell structures
-- **Harmonic Meditation**: Musical practices that enhance magical aptitude and control
-- **Historical Records**: Preserving knowledge through musical compositions rather than writing
+- **频率合唱团**：能够通过声音产生完美魔法谐波的团体
+- **水晶乐器**：放大和调节其自然共振的工具
+- **模式歌曲**：兼作功能性法术结构的音乐作品
+- **谐波冥想**：增强魔法能力和控制的音乐实践
+- **历史记录**：通过音乐作品而非文字保存知识
 
-### Common Occupations
+### 常见职业
 
-Popular professions among **Resonants** include:
+**Resonants** 中流行的职业包括：
 
-- **Harmonic Mages**: Specialists in resonance-based spellcasting
-- **Pattern Architects**: Designers of new spell structures based on harmonic principles
-- **Resonance Healers**: Practitioners who restore magical and physical balance
-- **Frequency Scholars**: Researchers studying the fundamental principles of magical harmonics
-- **Wild Mana Stabilizers**: Specialists in harmonizing chaotic magical environments
+- **谐波法师**：基于共振的施法专家
+- **模式架构师**：基于谐波原理的新法术结构设计师
+- **共振治疗师**：恢复魔法和身体平衡的从业者
+- **频率学者**：研究魔法谐波基本原理的研究人员
+- **狂野魔力稳定器**：和谐化混乱魔法环境的专家
 
-## Species Relationships
+## 物种关系
 
-**Resonants** interact with other species in distinctive ways:
+**Resonants** 以独特的方式与其他物种互动：
 
-| Species | Relationship | Notable Interactions |
+| 物种 | 关系 | 值得注意的互动 |
 |---------|--------------|----------------------|
-| **Elves** | Deep Respect | Exchange of magical knowledge, mutual appreciation of harmony |
-| **Humans** | Cautious Mentorship | Teaching harmonic principles to gifted human mages |
-| **Fae** | Natural Understanding | Recognition of shared connection to magical fundamentals |
-| **Mana Wisps** | Symbiotic | Direct communication through resonant frequencies |
-| **Dwarves** | Respectful Distance | Appreciation for dwarven crystal crafting, difficulty with earth-bound pragmatism |
-| **Shadowfolk** | Uncomfortable Tension | Fundamental dissonance between their magical natures |
+| **精灵** | 深切尊重 | 交换魔法知识，相互欣赏和谐 |
+| **人类** | 谨慎的指导 | 向有天赋的人类法师教授谐波原理 |
+| **Fae** | 自然理解 | 认识到与魔法基础的共同联系 |
+| **魔力幽灵** | 共生 | 通过共振频率直接通信 |
+| **矮人** | 尊重距离 | 欣赏矮人水晶工艺，难以接受基于地球的实用主义 |
+| **暗影族** | 不舒服的紧张关系 | 他们的魔法本质之间的根本不协和 |
 
-### Diplomatic Approach
+### 外交方式
 
-Resonant diplomatic approaches typically emphasize:
+Resonant 外交方式通常强调：
 
-- **Frequency Matching**: Adapting their communication style to resonate with other cultures
-- **Dissonance Resolution**: Mediating conflicts by finding underlying harmonic patterns
-- **Pattern Recognition**: Identifying commonalities between seemingly disparate viewpoints
-- **Amplification of Harmony**: Strengthening existing points of agreement and cooperation
+- **频率匹配**：调整他们的沟通方式以与其他文化产生共鸣
+- **不协和解决**：通过寻找潜在的谐波模式来调解冲突
+- **模式识别**：识别看似不同的观点之间的共性
+- **和谐放大**：加强现有的一致和合作点
 
-## Notable Traits
+## 显著特征
 
-**Resonants** are characterized by several distinctive traits:
+**Resonants** 的特点是几个独特的特征：
 
-### Strengths
+### 优势
 
-- **Pattern Perfection**: Unmatched precision in spell structure creation
-- **Harmonic Perception**: Ability to "hear" the resonant frequencies of all magic
-- **Mana Efficiency**: Nearly 100% utilization of magical energy
-- **Adaptation**: Can adjust their personal frequency to match different magical environments
-- **Longevity**: Extended lifespan and ability to enter dormant crystal states
+- **模式完美**：在法术结构创造方面无与伦比的精度
+- **谐波感知**：能够“听到”所有魔法的共振频率
+- **魔力效率**：魔法能量的利用率接近 100%
+- **适应性**：可以调整其个人频率以匹配不同的魔法环境
+- **长寿**：延长的寿命和进入休眠水晶状态的能力
 
-### Challenges
+### 挑战
 
-- **Dissonance Sensitivity**: Physical pain from exposure to disharmonious magic
-- **Limited Reproduction**: New Resonants form rarely, only under specific harmonic conditions
-- **Crystal Vulnerability**: Physical form can shatter under extreme stress
-- **Emotional Amplification**: Feelings can create unintended magical resonances
-- **Cultural Isolation**: Difficulty relating to non-harmonic perspectives
+- **不协和敏感性**：接触不和谐魔法引起的身体疼痛
+- **有限的繁殖**：新的 Resonants 很少形成，仅在特定的谐波条件下形成
+- **水晶脆弱性**：物理形式在极端压力下会破碎
+- **情绪放大**：情绪会产生意想不到的魔法共振
+- **文化孤立**：难以理解非谐波的观点
 
-## Magical Theory Applications
+## 魔法理论应用
 
-The existence of Resonants provides invaluable insights into magical theory:
+Resonants 的存在为魔法理论提供了宝贵的见解：
 
-### Phase Conversion Amplification
+### 相位转换放大
 
-Resonants demonstrate an enhanced version of the standard two-phase mana conversion process:
+Resonants 展示了标准的两相魔力转换过程的增强版本：
 
-1. **Phase 1 (Wild → Base)**: Achieve nearly 100% conversion efficiency
-2. **Resonant Amplification**: Unique intermediate phase that purifies Base Mana
-3. **Phase 2 (Base → Elemental)**: Achieve extraordinarily precise elemental specialization
+1. **第一阶段（狂野 → 基础）**：实现接近 100% 的转换效率
+2. **共振放大**：独特的中间阶段，可净化基础魔力
+3. **第二阶段（基础 → 元素）**：实现极其精确的元素专业化
 
-### The Harmonic Spellcasting Model
+### 谐波施法模型
 
-Resonants have developed a specialized approach to magic based on musical principles:
+Resonants 开发了一种基于音乐原理的特殊魔法方法：
 
-1. **Frequency Identification**: Determining the precise resonant frequency of the desired effect
-2. **Harmonic Construction**: Building the spell pattern using mathematical harmonic relationships
-3. **Resonant Amplification**: Using bodily chambers to amplify and stabilize the pattern
-4. **Frequency Modulation**: Fine-tuning the spell through precise harmonic adjustments
+1. **频率识别**：确定所需效果的精确共振频率
+2. **谐波构造**：使用数学谐波关系构建法术模式
+3. **共振放大**：使用身体腔室放大和稳定模式
+4. **频率调制**：通过精确的谐波调整微调法术
 
-### Specialized Casting Tools
+### 专用施法工具
 
-Resonants craft and use unique magical implements:
+Resonants 制作和使用独特的魔法工具：
 
-- **Tuning Forks**: Precision tools for establishing fundamental frequencies
-- **Resonance Chambers**: External amplifiers that extend their bodily capabilities
-- **Harmonic Crystals**: Storage devices for complex magical patterns
-- **Frequency Wands**: Tools for projecting precise magical harmonics
+- **音叉**：用于建立基频的精密工具
+- **共振腔**：扩展其身体能力的外部放大器
+- **谐波水晶**：用于存储复杂魔法模式的存储设备
+- **频率魔杖**：用于投射精确魔法谐波的工具
 
-## Historical Origins
+## 历史渊源
 
-The origins of Resonants remain partially mysterious, but scholars have identified three possible creation theories:
+Resonants 的起源仍然有些神秘，但学者们已经确定了三种可能的创造理论：
 
-1. **Crystallization Theory**: Spontaneous formation from perfectly balanced magical fields
-2. **Ascension Theory**: Evolution of mages who achieved perfect harmonic mastery
-3. **Harmonic Design Theory**: Deliberate creation by ancient magical civilizations seeking perfect magical vessels
+1. **结晶理论**：在完美平衡的魔法场中自发形成
+2. **飞升理论**：实现完美谐波掌握的法师的进化
+3. **谐波设计理论**：古代魔法文明为寻找完美的魔法容器而进行的有意的创造
 
-Most Resonants themselves subscribe to the Crystallization Theory, believing they represent the natural emergence of consciousness from perfectly balanced magical harmony.
+大多数 Resonants 自身都赞同结晶理论，相信它们代表了意识从完美平衡的魔法和谐中自然出现。
 
 ---
 
-> Understanding the **Resonants** provides profound insight into the fundamental principles of magical harmonics and the living potential of perfectly balanced elemental composition. Their existence serves as both proof and exemplar of the harmonic theories that underpin all magical practice in OpenFantasy. 
+> 了解 **Resonants** 可以深入了解魔法谐波的基本原理以及完美平衡的元素构成的生命潜力。它们的存在既是 OpenFantasy 中所有魔法实践基础的谐波理论的证明又是范例。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

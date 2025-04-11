@@ -1,95 +1,98 @@
-# Sentient Species of OpenFantasy
+# OpenFantasy 的有知觉物种
 
-> *"Consciousness shapes the world as much as the world shapes consciousness."*
+> *"意识塑造世界，正如世界塑造意识。"*
 
-## Overview
+## 概述
 
-Sentient species in OpenFantasy are beings with advanced intelligence, self-awareness, and the capacity to form complex societies. They possess the ability to communicate through sophisticated language, create culture, develop technologies, and manipulate magic through conscious effort rather than instinct alone.
+OpenFantasy 中的有知觉物种是指具有高等智慧、自我意识和形成复杂社会能力的生物。他们有能力通过复杂的语言进行交流，创造文化，发展技术，并通过有意识的努力而非仅仅依靠本能来操纵魔法。
 
-What distinguishes sentient species from other creatures is their high soul component, which enables abstract thought, moral reasoning, and the formation of civilizations. Each sentient species has evolved unique adaptations and societal structures based on their elemental composition and the environments they inhabit.
+区分有知觉物种与其他生物的关键是他们拥有较高的灵魂成分，这使他们能够进行抽象思维、道德推理和形成文明。每个有知觉物种都根据其元素组成和所居住的环境进化出了独特的适应性和社会结构。
 
-## Core Characteristics
+## 核心特征
 
-All sentient species share certain fundamental traits:
+所有有知觉物种都具有某些基本特征：
 
-- **Linguistic Capacity**: The ability to develop and use complex language systems
-- **Cultural Formation**: Creation of art, music, literature, and social traditions
-- **Technological Innovation**: Development of tools and techniques to reshape their environment
-- **Magical Awareness**: Conscious understanding and manipulation of mana
-- **Social Organization**: Formation of complex societies with diverse roles and hierarchies
-- **Historical Awareness**: Recording and passing down knowledge across generations
+- **语言能力**：发展和使用复杂语言系统的能力
+- **文化形成**：创造艺术、音乐、文学和社会传统
+- **技术创新**：开发工具和技术来重塑他们的环境
+- **魔法意识**：有意识地理解和操纵魔力
+- **社会组织**：形成具有不同角色和等级制度的复杂社会
+- **历史意识**：记录并将知识代代相传
 
-## Sentient Species Categories
+## 有知觉物种类别
 
-### Primary Civilizers
+### 主要文明者
 
-Species that have established widespread, stable civilizations across multiple regions:
+在多个地区建立广泛、稳定的文明的物种：
 
-| Species | Elemental Balance | Key Traits | Cultural Significance |
+| 物种 | 元素平衡 | 关键特征 | 文化意义 |
 |---------|-------------------|------------|----------------------|
-| [Humans](Humans.md) | Balanced (E: 20-55%, S: 15-45%, M: 15-60%) | Adaptability, innovation, rapid cultural evolution | Widespread, diverse societies with varying traditions |
-| [Elves](Elves.md) | Mana-dominant (E: 5-25%, S: 5-15%, M: 50-80%) | Longevity, magical aptitude, tradition | Ancient magical traditions, art preservation |
-| [Dwarves](Dwarves.md) | Exanthis-dominant (E: 50-70%, S: 20-35%, M: 5-25%) | Physical resilience, craftsmanship, clan loyalty | Mining, metallurgy, engineering, ancestral halls |
+| [人类](Humans.md) | 平衡 (E: 20-55%, S: 15-45%, M: 15-60%) | 适应性、创新、快速的文化演变 | 广泛、多样化的社会，具有不同的传统 |
+| [精灵](Elves.md) | 魔力主导 (E: 5-25%, S: 5-15%, M: 50-80%) | 长寿、魔法天赋、传统 | 古老的魔法传统，艺术保存 |
+| [矮人](Dwarves.md) | 外能主导 (E: 50-70%, S: 20-35%, M: 5-25%) | 身体弹性、工艺、氏族忠诚 | 采矿、冶金、工程、祖先大厅 |
 
-### Specialized Adaptations
+### 特殊适应
 
-Species that have developed unique physiological or magical adaptations:
+已经发展出独特的生理或魔法适应的物种：
 
-| Species | Elemental Balance | Key Traits | Cultural Significance |
+| 物种 | 元素平衡 | 关键特征 | 文化意义 |
 |---------|-------------------|------------|----------------------|
-| [Dark Elves](DarkElves.md) | Shadow-attuned (E: 5-25%, S: 10-20%, M: 50-80%) | Shadow manipulation, night vision, magical focus | Complex underground societies, shadow-based crafts |
-| [Beastfolk](Beastfolk.md) | Varied (E: 35-70%, S: 15-35%, M: 15-40%) | Diverse animal traits, heightened senses, tribal organization | Close connection to natural world, oral histories |
-| [Gnomes](Gnomes.md) | Soul-heavy (E: 30-50%, S: 30-50%, M: 15-30%) | Small stature, inventiveness, curiosity | Innovation, magical technology, complex mechanisms |
+| [黑暗精灵](DarkElves.md) | 阴影协调 (E: 5-25%, S: 10-20%, M: 50-80%) | 阴影操纵、夜视、魔法专注 | 复杂的地下社会，基于阴影的工艺 |
+| [兽人](Beastfolk.md) | 多样 (E: 35-70%, S: 15-35%, M: 15-40%) | 多样化的动物特征、高度的感官、部落组织 | 与自然世界紧密联系，口述历史 |
+| [侏儒](Gnomes.md) | 灵魂繁重 (E: 30-50%, S: 30-50%, M: 15-30%) | 身材矮小、创造力、好奇心 | 创新、魔法技术、复杂机制 |
 
-### Regional Civilizers
+### 区域文明者
 
-Species whose societies are limited to specific geographical regions:
+其社会仅限于特定地理区域的物种：
 
-| Species | Notable Regions | Key Cultural Elements |
+| 物种 | 著名地区 | 关键文化元素 |
 |---------|----------------|------------------------|
-| [Dragonkin](../Magical/Dragonkin.md) | Mountain ranges, volcanic regions | Ancestral worship, elemental mastery, wealth accumulation |
-| [Merfolk](../Hybrid/Merfolk.md) | Coastal areas, deep seas | Marine resource management, underwater architecture, song-based histories |
-| [Giants](../Monsters/Giants.md) | Highland territories, ancient strongholds | Stone crafting, elemental communion, ancestral traditions |
+| [龙族](../Magical/Dragonkin.md) | 山脉，火山地区 | 祖先崇拜、元素掌握、财富积累 |
+| [美人鱼](../Hybrid/Merfolk.md) | 沿海地区，深海 | 海洋资源管理、水下建筑、基于歌曲的历史 |
+| [巨人](../Monsters/Giants.md) | 高地地区，古代据点 | 石材工艺、元素交流、祖先传统 |
 
-## Interspecies Dynamics
+## 物种间动态
 
-The relationships between sentient species form complex social, political, and economic webs. Each species brings unique strengths and perspectives to these interactions:
+有知觉物种之间的关系形成了复杂的社会、政治和经济网络。每个物种都为这些互动带来了独特的优势和视角：
 
-### Common Alliance Patterns
+### 常见的联盟模式
 
-- **Elven-Human Partnerships**: Combining human adaptability with elven magical knowledge
-- **Dwarven-Gnomish Collaborations**: Merging dwarven craftsmanship with gnomish innovation
-- **Human-Beastfolk Frontier Settlements**: Blending diverse skills for survival in challenging regions
+- **精灵-人类伙伴关系**：结合人类的适应性和精灵的魔法知识
+- **矮人-侏儒合作**：将矮人的工艺与侏儒的创新相结合
+- **人类-兽人边境定居点**：融合多样化的技能，以便在具有挑战性的地区生存
 
-### Historical Conflicts
+### 历史冲突
 
-- **Dark Elf-Surface Elf Tensions**: Ancient schisms based on philosophical and magical differences
-- **Giant-Dwarven Territorial Disputes**: Competition for mineral-rich mountain territories
-- **Human-Beastfolk Expansion Conflicts**: Disagreements over land use and natural resources
+- **黑暗精灵-地表精灵紧张关系**：基于哲学和魔法差异的古老分裂
+- **巨人-矮人领土争端**：争夺富含矿产的山区领土
+- **人类-兽人扩张冲突**：对土地使用和自然资源的不同意见
 
-## Elemental Influence on Society
+## 元素对社会的影响
 
-The elemental composition of a species significantly influences their societal development:
+物种的元素组成显着影响其社会发展：
 
-| Dominant Element | Societal Impact | Examples |
+| 主导元素 | 社会影响 | 例子 |
 |------------------|----------------|----------|
-| **Exanthis** | Physical infrastructure, resource utilization, martial traditions | Dwarven strongholds, Giant monuments |
-| **Soul** | Philosophical development, arts, education systems | Human universities, Gnomish think-tanks |
-| **Mana** | Magical innovation, energy manipulation, metaphysical exploration | Elven spell-forests, Dark Elf shadow citadels |
+| **外能** | 物理基础设施、资源利用、武术传统 | 矮人据点，巨人纪念碑 |
+| **灵魂** | 哲学发展、艺术、教育系统 | 人类大学，侏儒智囊团 |
+| **魔力** | 魔法创新、能量操纵、形而上学的探索 | 精灵法术森林，黑暗精灵阴影城堡 |
 
-## Evolutionary Adaptations
+## 进化适应
 
-Sentient species have evolved unique adaptations to their environments and elemental compositions:
+有知觉物种已经进化出对其环境和元素组成的独特适应性：
 
-| Species | Key Adaptations | Evolutionary Advantage |
+| 物种 | 关键适应性 | 进化优势 |
 |---------|----------------|------------------------|
-| **Humans** | Generalized physiology, rapid learning | Adaptability to diverse environments |
-| **Elves** | Enhanced magical channels, extended lifespan | Deep magical understanding, knowledge preservation |
-| **Dwarves** | Dense bone structure, efficient metabolism | Survival in harsh mountain conditions |
-| **Dark Elves** | Enhanced night vision, shadow resonance | Thriving in underground environments |
-| **Beastfolk** | Species-specific traits (varies widely) | Specialized environmental advantages |
-| **Gnomes** | Compact neural density, enhanced dexterity | Efficiency in limited physical space |
+| **人类** | 广义生理学，快速学习 | 适应多样化的环境 |
+| **精灵** | 增强的魔法通道，延长的寿命 | 深刻的魔法理解，知识保存 |
+| **矮人** | 密集的骨骼结构，高效的新陈代谢 | 在恶劣的山区条件下生存 |
+| **黑暗精灵** | 增强的夜视能力，阴影共鸣 | 在地下环境中茁壮成长 |
+| **兽人** | 物种特定特征（差异很大） | 专业的环境优势 |
+| **侏儒** | 紧凑的神经密度，增强的灵活性 | 在有限的物理空间中提高效率 |
 
 ---
 
-> *"In the diversity of thinking minds lies the true wealth of our world."* — Scholar Tiberius Windfall, Comparative Species Studies 
+> *"思维的多样性是我们世界真正的财富。"* — 学者提比略·温福尔，物种比较研究
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

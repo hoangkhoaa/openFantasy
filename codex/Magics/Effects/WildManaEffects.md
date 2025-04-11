@@ -1,172 +1,176 @@
-# **Wild Mana Effects**: Dangers and Consequences of Exposure
+# **狂野魔力效应**：暴露的危险与后果
 
-> *"Unlike the disciplined notes of a well-tuned instrument, Wild Mana plays its own chaotic melody—beautiful from a distance, but potentially devastating to those caught in its performance."* — Magistrix Elara Nightwind
+> *"与调音良好的乐器的有纪律的音符不同，狂野魔力演奏着它自己混乱的旋律——从远处看很美，但对那些被它的演奏所困住的人来说，可能具有毁灭性。"* — 女法师艾拉·夜风
 
-## Quick Reference
-- [Acute Effects on Spellcasters](#acute-effects-on-spellcasters)
-- [Chronic Exposure Consequences](#chronic-exposure-consequences)
-- [Environmental Impact](#environmental-impact)
-- [Treatment Methods](#treatment-methods)
-- [Protective Measures](#protective-measures)
-- [Notable Historical Incidents](#notable-historical-incidents)
+## 快速参考
+- [对施法者的急性效应](#acute-effects-on-spellcasters)
+- [长期暴露的后果](#chronic-exposure-consequences)
+- [环境影响](#environmental-impact)
+- [治疗方法](#treatment-methods)
+- [保护措施](#protective-measures)
+- [著名的历史事件](#notable-historical-incidents)
 
-## Understanding Wild Mana Contamination
+## 理解狂野魔力污染
 
-Wild Mana contamination occurs when a spellcaster or environment is exposed to excessive amounts of raw, unpurified magical energy. While all magic users naturally process small amounts of Wild Mana, exposure beyond an individual's filtration capacity can lead to a spectrum of magical maladies.
+当施法者或环境暴露于过量的、未经净化的原始魔法能量时，就会发生狂野魔力污染。虽然所有魔法使用者都会自然地处理少量的狂野魔力，但超出个人过滤能力的暴露会导致一系列魔法疾病。
 
-The severity of effects depends on several factors:
-- Concentration of Wild Mana
-- Duration of exposure
-- Individual's Mana Capacity
-- Previous exposure history
-- Protective measures employed
+效应的严重程度取决于几个因素：
+- 狂野魔力的浓度
+- 暴露的持续时间
+- 个人的魔力容量
+- 先前的暴露历史
+- 采取的保护措施
 
-## Acute Effects on Spellcasters
+## 对施法者的急性效应
 
-### Immediate Physiological Responses
+### 立即的生理反应
 
-| Severity | Symptoms | Contamination Level | Recovery Time |
+| 严重程度 | 症状 | 污染程度 | 恢复时间 |
 |----------|----------|---------------------|---------------|
-| Minor | Tingling sensation, mild disorientation, temporary aura distortion | 10-25% | 1-2 hours |
-| Moderate | Sensory hallucinations, involuntary minor magical discharges, fever | 25-50% | 1-3 days |
-| Severe | Uncontrolled spellcasting, mana channel inflammation, magical burns | 50-75% | 1-2 weeks |
-| Critical | System shock, violent magical outbursts, temporary ability loss | 75%+ | 1-3 months |
+| 轻微 | 刺痛感，轻度定向障碍，暂时的灵气扭曲 | 10-25% | 1-2 小时 |
+| 中等 | 感官幻觉，非自愿的轻微魔法释放，发烧 | 25-50% | 1-3 天 |
+| 严重 | 不受控制的施法，魔力通道炎症，魔法烧伤 | 50-75% | 1-2 周 |
+| 危急 | 系统性休克，剧烈的魔法爆发，暂时丧失能力 | 75%+ | 1-3 个月 |
 
-### Cognitive and Magical Effects
+### 认知和魔法效应
 
-- **Pattern Disruption**: Inability to form stable spell patterns
-- **Mana Stutter**: Irregular energy flow during casting attempts
-- **Sensory Overload**: Heightened and painful awareness of magical energies
-- **Resonance Shift**: Temporary change in magical affinities
-- **Wild Dreams**: Vivid, prophetic, or disturbing dreams with magical manifestations during sleep
+- **模式中断**：无法形成稳定的法术模式
+- **魔力口吃**：施法尝试期间的不规则能量流动
+- **感官超载**：对魔法能量的高度和痛苦的感知
+- **共鸣转移**：魔法亲和力的暂时性改变
+- **狂野之梦**：生动、预言性或令人不安的梦，在睡眠期间伴有魔法显现
 
-### Emergency Symptoms Requiring Immediate Treatment
+### 需要立即治疗的紧急症状
 
-1. **Mana Seizures**: Convulsions accompanied by uncontrolled magical discharges
-2. **Chromatic Bleeding**: Magical energy leaking from eyes, nose, or ears
-3. **Harmonic Dissociation**: Complete inability to control personal mana
-4. **Reality Anchor Loss**: Partial phasing between planes of existence
+1. **魔力癫痫**：伴随不受控制的魔法释放的痉挛
+2. **彩色出血**：魔法能量从眼睛、鼻子或耳朵泄漏
+3. **谐波分离**：完全无法控制个人魔力
+4. **现实锚点丢失**：存在平面之间的部分相位
 
-## Chronic Exposure Consequences
+## 长期暴露的后果
 
-### Long-term Physiological Changes
+### 长期生理变化
 
-- **Wild-Touched Stigmata**: Permanent marks on the skin that glow during magical activity
-- **Harmonic Tremors**: Persistent trembling that intensifies near magical sources
-- **Channel Scarring**: Permanent damage to internal mana pathways
-- **Resonance Addiction**: Physiological dependence on Wild Mana exposure
+- **狂野触摸的圣痕**：在魔法活动期间发光的皮肤上的永久性标记
+- **谐波震颤**：在魔法源附近加剧的持续颤抖
+- **通道疤痕**：对内部魔力路径的永久性损害
+- **共鸣成瘾**：对狂野魔力暴露的生理依赖
 
-### Progressive Conditions
+### 渐进性疾病
 
-#### Wild Mana Syndrome (WMS)
-A progressive condition with four recognized stages:
+#### 狂野魔力综合症 (WMS)
+一种具有四个公认阶段的渐进性疾病：
 
-1. **Initiation Stage**: Intermittent magical instability, recovery possible
-2. **Acclimation Stage**: Body adapts but spell precision decreases permanently
-3. **Transformation Stage**: Physical changes begin, such as altered eye color, luminescent bodily fluids
-4. **Integration Stage**: Complete biological adaptation to Wild Mana, fundamental change in magical nature
+1. **起始阶段**：间歇性魔法不稳定，可能恢复
+2. **适应阶段**：身体适应，但法术精度永久降低
+3. **转变阶段**：身体变化开始，例如改变眼睛颜色、发光的体液
+4. **融合阶段**：完全的生物适应狂野魔力，魔法本质的根本改变
 
-#### Chaotic Resonance Disorder (CRD)
-Characterized by involuntary wild magic effects triggered by emotional states:
+#### 混沌共鸣紊乱 (CRD)
+以情绪状态触发的非自愿的狂野魔法效应为特征：
 
-| Stage | Emotional Trigger | Typical Manifestations | Control Level |
+| 阶段 | 情绪触发 | 典型表现 | 控制程度 |
 |-------|-------------------|------------------------|---------------|
-| Early | Extreme emotions only | Minor environmental effects | Manageable with meditation |
-| Intermediate | Moderate emotional changes | Personal physical changes | Requires daily discipline |
-| Advanced | Subtle emotional shifts | Significant magical discharge | Minimal control possible |
-| Terminal | Constant manifestation | Complete magical instability | No control possible |
+| 早期 | 仅限极端情绪 | 轻微的环境影响 | 可通过冥想管理 |
+| 中期 | 中等情绪变化 | 个人身体变化 | 需要每日纪律 |
+| 晚期 | 细微的情绪转变 | 显着的魔法释放 | 最小可能的控制 |
+| 终末期 | 持续的显现 | 完全的魔法不稳定 | 无法控制 |
 
-## Environmental Impact
+## 环境影响
 
-### Localized Effects
+### 局部效应
 
-- **Flora Mutation**: Altered plant growth, magical properties in normal plants
-- **Fauna Alteration**: Animals exhibiting magical abilities or physical changes
-- **Weather Disruption**: Unusual weather patterns, magical storms
-- **Terrain Transformation**: Physical changes to the landscape, floating earth, elemental manifestations
+- **植物群突变**：改变的植物生长，普通植物中的魔法属性
+- **动物群改变**：动物表现出魔法能力或身体变化
+- **天气扰乱**：不寻常的天气模式，魔法风暴
+- **地形改造**：景观的物理变化，漂浮的地球，元素显现
 
-### Wild Mana Zones
+### 狂野魔力区域
 
-| Classification | Characteristics | Danger Level | Quarantine Status |
+| 分类 | 特征 | 危险等级 | 隔离状态 |
 |----------------|-----------------|--------------|-------------------|
-| Type I | Slightly elevated magical properties, safe for short exposure | Low | Monitoring Only |
-| Type II | Visible magical effects, strange phenomena | Moderate | Limited Access |
-| Type III | Significant reality distortion, spontaneous magical effects | High | Restricted Zone |
-| Type IV | Complete magical saturation, fundamental laws of nature altered | Extreme | Full Quarantine |
-| Type V | Reality breach, connection to other planes | Catastrophic | Military Containment |
+| I 型 | 魔法属性略有升高，短期暴露安全 | 低 | 仅限监控 |
+| II 型 | 可见的魔法效应，奇怪的现象 | 中等 | 限制访问 |
+| III 型 | 显着的现实扭曲，自发性魔法效应 | 高 | 限制区域 |
+| IV 型 | 完全的魔法饱和，自然的基本定律改变 | 极端 | 完全隔离 |
+| V 型 | 现实突破，与其他平面的连接 | 灾难性 | 军事遏制 |
 
-### Notable Contaminated Regions
+### 著名的受污染区域
 
-- **The Shimmerwood**: Forest where all plant life has developed semi-consciousness
-- **Mage's Folly**: Remnants of an experimental magical academy where Wild Mana saturated the area
-- **The Wailing Wastes**: Desert region where Wild Mana storms manifest voices of the past
-- **Flux Marshes**: Wetlands where time and space fluctuate unpredictably
+- **微光森林 (The Shimmerwood)**：所有植物都发展出半意识的森林
+- **法师愚行 (Mage's Folly)**：狂野魔力饱和该区域的实验性魔法学院的遗迹
+- **哀嚎废土 (The Wailing Wastes)**：狂野魔力风暴显现过去声音的沙漠地区
+- **通量沼泽 (Flux Marshes)**：时间和空间不可预测地波动的湿地
 
-## Treatment Methods
+## 治疗方法
 
-### First Response
+### 首次反应
 
-1. **Isolation**: Remove from Wild Mana source immediately
-2. **Stabilization**: Apply Mana Stabilization techniques or potions
-3. **Assessment**: Determine contamination level and affected systems
-4. **Containment**: Prevent spread of Wild Mana to others or environment
+1. **隔离**：立即从狂野魔力源中移除
+2. **稳定**：应用魔力稳定技术或药剂
+3. **评估**：确定污染程度和受影响的系统
+4. **遏制**：防止狂野魔力扩散到他人或环境
 
-### Medical Interventions
+### 医疗干预
 
-- **Mana Purification Rituals**: Ceremonial cleansing of contaminated channels
-- **Harmonic Realignment**: Restoration of proper mana flow patterns
-- **Resonance Therapy**: Use of counter-frequencies to neutralize Wild Mana
-- **Extraction Procedures**: Magical removal of Wild Mana concentrations
+- **魔力净化仪式**：对受污染通道的仪式性清洗
+- **谐波重对齐**：恢复正确的魔力流动模式
+- **共鸣疗法**：使用反频率来中和狂野魔力
+- **提取程序**：魔法移除狂野魔力浓度
 
-### Alchemical Treatments
+### 炼金术治疗
 
-| Remedy | Primary Ingredients | Effect | Treatment Duration |
+| 疗法 | 主要成分 | 效果 | 治疗时间 |
 |--------|---------------------|--------|-------------------|
-| Purification Elixir | Crystal lotus, silver water | Accelerates natural filtration | 7-day course |
-| Stabilizing Tincture | Void moss, calming herbs | Reduces acute symptoms | Single dose, as needed |
-| Channel Repair Potion | Phoenix tears, resonant minerals | Heals damaged mana pathways | Monthly for 1 year |
-| Harmonic Draught | Musical fungi, pure water source | Restores natural resonance | Weekly for 1 month |
+| 净化灵药 | 水晶莲花，银水 | 加速自然过滤 | 7 天疗程 |
+| 稳定酊剂 | 虚空苔藓，镇静草药 | 减少急性症状 | 单次剂量，按需 |
+| 通道修复药水 | 凤凰眼泪，共振矿物 | 治愈受损的魔力路径 | 每月 1 次，持续 1 年 |
+| 谐波药剂 | 音乐真菌，纯净水源 | 恢复自然共鸣 | 每周 1 次，持续 1 个月 |
 
-### Long-term Management
+### 长期管理
 
-- **Adaptive Meditation**: Mental techniques to manage persistent symptoms
-- **Controlled Exposure Therapy**: Gradual reintroduction to regulated magic use
-- **Resonance Monitoring**: Regular assessment of magical stability
-- **Support Circles**: Communities of affected individuals sharing coping strategies
+- **适应性冥想**：管理持续性症状的心理技巧
+- **受控暴露疗法**：逐渐重新引入受管制的魔法使用
+- **共鸣监测**：定期评估魔法稳定性
+- **支持圈子**：受影响的个人分享应对策略的社区
 
-## Protective Measures
+## 保护措施
 
-### Personal Protection
+### 个人保护
 
-- **Warding Amulets**: Jewelry inscribed with protective sigils
-- **Mana Filters**: Devices worn to purify ambient mana before it reaches the user
-- **Stabilizing Garments**: Clothing woven with enchantments to maintain personal mana stability
-- **Anchoring Techniques**: Mental practices to maintain magical integrity
+- **防护护身符**：刻有保护符文的珠宝
+- **魔力过滤器**：佩戴以净化环境魔力后才到达用户的设备
+- **稳定服装**：用魔法编织的服装，以维持个人魔力稳定性
+- **锚定技术**：维持魔法完整性的心理实践
 
-### Environmental Containment
+### 环境遏制
 
-- **Harmonic Barriers**: Magical constructs that prevent Wild Mana spread
-- **Purification Circles**: Ritual spaces that gradually cleanse an area
-- **Channeling Rods**: Devices that draw Wild Mana away from populated areas
-- **Resonant Architecture**: Buildings designed to naturally repel or redirect Wild Mana
+- **谐波屏障**：阻止狂野魔力传播的魔法结构
+- **净化圈**：逐渐清洁区域的仪式空间
+- **引导棒**：将狂野魔力从人口稠密地区引开的设备
+- **共振建筑**：设计用于自然排斥或重定向狂野魔力的建筑物
 
-## Notable Historical Incidents
+## 著名的历史事件
 
-### The Cerulean Catastrophe
-During the Third Age, an attempt to create a permanent portal resulted in a massive Wild Mana surge that affected an entire city. Over 80% of magical practitioners suffered acute effects, and 30% developed chronic conditions. The city remains abandoned, a Type IV contamination zone.
+### 天蓝灾难 (The Cerulean Catastrophe)
+在第三纪元，创建永久传送门的尝试导致了大规模的狂野魔力涌动，影响了整个城市。超过 80% 的魔法从业者遭受了急性效应，30% 患上了慢性疾病。这座城市仍然被遗弃，是一个 IV 型污染区。
 
-### The Whispering Plague
-A subtle Wild Mana contamination that went undetected for months, causing progressive magical whispers to be heard by residents of the affected region. By the time the source was identified, over 200 people had developed Chaotic Resonance Disorder.
+### 低语瘟疫 (The Whispering Plague)
+一种微妙的狂野魔力污染，在数月内未被发现，导致受影响地区的居民听到渐进式的魔法低语。到确定来源时，已有 200 多人患上了混沌共鸣紊乱。
 
-### The Azure Transformation
-A legendary archmage's failed immortality ritual that resulted in his complete conversion to a Wild Mana entity—neither truly alive nor dead, but a conscious manifestation of chaotic magical energy still studied by researchers today.
+### 天青转变 (The Azure Transformation)
+一位传奇大法师的失败的永生仪式，导致他完全转化为狂野魔力实体——既非真正的活着也非死去，而是混沌魔法能量的有意识显现，至今仍被研究人员研究。
 
-## Research and Future Directions
+## 研究和未来方向
 
-Current research focuses on:
-- Improved detection methods for subtle contamination
-- More effective treatments for chronic conditions
-- Enhanced protective technologies
-- Potential applications of controlled Wild Mana exposure
+当前的研究重点是：
+- 改进微妙污染的检测方法
+- 慢性病更有效的治疗方法
+- 增强的保护技术
+- 受控狂野魔力暴露的潜在应用
 
-> *"We cannot eliminate Wild Mana from our world, nor should we wish to—it is the primordial song from which all magic springs. But we must learn to listen from a safe distance, lest we lose ourselves in its captivating chaos."* — Thorne Wildkeeper, Specialist in Magical Contamination Studies 
+> *"我们不能从我们的世界中消除狂野魔力，我们也不应该希望这样做——它是所有魔法从中涌出的原始之歌。但我们必须学会从安全的距离倾听，以免我们迷失在它迷人的混乱中。"* — 魔法污染研究专家索恩·狂野守护者
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

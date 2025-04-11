@@ -1,44 +1,47 @@
-# **Wizard**: Masters of Studied Arcana
+# **Wizard**: 研习奥术的大师
 
-[**Wizards**](/codex/Classes/Wizard/Wizard.md) are intellectual spellcasters who approach magic as a science to be understood, documented, and mastered through rigorous study and experimentation. Their power comes from comprehensive knowledge of arcane formulas and meticulous practice of magical techniques.
+[**Wizards**](/codex/Classes/Wizard/Wizard.md) 是智力型的施法者，他们将魔法视为一门科学，需要通过严谨的学习和实验来理解、记录和掌握。他们的力量来自对奥术公式的全面了解和对魔法技术的精益求精的实践。
 
-## Elemental Composition
+## 元素构成
 
-The typical elemental ratio for **wizards** emphasizes their scholarly approach to magic:
+**wizards**的典型元素比例强调了他们对魔法的学术性方法：
 
-| Element | Range | Function |
+| 元素 | 范围 | 功能 |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | Physical vessel trained to execute precise somatic components |
-| **Soul** | 35-50% | Mental framework developed to comprehend and manipulate arcane patterns |
-| **Mana Capacity** | 25-45% | Deliberately cultivated mana reserves with exceptional control systems |
+| **Exanthis** | 15-30% | 经过训练的物理容器，用于执行精确的躯体成分 |
+| **Soul** | 35-50% | 开发的精神框架，用于理解和操纵奥术模式 |
+| **Mana Capacity** | 25-45% | 有意培养的魔法储备，具有卓越的控制系统 |
 
-This composition distinguishes **wizards** from other spellcasters through their emphasis on understanding over raw power. Wizards develop specialized neural and spiritual pathways through years of study, creating a refined system for interpreting and manipulating magical energy. Their physical forms adapt to support the cognitive demands of spellcasting rather than serving as primary channels.
+这种构成通过强调理解而不是原始力量来区分**wizards**与其他施法者。 Wizards 通过多年的研究开发专门的神经和精神通路，创建一个精细的系统来解释和操纵魔法能量。 他们的身体形式适应于支持施法的认知需求，而不是作为主要渠道。
 
-### Magical Affinity Profile
+### 魔法亲和力概况
 
-Wizards develop specific affinities based on their school of specialization:
+Wizards 根据他们的专业学派发展特定的亲和力：
 
-| School | Primary Affinities | Secondary Affinities | Typical Application |
+| 学派 | 主要亲和力 | 次要亲和力 | 典型应用 |
 |--------------|-------------------|---------------------|---------------------|
-| **Abjuration** | Base Mana (Protection) | Varies by application | Wards, barriers, banishment, dispelling |
-| **Conjuration** | Base Mana (Creation) | Element matching creation | Summoning, teleportation, creation |
-| **Divination** | Chronimana | Mentimana | Foresight, detection, information gathering |
-| **Enchantment** | Mentimana | Base Mana (Influence) | Mind control, emotion manipulation, charm |
-| **Evocation** | Various Elementals | Base Mana (Energy) | Elemental damage, force manipulation |
-| **Illusion** | Base Mana (Sensory) | Mentimana | Visual/auditory deception, phantasms |
-| **Necromancy** | Thanatomana | Base Mana (Vitality) | Animation, life force manipulation |
-| **Transmutation** | Base Mana (Transformation) | Element matching target | Matter alteration, physical law manipulation |
+| **Abjuration** | 基础魔法（保护） | 因应用而异 | 结界，屏障，驱逐，驱散 |
+| **Conjuration** | 基础魔法（创造） | 与创造匹配的元素 | 召唤，传送，创造 |
+| **Divination** | Chronimana | Mentimana | 预见，侦测，信息收集 |
+| **Enchantment** | Mentimana | 基础魔法（影响） | 精神控制，情绪操纵，魅力 |
+| **Evocation** | 各种元素 | 基础魔法（能量） | 元素伤害，力量操纵 |
+| **Illusion** | 基础魔法（感官） | Mentimana | 视觉/听觉欺骗，幻影 |
+| **Necromancy** | Thanatomana | 基础魔法（活力） | 动画，生命力操纵 |
+| **Transmutation** | 基础魔法（变形） | 与目标匹配的元素 | 物质改变，物理定律操纵 |
 
-Wizards typically achieve 40-60% resonance with their specialized school's elements, with decades of study potentially raising this to 70-85% in their areas of expertise. Their scholarly approach enables them to achieve high mana purity (45-65%) through disciplined purification techniques, with archmages reaching 75-90% purity in their specialized fields.
+Wizards 通常在其专业学派的元素中达到 40-60% 的共鸣，经过数十年的研究可能会将其提高到其专业领域的 70-85%。 他们学术性的方法使他们能够通过有纪律的净化技术实现高魔法纯度（45-65%），而大法师在其专业领域达到 75-90% 的纯度。
 
-### Species-Specific Variations
+### 特定物种的变异
 
-Different species show varying natural inclinations toward the wizard class:
+不同的物种表现出对wizard职业的不同自然倾向：
 
-- **Humans** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Their adaptability allows for comprehensive magical study across multiple disciplines, with moderate specialization potential.
-- **High Elves** (10-25% Exanthis, 40-55% Soul, 30-50% Mana Capacity): Their longevity and natural magical attunement creates exceptional retention of complex arcane formulas.
-- **Gnomes** (15-25% Exanthis, 45-60% Soul, 20-40% Mana Capacity): Their innovative thinking creates natural affinity for illusion and transmutation magic.
-- **Tieflings** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): Their infernal heritage provides intuitive understanding of certain arcane concepts, particularly conjuration and evocation.
-- **Dragonborn** (20-35% Exanthis, 30-45% Soul, 25-45% Mana Capacity): Their draconic connection provides natural aptitude for evocation magic related to their ancestry.
+- **Humans** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): 他们的适应性允许对多个学科进行全面的魔法研究，具有中等的专业化潜力。
+- **High Elves** (10-25% Exanthis, 40-55% Soul, 30-50% Mana Capacity): 他们的长寿和天生的魔法协调性创造了对复杂奥术公式的卓越保留。
+- **Gnomes** (15-25% Exanthis, 45-60% Soul, 20-40% Mana Capacity): 他们的创新思维创造了对幻术和变形术的天然亲和力。
+- **Tieflings** (15-30% Exanthis, 35-50% Soul, 25-45% Mana Capacity): 他们的地狱血统提供了对某些奥术概念的直观理解，特别是召唤和唤起。
+- **Dragonborn** (20-35% Exanthis, 30-45% Soul, 25-45% Mana Capacity): 他们的龙族联系为与其血统相关的唤起魔法提供了天然的天赋。
 
-// ... rest of the file remains unchanged ... 
+// ... 文件的其余部分保持不变 ...
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

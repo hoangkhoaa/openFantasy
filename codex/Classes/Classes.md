@@ -1,214 +1,218 @@
-# OpenFantasy Character Classes
+# OpenFantasy 角色职业
 
-> *"In the world of OpenFantasy, classes represent the various paths of power and specialization that individuals can pursue."*
+> *"在 OpenFantasy 的世界中，职业代表着个体可以追求的各种力量和专精的道路。"*
 
-## Quick Reference
+## 快速参考
 
-- [Class Structure](#class-structure)
-- [Main Classes](#main-classes)
-- [Class Progression](#class-progression)
-- [Multiclassing](#multiclassing)
-- [Class-Species Interactions](#class-species-interactions)
+- [职业结构](#职业结构)
+- [主要职业](#主要职业)
+- [职业进阶](#职业进阶)
+- [多职业](#多职业)
+- [职业与种族的互动](#职业与种族的互动)
 
-## Overview
+## 概述
 
-Each class in OpenFantasy represents a unique harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**, creating a symphony of abilities that defines their role in the world.
+OpenFantasy 中的每个职业都代表着 [**Exanthis**](/codex/Basic/Exanthis.md)， [**Souls**](/codex/Basic/Soul.md) 和 **Mana Capacity** 的独特和谐，创造出一种能力交响曲，定义了他们在世界中的角色。
 
-## Class Structure
+## 职业结构
 
-Classes are organized into main categories, each with numerous subclasses or career paths that branch out from the core class. These subclasses represent specialized applications of the class's fundamental abilities, like variations on a musical theme.
+职业被组织成主要类别，每个类别都有许多子职业或职业道路，这些子职业或职业道路从核心职业分支出来。 这些子职业代表了该职业基本能力的专门应用，就像音乐主题的变奏一样。
 
-## Main Classes
+## 主要职业
 
 ### [**Warrior**](/codex/Classes/Warrior/Warrior.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Physical combat and martial prowess |
-| **Primary Element** | [**Exanthis**](/codex/Basic/Exanthis.md) |
-| **Metaphor** | A powerful drum that drives the rhythm of battle |
+| **重点** | 物理战斗和武术技能 |
+| **主要元素** | [**Exanthis**](/codex/Basic/Exanthis.md) |
+| **隐喻** | 推动战斗节奏的强大鼓 |
 
-**Subclasses:**
-- [**Guardian**](/codex/Classes/Warrior/Guardian.md) - Defensive specialists who excel at protecting others
-- [**Berserker**](/codex/Classes/Warrior/Berserker.md) - Offensive specialists who enter a battle rage
-- [**Duelist**](/codex/Classes/Warrior/Duelist.md) - Precision fighters who excel in one-on-one combat
-- [**Commander**](/codex/Classes/Warrior/Commander.md) - Tactical leaders who coordinate group efforts
-- [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md) - Masters of multiple weapons and combat styles
+**子职业:**
+- [**Guardian**](/codex/Classes/Warrior/Guardian.md) - 擅长保护他人的防御专家
+- [**Berserker**](/codex/Classes/Warrior/Berserker.md) - 进入战斗狂怒的进攻专家
+- [**Duelist**](/codex/Classes/Warrior/Duelist.md) - 擅长一对一战斗的精准战士
+- [**Commander**](/codex/Classes/Warrior/Commander.md) - 协调团队努力的战术领导者
+- [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md) - 掌握多种武器和战斗风格的大师
 
 ### [**Mage**](/codex/Classes/Mage/Mage.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Magical abilities and spellcasting |
-| **Primary Element** | **Mana Capacity** |
-| **Metaphor** | A conductor orchestrating the elements |
+| **重点** | 魔法能力和施法 |
+| **主要元素** | **Mana Capacity** |
+| **隐喻** | 指挥元素的指挥家 |
 
-**Subclasses:**
-- [**Elementalist**](/codex/Classes/Mage/Elementalist.md) - Masters of elemental magic (fire, water, earth, air)
-- [**Necromancer**](/codex/Classes/Mage/Necromancer.md) - Practitioners of death and soul magic
-- [**Illusionist**](/codex/Classes/Mage/Illusionist.md) - Creators of deceptive magical effects
-- [**Diviner**](/codex/Classes/Mage/Diviner.md) - Seekers of knowledge through magical means
-- [**Warlock**](/codex/Classes/Mage/Warlock.md) - Dealers with otherworldly entities for power
+**子职业:**
+- [**Elementalist**](/codex/Classes/Mage/Elementalist.md) - 元素魔法（火，水，土，风）的大师
+- [**Necromancer**](/codex/Classes/Mage/Necromancer.md) - 死亡和灵魂魔法的实践者
+- [**Illusionist**](/codex/Classes/Mage/Illusionist.md) - 欺骗性魔法效果的创造者
+- [**Diviner**](/codex/Classes/Mage/Diviner.md) - 通过魔法手段寻求知识的人
+- [**Warlock**](/codex/Classes/Mage/Warlock.md) - 与其他世界实体交易以获取力量的人
 
 ### [**Rogue**](/codex/Classes/Rogue/Rogue.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Stealth, precision, and cunning |
-| **Primary Element** | [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A subtle flute that moves unseen |
+| **重点** | 隐身，精确和狡猾 |
+| **主要元素** | [**Soul**](/codex/Basic/Soul.md) |
+| **隐喻** | 无人察觉地移动的微妙长笛 |
 
-**Subclasses:**
-- [**Assassin**](/codex/Classes/Rogue/Assassin.md) - Silent killers who eliminate targets without detection
-- [**Scout**](/codex/Classes/Rogue/Scout.md) - Explorers who excel at gathering information
-- [**Trickster**](/codex/Classes/Rogue/Trickster.md) - Deceivers who use misdirection and illusion
-- [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md) - Stealth fighters who blend combat with subterfuge
-- [**Spy**](/codex/Classes/Rogue/Spy.md) - Infiltrators who gather intelligence from within enemy ranks
+**子职业:**
+- [**Assassin**](/codex/Classes/Rogue/Assassin.md) - 无声的杀手，在不被发现的情况下消灭目标
+- [**Scout**](/codex/Classes/Rogue/Scout.md) - 擅长收集信息的探险家
+- [**Trickster**](/codex/Classes/Rogue/Trickster.md) - 使用误导和幻觉的欺骗者
+- [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md) - 将战斗与诡计相结合的隐身战士
+- [**Spy**](/codex/Classes/Rogue/Spy.md) - 从敌人内部收集情报的渗透者
 
 ### [**Cleric**](/codex/Classes/Cleric/Cleric.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Divine magic and healing |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A choir that bridges the mortal and divine |
+| **重点** | 神圣魔法和治疗 |
+| **主要元素** | [**Soul**](/codex/Basic/Soul.md) 和 **Mana Capacity** |
+| **隐喻** | 连接凡人和神圣的合唱团 |
 
-**Subclasses:**
-- [**Healer**](/codex/Classes/Cleric/Healer.md) - Specialists in restorative magic and healing
-- [**Paladin**](/codex/Classes/Cleric/Paladin.md) - Holy warriors who combine divine magic with combat
-- [**Oracle**](/codex/Classes/Cleric/Oracle.md) - Receivers of divine visions and prophecies
-- [**Inquisitor**](/codex/Classes/Cleric/Inquisitor.md) - Hunters of heretics and supernatural threats
-- [**Shaman**](/codex/Classes/Cleric/Shaman.md) - Communicators with nature spirits and ancestors
+**子职业:**
+- [**Healer**](/codex/Classes/Cleric/Healer.md) - 恢复魔法和治疗方面的专家
+- [**Paladin**](/codex/Classes/Cleric/Paladin.md) - 将神圣魔法与战斗相结合的圣战士
+- [**Oracle**](/codex/Classes/Cleric/Oracle.md) - 接收神圣幻象和预言的人
+- [**Inquisitor**](/codex/Classes/Cleric/Inquisitor.md) - 异教徒和超自然威胁的猎人
+- [**Shaman**](/codex/Classes/Cleric/Shaman.md) - 与自然精灵和祖先交流的人
 
 ### [**Ranger**](/codex/Classes/Ranger/Ranger.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Wilderness survival and combat |
-| **Primary Elements** | [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A woodwind that echoes the sounds of the forest |
+| **重点** | 野外生存和战斗 |
+| **主要元素** | [**Exanthis**](/codex/Basic/Exanthis.md) 和 [**Soul**](/codex/Basic/Soul.md) |
+| **隐喻** | 回荡森林声音的木管乐器 |
 
-**Subclasses:**
-- [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md) - Companions of animals who fight alongside them
-- [**Hunter**](/codex/Classes/Ranger/Hunter.md) - Trackers who excel at finding and eliminating targets
-- [**Warden**](/codex/Classes/Ranger/Warden.md) - Protectors of natural places and their inhabitants
-- [**Scout**](/codex/Classes/Ranger/Scout.md) - Explorers who excel at navigating unknown territories
-- [**Survivalist**](/codex/Classes/Ranger/Survivalist.md) - Masters of wilderness survival and resourcefulness
+**子职业:**
+- [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md) - 与动物为伴，与它们并肩作战
+- [**Hunter**](/codex/Classes/Ranger/Hunter.md) - 擅长寻找和消灭目标的追踪者
+- [**Warden**](/codex/Classes/Ranger/Warden.md) - 自然场所及其居民的保护者
+- [**Scout**](/codex/Classes/Ranger/Scout.md) - 擅长在未知领土上导航的探险家
+- [**Survivalist**](/codex/Classes/Ranger/Survivalist.md) - 野外生存和足智多谋的大师
 
 ### [**Artificer**](/codex/Classes/Artificer/Artificer.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Creating magical items and devices |
-| **Primary Element** | **Mana Capacity** |
-| **Metaphor** | A craftsman who creates instruments of power |
+| **重点** | 创造魔法物品和设备 |
+| **主要元素** | **Mana Capacity** |
+| **隐喻** | 创造力量工具的工匠 |
 
-**Subclasses:**
-- [**Enchanter**](/codex/Classes/Artificer/Enchanter.md) - Creators of magical enhancements for items
-- [**Alchemist**](/codex/Classes/Artificer/Alchemist.md) - Brewers of potions and magical substances
-- [**Engineer**](/codex/Classes/Artificer/Engineer.md) - Builders of mechanical devices with magical components
-- [**Runemaster**](/codex/Classes/Artificer/Runemaster.md) - Crafters of magical symbols and inscriptions
-- [**Tinkerer**](/codex/Classes/Artificer/Tinkerer.md) - Inventors of small magical gadgets and tools
+**子职业:**
+- [**Enchanter**](/codex/Classes/Artificer/Enchanter.md) - 物品魔法增强的创造者
+- [**Alchemist**](/codex/Classes/Artificer/Alchemist.md) - 药水和魔法物质的酿造者
+- [**Engineer**](/codex/Classes/Artificer/Engineer.md) - 带有魔法组件的机械设备的建造者
+- [**Runemaster**](/codex/Classes/Artificer/Runemaster.md) - 魔法符号和铭文的工匠
+- [**Tinkerer**](/codex/Classes/Artificer/Tinkerer.md) - 小型魔法小工具和工具的发明家
 
 ### [**Bard**](/codex/Classes/Bard/Bard.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Performance and inspiration |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | Musicians who weave magic through their performances |
+| **重点** | 表演和灵感 |
+| **主要元素** | [**Soul**](/codex/Basic/Soul.md) 和 **Mana Capacity** |
+| **隐喻** | 通过表演编织魔法的音乐家 |
 
-**Subclasses:**
-- [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) - Masters of verbal persuasion and perfect oratory
-- [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) - Performers who channel fey enchantment magic
-- [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) - Collectors of knowledge and secrets
-- [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) - Storytellers who channel supernatural entities
-- [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) - Blade dancers who combine combat with performance
-- [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) - Battle performers who inspire courage and heroism
-- [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) - Manipulators of fear and secrets
-- [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) - Artists who create physical objects through performance
+**子职业:**
+- [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) - 口头说服和完美演说的掌握者
+- [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) - 引导精灵附魔魔法的表演者
+- [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) - 知识和秘密的收集者
+- [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) - 引导超自然实体的讲故事者
+- [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) - 将战斗与表演相结合的刀刃舞者
+- [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) - 激发勇气和英雄主义的战斗表演者
+- [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) - 操纵恐惧和秘密的人
+- [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) - 通过表演创造物理物体的艺术家
 
 ### [**Druid**](/codex/Classes/Druid/Druid.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Nature magic and shapeshifting |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A chameleon that adapts to its surroundings |
+| **重点** | 自然魔法和变形 |
+| **主要元素** | [**Soul**](/codex/Basic/Soul.md) 和 **Mana Capacity** |
+| **隐喻** | 适应周围环境的变色龙 |
 
-**Subclasses:**
-- [**Circle of the Land**](/codex/Classes/Druid/Land.md) - Guardians of natural territories
-- [**Circle of the Moon**](/codex/Classes/Druid/Moon.md) - Masters of wild shapeshifting
-- [**Circle of Dreams**](/codex/Classes/Druid/Dreams.md) - Connectors to the fey realms of nature
-- [**Circle of the Shepherd**](/codex/Classes/Druid/Shepherd.md) - Protectors of animals and summoners of nature spirits
-- [**Circle of Spores**](/codex/Classes/Druid/Spores.md) - Controllers of the cycle of life and death
+**子职业:**
+- [**Circle of the Land**](/codex/Classes/Druid/Land.md) - 自然领土的守护者
+- [**Circle of the Moon**](/codex/Classes/Druid/Moon.md) - 狂野变形大师
+- [**Circle of Dreams**](/codex/Classes/Druid/Dreams.md) - 与自然精灵领域的连接者
+- [**Circle of the Shepherd**](/codex/Classes/Druid/Shepherd.md) - 动物的保护者和自然精神的召唤者
+- [**Circle of Spores**](/codex/Classes/Druid/Spores.md) - 生命和死亡周期的控制者
 
 ### [**Monk**](/codex/Classes/Monk/Monk.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Inner strength and discipline |
-| **Primary Elements** | [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A martial artist who has mastered the flow of energy |
+| **重点** | 内在力量和纪律 |
+| **主要元素** | [**Exanthis**](/codex/Basic/Exanthis.md) 和 [**Soul**](/codex/Basic/Soul.md) |
+| **隐喻** | 掌握能量流动的武术家 |
 
-**Subclasses:**
-- [**Way of the Open Hand**](/codex/Classes/Monk/OpenHand.md) - Masters of unarmed combat techniques
-- [**Way of Shadow**](/codex/Classes/Monk/Shadow.md) - Stealthy warriors who manipulate darkness
-- [**Way of the Four Elements**](/codex/Classes/Monk/FourElements.md) - Controllers of elemental energy
-- [**Way of the Kensei**](/codex/Classes/Monk/Kensei.md) - Weapon masters who extend their spirit into their armaments
-- [**Way of Tranquility**](/codex/Classes/Monk/Tranquility.md) - Peaceful mediators who heal and protect
+**子职业:**
+- [**Way of the Open Hand**](/codex/Classes/Monk/OpenHand.md) - 徒手格斗技巧大师
+- [**Way of Shadow**](/codex/Classes/Monk/Shadow.md) - 操纵黑暗的隐身战士
+- [**Way of the Four Elements**](/codex/Classes/Monk/FourElements.md) - 元素能量的控制者
+- [**Way of the Kensei**](/codex/Classes/Monk/Kensei.md) - 将精神扩展到武器中的武器大师
+- [**Way of Tranquility**](/codex/Classes/Monk/Tranquility.md) - 治愈和保护的和平调解人
 
 ### [**Warlock**](/codex/Classes/Warlock/Warlock.md)
 
-| Aspect | Details |
+| 方面 | 详情 |
 |--------|---------|
-| **Focus** | Pacts with supernatural entities |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A musician who has sold their soul for talent |
+| **重点** | 与超自然实体签订契约 |
+| **主要元素** | [**Soul**](/codex/Basic/Soul.md) 和 **Mana Capacity** |
+| **隐喻** | 为了才华出卖灵魂的音乐家 |
 
-**Subclasses:**
-- [**The Fiend**](/codex/Classes/Warlock/Fiend.md) - Pact with demonic entities
-- [**The Archfey**](/codex/Classes/Warlock/Archfey.md) - Pact with powerful fey creatures
-- [**The Great Old One**](/codex/Classes/Warlock/GreatOldOne.md) - Pact with ancient cosmic entities
-- [**The Celestial**](/codex/Classes/Warlock/Celestial.md) - Pact with divine beings
-- [**The Hexblade**](/codex/Classes/Warlock/Hexblade.md) - Pact with a sentient weapon or entity of shadow
+**子职业:**
+- [**The Fiend**](/codex/Classes/Warlock/Fiend.md) - 与恶魔实体签订契约
+- [**The Archfey**](/codex/Classes/Warlock/Archfey.md) - 与强大的精灵生物签订契约
+- [**The Great Old One**](/codex/Classes/Warlock/GreatOldOne.md) - 与古老的宇宙实体签订契约
+- [**The Celestial**](/codex/Classes/Warlock/Celestial.md) - 与神圣的存在签订契约
+- [**The Hexblade**](/codex/Classes/Warlock/Hexblade.md) - 与有知觉的武器或阴影实体签订契约
 
-## Class Progression
+## 职业进阶
 
-Classes in OpenFantasy follow a progression system that allows individuals to develop their abilities over time. This progression is represented by levels, each granting access to new abilities and powers, like a musician who learns increasingly complex pieces.
+OpenFantasy 中的职业遵循一个进阶系统，该系统允许个人随着时间的推移发展其能力。 这种进阶由等级表示，每个等级都可以访问新的能力和力量，就像音乐家学习越来越复杂的作品一样。
 
-### Level Tiers
+### 等级分层
 
-| Tier | Levels | Description |
+| 等级 | 等级 | 描述 |
 |------|--------|-------------|
-| **Novice** | 1-5 | Beginners learning fundamentals |
-| **Adept** | 6-10 | Masters of basics developing specialization |
-| **Expert** | 11-15 | Specialists with highly honed abilities |
-| **Master** | 16-20 | Those who have achieved true mastery |
-| **Legendary** | 21+ | Individuals transcending normal limitations |
+| **Novice** | 1-5 | 学习基础知识的初学者 |
+| **Adept** | 6-10 | 掌握基础知识并发展专业化的大师 |
+| **Expert** | 11-15 | 具有高度磨练能力的专家 |
+| **Master** | 16-20 | 那些已达到真正掌握水平的人 |
+| **Legendary** | 21+ | 超越正常限制的个体 |
 
-## Multiclassing
+## 多职业
 
-Some individuals choose to pursue multiple classes, combining abilities from different paths to create unique combinations. This practice, known as multiclassing, allows for greater versatility but may limit the depth of specialization in any single class, like a musician who plays multiple instruments but may not master any single one.
+有些人选择追求多个职业，结合来自不同道路的能力来创造独特的组合。 这种做法被称为多职业，可以实现更大的多功能性，但可能会限制任何一个职业的专业化深度，就像一个音乐家演奏多种乐器但可能没有掌握任何一种乐器一样。
 
-## Class-Species Interactions
+## 职业与种族的互动
 
-Different species have natural affinities for certain classes based on their elemental composition:
+不同的种族基于其元素组成对某些职业具有自然的亲和力：
 
-| Species | Natural Class Affinities |
+| 种族 | 自然职业亲和力 |
 |---------|--------------------------|
-| **Humans** | Balanced affinity for all classes |
-| **Elves** | Strong affinity for Mage, Ranger, and Bard classes |
-| **Dark Elves** | Strong affinity for Mage, Rogue, and Warlock classes |
-| **Dwarves** | Strong affinity for Warrior, Artificer, and Cleric classes |
-| **Beastfolk** | Strong affinity for Ranger, Druid, and Warrior classes |
-| **Dragonkin** | Strong affinity for Warrior, Mage, and Warlock classes |
-| **Fae** | Strong affinity for Bard, Druid, and Mage classes |
-| **Golems** | Strong affinity for Artificer and Warrior classes |
-| **Sirens** | Strong affinity for Bard and Mage classes |
-| **Shadowfolk** | Strong affinity for Rogue, Warlock, and Mage classes |
-| **Giants** | Strong affinity for Warrior and Druid classes |
+| **Humans** | 对所有职业的平衡亲和力 |
+| **Elves** | 对法师，游侠和吟游诗人职业的强烈亲和力 |
+| **Dark Elves** | 对法师，盗贼和术士职业的强烈亲和力 |
+| **Dwarves** | 对战士，工匠和牧师职业的强烈亲和力 |
+| **Beastfolk** | 对游侠，德鲁伊和战士职业的强烈亲和力 |
+| **Dragonkin** | 对战士，法师和术士职业的强烈亲和力 |
+| **Fae** | 对吟游诗人，德鲁伊和法师职业的强烈亲和力 |
+| **Golems** | 对工匠和战士职业的强烈亲和力 |
+| **Sirens** | 对吟游诗人和法师职业的强烈亲和力 |
+| **Shadowfolk** | 对盗贼，术士和法师职业的强烈亲和力 |
+| **Giants** | 对战士和德鲁伊职业的强烈亲和力 |
 
 ---
 
-> Understanding the nature of classes provides insight into the diverse paths of power in the world of **OpenFantasy**, like listening to the different melodies that make up the grand symphony of existence.
+> 了解职业的本质可以深入了解 **OpenFantasy** 世界中不同的力量道路，就像聆听构成伟大存在交响曲的不同旋律一样。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,182 +1,186 @@
-# **Mana Purity**: The Refinement of Magical Energy
+# **法力纯度**：魔法能量的提炼
 
-## Overview
+## 概述
 
-Mana Purity refers to the degree of refinement and control present in magical energy used for spellcasting. It represents how thoroughly a caster has processed raw magical energy into a form that is stable, precise, and aligned with their intentions.
+法力纯度指的是用于施法的魔法能量的提炼和控制程度。它代表了施法者将原始魔法能量处理成稳定、精确并符合其意图的形式的彻底程度。
 
-Purity is a core metric in determining spell effectiveness, with higher purity typically yielding more controlled and predictable results.
+纯度是确定法术效力的核心指标，通常较高的纯度会产生更可控和可预测的结果。
 
-## The Two-Phase Conversion Process
+## 两阶段转换过程
 
-Magical energy undergoes two distinct phases of processing before being used in spellcasting:
+魔法能量在使用于施法之前，会经历两个不同的处理阶段：
 
-### Phase 1: Wild Mana to Base Mana Conversion
-- **Input**: Raw Wild Mana from the environment
-- **Process**: Biological absorption and initial stabilization within a creature's body
-- **Output**: Base Mana stored within the caster's internal reserves
-- **Key Metric**: Conversion Effectiveness (quantity of usable energy produced)
-- **Primary Function**: Transforms chaotic environmental energy into stable, internally stored energy
+### 阶段 1：狂野法力到基础法力转换
+- **输入**: 来自环境的原始狂野法力
+- **过程**: 生物吸收和生物体内初步稳定
+- **输出**: 存储在施法者内部储备中的基础法力
+- **关键指标**: 转换效率（产生的可用能量的数量）
+- **主要功能**: 将混沌的环境能量转化为稳定的、内部存储的能量
 
-> **Important**: This first phase determines how efficiently a being converts Wild Mana into usable Base Mana, directly affecting their available magical reserves and regeneration rate. Most beings perform this conversion unconsciously as a natural biological function.
+> **重要**: 第一阶段决定了一个生物将狂野法力转化为可用基础法力的效率，直接影响其可用的魔法储备和恢复速度。大多数生物在无意识的情况下执行这种转换，这是一种自然的生物功能。
 
-### Phase 2: Base Mana to Elemental Mana Conversion
-- **Input**: Base Mana from the caster's internal reserves
-- **Process**: Intentional refinement and specialization through conscious magical technique
-- **Output**: Elemental Mana + residual Wild Mana
-- **Key Metric**: Mana Purity (quality of the resulting magical energy)
-- **Primary Function**: Transforms neutral Base Mana into specialized forms suitable for spellcasting
+### 阶段 2：基础法力到元素法力转换
+- **输入**: 来自施法者内部储备的基础法力
+- **过程**: 通过有意识的魔法技巧进行有意的提炼和专门化
+- **输出**: 元素法力 + 残留狂野法力
+- **关键指标**: 法力纯度（最终魔法能量的质量）
+- **主要功能**: 将中性的基础法力转化为适合施法的专门形式
 
-> **Critical Understanding**: Purity percentage is calculated during this second phase as the ratio of Refined Elemental Mana to total mana (Refined Elemental Mana + Residual Wild Mana).
+> **关键理解**: 纯度百分比是在第二阶段计算的，它是提炼后的元素法力与总法力（提炼后的元素法力 + 残留狂野法力）之比。
 
-## Measuring Purity
+## 测量纯度
 
-### Mathematical Expression
-Purity calculations follow the formula:
+### 数学表达式
+纯度计算遵循以下公式：
 ```
 Purity Percentage = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
 ```
 
-For example, if a spell contains 30 units of refined Fire Mana and 70 units of residual Wild Mana, its purity would be 30/(30+70) × 100% = 30% purity.
+例如，如果一个法术包含 30 单位的提炼后的火焰法力 和 70 单位的残留狂野法力，其纯度将为 30/(30+70) × 100% = 30% 纯度。
 
-### Standard Classification
+### 标准分类
 
-| Category | Purity Range | Description | Typical Practitioners |
+| 类别 | 纯度范围 | 描述 | 典型从业者 |
 |----------|--------------|-------------|----------------------|
-| Critical | 0-10% | Highly unstable, unpredictable | Untrained individuals in distress |
-| Basic | 10-35% | Functional but crude | Beginners, emergency casting |
-| Standard | 35-65% | Balanced and reliable | Journeyman mages, working professionals |
-| Refined | 65-85% | Highly controlled | Master mages, specialists |
-| Perfect | 85-100% | Exceptional precision | Archmages, once-in-a-generation talents |
+| 临界 | 0-10% | 高度不稳定，不可预测 | 处于困境中的未经训练的个人 |
+| 基础 | 10-35% | 功能性但粗糙 | 初学者，紧急施法 |
+| 标准 | 35-65% | 平衡且可靠 | 熟练法师，在职专业人士 |
+| 精炼 | 65-85% | 高度可控 | 大师级法师，专家 |
+| 完美 | 85-100% | 卓越的精度 | 大法师，一代奇才 |
 
-## Sources of Impurity
+## 杂质来源
 
-Contamination during Phase 2 conversion can occur from several sources:
+在第二阶段转换过程中，污染可能来自以下几个来源：
 
-### Internal Factors
-- **Emotional Disturbance**: Strong emotions disrupt the refinement process
-- **Mental Fatigue**: Tired minds struggle to maintain control over the conversion
-- **Physical Strain**: Bodily stress can leak Wild Mana back into the refined output
-- **Insufficient Training**: Lack of proper technique leads to incomplete refinement
+### 内部因素
+- **情绪波动**: 强烈的情绪会扰乱提炼过程
+- **精神疲劳**: 疲惫的头脑难以保持对转换的控制
+- **身体压力**: 身体压力可能将狂野法力泄漏回提炼后的输出
+- **训练不足**: 缺乏适当的技术会导致不完整的提炼
 
-### External Factors
-- **Environmental Disruption**: High ambient Wild Mana can interfere with refinement
-- **Magical Interference**: Nearby spellcasting can create ripples in the conversion process
-- **Temporal Anomalies**: Unusual time flows can destabilize the refinement timing
-- **Planar Proximity**: Thin boundaries to other realms can introduce exotic energies
+### 外部因素
+- **环境扰动**: 高环境狂野法力会干扰提炼
+- **魔法干扰**: 附近的施法可能会在转换过程中产生涟漪
+- **时间异常**: 异常的时间流动会破坏提炼时间安排
+- **位面邻近**: 与其他领域之间的薄弱边界可能会引入异种能量
 
-### Technical Limitations
-- **Spell Complexity**: More complex patterns are harder to maintain at high purity
-- **Hasty Casting**: Rushing the refinement process leaves more Wild Mana residue
-- **Material Quality**: Inferior focus objects or components can reduce purity
-- **Pattern Conflicts**: Contradictory elements in a spell design can create "leaks"
+### 技术限制
+- **法术复杂性**: 更复杂的模式更难维持在高纯度
+- **匆忙施法**: 匆忙提炼过程会留下更多的狂野法力残留
+- **材料质量**: 低劣的聚焦物品或组件会降低纯度
+- **模式冲突**: 法术设计中相互矛盾的元素可能会产生“泄漏”
 
-## The Purification Process
+## 提纯过程
 
-Transforming Base Mana into refined Elemental Mana involves several distinct stages:
+将基础法力转化为提炼后的元素法力涉及几个不同的阶段：
 
-### 1. Internalization
-- Base Mana is drawn from the caster's internal reserves (result of Phase 1 conversion)
-- The caster brings this Base Mana into active consciousness
-- This stage establishes a connection between intent and energy
+### 1. 内化
+- 从施法者的内部储备中提取基础法力（阶段 1 转换的结果）
+- 施法者将这种基础法力带入积极意识中
+- 此阶段建立意图与能量之间的连接
 
-### 2. Filtration
-- The caster separates desired components from chaotic elements
-- Mental discipline acts as a sieve for the energy
-- Focused meditation or ritual gestures enhance this stage
+### 2. 过滤
+- 施法者将所需的成分与混沌元素分离
+- 精神纪律充当能量的筛子
+- 专注的冥想或仪式手势会增强此阶段
 
-### 3. Harmonization
-- Energy patterns are aligned to the caster's intention
-- Visualization techniques strengthen the energy's coherence
-- Personal affinity with the element improves results
+### 3. 协调
+- 能量模式与施法者的意图对齐
+- 可视化技术加强能量的连贯性
+- 个人与元素的亲和力提高结果
 
-### 4. Stabilization
-- The refined energy is locked into a stable pattern
-- Spell structure creates a framework to maintain purity
-- The caster's will sustains the refined state until release
+### 4. 稳定
+- 提炼后的能量被锁定在稳定的模式中
+- 法术结构创建一个框架来维持纯度
+- 施法者的意志维持提炼后的状态直到释放
 
-## Wild Mana Concentration Levels
+## 狂野法力浓度水平
 
-Environmental Wild Mana varies significantly across different locations, affecting the difficulty of maintaining high purity levels during Phase 2 conversion:
+环境狂野法力在不同地点差异很大，影响了在第二阶段转换过程中维持高纯度水平的难度：
 
-| Environment | Wild Mana Concentration | Purification Difficulty |
+| 环境 | 狂野法力浓度 | 提纯难度 |
 |-------------|-------------------------|-------------------------|
-| Dead Magic Zone | Negligible (0-0.5%) | Impossible (no energy to refine) |
-| Urban Center | Very Low (0.5-2%) | Easier (less contamination) |
-| Typical Rural Area | Low (2-5%) | Standard |
-| Forest/Natural Setting | Moderate (5-15%) | Moderate |
-| Ancient Grove | High (15-30%) | Challenging |
-| Ley Line Confluence | Very High (30-60%) | Very Difficult |
-| Magical Anomaly | Extreme (60-100%) | Nearly Impossible |
+| 魔法死亡区 | 可忽略不计 (0-0.5%) | 不可能（没有能量可以提炼） |
+| 城市中心 | 非常低 (0.5-2%) | 更容易（污染更少） |
+| 典型农村地区 | 低 (2-5%) | 标准 |
+| 森林/自然环境 | 中等 (5-15%) | 中等 |
+| 古代林地 | 高 (15-30%) | 具有挑战性 |
+| 灵脉汇合处 | 非常高 (30-60%) | 非常困难 |
+| 魔法异常 | 极端 (60-100%) | 几乎不可能 |
 
-## The Relationship Between Phases
+## 阶段之间的关系
 
-Understanding the clear distinction between the two phases of mana conversion is crucial:
+理解法力转换的两个阶段之间的明确区别至关重要：
 
-### Primary Differences
+### 主要区别
 
-| Aspect | Phase 1 (Wild → Base) | Phase 2 (Base → Elemental) |
+| 方面 | 阶段 1（狂野 → 基础） | 阶段 2（基础 → 元素） |
 |--------|------------------------|----------------------------|
-| Nature | Biological, largely unconscious | Conscious, technical process |
-| Location | Throughout the body | Primarily in mind and casting apparatus |
-| Timing | Continuous, background process | Active, during spellcasting |
-| Metric | Effectiveness (quantity) | Purity (quality) |
-| Limiting Factor | Species and capacity | Training and technique |
-| Improvement Method | Long-term development | Skill practice and focus |
+| 性质 | 生物学，很大程度上是无意识的 | 有意识的，技术过程 |
+| 地点 | 遍布全身 | 主要在思想和施法设备中 |
+| 时间 | 连续的，后台进程 | 主动的，在施法期间 |
+| 指标 | 效率（数量） | 纯度（质量） |
+| 限制因素 | 物种和容量 | 训练和技术 |
+| 改进方法 | 长期发展 | 技能练习和专注 |
 
-### Why Separate Phases Matter
+### 为什么分离阶段很重要
 
-1. **Specialization**: Some individuals may excel at Phase 1 (having large mana reserves) while struggling with Phase 2 (producing pure mana), or vice versa
-2. **Diagnosis**: Magical difficulties can be precisely attributed to either collection problems (Phase 1) or refinement problems (Phase 2)
-3. **Training Focus**: Different exercises target improvement in each specific phase
-4. **Tool Design**: Magical implements may be crafted to assist with either phase specifically
+1. **专业化**: 有些人可能擅长阶段 1（拥有大量的法力储备），而另一些人可能在阶段 2（产生纯净的法力）中挣扎，反之亦然
+2. **诊断**: 魔法困难可以精确地归因于收集问题（阶段 1）或提炼问题（阶段 2）
+3. **训练重点**: 不同的练习针对每个特定阶段的改进
+4. **工具设计**: 魔法工具可以专门用于协助任一阶段
 
-## Direct Wild Mana Absorption Dangers
+## 直接吸收狂野法力的危险
 
-While most magical traditions teach the two-phase process for safety, some practitioners attempt to bypass Phase 1 (biological conversion) and directly manipulate Wild Mana. This carries significant risks:
+虽然大多数魔法传统都教授两阶段过程以确保安全，但一些从业者试图绕过阶段 1（生物转换）并直接操纵狂野法力。这带来了很大的风险：
 
-### Acute Effects
-- **Mana Burns**: Painful energy discharges through the body
-- **Sensory Overload**: Overwhelming magical perceptions
-- **Uncontrolled Manifestations**: Spontaneous spell-like effects
+### 急性效应
+- **法力灼伤**: 通过身体的痛苦能量释放
+- **感官过载**: 压倒性的魔法感知
+- **不受控制的显现**: 自发性的类法术效应
 
-### Chronic Conditions
-- **Pattern Scarring**: Permanent distortions in personal mana flow
-- **Wild Resonance**: Increasing vulnerability to ambient Wild Mana
-- **Elemental Imbalance**: Disruption of internal elemental harmonies
+### 慢性疾病
+- **模式疤痕**: 个人法力流动中的永久性扭曲
+- **狂野共鸣**: 越来越容易受到环境狂野法力的影响
+- **元素失衡**: 内部元素和谐的破坏
 
-### Catastrophic Outcomes
-- **Cascade Failure**: Complete collapse of personal mana control
-- **Wild Transformation**: Physical mutation from Wild Mana exposure
-- **Mana Rejection**: Inability to process magical energy altogether
+### 灾难性后果
+- **级联故障**: 个人法力控制的完全崩溃
+- **狂野转变**: 由于狂野法力的暴露而导致的身体变异
+- **法力排斥**: 完全无法处理魔法能量
 
-## Practical Applications
+## 实际应用
 
-### Training Techniques
-- **Meditation Cycles**: Rhythmic breathing paired with mental focus exercises
-- **Purity Crystals**: Tools that provide visual feedback on current purity levels
-- **Pattern Weaving**: Creating increasingly complex designs with stable energy
-- **Echo Casting**: Repeating the same spell to refine the conversion process
+### 训练技巧
+- **冥想周期**: 节奏性呼吸与精神专注练习相结合
+- **纯度水晶**: 提供当前纯度水平的视觉反馈的工具
+- **模式编织**: 用稳定的能量创建越来越复杂的设计
+- **回声施法**: 重复相同的法术以完善转换过程
 
-### Purity-Enhancing Tools
-- **Focus Objects**: Personal items that help stabilize the conversion process
-- **Purification Chambers**: Spaces designed to minimize external interference
-- **Harmonic Instruments**: Create sounds that resonate with and stabilize magical energy
-- **Purity Inks and Pigments**: Materials that help visualize and maintain pure patterns
+### 纯度增强工具
+- **聚焦对象**: 帮助稳定转换过程的个人物品
+- **提纯室**: 旨在最大限度地减少外部干扰的空间
+- **谐波乐器**: 产生与魔法能量产生共鸣并稳定魔法能量的声音
+- **纯度墨水和颜料**: 帮助可视化和维持纯模式的材料
 
-## Cultural Perspectives
+## 文化视角
 
-Different magical traditions emphasize varying aspects of purity:
+不同的魔法传统强调纯度的不同方面：
 
-- **Academic Traditions**: Value extremely high purity; view Wild Mana as contamination
-- **Natural Traditions**: Accept moderate Wild Mana content as connecting magic to life force
-- **Divine Traditions**: Focus on intention purity over technical refinement
-- **Innate Casters**: Often have unique biological Phase 1 processes that affect their Phase 2 capabilities
+- **学术传统**: 重视极高的纯度；将狂野法力视为污染
+- **自然传统**: 接受适度的狂野法力含量，将其视为连接魔法与生命力
+- **神圣传统**: 侧重于意图纯度而非技术提炼
+- **天生施法者**: 通常具有独特的生物阶段 1 过程，会影响其阶段 2 的能力
 
-## Misconceptions
+## 误解
 
-- **"Higher purity always means better magic"**: Some spells actually benefit from controlled Wild Mana content
-- **"Purity is entirely about skill"**: Natural affinity and biological factors significantly impact achievable purity
-- **"Impure magic is always dangerous"**: While risks increase, many practical applications work adequately at lower purity levels
-- **"Purity can be achieved through tools alone"**: No focus object can replace proper technique and understanding
+- **“更高的纯度总是意味着更好的魔法”**: 有些法术实际上受益于受控的狂野法力含量
+- **“纯度完全取决于技能”**: 自然亲和力和生物因素会显著影响可实现的纯度
+- **“不纯的魔法总是危险的”**: 虽然风险增加，但许多实际应用在较低的纯度水平下也能充分发挥作用
+- **“纯度可以通过单独的工具来实现”**: 没有聚焦对象可以取代适当的技术和理解
 
-> *"Think of Wild Mana as clay from the riverbank. Phase 1 is gathering the clay and removing the largest stones and debris - this is our Base Mana. Phase 2 is working the clay, removing finer impurities, and shaping it to our purpose - this gives us our Elemental Mana with varying levels of purity. Some pottery needs the finest, purest clay, while other vessels actually benefit from certain 'impurities' that give them character and strength."* — Magister Elara Tetherson, Instructor of Fundamental Energies 
+> *“将狂野法力想象成来自河岸的粘土。阶段 1 是收集粘土并去除最大的石头和碎片 - 这是我们的基础法力。阶段 2 是加工粘土，去除更细微的杂质，并将其塑造成我们的目的 - 这给了我们不同纯度水平的元素法力。有些陶器需要最精细、最纯净的粘土，而另一些容器实际上受益于某些“杂质”，这些“杂质”赋予它们特征和力量。”* — Elara Tetherson 法师，基础能量导师
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

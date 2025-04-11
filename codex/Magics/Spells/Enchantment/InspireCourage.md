@@ -1,123 +1,127 @@
-# Inspire Courage
+# 鼓舞勇气
 
-> *"When fear grips the heart, a single melody can rekindle the flame of bravery."*  
-> — Jalavar Swiftstrings, Battle-Bard of the Western Front
+> *"当恐惧抓住心灵时，一首简单的旋律便能重新点燃英勇的火焰。"*  
+> — Jalavar Swiftstrings, 西部前线的战斗吟游诗人
 
-## Quick Reference
+## 快速参考
 
-- **Casting Time:** 6 seconds (performance action)
-- **Duration:** 30 seconds to 2 minutes
-- **Range:** 9 meters radius (centered on bard)
-- **Components:** Verbal, Somatic, Instrumental (optional but enhances effect)
-- **School:** Enchantment (Courage-Weaving)
-- **Classification:** Support/Enhancement
-- **Difficulty:** Intermediate
-- **Purity Required:** Basic (20-30%)
-- **Minimum Mana Capacity:** 20% (Higher capacity extends duration and radius)
+- **施法时间：** 6秒（表演动作）
+- **持续时间：** 30秒到2分钟
+- **范围：** 9米半径（以吟游诗人为中心）
+- **成分：** 言语，姿势，乐器（可选但可增强效果）
+- **学派：** 附魔（勇气编织）
+- **分类：** 辅助/增强
+- **难度：** 中级
+- **纯度要求：** 基础 (20-30%)
+- **最低法力容量：** 20% (更高的容量会延长持续时间和半径)
 
-## Technical Details
+## 技术细节
 
-Inspire Courage creates a mana-harmonic field that resonates with allies' courage centers in both mind and spirit. The spell weaves a pattern of enchantment energy that directly counters fear responses while enhancing confidence and resolute action.
+鼓舞勇气创造一个法力谐波场，与盟友在精神和心灵中的勇气中心产生共鸣。 该法术编织一种附魔能量模式，直接对抗恐惧反应，同时增强信心和坚决行动。
 
-### Mana Composition
-- **Primary:** Base Mana (Inspiration) 50-65%
-- **Secondary:** Mentimana 25-35%
-- **Tertiary:** Vitomana 10-15%
+### 法力构成
+- **主要：** 基础法力 (灵感) 50-65%
+- **次要：** 精神法力 25-35%
+- **第三：** 生命法力 10-15%
 
-### Purity Influence on Effect
-- **15-20% Purity:** Minimal effect, provides resistance to fear effects but little combat enhancement
-- **20-30% Purity:** Standard effect, grants both fear resistance and moderate combat enhancement
-- **30-45% Purity:** Enhanced effect, stronger combat bonuses and complete immunity to minor fear effects
-- **45%+ Purity:** Master effect, extends duration significantly and provides partial resistance even to magical dread effects
+### 纯度对效果的影响
+- **15-20% 纯度：** 效果最小，提供对恐惧效果的抵抗力，但战斗增强作用很小
+- **20-30% 纯度：** 标准效果，提供恐惧抵抗力和适度的战斗增强
+- **30-45% 纯度：** 增强效果，更强的战斗奖励和对轻微恐惧效果的完全免疫
+- **45%+ 纯度：** 大师效果，显著延长持续时间，甚至提供对魔法恐惧效果的部分抵抗
 
-### Harmonic Pattern
-The spell follows a rising melodic pattern that creates resonance points within allies' mana networks. These resonance points generate counter-frequencies to fear-inducing stimuli while amplifying natural courage responses.
+### 谐波模式
+该法术遵循一种上升的旋律模式，在盟友的法力网络中产生共鸣点。 这些共鸣点产生对抗恐惧诱导刺激的反频率，同时放大自然的勇气反应。
 
-## Practical Effects
+## 实际效果
 
-When successfully cast, Inspire Courage produces the following effects on allies within range:
+成功施放时，鼓舞勇气会对范围内的盟友产生以下影响：
 
-1. **Courage Enhancement:** Recipients experience a noticeable reduction in fear response, both natural and magical. Their threshold for fear-inducing stimuli increases by 30-60% depending on casting purity.
+1. **勇气增强：** 接受者感受到恐惧反应的明显减少，无论是自然的还是魔法的。 他们对恐惧诱导刺激的阈值增加了30-60％，具体取决于施法纯度。
 
-2. **Combat Prowess:** The harmonic resonance enhances physical performance by 10-25% through the reduction of hesitation and doubt. This manifests as improved reaction time, strike precision, and force application.
+2. **战斗能力：** 谐波共振通过减少犹豫和怀疑来增强身体表现10-25％。 这表现为反应时间，打击精度和力量施加的提高。
 
-3. **Pain Resilience:** Recipients can withstand 15-30% more pain before performance degradation, allowing them to fight effectively despite injuries that would normally impair function.
+3. **耐痛性：** 接受者可以承受比表现退化前高出15-30％的疼痛，使他们即使在通常会损害功能的受伤情况下也能有效地战斗。
 
-4. **Morale Stability:** The group experiences a collective resilience against demoralization, creating a feedback loop where individual courage reinforces group courage.
+4. **士气稳定：** 团队对士气低落具有集体韧性，从而产生一个反馈循环，其中个人勇气增强团队勇气。
 
-## Casting Process
+## 施法过程
 
-The bard channels mana through emotional expression focused on themes of courage, victory, or heroism. The casting follows a specific progression:
+吟游诗人通过专注于勇气，胜利或英雄主义主题的情感表达来引导法力。 施法遵循特定的过程：
 
-1. **Initiation:** The bard begins a performance (instrumental, vocal, or both) with an uplifting motif that serves as the spell's foundation.
+1. **启动：** 吟游诗人开始演奏（乐器，声乐或两者兼有），其中包含令人振奋的主题，作为法术的基础。
 
-2. **Mana Infusion:** As the performance continues, the bard infuses the sound waves with mana, creating a resonant enchantment field.
+2. **法力注入：** 随着表演的继续，吟游诗人将法力注入声波中，从而产生共鸣的附魔场。
 
-3. **Harmonic Expansion:** The mana-infused performance expands outward, seeking compatible mana signatures of allies.
+3. **谐波扩展：** 注入法力的表演向外扩展，寻找盟友的兼容法力签名。
 
-4. **Connection Establishment:** When the spell connects with an ally, a momentary flash of golden light may appear at the point of connection (visible only to those with magical sight).
+4. **连接建立：** 当法术与盟友连接时，在连接点可能会出现短暂的金色光芒（只有具有魔法视觉的人才能看到）。
 
-5. **Maintenance:** The bard must maintain at least a subtle performance to sustain the effect for its duration.
+5. **维护：** 吟游诗人必须保持至少微妙的表演才能维持效果的持续时间。
 
-## Common Applications
+## 常见应用
 
-- **Pre-Battle Inspiration:** Most commonly used before engaging in combat to prepare allies mentally and emotionally
-- **Fear Resistance:** Particularly effective against creatures that use fear as a weapon
-- **Morale Recovery:** Can reverse a deteriorating battlefield situation by restoring group confidence
-- **Performance Enhancement:** Used in non-combat situations to help allies perform under pressure
-- **Training Aid:** Helps novices overcome fear during intense training scenarios
+- **战前鼓舞：** 最常用于战斗前，以在精神和情感上做好准备
+- **恐惧抵抗：** 对使用恐惧作为武器的生物特别有效
+- **士气恢复：** 可以通过恢复团队信心来扭转恶化的战场局势
+- **性能增强：** 用于非战斗情况下，以帮助盟友在压力下表现
+- **训练辅助：** 帮助新手克服在高强度训练场景中的恐惧
 
-## Variations
+## 变体
 
-### Battle Anthem
-A more martially-focused version that enhances physical prowess at the expense of fear resistance.
-- **Mana Composition:** Shifts to 60% Base Mana, 15% Mentimana, 25% Vitomana
-- **Purity Required:** 25-35%
-- **Effect:** Combat enhancement increases to 20-35%, fear resistance reduced to 15-25%
+### 战斗圣歌
+一个更以军事为重点的版本，以牺牲恐惧抵抗力为代价来增强身体能力。
+- **法力构成：** 变为 60% 基础法力, 15% 精神法力, 25% 生命法力
+- **纯度要求：** 25-35%
+- **效果：** 战斗增强提高到 20-35%, 恐惧抵抗力降低到 15-25%
 
-### Heroic Resonance
-A sustained version that creates a longer-lasting but more subtle effect.
-- **Casting Time:** 30 seconds
-- **Duration:** Up to 1 hour
-- **Purity Required:** 35-45%
-- **Effect:** Provides 50% of standard combat enhancement but maintains fear resistance at full strength
+### 英雄共鸣
+一个持续的版本，产生更长久但更微妙的效果。
+- **施法时间：** 30秒
+- **持续时间：** 最多1小时
+- **纯度要求：** 35-45%
+- **效果：** 提供 50% 的标准战斗增强，但保持完全强度的恐惧抵抗力
 
-### Silent Valor
-A version that can be cast without audible components, relying on subtle body language and direct mana projection.
-- **Components:** Somatic only
-- **Range:** Reduced to 5 meters
-- **Purity Required:** 40-50%
-- **Effect:** Standard effects but more difficult to maintain and detect
+### 无声英勇
+一个无需听觉组件即可施放的版本，依靠微妙的肢体语言和直接的法力投射。
+- **成分：** 仅姿势
+- **范围：** 降低到5米
+- **纯度要求：** 40-50%
+- **效果：** 标准效果，但更难以维持和检测
 
-## Risks and Miscast Effects
+## 风险和施法错误的影响
 
-### Overconfidence
-Insufficient control (purity below 20%) can cause recipients to become recklessly overconfident, leading them to underestimate dangers.
+### 过度自信
+控制不足（纯度低于 20%）会导致接受者变得鲁莽地过度自信，从而导致他们低估危险。
 
-### Emotional Dependency
-If the spell is maintained too long (beyond 10 minutes) or cast repeatedly within a short timeframe, recipients may develop temporary dependency, experiencing heightened fear when the effect ends.
+### 情感依赖
+如果法术维持时间过长（超过 10 分钟）或在短时间内重复施放，接受者可能会产生暂时性依赖，在效果结束后会经历更高的恐惧。
 
-### Resonance Backlash
-Critical failure (purity below 15%) can create a reverse effect, momentarily amplifying fear responses instead of suppressing them.
+### 共鸣反弹
+严重失败（纯度低于 15%）可能会产生相反的效果，暂时放大恐惧反应而不是抑制它们。
 
-### Performance Pressure
-If the bard becomes the target of significant attacks while maintaining the spell, concentration checks are required to prevent premature termination of the effect.
+### 表演压力
+如果吟游诗人在维持法术时成为重大攻击的目标，则需要进行专注检定以防止效果过早终止。
 
-## Musical Analogy
+## 音乐类比
 
-Casting Inspire Courage is like performing a military march that gradually shifts to a heroic anthem. The percussive elements establish rhythm (the spell's structure), while brass elements provide power (the courage enhancement) and melodic components create emotional resonance (the fear resistance). The performer must maintain the driving tempo while ensuring harmonies remain uplifting rather than aggressive.
+施放鼓舞勇气就像演奏一首逐渐转变为英雄赞歌的军歌。 打击乐元素建立节奏（法术的结构），而铜管乐器提供力量（勇气的增强），旋律成分产生情感共鸣（恐惧的抵抗力）。 表演者必须保持驱动节奏，同时确保和声保持令人振奋而不是具有侵略性。
 
-## Learning Progression
+## 学习进展
 
-| Stage | Description | Typical Timeline |
+| 阶段 | 描述 | 典型时间表 |
 |-------|-------------|------------------|
-| **Novice** | Basic single-target version with minimal combat enhancement | 6-8 weeks of practice |
-| **Apprentice** | Small group effect (3-4 targets) with moderate enhancement | 4-6 months of practice |
-| **Adept** | Standard version affecting up to 10 allies with full effects | 1-2 years of practice |
-| **Master** | Extended range and duration with enhanced effects | 3-5 years of refinement |
+| **新手** | 具有最小战斗增强的基本单目标版本 | 6-8周的练习 |
+| **学徒** | 具有适度增强的小组效果（3-4个目标） | 4-6个月的练习 |
+| **熟练** | 标准版本，影响多达10个具有完整效果的盟友 | 1-2年的练习 |
+| **大师** | 具有增强效果的扩展范围和持续时间 | 3-5年的改进 |
 
-## Historical Note
+## 历史记录
 
-Inspire Courage was first formalized by the Battle-Bards of the Crimson Legion during the Moonfall War. These specialized bards developed techniques to maintain morale against the unnatural fear induced by shadow-tainted creatures. The spell has been refined over generations, with each major bardic college adding its own variations and enhancements to the core technique.
+鼓舞勇气最初是由血红军团的战斗吟游诗人在月陨之战中正式确立的。 这些专门的吟游诗人开发了维持士气的技术，以抵抗阴影污染生物引起的非自然恐惧。 该法术经过了几代人的改进，每个主要的吟游诗人学院都在核心技术上添加了自己的变体和增强功能。
 
-The most famous recorded use was by Malian Silvervoice at the Battle of Thornvale Pass, where her performance allowed a force of 300 defenders to stand against over 2,000 attackers for three days until reinforcements arrived. 
+最著名的记录用途是 Malian Silvervoice 在荆棘谷通道战役中，她的表演使一支 300 名防御者的部队能够抵抗 2,000 多名攻击者三天，直到增援部队到达。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

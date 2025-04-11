@@ -1,202 +1,206 @@
-# **Earth Magic**: The Art of Stone, Crystal, and Soil
+# **大地魔法**：石头、水晶与土壤的艺术
 
-> *"The wisdom of earth lies in its patience. Mountains are not raised in a day, nor valleys carved in a moment. True strength comes from endurance, not force."* — Archgeomancer Doran Stoneheart
+> *"大地的智慧在于它的耐心。山脉不是一天建成的，山谷也不是瞬间雕刻的。真正的力量来自忍耐，而不是强力。"* — 大地术士多兰·石心
 
-## Quick Reference
-- [Properties of Terramana](#properties-of-terramana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## 快速参考
+- [大地法力的特性](#properties-of-terramana)
+- [操控技巧](#manipulation-techniques)
+- [常用法术](#common-spells)
+- [亲和力发展](#affinity-development)
+- [风险与保障](#risks-and-safeguards)
+- [文化意义](#cultural-significance)
 
-## Properties of Terramana
+## 大地法力的特性
 
-Terramana, the elemental mana of earth, is characterized by:
+大地法力，土元素的法力，其特征在于：
 
-- **Appearance**: Deep browns, greens, and amber; crystalline structure with geometric patterns
-- **Sensation**: Feels heavy, grounding, and solid when channeled; creates a sense of weight and stability
-- **Resonance**: Low-frequency, stable vibration patterns with strong harmonic undertones
-- **Purification Challenge**: Slow to purify but maintains purity once achieved; tends to accumulate sedimentary impurities
-- **Opposite Element**: Air (creates dust when forced together, ultimately eroded by air)
-- **Complementary Elements**: Fire (creates magma/lava), Life (creates growth and fertility)
-- **Musical Analogy**: Bass instruments, particularly double bass; foundation notes that provide structure
+- **外观**: 深棕色、绿色和琥珀色；具有几何图案的晶体结构
+- **感觉**: 当引导时，感觉沉重、接地和坚实；产生一种重量和稳定的感觉
+- **共鸣**: 低频、稳定的振动模式，具有强烈的谐波泛音
+- **净化挑战**: 净化速度慢，但一旦实现就能保持纯净；倾向于积累沉积杂质
+- **对立元素**: 空气（强迫在一起会产生灰尘，最终会被空气侵蚀）
+- **互补元素**: 火（产生岩浆/熔岩），生命（产生生长和肥沃）
+- **音乐类比**: 低音乐器，尤其是低音提琴；提供结构的基础音符
 
-## Manipulation Techniques
+## 操控技巧
 
-### Basic Techniques
+### 基础技巧
 
-#### Terrakinesis
-The foundational technique of moving and directing earth and stone:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-30%)
-- **Effect**: Shifts, lifts, or compresses earth, sand, or loose stone
-- **Training Focus**: Force direction and mass distribution
-- **Applications**: Creating mounds, digging trenches, stabilizing unstable ground
+#### 地动术
+移动和引导泥土和石头的基本技术：
+- **难度**: 新手
+- **纯度要求**: 基础 (15-30%)
+- **效果**: 移动、抬起或压缩泥土、沙子或松散的石头
+- **训练重点**: 力量方向和质量分布
+- **应用**: 创建土堆、挖掘战壕、稳定不稳定的地面
 
-#### Material Densification
-Increasing or decreasing the density and hardness of earth materials:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-45%)
-- **Effect**: Changes the physical properties of earth without changing its form
-- **Training Focus**: Molecular compression and structural integrity
-- **Applications**: Hardening mud into clay or stone, softening rock, creating paths through difficult terrain
+#### 材料致密化
+增加或减少土材料的密度和硬度：
+- **难度**: 新手到中级
+- **纯度要求**: 基础到精炼 (20-45%)
+- **效果**: 改变地球的物理特性而不改变其形式
+- **训练重点**: 分子压缩和结构完整性
+- **应用**: 将泥浆硬化成粘土或石头，软化岩石，在困难地形中创建路径
 
-#### Seismic Sensing
-Detecting vibrations and structures through earth:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Extends awareness through connected earth materials
-- **Training Focus**: Vibrational interpretation and filtering
-- **Applications**: Finding caverns, detecting movement, locating water or mineral deposits
+#### 地震感应
+通过地球检测振动和结构：
+- **难度**: 中级
+- **纯度要求**: 精炼 (35-50%)
+- **效果**: 通过连接的地球材料扩展意识
+- **训练重点**: 振动解释和过滤
+- **应用**: 寻找洞穴、检测运动、定位水或矿藏
 
-### Advanced Techniques
+### 高级技巧
 
-#### Crystalline Formation
-Creating and manipulating mineral structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms crystalline structures with specific properties and geometric patterns
-- **Training Focus**: Molecular arrangement and growth control
-- **Applications**: Creating gemstones, reinforcing structures, developing crystalline tools
+#### 晶体形成
+创造和操纵矿物结构：
+- **难度**: 高级
+- **纯度要求**: 精炼到完美 (45-70%)
+- **效果**: 形成具有特定性质和几何图案的晶体结构
+- **训练重点**: 分子排列和生长控制
+- **应用**: 创建宝石、加固结构、开发晶体工具
 
-#### Terra Transmutation
-Changing one earth material into another:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Transforms the elemental composition of earth materials
-- **Training Focus**: Molecular deconstruction and reassembly
-- **Applications**: Creating precious metals, purifying ores, transforming sand to glass
+#### 地质转变
+将一种土材料变成另一种：
+- **难度**: 专家
+- **纯度要求**: 完美 (65-85%)
+- **效果**: 转变土材料的元素组成
+- **训练重点**: 分子解构和重组
+- **应用**: 创造贵金属、净化矿石、将沙子转化为玻璃
 
-#### Tectonic Manipulation
-Influencing the movement of large earth masses:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (75-95%)
-- **Effect**: Creates controlled movement in bedrock and underground structures
-- **Training Focus**: Force multiplication and geological understanding
-- **Applications**: Creating passages through mountains, stabilizing earthquake-prone regions, raising small landforms
+#### 构造操纵
+影响大型土体的运动：
+- **难度**: 大师
+- **纯度要求**: 完美 (75-95%)
+- **效果**: 在基岩和地下结构中产生受控运动
+- **训练重点**: 力量倍增和地质理解
+- **应用**: 在山脉中创建通道、稳定易发地震的区域、抬升小型地貌
 
-## Common Spells
+## 常用法术
 
-### Novice Spells
+### 新手法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Stone Lift** | Raises a small mass of earth or stone | Somatic, Earth contact | 3 seconds | Instantaneous |
-| **Soil Shift** | Moves loose earth from one location to another | Somatic, Earth contact | 5 seconds | Instantaneous |
-| **Terra Firma** | Stabilizes unstable ground | Somatic, Verbal | 10 seconds | 1 hour |
-| **Dust Cloud** | Creates a cloud of fine particles for concealment | Somatic, Earth material | 2 seconds | 5 minutes |
+| **石头升起** | 抬起一小块泥土或石头 | 体势、接触地球 | 3 秒 | 瞬时 |
+| **土壤转移** | 将松散的泥土从一个地方移动到另一个地方 | 体势、接触地球 | 5 秒 | 瞬时 |
+| **大地坚定** | 稳定不稳定的地面 | 体势、言语 | 10 秒 | 1 小时 |
+| **尘埃云** | 创建一团细小颗粒用于隐藏 | 体势、土材料 | 2 秒 | 5 分钟 |
 
-### Intermediate Spells
+### 中级法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Stone Shield** | Creates a protective barrier of hardened earth | Somatic, Verbal, Earth | 5 seconds | 30 minutes |
-| **Crystal Lens** | Forms a crystal that enhances vision or focuses light | Somatic, Mineral focus | 30 seconds | 1 day |
-| **Earth Merge** | Allows partial merging with stone or earth | Somatic, Verbal, Earth | 10 seconds | 10 minutes |
-| **Metal Finding** | Reveals nearby metal deposits | Somatic, Mineral focus | 30 seconds | Instantaneous |
+| **石头护盾** | 创建一个由硬化土构成的保护屏障 | 体势、言语、土 | 5 秒 | 30 分钟 |
+| **水晶透镜** | 形成一个增强视觉或聚焦光线的水晶 | 体势、矿物焦点 | 30 秒 | 1 天 |
+| **大地融合** | 允许与石头或泥土部分融合 | 体势、言语、土 | 10 秒 | 10 分钟 |
+| **金属寻找** | 揭示附近的金属矿藏 | 体势、矿物焦点 | 30 秒 | 瞬时 |
 
-### Advanced Spells
+### 高级法术
 
-| Spell | Effect | Components | Casting Time | Duration |
+| 法术 | 效果 | 成分 | 施法时间 | 持续时间 |
 |-------|--------|------------|--------------|----------|
-| **Earthquake** | Creates localized seismic activity | Somatic, Verbal, Focus | 15 seconds | Instantaneous |
-| **Terra Construct** | Forms a semi-autonomous earth elemental | Somatic, Verbal, Focus, Earth | 1 minute | 1 hour |
-| **Crystalline Prison** | Encases target in crystal growth | Somatic, Verbal, Minerals | 10 seconds | 1 hour |
-| **Mountain's Strength** | Grants incredible durability to target | Somatic, Verbal, Stone dust | 30 seconds | 10 minutes |
+| **地震** | 创建局部地震活动 | 体势、言语、焦点 | 15 秒 | 瞬时 |
+| **大地构造体** | 形成一个半自主的土元素 | 体势、言语、焦点、土 | 1 分钟 | 1 小时 |
+| **晶体监狱** | 将目标包裹在水晶生长中 | 体势、言语、矿物 | 10 秒 | 1 小时 |
+| **山的力量** | 赋予目标难以置信的耐久性 | 体势、言语、石头灰尘 | 30 秒 | 10 分钟 |
 
-## Affinity Development
+## 亲和力发展
 
-Earth affinity progresses through several distinctive stages:
+大地亲和力通过几个独特的阶段发展：
 
-### Grounded Connection
-The foundational relationship with earth that most beginners possess:
-- **Manifestation**: Intuitive sense of stability, minor influence over soil and sand
-- **Physical Signs**: Slightly roughened skin, strong sense of direction underground
-- **Enhancement Method**: Regular meditation while in direct contact with bare earth
+### 接地连接
+大多数初学者拥有的与地球的基础关系：
+- **表现**: 对稳定性的直觉，对土壤和沙子的轻微影响
+- **身体迹象**: 皮肤略微粗糙，在地下具有强烈的方向感
+- **增强方法**: 在与裸露的泥土直接接触时进行定期冥想
 
-### Material Mastery
-The intermediate stage where earth responds more readily to the mage's will:
-- **Manifestation**: Stone and earth move with less effort, sensing abilities expand
-- **Physical Signs**: Nails and hair take on mineral-like properties, skin develops subtle crystal patterns
-- **Enhancement Method**: Handling and studying different types of stone, soil, and crystal
+### 材料掌握
+中级阶段，地球更容易对法师的意志做出反应：
+- **表现**: 石头和泥土移动起来更容易，感知能力扩展
+- **身体迹象**: 指甲和头发呈现矿物般的特性，皮肤形成微妙的晶体图案
+- **增强方法**: 处理和研究不同类型的石头、土壤和水晶
 
-### Bedrock Harmony
-Advanced practitioners achieve a deep resonance with earth's structural properties:
-- **Manifestation**: Earth seems to respond intuitively, minerals form naturally around the caster
-- **Physical Signs**: Increased body density, earth-toned skin patterns appear during casting
-- **Enhancement Method**: Extended communion at sites of geological interest or power
+### 基岩和谐
+高级修行者与地球的结构特性达到深度共鸣：
+- **表现**: 地球似乎能直观地做出反应，矿物质在施法者周围自然形成
+- **身体迹象**: 身体密度增加，施法期间出现土色皮肤图案
+- **增强方法**: 在地质兴趣或能量场所进行长时间的交流
 
-### Tectonic Unity
-Master geomancers who have achieved profound connection with earth:
-- **Manifestation**: Partial transformation abilities, influence over terrain without direct contact
-- **Physical Signs**: Eyes develop crystalline patterns, blood contains mineral compounds
-- **Enhancement Method**: Deep communion at ley line intersections with strong earth resonance
+### 构造统一
+已与地球建立深刻联系的大地术士大师：
+- **表现**: 部分转变能力，无需直接接触即可影响地形
+- **身体迹象**: 眼睛形成晶体图案，血液含有矿物化合物
+- **增强方法**: 在具有强烈地球共鸣的地理脉络交叉点进行深度交流
 
-## Risks and Safeguards
+## 风险与保障
 
-### Common Risks
+### 常见风险
 
-- **Immobility**: Becoming too attuned to earth's stillness, resulting in slowed movement
-- **Crystal Growth**: Unintended crystallization in the caster's body tissues
-- **Mass Overload**: Attempting to manipulate earth masses beyond one's strength
-- **Burial Potential**: Loss of control leading to self-burial or cave-ins
-- **Molecular Disruption**: Improper transmutation affecting the caster's own body composition
+- **不动性**: 变得过于适应地球的静止，导致运动迟缓
+- **晶体生长**: 施法者身体组织中出现意外的结晶
+- **质量过载**: 试图操纵超出自身力量的土体
+- **埋葬潜力**: 失控导致自我埋葬或洞穴坍塌
+- **分子破坏**: 不正确的转变影响施法者自身的身体成分
 
-### Miscast Effects
+### 误用法术效果
 
-| Severity | Effect | Recovery |
+| 严重程度 | 效果 | 恢复 |
 |----------|--------|----------|
-| **Minor** | Temporary stiffening of joints, skin abrasions, sensory dulling | Hours |
-| **Moderate** | Partial petrification of extremities, internal mineral deposits, weight increase | Days |
-| **Severe** | Major joint crystallization, organ calcification, structural integrity damage | Weeks |
-| **Critical** | Progressive petrification, catastrophic molecular restructuring, skeletal reinforcement | Months to permanent |
+| **轻微** | 关节暂时僵硬、皮肤擦伤、感觉迟钝 | 数小时 |
+| **中等** | 四肢部分石化、体内矿物沉积、体重增加 | 数天 |
+| **严重** | 主要关节结晶、器官钙化、结构完整性受损 | 数周 |
+| **危急** | 渐进性石化、灾难性分子重组、骨骼强化 | 数月到永久 |
 
-### Safety Practices
+### 安全措施
 
-- **Grounding Rituals**: Regular release of accumulated earth energies
-- **Flexibility Maintenance**: Counterbalancing exercises to prevent stiffening
-- **Mass Calculation**: Careful assessment of earth volume before manipulation
-- **Material Isolation**: Using external earth sources rather than biological minerals
-- **Environmental Awareness**: Assessing geological stability before major workings
+- **接地仪式**: 定期释放积累的地球能量
+- **灵活性维持**: 平衡练习以防止僵硬
+- **质量计算**: 操纵前仔细评估土体的体积
+- **材料隔离**: 使用外部地球来源而不是生物矿物质
+- **环境意识**: 在进行主要工作之前评估地质稳定性
 
-## Cultural Significance
+## 文化意义
 
-### Historical Development
+### 历史发展
 
-Earth magic represents one of the oldest and most universally practiced forms of elemental manipulation. The development of geomancy followed three primary historical paths:
+大地魔法代表了最古老和最普遍的元素操控形式之一。大地术的发展遵循了三个主要历史路径：
 
-1. **Agricultural Foundation**: Early tribal practitioners using earth magic for cultivation and shelter
-2. **Structural Engineering**: Ancient civilizations developing earth manipulation for architecture and infrastructure
-3. **Mineral Crafting**: Advanced societies discovering crystal and metal manipulation
+1. **农业基础**: 早期部落从业者使用大地魔法进行耕作和避难
+2. **结构工程**: 古代文明发展了大地操控技术用于建筑和基础设施
+3. **矿物工艺**: 先进社会发现了水晶和金属操控技术
 
-### Regional Variations
+### 区域变异
 
-| Culture | Focus | Signature Technique | Philosophy |
+| 文化 | 重点 | 标志性技术 | 哲学 |
 |---------|-------|---------------------|------------|
-| **Mountain Clans** | Stone manipulation, tunneling | Living stone, cave singing | Earth as the eternal foundation |
-| **Plains Peoples** | Soil fertility, agricultural enhancement | Growth blessing, soil enrichment | Earth as the nurturing provider |
-| **Desert Dwellers** | Crystal formation, finding water | Crystal dowsing, sand walking | Earth as the hidden treasure keeper |
-| **Forest Tribes** | Root systems, natural structures | Living architecture, wood strengthening | Earth as the connected network |
+| **山地氏族** | 石头操控、隧道挖掘 | 活石、洞穴歌唱 | 地球是永恒的基础 |
+| **平原民族** | 土壤肥力、农业增强 | 生长祝福、土壤改良 | 地球是滋养的提供者 |
+| **沙漠居民** | 晶体形成、寻找水源 | 水晶探测、沙漠行走 | 地球是隐藏的宝藏守护者 |
+| **森林部落** | 根系、自然结构 | 活体建筑、木材强化 | 地球是连接的网络 |
 
-### Ceremonial Uses
+### 仪式用途
 
-Earth magic features prominently in many cultural ceremonies:
-- **Foundation Rituals**: Blessing new structures and settlements
-- **Harvest Ceremonies**: Thanksgiving and renewal of soil fertility
-- **Rite of Passage**: Young geomancers demonstrating their ability to shape stone
-- **Burial Customs**: Earth magic often used in funeral practices and memorials
+大地魔法在许多文化仪式中占有重要地位：
+- **奠基仪式**: 祝福新的建筑物和定居点
+- **丰收仪式**: 感恩和土壤肥力的更新
+- **成人礼**: 年轻的大地术士展示他们塑造石头的能力
+- **葬礼习俗**: 大地魔法通常用于葬礼仪式和纪念活动
 
-### Contemporary Applications
+### 当代应用
 
-Beyond combat and utility applications, earth magic serves essential societal functions:
-- **Construction**: Reinforcing buildings, creating roads, excavating foundations
-- **Mining**: Locating and extracting valuable minerals safely
-- **Agriculture**: Soil enhancement and management
-- **Environmental Protection**: Containing erosion, stabilizing landscapes, managing sinkholes
+除了战斗和实用应用之外，大地魔法还为社会提供重要的功能：
+- **建筑**: 加固建筑物、建造道路、挖掘地基
+- **采矿**: 安全地定位和提取有价值的矿物质
+- **农业**: 土壤改良和管理
+- **环境保护**: 控制侵蚀、稳定景观、管理天坑
 
-> *"The student of earth must understand that true strength lies not in hardness alone, but in the balance between rigidity and flexibility—like the mountain that stands for eons yet slowly changes its shape."* — The Geomantic Principles
+> *"地球的学生必须明白，真正的力量不仅在于坚硬，而且在于刚性和柔韧性之间的平衡——就像屹立数千年但缓慢改变形状的山脉一样。"* — 大地术的原则
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Metal Magic](/codex/Magics/Advanced/Combinations/MetalMagic.md)* 
+*另请参见: [元素魔法](/codex/Magics/Elements/ElementalMagic.md), [火焰魔法](/codex/Magics/Elements/FireMagic.md), [金属魔法](/codex/Magics/Advanced/Combinations/MetalMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

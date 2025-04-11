@@ -1,212 +1,216 @@
-# **The School of Abjuration**
+# **防护学派**
 
-> *"To abjure is not merely to say 'no' to harmful forces, but to compose a silence into which discord cannot enter."*  
-> — Grandmaster Isolde Shieldweaver, Warden of the Seven Sanctums
+> *"弃绝不仅仅是对有害力量说'不'，而是创造一种沉默，使不和谐无法进入。"*
+> — 大师伊索尔德·盾织者，七圣所的守卫者
 
-## Overview
+## 概述
 
-Abjuration is the school of protective magic, focused on the creation of defensive barriers, the neutralization of harmful effects, and the banishment of unwanted entities. Unlike other schools that seek to create or transform, abjuration primarily prevents, protects, and preserves. It is considered one of the most technically demanding magical disciplines due to its emphasis on perfect structural integrity and flawless execution.
+防护是保护性魔法的学派，专注于创建防御屏障、中和有害效果以及驱逐不需要的实体。 与寻求创造或转变的其他学派不同，防护主要进行预防、保护和保存。 由于其强调完美的结构完整性和无懈可击的执行，它被认为是技术上要求最高的魔法学科之一。
 
-## Fundamental Principles
+## 基本原则
 
-### The Barrier Theorem
+### 屏障定理
 
-At the core of abjuration theory lies the Barrier Theorem, which states that properly structured magical energy can create boundaries that selectively filter or completely block other energies, entities, or effects. These barriers operate on the principle of harmonic opposition—creating frequencies that destructively interfere with incoming magical forces.
+防护理论的核心是屏障定理，该定理指出，正确构建的魔法能量可以创建选择性过滤或完全阻挡其他能量、实体或效果的边界。 这些屏障以谐波对立为原则运作——产生与传入魔法力量发生破坏性干涉的频率。
 
-### Primary Components
+### 主要组成部分
 
-All abjuration spells incorporate three fundamental components:
+所有防护法术都包含三个基本组成部分：
 
-1. **Boundary Definition**: Establishing the protected space or subject
-2. **Resonant Opposition**: Creating the specific counter-frequencies to the targeted threat
-3. **Structural Integrity**: Maintaining the defensive pattern against pressure or attack
+1. **边界定义**：建立受保护的空间或对象
+2. **共振对立**：创建针对目标威胁的特定反频率
+3. **结构完整性**：维持防御模式以对抗压力或攻击
 
-More complex abjurations add additional components:
+更复杂的防护会添加其他组件：
 
-4. **Selective Permeability**: Allowing specific entities or energies to pass
-5. **Response Protocols**: Automated reactions to specific types of breach attempts
-6. **Regenerative Matrix**: Self-repair capabilities for damaged sections
+4. **选择性渗透性**：允许特定实体或能量通过
+5. **响应协议**：对特定类型的突破尝试的自动反应
+6. **再生矩阵**：受损部分的自我修复能力
 
-### Mana Requirements
+### 法力需求
 
-Abjuration requires specific combinations of mana types, with purity levels that increase with the potency of the threats being defended against:
+防护需要特定的法力类型组合，纯度水平随着防御的威胁的效力而增加：
 
-| Abjuration Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
+| 防护类型 | 主要法力 | 次要法力 | 三级法力 | 用途 |
 |-----------------|-------------|----------------|---------------|---------|
-| Personal Shield | Base Mana (50-60%) | Varies by threat | N/A | Individual protection |
-| Area Warding | Base Mana (40-50%) | Terramana (20-30%) | Varies by threat | Location protection |
-| Anti-Magic Field | Base Mana (60-70%) | N/A | N/A | Magic neutralization |
-| Entity Banishment | Base Mana (50-60%) | Varies by entity | Chronosmana (10-20%) | Force removal |
-| Curse Breaking | Base Mana (60-70%) | Matching curse mana | Luxmana (10-20%) | Malefic effect removal |
-| Sanctuary | Base Mana (40-50%) | Luxmana (30-40%) | Aeromana (10-20%) | Complete safe zone |
+| 个人护盾 | 基础法力 (50-60%) | 因威胁而异 | N/A | 个人保护 |
+| 区域结界 | 基础法力 (40-50%) | 大地法力 (20-30%) | 因威胁而异 | 位置保护 |
+| 反魔法力场 | 基础法力 (60-70%) | N/A | N/A | 魔法中和 |
+| 实体驱逐 | 基础法力 (50-60%) | 因实体而异 | 时间法力 (10-20%) | 强制移除 |
+| 诅咒解除 | 基础法力 (60-70%) | 匹配诅咒法力 | 光明法力 (10-20%) | 恶意效果移除 |
+| 圣所 | 基础法力 (40-50%) | 光明法力 (30-40%) | 空气法力 (10-20%) | 完整的安全区 |
 
-### Wild Mana Response
+### 狂野法力响应
 
-Abjuration magic has a unique relationship with Wild Mana. While most schools suffer unpredictable effects when exposed to Wild Mana, properly constructed abjurations can actually incorporate Wild Mana into their structure through a process called "harmonic redirection." This technique captures and channels the chaotic energy into reinforcing the barrier itself.
+防护魔法与狂野法力有着独特的关系。 虽然大多数学派在暴露于狂野法力时会受到不可预测的影响，但正确构建的防护实际上可以通过一种称为“谐波重定向”的过程将狂野法力纳入其结构中。 这种技术捕获并将混乱的能量引导到增强屏障本身。
 
-However, this is a delicate process that requires exceptional skill; poorly executed attempts can result in:
+然而，这是一个需要卓越技能的精细过程； 执行不力的尝试可能会导致：
 
-- **Polarity Inversion**: The barrier repels what it should admit and admits what it should repel
-- **Fractured Containment**: Wild Mana becomes trapped within the barrier, creating unstable pockets
-- **Resonance Backlash**: The barrier amplifies rather than neutralizes incoming threats
+- **极性反转**：屏障排斥它应该允许的东西，并允许它应该排斥的东西
+- **破碎的遏制**：狂野法力被困在屏障内，产生不稳定的口袋
+- **共振反冲**：屏障放大而不是中和传入的威胁
 
-## Mana Purification for Abjuration
+## 防护的法力净化
 
-Abjuration demands exceptional mana purity due to its defensive nature—any flaw in the magical structure creates a potential vulnerability:
+由于防护的防御性质，它需要卓越的法力纯度——魔法结构中的任何缺陷都会产生潜在的漏洞：
 
-| Purification Level | Abjuration Capability |
+| 净化等级 | 防护能力 |
 |--------------------|------------------------|
-| Basic (15-25%) | Simple personal shields against minor physical threats |
-| Intermediate (30-45%) | Multi-layered protections against moderate magical and physical dangers |
-| Advanced (50-65%) | Complex selective barriers and wards against major threats |
-| Master (70-80%) | Impenetrable sanctuaries and banishment fields effective against legendary threats |
-| Grandmaster (85%+) | Reality-anchoring barriers that can withstand cosmic-level forces |
+| 基础 (15-25%) | 简单的个人护盾，可防御轻微的物理威胁 |
+| 中级 (30-45%) | 多层保护，可防御中度的魔法和物理危险 |
+| 高级 (50-65%) | 复杂的选择性屏障和结界，可防御主要威胁 |
+| 大师 (70-80%) | 坚不可摧的圣所和驱逐力场，可有效防御传说中的威胁 |
+| 大宗师 (85%+) | 可以承受宇宙级力量的现实锚定屏障 |
 
-In abjuration, purity correlates directly with both barrier strength and specificity—higher purity allows for more precisely targeted defenses against specific threats.
+在防护中，纯度与屏障强度和特异性直接相关——更高的纯度可以对特定威胁进行更精确的目标防御。
 
-## The Defensive Scales
+## 防御音阶
 
-Abjuration magic is often conceptualized through musical structure, with protective spells described as "scales"—progressive sequences of notes that create complete defensive patterns:
+防护魔法通常通过音乐结构来概念化，保护性法术被描述为“音阶”——创造完整防御模式的渐进音符序列：
 
-- **Major Scales**: Outward-facing protections against external threats
-- **Minor Scales**: Inward-facing protections to contain or suppress
-- **Chromatic Scales**: Complex, adaptable barriers that shift in response to threats
-- **Pentatonic Scales**: Simplified, robust protections effective against a limited range of threats
-- **Counterpoint Defense**: Multiple overlapping barriers that reinforce each other
+- **大调音阶**：面向外部的保护，可防御外部威胁
+- **小调音阶**：面向内部的保护，用于遏制或压制
+- **半音音阶**：复杂、适应性强的屏障，可根据威胁进行转换
+- **五声音阶**：简化的、强大的保护，可有效防御有限范围的威胁
+- **对位防御**：相互加强的多个重叠屏障
 
-Master abjurers speak of "conducting" their defenses, actively maintaining and adjusting multiple protective layers simultaneously.
+防护大师谈到“指挥”他们的防御，主动维护和调整多个保护层。
 
-## Specialized Disciplines
+## 专业学科
 
-### Wardcraft
+### 结界术
 
-The art of creating long-term protective fields for locations. Practitioners are known as Warders.
+为地点创建长期保护场的艺术。 从业者被称为结界师。
 
-### Shielding
+### 护盾术
 
-Focused on immediate, tactical barriers for combat situations. Masters are called Shieldmages.
+专注于战斗情况下的即时战术屏障。 大师被称为盾法师。
 
-### Banishment
+### 驱逐术
 
-Specialized in the removal of unwanted entities or energies. Practitioners are called Banishers.
+专门驱逐不需要的实体或能量。 从业者被称为驱逐者。
 
-### Nullification
+### 无效化
 
-The neutralization of existing magical effects. Masters are known as Nullifiers.
+中和现有魔法效果。 大师被称为无效者。
 
-### Anchoring
+### 锚定
 
-Securing entities, objects, or locations against magical displacement. Practitioners are called Anchors.
+保护实体、物体或位置免受魔法位移。 从业者被称为锚定者。
 
-### Purification
+### 净化
 
-Removal of magical contamination or corruption. Masters are known as Purifiers.
+清除魔法污染或腐败。 大师被称为净化者。
 
-### Sanctuary Creation
+### 圣所创造
 
-The establishment of spaces where specific magical laws apply. Practitioners are called Sanctifiers.
+建立适用特定魔法定律的空间。 从业者被称为圣化者。
 
-### Curse Breaking
+### 诅咒解除
 
-Specialized in dismantling malicious persistent effects. Masters are known as Breakers.
+专门拆除恶意的持久效果。 大师被称为解除者。
 
-## Training Methodology
+## 训练方法
 
-Abjuration training follows a rigorous progression:
+防护训练遵循严格的进展：
 
-1. **Foundational Theory**: Understanding the principles of magical opposition and containment
-2. **Personal Shielding**: Mastering protection of the self as the fundamental skill
-3. **Threat Analysis**: Learning to identify and categorize magical and physical dangers
-4. **Barrier Construction**: Techniques for creating structurally sound protective fields
-5. **Selective Filtering**: Advanced methods for discriminating between entities and energies
-6. **Breach Response**: Protocols for handling failures and penetrations of defenses
-7. **Multiple Barrier Orchestration**: Maintaining several protective spells simultaneously
-8. **Permanent Warding**: Creation of long-term or permanent protective measures
+1. **基础理论**：理解魔法对立和遏制的原则
+2. **个人护盾术**：掌握自我保护作为基本技能
+3. **威胁分析**：学习识别和分类魔法和物理危险
+4. **屏障构建**：创建结构合理的保护场的技术
+5. **选择性过滤**：区分实体和能量的先进方法
+6. **突破响应**：处理防御失败和渗透的协议
+7. **多重屏障编排**：同时维持多个保护性法术
+8. **永久结界**：创建长期或永久的保护措施
 
-Training emphasizes precision over speed, with students typically spending years mastering basic shields before progressing to more complex protections.
+训练强调精度而不是速度，学生通常花费数年时间掌握基本护盾，然后才能继续学习更复杂的保护。
 
-## Abjuration in Practice
+## 防护实践
 
-The process of casting abjuration magic follows distinct phases:
+施展防护魔法的过程遵循不同的阶段：
 
-1. **Threat Assessment**: Identifying the specific dangers to be defended against
-2. **Boundary Establishment**: Defining the protected space or subject
-3. **Mana Purification**: Achieving the necessary purity for stable protection
-4. **Pattern Formation**: Creating the specific defensive structure needed
-5. **Opposition Tuning**: Calibrating the defense to counter specific threats
-6. **Reinforcement**: Strengthening potential weak points in the structure
-7. **Activation**: Empowering the completed pattern to begin functioning
-8. **Maintenance**: Sustaining the defense through concentration or anchoring
+1. **威胁评估**：识别要防御的特定危险
+2. **边界建立**：定义受保护的空间或对象
+3. **法力净化**：实现稳定保护所需的纯度
+4. **模式形成**：创建所需的特定防御结构
+5. **对立调整**：校准防御以对抗特定威胁
+6. **加固**：加强结构中的潜在薄弱点
+7. **激活**：授权完成的模式开始运作
+8. **维护**：通过集中或锚定来维持防御
 
-For combat abjuration, these steps must often be compressed into split-second casting, while permanent wards may involve ritual processes extending over days.
+对于战斗防护，这些步骤通常必须压缩到瞬间施法，而永久结界可能涉及持续数天的仪式过程。
 
-## Practical Applications
+## 实际应用
 
-Abjuration serves vital protective functions across society:
+防护在整个社会中发挥着重要的保护功能：
 
-- **Personal Safety**: Combat shields, environmental protection, privacy barriers
-- **Domestic Security**: Home wards, fire suppression fields, theft prevention
-- **Infrastructure**: Public building protections, bridge reinforcement, disaster containment
-- **Medicine**: Quarantine fields, stabilization chambers, surgical protection
-- **Transportation**: Vehicle safety systems, cargo protection, pathfinding security
-- **Research**: Containment for dangerous materials or entities, experiment isolation
-- **Cultural Preservation**: Protection of historical sites, artifact conservation, legacy maintenance
+- **人身安全**：战斗护盾、环境保护、隐私屏障
+- **家庭安全**：家庭结界、灭火场、防盗
+- **基础设施**：公共建筑保护、桥梁加固、灾害控制
+- **医学**：隔离场、稳定室、手术保护
+- **交通运输**：车辆安全系统、货物保护、寻路安全
+- **研究**：危险材料或实体的遏制、实验隔离
+- **文化保护**：历史遗迹保护、文物保护、遗产维护
 
-## Ethical Considerations
+## 伦理考量
 
-Abjuration raises several distinct ethical questions:
+防护提出了一些独特的伦理问题：
 
-- **Isolation Ethics**: The moral implications of creating completely isolated spaces
-- **Discriminatory Protection**: Selective barriers that admit some but not others
-- **Defensive Aggression**: Wards designed to harm those who breach them
-- **Autonomy Concerns**: Protections that restrict the protected individual's freedom
-- **Resource Allocation**: Prioritizing who or what receives limited protective resources
-- **False Security**: The ethics of providing protections known to be inadequate
+- **孤立伦理**：创造完全孤立的空间的道德含义
+- **歧视性保护**：允许一些人通过但不允许其他人通过的选择性屏障
+- **防御性侵略**：旨在伤害那些突破屏障的人的结界
+- **自主权问题**：限制受保护者自由的保护
+- **资源分配**：优先考虑谁或什么获得有限的保护资源
+- **虚假安全**：提供已知不足的保护的伦理
 
-Most abjuration academies teach a code of protective ethics based on proportionality and informed consent.
+大多数防护学院都教授基于比例和知情同意的保护伦理规范。
 
-## Limitations and Weaknesses
+## 局限性和弱点
 
-Despite its strength, abjuration has inherent limitations:
+尽管防护具有优势，但它也存在固有的局限性：
 
-- **Energy Cost**: Stronger threats require exponentially more energy to repel
-- **Specificity Trade-Off**: Broad-spectrum defenses are weaker than specifically targeted ones
-- **Concentration Dependency**: Many barriers require ongoing attention to maintain
-- **Adaptation Lag**: Defenses may fail against novel or rapidly changing threats
-- **Indirect Vulnerability**: Physical anchors or focus points can be targeted
-- **Resonance Counters**: Every defense has a specific resonance that can be exploited
+- **能量成本**：抵抗更强的威胁需要成倍增加的能量
+- **特异性权衡**：广谱防御比专门针对的防御更弱
+- **集中依赖**：许多屏障需要持续的注意力才能维持
+- **适应滞后**：防御可能无法防御新颖或快速变化的威胁
+- **间接漏洞**：物理锚点或焦点可能会成为目标
+- **共振对抗**：每种防御都有一个可以利用的特定共振
 
-Common methods for overcoming abjuration include:
+克服防护的常用方法包括：
 
-- **Frequency Matching**: Tuning offensive magic to the exact counter-frequency of a barrier
-- **Threshold Flooding**: Overwhelming defenses with massive energy surges
-- **Sequential Probing**: Finding and exploiting weak points in the barrier structure
-- **Anchor Targeting**: Destroying the physical components supporting a ward
-- **Patient Erosion**: Sustained low-level pressure that gradually weakens defenses
-- **Harmonic Infiltration**: Using complementary rather than opposing frequencies to pass through
+- **频率匹配**：将进攻魔法调整为屏障的精确反频率
+- **阈值泛滥**：用大量的能量冲击压倒防御
+- **顺序探测**：找到并利用屏障结构中的薄弱点
+- **锚定目标**：摧毁支持结界的物理组件
+- **耐心侵蚀**：持续的低水平压力会逐渐削弱防御
+- **谐波渗透**：使用互补而不是相反的频率通过
 
-## Musical Analogy
+## 音乐类比
 
-In the musical framework of magic, abjuration represents percussion instruments—creating rhythm and structure that frames and constrains other magical elements. The abjurer is like a drummer, maintaining the boundaries within which other musicians can safely operate.
+在魔法的音乐框架中，防护代表打击乐器——创造节奏和结构，框架和约束其他魔法元素。 防护者就像一个鼓手，维持其他音乐家可以安全运作的边界。
 
-Defensive spells are described in terms of "tempos" and "measures," with each protective layer adding a beat to the complex rhythm of a complete defense. Master abjurers can maintain multiple independent "time signatures" simultaneously, creating complex polyrhythmic defenses that are extraordinarily difficult to breach.
+防御法术用“节奏”和“小节”来描述，每个保护层都为完整防御的复杂节奏增加了一个节拍。 防护大师可以同时维持多个独立的“拍号”，创造出极其难以突破的复杂复节奏防御。
 
-## Notable Practitioners
+## 著名从业者
 
-- **Isolde Shieldweaver**: Creator of the Seven-Fold Sanctuary technique used in highest-security magical facilities
-- **Dorian Wardwright**: Legendary warder who established the continent-spanning Great Boundary after the Rift War
-- **Castiel Banebane**: Pioneer of curse-breaking methodologies now standard in medical abjuration
-- **Amalthea Stillhaven**: Developer of the Silent Sanctuary, a completely magic-null environment
-- **Thaddeus Ironward**: Master of combat abjuration and creator of the Reactive Shield System
+- **伊索尔德·盾织者**：用于最高安全级别魔法设施的七重圣所技术的创造者
+- **多里安·结界师**：在裂隙战争之后建立了横跨大陆的伟大边界的传奇结界师
+- **卡斯蒂尔·祸害消除者**：现在医学防护中使用的诅咒解除方法的先驱
+- **阿马尔忒亚·静港**：寂静圣所的开发者，一个完全魔法无效的环境
+- **萨迪厄斯·铁卫**：战斗防护大师和反应式护盾系统的创造者
 
-## Historical Development
+## 历史发展
 
-Abjuration emerged early in magical history, with simple wards and protections among the first spells developed by early civilizations. The formal study of abjuration as a distinct school coalesced during the Age of Strife, when defensive magic became critically important.
+防护出现在魔法历史的早期，简单的结界和保护是早期文明开发的第一批法术之一。 作为一个独特学派的防护的正式研究在冲突时代合并，当时防御魔法变得至关重要。
 
-The publication of "Principles of Magical Boundary" by Magister Elara Stoneheart in the early Second Age established the theoretical foundation for modern abjuration. The Third Age saw significant advancement with the development of selective filtering techniques by the Brotherhood of the Veil.
+玛吉斯特·艾拉拉·石心在第二纪元早期出版的“魔法边界原则”为现代防护奠定了理论基础。 第三纪元见证了面纱兄弟会对选择性过滤技术的重大发展。
 
-Contemporary abjuration research focuses on adaptive defense systems, energy-efficient sustainable barriers, and counter-measures for emerging magical threats. The cutting edge of the field explores dimensional anchoring—protections that remain stable across multiple planes of existence.
+当代防护研究侧重于自适应防御系统、节能可持续屏障以及针对新兴魔法威胁的对策。 该领域的最新研究探索维度锚定——在多个存在平面上保持稳定的保护。
 
 ---
 
-*See also: [Mana Purification](/codex/Magics/ManaMechanics.md), [Wild Mana](/codex/Magics/WildMana.md), [Evocation](/codex/Magics/Schools/Evocation.md)* 
+*另见：[法力净化](/codex/Magics/ManaMechanics.md), [狂野法力](/codex/Magics/WildMana.md), [咒法](/codex/Magics/Schools/Evocation.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

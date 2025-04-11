@@ -1,120 +1,124 @@
-# **Ranger**: The Voices of the Wild
+# **Ranger**: 野性的声音
 
-[**Rangers**](/codex/Classes/Ranger/Ranger.md) are the voices of the wild, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a woodwind that echoes the sounds of the forest, they commune with nature, creating a unique melody of existence that emphasizes survival, tracking, and the connection to the natural world.
+[**Rangers（游侠）**](/codex/Classes/Ranger/Ranger.md) 是野性的声音，他们的身体是 [**Exanthis（异种精华）**](/codex/Basic/Exanthis.md)、[**Souls（灵魂）**](/codex/Basic/Soul.md) 和 **Mana Capacity（法力容量）** 的和谐融合。 就像回荡在森林中的木管乐器一样，他们与自然交流，创造出强调生存、追踪和与自然世界联系的独特存在旋律。
 
-## Elemental Composition
+## 元素构成
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rangers** forms a harmony that favors connection to nature:
+正如 [Classes（职业）](/codex/Classes/Classes.md) 中所详述的那样，**rangers（游侠）** 的典型比例形成了一种有利于与自然联系的和谐：
 
-| Element | Range | Function |
+| Element（元素） | Range（范围） | Function（功能） |
 |---------|------------|----------|
-| **Exanthis** | 35-55% | The crystalline heart that provides physical strength and agility |
-| **Soul** | 25-45% | The ethereal essence that shapes a nature-connected consciousness |
-| **Mana Capacity** | 10-30% | The bridge between worlds that enables nature magic |
+| **Exanthis（异种精华）** | 35-55% | 提供身体力量和敏捷的结晶之心 |
+| **Soul（灵魂）** | 25-45% | 塑造与自然相连的意识的以太精华 |
+| **Mana Capacity（法力容量）** | 10-30% | 实现自然魔法的桥梁 |
 
-This composition grants **rangers** their characteristic connection to nature but limits their magical abilities compared to other classes, like a versatile instrument that can play many melodies but cannot match the complexity of a full orchestra.
+这种构成赋予了 **rangers（游侠）** 他们与自然联系的特征，但与其他职业相比，限制了他们的魔法能力，就像一种多才多艺的乐器，可以演奏许多旋律，但无法与完整的管弦乐队的复杂性相媲美。
 
-### Species-Specific Talents
+### Species-Specific Talents（种族特有天赋）
 
-Different species show varying natural inclinations toward the ranger class:
+不同的种族在游侠职业方面表现出不同的自然倾向：
 
-- **Elves** (35% Exanthis, 25% Soul, 40% Mana Capacity): Their natural grace and connection to nature make them exceptional rangers, particularly as Wardens and Forest Singers.
-- **Beastfolk** (50% Exanthis, 30% Soul, 20% Mana Capacity): Their physical prowess and animal kinship make them natural Beastmasters and Hunters.
-- **Humans** (40% Exanthis, 35% Soul, 25% Mana Capacity): Their adaptability allows them to excel in any ranger specialization, though they rarely reach the heights of species with more specialized compositions.
-- **Dragonkin** (60% Exanthis, 20% Soul, 20% Mana Capacity): Their physical might makes them formidable Hunters, though their limited adaptability restricts their versatility.
-- **Dwarves** (55% Exanthis, 30% Soul, 15% Mana Capacity): Their endurance and resilience make them excellent Survivalists, particularly in harsh mountain environments.
+- **Elves（精灵）** (35% Exanthis, 25% Soul, 40% Mana Capacity)：他们天生的优雅和与自然的联系使他们成为出色的游侠，特别是作为 Wardens（守望者）和 Forest Singers（森林歌者）。
+- **Beastfolk（兽人）** (50% Exanthis, 30% Soul, 20% Mana Capacity)：他们强大的体魄和动物亲缘关系使他们成为天生的 Beastmasters（驯兽师）和 Hunters（猎人）。
+- **Humans（人类）** (40% Exanthis, 35% Soul, 25% Mana Capacity)：他们的适应性使他们能够在任何游侠专业中脱颖而出，尽管他们很少达到具有更专业构成的种族的高度。
+- **Dragonkin（龙裔）** (60% Exanthis, 20% Soul, 20% Mana Capacity)：他们强大的体魄使他们成为强大的 Hunters（猎人），尽管他们有限的适应性限制了他们的多功能性。
+- **Dwarves（矮人）** (55% Exanthis, 30% Soul, 15% Mana Capacity)：他们的耐力和韧性使他们成为优秀的 Survivalists（生存专家），尤其是在恶劣的山区环境中。
 
-## Physical Characteristics
+## Physical Characteristics（身体特征）
 
-**Rangers** are known for their connection to nature and survival skills:
-- Athletic build with graceful movements, like a dancer's natural grace
-- Eyes that reflect awareness of surroundings, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of bows and survival tools, like a musician who has perfected the art of the woodwind
-- Presence that blends with natural surroundings, like a melody that harmonizes with the sounds of the forest
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+**Rangers（游侠）** 以其与自然的联系和生存技能而闻名：
+- 运动型的体格，动作优雅，像舞者天生的优雅
+- 反映对周围环境的意识的眼睛，显示出他们与 [**Soul（灵魂）**](/codex/Basic/Soul.md) 的联系
+- 掌握了弓箭和生存工具使用的双手，像一位完美掌握了木管乐器艺术的音乐家
+- 与自然环境融为一体的存在感，像一首与森林的声音和谐的旋律
+- 强调平衡和准备就绪的姿势，像一位准备好向任何方向移动的表演者
 
-## Nature Affinity
+## Nature Affinity（自然亲和力）
 
-**Rangers** demonstrate exceptional proficiency in wilderness survival and combat, like virtuoso musicians who have mastered the art of the natural world. Their composition allows them to:
-- Track and hunt with extraordinary precision, like conductors leading an orchestra through the wilderness
-- Survive in harsh environments, like artists adapting to changing conditions
-- Communicate with animals and understand natural signs, like performers harmonizing with the sounds of nature
+**Rangers（游侠）** 在野外生存和战斗中表现出非凡的熟练程度，就像精通自然世界艺术的音乐大师。 他们的构成使他们能够：
+- 以非凡的精度追踪和狩猎，就像指挥家带领管弦乐队穿越荒野
+- 在恶劣的环境中生存，就像艺术家适应不断变化的环境
+- 与动物交流并理解自然迹象，就像表演者与自然的声音和谐相处
 
-This specialization makes **rangers** capable of achieving the highest levels of proficiency in their chosen wilderness techniques, though they may struggle with tasks requiring complex magic or urban skills, like a versatile instrument that excels in natural settings but may be out of place in a formal concert hall.
+这种专业化使 **rangers（游侠）** 能够在他们选择的野外技术中达到最高水平的熟练程度，尽管他们可能会在需要复杂魔法或城市技能的任务中挣扎，就像一种擅长自然环境的多功能乐器，但在正式的音乐厅中可能会显得格格不入。
 
-## Training and Development
+## Training and Development（训练与发展）
 
-The path of a **ranger** involves rigorous wilderness training and mental discipline:
-- Daily practice in tracking and survival skills, like musicians practicing their natural melodies
-- Study of natural environments and animal behavior, like learning the theory behind natural harmony
-- Meditation to develop connection to nature, like finding the quiet center of the wilderness
-- Practice in combat and stealth techniques, like artists mastering the art of natural movement
+**ranger（游侠）** 的道路涉及严格的野外训练和精神纪律：
+- 每天练习追踪和生存技能，就像音乐家练习他们自然的旋律
+- 学习自然环境和动物行为，就像学习自然和谐背后的理论
+- 冥想以发展与自然的联系，就像找到荒野中安静的中心
+- 练习战斗和隐身技术，就像艺术家掌握自然运动的艺术
 
-## Equipment and Gear
+## Equipment and Gear（装备与用具）
 
-**Rangers** rely on various equipment to enhance their wilderness abilities:
-- Bows and light weapons designed for precision, like different instruments for different performances
-- Survival gear such as ropes, traps, and navigation tools, like accessories that enhance an instrument's capabilities
-- Natural accessories such as animal companions, tracking dogs, and natural remedies, like specialized instruments for specific tasks
+**Rangers（游侠）** 依靠各种装备来增强他们的野外能力：
+- 为精确度设计的弓箭和轻型武器，就像不同的表演使用不同的乐器
+- 生存装备，如绳索、陷阱和导航工具，就像增强乐器功能的配件
+- 自然饰品，如动物伙伴、追踪犬和自然疗法，就像用于特定任务的专业乐器
 
-## Subclasses
+## Subclasses（子职业）
 
-**Rangers** can specialize in various wilderness disciplines and roles:
+**Rangers（游侠）** 可以专注于各种野外学科和角色：
 
-### [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md)
+### [**Beastmaster（驯兽师）**](/codex/Classes/Ranger/Beastmaster.md)
 
-Beastmasters focus on forming bonds with animals, emphasizing the role of the animal companion. They excel at:
-- Training and commanding animal companions
-- Understanding animal behavior and communication
-- Fighting alongside their animal allies
+Beastmasters（驯兽师）专注于与动物建立联系，强调动物伙伴的角色。 他们擅长：
+- 训练和指挥动物伙伴
+- 理解动物行为和交流
+- 与他们的动物盟友并肩作战
 
-### [**Hunter**](/codex/Classes/Ranger/Hunter.md)
+### [**Hunter（猎人）**](/codex/Classes/Ranger/Hunter.md)
 
-Hunters focus on tracking and eliminating targets, emphasizing the role of the predator. They excel at:
-- Tracking and stalking prey
-- Setting traps and ambushes
-- Delivering precise strikes from a distance
+Hunters（猎人）专注于追踪和消灭目标，强调捕食者的角色。 他们擅长：
+- 追踪和跟踪猎物
+- 设置陷阱和伏击
+- 从远处进行精确打击
 
-### [**Warden**](/codex/Classes/Ranger/Warden.md)
+### [**Warden（守望者）**](/codex/Classes/Ranger/Warden.md)
 
-Wardens focus on protecting natural places, emphasizing the role of the guardian. They excel at:
-- Defending natural territories
-- Maintaining the balance of ecosystems
-- Communicating with nature spirits
+Wardens（守望者）专注于保护自然场所，强调守护者的角色。 他们擅长：
+- 保卫自然领地
+- 维持生态系统的平衡
+- 与自然精灵交流
 
-### [**Scout**](/codex/Classes/Ranger/Scout.md)
+### [**Scout（侦察兵）**](/codex/Classes/Ranger/Scout.md)
 
-Scouts focus on exploring and navigating unknown territories, emphasizing the role of the explorer. They excel at:
-- Finding safe paths through dangerous areas
-- Gathering information about new territories
-- Adapting to unfamiliar environments
+Scouts（侦察兵）专注于探索和导航未知领域，强调探索者的角色。 他们擅长：
+- 在危险区域找到安全的道路
+- 收集关于新领域的信息
+- 适应不熟悉的环境
 
-### [**Survivalist**](/codex/Classes/Ranger/Survivalist.md)
+### [**Survivalist（生存专家）**](/codex/Classes/Ranger/Survivalist.md)
 
-Survivalists focus on thriving in harsh environments, emphasizing the role of the survivor. They excel at:
-- Finding food and water in barren places
-- Creating shelter in extreme conditions
-- Adapting to changing environmental conditions
+Survivalists（生存专家）专注于在恶劣环境中茁壮成长，强调幸存者的角色。 他们擅长：
+- 在贫瘠的地方寻找食物和水
+- 在极端条件下创建住所
+- 适应不断变化的环境条件
 
-## Notable Ranger Traits
+## Notable Ranger Traits（游侠的显著特征）
 
-- **Wilderness Mastery**: Rangers excel in survival and tracking, often specializing in specific environments
-- **Animal Connection**: Rangers develop strong bonds with animals and nature
-- **Environmental Adaptation**: Rangers can thrive in various natural environments
-- **Precision Combat**: Rangers excel in combat that requires precision and timing
-- **Discipline**: Rangers maintain rigorous training regimens to maintain their wilderness abilities
+- **Wilderness Mastery（荒野精通）**: Rangers（游侠）擅长生存和追踪，通常专注于特定环境
+- **Animal Connection（动物联系）**: Rangers（游侠）与动物和自然建立牢固的联系
+- **Environmental Adaptation（环境适应）**: Rangers（游侠）可以在各种自然环境中茁壮成长
+- **Precision Combat（精准战斗）**: Rangers（游侠）擅长需要精确度和时机的战斗
+- **Discipline（纪律）**: Rangers（游侠）保持严格的训练制度以维持他们的野外能力
 
-## Ranger Orders
+## Ranger Orders（游侠组织）
 
-Ranger society is organized into numerous orders, each with its own specialties and techniques:
+游侠社会被组织成许多组织，每个组织都有自己的专业和技术：
 
-| Order | Specialty | Territory | Notable Traits |
+| Order（组织） | Specialty（专业） | Territory（领地） | Notable Traits（显著特征） |
 |---------|---------------|---------|-------------------|
-| **Beast Companions** | Animal bonding, companion training | Various locations | Animal companions, beast communication |
-| **Track Masters** | Tracking, hunting | Various locations | Tracking abilities, hunting techniques |
-| **Territory Wardens** | Territory protection, ecosystem balance | Natural territories | Territory defense, ecosystem maintenance |
-| **Path Finders** | Exploration, navigation | Unknown territories | Exploration, navigation |
-| **Wild Survivors** | Survival, adaptation | Harsh environments | Survival skills, environmental adaptation |
-| **Forest Singers** | Nature communication, harmony | Forest regions | Nature communication, forest harmony |
+| **Beast Companions（野兽伙伴）** | Animal bonding（动物结合）, companion training（伙伴训练） | Various locations（不同地点） | Animal companions（动物伙伴）, beast communication（野兽交流） |
+| **Track Masters（追踪大师）** | Tracking（追踪）, hunting（狩猎） | Various locations（不同地点） | Tracking abilities（追踪能力）, hunting techniques（狩猎技巧） |
+| **Territory Wardens（领地守望者）** | Territory protection（领地保护）, ecosystem balance（生态系统平衡） | Natural territories（自然领地） | Territory defense（领地防御）, ecosystem maintenance（生态系统维护） |
+| **Path Finders（探路者）** | Exploration（探索）, navigation（导航） | Unknown territories（未知领地） | Exploration（探索）, navigation（导航） |
+| **Wild Survivors（荒野幸存者）** | Survival（生存）, adaptation（适应） | Harsh environments（恶劣环境） | Survival skills（生存技能）, environmental adaptation（环境适应） |
+| **Forest Singers（森林歌者）** | Nature communication（自然交流）, harmony（和谐） | Forest regions（森林地区） | Nature communication（自然交流）, forest harmony（森林和谐） |
 
-Understanding the nature of **rangers** provides insight into the natural aspects of the world of **OpenFantasy**, like listening to the wild melodies that echo through the symphony of nature. 
+理解 **rangers（游侠）** 的本质可以深入了解 **OpenFantasy** 世界的自然方面，就像聆听在自然交响乐中回荡的狂野旋律。
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
