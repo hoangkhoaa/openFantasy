@@ -1,203 +1,207 @@
-# **Light Magic**: The Art of Illumination and Radiance
+# **Magia de la Luz**: El Arte de la Iluminación y el Resplandor
 
-> *"Light reveals truth, banishes darkness, and guides the way. It is not merely brightness, but clarity—the manifestation of understanding itself."* — Archluminomancer Elinor Dawnseeker
+> *"La luz revela la verdad, destierra la oscuridad y guía el camino. No es meramente brillo, sino claridad: la manifestación del entendimiento mismo."* — Archiluminomancer Elinor Dawnseeker
 
-## Quick Reference
-- [Properties of Luxmana](#properties-of-luxmana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Referencia Rápida
+- [Propiedades del Luxmana](#propiedades-del-luxmana)
+- [Técnicas de Manipulación](#tecnicas-de-manipulacion)
+- [Hechizos Comunes](#hechizos-comunes)
+- [Desarrollo de Afinidad](#desarrollo-de-afinidad)
+- [Riesgos y Salvaguardias](#riesgos-y-salvaguardias)
+- [Significado Cultural](#significado-cultural)
 
-## Properties of Luxmana
+## Propiedades del Luxmana
 
-Luxmana, the elemental mana of light, is characterized by:
+Luxmana, el maná elemental de la luz, se caracteriza por:
 
-- **Appearance**: Golden, white, and prismatic hues; brilliant, radiant patterns that emanate outward
-- **Sensation**: Feels warm, clarifying, and energizing when channeled; creates a sense of weightlessness and focus
-- **Resonance**: High-frequency, pure vibration patterns with harmonic clarity
-- **Purification Challenge**: Already naturally pure but sensitive to emotional impurities; can become blinding if overpurified
-- **Opposite Element**: Shadow (creates twilight when forced together, ultimately dispels shadow)
-- **Complementary Elements**: Air (creates radiance), Fire (creates radiant flame)
-- **Musical Analogy**: Major key melodies, particularly stringed instruments; clear, resonant tones
+- **Apariencia**: Tonos dorados, blancos y prismáticos; patrones brillantes y radiantes que emanan hacia afuera
+- **Sensación**: Se siente cálido, clarificador y energizante cuando se canaliza; crea una sensación de ingravidez y concentración
+- **Resonancia**: Patrones de vibración de alta frecuencia y pureza con claridad armónica
+- **Desafío de Purificación**: Ya naturalmente puro, pero sensible a las impurezas emocionales; puede volverse cegador si se sobrepurifica
+- **Elemento Opuesto**: Sombra (crea crepúsculo cuando se fuerzan juntos, en última instancia disipa la sombra)
+- **Elementos Complementarios**: Aire (crea resplandor), Fuego (crea llama radiante)
+- **Analogía Musical**: Melodías en clave mayor, particularmente instrumentos de cuerda; tonos claros y resonantes
 
-## Manipulation Techniques
+## Técnicas de Manipulación
 
-### Basic Techniques
+### Técnicas Básicas
 
-#### Illumination
-The foundational technique of creating and directing light:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Generates controlled light from magical energy
-- **Training Focus**: Brightness control and directional casting
-- **Applications**: Creating light sources, signal flares, revealing hidden writing
+#### Iluminación
+La técnica fundamental de crear y dirigir la luz:
+- **Dificultad**: Novato
+- **Requisito de Pureza**: Básico (15-25%)
+- **Efecto**: Genera luz controlada a partir de energía mágica
+- **Enfoque de Entrenamiento**: Control de brillo y lanzamiento direccional
+- **Aplicaciones**: Crear fuentes de luz, bengalas de señalización, revelar escritura oculta
 
-#### Chromatic Manipulation
-Altering the color and quality of light:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (20-40%)
-- **Effect**: Changes the wavelength and properties of light
-- **Training Focus**: Spectral selection and color purity
-- **Applications**: Color changing, mood enhancement, plant growth stimulation
+#### Manipulación Cromática
+Alterar el color y la calidad de la luz:
+- **Dificultad**: Novato a Intermedio
+- **Requisito de Pureza**: Básico a Refinado (20-40%)
+- **Efecto**: Cambia la longitud de onda y las propiedades de la luz
+- **Enfoque de Entrenamiento**: Selección espectral y pureza del color
+- **Aplicaciones**: Cambio de color, mejora del estado de ánimo, estimulación del crecimiento de las plantas
 
-#### Revelation
-Using light to reveal hidden information:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-50%)
-- **Effect**: Illuminates magical effects, spiritual entities, or concealed objects
-- **Training Focus**: Light penetration and interaction with different energies
-- **Applications**: Detecting illusions, revealing enchantments, finding hidden objects
+#### Revelación
+Usar la luz para revelar información oculta:
+- **Dificultad**: Intermedio
+- **Requisito de Pureza**: Refinado (35-50%)
+- **Efecto**: Ilumina efectos mágicos, entidades espirituales u objetos ocultos
+- **Enfoque de Entrenamiento**: Penetración de la luz e interacción con diferentes energías
+- **Aplicaciones**: Detectar ilusiones, revelar encantamientos, encontrar objetos ocultos
 
-### Advanced Techniques
+### Técnicas Avanzadas
 
-#### Photomantic Sculpting
-Creating and maintaining complex light structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (45-70%)
-- **Effect**: Forms persistent light constructs with physical properties
-- **Training Focus**: Light solidification and structural integrity
-- **Applications**: Light bridges, defensive barriers, illuminated architecture
+#### Escultura Fotomántica
+Crear y mantener estructuras de luz complejas:
+- **Dificultad**: Avanzado
+- **Requisito de Pureza**: Refinado a Perfecto (45-70%)
+- **Efecto**: Forma construcciones de luz persistentes con propiedades físicas
+- **Enfoque de Entrenamiento**: Solidificación de la luz e integridad estructural
+- **Aplicaciones**: Puentes de luz, barreras defensivas, arquitectura iluminada
 
-#### Purification Radiance
-Using light to cleanse and purify:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Dispels negative energies, corruptions, and certain enchantments
-- **Training Focus**: Resonant harmony and dissonance cancellation
-- **Applications**: Consecration, curse removal, purifying corrupted areas
+#### Resplandor de Purificación
+Usar la luz para limpiar y purificar:
+- **Dificultad**: Experto
+- **Requisito de Pureza**: Perfecto (65-85%)
+- **Efecto**: Disipa energías negativas, corrupciones y ciertos encantamientos
+- **Enfoque de Entrenamiento**: Armonía resonante y cancelación de disonancia
+- **Aplicaciones**: Consagración, eliminación de maldiciones, purificación de áreas corruptas
 
-#### Light Embodiment
-Transforming physical matter into light:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (80-95%)
-- **Effect**: Converts matter (including the caster) partially into light energy
-- **Training Focus**: Matter-energy transition states
-- **Applications**: Rapid travel, passing through barriers, defensive phasing
+#### Encarnación de la Luz
+Transformar la materia física en luz:
+- **Dificultad**: Maestro
+- **Requisito de Pureza**: Perfecto (80-95%)
+- **Efecto**: Convierte materia (incluido el lanzador) parcialmente en energía de luz
+- **Enfoque de Entrenamiento**: Estados de transición materia-energía
+- **Aplicaciones**: Viaje rápido, atravesar barreras, cambio de fase defensivo
 
-## Common Spells
+## Hechizos Comunes
 
-### Novice Spells
+### Hechizos de Novato
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Hechizo | Efecto | Componentes | Tiempo de Lanzamiento | Duración |
 |-------|--------|------------|--------------|----------|
-| **Light Orb** | Creates a floating sphere of illumination | Somatic | 1 second | 1 hour |
-| **Color Shift** | Changes the color of an existing light source | Somatic | 2 seconds | 10 minutes |
-| **Flash** | Creates a sudden burst of bright light | Somatic, Verbal | 1 second | Instantaneous |
-| **Light Script** | Creates glowing text in the air | Somatic, Verbal | 5 seconds | 30 minutes |
+| **Orbe de Luz** | Crea una esfera flotante de iluminación | Somático | 1 segundo | 1 hora |
+| **Cambio de Color** | Cambia el color de una fuente de luz existente | Somático | 2 segundos | 10 minutos |
+| **Destello** | Crea una ráfaga repentina de luz brillante | Somático, Verbal | 1 segundo | Instantáneo |
+| **Escritura de Luz** | Crea texto brillante en el aire | Somático, Verbal | 5 segundos | 30 minutos |
 
-### Intermediate Spells
+### Hechizos Intermedios
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Hechizo | Efecto | Componentes | Tiempo de Lanzamiento | Duración |
 |-------|--------|------------|--------------|----------|
-| **Revealing Light** | Illuminates invisible objects or beings | Somatic, Verbal, Focus | 5 seconds | 10 minutes |
-| **Light Shield** | Creates a protective barrier of solid light | Somatic, Verbal | 3 seconds | Concentration |
-| **Prismatic Ray** | Projects a beam of light that can be adjusted to different colors | Somatic, Focus | 2 seconds | Concentration |
-| **Purifying Glow** | Cleanses a small area or object of minor corruption | Somatic, Verbal, Focus | 30 seconds | Instantaneous |
+| **Luz Reveladora** | Ilumina objetos o seres invisibles | Somático, Verbal, Enfoque | 5 segundos | 10 minutos |
+| **Escudo de Luz** | Crea una barrera protectora de luz sólida | Somático, Verbal | 3 segundos | Concentración |
+| **Rayo Prismático** | Proyecta un haz de luz que se puede ajustar a diferentes colores | Somático, Enfoque | 2 segundos | Concentración |
+| **Brillo Purificador** | Limpia un área pequeña u objeto de corrupción menor | Somático, Verbal, Enfoque | 30 segundos | Instantáneo |
 
-### Advanced Spells
+### Hechizos Avanzados
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Hechizo | Efecto | Componentes | Tiempo de Lanzamiento | Duración |
 |-------|--------|------------|--------------|----------|
-| **Daylight** | Creates intense natural-seeming light over a large area | Somatic, Verbal, Focus | 10 seconds | 1 hour |
-| **Light Construct** | Forms a semi-autonomous light entity | Somatic, Verbal, Focus | 1 minute | 30 minutes |
-| **Radiant Burst** | Releases a powerful flash of purifying energy | Somatic, Verbal, Focus | 5 seconds | Instantaneous |
-| **Photokinetic Leap** | Transforms caster briefly into light for rapid movement | Somatic, Verbal, Focus | 5 seconds | 3 seconds |
+| **Luz del Día** | Crea una intensa luz de apariencia natural sobre un área grande | Somático, Verbal, Enfoque | 10 segundos | 1 hora |
+| **Construcción de Luz** | Forma una entidad de luz semiautónoma | Somático, Verbal, Enfoque | 1 minuto | 30 minutos |
+| **Estallido Radiante** | Libera un poderoso destello de energía purificadora | Somático, Verbal, Enfoque | 5 segundos | Instantáneo |
+| **Salto Fotocinético** | Transforma al lanzador brevemente en luz para un movimiento rápido | Somático, Verbal, Enfoque | 5 segundos | 3 segundos |
 
-## Affinity Development
+## Desarrollo de Afinidad
 
-Light affinity progresses through several distinctive stages:
+La afinidad con la luz progresa a través de varias etapas distintivas:
 
-### Inner Spark
-The foundational relationship with light that most beginners possess:
-- **Manifestation**: Enhanced visual acuity, intuitive understanding of light conditions
-- **Physical Signs**: Slightly luminous eyes in darkness, minor light refraction around fingers
-- **Enhancement Method**: Regular meditation during dawn or dusk, particularly at solstices
+### Chispa Interior
+La relación fundamental con la luz que poseen la mayoría de los principiantes:
+- **Manifestación**: Agudeza visual mejorada, comprensión intuitiva de las condiciones de luz
+- **Signos Físicos**: Ojos ligeramente luminosos en la oscuridad, refracción de luz menor alrededor de los dedos
+- **Método de Mejora**: Meditación regular durante el amanecer o el atardecer, particularmente en los solsticios
 
-### Illuminated Mind
-The intermediate stage where light responds more readily to the mage's will:
-- **Manifestation**: Light bends subtly around the caster, enhanced color perception
-- **Physical Signs**: Skin develops a subtle glow during casting, hair captures and reflects light unusually well
-- **Enhancement Method**: Prism meditation, light sourcing exercises in varied conditions
+### Mente Iluminada
+La etapa intermedia donde la luz responde más fácilmente a la voluntad del mago:
+- **Manifestación**: La luz se dobla sutilmente alrededor del lanzador, percepción del color mejorada
+- **Signos Físicos**: La piel desarrolla un brillo sutil durante el lanzamiento, el cabello captura y refleja la luz inusualmente bien
+- **Método de Mejora**: Meditación con prismas, ejercicios de abastecimiento de luz en condiciones variadas
 
-### Radiant Harmony
-Advanced practitioners achieve a deep resonance with light's properties:
-- **Manifestation**: Emotions influence ambient light, ability to see magical auras naturally
-- **Physical Signs**: Eyes shift color based on magical activity, shadow cast may contain light patterns
-- **Enhancement Method**: Extended communion at sites of natural light phenomena or celestial importance
+### Armonía Radiante
+Los practicantes avanzados logran una resonancia profunda con las propiedades de la luz:
+- **Manifestación**: Las emociones influyen en la luz ambiental, capacidad de ver auras mágicas naturalmente
+- **Signos Físicos**: Los ojos cambian de color según la actividad mágica, la sombra proyectada puede contener patrones de luz
+- **Método de Mejora**: Comunión extendida en sitios de fenómenos de luz natural o importancia celestial
 
-### Luminous Unity
-Master photomancers who have achieved profound connection with light:
-- **Manifestation**: Partial transformation abilities, intuitive manipulation of light without formal casting
-- **Physical Signs**: Body naturally emits soft light in darkness, blood appears to contain tiny luminous particles
-- **Enhancement Method**: Deep communion at ley line intersections with strong light resonance
+### Unidad Luminosa
+Fotománticos maestros que han logrado una conexión profunda con la luz:
+- **Manifestación**: Habilidades de transformación parcial, manipulación intuitiva de la luz sin lanzamiento formal
+- **Signos Físicos**: El cuerpo emite naturalmente una luz suave en la oscuridad, la sangre parece contener diminutas partículas luminosas
+- **Método de Mejora**: Comunión profunda en intersecciones de líneas ley con fuerte resonancia de luz
 
-## Risks and Safeguards
+## Riesgos y Salvaguardias
 
-### Common Risks
+### Riesgos Comunes
 
-- **Visual Overstimulation**: Damage to vision from excessive or improper light creation
-- **Perception Distortion**: Altered color perception or visual processing
-- **Energy Depletion**: Rapid exhaustion due to light's high energy requirements
-- **Photosensitivity**: Developing hypersensitivity to natural light
-- **Phase Instability**: Partial physical conversion to light during advanced techniques
+- **Sobreestimulación Visual**: Daño a la visión por creación de luz excesiva o inadecuada
+- **Distorsión de la Percepción**: Percepción del color o procesamiento visual alterados
+- **Agotamiento de Energía**: Agotamiento rápido debido a los altos requisitos de energía de la luz
+- **Fotosensibilidad**: Desarrollo de hipersensibilidad a la luz natural
+- **Inestabilidad de Fase**: Conversión física parcial a la luz durante técnicas avanzadas
 
-### Miscast Effects
+### Efectos de Lanzamiento Incorrecto
 
-| Severity | Effect | Recovery |
+| Severidad | Efecto | Recuperación |
 |----------|--------|----------|
-| **Minor** | Temporary afterimages, color blindness, excessive pupil dilation | Hours |
-| **Moderate** | Persistent light emission from skin, solar sensitivity, vision shifts | Days |
-| **Severe** | Sporadic transparency, intense light emissions, retinal damage | Weeks |
-| **Critical** | Uncontrolled phasing between material and light states, cellular instability | Months |
+| **Menor** | Postimágenes temporales, daltonismo, dilatación excesiva de la pupila | Horas |
+| **Moderado** | Emisión persistente de luz de la piel, sensibilidad solar, cambios en la visión | Días |
+| **Severo** | Transparencia esporádica, intensas emisiones de luz, daño retinal | Semanas |
+| **Crítico** | Cambio de fase incontrolado entre estados material y de luz, inestabilidad celular | Meses |
 
-### Safety Practices
+### Prácticas de Seguridad
 
-- **Visual Protection**: Specialized eyewear during practice and high-intensity casting
-- **Perception Grounding**: Regular exercises to maintain normal visual processing
-- **Energy Conservation**: Measured casting and appropriate rest between major workings
-- **Darkness Balance**: Regular exposure to darkness to offset light immersion
-- **Phase Anchoring**: Physical grounding techniques to maintain material form
+- **Protección Visual**: Gafas especializadas durante la práctica y el lanzamiento de alta intensidad
+- **Aterrizaje de la Percepción**: Ejercicios regulares para mantener el procesamiento visual normal
+- **Conservación de Energía**: Lanzamiento medido y descanso apropiado entre trabajos importantes
+- **Equilibrio de la Oscuridad**: Exposición regular a la oscuridad para compensar la inmersión en la luz
+- **Anclaje de Fase**: Técnicas de conexión a tierra física para mantener la forma material
 
-## Cultural Significance
+## Significado Cultural
 
-### Historical Development
+### Desarrollo Histórico
 
-Light magic emerged early in human development, initially tied to solar worship and celestial observation. The development of photomancy followed three primary historical phases:
+La magia de la luz surgió temprano en el desarrollo humano, inicialmente ligada a la adoración solar y la observación celestial. El desarrollo de la fotomancia siguió tres fases históricas principales:
 
-1. **Celestial Connection**: Cultures developing light magic through observation of sun, moon, and stars
-2. **Symbolic Illumination**: Religious and philosophical traditions connecting light to knowledge and revelation
-3. **Technical Manipulation**: Scientific advancement leading to understanding of light's properties and potential
+1. **Conexión Celestial**: Culturas que desarrollan magia de la luz a través de la observación del sol, la luna y las estrellas
+2. **Iluminación Simbólica**: Tradiciones religiosas y filosóficas que conectan la luz con el conocimiento y la revelación
+3. **Manipulación Técnica**: Avance científico que conduce a la comprensión de las propiedades y el potencial de la luz
 
-### Regional Variations
+### Variaciones Regionales
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Cultura | Enfoque | Técnica Distintiva | Filosofía |
 |---------|-------|---------------------|------------|
-| **Sun Kingdoms** | Solar magic, healing | Sun channeling, blessing rays | Light as the universal life-giver |
-| **Mountainfolk** | Clarity, revelation | Crystal focusing, snow illumination | Light as the revealer of truth |
-| **Forest Cultures** | Dappled light, growth | Leaf filtering, photosynthesis enhancement | Light as the nurturer of life |
-| **Desert Societies** | Heat management, water finding | Mirage creation, light filtration | Light as the balancer of extremes |
+| **Reinos del Sol** | Magia solar, curación | Canalización del sol, rayos de bendición | La luz como el dador de vida universal |
+| **Gente de la Montaña** | Claridad, revelación | Enfoque de cristales, iluminación de la nieve | La luz como reveladora de la verdad |
+| **Culturas del Bosque** | Luz moteada, crecimiento | Filtrado de hojas, mejora de la fotosíntesis | La luz como nutridora de la vida |
+| **Sociedades del Desierto** | Gestión del calor, búsqueda de agua | Creación de espejismos, filtración de la luz | La luz como equilibradora de extremos |
 
-### Ceremonial Uses
+### Usos Ceremoniales
 
-Light magic features prominently in many cultural ceremonies:
-- **Coming-of-Age Rituals**: Young photomancers creating their first independent light source
-- **Solstice Celebrations**: Major light workings during solar astronomical events
-- **Blessing Ceremonies**: Light purification for new homes, children, or ventures
-- **Funeral Rites**: "Path illumination" rituals to guide departing souls
+La magia de la luz ocupa un lugar destacado en muchas ceremonias culturales:
+- **Rituales de Transición a la Madurez**: Jóvenes fotománticos que crean su primera fuente de luz independiente
+- **Celebraciones del Solsticio**: Importantes trabajos de luz durante eventos astronómicos solares
+- **Ceremonias de Bendición**: Purificación con luz para nuevos hogares, niños o proyectos
+- **Ritos Funerarios**: Rituales de "iluminación del camino" para guiar a las almas que parten
 
-### Contemporary Applications
+### Aplicaciones Contemporáneas
 
-Beyond combat and utility applications, light magic serves important societal functions:
-- **Medical Practice**: Healing applications, particularly for mental and emotional disorders
-- **Agriculture**: Crop growth enhancement and seasonal extension
-- **Architecture**: Permanent illumination of public spaces and buildings
-- **Communications**: Signal systems and information transmission
-- **Art and Entertainment**: Spectacular visual displays and performances
+Más allá de las aplicaciones de combate y utilidad, la magia de la luz cumple importantes funciones sociales:
+- **Práctica Médica**: Aplicaciones de curación, particularmente para trastornos mentales y emocionales
+- **Agricultura**: Mejora del crecimiento de los cultivos y extensión estacional
+- **Arquitectura**: Iluminación permanente de espacios y edificios públicos
+- **Comunicaciones**: Sistemas de señalización y transmisión de información
+- **Arte y Entretenimiento**: Espectaculares exhibiciones y actuaciones visuales
 
-> *"The student of light must remember that true illumination comes not from merely banishing darkness, but from revealing what was always there—merely waiting to be seen."* — The Photomancer's Codex
+> *"El estudiante de la luz debe recordar que la verdadera iluminación no proviene simplemente de desterrar la oscuridad, sino de revelar lo que siempre estuvo allí, simplemente esperando ser visto."* — El Códice del Fotomántico
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Shadow Magic](/codex/Magics/Elements/ShadowMagic.md)* 
+*Ver también: [Magia Elemental](/codex/Magics/Elements/ElementalMagic.md), [Magia de Fuego](/codex/Magics/Elements/FireMagic.md), [Magia de Sombra](/codex/Magics/Elements/ShadowMagic.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

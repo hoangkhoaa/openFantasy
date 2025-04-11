@@ -1,215 +1,219 @@
-# **The School of Transmutation**
+# **La Escuela de Transmutación**
 
-> *"To transmute is to understand the deepest nature of matter and energy—to see not what is, but what could be. All substance is but patterns waiting to be rearranged."*  
-> — Archmagus Elyria Stoneweaver, First Chair of Material Studies
+> *"Transmutar es comprender la naturaleza más profunda de la materia y la energía: ver no lo que es, sino lo que podría ser. Toda sustancia no es más que patrones esperando ser reordenados."*
+> — Archimagistrada Elyria Stoneweaver, Primera Cátedra de Estudios de Materiales
 
-## Overview
+## Resumen
 
-Transmutation is the school of magic devoted to the fundamental transformation of matter and energy. Unlike conjuration that summons existing elements or evocation that generates magical effects, transmutation alters the intrinsic properties, form, or structure of targets. It encompasses everything from basic material changes to complex biological alterations and is regarded as perhaps the most technically demanding school of magic due to its precision requirements and comprehensive knowledge base.
+La transmutación es la escuela de magia dedicada a la transformación fundamental de la materia y la energía. A diferencia de la conjuración que invoca elementos existentes o la evocación que genera efectos mágicos, la transmutación altera las propiedades intrínsecas, la forma o la estructura de los objetivos. Abarca todo, desde cambios materiales básicos hasta complejas alteraciones biológicas, y se considera quizás la escuela de magia más exigente técnicamente debido a sus requisitos de precisión y su base de conocimiento integral.
 
-## Fundamental Principles
+## Principios Fundamentales
 
-### The Principle of Malleable Essence
+### El Principio de la Esencia Maleable
 
-The foundation of transmutation theory is the Principle of Malleable Essence, which posits that all matter and energy exists as patterns of magical resonance that can be reconfigured through proper magical application. These patterns connect physical properties to magical signatures that transmuters learn to recognize and manipulate.
+La base de la teoría de la transmutación es el Principio de la Esencia Maleable, que postula que toda la materia y la energía existen como patrones de resonancia mágica que pueden reconfigurarse mediante la aplicación mágica adecuada. Estos patrones conectan las propiedades físicas con las firmas mágicas que los transmutadores aprenden a reconocer y manipular.
 
-### Primary Components
+### Componentes Primarios
 
-All transmutation spells incorporate three fundamental components:
+Todos los hechizos de transmutación incorporan tres componentes fundamentales:
 
-1. **Pattern Recognition**: Identifying the current structure and properties of the target
-2. **Pattern Dissolution**: Temporarily loosening the bonds of the existing form
-3. **Pattern Reconfiguration**: Imposing the desired new arrangement or properties
+1. **Reconocimiento de Patrones**: Identificar la estructura y las propiedades actuales del objetivo.
+2. **Disolución de Patrones**: Aflojar temporalmente los enlaces de la forma existente.
+3. **Reconfiguración de Patrones**: Imponer la nueva disposición o propiedades deseadas.
 
-More complex transmutations add additional components:
+Las transmutaciones más complejas añaden componentes adicionales:
 
-4. **Energy Conversion**: Managing the release or absorption of energy during transformation
-5. **Temporal Anchoring**: Maintaining stability throughout the transmutation process
-6. **Selective Alteration**: Changing specific properties while preserving others
+4. **Conversión de Energía**: Gestionar la liberación o absorción de energía durante la transformación.
+5. **Anclaje Temporal**: Mantener la estabilidad durante todo el proceso de transmutación.
+6. **Alteración Selectiva**: Cambiar propiedades específicas preservando otras.
 
-### Mana Requirements
+### Requisitos de Maná
 
-Transmutation requires specific combinations of mana types, with purity levels that increase with the complexity of the transformation:
+La transmutación requiere combinaciones específicas de tipos de maná, con niveles de pureza que aumentan con la complejidad de la transformación:
 
-| Transmutation Type | Primary Mana | Secondary Mana | Tertiary Mana | Purpose |
-|-------------------|-------------|----------------|---------------|---------|
-| State Change | Base Mana (30-40%) | Elemental type (20-30%) | N/A | Solid to liquid, etc. |
-| Material Conversion | Base Mana (40-50%) | Terramana (30-40%) | Target element (10-20%) | Lead to gold, etc. |
-| Shape Alteration | Base Mana (35-45%) | Terramana (20-30%) | N/A | Reshaping objects |
-| Property Enhancement | Base Mana (45-55%) | Property-specific (25-35%) | N/A | Hardening, sharpening |
-| Living Transmutation | Base Mana (60-70%) | Vitamana (40-50%) | Property-specific (20-30%) | Biological changes |
-| Self-Transmutation | Base Mana (55-65%) | Vitamana (35-45%) | Property-specific (15-25%) | Physical self-alteration |
-| Essence Transmutation | Base Mana (70-80%) | Pure type (50-60%) | Aetheramana (30-40%) | Fundamental nature changes |
+| Tipo de Transmutación | Maná Primario | Maná Secundario | Maná Terciario | Propósito |
+|-----------------------|---------------|------------------|----------------|----------|
+| Cambio de Estado | Maná Base (30-40%) | Tipo Elemental (20-30%) | N/A | Sólido a líquido, etc. |
+| Conversión Material | Maná Base (40-50%) | Terramaná (30-40%) | Elemento objetivo (10-20%) | Plomo a oro, etc. |
+| Alteración de Forma | Maná Base (35-45%) | Terramaná (20-30%) | N/A | Remodelación de objetos |
+| Mejora de Propiedades | Maná Base (45-55%) | Específico de la propiedad (25-35%) | N/A | Endurecimiento, afilado |
+| Transmutación Viviente | Maná Base (60-70%) | Vitamaná (40-50%) | Específico de la propiedad (20-30%) | Cambios biológicos |
+| Autotransmutación | Maná Base (55-65%) | Vitamaná (35-45%) | Específico de la propiedad (15-25%) | Auto-alteración física |
+| Transmutación de Esencia | Maná Base (70-80%) | Tipo Puro (50-60%) | Aetermaná (30-40%) | Cambios fundamentales de la naturaleza |
 
-### Wild Mana Response
+### Respuesta del Maná Salvaje
 
-Transmutation magic has a particular sensitivity to Wild Mana influences. While controlled transmutation requires exacting precision, Wild Mana can introduce:
+La magia de transmutación tiene una sensibilidad particular a las influencias del Maná Salvaje. Si bien la transmutación controlada requiere una precisión exigente, el Maná Salvaje puede introducir:
 
-- **Accelerated Transformation**: Speeding up the process beyond normal limits
-- **Expanded Possibility**: Allowing transformations normally considered impossible
-- **Property Blending**: Creating hybrid forms with characteristics from multiple sources
-- **Reactive Chain Effects**: Triggering cascading transmutations in surrounding materials
+- **Transformación Acelerada**: Acelerar el proceso más allá de los límites normales.
+- **Posibilidad Expandida**: Permitir transformaciones que normalmente se consideran imposibles.
+- **Mezcla de Propiedades**: Crear formas híbridas con características de múltiples fuentes.
+- **Efectos de Cadena Reactivos**: Desencadenar transmutaciones en cascada en los materiales circundantes.
 
-However, these potential benefits carry substantial risks:
+Sin embargo, estos beneficios potenciales conllevan riesgos sustanciales:
 
-- **Pattern Instability**: Transformations that shift unpredictably or revert spontaneously
-- **Property Contamination**: Unwanted characteristics appearing in the transmuted form
-- **Transformation Bleeding**: Effects spreading beyond the intended target
-- **Essence Rejection**: Violent reaction between original and transmuted forms
+- **Inestabilidad de Patrones**: Transformaciones que cambian impredeciblemente o revierten espontáneamente.
+- **Contaminación de Propiedades**: Características no deseadas que aparecen en la forma transmutada.
+- **Sangrado de Transformación**: Efectos que se extienden más allá del objetivo previsto.
+- **Rechazo de la Esencia**: Reacción violenta entre las formas original y transmutada.
 
-## Mana Purification for Transmutation
+## Purificación de Maná para la Transmutación
 
-Transmutation requires exceptionally high mana purity for precision transformations:
+La transmutación requiere una pureza de maná excepcionalmente alta para transformaciones de precisión:
 
-| Purification Level | Transmutation Capability |
-|--------------------|--------------------------|
-| Basic (15-25%) | Simple state changes (solid to liquid) and minor shape alterations |
-| Intermediate (30-45%) | Material conversions between similar substances, significant reshaping |
-| Advanced (50-65%) | Transformations across material categories, property enhancement |
-| Master (70-80%) | Limited biological transmutation, complex property manipulation |
-| Grandmaster (85%+) | Fundamental essence transmutation, perfect material conversion |
+| Nivel de Purificación | Capacidad de Transmutación |
+|-----------------------|---------------------------|
+| Básico (15-25%) | Cambios de estado simples (sólido a líquido) y alteraciones menores de la forma |
+| Intermedio (30-45%) | Conversiones de materiales entre sustancias similares, remodelación significativa |
+| Avanzado (50-65%) | Transformaciones entre categorías de materiales, mejora de propiedades |
+| Maestro (70-80%) | Transmutación biológica limitada, manipulación compleja de propiedades |
+| Gran Maestro (85%+) | Transmutación fundamental de la esencia, conversión perfecta de materiales |
 
-Insufficient purity in transmutation typically results in incomplete transformations—objects with mixed properties, unstable forms, or imperfect conversions that revert over time.
+La pureza insuficiente en la transmutación generalmente resulta en transformaciones incompletas: objetos con propiedades mixtas, formas inestables o conversiones imperfectas que revierten con el tiempo.
 
-## The Transmuter's Harmony
+## La Armonía del Transmutador
 
-Transmutation magic is conceptualized through musical modulation, with each spell creating transitions between different "keys" of material existence:
+La magia de transmutación se conceptualiza a través de la modulación musical, y cada hechizo crea transiciones entre diferentes "tonalidades" de la existencia material:
 
-- **Tonic Shift**: Basic state changes maintaining fundamental composition
-- **Key Change**: Complete conversion from one material to another
-- **Tempo Alteration**: Changing the temporal properties of matter (hardening, softening)
-- **Orchestration**: Reorganizing complex systems while maintaining function
-- **Counterpoint Development**: Creating harmonious interactions between different properties
+- **Cambio Tónico**: Cambios de estado básicos que mantienen la composición fundamental
+- **Cambio de Tonalidad**: Conversión completa de un material a otro
+- **Alteración del Tempo**: Cambiar las propiedades temporales de la materia (endurecimiento, ablandamiento)
+- **Orquestación**: Reorganizar sistemas complejos manteniendo la función
+- **Desarrollo de Contrapunto**: Crear interacciones armoniosas entre diferentes propiedades
 
-Master transmuters describe their work as "composing matter," guiding substances through harmonious transitions rather than forcing changes.
+Los maestros transmutadores describen su trabajo como "componer materia", guiando las sustancias a través de transiciones armoniosas en lugar de forzar cambios.
 
-## Specialized Disciplines
+## Disciplinas Especializadas
 
-### Alchemy
+### Alquimia
 
-The transformation of materials, particularly metals and elements. Practitioners are known as Alchemists.
+La transformación de materiales, particularmente metales y elementos. Los practicantes se conocen como Alquimistas.
 
-### Morphology
+### Morfología
 
-Focused on shape and structural changes without altering material composition. Masters are called Shapers.
+Se centra en la forma y los cambios estructurales sin alterar la composición del material. Los maestros se llaman Formadores.
 
-### Enhancement
+### Mejora
 
-Specialized in improving existing properties of objects or beings. Practitioners are called Enhancers.
+Especializado en mejorar las propiedades existentes de objetos o seres. Los practicantes se llaman Mejoradores.
 
-### Biomancy
+### Biomancia
 
-The transmutation of living tissue and biological systems. Masters are known as Biomancers.
+La transmutación de tejido vivo y sistemas biológicos. Los maestros son conocidos como Biomantes.
 
-### Essencecraft
+### Oficio de Esencia
 
-Alteration of fundamental magical properties and essence. Practitioners are called Essentialists.
+Alteración de las propiedades mágicas fundamentales y la esencia. Los practicantes se llaman Esencialistas.
 
-### Chronomancy
+### Cronomancia
 
-Manipulation of temporal properties of matter and energy. Masters are known as Temporalists.
+Manipulación de las propiedades temporales de la materia y la energía. Los maestros son conocidos como Temporalistas.
 
-### Self-Transformation
+### Autotransformación
 
-The study and practice of altering one's own form. Practitioners are called Shifters.
+El estudio y la práctica de alterar la propia forma. Los practicantes se llaman Cambiaformas.
 
-## Training Methodology
+## Metodología de Entrenamiento
 
-Transmutation training follows a structured progression:
+El entrenamiento de transmutación sigue una progresión estructurada:
 
-1. **Theoretical Foundations**: Understanding material properties and magical correspondences
-2. **Simple State Changes**: Practicing basic transformations (solid to liquid)
-3. **Material Study**: Learning the magical signatures of various substances
-4. **Form Manipulation**: Altering shapes while preserving material properties
-5. **Property Adjustment**: Enhancing or changing specific characteristics
-6. **Energy Management**: Controlling thermal and magical energy during transmutation
-7. **Biological Theory**: Study of living systems and their transmutation requirements
-8. **Complex Integration**: Performing multi-property transformations
+1. **Fundamentos Teóricos**: Comprender las propiedades de los materiales y las correspondencias mágicas.
+2. **Cambios de Estado Simples**: Practicar transformaciones básicas (sólido a líquido).
+3. **Estudio de Materiales**: Aprender las firmas mágicas de diversas sustancias.
+4. **Manipulación de la Forma**: Alterar formas preservando las propiedades del material.
+5. **Ajuste de Propiedades**: Mejorar o cambiar características específicas.
+6. **Gestión de la Energía**: Controlar la energía térmica y mágica durante la transmutación.
+7. **Teoría Biológica**: Estudio de los sistemas vivos y sus requisitos de transmutación.
+8. **Integración Compleja**: Realizar transformaciones de múltiples propiedades.
 
-Training emphasizes precision, control, and comprehensive knowledge of materials. Transmutation students typically spend years in laboratory settings before attempting significant spellcasting.
+El entrenamiento enfatiza la precisión, el control y el conocimiento integral de los materiales. Los estudiantes de transmutación suelen pasar años en entornos de laboratorio antes de intentar el lanzamiento de hechizos significativos.
 
-## Transmutation in Practice
+## La Transmutación en la Práctica
 
-The process of casting transmutation magic follows distinct phases:
+El proceso de lanzamiento de magia de transmutación sigue fases distintas:
 
-1. **Material Assessment**: Analyzing the target's current composition and properties
-2. **Pattern Identification**: Recognizing the magical signature of the material
-3. **Mana Purification**: Achieving the necessary purity for precise transformation
-4. **Bond Loosening**: Temporarily destabilizing the target's current form
-5. **Pattern Application**: Imposing the new desired structure or properties
-6. **Energy Balancing**: Managing energy release or absorption during change
-7. **Structural Stabilization**: Anchoring the new form into permanent stability
-8. **Quality Verification**: Ensuring the transformation is complete and stable
+1. **Evaluación del Material**: Analizar la composición y las propiedades actuales del objetivo.
+2. **Identificación de Patrones**: Reconocer la firma mágica del material.
+3. **Purificación del Maná**: Alcanzar la pureza necesaria para una transformación precisa.
+4. **Aflojamiento de Enlaces**: Desestabilizar temporalmente la forma actual del objetivo.
+5. **Aplicación de Patrones**: Imponer la nueva estructura o propiedades deseadas.
+6. **Equilibrio Energético**: Gestionar la liberación o absorción de energía durante el cambio.
+7. **Estabilización Estructural**: Anclar la nueva forma en una estabilidad permanente.
+8. **Verificación de la Calidad**: Asegurarse de que la transformación esté completa y estable.
 
-For emergency transmutation, these steps may be compressed into rapid casting, though with increased risk of imperfection or instability.
+Para la transmutación de emergencia, estos pasos se pueden comprimir en un lanzamiento rápido, aunque con un mayor riesgo de imperfección o inestabilidad.
 
-## Practical Applications
+## Aplicaciones Prácticas
 
-Transmutation serves numerous practical functions in magical society:
+La transmutación tiene numerosas funciones prácticas en la sociedad mágica:
 
-- **Manufacturing**: Creating specialized materials, tools, and components
-- **Medicine**: Healing through tissue regeneration and pathogen neutralization
-- **Agriculture**: Enhancing crop yields through soil enrichment and plant modification
-- **Construction**: Strengthening building materials or creating architectural elements
-- **Metallurgy**: Refining and converting metals for various applications
-- **Conservation**: Purifying water, neutralizing toxins, and restoring damaged environments
-- **Logistics**: Creating temporary bridges, pathways, or containers as needed
+- **Fabricación**: Crear materiales, herramientas y componentes especializados.
+- **Medicina**: Curación mediante la regeneración de tejidos y la neutralización de patógenos.
+- **Agricultura**: Mejorar el rendimiento de los cultivos mediante el enriquecimiento del suelo y la modificación de las plantas.
+- **Construcción**: Fortalecer los materiales de construcción o crear elementos arquitectónicos.
+- **Metalurgia**: Refinar y convertir metales para diversas aplicaciones.
+- **Conservación**: Purificar el agua, neutralizar las toxinas y restaurar los entornos dañados.
+- **Logística**: Crear puentes, caminos o contenedores temporales según sea necesario.
 
-## Ethical Considerations
+## Consideraciones Éticas
 
-Transmutation raises significant ethical questions:
+La transmutación plantea importantes cuestiones éticas:
 
-- **Material Value**: Economic implications of creating precious materials
-- **Natural Balance**: Consequences of altering natural substances and environments
-- **Consent for Change**: Ethical boundaries of transmuting living beings
-- **Reversibility**: Responsibility to ensure harmful transmutations can be undone
-- **Identity Integrity**: Psychological impact of self-transmutation or transformation by others
-- **Resource Displacement**: Effects on communities dependent on natural resources
+- **Valor Material**: Implicaciones económicas de la creación de materiales preciosos.
+- **Equilibrio Natural**: Consecuencias de alterar las sustancias y los entornos naturales.
+- **Consentimiento para el Cambio**: Límites éticos de la transmutación de seres vivos.
+- **Reversibilidad**: Responsabilidad de asegurar que las transmutaciones dañinas puedan deshacerse.
+- **Integridad de la Identidad**: Impacto psicológico de la autotransmutación o la transformación por parte de otros.
+- **Desplazamiento de Recursos**: Efectos en las comunidades que dependen de los recursos naturales.
 
-Most transmutation academies enforce strict ethical codes governing biological transmutation and economically sensitive material conversions.
+La mayoría de las academias de transmutación aplican estrictos códigos éticos que rigen la transmutación biológica y las conversiones de materiales económicamente sensibles.
 
-## Limitations and Weaknesses
+## Limitaciones y Debilidades
 
-Despite its power, transmutation has inherent limitations:
+A pesar de su poder, la transmutación tiene limitaciones inherentes:
 
-- **Conservation Principles**: Matter cannot be created or destroyed, only transformed
-- **Complexity Barriers**: Intricate systems require proportionally greater skill and energy
-- **Material Knowledge**: Transmuters can only work effectively with substances they understand
-- **Energy Requirements**: Transformations often require significant energy input
-- **Stability Factors**: More dramatic changes tend to be less stable over time
-- **Living Resistance**: Conscious beings can resist unwanted transmutation
+- **Principios de Conservación**: La materia no puede crearse ni destruirse, sólo transformarse.
+- **Barreras de Complejidad**: Los sistemas intrincados requieren una habilidad y energía proporcionalmente mayores.
+- **Conocimiento de Materiales**: Los transmutadores sólo pueden trabajar eficazmente con sustancias que comprenden.
+- **Requisitos de Energía**: Las transformaciones a menudo requieren una entrada de energía significativa.
+- **Factores de Estabilidad**: Los cambios más drásticos tienden a ser menos estables con el tiempo.
+- **Resistencia Viviente**: Los seres conscientes pueden resistir la transmutación no deseada.
 
-Common countermeasures against transmutation include:
+Las contramedidas comunes contra la transmutación incluyen:
 
-- **Material Wards**: Magical protections that prevent alteration
-- **Pattern Anchoring**: Techniques to stabilize an object's current form
-- **Composition Masking**: Hiding true material nature from magical assessment
-- **Reversion Catalysts**: Substances that trigger automatic return to original form
-- **Anti-Transmission Alloys**: Materials specifically designed to resist magical alteration
+- **Protecciones Materiales**: Protecciones mágicas que impiden la alteración.
+- **Anclaje de Patrones**: Técnicas para estabilizar la forma actual de un objeto.
+- **Enmascaramiento de la Composición**: Ocultar la verdadera naturaleza material de la evaluación mágica.
+- **Catalizadores de Reversión**: Sustancias que desencadenan el retorno automático a la forma original.
+- **Aleaciones Anti-Transmisión**: Materiales diseñados específicamente para resistir la alteración mágica.
 
-## Musical Analogy
+## Analogía Musical
 
-In the musical framework of magic, transmutation represents percussion instruments—steady, transformative forces that guide material through rhythmic changes of state. The transmuter is like a drummer, setting the tempo and pattern for matter to follow.
+En el marco musical de la magia, la transmutación representa los instrumentos de percusión: fuerzas constantes y transformadoras que guían el material a través de cambios rítmicos de estado. El transmutador es como un baterista, que establece el tempo y el patrón para que la materia lo siga.
 
-Transmutation spells are described in terms of "resonance" and "rhythm," with each successful transformation requiring perfect timing and pressure. Master transmuters can maintain complex "polyrhythms" of multiple transformative processes simultaneously, creating intricate material symphonies.
+Los hechizos de transmutación se describen en términos de "resonancia" y "ritmo", y cada transformación exitosa requiere una sincronización y una presión perfectas. Los maestros transmutadores pueden mantener complejos "polirritmos" de múltiples procesos transformadores simultáneamente, creando intrincadas sinfonías materiales.
 
-## Notable Practitioners
+## Practicantes Notables
 
-- **Elyria Stoneweaver**: Pioneer of modern transmutation theory and creator of the Material Harmonic Scale
-- **Tiberius Goldhand**: Master alchemist who developed ethical frameworks for precious metal conversion
-- **Selene Fleshcrafter**: Controversial biomancer known for medical breakthroughs and questionable experiments
-- **Garrick Ironheart**: Legendary martial transmuter who specialized in combat applications
-- **Nyra Fluidform**: Master of self-transformation who documented the first complete human-animal transformation protocols
+- **Elyria Stoneweaver**: Pionera de la teoría moderna de la transmutación y creadora de la Escala Armónica Material.
+- **Tiberius Goldhand**: Maestro alquimista que desarrolló marcos éticos para la conversión de metales preciosos.
+- **Selene Fleshcrafter**: Biomante controvertida conocida por sus avances médicos y sus experimentos cuestionables.
+- **Garrick Ironheart**: Legendario transmutador marcial que se especializó en aplicaciones de combate.
+- **Nyra Fluidform**: Maestra de la autotransformación que documentó los primeros protocolos completos de transformación humano-animal.
 
-## Safety Protocols
+## Protocolos de Seguridad
 
-Due to the potential dangers of transmutation, standardized safety measures include:
+Debido a los peligros potenciales de la transmutación, las medidas de seguridad estandarizadas incluyen:
 
-- **Reversion Preparations**: Ready-made counterspells for emergencies
-- **Isolation Chambers**: Contained environments for experimental transmutations
-- **Energy Sinks**: Devices to absorb excess energy from unstable reactions
-- **Transformation Limiters**: Spell components that prevent cascading effects
-- **Property Monitoring**: Constant assessment of transmuted objects for signs of instability
-- **Progressive Testing**: Staged transformation of small samples before full application
+- **Preparativos de Reversión**: Contrahechizos listos para usar en caso de emergencias.
+- **Cámaras de Aislamiento**: Entornos contenidos para transmutaciones experimentales.
+- **Sumideros de Energía**: Dispositivos para absorber el exceso de energía de reacciones inestables.
+- **Limitadores de Transformación**: Componentes de hechizo que evitan los efectos en cascada.
+- **Monitoreo de Propiedades**: Evaluación constante de los objetos transmutados en busca de signos de inestabilidad.
+- **Pruebas Progresivas**: Transformación escalonada de pequeñas muestras antes de la aplicación completa.
 
-The Transmuter's Oath, taken by all certified practitioners, includes the promise to "transform with purpose, not pride; to change with understanding, not merely power; and to restore what proves harmful, no matter the cost." 
+El Juramento del Transmutador, tomado por todos los profesionales certificados, incluye la promesa de "transformar con propósito, no con orgullo; de cambiar con comprensión, no simplemente con poder; y de restaurar lo que demuestre ser dañino, sin importar el costo".
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,104 +1,108 @@
-# **Dwarves**: The Steadfast Guardians of Tradition
+# **Enanos**: Los Guardianes Firmes de la Tradición
 
-[**Dwarves**](/codex/Creatures/Dwarves.md) are the steadfast guardians of tradition, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a bass drum that provides the foundation for an orchestra, they embody resilience and craftsmanship, creating a unique melody of existence that emphasizes durability, skill, and cultural continuity.
+Los [**Enanos**](/codex/Creatures/Dwarves.md) son los guardianes firmes de la tradición, sus cuerpos una mezcla armoniosa de [**Exanthis**](/codex/Basic/Exanthis.md), [**Almas**](/codex/Basic/Soul.md), y **Capacidad de Maná**. Como un tambor de bombo que proporciona la base para una orquesta, encarnan la resistencia y la artesanía, creando una melodía única de existencia que enfatiza la durabilidad, la habilidad y la continuidad cultural.
 
-## Elemental Composition
+## Composición Elemental
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dwarves** forms a harmony that favors physical resilience:
+Como se detalla en [Criaturas](/codex/Creatures/Creatures.md), la proporción típica para los **enanos** forma una armonía que favorece la resistencia física:
 
-| Element | Range | Function |
+| Elemento | Rango | Función |
 |---------|------------|----------|
-| **Exanthis** | 50-70% | The crystalline heart that provides exceptional physical strength and durability |
-| **Soul** | 20-35% | The ethereal essence that shapes a focused and determined consciousness |
-| **Mana Capacity** | 5-25% | The bridge between worlds that enables runic magical potential |
+| **Exanthis** | 50-70% | El corazón cristalino que proporciona una fuerza física y una durabilidad excepcionales |
+| **Alma** | 20-35% | La esencia etérea que da forma a una conciencia enfocada y decidida |
+| **Capacidad de Maná** | 5-25% | El puente entre mundos que permite el potencial mágico rúnico |
 
-This composition grants **dwarves** their characteristic physical resilience but typically limits their magical abilities compared to other species, like a sturdy instrument that can withstand rough handling but produces a limited range of sounds.
+Esta composición otorga a los **enanos** su característica resistencia física, pero normalmente limita sus habilidades mágicas en comparación con otras especies, como un instrumento robusto que puede soportar un manejo brusco pero produce una gama limitada de sonidos.
 
-### Individual Variations
+### Variaciones Individuales
 
-While the model composition represents the typical dwarf, individual variations exist:
+Si bien la composición del modelo representa al enano típico, existen variaciones individuales:
 
-- **Mountain Kings**: Some dwarves possess Exanthis levels as high as 75%, making them among the most physically resilient beings in existence, though often with minimal magical ability (5% Mana Capacity).
-- **Soul Smiths**: Those with higher Soul percentages (up to 40%) develop exceptional craftsmanship and artistic abilities, often becoming legendary artisans or cultural leaders whose works contain a fragment of their very essence.
-- **Rune Masters**: Rare individuals have Mana Capacity approaching 30%, allowing them to create powerful runic enchantments and artifacts, though they typically maintain significant physical resilience (45% Exanthis).
-- **Balanced Dwarves**: Some maintain a more balanced composition (50% Exanthis, 25% Soul, 25% Mana Capacity), allowing them to adapt to various roles within dwarven society.
-- **Forge Guardians**: A specialized composition of (65% Exanthis, 30% Soul, 5% Mana Capacity) creates dwarves who are exceptionally resistant to heat, fire, and physical damage, perfect for the most dangerous forging work.
+- **Reyes de la Montaña**: Algunos enanos poseen niveles de Exanthis tan altos como el 75%, lo que los convierte en los seres más resistentes físicamente en existencia, aunque a menudo con una habilidad mágica mínima (5% de Capacidad de Maná).
+- **Forjaalmas**: Aquellos con porcentajes más altos de Alma (hasta el 40%) desarrollan una artesanía y habilidades artísticas excepcionales, convirtiéndose a menudo en artesanos legendarios o líderes culturales cuyas obras contienen un fragmento de su propia esencia.
+- **Maestros Rúnicos**: Individuos raros tienen una Capacidad de Maná que se acerca al 30%, lo que les permite crear poderosos encantamientos y artefactos rúnicos, aunque normalmente mantienen una resistencia física significativa (45% de Exanthis).
+- **Enanos Equilibrados**: Algunos mantienen una composición más equilibrada (50% de Exanthis, 25% de Alma, 25% de Capacidad de Maná), lo que les permite adaptarse a diversos roles dentro de la sociedad enana.
+- **Guardianes de la Forja**: Una composición especializada de (65% de Exanthis, 30% de Alma, 5% de Capacidad de Maná) crea enanos que son excepcionalmente resistentes al calor, al fuego y al daño físico, perfectos para el trabajo de forja más peligroso.
 
-## Physical Characteristics
+## Características Físicas
 
-**Dwarves** are known for their sturdy build and connection to the earth:
-- Short and stocky, with dense muscle and bone structure
-- Broad shoulders and strong limbs, built for physical labor
-- Thick skin that provides natural protection, like living stone
-- Eyes that gleam with inner light, reflecting their connection to [**Exanthis**](/codex/Basic/Exanthis.md)
-- Beards that are often intricately braided with symbols of clan and status
-- Natural resistance to poisons and diseases, like mountains weathering storms
+Los **Enanos** son conocidos por su constitución robusta y su conexión con la tierra:
+- Bajos y fornidos, con músculos densos y estructura ósea
+- Hombros anchos y extremidades fuertes, construidos para el trabajo físico
+- Piel gruesa que proporciona protección natural, como piedra viviente
+- Ojos que brillan con luz interior, reflejando su conexión con [**Exanthis**](/codex/Basic/Exanthis.md)
+- Barbas que a menudo están intrincadamente trenzadas con símbolos de clan y estatus
+- Resistencia natural a los venenos y las enfermedades, como montañas que resisten las tormentas
 
-## Physical and Magical Affinity
+## Afinidad Física y Mágica
 
-**Dwarves** demonstrate exceptional proficiency in physical resilience and craftsmanship, like master artisans who have perfected their craft. Their composition allows them to:
-- Develop extraordinary durability and strength, like living mountains
-- Create and work with materials that other species find impossible to shape
-- Resist magical effects through their high **Exanthis** content, like a stone breaking the surface of a magical pond
+Los **Enanos** demuestran una excepcional competencia en la resistencia física y la artesanía, como maestros artesanos que han perfeccionado su oficio. Su composición les permite:
+- Desarrollar una durabilidad y una fuerza extraordinarias, como montañas vivientes
+- Crear y trabajar con materiales que otras especies consideran imposibles de moldear
+- Resistir los efectos mágicos a través de su alto contenido de **Exanthis**, como una piedra que rompe la superficie de un estanque mágico
 
-This resilience makes **dwarves** capable of achieving feats of endurance that other species can only dream of, though they may struggle with tasks requiring flexibility or magical finesse, like a solid foundation that provides stability but resists change.
+Esta resistencia hace que los **enanos** sean capaces de lograr hazañas de resistencia con las que otras especies sólo pueden soñar, aunque pueden tener dificultades con tareas que requieran flexibilidad o delicadeza mágica, como una base sólida que proporciona estabilidad pero se resiste al cambio.
 
-## Lifespan and Soul Decay
+## Vida Útil y Decaimiento del Alma
 
-The **soul decay** timeline for **dwarves**, from birth to complete decay, is approximately 300 years, like a slow-burning forge that illuminates the ages. This extended lifespan allows them to:
-- Master complex crafts and techniques over generations
-- Develop deep connections to their ancestral lands and traditions
-- Form stable societies with strong cultural continuity
+La línea de tiempo del **decaimiento del alma** para los **enanos**, desde el nacimiento hasta el decaimiento completo, es de aproximadamente 300 años, como una forja de combustión lenta que ilumina las edades. Esta vida útil prolongada les permite:
+- Dominar artes y técnicas complejas a lo largo de generaciones
+- Desarrollar conexiones profundas con sus tierras y tradiciones ancestrales
+- Formar sociedades estables con una fuerte continuidad cultural
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains constant through the ages.
+Sin embargo, su decaimiento del alma más lento también significa que cambian y se adaptan más lentamente que otras especies, como una melodía que permanece constante a través de las edades.
 
-## Habitat and Distribution
+## Hábitat y Distribución
 
-**Dwarves** primarily inhabit:
-- Mountain ranges and underground cities, where they can be closest to the earth
-- Regions rich in [**Exanthis**](/codex/Basic/Exanthis.md), where their natural resistance to magic is strongest
-- Strategic locations that provide natural defenses and valuable resources
+Los **Enanos** habitan principalmente:
+- Cordilleras montañosas y ciudades subterráneas, donde pueden estar más cerca de la tierra
+- Regiones ricas en [**Exanthis**](/codex/Basic/Exanthis.md), donde su resistencia natural a la magia es más fuerte
+- Ubicaciones estratégicas que proporcionan defensas naturales y recursos valiosos
 
-These locations provide ideal environments for craftsmanship and defense, like a well-fortified stage for their performance.
+Estas ubicaciones proporcionan entornos ideales para la artesanía y la defensa, como un escenario bien fortificado para su actuación.
 
-## Cultural Impact
+## Impacto Cultural
 
-In the world of **OpenFantasy**, **dwarves** play a crucial role in preserving traditional crafts and techniques, like archivists of ancient melodies. Their societies are centers of:
-- Master craftsmanship and engineering
-- Traditional wisdom and cultural continuity
-- Military strength and defensive strategy
+En el mundo de **OpenFantasy**, los **enanos** desempeñan un papel crucial en la preservación de las artes y técnicas tradicionales, como archivistas de melodías antiguas. Sus sociedades son centros de:
+- Maestría artesanal e ingeniería
+- Sabiduría tradicional y continuidad cultural
+- Fuerza militar y estrategia defensiva
 
-The connection to the earth and [**Exanthis**](/codex/Basic/Exanthis.md) has shaped dwarven culture around respect for tradition, craftsmanship, and resilience, creating a society where skill and honor are highly valued.
+La conexión con la tierra y [**Exanthis**](/codex/Basic/Exanthis.md) ha moldeado la cultura enana en torno al respeto por la tradición, la artesanía y la resistencia, creando una sociedad donde la habilidad y el honor son muy valorados.
 
-## Relationship with Other Species
+## Relación con Otras Especies
 
-**Dwarves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A pragmatic alliance based on mutual trade and defense
-- With **Elves**: A historical rivalry born from their different approaches to the world
-- With **Beastfolk**: A respectful alliance based on mutual respect for strength and honor
-- With **Giants**: A cautious relationship, as dwarves are among the few who can match giant strength with technology
+Los **Enanos** mantienen complejas relaciones con otras especies:
+- Con [**Humanos**](/codex/Creatures/Human.md): Una alianza pragmática basada en el comercio mutuo y la defensa
+- Con **Elfos**: Una rivalidad histórica nacida de sus diferentes enfoques del mundo
+- Con **Bestias**: Una alianza respetuosa basada en el respeto mutuo por la fuerza y el honor
+- Con **Gigantes**: Una relación cautelosa, ya que los enanos son de los pocos que pueden igualar la fuerza gigante con la tecnología
 
-These relationships are often characterized by a sense of pride in their craftsmanship and resilience, as **dwarves** view themselves as the true children of the earth.
+Estas relaciones a menudo se caracterizan por un sentido de orgullo en su artesanía y resistencia, ya que los **enanos** se ven a sí mismos como los verdaderos hijos de la tierra.
 
-## Notable Dwarven Traits
+## Rasgos Enanos Notables
 
-- **Physical Resilience**: Dwarves excel in durability and strength, often surpassing other species in their ability to endure
-- **Master Craftsmanship**: Dwarves are renowned for their skill in crafting weapons, armor, and other items
-- **Magical Resistance**: Their high **Exanthis** content makes them naturally resistant to many magical effects
-- **Traditional Wisdom**: Dwarves place great emphasis on preserving traditional knowledge and techniques
-- **Clan Structure**: Dwarven society is organized around powerful clans, each with its own traditions and specialties
+- **Resistencia Física**: Los enanos sobresalen en durabilidad y fuerza, a menudo superando a otras especies en su capacidad de resistencia
+- **Maestría Artesanal**: Los enanos son famosos por su habilidad en la elaboración de armas, armaduras y otros artículos
+- **Resistencia Mágica**: Su alto contenido de **Exanthis** los hace naturalmente resistentes a muchos efectos mágicos
+- **Sabiduría Tradicional**: Los enanos ponen gran énfasis en la preservación del conocimiento y las técnicas tradicionales
+- **Estructura de Clan**: La sociedad enana se organiza en torno a poderosos clanes, cada uno con sus propias tradiciones y especialidades
 
-## Dwarven Clans
+## Clanes Enanos
 
-Dwarven society is organized into numerous clans, each with its own specialties and traditions:
+La sociedad enana se organiza en numerosos clanes, cada uno con sus propias especialidades y tradiciones:
 
-| Clan | Specialty | Territory | Notable Traits |
+| Clan | Especialidad | Territorio | Rasgos Notables |
 |---------|---------------|---------|-------------------|
-| **Ironheart** | Metalworking, weapons | Northern Mountains | Fierce warriors, master smiths |
-| **Stonefist** | Architecture, engineering | Central Range | Master builders, tunnel experts |
-| **Goldweaver** | Jewelry, fine crafts | Eastern Peaks | Wealthy traders, artistic masters |
-| **Fireforge** | Magical items, runes | Volcanic Region | Rune masters, fire magic specialists |
-| **Deepdelver** | Mining, gemcutting | Deep Caves | Expert miners, gem specialists |
-| **Stormhammer** | Naval engineering, shipbuilding | Coastal Cliffs | Master shipwrights, naval experts |
+| **Corazón de Hierro** | Metalurgia, armas | Montañas del Norte | Guerreros feroces, maestros herreros |
+| **Puño de Piedra** | Arquitectura, ingeniería | Cordillera Central | Maestros constructores, expertos en túneles |
+| **Tejedor de Oro** | Joyería, artesanías finas | Picos del Este | Comerciantes ricos, maestros artísticos |
+| **Forja de Fuego** | Artículos mágicos, runas | Región Volcánica | Maestros rúnicos, especialistas en magia de fuego |
+| **Buscador Profundo** | Minería, tallado de gemas | Cuevas Profundas | Mineros expertos, especialistas en gemas |
+| **Martillo de Tormenta** | Ingeniería naval, construcción de barcos | Acantilados Costeros | Maestros constructores navales, expertos navales |
 
-Understanding the nature of **dwarves** provides insight into the traditional aspects of the world of **OpenFantasy**, like listening to the deep, steady rhythms that pulse through the mountains and earth. 
+Comprender la naturaleza de los **enanos** proporciona una idea de los aspectos tradicionales del mundo de **OpenFantasy**, como escuchar los ritmos profundos y constantes que pulsan a través de las montañas y la tierra.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

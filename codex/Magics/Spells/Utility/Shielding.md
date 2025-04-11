@@ -1,196 +1,200 @@
-# **Shielding**
+# **Escudo**
 
-> *"The first lesson of magical defense is not to strengthen your walls, but to understand that protection flows from within—like music, a shield is not merely a barrier, but a resonance that redirects the hostile symphony around you."*  
-> — Sentinel Ilyra Swiftshield, Arcane Defense Master
+> *"La primera lección de la defensa mágica no es fortalecer tus muros, sino comprender que la protección fluye desde dentro; como la música, un escudo no es simplemente una barrera, sino una resonancia que redirige la sinfonía hostil a tu alrededor."*
+> — Centinela Ilyra Swiftshield, Maestra en Defensa Arcana
 
-## Casting Information
-- **Difficulty**: Novice to Expert (depending on variant)
-- **Casting Time**: 1 second (basic shield), 2-3 seconds (advanced variants)
-- **Duration**: Concentration, up to 10 minutes (or until broken)
-- **Range**: Self or up to 30 feet (dependent on variant)
-- **Components**: Somatic, Verbal (optional enhancement)
+## Información de Lanzamiento
+- **Dificultad**: Novato a Experto (dependiendo de la variante)
+- **Tiempo de Lanzamiento**: 1 segundo (escudo básico), 2-3 segundos (variantes avanzadas)
+- **Duración**: Concentración, hasta 10 minutos (o hasta que se rompa)
+- **Alcance**: Propio o hasta 30 pies (dependiente de la variante)
+- **Componentes**: Somático, Verbal (mejora opcional)
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 70%, Terramana 20% (stability), Aeromana 10% (flexibility)
-- **Purity Required**: Basic (20-35%) for personal shield, Refined (35-55%) for advanced variants
-- **Minimum Mana Capacity**: 15% (larger/stronger shields require greater capacity)
-- **Pattern Complexity**: Low to High (2-tier for basic shield, up to 5-tier for specialized variants)
-- **Resonance Frequency**: Defensive harmonic in the mid-protective spectrum
+## Detalles Técnicos
+- **Distribución del Tipo de Maná**: Maná Base 70%, Terramaná 20% (estabilidad), Aeromaná 10% (flexibilidad)
+- **Pureza Requerida**: Básica (20-35%) para escudo personal, Refinada (35-55%) para variantes avanzadas
+- **Capacidad Mínima de Maná**: 15% (escudos más grandes/fuertes requieren mayor capacidad)
+- **Complejidad del Patrón**: Baja a Alta (2 niveles para escudo básico, hasta 5 niveles para variantes especializadas)
+- **Frecuencia de Resonancia**: Armónico defensivo en el espectro medio-protector
 
-## Core Principles
+## Principios Fundamentales
 
-Shielding converts mana into a semi-tangible protective field that deflects, absorbs, or nullifies incoming threats. Unlike purely physical barriers, magical shields operate through a resonance principle, creating a counter-frequency to disrupt hostile energies while allowing benign forces to pass through.
+El escudo convierte el maná en un campo protector semi-tangible que desvía, absorbe o anula las amenazas entrantes. A diferencia de las barreras puramente físicas, los escudos mágicos operan a través de un principio de resonancia, creando una contrafrecuencia para interrumpir las energías hostiles mientras permiten que las fuerzas benignas pasen a través.
 
-The foundational pattern establishes:
+El patrón fundacional establece:
 
-1. **Barrier Matrix**: The core protective field structure
-2. **Resonance Layer**: The component that identifies and counters threats
-3. **Stability Framework**: The support structure maintaining shield integrity
-4. **Energy Distribution Network**: The system dispersing impact forces
-5. **Permeability Control**: The optional component allowing selective filtering
+1. **Matriz de Barrera**: La estructura central del campo protector
+2. **Capa de Resonancia**: El componente que identifica y contrarresta las amenazas
+3. **Marco de Estabilidad**: La estructura de soporte que mantiene la integridad del escudo
+4. **Red de Distribución de Energía**: El sistema que dispersa las fuerzas de impacto
+5. **Control de Permeabilidad**: El componente opcional que permite el filtrado selectivo
 
-## Standard Variants
+## Variantes Estándar
 
-### Personal Shield
-The fundamental protective barrier around the caster:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (20-30%)
-- **Effect**: Creates a barrier absorbing physical and magical damage
-- **Typical Users**: All magic practitioners
-- **Applications**: Personal defense, training safety, emergency protection
+### Escudo Personal
+La barrera protectora fundamental alrededor del lanzador:
+- **Dificultad**: Novato
+- **Requisito de Pureza**: Básico (20-30%)
+- **Efecto**: Crea una barrera que absorbe el daño físico y mágico
+- **Usuarios Típicos**: Todos los practicantes de magia
+- **Aplicaciones**: Defensa personal, seguridad en el entrenamiento, protección de emergencia
 
-### Directed Shield
-A flat shield projected away from the caster:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (35-45%)
-- **Effect**: Creates a movable plane of protection to block specific threats
-- **Typical Users**: Battle Mages, Tactical Casters, Support Specialists
-- **Applications**: Protecting allies, blocking passages, deflecting projectiles
+### Escudo Dirigido
+Un escudo plano proyectado lejos del lanzador:
+- **Dificultad**: Intermedio
+- **Requisito de Pureza**: Refinado (35-45%)
+- **Efecto**: Crea un plano de protección móvil para bloquear amenazas específicas
+- **Usuarios Típicos**: Magos de Batalla, Lanzadores Tácticos, Especialistas de Apoyo
+- **Aplicaciones**: Proteger a los aliados, bloquear pasajes, desviar proyectiles
 
-### Bubble Shield
-Expands protection to cover multiple individuals:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (40-50%)
-- **Effect**: Creates dome or sphere protecting several targets
-- **Typical Users**: Group Leaders, Defensive Specialists, Protectors
-- **Applications**: Group protection, safe zones, mobile coverage during retreats
+### Escudo de Burbuja
+Expande la protección para cubrir a varios individuos:
+- **Dificultad**: Intermedio
+- **Requisito de Pureza**: Refinado (40-50%)
+- **Efecto**: Crea una cúpula o esfera que protege varios objetivos
+- **Usuarios Típicos**: Líderes de Grupo, Especialistas Defensivos, Protectores
+- **Aplicaciones**: Protección de grupo, zonas seguras, cobertura móvil durante retiradas
 
-## Advanced Variants
+## Variantes Avanzadas
 
-### Selective Filter Shield
-Allows specific elements or energies to pass through:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (55-65%)
-- **Effect**: Creates barriers permeable to chosen forces
-- **Typical Users**: Elemental Specialists, Advanced Practitioners
-- **Applications**: Allowing allies to attack through shields, environmental protection, selective filtering
+### Escudo de Filtro Selectivo
+Permite que elementos o energías específicas pasen a través:
+- **Dificultad**: Experto
+- **Requisito de Pureza**: Perfecto (55-65%)
+- **Efecto**: Crea barreras permeables a las fuerzas elegidas
+- **Usuarios Típicos**: Especialistas Elementales, Practicantes Avanzados
+- **Aplicaciones**: Permitir que los aliados ataquen a través de los escudos, protección ambiental, filtrado selectivo
 
-### Reactive Shield
-Adapts to incoming threats automatically:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (60-70%)
-- **Effect**: Shield analyzes and adapts to counter specific attacks
-- **Typical Users**: Duelists, Master Defenders, Elite Guards
-- **Applications**: Unknown threat protection, adaptive defense, magical counteraction
+### Escudo Reactivo
+Se adapta automáticamente a las amenazas entrantes:
+- **Dificultad**: Experto
+- **Requisito de Pureza**: Perfecto (60-70%)
+- **Efecto**: El escudo analiza y se adapta para contrarrestar ataques específicos
+- **Usuarios Típicos**: Duelistas, Maestros Defensores, Guardias de Élite
+- **Aplicaciones**: Protección contra amenazas desconocidas, defensa adaptativa, contraataque mágico
 
-### Reflective Shield
-Returns energy to its source:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (65-75%)
-- **Effect**: Redirects a portion of incoming energy back at attacker
-- **Typical Users**: Advanced Battle Mages, Specialist Defenders
-- **Applications**: Counterattack, energy conservation, deterrence
+### Escudo Reflectante
+Devuelve la energía a su fuente:
+- **Dificultad**: Maestro
+- **Requisito de Pureza**: Perfecto (65-75%)
+- **Efecto**: Redirige una porción de la energía entrante de vuelta al atacante
+- **Usuarios Típicos**: Magos de Batalla Avanzados, Defensores Especialistas
+- **Aplicaciones**: Contraataque, conservación de energía, disuasión
 
-## Purity Influence on Effect
+## Influencia de la Pureza en el Efecto
 
-Mana purity directly affects shield strength, duration, and special properties:
+La pureza del maná afecta directamente la fuerza, duración y propiedades especiales del escudo:
 
-| Purity Level | Shield Strength | Absorption Capacity | Special Properties | Duration |
+| Nivel de Pureza | Fuerza del Escudo | Capacidad de Absorción | Propiedades Especiales | Duración |
 |--------------|----------------|---------------------|-------------------|----------|
-| 20-35% | Basic protection, visible shield | 25-40% damage reduction | None | 1-3 minutes |
-| 35-55% | Enhanced durability, less visible | 40-60% damage reduction | Basic filtering, limited mobility | 3-5 minutes |
-| 55-70% | High resilience, nearly invisible | 60-80% damage reduction | Advanced filtering, reactive properties | 5-8 minutes |
-| 70%+ | Superior protection, completely invisible | 80-95% damage reduction | Full reflection capabilities, adaptation | 8-10+ minutes |
+| 20-35% | Protección básica, escudo visible | 25-40% reducción de daño | Ninguna | 1-3 minutos |
+| 35-55% | Durabilidad mejorada, menos visible | 40-60% reducción de daño | Filtrado básico, movilidad limitada | 3-5 minutos |
+| 55-70% | Alta resistencia, casi invisible | 60-80% reducción de daño | Filtrado avanzado, propiedades reactivas | 5-8 minutos |
+| 70%+ | Protección superior, completamente invisible | 80-95% reducción de daño | Capacidades de reflexión completas, adaptación | 8-10+ minutos |
 
-## Class-Specific Applications
+## Aplicaciones Específicas de Clase
 
-### Warrior Class
-- **Combat Shell**: Tight-fitting shield enhancing armor protection
-- **Breach Shield**: Forward-focused protection for charges
-- **Weapon Guard**: Selective shield protecting weapons from damage or tampering
-- **Footing Anchor**: Lower-body shield stabilizing position during combat
+### Clase Guerrero
+- **Carcasa de Combate**: Escudo ajustado que mejora la protección de la armadura
+- **Escudo de Brecha**: Protección enfocada hacia adelante para cargas
+- **Guarda de Arma**: Escudo selectivo que protege las armas de daños o manipulaciones
+- **Ancla de Apoyo**: Escudo de la parte inferior del cuerpo que estabiliza la posición durante el combate
 
-### Rogue/Assassin Class
-- **Shadow Cloak**: Barely visible shield masking magical signature
-- **Impact Dampener**: Shield reducing sound and physical impacts
-- **Trace Obscurer**: Shield dispersing magical residue from activities
-- **Selective Barrier**: Allows weapons out but blocks incoming attacks
+### Clase Pícaro/Asesino
+- **Manto de Sombra**: Escudo apenas visible que enmascara la firma mágica
+- **Amortiguador de Impacto**: Escudo que reduce los sonidos y los impactos físicos
+- **Obscurecedor de Rastros**: Escudo que dispersa los residuos mágicos de las actividades
+- **Barrera Selectiva**: Permite que las armas salgan pero bloquea los ataques entrantes
 
-### Ranger Class
-- **Environmental Buffer**: Shield protecting from terrain hazards
-- **Arrow Screen**: Specialized shield allowing outgoing projectiles while blocking incoming ones
-- **Companion Guard**: Projectable shield to protect animal companions
-- **Sensory Shield**: Protection against sensory overload or manipulation
+### Clase Guardabosques
+- **Búfer Ambiental**: Escudo que protege de los peligros del terreno
+- **Pantalla de Flechas**: Escudo especializado que permite proyectiles salientes mientras bloquea los entrantes
+- **Guarda de Compañero**: Escudo proyectable para proteger a los compañeros animales
+- **Escudo Sensorial**: Protección contra la sobrecarga o la manipulación sensorial
 
-### Mage Class
-- **Concentration Sphere**: Shield blocking distractions during complex casting
-- **Spell Containment**: Barrier keeping volatile magic effects controlled
-- **Mana Conservation Bubble**: Shield recycling leaked mana back to caster
-- **Layered Defense**: Multiple specialized shields for comprehensive protection
+### Clase Mago
+- **Esfera de Concentración**: Escudo que bloquea las distracciones durante el lanzamiento complejo
+- **Contención de Hechizos**: Barrera que mantiene los efectos mágicos volátiles controlados
+- **Burbuja de Conservación de Maná**: Escudo que recicla el maná filtrado de vuelta al lanzador
+- **Defensa en Capas**: Múltiples escudos especializados para una protección integral
 
-## Training Progression
+## Progresión del Entrenamiento
 
-### Fundamental Shielding
-- Energy projection and containment exercises
-- Barrier visualization and manifestation
-- Basic impact absorption techniques
-- Shield maintenance under minor stress
+### Escudo Fundamental
+- Ejercicios de proyección y contención de energía
+- Visualización y manifestación de barreras
+- Técnicas básicas de absorción de impactos
+- Mantenimiento del escudo bajo estrés menor
 
-### Intermediate Applications
-- Moving and repositioning shields while maintaining integrity
-- Extending protection to others
-- Shaping shields for specific tactical situations
-- Efficiency training for reduced mana consumption
+### Aplicaciones Intermedias
+- Mover y reposicionar escudos manteniendo la integridad
+- Extender la protección a otros
+- Dar forma a los escudos para situaciones tácticas específicas
+- Entrenamiento de eficiencia para reducir el consumo de maná
 
-### Advanced Mastery
-- Reactive shield programming
-- Multi-layer shield construction
-- Energy reflection and redirection
-- Integrating shields with other magical effects
+### Dominio Avanzado
+- Programación de escudos reactivos
+- Construcción de escudos multicapa
+- Reflexión y redirección de energía
+- Integración de escudos con otros efectos mágicos
 
-## Risk Factors
+## Factores de Riesgo
 
-### Common Mishaps
-- **Shield Inversion**: Protection directed inward, trapping the caster
-- **Resonance Cascade**: Shield amplifying rather than blocking energy
-- **Pattern Collapse**: Sudden shield failure under stress
-- **Mana Drain Spiral**: Excessive energy consumption depleting caster
-- **Brittleness**: Shield shattering rather than absorbing impact
+### Percances Comunes
+- **Inversión del Escudo**: Protección dirigida hacia adentro, atrapando al lanzador
+- **Cascada de Resonancia**: Escudo que amplifica en lugar de bloquear la energía
+- **Colapso del Patrón**: Falla repentina del escudo bajo estrés
+- **Espiral de Drenaje de Maná**: Consumo excesivo de energía que agota al lanzador
+- **Fragilidad**: Escudo que se rompe en lugar de absorber el impacto
 
-### Safety Practices
-- Regular shield strength testing under controlled conditions
-- Practicing emergency shield dissolution techniques
-- Developing shield layers with independent failure points
-- Training with gradually increasing threat levels
-- Establishing personal shield limitations
+### Prácticas de Seguridad
+- Pruebas regulares de la fuerza del escudo en condiciones controladas
+- Practicar técnicas de disolución de emergencia del escudo
+- Desarrollar capas de escudo con puntos de falla independientes
+- Entrenar con niveles de amenaza gradualmente crecientes
+- Establecer limitaciones personales del escudo
 
-## Shield Variations by Threat Type
+## Variaciones de Escudo por Tipo de Amenaza
 
-### Physical Protection
-Shields specialized against material threats:
-- **Impact Shields**: Absorb kinetic energy from blunt force
-- **Penetration Barriers**: Resist piercing from arrows, blades
-- **Friction Dampeners**: Reduce damage from abrasive forces
-- **Pressure Equalizers**: Protect against crushing or explosive forces
+### Protección Física
+Escudos especializados contra amenazas materiales:
+- **Escudos de Impacto**: Absorben la energía cinética de la fuerza contundente
+- **Barreras de Penetración**: Resisten la perforación de flechas, hojas
+- **Amortiguadores de Fricción**: Reducen el daño de las fuerzas abrasivas
+- **Ecualizadores de Presión**: Protegen contra fuerzas de aplastamiento o explosivas
 
-### Energy Defense
-Shields tailored to magical and elemental threats:
-- **Thermal Barriers**: Insulate against heat and cold
-- **Arcane Dispersal Fields**: Diffuse magical energy attacks
-- **Elemental Filters**: Specialized protection against specific elements
-- **Harmonic Dampeners**: Neutralize sound-based or vibrational attacks
+### Defensa Energética
+Escudos adaptados a amenazas mágicas y elementales:
+- **Barreras Térmicas**: Aíslan contra el calor y el frío
+- **Campos de Dispersión Arcana**: Difuminan los ataques de energía mágica
+- **Filtros Elementales**: Protección especializada contra elementos específicos
+- **Amortiguadores Armónicos**: Neutralizan los ataques basados en sonido o vibración
 
-### Status Protection
-Shields against non-damaging magical effects:
-- **Mind Wards**: Protect against mental intrusion or influence
-- **Curse Barriers**: Repel malicious enchantments
-- **Transmutation Inhibitors**: Prevent unwanted transformative effects
-- **Temporal Stabilizers**: Shield against time manipulation
+### Protección de Estado
+Escudos contra efectos mágicos no dañinos:
+- **Guardias Mentales**: Protegen contra la intrusión o influencia mental
+- **Barreras de Maldición**: Repelen los encantamientos maliciosos
+- **Inhibidores de Transmutación**: Previenen efectos transformativos no deseados
+- **Estabilizadores Temporales**: Escudo contra la manipulación del tiempo
 
-## Historical Development
+## Desarrollo Histórico
 
-Shielding magic represents one of the oldest and most fundamental protective arts, dating back to the Dawn Era when early mages sought defense against both natural and supernatural threats. The Arcane Sentinels of the Second Age formalized the art into distinct disciplines, establishing the foundational patterns still used today.
+La magia de escudo representa una de las artes protectoras más antiguas y fundamentales, que se remonta a la Era del Amanecer cuando los primeros magos buscaban defensa contra amenazas tanto naturales como sobrenaturales. Los Centinelas Arcanos de la Segunda Era formalizaron el arte en disciplinas distintas, estableciendo los patrones fundamentales que todavía se utilizan hoy en día.
 
-The Mage Wars saw explosive development in shielding techniques as practitioners sought ever more effective defenses against increasingly powerful offensive magic. Modern shielding draws heavily from the innovations of Ilyra Swiftshield, whose revolutionary understanding of resonance patterns transformed shields from mere barriers into dynamic, responsive defenses.
+Las Guerras de Magos vieron un desarrollo explosivo en las técnicas de escudo a medida que los practicantes buscaban defensas cada vez más efectivas contra la magia ofensiva cada vez más poderosa. El escudo moderno se basa en gran medida en las innovaciones de Ilyra Swiftshield, cuya comprensión revolucionaria de los patrones de resonancia transformó los escudos de meras barreras en defensas dinámicas y receptivas.
 
-> *"A novice creates a wall. An adept creates a filter. A master creates a conversation between energies—the shield does not fight the incoming force, but rather invites it to flow elsewhere."* — From "Dialogues on Defense," Ilyra Swiftshield's premier text
+> *"Un novato crea un muro. Un adepto crea un filtro. Un maestro crea una conversación entre energías: el escudo no lucha contra la fuerza entrante, sino que la invita a fluir hacia otro lugar."* — De "Diálogos sobre la Defensa", el texto principal de Ilyra Swiftshield
 
-## Practical Notes
+## Notas Prácticas
 
-Shield spells are often among the first defensive magic taught to novices, as even imperfect shields provide valuable protection during training. Many practitioners develop highly personalized shielding techniques, adapting the basic patterns to their specific needs and mana characteristics.
+Los hechizos de escudo son a menudo de las primeras magias defensivas que se enseñan a los novatos, ya que incluso los escudos imperfectos proporcionan una valiosa protección durante el entrenamiento. Muchos practicantes desarrollan técnicas de escudo altamente personalizadas, adaptando los patrones básicos a sus necesidades específicas y características de maná.
 
-The most advanced shield masters can maintain multiple layered defenses simultaneously, each calibrated to different threat types, creating a comprehensive protective system that approaches true invulnerability—though at significant mana cost.
+Los maestros de escudo más avanzados pueden mantener múltiples defensas en capas simultáneamente, cada una calibrada para diferentes tipos de amenazas, creando un sistema de protección integral que se acerca a la verdadera invulnerabilidad, aunque a un costo significativo de maná.
 
 ---
 
-*See also: [Barrier Magic](/codex/Magics/Schools/Abjuration.md), [Defensive Fundamentals](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Combat Countermeasures](/codex/Magics/Spells/Combat/CombatCountermeasures.md)* 
+*Ver también: [Magia de Barrera](/codex/Magics/Schools/Abjuration.md), [Fundamentos Defensivos](/codex/Magics/Spells/Utility/DefensiveFundamentals.md), [Contramedidas de Combate](/codex/Magics/Spells/Combat/CombatCountermeasures.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

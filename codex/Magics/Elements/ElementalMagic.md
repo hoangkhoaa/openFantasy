@@ -1,340 +1,344 @@
-# **Elemental Magic**: The Fundamental Harmonies of Creation
+# **Magia Elemental**: Las Armonías Fundamentales de la Creación
 
-[**Elemental Magic**](/codex/Magics/Elements/ElementalMagic.md) represents the most primal and fundamental expression of magical energies in the world of OpenFantasy. Like the basic notes that form the foundation of all musical compositions, the elemental forces provide the building blocks from which all other magic derives its power and expression.
+[**Magia Elemental**](/codex/Magics/Elements/ElementalMagic.md) representa la expresión más primordial y fundamental de las energías mágicas en el mundo de OpenFantasy. Al igual que las notas básicas que forman la base de todas las composiciones musicales, las fuerzas elementales proporcionan los bloques de construcción a partir de los cuales toda la otra magia deriva su poder y expresión.
 
-## The Elemental Octave
+## La Octava Elemental
 
-The magical world is structured around eight primary elements, each with its own distinctive resonance frequency, properties, and affinities:
+El mundo mágico está estructurado en torno a ocho elementos primarios, cada uno con su propia frecuencia de resonancia, propiedades y afinidades distintivas:
 
-| Element | Resonance | Physical Expression | Opposed Element | Musical Analogy |
+| Elemento | Resonancia | Expresión Física | Elemento Opuesto | Analogía Musical |
 |---------|-----------|---------------------|-----------------|-----------------|
-| **Fire** | High-intensity, rapid vibration | Heat, flame, plasma | Water | Trumpet, high brass |
-| **Water** | Flowing, continuous, adaptive | Liquid, ice, vapor | Fire | Cello, flowing strings |
-| **Earth** | Low-frequency, stable vibration | Stone, crystal, metal | Air | Bass, foundation notes |
-| **Air** | Swift, changeable vibration | Wind, gas, breath | Earth | Flute, woodwinds |
-| **Light** | Harmonic, aligned vibration | Illumination, radiance | Shadow | Major key melodies |
-| **Shadow** | Dissonant, absorptive vibration | Darkness, absence | Light | Minor key melodies |
-| **Life** | Complex, organic patterns | Growth, healing | Death | Harmonic progressions |
-| **Death** | Entropic, decay patterns | Deterioration, transformation | Life | Diminishing chords |
+| **Fuego** | Alta intensidad, vibración rápida | Calor, llama, plasma | Agua | Trompeta, metales altos |
+| **Agua** | Fluido, continuo, adaptable | Líquido, hielo, vapor | Fuego | Violonchelo, cuerdas fluidas |
+| **Tierra** | Baja frecuencia, vibración estable | Piedra, cristal, metal | Aire | Bajo, notas de fundamento |
+| **Aire** | Vibración rápida y cambiante | Viento, gas, aliento | Tierra | Flauta, instrumentos de viento madera |
+| **Luz** | Vibración armónica, alineada | Iluminación, resplandor | Sombra | Melodías en tono mayor |
+| **Sombra** | Vibración disonante, absorbente | Oscuridad, ausencia | Luz | Melodías en tono menor |
+| **Vida** | Patrones complejos, orgánicos | Crecimiento, curación | Muerte | Progresiones armónicas |
+| **Muerte** | Patrones entrópicos, de descomposición | Deterioro, transformación | Vida | Acordes disminuidos |
 
-These eight elements exist in four pairs of opposing forces, creating the fundamental tensions and harmonies that drive the magical ecosystem of the world.
+Estos ocho elementos existen en cuatro pares de fuerzas opuestas, creando las tensiones y armonías fundamentales que impulsan el ecosistema mágico del mundo.
 
-## Wild Mana and Elemental Forces
+## Maná Salvaje y Fuerzas Elementales
 
-At the foundation of all elemental magic lies [**Wild Mana**](/codex/Magics/Core/WildMana.md), the primordial chaos from which the ordered elements emerge. Wild Mana is the raw, unfiltered energy of creation itself, containing within it the potential for all elemental expressions.
+En el fundamento de toda la magia elemental se encuentra el [**Maná Salvaje**](/codex/Magics/Core/WildMana.md), el caos primordial del que emergen los elementos ordenados. El Maná Salvaje es la energía cruda y sin filtrar de la creación misma, que contiene en sí misma el potencial para todas las expresiones elementales.
 
-### The Shaping of Reality
+### La Formación de la Realidad
 
-The unpredictable nature of Wild Mana plays a crucial role in the world's formation and ongoing evolution:
+La naturaleza impredecible del Maná Salvaje juega un papel crucial en la formación del mundo y su evolución continua:
 
-- **Elemental Emergence**: Wild Mana naturally coalesces into elemental patterns based on environmental factors
-- **Spontaneous Manifestation**: Areas with high Wild Mana concentration often display random elemental phenomena
-- **Evolutionary Force**: Wild Mana's chaotic influence drives adaptation and change in magical ecosystems
-- **Creative Potential**: The inherent randomness of Wild Mana ensures infinite variety in elemental expressions
+- **Emergencia Elemental**: El Maná Salvaje se fusiona naturalmente en patrones elementales basados en factores ambientales
+- **Manifestación Espontánea**: Las áreas con alta concentración de Maná Salvaje a menudo muestran fenómenos elementales aleatorios
+- **Fuerza Evolutiva**: La influencia caótica del Maná Salvaje impulsa la adaptación y el cambio en los ecosistemas mágicos
+- **Potencial Creativo**: La aleatoriedad inherente del Maná Salvaje asegura una variedad infinita en las expresiones elementales
 
-### Dangers of Unfiltered Absorption
+### Peligros de la Absorción Sin Filtrar
 
-Spellcasters who work with elemental forces must exercise extreme caution when drawing upon Wild Mana:
+Los lanzadores de hechizos que trabajan con fuerzas elementales deben tener extrema precaución al recurrir al Maná Salvaje:
 
-| Risk Level | Consequence | Recovery |
+| Nivel de Riesgo | Consecuencia | Recuperación |
 |------------|-------------|----------|
-| **Minor** | Elemental instability, spell unpredictability | Hours to days |
-| **Moderate** | Temporary elemental corruption, physical symptoms | Days to weeks |
-| **Severe** | Permanent elemental taint, altered magical signature | Months to years |
-| **Critical** | Elemental possession, complete loss of magical control | Potentially permanent |
+| **Menor** | Inestabilidad elemental, imprevisibilidad del hechizo | Horas a días |
+| **Moderado** | Corrupción elemental temporal, síntomas físicos | Días a semanas |
+| **Grave** | Mancha elemental permanente, firma mágica alterada | Meses a años |
+| **Crítico** | Posesión elemental, pérdida completa del control mágico | Potencialmente permanente |
 
-#### Warning Signs of Wild Mana Contamination:
+#### Señales de Advertencia de Contaminación por Maná Salvaje:
 
-- Unintended elemental manifestations during spellcasting
-- Elemental effects continuing after spell completion
-- Changes in the caster's elemental affinity
-- Physical mutations reflecting elemental exposure
-- Dreams dominated by elemental chaos
+- Manifestaciones elementales no deseadas durante el lanzamiento de hechizos
+- Efectos elementales que continúan después de la finalización del hechizo
+- Cambios en la afinidad elemental del lanzador
+- Mutaciones físicas que reflejan la exposición elemental
+- Sueños dominados por el caos elemental
 
-> *"The careless elementalist who skips purification is like a musician who never tunes their instrument—except the discordant notes may set the theater ablaze or flood the orchestra pit."* — Archmage Elindra Winterhaven
+> *"El elementalista descuidado que se salta la purificación es como un músico que nunca afina su instrumento, excepto que las notas discordantes pueden incendiar el teatro o inundar el foso de la orquesta."* — Archimaga Elindra Winterhaven
 
-## Elemental Composition and Mana
+## Composición Elemental y Maná
 
-Each of the elemental forces manifests as a specific type of mana with unique properties:
+Cada una de las fuerzas elementales se manifiesta como un tipo específico de maná con propiedades únicas:
 
-### Pyromana (Fire)
-- **Appearance**: Vibrant reds, oranges, and yellows; fluid and flickering
-- **Purification Challenge**: Highly volatile, tends to "burn off" impurities but can become wild if overpurified
-- **Resonance Property**: Amplifies intensity and passion; creates heat as a byproduct
-- **Ideal Vessel**: Copper, ruby, volcanic glass
-- **Affinity Species**: Dragonkin, Giants, Fire Elves
+### Piromaná (Fuego)
+- **Apariencia**: Rojos, naranjas y amarillos vibrantes; fluido y parpadeante
+- **Desafío de Purificación**: Altamente volátil, tiende a "quemar" las impurezas, pero puede volverse salvaje si se purifica en exceso
+- **Propiedad de Resonancia**: Amplifica la intensidad y la pasión; crea calor como un subproducto
+- **Recipiente Ideal**: Cobre, rubí, vidrio volcánico
+- **Especies de Afinidad**: Dragonkin, Gigantes, Elfos de Fuego
 
-### Hydromana (Water)
-- **Appearance**: Blues and cyans; flowing and reflective
-- **Purification Challenge**: Absorbs impurities easily, requiring multiple filtration cycles
-- **Resonance Property**: Adapts to container, enhances fluidity and healing
-- **Ideal Vessel**: Silver, sapphire, coral
-- **Affinity Species**: Merfolk, Sirens, Water Elves
+### Hidromaná (Agua)
+- **Apariencia**: Azules y cianes; fluido y reflectante
+- **Desafío de Purificación**: Absorbe las impurezas fácilmente, requiriendo múltiples ciclos de filtración
+- **Propiedad de Resonancia**: Se adapta al contenedor, mejora la fluidez y la curación
+- **Recipiente Ideal**: Plata, zafiro, coral
+- **Especies de Afinidad**: Gente del Mar, Sirenas, Elfos de Agua
 
-### Terramana (Earth)
-- **Appearance**: Greens and browns; crystalline and dense
-- **Purification Challenge**: Slow to purify but maintains purity once achieved
-- **Resonance Property**: Enhances stability and persistence of spells
-- **Ideal Vessel**: Iron, emerald, granite
-- **Affinity Species**: Dwarves, Gnomes, Beastfolk
+### Terramaná (Tierra)
+- **Apariencia**: Verdes y marrones; cristalino y denso
+- **Desafío de Purificación**: Lento para purificar, pero mantiene la pureza una vez alcanzada
+- **Propiedad de Resonancia**: Mejora la estabilidad y persistencia de los hechizos
+- **Recipiente Ideal**: Hierro, esmeralda, granito
+- **Especies de Afinidad**: Enanos, Gnomos, Gente Bestia
 
-### Aeromana (Air)
-- **Appearance**: White and pale blues; wispy and translucent
-- **Purification Challenge**: Difficult to contain during purification, but accepts purification easily
-- **Resonance Property**: Extends range and speed of magical effects
-- **Ideal Vessel**: Brass, diamond, lightweight woods
-- **Affinity Species**: Humans, Elves, Birdfolk
+### Aeromaná (Aire)
+- **Apariencia**: Blancos y azules pálidos; tenue y translúcido
+- **Desafío de Purificación**: Difícil de contener durante la purificación, pero acepta la purificación fácilmente
+- **Propiedad de Resonancia**: Extiende el alcance y la velocidad de los efectos mágicos
+- **Recipiente Ideal**: Latón, diamante, maderas ligeras
+- **Especies de Afinidad**: Humanos, Elfos, Gente Pájaro
 
-### Luxmana (Light)
-- **Appearance**: Gold and white; radiant and brilliant
-- **Purification Challenge**: Already naturally pure but sensitive to emotional impurities
-- **Resonance Property**: Enhances clarity, revelation, and banishing
-- **Ideal Vessel**: Gold, amber, clear crystal
-- **Affinity Species**: Fae, High Elves, Celestials
+### Luxmaná (Luz)
+- **Apariencia**: Oro y blanco; radiante y brillante
+- **Desafío de Purificación**: Ya naturalmente puro pero sensible a las impurezas emocionales
+- **Propiedad de Resonancia**: Mejora la claridad, la revelación y el destierro
+- **Recipiente Ideal**: Oro, ámbar, cristal transparente
+- **Especies de Afinidad**: Fae, Altos Elfos, Celestiales
 
-### Umbramana (Shadow)
-- **Appearance**: Deep purples and blacks; absorptive and dense
-- **Purification Challenge**: Tends to absorb and hide impurities rather than release them
-- **Resonance Property**: Enhances concealment, illusion, and distance manipulation
-- **Ideal Vessel**: Lead, onyx, obsidian
-- **Affinity Species**: Shadowfolk, Dark Elves, Void Touched
+### Umbramaná (Sombra)
+- **Apariencia**: Morados y negros profundos; absorbente y denso
+- **Desafío de Purificación**: Tiende a absorber y ocultar las impurezas en lugar de liberarlas
+- **Propiedad de Resonancia**: Mejora el ocultamiento, la ilusión y la manipulación de la distancia
+- **Recipiente Ideal**: Plomo, ónix, obsidiana
+- **Especies de Afinidad**: Gente Sombra, Elfos Oscuros, Tocados por el Vacío
 
-### Vitaemana (Life)
-- **Appearance**: Vibrant greens and pinks; pulsing and organic
-- **Purification Challenge**: Requires organic components for proper purification
-- **Resonance Property**: Enhances growth, healing, and biological processes
-- **Ideal Vessel**: Living wood, pearl, bone
-- **Affinity Species**: Humans, Beastfolk, Nature Spirits
+### Vitaemaná (Vida)
+- **Apariencia**: Verdes y rosas vibrantes; pulsante y orgánico
+- **Desafío de Purificación**: Requiere componentes orgánicos para una purificación adecuada
+- **Propiedad de Resonancia**: Mejora el crecimiento, la curación y los procesos biológicos
+- **Recipiente Ideal**: Madera viva, perla, hueso
+- **Especies de Afinidad**: Humanos, Gente Bestia, Espíritus de la Naturaleza
 
-### Mortismana (Death)
-- **Appearance**: Grays and pale blues; still and crystalline
-- **Purification Challenge**: Resists conventional purification, requires specialized techniques
-- **Resonance Property**: Enhances entropy, transformation, and preservation
-- **Ideal Vessel**: Ancient bone, black pearl, preserved tissues
-- **Affinity Species**: Dark Elves, Shadowfolk, Deathsingers
+### Mortismana (Muerte)
+- **Apariencia**: Grises y azules pálidos; quieto y cristalino
+- **Desafío de Purificación**: Se resiste a la purificación convencional, requiere técnicas especializadas
+- **Propiedad de Resonancia**: Mejora la entropía, la transformación y la preservación
+- **Recipiente Ideal**: Hueso antiguo, perla negra, tejidos preservados
+- **Especies de Afinidad**: Elfos Oscuros, Gente Sombra, Cantores de la Muerte
 
-## Elemental Attunement
+## Sintonía Elemental
 
-Spellcasters typically develop natural affinities for specific elemental energies based on their elemental composition, species, and personal temperament:
+Los lanzadores de hechizos típicamente desarrollan afinidades naturales por energías elementales específicas basadas en su composición elemental, especie y temperamento personal:
 
-### Attunement Levels
+### Niveles de Sintonía
 
-| Level | Description | Casting Advantage | Disadvantage |
+| Nivel | Descripción | Ventaja al Lanzar | Desventaja |
 |-------|-------------|-------------------|--------------|
-| **Resistant** | Element works against the caster | None; difficult to work with | 2x mana cost, impure results |
-| **Neutral** | No special relationship | Standard casting | No advantages or disadvantages |
-| **Attuned** | Natural affinity for the element | 20% reduced mana cost | None |
-| **Harmonized** | Deep connection with element | 40% reduced mana cost, enhanced effects | Slight resistance to opposite element |
-| **Embodied** | Caster channels element instinctively | 60% reduced mana cost, greatly enhanced effects | Strong resistance to opposite element |
+| **Resistente** | El elemento trabaja en contra del lanzador | Ninguna; difícil de trabajar | Costo de maná 2x, resultados impuros |
+| **Neutral** | Sin relación especial | Lanzamiento estándar | Sin ventajas ni desventajas |
+| **Sintonizado** | Afinidad natural por el elemento | 20% de costo de maná reducido | Ninguna |
+| **Armonizado** | Conexión profunda con el elemento | 40% de costo de maná reducido, efectos mejorados | Ligera resistencia al elemento opuesto |
+| **Incorporado** | El lanzador canaliza el elemento instintivamente | 60% de costo de maná reducido, efectos muy mejorados | Fuerte resistencia al elemento opuesto |
 
-### Developing Attunement
+### Desarrollando la Sintonía
 
-Casters can develop and strengthen their elemental attunements through:
+Los lanzadores pueden desarrollar y fortalecer sus sintonías elementales a través de:
 
-1. **Elemental Meditation**: Regular communion with pure elemental sources
-2. **Affinity Rituals**: Specialized ceremonies to align one's magical signature with an element
-3. **Environmental Immersion**: Extended time spent in elementally-charged locations
-4. **Elemental Binding**: Temporarily binding a fragment of elemental essence to one's soul
-5. **Resonance Training**: Practice manipulating specific elemental frequencies
+1. **Meditación Elemental**: Comunión regular con fuentes elementales puras
+2. **Rituales de Afinidad**: Ceremonias especializadas para alinear la firma mágica de uno con un elemento
+3. **Inmersión Ambiental**: Tiempo prolongado en lugares cargados elementalmente
+4. **Vinculación Elemental**: Vinculación temporal de un fragmento de esencia elemental al alma de uno
+5. **Entrenamiento de Resonancia**: Práctica manipulando frecuencias elementales específicas
 
-Most mages achieve Harmonized status with one element and Attuned status with 1-2 complementary elements at the height of their powers.
+La mayoría de los magos alcanzan el estado Armonizado con un elemento y el estado Sintonizado con 1-2 elementos complementarios en la cima de sus poderes.
 
-## Elemental Interactions
+## Interacciones Elementales
 
-The elements interact in predictable ways that form the foundation of complex spellcasting:
+Los elementos interactúan de maneras predecibles que forman la base de la magia compleja:
 
-### Complementary Elements
-Adjacent elements on the octave strengthen each other when used together:
-- Fire + Light = Radiant flame (purification, revelation)
-- Fire + Earth = Magma (creation, destruction)
-- Water + Death = Ice (preservation, stasis)
-- Water + Air = Mist (illusion, transformation)
-- Earth + Life = Growth (abundance, fertility)
-- Earth + Death = Decay (transmutation, recycling)
-- Air + Light = Radiance (inspiration, clarity)
-- Air + Life = Breath (animation, vitality)
-- Light + Life = Healing (restoration, blessing)
-- Shadow + Death = Void (nullification, banishing)
-- Shadow + Fire = Smoke (obscurement, confusion)
+### Elementos Complementarios
+Los elementos adyacentes en la octava se fortalecen entre sí cuando se usan juntos:
+- Fuego + Luz = Llama Radiante (purificación, revelación)
+- Fuego + Tierra = Magma (creación, destrucción)
+- Agua + Muerte = Hielo (preservación, estasis)
+- Agua + Aire = Niebla (ilusión, transformación)
+- Tierra + Vida = Crecimiento (abundancia, fertilidad)
+- Tierra + Muerte = Descomposición (transmutación, reciclaje)
+- Aire + Luz = Resplandor (inspiración, claridad)
+- Aire + Vida = Aliento (animación, vitalidad)
+- Luz + Vida = Curación (restauración, bendición)
+- Sombra + Muerte = Vacío (anulación, destierro)
+- Sombra + Fuego = Humo (oscurecimiento, confusión)
 
-### Opposing Elements
-Opposing elements create instability when forced together:
-- Fire + Water = Steam (explosive, unpredictable)
-- Earth + Air = Dust (disintegration, scattering)
-- Light + Shadow = Twilight (liminality, transition)
-- Life + Death = Undeath (corruption, unnatural persistence)
+### Elementos Opuestos
+Los elementos opuestos crean inestabilidad cuando se juntan a la fuerza:
+- Fuego + Agua = Vapor (explosivo, impredecible)
+- Tierra + Aire = Polvo (desintegración, dispersión)
+- Luz + Sombra = Crepúsculo (liminalidad, transición)
+- Vida + Muerte = No Muerte (corrupción, persistencia antinatural)
 
-### Elemental Chords
-Three harmonious elements can be combined to create "chord" effects:
-- Fire + Earth + Light = **Forge Chord** (creation, transformation)
-- Water + Air + Light = **Storm Chord** (purification, renewal)
-- Earth + Water + Life = **Growth Chord** (abundance, healing)
-- Shadow + Death + Fire = **Destruction Chord** (annihilation, consumption)
+### Acordes Elementales
+Tres elementos armoniosos se pueden combinar para crear efectos de "acorde":
+- Fuego + Tierra + Luz = **Acorde de Forja** (creación, transformación)
+- Agua + Aire + Luz = **Acorde de Tormenta** (purificación, renovación)
+- Tierra + Agua + Vida = **Acorde de Crecimiento** (abundancia, curación)
+- Sombra + Muerte + Fuego = **Acorde de Destrucción** (aniquilación, consumo)
 
-### Pure Elemental Magic
+### Magia Elemental Pura
 
-The direct manipulation of elemental forces represents the most straightforward application of magic:
+La manipulación directa de las fuerzas elementales representa la aplicación más sencilla de la magia:
 
-#### Evocation
-Calling forth raw elemental energy:
-- **Complexity**: Low to Moderate
-- **Purity Requirement**: Standard
-- **Resonance Type**: Matched to element
-- **Examples**: Fireballs, water shields, stone barriers
+#### Evocación
+Invocar energía elemental cruda:
+- **Complejidad**: Baja a Moderada
+- **Requisito de Pureza**: Estándar
+- **Tipo de Resonancia**: Emparejado con el elemento
+- **Ejemplos**: Bolas de fuego, escudos de agua, barreras de piedra
 
-#### Elemental Shaping
-Controlling and precisely manipulating elemental forces:
-- **Complexity**: Moderate to High
-- **Purity Requirement**: Refined
-- **Resonance Type**: Modulated to create specific forms
-- **Examples**: Fire sculptures, water constructs, animated earth
+#### Moldeado Elemental
+Controlar y manipular con precisión las fuerzas elementales:
+- **Complejidad**: Moderada a Alta
+- **Requisito de Pureza**: Refinado
+- **Tipo de Resonancia**: Modulado para crear formas específicas
+- **Ejemplos**: Esculturas de fuego, constructos de agua, tierra animada
 
-#### Elemental Binding
-Binding elemental energy to objects or beings:
-- **Complexity**: High
-- **Purity Requirement**: Refined to Perfect
-- **Resonance Type**: Sustained harmony between element and target
-- **Examples**: Flaming weapons, water breathing, stone skin
+#### Vinculación Elemental
+Vinculación de energía elemental a objetos o seres:
+- **Complejidad**: Alta
+- **Requisito de Pureza**: Refinado a Perfecto
+- **Tipo de Resonancia**: Armonía sostenida entre el elemento y el objetivo
+- **Ejemplos**: Armas llameantes, respiración acuática, piel de piedra
 
-#### Elemental Embodiment
-Temporarily becoming one with an element:
-- **Complexity**: Very High
-- **Purity Requirement**: Perfect
-- **Resonance Type**: Complete sympathetic vibration
-- **Examples**: Fire form, water transformation, earth merging
+#### Incorporación Elemental
+Convertirse temporalmente en uno con un elemento:
+- **Complejidad**: Muy Alta
+- **Requisito de Pureza**: Perfecto
+- **Tipo de Resonancia**: Vibración simpática completa
+- **Ejemplos**: Forma de fuego, transformación de agua, fusión de tierra
 
-## Applied Elemental Magic
+## Magia Elemental Aplicada
 
-Beyond pure elemental manipulation, the elements form the basis of applied magical disciplines:
+Más allá de la manipulación elemental pura, los elementos forman la base de las disciplinas mágicas aplicadas:
 
-### Elemental Enchantment
+### Encantamiento Elemental
 
-The process of binding elemental properties to items:
+El proceso de vincular propiedades elementales a los objetos:
 
-| Element | Common Enchantments | Ideal Items | Difficulty |
+| Elemento | Encantamientos Comunes | Artículos Ideales | Dificultad |
 |---------|---------------------|-------------|------------|
-| **Fire** | Heat, destruction, passion | Weapons, forges, hearths | Moderate (volatile) |
-| **Water** | Fluidity, healing, adaptation | Healing tools, flexible items | Low (receptive) |
-| **Earth** | Durability, strength, stability | Armor, foundations, shields | Low (stable) |
-| **Air** | Speed, lightness, intelligence | Vehicles, message devices | High (elusive) |
-| **Light** | Illumination, truth, purification | Revealing devices, protective amulets | Moderate (pure) |
-| **Shadow** | Concealment, misdirection, stealth | Cloaks, assassin tools | High (absorptive) |
-| **Life** | Growth, healing, empathy | Medical tools, agricultural implements | Very High (complex) |
-| **Death** | Preservation, decay, transformation | Preservative containers, weapons | Very High (resistant) |
+| **Fuego** | Calor, destrucción, pasión | Armas, forjas, hogares | Moderada (volátil) |
+| **Agua** | Fluidez, curación, adaptación | Herramientas de curación, artículos flexibles | Baja (receptiva) |
+| **Tierra** | Durabilidad, fuerza, estabilidad | Armadura, cimientos, escudos | Baja (estable) |
+| **Aire** | Velocidad, ligereza, inteligencia | Vehículos, dispositivos de mensajería | Alta (elusiva) |
+| **Luz** | Iluminación, verdad, purificación | Dispositivos reveladores, amuletos protectores | Moderada (pura) |
+| **Sombra** | Ocultamiento, desorientación, sigilo | Capas, herramientas de asesino | Alta (absorbente) |
+| **Vida** | Crecimiento, curación, empatía | Herramientas médicas, implementos agrícolas | Muy Alta (compleja) |
+| **Muerte** | Preservación, descomposición, transformación | Contenedores preservativos, armas | Muy Alta (resistente) |
 
-### Elemental Alchemy
+### Alquimia Elemental
 
-The transformation of substances through elemental principles:
+La transformación de sustancias a través de principios elementales:
 
-- **Calcination** (Fire): Breaking down materials to their essential components
-- **Dissolution** (Water): Dissolving and extracting properties
-- **Coagulation** (Earth): Solidifying and stabilizing properties
-- **Sublimation** (Air): Refining and purifying through elevation
-- **Illumination** (Light): Revealing hidden properties
-- **Separation** (Shadow): Dividing and isolating specific qualities
-- **Fermentation** (Life): Developing and enhancing living properties
-- **Mortification** (Death): Preserving and transforming through controlled decay
+- **Calcinación** (Fuego): Descomponer materiales en sus componentes esenciales
+- **Disolución** (Agua): Disolver y extraer propiedades
+- **Coagulación** (Tierra): Solidificar y estabilizar propiedades
+- **Sublimación** (Aire): Refinar y purificar a través de la elevación
+- **Iluminación** (Luz): Revelar propiedades ocultas
+- **Separación** (Sombra): Dividir y aislar cualidades específicas
+- **Fermentación** (Vida): Desarrollar y mejorar propiedades vivas
+- **Mortificación** (Muerte): Preservar y transformar a través de la descomposición controlada
 
-### Elemental Divination
+### Adivinación Elemental
 
-Reading patterns in elemental manifestations:
+Leer patrones en manifestaciones elementales:
 
-- **Pyromancy** (Fire): Reading flames and smoke
-- **Hydromancy** (Water): Interpreting water patterns and reflections
-- **Geomancy** (Earth): Analyzing earth formations and crystals
-- **Aeromancy** (Air): Interpreting wind patterns and cloud formations
-- **Photomancy** (Light): Reading patterns of light and shadow
-- **Sciomancy** (Shadow): Interpreting shadows and darkness
-- **Biomancy** (Life): Reading patterns in living growth
-- **Necromancy** (Death): Divining through remains and decay
+- **Piromancia** (Fuego): Leer llamas y humo
+- **Hidromancia** (Agua): Interpretar patrones de agua y reflejos
+- **Geomancia** (Tierra): Analizar formaciones terrestres y cristales
+- **Aeromancia** (Aire): Interpretar patrones de viento y formaciones de nubes
+- **Fotomancia** (Luz): Leer patrones de luz y sombra
+- **Sciomancia** (Sombra): Interpretar sombras y oscuridad
+- **Biomancia** (Vida): Leer patrones en el crecimiento vivo
+- **Necromancia** (Muerte): Adivinar a través de restos y descomposición
 
-## Elemental Matrix
+## Matriz Elemental
 
-Advanced spellcasters understand that the eight elements form an interconnected matrix that can be mapped and manipulated:
+Los lanzadores de hechizos avanzados comprenden que los ocho elementos forman una matriz interconectada que se puede mapear y manipular:
 
-### The Elemental Wheel
-The elements exist in a circular arrangement where adjacent elements are complementary and opposite elements are antagonistic.
+### La Rueda Elemental
+Los elementos existen en una disposición circular donde los elementos adyacentes son complementarios y los elementos opuestos son antagónicos.
 
-### The Elemental Lattice
-A three-dimensional model showing how elements interconnect across multiple dimensions of resonance.
+### La Red Elemental
+Un modelo tridimensional que muestra cómo los elementos se interconectan a través de múltiples dimensiones de resonancia.
 
-### Elemental Nodes
-Points where pure elemental energy concentrates in the physical world:
-- Volcanic cores (Fire)
-- Deep ocean trenches (Water)
-- Mountain hearts (Earth)
-- High atmosphere vortices (Air)
-- Solar convergence points (Light)
-- Abyssal depths (Shadow)
-- Ancient forests (Life)
-- Necrotic wastes (Death)
+### Nodos Elementales
+Puntos donde la energía elemental pura se concentra en el mundo físico:
+- Núcleos volcánicos (Fuego)
+- Fosas oceánicas profundas (Agua)
+- Corazones de montaña (Tierra)
+- Vórtices de la atmósfera alta (Aire)
+- Puntos de convergencia solar (Luz)
+- Profundidades abisales (Sombra)
+- Bosques antiguos (Vida)
+- Desperdicios necróticos (Muerte)
 
-### Ley Lines
-Natural channels of elemental energy that flow through the world:
-- **Primary Lines**: Carry single-element energy
-- **Harmonic Lines**: Carry complementary elemental energies
-- **Discordant Lines**: Carry opposing elemental energies (rare and unstable)
+### Líneas Ley
+Canales naturales de energía elemental que fluyen a través del mundo:
+- **Líneas Primarias**: Transportan energía de un solo elemento
+- **Líneas Armónicas**: Transportan energías elementales complementarias
+- **Líneas Discordantes**: Transportan energías elementales opuestas (raras e inestables)
 
-## Elemental Specialization
+## Especialización Elemental
 
-Most mages specialize in one or two elements that align with their natural affinities:
+La mayoría de los magos se especializan en uno o dos elementos que se alinean con sus afinidades naturales:
 
-### Elementalists
-Mages who focus exclusively on mastering one element:
-- **Pyromancers** (Fire): Destructive power, passion enhancement
-- **Hydromancers** (Water): Healing, divination, adaptation
-- **Geomancers** (Earth): Protection, stability, strength
-- **Aeromancers** (Air): Movement, communication, weather
-- **Photomancers** (Light): Revelation, purification, guidance
-- **Umbramancers** (Shadow): Concealment, illusion, transportation
-- **Biomancers** (Life): Growth, healing, enhancement
-- **Mortimancers** (Death): Preservation, transformation, entropy
+### Elementalistas
+Magos que se centran exclusivamente en dominar un elemento:
+- **Piromantes** (Fuego): Poder destructivo, mejora de la pasión
+- **Hidromantes** (Agua): Curación, adivinación, adaptación
+- **Geomantes** (Tierra): Protección, estabilidad, fuerza
+- **Aeromantes** (Aire): Movimiento, comunicación, clima
+- **Fotomantes** (Luz): Revelación, purificación, guía
+- **Umbramantes** (Sombra): Ocultamiento, ilusión, transporte
+- **Biomantes** (Vida): Crecimiento, curación, mejora
+- **Mortimantes** (Muerte): Preservación, transformación, entropía
 
-### Multi-Elementalists
-Mages who work with multiple complementary elements:
-- **Storm Mages** (Air + Water): Weather manipulation, emotion influence
-- **Forge Mages** (Fire + Earth): Creation, crafting, transformation
-- **Nature Mages** (Earth + Life): Growth, animal communication
-- **Twilight Mages** (Light + Shadow): Duality, transitions, balance
+### Multi-Elementalistas
+Magos que trabajan con múltiples elementos complementarios:
+- **Magos de la Tormenta** (Aire + Agua): Manipulación del clima, influencia emocional
+- **Magos de la Forja** (Fuego + Tierra): Creación, artesanía, transformación
+- **Magos de la Naturaleza** (Tierra + Vida): Crecimiento, comunicación animal
+- **Magos del Crepúsculo** (Luz + Sombra): Dualidad, transiciones, equilibrio
 
-## Fundamental Elemental Techniques
+## Técnicas Elementales Fundamentales
 
-All elemental practitioners learn several foundational techniques:
+Todos los practicantes elementales aprenden varias técnicas fundamentales:
 
-### Elemental Sensing
-The ability to detect the presence and purity of elemental energies:
-- **Complexity**: Low
-- **Purity Requirement**: Standard
-- **Training Period**: 1-3 months
+### Sensación Elemental
+La capacidad de detectar la presencia y pureza de las energías elementales:
+- **Complejidad**: Baja
+- **Requisito de Pureza**: Estándar
+- **Período de Entrenamiento**: 1-3 meses
 
-### Elemental Calling
-Drawing elemental energy from the environment:
-- **Complexity**: Low to Moderate
-- **Purity Requirement**: Standard
-- **Training Period**: 3-6 months
+### Llamada Elemental
+Extraer energía elemental del entorno:
+- **Complejidad**: Baja a Moderada
+- **Requisito de Pureza**: Estándar
+- **Período de Entrenamiento**: 3-6 meses
 
-### Elemental Shaping
-Basic manipulation of elemental forms:
-- **Complexity**: Moderate
-- **Purity Requirement**: Standard to Refined
-- **Training Period**: 6-12 months
+### Moldeado Elemental
+Manipulación básica de formas elementales:
+- **Complejidad**: Moderada
+- **Requisito de Pureza**: Estándar a Refinado
+- **Período de Entrenamiento**: 6-12 meses
 
-### Elemental Binding
-Temporarily bonding elemental energy to objects:
-- **Complexity**: Moderate to High
-- **Purity Requirement**: Refined
-- **Training Period**: 1-2 years
+### Vinculación Elemental
+Unir temporalmente la energía elemental a los objetos:
+- **Complejidad**: Moderada a Alta
+- **Requisito de Pureza**: Refinado
+- **Período de Entrenamiento**: 1-2 años
 
-### Elemental Harmonization
-Achieving resonance with an element to enhance one's connection:
-- **Complexity**: High
-- **Purity Requirement**: Refined to Perfect
-- **Training Period**: 5-10 years
+### Armonización Elemental
+Lograr la resonancia con un elemento para mejorar la conexión de uno:
+- **Complejidad**: Alta
+- **Requisito de Pureza**: Refinado a Perfecto
+- **Período de Entrenamiento**: 5-10 años
 
-### Elemental Embodiment
-Temporarily becoming one with an element:
-- **Complexity**: Very High
-- **Purity Requirement**: Perfect
-- **Training Period**: 10+ years
+### Incorporación Elemental
+Convertirse temporalmente en uno con un elemento:
+- **Complejidad**: Muy Alta
+- **Requisito de Pureza**: Perfecto
+- **Período de Entrenamiento**: Más de 10 años
 
-Understanding **Elemental Magic** provides insight into the fundamental building blocks of all magical practices in the world of **OpenFantasy**, like mastering the basic notes that form the foundation of all music. By combining these elemental forces in different patterns and proportions, the seemingly infinite variety of magical effects becomes possible, each one a unique composition in the grand symphony of magical creation. 
+Comprender la **Magia Elemental** proporciona una visión de los bloques de construcción fundamentales de todas las prácticas mágicas en el mundo de **OpenFantasy**, como dominar las notas básicas que forman la base de toda la música. Al combinar estas fuerzas elementales en diferentes patrones y proporciones, la variedad aparentemente infinita de efectos mágicos se hace posible, cada uno una composición única en la gran sinfonía de la creación mágica.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

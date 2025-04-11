@@ -1,214 +1,218 @@
-# OpenFantasy Character Classes
+# Clases de Personaje en OpenFantasy
 
-> *"In the world of OpenFantasy, classes represent the various paths of power and specialization that individuals can pursue."*
+> *"En el mundo de OpenFantasy, las clases representan los diversos caminos de poder y especialización que los individuos pueden seguir."*
 
-## Quick Reference
+## Referencia Rápida
 
-- [Class Structure](#class-structure)
-- [Main Classes](#main-classes)
-- [Class Progression](#class-progression)
-- [Multiclassing](#multiclassing)
-- [Class-Species Interactions](#class-species-interactions)
+- [Estructura de Clase](#estructura-de-clase)
+- [Clases Principales](#clases-principales)
+- [Progresión de Clase](#progresion-de-clase)
+- [Multiclase](#multiclase)
+- [Interacciones Clase-Especie](#interacciones-clase-especie)
 
-## Overview
+## Resumen
 
-Each class in OpenFantasy represents a unique harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**, creating a symphony of abilities that defines their role in the world.
+Cada clase en OpenFantasy representa una armonía única de [**Exanthis**](/codex/Basic/Exanthis.md), [**Almas**](/codex/Basic/Soul.md), y **Capacidad de Maná**, creando una sinfonía de habilidades que define su rol en el mundo.
 
-## Class Structure
+## Estructura de Clase
 
-Classes are organized into main categories, each with numerous subclasses or career paths that branch out from the core class. These subclasses represent specialized applications of the class's fundamental abilities, like variations on a musical theme.
+Las clases están organizadas en categorías principales, cada una con numerosas subclases o caminos de carrera que se ramifican de la clase central. Estas subclases representan aplicaciones especializadas de las habilidades fundamentales de la clase, como variaciones sobre un tema musical.
 
-## Main Classes
+## Clases Principales
 
-### [**Warrior**](/codex/Classes/Warrior/Warrior.md)
+### [**Guerrero**](/codex/Classes/Warrior/Warrior.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Physical combat and martial prowess |
-| **Primary Element** | [**Exanthis**](/codex/Basic/Exanthis.md) |
-| **Metaphor** | A powerful drum that drives the rhythm of battle |
+| **Enfoque** | Combate físico y destreza marcial |
+| **Elemento Primario** | [**Exanthis**](/codex/Basic/Exanthis.md) |
+| **Metáfora** | Un poderoso tambor que impulsa el ritmo de la batalla |
 
-**Subclasses:**
-- [**Guardian**](/codex/Classes/Warrior/Guardian.md) - Defensive specialists who excel at protecting others
-- [**Berserker**](/codex/Classes/Warrior/Berserker.md) - Offensive specialists who enter a battle rage
-- [**Duelist**](/codex/Classes/Warrior/Duelist.md) - Precision fighters who excel in one-on-one combat
-- [**Commander**](/codex/Classes/Warrior/Commander.md) - Tactical leaders who coordinate group efforts
-- [**Weaponmaster**](/codex/Classes/Warrior/Weaponmaster.md) - Masters of multiple weapons and combat styles
+**Subclases:**
+- [**Guardián**](/codex/Classes/Warrior/Guardian.md) - Especialistas defensivos que sobresalen en proteger a otros
+- [**Berserker**](/codex/Classes/Warrior/Berserker.md) - Especialistas ofensivos que entran en un furor de batalla
+- [**Duelista**](/codex/Classes/Warrior/Duelist.md) - Luchadores de precisión que sobresalen en el combate uno contra uno
+- [**Comandante**](/codex/Classes/Warrior/Commander.md) - Líderes tácticos que coordinan los esfuerzos grupales
+- [**Maestro de Armas**](/codex/Classes/Warrior/Weaponmaster.md) - Maestros de múltiples armas y estilos de combate
 
-### [**Mage**](/codex/Classes/Mage/Mage.md)
+### [**Mago**](/codex/Classes/Mage/Mage.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Magical abilities and spellcasting |
-| **Primary Element** | **Mana Capacity** |
-| **Metaphor** | A conductor orchestrating the elements |
+| **Enfoque** | Habilidades mágicas y lanzamiento de hechizos |
+| **Elemento Primario** | **Capacidad de Maná** |
+| **Metáfora** | Un director que orquesta los elementos |
 
-**Subclasses:**
-- [**Elementalist**](/codex/Classes/Mage/Elementalist.md) - Masters of elemental magic (fire, water, earth, air)
-- [**Necromancer**](/codex/Classes/Mage/Necromancer.md) - Practitioners of death and soul magic
-- [**Illusionist**](/codex/Classes/Mage/Illusionist.md) - Creators of deceptive magical effects
-- [**Diviner**](/codex/Classes/Mage/Diviner.md) - Seekers of knowledge through magical means
-- [**Warlock**](/codex/Classes/Mage/Warlock.md) - Dealers with otherworldly entities for power
+**Subclases:**
+- [**Elementalista**](/codex/Classes/Mage/Elementalist.md) - Maestros de la magia elemental (fuego, agua, tierra, aire)
+- [**Nigromante**](/codex/Classes/Mage/Necromancer.md) - Practicantes de la magia de la muerte y el alma
+- [**Ilusionista**](/codex/Classes/Mage/Illusionist.md) - Creadores de efectos mágicos engañosos
+- [**Adivino**](/codex/Classes/Mage/Diviner.md) - Buscadores de conocimiento a través de medios mágicos
+- [**Brujo**](/codex/Classes/Mage/Warlock.md) - Negociadores con entidades de otro mundo por poder
 
-### [**Rogue**](/codex/Classes/Rogue/Rogue.md)
+### [**Pícaro**](/codex/Classes/Rogue/Rogue.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Stealth, precision, and cunning |
-| **Primary Element** | [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A subtle flute that moves unseen |
+| **Enfoque** | Sigilo, precisión y astucia |
+| **Elemento Primario** | [**Alma**](/codex/Basic/Soul.md) |
+| **Metáfora** | Una flauta sutil que se mueve sin ser vista |
 
-**Subclasses:**
-- [**Assassin**](/codex/Classes/Rogue/Assassin.md) - Silent killers who eliminate targets without detection
-- [**Scout**](/codex/Classes/Rogue/Scout.md) - Explorers who excel at gathering information
-- [**Trickster**](/codex/Classes/Rogue/Trickster.md) - Deceivers who use misdirection and illusion
-- [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md) - Stealth fighters who blend combat with subterfuge
-- [**Spy**](/codex/Classes/Rogue/Spy.md) - Infiltrators who gather intelligence from within enemy ranks
+**Subclases:**
+- [**Asesino**](/codex/Classes/Rogue/Assassin.md) - Asesinos silenciosos que eliminan objetivos sin ser detectados
+- [**Explorador**](/codex/Classes/Rogue/Scout.md) - Exploradores que sobresalen en la recopilación de información
+- [**Embaucador**](/codex/Classes/Rogue/Trickster.md) - Engañadores que usan la tergiversación y la ilusión
+- [**Hoja de Sombra**](/codex/Classes/Rogue/Shadowblade.md) - Luchadores sigilosos que combinan el combate con el subterfugio
+- [**Espía**](/codex/Classes/Rogue/Spy.md) - Infiltrados que recopilan inteligencia desde dentro de las filas enemigas
 
-### [**Cleric**](/codex/Classes/Cleric/Cleric.md)
+### [**Clérigo**](/codex/Classes/Cleric/Cleric.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Divine magic and healing |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A choir that bridges the mortal and divine |
+| **Enfoque** | Magia divina y curación |
+| **Elementos Primarios** | [**Alma**](/codex/Basic/Soul.md) y **Capacidad de Maná** |
+| **Metáfora** | Un coro que une lo mortal y lo divino |
 
-**Subclasses:**
-- [**Healer**](/codex/Classes/Cleric/Healer.md) - Specialists in restorative magic and healing
-- [**Paladin**](/codex/Classes/Cleric/Paladin.md) - Holy warriors who combine divine magic with combat
-- [**Oracle**](/codex/Classes/Cleric/Oracle.md) - Receivers of divine visions and prophecies
-- [**Inquisitor**](/codex/Classes/Cleric/Inquisitor.md) - Hunters of heretics and supernatural threats
-- [**Shaman**](/codex/Classes/Cleric/Shaman.md) - Communicators with nature spirits and ancestors
+**Subclases:**
+- [**Sanador**](/codex/Classes/Cleric/Healer.md) - Especialistas en magia restaurativa y curación
+- [**Paladín**](/codex/Classes/Cleric/Paladin.md) - Guerreros sagrados que combinan la magia divina con el combate
+- [**Oráculo**](/codex/Classes/Cleric/Oracle.md) - Receptores de visiones y profecías divinas
+- [**Inquisidor**](/codex/Classes/Cleric/Inquisitor.md) - Cazadores de herejes y amenazas sobrenaturales
+- [**Chamán**](/codex/Classes/Cleric/Shaman.md) - Comunicadores con espíritus de la naturaleza y ancestros
 
-### [**Ranger**](/codex/Classes/Ranger/Ranger.md)
+### [**Guardabosques**](/codex/Classes/Ranger/Ranger.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Wilderness survival and combat |
-| **Primary Elements** | [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A woodwind that echoes the sounds of the forest |
+| **Enfoque** | Supervivencia y combate en la naturaleza |
+| **Elementos Primarios** | [**Exanthis**](/codex/Basic/Exanthis.md) y [**Alma**](/codex/Basic/Soul.md) |
+| **Metáfora** | Un instrumento de viento madera que hace eco de los sonidos del bosque |
 
-**Subclasses:**
-- [**Beastmaster**](/codex/Classes/Ranger/Beastmaster.md) - Companions of animals who fight alongside them
-- [**Hunter**](/codex/Classes/Ranger/Hunter.md) - Trackers who excel at finding and eliminating targets
-- [**Warden**](/codex/Classes/Ranger/Warden.md) - Protectors of natural places and their inhabitants
-- [**Scout**](/codex/Classes/Ranger/Scout.md) - Explorers who excel at navigating unknown territories
-- [**Survivalist**](/codex/Classes/Ranger/Survivalist.md) - Masters of wilderness survival and resourcefulness
+**Subclases:**
+- [**Amo de las Bestias**](/codex/Classes/Ranger/Beastmaster.md) - Compañeros de animales que luchan a su lado
+- [**Cazador**](/codex/Classes/Ranger/Hunter.md) - Rastreadores que sobresalen en encontrar y eliminar objetivos
+- [**Guardián**](/codex/Classes/Ranger/Warden.md) - Protectores de lugares naturales y sus habitantes
+- [**Explorador**](/codex/Classes/Ranger/Scout.md) - Exploradores que sobresalen en la navegación por territorios desconocidos
+- [**Superviviente**](/codex/Classes/Ranger/Survivalist.md) - Maestros de la supervivencia en la naturaleza y el ingenio
 
-### [**Artificer**](/codex/Classes/Artificer/Artificer.md)
+### [**Artífice**](/codex/Classes/Artificer/Artificer.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Creating magical items and devices |
-| **Primary Element** | **Mana Capacity** |
-| **Metaphor** | A craftsman who creates instruments of power |
+| **Enfoque** | Creación de objetos y dispositivos mágicos |
+| **Elemento Primario** | **Capacidad de Maná** |
+| **Metáfora** | Un artesano que crea instrumentos de poder |
 
-**Subclasses:**
-- [**Enchanter**](/codex/Classes/Artificer/Enchanter.md) - Creators of magical enhancements for items
-- [**Alchemist**](/codex/Classes/Artificer/Alchemist.md) - Brewers of potions and magical substances
-- [**Engineer**](/codex/Classes/Artificer/Engineer.md) - Builders of mechanical devices with magical components
-- [**Runemaster**](/codex/Classes/Artificer/Runemaster.md) - Crafters of magical symbols and inscriptions
-- [**Tinkerer**](/codex/Classes/Artificer/Tinkerer.md) - Inventors of small magical gadgets and tools
+**Subclases:**
+- [**Encantador**](/codex/Classes/Artificer/Enchanter.md) - Creadores de mejoras mágicas para objetos
+- [**Alquimista**](/codex/Classes/Artificer/Alchemist.md) - Elaboradores de pociones y sustancias mágicas
+- [**Ingeniero**](/codex/Classes/Artificer/Engineer.md) - Constructores de dispositivos mecánicos con componentes mágicos
+- [**Maestro de Runas**](/codex/Classes/Artificer/Runemaster.md) - Creadores de símbolos e inscripciones mágicas
+- [**Manitas**](/codex/Classes/Artificer/Tinkerer.md) - Inventores de pequeños aparatos y herramientas mágicas
 
-### [**Bard**](/codex/Classes/Bard/Bard.md)
+### [**Bardo**](/codex/Classes/Bard/Bard.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Performance and inspiration |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | Musicians who weave magic through their performances |
+| **Enfoque** | Interpretación e inspiración |
+| **Elementos Primarios** | [**Alma**](/codex/Basic/Soul.md) y **Capacidad de Maná** |
+| **Metáfora** | Músicos que tejen magia a través de sus actuaciones |
 
-**Subclasses:**
-- [**College of Eloquence**](/codex/Classes/Bard/Colleges/Eloquence.md) - Masters of verbal persuasion and perfect oratory
-- [**College of Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) - Performers who channel fey enchantment magic
-- [**College of Lore**](/codex/Classes/Bard/Colleges/Lore.md) - Collectors of knowledge and secrets
-- [**College of Spirits**](/codex/Classes/Bard/Colleges/Spirits.md) - Storytellers who channel supernatural entities
-- [**College of Swords**](/codex/Classes/Bard/Colleges/Swords.md) - Blade dancers who combine combat with performance
-- [**College of Valor**](/codex/Classes/Bard/Colleges/Valor.md) - Battle performers who inspire courage and heroism
-- [**College of Whispers**](/codex/Classes/Bard/Colleges/Whispers.md) - Manipulators of fear and secrets
-- [**College of Creation**](/codex/Classes/Bard/Colleges/Creation.md) - Artists who create physical objects through performance
+**Subclases:**
+- [**Colegio de Elocuencia**](/codex/Classes/Bard/Colleges/Eloquence.md) - Maestros de la persuasión verbal y la oratoria perfecta
+- [**Colegio del Glamour**](/codex/Classes/Bard/Colleges/Glamour.md) - Artistas que canalizan la magia de encantamiento fey
+- [**Colegio del Saber**](/codex/Classes/Bard/Colleges/Lore.md) - Coleccionistas de conocimiento y secretos
+- [**Colegio de los Espíritus**](/codex/Classes/Bard/Colleges/Spirits.md) - Narradores que canalizan entidades sobrenaturales
+- [**Colegio de las Espadas**](/codex/Classes/Bard/Colleges/Swords.md) - Bailarines de espada que combinan el combate con la interpretación
+- [**Colegio del Valor**](/codex/Classes/Bard/Colleges/Valor.md) - Intérpretes de batalla que inspiran coraje y heroísmo
+- [**Colegio de los Susurros**](/codex/Classes/Bard/Colleges/Whispers.md) - Manipuladores del miedo y los secretos
+- [**Colegio de la Creación**](/codex/Classes/Bard/Colleges/Creation.md) - Artistas que crean objetos físicos a través de la interpretación
 
-### [**Druid**](/codex/Classes/Druid/Druid.md)
+### [**Druida**](/codex/Classes/Druid/Druid.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Nature magic and shapeshifting |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A chameleon that adapts to its surroundings |
+| **Enfoque** | Magia de la naturaleza y cambio de forma |
+| **Elementos Primarios** | [**Alma**](/codex/Basic/Soul.md) y **Capacidad de Maná** |
+| **Metáfora** | Un camaleón que se adapta a su entorno |
 
-**Subclasses:**
-- [**Circle of the Land**](/codex/Classes/Druid/Land.md) - Guardians of natural territories
-- [**Circle of the Moon**](/codex/Classes/Druid/Moon.md) - Masters of wild shapeshifting
-- [**Circle of Dreams**](/codex/Classes/Druid/Dreams.md) - Connectors to the fey realms of nature
-- [**Circle of the Shepherd**](/codex/Classes/Druid/Shepherd.md) - Protectors of animals and summoners of nature spirits
-- [**Circle of Spores**](/codex/Classes/Druid/Spores.md) - Controllers of the cycle of life and death
+**Subclases:**
+- [**Círculo de la Tierra**](/codex/Classes/Druid/Land.md) - Guardianes de territorios naturales
+- [**Círculo de la Luna**](/codex/Classes/Druid/Moon.md) - Maestros del cambio de forma salvaje
+- [**Círculo de los Sueños**](/codex/Classes/Druid/Dreams.md) - Conectores a los reinos fey de la naturaleza
+- [**Círculo del Pastor**](/codex/Classes/Druid/Shepherd.md) - Protectores de animales e invocadores de espíritus de la naturaleza
+- [**Círculo de las Esporas**](/codex/Classes/Druid/Spores.md) - Controladores del ciclo de la vida y la muerte
 
-### [**Monk**](/codex/Classes/Monk/Monk.md)
+### [**Monje**](/codex/Classes/Monk/Monk.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Inner strength and discipline |
-| **Primary Elements** | [**Exanthis**](/codex/Basic/Exanthis.md) and [**Soul**](/codex/Basic/Soul.md) |
-| **Metaphor** | A martial artist who has mastered the flow of energy |
+| **Enfoque** | Fuerza interior y disciplina |
+| **Elementos Primarios** | [**Exanthis**](/codex/Basic/Exanthis.md) y [**Alma**](/codex/Basic/Soul.md) |
+| **Metáfora** | Un artista marcial que ha dominado el flujo de energía |
 
-**Subclasses:**
-- [**Way of the Open Hand**](/codex/Classes/Monk/OpenHand.md) - Masters of unarmed combat techniques
-- [**Way of Shadow**](/codex/Classes/Monk/Shadow.md) - Stealthy warriors who manipulate darkness
-- [**Way of the Four Elements**](/codex/Classes/Monk/FourElements.md) - Controllers of elemental energy
-- [**Way of the Kensei**](/codex/Classes/Monk/Kensei.md) - Weapon masters who extend their spirit into their armaments
-- [**Way of Tranquility**](/codex/Classes/Monk/Tranquility.md) - Peaceful mediators who heal and protect
+**Subclases:**
+- [**Sendero de la Mano Abierta**](/codex/Classes/Monk/OpenHand.md) - Maestros de las técnicas de combate sin armas
+- [**Sendero de la Sombra**](/codex/Classes/Monk/Shadow.md) - Guerreros sigilosos que manipulan la oscuridad
+- [**Sendero de los Cuatro Elementos**](/codex/Classes/Monk/FourElements.md) - Controladores de la energía elemental
+- [**Sendero del Kensei**](/codex/Classes/Monk/Kensei.md) - Maestros de armas que extienden su espíritu a sus armamentos
+- [**Sendero de la Tranquilidad**](/codex/Classes/Monk/Tranquility.md) - Mediadores pacíficos que sanan y protegen
 
-### [**Warlock**](/codex/Classes/Warlock/Warlock.md)
+### [**Brujo**](/codex/Classes/Warlock/Warlock.md)
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Focus** | Pacts with supernatural entities |
-| **Primary Elements** | [**Soul**](/codex/Basic/Soul.md) and **Mana Capacity** |
-| **Metaphor** | A musician who has sold their soul for talent |
+| **Enfoque** | Pactos con entidades sobrenaturales |
+| **Elementos Primarios** | [**Alma**](/codex/Basic/Soul.md) y **Capacidad de Maná** |
+| **Metáfora** | Un músico que ha vendido su alma por talento |
 
-**Subclasses:**
-- [**The Fiend**](/codex/Classes/Warlock/Fiend.md) - Pact with demonic entities
-- [**The Archfey**](/codex/Classes/Warlock/Archfey.md) - Pact with powerful fey creatures
-- [**The Great Old One**](/codex/Classes/Warlock/GreatOldOne.md) - Pact with ancient cosmic entities
-- [**The Celestial**](/codex/Classes/Warlock/Celestial.md) - Pact with divine beings
-- [**The Hexblade**](/codex/Classes/Warlock/Hexblade.md) - Pact with a sentient weapon or entity of shadow
+**Subclases:**
+- [**El Infernal**](/codex/Classes/Warlock/Fiend.md) - Pacto con entidades demoníacas
+- [**El Archifey**](/codex/Classes/Warlock/Archfey.md) - Pacto con poderosas criaturas fey
+- [**El Gran Antiguo**](/codex/Classes/Warlock/GreatOldOne.md) - Pacto con antiguas entidades cósmicas
+- [**El Celestial**](/codex/Classes/Warlock/Celestial.md) - Pacto con seres divinos
+- [**La Hoja Maldita**](/codex/Classes/Warlock/Hexblade.md) - Pacto con un arma sintiente o entidad de sombra
 
-## Class Progression
+## Progresión de Clase
 
-Classes in OpenFantasy follow a progression system that allows individuals to develop their abilities over time. This progression is represented by levels, each granting access to new abilities and powers, like a musician who learns increasingly complex pieces.
+Las clases en OpenFantasy siguen un sistema de progresión que permite a los individuos desarrollar sus habilidades con el tiempo. Esta progresión está representada por niveles, cada uno otorgando acceso a nuevas habilidades y poderes, como un músico que aprende piezas cada vez más complejas.
 
-### Level Tiers
+### Niveles de Nivel
 
-| Tier | Levels | Description |
+| Nivel | Niveles | Descripción |
 |------|--------|-------------|
-| **Novice** | 1-5 | Beginners learning fundamentals |
-| **Adept** | 6-10 | Masters of basics developing specialization |
-| **Expert** | 11-15 | Specialists with highly honed abilities |
-| **Master** | 16-20 | Those who have achieved true mastery |
-| **Legendary** | 21+ | Individuals transcending normal limitations |
+| **Novicio** | 1-5 | Principiantes que aprenden fundamentos |
+| **Adepto** | 6-10 | Maestros de los conceptos básicos que desarrollan la especialización |
+| **Experto** | 11-15 | Especialistas con habilidades altamente perfeccionadas |
+| **Maestro** | 16-20 | Aquellos que han alcanzado la verdadera maestría |
+| **Legendario** | 21+ | Individuos que trascienden las limitaciones normales |
 
-## Multiclassing
+## Multiclase
 
-Some individuals choose to pursue multiple classes, combining abilities from different paths to create unique combinations. This practice, known as multiclassing, allows for greater versatility but may limit the depth of specialization in any single class, like a musician who plays multiple instruments but may not master any single one.
+Algunos individuos eligen seguir múltiples clases, combinando habilidades de diferentes caminos para crear combinaciones únicas. Esta práctica, conocida como multiclase, permite una mayor versatilidad pero puede limitar la profundidad de la especialización en cualquier clase individual, como un músico que toca varios instrumentos pero puede no dominar ninguno solo.
 
-## Class-Species Interactions
+## Interacciones Clase-Especie
 
-Different species have natural affinities for certain classes based on their elemental composition:
+Diferentes especies tienen afinidades naturales por ciertas clases basadas en su composición elemental:
 
-| Species | Natural Class Affinities |
+| Especie | Afinidades Naturales de Clase |
 |---------|--------------------------|
-| **Humans** | Balanced affinity for all classes |
-| **Elves** | Strong affinity for Mage, Ranger, and Bard classes |
-| **Dark Elves** | Strong affinity for Mage, Rogue, and Warlock classes |
-| **Dwarves** | Strong affinity for Warrior, Artificer, and Cleric classes |
-| **Beastfolk** | Strong affinity for Ranger, Druid, and Warrior classes |
-| **Dragonkin** | Strong affinity for Warrior, Mage, and Warlock classes |
-| **Fae** | Strong affinity for Bard, Druid, and Mage classes |
-| **Golems** | Strong affinity for Artificer and Warrior classes |
-| **Sirens** | Strong affinity for Bard and Mage classes |
-| **Shadowfolk** | Strong affinity for Rogue, Warlock, and Mage classes |
-| **Giants** | Strong affinity for Warrior and Druid classes |
+| **Humanos** | Afinidad equilibrada para todas las clases |
+| **Elfos** | Fuerte afinidad por las clases de Mago, Guardabosques y Bardo |
+| **Elfos Oscuros** | Fuerte afinidad por las clases de Mago, Pícaro y Brujo |
+| **Enanos** | Fuerte afinidad por las clases de Guerrero, Artífice y Clérigo |
+| **Hombres Bestia** | Fuerte afinidad por las clases de Guardabosques, Druida y Guerrero |
+| **Dracónidos** | Fuerte afinidad por las clases de Guerrero, Mago y Brujo |
+| **Fae** | Fuerte afinidad por las clases de Bardo, Druida y Mago |
+| **Golems** | Fuerte afinidad por las clases de Artífice y Guerrero |
+| **Sirenas** | Fuerte afinidad por las clases de Bardo y Mago |
+| **Gente de las Sombras** | Fuerte afinidad por las clases de Pícaro, Brujo y Mago |
+| **Gigantes** | Fuerte afinidad por las clases de Guerrero y Druida |
 
 ---
 
-> Understanding the nature of classes provides insight into the diverse paths of power in the world of **OpenFantasy**, like listening to the different melodies that make up the grand symphony of existence.
+> Comprender la naturaleza de las clases proporciona información sobre los diversos caminos del poder en el mundo de **OpenFantasy**, como escuchar las diferentes melodías que componen la gran sinfonía de la existencia.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

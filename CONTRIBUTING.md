@@ -1,74 +1,76 @@
-# Contributing to **OpenFantasy**
+# Contribuyendo a **OpenFantasy**
 
-Thank you for your interest in contributing to **OpenFantasy**! This document provides guidelines and information on how to participate in this open-source world-building project.
+¡Gracias por tu interés en contribuir a **OpenFantasy**! Este documento proporciona pautas e información sobre cómo participar en este proyecto de construcción de mundos de código abierto.
 
-## Our Vision
+## Nuestra Visión
 
-**OpenFantasy** aims to create a logical, consistent framework for magical systems that storytellers, game designers, and world-builders can use as a foundation. We believe that fantasy worlds should maintain their wonder and depth without sacrificing logical consistency as stories progress.
+**OpenFantasy** tiene como objetivo crear un marco lógico y consistente para los sistemas mágicos que los narradores, diseñadores de juegos y constructores de mundos puedan utilizar como base. Creemos que los mundos de fantasía deben mantener su asombro y profundidad sin sacrificar la consistencia lógica a medida que avanzan las historias.
 
-## Ways to Contribute
+## Formas de Contribuir
 
-There are many ways to participate in the **OpenFantasy** project:
+Hay muchas maneras de participar en el proyecto **OpenFantasy**:
 
-### Content Development
-- **Expand the Codex**: Develop detailed entries on creatures, locations, artifacts, or historical events
-- **Create Stories**: Write short stories or campaign scenarios set within the **OpenFantasy** framework
-- **Develop Game Systems**: Design rule systems for tabletop RPGs or other game formats
+### Desarrollo de Contenido
+- **Expandir el Codex**: Desarrollar entradas detalladas sobre criaturas, ubicaciones, artefactos o eventos históricos.
+- **Crear Historias**: Escribir cuentos o escenarios de campaña ambientados dentro del marco de **OpenFantasy**.
+- **Desarrollar Sistemas de Juego**: Diseñar sistemas de reglas para juegos de rol de mesa u otros formatos de juego.
 
-### Technical Contributions
-- **Documentation**: Improve existing documentation for clarity and accessibility
-- **Website**: Contribute to our project website
-- **Tools**: Develop tools that help creators work with the **OpenFantasy** framework
+### Contribuciones Técnicas
+- **Documentación**: Mejorar la documentación existente para mayor claridad y accesibilidad.
+- **Sitio Web**: Contribuir a nuestro sitio web del proyecto.
+- **Herramientas**: Desarrollar herramientas que ayuden a los creadores a trabajar con el marco de **OpenFantasy**.
 
-### Community Support
-- **Review Submissions**: Help review and provide feedback on other contributors' work
-- **Answer Questions**: Support new contributors in our community forums
-- **Spread the Word**: Share the project with others who might be interested
+### Apoyo a la Comunidad
+- **Revisar Envíos**: Ayudar a revisar y proporcionar comentarios sobre el trabajo de otros colaboradores.
+- **Responder Preguntas**: Apoyar a los nuevos colaboradores en nuestros foros de la comunidad.
+- **Difundir la Palabra**: Compartir el proyecto con otros que puedan estar interesados.
 
+### Principios Fundamentales a Mantener
 
+1. **Consistencia Lógica**: Todas las contribuciones deben adherirse a las reglas establecidas de **Aeromana** y **Exanthis**, y sus efectos en el mundo.
+2. **Equilibrio**: Mantener la tensión natural entre fuerzas opuestas.
+3. **Profundidad Sin Contradicción**: Agregar complejidad y matices sin contradecir la historia establecida.
+4. **Accesibilidad**: Escribir con claridad para que los recién llegados puedan entender los conceptos.
 
-### Core Principles to Maintain
+### Guías de Contenido
 
-1. **Logical Consistency**: All contributions should adhere to the established rules of **Aeromana** and **Exanthis**, and their effects on the world
-2. **Balance**: Maintain the natural tension between opposing forces
-3. **Depth Without Contradiction**: Add complexity and nuance without contradicting established lore
-4. **Accessibility**: Write clearly so that newcomers can understand the concepts
+Al crear contenido nuevo para **OpenFantasy**, por favor, asegúrate de que:
 
-### Content Guidelines
+- Tu trabajo respete el sistema de ratio establecido (Exanthis, Alma, Aeromana)
+- Las nuevas criaturas, personajes o razas sigan la lógica interna del mundo
+- Los sistemas y efectos mágicos se expliquen en términos del marco
+- Los elementos geográficos consideren la distribución de **Aeromana** y **Exanthis**
 
-When creating new content for **OpenFantasy**, please ensure:
+### Proceso de Envío
 
-- Your work respects the established ratio system (Exanthis, Soul, Aeromana)
-- New creatures, characters, or races follow the internal logic of the world
-- Magical systems and effects are explained in terms of the framework
-- Geographic elements consider the distribution of **Aeromana** and **Exanthis**
+1. **Bifurcar el Repositorio**: Crea tu propia bifurcación del proyecto
+2. **Crear una Rama**: Realiza tus cambios en una nueva rama
+3. **Seguir la Plantilla**: Utiliza la plantilla apropiada para tu tipo de contribución
+4. **Enviar una Solicitud de Incorporación (Pull Request)**: Incluye una descripción clara de tu contribución
+5. **Responder a los Comentarios**: Estar abierto a las sugerencias de los revisores
 
-### Submission Process
+### Formato
+- Utilizar Markdown para todos los documentos de texto
+- Seguir la estructura de encabezados establecida
+- Poner en **negrita** los términos y conceptos clave en la primera mención
+- Utilizar enlaces apropiados al contenido relacionado dentro del repositorio
 
-1. **Fork the Repository**: Create your own fork of the project
-2. **Create a Branch**: Make your changes in a new branch
-3. **Follow the Template**: Use the appropriate template for your contribution type
-4. **Submit a Pull Request**: Include a clear description of your contribution
-5. **Respond to Feedback**: Be open to suggestions from reviewers
+### Tono y Voz
+- Escribir en un lenguaje claro y atractivo
+- Mantener un equilibrio entre la descripción académica y el estilo narrativo
+- Evitar las expresiones o la jerga demasiado coloquiales
+- Ser inclusivo y considerar diversas perspectivas
 
-### Formatting
-- Use Markdown for all text documents
-- Follow the established heading structure
-- **Bold** key terms and concepts on first mention
-- Use appropriate links to related content within the repository
+## Reconocimiento
 
-### Tone and Voice
-- Write in clear, engaging language
-- Maintain a balance between academic description and narrative flair
-- Avoid overly colloquial expressions or slang
-- Be inclusive and consider diverse perspectives
-
-## Recognition
-
-All contributors will be acknowledged in our [CONTRIBUTORS.md](CONTRIBUTORS.md) file. Significant contributions may receive special recognition in project announcements and updates.
+Todos los colaboradores serán reconocidos en nuestro archivo [CONTRIBUTORS.md](CONTRIBUTORS.md). Las contribuciones significativas pueden recibir un reconocimiento especial en los anuncios y actualizaciones del proyecto.
 
 ---
 
-"*Magic should make us wonder, not scratch our heads in confusion.*"
+"*La magia debería hacernos maravillarnos, no rascarnos la cabeza confundidos.*"
 
-Thank you for helping build a more logical and engaging fantasy framework! 
+¡Gracias por ayudar a construir un marco de fantasía más lógico y atractivo!
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

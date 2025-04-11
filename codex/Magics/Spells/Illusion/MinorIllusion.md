@@ -1,155 +1,159 @@
-# **Minor Illusion**
+# **Ilusión Menor**
 
-> *"Reality is but a canvas awaiting the illusion artist's touch."*  
-> — Mirala Shadowweaver, Illusion Grandmaster
+> *"La realidad no es más que un lienzo que espera el toque del artista de la ilusión."*
+> — Mirala Shadowweaver, Gran Maestra de la Ilusión
 
-## Casting Information
-- **Difficulty**: Novice
-- **Casting Time**: 2 seconds
-- **Duration**: Concentration, up to 5 minutes
-- **Range**: Within 15 feet
-- **Components**: Somatic, Verbal
+## Información de Lanzamiento
+- **Dificultad**: Novicio
+- **Tiempo de Lanzamiento**: 2 segundos
+- **Duración**: Concentración, hasta 5 minutos
+- **Rango**: Dentro de 15 pies
+- **Componentes**: Somático, Verbal
 
-## Technical Details
-- **Mana Type Distribution**: Base Mana 60%, Umbramana 30%, Luxmana 10%
-- **Purity Required**: Basic (15-25%)
-- **Minimum Mana Capacity**: 15% (Higher capacity extends possible duration and area)
-- **Pattern Complexity**: Simple (3-tier matrix)
-- **Resonance Frequency**: Mid-range sensory spectrum
-- **Specialization Efficiency Required**: 40%+ (Novice level)
-- **Wild Mana Tolerance**: Up to 15% residual content
+## Detalles Técnicos
+- **Distribución del Tipo de Maná**: Maná Base 60%, Umbramana 30%, Luxmana 10%
+- **Pureza Requerida**: Básica (15-25%)
+- **Capacidad Mínima de Maná**: 15% (Mayor capacidad extiende la duración y el área posibles)
+- **Complejidad del Patrón**: Simple (matriz de 3 niveles)
+- **Frecuencia de Resonancia**: Espectro sensorial de rango medio
+- **Eficiencia de Especialización Requerida**: 40%+ (Nivel Novicio)
+- **Tolerancia de Maná Salvaje**: Hasta 15% de contenido residual
 
-## Mana Mechanics
+## Mecánica del Maná
 
-### Base Mana Function
-The Base Mana component (60%) provides:
-- Structural framework for the illusion pattern
-- Stability and duration maintenance
-- Connection to the caster's concentration
-- Boundary definition and spatial anchoring
+### Función del Maná Base
+El componente de Maná Base (60%) proporciona:
+- Marco estructural para el patrón de ilusión
+- Estabilidad y mantenimiento de la duración
+- Conexión con la concentración del lanzador
+- Definición de límites y anclaje espacial
 
-### Umbramana Function
-The Shadow mana component (30%) contributes:
-- Visual/sensory obscuration capabilities
-- Reality distortion properties
-- Light/perception manipulation
-- Concealment of the magical nature of the effect
+### Función del Umbramana
+El componente de maná de Sombra (30%) contribuye:
+- Capacidades de oscurecimiento visual/sensorial
+- Propiedades de distorsión de la realidad
+- Manipulación de luz/percepción
+- Ocultamiento de la naturaleza mágica del efecto
 
-### Luxmana Function
-The Light mana component (10%) provides:
-- Visual clarity and detail enhancement
-- Sensory precision and definition
-- Reality mimicry qualities
-- Observer connection hooks
+### Función del Luxmana
+El componente de maná de Luz (10%) proporciona:
+- Claridad visual y mejora del detalle
+- Precisión y definición sensorial
+- Cualidades de imitación de la realidad
+- Ganchos de conexión del observador
 
-### Specialization Process
-The caster must successfully:
-1. Draw Base Mana from internal reserves
-2. Transform approximately 40% of this Base Mana into specialized forms
-3. Maintain the correct proportional balance (60:30:10)
-4. Establish the harmonics between opposing elements (Umbramana and Luxmana)
+### Proceso de Especialización
+El lanzador debe realizar con éxito:
+1. Extraer Maná Base de las reservas internas
+2. Transformar aproximadamente el 40% de este Maná Base en formas especializadas
+3. Mantener el equilibrio proporcional correcto (60:30:10)
+4. Establecer la armonía entre los elementos opuestos (Umbramana y Luxmana)
 
-## Pattern Structure
+## Estructura del Patrón
 
-The spell consists of four primary pattern elements forming a sensory projection matrix:
+El hechizo consta de cuatro elementos de patrón primarios que forman una matriz de proyección sensorial:
 
-1. **Image Seed**: The core visualization pattern that establishes the illusion's foundation
-2. **Sensory Projection**: The pattern component that projects the illusion into physical space
-3. **Boundary Frame**: Defines the spatial limitations and edges of the illusion
-4. **Perception Hook**: The subtle pattern that connects the illusion to observers' senses
+1. **Semilla de Imagen**: El patrón de visualización central que establece la base de la ilusión
+2. **Proyección Sensorial**: El componente del patrón que proyecta la ilusión en el espacio físico
+3. **Marco Límite**: Define las limitaciones espaciales y los bordes de la ilusión
+4. **Gancho de Percepción**: El patrón sutil que conecta la ilusión a los sentidos de los observadores
 
-## Practical Effect
+## Efecto Práctico
 
-Minor Illusion creates a single sensory illusion within range:
-- A visual illusion no larger than a 5-foot cube
-- A sound emanating from a point in range (whisper to conversation volume)
-- A simple scent detectable within 10 feet
-- A minor tactile sensation (temperature change, light breeze, gentle touch)
+Ilusión Menor crea una única ilusión sensorial dentro del rango:
+- Una ilusión visual no mayor de un cubo de 5 pies
+- Un sonido que emana de un punto en el rango (susurro al volumen de una conversación)
+- Un aroma simple detectable dentro de 10 pies
+- Una sensación táctil menor (cambio de temperatura, brisa ligera, toque suave)
 
-The spell can create only one type of sensory effect at a time. The illusion has no physical substance and cannot cause damage, create light that illuminates areas, or produce sound loud enough to cause damage or be heard more than 100 feet away.
+El hechizo solo puede crear un tipo de efecto sensorial a la vez. La ilusión no tiene sustancia física y no puede causar daño, crear luz que ilumine áreas o producir un sonido lo suficientemente fuerte como para causar daño o ser escuchado a más de 100 pies de distancia.
 
-## Purity Influence on Effect
+## Influencia de la Pureza en el Efecto
 
-The caster's mana purity directly affects the illusion's quality, believability, and stability:
+La pureza del maná del lanzador afecta directamente la calidad, la credibilidad y la estabilidad de la ilusión:
 
-| Purity Level | Effect |
+| Nivel de Pureza | Efecto |
 |--------------|--------|
-| Below 10% | Casting typically fails; any resulting illusion appears as obvious magical energy with no coherent form |
-| 10-15% | Highly unstable illusion with visible fluctuations and mana "glitches"; immediately recognizable as magical |
-| 15-25% | Standard illusion that appears realistic from a distance but lacks fine details and natural movement |
-| 25-35% | Enhanced illusion with improved details, more natural movement, and better sensory integration |
-| 35-45% | Refined illusion with convincing details that can withstand moderate scrutiny; subtle environmental interaction |
-| 50%+ | Nearly flawless illusion that can fool most observers without careful inspection; seamlessly adapts to environmental changes |
+| Por debajo del 10% | El lanzamiento normalmente falla; cualquier ilusión resultante aparece como energía mágica obvia sin forma coherente |
+| 10-15% | Ilusión altamente inestable con fluctuaciones visibles y "fallas" de maná; inmediatamente reconocible como mágica |
+| 15-25% | Ilusión estándar que parece realista desde la distancia, pero carece de detalles finos y movimiento natural |
+| 25-35% | Ilusión mejorada con detalles mejorados, movimiento más natural y mejor integración sensorial |
+| 35-45% | Ilusión refinada con detalles convincentes que pueden resistir el escrutinio moderado; sutil interacción ambiental |
+| 50%+ | Ilusión casi impecable que puede engañar a la mayoría de los observadores sin una inspección cuidadosa; se adapta a la perfección a los cambios ambientales |
 
-Higher purity also extends potential duration, reduces concentration strain, and minimizes the risk of Wild Mana contamination which can cause unintended sensory effects to bleed into the illusion.
+Una mayor pureza también extiende la duración potencial, reduce la tensión de la concentración y minimiza el riesgo de contaminación por Maná Salvaje, lo que puede causar que efectos sensoriales no deseados se filtren en la ilusión.
 
-## Mana Capacity Effects
+## Efectos de la Capacidad de Maná
 
-The caster's Mana Capacity influences the spell in several ways:
+La capacidad de maná del lanzador influye en el hechizo de varias maneras:
 
-| Capacity Level | Duration Effect | Size/Range Effect | Quality Effect |
+| Nivel de Capacidad | Efecto de Duración | Efecto de Tamaño/Rango | Efecto de Calidad |
 |----------------|-----------------|-------------------|----------------|
-| 15-25% | Basic duration (up to 5 minutes) | Standard range (15 feet) | Standard quality |
-| 25-40% | Extended duration (up to 10 minutes) | Increased range (20 feet) | Minor detail enhancement |
-| 40-60% | Long duration (up to 20 minutes) | Extended range (25 feet) | Significant detail enhancement |
-| 60%+ | Sustained duration (up to 30 minutes) | Maximum range (30 feet) | Maximum detail potential |
+| 15-25% | Duración básica (hasta 5 minutos) | Rango estándar (15 pies) | Calidad estándar |
+| 25-40% | Duración extendida (hasta 10 minutos) | Rango aumentado (20 pies) | Mejora menor del detalle |
+| 40-60% | Larga duración (hasta 20 minutos) | Rango extendido (25 pies) | Mejora significativa del detalle |
+| 60%+ | Duración sostenida (hasta 30 minutos) | Rango máximo (30 pies) | Máximo potencial de detalle |
 
-## Common Applications
+## Aplicaciones Comunes
 
-- **Distraction**: Creating sounds or visual distractions to divert attention
-- **Concealment**: Masking small objects or features with illusory coverings
-- **Communication**: Displaying simple messages or warnings
-- **Entertainment**: Creating pleasant visuals or sounds for amusement
-- **Ambiance**: Enhancing environments with appropriate sensory elements
-- **Pranks**: Harmless tricks and surprises (heavily discouraged in academic settings)
+- **Distracción**: Crear sonidos o distracciones visuales para desviar la atención
+- **Ocultamiento**: Enmascarar pequeños objetos o características con cubiertas ilusorias
+- **Comunicación**: Mostrar mensajes o advertencias simples
+- **Entretenimiento**: Crear imágenes o sonidos agradables para la diversión
+- **Ambiente**: Mejorar los entornos con elementos sensoriales apropiados
+- **Bromas**: Trucos y sorpresas inofensivos (muy desaconsejados en entornos académicos)
 
-## Variations
+## Variaciones
 
-| Variation | Effect | Mana Requirements |
+| Variación | Efecto | Requisitos de Maná |
 |-----------|--------|-------------------|
-| **Silent Image** | Visual illusion only, but with enhanced detail | 65% Base Mana, 25% Umbramana, 10% Luxmana |
-| **Whisper** | Sound-only version with greater range (30 feet) | 70% Base Mana, 20% Umbramana, 10% Aeromana |
-| **Phantom Scent** | Olfactory illusion with increased intensity | 60% Base Mana, 25% Umbramana, 15% Vitamana |
-| **Ghost Touch** | Tactile illusion with more complex sensation | 55% Base Mana, 35% Umbramana, 10% Terramana |
-| **Persistent Image** | Lasts without concentration for 1 minute | 50% Base Mana, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ purity required |
-| **Dual Sense** | Combines two sensory effects simultaneously | 45% Base Mana, 35% Umbramana, 20% Luxmana; 35%+ purity and 20%+ capacity required |
+| **Imagen Silenciosa** | Ilusión visual solamente, pero con detalles mejorados | 65% Maná Base, 25% Umbramana, 10% Luxmana |
+| **Susurro** | Versión solo de sonido con mayor alcance (30 pies) | 70% Maná Base, 20% Umbramana, 10% Aeromana |
+| **Aroma Fantasma** | Ilusión olfativa con mayor intensidad | 60% Maná Base, 25% Umbramana, 15% Vitamana |
+| **Toque Fantasma** | Ilusión táctil con una sensación más compleja | 55% Maná Base, 35% Umbramana, 10% Terramana |
+| **Imagen Persistente** | Dura sin concentración durante 1 minuto | 50% Maná Base, 25% Umbramana, 15% Luxmana, 10% Chronomana; 25%+ pureza requerida |
+| **Sentido Dual** | Combina dos efectos sensoriales simultáneamente | 45% Maná Base, 35% Umbramana, 20% Luxmana; 35%+ pureza y 20%+ capacidad requerida |
 
-## Risks and Miscast Effects
+## Riesgos y Efectos de Lanzamiento Fallido
 
-| Risk | Effect | Cause |
+| Riesgo | Efecto | Causa |
 |------|--------|-------|
-| **Sensory Bleed** | Unintended secondary sensory effects | Imprecise specialization, Base Mana deficiency |
-| **Pattern Collapse** | Illusion dissipates prematurely | Insufficient concentration, unstable Base Mana framework |
-| **Perception Lock** | Caster temporarily experiences the illusion as real | Wild Mana contamination above 15%, improper Umbramana balance |
-| **Sensory Echo** | Illusion repeats at random intervals after dismissal | Improper spell termination, excess Chronomana resonance |
-| **Detail Drift** | Illusion details gradually change without caster input | Purity below 15% or Wild Mana interference with Luxmana component |
-| **Reality Distortion** | Caster's perception of real sensory input becomes temporarily distorted | Critical purity shortage (below 10%), excessive Umbramana specialization |
+| **Sangrado Sensorial** | Efectos sensoriales secundarios no deseados | Especialización imprecisa, deficiencia de Maná Base |
+| **Colapso del Patrón** | La ilusión se disipa prematuramente | Concentración insuficiente, marco de Maná Base inestable |
+| **Bloqueo de Percepción** | El lanzador experimenta temporalmente la ilusión como real | Contaminación por Maná Salvaje por encima del 15%, equilibrio incorrecto del Umbramana |
+| **Eco Sensorial** | La ilusión se repite a intervalos aleatorios después del descarte | Terminación incorrecta del hechizo, exceso de resonancia de Chronomana |
+| **Deriva del Detalle** | Los detalles de la ilusión cambian gradualmente sin la entrada del lanzador | Pureza por debajo del 15% o interferencia de Maná Salvaje con el componente Luxmana |
+| **Distorsión de la Realidad** | La percepción del lanzador de la entrada sensorial real se distorsiona temporalmente | Escasez crítica de pureza (por debajo del 10%), especialización excesiva del Umbramana |
 
-## Elemental Interactions
+## Interacciones Elementales
 
-Minor Illusion demonstrates several important elemental principles:
+Ilusión Menor demuestra varios principios elementales importantes:
 
-1. **Balanced Opposition**: The controlled tension between Umbramana (shadow) and Luxmana (light) creates the realistic visual quality
-2. **Base Mana Framework**: The high proportion of Base Mana (60%) provides stability for the inherently unstable combination of opposed elements
-3. **Harmonic Resonance**: The specific 60:30:10 ratio creates a resonance pattern that mimics natural sensory frequencies
-4. **Specialization Gradient**: The spell uses partially specialized Umbramana and Luxmana rather than pure forms, allowing more subtle effects
+1. **Oposición Equilibrada**: La tensión controlada entre Umbramana (sombra) y Luxmana (luz) crea la calidad visual realista
+2. **Marco de Maná Base**: La alta proporción de Maná Base (60%) proporciona estabilidad para la combinación inherentemente inestable de elementos opuestos
+3. **Resonancia Armónica**: La relación específica de 60:30:10 crea un patrón de resonancia que imita las frecuencias sensoriales naturales
+4. **Gradiente de Especialización**: El hechizo utiliza Umbramana y Luxmana parcialmente especializados en lugar de formas puras, lo que permite efectos más sutiles
 
-## Musical Analogy
+## Analogía Musical
 
-Casting Minor Illusion is like playing a simple melody that listeners can perceive but not interact with. The Base Mana forms the fundamental tone or "carrier note," while the Umbramana and Luxmana create the harmonics that give the illusion its character. The caster must maintain the rhythm (concentration) to keep the melody playing, while carefully balancing the various sensory "notes" to create a convincing performance. Wild Mana contamination introduces random discordant notes that diminish the performance quality.
+Lanzar Ilusión Menor es como tocar una melodía simple que los oyentes pueden percibir pero no interactuar. El Maná Base forma el tono fundamental o "nota portadora", mientras que el Umbramana y el Luxmana crean los armónicos que le dan a la ilusión su carácter. El lanzador debe mantener el ritmo (concentración) para que la melodía siga sonando, mientras que equilibra cuidadosamente las diversas "notas" sensoriales para crear una interpretación convincente. La contaminación por Maná Salvaje introduce notas discordantes aleatorias que disminuyen la calidad de la interpretación.
 
-## Learning Progression
+## Progresión de Aprendizaje
 
-1. **Base Mana Structure**: Learning to create and maintain the basic illusion framework
-2. **Umbramana Specialization**: Developing skill in shadow mana conversion for reality distortion
-3. **Luxmana Integration**: Adding light mana elements for detail and clarity
-4. **Harmonic Balancing**: Achieving the precise ratio of elements for stable illusions
-5. **Sensory Precision**: Refining the illusion to appear more realistic and detailed
-6. **Sustaining Focus**: Extending the duration through improved concentration
-7. **Purification Techniques**: Methods to reduce Wild Mana contamination for clearer illusions
+1. **Estructura del Maná Base**: Aprender a crear y mantener el marco básico de la ilusión
+2. **Especialización del Umbramana**: Desarrollar la habilidad en la conversión de maná de sombra para la distorsión de la realidad
+3. **Integración del Luxmana**: Agregar elementos de maná de luz para el detalle y la claridad
+4. **Equilibrio Armónico**: Lograr la proporción precisa de elementos para ilusiones estables
+5. **Precisión Sensorial**: Refinar la ilusión para que parezca más realista y detallada
+6. **Sostener el Enfoque**: Extender la duración a través de una mejor concentración
+7. **Técnicas de Purificación**: Métodos para reducir la contaminación por Maná Salvaje para ilusiones más claras
 
-## Historical Note
+## Nota Histórica
 
-Minor Illusion was developed by Mirala Shadowweaver during the Second Age as a teaching tool for apprentice illusionists. The spell's simple structure makes it an ideal introduction to perception manipulation, while its limited scope prevents dangerous applications. It remains one of the most commonly taught spells in magical academies across the realm.
+Ilusión Menor fue desarrollada por Mirala Shadowweaver durante la Segunda Era como una herramienta de enseñanza para aprendices de ilusionistas. La estructura simple del hechizo lo convierte en una introducción ideal a la manipulación de la percepción, mientras que su alcance limitado previene aplicaciones peligrosas. Sigue siendo uno de los hechizos más comúnmente enseñados en las academias mágicas de todo el reino.
 
-*See also: [Illusion School](/codex/Magics/Schools/Illusion.md), [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md)* 
+*Ver también: [Escuela de Ilusión](/codex/Magics/Schools/Illusion.md), [Maná Base](/codex/Magics/Core/BaseMana.md), [Especialización de Maná](/codex/Magics/Core/ManaSpecialization.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,123 +1,127 @@
-# Inspire Courage
+# Inspirar Coraje
 
-> *"When fear grips the heart, a single melody can rekindle the flame of bravery."*  
-> — Jalavar Swiftstrings, Battle-Bard of the Western Front
+> *"Cuando el miedo agarra el corazón, una simple melodía puede reavivar la llama de la valentía."*
+> — Jalavar Swiftstrings, Bardo de Batalla del Frente Occidental
 
-## Quick Reference
+## Referencia Rápida
 
-- **Casting Time:** 6 seconds (performance action)
-- **Duration:** 30 seconds to 2 minutes
-- **Range:** 9 meters radius (centered on bard)
-- **Components:** Verbal, Somatic, Instrumental (optional but enhances effect)
-- **School:** Enchantment (Courage-Weaving)
-- **Classification:** Support/Enhancement
-- **Difficulty:** Intermediate
-- **Purity Required:** Basic (20-30%)
-- **Minimum Mana Capacity:** 20% (Higher capacity extends duration and radius)
+- **Tiempo de Lanzamiento:** 6 segundos (acción de interpretación)
+- **Duración:** 30 segundos a 2 minutos
+- **Alcance:** 9 metros de radio (centrado en el bardo)
+- **Componentes:** Verbal, Somático, Instrumental (opcional pero mejora el efecto)
+- **Escuela:** Encantamiento (Tejedura del Coraje)
+- **Clasificación:** Apoyo/Mejora
+- **Dificultad:** Intermedia
+- **Pureza Requerida:** Básica (20-30%)
+- **Capacidad Mínima de Maná:** 20% (Una mayor capacidad extiende la duración y el radio)
 
-## Technical Details
+## Detalles Técnicos
 
-Inspire Courage creates a mana-harmonic field that resonates with allies' courage centers in both mind and spirit. The spell weaves a pattern of enchantment energy that directly counters fear responses while enhancing confidence and resolute action.
+Inspirar Coraje crea un campo mana-armónico que resuena con los centros de coraje de los aliados tanto en la mente como en el espíritu. El hechizo teje un patrón de energía de encantamiento que contrarresta directamente las respuestas al miedo al tiempo que mejora la confianza y la acción resuelta.
 
-### Mana Composition
-- **Primary:** Base Mana (Inspiration) 50-65%
-- **Secondary:** Mentimana 25-35%
-- **Tertiary:** Vitomana 10-15%
+### Composición del Maná
+- **Primario:** Maná Base (Inspiración) 50-65%
+- **Secundario:** Mentimana 25-35%
+- **Terciario:** Vitomana 10-15%
 
-### Purity Influence on Effect
-- **15-20% Purity:** Minimal effect, provides resistance to fear effects but little combat enhancement
-- **20-30% Purity:** Standard effect, grants both fear resistance and moderate combat enhancement
-- **30-45% Purity:** Enhanced effect, stronger combat bonuses and complete immunity to minor fear effects
-- **45%+ Purity:** Master effect, extends duration significantly and provides partial resistance even to magical dread effects
+### Influencia de la Pureza en el Efecto
+- **15-20% Pureza:** Efecto mínimo, proporciona resistencia a los efectos del miedo pero poca mejora en combate
+- **20-30% Pureza:** Efecto estándar, otorga tanto resistencia al miedo como mejora moderada en combate
+- **30-45% Pureza:** Efecto mejorado, bonificaciones de combate más fuertes e inmunidad completa a los efectos de miedo menores
+- **45%+ Pureza:** Efecto maestro, extiende la duración significativamente y proporciona resistencia parcial incluso a los efectos mágicos de terror
 
-### Harmonic Pattern
-The spell follows a rising melodic pattern that creates resonance points within allies' mana networks. These resonance points generate counter-frequencies to fear-inducing stimuli while amplifying natural courage responses.
+### Patrón Armónico
+El hechizo sigue un patrón melódico ascendente que crea puntos de resonancia dentro de las redes de maná de los aliados. Estos puntos de resonancia generan contrafrecuencias a los estímulos inductores del miedo al tiempo que amplifican las respuestas naturales de coraje.
 
-## Practical Effects
+## Efectos Prácticos
 
-When successfully cast, Inspire Courage produces the following effects on allies within range:
+Cuando se lanza con éxito, Inspirar Coraje produce los siguientes efectos en los aliados dentro del alcance:
 
-1. **Courage Enhancement:** Recipients experience a noticeable reduction in fear response, both natural and magical. Their threshold for fear-inducing stimuli increases by 30-60% depending on casting purity.
+1. **Mejora del Coraje:** Los destinatarios experimentan una reducción notable en la respuesta al miedo, tanto natural como mágico. Su umbral para los estímulos inductores del miedo aumenta entre un 30 y un 60% dependiendo de la pureza del lanzamiento.
 
-2. **Combat Prowess:** The harmonic resonance enhances physical performance by 10-25% through the reduction of hesitation and doubt. This manifests as improved reaction time, strike precision, and force application.
+2. **Destreza en Combate:** La resonancia armónica mejora el rendimiento físico en un 10-25% mediante la reducción de la vacilación y la duda. Esto se manifiesta como un tiempo de reacción mejorado, precisión en el golpe y aplicación de fuerza.
 
-3. **Pain Resilience:** Recipients can withstand 15-30% more pain before performance degradation, allowing them to fight effectively despite injuries that would normally impair function.
+3. **Resiliencia al Dolor:** Los destinatarios pueden soportar un 15-30% más de dolor antes de la degradación del rendimiento, lo que les permite luchar eficazmente a pesar de las lesiones que normalmente afectarían la función.
 
-4. **Morale Stability:** The group experiences a collective resilience against demoralization, creating a feedback loop where individual courage reinforces group courage.
+4. **Estabilidad de la Moral:** El grupo experimenta una resiliencia colectiva contra la desmoralización, creando un bucle de retroalimentación donde el coraje individual refuerza el coraje del grupo.
 
-## Casting Process
+## Proceso de Lanzamiento
 
-The bard channels mana through emotional expression focused on themes of courage, victory, or heroism. The casting follows a specific progression:
+El bardo canaliza el maná a través de la expresión emocional centrada en temas de coraje, victoria o heroísmo. El lanzamiento sigue una progresión específica:
 
-1. **Initiation:** The bard begins a performance (instrumental, vocal, or both) with an uplifting motif that serves as the spell's foundation.
+1. **Iniciación:** El bardo comienza una interpretación (instrumental, vocal o ambas) con un motivo edificante que sirve como base del hechizo.
 
-2. **Mana Infusion:** As the performance continues, the bard infuses the sound waves with mana, creating a resonant enchantment field.
+2. **Infusión de Maná:** A medida que continúa la interpretación, el bardo infunde las ondas de sonido con maná, creando un campo de encantamiento resonante.
 
-3. **Harmonic Expansion:** The mana-infused performance expands outward, seeking compatible mana signatures of allies.
+3. **Expansión Armónica:** La interpretación infundida de maná se expande hacia afuera, buscando firmas de maná compatibles de los aliados.
 
-4. **Connection Establishment:** When the spell connects with an ally, a momentary flash of golden light may appear at the point of connection (visible only to those with magical sight).
+4. **Establecimiento de la Conexión:** Cuando el hechizo se conecta con un aliado, un destello momentáneo de luz dorada puede aparecer en el punto de conexión (visible solo para aquellos con visión mágica).
 
-5. **Maintenance:** The bard must maintain at least a subtle performance to sustain the effect for its duration.
+5. **Mantenimiento:** El bardo debe mantener al menos una interpretación sutil para sostener el efecto durante su duración.
 
-## Common Applications
+## Aplicaciones Comunes
 
-- **Pre-Battle Inspiration:** Most commonly used before engaging in combat to prepare allies mentally and emotionally
-- **Fear Resistance:** Particularly effective against creatures that use fear as a weapon
-- **Morale Recovery:** Can reverse a deteriorating battlefield situation by restoring group confidence
-- **Performance Enhancement:** Used in non-combat situations to help allies perform under pressure
-- **Training Aid:** Helps novices overcome fear during intense training scenarios
+- **Inspiración Pre-Batalla:** Se utiliza más comúnmente antes de participar en combate para preparar a los aliados mental y emocionalmente
+- **Resistencia al Miedo:** Particularmente eficaz contra criaturas que usan el miedo como arma
+- **Recuperación de la Moral:** Puede revertir una situación de campo de batalla en deterioro al restaurar la confianza del grupo
+- **Mejora del Rendimiento:** Se utiliza en situaciones no relacionadas con el combate para ayudar a los aliados a desempeñarse bajo presión
+- **Ayuda para el Entrenamiento:** Ayuda a los novatos a superar el miedo durante escenarios de entrenamiento intensos
 
-## Variations
+## Variaciones
 
-### Battle Anthem
-A more martially-focused version that enhances physical prowess at the expense of fear resistance.
-- **Mana Composition:** Shifts to 60% Base Mana, 15% Mentimana, 25% Vitomana
-- **Purity Required:** 25-35%
-- **Effect:** Combat enhancement increases to 20-35%, fear resistance reduced to 15-25%
+### Himno de Batalla
+Una versión más centrada en lo marcial que mejora la destreza física a expensas de la resistencia al miedo.
+- **Composición del Maná:** Cambia a 60% Maná Base, 15% Mentimana, 25% Vitomana
+- **Pureza Requerida:** 25-35%
+- **Efecto:** La mejora en combate aumenta al 20-35%, la resistencia al miedo se reduce al 15-25%
 
-### Heroic Resonance
-A sustained version that creates a longer-lasting but more subtle effect.
-- **Casting Time:** 30 seconds
-- **Duration:** Up to 1 hour
-- **Purity Required:** 35-45%
-- **Effect:** Provides 50% of standard combat enhancement but maintains fear resistance at full strength
+### Resonancia Heroica
+Una versión sostenida que crea un efecto más sutil pero de mayor duración.
+- **Tiempo de Lanzamiento:** 30 segundos
+- **Duración:** Hasta 1 hora
+- **Pureza Requerida:** 35-45%
+- **Efecto:** Proporciona el 50% de la mejora en combate estándar pero mantiene la resistencia al miedo a plena potencia
 
-### Silent Valor
-A version that can be cast without audible components, relying on subtle body language and direct mana projection.
-- **Components:** Somatic only
-- **Range:** Reduced to 5 meters
-- **Purity Required:** 40-50%
-- **Effect:** Standard effects but more difficult to maintain and detect
+### Valor Silencioso
+Una versión que se puede lanzar sin componentes audibles, confiando en el lenguaje corporal sutil y la proyección directa de maná.
+- **Componentes:** Somático solamente
+- **Alcance:** Reducido a 5 metros
+- **Pureza Requerida:** 40-50%
+- **Efecto:** Efectos estándar pero más difícil de mantener y detectar
 
-## Risks and Miscast Effects
+## Riesgos y Efectos de Lanzamiento Erróneo
 
-### Overconfidence
-Insufficient control (purity below 20%) can cause recipients to become recklessly overconfident, leading them to underestimate dangers.
+### Exceso de Confianza
+Un control insuficiente (pureza por debajo del 20%) puede hacer que los destinatarios se vuelvan imprudentemente confiados en exceso, lo que los lleva a subestimar los peligros.
 
-### Emotional Dependency
-If the spell is maintained too long (beyond 10 minutes) or cast repeatedly within a short timeframe, recipients may develop temporary dependency, experiencing heightened fear when the effect ends.
+### Dependencia Emocional
+Si el hechizo se mantiene durante demasiado tiempo (más de 10 minutos) o se lanza repetidamente en un corto período de tiempo, los destinatarios pueden desarrollar una dependencia temporal, experimentando un mayor miedo cuando finaliza el efecto.
 
-### Resonance Backlash
-Critical failure (purity below 15%) can create a reverse effect, momentarily amplifying fear responses instead of suppressing them.
+### Reacción de Resonancia
+Una falla crítica (pureza por debajo del 15%) puede crear un efecto inverso, amplificando momentáneamente las respuestas al miedo en lugar de suprimirlas.
 
-### Performance Pressure
-If the bard becomes the target of significant attacks while maintaining the spell, concentration checks are required to prevent premature termination of the effect.
+### Presión de la Interpretación
+Si el bardo se convierte en el objetivo de ataques significativos mientras mantiene el hechizo, se requieren comprobaciones de concentración para evitar la terminación prematura del efecto.
 
-## Musical Analogy
+## Analogía Musical
 
-Casting Inspire Courage is like performing a military march that gradually shifts to a heroic anthem. The percussive elements establish rhythm (the spell's structure), while brass elements provide power (the courage enhancement) and melodic components create emotional resonance (the fear resistance). The performer must maintain the driving tempo while ensuring harmonies remain uplifting rather than aggressive.
+Lanzar Inspirar Coraje es como interpretar una marcha militar que cambia gradualmente a un himno heroico. Los elementos de percusión establecen el ritmo (la estructura del hechizo), mientras que los elementos de metal proporcionan poder (la mejora del coraje) y los componentes melódicos crean resonancia emocional (la resistencia al miedo). El intérprete debe mantener el tempo impulsivo al tiempo que se asegura de que las armonías sigan siendo edificantes en lugar de agresivas.
 
-## Learning Progression
+## Progresión del Aprendizaje
 
-| Stage | Description | Typical Timeline |
+| Etapa | Descripción | Cronograma Típico |
 |-------|-------------|------------------|
-| **Novice** | Basic single-target version with minimal combat enhancement | 6-8 weeks of practice |
-| **Apprentice** | Small group effect (3-4 targets) with moderate enhancement | 4-6 months of practice |
-| **Adept** | Standard version affecting up to 10 allies with full effects | 1-2 years of practice |
-| **Master** | Extended range and duration with enhanced effects | 3-5 years of refinement |
+| **Novato** | Versión básica de un solo objetivo con mejora mínima en combate | 6-8 semanas de práctica |
+| **Aprendiz** | Efecto de grupo pequeño (3-4 objetivos) con mejora moderada | 4-6 meses de práctica |
+| **Adept** | Versión estándar que afecta hasta a 10 aliados con efectos completos | 1-2 años de práctica |
+| **Maestro** | Alcance y duración extendidos con efectos mejorados | 3-5 años de refinamiento |
 
-## Historical Note
+## Nota Histórica
 
-Inspire Courage was first formalized by the Battle-Bards of the Crimson Legion during the Moonfall War. These specialized bards developed techniques to maintain morale against the unnatural fear induced by shadow-tainted creatures. The spell has been refined over generations, with each major bardic college adding its own variations and enhancements to the core technique.
+Inspirar Coraje fue formalizado por primera vez por los Bardos de Batalla de la Legión Carmesí durante la Guerra de la Caída de la Luna. Estos bardos especializados desarrollaron técnicas para mantener la moral contra el miedo antinatural inducido por criaturas manchadas por las sombras. El hechizo se ha perfeccionado a lo largo de generaciones, y cada colegio bárdico importante ha añadido sus propias variaciones y mejoras a la técnica central.
 
-The most famous recorded use was by Malian Silvervoice at the Battle of Thornvale Pass, where her performance allowed a force of 300 defenders to stand against over 2,000 attackers for three days until reinforcements arrived. 
+El uso registrado más famoso fue por Malian Silvervoice en la Batalla del Paso de Thornvale, donde su interpretación permitió a una fuerza de 300 defensores resistir a más de 2.000 atacantes durante tres días hasta que llegaron los refuerzos.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

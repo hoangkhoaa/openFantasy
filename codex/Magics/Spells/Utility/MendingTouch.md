@@ -1,97 +1,101 @@
-# **Mending Touch**
+# **Toque de Reparación**
 
-A practical utility spell that repairs minor damage to small objects. Widely taught to apprentices across various magical disciplines, this spell demonstrates the principles of pattern restoration and material manipulation.
+Un hechizo de utilidad práctica que repara daños menores en objetos pequeños. Ampliamente enseñado a aprendices en diversas disciplinas mágicas, este hechizo demuestra los principios de la restauración de patrones y la manipulación de materiales.
 
-## Casting Information
+## Información del Lanzamiento
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | 30 seconds |
-| **Duration** | Instantaneous (repairs are permanent) |
-| **Range** | Touch |
-| **Components** | Somatic (tracing the break with fingers), Verbal (short phrase), Material (trace of the object's primary material) |
+| **Dificultad** | Novato |
+| **Tiempo de Lanzamiento** | 30 segundos |
+| **Duración** | Instantánea (las reparaciones son permanentes) |
+| **Rango** | Toque |
+| **Componentes** | Somático (trazar la rotura con los dedos), Verbal (frase corta), Material (rastro del material primario del objeto) |
 
-## Technical Details
+## Detalles Técnicos
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Mana Type** | Base Mana (60%), Terramana (30%), Vitaemana (10%) |
-| **Purity Required** | Basic (15-30%) |
-| **Pattern Complexity** | Simple (4 elements) |
-| **Resonance Frequency** | Restoration/Cohesion spectrum |
-| **Minimum Mana Capacity** | 20% (Higher capacity allows repair of more complex objects) |
+| **Tipo de Maná** | Maná Base (60%), Terramana (30%), Vitaemana (10%) |
+| **Pureza Requerida** | Básica (15-30%) |
+| **Complejidad del Patrón** | Simple (4 elementos) |
+| **Frecuencia de Resonancia** | Espectro de Restauración/Cohesión |
+| **Capacidad Mínima de Maná** | 20% (Una mayor capacidad permite la reparación de objetos más complejos) |
 
-## Pattern Structure
+## Estructura del Patrón
 
-The Mending Touch pattern consists of four primary elements:
-1. **Memory Node**: Captures the object's "memory" of its undamaged state
-2. **Structure Web**: Analyzes and stabilizes the existing structure
-3. **Material Flow**: Directs material elements to return to their proper configuration
-4. **Binding Seal**: Permanently fixes the restored configuration in place
+El patrón de Toque de Reparación consta de cuatro elementos primarios:
+1. **Nodo de Memoria**: Captura la "memoria" del objeto en su estado intacto
+2. **Red de Estructura**: Analiza y estabiliza la estructura existente
+3. **Flujo de Material**: Dirige los elementos materiales para que vuelvan a su configuración adecuada
+4. **Sello Vinculante**: Fija permanentemente la configuración restaurada en su lugar
 
-These elements form a diamond-shaped pattern that flows from the caster's hands into the damaged object.
+Estos elementos forman un patrón en forma de diamante que fluye desde las manos del lanzador hacia el objeto dañado.
 
-## Practical Effect
+## Efecto Práctico
 
-When successfully cast, the spell:
-- Reconnects broken pieces that are in contact with each other
-- Seals small cracks and fissures
-- Restores minor surface damage (scratches, scuffs, small chips)
-- Returns the object to functional condition, though often with visible repair lines
+Cuando se lanza con éxito, el hechizo:
+- Reconecta las piezas rotas que están en contacto entre sí
+- Sella pequeñas grietas y fisuras
+- Restaura daños superficiales menores (arañazos, rasguños, pequeñas astillas)
+- Devuelve el objeto a su condición funcional, aunque a menudo con líneas de reparación visibles
 
-## Limitations
+## Limitaciones
 
-- Works only on non-magical, non-living objects smaller than a breadbox
-- Cannot restore missing pieces (all fragments must be present)
-- Does not restore magical properties if the object once had them
-- Not suitable for extremely complex or intricate mechanisms
-- Visible "seams" remain at repair points, becoming less noticeable with caster skill
+- Funciona solo en objetos no mágicos y no vivos más pequeños que una panera
+- No puede restaurar piezas faltantes (todos los fragmentos deben estar presentes)
+- No restaura las propiedades mágicas si el objeto las tuvo alguna vez
+- No es adecuado para mecanismos extremadamente complejos o intrincados
+- Las "costuras" visibles permanecen en los puntos de reparación, volviéndose menos notorias con la habilidad del lanzador
 
-## Common Applications
+## Aplicaciones Comunes
 
-- Repairing broken dishes, cups, and glassware
-- Fixing torn pages in books
-- Mending torn clothing or simple accessories
-- Restoring broken tools to working condition
-- Reattaching handles, knobs, or small decorative elements
+- Reparar platos, tazas y cristalería rotos
+- Arreglar páginas rotas en libros
+- Remendar ropa rasgada o accesorios sencillos
+- Restaurar herramientas rotas a su condición de funcionamiento
+- Volver a colocar asas, pomos o pequeños elementos decorativos
 
-## Variations
+## Variaciones
 
-- **Seamless Mending**: An advanced variation that leaves no visible repair marks (Expert difficulty, 65-75% purity)
-- **Swift Mend**: A faster version with reduced effectiveness (15 seconds casting, less durable repairs)
-- **Remote Mending**: Allows repair without direct touch (Adept difficulty, 40-50% purity, requires clear line of sight)
-- **Material Focus**: Specialized versions optimized for specific materials (wood, cloth, ceramic, etc.)
+- **Remiendo Impecable**: Una variación avanzada que no deja marcas de reparación visibles (Dificultad Experto, pureza del 65-75%)
+- **Remiendo Rápido**: Una versión más rápida con efectividad reducida (15 segundos de lanzamiento, reparaciones menos duraderas)
+- **Remiendo Remoto**: Permite la reparación sin contacto directo (Dificultad Adepto, pureza del 40-50%, requiere línea de visión clara)
+- **Enfoque de Material**: Versiones especializadas optimizadas para materiales específicos (madera, tela, cerámica, etc.)
 
-## Risks and Miscast Effects
+## Riesgos y Efectos de Lanzamiento Fallido
 
-- **False Joining**: Pieces fuse incorrectly, resulting in a warped or unusable object
-- **Temporary Repair**: Poor casting or insufficient purity (below 15%) creates a repair that holds for only a few hours before failing
-- **Surface Marring**: Failed casting leaves discoloration or texture changes on the object
-- **Material Stress**: Creates invisible weaknesses that may cause the object to break again under strain
-- **Pattern Rebound**: Critical purity shortage (below 10%) may cause the broken pieces to repel each other, potentially causing minor injuries
+- **Unión Falsa**: Las piezas se fusionan incorrectamente, lo que resulta en un objeto deformado o inutilizable
+- **Reparación Temporal**: Un lanzamiento deficiente o una pureza insuficiente (por debajo del 15%) crea una reparación que se mantiene solo durante unas pocas horas antes de fallar
+- **Deterioro de la Superficie**: El lanzamiento fallido deja decoloración o cambios de textura en el objeto
+- **Estrés del Material**: Crea debilidades invisibles que pueden hacer que el objeto se rompa nuevamente bajo tensión
+- **Rebote del Patrón**: Una escasez crítica de pureza (por debajo del 10%) puede hacer que las piezas rotas se repelan entre sí, lo que podría causar lesiones menores
 
-## Purity Influence on Effect
+## Influencia de la Pureza en el Efecto
 
-| Purity Level | Effect Enhancement |
+| Nivel de Pureza | Mejora del Efecto |
 |--------------|---------------------|
-| 10-15% | Temporary repairs that last hours to days at most |
-| 15-30% | Standard effect as described above, visible repair lines |
-| 30-50% | Less visible repair lines, stronger bonds, can fix slightly more complex objects |
-| 50%+ | Nearly invisible repair seams, can restore minor missing material (chips, etc.) |
+| 10-15% | Reparaciones temporales que duran horas o días como máximo |
+| 15-30% | Efecto estándar como se describe arriba, líneas de reparación visibles |
+| 30-50% | Líneas de reparación menos visibles, uniones más fuertes, puede arreglar objetos ligeramente más complejos |
+| 50%+ | Costuras de reparación casi invisibles, puede restaurar material faltante menor (astillas, etc.) |
 
-## Musical Analogy
+## Analogía Musical
 
-Mending Touch is like tuning an instrument that has gone slightly out of tune. The caster must identify the proper "note" (the object's undamaged state) and carefully adjust the "strings" (material structure) until they once again produce harmony. Just as a precisely tuned instrument resonates with clarity, a properly mended object regains its structural integrity.
+Toque de Reparación es como afinar un instrumento que se ha desafinado ligeramente. El lanzador debe identificar la "nota" adecuada (el estado intacto del objeto) y ajustar cuidadosamente las "cuerdas" (estructura del material) hasta que vuelvan a producir armonía. Así como un instrumento afinado con precisión resuena con claridad, un objeto reparado correctamente recupera su integridad estructural.
 
-## Learning Progression
+## Progresión de Aprendizaje
 
-Most students master this spell through practice on increasingly challenging materials:
-1. **Paper and Fabrics**: Simple, forgiving materials
-2. **Wood and Ceramics**: More structure, requiring greater precision
-3. **Glass and Stone**: Dense materials that resist magical influence
-4. **Complex Objects**: Items with multiple materials or moving parts
+La mayoría de los estudiantes dominan este hechizo a través de la práctica en materiales cada vez más desafiantes:
+1. **Papel y Telas**: Materiales simples y permisivos
+2. **Madera y Cerámica**: Más estructura, que requiere mayor precisión
+3. **Vidrio y Piedra**: Materiales densos que resisten la influencia mágica
+4. **Objetos Complejos**: Artículos con múltiples materiales o partes móviles
 
-## Historical Note
+## Nota Histórica
 
-The first standardized version of Mending Touch was developed by Elven household mages of the Third Era who sought to create a practical spell accessible to those with minimal magical training. Initially dismissed by "serious" magical academics as mere housekeeping magic, the spell's elegant efficiency and practical utility eventually earned it a place in standard magical curricula. Today, it is often cited as a perfect example of magical design principles: maximum utility with minimal complexity. 
+La primera versión estandarizada de Toque de Reparación fue desarrollada por magos domésticos Elfos de la Tercera Era que buscaban crear un hechizo práctico accesible para aquellos con un entrenamiento mágico mínimo. Inicialmente descartado por los académicos mágicos "serios" como mera magia de limpieza, la elegante eficiencia y la utilidad práctica del hechizo finalmente le valieron un lugar en los planes de estudio mágicos estándar. Hoy en día, a menudo se cita como un ejemplo perfecto de los principios del diseño mágico: máxima utilidad con mínima complejidad.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

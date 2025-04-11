@@ -1,104 +1,108 @@
-# **Dragonkin**: The Ancient Children of Power
+# **Dragonkin**: Los Antiguos Hijos del Poder
 
-[**Dragonkin**](/codex/Creatures/Dragonkin.md) are the ancient children of power, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a timpani that commands attention with its powerful presence, they embody strength and elemental might, creating a unique melody of existence that emphasizes power, pride, and connection to the elements.
+Los [**Dragonkin**](/codex/Creatures/Dragonkin.md) son los antiguos hijos del poder, sus cuerpos una armoniosa mezcla de [**Exanthis**](/codex/Basic/Exanthis.md), [**Almas**](/codex/Basic/Soul.md), y **Capacidad de Maná**. Como un timbal que llama la atención con su poderosa presencia, encarnan la fuerza y el poder elemental, creando una melodía única de existencia que enfatiza el poder, el orgullo y la conexión con los elementos.
 
-## Elemental Composition
+## Composición Elemental
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dragonkin** forms a harmony that favors physical might:
+Como se detalla en [Criaturas](/codex/Creatures/Creatures.md), la proporción típica para los **dragonkin** forma una armonía que favorece el poder físico:
 
-| Element | Range | Function |
+| Elemento | Rango | Función |
 |---------|------------|----------|
-| **Exanthis** | 55-75% | The crystalline heart that provides extraordinary physical strength and durability |
-| **Soul** | 5-15% | The ethereal essence that shapes a proud and territorial consciousness |
-| **Mana Capacity** | 20-35% | The bridge between worlds that enables elemental magical potential |
+| **Exanthis** | 55-75% | El corazón cristalino que proporciona una fuerza física y durabilidad extraordinarias |
+| **Alma** | 5-15% | La esencia etérea que da forma a una conciencia orgullosa y territorial |
+| **Capacidad de Maná** | 20-35% | El puente entre mundos que permite el potencial mágico elemental |
 
-This composition grants **dragonkin** their characteristic physical might but limits their adaptability compared to other species, like a powerful instrument that produces commanding sounds but cannot play subtle melodies.
+Esta composición otorga a los **dragonkin** su característica fuerza física, pero limita su adaptabilidad en comparación con otras especies, como un poderoso instrumento que produce sonidos imponentes, pero no puede tocar melodías sutiles.
 
-### Individual Variations
+### Variaciones Individuales
 
-While the model composition represents the typical dragonkin, individual variations exist:
+Si bien la composición modelo representa al dragonkin típico, existen variaciones individuales:
 
-- **Titan Dragons**: Some dragonkin possess Exanthis levels as high as 80%, making them among the physically strongest beings in existence, with immense durability but minimal magical ability (10% Mana Capacity).
-- **Dragon Mystics**: Rare individuals have Mana Capacity approaching 45%, allowing them to channel elemental magic with extraordinary power, though they typically have reduced physical might (45% Exanthis).
-- **Soul Dragons**: Those with higher Soul percentages (up to 20%) develop exceptional wisdom and leadership abilities, often becoming powerful clan leaders or spiritual guides to their kind.
-- **Elemental Incarnates**: Specialized dragonkin with composition of (60% Exanthis, 5% Soul, 35% Mana Capacity) can completely embody a specific elemental force, becoming living manifestations of fire, lightning, frost, or other elements.
-- **Drake Sentinels**: A balanced variant with (50% Exanthis, 15% Soul, 35% Mana Capacity) combines physical prowess with significant magical ability, making them versatile guardians of dragonkin territories.
+- **Dragones Titán**: Algunos dragonkin poseen niveles de Exanthis tan altos como el 80%, lo que los convierte en uno de los seres físicamente más fuertes que existen, con una inmensa durabilidad, pero una habilidad mágica mínima (10% de Capacidad de Maná).
+- **Místicos Dragón**: Individuos raros tienen una Capacidad de Maná que se acerca al 45%, lo que les permite canalizar magia elemental con un poder extraordinario, aunque normalmente tienen una fuerza física reducida (45% de Exanthis).
+- **Dragones Alma**: Aquellos con porcentajes de Alma más altos (hasta el 20%) desarrollan una sabiduría y habilidades de liderazgo excepcionales, a menudo convirtiéndose en poderosos líderes de clan o guías espirituales de su especie.
+- **Encarnaciones Elementales**: Dragonkin especializados con una composición de (60% Exanthis, 5% Alma, 35% Capacidad de Maná) pueden encarnar por completo una fuerza elemental específica, convirtiéndose en manifestaciones vivientes de fuego, relámpagos, escarcha u otros elementos.
+- **Centinelas Draco**: Una variante equilibrada con (50% Exanthis, 15% Alma, 35% Capacidad de Maná) combina la destreza física con una capacidad mágica significativa, lo que los convierte en guardianes versátiles de los territorios dragonkin.
 
-## Physical Characteristics
+## Características Físicas
 
-**Dragonkin** are known for their imposing presence and draconic features:
-- Tall and muscular, with a presence that commands attention
-- Scales that provide natural armor, ranging in color from deep red to iridescent blue
-- Eyes that glow with inner fire, reflecting their connection to power
-- Horns or crests that vary in shape and size, often indicating lineage
-- Claws and fangs that serve as natural weapons
-- Wings that allow limited flight, though not as powerful as true dragons
+Los **Dragonkin** son conocidos por su imponente presencia y rasgos dracónicos:
+- Altos y musculosos, con una presencia que llama la atención
+- Escamas que proporcionan una armadura natural, que varían en color desde el rojo intenso hasta el azul iridiscente
+- Ojos que brillan con fuego interior, reflejando su conexión con el poder
+- Cuernos o crestas que varían en forma y tamaño, a menudo indicando linaje
+- Garras y colmillos que sirven como armas naturales
+- Alas que permiten un vuelo limitado, aunque no tan poderosas como los verdaderos dragones
 
-## Physical and Magical Affinity
+## Afinidad Física y Mágica
 
-**Dragonkin** demonstrate exceptional proficiency in physical might and elemental magic, like virtuoso performers who excel in power and intensity. Their composition allows them to:
-- Develop extraordinary strength and resilience, like living embodiments of power
-- Channel elemental energies with moderate proficiency, particularly fire and lightning
-- Resist magical effects through their high **Exanthis** content, like a mountain standing against a storm
+Los **Dragonkin** demuestran una excepcional competencia en fuerza física y magia elemental, como intérpretes virtuosos que sobresalen en poder e intensidad. Su composición les permite:
+- Desarrollar una fuerza y ​​resistencia extraordinarias, como encarnaciones vivientes del poder
+- Canalizar energías elementales con moderada competencia, particularmente fuego y relámpagos
+- Resistir los efectos mágicos a través de su alto contenido de **Exanthis**, como una montaña que se enfrenta a una tormenta
 
-This power makes **dragonkin** capable of achieving feats of strength that few other species can match, though they may struggle with tasks requiring subtlety or adaptability, like a powerful instrument that can only play at full volume.
+Este poder hace que los **dragonkin** sean capaces de lograr hazañas de fuerza que pocas otras especies pueden igualar, aunque pueden tener dificultades con tareas que requieran sutileza o adaptabilidad, como un poderoso instrumento que solo puede tocar a todo volumen.
 
-## Lifespan and Soul Decay
+## Vida útil y Decaimiento del Alma
 
-The **soul decay** timeline for **dragonkin**, from birth to complete decay, is approximately 500 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate power and knowledge over centuries
-- Develop deep connections to their territories and lineages
-- Form powerful societies with strong hierarchical structures
+La línea de tiempo del **decaimiento del alma** para los **dragonkin**, desde el nacimiento hasta el decaimiento completo, es de aproximadamente 500 años, como una llama de combustión lenta que ilumina las edades. Esta vida útil prolongada les permite:
+- Acumular poder y conocimiento durante siglos
+- Desarrollar conexiones profundas con sus territorios y linajes
+- Formar sociedades poderosas con fuertes estructuras jerárquicas
 
-However, their minimal soul ratio also means they change and adapt very slowly, like a melody that remains powerful but unchanging through the ages.
+Sin embargo, su mínima proporción de alma también significa que cambian y se adaptan muy lentamente, como una melodía que sigue siendo poderosa, pero inmutable a lo largo de los siglos.
 
-## Habitat and Distribution
+## Hábitat y Distribución
 
-**Dragonkin** primarily inhabit:
-- Remote mountain ranges and volcanic regions, where they can be closest to elemental power
-- Territories that provide natural defenses and resources
-- Strategic locations that allow them to maintain their independence
+Los **Dragonkin** habitan principalmente:
+- Cordilleras remotas y regiones volcánicas, donde pueden estar más cerca del poder elemental
+- Territorios que proporcionan defensas y recursos naturales
+- Ubicaciones estratégicas que les permiten mantener su independencia
 
-These locations provide ideal environments for the development of power and the practice of elemental magic, like a stage perfectly suited to their performance.
+Estos lugares proporcionan entornos ideales para el desarrollo del poder y la práctica de la magia elemental, como un escenario perfectamente adecuado para su actuación.
 
-## Cultural Impact
+## Impacto Cultural
 
-In the world of **OpenFantasy**, **dragonkin** play a crucial role in maintaining the balance of power, like conductors of the grand symphony of strength. Their societies are centers of:
-- Martial prowess and military might
-- Elemental magic and power
-- Hierarchical structures and lineage pride
+En el mundo de **OpenFantasy**, los **dragonkin** desempeñan un papel crucial en el mantenimiento del equilibrio de poder, como directores de la gran sinfonía de la fuerza. Sus sociedades son centros de:
+- Destreza marcial y poder militar
+- Magia elemental y poder
+- Estructuras jerárquicas y orgullo de linaje
 
-The connection to power has shaped dragonkin culture around respect for strength, lineage, and dominance, creating a society where might makes right.
+La conexión con el poder ha moldeado la cultura dragonkin en torno al respeto por la fuerza, el linaje y el dominio, creando una sociedad donde el poder hace el derecho.
 
-## Relationship with Other Species
+## Relación con Otras Especies
 
-**Dragonkin** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their weakness
-- With **Elves**: A wary respect, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and craftsmanship
-- With **True Dragons**: A complex relationship of reverence and rivalry
+Los **Dragonkin** mantienen relaciones complejas con otras especies:
+- Con los [**Humanos**](/codex/Creatures/Human.md): Una mezcla de respeto por su adaptabilidad y frustración por su debilidad
+- Con los **Elfos**: Un respeto cauteloso, reconociendo su destreza mágica, pero encontrando sus caminos extraños
+- Con los **Enanos**: Una alianza pragmática basada en el respeto mutuo por la fuerza y la artesanía
+- Con los **Verdaderos Dragones**: Una relación compleja de reverencia y rivalidad
 
-These relationships are often characterized by a sense of superiority, as **dragonkin** view themselves as the true heirs to draconic power.
+Estas relaciones a menudo se caracterizan por una sensación de superioridad, ya que los **dragonkin** se ven a sí mismos como los verdaderos herederos del poder dracónico.
 
-## Notable Dragonkin Traits
+## Rasgos Notables de los Dragonkin
 
-- **Physical Might**: Dragonkin excel in strength and resilience, often surpassing other species in raw power
-- **Elemental Affinity**: Dragonkin have a natural connection to elemental magic, particularly fire and lightning
-- **Limited Adaptability**: Their minimal soul ratio makes it difficult for dragonkin to change or adapt
-- **Lineage Pride**: Dragonkin place great emphasis on their draconic heritage and lineage
-- **Territorial Nature**: Dragonkin are fiercely protective of their territories and resources
+- **Poder Físico**: Los dragonkin sobresalen en fuerza y ​​resistencia, a menudo superando a otras especies en poder bruto
+- **Afinidad Elemental**: Los dragonkin tienen una conexión natural con la magia elemental, particularmente el fuego y los relámpagos
+- **Adaptabilidad Limitada**: Su mínima proporción de alma dificulta que los dragonkin cambien o se adapten
+- **Orgullo de Linaje**: Los dragonkin ponen gran énfasis en su herencia y linaje dracónicos
+- **Naturaleza Territorial**: Los dragonkin son ferozmente protectores de sus territorios y recursos
 
-## Dragonkin Lineages
+## Linajes Dragonkin
 
-Dragonkin society is organized around powerful lineages, each tracing its heritage to a specific type of dragon:
+La sociedad dragonkin está organizada en torno a poderosos linajes, cada uno de los cuales traza su herencia a un tipo específico de dragón:
 
-| Lineage | Elemental Affinity | Territory | Notable Traits |
+| Linaje | Afinidad Elemental | Territorio | Rasgos Notables |
 |---------|---------------|---------|-------------------|
-| **Fireblood** | Fire | Volcanic regions | Intense passion, destructive power |
-| **Stormwing** | Lightning | Mountain peaks | Swift action, electrical mastery |
-| **Frostscale** | Ice | Arctic regions | Patient strategy, cold precision |
-| **Earthclaw** | Earth | Mountain ranges | Steadfast defense, geological control |
-| **Windrider** | Air | Cloud islands | Swift movement, aerial dominance |
-| **Tidecaller** | Water | Coastal regions | Fluid adaptation, aquatic mastery |
+| **Sangre de Fuego** | Fuego | Regiones volcánicas | Pasión intensa, poder destructivo |
+| **Ala de Tormenta** | Relámpago | Picos de montañas | Acción rápida, dominio eléctrico |
+| **Escama de Hielo** | Hielo | Regiones árticas | Estrategia paciente, precisión fría |
+| **Garra de Tierra** | Tierra | Cordilleras | Defensa firme, control geológico |
+| **Jinete del Viento** | Aire | Islas de nubes | Movimiento rápido, dominio aéreo |
+| **Llamador de Mareas** | Agua | Regiones costeras | Adaptación fluida, dominio acuático |
 
-Understanding the nature of **dragonkin** provides insight into the power dynamics of the world of **OpenFantasy**, like feeling the thunderous rhythms that pulse through the mountains and skies. 
+Comprender la naturaleza de los **dragonkin** proporciona información sobre la dinámica de poder del mundo de **OpenFantasy**, como sentir los ritmos atronadores que palpitan a través de las montañas y los cielos.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

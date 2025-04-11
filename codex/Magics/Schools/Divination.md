@@ -1,151 +1,155 @@
-# **The School of Divination**
+# **La Escuela de Adivinación**
 
-> *"To see beyond sight is to understand that time and space are but suggestions to those who know how to listen."*  
-> — Archmage Thalindra Starwhisper, Oracle of the Seventh Veil
+> *"Ver más allá de la vista es comprender que el tiempo y el espacio no son más que sugerencias para aquellos que saben escuchar."*
+> — Archimaga Thalindra Starwhisper, Oráculo del Séptimo Velo
 
-## Overview
+## Descripción General
 
-Divination magic focuses on gaining insight, knowledge, and understanding beyond ordinary perception. Unlike illusion magic which creates false perceptions, divination enhances and extends perception to reveal hidden truths about the past, present, and possible futures. Divination is considered one of the most subtle and complex magical arts, requiring exceptional mana control and mental discipline.
+La magia de adivinación se centra en obtener perspicacia, conocimiento y comprensión más allá de la percepción ordinaria. A diferencia de la magia de la ilusión, que crea percepciones falsas, la adivinación mejora y extiende la percepción para revelar verdades ocultas sobre el pasado, el presente y los posibles futuros. La adivinación se considera una de las artes mágicas más sutiles y complejas, que requiere un control excepcional del maná y disciplina mental.
 
-## Fundamental Principles
+## Principios Fundamentales
 
-### The Threads of Fate
+### Los Hilos del Destino
 
-Divination operates on the principle that all events, objects, and beings are connected by invisible threads of causality and resonance. These "Threads of Fate" contain information about their connections, origins, and potential futures. Divination magic allows practitioners to perceive and interpret these threads.
+La adivinación opera bajo el principio de que todos los eventos, objetos y seres están conectados por hilos invisibles de causalidad y resonancia. Estos "Hilos del Destino" contienen información sobre sus conexiones, orígenes y futuros potenciales. La magia de adivinación permite a los practicantes percibir e interpretar estos hilos.
 
-The four fundamental aspects of divinatory perception are:
+Los cuatro aspectos fundamentales de la percepción adivinatoria son:
 
-1. **Temporal Echoes**: Residual information from past events
-2. **Spatial Connections**: Links between related objects, places, and beings
-3. **Causal Patterns**: The web of cause and effect that shapes events
-4. **Potential Futures**: Probability streams of what may come to pass
+1. **Ecos Temporales**: Información residual de eventos pasados
+2. **Conexiones Espaciales**: Vínculos entre objetos, lugares y seres relacionados
+3. **Patrones Causales**: La red de causa y efecto que da forma a los eventos
+4. **Futuros Potenciales**: Flujos de probabilidad de lo que puede suceder
 
-### Mana Requirements
+### Requisitos de Maná
 
-Divination magic requires precise mana composition:
+La magia de adivinación requiere una composición precisa de maná:
 
-| Divinatory Focus | Primary Mana | Secondary Mana | Purpose |
+| Enfoque Adivinatorio | Maná Primario | Maná Secundario | Propósito |
 |------------------|-------------|----------------|---------|
-| Present Sensing | Base Mana (50-70%) | Varies by target | Foundation for perception extension |
-| Past Viewing | Chronomana (40-60%) | Base Mana (30-40%) | Accessing temporal echoes |
-| Future Glimpsing | Chronomana (60-80%) | Umbramana (10-20%) | Probability stream navigation |
-| Object Reading | Base Mana (40-60%) | Terramana (30-40%) | Material memory extraction |
-| Life Reading | Base Mana (30-50%) | Floramana/Faunamana (40-50%) | Biological connection tracing |
-| Distant Viewing | Aeromana (50-70%) | Base Mana (20-30%) | Spatial perception extension |
+| Sensación del Presente | Maná Base (50-70%) | Varía según el objetivo | Base para la extensión de la percepción |
+| Visión del Pasado | Cronomaná (40-60%) | Maná Base (30-40%) | Acceso a ecos temporales |
+| Vislumbrar el Futuro | Cronomaná (60-80%) | Umbramaná (10-20%) | Navegación del flujo de probabilidad |
+| Lectura de Objetos | Maná Base (40-60%) | Terramaná (30-40%) | Extracción de memoria material |
+| Lectura de Vida | Maná Base (30-50%) | Floramaná/Faunamaná (40-50%) | Rastreo de conexión biológica |
+| Visión Distante | Aeromaná (50-70%) | Maná Base (20-30%) | Extensión de la percepción espacial |
 
-More powerful divination spells often require complex harmonization of multiple mana types, with precise ratios that must be maintained throughout the casting process.
+Los hechizos de adivinación más poderosos a menudo requieren una armonización compleja de múltiples tipos de maná, con proporciones precisas que deben mantenerse durante todo el proceso de lanzamiento.
 
-### Wild Mana Interference
+### Interferencia del Maná Salvaje
 
-Divination is extraordinarily vulnerable to Wild Mana contamination. The unpatterned nature of Wild Mana creates "false threads" that can lead to inaccurate readings or dangerous misinterpretations. Effects include:
+La adivinación es extraordinariamente vulnerable a la contaminación del Maná Salvaje. La naturaleza no estructurada del Maná Salvaje crea "hilos falsos" que pueden conducir a lecturas inexactas o malas interpretaciones peligrosas. Los efectos incluyen:
 
-- **Temporal Distortion**: Viewing events from incorrect time periods
-- **False Positives**: Seeing connections that don't actually exist
-- **Probability Cascade**: Overwhelming the caster with multiple conflicting futures
-- **Perceptual Anchoring**: The caster becoming trapped in a divinatory vision
+- **Distorsión Temporal**: Ver eventos de períodos de tiempo incorrectos
+- **Falsos Positivos**: Ver conexiones que en realidad no existen
+- **Cascada de Probabilidad**: Abrumar al lanzador con múltiples futuros conflictivos
+- **Anclaje Perceptual**: El lanzador queda atrapado en una visión adivinatoria
 
-Advanced practitioners develop specialized Wild Mana filtering techniques to minimize these risks.
+Los practicantes avanzados desarrollan técnicas especializadas de filtrado de Maná Salvaje para minimizar estos riesgos.
 
-## Mana Purification for Divination
+## Purificación de Maná para la Adivinación
 
-Divination requires exceptionally high mana purity due to the subtle nature of the information being accessed. The purification process focuses on achieving "Perceptual Clarity" - a state where the mana is refined to eliminate any elements that would create false perceptions.
+La adivinación requiere una pureza de maná excepcionalmente alta debido a la naturaleza sutil de la información a la que se accede. El proceso de purificación se centra en lograr la "Claridad Perceptual", un estado en el que el maná se refina para eliminar cualquier elemento que pueda crear percepciones falsas.
 
-| Purification Level | Divination Capability |
+| Nivel de Purificación | Capacidad de Adivinación |
 |--------------------|----------------------|
-| Basic (20-30%) | Simple object reading and magical detection |
-| Intermediate (35-50%) | Short-range scrying and basic past viewing |
-| Advanced (55-70%) | Reliable future glimpsing and detailed past viewing |
-| Master (75-85%) | Long-range viewing with high accuracy and clarity |
-| Grandmaster (90%+) | Multi-temporal perception and probability manipulation |
+| Básico (20-30%) | Lectura simple de objetos y detección mágica |
+| Intermedio (35-50%) | Adivinación a corto alcance y visión básica del pasado |
+| Avanzado (55-70%) | Visión confiable del futuro y visión detallada del pasado |
+| Maestro (75-85%) | Visión de largo alcance con alta precisión y claridad |
+| Gran Maestro (90%+) | Percepción multi-temporal y manipulación de la probabilidad |
 
-## Magical Resonance in Divination
+## Resonancia Mágica en la Adivinación
 
-Divination exhibits unique resonance patterns described as "harmonic perception" - where the mana pattern synchronizes with the information being sought, allowing it to be perceived and interpreted by the caster.
+La adivinación exhibe patrones de resonancia únicos descritos como "percepción armónica", donde el patrón de maná se sincroniza con la información que se busca, lo que permite que el lanzador la perciba e interprete.
 
-This resonance is highly personal, which is why divination results can vary between practitioners even when viewing the same target. Each diviner develops a unique "perceptual signature" that colors their interpretation of divinatory information.
+Esta resonancia es altamente personal, razón por la cual los resultados de la adivinación pueden variar entre los practicantes incluso cuando ven el mismo objetivo. Cada adivino desarrolla una "firma perceptual" única que colorea su interpretación de la información adivinatoria.
 
-## Specialized Disciplines
+## Disciplinas Especializadas
 
-### Chronomancy
+### Cronomancia
 
-Focused on viewing events across time, particularly the past and possible futures. Practitioners are known as Chronoseers.
+Se centra en la visualización de eventos a través del tiempo, particularmente el pasado y los posibles futuros. Los practicantes son conocidos como Cronovidentes.
 
-### Psychometry
+### Psicometría
 
-The art of reading objects to perceive information about their history, owners, and significance. Masters are called Memoryreaders.
+El arte de leer objetos para percibir información sobre su historia, propietarios y significado. Los maestros se llaman Lectores de Memoria.
 
-### Spatial Scrying
+### Adivinación Espacial
 
-Specializes in viewing distant locations in the present moment. Practitioners are known as Farseers.
+Se especializa en la visualización de ubicaciones distantes en el momento presente. Los practicantes son conocidos como Clarividentes.
 
-### Auramancy
+### Auramancia
 
-The discipline of perceiving and interpreting the magical and life energies that surround beings. Practitioners are called Aurasights.
+La disciplina de percibir e interpretar las energías mágicas y vitales que rodean a los seres. Los practicantes son llamados Aurasights.
 
-### Probability Mapping
+### Mapeo de Probabilidad
 
-Advanced discipline focused on identifying and navigating potential futures. Masters are known as Fateweavers.
+Disciplina avanzada centrada en identificar y navegar por futuros potenciales. Los maestros son conocidos como Tejedores del Destino.
 
-## Training Methodology
+## Metodología de Entrenamiento
 
-Divination training follows a methodical progression:
+El entrenamiento en adivinación sigue una progresión metódica:
 
-1. **Perceptual Expansion**: Learning to extend awareness beyond physical senses
-2. **Signal Isolation**: Developing the ability to focus on specific information threads
-3. **Wild Mana Filtering**: Techniques for eliminating perceptual contamination
-4. **Temporal Navigation**: Methods for shifting perceptual focus through time
-5. **Interpretation Rigor**: Developing systematic approaches to analyzing divinatory information
-6. **Multi-Threading**: Advanced techniques for following multiple information streams
-7. **Anchoring Practices**: Methods to maintain connection to present reality during deep divination
+1. **Expansión Perceptual**: Aprender a extender la conciencia más allá de los sentidos físicos
+2. **Aislamiento de Señales**: Desarrollar la capacidad de centrarse en hilos de información específicos
+3. **Filtrado de Maná Salvaje**: Técnicas para eliminar la contaminación perceptual
+4. **Navegación Temporal**: Métodos para cambiar el enfoque perceptual a través del tiempo
+5. **Rigor de Interpretación**: Desarrollo de enfoques sistemáticos para analizar la información adivinatoria
+6. **Multihilo**: Técnicas avanzadas para seguir múltiples flujos de información
+7. **Prácticas de Anclaje**: Métodos para mantener la conexión con la realidad presente durante la adivinación profunda
 
-## Ethical Considerations
+## Consideraciones Éticas
 
-Divination raises significant ethical concerns regarding privacy, free will, and responsibility:
+La adivinación plantea importantes preocupaciones éticas con respecto a la privacidad, el libre albedrío y la responsabilidad:
 
-- **Perceptual Consent**: The question of whether viewing others without permission violates their autonomy
-- **Future Knowledge**: The ethical implications of acting on knowledge of potential futures
-- **Intervention Responsibility**: Whether diviners have an obligation to prevent foreseen harms
-- **Truth Disclosure**: Guidelines about sharing potentially harmful divinatory information
+- **Consentimiento Perceptual**: La cuestión de si ver a otros sin permiso viola su autonomía
+- **Conocimiento Futuro**: Las implicaciones éticas de actuar sobre el conocimiento de futuros potenciales
+- **Responsabilidad de Intervención**: Si los adivinos tienen la obligación de prevenir daños previstos
+- **Divulgación de la Verdad**: Directrices sobre el intercambio de información adivinatoria potencialmente dañina
 
-Most reputable magical institutions enforce strict codes of conduct for diviners, including restrictions on divining private moments and requirements to report certain categories of foreseen threats.
+La mayoría de las instituciones mágicas de buena reputación hacen cumplir códigos de conducta estrictos para los adivinos, incluidas las restricciones para adivinar momentos privados y los requisitos para informar ciertas categorías de amenazas previstas.
 
-## Limitations and Countermeasures
+## Limitaciones y Contramedidas
 
-Despite its power, divination has inherent limitations:
+A pesar de su poder, la adivinación tiene limitaciones inherentes:
 
-- **Probability Flux**: Future events exist as probability streams that can shift based on choices
-- **Perceptual Filters**: The diviner's own biases can affect interpretation
-- **Energy Requirements**: Powerful divination requires significant mana and mental focus
-- **Temporal Distance**: Greater temporal or spatial distance increases difficulty and reduces accuracy
+- **Flujo de Probabilidad**: Los eventos futuros existen como flujos de probabilidad que pueden cambiar según las decisiones
+- **Filtros Perceptuales**: Los propios sesgos del adivino pueden afectar la interpretación
+- **Requisitos de Energía**: La adivinación poderosa requiere un maná significativo y enfoque mental
+- **Distancia Temporal**: Una mayor distancia temporal o espacial aumenta la dificultad y reduce la precisión
 
-Common countermeasures against unwanted divination include:
+Las contramedidas comunes contra la adivinación no deseada incluyen:
 
-- **Veiling**: Spells that obscure objects or beings from divinatory perception
-- **Thread Severing**: Techniques that break connections that diviners might follow
-- **Pattern Disruption**: Methods that create confusing or misleading information patterns
-- **Wild Mana Saturation**: Creating local concentrations of Wild Mana to introduce false signals
+- **Velamiento**: Hechizos que oscurecen objetos o seres de la percepción adivinatoria
+- **Corte de Hilos**: Técnicas que rompen las conexiones que los adivinos podrían seguir
+- **Interrupción de Patrones**: Métodos que crean patrones de información confusos o engañosos
+- **Saturación de Maná Salvaje**: Creación de concentraciones locales de Maná Salvaje para introducir señales falsas
 
-## Musical Analogy
+## Analogía Musical
 
-In the musical framework of magic, divination is akin to active listening - the art of discerning specific instruments, harmonies, and melodies within a complex orchestration. The diviner must tune their perception to the specific "frequency" of the information they seek, filtering out background noise.
+En el marco musical de la magia, la adivinación es similar a la escucha activa: el arte de discernir instrumentos, armonías y melodías específicos dentro de una orquestación compleja. El adivino debe sintonizar su percepción con la "frecuencia" específica de la información que busca, filtrando el ruido de fondo.
 
-Master diviners describe their craft as finding the silent spaces between notes, where the future and past whisper their secrets. Like a conductor who can hear a single out-of-tune instrument in a full orchestra, the skilled diviner can identify the specific thread of information they seek amidst the countless connections that bind reality together.
+Los maestros adivinos describen su arte como encontrar los espacios silenciosos entre las notas, donde el futuro y el pasado susurran sus secretos. Al igual que un director que puede escuchar un solo instrumento desafinado en una orquesta completa, el adivino experto puede identificar el hilo específico de información que busca en medio de las innumerables conexiones que unen la realidad.
 
-## Notable Practitioners
+## Practicantes Notables
 
-- **Thalindra Starwhisper**: Developer of the Stellar Divination system and author of "Voices Beyond Time"
-- **Eldrin Truthseeker**: Creator of the Magic Sense spell and pioneer of magical energy detection
-- **Sylarion Fatecaller**: Master of Probability Mapping who accurately predicted the Fall of Caelum
-- **Moira Veilwalker**: Renowned for developing Wild Mana filtering techniques for divination
+- **Thalindra Starwhisper**: Desarrolladora del sistema de Adivinación Estelar y autora de "Voces Más Allá del Tiempo"
+- **Eldrin Buscador de la Verdad**: Creador del hechizo Sentido Mágico y pionero en la detección de energía mágica
+- **Sylarion Llamador del Destino**: Maestro del Mapeo de Probabilidad que predijo con precisión la Caída de Caelum
+- **Moira Caminante del Velo**: Reconocida por desarrollar técnicas de filtrado de Maná Salvaje para la adivinación
 
-## Historical Development
+## Desarrollo Histórico
 
-Divination is one of the oldest magical disciplines, with evidence of formalized practice dating to the First Age. Early divination focused primarily on weather prediction, hunting success, and tribal fate, developing from shamanic traditions.
+La adivinación es una de las disciplinas mágicas más antiguas, con evidencia de práctica formalizada que data de la Primera Era. La adivinación temprana se centró principalmente en la predicción del clima, el éxito de la caza y el destino tribal, desarrollándose a partir de las tradiciones chamánicas.
 
-The Second Age saw the emergence of systematic divination theory with the writing of "The Threads That Bind" by Archseer Elindor. This established the fundamental conceptual framework still used in modern practice.
+La Segunda Era vio el surgimiento de la teoría de la adivinación sistemática con la escritura de "Los Hilos Que Unen" por el Archividente Elindor. Esto estableció el marco conceptual fundamental que todavía se utiliza en la práctica moderna.
 
-The Third Age brought technological and theoretical advances, particularly in the area of Wild Mana filtering and probability navigation. Modern divination continues to evolve, with increasing integration with other magical disciplines such as enchantment and warding.
+La Tercera Era trajo avances tecnológicos y teóricos, particularmente en el área del filtrado de Maná Salvaje y la navegación de probabilidad. La adivinación moderna continúa evolucionando, con una creciente integración con otras disciplinas mágicas como el encantamiento y el amparo.
 
 ---
 
-*See also: [Magic Sense](/codex/Magics/Spells/Divination/MagicSense.md), [Temporal Magic](/codex/Magics/Domains/Temporal.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*Ver también: [Sentido Mágico](/codex/Magics/Spells/Divination/MagicSense.md), [Magia Temporal](/codex/Magics/Domains/Temporal.md), [Purificación de Maná](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

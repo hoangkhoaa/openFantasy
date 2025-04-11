@@ -1,121 +1,125 @@
-# Animals of OpenFantasy
+# Animales de OpenFantasy
 
-> *"From the smallest songbird to the mightiest leviathan, the animal kingdom provides the vibrant backdrop against which all stories unfold."*
+> *"Desde el pájaro cantor más pequeño hasta el leviatán más poderoso, el reino animal proporciona el vibrante telón de fondo contra el cual se desarrollan todas las historias."*
 
-## Overview
+## Resumen
 
-Animals in OpenFantasy represent the diverse non-sentient fauna that inhabit the world's ecosystems. While they lack the advanced reasoning and civilization-building capabilities of sentient species, animals possess varying degrees of intelligence, instinct, and in some cases, innate magical properties.
+Los animales en OpenFantasy representan la diversa fauna no sintiente que habita los ecosistemas del mundo. Si bien carecen de las capacidades avanzadas de razonamiento y construcción de civilizaciones de las especies sintientes, los animales poseen diversos grados de inteligencia, instinto y, en algunos casos, propiedades mágicas innatas.
 
-Unlike the purely magical beings or constructed creatures, animals evolved naturally within the world's ecosystems, though some have been influenced by magical environments or selective breeding by sentient species.
+A diferencia de los seres puramente mágicos o las criaturas construidas, los animales evolucionaron naturalmente dentro de los ecosistemas del mundo, aunque algunos han sido influenciados por entornos mágicos o la cría selectiva por parte de especies sintientes.
 
-## Elemental Composition
+## Composición Elemental
 
-Animals typically have a higher proportion of Exanthis (physical form) compared to Soul and Mana Capacity, with some notable exceptions:
+Los animales típicamente tienen una mayor proporción de Exanthis (forma física) en comparación con Capacidad de Alma y Mana, con algunas excepciones notables:
 
-| Animal Category | Typical Elemental Ratio | Notes |
-|-----------------|-------------------------|-------|
-| Common Mundane | E: 75-90%, S: 8-20%, M: 2-5% | Most standard wildlife |
-| Companion Animals | E: 65-85%, S: 12-25%, M: 3-10% | Domesticated species with higher intelligence |
-| Apex Predators | E: 70-85%, S: 10-20%, M: 5-15% | Evolved for hunting efficiency |
-| Magical Animals | E: 50-75%, S: 5-15%, M: 15-45% | Species with innate magical properties |
+| Categoría Animal   | Proporción Elemental Típica | Notas                                                       |
+|-------------------|-----------------------------|-------------------------------------------------------------|
+| Común Mundano     | E: 75-90%, S: 8-20%, M: 2-5%  | La mayoría de la vida silvestre estándar                                   |
+| Animales de Compañía | E: 65-85%, S: 12-25%, M: 3-10% | Especies domesticadas con mayor inteligencia                         |
+| Depredadores Apex  | E: 70-85%, S: 10-20%, M: 5-15% | Evolucionados para la eficiencia en la caza                              |
+| Animales Mágicos  | E: 50-75%, S: 5-15%, M: 15-45% | Especies con propiedades mágicas innatas                            |
 
-## Animal Classifications
+## Clasificaciones de Animales
 
-### Domesticated Animals
+### Animales Domesticados
 
-Species that have been selectively bred by sentient races for specific purposes:
+Especies que han sido criadas selectivamente por razas sintientes para fines específicos:
 
-| Category | Examples | Primary Uses |
-|----------|----------|--------------|
-| **Working Animals** | Horses, oxen, pack mules | Transportation, agriculture, labor |
-| **Companion Animals** | Dogs, cats, small birds | Emotional bonding, protection, pest control |
-| **Livestock** | Cattle, sheep, poultry | Food production, materials (wool, leather) |
-| **Guardian Beasts** | Wardogs, sentinel falcons | Security, perimeter control |
+| Categoría          | Ejemplos                 | Usos Primarios                                      |
+|--------------------|--------------------------|-----------------------------------------------------|
+| **Animales de Trabajo** | Caballos, bueyes, mulas de carga | Transporte, agricultura, trabajo                      |
+| **Animales de Compañía** | Perros, gatos, aves pequeñas   | Vinculación emocional, protección, control de plagas |
+| **Ganado**           | Ganado vacuno, ovejas, aves de corral | Producción de alimentos, materiales (lana, cuero)      |
+| **Bestias Guardianas** | Perros guardianes, halcones centinelas | Seguridad, control perimetral                       |
 
-→ See [Domesticated Animals](Domesticated.md) for detailed information.
+→ Ver [Animales Domesticados](Domesticated.md) para información detallada.
 
-### Wild Animals
+### Animales Salvajes
 
-Creatures that exist independently in natural ecosystems:
+Criaturas que existen independientemente en ecosistemas naturales:
 
-| Category | Examples | Ecological Role |
-|----------|----------|----------------|
-| **Herbivores** | Deer, rabbits, grazing beasts | Primary consumers, seed dispersal |
-| **Predators** | Wolves, large cats, birds of prey | Population control, ecosystem balance |
-| **Scavengers** | Vultures, carrion beetles | Decomposition, disease prevention |
-| **Pollinators** | Bees, butterflies, hummingbirds | Plant reproduction, ecosystem sustainability |
+| Categoría     | Ejemplos                 | Rol Ecológico                                   |
+|---------------|--------------------------|-------------------------------------------------|
+| **Herbívoros** | Ciervos, conejos, bestias de pastoreo | Consumidores primarios, dispersión de semillas       |
+| **Depredadores** | Lobos, grandes felinos, aves de presa | Control de la población, equilibrio del ecosistema  |
+| **Carroñeros** | Buitres, escarabajos carroñeros | Descomposición, prevención de enfermedades            |
+| **Polinizadores** | Abejas, mariposas, colibríes | Reproducción de plantas, sostenibilidad del ecosistema |
 
-→ See [Wild Animals](Wild.md) for detailed information.
+→ Ver [Animales Salvajes](Wild.md) para información detallada.
 
-### Aquatic Creatures
+### Criaturas Acuáticas
 
-Beings adapted to life in water environments:
+Seres adaptados a la vida en ambientes acuáticos:
 
-| Category | Examples | Habitat |
-|----------|----------|---------|
-| **Marine Mammals** | Whales, dolphins, seals | Oceans, coastal waters |
-| **Fish Species** | Trout, sharks, deep-sea species | Rivers, lakes, oceans |
-| **Crustaceans & Mollusks** | Crabs, octopi, giant squid | Ocean floors, tidal zones |
-| **Amphibious** | Frogs, newts, transitional species | Wetlands, shorelines |
+| Categoría               | Ejemplos                     | Hábitat                                   |
+|------------------------|------------------------------|-------------------------------------------|
+| **Mamíferos Marinos**    | Ballenas, delfines, focas    | Océanos, aguas costeras                   |
+| **Especies de Peces**   | Truchas, tiburones, especies de aguas profundas | Ríos, lagos, océanos                      |
+| **Crustáceos y Moluscos** | Cangrejos, pulpos, calamar gigante | Fondos oceánicos, zonas intermareales         |
+| **Anfibios**            | Ranas, tritones, especies de transición | Humedales, orillas                         |
 
-→ See [Aquatic Animals](Aquatic.md) for detailed information.
+→ Ver [Animales Acuáticos](Aquatic.md) para información detallada.
 
-### Magical Animals
+### Animales Mágicos
 
-Creatures with innate magical properties, evolved in areas with high mana concentration:
+Criaturas con propiedades mágicas innatas, evolucionadas en áreas con alta concentración de maná:
 
-| Category | Examples | Magical Properties |
-|----------|----------|-------------------|
-| **Elemental Aligned** | Phoenixes, frost wolves | Manifestation of elemental energies |
-| **Mythical Beasts** | Griffins, unicorns, manticores | Complex magical anatomies |
-| **Mana Sensitives** | Arcane ravens, spell hounds | Detection and interaction with magical energies |
-| **Transmuted Species** | Crystal butterflies, glowfish | Permanently altered by magical environments |
+| Categoría            | Ejemplos                  | Propiedades Mágicas                                 |
+|---------------------|---------------------------|------------------------------------------------------|
+| **Alineados Elementales** | Fénix, lobos de escarcha    | Manifestación de energías elementales               |
+| **Bestias Míticas**    | Grifos, unicornios, mantícoras | Anatomías mágicas complejas                           |
+| **Sensibles al Maná**   | Cuervos arcanos, perros hechizos | Detección e interacción con energías mágicas        |
+| **Especies Transmutadas**| Mariposas de cristal, peces brillantes | Alteradas permanentemente por entornos mágicos         |
 
-→ See [Magical Animals](Magical.md) for detailed information.
+→ Ver [Animales Mágicos](Magical.md) para información detallada.
 
-## Ecological Significance
+## Significado Ecológico
 
-Animals play crucial roles in maintaining the ecological balance of OpenFantasy:
+Los animales juegan roles cruciales en el mantenimiento del equilibrio ecológico de OpenFantasy:
 
-### Natural Cycles
+### Ciclos Naturales
 
-- **Food Webs**: Complex interdependent relationships between species
-- **Material Cycles**: Contribution to nutrient cycling through consumption and decomposition
-- **Environmental Shaping**: Landscape modification through grazing, burrowing, and other behaviors
-- **Magical Energy Distribution**: Some species serve as natural conduits or regulators of magical energy
+- **Redes Tróficas**: Relaciones interdependientes complejas entre especies
+- **Ciclos de Materiales**: Contribución al ciclo de nutrientes a través del consumo y la descomposición
+- **Modelado Ambiental**: Modificación del paisaje a través del pastoreo, la excavación y otros comportamientos
+- **Distribución de Energía Mágica**: Algunas especies sirven como conductos naturales o reguladores de energía mágica
 
-### Interactions with Sentient Species
+### Interacciones con Especies Sintientes
 
-- **Resource Provision**: Food, materials, labor, and transportation
-- **Companionship**: Emotional bonds between animals and sentient beings
-- **Magical Assistance**: Familiars, magical detection, spell components
-- **Cultural Significance**: Symbolism, spiritual importance, artistic inspiration
+- **Provisión de Recursos**: Alimentos, materiales, trabajo y transporte
+- **Compañerismo**: Vínculos emocionales entre animales y seres sintientes
+- **Asistencia Mágica**: Familiares, detección mágica, componentes de hechizos
+- **Significado Cultural**: Simbolismo, importancia espiritual, inspiración artística
 
-## Mana Interaction
+## Interacción con Maná
 
-While most animals cannot consciously manipulate mana as sentient species do, their relationship with magical energy takes various forms:
+Si bien la mayoría de los animales no pueden manipular conscientemente el maná como lo hacen las especies sintientes, su relación con la energía mágica toma varias formas:
 
-| Interaction Type | Manifestation | Examples |
-|------------------|---------------|----------|
-| **Passive Absorption** | Accumulation of ambient magical energy | Animals in mana-rich environments gradually developing magical traits |
-| **Instinctive Channeling** | Natural, non-conscious use of magical abilities | A phoenix's rebirth cycle, a unicorn's purification abilities |
-| **Environmental Adaptation** | Physical changes in response to magical surroundings | Creatures in wild magic zones developing protective adaptations |
-| **Familiar Bonds** | Enhanced magical capabilities through connection with mages | Wizard's familiar gaining intelligence and magical resistance |
+| Tipo de Interacción   | Manifestación                                        | Ejemplos                                                                               |
+|-----------------------|-----------------------------------------------------|----------------------------------------------------------------------------------------|
+| **Absorción Pasiva**   | Acumulación de energía mágica ambiental           | Animales en entornos ricos en maná desarrollando gradualmente rasgos mágicos             |
+| **Canalización Instintiva** | Uso natural, no consciente, de habilidades mágicas | El ciclo de renacimiento de un fénix, las habilidades de purificación de un unicornio |
+| **Adaptación Ambiental** | Cambios físicos en respuesta a entornos mágicos      | Criaturas en zonas de magia salvaje desarrollando adaptaciones protectoras             |
+| **Vínculos Familiares**  | Capacidades mágicas mejoradas a través de la conexión con magos | Familiar de un mago ganando inteligencia y resistencia mágica                       |
 
-## Ecological Zones and Endemic Species
+## Zonas Ecológicas y Especies Endémicas
 
-OpenFantasy features diverse biomes, each with specialized animal adaptations:
+OpenFantasy presenta diversos biomas, cada uno con adaptaciones animales especializadas:
 
-| Biome | Notable Species | Special Adaptations |
-|-------|-----------------|---------------------|
-| **Frostwilds** | Snow lions, glacier bears, frost eagles | Cold resistance, seasonal camouflage |
-| **Verdant Plains** | Thunderhooves (bison), prairie wolves, hawk swarms | Herd behaviors, endurance migration |
-| **Ancient Forests** | Shadowbears, treestriders, whispermoths | Magical camouflage, connection to forest spirits |
-| **Desert Expanse** | Sand wyrms, heat scorpions, mirage gazelles | Water conservation, heat regulation |
-| **Enchanted Marshes** | Glowtoads, spell leeches, mist cranes | Mana filtration, magical detoxification |
-| **Crystal Mountains** | Stone eagles, echo goats, geomite swarms | Mineral metabolism, navigation in magnetic fields |
-| **Abyssal Depths** | Pressure sharks, luminfin anglers, void eels | Extreme pressure adaptation, bioluminescence |
+| Bioma             | Especies Notables                  | Adaptaciones Especiales                          |
+|-------------------|-----------------------------------|-------------------------------------------------|
+| **Yermos Helados**  | Leones de las nieves, osos glaciares, águilas de escarcha | Resistencia al frío, camuflaje estacional               |
+| **Llanuras Verdes** | Truenocascos (bisontes), lobos de pradera, enjambres de halcones | Comportamientos de manada, migración de resistencia |
+| **Bosques Antiguos** | Osos sombríos, caminantes de árboles, polillas susurradoras | Camuflaje mágico, conexión con espíritus del bosque |
+| **Extensión Desértica**| Dragones de arena, escorpiones de calor, gacelas espejismo | Conservación de agua, regulación del calor        |
+| **Pantanos Encantados**| Sapos brillantes, sanguijuelas de hechizo, grullas de niebla | Filtración de maná, desintoxicación mágica           |
+| **Montañas de Cristal**| Águilas de piedra, cabras eco, enjambres de geomita | Metabolismo mineral, navegación en campos magnéticos |
+| **Profundidades Abisales**| Tiburones de presión, rapes luminosos, anguilas del vacío | Adaptación a la presión extrema, bioluminiscencia    |
 
 ---
 
-> *"To understand a land, one must first understand its creatures—for they are the living expression of the environment itself."* — Naturalist Elara Greenmantle 
+> *"Para entender una tierra, primero hay que entender a sus criaturas, porque son la expresión viva del entorno mismo."* — Naturalista Elara Greenmantle
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

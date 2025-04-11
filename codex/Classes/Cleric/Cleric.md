@@ -1,135 +1,139 @@
-# **Cleric**: Divine Conduits and Healers
+# **Clérigo**: Conductos Divinos y Sanadores
 
-[**Clerics**](/codex/Classes/Cleric/Cleric.md) represent a unique harmony between the material and divine realms. They serve as vessels for divine power while maintaining their mortal perspective, creating a resonant bridge between worldly needs and celestial aid.
+Los [**Clérigos**](/codex/Classes/Cleric/Cleric.md) representan una armonía única entre los reinos material y divino. Sirven como recipientes para el poder divino mientras mantienen su perspectiva mortal, creando un puente resonante entre las necesidades mundanas y la ayuda celestial.
 
-## Elemental Composition
+## Composición Elemental
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **clerics** creates a distinctive harmony that emphasizes divine channeling:
+Como se detalla en [Clases](/codex/Classes/Classes.md), la proporción típica para los **clérigos** crea una armonía distintiva que enfatiza la canalización divina:
 
-| Element | Range | Function |
+| Elemento | Rango | Función |
 |---------|------------|----------|
-| **Exanthis** | 25-40% | Solid physical foundation providing endurance and resilience for prolonged divine service |
-| **Soul** | 35-50% | Enhanced spiritual consciousness enabling divine connection, faith, and intuitive understanding |
-| **Mana Capacity** | 25-40% | Significant magical potential optimized for channeling, purifying, and manifesting divine energies |
+| **Exanthis** | 25-40% | Base física sólida que proporciona resistencia y resiliencia para un servicio divino prolongado |
+| **Alma** | 35-50% | Conciencia espiritual mejorada que permite la conexión divina, la fe y la comprensión intuitiva |
+| **Capacidad de Maná** | 25-40% | Potencial mágico significativo optimizado para canalizar, purificar y manifestar energías divinas |
 
-This composition grants **clerics** their characteristic ability to bridge mortal and divine realms. Their elevated Soul component creates a natural resonance with divine forces, while their balanced Mana Capacity allows them to effectively manifest those forces in the physical world.
+Esta composición otorga a los **clérigos** su capacidad característica para tender un puente entre los reinos mortal y divino. Su componente de Alma elevado crea una resonancia natural con las fuerzas divinas, mientras que su Capacidad de Maná equilibrada les permite manifestar efectivamente esas fuerzas en el mundo físico.
 
-### Magical Affinity Profile
+### Perfil de Afinidad Mágica
 
-Clerics typically develop specific affinities that complement their divine calling and theological orientation:
+Los clérigos suelen desarrollar afinidades específicas que complementan su llamado divino y su orientación teológica:
 
-| Clerical Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Tradición Clerical | Afinidades Primarias | Afinidades Secundarias | Aplicación Típica |
 |-----------------|-------------------|---------------------|---------------------|
-| **Healer** | Luxmana (Restoration) | Hydromana (Purification) | Wound mending, disease curing, spiritual cleansing |
-| **Protector** | Base Mana (Barriers) | Terramana (Reinforcement) | Divine shields, wards against evil, sanctuary creation |
-| **Smiter** | Luxmana (Radiance) | Pyromana (Judgment) | Divine strikes, banishment of unholy entities, purifying flames |
-| **Oracle** | Base Mana (Divination) | Luxmana (Clarity) | Prophecy, divine guidance, truth revelation |
-| **Exorcist** | Luxmana (Banishment) | Umbramana (Shadow Binding) | Spirit cleansing, demon banishing, undead turning |
-| **Ritualist** | Base Mana (Sanctification) | Aeromana (Connection) | Blessing ceremonies, consecration, divine summoning |
+| **Sanador** | Luxmana (Restauración) | Hydromana (Purificación) | Curación de heridas, curación de enfermedades, limpieza espiritual |
+| **Protector** | Maná Base (Barreras) | Terramana (Refuerzo) | Escudos divinos, protecciones contra el mal, creación de santuarios |
+| **Azotador** | Luxmana (Resplandor) | Pyromana (Juicio) | Golpes divinos, destierro de entidades impías, llamas purificadoras |
+| **Oráculo** | Maná Base (Adivinación) | Luxmana (Claridad) | Profecía, guía divina, revelación de la verdad |
+| **Exorcista** | Luxmana (Destierro) | Umbramana (Vinculación de Sombras) | Limpieza de espíritus, destierro de demonios, conversión de muertos vivientes |
+| **Ritualista** | Maná Base (Santificación) | Aeromana (Conexión) | Ceremonias de bendición, consagración, invocación divina |
 
-Clerics typically achieve 60-80% specialization efficiency with their primary affinities, reflecting their focused channeling of divine power. Their ability to purify mana to higher degrees makes them particularly effective at complex divine manifestations that require refined magical energy.
+Los clérigos suelen alcanzar una eficiencia de especialización del 60-80% con sus afinidades primarias, lo que refleja su canalización enfocada del poder divino. Su capacidad para purificar maná a grados más altos los hace particularmente efectivos en manifestaciones divinas complejas que requieren energía mágica refinada.
 
-### Species-Specific Variations
+### Variaciones Específicas de Especies
 
-Different species show varying natural inclinations toward the cleric class:
+Diferentes especies muestran diferentes inclinaciones naturales hacia la clase de clérigo:
 
-- **Humans** (25-40% Exanthis, 35-50% Soul, 25-40% Mana Capacity): Their adaptability and spiritual flexibility makes them versatile clerics capable of serving diverse divinities.
-- **Dwarves** (30-45% Exanthis, 40-55% Soul, 15-30% Mana Capacity): Their strong ancestral connections and unwavering resolve make them powerful protectors and ritualists.
-- **Aasimar** (20-35% Exanthis, 40-55% Soul, 30-45% Mana Capacity): Their celestial heritage creates natural affinity for divine channeling, especially with light and healing.
-- **Elves** (20-35% Exanthis, 35-50% Soul, 30-45% Mana Capacity): Their longevity and connection to natural cycles make them exceptional oracles and ritualists.
-- **Dragonborn** (30-45% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their inherent connection to primal forces makes them powerful smiters and protectors.
+- **Humanos** (25-40% Exanthis, 35-50% Alma, 25-40% Capacidad de Maná): Su adaptabilidad y flexibilidad espiritual los convierte en clérigos versátiles capaces de servir a diversas divinidades.
+- **Enanos** (30-45% Exanthis, 40-55% Alma, 15-30% Capacidad de Maná): Sus fuertes conexiones ancestrales y su resolución inquebrantable los convierte en poderosos protectores y ritualistas.
+- **Aasimar** (20-35% Exanthis, 40-55% Alma, 30-45% Capacidad de Maná): Su herencia celestial crea una afinidad natural por la canalización divina, especialmente con la luz y la curación.
+- **Elfos** (20-35% Exanthis, 35-50% Alma, 30-45% Capacidad de Maná): Su longevidad y conexión con los ciclos naturales los convierte en oráculos y ritualistas excepcionales.
+- **Dragonborn** (30-45% Exanthis, 30-45% Alma, 25-40% Capacidad de Maná): Su conexión inherente con las fuerzas primarias los convierte en poderosos azotadores y protectores.
 
-## Physical Characteristics
+## Características Físicas
 
-**Clerics** are known for their divine focus and faithful nature:
-- Balanced build with graceful movements, like a conductor's precise gestures
-- Eyes that reflect inner faith, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the gestures of divine magic, like a musician who has perfected the art of the harp
-- Presence that exudes divine authority, like a powerful chord that resonates through a room
-- Stance that emphasizes dignity and reverence, like a performer poised to begin a sacred piece
+Los **Clérigos** son conocidos por su enfoque divino y su naturaleza fiel:
+- Constitución equilibrada con movimientos elegantes, como los gestos precisos de un director de orquesta
+- Ojos que reflejan la fe interior, mostrando su conexión con el [**Alma**](/codex/Basic/Soul.md)
+- Manos que han dominado los gestos de la magia divina, como un músico que ha perfeccionado el arte del arpa
+- Presencia que exuda autoridad divina, como un acorde poderoso que resuena en una habitación
+- Postura que enfatiza la dignidad y la reverencia, como un intérprete listo para comenzar una pieza sagrada
 
-## Divine Affinity
+## Afinidad Divina
 
-**Clerics** demonstrate exceptional proficiency in divine magic, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel divine power with extraordinary precision, like conductors leading a sacred choir
-- Heal wounds and cure ailments, like artists restoring damaged masterpieces
-- Protect themselves and others with divine blessings, like guardians shielding their charges
+Los **Clérigos** demuestran una habilidad excepcional en la magia divina, como músicos virtuosos que han dominado sus instrumentos. Su composición les permite:
+- Canalizar el poder divino con una precisión extraordinaria, como directores que dirigen un coro sagrado
+- Curar heridas y dolencias, como artistas que restauran obras maestras dañadas
+- Protegerse a sí mismos y a otros con bendiciones divinas, como guardianes que protegen a sus protegidos
 
-This specialization makes **clerics** capable of achieving the highest levels of proficiency in their chosen divine disciplines, though they may struggle with tasks requiring physical strength or combat prowess, like a delicate instrument that produces beautiful sounds but cannot match the power of a drum.
+Esta especialización hace que los **clérigos** sean capaces de alcanzar los niveles más altos de competencia en sus disciplinas divinas elegidas, aunque pueden tener dificultades con las tareas que requieren fuerza física o destreza en el combate, como un instrumento delicado que produce hermosos sonidos pero no puede igualar el poder de un tambor.
 
-## Training and Development
+## Entrenamiento y Desarrollo
 
-The path of a **cleric** involves rigorous divine study and spiritual discipline:
-- Daily prayer and meditation, like musicians practicing their sacred pieces
-- Study of divine texts and religious teachings, like learning the theory behind sacred music
-- Service to their divine patrons and communities, like performers sharing their gifts with others
-- Practice in healing and protective magic, like artists mastering the art of restoration
+El camino de un **clérigo** implica un riguroso estudio divino y disciplina espiritual:
+- Oración y meditación diarias, como músicos que practican sus piezas sagradas
+- Estudio de textos divinos y enseñanzas religiosas, como aprender la teoría detrás de la música sagrada
+- Servicio a sus patrones divinos y comunidades, como artistas que comparten sus dones con otros
+- Práctica en magia curativa y protectora, como artistas que dominan el arte de la restauración
 
-## Equipment and Gear
+## Equipo y Engranaje
 
-**Clerics** rely on various divine equipment to enhance their magical abilities:
-- Holy symbols and relics that focus divine power, like different instruments for different performances
-- Vestments and ceremonial garb that enhance divine connection, like a well-fitted case for a precious instrument
-- Divine accessories such as prayer beads, censers, and holy water, like accessories that enhance an instrument's capabilities
+Los **Clérigos** confían en varios equipos divinos para mejorar sus habilidades mágicas:
+- Símbolos y reliquias sagradas que enfocan el poder divino, como diferentes instrumentos para diferentes actuaciones
+- Vestiduras y atuendos ceremoniales que mejoran la conexión divina, como un estuche bien ajustado para un instrumento precioso
+- Accesorios divinos como cuentas de oración, incensarios y agua bendita, como accesorios que mejoran las capacidades de un instrumento
 
-## Subclasses
+## Subclases
 
-**Clerics** can specialize in various divine disciplines and roles:
+Los **Clérigos** pueden especializarse en varias disciplinas y roles divinos:
 
-### [**Healer**](/codex/Classes/Cleric/Healer.md)
+### [**Sanador**](/codex/Classes/Cleric/Healer.md)
 
-Healers focus on restorative magic and healing, emphasizing the restoration of health and vitality. They excel at:
-- Curing wounds and diseases
-- Restoring vitality and energy
-- Protecting against harmful effects
+Los Sanadores se enfocan en la magia restauradora y la curación, enfatizando la restauración de la salud y la vitalidad. Sobresalen en:
+- Curar heridas y enfermedades
+- Restaurar la vitalidad y la energía
+- Proteger contra los efectos nocivos
 
-### [**Paladin**](/codex/Classes/Cleric/Paladin.md)
+### [**Paladín**](/codex/Classes/Cleric/Paladin.md)
 
-Paladins focus on combining divine magic with combat, emphasizing the role of the holy warrior. They excel at:
-- Wielding divine power in combat
-- Protecting others with divine blessings
-- Leading others with divine authority
+Los Paladines se enfocan en combinar la magia divina con el combate, enfatizando el papel del guerrero sagrado. Sobresalen en:
+- Empuñar el poder divino en el combate
+- Proteger a otros con bendiciones divinas
+- Liderar a otros con autoridad divina
 
-### [**Oracle**](/codex/Classes/Cleric/Oracle.md)
+### [**Oráculo**](/codex/Classes/Cleric/Oracle.md)
 
-Oracles focus on receiving divine visions and prophecies, emphasizing the role of the divine messenger. They excel at:
-- Receiving divine guidance and visions
-- Interpreting divine signs and omens
-- Sharing divine wisdom with others
+Los Oráculos se enfocan en recibir visiones y profecías divinas, enfatizando el papel del mensajero divino. Sobresalen en:
+- Recibir guía y visiones divinas
+- Interpretar signos y presagios divinos
+- Compartir la sabiduría divina con otros
 
-### [**Inquisitor**](/codex/Classes/Cleric/Inquisitor.md)
+### [**Inquisidor**](/codex/Classes/Cleric/Inquisitor.md)
 
-Inquisitors focus on hunting heretics and supernatural threats, emphasizing the role of the divine enforcer. They excel at:
-- Detecting and combating supernatural threats
-- Interrogating and judging heretics
-- Protecting the faithful from corruption
+Los Inquisidores se enfocan en cazar herejes y amenazas sobrenaturales, enfatizando el papel del ejecutor divino. Sobresalen en:
+- Detectar y combatir amenazas sobrenaturales
+- Interrogar y juzgar a los herejes
+- Proteger a los fieles de la corrupción
 
-### [**Shaman**](/codex/Classes/Cleric/Shaman.md)
+### [**Chamán**](/codex/Classes/Cleric/Shaman.md)
 
-Shamans focus on communicating with nature spirits and ancestors, emphasizing the role of the divine intermediary. They excel at:
-- Communicating with nature spirits and ancestors
-- Performing rituals involving natural forces
-- Healing through natural and spiritual means
+Los Chamanes se enfocan en comunicarse con los espíritus de la naturaleza y los antepasados, enfatizando el papel del intermediario divino. Sobresalen en:
+- Comunicarse con los espíritus de la naturaleza y los antepasados
+- Realizar rituales que involucran fuerzas naturales
+- Curar a través de medios naturales y espirituales
 
-## Notable Cleric Traits
+## Rasgos Notables del Clérigo
 
-- **Divine Mastery**: Clerics excel in divine magic, often specializing in specific divine disciplines
-- **Faith**: Clerics have a deep connection to their divine patrons
-- **Healing**: Clerics develop exceptional healing abilities through divine study
-- **Protection**: Clerics can protect themselves and others with divine blessings
-- **Discipline**: Clerics maintain rigorous spiritual regimens to maintain their divine connection
+- **Maestría Divina**: Los clérigos sobresalen en la magia divina, a menudo especializándose en disciplinas divinas específicas
+- **Fe**: Los clérigos tienen una conexión profunda con sus patrones divinos
+- **Curación**: Los clérigos desarrollan habilidades curativas excepcionales a través del estudio divino
+- **Protección**: Los clérigos pueden protegerse a sí mismos y a otros con bendiciones divinas
+- **Disciplina**: Los clérigos mantienen regímenes espirituales rigurosos para mantener su conexión divina
 
-## Cleric Orders
+## Órdenes de Clérigos
 
-Cleric society is organized into numerous orders, each with its own specialties and techniques:
+La sociedad de los clérigos se organiza en numerosas órdenes, cada una con sus propias especialidades y técnicas:
 
-| Order | Specialty | Territory | Notable Traits |
+| Orden | Especialidad | Territorio | Rasgos Notables |
 |---------|---------------|---------|-------------------|
-| **Healing Hands** | Healing, restoration | Hospitals and temples | Healing magic, restoration |
-| **Divine Warriors** | Combat, protection | Military units | Combat magic, divine protection |
-| **Vision Seekers** | Divination, prophecy | Temples and shrines | Divination, prophecy |
-| **Truth Seekers** | Investigation, judgment | Courts and tribunals | Investigation, judgment |
-| **Spirit Walkers** | Spirit communication, rituals | Natural places | Spirit communication, rituals |
-| **Light Bearers** | Illumination, guidance | Various locations | Illumination, guidance |
+| **Manos Sanadoras** | Curación, restauración | Hospitales y templos | Magia curativa, restauración |
+| **Guerreros Divinos** | Combate, protección | Unidades militares | Magia de combate, protección divina |
+| **Buscadores de Visiones** | Adivinación, profecía | Templos y santuarios | Adivinación, profecía |
+| **Buscadores de la Verdad** | Investigación, juicio | Tribunales | Investigación, juicio |
+| **Caminantes de Espíritus** | Comunicación espiritual, rituales | Lugares naturales | Comunicación espiritual, rituales |
+| **Portadores de Luz** | Iluminación, guía | Varios lugares | Iluminación, guía |
 
-Understanding the nature of **clerics** provides insight into the divine aspects of the world of **OpenFantasy**, like listening to the sacred harmonies that bridge the mortal and divine realms. 
+Comprender la naturaleza de los **clérigos** proporciona información sobre los aspectos divinos del mundo de **OpenFantasy**, como escuchar las armonías sagradas que unen los reinos mortal y divino.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

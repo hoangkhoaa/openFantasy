@@ -1,89 +1,93 @@
-# **Dancing Ember**
+# **Ascua Danzante**
 
-A fundamental fire manipulation spell that creates a small, controlled flame that dances and moves according to the caster's will. This spell serves as both a practical light source and a foundational training exercise for aspiring pyromancers.
+Un hechizo fundamental de manipulación del fuego que crea una pequeña llama controlada que danza y se mueve según la voluntad del lanzador. Este hechizo sirve tanto como una fuente de luz práctica como un ejercicio de entrenamiento fundamental para los aspirantes a pirománticos.
 
-## Casting Information
+## Información del Lanzamiento
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | Instant (1-2 seconds) |
-| **Duration** | Concentration (up to 1 hour) |
-| **Range** | Close (within 10 feet of caster) |
-| **Components** | Somatic (simple finger gesture), Verbal (soft whisper) |
+| **Dificultad** | Novato |
+| **Tiempo de Lanzamiento** | Instantáneo (1-2 segundos) |
+| **Duración** | Concentración (hasta 1 hora) |
+| **Alcance** | Cercano (dentro de 10 pies del lanzador) |
+| **Componentes** | Somático (gesto simple con los dedos), Verbal (susurro suave) |
 
-## Technical Details
+## Detalles Técnicos
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Mana Type** | Pyromana (75%), Base Mana (25%) |
-| **Purity Required** | Basic (15-25%) |
-| **Pattern Complexity** | Simple (3 elements) |
-| **Resonance Frequency** | Warm/Bright spectrum |
-| **Minimum Mana Capacity** | 15% (Higher capacity extends possible duration) |
+| **Tipo de Maná** | Pyromana (75%), Maná Base (25%) |
+| **Pureza Requerida** | Básica (15-25%) |
+| **Complejidad del Patrón** | Simple (3 elementos) |
+| **Frecuencia de Resonancia** | Espectro Cálido/Brillante |
+| **Capacidad Mínima de Maná** | 15% (Una mayor capacidad extiende la duración posible) |
 
-## Pattern Structure
+## Estructura del Patrón
 
-The Dancing Ember pattern consists of three primary elements:
-1. **Ignition Node**: The central formation that generates heat and initiates combustion
-2. **Sustenance Loop**: A circular flow that maintains the flame without fuel
-3. **Direction Thread**: A fine connection to the caster's will that allows control of movement
+El patrón de Ascua Danzante consta de tres elementos primarios:
+1. **Nodo de Ignición**: La formación central que genera calor e inicia la combustión
+2. **Bucle de Sustento**: Un flujo circular que mantiene la llama sin combustible
+3. **Hilo de Dirección**: Una fina conexión con la voluntad del lanzador que permite el control del movimiento
 
-These elements are arranged in a simple triangular formation that novice mages can easily visualize and maintain.
+Estos elementos están dispuestos en una formación triangular simple que los magos novatos pueden visualizar y mantener fácilmente.
 
-## Practical Effect
+## Efecto Práctico
 
-When successfully cast, a flame approximately the size of a candle flame manifests in the air at the designated location. Unlike a natural flame, it:
-- Requires no fuel
-- Emits minimal heat (enough to feel warm, not enough to burn unless deliberately directed)
-- Moves according to the caster's mental direction within the spell's range
-- Can change color slightly based on the caster's concentration (yellows, oranges, and reds)
-- Illuminates an area approximately 15 feet in diameter with soft light
+Cuando se lanza con éxito, una llama aproximadamente del tamaño de la llama de una vela se manifiesta en el aire en la ubicación designada. A diferencia de una llama natural, esta:
+- No requiere combustible
+- Emite un calor mínimo (suficiente para sentirse caliente, no lo suficiente para quemar a menos que se dirija deliberadamente)
+- Se mueve según la dirección mental del lanzador dentro del alcance del hechizo
+- Puede cambiar de color ligeramente según la concentración del lanzador (amarillos, naranjas y rojos)
+- Ilumina un área de aproximadamente 15 pies de diámetro con luz suave
 
-## Common Applications
+## Aplicaciones Comunes
 
-- Providing light in dark environments
-- Serving as a focusing tool for meditation
-- Creating simple displays for entertainment
-- Igniting prepared materials (kindling, candles, etc.)
-- Basic training for temperature and flame control
+- Proporcionar luz en ambientes oscuros
+- Servir como una herramienta de enfoque para la meditación
+- Crear exhibiciones simples para el entretenimiento
+- Encender materiales preparados (yesca, velas, etc.)
+- Entrenamiento básico para el control de la temperatura y la llama
 
-## Variations
+## Variaciones
 
-- **Steady Flame**: A modification that reduces mobility but increases stability and duration
-- **Ember Cluster**: Creates multiple smaller flames instead of one larger one
-- **Colored Ember**: Incorporates trace elements to produce specific flame colors
-- **Silent Cast**: Removes the verbal component at the cost of increased concentration and purity (25-30%)
+- **Llama Estable**: Una modificación que reduce la movilidad pero aumenta la estabilidad y la duración
+- **Grupo de Brasas**: Crea múltiples llamas más pequeñas en lugar de una más grande
+- **Ascua de Color**: Incorpora elementos traza para producir colores de llama específicos
+- **Lanzamiento Silencioso**: Elimina el componente verbal a costa de una mayor concentración y pureza (25-30%)
 
-## Risks and Miscast Effects
+## Riesgos y Efectos de Lanzamiento Erróneo
 
-- **Flame Dispersal**: Loss of concentration causes the flame to harmlessly dissipate
-- **Uncontrolled Growth**: Poor pattern formation may cause the flame to briefly flare before extinguishing
-- **Color Instability**: Impure mana (below 15%) can cause the flame to fluctuate in color and intensity
-- **Premature Extinguishing**: Insufficient mana input causes the spell to fail within seconds
-- **Pattern Collapse**: Critical purity shortage (below 10%) may cause minor burns to the caster's fingertips
+- **Dispersión de la Llama**: La pérdida de concentración hace que la llama se disipe inofensivamente
+- **Crecimiento Incontrolado**: Una mala formación del patrón puede causar que la llama se inflame brevemente antes de extinguirse
+- **Inestabilidad del Color**: El maná impuro (por debajo del 15%) puede causar que la llama fluctúe en color e intensidad
+- **Extinción Prematura**: Una entrada de maná insuficiente hace que el hechizo falle en cuestión de segundos
+- **Colapso del Patrón**: La escasez crítica de pureza (por debajo del 10%) puede causar quemaduras menores en las yemas de los dedos del lanzador
 
-## Purity Influence on Effect
+## Influencia de la Pureza en el Efecto
 
-| Purity Level | Effect Enhancement |
+| Nivel de Pureza | Mejora del Efecto |
 |--------------|---------------------|
-| 10-15% | Flame is dim and unstable, requiring constant attention |
-| 15-25% | Standard effect as described above |
-| 25-35% | Brighter flame with more precise movement control |
-| 35%+ | Multiple color options, finer control over heat output, and extended duration |
+| 10-15% | La llama es tenue e inestable, lo que requiere atención constante |
+| 15-25% | Efecto estándar como se describe arriba |
+| 25-35% | Llama más brillante con un control de movimiento más preciso |
+| 35%+ | Múltiples opciones de color, control más fino sobre la salida de calor y duración extendida |
 
-## Musical Analogy
+## Analogía Musical
 
-Dancing Ember is like learning to play a single pure note and sustain it. The caster must maintain proper "pitch" (heat intensity) and "volume" (size) while learning to "bend" the note (controlling movement). Just as a beginning musician might practice a single note until it becomes second nature, novice pyromancers often practice this spell until they can cast it without conscious thought.
+Ascua Danzante es como aprender a tocar una sola nota pura y mantenerla. El lanzador debe mantener el "tono" adecuado (intensidad del calor) y el "volumen" (tamaño) mientras aprende a "doblar" la nota (controlando el movimiento). Así como un músico principiante podría practicar una sola nota hasta que se convierta en una segunda naturaleza, los pirománticos novatos a menudo practican este hechizo hasta que pueden lanzarlo sin pensar conscientemente.
 
-## Learning Progression
+## Progresión del Aprendizaje
 
-Most students master this spell in the following stages:
-1. **Creation**: Simply manifesting the flame briefly
-2. **Sustenance**: Maintaining the flame for progressively longer periods
-3. **Movement**: Learning to direct the flame's position
-4. **Refinement**: Controlling color, size, and heat with precision
+La mayoría de los estudiantes dominan este hechizo en las siguientes etapas:
+1. **Creación**: Simplemente manifestar la llama brevemente
+2. **Sustento**: Mantener la llama durante períodos progresivamente más largos
+3. **Movimiento**: Aprender a dirigir la posición de la llama
+4. **Refinamiento**: Controlar el color, el tamaño y el calor con precisión
 
-## Historical Note
+## Nota Histórica
 
-Dancing Ember was formalized as a teaching spell by the renowned pyromancer Ignis Lumina, who recognized that many apprentices were injuring themselves attempting more complex fire magic without proper foundation. She designed this spell specifically to teach control before power, a philosophy summarized in her famous quote: "Learn to dance with a single ember before you attempt to conduct a symphony of flames." 
+Ascua Danzante fue formalizado como un hechizo de enseñanza por la renombrada piromántica Ignis Lumina, quien reconoció que muchos aprendices se estaban lesionando al intentar magia de fuego más compleja sin una base adecuada. Ella diseñó este hechizo específicamente para enseñar control antes que poder, una filosofía resumida en su famosa cita: "Aprende a bailar con una sola ascua antes de intentar dirigir una sinfonía de llamas."
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

@@ -1,105 +1,109 @@
-# **Shadowfolk**: The Mysterious Dwellers of Darkness
+# **Shadowfolk**: Los Misteriosos Habitantes de la Oscuridad
 
-[**Shadowfolk**](/codex/Creatures/Shadowfolk.md) are the mysterious dwellers of darkness, their bodies a shadowy harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a haunting bassoon, they resonate most strongly with the shadows and darkness, creating a unique melody of existence that bridges the light and dark realms.
+Los [**Shadowfolk**](/codex/Creatures/Shadowfolk.md) son los misteriosos habitantes de la oscuridad, sus cuerpos una armoniosa sombra de [**Exanthis**](/codex/Basic/Exanthis.md), [**Almas**](/codex/Basic/Soul.md) y **Capacidad de Maná**. Como un melancólico fagot, resuenan con mayor fuerza con las sombras y la oscuridad, creando una melodía única de existencia que une los reinos de la luz y la oscuridad.
 
-## Elemental Composition
+## Composición Elemental
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **shadowfolk** forms a harmony that favors magical potential:
+Como se detalla en [Criaturas](/codex/Creatures/Creatures.md), la proporción típica para los **shadowfolk** forma una armonía que favorece el potencial mágico:
 
-| Element | Range | Function |
+| Elemento | Rango | Función |
 |---------|------------|----------|
-| **Exanthis** | 15-30% | The crystalline heart that provides minimal physical strength and durability |
-| **Soul** | 30-50% | The ethereal essence that shapes a fluid and adaptable consciousness |
-| **Mana Capacity** | 30-50% | The bridge between worlds that enables significant magical potential |
+| **Exanthis** | 15-30% | El corazón cristalino que proporciona una fuerza física y durabilidad mínimas |
+| **Alma** | 30-50% | La esencia etérea que da forma a una conciencia fluida y adaptable |
+| **Capacidad de Maná** | 30-50% | El puente entre mundos que permite un potencial mágico significativo |
 
-This composition grants **shadowfolk** their characteristic shadowy abilities but typically limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Esta composición otorga a los **shadowfolk** sus características habilidades sombrías, pero normalmente limita su resistencia física en comparación con otras especies, como un instrumento delicado que produce hermosos sonidos pero debe manejarse con cuidado.
 
-### Individual Variations
+### Variaciones Individuales
 
-While the model composition represents the typical shadowfolk, individual variations exist:
+Si bien la composición del modelo representa al shadowfolk típico, existen variaciones individuales:
 
-- **Void Walkers**: Some shadowfolk possess unusually high Mana Capacity (up to 60%) and low Exanthis (15%), allowing them to manipulate the very fabric of shadows and even travel between shadow realms.
-- **Shadow Blades**: A specialized variant with enhanced Exanthis levels (35%) serves as protectors and assassins, maintaining significant magical ability (35% Mana Capacity) while gaining physical prowess.
-- **Soul Seers**: Those with higher Soul percentages (up to 55%) develop extraordinary perception and wisdom, often becoming seers, prophets, or spiritual leaders who can glimpse truths hidden in darkness.
-- **Twilight Mediators**: Balanced shadowfolk (25% Exanthis, 40% Soul, 35% Mana Capacity) often serve as diplomats between shadowfolk clans and other species, having enough empathy to understand others while maintaining shadowy abilities.
-- **Darkness Shapers**: Specialized shadowfolk with composition of (20% Exanthis, 30% Soul, 50% Mana Capacity) are masters of shadow manipulation, able to create elaborate constructs and illusions from darkness itself.
+- **Caminantes del Vacío**: Algunos shadowfolk poseen una Capacidad de Maná inusualmente alta (hasta el 60%) y un Exanthis bajo (15%), lo que les permite manipular el tejido mismo de las sombras e incluso viajar entre reinos sombríos.
+- **Hojas de Sombra**: Una variante especializada con niveles de Exanthis mejorados (35%) sirve como protectores y asesinos, manteniendo una habilidad mágica significativa (35% de Capacidad de Maná) al tiempo que gana destreza física.
+- **Videntes del Alma**: Aquellos con porcentajes de Alma más altos (hasta el 55%) desarrollan una percepción y sabiduría extraordinarias, a menudo convirtiéndose en videntes, profetas o líderes espirituales que pueden vislumbrar verdades ocultas en la oscuridad.
+- **Mediadores Crepusculares**: Los shadowfolk equilibrados (25% Exanthis, 40% Alma, 35% Capacidad de Maná) a menudo sirven como diplomáticos entre los clanes shadowfolk y otras especies, teniendo suficiente empatía para entender a los demás mientras mantienen habilidades sombrías.
+- **Modeladores de la Oscuridad**: Shadowfolk especializados con una composición de (20% Exanthis, 30% Alma, 50% Capacidad de Maná) son maestros de la manipulación de las sombras, capaces de crear elaboradas construcciones e ilusiones a partir de la oscuridad misma.
 
-## Physical Characteristics
+## Características Físicas
 
-**Shadowfolk** are known for their ethereal appearance and shadowy nature:
-- Tall and slender, with proportions that seem to defy reality
-- Eyes that glow with inner darkness, reflecting their connection to shadow magic
-- Skin that seems to absorb light, creating a shadowy aura around them
-- Hair that flows with an otherworldly grace, often in shades of black, purple, or deep blue
-- Ability to blend into shadows, making them difficult to see in low light
-- Presence that seems to dim the light around them, like a shadow passing over the sun
+Los **Shadowfolk** son conocidos por su apariencia etérea y naturaleza sombría:
+- Altos y delgados, con proporciones que parecen desafiar la realidad
+- Ojos que brillan con oscuridad interior, reflejando su conexión con la magia de las sombras
+- Piel que parece absorber la luz, creando un aura sombría a su alrededor
+- Cabello que fluye con una gracia de otro mundo, a menudo en tonos de negro, púrpura o azul oscuro
+- Capacidad para mezclarse con las sombras, lo que los hace difíciles de ver con poca luz
+- Presencia que parece atenuar la luz a su alrededor, como una sombra que pasa sobre el sol
 
-## Magical Affinity
+## Afinidad Mágica
 
-**Shadowfolk** demonstrate exceptional proficiency in shadow magic and stealth, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Manipulate shadows and darkness with extraordinary precision, like conductors of the night's symphony
-- Create illusions through the manipulation of light and shadow, like artists painting with darkness
-- Move silently and unseen through the shadows, like ghosts passing through the night
+Los **Shadowfolk** demuestran una destreza excepcional en la magia de las sombras y el sigilo, como músicos virtuosos que han dominado sus instrumentos. Su composición les permite:
+- Manipular las sombras y la oscuridad con extraordinaria precisión, como directores de la sinfonía de la noche
+- Crear ilusiones a través de la manipulación de la luz y la sombra, como artistas pintando con oscuridad
+- Moverse silenciosamente e invisibles a través de las sombras, como fantasmas que pasan por la noche
 
-This specialization makes **shadowfolk** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Esta especialización hace que los **shadowfolk** sean capaces de alcanzar los niveles más altos de competencia en sus tradiciones mágicas elegidas, aunque pueden tener dificultades con las tareas que requieren fuerza física o resistencia, como un instrumento delicado que produce hermosos sonidos pero no puede soportar un manejo brusco.
 
-## Lifespan and Soul Decay
+## Vida Útil y Descomposición del Alma
 
-The **soul decay** timeline for **shadowfolk**, from birth to complete decay, is approximately 600 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+La línea de tiempo de la **descomposición del alma** para los **shadowfolk**, desde el nacimiento hasta la descomposición completa, es de aproximadamente 600 años, como una llama de combustión lenta que ilumina las edades. Esta vida útil prolongada les permite:
+- Acumular vastos conocimientos y sabiduría a lo largo de los siglos
+- Desarrollar conexiones profundas con lugares específicos y tradiciones mágicas
+- Formar sociedades complejas con intrincadas costumbres y rituales
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Sin embargo, su descomposición del alma más lenta también significa que cambian y se adaptan más lentamente que otras especies, como una melodía que permanece hermosa pero inmutable a través de las edades.
 
-## Habitat and Distribution
+## Hábitat y Distribución
 
-**Shadowfolk** primarily inhabit:
-- Dark forests and shadowy groves, where they can be closest to the shadows
-- Underground cities and caverns, where they can control the light
-- Magical realms where the boundaries between light and dark grow thin
-- Strategic locations that provide access to both light and shadow
+Los **Shadowfolk** habitan principalmente:
+- Bosques oscuros y arboledas sombrías, donde pueden estar más cerca de las sombras
+- Ciudades y cavernas subterráneas, donde pueden controlar la luz
+- Reinos mágicos donde los límites entre la luz y la oscuridad se vuelven delgados
+- Ubicaciones estratégicas que brindan acceso tanto a la luz como a la sombra
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Estos lugares proporcionan entornos ideales para el estudio mágico y la contemplación espiritual, como una acústica perfecta para una sinfonía.
 
-## Cultural Impact
+## Impacto Cultural
 
-In the world of **OpenFantasy**, **shadowfolk** play a crucial role in preserving ancient magical traditions and maintaining the balance between light and dark, like weavers of shadowy melodies. Their societies are centers of:
-- Shadow magic and stealth techniques
-- Philosophical contemplation and spiritual wisdom
-- Artistic expression and aesthetic refinement
+En el mundo de **OpenFantasy**, los **shadowfolk** desempeñan un papel crucial en la preservación de antiguas tradiciones mágicas y en el mantenimiento del equilibrio entre la luz y la oscuridad, como tejedores de melodías sombrías. Sus sociedades son centros de:
+- Magia de las sombras y técnicas de sigilo
+- Contemplación filosófica y sabiduría espiritual
+- Expresión artística y refinamiento estético
 
-The connection to shadows has shaped shadowfolk culture around the study and mastery of darkness, creating a society where magical ability and wisdom are highly valued.
+La conexión con las sombras ha dado forma a la cultura shadowfolk en torno al estudio y el dominio de la oscuridad, creando una sociedad donde la habilidad mágica y la sabiduría son muy valoradas.
 
-## Relationship with Other Species
+## Relación con Otras Especies
 
-**Shadowfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and caution, often leading to complex interactions
-- With **Elves**: A deep connection based on shared appreciation for magic and wisdom
-- With **Dwarves**: A respectful distance, acknowledging their craftsmanship but finding their ways strange
-- With **Fae**: A wary relationship, as shadowfolk are less susceptible to fae enchantments
+Los **Shadowfolk** mantienen relaciones complejas con otras especies:
+- Con los [**Humanos**](/codex/Creatures/Human.md): Una mezcla de fascinación y cautela, que a menudo conduce a interacciones complejas
+- Con los **Elfos**: Una conexión profunda basada en la apreciación compartida por la magia y la sabiduría
+- Con los **Enanos**: Una distancia respetuosa, reconociendo su artesanía pero encontrando sus costumbres extrañas
+- Con los **Fae**: Una relación cautelosa, ya que los shadowfolk son menos susceptibles a los encantamientos fae
 
-These relationships are often characterized by a sense of cultural superiority, as **shadowfolk** view themselves as the true children of darkness and wisdom.
+Estas relaciones a menudo se caracterizan por una sensación de superioridad cultural, ya que los **shadowfolk** se ven a sí mismos como los verdaderos hijos de la oscuridad y la sabiduría.
 
-## Notable Shadowfolk Traits
+## Rasgos Notables de los Shadowfolk
 
-- **Shadow Manipulation**: Shadowfolk excel in controlling and manipulating shadows and darkness
-- **Stealth Abilities**: Shadowfolk can move silently and unseen through the shadows
-- **Wisdom**: Shadowfolk possess deep knowledge and understanding of the mysteries of the universe
-- **Artistic Expression**: Shadowfolk have developed highly refined artistic and cultural traditions
-- **Philosophical Contemplation**: Shadowfolk place great emphasis on understanding the nature of existence
+- **Manipulación de las Sombras**: Los Shadowfolk sobresalen en el control y la manipulación de las sombras y la oscuridad
+- **Habilidades de Sigilo**: Los Shadowfolk pueden moverse silenciosamente e invisibles a través de las sombras
+- **Sabiduría**: Los Shadowfolk poseen un profundo conocimiento y comprensión de los misterios del universo
+- **Expresión Artística**: Los Shadowfolk han desarrollado tradiciones artísticas y culturales muy refinadas
+- **Contemplación Filosófica**: Los Shadowfolk ponen gran énfasis en la comprensión de la naturaleza de la existencia
 
-## Shadowfolk Clans
+## Clanes Shadowfolk
 
-Shadowfolk society is organized into numerous clans, each with its own specialties and traditions:
+La sociedad Shadowfolk está organizada en numerosos clanes, cada uno con sus propias especialidades y tradiciones:
 
-| Clan | Specialty | Territory | Notable Traits |
+| Clan | Especialidad | Territorio | Rasgos Notables |
 |---------|---------------|---------|-------------------|
-| **Shadowweavers** | Shadow magic, illusion | Dark forests | Illusion abilities, shadow manipulation |
-| **Nightwalkers** | Stealth, assassination | Underground cities | Stealth abilities, assassination techniques |
-| **Darkphilosophers** | Knowledge, wisdom | Ancient libraries | Philosophical wisdom, ancient knowledge |
-| **Voidcallers** | Void magic, teleportation | Magical realms | Teleportation abilities, void manipulation |
-| **Twilightseekers** | Balance, harmony | Border regions | Balance magic, harmony techniques |
-| **Shadowartists** | Art, beauty | Artistic districts | Artistic abilities, aesthetic refinement |
+| **Tejedores de Sombras** | Magia de las sombras, ilusión | Bosques oscuros | Habilidades de ilusión, manipulación de las sombras |
+| **Caminantes Nocturnos** | Sigilo, asesinato | Ciudades subterráneas | Habilidades de sigilo, técnicas de asesinato |
+| **Filósofos Oscuros** | Conocimiento, sabiduría | Bibliotecas antiguas | Sabiduría filosófica, conocimiento antiguo |
+| **Invocadores del Vacío** | Magia del vacío, teletransportación | Reinos mágicos | Habilidades de teletransportación, manipulación del vacío |
+| **Buscadores Crepusculares** | Equilibrio, armonía | Regiones fronterizas | Magia del equilibrio, técnicas de armonía |
+| **Artistas de las Sombras** | Arte, belleza | Distritos artísticos | Habilidades artísticas, refinamiento estético |
 
-Understanding the nature of **shadowfolk** provides insight into the shadowy aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the darkness. 
+Comprender la naturaleza de los **shadowfolk** proporciona una visión de los aspectos sombríos del mundo de **OpenFantasy**, como escuchar las melodías inquietantes que resuenan en la oscuridad.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

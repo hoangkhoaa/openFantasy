@@ -1,182 +1,186 @@
-# **Mana Purity**: The Refinement of Magical Energy
+# **Pureza de Maná**: El Refinamiento de la Energía Mágica
 
-## Overview
+## Resumen
 
-Mana Purity refers to the degree of refinement and control present in magical energy used for spellcasting. It represents how thoroughly a caster has processed raw magical energy into a form that is stable, precise, and aligned with their intentions.
+Pureza de Maná se refiere al grado de refinamiento y control presente en la energía mágica utilizada para el lanzamiento de hechizos. Representa cuán exhaustivamente un lanzador ha procesado la energía mágica cruda en una forma que sea estable, precisa y alineada con sus intenciones.
 
-Purity is a core metric in determining spell effectiveness, with higher purity typically yielding more controlled and predictable results.
+La pureza es una métrica central para determinar la efectividad de los hechizos, y una mayor pureza típicamente produce resultados más controlados y predecibles.
 
-## The Two-Phase Conversion Process
+## El Proceso de Conversión de Dos Fases
 
-Magical energy undergoes two distinct phases of processing before being used in spellcasting:
+La energía mágica se somete a dos fases distintas de procesamiento antes de ser utilizada en el lanzamiento de hechizos:
 
-### Phase 1: Wild Mana to Base Mana Conversion
-- **Input**: Raw Wild Mana from the environment
-- **Process**: Biological absorption and initial stabilization within a creature's body
-- **Output**: Base Mana stored within the caster's internal reserves
-- **Key Metric**: Conversion Effectiveness (quantity of usable energy produced)
-- **Primary Function**: Transforms chaotic environmental energy into stable, internally stored energy
+### Fase 1: Conversión de Maná Salvaje a Maná Base
+- **Entrada**: Maná Salvaje crudo del entorno
+- **Proceso**: Absorción biológica y estabilización inicial dentro del cuerpo de una criatura
+- **Salida**: Maná Base almacenado dentro de las reservas internas del lanzador
+- **Métrica Clave**: Efectividad de la Conversión (cantidad de energía utilizable producida)
+- **Función Primaria**: Transforma la energía ambiental caótica en energía estable, almacenada internamente
 
-> **Important**: This first phase determines how efficiently a being converts Wild Mana into usable Base Mana, directly affecting their available magical reserves and regeneration rate. Most beings perform this conversion unconsciously as a natural biological function.
+> **Importante**: Esta primera fase determina cuán eficientemente un ser convierte el Maná Salvaje en Maná Base utilizable, afectando directamente sus reservas mágicas disponibles y su tasa de regeneración. La mayoría de los seres realizan esta conversión inconscientemente como una función biológica natural.
 
-### Phase 2: Base Mana to Elemental Mana Conversion
-- **Input**: Base Mana from the caster's internal reserves
-- **Process**: Intentional refinement and specialization through conscious magical technique
-- **Output**: Elemental Mana + residual Wild Mana
-- **Key Metric**: Mana Purity (quality of the resulting magical energy)
-- **Primary Function**: Transforms neutral Base Mana into specialized forms suitable for spellcasting
+### Fase 2: Conversión de Maná Base a Maná Elemental
+- **Entrada**: Maná Base de las reservas internas del lanzador
+- **Proceso**: Refinamiento y especialización intencional a través de una técnica mágica consciente
+- **Salida**: Maná Elemental + Maná Salvaje residual
+- **Métrica Clave**: Pureza de Maná (calidad de la energía mágica resultante)
+- **Función Primaria**: Transforma el Maná Base neutral en formas especializadas adecuadas para el lanzamiento de hechizos
 
-> **Critical Understanding**: Purity percentage is calculated during this second phase as the ratio of Refined Elemental Mana to total mana (Refined Elemental Mana + Residual Wild Mana).
+> **Comprensión Crítica**: El porcentaje de pureza se calcula durante esta segunda fase como la relación entre el Maná Elemental Refinado y el maná total (Maná Elemental Refinado + Maná Salvaje Residual).
 
-## Measuring Purity
+## Midiendo la Pureza
 
-### Mathematical Expression
-Purity calculations follow the formula:
+### Expresión Matemática
+Los cálculos de pureza siguen la fórmula:
 ```
-Purity Percentage = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+Porcentaje de Pureza = (Maná Elemental Refinado) / (Maná Elemental Refinado + Maná Salvaje Residual) × 100%
 ```
 
-For example, if a spell contains 30 units of refined Fire Mana and 70 units of residual Wild Mana, its purity would be 30/(30+70) × 100% = 30% purity.
+Por ejemplo, si un hechizo contiene 30 unidades de Maná de Fuego refinado y 70 unidades de Maná Salvaje residual, su pureza sería 30/(30+70) × 100% = 30% de pureza.
 
-### Standard Classification
+### Clasificación Estándar
 
-| Category | Purity Range | Description | Typical Practitioners |
+| Categoría | Rango de Pureza | Descripción | Practicantes Típicos |
 |----------|--------------|-------------|----------------------|
-| Critical | 0-10% | Highly unstable, unpredictable | Untrained individuals in distress |
-| Basic | 10-35% | Functional but crude | Beginners, emergency casting |
-| Standard | 35-65% | Balanced and reliable | Journeyman mages, working professionals |
-| Refined | 65-85% | Highly controlled | Master mages, specialists |
-| Perfect | 85-100% | Exceptional precision | Archmages, once-in-a-generation talents |
+| Crítica | 0-10% | Altamente inestable, impredecible | Individuos no entrenados en apuros |
+| Básica | 10-35% | Funcional pero cruda | Principiantes, lanzamiento de emergencia |
+| Estándar | 35-65% | Equilibrada y fiable | Magos oficiales, profesionales en activo |
+| Refinada | 65-85% | Altamente controlada | Maestros magos, especialistas |
+| Perfecta | 85-100% | Precisión excepcional | Archimagos, talentos únicos |
 
-## Sources of Impurity
+## Fuentes de Impureza
 
-Contamination during Phase 2 conversion can occur from several sources:
+La contaminación durante la conversión de la Fase 2 puede ocurrir por varias fuentes:
 
-### Internal Factors
-- **Emotional Disturbance**: Strong emotions disrupt the refinement process
-- **Mental Fatigue**: Tired minds struggle to maintain control over the conversion
-- **Physical Strain**: Bodily stress can leak Wild Mana back into the refined output
-- **Insufficient Training**: Lack of proper technique leads to incomplete refinement
+### Factores Internos
+- **Perturbación Emocional**: Las emociones fuertes interrumpen el proceso de refinamiento
+- **Fatiga Mental**: Las mentes cansadas luchan por mantener el control sobre la conversión
+- **Tensión Física**: El estrés corporal puede filtrar Maná Salvaje de vuelta a la salida refinada
+- **Entrenamiento Insuficiente**: La falta de una técnica adecuada conduce a un refinamiento incompleto
 
-### External Factors
-- **Environmental Disruption**: High ambient Wild Mana can interfere with refinement
-- **Magical Interference**: Nearby spellcasting can create ripples in the conversion process
-- **Temporal Anomalies**: Unusual time flows can destabilize the refinement timing
-- **Planar Proximity**: Thin boundaries to other realms can introduce exotic energies
+### Factores Externos
+- **Perturbación Ambiental**: El alto Maná Salvaje ambiental puede interferir con el refinamiento
+- **Interferencia Mágica**: El lanzamiento de hechizos cercanos puede crear ondas en el proceso de conversión
+- **Anomalías Temporales**: Flujos de tiempo inusuales pueden desestabilizar el tiempo de refinamiento
+- **Proximidad Planar**: Los límites delgados a otros reinos pueden introducir energías exóticas
 
-### Technical Limitations
-- **Spell Complexity**: More complex patterns are harder to maintain at high purity
-- **Hasty Casting**: Rushing the refinement process leaves more Wild Mana residue
-- **Material Quality**: Inferior focus objects or components can reduce purity
-- **Pattern Conflicts**: Contradictory elements in a spell design can create "leaks"
+### Limitaciones Técnicas
+- **Complejidad del Hechizo**: Los patrones más complejos son más difíciles de mantener a alta pureza
+- **Lanzamiento Apresurado**: Apresurar el proceso de refinamiento deja más residuo de Maná Salvaje
+- **Calidad del Material**: Los objetos de enfoque o componentes inferiores pueden reducir la pureza
+- **Conflictos de Patrones**: Los elementos contradictorios en un diseño de hechizo pueden crear "fugas"
 
-## The Purification Process
+## El Proceso de Purificación
 
-Transforming Base Mana into refined Elemental Mana involves several distinct stages:
+La transformación del Maná Base en Maná Elemental refinado implica varias etapas distintas:
 
-### 1. Internalization
-- Base Mana is drawn from the caster's internal reserves (result of Phase 1 conversion)
-- The caster brings this Base Mana into active consciousness
-- This stage establishes a connection between intent and energy
+### 1. Internalización
+- El Maná Base se extrae de las reservas internas del lanzador (resultado de la conversión de la Fase 1)
+- El lanzador lleva este Maná Base a la conciencia activa
+- Esta etapa establece una conexión entre la intención y la energía
 
-### 2. Filtration
-- The caster separates desired components from chaotic elements
-- Mental discipline acts as a sieve for the energy
-- Focused meditation or ritual gestures enhance this stage
+### 2. Filtración
+- El lanzador separa los componentes deseados de los elementos caóticos
+- La disciplina mental actúa como un tamiz para la energía
+- La meditación enfocada o los gestos rituales mejoran esta etapa
 
-### 3. Harmonization
-- Energy patterns are aligned to the caster's intention
-- Visualization techniques strengthen the energy's coherence
-- Personal affinity with the element improves results
+### 3. Armonización
+- Los patrones de energía se alinean con la intención del lanzador
+- Las técnicas de visualización fortalecen la coherencia de la energía
+- La afinidad personal con el elemento mejora los resultados
 
-### 4. Stabilization
-- The refined energy is locked into a stable pattern
-- Spell structure creates a framework to maintain purity
-- The caster's will sustains the refined state until release
+### 4. Estabilización
+- La energía refinada se bloquea en un patrón estable
+- La estructura del hechizo crea un marco para mantener la pureza
+- La voluntad del lanzador sostiene el estado refinado hasta la liberación
 
-## Wild Mana Concentration Levels
+## Niveles de Concentración de Maná Salvaje
 
-Environmental Wild Mana varies significantly across different locations, affecting the difficulty of maintaining high purity levels during Phase 2 conversion:
+El Maná Salvaje ambiental varía significativamente entre diferentes ubicaciones, lo que afecta la dificultad de mantener altos niveles de pureza durante la conversión de la Fase 2:
 
-| Environment | Wild Mana Concentration | Purification Difficulty |
+| Entorno | Concentración de Maná Salvaje | Dificultad de Purificación |
 |-------------|-------------------------|-------------------------|
-| Dead Magic Zone | Negligible (0-0.5%) | Impossible (no energy to refine) |
-| Urban Center | Very Low (0.5-2%) | Easier (less contamination) |
-| Typical Rural Area | Low (2-5%) | Standard |
-| Forest/Natural Setting | Moderate (5-15%) | Moderate |
-| Ancient Grove | High (15-30%) | Challenging |
-| Ley Line Confluence | Very High (30-60%) | Very Difficult |
-| Magical Anomaly | Extreme (60-100%) | Nearly Impossible |
+| Zona de Magia Muerta | Despreciable (0-0.5%) | Imposible (sin energía para refinar) |
+| Centro Urbano | Muy Baja (0.5-2%) | Más Fácil (menos contaminación) |
+| Zona Rural Típica | Baja (2-5%) | Estándar |
+| Bosque/Entorno Natural | Moderada (5-15%) | Moderada |
+| Arboleda Antigua | Alta (15-30%) | Desafiante |
+| Confluencia de Líneas Ley | Muy Alta (30-60%) | Muy Difícil |
+| Anomalía Mágica | Extrema (60-100%) | Casi Imposible |
 
-## The Relationship Between Phases
+## La Relación Entre las Fases
 
-Understanding the clear distinction between the two phases of mana conversion is crucial:
+Comprender la clara distinción entre las dos fases de la conversión de maná es crucial:
 
-### Primary Differences
+### Diferencias Primarias
 
-| Aspect | Phase 1 (Wild → Base) | Phase 2 (Base → Elemental) |
+| Aspecto | Fase 1 (Salvaje → Base) | Fase 2 (Base → Elemental) |
 |--------|------------------------|----------------------------|
-| Nature | Biological, largely unconscious | Conscious, technical process |
-| Location | Throughout the body | Primarily in mind and casting apparatus |
-| Timing | Continuous, background process | Active, during spellcasting |
-| Metric | Effectiveness (quantity) | Purity (quality) |
-| Limiting Factor | Species and capacity | Training and technique |
-| Improvement Method | Long-term development | Skill practice and focus |
+| Naturaleza | Biológica, en gran medida inconsciente | Consciente, proceso técnico |
+| Ubicación | A lo largo del cuerpo | Principalmente en la mente y el aparato de lanzamiento |
+| Tiempo | Continuo, proceso de fondo | Activo, durante el lanzamiento de hechizos |
+| Métrica | Efectividad (cantidad) | Pureza (calidad) |
+| Factor Limitante | Especie y capacidad | Entrenamiento y técnica |
+| Método de Mejora | Desarrollo a largo plazo | Práctica de habilidades y enfoque |
 
-### Why Separate Phases Matter
+### Por Qué Importan las Fases Separadas
 
-1. **Specialization**: Some individuals may excel at Phase 1 (having large mana reserves) while struggling with Phase 2 (producing pure mana), or vice versa
-2. **Diagnosis**: Magical difficulties can be precisely attributed to either collection problems (Phase 1) or refinement problems (Phase 2)
-3. **Training Focus**: Different exercises target improvement in each specific phase
-4. **Tool Design**: Magical implements may be crafted to assist with either phase specifically
+1. **Especialización**: Algunos individuos pueden sobresalir en la Fase 1 (teniendo grandes reservas de maná) mientras que luchan con la Fase 2 (produciendo maná puro), o viceversa
+2. **Diagnóstico**: Las dificultades mágicas pueden atribuirse con precisión a problemas de recolección (Fase 1) o problemas de refinamiento (Fase 2)
+3. **Enfoque del Entrenamiento**: Diferentes ejercicios apuntan a mejorar cada fase específica
+4. **Diseño de Herramientas**: Los implementos mágicos pueden ser elaborados para ayudar con cualquiera de las fases específicamente
 
-## Direct Wild Mana Absorption Dangers
+## Peligros de la Absorción Directa de Maná Salvaje
 
-While most magical traditions teach the two-phase process for safety, some practitioners attempt to bypass Phase 1 (biological conversion) and directly manipulate Wild Mana. This carries significant risks:
+Si bien la mayoría de las tradiciones mágicas enseñan el proceso de dos fases por seguridad, algunos practicantes intentan evitar la Fase 1 (conversión biológica) y manipular directamente el Maná Salvaje. Esto conlleva riesgos significativos:
 
-### Acute Effects
-- **Mana Burns**: Painful energy discharges through the body
-- **Sensory Overload**: Overwhelming magical perceptions
-- **Uncontrolled Manifestations**: Spontaneous spell-like effects
+### Efectos Agudos
+- **Quemaduras de Maná**: Descargas de energía dolorosas a través del cuerpo
+- **Sobrecarga Sensorial**: Percepciones mágicas abrumadoras
+- **Manifestaciones Incontroladas**: Efectos espontáneos similares a hechizos
 
-### Chronic Conditions
-- **Pattern Scarring**: Permanent distortions in personal mana flow
-- **Wild Resonance**: Increasing vulnerability to ambient Wild Mana
-- **Elemental Imbalance**: Disruption of internal elemental harmonies
+### Condiciones Crónicas
+- **Cicatrización de Patrones**: Distorsiones permanentes en el flujo de maná personal
+- **Resonancia Salvaje**: Aumento de la vulnerabilidad al Maná Salvaje ambiental
+- **Desequilibrio Elemental**: Interrupción de las armonías elementales internas
 
-### Catastrophic Outcomes
-- **Cascade Failure**: Complete collapse of personal mana control
-- **Wild Transformation**: Physical mutation from Wild Mana exposure
-- **Mana Rejection**: Inability to process magical energy altogether
+### Resultados Catastróficos
+- **Fallo en Cascada**: Colapso completo del control de maná personal
+- **Transformación Salvaje**: Mutación física por la exposición al Maná Salvaje
+- **Rechazo de Maná**: Incapacidad para procesar energía mágica por completo
 
-## Practical Applications
+## Aplicaciones Prácticas
 
-### Training Techniques
-- **Meditation Cycles**: Rhythmic breathing paired with mental focus exercises
-- **Purity Crystals**: Tools that provide visual feedback on current purity levels
-- **Pattern Weaving**: Creating increasingly complex designs with stable energy
-- **Echo Casting**: Repeating the same spell to refine the conversion process
+### Técnicas de Entrenamiento
+- **Ciclos de Meditación**: Respiración rítmica combinada con ejercicios de enfoque mental
+- **Cristales de Pureza**: Herramientas que proporcionan retroalimentación visual sobre los niveles de pureza actuales
+- **Tejido de Patrones**: Creación de diseños cada vez más complejos con energía estable
+- **Lanzamiento de Eco**: Repetir el mismo hechizo para refinar el proceso de conversión
 
-### Purity-Enhancing Tools
-- **Focus Objects**: Personal items that help stabilize the conversion process
-- **Purification Chambers**: Spaces designed to minimize external interference
-- **Harmonic Instruments**: Create sounds that resonate with and stabilize magical energy
-- **Purity Inks and Pigments**: Materials that help visualize and maintain pure patterns
+### Herramientas para Mejorar la Pureza
+- **Objetos de Enfoque**: Objetos personales que ayudan a estabilizar el proceso de conversión
+- **Cámaras de Purificación**: Espacios diseñados para minimizar la interferencia externa
+- **Instrumentos Armónicos**: Crean sonidos que resuenan con la energía mágica y la estabilizan
+- **Tintas y Pigmentos de Pureza**: Materiales que ayudan a visualizar y mantener patrones puros
 
-## Cultural Perspectives
+## Perspectivas Culturales
 
-Different magical traditions emphasize varying aspects of purity:
+Diferentes tradiciones mágicas enfatizan diversos aspectos de la pureza:
 
-- **Academic Traditions**: Value extremely high purity; view Wild Mana as contamination
-- **Natural Traditions**: Accept moderate Wild Mana content as connecting magic to life force
-- **Divine Traditions**: Focus on intention purity over technical refinement
-- **Innate Casters**: Often have unique biological Phase 1 processes that affect their Phase 2 capabilities
+- **Tradiciones Académicas**: Valoran la pureza extremadamente alta; ven el Maná Salvaje como contaminación
+- **Tradiciones Naturales**: Aceptan un contenido moderado de Maná Salvaje como conexión de la magia con la fuerza vital
+- **Tradiciones Divinas**: Se centran en la pureza de la intención sobre el refinamiento técnico
+- **Lanzadores Innatos**: A menudo tienen procesos biológicos únicos de Fase 1 que afectan sus capacidades de Fase 2
 
-## Misconceptions
+## Ideas Erróneas
 
-- **"Higher purity always means better magic"**: Some spells actually benefit from controlled Wild Mana content
-- **"Purity is entirely about skill"**: Natural affinity and biological factors significantly impact achievable purity
-- **"Impure magic is always dangerous"**: While risks increase, many practical applications work adequately at lower purity levels
-- **"Purity can be achieved through tools alone"**: No focus object can replace proper technique and understanding
+- **"Mayor pureza siempre significa mejor magia"**: Algunos hechizos en realidad se benefician del contenido controlado de Maná Salvaje
+- **"La pureza se trata únicamente de habilidad"**: La afinidad natural y los factores biológicos impactan significativamente la pureza alcanzable
+- **"La magia impura siempre es peligrosa"**: Si bien los riesgos aumentan, muchas aplicaciones prácticas funcionan adecuadamente a niveles de pureza más bajos
+- **"La pureza se puede lograr solo a través de herramientas"**: Ningún objeto de enfoque puede reemplazar la técnica y la comprensión adecuadas
 
-> *"Think of Wild Mana as clay from the riverbank. Phase 1 is gathering the clay and removing the largest stones and debris - this is our Base Mana. Phase 2 is working the clay, removing finer impurities, and shaping it to our purpose - this gives us our Elemental Mana with varying levels of purity. Some pottery needs the finest, purest clay, while other vessels actually benefit from certain 'impurities' that give them character and strength."* — Magister Elara Tetherson, Instructor of Fundamental Energies 
+> *"Piensa en el Maná Salvaje como arcilla de la orilla del río. La Fase 1 es recolectar la arcilla y eliminar las piedras y escombros más grandes; este es nuestro Maná Base. La Fase 2 es trabajar la arcilla, eliminando impurezas más finas y dándole forma a nuestro propósito, esto nos da nuestro Maná Elemental con diversos niveles de pureza. Algunas cerámicas necesitan la arcilla más fina y pura, mientras que otros recipientes en realidad se benefician de ciertas 'impurezas' que les dan carácter y fuerza."* — Magister Elara Tetherson, Instructora de Energías Fundamentales
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

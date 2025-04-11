@@ -1,110 +1,114 @@
-# **Magic Sense**
+# **Sentido Mágico**
 
-A fundamental divination spell that allows the caster to perceive magical energies in their surroundings. This perceptual enhancement serves as the foundation for magical investigation, artifact identification, and spellwork analysis.
+Un hechizo fundamental de adivinación que permite al lanzador percibir las energías mágicas en su entorno. Esta mejora perceptual sirve como la base para la investigación mágica, la identificación de artefactos y el análisis del trabajo con hechizos.
 
-## Casting Information
+## Información de Lanzamiento
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Difficulty** | Novice |
-| **Casting Time** | 3 seconds |
-| **Duration** | Concentration (up to 15 minutes) |
-| **Range** | 30 foot radius centered on caster |
-| **Components** | Somatic (touching fingertips to temples), Verbal (whispered phrase) |
+| **Dificultad** | Novato |
+| **Tiempo de Lanzamiento** | 3 segundos |
+| **Duración** | Concentración (hasta 15 minutos) |
+| **Alcance** | Radio de 30 pies centrado en el lanzador |
+| **Componentes** | Somático (tocando las yemas de los dedos en las sienes), Verbal (frase susurrada) |
 
-## Technical Details
+## Detalles Técnicos
 
-| Aspect | Details |
+| Aspecto | Detalles |
 |--------|---------|
-| **Mana Type** | Base Mana (80%), Luxmana (20%) |
-| **Purity Required** | Basic (15-30%) |
-| **Pattern Complexity** | Simple (3 elements) |
-| **Resonance Frequency** | Perception/Awareness spectrum |
-| **Minimum Mana Capacity** | 15% (Higher capacity increases detection range and clarity) |
+| **Tipo de Maná** | Maná Base (80%), Luxmana (20%) |
+| **Pureza Requerida** | Básica (15-30%) |
+| **Complejidad del Patrón** | Simple (3 elementos) |
+| **Frecuencia de Resonancia** | Espectro de Percepción/Conciencia |
+| **Capacidad Mínima de Maná** | 15% (Una mayor capacidad aumenta el rango de detección y la claridad) |
 
-## Pattern Structure
+## Estructura del Patrón
 
-The Magic Sense pattern consists of three primary elements:
-1. **Perception Filter**: Attunes the caster's senses to magical frequencies
-2. **Resonance Amplifier**: Enhances subtle magical emanations to detectable levels
-3. **Interpretation Matrix**: Translates magical energies into sensory information the caster can understand
+El patrón de Sentido Mágico consta de tres elementos principales:
+1. **Filtro de Percepción**: Sintoniza los sentidos del lanzador con las frecuencias mágicas
+2. **Amplificador de Resonancia**: Mejora las emanaciones mágicas sutiles a niveles detectables
+3. **Matriz de Interpretación**: Traduce las energías mágicas en información sensorial que el lanzador puede entender
 
-These elements form a web-like pattern that extends from the caster's mind outward into the surrounding area.
+Estos elementos forman un patrón similar a una red que se extiende desde la mente del lanzador hacia el área circundante.
 
-## Practical Effect
+## Efecto Práctico
 
-When successfully cast, the spell:
-- Creates a second "sight" that perceives magical energies
-- Allows identification of active spells and enchanted objects
-- Reveals residual magical traces from recent spellcasting
-- Detects the presence and general nature of magical beings
-- Provides insight into the type and relative strength of detected magic
+Cuando se lanza con éxito, el hechizo:
+- Crea una segunda "vista" que percibe las energías mágicas
+- Permite la identificación de hechizos activos y objetos encantados
+- Revela rastros mágicos residuales del lanzamiento reciente de hechizos
+- Detecta la presencia y la naturaleza general de los seres mágicos
+- Proporciona información sobre el tipo y la fuerza relativa de la magia detectada
 
-Most casters perceive magical energies as colored auras or glowing patterns superimposed over their normal vision, though some experience magical energy as sounds, scents, or tactile sensations.
+La mayoría de los lanzadores perciben las energías mágicas como auras coloreadas o patrones brillantes superpuestos a su visión normal, aunque algunos experimentan la energía mágica como sonidos, aromas o sensaciones táctiles.
 
-## Magical Perception Characteristics
+## Características de la Percepción Mágica
 
-Different types of magic typically manifest with distinctive sensory properties:
+Diferentes tipos de magia típicamente se manifiestan con propiedades sensoriales distintivas:
 
-| Magic Type | Visual Perception | Other Sensory Manifestations |
+| Tipo de Magia | Percepción Visual | Otras Manifestaciones Sensoriales |
 |------------|-------------------|------------------------------|
-| **Pyromana** | Red-orange glow, flickering patterns | Warmth, crackling sounds |
-| **Hydromana** | Blue-green luminescence, flowing patterns | Coolness, gentle rushing sounds |
-| **Terramana** | Brown-amber aura, solid patterns | Weight, deep humming |
-| **Aeromana** | White-silver glow, swirling patterns | Tingling, whistling sounds |
-| **Luxmana** | Golden-white brilliance, radiant patterns | Warmth, harmonious tones |
-| **Umbramana** | Purple-black aura, shadowy patterns | Coldness, whispering sounds |
-| **Vitaemana** | Green-gold glow, pulsing patterns | Vitality, rhythmic beating |
-| **Mortismana** | Gray-purple luminescence, still patterns | Hollowness, distant echoes |
+| **Pyromana** | Resplandor rojo-naranja, patrones parpadeantes | Calor, sonidos crepitantes |
+| **Hydromana** | Luminiscencia azul-verde, patrones fluidos | Frescura, suaves sonidos de agua corriente |
+| **Terramana** | Aura marrón-ámbar, patrones sólidos | Peso, zumbido profundo |
+| **Aeromana** | Resplandor blanco-plateado, patrones arremolinados | Hormigueo, silbidos |
+| **Luxmana** | Brillo dorado-blanco, patrones radiantes | Calor, tonos armoniosos |
+| **Umbramana** | Aura púrpura-negra, patrones sombríos | Frío, sonidos susurrantes |
+| **Vitaemana** | Resplandor verde-dorado, patrones pulsantes | Vitalidad, latidos rítmicos |
+| **Mortismana** | Luminiscencia gris-púrpura, patrones estáticos | Vacío, ecos distantes |
 
-## Common Applications
+## Aplicaciones Comunes
 
-- **Spell Identification**: Determining the nature of active magical effects
-- **Artifact Assessment**: Identifying enchanted objects and their properties
-- **Environmental Analysis**: Detecting magical anomalies or hidden enchantments
-- **Aura Reading**: Gaining insight into the magical nature of beings
-- **Magical Tracking**: Following traces of recently cast spells
-- **Safety Scanning**: Checking areas for harmful magical effects before proceeding
+- **Identificación de Hechizos**: Determinar la naturaleza de los efectos mágicos activos
+- **Evaluación de Artefactos**: Identificar objetos encantados y sus propiedades
+- **Análisis Ambiental**: Detectar anomalías mágicas o encantamientos ocultos
+- **Lectura de Aura**: Obtener información sobre la naturaleza mágica de los seres
+- **Rastreo Mágico**: Seguir rastros de hechizos lanzados recientemente
+- **Escaneo de Seguridad**: Verificar áreas para detectar efectos mágicos dañinos antes de proceder
 
-## Variations
+## Variaciones
 
-- **Focused Sense**: Concentrates on a smaller area for more detailed information
-- **Extended Sense**: Covers a larger area with less precise detection (requires 25%+ purity)
-- **Specific Resonance**: Tunes specifically to one type of magical energy
-- **Deep Sense**: Penetrates magical concealment at the cost of range (Adept difficulty, requires 40-50% purity)
-- **Passive Sense**: Lower intensity but longer duration (up to 1 hour)
+- **Sentido Enfocado**: Se concentra en un área más pequeña para obtener información más detallada
+- **Sentido Extendido**: Cubre un área más grande con una detección menos precisa (requiere 25%+ de pureza)
+- **Resonancia Específica**: Se sintoniza específicamente con un tipo de energía mágica
+- **Sentido Profundo**: Penetra el ocultamiento mágico a costa del alcance (dificultad de Adepto, requiere 40-50% de pureza)
+- **Sentido Pasivo**: Menor intensidad pero mayor duración (hasta 1 hora)
 
-## Risks and Miscast Effects
+## Riesgos y Efectos de Lanzamiento Fallido
 
-- **Sensory Overload**: In magically dense environments, can cause disorientation or headaches
-- **False Readings**: Imprecise casting or insufficient purity (below 15%) can result in misleading or incorrect perceptions
-- **Attraction**: Poorly controlled sensing can alert magical entities to the caster's presence
-- **Attunement Bleed**: Temporary difficulty distinguishing magical from mundane perceptions after the spell ends
-- **Energy Drain**: Excessive concentration can lead to mental fatigue
-- **Sensory Contamination**: Critical purity shortage (below 10%) may temporarily distort the caster's normal senses
+- **Sobrecarga Sensorial**: En entornos mágicamente densos, puede causar desorientación o dolores de cabeza
+- **Lecturas Falsas**: El lanzamiento impreciso o la pureza insuficiente (por debajo del 15%) pueden resultar en percepciones engañosas o incorrectas
+- **Atracción**: Un sensado mal controlado puede alertar a las entidades mágicas sobre la presencia del lanzador
+- **Sangrado de Sintonización**: Dificultad temporal para distinguir las percepciones mágicas de las mundanas después de que termina el hechizo
+- **Drenaje de Energía**: La concentración excesiva puede provocar fatiga mental
+- **Contaminación Sensorial**: La escasez crítica de pureza (por debajo del 10%) puede distorsionar temporalmente los sentidos normales del lanzador
 
-## Purity Influence on Effect
+## Influencia de la Pureza en el Efecto
 
-| Purity Level | Effect Enhancement |
+| Nivel de Pureza | Mejora del Efecto |
 |--------------|---------------------|
-| 10-15% | Limited detection of only the strongest magical emanations with frequent false readings |
-| 15-30% | Standard effect as described above |
-| 30-50% | Enhanced clarity, ability to discern spell structures, increased range (45 foot radius) |
-| 50%+ | Precise magical analysis, ability to identify casting signatures, detection of layered or concealed magic |
+| 10-15% | Detección limitada solo de las emanaciones mágicas más fuertes con frecuentes lecturas falsas |
+| 15-30% | Efecto estándar como se describe arriba |
+| 30-50% | Mayor claridad, capacidad para discernir estructuras de hechizos, mayor alcance (radio de 45 pies) |
+| 50%+ | Análisis mágico preciso, capacidad para identificar firmas de lanzamiento, detección de magia en capas u oculta |
 
-## Musical Analogy
+## Analogía Musical
 
-Magic Sense is like developing perfect pitch for magical frequencies. The caster must tune their awareness to the subtle "music" of magical energies, learning to distinguish different "notes" (magical types) and "melodies" (spell patterns). Like a trained musician who can identify individual instruments in an orchestra, an experienced Magic Sense user can pick out specific magical elements from complex enchantments.
+El Sentido Mágico es como desarrollar el tono perfecto para las frecuencias mágicas. El lanzador debe sintonizar su conciencia con la sutil "música" de las energías mágicas, aprendiendo a distinguir diferentes "notas" (tipos mágicos) y "melodías" (patrones de hechizos). Al igual que un músico entrenado que puede identificar instrumentos individuales en una orquesta, un usuario experimentado de Sentido Mágico puede seleccionar elementos mágicos específicos de encantamientos complejos.
 
-## Learning Progression
+## Progresión del Aprendizaje
 
-Most students master this spell through graduated exercises:
-1. **Awareness**: Detecting the presence of obvious magic (active spells, powerful artifacts)
-2. **Discrimination**: Distinguishing between different types of magical energy
-3. **Analysis**: Interpreting the structure and purpose of detected magic
-4. **Subtlety**: Perceiving faint traces and residual magic
-5. **Integration**: Maintaining the sense while performing other actions
+La mayoría de los estudiantes dominan este hechizo a través de ejercicios graduados:
+1. **Conciencia**: Detectar la presencia de magia obvia (hechizos activos, artefactos poderosos)
+2. **Discriminación**: Distinguir entre diferentes tipos de energía mágica
+3. **Análisis**: Interpretar la estructura y el propósito de la magia detectada
+4. **Sutileza**: Percibir rastros débiles y magia residual
+5. **Integración**: Mantener el sentido mientras se realizan otras acciones
 
-## Historical Note
+## Nota Histórica
 
-Magic Sense evolved naturally among early spellcasters as a survival mechanism, allowing them to avoid dangerous magical phenomena and identify beneficial magical resources. Its first formal codification is credited to the elven diviner Elariel Truesight, who refined the wild perceptual techniques into a controlled, teachable pattern during the Age of Awakening. Today, it is considered the first essential spell for any practitioner of divination magic and is often taught alongside basic protective magic as a fundamental safety skill for all magical disciplines. 
+El Sentido Mágico evolucionó naturalmente entre los primeros lanzadores de hechizos como un mecanismo de supervivencia, permitiéndoles evitar fenómenos mágicos peligrosos e identificar recursos mágicos beneficiosos. Su primera codificación formal se atribuye a la adivina elfa Elariel Truesight, quien refinó las técnicas perceptuales salvajes en un patrón controlado y enseñable durante la Era del Despertar. Hoy en día, se considera el primer hechizo esencial para cualquier practicante de la magia de adivinación y, a menudo, se enseña junto con la magia protectora básica como una habilidad de seguridad fundamental para todas las disciplinas mágicas.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

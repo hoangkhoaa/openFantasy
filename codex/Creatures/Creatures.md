@@ -1,176 +1,180 @@
-# OpenFantasy Creatures
+# Criaturas de OpenFantasy
 
-> *"The living symphony of creation is composed of countless beings, each playing their unique melody in the grand orchestra of existence."*
+> *"La sinfonía viviente de la creación está compuesta por incontables seres, cada uno tocando su melodía única en la gran orquesta de la existencia."*
 
-## Quick Navigation
+## Navegación Rápida
 
-- [Elemental Components](#elemental-components)
-- [Composition-Based Classification](#composition-based-classification)
-- [Individual Variations](#individual-variations)
-- [Creature Categories](#creature-categories)
-- [Magical Origins](#magical-origins)
-- [Enhancement Methods](#enhancement-methods)
+- [Componentes Elementales](#componentes-elementales)
+- [Clasificación Basada en la Composición](#clasificación-basada-en-la-composición)
+- [Variaciones Individuales](#variaciones-individuales)
+- [Categorías de Criaturas](#categorías-de-criaturas)
+- [Orígenes Mágicos](#orígenes-mágicos)
+- [Métodos de Mejora](#métodos-de-mejora)
 
-## Overview
+## Resumen
 
-All creatures in OpenFantasy are composed of three elemental components in varying ratios: [**Exanthis**](/codex/Basic/Exanthis.md) (physical form), [**Soul**](/codex/Basic/Soul.md) (consciousness and willpower), and **Mana Capacity** (ability to manipulate [**Mana**](/codex/Basic/Mana.md)). These ratios determine their abilities, strengths, and weaknesses.
+Todas las criaturas en OpenFantasy están compuestas de tres componentes elementales en diferentes proporciones: [**Exanthis**](/codex/Basic/Exanthis.md) (forma física), [**Alma**](/codex/Basic/Soul.md) (conciencia y fuerza de voluntad), y **Capacidad de Maná** (habilidad para manipular [**Maná**](/codex/Basic/Mana.md)). Estas proporciones determinan sus habilidades, fortalezas y debilidades.
 
-Different categories of beings—from sentient species to plants, from animals to monsters—each exhibit distinctive elemental compositions that influence their place in the world's ecology and society.
+Diferentes categorías de seres —desde especies sensibles hasta plantas, desde animales hasta monstruos— cada una exhibe composiciones elementales distintivas que influyen en su lugar en la ecología y la sociedad del mundo.
 
-## Elemental Components
+## Componentes Elementales
 
-Each living being's composition can be understood through the proportion of three fundamental components:
+La composición de cada ser vivo puede entenderse a través de la proporción de tres componentes fundamentales:
 
-| Component | Description | Metaphor |
+| Componente | Descripción | Metáfora |
 |-----------|-------------|----------|
-| **Exanthis (E)** | Physical foundation providing structure and form | The body of an instrument |
-| **Soul (S)** | Spark of consciousness providing will and identity | The musician who plays the instrument |
-| **Mana Capacity (M)** | Bridge between worlds determining magical ability | The harmonies that weave everything together |
+| **Exanthis (E)** | Base física que proporciona estructura y forma | El cuerpo de un instrumento |
+| **Alma (S)** | Chispa de conciencia que proporciona voluntad e identidad | El músico que toca el instrumento |
+| **Capacidad de Maná (M)** | Puente entre mundos que determina la habilidad mágica | Las armonías que entrelazan todo |
 
-### Component Effects
+### Efectos de los Componentes
 
-| Component | Advantages | Limitations |
+| Componente | Ventajas | Limitaciones |
 |-----------|------------|-------------|
-| **Exanthis** | Greater physical strength, endurance, and durability | Reduced magical potential due to magnetic interference with Mana |
-| **Soul** | Enhanced consciousness, willpower, and identity | Accelerated soul decay resulting in shorter lifespans |
-| **Mana Capacity** | Higher purity and control of Mana | May result in physical frailty due to lower Exanthis |
+| **Exanthis** | Mayor fuerza física, resistencia y durabilidad | Potencial mágico reducido debido a la interferencia magnética con el Maná |
+| **Alma** | Conciencia, fuerza de voluntad e identidad mejoradas | Decaimiento acelerado del alma que resulta en una vida útil más corta |
+| **Capacidad de Maná** | Mayor pureza y control del Maná | Puede resultar en fragilidad física debido a un Exanthis más bajo |
 
-## Composition-Based Classification
+## Clasificación Basada en la Composición
 
-Creatures in OpenFantasy are classified by their elemental composition and magical nature, rather than traditional biological taxonomies:
+Las criaturas en OpenFantasy se clasifican por su composición elemental y naturaleza mágica, en lugar de las taxonomías biológicas tradicionales:
 
-| Category | Exanthis | Soul | Mana | Examples |
+| Categoría | Exanthis | Alma | Maná | Ejemplos |
 |----------|----------|------|------|----------|
-| **Physical Dominant** | 50%+ | Varied | <25% | Dwarves, Giants, Most Animals |
-| **Soul Dominant** | <40% | 40%+ | <40% | Some Humans, Sirens, Gnomes |
-| **Mana Dominant** | <30% | <40% | 50%+ | Elves, Fae, Elementals |
-| **Balanced** | 20-50% | 20-50% | 20-50% | Humans, Some Beastfolk, Hybrid Species |
+| **Dominante Físico** | 50%+ | Variado | <25% | Enanos, Gigantes, La mayoría de los Animales |
+| **Dominante del Alma** | <40% | 40%+ | <40% | Algunos Humanos, Sirenas, Gnomos |
+| **Dominante del Maná** | <30% | <40% | 50%+ | Elfos, Fae, Elementales |
+| **Equilibrado** | 20-50% | 20-50% | 20-50% | Humanos, Algunos Hombres Bestia, Especies Híbridas |
 
-## Individual Variations
+## Variaciones Individuales
 
-Within each species, individuals exhibit unique variations in their elemental composition, resulting in diverse abilities, temperaments, and aptitudes. These variations are influenced by:
+Dentro de cada especie, los individuos exhiben variaciones únicas en su composición elemental, lo que resulta en diversas habilidades, temperamentos y aptitudes. Estas variaciones están influenciadas por:
 
-- **Heredity**: Traits passed down through ancestral lines
-- **Environment**: Environmental conditions during formative years
-- **Life Experiences**: Significant events that alter elemental balance
-- **Personal Development**: Intentional cultivation of specific elements
+- **Hereditariedad**: Rasgos transmitidos a través de líneas ancestrales
+- **Entorno**: Condiciones ambientales durante los años de formación
+- **Experiencias de Vida**: Eventos significativos que alteran el equilibrio elemental
+- **Desarrollo Personal**: Cultivo intencional de elementos específicos
 
-## Creature Categories
+## Categorías de Criaturas
 
-The world of OpenFantasy features diverse beings organized into six primary categories:
+El mundo de OpenFantasy presenta diversos seres organizados en seis categorías principales:
 
-### Sentient Species
+### Especies Sensibles
 
-Intelligent beings capable of forming civilizations, creating culture, and wielding magic through conscious effort:
+Seres inteligentes capaces de formar civilizaciones, crear cultura y ejercer magia mediante el esfuerzo consciente:
 
-| Species | Elemental Composition | Notable Traits |
+| Especies | Composición Elemental | Rasgos Notables |
 |---------|----------------------|----------------|
-| [**Humans**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | Adaptability, innovation, balanced capabilities |
-| [**Elves**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | Longevity, magical aptitude, connection to nature |
-| [**Dwarves**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | Physical resilience, craftsmanship, underground mastery |
-| [**Beastfolk**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | Animal traits, heightened senses, natural instincts |
+| [**Humanos**](/codex/Creatures/Sentient/Humans.md) | E: 20-55%, S: 15-45%, M: 15-60% | Adaptabilidad, innovación, capacidades equilibradas |
+| [**Elfos**](/codex/Creatures/Sentient/Elves.md) | E: 5-25%, S: 5-15%, M: 50-80% | Longevidad, aptitud mágica, conexión con la naturaleza |
+| [**Enanos**](/codex/Creatures/Sentient/Dwarves.md) | E: 50-70%, S: 20-35%, M: 5-25% | Resistencia física, artesanía, dominio subterráneo |
+| [**Hombres Bestia**](/codex/Creatures/Sentient/Beastfolk.md) | E: 35-70%, S: 15-35%, M: 15-40% | Rasgos animales, sentidos agudizados, instintos naturales |
 
-→ See [Sentient Species](/codex/Creatures/Sentient/README.md) for more detailed information.
+→ Ver [Especies Sensibles](/codex/Creatures/Sentient/README.md) para obtener información más detallada.
 
-### Magical Beings
+### Seres Mágicos
 
-Creatures composed primarily of magical energy or created through magical processes:
+Criaturas compuestas principalmente de energía mágica o creadas a través de procesos mágicos:
 
-| Being | Elemental Composition | Notable Traits |
+| Ser | Composición Elemental | Rasgos Notables |
 |-------|----------------------|----------------|
-| [**Fae**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | Ethereal nature, reality manipulation, otherworldly |
-| [**Elementals**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | Embodiment of natural forces, pure magical essence |
-| [**Dragonkin**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | Ancient lineage, elemental affinity, natural power |
-| [**Golems**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | Constructed bodies, artificial souls, purpose-bound |
+| [**Fae**](/codex/Creatures/Magical/Fae.md) | E: 2-10%, S: 15-35%, M: 50-80% | Naturaleza etérea, manipulación de la realidad, de otro mundo |
+| [**Elementales**](/codex/Creatures/Magical/Elementals.md) | E: 15-30%, S: 5-15%, M: 60-85% | Encarnación de las fuerzas naturales, esencia mágica pura |
+| [**Engendros de Dragón**](/codex/Creatures/Magical/Dragonkin.md) | E: 55-75%, S: 5-15%, M: 20-35% | Linaje antiguo, afinidad elemental, poder natural |
+| [**Golems**](/codex/Creatures/Magical/Golems.md) | E: 70-90%, S: 5-15%, M: 5-15% | Cuerpos construidos, almas artificiales, vinculados a un propósito |
 
-→ See [Magical Beings](/codex/Creatures/Magical/README.md) for more detailed information.
+→ Ver [Seres Mágicos](/codex/Creatures/Magical/README.md) para obtener información más detallada.
 
-### Animals
+### Animales
 
-Non-sentient fauna with varying degrees of intelligence and magical affinity:
+Fauna no sensible con diversos grados de inteligencia y afinidad mágica:
 
-| Category | Elemental Composition | Notable Traits |
+| Categoría | Composición Elemental | Rasgos Notables |
 |----------|----------------------|----------------|
-| [**Domesticated**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | Human-influenced evolution, trainability |
-| [**Wild**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | Natural instincts, ecological adaptations |
-| [**Aquatic**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | Water adaptation, specialized physiologies |
-| [**Magical**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | Innate magical abilities, supernatural traits |
+| [**Domesticados**](/codex/Creatures/Animals/Domesticated.md) | E: 65-85%, S: 12-25%, M: 3-10% | Evolución influenciada por el humano, entrenabilidad |
+| [**Salvajes**](/codex/Creatures/Animals/Wild.md) | E: 75-90%, S: 8-20%, M: 2-5% | Instintos naturales, adaptaciones ecológicas |
+| [**Acuáticos**](/codex/Creatures/Animals/Aquatic.md) | E: 70-85%, S: 5-15%, M: 5-20% | Adaptación al agua, fisiologías especializadas |
+| [**Mágicos**](/codex/Creatures/Animals/Magical.md) | E: 50-75%, S: 5-15%, M: 15-45% | Habilidades mágicas innatas, rasgos sobrenaturales |
 
-→ See [Animals](/codex/Creatures/Animals/README.md) for more detailed information.
+→ Ver [Animales](/codex/Creatures/Animals/README.md) para obtener información más detallada.
 
-### Monsters
+### Monstruos
 
-Dangerous or unnatural creatures that exist outside the normal ecological balance:
+Criaturas peligrosas o antinaturales que existen fuera del equilibrio ecológico normal:
 
-| Category | Elemental Composition | Notable Traits |
+| Categoría | Composición Elemental | Rasgos Notables |
 |----------|----------------------|----------------|
-| [**Aberrations**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | Unnatural anatomy, reality-warping properties |
-| [**Undead**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | Death-defying, necromantic energy, soul disruption |
-| [**Corrupted**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | Twisted forms, magical contamination, unstable |
-| [**Giants**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | Enormous size, primal strength, elemental connections |
+| [**Aberraciones**](/codex/Creatures/Monsters/Aberrations.md) | E: 30-60%, S: 5-20%, M: 30-60% | Anatomía antinatural, propiedades de distorsión de la realidad |
+| [**No Muertos**](/codex/Creatures/Monsters/Undead.md) | E: 10-30%, S: 0-10%, M: 60-90% | Desafiando la muerte, energía necromántica, disrupción del alma |
+| [**Corruptos**](/codex/Creatures/Monsters/Corrupted.md) | E: 40-60%, S: 5-15%, M: 30-50% | Formas retorcidas, contaminación mágica, inestables |
+| [**Gigantes**](/codex/Creatures/Monsters/Giants.md) | E: 65-85%, S: 5-15%, M: 10-25% | Tamaño enorme, fuerza primigenia, conexiones elementales |
 
-→ See [Monsters](/codex/Creatures/Monsters/README.md) for more detailed information.
+→ Ver [Monstruos](/codex/Creatures/Monsters/README.md) para obtener información más detallada.
 
-### Plants
+### Plantas
 
-Flora with unique properties, both magical and mundane:
+Flora con propiedades únicas, tanto mágicas como mundanas:
 
-| Category | Elemental Composition | Notable Traits |
+| Categoría | Composición Elemental | Rasgos Notables |
 |----------|----------------------|----------------|
-| [**Mundane**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | Basic flora, ecological foundation |
-| [**Medicinal**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | Healing properties, biological potency |
-| [**Magical**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | Spell components, energy manipulation |
-| [**Sentient**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | Consciousness, mobility, communication |
+| [**Mundanas**](/codex/Creatures/Plants/Mundane.md) | E: 85-95%, S: 0-2%, M: 5-15% | Flora básica, base ecológica |
+| [**Medicinales**](/codex/Creatures/Plants/Medicinal.md) | E: 75-85%, S: 1-3%, M: 15-25% | Propiedades curativas, potencia biológica |
+| [**Mágicas**](/codex/Creatures/Plants/Magical.md) | E: 60-80%, S: 1-5%, M: 20-40% | Componentes de hechizos, manipulación de energía |
+| [**Sensibles**](/codex/Creatures/Plants/Sentient.md) | E: 70-85%, S: 5-15%, M: 10-25% | Conciencia, movilidad, comunicación |
 
-→ See [Plants](/codex/Creatures/Plants/README.md) for more detailed information.
+→ Ver [Plantas](/codex/Creatures/Plants/README.md) para obtener información más detallada.
 
-### Hybrid Beings
+### Seres Híbridos
 
-Creatures that bridge multiple categories through unique physiologies:
+Criaturas que unen múltiples categorías a través de fisiologías únicas:
 
-| Being | Elemental Composition | Notable Traits |
+| Ser | Composición Elemental | Rasgos Notables |
 |-------|----------------------|----------------|
-| [**Centaurs**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | Horse-human hybrid, nature wisdom, stamina |
-| [**Merfolk**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | Aquatic adaptation, water magic, dual environment |
-| [**Sirens**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | Sound manipulation, emotional influence, beauty |
+| [**Centauros**](/codex/Creatures/Hybrid/Centaurs.md) | E: 50-70%, S: 20-40%, M: 10-25% | Híbrido caballo-humano, sabiduría natural, resistencia |
+| [**Gente del Mar**](/codex/Creatures/Hybrid/Merfolk.md) | E: 30-50%, S: 15-35%, M: 25-45% | Adaptación acuática, magia del agua, entorno dual |
+| [**Sirenas**](/codex/Creatures/Hybrid/Sirens.md) | E: 15-30%, S: 30-45%, M: 40-60% | Manipulación del sonido, influencia emocional, belleza |
 
-→ See [Hybrid Beings](/codex/Creatures/Hybrid/README.md) for more detailed information.
+→ Ver [Seres Híbridos](/codex/Creatures/Hybrid/README.md) para obtener información más detallada.
 
-## Magical Origins
+## Orígenes Mágicos
 
-The diverse beings of OpenFantasy have various origins that influence their nature and abilities:
+Los diversos seres de OpenFantasy tienen varios orígenes que influyen en su naturaleza y habilidades:
 
-- **Primal Species**: Evolved naturally (Humans, Mundane Animals, Wild Plants)
-- **Fae-Touched**: Influenced by fae realms (Elves, Dark Elves, Certain Plants)
-- **Elemental-Infused**: Imbued with elemental power (Giants, Dragonkin, Elemental Flora)
-- **Constructed**: Artificially created (Golems, Certain Undead, Magical Hybrids)
-- **Transformed**: Changed from one form to another (Shadowfolk, Corrupted Beings)
+- **Especies Primarias**: Evolucionadas naturalmente (Humanos, Animales Mundanos, Plantas Salvajes)
+- **Tocados por Fae**: Influenciados por los reinos fae (Elfos, Elfos Oscuros, Ciertas Plantas)
+- **Infundidos con Elementos**: Imbuidos de poder elemental (Gigantes, Engendros de Dragón, Flora Elemental)
+- **Construidos**: Creados artificialmente (Golems, Ciertos No Muertos, Híbridos Mágicos)
+- **Transformados**: Cambiados de una forma a otra (Gente de las Sombras, Seres Corruptos)
 
-## Enhancement Methods
+## Métodos de Mejora
 
-Various methods exist for beings to enhance specific aspects of their elemental composition:
+Existen varios métodos para que los seres mejoren aspectos específicos de su composición elemental:
 
-| Method | Enhances | Description |
+| Método | Mejora | Descripción |
 |--------|----------|-------------|
-| **Physical Training** | Exanthis | Increases effective Exanthis utilization through disciplined exercise |
-| **Meditation and Will Work** | Soul | Strengthens Soul connection through focused introspection |
-| **Mana Reservoir Expansion** | Mana Capacity | Enhances ability to store and purify Mana through magical exposure |
-| **Harmonization Techniques** | Balance | Improves the integration between elemental components |
-| **Environmental Attunement** | Varies | Adapts composition through prolonged exposure to specific environments |
+| **Entrenamiento Físico** | Exanthis | Aumenta la utilización efectiva de Exanthis a través del ejercicio disciplinado |
+| **Meditación y Trabajo de Voluntad** | Alma | Fortalece la conexión del Alma a través de la introspección enfocada |
+| **Expansión del Reservorio de Maná** | Capacidad de Maná | Mejora la capacidad de almacenar y purificar Maná a través de la exposición mágica |
+| **Técnicas de Armonización** | Equilibrio | Mejora la integración entre los componentes elementales |
+| **Alineación Ambiental** | Varía | Adapta la composición a través de la exposición prolongada a entornos específicos |
 
-## Regional Ecosystems
+## Ecosistemas Regionales
 
-Creatures tend to form complex ecological relationships within distinct regions:
+Las criaturas tienden a formar complejas relaciones ecológicas dentro de distintas regiones:
 
-| Region | Dominant Creatures | Ecological Features |
+| Región | Criaturas Dominantes | Características Ecológicas |
 |--------|-------------------|---------------------|
-| **Ancient Forests** | Elves, Fae, Sentient Plants | Magical symbiosis, layered habitats |
-| **Mountain Realms** | Dwarves, Giants, Stone-based Elementals | Mineral integration, vertical ecosystems |
-| **Coastal Regions** | Merfolk, Aquatic Animals, Sirens | Land-water transition zones |
-| **Wild Plains** | Humans, Beastfolk, Centaurs | Migratory patterns, seasonal variations |
-| **Shadow Lands** | Dark Elves, Shadowfolk, Void Creatures | Light-deficient adaptations, shadow energy |
-| **Magical Nexuses** | Elementals, Aberrations, Magical Plants | Energy saturation, reality distortion |
+| **Bosques Antiguos** | Elfos, Fae, Plantas Sensibles | Simbiosis mágica, hábitats en capas |
+| **Reinos Montañosos** | Enanos, Gigantes, Elementales basados en Piedra | Integración mineral, ecosistemas verticales |
+| **Regiones Costeras** | Gente del Mar, Animales Acuáticos, Sirenas | Zonas de transición tierra-agua |
+| **Llanuras Salvajes** | Humanos, Hombres Bestia, Centauros | Patrones migratorios, variaciones estacionales |
+| **Tierras de las Sombras** | Elfos Oscuros, Gente de las Sombras, Criaturas del Vacío | Adaptaciones deficientes en luz, energía de las sombras |
+| **Nexus Mágicos** | Elementales, Aberraciones, Plantas Mágicas | Saturación de energía, distorsión de la realidad |
 
 ---
 
-> Understanding these creatures and their elemental compositions provides insight into the diverse tapestry of life in OpenFantasy, like appreciating the various instruments that make up a grand orchestra, each contributing its unique voice to the symphony of existence. 
+> Comprender estas criaturas y sus composiciones elementales proporciona una visión de la diversa tapicería de la vida en OpenFantasy, como apreciar los diversos instrumentos que componen una gran orquesta, cada uno contribuyendo con su voz única a la sinfonía de la existencia.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

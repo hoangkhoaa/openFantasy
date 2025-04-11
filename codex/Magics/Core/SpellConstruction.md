@@ -1,259 +1,262 @@
-# **Spell Construction**: From Mana to Magical Effect
+# **Construcción de Hechizos**: Del Maná al Efecto Mágico
 
-> *"A spell is not merely a pattern of energy, but a bridge between potential and manifestation, between the caster's will and the world's reality."* — Archmage Theon Patternweaver
+> *"Un hechizo no es meramente un patrón de energía, sino un puente entre el potencial y la manifestación, entre la voluntad del lanzador y la realidad del mundo."* — Archimago Theon Patternweaver
 
-## Quick Reference
-- [The Construction Process](#the-construction-process)
-- [Pattern Architecture](#pattern-architecture)
-- [Mana Component Selection](#mana-component-selection)
-- [Spell Classification](#spell-classification)
-- [Construction Challenges](#construction-challenges)
-- [Advanced Techniques](#advanced-techniques)
+## Referencia Rápida
+- [El Proceso de Construcción](#el-proceso-de-construcción)
+- [Arquitectura del Patrón](#arquitectura-del-patrón)
+- [Selección del Componente de Maná](#selección-del-componente-de-maná)
+- [Clasificación de Hechizos](#clasificación-de-hechizos)
+- [Desafíos de la Construcción](#desafíos-de-la-construcción)
+- [Técnicas Avanzadas](#técnicas-avanzadas)
 
-## Overview
+## Descripción General
 
-Spell Construction is the technical process by which casters transform magical energy into specific, controlled magical effects. It represents the culmination of [Wild Mana](/codex/Magics/Core/WildMana.md) absorption, conversion to [Base Mana](/codex/Magics/Core/BaseMana.md), [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md), and finally pattern formation. Understanding this process provides insight into how spells are created, modified, and optimized.
+La Construcción de Hechizos es el proceso técnico mediante el cual los lanzadores transforman la energía mágica en efectos mágicos específicos y controlados. Representa la culminación de la absorción de [Maná Salvaje](/codex/Magics/Core/WildMana.md), la conversión a [Maná Base](/codex/Magics/Core/BaseMana.md), la [Especialización de Maná](/codex/Magics/Core/ManaSpecialization.md) y, finalmente, la formación de patrones. Comprender este proceso proporciona información sobre cómo se crean, modifican y optimizan los hechizos.
 
-## The Construction Process
+## El Proceso de Construcción
 
-### Fundamental Steps
+### Pasos Fundamentales
 
-All spell construction follows a sequential process:
+Toda construcción de hechizos sigue un proceso secuencial:
 
-1. **Intention Formation**: Clearly defining the desired outcome
-2. **Energy Gathering**: Drawing Base Mana from internal reserves
-3. **Specialization**: Converting portions of Base Mana to required elemental types
-4. **Pattern Design**: Arranging the mana into a functional magical structure
-5. **Activation**: Initiating the pattern to generate the magical effect
-6. **Maintenance**: Sustaining the effect as required (for non-instantaneous spells)
-7. **Termination**: Controlled dissolution of the pattern
+1. **Formación de la Intención**: Definir claramente el resultado deseado
+2. **Recolección de Energía**: Extraer Maná Base de las reservas internas
+3. **Especialización**: Convertir porciones de Maná Base a los tipos elementales requeridos
+4. **Diseño del Patrón**: Organizar el maná en una estructura mágica funcional
+5. **Activación**: Iniciar el patrón para generar el efecto mágico
+6. **Mantenimiento**: Mantener el efecto según sea necesario (para hechizos no instantáneos)
+7. **Terminación**: Disolución controlada del patrón
 
-### Technical Requirements
+### Requisitos Técnicos
 
-Successful spell construction depends on several factors:
+La construcción exitosa de hechizos depende de varios factores:
 
-| Requirement | Function | Impact if Deficient |
+| Requisito | Función | Impacto si es Deficiente |
 |-------------|----------|---------------------|
-| Sufficient Mana Capacity | Provides adequate energy for the working | Spell fails or manifests weakly |
-| Adequate Purity | Ensures controllable, predictable effect | Spell becomes unstable or distorted |
-| Specialization Skill | Creates needed elemental proportions | Incorrect elemental balance |
-| Pattern Knowledge | Guides proper energy arrangement | Inefficient or collapsed structure |
-| Concentration | Maintains pattern integrity | Premature dissolution or instability |
-| Clarity of Intent | Directs energy purpose | Diffuse or misdirected effect |
+| Capacidad de Maná Suficiente | Proporciona energía adecuada para la obra | El hechizo falla o se manifiesta débilmente |
+| Pureza Adecuada | Asegura un efecto controlable y predecible | El hechizo se vuelve inestable o distorsionado |
+| Habilidad de Especialización | Crea las proporciones elementales necesarias | Equilibrio elemental incorrecto |
+| Conocimiento del Patrón | Guía la disposición adecuada de la energía | Estructura ineficiente o colapsada |
+| Concentración | Mantiene la integridad del patrón | Disolución prematura o inestabilidad |
+| Claridad de Intención | Dirige el propósito de la energía | Efecto difuso o mal dirigido |
 
-## Pattern Architecture
+## Arquitectura del Patrón
 
-### Core Components
+### Componentes Centrales
 
-Every spell pattern contains specific structural elements:
+Cada patrón de hechizo contiene elementos estructurales específicos:
 
-1. **Foundation Matrix**: The Base Mana framework that holds the pattern together
-2. **Power Channels**: Pathways through which energy flows and intensifies
-3. **Effect Nodes**: Points where energy transforms into specific magical effects
-4. **Control Linkages**: Connections between the caster's will and the pattern
-5. **Stability Anchors**: Elements that prevent pattern collapse or drift
-6. **Termination Sequences**: Predetermined dissolution points for spell ending
+1. **Matriz de Fundación**: El marco de Maná Base que mantiene unido el patrón
+2. **Canales de Poder**: Vías a través de las cuales la energía fluye y se intensifica
+3. **Nodos de Efecto**: Puntos donde la energía se transforma en efectos mágicos específicos
+4. **Enlaces de Control**: Conexiones entre la voluntad del lanzador y el patrón
+5. **Anclas de Estabilidad**: Elementos que previenen el colapso o la deriva del patrón
+6. **Secuencias de Terminación**: Puntos de disolución predeterminados para el final del hechizo
 
-### Pattern Geometries
+### Geometrías del Patrón
 
-Different magical traditions utilize various pattern arrangements:
+Diferentes tradiciones mágicas utilizan diversas disposiciones de patrones:
 
-| Geometry | Characteristics | Common Applications | Tradition Origin |
+| Geometría | Características | Aplicaciones Comunes | Origen de la Tradición |
 |----------|-----------------|---------------------|------------------|
-| **Linear Sequences** | Straightforward energy flow, simple to construct | Direct effects, force projection | Academic Magic |
-| **Radial Patterns** | Energy emanating from central points | Area effects, environmental magic | Druidic Traditions |
-| **Recursive Loops** | Self-reinforcing energy cycles | Sustained effects, wards | Elven Spellcraft |
-| **Layered Matrices** | Multiple interacting pattern levels | Complex transformations | Dwarven Rune Magic |
-| **Spiral Configurations** | Gradually expanding/contracting energy | Growing/diminishing effects | Fae Enchantment |
-| **Fractal Structures** | Self-similar patterns at different scales | Adaptable effects, living magic | Wild Magic |
+| **Secuencias Lineales** | Flujo de energía directo, simple de construir | Efectos directos, proyección de fuerza | Magia Académica |
+| **Patrones Radiales** | Energía que emana de puntos centrales | Efectos de área, magia ambiental | Tradiciones Druídicas |
+| **Bucles Recursivos** | Ciclos de energía auto-reforzados | Efectos sostenidos, protecciones | Hechicería Élfica |
+| **Matrices en Capas** | Múltiples niveles de patrones que interactúan | Transformaciones complejas | Magia Rúnica Enana |
+| **Configuraciones Espirales** | Energía que se expande/contrae gradualmente | Efectos crecientes/decrecientes | Encantamiento Fae |
+| **Estructuras Fractales** | Patrones auto-similares a diferentes escalas | Efectos adaptables, magia viva | Magia Salvaje |
 
-### Dimensional Aspects
+### Aspectos Dimensionales
 
-Patterns exist in multiple dimensions simultaneously:
+Los patrones existen en múltiples dimensiones simultáneamente:
 
-- **Physical Space**: Where the effect manifests in the material world
-- **Temporal Dimension**: How the pattern unfolds over time
-- **Harmonic Plane**: The resonance relationships between pattern elements
-- **Intention Field**: The connection to the caster's will and purpose
+- **Espacio Físico**: Donde el efecto se manifiesta en el mundo material
+- **Dimensión Temporal**: Cómo se desarrolla el patrón con el tiempo
+- **Plano Armónico**: Las relaciones de resonancia entre los elementos del patrón
+- **Campo de Intención**: La conexión con la voluntad y el propósito del lanzador
 
-## Mana Component Selection
+## Selección del Componente de Maná
 
-### Base Mana Requirements
+### Requisitos de Maná Base
 
-Base Mana serves specific functions in spell construction:
+El Maná Base cumple funciones específicas en la construcción de hechizos:
 
-- **Structural Integrity**: Provides stable framework for the pattern
-- **Pattern Cohesion**: Binds specialized elements into unified whole
-- **Will Conduction**: Transmits caster's intentions throughout the pattern
-- **Energy Regulation**: Controls flow and distribution of specialized mana
-- **Buffer Zones**: Prevents harmful interactions between opposed elements
+- **Integridad Estructural**: Proporciona un marco estable para el patrón
+- **Cohesión del Patrón**: Une elementos especializados en un todo unificado
+- **Conducción de la Voluntad**: Transmite las intenciones del lanzador a través del patrón
+- **Regulación de la Energía**: Controla el flujo y la distribución del maná especializado
+- **Zonas de Amortiguación**: Previene interacciones dañinas entre elementos opuestos
 
-The proportion of Base Mana correlates with spell complexity:
+La proporción de Maná Base se correlaciona con la complejidad del hechizo:
 
-| Spell Complexity | Base Mana % | Function |
+| Complejidad del Hechizo | Maná Base % | Función |
 |------------------|-------------|----------|
-| Very Simple | 80-90% | Minimal framework with single-element specialization |
-| Simple | 60-80% | Basic structure with limited elemental interaction |
-| Moderate | 40-60% | Standard patterns with multiple elements |
-| Complex | 20-40% | Sophisticated workings with precise elemental balance |
-| Very Complex | 10-20% | Master-level spells maximizing specialization |
+| Muy Simple | 80-90% | Marco mínimo con especialización de un solo elemento |
+| Simple | 60-80% | Estructura básica con interacción elemental limitada |
+| Moderado | 40-60% | Patrones estándar con múltiples elementos |
+| Complejo | 20-40% | Obras sofisticadas con equilibrio elemental preciso |
+| Muy Complejo | 10-20% | Hechizos de nivel maestro que maximizan la especialización |
 
-### Elemental Selection Principles
+### Principios de Selección Elemental
 
-The choice of elemental components follows specific principles:
+La elección de los componentes elementales sigue principios específicos:
 
-1. **Effect Alignment**: Primary elements should naturally align with desired outcome
-2. **Complementary Pairings**: Secondary elements should enhance primary elements
-3. **Oppositional Balance**: Opposing elements must be carefully counterbalanced
-4. **Resonance Harmony**: Elements should create harmonic rather than dissonant patterns
-5. **Efficiency Optimization**: Minimal elements needed for the desired effect
+1. **Alineación del Efecto**: Los elementos primarios deben alinearse naturalmente con el resultado deseado
+2. **Emparejamientos Complementarios**: Los elementos secundarios deben mejorar los elementos primarios
+3. **Equilibrio de Oposición**: Los elementos opuestos deben estar cuidadosamente contrabalanceados
+4. **Armonía de Resonancia**: Los elementos deben crear patrones armónicos en lugar de disonantes
+5. **Optimización de la Eficiencia**: Mínimos elementos necesarios para el efecto deseado
 
-### Common Elemental Functions
+### Funciones Elementales Comunes
 
-| Magical Function | Primary Element | Supporting Elements | Example Spell |
+| Función Mágica | Elemento Primario | Elementos de Apoyo | Hechizo de Ejemplo |
 |------------------|-----------------|---------------------|---------------|
-| **Creation** | Vitamana | Terramana, Solmana | Growth spells |
-| **Destruction** | Pyromana | Fulgumana, Mortismana | Combat spells |
-| **Transformation** | Aquamana | Metallimana, Aetheramana | Transmutation |
-| **Protection** | Terramana | Luxmana, Crystmana | Shield spells |
-| **Movement** | Aeromana | Chronomana, Aquamana | Teleportation |
-| **Perception** | Luxmana | Umbramana, Chronomana | Divination |
-| **Concealment** | Umbramana | Nebulmana, Aetheramana | Illusion |
-| **Enhancement** | Base Mana | Element matching target | Augmentation |
-| **Communication** | Aeromana | Luxmana, Chronomana | Message spells |
-| **Binding** | Chronomana | Terramana, Crystmana | Containment |
+| **Creación** | Vitamana | Terramana, Solmana | Hechizos de crecimiento |
+| **Destrucción** | Pyromana | Fulgumana, Mortismana | Hechizos de combate |
+| **Transformación** | Aquamana | Metallimana, Aetheramana | Transmutación |
+| **Protección** | Terramana | Luxmana, Crystmana | Hechizos de escudo |
+| **Movimiento** | Aeromana | Chronomana, Aquamana | Teletransportación |
+| **Percepción** | Luxmana | Umbramana, Chronomana | Adivinación |
+| **Ocultamiento** | Umbramana | Nebulmana, Aetheramana | Ilusión |
+| **Mejora** | Maná Base | Elemento que coincide con el objetivo | Aumento |
+| **Comunicación** | Aeromana | Luxmana, Chronomana | Hechizos de mensaje |
+| **Vinculación** | Chronomana | Terramana, Crystmana | Contención |
 
-## Spell Classification
+## Clasificación de Hechizos
 
-### Complexity Scale
+### Escala de Complejidad
 
-Spells are classified according to technical complexity:
+Los hechizos se clasifican según la complejidad técnica:
 
-| Level | Construction Time | Components | Pattern Complexity | Typical Purity | Example |
+| Nivel | Tiempo de Construcción | Componentes | Complejidad del Patrón | Pureza Típica | Ejemplo |
 |-------|------------------|------------|-------------------|-----------------|---------|
-| **Cantrip** | Instant | Simple gesture | Single-node | 10-20% | Light, Spark |
-| **Novice** | 1-3 seconds | 1-2 components | 2-3 nodes | 15-30% | Dancing Ember |
-| **Adept** | 3-10 seconds | 2-3 components | 3-5 nodes | 30-50% | Levitation |
-| **Expert** | 10-30 seconds | 3-4 components | 5-10 nodes | 50-70% | Lightning Bolt |
-| **Master** | 30+ seconds | 4+ components | 10-20 nodes | 70-85% | Teleportation |
-| **Legendary** | Minutes to hours | Complex ritual | 20+ nodes | 85%+ | Weather Control |
+| **Cántico** | Instantáneo | Gesto simple | Nodo único | 10-20% | Luz, Chispa |
+| **Novicio** | 1-3 segundos | 1-2 componentes | 2-3 nodos | 15-30% | Ascua Danzante |
+| **Adepto** | 3-10 segundos | 2-3 componentes | 3-5 nodos | 30-50% | Levitación |
+| **Experto** | 10-30 segundos | 3-4 componentes | 5-10 nodos | 50-70% | Rayo |
+| **Maestro** | 30+ segundos | 4+ componentes | 10-20 nodos | 70-85% | Teletransportación |
+| **Legendario** | Minutos a horas | Ritual complejo | 20+ nodos | 85%+ | Control del Clima |
 
-### Spell Duration Categories
+### Categorías de Duración del Hechizo
 
-| Duration Type | Maintenance | Energy Expenditure | Pattern Design |
+| Tipo de Duración | Mantenimiento | Gasto de Energía | Diseño del Patrón |
 |---------------|-------------|-------------------|----------------|
-| **Instantaneous** | None | Single pulse | Self-terminating pattern |
-| **Momentary** | Brief concentration | Short burn | Quick-dissolution structure |
-| **Concentration** | Active focus | Steady drain | Caster-linked pattern |
-| **Short Duration** | Initial only | Slow burn | Semi-autonomous pattern |
-| **Extended** | Periodic renewal | Incremental consumption | Reinforced structure |
-| **Permanent** | None after casting | Massive initial investment | Self-sustaining pattern |
+| **Instantáneo** | Ninguno | Pulso único | Patrón auto-terminado |
+| **Momentáneo** | Breve concentración | Quema corta | Estructura de disolución rápida |
+| **Concentración** | Enfoque activo | Drenaje constante | Patrón vinculado al lanzador |
+| **Corta Duración** | Inicial solamente | Quema lenta | Patrón semi-autónomo |
+| **Extendida** | Renovación periódica | Consumo incremental | Estructura reforzada |
+| **Permanente** | Ninguno después del lanzamiento | Inversión inicial masiva | Patrón auto-sostenible |
 
-## Construction Challenges
+## Desafíos de la Construcción
 
-### Common Difficulties
+### Dificultades Comunes
 
-Spellcrafters frequently encounter specific challenges:
+Los creadores de hechizos frecuentemente se encuentran con desafíos específicos:
 
-| Challenge | Description | Prevention/Solution |
+| Desafío | Descripción | Prevención/Solución |
 |-----------|-------------|---------------------|
-| **Pattern Instability** | Framework weakening during construction | Stronger Base Mana structure |
-| **Element Bleed** | Unintended element influence | Better component isolation |
-| **Resonance Clash** | Disharmonic frequency interaction | Frequency matching techniques |
-| **Intent Diffusion** | Unclear purpose leading to diffuse effect | Sharper visualization |
-| **Energy Bottleneck** | Restricted flow in pattern sections | Smoother channel design |
-| **Wild Mana Contamination** | Unpurified energy disrupting pattern | Higher initial purity |
-| **Node Overload** | Excessive energy concentration | Better distribution architecture |
-| **Pattern Drift** | Gradual alteration during maintenance | Stronger anchoring points |
+| **Inestabilidad del Patrón** | Debilitamiento del marco durante la construcción | Estructura de Maná Base más fuerte |
+| **Sangrado de Elementos** | Influencia elemental no intencionada | Mejor aislamiento de componentes |
+| **Choque de Resonancia** | Interacción de frecuencia disarmónica | Técnicas de coincidencia de frecuencia |
+| **Difusión de la Intención** | Propósito poco claro que lleva a un efecto difuso | Visualización más nítida |
+| **Cuello de Botella de Energía** | Flujo restringido en secciones del patrón | Diseño de canal más suave |
+| **Contaminación de Maná Salvaje** | Energía no purificada que interrumpe el patrón | Mayor pureza inicial |
+| **Sobrecarga de Nodos** | Concentración excesiva de energía | Mejor arquitectura de distribución |
+| **Deriva del Patrón** | Alteración gradual durante el mantenimiento | Puntos de anclaje más fuertes |
 
-### Risk Assessment
+### Evaluación de Riesgos
 
-Risk factors in spell construction can be quantified:
+Los factores de riesgo en la construcción de hechizos se pueden cuantificar:
 
 ```
-Risk Factor = (Spell Complexity × Power Level) ÷ (Caster Skill × Purity Level)
+Factor de Riesgo = (Complejidad del Hechizo × Nivel de Poder) ÷ (Habilidad del Lanzador × Nivel de Pureza)
 ```
 
-| Risk Factor | Potential Outcome |
+| Factor de Riesgo | Resultado Potencial |
 |-------------|-------------------|
-| <0.5 | Safe casting with high reliability |
-| 0.5-1.0 | Minor imperfections but generally successful |
-| 1.0-2.0 | Significant chance of partial failure or side effects |
-| 2.0-3.0 | High probability of spell failure or backfire |
-| >3.0 | Extreme danger to caster and surroundings |
+| <0.5 | Lanzamiento seguro con alta confiabilidad |
+| 0.5-1.0 | Imperfecciones menores pero generalmente exitoso |
+| 1.0-2.0 | Probabilidad significativa de falla parcial o efectos secundarios |
+| 2.0-3.0 | Alta probabilidad de falla del hechizo o retroceso |
+| >3.0 | Peligro extremo para el lanzador y los alrededores |
 
-## Advanced Techniques
+## Técnicas Avanzadas
 
-### Pattern Optimization
+### Optimización del Patrón
 
-Master spellcrafters employ specialized techniques:
+Los maestros creadores de hechizos emplean técnicas especializadas:
 
-- **Energy Minimization**: Reducing total mana requirements while maintaining effect
-- **Resonance Amplification**: Using harmonics to enhance effect without additional energy
-- **Pattern Compression**: Creating more efficient structures with fewer nodes
-- **Stability Enhancement**: Increasing pattern resilience while reducing Base Mana needs
-- **Multi-Effect Integration**: Combining multiple effects in single, unified patterns
-- **Adaptive Frameworks**: Creating patterns that adjust to changing conditions
+- **Minimización de Energía**: Reducir los requisitos totales de maná mientras se mantiene el efecto
+- **Amplificación de Resonancia**: Usar armónicos para mejorar el efecto sin energía adicional
+- **Compresión del Patrón**: Crear estructuras más eficientes con menos nodos
+- **Mejora de la Estabilidad**: Aumentar la resistencia del patrón mientras se reducen las necesidades de Maná Base
+- **Integración de Múltiples Efectos**: Combinar múltiples efectos en patrones únicos y unificados
+- **Marcos Adaptativos**: Crear patrones que se ajusten a las condiciones cambiantes
 
-### Signature Customization
+### Personalización de la Firma
 
-Experienced casters develop personal variations:
+Los lanzadores experimentados desarrollan variaciones personales:
 
-- **Resonance Tuning**: Adjusting the pattern's fundamental frequency
-- **Component Substitution**: Using alternative elemental combinations
-- **Efficiency Profiling**: Optimizing for personal magical strengths
-- **Pattern Stylization**: Adding distinctive geometries or sequences
-- **Output Modulation**: Customizing effect manifestation characteristics
-- **Control Interface**: Personalizing how will connects to pattern
+- **Ajuste de la Resonancia**: Ajustar la frecuencia fundamental del patrón
+- **Sustitución de Componentes**: Usar combinaciones elementales alternativas
+- **Perfil de Eficiencia**: Optimizar para las fortalezas mágicas personales
+- **Estilización del Patrón**: Agregar geometrías o secuencias distintivas
+- **Modulación de la Salida**: Personalizar las características de manifestación del efecto
+- **Interfaz de Control**: Personalizar cómo la voluntad se conecta al patrón
 
-### The Spell Creation Process
+### El Proceso de Creación de Hechizos
 
-Developing new spells follows a methodical progression:
+El desarrollo de nuevos hechizos sigue una progresión metódica:
 
-1. **Effect Conceptualization**: Defining the desired outcome precisely
-2. **Theoretical Modeling**: Creating mathematical or conceptual models
-3. **Component Analysis**: Determining optimal elemental proportions
-4. **Pattern Prototyping**: Designing preliminary structures
-5. **Test Casting**: Experimental implementation with safety measures
-6. **Refinement Cycles**: Iterative improvement based on results
-7. **Efficiency Optimization**: Minimizing energy requirements
-8. **Stability Testing**: Ensuring consistent, safe performance
-9. **Documentation**: Recording precise construction parameters
-10. **Teaching Adaptation**: Modifying for transmission to others
+1. **Conceptualización del Efecto**: Definir el resultado deseado con precisión
+2. **Modelado Teórico**: Crear modelos matemáticos o conceptuales
+3. **Análisis de Componentes**: Determinar las proporciones elementales óptimas
+4. **Prototipado de Patrones**: Diseñar estructuras preliminares
+5. **Lanzamiento de Prueba**: Implementación experimental con medidas de seguridad
+6. **Ciclos de Refinamiento**: Mejora iterativa basada en los resultados
+7. **Optimización de la Eficiencia**: Minimizar los requisitos de energía
+8. **Pruebas de Estabilidad**: Asegurar un rendimiento consistente y seguro
+9. **Documentación**: Registrar los parámetros precisos de construcción
+10. **Adaptación para la Enseñanza**: Modificar para la transmisión a otros
 
-## Practical Application Example: Fireball Spell
+## Ejemplo de Aplicación Práctica: Hechizo de Bola de Fuego
 
-### Component Analysis
-- **Primary Effect**: Heat and explosive force (Pyromana)
-- **Delivery Mechanism**: Projected energy (Aeromana)
-- **Control System**: Directed target selection (Base Mana)
-- **Containment**: Preventing premature detonation (Base Mana + Terramana)
+### Análisis de Componentes
+- **Efecto Primario**: Calor y fuerza explosiva (Pyromana)
+- **Mecanismo de Entrega**: Energía proyectada (Aeromana)
+- **Sistema de Control**: Selección de objetivo dirigida (Maná Base)
+- **Contención**: Prevención de la detonación prematura (Maná Base + Terramana)
 
-### Elemental Composition
-- 50% Pyromana: Primary effect generation
-- 20% Aeromana: Projection and movement
-- 10% Terramana: Containment and stability
-- 20% Base Mana: Overall structure and control
+### Composición Elemental
+- 50% Pyromana: Generación del efecto primario
+- 20% Aeromana: Proyección y movimiento
+- 10% Terramana: Contención y estabilidad
+- 20% Maná Base: Estructura y control general
 
-### Pattern Structure
-1. **Core Node**: Concentrated Pyromana reservoir
-2. **Projection Channel**: Aeromana pathway for targeting
-3. **Containment Shell**: Terramana-reinforced boundary
-4. **Trigger Mechanism**: Controlled dissolution point
-5. **Guidance System**: Will-linked directional control
+### Estructura del Patrón
+1. **Nodo Central**: Reservorio concentrado de Pyromana
+2. **Canal de Proyección**: Vía de Aeromana para la orientación
+3. **Cáscara de Contención**: Límite reforzado con Terramana
+4. **Mecanismo de Disparo**: Punto de disolución controlado
+5. **Sistema de Guía**: Control direccional vinculado a la voluntad
 
-### Construction Sequence
-1. Form Base Mana framework
-2. Specialize central portion to Pyromana
-3. Create Terramana containment boundary
-4. Establish Aeromana projection pathway
-5. Insert controlled trigger mechanism
-6. Link to targeting will
-7. Launch when ready
+### Secuencia de Construcción
+1. Formar el marco de Maná Base
+2. Especializar la porción central a Pyromana
+3. Crear el límite de contención de Terramana
+4. Establecer la vía de proyección de Aeromana
+5. Insertar el mecanismo de disparo controlado
+6. Vincular a la voluntad de orientación
+7. Lanzar cuando esté listo
 
-## Conclusion
+## Conclusión
 
-Spell Construction represents the culmination of magical knowledge and skill, where theory becomes practice and intent becomes reality. By understanding the principles of pattern architecture, mana selection, and construction techniques, spellcasters can create, adapt, and optimize magical effects to suit their needs. From the simplest cantrip to the most complex ritual, all magic follows these fundamental principles of construction.
+La Construcción de Hechizos representa la culminación del conocimiento y la habilidad mágica, donde la teoría se convierte en práctica y la intención se convierte en realidad. Al comprender los principios de la arquitectura del patrón, la selección del maná y las técnicas de construcción, los lanzadores de hechizos pueden crear, adaptar y optimizar los efectos mágicos para que se adapten a sus necesidades. Desde el cántico más simple hasta el ritual más complejo, toda magia sigue estos principios fundamentales de construcción.
 
-> *"To construct a spell is to write poetry with pure energy, to compose music with the fundamental forces of creation, to paint with the very essence of reality itself."* — Illuminara Brightweave, Spellcraft Grandmaster 
- 
+> *"Construir un hechizo es escribir poesía con energía pura, componer música con las fuerzas fundamentales de la creación, pintar con la esencia misma de la realidad."* — Illuminara Brightweave, Gran Maestra de la Hechicería
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

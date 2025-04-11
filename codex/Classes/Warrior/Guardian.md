@@ -1,91 +1,95 @@
-# **Guardian**: The Shield of the Innocent
+# **Guardian**: El Escudo del Inocente
 
-[**Guardians**](/codex/Classes/Warrior/Guardian.md) are the defensive specialists of the [**Warrior**](/codex/Classes/Warrior/Warrior.md) class, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a protective barrier, they stand between danger and those they protect, creating a unique melody of existence that emphasizes defense, resilience, and sacrifice.
+Los [**Guardianes**](/codex/Classes/Warrior/Guardian.md) son los especialistas defensivos de la clase [**Guerrero**](/codex/Classes/Warrior/Warrior.md), sus cuerpos una mezcla armoniosa de [**Exanthis**](/codex/Basic/Exanthis.md), [**Almas**](/codex/Basic/Soul.md) y **Capacidad de Maná**. Como una barrera protectora, se interponen entre el peligro y aquellos a quienes protegen, creando una melodía única de existencia que enfatiza la defensa, la resistencia y el sacrificio.
 
-## Elemental Composition
+## Composición Elemental
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **guardians** forms a harmony that favors defensive capabilities:
+Como se detalla en [Clases](/codex/Classes/Classes.md), la proporción típica para los **guardianes** forma una armonía que favorece las capacidades defensivas:
 
-| Element | Percentage | Function |
+| Elemento | Porcentaje | Función |
 |---------|------------|----------|
-| **Exanthis** | 65% | The crystalline heart that provides exceptional physical durability and resilience |
-| **Soul** | 20% | The ethereal essence that shapes a protective and selfless consciousness |
-| **Mana Capacity** | 15% | The bridge between worlds that enables limited protective magic |
+| **Exanthis** | 65% | El corazón cristalino que proporciona una durabilidad física y una resistencia excepcionales |
+| **Alma** | 20% | La esencia etérea que da forma a una conciencia protectora y desinteresada |
+| **Capacidad de Maná** | 15% | El puente entre mundos que permite una magia protectora limitada |
 
-This composition grants **guardians** their characteristic defensive prowess but limits their offensive capabilities compared to other warrior subclasses, like a shield that excels at blocking but cannot strike.
+Esta composición otorga a los **guardianes** su característica destreza defensiva, pero limita sus capacidades ofensivas en comparación con otras subclases de guerreros, como un escudo que sobresale al bloquear, pero no puede golpear.
 
-## Physical Characteristics
+## Características Físicas
 
-**Guardians** are known for their defensive focus and protective nature:
-- Sturdy build with broad shoulders and strong legs, like a fortress built to withstand siege
-- Eyes that reflect vigilance and concern for others, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the use of shields and defensive weapons, like a musician who has perfected the art of the drum
-- Presence that reassures allies and intimidates enemies, like a protective wall that stands firm
-- Stance that emphasizes defense and readiness to intercept attacks, like a guardian poised to protect
+Los **Guardianes** son conocidos por su enfoque defensivo y naturaleza protectora:
+- Complexión robusta con hombros anchos y piernas fuertes, como una fortaleza construida para resistir un asedio
+- Ojos que reflejan vigilancia y preocupación por los demás, mostrando su conexión con el [**Alma**](/codex/Basic/Soul.md)
+- Manos que han dominado el uso de escudos y armas defensivas, como un músico que ha perfeccionado el arte del tambor
+- Presencia que tranquiliza a los aliados e intimida a los enemigos, como un muro protector que se mantiene firme
+- Postura que enfatiza la defensa y la disposición a interceptar ataques, como un guardián listo para proteger
 
-## Defensive Affinity
+## Afinidad Defensiva
 
-**Guardians** demonstrate exceptional proficiency in defensive combat, like virtuoso musicians who have mastered the art of protection. Their composition allows them to:
-- Block and intercept attacks directed at allies, like a shield that stands between danger and safety
-- Create defensive formations that protect groups, like a conductor orchestrating a protective symphony
-- Endure punishment that would incapacitate others, like a fortress that weathers the storm
+Los **Guardianes** demuestran una aptitud excepcional en el combate defensivo, como virtuosos músicos que han dominado el arte de la protección. Su composición les permite:
+- Bloquear e interceptar ataques dirigidos a los aliados, como un escudo que se interpone entre el peligro y la seguridad
+- Crear formaciones defensivas que protegen a los grupos, como un director que orquesta una sinfonía protectora
+- Soportar castigos que incapacitarían a otros, como una fortaleza que resiste la tormenta
 
-This specialization makes **guardians** capable of achieving the highest levels of proficiency in defensive techniques, though they may struggle with tasks requiring offensive power or mobility, like a shield that excels at protection but cannot strike with the same force as a sword.
+Esta especialización hace que los **guardianes** sean capaces de alcanzar los niveles más altos de dominio en las técnicas defensivas, aunque pueden tener dificultades con las tareas que requieren poder ofensivo o movilidad, como un escudo que sobresale en la protección, pero no puede golpear con la misma fuerza que una espada.
 
-## Training and Development
+## Entrenamiento y Desarrollo
 
-The path of a **guardian** involves rigorous defensive training and mental discipline:
-- Daily shield practice and defensive drills, like musicians practicing protective techniques
-- Physical conditioning to build endurance and resilience, like strengthening a fortress's walls
-- Study of defensive tactics and protective strategies, like learning the theory behind protective magic
-- Meditation to develop focus and awareness of threats, like a sentinel who never sleeps
+El camino de un **guardián** implica un riguroso entrenamiento defensivo y disciplina mental:
+- Práctica diaria con el escudo y ejercicios defensivos, como músicos que practican técnicas protectoras
+- Acondicionamiento físico para desarrollar resistencia y resiliencia, como fortalecer los muros de una fortaleza
+- Estudio de tácticas defensivas y estrategias protectoras, como aprender la teoría detrás de la magia protectora
+- Meditación para desarrollar la concentración y la conciencia de las amenazas, como un centinela que nunca duerme
 
-## Equipment and Gear
+## Equipo y Engranaje
 
-**Guardians** rely on various defensive equipment to enhance their protective abilities:
-- Shields ranging from small bucklers to massive tower shields, like different instruments for different protective needs
-- Defensive armor that provides maximum protection, like a well-fitted case for a precious instrument
-- Defensive accessories such as bracers, greaves, and protective talismans, like accessories that enhance an instrument's protective capabilities
+Los **Guardianes** confían en varios equipos defensivos para mejorar sus habilidades protectoras:
+- Escudos que van desde pequeños broqueles hasta enormes escudos de torre, como diferentes instrumentos para diferentes necesidades protectoras
+- Armadura defensiva que proporciona la máxima protección, como un estuche bien ajustado para un instrumento precioso
+- Accesorios defensivos como brazales, grebas y talismanes protectores, como accesorios que mejoran las capacidades protectoras de un instrumento
 
-## Guardian Techniques
+## Técnicas de Guardián
 
-**Guardians** employ various techniques to protect themselves and others:
+Los **Guardianes** emplean varias técnicas para protegerse a sí mismos y a los demás:
 
-### Shield Wall
+### Muro de Escudos
 
-The **Shield Wall** technique allows guardians to form an impenetrable defensive line, like a wall of shields that blocks all attacks. This technique is particularly effective when multiple guardians work together, creating a defensive formation that can protect entire groups.
+La técnica de **Muro de Escudos** permite a los guardianes formar una línea defensiva impenetrable, como un muro de escudos que bloquea todos los ataques. Esta técnica es particularmente efectiva cuando varios guardianes trabajan juntos, creando una formación defensiva que puede proteger a grupos enteros.
 
-### Intercept
+### Intercepción
 
-The **Intercept** technique allows guardians to move between an ally and an incoming attack, like a shield that leaps to protect. This technique requires exceptional timing and awareness, allowing guardians to protect allies even when they are not directly in front of them.
+La técnica de **Intercepción** permite a los guardianes moverse entre un aliado y un ataque entrante, como un escudo que salta para proteger. Esta técnica requiere una sincronización y una conciencia excepcionales, lo que permite a los guardianes proteger a los aliados incluso cuando no están directamente frente a ellos.
 
-### Defensive Stance
+### Postura Defensiva
 
-The **Defensive Stance** technique allows guardians to adopt a posture that maximizes their defensive capabilities, like a fortress that stands ready to weather any storm. This technique reduces the guardian's mobility but significantly increases their ability to block and absorb attacks.
+La técnica de **Postura Defensiva** permite a los guardianes adoptar una postura que maximiza sus capacidades defensivas, como una fortaleza que está lista para resistir cualquier tormenta. Esta técnica reduce la movilidad del guardián, pero aumenta significativamente su capacidad para bloquear y absorber ataques.
 
-### Protective Aura
+### Aura Protectora
 
-The **Protective Aura** technique allows guardians to extend their protective abilities to nearby allies, like a shield that grows to protect an entire group. This technique requires significant concentration and energy but can provide protection to multiple allies simultaneously.
+La técnica de **Aura Protectora** permite a los guardianes extender sus habilidades protectoras a los aliados cercanos, como un escudo que crece para proteger a todo un grupo. Esta técnica requiere una concentración y energía significativas, pero puede proporcionar protección a múltiples aliados simultáneamente.
 
-## Notable Guardian Traits
+## Rasgos Notables del Guardián
 
-- **Defensive Mastery**: Guardians excel in defensive combat, often specializing in specific protective techniques
-- **Physical Resilience**: Guardians can endure punishment that would incapacitate others
-- **Protective Instinct**: Guardians develop a keen sense for detecting and responding to threats
-- **Selflessness**: Many guardians develop a strong sense of duty to protect others
-- **Discipline**: Guardians maintain rigorous training regimens to maintain their defensive abilities
+- **Dominio Defensivo**: Los guardianes sobresalen en el combate defensivo, a menudo especializándose en técnicas protectoras específicas
+- **Resiliencia Física**: Los guardianes pueden soportar castigos que incapacitarían a otros
+- **Instinto Protector**: Los guardianes desarrollan un gran sentido para detectar y responder a las amenazas
+- **Altruismo**: Muchos guardianes desarrollan un fuerte sentido del deber de proteger a los demás
+- **Disciplina**: Los guardianes mantienen rigurosos regímenes de entrenamiento para mantener sus habilidades defensivas
 
-## Guardian Orders
+## Órdenes de Guardianes
 
-Guardian society is organized into numerous orders, each with its own specialties and techniques:
+La sociedad de los guardianes está organizada en numerosas órdenes, cada una con sus propias especialidades y técnicas:
 
-| Order | Specialty | Territory | Notable Traits |
+| Orden | Especialidad | Territorio | Rasgos Notables |
 |---------|---------------|---------|-------------------|
-| **Shield Bearers** | Personal protection, bodyguards | Urban centers | Personal defense, close protection |
-| **Wall Wardens** | Group protection, formation defense | Military fortresses | Defensive formations, shield walls |
-| **Sanctuary Keepers** | Place protection, territory defense | Settlements | Territory defense, settlement protection |
-| **Light Wardens** | Magical protection, ward creation | Magical realms | Magical wards, protective enchantments |
-| **Vanguard** | Front-line defense, battle protection | Battlefields | Battle defense, front-line protection |
-| **Sentinel** | Watch protection, threat detection | Border regions | Threat detection, watch protection |
+| **Portadores del Escudo** | Protección personal, guardaespaldas | Centros urbanos | Defensa personal, protección cercana |
+| **Guardianes del Muro** | Protección de grupos, defensa de formaciones | Fortalezas militares | Formaciones defensivas, muros de escudos |
+| **Guardianes del Santuario** | Protección de lugares, defensa del territorio | Asentamientos | Defensa del territorio, protección de asentamientos |
+| **Guardianes de la Luz** | Protección mágica, creación de protecciones | Reinos mágicos | Protecciones mágicas, encantamientos protectores |
+| **Vanguardia** | Defensa de primera línea, protección de batalla | Campos de batalla | Defensa de batalla, protección de primera línea |
+| **Centinela** | Protección de la vigilancia, detección de amenazas | Regiones fronterizas | Detección de amenazas, protección de la vigilancia |
 
-Understanding the nature of **guardians** provides insight into the protective aspects of the world of **OpenFantasy**, like listening to the steady rhythms that form the foundation of the symphony of defense. 
+Comprender la naturaleza de los **guardianes** proporciona una visión de los aspectos protectores del mundo de **OpenFantasy**, como escuchar los ritmos constantes que forman la base de la sinfonía de la defensa.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

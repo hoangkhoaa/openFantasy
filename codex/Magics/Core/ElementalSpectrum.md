@@ -1,184 +1,188 @@
-# **The Elemental Mana Spectrum**: From Base to Specialized Forms
+# **El Espectro Elemental de Maná**: Desde la Forma Base hasta las Formas Especializadas
 
-> *"As white light contains all colors, so does Base Mana contain all elements, awaiting the prism of will to separate and reveal them."* — Archmage Elyssian Prismheart
+> *"Como la luz blanca contiene todos los colores, así el Maná Base contiene todos los elementos, esperando el prisma de la voluntad para separarlos y revelarlos."* — Archimaga Elyssian Prismheart
 
-## Quick Reference
-- [Spectrum Overview](#spectrum-overview)
-- [Primary Elements](#primary-elements)
-- [Secondary Elements](#secondary-elements)
-- [Tertiary Combinations](#tertiary-combinations)
-- [Elemental Oppositions](#elemental-oppositions)
-- [Practical Applications](#practical-applications)
+## Referencia Rápida
+- [Visión General del Espectro](#spectrum-overview)
+- [Elementos Primarios](#primary-elements)
+- [Elementos Secundarios](#secondary-elements)
+- [Combinaciones Terciarias](#tertiary-combinations)
+- [Oposiciones Elementales](#elemental-oppositions)
+- [Aplicaciones Prácticas](#practical-applications)
 
-## Spectrum Overview
+## Visión General del Espectro
 
-The Elemental Mana Spectrum represents the complete range of specialized mana types that can be derived from neutral [Base Mana](/codex/Magics/Core/BaseMana.md) through the process of [Mana Specialization](/codex/Magics/Core/ManaSpecialization.md). This spectrum follows specific patterns and relationships that determine how elemental energies interact, combine, and oppose one another. Understanding these relationships is essential for advanced spellcasting, particularly when working with multiple elements simultaneously.
+El Espectro Elemental de Maná representa el rango completo de tipos de maná especializados que pueden derivarse del [Maná Base](/codex/Magics/Core/BaseMana.md) neutral a través del proceso de [Especialización de Maná](/codex/Magics/Core/ManaSpecialization.md). Este espectro sigue patrones y relaciones específicas que determinan cómo las energías elementales interactúan, se combinan y se oponen entre sí. Entender estas relaciones es esencial para el lanzamiento de hechizos avanzado, particularmente cuando se trabaja con múltiples elementos simultáneamente.
 
-### Visualization of the Spectrum
+### Visualización del Espectro
 
-The Elemental Spectrum can be visualized in several ways:
+El Espectro Elemental puede ser visualizado de varias maneras:
 
-1. **The Chromatic Circle**: A circular arrangement showing elemental transitions and oppositions
-2. **The Harmonic Scale**: A linear representation emphasizing resonance relationships
-3. **The Three-Dimensional Matrix**: A spatial model revealing complex interaction potentials
-4. **The Wavelength Continuum**: A representation of elements as varying frequencies of Base Mana
+1. **El Círculo Cromático**: Una disposición circular que muestra las transiciones y oposiciones elementales
+2. **La Escala Armónica**: Una representación lineal que enfatiza las relaciones de resonancia
+3. **La Matriz Tridimensional**: Un modelo espacial que revela potenciales de interacción complejos
+4. **El Continuo de Longitud de Onda**: Una representación de los elementos como frecuencias variables de Maná Base
 
-Each visualization offers different insights into elemental relationships.
+Cada visualización ofrece diferentes perspectivas sobre las relaciones elementales.
 
-### The Specialization Gradient
+### El Gradiente de Especialización
 
-The transition from Base Mana to fully specialized elemental forms is not binary but occurs along a gradient:
+La transición de Maná Base a formas elementales totalmente especializadas no es binaria, sino que ocurre a lo largo de un gradiente:
 
-| Specialization Level | Base Mana Content | Elemental Character | Typical Application |
+| Nivel de Especialización | Contenido de Maná Base | Carácter Elemental | Aplicación Típica |
 |----------------------|-------------------|---------------------|---------------------|
-| 0% (Pure Base) | 100% | None | Structural foundations, force effects |
-| 1-25% | 75-99% | Subtle influence | Gentle effects, broad-spectrum magic |
-| 25-50% | 50-75% | Clear influence | Standard magical workings |
-| 50-75% | 25-50% | Dominant character | Element-focused spellcasting |
-| 75-90% | 10-25% | Very strong expression | Specialized elemental magic |
-| 90-100% | 0-10% | Pure elemental form | Elemental manifestations, summonings |
+| 0% (Base Pura) | 100% | Ninguno | Fundaciones estructurales, efectos de fuerza |
+| 1-25% | 75-99% | Influencia sutil | Efectos suaves, magia de amplio espectro |
+| 25-50% | 50-75% | Influencia clara | Funcionamientos mágicos estándar |
+| 50-75% | 25-50% | Carácter dominante | Lanzamiento de hechizos enfocado en elementos |
+| 75-90% | 10-25% | Expresión muy fuerte | Magia elemental especializada |
+| 90-100% | 0-10% | Forma elemental pura | Manifestaciones elementales, invocaciones |
 
-This gradient explains why many spells require specific proportions of Base Mana and elemental types rather than pure forms.
+Este gradiente explica por qué muchos hechizos requieren proporciones específicas de Maná Base y tipos elementales en lugar de formas puras.
 
-## Primary Elements
+## Elementos Primarios
 
-The foundation of the elemental spectrum consists of ten primary elements, each representing fundamental aspects of reality:
+La fundación del espectro elemental consiste en diez elementos primarios, cada uno representando aspectos fundamentales de la realidad:
 
-### The Four Classical Elements
+### Los Cuatro Elementos Clásicos
 
-| Element | Mana Type | Core Essence | Primary Domain | Associated Emotion |
+| Elemento | Tipo de Maná | Esencia Central | Dominio Primario | Emoción Asociada |
 |---------|-----------|--------------|----------------|---------------------|
-| **Fire** | Pyromana | Energy and transformation | Heat, light, consumption | Passion, anger, enthusiasm |
-| **Water** | Aquamana | Flow and adaptation | Liquids, purification, change | Calm, flexibility, empathy |
-| **Earth** | Terramana | Stability and substance | Solidity, endurance, growth | Steadfastness, stubbornness, patience |
-| **Air** | Aeromana | Movement and freedom | Gases, communication, space | Intellect, curiosity, whimsy |
+| **Fuego** | Pyromana | Energía y transformación | Calor, luz, consumo | Pasión, ira, entusiasmo |
+| **Agua** | Aquamana | Flujo y adaptación | Líquidos, purificación, cambio | Calma, flexibilidad, empatía |
+| **Tierra** | Terramana | Estabilidad y sustancia | Solidez, resistencia, crecimiento | Firmeza, terquedad, paciencia |
+| **Aire** | Aeromana | Movimiento y libertad | Gases, comunicación, espacio | Intelecto, curiosidad, capricho |
 
-### The Three Celestial Elements
+### Los Tres Elementos Celestiales
 
-| Element | Mana Type | Core Essence | Primary Domain | Associated Emotion |
+| Elemento | Tipo de Maná | Esencia Central | Dominio Primario | Emoción Asociada |
 |---------|-----------|--------------|----------------|---------------------|
-| **Light** | Luxmana | Illumination and truth | Radiance, revelation, purification | Hope, clarity, optimism |
-| **Shadow** | Umbramana | Concealment and mystery | Darkness, secrets, conservation | Introspection, caution, fear |
-| **Aether** | Aetheramana | Possibility and void | Space, potential, connection | Wonder, uncertainty, imagination |
+| **Luz** | Luxmana | Iluminación y verdad | Resplandor, revelación, purificación | Esperanza, claridad, optimismo |
+| **Sombra** | Umbramana | Ocultamiento y misterio | Oscuridad, secretos, conservación | Introspección, precaución, miedo |
+| **Éter** | Aetheramana | Posibilidad y vacío | Espacio, potencial, conexión | Asombro, incertidumbre, imaginación |
 
-### The Three Vital Elements
+### Los Tres Elementos Vitales
 
-| Element | Mana Type | Core Essence | Primary Domain | Associated Emotion |
+| Elemento | Tipo de Maná | Esencia Central | Dominio Primario | Emoción Asociada |
 |---------|-----------|--------------|----------------|---------------------|
-| **Life** | Vitamana | Growth and vitality | Creation, healing, flourishing | Joy, love, compassion |
-| **Death** | Mortismana | Decay and transition | Ending, transformation, recycling | Acceptance, grief, resignation |
-| **Time** | Chronomana | Sequence and duration | Progression, preservation, memory | Anticipation, nostalgia, regret |
+| **Vida** | Vitamana | Crecimiento y vitalidad | Creación, curación, florecimiento | Alegría, amor, compasión |
+| **Muerte** | Mortismana | Decaimiento y transición | Finalización, transformación, reciclaje | Aceptación, dolor, resignación |
+| **Tiempo** | Chronomana | Secuencia y duración | Progresión, preservación, memoria | Anticipación, nostalgia, arrepentimiento |
 
-## Secondary Elements
+## Elementos Secundarios
 
-Through the combination of primary elements, the following secondary elements emerge:
+A través de la combinación de elementos primarios, los siguientes elementos secundarios emergen:
 
-| Secondary Element | Component Elements | Mana Designation | Key Properties | Common Applications |
+| Elemento Secundario | Elementos Componentes | Designación de Maná | Propiedades Clave | Aplicaciones Comunes |
 |-------------------|-------------------|------------------|----------------|---------------------|
-| **Lightning** | Fire + Air | Fulgumana | Sudden energy, conductivity | Electricity manipulation, rapid effects |
-| **Ice** | Water + Air | Glacimana | Preservation, stillness | Cooling, slowing, crystallization |
-| **Metal** | Earth + Fire | Metallimana | Refinement, conductivity | Strengthening, forging, enhancing |
-| **Wood** | Earth + Water | Lignimana | Growth, flexibility | Plant manipulation, organic structures |
-| **Steam** | Water + Fire | Vapormana | Transformation, permeation | Purification, dispersion, cleansing |
-| **Sand** | Earth + Air | Arenimana | Division, erosion | Abrasion, dispersion, shifting |
-| **Crystal** | Earth + Light | Crystmana | Structure, amplification | Energy storage, resonance, clarity |
-| **Mist** | Water + Shadow | Nebulmana | Obscuration, boundary blurring | Concealment, confusion, transition |
-| **Sunlight** | Fire + Light | Solmana | Vivification, illumination | Growth acceleration, purification |
-| **Moonlight** | Shadow + Light | Lunarmana | Reflection, subtle influence | Subtle transformations, divination |
+| **Relámpago** | Fuego + Aire | Fulgumana | Energía súbita, conductividad | Manipulación de electricidad, efectos rápidos |
+| **Hielo** | Agua + Aire | Glacimana | Preservación, quietud | Enfriamiento, ralentización, cristalización |
+| **Metal** | Tierra + Fuego | Metallimana | Refinamiento, conductividad | Fortalecimiento, forja, mejora |
+| **Madera** | Tierra + Agua | Lignimana | Crecimiento, flexibilidad | Manipulación de plantas, estructuras orgánicas |
+| **Vapor** | Agua + Fuego | Vapormana | Transformación, permeación | Purificación, dispersión, limpieza |
+| **Arena** | Tierra + Aire | Arenimana | División, erosión | Abrasión, dispersión, desplazamiento |
+| **Cristal** | Tierra + Luz | Crystmana | Estructura, amplificación | Almacenamiento de energía, resonancia, claridad |
+| **Niebla** | Agua + Sombra | Nebulmana | Oscurecimiento, difuminación de límites | Ocultación, confusión, transición |
+| **Luz Solar** | Fuego + Luz | Solmana | Vivificación, iluminación | Aceleración del crecimiento, purificación |
+| **Luz Lunar** | Sombra + Luz | Lunarmana | Reflexión, influencia sutil | Transformaciones sutiles, adivinación |
 
-## Tertiary Combinations
+## Combinaciones Terciarias
 
-Complex combinations of three or more elements create tertiary forms with highly specialized applications:
+Combinaciones complejas de tres o más elementos crean formas terciarias con aplicaciones altamente especializadas:
 
-| Tertiary Element | Component Elements | Properties | Applications |
+| Elemento Terciario | Elementos Componentes | Propiedades | Aplicaciones |
 |------------------|-------------------|------------|--------------|
-| **Storm** | Air + Water + Lightning | Chaotic energy, weather patterns | Weather manipulation, combined elemental force |
-| **Magma** | Earth + Fire + Shadow | Destructive transformation, primordial force | Creation through destruction, fundamental change |
-| **Spirit** | Life + Death + Aether | Consciousness, transcendence | Soul magic, consciousness manipulation |
-| **Radiance** | Light + Fire + Life | Pure creative energy, divine essence | Healing, purification, manifestation |
-| **Void** | Shadow + Death + Aether | Absence, negation, antimatter | Nullification, banishment, creating absolute emptiness |
-| **Bloom** | Water + Earth + Life | Fertility, complex growth systems | Ecosystem creation, complex organic manipulation |
+| **Tormenta** | Aire + Agua + Relámpago | Energía caótica, patrones climáticos | Manipulación del clima, fuerza elemental combinada |
+| **Magma** | Tierra + Fuego + Sombra | Transformación destructiva, fuerza primordial | Creación a través de la destrucción, cambio fundamental |
+| **Espíritu** | Vida + Muerte + Éter | Conciencia, trascendencia | Magia del alma, manipulación de la conciencia |
+| **Resplandor** | Luz + Fuego + Vida | Energía creativa pura, esencia divina | Curación, purificación, manifestación |
+| **Vacío** | Sombra + Muerte + Éter | Ausencia, negación, antimateria | Anulación, destierro, creación de vacío absoluto |
+| **Florecimiento** | Agua + Tierra + Vida | Fertilidad, sistemas de crecimiento complejos | Creación de ecosistemas, manipulación orgánica compleja |
 
-## Elemental Oppositions
+## Oposiciones Elementales
 
-Elements exist in oppositional pairs that create tension when combined:
+Los elementos existen en pares opuestos que crean tensión cuando se combinan:
 
-### Primary Oppositions
+### Oposiciones Primarias
 
-| Element | Opposed By | Interaction Effect | Specialized Application |
+| Elemento | Opuesto por | Efecto de Interacción | Aplicación Especializada |
 |---------|------------|-------------------|-------------------------|
-| Fire | Water | Energy dampening, steam creation | Phase transition magic |
-| Earth | Air | Force nullification, dust creation | Erosion and particulate magic |
-| Light | Shadow | Visual neutralization, twilight creation | Boundary magic, transitions |
-| Life | Death | Cycle regulation, transformation | Metamorphosis magic |
-| Aether | Time | Space-time manipulation | Dimensional magic, temporal dilation |
+| Fuego | Agua | Amortiguación de energía, creación de vapor | Magia de transición de fase |
+| Tierra | Aire | Anulación de fuerza, creación de polvo | Erosión y magia de partículas |
+| Luz | Sombra | Neutralización visual, creación de crepúsculo | Magia de límites, transiciones |
+| Vida | Muerte | Regulación del ciclo, transformación | Magia de metamorfosis |
+| Éter | Tiempo | Manipulación del espacio-tiempo | Magia dimensional, dilatación temporal |
 
-### The Opposition Principle
+### El Principio de Oposición
 
-When oppositional elements are combined:
+Cuando se combinan elementos opuestos:
 
-1. **Energy Requirement**: Substantially higher mana requirement (typically 2-3× normal)
-2. **Instability**: More difficult to maintain stable spell patterns
-3. **Volatility**: Greater risk of spell failure or unintended effects
-4. **Powerful Effects**: Successfully combining opposites creates powerful, specialized magic
-5. **Neutralization**: At perfect balance, opposed elements can neutralize each other
+1. **Requisito de Energía**: Requisito de maná sustancialmente mayor (típicamente 2-3× normal)
+2. **Inestabilidad**: Más difícil mantener patrones de hechizos estables
+3. **Volatilidad**: Mayor riesgo de fallo del hechizo o efectos no deseados
+4. **Efectos Poderosos**: Combinar con éxito opuestos crea magia poderosa y especializada
+5. **Neutralización**: En perfecto equilibrio, los elementos opuestos pueden neutralizarse entre sí
 
-> *"True mastery is not avoiding elemental opposition but harnessing the creative tension between opposing forces."* — Balancier Equilibrium, Master of Harmonic Magic
+> *"La verdadera maestría no es evitar la oposición elemental, sino aprovechar la tensión creativa entre las fuerzas opuestas."* — Balancier Equilibrium, Maestro de la Magia Armónica
 
-## Elemental Resonance Frequencies
+## Frecuencias de Resonancia Elementales
 
-Each elemental type vibrates at specific frequencies derived from Base Mana:
+Cada tipo elemental vibra a frecuencias específicas derivadas del Maná Base:
 
-| Element | Relative Frequency | Harmonic Character | Resonant Materials |
+| Elemento | Frecuencia Relativa | Carácter Armónico | Materiales Resonantes |
 |---------|-------------------|-------------------|---------------------|
-| Base Mana | 1.0 (Reference) | Pure fundamental | Clear quartz, silver |
-| Fire | 2.7-3.2 | Sharp, crackling | Ruby, brass, charcoal |
-| Water | 0.3-0.7 | Flowing, soothing | Sapphire, copper, shells |
-| Earth | 0.1-0.4 | Deep, steady | Emerald, iron, clay |
-| Air | 1.8-2.2 | Light, variable | Opal, tin, feathers |
-| Light | 3.0-3.5 | Bright, penetrating | Diamond, gold, mirror glass |
-| Shadow | 0.2-0.5 | Muffled, absorbent | Onyx, lead, black velvet |
-| Life | 1.2-1.6 | Pulsing, rhythmic | Amber, living wood, bone |
-| Death | 0.4-0.8 | Slow, consuming | Jet, cold iron, ash |
-| Time | 1.5-2.0 | Regular, precise | Amethyst, mercury, clockwork |
-| Aether | 2.5-3.0 | Ethereal, distant | Celestite, platinum, void glass |
+| Maná Base | 1.0 (Referencia) | Fundamental puro | Cuarzo transparente, plata |
+| Fuego | 2.7-3.2 | Agudo, crepitante | Rubí, latón, carbón |
+| Agua | 0.3-0.7 | Fluido, calmante | Zafiro, cobre, conchas |
+| Tierra | 0.1-0.4 | Profundo, constante | Esmeralda, hierro, arcilla |
+| Aire | 1.8-2.2 | Ligero, variable | Ópalo, estaño, plumas |
+| Luz | 3.0-3.5 | Brillante, penetrante | Diamante, oro, vidrio de espejo |
+| Sombra | 0.2-0.5 | Apagado, absorbente | Ónix, plomo, terciopelo negro |
+| Vida | 1.2-1.6 | Pulsante, rítmico | Ámbar, madera viva, hueso |
+| Muerte | 0.4-0.8 | Lento, consumidor | Azabache, hierro frío, ceniza |
+| Tiempo | 1.5-2.0 | Regular, preciso | Amatista, mercurio, relojería |
+| Éter | 2.5-3.0 | Etéreo, distante | Celestita, platino, vidrio del vacío |
 
-These frequencies explain why certain materials serve as better conduits for specific elemental magics.
+Estas frecuencias explican por qué ciertos materiales sirven como mejores conductos para magias elementales específicas.
 
-## Practical Applications
+## Aplicaciones Prácticas
 
-### Elemental Balancing
+### Equilibrio Elemental
 
-The practical application of the elemental spectrum involves:
+La aplicación práctica del espectro elemental implica:
 
-- **Spell Composition**: Selecting appropriate elemental ratios for desired effects
-- **Opposition Management**: Techniques for working with opposed elements
-- **Harmonic Spellcraft**: Creating spell patterns that leverage natural resonance
-- **Conversion Efficiency**: Optimizing the specialization process for specific elements
+- **Composición de Hechizos**: Seleccionar proporciones elementales apropiadas para los efectos deseados
+- **Gestión de la Oposición**: Técnicas para trabajar con elementos opuestos
+- **Hechizos Armónicos**: Crear patrones de hechizos que aprovechen la resonancia natural
+- **Eficiencia de Conversión**: Optimizar el proceso de especialización para elementos específicos
 
-### Spell Design Principles
+### Principios de Diseño de Hechizos
 
-1. **Elemental Core**: Identify the primary element most aligned with the desired effect
-2. **Complementary Support**: Add supporting elements that enhance the primary effect
-3. **Base Mana Framework**: Determine the appropriate Base Mana proportion for stability
-4. **Opposition Avoidance**: Structure the spell to minimize oppositional interactions unless specifically required
-5. **Resonance Optimization**: Adjust patterns to maximize natural harmonic relationships
+1. **Núcleo Elemental**: Identificar el elemento primario más alineado con el efecto deseado
+2. **Soporte Complementario**: Añadir elementos de soporte que mejoren el efecto primario
+3. **Marco de Maná Base**: Determinar la proporción apropiada de Maná Base para la estabilidad
+4. **Evitación de la Oposición**: Estructurar el hechizo para minimizar las interacciones de oposición a menos que se requieran específicamente
+5. **Optimización de la Resonancia**: Ajustar los patrones para maximizar las relaciones armónicas naturales
 
-### Elemental Affinities and Training
+### Afinidades Elementales y Entrenamiento
 
-Most casters have natural affinities for certain elements and resistance to others. Training typically progresses in this sequence:
+La mayoría de los lanzadores tienen afinidades naturales por ciertos elementos y resistencia a otros. El entrenamiento típicamente progresa en esta secuencia:
 
-1. **Affinity Element**: Beginning with one's strongest natural elemental connection
-2. **Adjacent Elements**: Moving to elements with harmonic compatibility
-3. **Complementary Elements**: Learning elements that enhance one's affinity
-4. **Neutral Elements**: Practicing with elements having neither strong affinity nor resistance
-5. **Resistant Elements**: Gradually developing skill with difficult elements
-6. **Opposed Elements**: Finally attempting one's natural opposition
+1. **Elemento de Afinidad**: Comenzando con la conexión elemental natural más fuerte
+2. **Elementos Adyacentes**: Moviéndose a elementos con compatibilidad armónica
+3. **Elementos Complementarios**: Aprendiendo elementos que mejoran la afinidad de uno
+4. **Elementos Neutrales**: Practicando con elementos que no tienen ni una fuerte afinidad ni resistencia
+5. **Elementos Resistentes**: Desarrollando gradualmente habilidad con elementos difíciles
+6. **Elementos Opuestos**: Finalmente intentando la oposición natural de uno
 
-> *"The spectrum of elements is like a painter's palette. Base Mana is the canvas, elements are the colors, and the mage is the artist who brings them together in creation."* — Chromastus the Vivid, Master of Elemental Artistry
+> *"El espectro de elementos es como la paleta de un pintor. El Maná Base es el lienzo, los elementos son los colores, y el mago es el artista que los une en la creación."* — Chromastus el Vívido, Maestro del Arte Elemental
 
-## Conclusion
+## Conclusión
 
-The Elemental Mana Spectrum represents one of the most fundamental organizing principles in magical theory. By understanding how Base Mana differentiates into specialized forms, how these forms relate to one another, and how they can be combined and manipulated, spellcasters gain access to the full range of magical possibilities. Whether creating simple single-element spells or complex multi-elemental workings, knowledge of the spectrum provides the theoretical foundation for effective spellcraft.
+El Espectro Elemental de Maná representa uno de los principios organizativos más fundamentales en la teoría mágica. Al entender cómo el Maná Base se diferencia en formas especializadas, cómo estas formas se relacionan entre sí y cómo pueden combinarse y manipularse, los lanzadores de hechizos obtienen acceso al rango completo de posibilidades mágicas. Ya sea creando hechizos simples de un solo elemento o complejos funcionamientos multi-elementales, el conocimiento del espectro proporciona la base teórica para el lanzamiento de hechizos efectivo.
 
-> *"At the beginning and end of all elemental work lies Base Mana—the alpha and omega of the magical spectrum. From neutrality springs infinite variety, and to neutrality all eventually returns."* — The Final Theorem of Archmage Prismatica 
+> *"Al principio y al final de todo trabajo elemental yace el Maná Base — el alfa y el omega del espectro mágico. De la neutralidad brota la variedad infinita, y a la neutralidad todo eventualmente retorna."* — El Teorema Final de la Archimaga Prismatica
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

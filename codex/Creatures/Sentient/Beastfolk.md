@@ -1,105 +1,109 @@
-# **Beastfolk**: The Wild Spirits of Nature
+# **Beastfolk**: Los Espíritus Salvajes de la Naturaleza
 
-[**Beastfolk**](/codex/Creatures/Beastfolk.md) are the wild spirits of nature, their bodies a harmonious blend of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a drum that echoes the heartbeat of the earth, they embody physical prowess and natural instincts, creating a unique melody of existence that emphasizes strength, agility, and connection to the natural world.
+Los [**Beastfolk**](/codex/Creatures/Beastfolk.md) son los espíritus salvajes de la naturaleza, sus cuerpos una mezcla armoniosa de [**Exanthis**](/codex/Basic/Exanthis.md), [**Almas**](/codex/Basic/Soul.md) y **Capacidad de Maná**. Como un tambor que hace eco del latido del corazón de la tierra, encarnan la destreza física y los instintos naturales, creando una melodía única de existencia que enfatiza la fuerza, la agilidad y la conexión con el mundo natural.
 
-## Elemental Composition
+## Composición Elemental
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **beastfolk** forms a harmony that favors physical prowess:
+Como se detalla en [Criaturas](/codex/Creatures/Creatures.md), la proporción típica para los **beastfolk** forma una armonía que favorece la destreza física:
 
-| Element | Range | Function |
+| Elemento | Rango | Función |
 |---------|------------|----------|
-| **Exanthis** | 45-70% | The crystalline heart that provides exceptional physical strength and agility |
-| **Soul** | 10-25% | The ethereal essence that shapes an instinct-driven consciousness |
-| **Mana Capacity** | 15-40% | The bridge between worlds that enables primal magical adaptability |
+| **Exanthis** | 45-70% | El corazón cristalino que proporciona una fuerza física y agilidad excepcionales |
+| **Alma** | 10-25% | La esencia etérea que da forma a una conciencia impulsada por el instinto |
+| **Capacidad de Maná** | 15-40% | El puente entre mundos que permite la adaptabilidad mágica primigenia |
 
-This composition grants **beastfolk** their characteristic physical abilities but typically limits their magical adaptability compared to other species, like a powerful drum that produces strong rhythms but cannot play complex melodies.
+Esta composición otorga a los **beastfolk** sus habilidades físicas características, pero normalmente limita su adaptabilidad mágica en comparación con otras especies, como un poderoso tambor que produce ritmos fuertes pero no puede tocar melodías complejas.
 
-### Individual Variations
+### Variaciones Individuales
 
-While the model composition represents the typical beastfolk, individual variations exist:
+Si bien la composición modelo representa al beastfolk típico, existen variaciones individuales:
 
-- **Alpha Specimens**: Some beastfolk possess Exanthis levels as high as 75%, making them among the physically strongest beings in existence, though often with minimal magical ability (10% Mana Capacity).
-- **Spirit Walkers**: Those with higher Soul percentages (up to 30%) develop exceptional connection to the spiritual realm and animal spirits, often becoming powerful shamans or spirit guides.
-- **Wild Mages**: Rare individuals have Mana Capacity approaching 45%, allowing them to channel primal magic with surprising effectiveness, though they may be less physically imposing (40% Exanthis).
-- **Balanced Beastfolk**: Some maintain a more balanced composition (45% Exanthis, 20% Soul, 35% Mana Capacity), allowing them to adapt to various roles within beastfolk society.
-- **Beast Champions**: A specialized composition of (60% Exanthis, 15% Soul, 25% Mana Capacity) creates beastfolk who can channel limited magic to enhance their already formidable physical abilities.
+- **Especímenes Alfa**: Algunos beastfolk poseen niveles de Exanthis tan altos como el 75%, lo que los convierte en uno de los seres físicamente más fuertes en existencia, aunque a menudo con una habilidad mágica mínima (10% de Capacidad de Maná).
+- **Caminantes Espirituales**: Aquellos con porcentajes de Alma más altos (hasta el 30%) desarrollan una conexión excepcional con el reino espiritual y los espíritus animales, a menudo convirtiéndose en poderosos chamanes o guías espirituales.
+- **Magos Salvajes**: Individuos raros tienen una Capacidad de Maná que se acerca al 45%, lo que les permite canalizar la magia primigenia con una eficacia sorprendente, aunque pueden ser menos imponentes físicamente (40% de Exanthis).
+- **Beastfolk Equilibrados**: Algunos mantienen una composición más equilibrada (45% de Exanthis, 20% de Alma, 35% de Capacidad de Maná), lo que les permite adaptarse a varios roles dentro de la sociedad beastfolk.
+- **Campeones Bestia**: Una composición especializada de (60% de Exanthis, 15% de Alma, 25% de Capacidad de Maná) crea beastfolk que pueden canalizar magia limitada para mejorar sus ya formidables habilidades físicas.
 
-## Physical Characteristics
+## Características Físicas
 
-**Beastfolk** are known for their diverse forms and animalistic features:
-- Humanoid bodies with animal characteristics specific to their lineage
-- Enhanced senses that far surpass those of [**humans**](/codex/Creatures/Human.md)
-- Natural weapons such as claws, fangs, or horns
-- Fur, scales, or feathers that provide natural protection
-- Tails that express emotion and aid in balance
+Los **Beastfolk** son conocidos por sus diversas formas y rasgos animales:
+- Cuerpos humanoides con características animales específicas de su linaje
+- Sentidos mejorados que superan con creces los de los [**humanos**](/codex/Creatures/Human.md)
+- Armas naturales como garras, colmillos o cuernos
+- Pelaje, escamas o plumas que proporcionan protección natural
+- Colas que expresan emoción y ayudan en el equilibrio
 
-The specific animal traits vary widely among different beastfolk lineages, creating a rich tapestry of forms that reflect the diversity of the natural world.
+Los rasgos animales específicos varían ampliamente entre los diferentes linajes de beastfolk, creando un rico tapiz de formas que reflejan la diversidad del mundo natural.
 
-## Physical Affinity
+## Afinidad Física
 
-**Beastfolk** demonstrate exceptional proficiency in physical abilities, like virtuoso athletes who have mastered their bodies. Their composition allows them to:
-- Develop extraordinary strength, speed, and agility, like the finest specimens of their animal kin
-- Enhance their natural senses to superhuman levels, like predators honed by evolution
-- Adapt to various environments with remarkable efficiency, like creatures perfectly suited to their habitats
+Los **Beastfolk** demuestran una habilidad excepcional en habilidades físicas, como atletas virtuosos que han dominado sus cuerpos. Su composición les permite:
+- Desarrollar una fuerza, velocidad y agilidad extraordinarias, como los mejores especímenes de su parentesco animal
+- Mejorar sus sentidos naturales a niveles sobrehumanos, como depredadores perfeccionados por la evolución
+- Adaptarse a diversos entornos con notable eficiencia, como criaturas perfectamente adaptadas a sus hábitats
 
-This physical prowess makes **beastfolk** capable of achieving feats that other species can only dream of, though they may struggle with tasks requiring fine manipulation or complex thought, like a powerful singer who cannot read music.
+Esta destreza física hace que los **beastfolk** sean capaces de lograr hazañas con las que otras especies solo pueden soñar, aunque pueden tener dificultades con tareas que requieren una manipulación fina o un pensamiento complejo, como un poderoso cantante que no puede leer música.
 
-## Lifespan and Soul Decay
+## Vida Útil y Descomposición del Alma
 
-The **soul decay** timeline for **beastfolk**, from birth to complete decay, is approximately 200 years, like a torch burning steadily through the night. This moderate lifespan allows them to:
-- Develop deep connections to their territories and animal kin
-- Form stable societies with strong traditions
-- Pass down knowledge through generations
+La línea de tiempo de **descomposición del alma** para los **beastfolk**, desde el nacimiento hasta la descomposición completa, es de aproximadamente 200 años, como una antorcha que arde constantemente durante la noche. Esta vida útil moderada les permite:
+- Desarrollar conexiones profundas con sus territorios y parentesco animal
+- Formar sociedades estables con fuertes tradiciones
+- Transmitir conocimientos a través de generaciones
 
-However, their moderate soul decay also means they must balance the need for immediate action with long-term planning, like a musician who must both feel the rhythm and plan the performance.
+Sin embargo, su moderada descomposición del alma también significa que deben equilibrar la necesidad de una acción inmediata con la planificación a largo plazo, como un músico que debe tanto sentir el ritmo como planificar la actuación.
 
-## Habitat and Distribution
+## Hábitat y Distribución
 
-**Beastfolk** primarily inhabit:
-- Wild territories and untamed lands, where their natural abilities are most advantageous
-- Diverse environments ranging from forests to deserts, each lineage adapted to its specific habitat
-- Border regions between civilization and wilderness, where they can maintain their independence
+Los **Beastfolk** habitan principalmente:
+- Territorios salvajes y tierras indómitas, donde sus habilidades naturales son más ventajosas
+- Entornos diversos que van desde bosques hasta desiertos, cada linaje adaptado a su hábitat específico
+- Regiones fronterizas entre la civilización y la naturaleza, donde pueden mantener su independencia
 
-These locations provide ideal environments for physical development and connection to nature, like a stage perfectly suited to their performance.
+Estos lugares proporcionan entornos ideales para el desarrollo físico y la conexión con la naturaleza, como un escenario perfectamente adaptado a su actuación.
 
-## Cultural Impact
+## Impacto Cultural
 
-In the world of **OpenFantasy**, **beastfolk** play a crucial role in maintaining the balance between civilization and nature, like guardians of the wild melodies. Their societies are centers of:
-- Physical prowess and martial skill
-- Environmental harmony and natural wisdom
-- Tribal traditions and communal bonds
+En el mundo de **OpenFantasy**, los **beastfolk** juegan un papel crucial en el mantenimiento del equilibrio entre la civilización y la naturaleza, como guardianes de las melodías salvajes. Sus sociedades son centros de:
+- Destreza física y habilidad marcial
+- Armonía ambiental y sabiduría natural
+- Tradiciones tribales y lazos comunitarios
 
-The connection to their animal kin has shaped beastfolk culture around respect for strength, courage, and loyalty, creating a society where physical ability and honor are highly valued.
+La conexión con su parentesco animal ha moldeado la cultura beastfolk en torno al respeto por la fuerza, el coraje y la lealtad, creando una sociedad donde la capacidad física y el honor son muy valorados.
 
-## Relationship with Other Species
+## Relación con Otras Especies
 
-**Beastfolk** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of respect for their adaptability and frustration with their disconnect from nature
-- With **Elves**: A respectful distance, acknowledging their magical prowess but finding their ways strange
-- With **Dwarves**: A pragmatic alliance based on mutual respect for strength and honor
-- With **Fae**: A wary relationship, as beastfolk are less susceptible to fae enchantments
+Los **Beastfolk** mantienen relaciones complejas con otras especies:
+- Con [**Humanos**](/codex/Creatures/Human.md): Una mezcla de respeto por su adaptabilidad y frustración por su desconexión de la naturaleza
+- Con **Elfos**: Una distancia respetuosa, reconociendo su destreza mágica pero encontrando sus costumbres extrañas
+- Con **Enanos**: Una alianza pragmática basada en el respeto mutuo por la fuerza y el honor
+- Con **Fae**: Una relación cautelosa, ya que los beastfolk son menos susceptibles a los encantamientos fae
 
-These relationships are often characterized by a sense of pride in their physical abilities and connection to nature, as **beastfolk** view themselves as the true children of the wild.
+Estas relaciones a menudo se caracterizan por una sensación de orgullo en sus habilidades físicas y conexión con la naturaleza, ya que los **beastfolk** se ven a sí mismos como los verdaderos hijos de la naturaleza.
 
-## Notable Beastfolk Traits
+## Rasgos Notables de los Beastfolk
 
-- **Physical Mastery**: Beastfolk excel in physical abilities, often surpassing other species in strength, speed, and agility
-- **Environmental Adaptation**: Each lineage is perfectly adapted to its specific habitat
-- **Enhanced Senses**: Beastfolk possess senses that far exceed those of other humanoid species
-- **Natural Weapons**: Many beastfolk possess natural weapons that make them formidable even without tools
-- **Animal Kinship**: Beastfolk share a deep connection with their animal kin, often able to communicate with them
+- **Maestría Física**: Los Beastfolk sobresalen en habilidades físicas, a menudo superando a otras especies en fuerza, velocidad y agilidad
+- **Adaptación Ambiental**: Cada linaje está perfectamente adaptado a su hábitat específico
+- **Sentidos Mejorados**: Los Beastfolk poseen sentidos que superan con creces los de otras especies humanoides
+- **Armas Naturales**: Muchos beastfolk poseen armas naturales que los hacen formidables incluso sin herramientas
+- **Parentesco Animal**: Los Beastfolk comparten una profunda conexión con su parentesco animal, a menudo capaces de comunicarse con ellos
 
-## Beastfolk Lineages
+## Linajes de Beastfolk
 
-The term "beastfolk" encompasses numerous lineages, each with its own unique characteristics:
+El término "beastfolk" abarca numerosos linajes, cada uno con sus propias características únicas:
 
-| Lineage | Animal Traits | Habitat | Notable Abilities |
+| Linaje | Rasgos Animales | Hábitat | Habilidades Notables |
 |---------|---------------|---------|-------------------|
-| **Wolfkin** | Wolf features, enhanced smell | Forests, tundras | Pack tactics, tracking |
-| **Catfolk** | Cat features, enhanced night vision | Jungles, urban areas | Stealth, agility |
-| **Bearfolk** | Bear features, immense strength | Mountains, forests | Raw power, intimidation |
-| **Birdfolk** | Bird features, hollow bones | Mountains, coastal cliffs | Flight, keen eyesight |
-| **Lizardfolk** | Reptile features, scales | Deserts, swamps | Heat resistance, regeneration |
-| **Fishfolk** | Fish features, gills | Oceans, lakes | Underwater breathing, swimming |
+| **Hombres Lobo** | Rasgos de lobo, olfato mejorado | Bosques, tundras | Tácticas de manada, rastreo |
+| **Hombres Gato** | Rasgos de gato, visión nocturna mejorada | Junglas, áreas urbanas | Sigilo, agilidad |
+| **Hombres Oso** | Rasgos de oso, inmensa fuerza | Montañas, bosques | Poder bruto, intimidación |
+| **Hombres Pájaro** | Rasgos de pájaro, huesos huecos | Montañas, acantilados costeros | Vuelo, vista aguda |
+| **Hombres Lagarto** | Rasgos de reptil, escamas | Desiertos, pantanos | Resistencia al calor, regeneración |
+| **Hombres Pez** | Rasgos de pez, branquias | Océanos, lagos | Respiración bajo el agua, natación |
 
-Understanding the nature of **beastfolk** provides insight into the physical aspects of the world of **OpenFantasy**, like feeling the primal rhythms that pulse through the wild places of the world. 
+Comprender la naturaleza de los **beastfolk** proporciona una visión de los aspectos físicos del mundo de **OpenFantasy**, como sentir los ritmos primigenios que pulsan a través de los lugares salvajes del mundo.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
