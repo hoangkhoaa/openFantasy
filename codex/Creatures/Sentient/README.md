@@ -1,95 +1,99 @@
-# Sentient Species of OpenFantasy
+# Espèces sentientes d'OpenFantasy
 
-> *"Consciousness shapes the world as much as the world shapes consciousness."*
+> *"La conscience façonne le monde autant que le monde façonne la conscience."*
 
-## Overview
+## Aperçu
 
-Sentient species in OpenFantasy are beings with advanced intelligence, self-awareness, and the capacity to form complex societies. They possess the ability to communicate through sophisticated language, create culture, develop technologies, and manipulate magic through conscious effort rather than instinct alone.
+Les espèces sentientes dans OpenFantasy sont des êtres dotés d'une intelligence avancée, d'une conscience de soi et de la capacité de former des sociétés complexes. Elles possèdent la capacité de communiquer par le biais d'un langage sophistiqué, de créer une culture, de développer des technologies et de manipuler la magie grâce à un effort conscient plutôt qu'à un simple instinct.
 
-What distinguishes sentient species from other creatures is their high soul component, which enables abstract thought, moral reasoning, and the formation of civilizations. Each sentient species has evolved unique adaptations and societal structures based on their elemental composition and the environments they inhabit.
+Ce qui distingue les espèces sentientes des autres créatures est leur composante d'âme élevée, qui permet la pensée abstraite, le raisonnement moral et la formation de civilisations. Chaque espèce sentiente a développé des adaptations et des structures sociétales uniques basées sur sa composition élémentaire et les environnements qu'elle habite.
 
-## Core Characteristics
+## Caractéristiques principales
 
-All sentient species share certain fundamental traits:
+Toutes les espèces sentientes partagent certains traits fondamentaux :
 
-- **Linguistic Capacity**: The ability to develop and use complex language systems
-- **Cultural Formation**: Creation of art, music, literature, and social traditions
-- **Technological Innovation**: Development of tools and techniques to reshape their environment
-- **Magical Awareness**: Conscious understanding and manipulation of mana
-- **Social Organization**: Formation of complex societies with diverse roles and hierarchies
-- **Historical Awareness**: Recording and passing down knowledge across generations
+-   **Capacité linguistique**: La capacité de développer et d'utiliser des systèmes linguistiques complexes
+-   **Formation culturelle**: Création d'art, de musique, de littérature et de traditions sociales
+-   **Innovation technologique**: Développement d'outils et de techniques pour remodeler leur environnement
+-   **Conscience magique**: Compréhension et manipulation consciente du mana
+-   **Organisation sociale**: Formation de sociétés complexes avec des rôles et des hiérarchies divers
+-   **Conscience historique**: Enregistrement et transmission des connaissances à travers les générations
 
-## Sentient Species Categories
+## Catégories d'espèces sentientes
 
-### Primary Civilizers
+### Civilisateurs primaires
 
-Species that have established widespread, stable civilizations across multiple regions:
+Espèces qui ont établi des civilisations répandues et stables dans plusieurs régions :
 
-| Species | Elemental Balance | Key Traits | Cultural Significance |
-|---------|-------------------|------------|----------------------|
-| [Humans](Humans.md) | Balanced (E: 20-55%, S: 15-45%, M: 15-60%) | Adaptability, innovation, rapid cultural evolution | Widespread, diverse societies with varying traditions |
-| [Elves](Elves.md) | Mana-dominant (E: 5-25%, S: 5-15%, M: 50-80%) | Longevity, magical aptitude, tradition | Ancient magical traditions, art preservation |
-| [Dwarves](Dwarves.md) | Exanthis-dominant (E: 50-70%, S: 20-35%, M: 5-25%) | Physical resilience, craftsmanship, clan loyalty | Mining, metallurgy, engineering, ancestral halls |
+| Species (Espèce) | Elemental Balance (Équilibre élémentaire) | Key Traits (Traits principaux) | Cultural Significance (Signification culturelle) |
+|-----------------|------------------------------------------|------------------------------|---------------------------------------|
+| [Humans](Humans.md) | Balanced (E : 20-55 %, S : 15-45 %, M : 15-60 %) | Adaptability (Adaptabilité), innovation, rapid cultural evolution (évolution culturelle rapide) | Widespread (Répandue), diverse societies with varying traditions (sociétés diverses avec des traditions variées) |
+| [Elves](Elves.md) | Mana-dominant (E : 5-25 %, S : 5-15 %, M : 50-80 %) | Longevity (Longévité), magical aptitude (aptitude magique), tradition | Ancient magical traditions (anciennes traditions magiques), art preservation (préservation de l'art) |
+| [Dwarves](Dwarves.md) | Exanthis-dominant (E : 50-70 %, S : 20-35 %, M : 5-25 %) | Physical resilience (Résilience physique), craftsmanship (savoir-faire), clan loyalty (loyauté envers le clan) | Mining (Exploitation minière), metallurgy (métallurgie), engineering (ingénierie), ancestral halls (salles ancestrales) |
 
-### Specialized Adaptations
+### Adaptations spécialisées
 
-Species that have developed unique physiological or magical adaptations:
+Espèces qui ont développé des adaptations physiologiques ou magiques uniques :
 
-| Species | Elemental Balance | Key Traits | Cultural Significance |
-|---------|-------------------|------------|----------------------|
-| [Dark Elves](DarkElves.md) | Shadow-attuned (E: 5-25%, S: 10-20%, M: 50-80%) | Shadow manipulation, night vision, magical focus | Complex underground societies, shadow-based crafts |
-| [Beastfolk](Beastfolk.md) | Varied (E: 35-70%, S: 15-35%, M: 15-40%) | Diverse animal traits, heightened senses, tribal organization | Close connection to natural world, oral histories |
-| [Gnomes](Gnomes.md) | Soul-heavy (E: 30-50%, S: 30-50%, M: 15-30%) | Small stature, inventiveness, curiosity | Innovation, magical technology, complex mechanisms |
+| Species (Espèce) | Elemental Balance (Équilibre élémentaire) | Key Traits (Traits principaux) | Cultural Significance (Signification culturelle) |
+|-----------------|------------------------------------------|------------------------------|---------------------------------------|
+| [Dark Elves](DarkElves.md) | Shadow-attuned (E : 5-25 %, S : 10-20 %, M : 50-80 %) | Shadow manipulation (Manipulation des ombres), night vision (vision nocturne), magical focus (concentration magique) | Complex underground societies (sociétés souterraines complexes), shadow-based crafts (artisanat basé sur l'ombre) |
+| [Beastfolk](Beastfolk.md) | Varied (Variée) (E : 35-70 %, S : 15-35 %, M : 15-40 %) | Diverse animal traits (divers traits animaux), heightened senses (sens accrus), tribal organization (organisation tribale) | Close connection to natural world (lien étroit avec le monde naturel), oral histories (histoires orales) |
+| [Gnomes](Gnomes.md) | Soul-heavy (Surcharge d'âme) (E : 30-50 %, S : 30-50 %, M : 15-30 %) | Small stature (Petite taille), inventiveness (inventivité), curiosity (curiosité) | Innovation, magical technology (technologie magique), complex mechanisms (mécanismes complexes) |
 
-### Regional Civilizers
+### Civilisateurs régionaux
 
-Species whose societies are limited to specific geographical regions:
+Espèces dont les sociétés sont limitées à des régions géographiques spécifiques :
 
-| Species | Notable Regions | Key Cultural Elements |
-|---------|----------------|------------------------|
-| [Dragonkin](../Magical/Dragonkin.md) | Mountain ranges, volcanic regions | Ancestral worship, elemental mastery, wealth accumulation |
-| [Merfolk](../Hybrid/Merfolk.md) | Coastal areas, deep seas | Marine resource management, underwater architecture, song-based histories |
-| [Giants](../Monsters/Giants.md) | Highland territories, ancient strongholds | Stone crafting, elemental communion, ancestral traditions |
+| Species (Espèce) | Notable Regions (Régions notables) | Key Cultural Elements (Éléments culturels clés) |
+|-----------------|---------------------------------|------------------------------------------|
+| [Dragonkin](../Magical/Dragonkin.md) | Mountain ranges (Chaînes de montagnes), volcanic regions (régions volcaniques) | Ancestral worship (Culte des ancêtres), elemental mastery (maîtrise élémentaire), wealth accumulation (accumulation de richesses) |
+| [Merfolk](../Hybrid/Merfolk.md) | Coastal areas (Zones côtières), deep seas (mers profondes) | Marine resource management (Gestion des ressources marines), underwater architecture (architecture sous-marine), song-based histories (histoires basées sur des chansons) |
+| [Giants](../Monsters/Giants.md) | Highland territories (Territoires des hautes terres), ancient strongholds (forteresses anciennes) | Stone crafting (Artisanat de la pierre), elemental communion (communion élémentaire), ancestral traditions (traditions ancestrales) |
 
-## Interspecies Dynamics
+## Dynamique inter-espèces
 
-The relationships between sentient species form complex social, political, and economic webs. Each species brings unique strengths and perspectives to these interactions:
+Les relations entre les espèces sentientes forment des réseaux sociaux, politiques et économiques complexes. Chaque espèce apporte des forces et des perspectives uniques à ces interactions :
 
-### Common Alliance Patterns
+### Modèles d'alliance communs
 
-- **Elven-Human Partnerships**: Combining human adaptability with elven magical knowledge
-- **Dwarven-Gnomish Collaborations**: Merging dwarven craftsmanship with gnomish innovation
-- **Human-Beastfolk Frontier Settlements**: Blending diverse skills for survival in challenging regions
+-   **Elven-Human Partnerships (Partenariats Elfes-Humains)** : Combining human adaptability (Combiner l'adaptabilité humaine) with elven magical knowledge (avec les connaissances magiques elfiques)
+-   **Dwarven-Gnomish Collaborations (Collaborations Naines-Gnomes)** : Merging dwarven craftsmanship (Fusionner le savoir-faire nain) with gnomish innovation (avec l'innovation gnome)
+-   **Human-Beastfolk Frontier Settlements (Établissements frontaliers Humains-Hommes-Bêtes)** : Blending diverse skills (Mélanger diverses compétences) for survival in challenging regions (pour survivre dans des régions difficiles)
 
-### Historical Conflicts
+### Conflits historiques
 
-- **Dark Elf-Surface Elf Tensions**: Ancient schisms based on philosophical and magical differences
-- **Giant-Dwarven Territorial Disputes**: Competition for mineral-rich mountain territories
-- **Human-Beastfolk Expansion Conflicts**: Disagreements over land use and natural resources
+-   **Dark Elf-Surface Elf Tensions (Tensions Elfe Noir-Elfe de Surface)** : Ancient schisms based on philosophical and magical differences (Anciens schismes basés sur des différences philosophiques et magiques)
+-   **Giant-Dwarven Territorial Disputes (Conflits territoriaux Géant-Nain)** : Competition for mineral-rich mountain territories (Concurrence pour les territoires montagneux riches en minéraux)
+-   **Human-Beastfolk Expansion Conflicts (Conflits d'expansion Humain-Homme-Bête)** : Disagreements over land use and natural resources (Désaccords sur l'utilisation des terres et les ressources naturelles)
 
-## Elemental Influence on Society
+## Influence élémentaire sur la société
 
-The elemental composition of a species significantly influences their societal development:
+La composition élémentaire d'une espèce influence considérablement son développement sociétal :
 
-| Dominant Element | Societal Impact | Examples |
-|------------------|----------------|----------|
-| **Exanthis** | Physical infrastructure, resource utilization, martial traditions | Dwarven strongholds, Giant monuments |
-| **Soul** | Philosophical development, arts, education systems | Human universities, Gnomish think-tanks |
-| **Mana** | Magical innovation, energy manipulation, metaphysical exploration | Elven spell-forests, Dark Elf shadow citadels |
+| Dominant Element (Élément dominant) | Societal Impact (Impact sociétal) | Examples (Exemples) |
+|------------------------------------|-----------------------------------|----------------------|
+| **Exanthis** | Physical infrastructure (Infrastructure physique), resource utilization (utilisation des ressources), martial traditions (traditions martiales) | Dwarven strongholds (Forteresses naines), Giant monuments (monuments géants) |
+| **Soul (Âme)** | Philosophical development (Développement philosophique), arts, education systems (systèmes éducatifs) | Human universities (Universités humaines), Gnomish think-tanks (groupes de réflexion gnomes) |
+| **Mana** | Magical innovation (Innovation magique), energy manipulation (manipulation de l'énergie), metaphysical exploration (exploration métaphysique) | Elven spell-forests (Forêts de sorts elfiques), Dark Elf shadow citadels (citadelles d'ombre des Elfes Noirs) |
 
-## Evolutionary Adaptations
+## Adaptations évolutives
 
-Sentient species have evolved unique adaptations to their environments and elemental compositions:
+Les espèces sentientes ont développé des adaptations uniques à leurs environnements et à leurs compositions élémentaires :
 
-| Species | Key Adaptations | Evolutionary Advantage |
-|---------|----------------|------------------------|
-| **Humans** | Generalized physiology, rapid learning | Adaptability to diverse environments |
-| **Elves** | Enhanced magical channels, extended lifespan | Deep magical understanding, knowledge preservation |
-| **Dwarves** | Dense bone structure, efficient metabolism | Survival in harsh mountain conditions |
-| **Dark Elves** | Enhanced night vision, shadow resonance | Thriving in underground environments |
-| **Beastfolk** | Species-specific traits (varies widely) | Specialized environmental advantages |
-| **Gnomes** | Compact neural density, enhanced dexterity | Efficiency in limited physical space |
+| Species (Espèce) | Key Adaptations (Adaptations clés) | Evolutionary Advantage (Avantage évolutif) |
+|-----------------|-------------------------------|--------------------------------------|
+| **Humans (Humains)** | Generalized physiology (Physiologie généralisée), rapid learning (apprentissage rapide) | Adaptability to diverse environments (Adaptabilité à divers environnements) |
+| **Elves (Elfes)** | Enhanced magical channels (Canaux magiques améliorés), extended lifespan (durée de vie prolongée) | Deep magical understanding (Compréhension magique profonde), knowledge preservation (préservation des connaissances) |
+| **Dwarves (Nains)** | Dense bone structure (Structure osseuse dense), efficient metabolism (métabolisme efficace) | Survival in harsh mountain conditions (Survie dans des conditions montagneuses difficiles) |
+| **Dark Elves (Elfes Noirs)** | Enhanced night vision (Vision nocturne améliorée), shadow resonance (résonance d'ombre) | Thriving in underground environments (Prospérer dans des environnements souterrains) |
+| **Beastfolk (Hommes-bêtes)** | Species-specific traits (varies widely) (Traits spécifiques à l'espèce (varie considérablement)) | Specialized environmental advantages (Avantages environnementaux spécialisés) |
+| **Gnomes** | Compact neural density (Densité neuronale compacte), enhanced dexterity (dextérité accrue) | Efficiency in limited physical space (Efficacité dans un espace physique limité) |
 
 ---
 
-> *"In the diversity of thinking minds lies the true wealth of our world."* — Scholar Tiberius Windfall, Comparative Species Studies 
+> *"Dans la diversité des esprits pensants réside la véritable richesse de notre monde."* — Savant Tiberius Windfall, Études comparatives des espèces
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

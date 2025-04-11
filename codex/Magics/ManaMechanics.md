@@ -1,183 +1,187 @@
-# **Mana Mechanics**: Core Systems of Magical Energy
+# **Mécanismes de mana** : Systèmes fondamentaux d'énergie magique
 
-## Quick Reference Links
-- [Mana Capacity and Storage](#mana-capacity-and-spell-casting)
-- [Mana Purity and Spell Effectiveness](#mana-purity-and-spell-effectiveness)
-- [Two-Phase Mana Conversion](#two-phase-mana-conversion-process)
-- [Spell Technical Requirements](#spell-technical-requirements)
-- [Training Progression](#training-progression)
+## Liens de référence rapide
+- [Capacité de mana et lancement de sorts](#capacite-de-mana-et-lancement-de-sorts)
+- [Pureté du mana et efficacité des sorts](#purete-du-mana-et-efficacite-des-sorts)
+- [Conversion du mana en deux phases](#conversion-du-mana-en-deux-phases)
+- [Exigences techniques des sorts](#exigences-techniques-des-sorts)
+- [Progression de l'entraînement](#progression-de-l-entrainement)
 
-## Overview
+## Aperçu
 
-Mana mechanics govern how magical energy is gathered, stored, refined, and utilized within OpenFantasy. This document outlines the fundamental relationships between different aspects of mana manipulation.
+Les mécanismes de mana régissent la façon dont l'énergie magique est collectée, stockée, raffinée et utilisée dans OpenFantasy. Ce document décrit les relations fondamentales entre les différents aspects de la manipulation du mana.
 
-## Two-Phase Mana Conversion Process
+## Processus de conversion du mana en deux phases
 
-The foundation of all spellcasting lies in a two-phase conversion process that transforms environmental Wild Mana into usable magical energy:
+La base de tous les lancements de sorts réside dans un processus de conversion en deux phases qui transforme le Mana sauvage (Wild Mana) environnemental en énergie magique utilisable :
 
-### Phase 1: Wild Mana to Base Mana (Effectiveness-Focused)
-- **Definition**: The biological process of absorbing Wild Mana from the environment and converting it to stable Base Mana within the caster's body
-- **Key Metric**: Conversion Effectiveness (how efficiently Wild Mana becomes Base Mana)
-- **Primary Bottleneck**: Mana Capacity (internal storage limitation)
-- **Primary Function**: Creates the caster's internal magical reserves
+### Phase 1 : Mana sauvage (Wild Mana) vers Mana de base (Base Mana) (axée sur l'efficacité)
+- **Définition** : Le processus biologique d'absorption du Mana sauvage (Wild Mana) de l'environnement et de sa conversion en Mana de base (Base Mana) stable dans le corps du lanceur.
+- **Mesure clé** : Efficacité de la conversion (dans quelle mesure le Mana sauvage (Wild Mana) devient du Mana de base (Base Mana))
+- **Principal goulot d'étranglement** : Capacité de mana (limitation du stockage interne)
+- **Fonction principale** : Crée les réserves magiques internes du lanceur.
 
-> **Important Note**: All mana stored within living creatures is Base Mana. Wild Mana cannot be stored directly in biological systems without causing harm.
+> **Note importante** : Tout le mana stocké dans les créatures vivantes est du Mana de base (Base Mana). Le Mana sauvage (Wild Mana) ne peut pas être stocké directement dans les systèmes biologiques sans causer de dommages.
 
-### Phase 2: Base Mana to Elemental Mana (Purity-Focused)
-- **Definition**: The conscious, technical process of refining Base Mana into specialized Elemental Mana for spellcasting
-- **Key Metric**: Purity Percentage (ratio of refined Elemental Mana to total energies used)
-- **Primary Bottleneck**: Skill and technique (training-dependent)
-- **Primary Function**: Creates specialized magical energy suitable for spellcasting
+### Phase 2 : Mana de base (Base Mana) vers Mana élémentaire (Elemental Mana) (axée sur la pureté)
+- **Définition** : Le processus conscient et technique de raffinement du Mana de base (Base Mana) en Mana élémentaire (Elemental Mana) spécialisé pour le lancement de sorts.
+- **Mesure clé** : Pourcentage de pureté (rapport entre le Mana élémentaire (Elemental Mana) raffiné et le total des énergies utilisées)
+- **Principal goulot d'étranglement** : Compétence et technique (dépendant de l'entraînement)
+- **Fonction principale** : Crée une énergie magique spécialisée adaptée au lancement de sorts.
 
-These two phases operate in sequence but require different skills and aptitudes, explaining why some casters may have large reserves but poor control, or vice versa.
+Ces deux phases fonctionnent en séquence mais nécessitent des compétences et des aptitudes différentes, ce qui explique pourquoi certains lanceurs peuvent avoir de grandes réserves mais un mauvais contrôle, ou vice versa.
 
-## Mana Capacity and Spell Casting
+## Capacité de mana et lancement de sorts
 
-Mana Capacity refers to the maximum amount of Base Mana a caster can store within their body after completing Phase 1 conversion. This capacity directly affects:
+La Capacité de mana (Mana Capacity) fait référence à la quantité maximale de Mana de base (Base Mana) qu'un lanceur peut stocker dans son corps après avoir terminé la conversion de Phase 1. Cette capacité affecte directement :
 
-1. **Storage Capacity**: Total magical reserves available for Phase 2 conversion and spellcasting
-2. **Regeneration Rate**: Speed at which depleted Base Mana is replenished through Phase 1 processes
-3. **Casting Endurance**: Ability to sustain multiple spells or prolonged magical effects
+1. **Capacité de stockage** : Réserves magiques totales disponibles pour la conversion de Phase 2 et le lancement de sorts.
+2. **Taux de régénération** : Vitesse à laquelle le Mana de base (Base Mana) épuisé est reconstitué par les processus de Phase 1.
+3. **Endurance de lancement** : Capacité à soutenir plusieurs sorts ou des effets magiques prolongés.
 
-### Capacity Levels and Effects
+### Niveaux de capacité et effets
 
-| Capacity Level | Base Mana Storage | Typical Regeneration | Maximum Spell Level | Representative Example |
+| Niveau de capacité (Capacity Level) | Stockage de Mana de base (Base Mana Storage) | Régénération typique (Typical Regeneration) | Niveau de sort maximum (Maximum Spell Level) | Exemple représentatif (Representative Example) |
 |----------------|-------------------|----------------------|---------------------|------------------------|
-| Minimal (5-10%) | 5-10 units | 1 unit/hour | 1 | Average non-practitioner |
-| Low (10-25%) | 10-25 units | 2 units/hour | 2 | Apprentice mage |
-| Moderate (25-40%) | 25-40 units | 3-4 units/hour | 3 | Journeyman mage |
-| High (40-60%) | 40-60 units | 5-6 units/hour | 4 | Master mage |
-| Exceptional (60-80%) | 60-80 units | 7-9 units/hour | 5 | Archmage |
-| Legendary (80-100%) | 80-100+ units | 10+ units/hour | 6+ | Once-in-a-generation talent |
+| Minimal (5-10 %) | 5-10 unités | 1 unité/heure | 1 | Non-pratiquant moyen |
+| Faible (Low) (10-25 %) | 10-25 unités | 2 unités/heure | 2 | Mage apprenti |
+| Modéré (Moderate) (25-40 %) | 25-40 unités | 3-4 unités/heure | 3 | Mage compagnon |
+| Élevé (High) (40-60 %) | 40-60 unités | 5-6 unités/heure | 4 | Mage maître |
+| Exceptionnel (Exceptional) (60-80 %) | 60-80 unités | 7-9 unités/heure | 5 | Archimage |
+| Légendaire (Legendary) (80-100 %) | 80-100+ unités | 10+ unités/heure | 6+ | Talent unique en son genre |
 
-> **Note on Measurement**: While "units" are used here for conceptual clarity, magical practitioners typically use more specialized terminology based on their tradition.
+> **Note sur la mesure** : Bien que les "unités" soient utilisées ici pour des raisons de clarté conceptuelle, les praticiens de la magie utilisent généralement une terminologie plus spécialisée basée sur leur tradition.
 
-### Capacity's Impact on Maximum Achievable Purity
+### Impact de la capacité sur la pureté maximale atteignable
 
-Mana Capacity indirectly affects Phase 2 conversion by providing more "working space" for refinement:
+La Capacité de mana (Mana Capacity) affecte indirectement la conversion de Phase 2 en fournissant plus d'"espace de travail" pour le raffinement :
 
-| Capacity Level | Maximum Achievable Purity | Reasoning |
+| Niveau de capacité (Capacity Level) | Pureté maximale atteignable (Maximum Achievable Purity) | Raisonnement (Reasoning) |
 |----------------|---------------------------|-----------|
-| Minimal (5-10%) | ~40% | Limited internal space creates pressure during refinement |
-| Low (10-25%) | ~55% | Some pressure still affects fine control |
-| Moderate (25-40%) | ~70% | Sufficient space for standard refinement techniques |
-| High (40-60%) | ~85% | Ample space allows for intensive refinement |
-| Exceptional (60-80%) | ~95% | Near-optimal conditions for purity |
-| Legendary (80-100%) | 95%+ | Potential for theoretical "perfect" purity |
+| Minimal (5-10 %) | ~40 % | L'espace interne limité crée une pression pendant le raffinement |
+| Faible (Low) (10-25 %) | ~55 % | Une certaine pression affecte toujours le contrôle fin |
+| Modéré (Moderate) (25-40 %) | ~70 % | Suffisamment d'espace pour les techniques de raffinement standard |
+| Élevé (High) (40-60 %) | ~85 % | Un espace suffisant permet un raffinement intensif |
+| Exceptionnel (Exceptional) (60-80 %) | ~95 % | Conditions quasi optimales pour la pureté |
+| Légendaire (Legendary) (80-100 %) | 95 %+ | Potentiel de pureté "parfaite" théorique |
 
-## Mana Purity and Spell Effectiveness
+## Pureté du mana et efficacité des sorts
 
-Mana Purity represents the quality of magical energy after Phase 2 conversion. It indicates how much of the energy has been successfully refined from Base Mana into the specific Elemental Mana required for a spell.
+La Pureté du mana (Mana Purity) représente la qualité de l'énergie magique après la conversion de Phase 2. Elle indique la quantité d'énergie qui a été raffinée avec succès du Mana de base (Base Mana) en Mana élémentaire (Elemental Mana) spécifique requis pour un sort.
 
-### Purity as a Percentage
+### La pureté en pourcentage
 
-Purity is calculated using the formula:
+La pureté est calculée à l'aide de la formule :
 ```
-Purity % = (Refined Elemental Mana) / (Refined Elemental Mana + Residual Wild Mana) × 100%
+Pourcentage de pureté = (Mana élémentaire (Elemental Mana) raffiné) / (Mana élémentaire (Elemental Mana) raffiné + Mana sauvage (Wild Mana) résiduel) × 100 %
 ```
 
-### Purity Levels and Difficulty
+### Niveaux de pureté et difficulté
 
-| Purity Level | Percentage | Difficulty to Achieve | Typical Application |
+| Niveau de pureté (Purity Level) | Pourcentage (Percentage) | Difficulté à atteindre (Difficulty to Achieve) | Application typique (Typical Application) |
 |--------------|------------|------------------------|---------------------|
-| Critical | 0-10% | Occurs with severe mistakes | Dangerous miscasts |
-| Basic | 10-35% | Achievable by beginners | Simple utility spells |
-| Standard | 35-65% | Requires formal training | Professional magic |
-| Refined | 65-85% | Demands years of practice | Specialist applications |
-| Perfect | 85-100% | Mastery level achievement | Highest magical arts |
+| Critique (Critical) | 0-10 % | Se produit en cas d'erreurs graves | Lancements ratés dangereux |
+| Basique (Basic) | 10-35 % | Atteignable par les débutants | Sorts utilitaires simples |
+| Standard (Standard) | 35-65 % | Nécessite une formation formelle | Magie professionnelle |
+| Raffiné (Refined) | 65-85 % | Exige des années de pratique | Applications spécialisées |
+| Parfait (Perfect) | 85-100 % | Maîtrise | Arts magiques les plus élevés |
 
-Increasing purity beyond 90% requires exponentially more skill and effort, with diminishing practical returns in most applications.
+L'augmentation de la pureté au-delà de 90 % exige une compétence et un effort exponentiellement plus importants, avec des rendements pratiques décroissants dans la plupart des applications.
 
-## Spell Technical Requirements
+## Exigences techniques des sorts
 
-All spells have technical requirements that determine their viability based on the caster's capabilities in both Phase 1 (Capacity) and Phase 2 (Purity) conversion.
+Tous les sorts ont des exigences techniques qui déterminent leur viabilité en fonction des capacités du lanceur dans les conversions de Phase 1 (Capacité) et de Phase 2 (Pureté).
 
-### Mana Type Distribution
+### Répartition des types de mana
 
-Spells require specific distributions of elemental energies:
+Les sorts nécessitent des répartitions spécifiques d'énergies élémentaires :
 
-| Spell Level | Fire | Water | Air | Earth | Arcane | Life | Void | Total |
+| Niveau de sort (Spell Level) | Feu (Fire) | Eau (Water) | Air (Air) | Terre (Earth) | Arcanes (Arcane) | Vie (Life) | Vide (Void) | Total |
 |-------------|------|-------|-----|-------|--------|------|------|-------|
-| Novice | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 100% |
-| Basic Dual | 60% | 40% | 0% | 0% | 0% | 0% | 0% | 100% |
-| Complex | 40% | 30% | 20% | 10% | 0% | 0% | 0% | 100% |
-| Advanced | 35% | 25% | 15% | 10% | 15% | 0% | 0% | 100% |
-| Master | 25% | 20% | 15% | 10% | 20% | 5% | 5% | 100% |
+| Novice (Novice) | 100 % | 0 % | 0 % | 0 % | 0 % | 0 % | 0 % | 100 % |
+| Double basique (Basic Dual) | 60 % | 40 % | 0 % | 0 % | 0 % | 0 % | 0 % | 100 % |
+| Complexe (Complex) | 40 % | 30 % | 20 % | 10 % | 0 % | 0 % | 0 % | 100 % |
+| Avancé (Advanced) | 35 % | 25 % | 15 % | 10 % | 15 % | 0 % | 0 % | 100 % |
+| Maître (Master) | 25 % | 20 % | 15 % | 10 % | 20 % | 5 % | 5 % | 100 % |
 
-This table represents a hypothetical fire-primary spell at different complexity levels.
+Ce tableau représente un sort hypothétique à dominance de feu à différents niveaux de complexité.
 
-### Minimum Purity Requirements
+### Exigences minimales de pureté
 
-Each spell level has minimum purity requirements for stable casting:
+Chaque niveau de sort a des exigences de pureté minimales pour un lancement stable :
 
-| Spell Level | Minimum Purity | Optimal Purity | Effect of Low Purity |
+| Niveau de sort (Spell Level) | Pureté minimale (Minimum Purity) | Pureté optimale (Optimal Purity) | Effet d'une faible pureté (Effect of Low Purity) |
 |-------------|----------------|----------------|----------------------|
-| Novice | 15% | 35%+ | Minor unpredictability |
-| Apprentice | 25% | 45%+ | Reduced effectiveness |
-| Journeyman | 35% | 55%+ | Significant instability |
-| Adept | 45% | 65%+ | Potential backfire |
-| Master | 55% | 75%+ | Dangerous failure |
-| Archmage | 65% | 85%+ | Catastrophic consequences |
+| Novice (Novice) | 15 % | 35 %+ | Imprévisibilité mineure |
+| Apprenti (Apprentice) | 25 % | 45 %+ | Efficacité réduite |
+| Compagnon (Journeyman) | 35 % | 55 %+ | Instabilité importante |
+| Adepte (Adept) | 45 % | 65 %+ | Contrecoup potentiel |
+| Maître (Master) | 55 % | 75 %+ | Échec dangereux |
+| Archimage (Archmage) | 65 % | 85 %+ | Conséquences catastrophiques |
 
-Casting below minimum purity is possible but increasingly hazardous with spell complexity.
+Il est possible de lancer des sorts en dessous de la pureté minimale, mais cela devient de plus en plus dangereux avec la complexité du sort.
 
-### Minimum Capacity Requirements
+### Exigences minimales de capacité
 
-Similarly, spells have minimum capacity thresholds:
+De même, les sorts ont des seuils de capacité minimaux :
 
-| Spell Level | Min. Capacity | Optimal Capacity | Effect of Low Capacity |
+| Niveau de sort (Spell Level) | Capacité min. (Min. Capacity) | Capacité optimale (Optimal Capacity) | Effet d'une faible capacité (Effect of Low Capacity) |
 |-------------|---------------|------------------|------------------------|
-| Novice | 5% | 15%+ | Short duration |
-| Apprentice | 15% | 25%+ | Quick exhaustion |
-| Journeyman | 25% | 35%+ | Limited power |
-| Adept | 35% | 45%+ | Single casting only |
-| Master | 45% | 60%+ | Severe strain |
-| Archmage | 60% | 75%+ | Potential burnout |
+| Novice (Novice) | 5 % | 15 %+ | Courte durée |
+| Apprenti (Apprentice) | 15 % | 25 %+ | Épuisement rapide |
+| Compagnon (Journeyman) | 25 % | 35 %+ | Puissance limitée |
+| Adepte (Adept) | 35 % | 45 %+ | Lancement unique uniquement |
+| Maître (Master) | 45 % | 60 %+ | Tension grave |
+| Archimage (Archmage) | 60 % | 75 %+ | Burnout potentiel |
 
-## The Harmony of Elements: A Musical Analogy
+## L'harmonie des éléments : Une analogie musicale
 
-The relationship between Mana Capacity, Purity Level, and Spell Requirements can be understood through a musical analogy:
+La relation entre la Capacité de mana (Mana Capacity), le Niveau de pureté (Purity Level) et les Exigences des sorts (Spell Requirements) peut être comprise grâce à une analogie musicale :
 
-- **Phase 1 (Wild → Base) is like having an instrument**: A larger instrument (higher capacity) can produce more music for longer periods.
-- **Phase 2 (Base → Elemental) is like playing technique**: Better technique (higher purity) produces clearer, more precise notes.
-- **Spellcasting is like performing a composition**: Different pieces (spells) require both an adequate instrument and sufficient playing skill.
+- **La Phase 1 (Sauvage → Base) est comme avoir un instrument** : Un instrument plus grand (capacité plus élevée) peut produire plus de musique pendant de plus longues périodes.
+- **La Phase 2 (Base → Élémentaire) est comme la technique de jeu** : Une meilleure technique (pureté plus élevée) produit des notes plus claires et plus précises.
+- **Le lancement de sorts est comme l'exécution d'une composition** : Différentes pièces (sorts) nécessitent à la fois un instrument adéquat et une compétence de jeu suffisante.
 
-A virtuoso violinist (high purity, low capacity) might perfectly play short, complex pieces but lack endurance for longer performances. Conversely, a novice with a grand piano (high capacity, low purity) has potential for volume and duration but lacks the refinement for complex compositions.
+Un violoniste virtuose (pureté élevée, faible capacité) peut parfaitement jouer des pièces courtes et complexes, mais manquer d'endurance pour des performances plus longues. Inversement, un novice avec un piano à queue (capacité élevée, faible pureté) a le potentiel de volume et de durée, mais manque du raffinement nécessaire pour des compositions complexes.
 
-## Training Progression
+## Progression de l'entraînement
 
-Magical development typically follows this progression:
+Le développement magique suit généralement cette progression :
 
-### 1. Capacity Building (Phase 1 Focus)
-- **Early Exercises**: Meditation, energy awareness, basic absorption techniques
-- **Progression Markers**: Increased reserves, faster recovery after casting
-- **Biological Changes**: Expansion of internal channels, increased metabolic efficiency
-- **Typical Timeline**: Steady improvements over years of consistent practice
+### 1. Développement de la capacité (Concentration sur la phase 1)
+- **Exercices initiaux** : Méditation, conscience de l'énergie, techniques d'absorption de base
+- **Marqueurs de progression** : Augmentation des réserves, récupération plus rapide après le lancement
+- **Changements biologiques** : Expansion des canaux internes, augmentation de l'efficacité métabolique
+- **Chronologie typique** : Améliorations constantes sur des années de pratique assidue
 
-### 2. Purity Control Development (Phase 2 Focus)
-- **Core Techniques**: Filtration exercises, elemental affinity development, pattern stability
-- **Progression Markers**: Increased spell stability, reduced wild effects, finer control
-- **Mental Development**: Enhanced visualization, improved concentration, pattern recognition
-- **Typical Timeline**: Steep initial learning curve followed by plateau and breakthrough cycles
+### 2. Développement du contrôle de la pureté (Concentration sur la phase 2)
+- **Techniques de base** : Exercices de filtration, développement de l'affinité élémentaire, stabilité des schémas
+- **Marqueurs de progression** : Augmentation de la stabilité des sorts, réduction des effets sauvages, contrôle plus fin
+- **Développement mental** : Visualisation améliorée, concentration améliorée, reconnaissance des schémas
+- **Chronologie typique** : Courbe d'apprentissage initiale abrupte suivie de plateaux et de cycles de percée
 
-### 3. Balanced Mastery (Integrated Phase 1 and 2)
-- **Advanced Methods**: Cyclical reinforcement, resonance harmonization, efficiency optimization
-- **Progression Markers**: Ability to cast complex spells with minimal effort, adaptive casting
-- **Holistic Changes**: Intuitive understanding of personal mana flow, environmental awareness
-- **Typical Timeline**: Decades of dedicated practice with increasing returns on investment
+### 3. Maîtrise équilibrée (Phases 1 et 2 intégrées)
+- **Méthodes avancées** : Renforcement cyclique, harmonisation de la résonance, optimisation de l'efficacité
+- **Marqueurs de progression** : Capacité à lancer des sorts complexes avec un minimum d'effort, lancement adaptatif
+- **Changements holistiques** : Compréhension intuitive du flux de mana personnel, conscience environnementale
+- **Chronologie typique** : Des décennies de pratique dédiée avec des rendements croissants sur l'investissement
 
-## Individual Variations
+## Variations individuelles
 
-Practitioners exhibit natural variations in their aptitude for the two conversion phases:
+Les praticiens présentent des variations naturelles dans leur aptitude aux deux phases de conversion :
 
-- **Capacity-Gifted**: Naturally high mana reserves but may struggle with refinement
-- **Purity-Gifted**: Exceptional control and refinement but limited reserves
-- **Balanced Aptitude**: Moderate natural talent in both aspects
-- **Specialized Affinity**: Natural talent for specific elemental conversions
-- **Adaptive Caster**: Ability to modify approach based on magical conditions
+- **Doué pour la capacité (Capacity-Gifted)** : Réserves de mana naturellement élevées, mais peut avoir du mal avec le raffinement.
+- **Doué pour la pureté (Purity-Gifted)** : Contrôle et raffinement exceptionnels, mais réserves limitées
+- **Aptitude équilibrée (Balanced Aptitude)** : Talent naturel modéré dans les deux aspects
+- **Affinité spécialisée (Specialized Affinity)** : Talent naturel pour des conversions élémentaires spécifiques
+- **Lanceur adaptatif (Adaptive Caster)** : Capacité à modifier l'approche en fonction des conditions magiques
 
-These natural tendencies are typically apparent by adolescence and influence recommended specialization paths.
+Ces tendances naturelles sont généralement apparentes dès l'adolescence et influencent les parcours de spécialisation recommandés.
 
 ---
 
-*"Understanding the two phases of mana conversion is like understanding breathing and singing as separate skills. You may have massive lung capacity but poor vocal control, or perfect pitch but limited breath support. The master vocalist develops both in harmony, just as the master mage balances capacity and purity."* — Archmage Elendra Vos, Principal of the Royal Academy 
+*"Comprendre les deux phases de la conversion du mana, c'est comme comprendre la respiration et le chant comme des compétences distinctes. Vous pouvez avoir une capacité pulmonaire énorme, mais un mauvais contrôle vocal, ou un ton parfait, mais un soutien respiratoire limité. Le maître chanteur développe les deux en harmonie, tout comme le maître mage équilibre capacité et pureté."* — Archimage Elendra Vos, directrice de l'Académie Royale
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

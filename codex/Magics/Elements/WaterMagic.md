@@ -1,202 +1,206 @@
-# **Water Magic**: The Flow of Liquid and Vapor
+# **Water Magic** (Magie de l'Eau) : Le Flux du Liquide et de la Vapeur
 
-> *"Water does not resist; it flows. When it is blocked, it finds a new path. There is wisdom in water that even the most learned mage would do well to embrace."* — Archhydromancer Nerissa Tidesong
+> *"L'eau ne résiste pas ; elle coule. Lorsqu'elle est bloquée, elle trouve un nouveau chemin. Il y a une sagesse dans l'eau que même le mage le plus savant ferait bien d'embrasser."* — Archhydromancienne Nerissa Tidesong
 
-## Quick Reference
-- [Properties of Hydromana](#properties-of-hydromana)
-- [Manipulation Techniques](#manipulation-techniques)
-- [Common Spells](#common-spells)
-- [Affinity Development](#affinity-development)
-- [Risks and Safeguards](#risks-and-safeguards)
-- [Cultural Significance](#cultural-significance)
+## Quick Reference (Référence rapide)
+- [Properties of Hydromana (Propriétés de l'Hydromana)](#properties-of-hydromana)
+- [Manipulation Techniques (Techniques de manipulation)](#manipulation-techniques)
+- [Common Spells (Sorts communs)](#common-spells)
+- [Affinity Development (Développement d'affinité)](#affinity-development)
+- [Risks and Safeguards (Risques et mesures de sécurité)](#risks-and-safeguards)
+- [Cultural Significance (Signification culturelle)](#cultural-significance)
 
-## Properties of Hydromana
+## Properties of Hydromana (Propriétés de l'Hydromana)
 
-Hydromana, the elemental mana of water, is characterized by:
+Hydromana, la mana élémentaire de l'eau, se caractérise par :
 
-- **Appearance**: Flowing blues and cyans with silver highlights; translucent and reflective
-- **Sensation**: Feels cool, soothing, and fluid when channeled; creates a gentle pressure
-- **Resonance**: Medium-frequency, flowing vibration patterns with gentle oscillations
-- **Purification Challenge**: Absorbs impurities easily, requiring multiple filtration cycles; tends to carry and hold contamination
-- **Opposite Element**: Fire (creates steam when forced together, ultimately extinguishes fire)
-- **Complementary Elements**: Air (creates mist/fog), Death (creates ice)
-- **Musical Analogy**: Cello and flowing string instruments; sustained notes that rise and fall like waves
+- **Appearance (Apparence)** : Bleus et cyans fluides avec des reflets argentés ; translucide et réfléchissant
+- **Sensation (Sensation)** : Semble frais, apaisant et fluide lorsqu'il est canalisé ; crée une douce pression
+- **Resonance (Résonance)** : Fréquence moyenne, schémas de vibrations fluides avec de douces oscillations
+- **Purification Challenge (Défi de purification)** : Absorbe facilement les impuretés, nécessitant plusieurs cycles de filtration ; a tendance à transporter et à retenir la contamination
+- **Opposite Element (Élément opposé)** : Feu (crée de la vapeur lorsqu'ils sont forcés ensemble, finit par éteindre le feu)
+- **Complementary Elements (Éléments complémentaires)** : Air (crée de la brume/du brouillard), Mort (crée de la glace)
+- **Musical Analogy (Analogie musicale)** : Violoncelle et instruments à cordes fluides ; notes soutenues qui montent et descendent comme des vagues
 
-## Manipulation Techniques
+## Manipulation Techniques (Techniques de manipulation)
 
-### Basic Techniques
+### Basic Techniques (Techniques de base)
 
-#### Aqueous Projection
-The foundational technique of directing and projecting water:
-- **Difficulty**: Novice
-- **Purity Requirement**: Basic (15-25%)
-- **Effect**: Manipulates existing water sources or draws moisture from the air
-- **Training Focus**: Flow control and directional precision
-- **Applications**: Moving water between containers, creating small currents, gathering scattered droplets
+#### Aqueous Projection (Projection aqueuse)
+La technique fondamentale de direction et de projection de l'eau :
+- **Difficulty (Difficulté)** : Novice
+- **Purity Requirement (Exigence de pureté)** : Basique (15-25%)
+- **Effect (Effet)** : Manipule les sources d'eau existantes ou extrait l'humidité de l'air
+- **Training Focus (Objectif de l'entraînement)** : Contrôle du flux et précision directionnelle
+- **Applications (Applications)** : Déplacer l'eau entre les récipients, créer de petits courants, rassembler des gouttelettes dispersées
 
-#### State Transition
-Changing water between its three primary states:
-- **Difficulty**: Novice to Intermediate
-- **Purity Requirement**: Basic to Refined (15-40%)
-- **Effect**: Transforms water between liquid, solid (ice), and gaseous (vapor) states
-- **Training Focus**: Temperature control and molecular arrangement
-- **Applications**: Creating ice shapes, generating mist, condensing water from humid air
+#### State Transition (Transition d'état)
+Changer l'eau entre ses trois états principaux :
+- **Difficulty (Difficulté)** : Novice à Intermédiaire
+- **Purity Requirement (Exigence de pureté)** : Basique à Raffiné (15-40%)
+- **Effect (Effet)** : Transforme l'eau entre les états liquide, solide (glace) et gazeux (vapeur)
+- **Training Focus (Objectif de l'entraînement)** : Contrôle de la température et arrangement moléculaire
+- **Applications (Applications)** : Créer des formes de glace, générer de la brume, condenser l'eau de l'air humide
 
-#### Pressure Manipulation
-Controlling the pressure and force of water:
-- **Difficulty**: Intermediate
-- **Purity Requirement**: Refined (30-45%)
-- **Effect**: Increases or decreases water pressure and directional force
-- **Training Focus**: Force vectors and pressure gradients
-- **Applications**: Water jets, underwater breathing spheres, pressure reduction for deep diving
+#### Pressure Manipulation (Manipulation de la pression)
+Contrôler la pression et la force de l'eau :
+- **Difficulty (Difficulté)** : Intermédiaire
+- **Purity Requirement (Exigence de pureté)** : Raffiné (30-45%)
+- **Effect (Effet)** : Augmente ou diminue la pression de l'eau et la force directionnelle
+- **Training Focus (Objectif de l'entraînement)** : Vecteurs de force et gradients de pression
+- **Applications (Applications)** : Jets d'eau, sphères de respiration sous-marine, réduction de la pression pour la plongée profonde
 
-### Advanced Techniques
+### Advanced Techniques (Techniques avancées)
 
-#### Hydromantic Shaping
-Creating and maintaining complex water structures:
-- **Difficulty**: Advanced
-- **Purity Requirement**: Refined to Perfect (40-75%)
-- **Effect**: Forms water into complex, self-sustaining shapes that maintain their form
-- **Training Focus**: Surface tension control and internal circulation
-- **Applications**: Water constructs, liquid barriers, floating water platforms
+#### Hydromantic Shaping (Façonnage hydromantique)
+Créer et maintenir des structures d'eau complexes :
+- **Difficulty (Difficulté)** : Avancé
+- **Purity Requirement (Exigence de pureté)** : Raffiné à Parfait (40-75%)
+- **Effect (Effet)** : Forme l'eau en des formes complexes et autonomes qui maintiennent leur forme
+- **Training Focus (Objectif de l'entraînement)** : Contrôle de la tension superficielle et circulation interne
+- **Applications (Applications)** : Constructions d'eau, barrières liquides, plateformes d'eau flottantes
 
-#### Phased Hydromancy
-Simultaneous control of multiple water states:
-- **Difficulty**: Expert
-- **Purity Requirement**: Perfect (65-85%)
-- **Effect**: Manipulates liquid, solid, and vapor forms of water simultaneously
-- **Training Focus**: Multiple-state awareness and transition boundaries
-- **Applications**: Mixed-state attacks, environmental control, complex illusions
+#### Phased Hydromancy (Hydromancie phasée)
+Contrôle simultané de plusieurs états de l'eau :
+- **Difficulty (Difficulté)** : Expert
+- **Purity Requirement (Exigence de pureté)** : Parfait (65-85%)
+- **Effect (Effet)** : Manipule simultanément les formes liquide, solide et vapeur de l'eau
+- **Training Focus (Objectif de l'entraînement)** : Conscience des états multiples et limites de transition
+- **Applications (Applications)** : Attaques à états mixtes, contrôle environnemental, illusions complexes
 
-#### Essence Extraction
-Drawing water from unlikely sources:
-- **Difficulty**: Master
-- **Purity Requirement**: Perfect (70-90%)
-- **Effect**: Extracts water molecules from organic matter, minerals, or elemental compounds
-- **Training Focus**: Molecular separation and attraction
-- **Applications**: Survival in arid environments, purification, weakening waterlogged structures
+#### Essence Extraction (Extraction d'essence)
+Extraire l'eau de sources improbables :
+- **Difficulty (Difficulté)** : Maître
+- **Purity Requirement (Exigence de pureté)** : Parfait (70-90%)
+- **Effect (Effet)** : Extrait les molécules d'eau de la matière organique, des minéraux ou des composés élémentaires
+- **Training Focus (Objectif de l'entraînement)** : Séparation et attraction moléculaires
+- **Applications (Applications)** : Survie dans des environnements arides, purification, affaiblissement des structures gorgées d'eau
 
-## Common Spells
+## Common Spells (Sorts communs)
 
-### Novice Spells
+### Novice Spells (Sorts de novice)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Spell (Sort) | Effect (Effet) | Components (Composantes) | Casting Time (Temps d'incantation) | Duration (Durée) |
 |-------|--------|------------|--------------|----------|
-| **Water Stream** | Projects a continuous stream of water | Somatic, Source | 1 second | Concentration |
-| **Moisture Gathering** | Collects ambient humidity into usable water | Somatic, Verbal | 10 seconds | Instantaneous |
-| **Freeze Surface** | Creates a thin layer of ice on a water surface | Somatic, Water source | 3 seconds | 10 minutes |
-| **Fog Cloud** | Creates light mist in a small area | Somatic, Water source | 5 seconds | 5 minutes |
+| **Water Stream** (Jet d'eau) | Projette un jet d'eau continu | Somatique, Source | 1 seconde | Concentration |
+| **Moisture Gathering** (Collecte d'humidité) | Collecte l'humidité ambiante en eau utilisable | Somatique, Verbal | 10 secondes | Instantané |
+| **Freeze Surface** (Geler la surface) | Crée une fine couche de glace sur une surface d'eau | Somatique, Source d'eau | 3 secondes | 10 minutes |
+| **Fog Cloud** (Nuage de brouillard) | Crée une légère brume dans une petite zone | Somatique, Source d'eau | 5 secondes | 5 minutes |
 
-### Intermediate Spells
+### Intermediate Spells (Sorts intermédiaires)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Spell (Sort) | Effect (Effet) | Components (Composantes) | Casting Time (Temps d'incantation) | Duration (Durée) |
 |-------|--------|------------|--------------|----------|
-| **Waterbreathing** | Creates breathable water for underwater activity | Somatic, Verbal, Water | 30 seconds | 1 hour |
-| **Ice Barrier** | Forms a protective wall of ice | Somatic, Water source | 5 seconds | 30 minutes |
-| **Undercurrent** | Creates controlled movement in larger bodies of water | Somatic, Focus | 10 seconds | 15 minutes |
-| **Water Walking** | Allows walking on water surfaces | Somatic, Verbal | 5 seconds | 30 minutes |
+| **Waterbreathing** (Respiration aquatique) | Crée de l'eau respirable pour l'activité sous-marine | Somatique, Verbal, Eau | 30 secondes | 1 heure |
+| **Ice Barrier** (Barrière de glace) | Forme un mur protecteur de glace | Somatique, Source d'eau | 5 secondes | 30 minutes |
+| **Undercurrent** (Courant sous-marin) | Crée un mouvement contrôlé dans de plus grandes masses d'eau | Somatique, Focalisation | 10 secondes | 15 minutes |
+| **Water Walking** (Marcher sur l'eau) | Permet de marcher sur les surfaces de l'eau | Somatique, Verbal | 5 secondes | 30 minutes |
 
-### Advanced Spells
+### Advanced Spells (Sorts avancés)
 
-| Spell | Effect | Components | Casting Time | Duration |
+| Spell (Sort) | Effect (Effet) | Components (Composantes) | Casting Time (Temps d'incantation) | Duration (Durée) |
 |-------|--------|------------|--------------|----------|
-| **Tidal Surge** | Creates a powerful wave of concentrated force | Somatic, Verbal, Water | 10 seconds | Instantaneous |
-| **Hydromantic Construct** | Forms a semi-autonomous water creature | Somatic, Verbal, Focus | 1 minute | 1 hour |
-| **Maelstrom** | Creates a vortex that pulls objects toward its center | Somatic, Verbal, Water | 30 seconds | 5 minutes |
-| **Winter's Grasp** | Flash-freezes a large volume of water or a target | Somatic, Verbal, Focus | 10 seconds | Varies |
+| **Tidal Surge** (Déferlante) | Crée une puissante vague de force concentrée | Somatique, Verbal, Eau | 10 secondes | Instantané |
+| **Hydromantic Construct** (Construction hydromantique) | Forme une créature d'eau semi-autonome | Somatique, Verbal, Focalisation | 1 minute | 1 heure |
+| **Maelstrom** (Maelstrom) | Crée un vortex qui attire les objets vers son centre | Somatique, Verbal, Eau | 30 secondes | 5 minutes |
+| **Winter's Grasp** (Étreinte de l'hiver) | Gèle instantanément un grand volume d'eau ou une cible | Somatique, Verbal, Focalisation | 10 secondes | Varie |
 
-## Affinity Development
+## Affinity Development (Développement d'affinité)
 
-Water affinity progresses through several distinctive stages:
+L'affinité avec l'eau progresse à travers plusieurs étapes distinctives :
 
-### Innate Connection
-The foundational relationship with water that most beginners possess:
-- **Manifestation**: Intuitive sense of water's presence, minor influence over small amounts
-- **Physical Signs**: Slightly dampened skin, attraction to water sources
-- **Enhancement Method**: Regular meditation near water sources, especially flowing water
+### Innate Connection (Connexion innée)
+La relation fondamentale avec l'eau que possèdent la plupart des débutants :
+- **Manifestation (Manifestation)** : Sens intuitif de la présence de l'eau, influence mineure sur de petites quantités
+- **Physical Signs (Signes physiques)** : Peau légèrement humidifiée, attraction pour les sources d'eau
+- **Enhancement Method (Méthode d'amélioration)** : Méditation régulière près des sources d'eau, en particulier l'eau courante
 
-### Fluent Channeling
-The intermediate stage where water responds more readily to the mage's will:
-- **Manifestation**: Water moves with minimal effort, state changes occur easily
-- **Physical Signs**: Higher body fluid retention, bluish tint to fingernails when casting
-- **Enhancement Method**: Practicing in various water conditions (rain, rivers, oceans)
+### Fluent Channeling (Canalisation fluide)
+Le stade intermédiaire où l'eau répond plus facilement à la volonté du mage :
+- **Manifestation (Manifestation)** : L'eau se déplace avec un minimum d'effort, les changements d'état se produisent facilement
+- **Physical Signs (Signes physiques)** : Rétention plus élevée des fluides corporels, teinte bleutée des ongles lors de l'incantation
+- **Enhancement Method (Méthode d'amélioration)** : Pratiquer dans diverses conditions d'eau (pluie, rivières, océans)
 
-### Tidal Harmony
-Advanced practitioners achieve a deep resonance with water's natural cycles:
-- **Manifestation**: Water seems to anticipate the mage's intentions, responds to emotional states
-- **Physical Signs**: Body temperature regulation mimics water, tears and sweat contain trace hydromana
-- **Enhancement Method**: Synchronizing magical practice with lunar cycles and tides
+### Tidal Harmony (Harmonie des marées)
+Les praticiens avancés atteignent une profonde résonance avec les cycles naturels de l'eau :
+- **Manifestation (Manifestation)** : L'eau semble anticiper les intentions du mage, répond aux états émotionnels
+- **Physical Signs (Signes physiques)** : La régulation de la température corporelle imite l'eau, les larmes et la sueur contiennent des traces d'hydromana
+- **Enhancement Method (Méthode d'amélioration)** : Synchroniser la pratique magique avec les cycles lunaires et les marées
 
-### Oceanic Unity
-Master hydromancers who have achieved profound connection with water:
-- **Manifestation**: Partial transformation abilities, influence over bodies of water without direct contact
-- **Physical Signs**: Eyes reflect water's surface in strong light, blood has unusual flow patterns
-- **Enhancement Method**: Deep communion rituals at ley line intersections with water bodies
+### Oceanic Unity (Unité océanique)
+Les maîtres hydromanciens qui ont atteint une profonde connexion avec l'eau :
+- **Manifestation (Manifestation)** : Capacités de transformation partielles, influence sur les masses d'eau sans contact direct
+- **Physical Signs (Signes physiques)** : Les yeux reflètent la surface de l'eau en forte lumière, le sang a des schémas de flux inhabituels
+- **Enhancement Method (Méthode d'amélioration)** : Rituels de communion profonde aux intersections de lignes ley avec des masses d'eau
 
-## Risks and Safeguards
+## Risks and Safeguards (Risques et mesures de sécurité)
 
-### Common Risks
+### Common Risks (Risques courants)
 
-- **Hydration Imbalance**: Drawing too much moisture from one's own body during casting
-- **Thermal Shock**: Rapid transitions between water states causing system strain
-- **Pressure Trauma**: Improper pressure manipulation damaging ears, sinuses, or lungs
-- **Drowning Resonance**: Creating breathable water with imperfect patterns, causing respiratory issues
-- **Ice Crystallization**: Improper freezing techniques causing tissue damage
+- **Hydration Imbalance (Déséquilibre d'hydratation)** : Extraire trop d'humidité de son propre corps pendant l'incantation
+- **Thermal Shock (Choc thermique)** : Transitions rapides entre les états de l'eau causant une tension du système
+- **Pressure Trauma (Traumatisme de pression)** : Manipulation incorrecte de la pression endommageant les oreilles, les sinus ou les poumons
+- **Drowning Resonance (Résonance de noyade)** : Créer de l'eau respirable avec des schémas imparfaits, causant des problèmes respiratoires
+- **Ice Crystallization (Cristallisation de la glace)** : Techniques de congélation incorrectes causant des lésions tissulaires
 
-### Miscast Effects
+### Miscast Effects (Effets de mauvaise incantation)
 
-| Severity | Effect | Recovery |
+| Severity (Gravité) | Effect (Effet) | Recovery (Récupération) |
 |----------|--------|----------|
-| **Minor** | Temporary waterlogging of tissues, chills, excessive thirst | Hours |
-| **Moderate** | Impaired temperature regulation, mild hypothermia, internal moisture condensation | Days |
-| **Severe** | Fluid accumulation in lungs, dangerous body temperature drop, osmotic imbalance | Weeks |
-| **Critical** | Cellular crystallization, major osmotic shock, total hydration system failure | Months |
+| **Minor** (Mineur) | Engorgement temporaire des tissus, frissons, soif excessive | Heures |
+| **Moderate** (Modéré) | Régulation de la température altérée, légère hypothermie, condensation d'humidité interne | Jours |
+| **Severe** (Grave) | Accumulation de liquide dans les poumons, chute dangereuse de la température corporelle, déséquilibre osmotique | Semaines |
+| **Critical** (Critique) | Cristallisation cellulaire, choc osmotique majeur, défaillance totale du système d'hydratation | Mois |
 
-### Safety Practices
+### Safety Practices (Pratiques de sécurité)
 
-- **Hydration Discipline**: Maintaining proper personal hydration before and after spellcasting
-- **Thermal Gradient Training**: Practicing gradual temperature transitions
-- **Pressure Equalization**: Regular breaks during underwater or pressure manipulation work
-- **Material Isolation**: Using external water sources rather than bodily fluids
-- **Seasonal Awareness**: Adjusting techniques based on environmental conditions
+- **Hydration Discipline (Discipline d'hydratation)** : Maintenir une hydratation personnelle adéquate avant et après l'incantation
+- **Thermal Gradient Training (Entraînement au gradient thermique)** : Pratiquer des transitions de température graduelles
+- **Pressure Equalization (Égalisation de la pression)** : Pauses régulières pendant le travail sous-marin ou de manipulation de la pression
+- **Material Isolation (Isolation des matériaux)** : Utiliser des sources d'eau externes plutôt que des fluides corporels
+- **Seasonal Awareness (Conscience saisonnière)** : Ajuster les techniques en fonction des conditions environnementales
 
-## Cultural Significance
+## Cultural Significance (Signification culturelle)
 
-### Historical Development
+### Historical Development (Développement historique)
 
-Water magic is among the oldest practiced forms of elemental manipulation, with evidence of organized techniques dating back to the earliest coastal civilizations. The development of water magic followed three distinct historical phases:
+La magie de l'eau est parmi les plus anciennes formes pratiquées de manipulation élémentaire, avec des preuves de techniques organisées remontant aux premières civilisations côtières. Le développement de la magie de l'eau a suivi trois phases historiques distinctes :
 
-1. **Survival Application**: Early tribal shamans using water-finding and purification techniques
-2. **Maritime Expansion**: Seafaring cultures developing navigation and weather prediction magic
-3. **Philosophical Refinement**: Formal academies exploring water's connections to life and transformation
+1. **Survival Application (Application de survie)** : Premiers chamans tribaux utilisant des techniques de recherche d'eau et de purification
+2. **Maritime Expansion (Expansion maritime)** : Cultures maritimes développant la navigation et la magie de prédiction météorologique
+3. **Philosophical Refinement (Raffinement philosophique)** : Académies formelles explorant les liens de l'eau avec la vie et la transformation
 
-### Regional Variations
+### Regional Variations (Variations régionales)
 
-| Culture | Focus | Signature Technique | Philosophy |
+| Culture (Culture) | Focus (Concentration) | Signature Technique (Technique de signature) | Philosophy (Philosophie) |
 |---------|-------|---------------------|------------|
-| **Tidefolk** | Ocean manipulation, weather | Wave calling, storm sensing | Water as the eternal mother |
-| **Riverlands** | Flow and transport | Current shaping, river speaking | Water as the connector of realms |
-| **Northern Realms** | Ice and preservation | Crystalline structures, hibernation | Water as the keeper of memory |
-| **Desert Tribes** | Conservation and finding | Moisture extraction, dew gathering | Water as precious life essence |
+| **Tidefolk** (Peuple des marées) | Manipulation de l'océan, météo | Appel des vagues, détection des tempêtes | L'eau comme la mère éternelle |
+| **Riverlands** (Terres des rivières) | Flux et transport | Façonnage du courant, parler aux rivières | L'eau comme le connecteur des royaumes |
+| **Northern Realms** (Royaumes du Nord) | Glace et préservation | Structures cristallines, hibernation | L'eau comme le gardien de la mémoire |
+| **Desert Tribes** (Tribus du désert) | Conservation et recherche | Extraction d'humidité, collecte de rosée | L'eau comme essence de vie précieuse |
 
-### Ceremonial Uses
+### Ceremonial Uses (Usages cérémoniels)
 
-Water magic features prominently in many cultural ceremonies:
-- **Purification Rituals**: Cleansing of spaces, objects, and people
-- **Coming-of-Age Ceremonies**: Young hydromancers demonstrating their first control
-- **Harvest Blessings**: Ensuring proper rainfall and crop irrigation
-- **Funerary Practices**: "Returning to the source" ceremonies for the deceased
+La magie de l'eau figure en bonne place dans de nombreuses cérémonies culturelles :
+- **Purification Rituals (Rituels de purification)** : Nettoyage des espaces, des objets et des personnes
+- **Coming-of-Age Ceremonies (Cérémonies de passage à l'âge adulte)** : Jeunes hydromanciens démontrant leur premier contrôle
+- **Harvest Blessings (Bénédictions des récoltes)** : Assurer des précipitations adéquates et l'irrigation des cultures
+- **Funerary Practices (Pratiques funéraires)** : Cérémonies de "retour à la source" pour les défunts
 
-### Contemporary Applications
+### Contemporary Applications (Applications contemporaines)
 
-Beyond combat and utility applications, water magic serves crucial societal functions:
-- **Agricultural Management**: Irrigation systems and crop hydration
-- **Urban Infrastructure**: Water purification and waste management
-- **Medical Practice**: Healing baths and hydration therapy
-- **Environmental Protection**: Watershed management and aquatic ecosystem balance
+Au-delà des applications de combat et d'utilité, la magie de l'eau remplit des fonctions sociétales cruciales :
+- **Agricultural Management (Gestion agricole)** : Systèmes d'irrigation et hydratation des cultures
+- **Urban Infrastructure (Infrastructure urbaine)** : Purification de l'eau et gestion des déchets
+- **Medical Practice (Pratique médicale)** : Bains de guérison et thérapie d'hydratation
+- **Environmental Protection (Protection de l'environnement)** : Gestion des bassins versants et équilibre des écosystèmes aquatiques
 
-> *"The student of water learns not to overcome their obstacles, but to flow around them—a lesson that extends far beyond the casting circle."* — The Aquatic Meditations
+> *"L'étudiant de l'eau apprend non pas à surmonter ses obstacles, mais à les contourner — une leçon qui s'étend bien au-delà du cercle d'incantation."* — Les Méditations Aquatiques
 
 ---
 
-*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md), [Fire Magic](/codex/Magics/Elements/FireMagic.md), [Weather Magic](/codex/Magics/Advanced/Combinations/WeatherMagic.md)*
+*See also: [Elemental Magic](/codex/Magics/Elements/ElementalMagic.md) (Magie élémentaire), [Fire Magic](/codex/Magics/Elements/FireMagic.md) (Magie du feu), [Weather Magic](/codex/Magics/Advanced/Combinations/WeatherMagic.md) (Magie de la météo)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

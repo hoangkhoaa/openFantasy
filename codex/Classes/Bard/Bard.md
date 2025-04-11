@@ -1,118 +1,122 @@
-# **Bard**: Virtuosos of Magical Harmony
+# **Bard** (Barde) : Virtuoses de l'Harmonie Magique
 
-[**Bards**](/codex/Classes/Bard/Bard.md) are versatile spellcasters who channel arcane energy through artistic expression, primarily music. They weave magic into their performances, creating effects that inspire allies, manipulate emotions, and harm enemies through the resonance between artistic expression and the fundamental harmonies of reality.
+Les [**Bards** (Bardes)](/codex/Classes/Bard/Bard.md) sont des lanceurs de sorts polyvalents qui canalisent l'énergie arcanique à travers l'expression artistique, principalement la musique. Ils tissent la magie dans leurs performances, créant des effets qui inspirent les alliés, manipulent les émotions et nuisent aux ennemis grâce à la résonance entre l'expression artistique et les harmonies fondamentales de la réalité.
 
-## Elemental Composition
+## Composition Élémentaire
 
-The typical elemental ratio for **bards** reflects their artistic approach to magic:
+Le ratio élémentaire typique pour les **bards** (bardes) reflète leur approche artistique de la magie :
 
-| Element | Range | Function |
+| Element (Élément) | Range (Plage) | Function (Fonction) |
 |---------|------------|----------|
-| **Exanthis** | 20-35% | Physical vessel trained in artistic techniques and precise performance |
-| **Soul** | 35-55% | Emotional framework capable of authentic expression and magical resonance |
-| **Mana Capacity** | 20-40% | Naturally flowing mana reserves with intuitive harmonic control |
+| **Exanthis** | 20-35% | Vaisseau physique entraîné aux techniques artistiques et à la performance précise |
+| **Soul** (Âme) | 35-55% | Cadre émotionnel capable d'expression authentique et de résonance magique |
+| **Mana Capacity** (Capacité de Mana) | 20-40% | Réserves de mana naturellement fluides avec un contrôle harmonique intuitif |
 
-This composition distinguishes **bards** from other spellcasters through their emphasis on emotional resonance over academic understanding. Bards develop specialized neural pathways that connect artistic expression directly to magical manipulation, creating a unique system that translates performance into magical effects. Their physical forms are trained to execute precise artistic techniques while simultaneously channeling magical energies.
+Cette composition distingue les **bards** (bardes) des autres lanceurs de sorts par l'accent mis sur la résonance émotionnelle plutôt que sur la compréhension académique. Les bardes développent des voies neuronales spécialisées qui connectent l'expression artistique directement à la manipulation magique, créant un système unique qui traduit la performance en effets magiques. Leurs formes physiques sont entraînées à exécuter des techniques artistiques précises tout en canalisant simultanément des énergies magiques.
 
-### Magical Affinity Profile
+### Magical Affinity Profile (Profil d'Affinité Magique)
 
-Bards develop specific affinities based on their college of specialization:
+Les bardes développent des affinités spécifiques en fonction de leur collège de spécialisation :
 
-| College | Primary Affinities | Secondary Affinities | Typical Application |
+| College (Collège) | Primary Affinities (Affinités Primaires) | Secondary Affinities (Affinités Secondaires) | Typical Application (Application Typique) |
 |--------------|-------------------|---------------------|---------------------|
-| **Eloquence** | Mentimana | Base Mana (Influence) | Persuasion, social manipulation, linguistic mastery |
-| **Glamour** | Base Mana (Sensory) | Mentimana | Fascination, enchantment, illusory beauty |
-| **Lore** | Base Mana (Knowledge) | Chronimana | Information gathering, spell versatility, secrets |
-| **Spirits** | Spiritumana | Base Mana (Connection) | Spirit communication, supernatural insight |
-| **Swords** | Base Mana (Enhancement) | Elemental (varies) | Combat prowess, weapon infusion, battle magic |
-| **Valor** | Base Mana (Inspiration) | Vitomana | Combat support, protective inspiration, courage |
-| **Whispers** | Mentimana | Shadow Mana | Fear manipulation, secret extraction, psychic attacks |
-| **Creation** | Base Mana (Manifestation) | Elemental (varies) | Materializing art, performance enhancing, creative magic |
+| **Eloquence** (Éloquence) | Mentimana | Base Mana (Influence) (Mana de Base (Influence)) | Persuasion, manipulation sociale, maîtrise linguistique |
+| **Glamour** | Base Mana (Sensory) (Mana de Base (Sensoriel)) | Mentimana | Fascination, enchantement, beauté illusoire |
+| **Lore** (Savoir) | Base Mana (Knowledge) (Mana de Base (Connaissance)) | Chronimana | Collecte d'informations, polyvalence des sorts, secrets |
+| **Spirits** (Esprits) | Spiritumana | Base Mana (Connection) (Mana de Base (Connexion)) | Communication spirituelle, perspicacité surnaturelle |
+| **Swords** (Épées) | Base Mana (Enhancement) (Mana de Base (Amélioration)) | Elemental (varies) (Élémentaire (varie)) | Prouesses au combat, infusion d'armes, magie de bataille |
+| **Valor** (Vaillance) | Base Mana (Inspiration) (Mana de Base (Inspiration)) | Vitomana | Soutien au combat, inspiration protectrice, courage |
+| **Whispers** (Murmures) | Mentimana | Shadow Mana (Mana d'Ombre) | Manipulation de la peur, extraction de secrets, attaques psychiques |
+| **Creation** (Création) | Base Mana (Manifestation) (Mana de Base (Manifestation)) | Elemental (varies) (Élémentaire (varie)) | Matérialisation d'art, amélioration des performances, magie créative |
 
-Bards typically achieve 45-65% resonance with their specialized college's elements, with years of dedicated performance potentially raising this to 70-80% in their areas of expertise. Their intuitive approach enables them to achieve moderate mana purity (35-55%) through emotional connectivity and artistic discipline, with master bards reaching 65-75% purity when performing their specialized art forms.
+Les bardes atteignent généralement une résonance de 45 à 65 % avec les éléments de leur collège spécialisé, et des années de performance dédiée peuvent potentiellement porter ce chiffre à 70 à 80 % dans leurs domaines d'expertise. Leur approche intuitive leur permet d'atteindre une pureté de mana modérée (35 à 55 %) grâce à la connectivité émotionnelle et à la discipline artistique, les maîtres bardes atteignant une pureté de 65 à 75 % lorsqu'ils interprètent leurs formes d'art spécialisées.
 
-### Species-Specific Variations
+### Species-Specific Variations (Variations Spécifiques à l'Espèce)
 
-Different species show varying natural inclinations toward the bard class:
+Différentes espèces présentent des inclinations naturelles variables envers la classe de barde :
 
-- **Humans** (20-35% Exanthis, 35-50% Soul, 20-40% Mana Capacity): Their cultural diversity creates a broad repertoire of artistic traditions to draw upon.
-- **Half-Elves** (15-30% Exanthis, 40-55% Soul, 25-45% Mana Capacity): Their dual heritage provides unique perspective that enhances emotional expression and magical intuition.
-- **Gnomes** (20-30% Exanthis, 40-60% Soul, 15-35% Mana Capacity): Their creative spirit and joyful nature creates natural affinity for performance magic.
-- **Tabaxi** (25-40% Exanthis, 30-50% Soul, 20-35% Mana Capacity): Their natural curiosity and storytelling traditions enhance bardic traditions of lore and performance.
-- **Tieflings** (20-35% Exanthis, 40-55% Soul, 20-35% Mana Capacity): Their inherent charisma and outsider perspective provides captivating performances with unique magical resonance.
+- **Humans** (Humains) (20-35% Exanthis, 35-50% Soul (Âme), 20-40% Mana Capacity (Capacité de Mana)) : Leur diversité culturelle crée un large répertoire de traditions artistiques sur lesquelles s'appuyer.
+- **Half-Elves** (Demi-Elfes) (15-30% Exanthis, 40-55% Soul (Âme), 25-45% Mana Capacity (Capacité de Mana)) : Leur double héritage offre une perspective unique qui améliore l'expression émotionnelle et l'intuition magique.
+- **Gnomes** (20-30% Exanthis, 40-60% Soul (Âme), 15-35% Mana Capacity (Capacité de Mana)) : Leur esprit créatif et leur nature joyeuse créent une affinité naturelle pour la magie de la performance.
+- **Tabaxi** (25-40% Exanthis, 30-50% Soul (Âme), 20-35% Mana Capacity (Capacité de Mana)) : Leur curiosité naturelle et leurs traditions de conte améliorent les traditions bardiques du savoir et de la performance.
+- **Tieflings** (Tieffelins) (20-35% Exanthis, 40-55% Soul (Âme), 20-35% Mana Capacity (Capacité de Mana)) : Leur charisme inhérent et leur perspective d'outsider offrent des performances captivantes avec une résonance magique unique.
 
-## Casting Methodology
+## Casting Methodology (Méthodologie d'Incantation)
 
-Bards channel magic through artistic performance, using the following fundamental techniques:
+Les bardes canalisent la magie à travers la performance artistique, en utilisant les techniques fondamentales suivantes :
 
-### Performance as Spellcasting
-Unlike wizards who rely on formulaic incantations, bards weave spells directly into their artistic expressions. The performance itself becomes the spell's framework, with each artistic element serving a specific magical function:
+### Performance as Spellcasting (La Performance comme Incantation)
+Contrairement aux magiciens qui s'appuient sur des incantations formulaires, les bardes tissent des sorts directement dans leurs expressions artistiques. La performance elle-même devient le cadre du sort, chaque élément artistique servant une fonction magique spécifique :
 
-- **Rhythm** establishes the spell's tempo and structure
-- **Melody** defines the spell's purpose and direction
-- **Harmony** provides magical stability and resonance
-- **Dynamics** control the spell's power and intensity
-- **Timbre** determines the spell's quality and character
+- Le **Rhythm** (Rythme) établit le tempo et la structure du sort
+- La **Melody** (Mélodie) définit le but et la direction du sort
+- **Harmony** (L'Harmonie) assure la stabilité et la résonance magiques
+- **Dynamics** (La Dynamique) contrôle la puissance et l'intensité du sort
+- **Timbre** (Le Timbre) détermine la qualité et le caractère du sort
 
-The bardic approach allows for improvisational spellcasting that can adapt in real-time to changing circumstances, though with less precision than more rigid casting methods.
+L'approche bardique permet une incantation improvisée qui peut s'adapter en temps réel aux circonstances changeantes, bien qu'avec moins de précision que les méthodes d'incantation plus rigides.
 
-### Instrument Resonance
-While bards can cast through pure vocal performance, most employ instruments to amplify and shape their magic:
+### Instrument Resonance (Résonance Instrumentale)
+Bien que les bardes puissent lancer des sorts par la pure performance vocale, la plupart utilisent des instruments pour amplifier et façonner leur magie :
 
-| Instrument Type | Magical Resonance | Spell Enhancement |
+| Instrument Type (Type d'Instrument) | Magical Resonance (Résonance Magique) | Spell Enhancement (Amélioration des Sorts) |
 |-----------------|-------------------|-------------------|
-| **Strings** | Emotional manipulation | Enchantment, illusion |
-| **Wind** | Breath and spirit | Divination, abjuration |
-| **Percussion** | Rhythm and force | Evocation, transmutation |
-| **Keyboard** | Complexity and harmony | Multi-effect spells, counterspell |
+| **Strings** (Cordes) | Manipulation émotionnelle | Enchantement, illusion |
+| **Wind** (Vent) | Souffle et esprit | Divination, abjuration |
+| **Percussion** (Percussions) | Rythme et force | Évocation, transmutation |
+| **Keyboard** (Clavier) | Complexité et harmonie | Sorts à effets multiples, contresort |
 
-Master bards often maintain multiple instruments specialized for different magical effects, though most develop primary proficiency with a signature instrument that becomes an extension of their magical identity.
+Les maîtres bardes entretiennent souvent plusieurs instruments spécialisés pour différents effets magiques, bien que la plupart développent une compétence principale avec un instrument de signature qui devient une extension de leur identité magique.
 
-### Mana Purification Technique
-Rather than purifying mana through academic discipline, bards achieve purification through emotional authenticity and artistic mastery. This approach:
+### Mana Purification Technique (Technique de Purification du Mana)
+Plutôt que de purifier le mana par la discipline académique, les bardes atteignent la purification par l'authenticité émotionnelle et la maîtrise artistique. Cette approche:
 
-- Produces vibrant and emotionally resonant magical effects
-- Creates more variable but often more potent emotional impacts
-- Achieves purification through performance rather than study
-- Requires genuine artistic skill alongside magical aptitude
+- Produit des effets magiques vibrants et émotionnellement résonants
+- Crée des impacts émotionnels plus variables mais souvent plus puissants
+- Réalise la purification par la performance plutôt que par l'étude
+- Nécessite une véritable compétence artistique aux côtés de l'aptitude magique
 
-This method can produce rapid purification during moments of exceptional performance (30-40% purity boost during perfect performances) but may falter during emotional distress.
+Cette méthode peut produire une purification rapide pendant les moments de performance exceptionnelle (augmentation de la pureté de 30 à 40 % pendant les performances parfaites), mais peut vaciller pendant la détresse émotionnelle.
 
-## Training and Development
+## Training and Development (Formation et Développement)
 
-Bardic training balances artistic development with magical understanding:
+La formation bardique équilibre le développement artistique avec la compréhension magique :
 
-- **Novice (1-3 years)**: Foundational artistic training with basic magical theory, achieving 15-25% mana purity
-- **Apprentice (3-7 years)**: Performance refinement and magical application, reaching 25-40% purity
-- **Journeyman (7-15 years)**: College specialization and signature style development, attaining 40-55% purity
-- **Master (15+ years)**: Artistic transcendence and magical innovation, achieving 55-75% purity
+- **Novice (1-3 years)** (Novice (1 à 3 ans)) : Formation artistique fondamentale avec théorie magique de base, atteignant une pureté de mana de 15 à 25 %
+- **Apprentice (3-7 years)** (Apprenti (3 à 7 ans)) : Raffinement de la performance et application magique, atteignant une pureté de 25 à 40 %
+- **Journeyman (7-15 years)** (Compagnon (7 à 15 ans)) : Spécialisation collégiale et développement du style de signature, atteignant une pureté de 40 à 55 %
+- **Master (15+ years)** (Maître (15 ans et plus)) : Transcendance artistique et innovation magique, atteignant une pureté de 55 à 75 %
 
-Unlike wizards who advance through academic achievement, bardic advancement requires both technical proficiency and authentic artistic expression. The most celebrated bards develop unique performance styles that produce instantly recognizable magical effects.
+Contrairement aux magiciens qui progressent grâce à la réussite scolaire, l'avancement bardique nécessite à la fois une compétence technique et une expression artistique authentique. Les bardes les plus célèbres développent des styles de performance uniques qui produisent des effets magiques instantanément reconnaissables.
 
-## Magical Limitations and Advantages
+## Magical Limitations and Advantages (Limites et Avantages Magiques)
 
-The bardic approach to magic creates distinct strengths and weaknesses:
+L'approche bardique de la magie crée des forces et des faiblesses distinctes :
 
-### Advantages
-- Exceptional versatility across multiple schools of magic
-- Superior emotional and social magical effects
-- Ability to cast while performing mundane activities
-- Natural talent for group magical harmonization
-- Intuitive adaptation to unexpected magical situations
+### Advantages (Avantages)
+- Polyvalence exceptionnelle dans plusieurs écoles de magie
+- Effets magiques émotionnels et sociaux supérieurs
+- Possibilité de lancer des sorts tout en effectuant des activités banales
+- Talent naturel pour l'harmonisation magique de groupe
+- Adaptation intuitive aux situations magiques inattendues
 
-### Limitations
-- Reduced effectiveness when unable to perform artistically
-- Vulnerability to effects that impact emotional state
-- Diminished precision compared to academic casters
-- Performance requirements can make stealth casting difficult
-- Less effective at highly technical magical disciplines
+### Limitations (Limites)
+- Efficacité réduite lorsqu'il est impossible de jouer artistiquement
+- Vulnérabilité aux effets qui ont un impact sur l'état émotionnel
+- Précision diminuée par rapport aux lanceurs académiques
+- Les exigences de performance peuvent rendre la furtivité difficile
+- Moins efficace dans les disciplines magiques très techniques
 
-Bardic magic thrives in settings where performance is possible and appreciated, making bards particularly effective in social contexts but potentially limited in environments requiring stealth or silence.
+La magie bardique prospère dans les contextes où la performance est possible et appréciée, ce qui rend les bardes particulièrement efficaces dans les contextes sociaux, mais potentiellement limités dans les environnements nécessitant discrétion ou silence.
 
-## Notable Practitioners
+## Notable Practitioners (Praticiens Notables)
 
-- **Maestro Laranello** - Created the "Symphonic Cascade" technique that allows a single performer to create multi-layered magical effects
-- **Lady Whisperwind** - Pioneered the integration of shadow magic into bardic performances through whispered counter-melodies
-- **The Chord of Five** - Legendary bardic collective whose harmonic performances could affect entire regions
-- **Jalavar Swiftstrings** - Developed the "battle-chant" technique that allows for bardic casting while engaged in direct combat
-- **Serena Nightingale** - Creator of the "Emotional Resonance Theory" that revolutionized understanding of bardic magic 
+- **Maestro Laranello** - A créé la technique de la "Symphonic Cascade" (Cascade Symphonique) qui permet à un seul interprète de créer des effets magiques multicouches
+- **Lady Whisperwind** (Dame Murmure du Vent) - A été la pionnière de l'intégration de la magie de l'ombre dans les performances bardiques par le biais de contre-mélodies murmurées
+- **The Chord of Five** (L'Accord des Cinq) - Collectif bardique légendaire dont les performances harmoniques pouvaient affecter des régions entières
+- **Jalavar Swiftstrings** (Jalavar Cordes Rapides) - A développé la technique du "battle-chant" (chant de bataille) qui permet de lancer des sorts bardiques tout en étant engagé dans un combat direct
+- **Serena Nightingale** (Serena Rossignol) - Créatrice de la "Emotional Resonance Theory" (Théorie de la Résonance Émotionnelle) qui a révolutionné la compréhension de la magie bardique
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

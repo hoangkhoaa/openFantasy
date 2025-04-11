@@ -1,135 +1,139 @@
-# **Rogue**: Masters of Finesse and Stealth
+# **Rogue** (Voleur) : Maîtres de la finesse et de la furtivité
 
-[**Rogues**](/codex/Classes/Rogue/Rogue.md) embody the perfect balance between physical dexterity and cunning intellect. Their existence forms a subtle harmony that favors precision, adaptability, and opportunism rather than raw power or magical might.
+Les [**Rogues**](/codex/Classes/Rogue/Rogue.md) (Voleurs) incarnent l'équilibre parfait entre la dextérité physique et l'intellect rusé. Leur existence forme une subtile harmonie qui favorise la précision, l'adaptabilité et l'opportunisme plutôt que la puissance brute ou la force magique.
 
-## Elemental Composition
+## Composition élémentaire
 
-As detailed in [Classes](/codex/Classes/Classes.md), the typical ratio for **rogues** creates a distinctive harmony that emphasizes adaptability:
+Comme indiqué dans [Classes](/codex/Classes/Classes.md), le ratio typique pour les **rogues** (voleurs) crée une harmonie distinctive qui met l'accent sur l'adaptabilité :
 
-| Element | Range | Function |
+| Element (Élément) | Range (Plage) | Function (Fonction) |
 |---------|------------|----------|
-| **Exanthis** | 35-50% | Balanced physical foundation providing agility, precision, and reflexes over raw strength |
-| **Soul** | 30-45% | Enhanced consciousness supporting perception, improvisation, and strategic thinking |
-| **Mana Capacity** | 15-30% | Moderate magical potential typically channeled into enhancing stealth, perception, and deception |
+| **Exanthis** | 35-50% | Base physique équilibrée offrant agilité, précision et réflexes plutôt que force brute |
+| **Soul** (Âme) | 30-45% | Conscience accrue favorisant la perception, l'improvisation et la pensée stratégique |
+| **Mana Capacity** (Capacité de mana) | 15-30% | Potentiel magique modéré généralement canalisé pour améliorer la furtivité, la perception et la tromperie |
 
-This composition grants **rogues** their characteristic versatility and adaptability. Their balanced elemental distribution allows them to excel in situations requiring both physical prowess and mental acuity, though they lack the specialized extremes of other classes.
+Cette composition confère aux **rogues** (voleurs) leur polyvalence et leur adaptabilité caractéristiques. Leur répartition élémentaire équilibrée leur permet d'exceller dans les situations nécessitant à la fois prouesses physiques et acuité mentale, bien qu'ils n'aient pas les extrêmes spécialisés des autres classes.
 
-### Magical Affinity Profile
+### Profil d'affinité magique
 
-Rogues typically develop specific affinities that complement their shadowy and adaptive nature:
+Les voleurs développent généralement des affinités spécifiques qui complètent leur nature sombre et adaptable :
 
-| Rogue Tradition | Primary Affinities | Secondary Affinities | Typical Application |
+| Rogue Tradition (Tradition de voleur) | Primary Affinities (Affinités primaires) | Secondary Affinities (Affinités secondaires) | Typical Application (Application typique) |
 |-----------------|-------------------|---------------------|---------------------|
-| **Shadowblade** | Umbramana (Concealment, Deception) | Aeromana (Silence) | Invisibility, shadow stepping, misdirection |
-| **Infiltrator** | Aeromana (Silence, Lightness) | Umbramana (Concealment) | Soundless movement, feather fall, enhanced agility |
-| **Trickster** | Luxmana (Illusion) | Umbramana (Deception) | Minor illusions, distractions, sensory manipulation |
-| **Poisoner** | Hydromana (Fluid, Mixing) | Terramana (Substance) | Toxin enhancement, alchemical acceleration, substance manipulation |
-| **Acrobat** | Aeromana (Balance, Movement) | Base Mana (Reflex) | Supernatural balance, wall-running, impossible leaps |
-| **Saboteur** | Base Mana (Disruption) | Pyromana (Ignition) | Trap enhancement, mechanical manipulation, controlled detonations |
+| **Shadowblade** (Lame d'ombre) | Umbramana (Dissimulation, Tromperie) | Aeromana (Silence) | Invisibilité, pas de l'ombre, désorientation |
+| **Infiltrator** (Infiltrateur) | Aeromana (Silence, Légèreté) | Umbramana (Dissimulation) | Mouvement silencieux, chute de plume, agilité améliorée |
+| **Trickster** (Filou) | Luxmana (Illusion) | Umbramana (Tromperie) | Illusions mineures, distractions, manipulation sensorielle |
+| **Poisoner** (Empoisonneur) | Hydromana (Fluide, Mélange) | Terramana (Substance) | Amélioration des toxines, accélération alchimique, manipulation de substances |
+| **Acrobat** (Acrobate) | Aeromana (Équilibre, Mouvement) | Base Mana (Réflexe) | Équilibre surnaturel, course sur les murs, sauts impossibles |
+| **Saboteur** (Saboteur) | Base Mana (Perturbation) | Pyromana (Ignition) | Amélioration des pièges, manipulation mécanique, détonations contrôlées |
 
-Rogues typically achieve 50-70% specialization efficiency with their primary affinities, striking a balance between the focused specialization of mages and the practical application of warriors. This middle ground reflects their adaptable nature and diverse skill set.
+Les voleurs atteignent généralement une efficacité de spécialisation de 50 à 70 % avec leurs affinités primaires, trouvant un équilibre entre la spécialisation ciblée des mages et l'application pratique des guerriers. Ce terrain d'entente reflète leur nature adaptable et leur ensemble de compétences diversifié.
 
-### Species-Specific Variations
+### Variations spécifiques à l'espèce
 
-Different species show varying natural inclinations toward the rogue class:
+Différentes espèces présentent des inclinations naturelles variables envers la classe de voleur :
 
-- **Humans** (30-45% Exanthis, 35-45% Soul, 15-30% Mana Capacity): Their adaptability makes them versatile rogues capable of mastering various specializations.
-- **Elves** (25-40% Exanthis, 30-45% Soul, 25-40% Mana Capacity): Their natural grace and enhanced senses make them exceptional infiltrators and scouts.
-- **Halflings** (30-45% Exanthis, 40-55% Soul, 10-25% Mana Capacity): Their small size and heightened luck make them natural burglars and opportunists.
-- **Kitsune** (25-40% Exanthis, 35-50% Soul, 20-35% Mana Capacity): Their innate affinity for trickery and illusion makes them masterful deceivers.
-- **Changelings** (30-45% Exanthis, 25-40% Soul, 25-40% Mana Capacity): Their natural shapeshifting abilities make them unparalleled infiltrators and spies.
+- **Humans** (Humains) (30-45% Exanthis, 35-45% Soul (Âme), 15-30% Mana Capacity (Capacité de mana)): Leur adaptabilité en fait des voleurs polyvalents capables de maîtriser diverses spécialisations.
+- **Elves** (Elfes) (25-40% Exanthis, 30-45% Soul (Âme), 25-40% Mana Capacity (Capacité de mana)): Leur grâce naturelle et leurs sens aiguisés en font des infiltrateurs et des éclaireurs exceptionnels.
+- **Halflings** (Halfelins) (30-45% Exanthis, 40-55% Soul (Âme), 10-25% Mana Capacity (Capacité de mana)): Leur petite taille et leur chance accrue en font des cambrioleurs et des opportunistes naturels.
+- **Kitsune** (25-40% Exanthis, 35-50% Soul (Âme), 20-35% Mana Capacity (Capacité de mana)) : Leur affinité innée pour la ruse et l'illusion en fait des trompeurs magistraux.
+- **Changelings** (Métamorphes) (30-45% Exanthis, 25-40% Soul (Âme), 25-40% Mana Capacity (Capacité de mana)) : Leurs capacités de métamorphose naturelles en font des infiltrateurs et des espions inégalés.
 
-## Physical Characteristics
+## Caractéristiques physiques
 
-**Rogues** are known for their agility and stealth:
-- Lean build with quick reflexes, like a dancer's graceful movements
-- Eyes that dart with alertness, showing their connection to [**Soul**](/codex/Basic/Soul.md)
-- Hands that have mastered the art of precision, like a musician who has perfected the art of the flute
-- Presence that can be both commanding and nearly invisible, like a melody that can be bold or whisper-soft
-- Stance that emphasizes balance and readiness, like a performer poised to move in any direction
+Les **rogues** (voleurs) sont connus pour leur agilité et leur furtivité :
+- Corpulence mince avec des réflexes rapides, comme les mouvements gracieux d'un danseur
+- Des yeux qui regardent avec vivacité, montrant leur connexion à [**Soul**](/codex/Basic/Soul.md) (Âme)
+- Des mains qui ont maîtrisé l'art de la précision, comme un musicien qui a perfectionné l'art de la flûte
+- Une présence qui peut être à la fois imposante et presque invisible, comme une mélodie qui peut être audacieuse ou murmurée
+- Une posture qui met l'accent sur l'équilibre et la disponibilité, comme un interprète prêt à bouger dans n'importe quelle direction
 
-## Stealth Affinity
+## Affinité furtive
 
-**Rogues** demonstrate exceptional proficiency in stealth and precision, like virtuoso musicians who have mastered the art of subtlety. Their composition allows them to:
-- Move silently and unseen, like shadows that slip through the night
-- Strike with precision and timing, like a musician hitting the perfect note
-- Navigate complex environments with grace, like dancers performing an intricate routine
+Les **rogues** (voleurs) font preuve d'une compétence exceptionnelle en matière de furtivité et de précision, comme des musiciens virtuoses qui ont maîtrisé l'art de la subtilité. Leur composition leur permet de :
+- Se déplacer silencieusement et sans être vu, comme des ombres qui se faufilent dans la nuit
+- Frapper avec précision et timing, comme un musicien qui frappe la note parfaite
+- Naviguer dans des environnements complexes avec grâce, comme des danseurs exécutant une routine complexe
 
-This specialization makes **rogues** capable of achieving the highest levels of proficiency in their chosen stealth techniques, though they may struggle with tasks requiring brute strength or powerful magic, like a delicate instrument that produces beautiful sounds but cannot match the power of a drum.
+Cette spécialisation rend les **rogues** (voleurs) capables d'atteindre les plus hauts niveaux de compétence dans leurs techniques de furtivité choisies, bien qu'ils puissent avoir des difficultés avec des tâches nécessitant une force brute ou une magie puissante, comme un instrument délicat qui produit de beaux sons mais ne peut pas égaler la puissance d'un tambour.
 
-## Training and Development
+## Formation et développement
 
-The path of a **rogue** involves rigorous stealth training and mental discipline:
-- Daily practice in moving silently and unseen, like musicians practicing the art of pianissimo
-- Study of anatomy and weak points, like learning the theory behind a perfect strike
-- Meditation to develop focus and awareness, like finding the quiet center before a performance
-- Practice in deception and misdirection, like artists mastering the art of illusion
+Le chemin d'un **rogue** (voleur) implique une formation rigoureuse en furtivité et une discipline mentale :
+- Pratique quotidienne pour se déplacer silencieusement et sans être vu, comme des musiciens pratiquant l'art du pianissimo
+- Étude de l'anatomie et des points faibles, comme apprendre la théorie derrière une frappe parfaite
+- Méditation pour développer la concentration et la conscience, comme trouver le centre calme avant une représentation
+- Pratique de la tromperie et de la désorientation, comme des artistes maîtrisant l'art de l'illusion
 
-## Equipment and Gear
+## Équipement et engins
 
-**Rogues** rely on various equipment to enhance their stealth and precision:
-- Light weapons designed for quick strikes, like different instruments for different performances
-- Stealth gear such as cloaks, boots, and tools, like accessories that enhance an instrument's capabilities
-- Precision tools such as lockpicks, traps, and poisons, like specialized instruments for specific tasks
+Les **rogues** (voleurs) comptent sur divers équipements pour améliorer leur furtivité et leur précision :
+- Armes légères conçues pour des frappes rapides, comme différents instruments pour différentes performances
+- Équipement de furtivité tel que des capes, des bottes et des outils, comme des accessoires qui améliorent les capacités d'un instrument
+- Outils de précision tels que des crochets de serrure, des pièges et des poisons, comme des instruments spécialisés pour des tâches spécifiques
 
-## Subclasses
+## Sous-classes
 
-**Rogues** can specialize in various stealth and precision techniques:
+Les **rogues** (voleurs) peuvent se spécialiser dans diverses techniques de furtivité et de précision :
 
-### [**Assassin**](/codex/Classes/Rogue/Assassin.md)
+### [**Assassin**](/codex/Classes/Rogue/Assassin.md) (Assassin)
 
-Assassins focus on eliminating targets without detection, emphasizing the art of the silent kill. They excel at:
-- Tracking and stalking targets
-- Delivering致命一击 with precision
-- Remaining undetected before and after the kill
+Les assassins se concentrent sur l'élimination de cibles sans être détectés, en mettant l'accent sur l'art de la mise à mort silencieuse. Ils excellent à :
+- Suivre et traquer des cibles
+- Asséner des coups mortels avec précision
+- Rester indétectable avant et après la mise à mort
 
-### [**Scout**](/codex/Classes/Rogue/Scout.md)
+### [**Scout**](/codex/Classes/Rogue/Scout.md) (Éclaireur)
 
-Scouts focus on gathering information and navigating unknown territories, emphasizing observation and exploration. They excel at:
-- Moving unseen through dangerous areas
-- Gathering intelligence without detection
-- Finding safe paths through hazardous environments
+Les éclaireurs se concentrent sur la collecte d'informations et la navigation dans des territoires inconnus, en mettant l'accent sur l'observation et l'exploration. Ils excellent à :
+- Se déplacer sans être vu dans des zones dangereuses
+- Recueillir des renseignements sans être détecté
+- Trouver des chemins sûrs à travers des environnements dangereux
 
-### [**Trickster**](/codex/Classes/Rogue/Trickster.md)
+### [**Trickster**](/codex/Classes/Rogue/Trickster.md) (Filou)
 
-Tricksters focus on deception and misdirection, emphasizing the art of the con. They excel at:
-- Creating and maintaining false identities
-- Manipulating others through charm and wit
-- Executing elaborate schemes and cons
+Les filous se concentrent sur la tromperie et la désorientation, en mettant l'accent sur l'art de l'arnaque. Ils excellent à :
+- Créer et maintenir de fausses identités
+- Manipuler les autres par le charme et l'esprit
+- Exécuter des stratagèmes et des arnaques élaborés
 
-### [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md)
+### [**Shadowblade**](/codex/Classes/Rogue/Shadowblade.md) (Lame d'ombre)
 
-Shadowblades focus on blending stealth with combat, emphasizing the art of the surprise attack. They excel at:
-- Initiating combat from stealth
-- Using shadows and darkness to their advantage
-- Striking quickly and disappearing
+Les lames d'ombre se concentrent sur la fusion de la furtivité avec le combat, en mettant l'accent sur l'art de l'attaque surprise. Ils excellent à :
+- Initier le combat depuis la furtivité
+- Utiliser les ombres et l'obscurité à leur avantage
+- Frapper rapidement et disparaître
 
-### [**Spy**](/codex/Classes/Rogue/Spy.md)
+### [**Spy**](/codex/Classes/Rogue/Spy.md) (Espion)
 
-Spies focus on infiltration and intelligence gathering, emphasizing the art of the deep cover. They excel at:
-- Infiltrating enemy organizations
-- Gathering sensitive information
-- Maintaining cover identities for extended periods
+Les espions se concentrent sur l'infiltration et la collecte de renseignements, en mettant l'accent sur l'art de la couverture profonde. Ils excellent à :
+- Infiltrer des organisations ennemies
+- Recueillir des informations sensibles
+- Maintenir des identités de couverture pendant de longues périodes
 
-## Notable Rogue Traits
+## Traits notables des voleurs
 
-- **Stealth Mastery**: Rogues excel in moving unseen and unheard, often specializing in specific stealth techniques
-- **Precision Strikes**: Rogues can deliver精确打击 with exceptional accuracy
-- **Perception**: Rogues develop keen senses and awareness through stealth training
-- **Adaptability**: Rogues can quickly adapt to changing situations and environments
-- **Discipline**: Rogues maintain rigorous training regimens to maintain their stealth abilities
+- **Stealth Mastery** (Maîtrise de la furtivité) : Les voleurs excellent dans le déplacement sans être vus ni entendus, se spécialisant souvent dans des techniques de furtivité spécifiques
+- **Precision Strikes** (Frappes de précision) : Les voleurs peuvent asséner des frappes de précision avec une précision exceptionnelle
+- **Perception** (Perception) : Les voleurs développent des sens aiguisés et une conscience accrue grâce à la formation à la furtivité
+- **Adaptability** (Adaptabilité) : Les voleurs peuvent s'adapter rapidement aux situations et aux environnements changeants
+- **Discipline** (Discipline) : Les voleurs maintiennent des régimes d'entraînement rigoureux pour maintenir leurs capacités de furtivité
 
-## Rogue Guilds
+## Guildes de voleurs
 
-Rogue society is organized into numerous guilds, each with its own specialties and techniques:
+La société des voleurs est organisée en de nombreuses guildes, chacune ayant ses propres spécialités et techniques :
 
-| Guild | Specialty | Territory | Notable Traits |
+| Guild (Guilde) | Specialty (Spécialité) | Territory (Territoire) | Notable Traits (Traits notables) |
 |---------|---------------|---------|-------------------|
-| **Shadow Network** | Information gathering, espionage | Urban centers | Information brokering, espionage |
-| **Silent Blades** | Assassination, elimination | Various locations | Silent kills, target elimination |
-| **Trickster's Guild** | Deception, confidence games | Urban centers | Confidence schemes, deception |
-| **Night Walkers** | Stealth, infiltration | Various locations | Stealth techniques, infiltration |
-| **Shadow Scouts** | Exploration, reconnaissance | Wilderness regions | Exploration, reconnaissance |
-| **Veiled Daggers** | Combat from stealth, shadow fighting | Various locations | Stealth combat, shadow techniques |
+| **Shadow Network** (Réseau de l'ombre) | Recueil d'informations, espionnage | Centres urbains | Courtage d'informations, espionnage |
+| **Silent Blades** (Lames silencieuses) | Assassinat, élimination | Divers lieux | Mises à mort silencieuses, élimination de cibles |
+| **Trickster's Guild** (Guilde des filous) | Tromperie, jeux de confiance | Centres urbains | Stratagèmes de confiance, tromperie |
+| **Night Walkers** (Marcheurs de la nuit) | Furtivité, infiltration | Divers lieux | Techniques de furtivité, infiltration |
+| **Shadow Scouts** (Éclaireurs de l'ombre) | Exploration, reconnaissance | Régions sauvages | Exploration, reconnaissance |
+| **Veiled Daggers** (Dagues voilées) | Combat furtif, combat d'ombre | Divers lieux | Combat furtif, techniques d'ombre |
 
-Understanding the nature of **rogues** provides insight into the subtle aspects of the world of **OpenFantasy**, like listening to the quiet melodies that move unseen through the symphony of existence. 
+Comprendre la nature des **rogues** (voleurs) permet de mieux comprendre les aspects subtils du monde d'**OpenFantasy**, comme écouter les mélodies tranquilles qui se déplacent sans être vues à travers la symphonie de l'existence.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

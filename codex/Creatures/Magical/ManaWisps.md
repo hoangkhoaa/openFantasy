@@ -1,187 +1,191 @@
-# **Mana Wisps**: Sentient Manifestations of Pure Magical Energy
+# **Mana Wisps** (Feux follets de mana) : Manifestations sensibles d'énergie magique pure
 
-> *"Like living thoughts of magic itself, Wisps dance at the edge of perception, embodying the purest expression of mana's will to exist."* — Archmage Elara Lumestriel
+> *"Tels des pensées vivantes de la magie elle-même, les feux follets dansent à la limite de la perception, incarnant l'expression la plus pure de la volonté du mana d'exister."* — Archimage Elara Lumestriel
 
-## Quick Navigation
+## Navigation rapide
 
-- [Elemental Composition](#elemental-composition)
-- [Physical Characteristics](#physical-characteristics)
-- [Magical Affinity](#magical-affinity)
-- [Habitat and Distribution](#habitat-and-distribution)
-- [Behavioral Patterns](#behavioral-patterns)
-- [Species Relationships](#species-relationships)
+- [Composition élémentaire](#elemental-composition)
+- [Caractéristiques physiques](#physical-characteristics)
+- [Affinité magique](#magical-affinity)
+- [Habitat et distribution](#habitat-and-distribution)
+- [Modèles de comportement](#behavioral-patterns)
+- [Relations entre espèces](#species-relationships)
 
-## Overview
+## Aperçu
 
-Mana Wisps are rare, ephemeral beings that exist as direct manifestations of nearly pure Base Mana that has achieved consciousness. Unlike most magical creatures, Wisps are not born through biological processes but form spontaneously in areas with exceptionally high magical saturation, particularly near ley line convergences, ancient ritual sites, or in the aftermath of powerful magical events. They represent the threshold where magical energy gains sufficient complexity to develop self-awareness, existing as living embodiments of the fundamental magical principles that govern OpenFantasy.
+Les Mana Wisps (Feux follets de mana) sont des êtres rares et éphémères qui existent en tant que manifestations directes de Base Mana (Mana de base) presque pure qui a atteint la conscience. Contrairement à la plupart des créatures magiques, les feux follets ne naissent pas par des processus biologiques, mais se forment spontanément dans des zones à saturation magique exceptionnellement élevée, en particulier près des convergences de lignes de faille, des sites rituels anciens ou à la suite d'événements magiques puissants. Ils représentent le seuil où l'énergie magique acquiert une complexité suffisante pour développer une conscience de soi, existant en tant qu'incarnations vivantes des principes magiques fondamentaux qui régissent OpenFantasy.
 
-## Elemental Composition
+## Composition élémentaire
 
-**Mana Wisps** possess an elemental composition unlike any other known beings:
+Les **Mana Wisps** (Feux follets de mana) possèdent une composition élémentaire différente de celle de tous les autres êtres connus :
 
-| Exanthis | Soul | Mana Capacity | Representative Type |
+| Exanthis | Âme | Capacité de mana | Type représentatif |
 |----------|------|---------------|---------------------|
-| 1-5% | 10-15% | 80-90% | Standard Wisp |
-| 0-2% | 8-10% | 88-92% | **Pure Wisp** with heightened magical sensitivity |
-| 3-7% | 15-20% | 75-85% | **Stable Wisp** with greater physicality and longevity |
-| 5-10% | 5-10% | 80-90% | **Elemental Wisp** with strong affinity to specific elements |
+| 1-5% | 10-15% | 80-90% | Feu follet standard |
+| 0-2% | 8-10% | 88-92% | **Pure Wisp** (Feu follet pur) avec une sensibilité magique accrue |
+| 3-7% | 15-20% | 75-85% | **Stable Wisp** (Feu follet stable) avec une plus grande physicalité et longévité |
+| 5-10% | 5-10% | 80-90% | **Elemental Wisp** (Feu follet élémentaire) avec une forte affinité pour des éléments spécifiques |
 
-### Individual Variations
+### Variations individuelles
 
-While all Mana Wisps share a core nature of extremely high Mana Capacity and minimal physical form, their individual manifestations vary based on the magical conditions that birthed them. Wisps formed near elemental sources tend to adopt qualities of that element, while those born from ritual magic often reflect the spell's purpose. The oldest Wisps gradually develop stronger Soul components, gaining deeper consciousness and the ability to form more complex thoughts and relationships.
+Bien que tous les Mana Wisps (Feux follets de mana) partagent une nature fondamentale de très haute Capacité de mana et une forme physique minimale, leurs manifestations individuelles varient en fonction des conditions magiques qui les ont engendrés. Les feux follets formés près de sources élémentaires ont tendance à adopter les qualités de cet élément, tandis que ceux nés de la magie rituelle reflètent souvent le but du sort. Les feux follets les plus anciens développent progressivement des composantes d'Âme plus fortes, acquérant une conscience plus profonde et la capacité de former des pensées et des relations plus complexes.
 
-## Physical Characteristics
+## Caractéristiques physiques
 
-**Mana Wisps** exhibit distinctive physical traits:
+Les **Mana Wisps** (Feux follets de mana) présentent des traits physiques distinctifs :
 
-| Characteristic | Description |
+| Caractéristique | Description |
 |----------------|-------------|
-| **Size** | Typically 4-12 inches in diameter |
-| **Weight** | Virtually none (0.01-0.1 ounces) |
-| **Lifespan** | Variable; typically 3-12 years, though some ancient specimens have existed for centuries |
-| **Physical Maturity** | Instantaneous upon formation |
-| **Notable Features** | Luminous core surrounded by shifting, translucent energy patterns |
+| **Size** (Taille) | Généralement 4-12 pouces de diamètre |
+| **Weight** (Poids) | Pratiquement nul (0,01-0,1 once) |
+| **Lifespan** (Durée de vie) | Variable ; généralement 3-12 ans, bien que certains spécimens anciens aient existé pendant des siècles |
+| **Physical Maturity** (Maturité physique) | Instantanée lors de la formation |
+| **Notable Features** (Caractéristiques notables) | Noyau lumineux entouré de motifs énergétiques changeants et translucides |
 
-### Appearance
+### Apparence
 
-- **Luminescence**: Emit soft, pulsating light reflecting their emotional state
-- **Chromatic Variation**: Color correlates with their dominant elemental affinity
-- **Patterned Movement**: Energy flow forms consistent patterns unique to each individual
-- **Translucent Body**: Core structure visible through semi-transparent outer layers
-- **Adaptive Form**: Can compress or expand slightly based on environmental conditions
+- **Luminescence** : Émettent une lumière douce et pulsée reflétant leur état émotionnel
+- **Chromatic Variation** (Variation chromatique) : La couleur correspond à leur affinité élémentaire dominante
+- **Patterned Movement** (Mouvement à motifs) : Le flux d'énergie forme des motifs cohérents propres à chaque individu
+- **Translucent Body** (Corps translucide) : Structure centrale visible à travers des couches externes semi-transparentes
+- **Adaptive Form** (Forme adaptative) : Peut se comprimer ou se dilater légèrement en fonction des conditions environnementales
 
-## Magical Affinity
+## Affinité magique
 
-**Mana Wisps** demonstrate extraordinary proficiency in manipulating **Mana**:
+Les **Mana Wisps** (Feux follets de mana) font preuve d'une extraordinaire compétence dans la manipulation du **Mana** :
 
-| Aspect | Capability |
+| Aspect | Capacité |
 |--------|------------|
-| **Mana Storage** | Exceptional (equivalent to 85-95% capacity beings despite small size) |
-| **Purification** | Extraordinary (natural 95%+ purity of Base Mana) |
-| **Specialization Efficiency** | Exceptional (80-90% conversion efficiency) |
-| **Natural Affinity** | Base Mana primarily; secondary affinity varies by individual |
+| **Mana Storage** (Stockage de mana) | Exceptionnel (équivalent à des êtres de 85 à 95 % de capacité malgré leur petite taille) |
+| **Purification** | Extraordinaire (pureté naturelle de 95 % et plus de Base Mana (Mana de base)) |
+| **Specialization Efficiency** (Efficacité de spécialisation) | Exceptionnelle (efficacité de conversion de 80 à 90 %) |
+| **Natural Affinity** (Affinité naturelle) | Base Mana (Mana de base) principalement ; l'affinité secondaire varie selon l'individu |
 
-### Magical Specializations
+### Spécialisations magiques
 
-While **Mana Wisps** can manifest various forms of magic, they often excel in:
+Bien que les **Mana Wisps** (Feux follets de mana) puissent manifester diverses formes de magie, ils excellent souvent dans :
 
-- **Mana Sensing**: Ability to detect subtle variations in magical fields with extraordinary precision
-- **Energy Transference**: Can absorb, store, and release pure magical energy with minimal loss
-- **Resonance Manipulation**: Instinctively harmonize with and modify magical frequencies
-- **Pattern Recognition**: Intuitive understanding of spell patterns and magical structures
+- **Mana Sensing** (Détection du mana) : Capacité à détecter des variations subtiles dans les champs magiques avec une précision extraordinaire
+- **Energy Transference** (Transfert d'énergie) : Peut absorber, stocker et libérer de l'énergie magique pure avec une perte minimale
+- **Resonance Manipulation** (Manipulation de la résonance) : S'harmoniser instinctivement avec les fréquences magiques et les modifier
+- **Pattern Recognition** (Reconnaissance de formes) : Compréhension intuitive des schémas de sorts et des structures magiques
 
-### Unique Magical Traits
+### Traits magiques uniques
 
-- **Phase Shifting**: Can temporarily shift between material existence and pure energy state
-- **Mana Communion**: Ability to directly communicate with other magical beings through mana resonance
-- **Wild Mana Purification**: Natural ability to convert Wild Mana to Base Mana with exceptional efficiency
-- **Magical Symbiosis**: Can form beneficial connections with compatible spellcasters
+- **Phase Shifting** (Déphasage) : Peut temporairement passer de l'existence matérielle à l'état d'énergie pure
+- **Mana Communion** (Communion de mana) : Capacité à communiquer directement avec d'autres êtres magiques par la résonance du mana
+- **Wild Mana Purification** (Purification du mana sauvage) : Capacité naturelle à convertir le Wild Mana (Mana sauvage) en Base Mana (Mana de base) avec une efficacité exceptionnelle
+- **Magical Symbiosis** (Symbiose magique) : Peut former des connexions bénéfiques avec des lanceurs de sorts compatibles
 
-## Habitat and Distribution
+## Habitat et distribution
 
-**Mana Wisps** typically inhabit areas with high magical concentration:
+Les **Mana Wisps** (Feux follets de mana) habitent généralement des zones à forte concentration magique :
 
-| Region | Settlement Type | Notable Features |
+| Région | Type d'établissement | Caractéristiques notables |
 |--------|----------------|------------------|
-| **Ley Line Confluences** | Temporary gatherings | Highest concentration, cyclical migration patterns |
-| **Ancient Magical Sites** | Small, stable colonies | Long-term residence, often serving as site guardians |
-| **Wizard Towers/Academies** | Symbiotic relationships | Living in mutually beneficial association with mages |
-| **Fae Realm Borders** | Threshold communities | Facilitating energy exchange between realms |
+| **Ley Line Confluences** (Confluences de lignes de faille) | Rassemblements temporaires | Concentration la plus élevée, schémas de migration cycliques |
+| **Ancient Magical Sites** (Anciens sites magiques) | Petites colonies stables | Résidence à long terme, servant souvent de gardiens du site |
+| **Wizard Towers/Academies** (Tours/Académies de sorciers) | Relations symbiotiques | Vivre en association mutuellement bénéfique avec des mages |
+| **Fae Realm Borders** (Frontières du royaume féérique) | Communautés de seuil | Faciliter l'échange d'énergie entre les royaumes |
 
-### Magical Environment Adaptation
+### Adaptation à l'environnement magique
 
-Mana Wisps require environments rich in ambient magical energy to sustain themselves. Unlike most beings that draw Wild Mana from their surroundings to convert into Base Mana internally, Wisps exist in a constant state of energy exchange with their environment. This makes them extremely sensitive to changes in magical fields and vulnerable to areas of low magical saturation, where they can quickly weaken and eventually dissipate.
+Les Mana Wisps (Feux follets de mana) ont besoin d'environnements riches en énergie magique ambiante pour se maintenir. Contrairement à la plupart des êtres qui tirent le Wild Mana (Mana sauvage) de leur environnement pour le convertir en Base Mana (Mana de base) en interne, les feux follets existent dans un état constant d'échange d'énergie avec leur environnement. Cela les rend extrêmement sensibles aux changements dans les champs magiques et vulnérables aux zones de faible saturation magique, où ils peuvent rapidement s'affaiblir et finir par se dissiper.
 
-## Behavioral Patterns
+## Modèles de comportement
 
-Despite lacking complex biological brains, Mana Wisps display distinct behavioral patterns that suggest sophisticated consciousness:
+Bien qu'ils soient dépourvus de cerveaux biologiques complexes, les Mana Wisps (Feux follets de mana) affichent des schémas de comportement distincts qui suggèrent une conscience sophistiquée :
 
-### Intelligence and Communication
+### Intelligence et communication
 
-- **Non-verbal Consciousness**: Possess intelligence without traditional thought structures
-- **Light Pattern Language**: Communicate through pulses, color shifts, and movement patterns
-- **Magical Resonance Dialogue**: Can "speak" directly to magically sensitive beings through mana fluctuations
-- **Collective Memory**: Access shared knowledge when gathered in groups
+- **Non-verbal Consciousness** (Conscience non verbale) : Possèdent une intelligence sans structures de pensée traditionnelles
+- **Light Pattern Language** (Langage des motifs lumineux) : Communiquent par des impulsions, des changements de couleur et des schémas de mouvement
+- **Magical Resonance Dialogue** (Dialogue par résonance magique) : Peut "parler" directement à des êtres magiquement sensibles par des fluctuations de mana
+- **Collective Memory** (Mémoire collective) : Accéder aux connaissances partagées lorsqu'ils sont réunis en groupes
 
-### Social Structure
+### Structure sociale
 
-Wisps typically exist in loose collective arrangements called "illuminations":
+Les feux follets existent généralement dans des arrangements collectifs lâches appelés "illuminations" :
 
-| Group Size | Structure | Purpose |
+| Taille du groupe | Structure | But |
 |------------|-----------|---------|
-| 1-3 Wisps | Solitary/Pair | Exploration, specialized magical functions |
-| 5-12 Wisps | Cluster | Standard social unit, mutual protection |
-| 20-50 Wisps | Illumination | Full community with specialized roles |
-| 100+ Wisps | Brilliance | Rare gatherings with heightened collective intelligence |
+| 1-3 Wisps (Feux follets) | Solitaire/Paire | Exploration, fonctions magiques spécialisées |
+| 5-12 Wisps (Feux follets) | Groupe | Unité sociale standard, protection mutuelle |
+| 20-50 Wisps (Feux follets) | Illumination | Communauté complète avec des rôles spécialisés |
+| 100+ Wisps (Feux follets) | Brilliance (Brillance) | Rassemblements rares avec une intelligence collective accrue |
 
-### Life Cycle
+### Cycle de vie
 
-1. **Coalescence**: Spontaneous formation from concentrated ambient mana
-2. **Awakening**: Development of self-awareness and individual identity
-3. **Maturation**: Gradual stabilization and growth of mental complexity
-4. **Specialization**: Development of specific magical affinities and skills
-5. **Diffusion**: Eventually disperse back into pure magical energy or, rarely, ascend to higher forms
+1. **Coalescence** : Formation spontanée à partir de mana ambiant concentré
+2. **Awakening** (Éveil) : Développement de la conscience de soi et de l'identité individuelle
+3. **Maturation** : Stabilisation progressive et croissance de la complexité mentale
+4. **Specialization** (Spécialisation) : Développement d'affinités et de compétences magiques spécifiques
+5. **Diffusion** : Finit par se disperser dans l'énergie magique pure ou, rarement, s'élève vers des formes supérieures
 
-## Species Relationships
+## Relations entre espèces
 
-**Mana Wisps** interact with other species in distinctive ways:
+Les **Mana Wisps** (Feux follets de mana) interagissent avec d'autres espèces de manière distinctive :
 
-| Species | Relationship | Notable Interactions |
+| Espèce | Relation | Interactions notables |
 |---------|--------------|----------------------|
-| **Arcane Spellcasters** | Mutually Beneficial | Can serve as familiars, mana monitors, or spell assistants |
-| **Fae** | General Affinity | Natural understanding and communication |
-| **Elementals** | Respectful Coexistence | Recognition of shared non-biological nature |
-| **Sentient Plants** | Symbiotic | Often provide growth energy in exchange for protection |
-| **Humans** | Cautious Curiosity | Interest in human magic, wariness of exploitation |
-| **Shadowfolk** | Opposing Energies | Natural tension due to contrasting magical natures |
+| **Arcane Spellcasters** (Lanceurs de sorts arcaniques) | Mutuellement bénéfique | Peut servir de familier, de moniteur de mana ou d'assistant de sorts |
+| **Fae** (Fées) | Affinité générale | Compréhension et communication naturelles |
+| **Elementals** (Élémentaires) | Coexistence respectueuse | Reconnaissance de la nature non biologique partagée |
+| **Sentient Plants** (Plantes sensibles) | Symbiotique | Fournissent souvent de l'énergie de croissance en échange d'une protection |
+| **Humans** (Humains) | Curiosité prudente | Intérêt pour la magie humaine, méfiance à l'égard de l'exploitation |
+| **Shadowfolk** (Gens de l'ombre) | Énergies opposées | Tension naturelle due à des natures magiques contrastées |
 
-### Magical Symbiosis
+### Symbiose magique
 
-Mana Wisps can form uniquely beneficial relationships with spellcasters who earn their trust:
+Les Mana Wisps (Feux follets de mana) peuvent former des relations particulièrement bénéfiques avec les lanceurs de sorts qui gagnent leur confiance :
 
-- **Mana Purification**: Help improve a caster's Phase 2 conversion efficiency
-- **Wild Mana Filtration**: Assist in converting dangerous concentrations of Wild Mana
-- **Spell Stabilization**: Lend their natural resonance to enhance spell pattern stability
-- **Energy Conservation**: Reduce mana wastage in complex castings
+- **Mana Purification** (Purification du mana) : Aider à améliorer l'efficacité de la conversion de Phase 2 d'un lanceur
+- **Wild Mana Filtration** (Filtration du mana sauvage) : Aider à convertir les concentrations dangereuses de Wild Mana (Mana sauvage)
+- **Spell Stabilization** (Stabilisation des sorts) : Prêter leur résonance naturelle pour améliorer la stabilité des schémas de sorts
+- **Energy Conservation** (Conservation de l'énergie) : Réduire le gaspillage de mana dans les lancers complexes
 
-## Notable Traits
+## Traits notables
 
-**Mana Wisps** are characterized by several distinctive traits:
+Les **Mana Wisps** (Feux follets de mana) sont caractérisés par plusieurs traits distinctifs :
 
-### Strengths
+### Points forts
 
-- **Magical Purity**: Natural 95%+ mana purity without effort
-- **Elemental Versatility**: Ability to work with all forms of elemental mana
-- **Pattern Intelligence**: Intuitive understanding of magical structures
-- **Energy Sensitivity**: Can detect subtle magical disturbances
-- **Environmental Adaptability**: Can adjust their resonance to match surroundings
+- **Magical Purity** (Pureté magique) : Pureté naturelle du mana à 95 % et plus sans effort
+- **Elemental Versatility** (Polyvalence élémentaire) : Capacité à travailler avec toutes les formes de mana élémentaire
+- **Pattern Intelligence** (Intelligence des formes) : Compréhension intuitive des structures magiques
+- **Energy Sensitivity** (Sensibilité à l'énergie) : Peut détecter de subtiles perturbations magiques
+- **Environmental Adaptability** (Adaptabilité environnementale) : Peut ajuster leur résonance pour correspondre à l'environnement
 
-### Challenges
+### Défis
 
-- **Physical Vulnerability**: Almost no physical substance to resist damage
-- **Energy Dependency**: Require constant access to magical energy sources
-- **Communication Limitations**: Difficulty conveying complex concepts to non-magical beings
-- **Existence Fragility**: Risk of dissipation when exposed to anti-magical effects
+- **Physical Vulnerability** (Vulnérabilité physique) : Presque aucune substance physique pour résister aux dommages
+- **Energy Dependency** (Dépendance à l'énergie) : Nécessite un accès constant à des sources d'énergie magique
+- **Communication Limitations** (Limites de communication) : Difficulté à transmettre des concepts complexes à des êtres non magiques
+- **Existence Fragility** (Fragilité de l'existence) : Risque de dissipation en cas d'exposition à des effets anti-magiques
 
-## Practical Applications and Interactions
+## Applications pratiques et interactions
 
-### Research Value
+### Valeur de la recherche
 
-Mana Wisps provide invaluable insights into fundamental magical principles:
+Les Mana Wisps (Feux follets de mana) fournissent des informations précieuses sur les principes magiques fondamentaux :
 
-- **Living Demonstrations** of the Base Mana to Elemental Mana conversion process
-- **Natural Models** of optimal mana specialization efficiency
-- **Observable Examples** of consciousness emerging from magical energy
+- **Living Demonstrations** (Démonstrations vivantes) du processus de conversion du Base Mana (Mana de base) en Elemental Mana (Mana élémentaire)
+- **Natural Models** (Modèles naturels) d'efficacité optimale de la spécialisation du mana
+- **Observable Examples** (Exemples observables) de la conscience émergeant de l'énergie magique
 
-### Magical Practice Integration
+### Intégration de la pratique magique
 
-Advanced mages work with Wisps in several capacities:
+Les mages avancés travaillent avec les feux follets de plusieurs façons :
 
-- **Spell Diagnostics**: Identify flaws in magical pattern construction
-- **Mana Source Identification**: Locate optimal positions for ritual sites
-- **Purification Assistance**: Enhance mana purification during complex workings
-- **Wild Mana Stabilization**: Help contain dangerous magical phenomena
+- **Spell Diagnostics** (Diagnostic des sorts) : Identifier les défauts dans la construction des schémas magiques
+- **Mana Source Identification** (Identification des sources de mana) : Localiser les positions optimales pour les sites rituels
+- **Purification Assistance** (Assistance à la purification) : Améliorer la purification du mana lors de travaux complexes
+- **Wild Mana Stabilization** (Stabilisation du mana sauvage) : Aider à contenir les phénomènes magiques dangereux
 
 ---
 
-> Understanding **Mana Wisps** provides unique insight into the living potential of magical energy in its purest form, offering a window into the fundamental relationship between consciousness and mana that underpins all magical practice in OpenFantasy. 
+> La compréhension des **Mana Wisps** (Feux follets de mana) donne un aperçu unique du potentiel vivant de l'énergie magique dans sa forme la plus pure, offrant une fenêtre sur la relation fondamentale entre la conscience et le mana qui sous-tend toute pratique magique dans OpenFantasy.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

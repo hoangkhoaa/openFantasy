@@ -1,159 +1,163 @@
-# **Dark Elves**: The Shadowed Kin of the Elves
+# **Dark Elves** (Elfes Noirs) : Les parents ombragés des Elfes
 
-[**Dark Elves**](/codex/Creatures/DarkElves.md) are the shadowed kin of the Elves, their bodies a dark harmony of [**Exanthis**](/codex/Basic/Exanthis.md), [**Souls**](/codex/Basic/Soul.md), and **Mana Capacity**. Like a haunting cello, they resonate with the darker aspects of magic, creating a unique melody of existence that bridges the light and shadow realms.
+Les [**Dark Elves**](/codex/Creatures/DarkElves.md) (Elfes Noirs) sont les parents ombragés des Elfes, leurs corps étant une sombre harmonie d'[**Exanthis**](/codex/Basic/Exanthis.md), d'[**Souls**](/codex/Basic/Soul.md) (Âmes), et de **Mana Capacity** (Capacité de Mana). Tels un violoncelle envoûtant, ils résonnent avec les aspects les plus sombres de la magie, créant une mélodie unique d'existence qui relie les royaumes de la lumière et de l'ombre.
 
-## Elemental Composition
+## Elemental Composition (Composition Élémentaire)
 
-As detailed in [Creatures](/codex/Creatures/Creatures.md), the typical ratio for **dark elves** forms a harmony that favors magical potential:
+Comme détaillé dans [Creatures](/codex/Creatures/Creatures.md) (Créatures), le ratio typique pour les **dark elves** (elfes noirs) forme une harmonie qui favorise le potentiel magique :
 
-| Element | Range | Function |
+| Element (Élément) | Range (Plage) | Function (Fonction) |
 |---------|------------|----------|
-| **Exanthis** | 10-35% | The crystalline heart that provides moderate physical strength and grace |
-| **Soul** | 5-25% | The ethereal essence that shapes a focused and intense consciousness |
-| **Mana Capacity** | 50-85% | The bridge between worlds that enables extraordinary magical potential |
+| **Exanthis** | 10-35% | Le cœur cristallin qui fournit une force physique et une grâce modérées |
+| **Soul** (Âme) | 5-25% | L'essence éthérée qui façonne une conscience concentrée et intense |
+| **Mana Capacity** (Capacité de Mana) | 50-85% | Le pont entre les mondes qui permet un potentiel magique extraordinaire |
 
-This composition grants **dark elves** their characteristic magical prowess but limits their physical resilience compared to other species, like a delicate instrument that produces beautiful sounds but must be handled with care.
+Cette composition confère aux **dark elves** (elfes noirs) leurs prouesses magiques caractéristiques, mais limite leur résistance physique par rapport à d'autres espèces, comme un instrument délicat qui produit de beaux sons mais doit être manipulé avec soin.
 
-### Individual Variations
+### Individual Variations (Variations Individuelles)
 
-While the model composition represents the typical dark elf, individual variations exist:
+Bien que la composition du modèle représente l'elfe noir typique, des variations individuelles existent :
 
-- **Void Mages**: Some dark elves possess Mana Capacity as high as 90%, making them among the most powerful spellcasters in existence but physically vulnerable with as little as 5% Exanthis.
-- **Shadow Warriors**: A specialized variant has Exanthis levels approaching 40%, allowing them to excel in physical combat while still maintaining significant magical abilities (45% Mana Capacity).
-- **Soul Binders**: Those with higher Soul percentages (up to 30%) develop exceptional abilities in necromancy and soul manipulation, often becoming powerful death mages or spiritual enslavers.
-- **Balanced Dark Elves**: Some individuals maintain a more balanced composition (25% Exanthis, 15% Soul, 60% Mana Capacity), allowing them to adapt to various roles within dark elf society.
-- **Shadowblades**: A specialized composition of (20% Exanthis, 10% Soul, 70% Mana Capacity) creates dark elves who can weave shadow magic into deadly combat techniques.
+- **Void Mages** (Mages du Vide) : Certains elfes noirs possèdent une **Mana Capacity** (Capacité de Mana) aussi élevée que 90 %, ce qui en fait les lanceurs de sorts les plus puissants qui soient, mais ils sont physiquement vulnérables avec seulement 5 % d'**Exanthis**.
+- **Shadow Warriors** (Guerriers de l'Ombre) : Une variante spécialisée a des niveaux d'**Exanthis** approchant les 40 %, ce qui leur permet d'exceller au combat physique tout en conservant d'importantes capacités magiques (45 % de **Mana Capacity** (Capacité de Mana)).
+- **Soul Binders** (Liants d'Âmes) : Ceux qui ont des pourcentages d'**Soul** (Âme) plus élevés (jusqu'à 30 %) développent des capacités exceptionnelles en nécromancie et en manipulation d'âmes, devenant souvent de puissants mages de la mort ou des esclavagistes spirituels.
+- **Balanced Dark Elves** (Elfes Noirs Équilibrés) : Certains individus maintiennent une composition plus équilibrée (25 % d'**Exanthis**, 15 % d'**Soul** (Âme), 60 % de **Mana Capacity** (Capacité de Mana)), ce qui leur permet de s'adapter à divers rôles au sein de la société des elfes noirs.
+- **Shadowblades** (Lames d'Ombre) : Une composition spécialisée de (20 % d'**Exanthis**, 10 % d'**Soul** (Âme), 70 % de **Mana Capacity** (Capacité de Mana)) crée des elfes noirs capables de tisser la magie de l'ombre dans des techniques de combat mortelles.
 
-## Physical Characteristics
+## Physical Characteristics (Caractéristiques Physiques)
 
-**Dark Elves** are known for their ethereal beauty and shadowy nature:
-- Tall and slender, with proportions that seem to defy reality
-- Eyes that glow with inner darkness, reflecting their connection to shadow magic
-- Skin that ranges from deep purple to obsidian black, often with subtle patterns that seem to shift
-- Hair that flows with an otherworldly grace, often in shades of silver, white, or deep purple
-- Ears that extend into elegant points, attuned to the subtle harmonies of shadow magic
-- Presence that seems to dim the light around them, like a shadow passing over the sun
+Les **Dark Elves** (Elfes Noirs) sont connus pour leur beauté éthérée et leur nature ombrageuse :
+- Grands et minces, avec des proportions qui semblent défier la réalité
+- Des yeux qui brillent d'une obscurité intérieure, reflétant leur connexion à la magie de l'ombre
+- Une peau qui va du violet profond au noir obsidienne, souvent avec des motifs subtils qui semblent changer
+- Des cheveux qui flottent avec une grâce d'un autre monde, souvent dans des tons argentés, blancs ou violets foncés
+- Des oreilles qui s'étendent en pointes élégantes, à l'écoute des harmonies subtiles de la magie de l'ombre
+- Une présence qui semble atténuer la lumière autour d'eux, comme une ombre qui passe sur le soleil
 
-## Magical Affinity
+## Magical Affinity (Affinité Magique)
 
-**Dark Elves** demonstrate exceptional proficiency in shadow magic and necromancy, like virtuoso musicians who have mastered their instruments. Their composition allows them to:
-- Channel shadow magic with extraordinary precision, like conductors of the night's symphony
-- Manipulate the forces of death and decay with unparalleled mastery, like composers who have perfected the art of the macabre
-- Create illusions through the manipulation of light and shadow, like artists painting with darkness
+Les **Dark Elves** (Elfes Noirs) font preuve d'une compétence exceptionnelle en magie de l'ombre et en nécromancie, tels des musiciens virtuoses qui ont maîtrisé leurs instruments. Leur composition leur permet de :
+- Canaliser la magie de l'ombre avec une précision extraordinaire, tels des chefs d'orchestre de la symphonie de la nuit
+- Manipuler les forces de la mort et de la décomposition avec une maîtrise inégalée, tels des compositeurs qui ont perfectionné l'art du macabre
+- Créer des illusions en manipulant la lumière et l'ombre, tels des artistes peignant avec l'obscurité
 
-This specialization makes **dark elves** capable of achieving the highest levels of proficiency in their chosen magical traditions, though they may struggle with tasks requiring physical strength or resilience, like a delicate instrument that produces beautiful sounds but cannot withstand rough handling.
+Cette spécialisation rend les **dark elves** (elfes noirs) capables d'atteindre les plus hauts niveaux de compétence dans leurs traditions magiques choisies, bien qu'ils puissent avoir du mal avec les tâches nécessitant de la force physique ou de la résistance, comme un instrument délicat qui produit de beaux sons mais ne peut pas supporter une manipulation brutale.
 
-## Lifespan and Soul Decay
+## Lifespan and Soul Decay (Durée de Vie et Décomposition de l'Âme)
 
-The **soul decay** timeline for **dark elves**, from birth to complete decay, is approximately 1200 years, like a slow-burning flame that illuminates the ages. This extended lifespan allows them to:
-- Accumulate vast knowledge and wisdom over centuries
-- Develop deep connections to specific places and magical traditions
-- Form complex societies with intricate customs and rituals
+La chronologie de la **soul decay** (décomposition de l'âme) pour les **dark elves** (elfes noirs), de la naissance à la décomposition complète, est d'environ 1200 ans, comme une flamme à combustion lente qui illumine les âges. Cette durée de vie prolongée leur permet de :
+- Accumuler de vastes connaissances et une grande sagesse au fil des siècles
+- Développer des liens profonds avec des lieux et des traditions magiques spécifiques
+- Former des sociétés complexes avec des coutumes et des rituels complexes
 
-However, their slower soul decay also means they change and adapt more slowly than other species, like a melody that remains beautiful but unchanging through the ages.
+Cependant, leur décomposition de l'âme plus lente signifie également qu'ils changent et s'adaptent plus lentement que les autres espèces, comme une mélodie qui reste belle mais immuable à travers les âges.
 
-## Habitat and Distribution
+## Habitat and Distribution (Habitat et Distribution)
 
-**Dark Elves** primarily inhabit:
-- Underground cities and caverns, where they can control the light
-- Dark forests and shadowy groves, where they can be closest to the shadows
-- Magical realms where the boundaries between light and dark grow thin
-- Strategic locations that provide access to both light and shadow
+Les **Dark Elves** (Elfes Noirs) habitent principalement :
+- Des villes et des cavernes souterraines, où ils peuvent contrôler la lumière
+- Des forêts sombres et des bosquets ombragés, où ils peuvent être au plus près des ombres
+- Des royaumes magiques où les frontières entre la lumière et l'obscurité s'amincissent
+- Des emplacements stratégiques qui donnent accès à la lumière et à l'ombre
 
-These locations provide ideal environments for magical study and spiritual contemplation, like perfect acoustics for a symphony.
+Ces lieux offrent des environnements idéaux pour l'étude magique et la contemplation spirituelle, tels une acoustique parfaite pour une symphonie.
 
-## Cultural Impact
+## Cultural Impact (Impact Culturel)
 
-In the world of **OpenFantasy**, **dark elves** play a crucial role in preserving ancient magical traditions and maintaining the balance between light and dark, like weavers of shadowy melodies. Their societies are centers of:
-- Shadow magic and necromancy
-- Artistic expression and aesthetic refinement
-- Diplomatic relations and cultural exchange
+Dans le monde d'**OpenFantasy**, les **dark elves** (elfes noirs) jouent un rôle crucial dans la préservation des anciennes traditions magiques et le maintien de l'équilibre entre la lumière et l'obscurité, tels des tisserands de mélodies ombrageuses. Leurs sociétés sont des centres de :
+- Magie de l'ombre et nécromancie
+- Expression artistique et raffinement esthétique
+- Relations diplomatiques et échanges culturels
 
-The connection to shadows has shaped dark elf culture around the study and mastery of darkness, creating a society where magical ability and beauty are highly valued.
+Le lien avec les ombres a façonné la culture des elfes noirs autour de l'étude et de la maîtrise de l'obscurité, créant une société où la capacité magique et la beauté sont très prisées.
 
-## Relationship with Other Species
+## Relationship with Other Species (Relation avec les Autres Espèces)
 
-**Dark Elves** maintain complex relationships with other species:
-- With [**Humans**](/codex/Creatures/Human.md): A mixture of fascination and disdain, often leading to complex interactions
-- With **Elves**: A deep rivalry based on shared heritage but opposing philosophies
-- With **Dwarves**: A pragmatic alliance based on mutual respect for craftsmanship and power
-- With **Shadowfolk**: A deep connection based on shared appreciation for darkness and shadow magic
+Les **Dark Elves** (Elfes Noirs) entretiennent des relations complexes avec les autres espèces :
+- Avec les [**Humans**](/codex/Creatures/Human.md) (Humains) : Un mélange de fascination et de dédain, conduisant souvent à des interactions complexes
+- Avec les **Elves** (Elfes) : Une profonde rivalité basée sur un héritage commun mais des philosophies opposées
+- Avec les **Dwarves** (Nains) : Une alliance pragmatique basée sur le respect mutuel du savoir-faire et du pouvoir
+- Avec les **Shadowfolk** (Peuple de l'Ombre) : Un lien profond basé sur une appréciation commune de l'obscurité et de la magie de l'ombre
 
-These relationships are often characterized by a sense of cultural superiority, as **dark elves** view themselves as the true heirs to elven magic and beauty.
+Ces relations sont souvent caractérisées par un sentiment de supériorité culturelle, car les **dark elves** (elfes noirs) se considèrent comme les véritables héritiers de la magie et de la beauté elfiques.
 
-## Notable Dark Elf Traits
+## Notable Dark Elf Traits (Traits Notables des Elfes Noirs)
 
-- **Shadow Magic**: Dark elves excel in shadow magic and necromancy, often specializing in one area to the exclusion of others
-- **Ethereal Beauty**: Dark elves possess an otherworldly beauty that can be both enchanting and unsettling
-- **Environmental Sensitivity**: Dark elves are deeply attuned to their surroundings, particularly in shadowy environments
-- **Cultural Preservation**: Dark elf societies place great emphasis on preserving traditions and knowledge
-- **Aesthetic Refinement**: Dark elves have developed highly refined artistic and cultural traditions
+- **Shadow Magic** (Magie de l'Ombre) : Les elfes noirs excellent en magie de l'ombre et en nécromancie, se spécialisant souvent dans un domaine à l'exclusion des autres
+- **Ethereal Beauty** (Beauté Éthérée) : Les elfes noirs possèdent une beauté d'un autre monde qui peut être à la fois enchanteresse et troublante
+- **Environmental Sensitivity** (Sensibilité Environnementale) : Les elfes noirs sont profondément à l'écoute de leur environnement, en particulier dans les environnements ombragés
+- **Cultural Preservation** (Préservation Culturelle) : Les sociétés d'elfes noirs accordent une grande importance à la préservation des traditions et des connaissances
+- **Aesthetic Refinement** (Raffinement Esthétique) : Les elfes noirs ont développé des traditions artistiques et culturelles très raffinées
 
-## Dark Elf Houses
+## Dark Elf Houses (Maisons d'Elfes Noirs)
 
-Dark elf society is organized into numerous houses, each with its own specialties and traditions:
+La société des elfes noirs est organisée en de nombreuses maisons, chacune ayant ses propres spécialités et traditions :
 
-| House | Specialty | Territory | Notable Traits |
+| House (Maison) | Specialty (Spécialité) | Territory (Territoire) | Notable Traits (Traits Notables) |
 |---------|---------------|---------|-------------------|
-| **Shadowweavers** | Shadow magic, illusion | Dark forests | Illusion abilities, shadow manipulation |
-| **Nightblades** | Combat, assassination | Underground cities | Combat abilities, assassination techniques |
-| **Voidcallers** | Void magic, teleportation | Magical realms | Teleportation abilities, void manipulation |
-| **Twilightseekers** | Balance, harmony | Border regions | Balance magic, harmony techniques |
-| **Shadowartists** | Art, beauty | Artistic districts | Artistic abilities, aesthetic refinement |
-| **Darkphilosophers** | Knowledge, wisdom | Ancient libraries | Philosophical wisdom, ancient knowledge |
+| **Shadowweavers** (Tisseurs d'Ombres) | Shadow magic (Magie de l'ombre), illusion (Illusion) | Dark forests (Forêts sombres) | Illusion abilities (Capacités d'illusion), shadow manipulation (Manipulation de l'ombre) |
+| **Nightblades** (Lames de la Nuit) | Combat (Combat), assassination (Assassinat) | Underground cities (Villes souterraines) | Combat abilities (Capacités de combat), assassination techniques (Techniques d'assassinat) |
+| **Voidcallers** (Appelants du Vide) | Void magic (Magie du vide), teleportation (Téléportation) | Magical realms (Royaumes magiques) | Teleportation abilities (Capacités de téléportation), void manipulation (Manipulation du vide) |
+| **Twilightseekers** (Chercheurs du Crépuscule) | Balance (Équilibre), harmony (Harmonie) | Border regions (Régions frontalières) | Balance magic (Magie d'équilibre), harmony techniques (Techniques d'harmonie) |
+| **Shadowartists** (Artistes de l'Ombre) | Art (Art), beauty (Beauté) | Artistic districts (Quartiers artistiques) | Artistic abilities (Capacités artistiques), aesthetic refinement (Raffinement esthétique) |
+| **Darkphilosophers** (Philosophes Sombres) | Knowledge (Connaissance), wisdom (Sagesse) | Ancient libraries (Anciennes bibliothèques) | Philosophical wisdom (Sagesse philosophique), ancient knowledge (Connaissance ancienne) |
 
-Understanding the nature of **dark elves** provides insight into the shadowy aspects of the world of **OpenFantasy**, like listening to the haunting melodies that echo through the darkness.
+Comprendre la nature des **dark elves** (elfes noirs) permet de mieux comprendre les aspects sombres du monde d'**OpenFantasy**, comme écouter les mélodies envoûtantes qui résonnent dans l'obscurité.
 
-## Physical Enhancement Variants
+## Physical Enhancement Variants (Variantes d'Amélioration Physique)
 
-While most **dark elves** favor magical prowess, some lineages have developed physical enhancements through selective breeding and magical experimentation. These variants maintain the dark elf's connection to shadow magic while developing superior physical capabilities, like a cello that has been modified to produce both haunting melodies and powerful bass notes.
+Bien que la plupart des **dark elves** (elfes noirs) favorisent les prouesses magiques, certaines lignées ont développé des améliorations physiques grâce à la reproduction sélective et à l'expérimentation magique. Ces variantes maintiennent le lien de l'elfe noir avec la magie de l'ombre tout en développant des capacités physiques supérieures, comme un violoncelle qui a été modifié pour produire à la fois des mélodies envoûtantes et de puissantes notes de basse.
 
-### Shadow Warriors
+### Shadow Warriors (Guerriers de l'Ombre)
 
-The most common physical enhancement variant, **Shadow Warriors** have increased **Exanthis** ratios (35-40%) at the expense of **Mana Capacity** (45-50%). This composition grants them:
-- Enhanced strength and durability, like shadows given physical form
-- Superior combat abilities, particularly in close quarters
-- Limited but focused magical abilities, specializing in combat-enhancing shadow magic
-- Natural resistance to physical damage, like armor woven from darkness itself
+La variante d'amélioration physique la plus courante, les **Shadow Warriors** (Guerriers de l'Ombre) ont augmenté les ratios d'**Exanthis** (35-40 %) au détriment de la **Mana Capacity** (Capacité de Mana) (45-50 %). Cette composition leur accorde :
+- Une force et une durabilité accrues, telles des ombres auxquelles on a donné une forme physique
+- Des capacités de combat supérieures, en particulier en combat rapproché
+- Des capacités magiques limitées mais ciblées, spécialisées dans la magie de l'ombre améliorant le combat
+- Une résistance naturelle aux dommages physiques, telle une armure tissée à partir de l'obscurité elle-même
 
-Shadow Warriors often serve as elite guards and shock troops in dark elf society, their presence striking fear into the hearts of their enemies like a sudden eclipse.
+Les **Shadow Warriors** (Guerriers de l'Ombre) servent souvent de gardes d'élite et de troupes de choc dans la société des elfes noirs, leur présence semant la peur dans le cœur de leurs ennemis comme une éclipse soudaine.
 
-### Night Stalkers
+### Night Stalkers (Traqueurs Nocturnes)
 
-**Night Stalkers** represent a more extreme physical enhancement, with **Exanthis** ratios reaching 45-50% and **Mana Capacity** reduced to 35-40%. These dark elves are:
-- Exceptionally fast and agile, moving like shadows in the night
-- Possess enhanced senses, particularly in low-light conditions
-- Develop natural camouflage abilities, blending seamlessly with darkness
-- Specialize in stealth and assassination techniques
+Les **Night Stalkers** (Traqueurs Nocturnes) représentent une amélioration physique plus extrême, avec des ratios d'**Exanthis** atteignant 45-50 % et la **Mana Capacity** (Capacité de Mana) réduite à 35-40 %. Ces elfes noirs sont :
+- Exceptionnellement rapides et agiles, se déplaçant comme des ombres dans la nuit
+- Possèdent des sens améliorés, en particulier dans des conditions de faible luminosité
+- Développent des capacités de camouflage naturelles, se fondant parfaitement dans l'obscurité
+- Se spécialisent dans les techniques de furtivité et d'assassinat
 
-Night Stalkers are rare and often operate independently or in small, elite units, their presence known only by the sudden absence of their targets.
+Les **Night Stalkers** (Traqueurs Nocturnes) sont rares et opèrent souvent indépendamment ou en petites unités d'élite, leur présence n'étant connue que par l'absence soudaine de leurs cibles.
 
-### Void Touched
+### Void Touched (Touchés par le Vide)
 
-The most controversial of physical enhancement variants, **Void Touched** dark elves have undergone extensive magical modification to increase both physical and magical capabilities. Their composition typically shows:
-- **Exanthis**: 40-45%
-- **Soul**: 20-25%
-- **Mana Capacity**: 35-40%
+La plus controversée des variantes d'amélioration physique, les elfes noirs **Void Touched** (Touchés par le Vide) ont subi d'importantes modifications magiques pour augmenter à la fois leurs capacités physiques et magiques. Leur composition montre généralement :
+- **Exanthis** : 40-45 %
+- **Soul** (Âme) : 20-25 %
+- **Mana Capacity** (Capacité de Mana) : 35-40 %
 
-This unique balance grants them:
-- Enhanced physical capabilities while maintaining significant magical power
-- The ability to channel void magic directly through their bodies
-- Increased resistance to both physical and magical damage
-- A connection to the void that manifests in their appearance, with skin that seems to absorb light
+Cet équilibre unique leur accorde :
+- Des capacités physiques améliorées tout en conservant un pouvoir magique important
+- La capacité de canaliser la magie du vide directement à travers leur corps
+- Une résistance accrue aux dommages physiques et magiques
+- Une connexion au vide qui se manifeste dans leur apparence, avec une peau qui semble absorber la lumière
 
-Void Touched dark elves are often viewed with suspicion by traditional dark elf society, their existence walking the line between power and corruption, like a melody that teeters between beauty and discord.
+Les elfes noirs **Void Touched** (Touchés par le Vide) sont souvent considérés avec suspicion par la société traditionnelle des elfes noirs, leur existence se situant à la limite entre le pouvoir et la corruption, comme une mélodie qui oscille entre la beauté et la discorde.
 
-### Physical Enhancement Techniques
+### Physical Enhancement Techniques (Techniques d'Amélioration Physique)
 
-Dark elves employ various techniques to achieve physical enhancement:
+Les elfes noirs utilisent diverses techniques pour réaliser une amélioration physique :
 
-| Technique | Description | Effects | Risks |
+| Technique | Description (Description) | Effects (Effets) | Risks (Risques) |
 |-----------|-------------|---------|-------|
-| **Shadow Infusion** | The controlled introduction of shadow essence into the body | Increased strength and durability | Potential shadow corruption |
-| **Void Binding** | The binding of void energy to physical form | Enhanced physical and magical capabilities | Risk of void corruption |
-| **Selective Breeding** | The careful pairing of physically gifted dark elves | Gradual increase in physical capabilities | Loss of magical potential |
-| **Ritual Transformation** | Magical rituals that alter the body's composition | Immediate physical enhancement | High risk of physical or mental corruption |
+| **Shadow Infusion** (Infusion d'Ombre) | The controlled introduction of shadow essence into the body (L'introduction contrôlée d'essence d'ombre dans le corps) | Increased strength and durability (Force et durabilité accrues) | Potential shadow corruption (Corruption potentielle de l'ombre) |
+| **Void Binding** (Liaison du Vide) | The binding of void energy to physical form (La liaison de l'énergie du vide à la forme physique) | Enhanced physical and magical capabilities (Capacités physiques et magiques améliorées) | Risk of void corruption (Risque de corruption du vide) |
+| **Selective Breeding** (Reproduction Sélective) | The careful pairing of physically gifted dark elves (L'accouplement minutieux d'elfes noirs physiquement doués) | Gradual increase in physical capabilities (Augmentation progressive des capacités physiques) | Loss of magical potential (Perte de potentiel magique) |
+| **Ritual Transformation** (Transformation Rituelle) | Magical rituals that alter the body's composition (Rituels magiques qui altèrent la composition du corps) | Immediate physical enhancement (Amélioration physique immédiate) | High risk of physical or mental corruption (Risque élevé de corruption physique ou mentale) |
 
-These techniques are closely guarded secrets, known only to the most trusted members of dark elf society, like rare musical compositions that are performed only for select audiences.
+Ces techniques sont des secrets bien gardés, connus uniquement des membres les plus fiables de la société des elfes noirs, telles de rares compositions musicales qui ne sont interprétées que pour un public sélectionné.
 
-Understanding these physical enhancement variants provides insight into the diverse capabilities of dark elf society, like listening to the different voices that make up their dark symphony. 
+Comprendre ces variantes d'amélioration physique permet de mieux comprendre les diverses capacités de la société des elfes noirs, comme écouter les différentes voix qui composent leur sombre symphonie.
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

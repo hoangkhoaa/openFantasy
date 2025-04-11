@@ -1,202 +1,206 @@
-# **The School of Illusion**
+# **L'École de l'Illusion** (**The School of Illusion**)
 
-> *"Reality is merely perception given form. In the space between what is and what seems to be—that is where we illusionists dance."*  
-> — Miraleth Shadowsong, Grandmaster of Illusions
+> *"La réalité n'est qu'une perception qui prend forme. C'est dans l'espace entre ce qui est et ce qui semble être que nous, illusionnistes, dansons."*
+> — Miraleth Shadowsong, Grande Maîtresse des Illusions
 
-## Quick Reference
-- [Overview](#overview)
-- [Fundamental Principles](#fundamental-principles)
-- [Primary Components](#primary-components)
-- [Mana Requirements](#mana-requirements)
-- [Specialized Disciplines](#specialized-disciplines)
-- [Detection and Dispelling](#detection-and-dispelling)
-- [Training Methodology](#training-methodology)
-- [Applications](#applications)
-- [Ethical Considerations](#ethical-considerations)
-- [Limitations](#limitations)
-- [Notable Practitioners](#notable-practitioners)
+## Référence Rapide (Quick Reference)
+- [Aperçu](#aperçu) ([Overview](#overview))
+- [Principes Fondamentaux](#principes-fondamentaux) ([Fundamental Principles](#fundamental-principles))
+- [Composants Principaux](#composants-principaux) ([Primary Components](#primary-components))
+- [Exigences en Mana](#exigences-en-mana) ([Mana Requirements](#mana-requirements))
+- [Disciplines Spécialisées](#disciplines-spécialisées) ([Specialized Disciplines](#specialized-disciplines))
+- [Détection et Dissipation](#détection-et-dissipation) ([Detection and Dispelling](#detection-and-dispelling))
+- [Méthodologie d'Entraînement](#méthodologie-dentraînement) ([Training Methodology](#training-methodology))
+- [Applications](#applications) ([Applications](#applications))
+- [Considérations Éthiques](#considérations-éthiques) ([Ethical Considerations](#ethical-considerations))
+- [Limitations](#limitations) ([Limitations](#limitations))
+- [Praticiens Notables](#praticiens-notables) ([Notable Practitioners](#notable-practitioners))
 
-## Overview
+## Aperçu (Overview)
 
-Illusion magic specializes in manipulating sensory information to create experiences that diverge from physical reality. Unlike elemental or transmutation magic that alters the material world, illusion magic operates primarily within the realm of perception, creating effects that engage one or more senses without fundamentally changing the physical properties of the target area.
+La magie de l'illusion se spécialise dans la manipulation des informations sensorielles afin de créer des expériences qui divergent de la réalité physique. Contrairement à la magie élémentaire ou de transmutation qui modifie le monde matériel, la magie de l'illusion opère principalement dans le domaine de la perception, créant des effets qui engagent un ou plusieurs sens sans modifier fondamentalement les propriétés physiques de la zone cible.
 
-The school of illusion is often misunderstood as merely "tricks" or "deception," when in fact it requires precise manipulation of mana to interface with sensory perception systems. A masterful illusion can be as technically complex as any high-level evocation spell, requiring exquisite control over mana patterning and sensory projection matrices.
+L'école de l'illusion est souvent mal comprise comme de simples "tours" ou "tromperies", alors qu'en réalité, elle nécessite une manipulation précise du mana pour interagir avec les systèmes de perception sensorielle. Une illusion magistrale peut être aussi techniquement complexe que n'importe quel sort d'invocation de haut niveau, nécessitant un contrôle exquis sur la structuration du mana et les matrices de projection sensorielle.
 
-## Fundamental Principles
+## Principes Fondamentaux (Fundamental Principles)
 
-### The Triangle of Perception
+### Le Triangle de la Perception (The Triangle of Perception)
 
-Illusion magic operates on three fundamental principles:
+La magie de l'illusion opère sur trois principes fondamentaux :
 
-1. **Sensory Projection**: The creation and projection of artificial sensory stimuli.
-2. **Mind Resonance**: Harmonizing magical energy with the perceptual facilities of observers.
-3. **Reality Anchoring**: Tethering illusory elements to physical reality for consistency and believability.
+1.  **Projection Sensorielle** (**Sensory Projection**) : La création et la projection de stimuli sensoriels artificiels.
+2.  **Résonance Mentale** (**Mind Resonance**) : Harmonisation de l'énergie magique avec les facultés perceptuelles des observateurs.
+3.  **Ancrage à la Réalité** (**Reality Anchoring**) : Relier les éléments illusoires à la réalité physique pour assurer la cohérence et la crédibilité.
 
-These three aspects form what illusionists call "The Triangle of Perception"—each aspect must be balanced with the others to create a convincing illusion.
+Ces trois aspects forment ce que les illusionnistes appellent « Le Triangle de la Perception » : chaque aspect doit être équilibré avec les autres pour créer une illusion convaincante.
 
-### The Scales of Sensory Fidelity
+### Les Échelles de Fidélité Sensorielle (The Scales of Sensory Fidelity)
 
-Illusion magic operates across multiple sensory channels, each requiring different techniques:
+La magie de l'illusion opère sur plusieurs canaux sensoriels, chacun nécessitant des techniques différentes :
 
-| Sense | Mana Type | Complexity | Believability Factor |
-|-------|-----------|------------|---------------------|
-| Visual | Primary: Light, Secondary: Spiritual | High | Critical |
-| Auditory | Primary: Air, Secondary: Light | Medium | High |
-| Olfactory | Primary: Earth, Secondary: Water | Medium-Low | Moderate |
-| Tactile | Primary: Earth, Secondary: Spiritual | Very High | Very High |
-| Gustatory | Primary: Water, Secondary: Earth | High | Low (rarely used) |
+| Sens (Sense)      | Type de Mana (Mana Type)         | Complexité (Complexity) | Facteur de Crédibilité (Believability Factor) |
+|------------------|-------------------------------|-----------------------|---------------------------------------------|
+| Visuel (Visual)    | Primaire : Lumière, Secondaire : Spirituel | Élevée (High)             | Critique (Critical)                               |
+| Auditif (Auditory)  | Primaire : Air, Secondaire : Lumière        | Moyenne (Medium)          | Élevée (High)                                 |
+| Olfactif (Olfactory)| Primaire : Terre, Secondaire : Eau          | Moyenne-Faible (Medium-Low)    | Modérée (Moderate)                              |
+| Tactile (Tactile)  | Primaire : Terre, Secondaire : Spirituel     | Très Élevée (Very High)       | Très Élevée (Very High)                           |
+| Gustatif (Gustatory)| Primaire : Eau, Secondaire : Terre          | Élevée (High)             | Faible (Low) (rarement utilisé)                   |
 
-Multi-sensory illusions require harmonization between different sensory channels, increasing complexity exponentially with each additional sense incorporated.
+Les illusions multisensorielles nécessitent une harmonisation entre différents canaux sensoriels, ce qui augmente la complexité de façon exponentielle avec chaque sens supplémentaire incorporé.
 
-## Primary Components
+## Composants Principaux (Primary Components)
 
-All illusion spells, regardless of complexity, contain four essential components:
+Tous les sorts d'illusion, quelle que soit leur complexité, contiennent quatre composants essentiels :
 
-1. **Projection Matrix**: The framework determining how the illusion appears in physical space
-2. **Sensory Detail Engine**: The mechanism generating the specific sensory experiences
-3. **Observer Adaptation Circuit**: The component that adjusts the illusion based on observer perspective and interaction
-4. **Reality Interface**: The system that determines how the illusion interacts with or responds to real-world stimuli
+1. **Matrice de Projection** (**Projection Matrix**) : Le cadre déterminant l'apparence de l'illusion dans l'espace physique
+2. **Moteur de Détail Sensoriel** (**Sensory Detail Engine**) : Le mécanisme générant les expériences sensorielles spécifiques
+3. **Circuit d'Adaptation de l'Observateur** (**Observer Adaptation Circuit**) : Le composant qui ajuste l'illusion en fonction de la perspective et de l'interaction de l'observateur
+4. **Interface de Réalité** (**Reality Interface**) : Le système qui détermine comment l'illusion interagit avec ou répond aux stimuli du monde réel
 
-## Mana Requirements
+## Exigences en Mana (Mana Requirements)
 
-Illusion magic has unique mana requirements that distinguish it from other magical schools:
+La magie de l'illusion a des exigences en mana uniques qui la distinguent des autres écoles de magie :
 
-- **Distribution**: Typically requires 40-60% Light mana, 20-30% Spiritual mana, and remaining percentages divided between Air, Earth, and Water depending on the sensory channels being affected.
-- **Purity**: Most effective with higher purity levels (30%+), as impure mana creates "glitches" in the sensory experience that alert observers to the illusory nature.
-- **Flow Pattern**: Requires smooth, continuous flow rather than bursts of energy, often described as a "stream" rather than a "pulse."
-- **Stability**: Demands exceptional stability—fluctuations in mana output cause noticeable irregularities in the illusion.
+- **Distribution** : Nécessite généralement 40 à 60 % de mana de Lumière, 20 à 30 % de mana Spirituel, et les pourcentages restants sont répartis entre l'Air, la Terre et l'Eau en fonction des canaux sensoriels affectés.
+- **Pureté** : Plus efficace avec des niveaux de pureté plus élevés (30 % et plus), car le mana impur crée des « glitches » dans l'expérience sensorielle qui alertent les observateurs sur la nature illusoire.
+- **Modèle de Flux** (**Flow Pattern**) : Nécessite un flux régulier et continu plutôt que des rafales d'énergie, souvent décrit comme un « flux » plutôt qu'une « impulsion ».
+- **Stabilité** : Exige une stabilité exceptionnelle : les fluctuations de la production de mana entraînent des irrégularités notables dans l'illusion.
 
-## Specialized Disciplines
+## Disciplines Spécialisées (Specialized Disciplines)
 
-Within the School of Illusion, practitioners typically specialize in one or more sub-disciplines:
+Au sein de l'École de l'Illusion (**School of Illusion**), les praticiens se spécialisent généralement dans une ou plusieurs sous-disciplines :
 
-### Phantasm Weaving
-Creating pure visual illusions with extraordinary detail and animation capabilities.
+### Tissage de Fantasmes (Phantasm Weaving)
+Création d'illusions visuelles pures avec des détails extraordinaires et des capacités d'animation.
 
-### Acoustic Illusion
-Specializing in sound manipulation, from simple noises to complex symphonies or perfect voice mimicry.
+### Illusion Acoustique (Acoustic Illusion)
+Spécialisée dans la manipulation du son, des simples bruits aux symphonies complexes ou à l'imitation parfaite de la voix.
 
-### Sensory Comprehensive Illusion
-Creating fully immersive illusions that engage multiple senses simultaneously.
+### Illusion Sensorielle Complète (Sensory Comprehensive Illusion)
+Création d'illusions totalement immersives qui engagent plusieurs sens simultanément.
 
-### Illusory Script
-Creating text or symbols visible only to certain viewers or under specific conditions.
+### Écriture Illusoire (Illusory Script)
+Création de texte ou de symboles visibles uniquement par certains spectateurs ou dans des conditions spécifiques.
 
-### Shadow Puppetry
-Manipulation of shadows and darkness, often blending illusion with minor umbral magic.
+### Marionnettes d'Ombres (Shadow Puppetry)
+Manipulation des ombres et de l'obscurité, combinant souvent l'illusion avec une magie ombrale mineure.
 
-### Psychoperceptive Illusion
-Advanced techniques that interact directly with the observer's mind, creating shared or targeted illusions.
+### Illusion Psycho-perceptive (Psychoperceptive Illusion)
+Techniques avancées qui interagissent directement avec l'esprit de l'observateur, créant des illusions partagées ou ciblées.
 
-### Programmed Illusion
-Creating illusions that follow set patterns or respond to specific triggers without active control.
+### Illusion Programmée (Programmed Illusion)
+Création d'illusions qui suivent des schémas établis ou qui répondent à des déclencheurs spécifiques sans contrôle actif.
 
-## Detection and Dispelling
+## Détection et Dissipation (Detection and Dispelling)
 
-Illusions can be detected and countered through various methods:
+Les illusions peuvent être détectées et contrées par diverses méthodes :
 
-### Detection Methods
-- **Mana Sight**: Reveals the magical nature of illusions by displaying their mana patterns.
-- **Multi-sensory Analysis**: Testing an apparent object across multiple senses often reveals inconsistencies.
-- **Pattern Disruption**: Introducing chaotic mana can cause illusions to display errors or "glitches."
-- **Reality Anchoring**: Physical interactions that should affect real objects but don't affect illusions.
+### Méthodes de Détection (Detection Methods)
+- **Vue du Mana** (**Mana Sight**) : Révèle la nature magique des illusions en affichant leurs modèles de mana.
+- **Analyse Multi-sensorielle** (**Multi-sensory Analysis**) : Tester un objet apparent à travers plusieurs sens révèle souvent des incohérences.
+- **Perturbation de Motif** (**Pattern Disruption**) : L'introduction d'un mana chaotique peut provoquer l'affichage d'erreurs ou de « glitches » dans les illusions.
+- **Ancrage à la Réalité** (**Reality Anchoring**) : Interactions physiques qui devraient affecter les objets réels mais n'affectent pas les illusions.
 
-### Dispelling Techniques
-- **Harmonic Cancellation**: Producing a counter-resonance that neutralizes the illusion's mana pattern.
-- **Perceptual Shield**: Creating a barrier that filters out illusory sensory inputs.
-- **Disbelief Projection**: A focused mental technique that rejects the illusion's reality framework.
-- **Pattern Unraveling**: Systematically identifying and dismantling the illusion's component patterns.
+### Techniques de Dissipation (Dispelling Techniques)
+- **Annulation Harmonique** (**Harmonic Cancellation**) : Production d'une contre-résonance qui neutralise le modèle de mana de l'illusion.
+- **Bouclier Perceptuel** (**Perceptual Shield**) : Création d'une barrière qui filtre les entrées sensorielles illusoires.
+- **Projection d'Incrédulité** (**Disbelief Projection**) : Une technique mentale ciblée qui rejette le cadre de la réalité de l'illusion.
+- **Démêlage de Motif** (**Pattern Unraveling**) : Identification et démantèlement systématiques des motifs de composants de l'illusion.
 
-## Training Methodology
+## Méthodologie d'Entraînement (Training Methodology)
 
-Training in illusion magic follows a structured progression:
+La formation en magie de l'illusion suit une progression structurée :
 
-### Foundational Skills
-1. **Mana Purification**: Achieving the high purity levels required for convincing illusions.
-2. **Single-Sense Projection**: Mastering individual sensory projections before combining them.
-3. **Stability Exercises**: Maintaining consistent mana flow for extended durations.
-4. **Pattern Visualization**: Developing the mental clarity to envision complex sensory details.
+### Compétences Fondamentales (Foundational Skills)
+1. **Purification du Mana** (**Mana Purification**) : Atteindre les niveaux de pureté élevés requis pour les illusions convaincantes.
+2. **Projection Mono-sensorielle** (**Single-Sense Projection**) : Maîtriser les projections sensorielles individuelles avant de les combiner.
+3. **Exercices de Stabilité** (**Stability Exercises**) : Maintenir un flux de mana constant pendant des durées prolongées.
+4. **Visualisation de Motif** (**Pattern Visualization**) : Développer la clarté mentale pour envisager des détails sensoriels complexes.
 
-### Intermediate Techniques
-1. **Multi-sensory Harmonization**: Blending different sensory channels coherently.
-2. **Dynamic Adaptation**: Creating illusions that respond to environmental changes.
-3. **Observer Perspective Shifting**: Maintaining consistency across multiple viewpoints.
-4. **Subtle Detail Infusion**: Adding minor imperfections for increased realism.
+### Techniques Intermédiaires (Intermediate Techniques)
+1. **Harmonisation Multi-sensorielle** (**Multi-sensory Harmonization**) : Mélanger différents canaux sensoriels de manière cohérente.
+2. **Adaptation Dynamique** (**Dynamic Adaptation**) : Créer des illusions qui répondent aux changements environnementaux.
+3. **Changement de Perspective de l'Observateur** (**Observer Perspective Shifting**) : Maintenir la cohérence entre plusieurs points de vue.
+4. **Infusion de Détails Subtils** (**Subtle Detail Infusion**) : Ajouter des imperfections mineures pour un réalisme accru.
 
-### Advanced Mastery
-1. **Autonomous Illusions**: Creating self-sustaining illusions that persist without active control.
-2. **Reality Integration**: Seamlessly blending illusory and real elements.
-3. **Mass Perception Manipulation**: Affecting multiple observers with individualized experiences.
-4. **Layered Illusion Composition**: Creating illusions within illusions for complex scenarios.
+### Maîtrise Avancée (Advanced Mastery)
+1. **Illusions Autonomes** (**Autonomous Illusions**) : Créer des illusions autonomes qui persistent sans contrôle actif.
+2. **Intégration de la Réalité** (**Reality Integration**) : Mélanger de manière transparente les éléments illusoires et réels.
+3. **Manipulation de la Perception de Masse** (**Mass Perception Manipulation**) : Affecter plusieurs observateurs avec des expériences individualisées.
+4. **Composition d'Illusion en Couches** (**Layered Illusion Composition**) : Créer des illusions à l'intérieur d'illusions pour des scénarios complexes.
 
-## Applications
+## Applications (Applications)
 
-Illusion magic finds purpose across numerous domains:
+La magie de l'illusion trouve un but dans de nombreux domaines :
 
-### Practical Applications
-- **Communication**: Creating visual messages or information displays
-- **Entertainment**: Theatrical performances and artistic expressions
-- **Architecture**: Previsualization of structures or aesthetic enhancements
-- **Education**: Demonstrating concepts through visual representation
-- **Navigation**: Creating markers or highlighting paths
+### Applications Pratiques (Practical Applications)
+- **Communication** : Création de messages visuels ou d'affichages d'informations
+- **Divertissement** : Spectacles de théâtre et expressions artistiques
+- **Architecture** : Prévisualisation de structures ou d'améliorations esthétiques
+- **Éducation** : Démonstration de concepts par le biais d'une représentation visuelle
+- **Navigation** : Création de marqueurs ou mise en évidence de chemins
 
-### Military Applications
-- **Camouflage**: Concealing troops, equipment, or positions
-- **Distraction**: Creating diversions to split enemy attention
-- **Deception**: Displaying false information or scenarios
-- **Psychological Operations**: Affecting morale through unsettling or confusing illusions
+### Applications Militaires (Military Applications)
+- **Camouflage** : Dissimulation de troupes, d'équipement ou de positions
+- **Distraction** : Création de diversions pour diviser l'attention de l'ennemi
+- **Tromperie** : Affichage de fausses informations ou de scénarios
+- **Opérations Psychologiques** : Affecter le moral par le biais d'illusions troublantes ou déroutantes
 
-### Personal Applications
-- **Privacy**: Concealing activities or locations from observation
-- **Self-Expression**: Altering personal appearance or environment
-- **Comfort**: Creating pleasant surroundings or experiences
-- **Security**: Disguising valuable possessions or entrances
+### Applications Personnelles (Personal Applications)
+- **Confidentialité** : Dissimulation d'activités ou de lieux à l'observation
+- **Expression Personnelle** : Modification de l'apparence personnelle ou de l'environnement
+- **Confort** : Création d'un environnement ou d'expériences agréables
+- **Sécurité** : Déguisement de biens de valeur ou d'entrées
 
-## Ethical Considerations
+## Considérations Éthiques (Ethical Considerations)
 
-The School of Illusion presents unique ethical challenges:
+L'École de l'Illusion (**School of Illusion**) présente des défis éthiques uniques :
 
-- **Consent**: When is it appropriate to alter someone's perception without their knowledge?
-- **Truth vs. Deception**: The moral implications of creating false experiences
-- **Psychological Impact**: Potential trauma from convincing illusions, especially frightening ones
-- **Addiction Risk**: The possibility of preference for illusory experiences over reality
-- **Legal Status**: Varying regulations regarding illusion use in different regions
+- **Consentement** : Quand est-il approprié de modifier la perception de quelqu'un à son insu ?
+- **Vérité vs. Tromperie** : Les implications morales de la création de fausses expériences
+- **Impact Psychologique** : Traumatisme potentiel dû à des illusions convaincantes, en particulier celles qui font peur
+- **Risque de Dépendance** : La possibilité d'une préférence pour les expériences illusoires par rapport à la réalité
+- **Statut Juridique** : Différentes réglementations concernant l'utilisation de l'illusion dans différentes régions
 
-## Limitations
+## Limitations (Limitations)
 
-Despite its versatility, illusion magic faces inherent constraints:
+Malgré sa polyvalence, la magie de l'illusion est confrontée à des contraintes inhérentes :
 
-- **No Physical Impact**: Illusions cannot directly affect physical reality
-- **Belief Threshold**: Extremely implausible illusions trigger automatic disbelief
-- **Energy Requirements**: Complex illusions require significant mana to maintain
-- **Concentration Dependency**: Most illusions require some degree of ongoing attention
-- **Environmental Factors**: Extreme magical conditions can disrupt illusion patterns
-- **Dispelling Vulnerability**: Susceptibility to counter-magic specifically designed for illusions
+- **Aucun Impact Physique** : Les illusions ne peuvent pas affecter directement la réalité physique
+- **Seuil de Croyance** (**Belief Threshold**) : Les illusions extrêmement invraisemblables déclenchent une incrédulité automatique
+- **Besoins en Énergie** (**Energy Requirements**) : Les illusions complexes nécessitent un mana important pour être maintenues
+- **Dépendance à la Concentration** (**Concentration Dependency**) : La plupart des illusions nécessitent un certain degré d'attention continue
+- **Facteurs Environnementaux** (**Environmental Factors**) : Les conditions magiques extrêmes peuvent perturber les schémas d'illusion
+- **Vulnérabilité à la Dissipation** (**Dispelling Vulnerability**) : Sensibilité à la contre-magie spécifiquement conçue pour les illusions
 
-## Notable Practitioners
+## Praticiens Notables (Notable Practitioners)
 
-### Historical Figures
-- **Mirala Shadowweaver** (729-816): Pioneered the multi-sensory integration techniques that form the basis of modern comprehensive illusions
-- **Elindor the Veiled** (442-538): Developed the first documented techniques for autonomous illusions
-- **Thassarian Nightwhisper** (901-997): Created the Harmonic Theory of Illusory Resonance, advancing understanding of mind-illusion interactions
+### Personnages Historiques (Historical Figures)
+- **Mirala Tisseuse d'Ombres** (**Mirala Shadowweaver**) (729-816) : A été la pionnière des techniques d'intégration multi-sensorielles qui constituent la base des illusions globales modernes.
+- **Elindor le Voilé** (**Elindor the Veiled**) (442-538) : A mis au point les premières techniques documentées pour les illusions autonomes.
+- **Thassarian Murmure Nocturne** (**Thassarian Nightwhisper**) (901-997) : A créé la Théorie Harmonique de la Résonance Illusoire, faisant progresser la compréhension des interactions esprit-illusion.
 
-### Contemporary Masters
-- **Miraleth Shadowsong**: Current Grandmaster of the Illusionist's Conclave, specializing in performance illusions
-- **Vaeril Dreamshaper**: Leading researcher in psychoperceptive illusions and reality distortion
-- **Lyrissa Truthshadow**: Pioneer in therapeutic applications of illusion magic
-- **Thalen Mistwalker**: Military specialist in large-scale battlefield illusions
+### Maîtres Contemporains (Contemporary Masters)
+- **Miraleth Shadowsong** : Actuelle Grande Maîtresse du Conclave des Illusionnistes (**Illusionist's Conclave**), spécialisée dans les illusions de performance
+- **Vaeril Façonneur de Rêves** (**Vaeril Dreamshaper**) : Chercheur de premier plan dans le domaine des illusions psychoperceptives et de la distorsion de la réalité
+- **Lyrissa Ombre de Vérité** (**Lyrissa Truthshadow**) : Pionnière dans les applications thérapeutiques de la magie de l'illusion
+- **Thalen Marchebrume** (**Thalen Mistwalker**) : Spécialiste militaire des illusions à grande échelle sur le champ de bataille
 
-> *"The difference between a novice and a master illusionist is not in the grandeur of their creations, but in the subtlety of their details. True mastery lies in knowing which details to emphasize and which to simply suggest."* 
-> — Vaeril Dreamshaper
+> *"La différence entre un illusionniste novice et un illusionniste maître ne réside pas dans la grandeur de leurs créations, mais dans la subtilité de leurs détails. La véritable maîtrise consiste à savoir quels détails souligner et lesquels simplement suggérer."*
+> — Vaeril Façonneur de Rêves (**Vaeril Dreamshaper**)
 
-## Historical Development
+## Développement Historique (Historical Development)
 
-The formal School of Illusion emerged during the Second Age, when practitioners began to systematically study the principles underlying sensory manipulation. Prior to this, illusion techniques were scattered among various magical traditions, often as adjuncts to other practices.
+L'École formelle de l'Illusion (**School of Illusion**) a émergé au cours du Second Âge (**Second Age**), lorsque les praticiens ont commencé à étudier systématiquement les principes qui sous-tendent la manipulation sensorielle. Avant cela, les techniques d'illusion étaient dispersées entre diverses traditions magiques, souvent en complément d'autres pratiques.
 
-The Third Age saw the refinement of illusion theory with the publication of Elara Duskveil's seminal work "The Perceptual Matrix," which established the fundamental framework still used today.
+Le Troisième Âge (**Third Age**) a vu le raffinement de la théorie de l'illusion avec la publication de l'ouvrage fondamental d'Elara Duskveil "La Matrice Perceptive" (**The Perceptual Matrix**), qui a établi le cadre fondamental encore utilisé aujourd'hui.
 
-Modern illusion magic continues to evolve, with increasing focus on the relationship between perception, consciousness, and reality - blurring the lines between illusion and other magical disciplines.
+La magie de l'illusion moderne continue d'évoluer, avec un accent croissant sur la relation entre la perception, la conscience et la réalité - brouillant les frontières entre l'illusion et les autres disciplines magiques.
 
 ---
 
-*See also: [Minor Illusion](/codex/Magics/Spells/Illusion/MinorIllusion.md), [Perception Magic](/codex/Magics/Domains/Perception.md), [Mana Purification](/codex/Magics/ManaMechanics.md)* 
+*Voir aussi : [Illusion Mineure](/codex/Magics/Spells/Illusion/MinorIllusion.md), [Magie de la Perception](/codex/Magics/Domains/Perception.md), [Purification du Mana](/codex/Magics/ManaMechanics.md)*
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._

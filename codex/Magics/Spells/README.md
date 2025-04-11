@@ -1,126 +1,132 @@
-# OpenFantasy Magic System
+# Système de Magie OpenFantasy
 
-## Spells Documentation Guide
+## Guide de Documentation des Sorts
 
-This repository contains documentation for spells in the OpenFantasy world, following a standardized format for consistency.
+Ce dépôt contient la documentation pour les sorts dans le monde d'OpenFantasy, suivant un format standardisé pour plus de cohérence.
 
-## Quick Reference
+## Référence Rapide
 
-- [Spell Categories](#spell-categories)
-- [Documentation Format](#documentation-format)
-- [Mana Types](#mana-types)
-- [Purity Requirements](#purity-requirements)
-- [Character Progression](#character-progression)
+- [Catégories de Sorts](#catégories-de-sorts)
+- [Format de la Documentation](#format-de-la-documentation)
+- [Types de Mana](#types-de-mana)
+- [Exigences de Pureté](#exigences-de-pureté)
+- [Progression du Personnage](#progression-du-personnage)
 
-## Spell Categories
+## Catégories de Sorts
 
-| Category | Description |
+| Category (Catégorie) | Description (Description) |
 |----------|-------------|
-| **Elemental** | Manipulate primary elements (Fire, Water, Earth, Air, Light, Shadow, Life, Death) |
-| **Utility** | Practical spells for everyday tasks and problem-solving |
-| **Protection** | Defensive magic that shields or counters hostile forces |
-| **Divination** | Reveal information, enhance perception, provide insight |
-| **Illusion** | Create false sensory impressions or alter perception |
-| **Enchantment** | Imbue objects or beings with magical properties |
-| **Transformation** | Change physical form or properties of targets |
-| **Summoning** | Call creatures, entities, or objects from elsewhere |
+| **Elemental (Élémentaire)** | Manipuler les éléments primaires (Fire (Feu), Water (Eau), Earth (Terre), Air (Air), Light (Lumière), Shadow (Ombre), Life (Vie), Death (Mort)) |
+| **Utility (Utilité)** | Sorts pratiques pour les tâches quotidiennes et la résolution de problèmes |
+| **Protection (Protection)** | Magie défensive qui protège ou contre les forces hostiles |
+| **Divination (Divination)** | Révéler des informations, améliorer la perception, fournir des éclaircissements |
+| **Illusion (Illusion)** | Créer de fausses impressions sensorielles ou altérer la perception |
+| **Enchantment (Enchantement)** | Imbiber des objets ou des êtres de propriétés magiques |
+| **Transformation (Transformation)** | Changer la forme physique ou les propriétés des cibles |
+| **Summoning (Invocation)** | Appeler des créatures, des entités ou des objets d'ailleurs |
 
-## Documentation Format
+## Format de la Documentation
 
-Each spell document follows this structure:
+Chaque document de sort suit cette structure :
 
-### 1. Basic Information
-- Spell name and overview
-- Casting information (difficulty, time, duration, range, components)
-- Technical details (mana types, purity requirements, complexity)
+### 1. Informations de Base
+- Nom et aperçu du sort
+- Informations de lancement (difficulté, temps, durée, portée, composants)
+- Détails techniques (types de mana, exigences de pureté, complexité)
 
-### 2. Technical Details
+### 2. Détails Techniques
 
-#### A. Mana Type Distribution
-Proportions of mana types (e.g., "Base Mana 60%, Umbramana 30%, Luxmana 10%")
+#### A. Distribution des Types de Mana
+Proportions de types de mana (par exemple, "Base Mana (Mana de Base) 60%, Umbramana (Umbramana) 30%, Luxmana (Luxmana) 10%")
 
-#### B. Purity Requirements
-Minimum purity level needed to cast successfully
+#### B. Exigences de Pureté
+Niveau de pureté minimum nécessaire pour lancer avec succès
 
-#### C. Pattern Structure
-Magical configuration that creates the spell effect
+#### C. Pattern Structure (Structure du Motif)
+Configuration magique qui crée l'effet du sort
 
-### 3. Practical Information
-- Effects and limitations
-- Common applications
-- Variations and adaptations
+### 3. Informations Pratiques
+- Effets et limitations
+- Applications courantes
+- Variations et adaptations
 
-### 4. Learning and Risks
-- Risks and miscast effects
-- Learning progression
-- Historical context
+### 4. Apprentissage et Risques
+- Risques et effets de mauvais lancement
+- Progression de l'apprentissage
+- Contexte historique
 
-## Mana Types
+## Mana Types (Types de Mana)
 
-| Mana Type | Primary Contribution |
+| Mana Type (Type de Mana) | Primary Contribution (Contribution Principale) |
 |-----------|----------------------|
-| **Base Mana** | Structural stability and basic magical framework |
-| **Pyromana** | Heat, energy, transformation |
-| **Hydromana** | Fluidity, adaptability, healing |
-| **Terramana** | Solidity, permanence, physical manifestation |
-| **Aeromana** | Movement, freedom, range |
-| **Luxmana** | Illumination, revelation, purification |
-| **Umbramana** | Concealment, subtlety, psychological effects |
-| **Vitaemana** | Growth, healing, enhancement |
-| **Mortismana** | Decay, negation, spiritual manipulation |
+| **Base Mana (Mana de Base)** | Stabilité structurelle et cadre magique de base |
+| **Pyromana (Pyromana)** | Chaleur, énergie, transformation |
+| **Hydromana (Hydromana)** | Fluidité, adaptabilité, guérison |
+| **Terramana (Terramana)** | Solidité, permanence, manifestation physique |
+| **Aeromana (Aeromana)** | Mouvement, liberté, portée |
+| **Luxmana (Luxmana)** | Illumination, révélation, purification |
+| **Umbramana (Umbramana)** | Dissimulation, subtilité, effets psychologiques |
+| **Vitaemana (Vitaemana)** | Croissance, guérison, amélioration |
+| **Mortismana (Mortismana)** | Décomposition, négation, manipulation spirituelle |
 
-## Purity Requirements
+## Purity Requirements (Exigences de Pureté)
 
-### Purity Levels
+### Purity Levels (Niveaux de Pureté)
 
-| Category | Range | Typical Use |
+| Category (Catégorie) | Range (Portée) | Typical Use (Utilisation Typique) |
 |----------|-------|-------------|
-| **Crude** | 0-10% | Emergency only |
-| **Basic** | 10-35% | Novice spells |
-| **Refined** | 35-65% | Adept spells |
-| **Superior** | 65-85% | Expert spells |
-| **Perfect** | 85-100% | Master spells |
+| **Crude (Brut)** | 0-10% | Emergency only (En cas d'urgence uniquement) |
+| **Basic (Basique)** | 10-35% | Novice spells (Sorts de novice) |
+| **Refined (Raffiné)** | 35-65% | Adept spells (Sorts d'adepte) |
+| **Superior (Supérieur)** | 65-85% | Expert spells (Sorts d'expert) |
+| **Perfect (Parfait)** | 85-100% | Master spells (Sorts de maître) |
 
-### Effects on Spellcasting
+### Effects on Spellcasting (Effets sur le Lancement de Sorts)
 
-- **Below minimum**: Spell fails or produces unpredictable results
-- **At minimum**: Functions but may be less effective or stable
-- **Above minimum**: Gains enhanced effectiveness, precision, or duration
+- **Below minimum (En dessous du minimum)**: Spell fails or produces unpredictable results (Le sort échoue ou produit des résultats imprévisibles)
+- **At minimum (Au minimum)**: Functions but may be less effective or stable (Fonctionne mais peut être moins efficace ou stable)
+- **Above minimum (Au-dessus du minimum)**: Gains enhanced effectiveness, precision, or duration (Gagne une efficacité, une précision ou une durée améliorée)
 
-### Example: Purity Influence Table
+### Example: Purity Influence Table (Exemple : Tableau d'Influence de la Pureté)
 
-| Purity | Effect |
+| Purity (Pureté) | Effect (Effet) |
 |--------|--------|
-| 15-20% | Minimal effectiveness, barely functional |
-| 20-35% | Standard effect as described |
-| 35-50% | Enhanced effectiveness or precision |
-| 50%+ | Maximum potential achieved |
+| 15-20% | Minimal effectiveness, barely functional (Efficacité minimale, à peine fonctionnel) |
+| 20-35% | Standard effect as described (Effet standard tel que décrit) |
+| 35-50% | Enhanced effectiveness or precision (Efficacité ou précision améliorée) |
+| 50%+ | Maximum potential achieved (Potentiel maximal atteint) |
 
-## Character Progression
+## Character Progression (Progression du Personnage)
 
-### Spell Mastery Path
+### Spell Mastery Path (Chemin de Maîtrise des Sorts)
 
-1. **Novice**: Basic purity (10-35%), simple patterns
-2. **Adept**: Refined purity (35-65%), moderate complexity
-3. **Expert**: Superior purity (65-85%), complex patterns
-4. **Master**: Perfect purity (85%+), intricate patterns
+1. **Novice (Novice)**: Basic purity (Pureté basique) (10-35%), simple patterns (motifs simples)
+2. **Adept (Adepte)**: Refined purity (Pureté raffinée) (35-65%), moderate complexity (complexité modérée)
+3. **Expert (Expert)**: Superior purity (Pureté supérieure) (65-85%), complex patterns (motifs complexes)
+4. **Master (Maître)**: Perfect purity (Pureté parfaite) (85%+), intricate patterns (motifs complexes)
 
-### Key Development Areas
+### Key Development Areas (Domaines de Développement Clés)
 
-- **Capacity**: Increasing mana reserves
-- **Purification**: Improving mana quality
-- **Pattern Knowledge**: Learning more complex spells
-- **Specialization**: Focusing on particular mana types
+- **Capacity (Capacité)**: Increasing mana reserves (Augmenter les réserves de mana)
+- **Purification (Purification)**: Improving mana quality (Améliorer la qualité du mana)
+- **Pattern Knowledge (Connaissance des Motifs)**: Learning more complex spells (Apprendre des sorts plus complexes)
+- **Specialization (Spécialisation)**: Focusing on particular mana types (Se concentrer sur des types de mana particuliers)
 
-## Spell Creation
+## Spell Creation (Création de Sorts)
 
-Experienced casters can develop new spells through:
+Experienced casters can develop new spells through (Les lanceurs expérimentés peuvent développer de nouveaux sorts grâce à) :
 
-1. Researching existing patterns
-2. Experimenting with mana proportions
-3. Testing practical applications
-4. Documenting successful configurations
+1. Researching existing patterns (Rechercher des motifs existants)
+2. Experimenting with mana proportions (Expérimenter avec les proportions de mana)
+3. Testing practical applications (Tester les applications pratiques)
+4. Documenting successful configurations (Documenter les configurations réussies)
 
 ---
 
-> **Note**: For detailed information on mana purification, see [`ManaPurity.md`](/codex/Magics/ManaPurity.md) 
+> **Note**: For detailed information on mana purification, see [`ManaPurity.md`](/codex/Magics/ManaPurity.md)
+>
+> **Remarque**: Pour des informations détaillées sur la purification du mana, voir [`ManaPurity.md`](/codex/Magics/ManaPurity.md)
+
+
+---
+_Note: This content was automatically translated by Google Gemini. Please refer to the original English version for accuracy._
